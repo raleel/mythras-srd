@@ -32,11 +32,11 @@ Combat Style represents a 'package' of multiple weapons related by their nature,
 
 The most important aspect of Combat Skill is that the character learns how to use each weapon in the skill, both singly and in combination so that they might be interchanged, as necessary. Combat training does not focus merely on using a specific weapon or weapons under best conditions, but also covers what to do when placed at a severe disadvantage. Such cross-training is a primary part of preparing a combatant for the unpredictable events of the battlefield, where weapon breakage or becoming disarmed is always a potential possibility.
 
-Thus, a Hyberborean barbarian may be expected to know how to use a spear, hand axe, javelin, and shield, whereas a Summerian warrior may be trained in shortsword, mace, shield, and bow instead. Deciding how many weapons should be included into a single style is ultimately a choice determined by the Games Master and the setting of the game.
+Thus, a Hyberborean barbarian may be expected to know how to use a spear, hand axe, javelin, and shield, whereas a Sumerian warrior may be trained in shortsword, mace, shield, and bow instead. Deciding how many weapons should be included into a single style is ultimately a choice determined by the Games Master and the setting of the game.
 
 Characters who attempt to use a weapon not covered by their style should suffer a skill penalty of one or more difficulty grades.
 
-Combat styles possess another function beyond simply learning a group of weapon skills. Since each style is taught by a particular culture or career, they are inherently optimised for the environment or military tactics that group normally fights with; for instanceinstance, a horse nomad learns to fight from the saddle, or an infantryman trains to fight in close order formation. Therefore, as an additional bonus, some Combat Styles may be assigned one or more traits which grants it an advantage under certain circumstances. Traits are only intended to be used with the weapons and situations of that particular style. Obviously, there are countless traits, many of which are specific to a particular period or campaign world.
+Combat styles possess another function beyond simply learning a group of weapon skills. Since each style is taught by a particular culture or career, they are inherently optimised for the environment or military tactics that group normally fights with; for instance, a horse nomad learns to fight from the saddle, or an infantryman trains to fight in close order formation. Therefore, as an additional bonus, some Combat Styles may be assigned one or more traits which grants it an advantage under certain circumstances. Traits are only intended to be used with the weapons and situations of that particular style. Obviously, there are countless traits, many of which are specific to a particular period or campaign world.
 
 **Combat Style Traits**
 
@@ -56,20 +56,20 @@ Combat styles possess another function beyond simply learning a group of weapon 
 
 ## Running Combat
 
-To emphasise its visceral nature, combat is tracked on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, manoeuvre into and out of combat, fire or throw a Ranged Weapon, and so on. Similar toLike real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds, unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
+To emphasise its visceral nature, combat is tracked on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, maneuver into and out of combat, fire or throw a Ranged Weapon, and so on. Similar toLike real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds, unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
 
 ## Firearms
 
 If using firearms in a _Mythras Imperative_ game, there are a few things to consider given the lethality of a firefight. First, it is near impossible to avoid laser beams or bullets which travel faster than human reflexes. Using the combat rules as presented, this means that unless one tries to dive clear of the area using Evade, any hit will immediately expose the victim to one or more Special Effects .Effects. It also changes the Action Point economy. If you can't use points to reactively defend yourself then most characters will end up using all their actions to blast away, gambling on the incompetence of their foes. To handle this paradigm shift, both Game Masters and Players may need to change the way they view – and approach – gun combat. Some things to note are:
 
 - Gun combat is dangerous!
-- On the whole people prioritise not being shot over shooting others
-- The most common method of protection is to take covercover.
-- Suppressing fire is the best way of preventing foes shooting backback.
-- Firearms are surprisingly inaccurate unless time is taken to brace and/or aimaim.
-- When you are shot, bad stuff happenshappens.
+- On the whole people prioritize not being shot over shooting others
+- The most common method of protection is to take cover.
+- Suppressing fire is the best way of preventing foes shooting back.
+- Firearms are surprisingly inaccurate unless time is taken to brace and/or aim.
+- When you are shot, bad stuff happens.
 
-Defending oneself against gunfire largely becomes a matter of body armor, using cover, and trying to prevent the opponent from being able to fire back. As a consequenceConsequently, most gun battles tend to become very tactical – lots of suppressing fire, flanking movementmovement, and flushing foes from deep cover – during which characters may pass entire combat rounds being pinned down and unable to respond until the opposition stops firing... which some players may find extremely tedious.
+Defending oneself against gunfire largely becomes a matter of body armor, using cover, and trying to prevent the opponent from being able to fire back. Consequently, most gun battles tend to become very tactical – lots of suppressing fire, flanking movement, and flushing foes from deep cover – during which characters may pass entire combat rounds being pinned down and unable to respond until the opposition stops firing... which some players may find extremely tedious.
 
 It is perfectly possible that an entire gunfight will result in no injuries; just one side giving up due to running out of ammunition or fleeing the battle entirely. After all, few people want to risk being riddled with a burst from a weapon on full automatic.
 
@@ -125,7 +125,7 @@ The character can attempt to cast a spell, invoke certain powers, and so on. Com
 
 #### Change Range
 
-The character can attempt to close in on or retreat from an opponent, as long as they are not engaged in hand to handhand-to-hand combat with the opponent, oropponent or being pinned-downpinned down by enemy fire in ranged combat situation.
+The character can attempt to close in on or retreat from an opponent, as long as they are not engaged in hand-to-hand combat with the opponent or being pinned down by enemy fire in ranged combat situation.
 
 #### Charge
 
@@ -133,7 +133,7 @@ The Charge Action allows a character to move into engagement range at running or
 
 #### Delay
 
-The character conserves one or more Actions in order toto perform Reactive Actions later, such as Interrupt or Parry. The Action Point costs of delaying is covered by whatever acts are finally performed. If the delayed Actions are not taken before the character's Turn in the next Round, then the character is considered to have Dithered (see below)), and the Action Points are lost.
+The character conserves one or more Actions to perform Reactive Actions later, such as Interrupt or Parry. The Action Point costs of delaying is covered by whatever acts are finally performed. If the delayed Actions are not taken before the character's Turn in the next Round, then the character is considered to have Dithered (see below)), and the Action Points are lost.
 
 #### Dither
 
@@ -151,9 +151,9 @@ The character can mount or dismount a riding beast or vehicle. Particularly larg
 
 Move: Provided one is not engaged with an opponent, the character can move any distance the Games Master deems suitable for the situation.
 
-#### Outmanoeuvre
+#### Outmaneuver
 
-The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on Outmanoeuvring on page XX.
+The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on Outmaneuvering on page XX.
 
 #### Ready Weapon
 
@@ -173,15 +173,15 @@ Sneak Peek allows somebody currently sheltering behind cover to take a quick loo
 
 #### Steady Weapon (Firearms)
 
-Allows the character to establish a firm firing posture and support an automatic weapon so that it remains stable. It requires that the character be at least partially exposed and not completely protected by cover. The primary benefit is that it reduces the recoil penalty of Burst or Full-Automatic fire by one step. This effect is similar tolike Brace in that its benefits continue until the character moves.
+Allows the character to establish a firm firing posture and support an automatic weapon so that it remains stable. It requires that the character be at least partially exposed and not completely protected by cover. The primary benefit is that it reduces the recoil penalty of Burst or Full-Automatic fire by one step. This effect like Brace in that its benefits continue until the character moves.
 
 #### Struggle
 
-If the character is the victim of certain types of attack or Special Effects, they may attempt to extract themself from the situation. For example, breaking free from an enemy's grip.
+If the character is the victim of certain types of attack or Special Effects, they may attempt to extract themselves from the situation. For example, breaking free from an enemy's grip.
 
 #### Switch Fire Mode (Firearms)
 
-Switch Fire allows the user of an automatic or dual-purpose firearm to change the selector on their weapon to take advantage of other fire modes. Thus, an assault rifle could be switched from semi-automatic to burst, choose different types of ammunition, or a supplementary system such as an integral grenade launcher brought on lineonline. Whilst modern weapons require an Action Point on the character's Turn to switch modes, sufficiently advanced high-tech firearms may permit it as a Free Action, triggered by electronic implants or psychically reading the user's mind.
+Switch Fire allows the user of an automatic or dual-purpose firearm to change the selector on their weapon to take advantage of other fire modes. Thus, an assault rifle could be switched from semi-automatic to burst, choose different types of ammunition, or a supplementary system such as an integral grenade launcher brought online. Whilst modern weapons require an Action Point on the character's Turn to switch modes, sufficiently advanced high-tech firearms may permit it as a Free Action, triggered by electronic implants or psychically reading the user's mind.
 
 #### Take Cover
 
@@ -205,7 +205,7 @@ Delaying characters only. This Reactive Action halts an opponent's Turn at any p
 
 #### Parry
 
-The character can attempt to defend against an incoming attack using a combination of parrying, leaning, ducking, and sidestepping footwork to minimise the blow.
+The character can attempt to defend against an incoming attack using a combination of parrying, leaning, ducking, and sidestepping footwork to minimize the blow.
 
 ### Free Actions
 
@@ -221,7 +221,7 @@ Dropping an item is a Free Action.
 
 #### Signal
 
-If unengaged, gesturing or signalling to one or more participants (if they can perceive the sign) is a Free Action.
+If unengaged, gesturing or signaling to one or more participants (if they can perceive the sign) is a Free Action.
 
 #### Speak
 
@@ -243,7 +243,7 @@ The following rules govern engagement in combat:
 
 - Movement is performed by either the Move or Charge Action.
 - The Move Action allows the character to move a distance equal to their Base Movement Rate.
-- Movement can only be performed by unengaged characters (save for special cases such as Outmanoeuvring).
+- Movement can only be performed by unengaged characters (save for special cases such as Outmaneuvering).
 - Except in certain cases (such as charging), all significant movement ceases once a character enters the engagement range of the intended opponent.
 - Unless charging through contact ,contact, moving into the opponent's engagement zone places each in engagement with the other.
 - Once Engaged, characters cannot move away from an opponent unless first Withdrawing from close combat.
@@ -279,7 +279,7 @@ Close combat is handled in the following step-by-step manner:
 
 1. On his turn the attacker spends an Action Point, rolls against his Combat Skill, and notes the result.
 2. If desired, the defender spends an Action Point to Parry, rolls against his Combat Skill, and notes the result.
-3. The success level of the results areis compared as per a Differential Roll .Roll.
+3. The success level of the results is compared as per a Differential Roll .Roll.
 4. Any difference grants the successful combatant with the superior roll one or more Special Effects.
 5. If the attacker achieved a Success or Critical, they may roll weapon damage and apply their Damage Modifier (if any). If applicable, a Hit Location is determined for the blow.
 6. If the defender achieved a Success or Critical, reduce any damage inflicted according to the comparative sizes of the weapons involved.
@@ -295,9 +295,9 @@ Every weapon in _Mythras Imperative_ possesses several different attributes from
 
 If a defender succeeds in parrying, then they can reduce an attacker's damage, if any, according to the comparative Size of the weapons used.
 
-- Parrying an attack with a weapon or shield of equal or greater Size deflects all damagedamage.
-- Parrying with a weapon or shield of one Size less only deflects half damagedamage.
-- Parrying with a weapon or shield two or more Sizes less fails to deflect any damagedamage.
+- Parrying an attack with a weapon or shield of equal or greater Size deflects all damage.
+- Parrying with a weapon or shield of one Size less only deflects half damage.
+- Parrying with a weapon or shield two or more Sizes less fails to deflect any damage.
 
 _For example, parrying a great axe (Huge) with a kite shield (also Huge) would block all damage; parrying it with a Longsword (Large) would halve the damage, and parrying it with a shortsword (Medium) would stop no damage at all._
 
@@ -323,15 +323,15 @@ If both combatants Fail their rolls, or the defender decides not to take advanta
 
 Fighting is far more than simply injuring or killing an opponent. Combative arts teach many methods of defeating a foe, perhaps rendering them helpless or forcing them into situations where they must capitulate, without necessarily needing to cause them harm. Special Effects represent these techniques and control how they occur in play.
 
-Whenever opponents engage in a Differential Roll of their respective fighting skills, any resulting difference in success levels indicates an opportunity for Special Effects to occur. This reflects one combatant manoeuvring his opponent into a disadvantageous situation which can be exploited using a cunning trick or tactic.
+Whenever opponents engage in a Differential Roll of their respective fighting skills, any resulting difference in success levels indicates an opportunity for Special Effects to occur. This reflects one combatant maneuvering his opponent into a disadvantageous situation which can be exploited using a cunning trick or tactic.
 
 The number of Special Effects received depends on the difference between the Levels of Success, as illustrated on the Differential Levels of Success table .table.
 
 If any Special Effects are won during an exchange, they must be selected before Damage and Hit Location, if any, are rolled. In cases where the recipient is badly wounded in addition to receiving a Special Effect, Endurance rolls are resolved after the application of the effect.
 
-Special Effects cover a diverse range of situations and techniques. Some are designed specifically for attacks, while others are intended for defence defense, and a few are adaptable for either circumstance. Certain Special Effects can also be limited to specific weapon types or specific dice rolls, requiring a Critical or Fumble result on their skill check for instance.
+Special Effects cover a diverse range of situations and techniques. Some are designed specifically for attacks, while others are intended for defense defense, and a few are adaptable for either circumstance. Certain Special Effects can also be limited to specific weapon types or specific dice rolls, requiring a Critical or Fumble result on their skill check for instance.
 
-When two or more Special Effects are gained, the combatant may freely mix and match which ones are selected, providing the prerequisite conditions for each one are met. Some effects can be stacked. For example, an attacker who rolls a Critical Success and wins two Special Effects could choose Maximise Damage twice rather than choosing two separate offensive manoeuvres.
+When two or more Special Effects are gained, the combatant may freely mix and match which ones are selected, providing the prerequisite conditions for each one are met. Some effects can be stacked. For example, an attacker who rolls a Critical Success and wins two Special Effects could choose Maximize Damage twice rather than choosing two separate offensive maneuvers.
 
 **Special Effects Table**
 
@@ -398,7 +398,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 **Enhance Parry** : On a Critical the defender manages to deflect the entire force of an attack, no matter the Size of his weapon.
 
-**Entangle** : Allows a character wielding an entangling weapon, such as a whip or net, to immobilise the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
+**Entangle** : Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
 
 **Force Failure** : Used when an opponent Fumbles, the character can combine Force Failure with any other Special Effect which requires an Opposed Roll to work. Force Failure causes the opponent to Fail his resistance roll by default – thereby automatically be disarmed, tripped, and so forth.
 
@@ -417,13 +417,13 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 | 41-50 | No Effect | No Effect | No Effect | Hard | Formidable |
 | Each +10 | Follow table progression |
 
-For firearms, the ammunition of most projectile-based firearms will be able to impale. Game Masters may wish to restrict or ban this effect for plasma or laser basedlaser-based energy weapons. Bullets, fléchettes and similar projectiles are clearly too small to impose any secondary impaling effects.
+For firearms, the ammunition of most projectile-based firearms will be able to impale. Game Masters may wish to restrict or ban this effect for plasma or laser-based energy weapons. Bullets, fléchettes and similar projectiles are clearly too small to impose any secondary impaling effects.
 
-**Marksman** : Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has an effect oninfluences what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
+**Marksman** : Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has influences what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
 
-**Maximise**** Damage**: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximise Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
+**Maximize**** Damage**: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximize Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
 
-**Over-penetration:** Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming thatif it overcomes the first target's body armor. The second victimvictim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armor piercing ability. Any special effects inflicted on the first target are not applied to the second.
+**Over-penetration:** Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming thatif it overcomes the first target's body armor. The second victim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armor piercing ability. Any special effects inflicted on the first target are not applied to the second.
 
 **Pin Down:** Firearms Only. Similar toLike Press Advantage, this special effect forces the target to make an Opposed Test of their Willpower against the attacker's hit roll. Failure means that the target hunkers down behind whatever cover is available and cannot return fire on their next Turn. Note that Pin Down works even if no actual damage is inflicted on the target (perhaps due to a successful evasion or shots striking their cover instead), as it relies on the intimidation effect of gunfire passing very close by.
 
@@ -435,7 +435,7 @@ Although a pinned victim is unable to fire back for the requisite time, they can
 
 **Scar**** Foe**: The combatant inflicts his opponent with a scar that will be the talk of all for the rest of his or her life – such as an almost-severed-throat, or the letter 'Z' artfully inscribed across the chest.
 
-**Select**** Target**: When an attacker Fumbles, the defender may manoeuvre or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
+**Select**** Target**: When an attacker Fumbles, the defender may maneuver or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
 
 **Slip**** Free**: On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
 
@@ -443,7 +443,7 @@ Although a pinned victim is unable to fire back for the requisite time, they can
 
 **Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armors or more exotic concepts like gravity wave guns.
 
-**Trip**** Opponent**: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm actually shootsshoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
+**Trip**** Opponent**: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm shoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
 
 **Weapon Malfunction:** Attacker Fumbles, Firearms Only. The attacker's firearm malfunctions in such a way that it is rendered useless until time can be spent field stripping and cleaning it.
 
@@ -477,7 +477,7 @@ Some modifiers are circumstance dependent, but rather than applying a Difficulty
 
 ### Engagement
 
-A character is considered Engaged if within melee weapon range of an opponent. This does not necessarily require that both combatants can reach each other; only that one of them can be potentially struck by the other. Once a character has Engaged with an opponent, they can no longer freely depart that fight (charging past is a special exception). It requires some form of deliberate act to break contact with the foe, normally performed via a Combat Action such as Outmanoeuvre, or use of the Withdraw Special Effect.
+A character is considered Engaged if within melee weapon range of an opponent. This does not necessarily require that both combatants can reach each other; only that one of them can be potentially struck by the other. Once a character has Engaged with an opponent, they can no longer freely depart that fight (charging past is a special exception). It requires some form of deliberate act to break contact with the foe, normally performed via a Combat Action such as Outmaneuver, or use of the Withdraw Special Effect.
 
 ### Charging
 
@@ -491,13 +491,13 @@ Rather than Parrying or Evading, the recipient of a charge can simultaneously co
 
 Opponents use cover to obstruct attacks against them, by either physically blocking a blow due to the toughness of the interposing material, or by obscuring where precisely the foe is. The precise value of cover depends on the thickness of its protection and the extent of its coverage.
 
-An attack against a target that lands on an obscured Hit Location will be blocked to the extent of the cover's inherent protection. Cover can be partially negated either by use of the Choose Location Special Effect to aim at visible parts of the target, ortarget or striking through the cover if the weapon is capable of penetratingcan penetrate it.
+An attack against a target that lands on an obscured Hit Location will be blocked to the extent of the cover's inherent protection. Cover can be partially negated either by use of the Choose Location Special Effect to aim at visible parts of the target or striking through the cover if the weapon can penetrate it.
 
 In situations where cover is total, but the attacker believes his attack will penetrate, they may strike blindly at the hidden target. In such cases, the attack roll is one grade harder, and Choose Location may not be taken if a Special Effect is won. This assumes the attacker knows fairly accurately the target's position behind the cover.
 
 ### Evading
 
-Evading in combat is to throw oneself clear of an overwhelming attack. This requires an Opposed Roll of the Evade skill of the defender versus the attacker's pertinent roll. This could be anything from the Drive skill of a ramming battle tank to the spell casting skill of a magician. If the attacker winswins, then they inflict damage as per normal. If the defender wins, damage is completely avoided.
+Evading in combat is to throw oneself clear of an overwhelming attack. This requires an Opposed Roll of the Evade skill of the defender versus the attacker's pertinent roll. This could be anything from the Drive skill of a ramming battle tank to the spell casting skill of a magician. If the attacker wins, then they inflict damage as per normal. If the defender wins, damage is completely avoided.
 
 If the winner of the Opposed Roll achieves one or more Levels of Success over his opponent, they may select suitable Special Effects as per normal combat. Whatever the result, the evasive gambit leaves the defender prone – usually requiring the character to regain his footing on his following turn – unless they can use the Arise Special Effect.
 
@@ -513,13 +513,13 @@ A leaping attack is resolved with an Opposed Roll of the leaper's Athletics skil
 
 No damage is inflicted as part of the leap; however, a subsequently prone victim cannot recover his footing until either his attacker leaves, or they eventually win a Special Effect permitting them to Arise. In addition, leaping attacks only work against opponents of up to twice the attacker's SIZ. A target can make themselves more difficult to knock down by proactive use of the Brace Combat Action, provided they are aware of the impending leap attack.
 
-### Outmanoeuvring
+### Outmaneuvering
 
-A character facing multiple opponents can use movement to limit the number which can attack him at any time, constantly shifting position, forcing foes to interfere with one another. Outmanoeuvring requires that the character has room to move about and is not pinned in a confining area.
+A character facing multiple opponents can use movement to limit the number which can attack him at any time, constantly shifting position, forcing foes to interfere with one another. Outmaneuvering requires that the character has room to move about and is not pinned in a confining area.
 
-Outmanoeuvring requires that the character engages his opponents in a group Opposed Roll of Evade skills. Every participant, both the manoeuvring character and those foes who wish to corner him, must spend an Action Point. Then they each roll once and those who fail to beat the manoeuvring character's roll cannot attack him for the remainder of that Combat Round, being blocked by their allies or terrain features.
+Outmaneuvering requires that the character engages his opponents in a group Opposed Roll of Evade skills. Every participant, both the maneuvering character and those foes who wish to corner him, must spend an Action Point. Then they each roll once and those who fail to beat the maneuvering character's roll cannot attack him for the remainder of that Combat Round, being blocked by their allies or terrain features.
 
-If the manoeuvring character beats all of his opponents, one has the choice of safely engaging a single foe for the rest of the Round or Withdrawing from the fight completely.
+If the maneuvering character beats all of his opponents, one has the choice of safely engaging a single foe for the rest of the Round or Withdrawing from the fight completely.
 
 ### Passive Blocking
 
@@ -534,7 +534,7 @@ Surprise occurs when an unexpected attack is launched against opponents unaware 
 The effects of surprise on a target are potent:
 
 - The target suffers a –10 penalty to InitiativeInitiative.
-- Until their Initiative arrives, they are considered flat-footed and cannot defend themselvesthemselves.
+- Until their Initiative arrives, they are considered flat-footed and cannot defend themselves.
 - The first attack on the target, if successful, gains a bonus Special Effect
 - For the remainder of the Round, they may not perform any offensive ActionAction.
 
@@ -556,7 +556,7 @@ The Ranged Weapon equivalent of Size. It is an abstract measure of the penetrati
 
 #### Damage Modifier
 
-This Attribute shows whether or notwhether the Damage Modifier of the attacker can be used to boost the Ranged Weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
+This Attribute shows whether the Damage Modifier of the attacker can be used to boost the Ranged Weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
 
 #### Range
 
@@ -604,7 +604,7 @@ By spending additional time aiming a Ranged Weapon, a character can potentially 
 
 ### Automatic Fire
 
-Some firearms automatically chamber the next shot, by using the waste gases, recoilrecoil, or energy from the previous shot. With no need to re-cock, this grants the weapon a range of different firing rates, all dependent on how much ammo the user wishes to release.
+Some firearms automatically chamber the next shot, by using the waste gases, recoil, or energy from the previous shot. With no need to re-cock, this grants the weapon a range of different firing rates, all dependent on how much ammo the user wishes to release.
 
 These firing modes are known as Semi-Automatic, Burst and Full-Automatic. Whilst this ability can make some guns capable of dealing out fearsome damage, trying to maintain accuracy with recoiling weapons is problematic. Assume that the following rules primarily apply to projectile firing automatic weapons.
 
@@ -614,17 +614,17 @@ This is actually thethe default rate of fire for most guns, where each pull of t
 
 #### Burst
 
-For burst fire each pull on the trigger releases a short number of rounds, usually no more than three to five depending on the weapon. Its original purpose was to permit limited suppression fire, butfire but restrict excessive ammunition use. It is not intended to improve the shooter's chance to hit since rapid, sequential recoil continually jerks the weapon off-line. Firing in burst mode imposes a penalty grade of Hard to the attack roll. If the attack succeeds however, the shooter rolls a dice to see how many of the rounds in that burst struck home on the target. SoSo, a three round burst would use 1d3. Roll separate location and damage for each round which hits.
+For burst fire each pull on the trigger releases a short number of rounds, usually no more than three to five depending on the weapon. Its original purpose was to permit limited suppression fire but restrict excessive ammunition use. It is not intended to improve the shooter's chance to hit since rapid, sequential recoil continually jerks the weapon off-line. Firing in burst mode imposes a penalty grade of Hard to the attack roll. If the attack succeeds however, the shooter rolls a dice to see how many of the rounds in that burst struck home on the target. SoSo, a three round burst would use 1d3. Roll separate location and damage for each round which hits.
 
 #### Full-Automatic
 
 Normally used for full blown suppressing fire to pin down multiple targets, full-automatic can be devastating if fired into a closely grouped body of enemies. The shooter decides how many rounds of ammo to fire (up to the limit of the cyclic rate of the weapon) which are then evenly distributed across all the targets included in the arc of fire. Any spare rounds are considered lost whilst traversing aim (thus firing 15 rounds at 6 targets would be two bullets each). A separate attack roll is made for each target, but at a difficulty grade of Formidable due to the increased recoil effects of sustained fire. Those targets who are hit suffer a random number of rounds as per Burst Fire.
 
-Note that only the first shot which strikes during a burst or full automatic spray can benefit from special effects. Thus, rolling a critical attack whilst firing in automatic mode would permit the selection of Maximise Damage, but only with the first shot, even if all the remaining rounds hit home.
+Note that only the first shot which strikes during a burst or full automatic spray can benefit from special effects. Thus, rolling a critical attack whilst firing in automatic mode would permit the selection of Maximize Damage, but only with the first shot, even if all the remaining rounds hit home.
 
 **Why is Automatic Fire So Heavily PenalisedPenalized?**
 
-It might appear that the rules for automatic fire are unduly harsh compared with the apparent accuracy of modern firearms. There are several reasons for this, the primary ones being streamlining and game balance. Players who criticisecriticize their character's inaccuracy should be reminded that any tweaks to the rules will be applied against them too;too, which given the lethality of rapid fire should be a sobering thought.
+It might appear that the rules for automatic fire are unduly harsh compared with the apparent accuracy of modern firearms. There are several reasons for this, the primary ones being streamlining and game balance. Players who criticize their character's inaccuracy should be reminded that any tweaks to the rules will be applied against them too;too, which given the lethality of rapid fire should be a sobering thought.
 
 Of course, some of these recoil penalties can be mitigated, for example by using Steady Weapon to brace automatic firearms. The truth of the matter is though, that firefights are very different to target shooting on a gun range. The instinct to take cover when bullets are flying, the need to keep mobile and every shot taken pinpointing the shooter by its muzzle flash or sound, often prevents any chance of aiming or bracing. The phrase 'Spray and Pray' was coined for very good reason!
 
@@ -646,13 +646,13 @@ Since gunfire is not normally resisted by an opposing skill, a special provision
 
 ### Parrying Weapon Fire with Shields
 
-As expressed earlier, it is almost impossible to deliberately parry a supersonic projectile or energy beam. Shields however still provide a degree of protection since in effect they are portable 'cover'..' To utilise a shield in a fire-fightfirefight, just use the Passive Blocking rules on page XX.
+As expressed earlier, it is almost impossible to deliberately parry a supersonic projectile or energy beam. Shields however still provide a degree of protection since in effect they are portable 'cover'..' To utilize a shield in a firefight, just use the Passive Blocking rules on page XX.
 
 With regard toRegarding more modern firearms or those of a science fiction nature, a Game Master may wish to grant the shield an Armor Point value rather than assigning it a Size, based upon the inherent material it is made from. For exampleexample, a wooden shield might be treated as 4 Armor Points, a Kevlar tactical shield 8 AP, and a Ulysses 31 bracelet force field shield 15 AP.
 
 ### Telescopic Sights
 
-A telescopic sight improves the accuracy of a firearm over greater distances when the user takes the time to aim properly (see Aiming). The most basic telescopic sights are merely optical magnifiers, but as technology advancesadvances, they begin to incorporate integral rangefinders, projectile trajectory calculators, air movement sensors, atmospheric lensing compensators, IR or low light amplifiers and a host of other gadgets which improve its effective 'hit' distance.
+A telescopic sight improves the accuracy of a firearm over greater distances when the user takes the time to aim properly (see Aiming). The most basic telescopic sights are merely optical magnifiers, but as technology advances, they begin to incorporate integral rangefinders, projectile trajectory calculators, air movement sensors, atmospheric lensing compensators, IR or low light amplifiers and a host of other gadgets which improve its effective 'hit' distance.
 
 Telescopic Sights make skill rolls easier by one or more Grades (see page 18), depending on the sophistication of the sight. No sight can make a skill roll an Automatic success, so the best Grade that can be attained is Very Easy.
 

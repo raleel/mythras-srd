@@ -54,7 +54,7 @@ POW is a measurement of a character's soul, spirit, inner drive, or capacity for
 
 ### Charisma (CHA)
 
-Charisma is a measure of presence and personality, andpersonality and is independent of physical appearance. CHA affects a character's Experience Modifier .Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+Charisma is a measure of presence and personality and is independent of physical appearance. CHA affects a character's Experience Modifier .Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ## Calculating Characteristics
 
@@ -162,9 +162,9 @@ Initiative is the average of the DEX and INT Characteristics.
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
-- • Re-roll the dice, ifdice if they are unfavourableunfavorable.
-- • Mitigate physical damage or other unfortunate circumstancescircumstances.
-- • Gain an edge at a vital moment in combatcombat.
+- • Re-roll the dice if they are unfavorable.
+- • Mitigate physical damage or other unfortunate circumstances.
+- • Gain an edge at a vital moment in combat.
 
 Exactly how they are used, and when, is described in the Game System section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
@@ -189,7 +189,7 @@ Every creature has a Movement Rate – a number of metres that can be travelled 
 
 ## Step 4: Skills
 
-Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft orspacecraft or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
+Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
 _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the Combat section, andsection and have a Basic Percentage equal to STR+DEX.
 
@@ -224,25 +224,25 @@ _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat St
 
 ## Step 5: Culture
 
-Culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies he or she might have. More practically, culture helps augment the values of the various skills that shape your character's overall capabilities. There are four basic human cultures: Barbarian, Civilised, Nomadic and Primitive. Each cultural background lists a range of Standard skills appropriate to it and invites the player to pick up to three of the presented Professional skills: in this way players from the same cultural background can ensure that their adventurers are different in the areas they have developed. Distribute 100 Culture skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. Games Masters may wish to apply a cap to how many skill points can be applied to any particular skill.
+Culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies he or she might have. More practically, culture helps augment the values of the various skills that shape your character's overall capabilities. There are four basic human cultures: Barbarian, Civilized, Nomadic and Primitive. Each cultural background lists a range of Standard skills appropriate to it and invites the player to pick up to three of the presented Professional skills: in this way players from the same cultural background can ensure that their adventurers are different in the areas they have developed. Distribute 100 Culture skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. Games Masters may wish to apply a cap to how many skill points can be applied to any particular skill.
 
 ## Barbarian
 
-Tribal in nature, barbarians tend to shun civilisation, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds, orwilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
+Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds, orwilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
 
 #### Skills
 
-_**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
 
-## Civilised
+## Civilized
 
-The Civilised culture is epitomised by a semblance of law and order, underpinned by complex social codescodes, and supported by a bureaucracy. Civilised people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tomestomes, and scrolls. Of course, this is a thin veneer. The most Civilised of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilised culture prides itself on its achievements, its infrastructure, its professional artisansartisans, and its ability to easily extend its reach to wherever it wishes to go.
+The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tombstones, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
 
 #### Skills
 
-_**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
 
@@ -252,7 +252,7 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 
 #### Skills
 
-_**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
 
@@ -264,7 +264,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 #### Skills
 
-_**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
 
@@ -285,7 +285,7 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 | Crafter Artificer, Artisan… | Brawn, Drive, Influence, Insight, Locale, Perception, Willpower | Art (any), Commerce, Craft (Primary), Craft (Secondary), Engineering, Mechanisms, Streetwise |
 | Detective Gumshoe, Policeman, Private Eye, Private Investigator, Sleuth... | Customs, Evade, Influence, Insight, Perception, Stealth; Combat Style (Unarmed or Side Arms style) | Bureaucracy, Culture (any), Disguise, Linguistics, Lore (any), Research, Sleight, Streetwise |
 | Entertainer Acrobat, Bard, Dancer, Player, Poet… | Athletics, Brawn, Dance, Deceit, Influence, Insight, Sing | Acrobatics, Acting, Oratory, Musicianship, Seduction, Sleight, Streetwise |
-| Farmer Estate Owner, Gardener, Ploughman… | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft (any), Lore (Agriculture), Lore (Animal Husbandry), Navigation, Survival, Track |
+| Farmer Estate Owner, Gardener, Plowman… | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft (any), Lore (Agriculture), Lore (Animal Husbandry), Navigation, Survival, Track |
 | Fisher Beach Comber, Net Tender, Pearl Diver, Whaler… | Athletics, Boating, Endurance, Locale, Perception, Stealth, Swim | Commerce, Craft (Any), Lore (Primary Catch), Lore (Secondary Catch), Navigation, Seamanship, Survival |
 | Gambler Bookie, Cardsharp, Hustler... | Athletics, Brawn, Endurance, Locale, Perception, Willpower; and either Drive or Ride | Acting, Bureaucracy, Commerce, Courtesy, Gambling, Research, Sleight, Streetwise |
 | Herder Breeder, Herdsman, Sacred Goose Tender, Wrangler… | Endurance, First Aid, Insight, Locale, Perception, Ride; Combat Style (Specific Herding or Cultural Style) | Commerce, Craft (Animal Husbandry), Healing (Specific Species), Navigation, Musicianship, Survival, Track |
@@ -296,11 +296,11 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 | Merchant Broker, Hawker, Money Lender, Smuggler, Trader… | Boating, Drive, Deceit, Insight, Influence, Locale, Ride | Commerce, Courtesy, Culture (any), Language (any), Navigation, Seamanship, Streetwise |
 | Miner Prospector, Quarryman, Sapper, Well Digger… | Athletics, Brawn, Endurance, Locale, Perception, Sing, Willpower | Commerce, Craft (Mining), Engineering, Lore (Minerals), Mechanisms, Navigation (Underground), Survival |
 | Official Minister, Overseer, Steward, Tax Collector… | Customs, Deceit, Influence, Insight, Locale, Perception, Willpower | Bureaucracy, Commerce, Courtesy, Language (any), Literacy, Lore (any), Oratory |
-| Physician Doctor, Healer, Medicine Man, Torturer, Vivisectionist… | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft (Specific Physiological Speciality), Healing, Language (any), Literacy (any), Lore (any), Streetwise |
+| Physician Doctor, Healer, Medicine Man, Torturer, Vivisectionist… | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft (Specific Physiological Specialty), Healing, Language (any), Literacy (any), Lore (any), Streetwise |
 | Pilot Aeronaut, Astronaut, Barnstormer, Flyboy, Test Pilot... | Brawn, Drive, Endurance, Evade, Locale, Perception, Willpower | Customs (any), Electronics, Mechanisms, Navigation, Pilot, Sensors, Streetwise |
 | Politician Civil Servant, Mandarin, Minister, Overseer, Steward… | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Courtesy, Culture (any), Language (any), Lore (any), Oratory, Politics |
 | Priest Arbiter, Cultist, Druid, Mendicant, Prophet… | Customs, Dance, Deceit, Influence, Insight, Locale, Willpower | Bureaucracy, Courtesy, Customs, Literacy (any), Lore (any), Oratory, Politics |
-| Sailor Captain, Galley Slave, Marine, Pirate, Raft man… | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style (Specific Sailor or Cultural Style) | Craft (Specific Shipboard Speciality), Culture (any), Language (any), Lore (any), Navigation, Seamanship, Survival |
+| Sailor Captain, Galley Slave, Marine, Pirate, Raft man… | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style (Specific Sailor or Cultural Style) | Craft (Specific Shipboard Specialty), Culture (any), Language (any), Lore (any), Navigation, Seamanship, Survival |
 | Scholar Annalist, Librarian, Philosopher, Skald, Scribe… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Language (any), Literacy (any), Lore (Primary), Lore (Secondary), Oratory, Teach |
 | Scientist Archivist, Librarian, Philosopher… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Engineering, Language (any), Oratory, Research, Science (any), Teach |
 | Scout Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer… | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style (Specific Hunting or Cultural Style) | Culture (any), Healing, Language (any), Lore (any), Navigation, Survival, Track |
@@ -312,7 +312,7 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 
 ## Step 7: Bonus Skill Points
 
-As a final step, a last pool of 150 skill points areis assigned to round out the character. These may be applied to any Standard skillskill, or those Professional skills gained as part of Culture or Career. Once againagain, a Games Master may apply a cap to how many skill points can be applied to any particular skill.
+As a final step, a last pool of 150 skill points is assigned to round out the character. These may be applied to any Standard skill, or those Professional skills gained as part of Culture or Career. Once again, a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
 ### Creating Experienced Characters
 
@@ -364,7 +364,7 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 - No skill can have more than one allocation from the pyramid.
 - Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramidpyramid.
 - Passions which gain the values noted in the Passions section, and in addition to any allocations made from the pyramid.
-- No skill can exceed 80% from the result of an allocation.Soallocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50 point50-point value to a Combat Style.
+- No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50 point50-point value to a Combat Style.
 - Six of the values must be allocated to Professional Skills.
 - Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
 - It is recommended that at least one of the values be allocated to a Combat Style, but this isn't mandatory.
@@ -444,11 +444,11 @@ Heroic characters gain an additional 100 Bonus Skill Points to allocate as neede
 
 Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
-A Passion can be for anything – a person, an organisation, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Foreswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment or Uphold.
+A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Foreswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment or Uphold.
 
 Passions are measured in the same way as skills; they are rated between 1 and 100 (or higher). A Passion can be improved in the same way as a skill, or it can be increased or decreased by the referee depending on circumstances.
 
-Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, professionprofession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens)), and Uphold (the Law) instead.
+Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, profession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens)), and Uphold (the Law) instead.
 
 **Passion Table**
 

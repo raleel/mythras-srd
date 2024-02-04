@@ -18,9 +18,9 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 
 **Systems** : Representing vital components of the vehicle, including the power plant, crew section, and so on.
 
-**Traits** : A vehicle may also have 1 or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
+**Traits** : A vehicle may also have 1 or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras_ _Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
 
-**Shields** : In settings with advanced energy manipulation technology, shields may be present that protect the vehiclevehicle, but which may ablate under sustained fire.
+**Shields** : In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
 
 **Vehicle Size Table**
 
@@ -35,9 +35,9 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 
 ## Hull and Structure
 
-The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarised on the Vehicle Size table below.
+The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
 
-Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyeddestroyed, or so badly wrecked it must be scrapped.
+Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly ddestroyed, or so badly wrecked it must be scrapped.
 
 **Terrestrial Hulls**
 
@@ -64,7 +64,7 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 
 Since the physics of velocity, acceleration, drag and inertia (to name but a few) are complex issues, some simplification is needed and so vehicles are given an abstract speed rating. The Speed characteristic should only be used to roughly judge if one vehicle can overtake or catch up with another.
 
-The speed rating represents a vehicle's nominal operational rate. In emergency situations this performance can be increased by one step, at risk of wear or damage to the engines. Although the same table is used for all vehicle types, common sense should be applied so that only vehicles of the same class are compared. For exampleexample, if a Starship and a sports car both have the same acceleration rate of Rapid, then it should be obvious the spaceship is comparatively faster.
+The speed rating represents a vehicle's nominal operational rate. In emergency situations this performance can be increased by one step, at risk of wear or damage to the engines. Although the same table is used for all vehicle types, common sense should be applied so that only vehicles of the same class are compared. For example, if a Starship and a sports car both have the same acceleration rate of Rapid, then it should be obvious the spaceship is comparatively faster.
 
 Increasing a vehicle's Speed beyond its standard value is possible on a successful Drive roll. UsuallyUsually, this extra speed is only sustainable for a short period – no more than 1d6 minutes before the vehicle must drop to its standard speed or risk damage to its powerplant. A critical Drive roll allows the period of higher speed to be increased to 1d12 minutes.
 
@@ -96,9 +96,9 @@ Systems that are damaged, but not yet destroyed, suffer a loss in functionality.
 
 The maximum number of traits a vehicle can have depends on hull size and type.
 
-Every vehicle has an inherent trait: the travel mode for which it was primarily designed. ThereforeTherefore, aircraft inherently hold the Airborne trait, boats the Seaborne trait, and so on., This inherent trait does not count towards the available number of traits. However, if a vehicle wishes to include a second travel mode — a flying submarine for instance, then the Airborne trait would need to be taken as part of its available traits.
+Every vehicle has an inherent trait: the travel mode for which it was primarily designed. Therefore, aircraft inherently hold the Airborne trait, boats the Seaborne trait, and so on., This inherent trait does not count towards the available number of traits. However, if a vehicle wishes to include a second travel mode — a flying submarine for instance, then the Airborne trait would need to be taken as part of its available traits.
 
-Some traits may not be available, depending on the technology level of the setting; Games Masters must make their own judgement calls as to what traits can be applied.
+Some traits may not be available, depending on the technology level of the setting; Games Masters must make their own judgment calls as to what traits can be applied.
 
 **Vehicle Trait Allocation Table**
 
@@ -117,7 +117,7 @@ The vehicle is capable of atmospheric flight.
 
 #### All Terrain
 
-This Trait must be used with Ground vehicles. The vehicle is capable of traversingcan traverse inhospitable, difficultdifficult, and steep terrain, using either tracks, advanced suspension and drive systems, or powerful drive differentials.
+This Trait must be used with Ground vehicles. The vehicle can traverse inhospitable, difficult, and steep terrain, using either tracks, advanced suspension and drive systems, or powerful drive differentials.
 
 #### Burrowing
 
@@ -133,7 +133,7 @@ The vehicle is designed specifically to haul cargo rather than passengers. Passe
 
 #### Carrier
 
-The vehicle is designed specifically to carry smaller, lightly crewedcrewed, or possibly remotely controlled vehicles of either a civilian or military nature. Any vehicle possessing this trait must be at least Enormous. The number of small craft carried may vary by mission type and purpose, butpurpose but can be as few as 10 to as many as the vehicle's Structure rating.
+The vehicle is designed specifically to carry smaller, lightly crewed, or possibly remotely controlled vehicles of either a civilian or military nature. Any vehicle possessing this trait must be at least Enormous. The number of small craft carried may vary by mission type and purpose but can be as few as 10 to as many as the vehicle's Structure rating.
 
 #### Construction
 
@@ -231,25 +231,25 @@ Spacecraft Only. The ship is fitted with a tractor beam that can ensnare and dra
 
 #### VTOL
 
-Vertical takeoff/landing. This trait is inherent for helicopters and similar vehicles that use a combination of rotors to produce lift. When applied to fixed-wing aircraft it indicates the use of fixed or align-able thrusters to control airborne attitude, ascentascent, and descent.
+Vertical takeoff/landing. This trait is inherent for helicopters and similar vehicles that use a combination of rotors to produce lift. When applied to fixed-wing aircraft it indicates the use of fixed or align-able thrusters to control airborne attitude, ascent, and descent.
 
 #### Walker
 
 The vehicle propels itself using articulated legs. Walker vehicles are capped at the Speed of Gentle, whatever their Size. However, Walkers can be built to heights that would simply be unstable for vehicles equipped with other means of locomotion.
 
-#### Weaponised
+#### Weaponized
 
 The vehicle has been adapted to accommodate weaponry. Weapon systems are discussed on page XX.
 
-## Handling and Manoeuvres
+## Handling and Maneuvers
 
-Evasive or sudden manoeuvres require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular manoeuvre requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control chart.
+Evasive or sudden maneuvers require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular maneuver requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control chart.
 
 Note that the Loss of Control Table only applies to terrestrial vehicles. Similar effects can be applied to airborne and space vehicles, but Games Masters will need to adjust the reasoning for the specific effect. For example, an aircraft, rather than skidding, might go into a spin.
 
-Also, a vehicle's inherent handling may have an additional impact on the Drive roll. Handling is either Easy, Standard, Hard, Formidable or Herculean and determines the starting point for the Drive roll when executing a manoeuvre. The difficulty grade for the manoeuvre is then applied to the handling to determine the final difficulty.
+Also, a vehicle's inherent handling may have an additional impact on the Drive roll. Handling is either Easy, Standard, Hard, Formidable or Herculean and determines the starting point for the Drive roll when executing a maneuver. The difficulty grade for the maneuver is then applied to the handling to determine the final difficulty.
 
-For example, a high performancehigh-performance motorcycle has in-built gyro-stabilisersgyrostabilisers giving it a Handling of Easy. The driver wants to perform a 180 degree180-degree skid-turn to evade a pursuer, a manoeuvre the Games Master rates as being one additional grade of difficulty. The rider must therefore make his Drive roll at Standard rather than Easy. If he had been attempting the same manoeuvre on a non-stabilised motorcycle, the Drive roll would be at Hard.
+For example, a high-performance motorcycle has in-built gyrostabilizers giving it a Handling of Easy. The driver wants to perform a 180 degree180-degree skid-turn to evade a pursuer, a maneuver the Games Master rates as being one additional grade of difficulty. The rider must therefore make his Drive roll at Standard rather than Easy. If he had been attempting the same maneuver on a non-stabilized motorcycle, the Drive roll would be at Hard.
 
 Superior Handling is a Trait. If a vehicle does not have the trait as part of its description, then the default is Standard handling for any vehicle of size Large and below. Huge and Enormous vehicles inherently have the Handling trait of Formidable and Herculean, respectively, and the Games Master is at liberty to rule that certain manoeuvres are simply impossible to achieve due to the vehicle's size.
 
@@ -277,9 +277,9 @@ Once the strength of a deflector shield has dropped to zero, it collapses. Any r
 
 ## Weapons
 
-Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponised' Trait can be taken for civilian vehicles that may have weapon requirements.
+Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponized' Trait can be taken for civilian vehicles that may have weapon requirements.
 
-The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponised civilian vehicle).
+The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponized civilian vehicle).
 
 Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables on page XX.
 
@@ -343,9 +343,9 @@ The systems at risk are listed in the Component Damage table below.
 | Artillery Battery | 5d6+6 | Max range of 50km | 1 | 1/5 |
 | Spinal Mount Battery | 10d6+6 | Max range of 20,000km | 1 | 1/10 |
 
-_Ranges are given in metres and kilometreskilometres._
+_Ranges are given in metres and kilometres._
 
-_Firing rates are for single shot, semi-autoauto, and full autoauto._
+_Firing rates are for single shot, semi-auto, and full auto._
 
 _Ammo is firing capability before needing to be reloaded. Load is the reload time in Combat Rounds, assuming a full crew is available._
 
@@ -361,11 +361,11 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 Systems: 3
 
-**Traits** : Ejector Seat, Enhanced Performance, Superior Handling, Surveillance Suite, Tough, Weaponised
+**Traits** : Ejector Seat, Enhanced Performance, Superior Handling, Surveillance Suite, Tough, Weaponized
 
 **Weapons** : Oil slick dispenser, smoke dispenser, twin linked medium machine guns
 
-**Description** : A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone sayssays, "spy car."
+**Description** : A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
 ### Pursuit Motorcycle
 
@@ -375,7 +375,7 @@ Systems: 3
 
 Systems: 3
 
-**Traits** : Superior Handling, Weaponised
+**Traits** : Superior Handling, Weaponized
 
 **Weapons** : Two Rockets or twin linked Light Machine Guns
 
@@ -403,7 +403,7 @@ Weapons: None
 
 Systems: 3
 
-**Traits** : Enhanced Performance, Submersible, Watercraft, Weaponised
+**Traits** : Enhanced Performance, Submersible, Watercraft, Weaponized
 
 **Weapons** : Rocket, Torpedo
 
@@ -431,7 +431,7 @@ Weapons: None
 
 Systems: 3
 
-**Traits** : All Terrain, Weaponised
+**Traits** : All Terrain, Weaponized
 
 **Weapons** : Mounted Medium Machine Gun
 
@@ -447,7 +447,7 @@ Systems: 3
 
 Systems: 3
 
-**Traits** : Enhanced Performance, Waterborne, Weaponised
+**Traits** : Enhanced Performance, Waterborne, Weaponized
 
 **Weapons** : Mine Dispenser
 
@@ -547,4 +547,4 @@ Shields: 30
 
 **Weapons** : None that it cares to discuss
 
-**Description** : This extremely high-tech starship is the physical representation of a highly advanced artificial mind, that takes the form of a two kilometre longtwo-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, butcrew but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
+**Description** : This extremely high-tech starship is the physical representation of a highly advanced artificial mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, butcrew but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.

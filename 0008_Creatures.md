@@ -1,6 +1,6 @@
 # Creatures
 
-This section contains a small sample of creatures and various Creature Abilities. The list of sample creatures is not exhaustive, butexhaustive but provides a good template for developing one's own creatures, orcreatures or adapting them from other sources. All the creatures follow the _Mythras Imperative_ rules outlined and explored in this document; however, in order toto reflect the challenge some creatures (the dragon being a prime example) should pose, the rules have been slightly adjusted to allow for the creature's relative power level.
+This section contains a small sample of creatures and various Creature Abilities. The list of sample creatures is not exhaustive but provides a good template for developing one's own creatures or adapting them from other sources. All the creatures follow the _Mythras Imperative_ rules outlined and explored in this document; however, to reflect the challenge some creatures (the dragon being a prime example) should pose, the rules have been slightly adjusted to allow for the creature's relative power level.
 
 ## Sample Creatures
 
@@ -93,6 +93,7 @@ Tail (Size: H, Damage 1d8+2d6 – can make Sweep attack)
 | _19-20_ | Head | 5/13 |
 
 ### Dragon
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11817/)
 
 SIZ: 50, Action Points: 4, Damage Modifier: +2d8, Magic Points: 19, Initiative Bonus: +19, Move: 12m/18m FlyingFlying.
 
@@ -271,6 +272,7 @@ Shield (Size: L, Damage 1d4)
 | _19-20_ | Head | 0/5 |
 
 ### Xenomorphic Alien
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11816/)
 
 SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +18, Move: 8m8m.
 
@@ -303,7 +305,7 @@ Whenever the xenomorph is injured, its acidic blood sprays out over an attacker 
 
 ## Creature Abilities
 
-A Creature Ability is something it can do naturally as a result ofbecause of its physiology, biology, innate magic, and so forth. Birds, for example, can flap through the air, and so Flying is an ability.
+A Creature Ability is something it can do naturally because of its physiology, biology, innate magic, and so forth. Birds, for example, can flap through the air, and so Flying is an ability.
 
 Each of the following Abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided earlier, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a general rule of thumbGenerally, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Grappler and Vampiric. However, in exceptional cases, more Abilities are allowed to reflect the awesome nature of the creature being described.
 
@@ -317,21 +319,21 @@ The creature breathes water rather than air, generally possessing gills or a ski
 
 #### Blood Sense
 
-Allows the creature to detect blood over great distances, either carried by wind or water. Traces of blood can be sensed at a distance of upup to 1d6+6 kilometres.
+Allows the creature to detect blood over great distances, either carried by wind or water. Traces of blood can be sensed up to 1d6+6 kilometres.
 
 #### Breathe Flame
 
 The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON in metres. At the furthest extent, the width of the cone is one quarter of the creature's CON. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. Armor Points count as normal unless otherwise noted.
 
-A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder, orharder or suffer a level of Fatigue.
+A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder or suffer a level of Fatigue.
 
 #### Burrower
 
-The creature is adept at tunnelling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
+The creature is adept at tunneling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
 
 #### Camouflaged
 
-The creature is adept at hiding due to its colouration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Perception of two difficulty grades.
+The creature is adept at hiding due to its coloration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Perception of two difficulty grades.
 
 #### Characteristic Drain
 
@@ -371,15 +373,15 @@ The creature has an orifice which can swallow targets whole. The maximum size of
 
 #### Flying
 
-The creature automatically succeeds in everyday moving and manoeuvring whilst flying, andflying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or out-manoeuvringoutmanoeuvring an aerial foe. A flyer may substitute the Fly skill (base STR+DEX) for Evade whilst fighting whilst aloft.
+The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flier may substitute the Fly skill (base STR+DEX) for Evade whilst fighting whilst aloft.
 
 #### Formidable Natural Weapons
 
-This creature is able tocan actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which are able tocan shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
+This creature can actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which can shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
 
 #### Frenzy
 
-When wounded or exposed to a particular substance – blood for instance – the creature must succeed in a Willpower roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this timetime, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
+When wounded or exposed to a particular substance – blood for instance – the creature must succeed in a Willpower roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this time, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
 
 #### Gaze Attack
 
@@ -419,7 +421,7 @@ The creature gains an additional Combat Action per extra head possessed beyond t
 
 #### Multi-Limbed
 
-Similar to Multi-headedmulti-headed, the creature gains an additional Combat Action per extra pair of limbs (beyond the first) it can bring to bear during combat – those normally used to hold up or move the creature do not count. These extra Combat Actions can only be used to perform actions with those specific limbs, andlimbs and are lost as each pair are immobilised or incapacitated.
+Similar to Multi-headed, the creature gains an additional Combat Action per extra pair of limbs (beyond the first) it can bring to bear during combat – those normally used to hold up or move the creature do not count. These extra Combat Actions can only be used to perform actions with those specific limbs and are lost as each pair are immobilized or incapacitated.
 
 #### Night Sight
 
@@ -431,11 +433,11 @@ The creature is immune to all poisons. All creatures without SIZ automatically h
 
 #### Regeneration
 
-The creature is able tocan regenerate Hit Points lost to damage. The speed of regeneration varies depending upon the creature. Unless specifically noted, regeneration does not replace lost limbs, and the severing of a vital location (head, chestchest, or abdomen) will still result in deathdeath.
+The creature can regenerate Hit Points lost to damage. The speed of regeneration varies depending upon the creature. Unless specifically noted, regeneration does not replace lost limbs, and the severing of a vital location (head, chest, or abdomen) will still result in death.
 
 #### Swimmer
 
-The creature automatically succeeds in everyday moving and manoeuvring whilst swimming and need not roll their Swim skill unless attempting an unusually difficult task, such as swimming against a powerful tide or leaping up a waterfall. A swimmer may substitute the Swim skill for Athletics and Evade rolls whilst in water.
+The creature automatically succeeds in everyday moving and maneuvering whilst swimming and need not roll their Swim skill unless attempting an unusually difficult task, such as swimming against a powerful tide or leaping up a waterfall. A swimmer may substitute the Swim skill for Athletics and Evade rolls whilst in water.
 
 #### Terrifying
 
@@ -455,7 +457,7 @@ The creature drains its victim's blood, causing an increase in Fatigue levels. T
 
 #### Venomous
 
-The creature has a venomous bite, stingsting, or other means of attack.
+The creature has a venomous bite, sting, or other means of attack.
 
 #### Wing Buffet
 

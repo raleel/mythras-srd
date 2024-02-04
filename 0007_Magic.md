@@ -77,7 +77,7 @@ Magic Traits are as follows:
 -   **Instant**: The spell's effects happen immediately. It has no duration.
 -   **Ranged**: Spells with the Ranged trait can be cast at a distance of up to the character's Magic score in metres. The caster must know the location of the target, such as 'hiding behind the door': if they are unable to directly see or sense the target of the spell, then the Magic roll becomes one grade harder.
 -   **Resist (Endurance, Evade, Willpower)**: Any spell that is not readily accepted by a target can be actively resisted using either Endurance, Evade or Willpower, as determined by this trait. To successfully resist a spell, the target must win an Opposed Roll of the relevant skill against the caster's Magic casting result. If the target fails in the roll, then the spell takes effect as normal. Note that resisting is usually a passive action if Endurance or Willpower are the being used. If a spell requires the target to Evade, then it costs an Action Point to make the Evade attempt. Targets without Action Points to spend in evading will therefore be powerless against the spell's effect.
--   **Touch**: The caster must be in physical contact with the target whilst the spell is cast. If a target is intent on resisting physical contact, then the caster will most likely fail to complete his spell unless some specific circumstance prevents the target's withdrawal, such as surprise or the Grip special effect. A touch spell merely needs to contact the target or its carried accoutrements in order toto work.
+-   **Touch**: The caster must be in physical contact with the target whilst the spell is cast. If a target is intent on resisting physical contact, then the caster will most likely fail to complete his spell unless some specific circumstance prevents the target's withdrawal, such as surprise or the Grip special effect. A touch spell merely needs to contact the target or its carried accouterments to work.
 
 ## Spell Descriptions
 
@@ -103,7 +103,7 @@ Befuddle causes confusion within the mind of a corporeal target. The subject of 
 
 **Touch**
 
-Bladesharp is cast on edged and piercing melee weapons. It increases the damage of a weapon by one dice step and incidentally leaves the edge honed after the spell concludes. This spell is often used on tools such as logging axes, ploughs, and razors. Thus, casting this spell on a dagger increases it to 1d6+1 damage, whereas the same spell on a great axe would increase it to 2d8+2 damage. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
+Bladesharp is cast on edged and piercing melee weapons. It increases the damage of a weapon by one dice step and incidentally leaves the edge honed after the spell concludes. This spell is often used on tools such as logging axes, plows, and razors. Thus, casting this spell on a dagger increases it to 1d6+1 damage, whereas the same spell on a great axe would increase it to 2d8+2 damage. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
 ### Bludgeon
 

@@ -1,6 +1,6 @@
 # Game System
 
-Many different things can occur during a _Mythras Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guidance for a variety of different scenarios that players will encounter while playing the game.
+Many different things can occur during a _Mythras_ _Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guidance for a variety of different scenarios that players will encounter while playing the game.
 
 The list is not exhaustive but should represent the most common situations. If Games Masters find there are other situations that require some form of game system adjudication, and that these situations seem to occur frequently, then they are encouraged to develop their own rules to cover these special circumstances, using those given in this chapter as a basis for replication or development.
 
@@ -97,12 +97,12 @@ _**Antidote/Cure**_: If the toxin can be treated it will be noted here. Successf
 | **Condition** | **Effects** |
 | --- | --- |
 | Agony | The victim is hindered by intense pain. Whether in a location or the entire body, any skill roll involving use of the affected area must also be less or equal to the character's Willpower, otherwise the attempt fails, and they moan or scream in pain. |
-| Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules for Asphyxiation, found on page 71, are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the laterlatter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the dieasedisease or poison. |
-| Bleeding | The victim suffers from either internal bleeding or surface haemorrhaginghemorrhaging which leads to the effects described in the Blood Loss section on in the Game System section. |
-| Contagious | The victim Victim can transfer the poisonpoison or disease by touch. |
-| Death | The victim collapses incapacitated, andincapacitated and dies after a number of rounds equal to their CON characteristic. |
+| Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules for Asphyxiation, found on page 71, are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the latter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the disease or poison. |
+| Bleeding | The victim suffers from either internal bleeding or surface hemorrhaging which leads to the effects described in the Blood Loss section on in the Game System section. |
+| Contagious | The victim can transfer the poison or disease by touch. |
+| Death | The victim collapses incapacitated and dies after a number of rounds equal to their CON characteristic. |
 | Fever | The victim's body temperature fluctuates wildly – from hot to cold – and muscles ache. All skills suffer a difficulty grade of Hard. |
-| Mania | The victim is driven to follow some compulsion;compulsion, such as avoiding water, paranoia, self mutilationself-mutilation, and so forth. The mania induced by the disease or poison will be noted in its description. |
+| Mania | The victim is driven to follow some compulsion;compulsion, such as avoiding water, paranoia, self-mutilation, and so forth. The mania induced by the disease or poison will be noted in its description. |
 | Nausea | The victim cannot eat, and must roll against his Endurance every time he performs a stressful physical action to avoid being physically sick. Vomiting lasts for 1d3 rounds during which he cannot act. Long durations of Nausea may cause starvation. |
 | Paralysis | The victim is unable physically to move. The affected area, if a location, cannot be used for the duration. If it affects the whole body, the character cannot move at all. |
 
@@ -147,7 +147,7 @@ The primary way of accruing Fatigue is by engaging in some form of physical acti
 
 Every Failed roll accrues a level of Fatigue. Each level of Fatigue carries penalties for skill use, movement, Initiative, and Action Points. Asphyxiation, Blood Loss, and other setting dependent effects also contribute to Fatigue Accrual.
 
-For most characters, activities of any kind become near impossible when the level of Incapacitated is reached. At this stagestage, the character is still conscious but incapable of anything but the most desperate of activities.
+For most characters, activities of any kind become near impossible when the level of Incapacitated is reached. At this stage, the character is still conscious but incapable of anything but the most desperate of activities.
 
 Beyond Incapacitated, characters cannot act at all. The Fatigue levels – Semi-Conscious, Comatose, and Dead – are generally reserved for measuring the most extreme effects of suffocation, disease, blood loss, starvation, exposure, and so forth.
 
@@ -192,7 +192,7 @@ Fire-based attacks typically have a percentage chance of igniting flammable mate
 
 ## Game Time
 
-In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarise the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
+In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
 
 Following are the important distinctions of game time:
 
@@ -236,15 +236,15 @@ If an attack strikes successfully, it causes damage according to the damage rati
 
 The rolled damage for the weapon or attack is modified by the certain conditions in the specific following order:
 
-1. Apply the Damage Modifier for the character making the attackattack.
-2. Modify the damage from any weapon enhancing (or reducing) magicmagic.
-3. If parried, reduce the damage appropriately as per the comparative weapon sizessizes.
-4. If the Hit Location is armored, reduce damage by the Armor Points valuevalue.
+1. Apply the Damage Modifier for the character making the attack.
+2. Modify the damage from any weapon enhancing (or reducing) magic.
+3. If parried, reduce the damage appropriately as per the comparative weapon sizes.
+4. If the Hit Location is armored, reduce damage by the Armor Points value.
 
 If the damage inflicted by the attack is above zero, then the Hit Location sustains that amount of damage, with the damage total being immediately removed from the location's Hit Points. Note how many Hit Points the location has remaining, and the wound category that results.
 
 - _**Minor Wound**_: Hit Location still has positive Hit Points
-- _**Serious Wound**_: Hit Location is reduced to zero Hit Points or belowbelow.
+- _**Serious Wound**_: Hit Location is reduced to zero Hit Points or below.
 - _**Major Wound**_: Hit Location is reduced to a negative score equal or greater than its starting Hit Points
 
 Use the following rules if a location receives a Serious or Major Wound. Note that wounds requiring Endurance checks test them in an Opposed Roll against the value of the original attack roll. This reflects the ability of highly skilled warriors to make more deadly strikes. Endurance rolls are not repeated unless the location is wounded again.

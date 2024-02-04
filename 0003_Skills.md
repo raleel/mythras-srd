@@ -52,7 +52,7 @@ Mythras Imperative uses a series of grades to determine how a skill is modified.
 
 Where a character is already suffering a penalty from other circumstances, the hardest Difficulty Grade takes precedence.
 
-Outside of combat, _Mythras Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide;decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
+Outside of combat, _Mythras_ _Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide;decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
 
 ## Standard Skills
 
@@ -62,7 +62,7 @@ Athletics covers a range of physical activities, including climbing, jumping, th
 
 ### Boating (STR+CON)
 
-The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigours of the open sea. Most are propelled using oars, paddles, puntspunts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
+The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigours of the open sea. Most are propelled using oars, paddles, punts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
 
 ### Brawn (STR+SIZ)
 
@@ -70,7 +70,7 @@ Brawn is the efficient application of technique when applying raw physical force
 
 ### Combat Style (STR+DEX)
 
-Each Combat Style is the skill to use the weapons expected of a career or culture in the setting. Most fighting traditions encompass training in multiple weapons, along with the techniques required to use them all effectively, whether singly or in combination. In additionaddition, they often assume a situational element, such as fighting as close order infantry or whilst mounted. Combat Styles can be very diverse, ranging from, for example, Gladiatorial Combat all the way to Space Marine Mobile Infantry.
+Each Combat Style is the skill to use the weapons expected of a career or culture in the setting. Most fighting traditions encompass training in multiple weapons, along with the techniques required to use them all effectively, whether singly or in combination. In addition, they often assume a situational element, such as fighting as close order infantry or whilst mounted. Combat Styles can be very diverse, ranging from, for example, Gladiatorial Combat all the way to Space Marine Mobile Infantry.
 
 ### Conceal (DEX+POW)
 
@@ -106,15 +106,15 @@ The skill of First Aid measures a character's ability to treat minor injuries an
 
 ### Influence (CHA x2)
 
-This is a measurement of a character's ability to persuade others, through personal charisma, into a desired way of behaving. It is used in a wide variety of situations; from changing someone's mind, to bribing an official or guard. Influence rolls are typically opposed by the Perception, Willpower, or another Influence skill, depending on the circumstances, and are modified by how much a character is trying to influence behaviour. Attempting to persuade a close friend to loan you their horse may be relatively easy. Getting a usually incorruptible bureaucrat to accept a bribe is more difficult.
+This is a measurement of a character's ability to persuade others, through personal charisma, into a desired way of behaving. It is used in a wide variety of situations; from changing someone's mind, to bribing an official or guard. Influence rolls are typically opposed by the Perception, Willpower, or another Influence skill, depending on the circumstances, and are modified by how much a character is trying to influence behavior. Attempting to persuade a close friend to loan you their horse may be relatively easy. Getting a usually incorruptible bureaucrat to accept a bribe is more difficult.
 
 ### Insight (INT+POW)
 
-Insight is the ability to read or intuitively define another's verbal and non-verbal behaviour (such as body language or the manner of speech) to establish their motives and state of mind. Insight is used to determine whether someone is telling a lie (and it can be opposed by the other person's Deceit skill), or to predict how someone feels about a particular situation. Insight can equally be applied to particular situations as well as other people: is that tavern a haven for trouble? Could the bandits be planning an ambush in the nearby hills?
+Insight is the ability to read or intuitively define another's verbal and non-verbal behavior (such as body language or the manner of speech) to establish their motives and state of mind. Insight is used to determine whether someone is telling a lie (and it can be opposed by the other person's Deceit skill), or to predict how someone feels about a particular situation. Insight can equally be applied to particular situations as well as other people: is that tavern a haven for trouble? Could the bandits be planning an ambush in the nearby hills?
 
 ### Locale (INT x2)
 
-Locale measures a character's understanding of local flora, fauna, terrain, and weather in the area where he or she has spent much of their life, usually within their community. The character knows the common plants, trees, and animals, their properties and behaviour: where the best fish can be found; the movements of game creatures; where to find shelter; the likely weather for the season, and the most common regional dangers. In neighbouring, yet unfamiliar locations Locale should be made one or more grades harder.
+Locale measures a character's understanding of local flora, fauna, terrain, and weather in the area where he or she has spent much of their life, usually within their community. The character knows the common plants, trees, and animals, their properties and behavior: where the best fish can be found; the movements of game creatures; where to find shelter; the likely weather for the season, and the most common regional dangers. In neighboring, yet unfamiliar locations Locale should be made one or more grades harder.
 
 ### Native Tongue (INT+CHA+40)
 
@@ -156,7 +156,7 @@ Again, like Endurance and Evade, Willpower is most often used in Opposed Rolls. 
 
 ## Professional Skills
 
-Professional Skills differ between characters and represent more specialised forms of training and experience. Some Professional Skills are gathered through cultural background and a character's Career, as the name suggests. Although they differ between characters they work in the same way as Standard Skills.
+Professional Skills differ between characters and represent more specialized forms of training and experience. Some Professional Skills are gathered through cultural background and a character's Career, as the name suggests. Although they differ between characters they work in the same way as Standard Skills.
 
 ### Acting (CHA x2)
 
@@ -174,7 +174,7 @@ Astrogation is equivalent to Navigation, save that it enables starship pilots to
 
 ### Art (POW+CHA)
 
-There are many specific art forms. Painting to Poetry; Literature to Sculpture. A character chooses an Art specialisation when taking this skill. Subsequent Art forms are advanced separately. A roll is made whenever a character must impress or convince through his artistic medium.
+There are many specific art forms. Painting to Poetry; Literature to Sculpture. A character chooses an Art specialization when taking this skill. Subsequent Art forms are advanced separately. A roll is made whenever a character must impress or convince through his artistic medium.
 
 ### Bureaucracy (INT x2)
 
@@ -198,7 +198,7 @@ This skill covers understanding how to act appropriately in a social or formal s
 
 ### Craft (DEX+INT)
 
-Each Craft is a specialised form, and there are as many crafts as there are professions for them. Like Art, Craft is used to create the subject item. How long it takes depends entirely on the nature of the product: weaving a rug takes longer than throwing a pot, for instance, but time is not necessarily the most important factor: it is the skill of the crafter, the quality of the resources and attention to detail.
+Each Craft is a specialized form, and there are as many crafts as there are professions for them. Like Art, Craft is used to create the subject item. How long it takes depends entirely on the nature of the product: weaving a rug takes longer than throwing a pot, for instance, but time is not necessarily the most important factor: it is the skill of the crafter, the quality of the resources and attention to detail.
 
 ### Culture (INT x2)
 
@@ -232,7 +232,7 @@ The Gambling skill measures a character's competence in games of chance and espe
 
 ### Healing (INT+POW)
 
-Healing is the in-depth knowledge of medical procedures, based on cultural practices and is used to treat more serious injuries (typically those where Hit Points are at zero or less). In a Primitive or Barbarian culture for instance, healing will be based on the knowledge of herbs and natural cures. In a Civilised culture, drugs and more advanced treatments will be more common. In all cultures Healing includes the ability to set bones, suture wounds, and so forth. Obviously applying Healing requires appropriate resources, and most practicing healers will have such things at hand (needles, gut or thread for sutures, herbs for poultices, and so forth, or a medical kit for modern settings).
+Healing is the in-depth knowledge of medical procedures, based on cultural practices and is used to treat more serious injuries (typically those where Hit Points are at zero or less). In a Primitive or Barbarian culture for instance, healing will be based on the knowledge of herbs and natural cures. In a Civilized culture, drugs and more advanced treatments will be more common. In all cultures Healing includes the ability to set bones, suture wounds, and so forth. Obviously applying Healing requires appropriate resources, and most practicing healers will have such things at hand (needles, gut or thread for sutures, herbs for poultices, and so forth, or a medical kit for modern settings).
 
 ### Language (INT+CHA)
 
@@ -308,7 +308,7 @@ Streetwise represents knowledge of places and social contacts within a settlemen
 
 ### Survival (CON+POW)
 
-This skill covers surviving in a rural or wilderness environment where the benefits of civilisation are absent: foraging, building a fire, finding shelter or a safe place to sleep. When properly equipped, rolls are usually unnecessary since the character may be carrying a tent, food supplies, and so on. Only when separated from their equipment or when environmental conditions turn bad does it become essential to use this skill. A roll is usually made once per day in such conditions.
+This skill covers surviving in a rural or wilderness environment where the benefits of civilization are absent: foraging, building a fire, finding shelter or a safe place to sleep. When properly equipped, rolls are usually unnecessary since the character may be carrying a tent, food supplies, and so on. Only when separated from their equipment or when environmental conditions turn bad does it become essential to use this skill. A roll is usually made once per day in such conditions.
 
 ### Teach (INT+CHA)
 
@@ -330,14 +330,14 @@ If this second effort also ends in failure, the character is assumed to have giv
 
 ### Opposed Rolls
 
-Skills are frequently pitted against other skills – Stealth versus Perception when a rogue attempts to cut a nobleman's purse, say; or Deceit versus Insight when the same rogue tries to deny the attempt when she is caught – are good examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, passpass, or fail.
+Skills are frequently pitted against other skills – Stealth versus Perception when a rogue attempts to cut a nobleman's purse, say; or Deceit versus Insight when the same rogue tries to deny the attempt when she is caught – are good examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, pass, or fail.
 
 - An Opposed Roll is determined thus: both participants roll their respective skills. The winner is the one who gains the better Level of Success. If the participants score the same Level of Success (a Standard Success each, or a Critical each), then the winner is the one who has the highest dice roll still within the success range of the skill.
 
 If both participants Fail in an Opposed Roll, then either:
 
-- Describe the situation, leaving both sides hanging in dramatic tension, then re-roll the contest to establish a winnerwinner.
-- The Games Master should produce some explanation or circumstances that suit the nature of the failurefailure.
+- Describe the situation, leaving both sides hanging in dramatic tension, then re-roll the contest to establish a winner.
+- The Games Master should produce some explanation or circumstances that suit the nature of the failure.
 
 Opposed Rolls are frequently used in certain battle situations to overcome the effects of wounds or oppose a combat Special Effect. They are also used to resist poisons and disease or shrug off the effects of baleful magic.
 
@@ -359,7 +359,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 
 ### Differential Rolls
 
-Differential Rolls are similar to Opposed Rolls except that instead of a simple win or lose result, the difference in Levels of Success areis calculated. Primarily used for the resolution of combat ,combat, Differential Rolls can also be used in other situations where the Games Master wishes to increase the detailed results of a contest.
+Differential Rolls are similar to Opposed Rolls except that instead of a simple win or lose result, the difference in Levels of Success is calculated. Primarily used for the resolution of combat ,combat, Differential Rolls can also be used in other situations where the Games Master wishes to increase the detailed results of a contest.
 
 A Differential Roll is determined in the following manner: Both participants roll against their respective skills and suffer the results of their roll as if tested in isolation. There is no outright 'winner' per se, but whoever gained the higher Level of Success gains an advantage equal to the difference in the success levels between them (assuming one participant gains at least a Standard success or better). If both participants score the same Level of Success (a Standard success each, or a Critical each), then there is no additional effect.
 
@@ -380,7 +380,7 @@ The identification of who has the highest skill must be calculated after any oth
 
 ### So, Just How Good Are You?
 
-It can be very useful for both Games Masters and Players to have a common frame of reference for what the value of a skill translates to as a comparable level of competence. Is a craftsman with Craft Wood 48% a good carpenter or merely a competent one? The Competence Level Table helps summarise the different levels of competence one can expect a rating in a skill to represent; it is also a handy reference for Games Masters when assigning general values to skills for Non-Player Characters and adversaries. If a random value for a Non-Player Character skill is needed, then the Random Value column gives the dice code to obtain a value within a desired Competency Level.
+It can be very useful for both Games Masters and Players to have a common frame of reference for what the value of a skill translates to as a comparable level of competence. Is a craftsman with Craft Wood 48% a good carpenter or merely a competent one? The Competence Level Table helps summarize the different levels of competence one can expect a rating in a skill to represent; it is also a handy reference for Games Masters when assigning general values to skills for Non-Player Characters and adversaries. If a random value for a Non-Player Character skill is needed, then the Random Value column gives the dice code to obtain a value within a desired Competency Level.
 
 **Competency Level Table**
 
@@ -389,6 +389,6 @@ It can be very useful for both Games Masters and Players to have a common frame 
 | 1-30% | 1d20+10 | Novice | Cannon Fodder | Unqualified and learning the basics |
 | 31-50% | 1d20+30 | Competent | Green | Can perform easy tasks if taking time to be careful |
 | 51-70% | 1d20+50 | Proficient | Seasoned | Has reached an employable level of competence |
-| 71-90% | 1d20+70 | Expert | Veteran | Recognised as a professional or subject matter expert in the field |
+| 71-90% | 1d20+70 | Expert | Veteran | Recognized as a professional or subject matter expert in the field |
 | 91-110% | 1d20+90 | Master | Elite | Considered one of the best in the business |
 | \>110% | 1d20+110 | Exemplar | Heroic | Renowned far and wide for their consummate skill |
