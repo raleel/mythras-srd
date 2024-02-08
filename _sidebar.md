@@ -6,3 +6,6 @@
 - [Vehicles](0006_Vehicles.md)
 - [Magic](0007_Magic.md)
 - [Creatures](0008_Creatures.md)
+---
+- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
+- [BRP UGE SRD](https://brpugesrd.xyz)
