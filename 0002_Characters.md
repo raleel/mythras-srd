@@ -143,9 +143,9 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 **Hit Points per Location**
 
-|  | CON+SIZ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Location | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| Location | CON+SIZ |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
