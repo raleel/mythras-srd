@@ -151,19 +151,14 @@ Extinguish immediately quenches flames and small fires of modest size and heat. 
 
 Concentration, Ranged, Resist (Special)
 
-Find has many variations; always specific and learned as separate spells. Some common examples are given below. It works by attuning to the natural emanations of a creature or thing, alerting the caster to its presence within the spell's range. Find can be blocked by dense or thick materials such as metal, or earth and stone at least one metre thick. The spell cannot discern emotions or thoughts.
+Find has many variations; always specific and learned as separate spells. Some common examples are given below. It works by attuning to the natural emanations of a creature or thing, alerting the caster to its presence within the spell's range. Find can be blocked by dense or thick materials such as metal, or earth and stone at least one metre thick. The spell cannot discern emotions or thoughts. 
 
-Find Arrows: Locates ammunition shot by hunters, which miss their target.
-
-Find Flaw: Identifies any flaws in an object, such as hidden imperfections or physical damage.
-
-Find Livestock: Locates a particular type of animal. Can be resisted with Willpower.
-
-Find Loot: Locates precious metals and gems.
-
-Find Object: Locates a lost personal possession.
-
-Find Sickness: Identifies the existence of disease and illness, whether magical or mundane.
+- *Find Arrows*: Locates ammunition shot by hunters, which miss their target.
+- *Find Flaw*: Identifies any flaws in an object, such as hidden imperfections or physical damage.
+- *Find Livestock*: Locates a particular type of animal. Can be resisted with Willpower.
+- *Find Loot*: Locates precious metals and gems.
+- *Find Object*: Locates a lost personal possession.
+- *Find Sickness*: Identifies the existence of disease and illness, whether magical or mundane.
 
 ### Firearrow
 
