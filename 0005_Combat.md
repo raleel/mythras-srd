@@ -699,8 +699,7 @@ Presented here is a selection of armor and weapons from a variety of settings an
 | Mace | 1d8 | M | 6/6 | — |
 | Net | 1d4 | S | 2/20 | Entrapping, Thrown |
 | Shortsword | 1d6 | M | 6/8 | — |
-| 1H Spear | 1d8+1 | M | 4/5 |
- |
+| 1H Spear | 1d8+1 | M | 4/5 | |
 | 2H Spear | 1d10+1 | L | 4/10 | Can be set to receive a charge |
 | War hammer | 1d8+1 | M | 3/8 | Two handed |
 | Whip | 1d3 | M | 2/8 | Entangling |
