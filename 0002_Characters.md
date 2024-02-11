@@ -1,6 +1,6 @@
 # Characters
 
-Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physicallyphysically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
+Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
 • Characteristics: such as Strength or Charisma
 
@@ -16,7 +16,7 @@ A good place to start is to have some idea of what sort of character you want to
 
 ## Step 2: Characteristics
 
-Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Mythras Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
+Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Mythras_ _Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
 
 - • Strength (STR)
 - • Constitution (CON)
@@ -38,11 +38,11 @@ CON is measure of health and hardiness. CON is a component in determining Hit Po
 
 ### Size (SIZ)
 
-SIZ measures mass, andmass and helps indicate Height and Weight. SIZ is used to help figure Hit Points ,Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure Hit Points ,Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
 ### Dexterity (DEX)
 
-Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative .Initiative. If a character is reduced to zero DEXDEX, they suffer functional paralysis.
+Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative .Initiative. If a character is reduced to zero DEX, they suffer functional paralysis.
 
 ### Intelligence (INT)
 
@@ -78,7 +78,7 @@ How often a character can act in a Combat Round is determined by Action Points. 
 
 ### Damage Modifier
 
-Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weakerweaker, and smaller characters may reduce the damage they can inflict. The Damage ModifierIt is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker and smaller characters may reduce the damage they can inflict. The Damage ModifierIt is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
@@ -362,9 +362,9 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
-- Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramidpyramid.
+- Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramid.
 - Passions which gain the values noted in the Passions section, and in addition to any allocations made from the pyramid.
-- No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50 point50-point value to a Combat Style.
+- No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50-point value to a Combat Style.
 - Six of the values must be allocated to Professional Skills.
 - Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
 - It is recommended that at least one of the values be allocated to a Combat Style, but this isn't mandatory.
