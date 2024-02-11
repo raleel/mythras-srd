@@ -107,7 +107,7 @@ Add together STR and SIZ and consult the Damage Modifier table, below.
 
 ### Experience Modifier
 
-Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the Game System section.
+Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System section](https://srd.mythras.net/#/0004_Game_System?id=experience-rolls).
 
 A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
@@ -191,7 +191,7 @@ Every creature has a Movement Rate – a number of metres that can be travelled 
 
 Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
-_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the Combat section, andsection and have a Basic Percentage equal to STR+DEX.
+_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat section](https://srd.mythras.net/#/0005_Combat?id=combat-style) and have a Basic Percentage equal to STR+DEX.
 
 **Standard Skills**
 
@@ -363,7 +363,7 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
 - Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramid.
-- Passions which gain the values noted in the Passions section, and in addition to any allocations made from the pyramid.
+- Passions which gain the values noted in the [Passions section](https://srd.mythras.net/#/0002_Characters?id=step-8-passions), and in addition to any allocations made from the pyramid.
 - No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50-point value to a Combat Style.
 - Six of the values must be allocated to Professional Skills.
 - Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
@@ -384,7 +384,7 @@ These are traditional Pulp Heroes. They aren't superheroes or demigods, and a we
 
 #### Characteristics
 
-When generating Pulp Heroic characters, use the Dice Roll Assign method in the Characters section. Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 90 points.
+When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 90 points.
 
 #### Attributes
 
@@ -416,7 +416,7 @@ As a result, Paragon characters won't be for everyone, but if a setting needs ch
 
 #### Characteristics
 
-When generating characters using the Dice Roll Assign method in the Characters section. Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 100 points.
+When generating characters using the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 100 points.
 
 #### Attributes
 
@@ -444,7 +444,7 @@ Heroic characters gain an additional 100 Bonus Skill Points to allocate as neede
 
 Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
-A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Foreswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment or Uphold.
+A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Forswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment or Uphold.
 
 Passions are measured in the same way as skills; they are rated between 1 and 100 (or higher). A Passion can be improved in the same way as a skill, or it can be increased or decreased by the referee depending on circumstances.
 
