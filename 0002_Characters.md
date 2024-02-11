@@ -46,7 +46,7 @@ Agility, balance, and reflexes are measured by DEX. It is an important aspect of
 
 ### Intelligence (INT)
 
-INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zerozero, the character becomes completely mindless.
+INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zero, the character becomes completely mindless.
 
 ### Power (POW)
 
@@ -54,7 +54,7 @@ POW is a measurement of a character's soul, spirit, inner drive, or capacity for
 
 ### Charisma (CHA)
 
-Charisma is a measure of presence and personality and is independent of physical appearance. CHA affects a character's Experience Modifier .Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+Charisma is a measure of presence and personality and is independent of physical appearance. CHA affects a character's Experience Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ## Calculating Characteristics
 
@@ -66,7 +66,7 @@ Each Characteristic has a numerical value to determine how potent it is. The num
 
 **Dice Roll, High** : Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
 
-**Points Build** : Players assign Characteristic scores from a pre-determined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
+**Points Build** : Players assign Characteristic scores from a predetermined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
 
 ## Step 3: Attributes
 
@@ -74,11 +74,11 @@ Each character also has a set of attributes. These are capabilities derived from
 
 ### Action Points
 
-How often a character can act in a Combat Round is determined by Action Points. All _Mythras Imperative_ characters have 2 Action Points.
+How often a character can act in a Combat Round is determined by Action Points. All _Mythras_ _Imperative_ characters have 2 Action Points.
 
 ### Damage Modifier
 
-Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker and smaller characters may reduce the damage they can inflict. The Damage ModifierIt is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker and smaller characters may reduce the damage they can inflict. The Damage Modifier is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
@@ -154,7 +154,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 ### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The Combat chapter goes into more detail on how Initiative is used .
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The Combat chapter goes into more detail on how Initiative is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -179,7 +179,7 @@ Exactly how they are used, and when, is described in the [Game System section](h
 
 ### Magic Points
 
-Mystical abilities, powers and spells used in _Mythras Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
+Mystical abilities, powers and spells used in _Mythras_ _Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
 For those who can use such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters runs out of Magic PointsPoints, they have exhausted their ability to cast any spells until Magic Points are replenished.
 
@@ -228,7 +228,7 @@ Culture determines the kind of society in which the character was raised, and so
 
 ## Barbarian
 
-Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds, orwilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
+Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
 
 #### Skills
 
@@ -304,7 +304,7 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 | Scholar Annalist, Librarian, Philosopher, Skald, Scribe… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Language (any), Literacy (any), Lore (Primary), Lore (Secondary), Oratory, Teach |
 | Scientist Archivist, Librarian, Philosopher… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Engineering, Language (any), Oratory, Research, Science (any), Teach |
 | Scout Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer… | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style (Specific Hunting or Cultural Style) | Culture (any), Healing, Language (any), Lore (any), Navigation, Survival, Track |
-| Servant Aide, Butler, Chauffeur, House Maid, Governess, Major Domo, Manservant, Personal Assistant, Secretary... | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft (service related), Culture (any), Language (any), Politics, Streetwise |
+| Servant Aide, Butler, Chauffeur, House Maid, Governess, Majordomo, Manservant, Personal Assistant, Secretary... | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft (service related), Culture (any), Language (any), Politics, Streetwise |
 | Smuggler Black Marketer, Bootlegger, Gun Runner... | Conceal, Customs, Deceit, Drive, Influence, Insight, Locale | Bureaucracy, Commerce, Customs (any), Language (any), Navigation, Streetwise; and either Astrogation or Seamanship |
 | Technician Electrician, Laboratory Assistant... | Brawn, Drive, Endurance, Influence, Locale, Perception, Willpower | Comms, Craft (any), Electronics, Gambling, Mechanisms, Science (any), Sensors |
 | Thief Burglar, Conman, Fence, Mugger, Tomb Robber… | Athletics, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Thief or Cultural Style) | Acting, Commerce, Disguise, Lockpicking, Mechanisms, Sleight, Streetwise |
@@ -384,7 +384,7 @@ These are traditional Pulp Heroes. They aren't superheroes or demigods, and a we
 
 #### Characteristics
 
-When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 90 points.
+When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 90 points.
 
 #### Attributes
 
@@ -416,7 +416,7 @@ As a result, Paragon characters won't be for everyone, but if a setting needs ch
 
 #### Characteristics
 
-When generating characters using the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a pre-set pool of 100 points.
+When generating characters using the Dice Roll Assign method in the [Characters section](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics). Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 100 points.
 
 #### Attributes
 
@@ -444,7 +444,7 @@ Heroic characters gain an additional 100 Bonus Skill Points to allocate as neede
 
 Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
-A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Forswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment or Uphold.
+A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Forswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment, or Uphold.
 
 Passions are measured in the same way as skills; they are rated between 1 and 100 (or higher). A Passion can be improved in the same way as a skill, or it can be increased or decreased by the referee depending on circumstances.
 
@@ -463,13 +463,13 @@ Beginning characters may start with up to three Passions, each based on two Char
 
 ### Using Passions
 
-A Passion is any deeply held commitment that has the capacity to influence events during play. Although they can be used as stand-alone Abilities (to call them skills is to do them a disservice), Passions are further expanded below to explain in more detail how they work and how they can influence _Mythras Imperative_ characters and campaigns.
+A Passion is any deeply held commitment that has the capacity to influence events during play. Although they can be used as stand-alone Abilities (to call them skills is to do them a disservice), Passions are further expanded below to explain in more detail how they work and how they can influence _Mythras_ _Imperative_ characters and campaigns.
 
 In summary, Passions can be used thus:
 
-• To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, as long asif the augmentation is thematically and dramatically important.
+• To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, if the augmentation is thematically and dramatically important.
 
-• As an Ability in its own right toto drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
+• As an Ability to drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
 
 • To oppose other Passions – even those held by the same character. This is typically used where two Passions would conflict. For instance, a personal love might dictate a course of action that would be contrary to an Oath or loyalty. Here use an Opposed Roll between the two Passions, with the more successful determining how the character acts.
 
@@ -499,7 +499,7 @@ The Deepening and Waning table shows by how much the Passion changes.
 
 ## Step 9: Equipment
 
-Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. In the course ofDuring adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
+Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. During adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
 
 • A set of clothing appropriate to the character's profession and the setting.
 
