@@ -9,4 +9,4 @@
 ---
 - [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD alternate] (https://bruge.us/rules/srd/)
+- [BRP UGE SRD alternate](https://bruge.us/rules/srd/)

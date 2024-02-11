@@ -166,7 +166,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 - • Mitigate physical damage or other unfortunate circumstances.
 - • Gain an edge at a vital moment in combat.
 
-Exactly how they are used, and when, is described in the Game System section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
+Exactly how they are used, and when, is described in the [Game System section](https://srd.mythras.net/#/0004_Game_System?id=game-system). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
 **Luck Points**
 
