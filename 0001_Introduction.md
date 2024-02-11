@@ -60,7 +60,7 @@ On some occasions you will be required to divide numbers – typically the ratin
 
 ## Dice Used
 
-Mythras Imperative uses the standard polyhedral dice set: d4, d6, d8, d10 d12, d20 and d100. Additionally, the following dice are called for:
+_Mythras Imperative_ uses the standard polyhedral dice set: d4, d6, d8, d10 d12, d20 and d100. Additionally, the following dice are called for:
 
 d2: Roll any die. An odds number equals 1 and evens equals 2. Or flip a coin.
 
