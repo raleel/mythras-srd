@@ -24,7 +24,7 @@ All warranties are disclaimed as set forth therein.
 
 This product is based on the following Reserved Material:
 
-_Mythras_, The Design Mechanism Copyright 2016, Written by Pete NashNash, and Lawrence Whitaker
+_Mythras_, The Design Mechanism Copyright 2016, Written by Pete Nash, and Lawrence Whitaker
 
 If you use our Licensed Material in your own published works, please credit us as follows:
 

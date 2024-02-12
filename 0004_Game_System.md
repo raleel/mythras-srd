@@ -44,7 +44,7 @@ The player rolls 1d100 and compares it to the skill being increased. The charact
 
 - If the number rolled is equal to or greater than the skill being improved, it increases by 1d4+1%.
 - If the number rolled is less than the skill selected, the skill still increases, but only by 1%.
-- If a character **Fumbled any skill during the preceding session(s) – i.e., between the last set of Experience Rolls and the present one – the Fumbled skill gains a free increase of 1%. We learn more** from our mistakes than our successes and this represents the reflection a character undergoes following a disastrous failure. Multiple Fumbles of the same skill do not stack. In a case where the Fumbled skill is also being raised with an Experience Roll, the 1% from the Fumble is applied before the roll is made to improve it.
+- If a character **Fumbled** any skill during the preceding session(s) – i.e., between the last set of Experience Rolls and the present one – the Fumbled skill gains a free increase of 1%. We learn more from our mistakes than our successes and this represents the reflection a character undergoes following a disastrous failure. Multiple Fumbles of the same skill do not stack. In a case where the Fumbled skill is also being raised with an Experience Roll, the 1% from the Fumble is applied before the roll is made to improve it.
 
 The same skill may not benefit from more than one Experience Roll per session.
 
@@ -80,22 +80,22 @@ _**Contact**_ – Effects take place through absorption through the skin.
 
 _**Injected**_ – Effects take place when the substance is injected into the body through piercing.
 
-_**Potency**_: The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the rollroll, they shrug off its effects. If they lose the roll, then they suffer all ofall the disease or poison Conditions, each at the appropriate time.
+_**Potency**_: The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
 
-_**Resistance**_: How the disease or poison is resisted – either Endurance or Willpower, butWillpower but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
+_**Resistance**_: How the disease or poison is resisted – either Endurance or Willpower but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
 
 _**Onset Time**_: Many diseases and poisons do not take immediate effect. The delay is called the Onset Time, and this can be a matter of seconds, minutes, hours, or even longer. Poisons or diseases possessing multiple effects may have different onset times for each one as described under Conditions.
 
 _**Duration**_: How long a disease or poison's Conditions last.
 
-_**Conditions**_: Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resistresist, he suffers all the Conditions described.
+_**Conditions**_: Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resist, he suffers all the Conditions described.
 
 _**Antidote/Cure**_: If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
 
 **Conditions Table**
 
 | **Condition** | **Effects** |
-| --- | --- |
+| :-: | --- |
 | Agony | The victim is hindered by intense pain. Whether in a location or the entire body, any skill roll involving use of the affected area must also be less or equal to the character's Willpower, otherwise the attempt fails, and they moan or scream in pain. |
 | Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules for Asphyxiation, found on page 71, are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the latter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the disease or poison. |
 | Bleeding | The victim suffers from either internal bleeding or surface hemorrhaging which leads to the effects described in the Blood Loss section on in the Game System section. |
@@ -110,7 +110,7 @@ _**Antidote/Cure**_: If the toxin can be treated it will be noted here. Successf
 
 Red pox is a nasty disease spread by skin contact with a person already infected, or with something they have touched. The chance of catching the disease from an object remains for 1d3 days after contact, making it quite difficult to contain the disease once an outbreak occurs.
 
-Victims initially suffer a minor rash, but within a day come down with a serious fever which usually renders them bedridden for the entire duration. During this timetime, the rash evolves into gruesomely itchy pustules which burst open at the slightest movement, weeping small trickles of blood – especially from the armpits and groin. This stage can last up to a week or more, potentially proving fatal.
+Victims initially suffer a minor rash, but within a day come down with a serious fever which usually renders them bedridden for the entire duration. During this time, the rash evolves into gruesomely itchy pustules which burst open at the slightest movement, weeping small trickles of blood – especially from the armpits and groin. This stage can last up to a week or more, potentially proving fatal.
 
 - Application: Contact
 - Potency: 50
@@ -160,7 +160,7 @@ Note that the table below represents Fatigue recovery for physical exertion. Fat
 **Fatigue Levels**
 
 | **Fatigue Level** | **Skill Grade** | **Movement** | **Initiative** | **Action Points** | **Recovery Period** |
-| --- | --- | --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
 | Tired | Hard | -1 metre | No Penalties | No Penalties | 3 hours |
@@ -176,12 +176,12 @@ Note that the table below represents Fatigue recovery for physical exertion. Fat
 
 Fires are always a source of danger when used as a weapon or rage out of control. The Fire Intensity table below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually that touching the source. Intensity 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously.
 
-Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
+Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left uncontrolled, it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
 **Fire Intensity Table**
 
 | Intensity | Examples | Time to Ignite | Damage |
-| --- | --- | --- | --- |
+| :-: | :-: | :-: | :-: |
 | 1 | Candle | 1d4 | 1d2 |
 | 2 | Torch | 1d3 | 1d4 |
 | 3 | Campfire | 1d2 | 1d6 |
@@ -192,7 +192,7 @@ Fire-based attacks typically have a percentage chance of igniting flammable mate
 
 ## Game Time
 
-In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
+In _Mythras_ _Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
 
 Following are the important distinctions of game time:
 
@@ -219,7 +219,7 @@ The humanoid Hit Location table is repeated here for ease of reference.
 #### Humanoid Hit Locations
 
 | 1d20 | Hit Location |
-| --- | --- |
+| :-: | --- |
 | 1-3 | Right Leg |
 | 4-6 | Left. Leg |
 | 7-9 | Abdomen |
@@ -269,7 +269,7 @@ If a location is reduced to a negative score equal to or greater than its starti
 
 The victim of a Major Wound to the abdomen, chest, or head drops unconscious, totally Incapacitated, and must immediately make an Opposed Roll of Endurance versus the successful attack roll of his enemy. Failure results in an instant and gratuitous death (decapitated, chopped in half, impaled through the heart, torn apart, and so forth). If they survive, and the location is not treated within a number of Combat Rounds equal to twice the character's Healing Rate, they still die from blood loss and shock.
 
-Since most Major Wounds require some form of surgery or significant magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see Healing from Injury page opposite).
+Since most Major Wounds require some form of surgery or significant magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see [Healing from Injury](#healing-from-injury)).
 
 ### Blood Loss
 
@@ -294,7 +294,7 @@ Thus, a character with a Healing Rate of 3 who suffers damage taking him to –3
 There are certain restrictions on natural healing:
 
 - The healing character cannot engage in strenuous activity: otherwise, the Healing Rate is reduced by 1d3. Thus, a character recovering from even a Minor Wound could find his progress halted if they decide to engage in any physical tasks that might exacerbate the injuries.
-- Natural healing will not begin to heal a Major Wound until the victim has been treated with a successful Healing roll ,roll, or the casting of one of some form of healing magic. Non-dismembering Major Wounds which are not treated within a number of days equal to one twentieth of the Healing skill become maimed, permanently reducing the Hit Points of the location.
+- Natural healing will not begin to heal a Major Wound until the victim has been treated with a successful Healing roll or the casting of one of some form of healing magic. Non-dismembering Major Wounds which are not treated within a number of days equal to one twentieth of the Healing skill become maimed, permanently reducing the Hit Points of the location.
 
 ## Inanimate Objects
 
@@ -309,7 +309,7 @@ Using a weapon against an inanimate object with Armor Points equal to or greater
 **Inanimate Objects**
 
 | Object | Armor Points/Hit Points |
-| --- | --- |
+| :-: | --- |
 | Castle Gate | 8/150 |
 | Castle Wall | 10/500 |
 | Chain/Shackle | 8/8 |
@@ -336,7 +336,7 @@ Luck Points can be used during play and, at the beginning of the next session, r
 
 ### Using Luck Points
 
-Luck points can be used in a variety of ways. Only one Luck Point can be used in support of a particular Action. Luck Points cannot be spent on Experience or Training rolls. Each of the following options costs a single Luck Point.
+Luck points can be used in a variety of ways. Only one Luck Point can be used in support of a particular Action. Luck Points cannot be spent on Experience or Training rolls. Each of the following options costs a single Luck Point:
 
 #### Cheat Fate
 
