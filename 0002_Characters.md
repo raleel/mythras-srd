@@ -62,7 +62,7 @@ Each Characteristic has a numerical value to determine how potent it is. The num
 
 **Dice Roll** : Roll dice for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
 
-**Dice Roll, Assign** : As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
+**Dice Roll, Assign** : As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range — but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
 
 **Dice Roll, High** : Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
 
