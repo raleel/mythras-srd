@@ -8,15 +8,15 @@ A skill has a Base Value built on two Characteristics; or one Characteristic mul
 
 Whenever a character is called upon to resolve some form of test, challenge, or professional ability, 1d100 is rolled and compared with the skill's value:
 
-• Equal to, or less than, the skill indicates a Success
+- Equal to, or less than, the skill indicates a Success
 
-• Greater than the skill's value indicates a Failure
+- Greater than the skill's value indicates a Failure
 
 There are certain special cases concerning Success and Failure that should be noted.
 
-• Any roll of 01-05 is always a Success
+- Any roll of 01-05 is always a Success
 
-• Any roll of 96-00 is always a Failure, irrespective of how high the skill's value
+- Any roll of 96-00 is always a Failure, irrespective of how high the skill's value
 
 ### Criticals and Fumbles
 
@@ -35,12 +35,12 @@ There will be some occasions where a roll against a particular skill is just not
 
 There are some occasions where a skill roll is required, but the chances of success need to be adjusted to reflect existing conditions. Fleeing bandits, for instance, might require an Athletics roll. But what if the character is fleeing through darkness or through treacherous undergrowth? In such a case the Games Master can insist on modifying the skill of the character to reflect the circumstances.
 
-Mythras Imperative uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
+_Mythras Imperative_ uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
 
 **Difficulty Grade Table**
 
 | Difficulty Grade | Skill Modifier | Simplified Skill Modifier |
-| --- | --- | --- |
+| :-- | :-- | :-: |
 | Automatic | No need to roll | No need to roll |
 | Very Easy | Double the skill value | +40% |
 | Easy | Add half again to the skill value | +20% |
@@ -52,13 +52,13 @@ Mythras Imperative uses a series of grades to determine how a skill is modified.
 
 Where a character is already suffering a penalty from other circumstances, the hardest Difficulty Grade takes precedence.
 
-Outside of combat, _Mythras_ _Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide;decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
+Outside of combat, _Mythras_ _Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
 
 ## Standard Skills
 
 ### Athletics (STR+DEX)
 
-Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See Movement in the Game System section for more information on climbing, jumping, and running.
+Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See [Movement](https://srd.mythras.net/#/0005_Combat?id=situational-movement-rates) for more information on climbing, jumping, and running.
 
 ### Boating (STR+CON)
 
@@ -76,7 +76,7 @@ Each Combat Style is the skill to use the weapons expected of a career or cultur
 
 Conceal is the counterpoint to Stealth, being the concealment of large objects rather than the character themselves. For instance, conceal could be used to hide a chariot behind some rocks, or sweep away the wheel ruts it left so its path cannot be tracked. The skill is versatile in application, anything from hiding a scroll in a library to disguising the presence of a trap or secret passage.
 
-### Customs (INT x2+40)
+### Customs (INT x2 +40)
 
 Customs represents the character's knowledge of his own community: its social codes, rites, rituals, taboos, and so on. The skill is used when it is essential to accurately interpret or perform any socially important custom or to behave in a particular way.
 
@@ -106,7 +106,7 @@ The skill of First Aid measures a character's ability to treat minor injuries an
 
 ### Influence (CHA x2)
 
-This is a measurement of a character's ability to persuade others, through personal charisma, into a desired way of behaving. It is used in a wide variety of situations; from changing someone's mind, to bribing an official or guard. Influence rolls are typically opposed by the Perception, Willpower, or another Influence skill, depending on the circumstances, and are modified by how much a character is trying to influence behavior. Attempting to persuade a close friend to loan you their horse may be relatively easy. Getting a usually incorruptible bureaucrat to accept a bribe is more difficult.
+This is a measurement of a character's ability to persuade others, through personal charisma, into a desired way of behaving. It is used in a wide variety of situations; from changing someone's mind, to bribing an official or guard. Influence rolls are typically opposed by Perception, Willpower, or another Influence skill, depending on the circumstances, and are modified by how much a character is trying to influence behavior. Attempting to persuade a close friend to loan you their horse may be relatively easy. Getting a usually incorruptible bureaucrat to accept a bribe is more difficult.
 
 ### Insight (INT+POW)
 
@@ -116,7 +116,7 @@ Insight is the ability to read or intuitively define another's verbal and non-ve
 
 Locale measures a character's understanding of local flora, fauna, terrain, and weather in the area where he or she has spent much of their life, usually within their community. The character knows the common plants, trees, and animals, their properties and behavior: where the best fish can be found; the movements of game creatures; where to find shelter; the likely weather for the season, and the most common regional dangers. In neighboring, yet unfamiliar locations Locale should be made one or more grades harder.
 
-### Native Tongue (INT+CHA+40)
+### Native Tongue (INT+CHA +40)
 
 Native Tongue is the ability to speak and read one's own language, the one learned while growing up in one's home culture. Native Tongue measures articulation, eloquence, and the depth of the speaker's vocabulary.
 
@@ -128,7 +128,7 @@ Perception is used for both passive observation and focused detection; whether h
 
 ### Ride (DEX+POW)
 
-Ride covers the ability to control and remain mounted on those creatures that are trained to be ridden. The skill can be applied to a diverse range of beasts, everything from mules to elephants; even flying or swimming creatures such as giant eagles or dolphins. Riding an unfamiliar species is always one Difficulty Grade harder; while riding a species of a different medium (a horsemana rider riding a dragon, for example) is two grades harder. Wild, untamed creatures cannot be ridden in a constructive manner until they have been broken and trained to be riding beasts.
+Ride covers the ability to control and remain mounted on those creatures that are trained to be ridden. The skill can be applied to a diverse range of beasts, everything from mules to elephants; even flying or swimming creatures such as giant eagles or dolphins. Riding an unfamiliar species is always one Difficulty Grade harder; while riding a species of a different medium (a horse rider riding a dragon, for example) is two grades harder. Wild, untamed creatures cannot be ridden in a constructive manner until they have been broken and trained to be riding beasts.
 
 ### Sing (POW+CHA)
 
@@ -136,17 +136,17 @@ Carrying a tune is covered by Sing, anything from monotonous chants through to c
 
 ### Stealth (DEX+INT)
 
-Hiding out of plain sight, orsight or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armor to jingle.
+Hiding out of plain sight, or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armor to jingle.
 
 ### Swim (STR+CON)
 
-Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See Movement for more information on swimming, including calculating swim speeds.
+Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See [Movement](https://srd.mythras.net/#/0005_Combat?id=situational-movement-rates) for more information on swimming, including calculating swim speeds.
 
 ### Unarmed (STR+DEX)
 
 Unarmed is a universal Combat Skill common to all characters, measuring the ability to defend oneself without the aid of weapons. The Unarmed skill covers the brawling and wrestling techniques known by that culture.
 
-As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the Combat chapter.
+As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the [Combat](https://srd.mythras.net/#/0005_Combat) chapter.
 
 ### Willpower (POW x2)
 
@@ -252,7 +252,7 @@ Lore covers a specific body of knowledge which must be chosen when the skill is 
 
 ### Magic (POW+CHA)
 
-The Magic skill is used for casting the spells described in the Magic section of the Powers chapter. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
+The Magic skill is used for casting the spells described in the [Magic](https://srd.mythras.net/#/0007_Magic) section. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
 
 ### Mechanisms (DEX+INT)
 
@@ -268,7 +268,7 @@ Whether using prominent landmarks, the stars, or the varying taste of seawater, 
 
 ### Oratory (POW+CHA)
 
-Oratory is the art of delivering a speech to a large group of people with the aim of conveying or swaying a point of view. It is a skill frequently used by politicians to drive home a policy, butpolicy but is also used by commanders to inspire troops and impose discipline on the battlefield. Wherever mass persuasion is needed, Oratory, rather than Influence, is used.
+Oratory is the art of delivering a speech to a large group of people with the aim of conveying or swaying a point of view. It is a skill frequently used by politicians to drive home a policy, but is also used by commanders to inspire troops and impose discipline on the battlefield. Wherever mass persuasion is needed, Oratory, rather than Influence, is used.
 
 ### Pilot (DEX+INT)
 
@@ -296,7 +296,7 @@ Seduction is the romantic or sexual persuasion of another person, a skill very d
 
 ### Sensors (INT+POW)
 
-This skill allows the accurate use and analysis of sensor devices from chemical sniffers up to military long rangelong-range scanners.
+This skill allows the accurate use and analysis of sensor devices from chemical sniffers up to military long range scanners.
 
 ### Sleight (DEX+CHA)
 
@@ -318,7 +318,7 @@ Teach allows the user to pass on their knowledge and techniques in an easy to un
 
 The Track skill is used for tracking any form of game or quarry. It uses both obvious and ambiguous signs of passing to remain on the quarry's trail, including footprints, bruised leaves, scattered pollen, displaced rocks, and so on; small, tell-tale signs that are invisible to the non-skilled. Track rolls need to be made periodically, especially if conditions change abruptly (a rain shower, for example, will disturb certain signs). How often depends on how cunning the quarry has been. Conceal rolls can be used to oppose a Track roll.
 
-## Skill Rules for Different Circumstances andSituations
+## Skill Rules for Different Circumstances and Situations
 
 Although the basic rules for using skills in _Mythras Imperative_ are very straightforward, there are a multitude of different circumstances that arise during play that require skills to be handled in a slightly different way. The following sections look at these circumstances and situations and show how to handle them.
 
@@ -344,7 +344,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 **Opposed Roll Examples**
 
 | Activity | Opposed Skill Examples |
-| --- | --- |
+| :-- | :-- |
 | Bargaining/Haggling | Commerce vs. Commerce, Influence vs. Commerce |
 | Chasing/Racing | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
 | Deceiving or Lying | Deceit vs. Insight, Sleight vs. Perception |
@@ -366,7 +366,7 @@ A Differential Roll is determined in the following manner: Both participants rol
 **Differential Roll Results**
 
 | Result of Rolls | Antagonist Critical | Antagonist Success | Antagonist Failure | Antagonist Fumble |
-| --- | --- | --- | --- | --- |
+| :-- | :-: | :-: | :-: | :-: |
 | Protagonist Critical | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
 | Protagonist Success | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |
 | Protagonist Failure | Antagonist Wins 2 Levels of Success | Antagonist Wins 1 Level of Success | No Benefit | No Benefit |
@@ -385,7 +385,7 @@ It can be very useful for both Games Masters and Players to have a common frame 
 **Competency Level Table**
 
 | Skill Rating | Random Value | Competence Level | Military Equivalent | Description |
-| --- | --- | --- | --- | --- |
+| :-- | :-: | :-: | :-: | :-- |
 | 1-30% | 1d20+10 | Novice | Cannon Fodder | Unqualified and learning the basics |
 | 31-50% | 1d20+30 | Competent | Green | Can perform easy tasks if taking time to be careful |
 | 51-70% | 1d20+50 | Proficient | Seasoned | Has reached an employable level of competence |
