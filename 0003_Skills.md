@@ -252,7 +252,7 @@ Lore covers a specific body of knowledge which must be chosen when the skill is 
 
 ### Magic (POW+CHA)
 
-The Magic skill is used for casting the spells described in the [Magic](https://srd.mythras.net/#/0007_Magic) section. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
+The Magic skill is used for casting the spells described in the [Magic and Powers](https://srd.mythras.net/#/0007_Magic) section. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
 
 ### Mechanisms (DEX+INT)
 

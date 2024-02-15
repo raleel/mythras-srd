@@ -4,7 +4,7 @@
 - [Game System](0004_Game_System.md)
 - [Combat](0005_Combat.md)
 - [Vehicles](0006_Vehicles.md)
-- [Magic](0007_Magic.md)
+- [Magic and Powers](0007_Magic.md)
 - [Creatures](0008_Creatures.md)
 ---
 - [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
