@@ -66,6 +66,27 @@
         // Headline depth, 1 - 6
         depth: 3,
       }
+	  // handling of links so they don't open a new window, and just open in the frame instead
+		executeScript: true,
+		// Define custom script to handle link clicks
+		scriptExecution: function() {
+			// Get all links in the document
+			var links = document.querySelectorAll('a');
+			// Loop through each link
+			links.forEach(function(link) {
+				// Add click event listener
+				link.addEventListener('click', function(e) {
+					// Prevent the default behavior (opening link in new tab)
+					e.preventDefault();
+					// Get the target link
+					var href = this.getAttribute('href');
+					// Update the content with the target link
+					window.history.pushState(null, null, href);
+					// Update the content by calling Docsify's function
+					window.Docsify.dom.updateSidebarAndContent();
+				});
+			});
+		}
     };
   </script>
   
