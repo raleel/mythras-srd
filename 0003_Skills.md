@@ -37,7 +37,7 @@ There are some occasions where a skill roll is required, but the chances of succ
 
 _Mythras Imperative_ uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
 
-**Difficulty Grade Table**
+#### Difficulty Grade Table
 
 | Difficulty Grade | Skill Modifier | Simplified Skill Modifier |
 | :-- | :-- | :-: |
@@ -341,7 +341,7 @@ If both participants Fail in an Opposed Roll, then either:
 
 Opposed Rolls are frequently used in certain battle situations to overcome the effects of wounds or oppose a combat Special Effect. They are also used to resist poisons and disease or shrug off the effects of baleful magic.
 
-**Opposed Roll Examples**
+#### Opposed Roll Examples
 
 | Activity | Opposed Skill Examples |
 | :-- | :-- |
@@ -363,7 +363,7 @@ Differential Rolls are similar to Opposed Rolls except that instead of a simple 
 
 A Differential Roll is determined in the following manner: Both participants roll against their respective skills and suffer the results of their roll as if tested in isolation. There is no outright 'winner' per se, but whoever gained the higher Level of Success gains an advantage equal to the difference in the success levels between them (assuming one participant gains at least a Standard success or better). If both participants score the same Level of Success (a Standard success each, or a Critical each), then there is no additional effect.
 
-**Differential Roll Results**
+#### Differential Roll Results
 
 | Result of Rolls | Antagonist Critical | Antagonist Success | Antagonist Failure | Antagonist Fumble |
 | :-- | :-: | :-: | :-: | :-: |
@@ -382,7 +382,7 @@ The identification of who has the highest skill must be calculated after any oth
 
 It can be very useful for both Games Masters and Players to have a common frame of reference for what the value of a skill translates to as a comparable level of competence. Is a craftsman with Craft Wood 48% a good carpenter or merely a competent one? The Competence Level Table helps summarize the different levels of competence one can expect a rating in a skill to represent; it is also a handy reference for Games Masters when assigning general values to skills for Non-Player Characters and adversaries. If a random value for a Non-Player Character skill is needed, then the Random Value column gives the dice code to obtain a value within a desired Competency Level.
 
-**Competency Level Table**
+#### Competency Level Table
 
 | Skill Rating | Random Value | Competence Level | Military Equivalent | Description |
 | :-- | :-: | :-: | :-: | :-- |
