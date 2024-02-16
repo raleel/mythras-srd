@@ -82,7 +82,7 @@ Larger and stronger characters and creatures may gain additional damage in certa
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
-**Damage Modifier**
+#### Damage Modifier
 
 | STR+SIZ | Damage Modifier |
 | :-: | :-:|
@@ -111,7 +111,7 @@ Over the course of play characters improve their skills and capabilities. This i
 
 A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-**Experience Modifier**
+#### Experience Modifier
 
 | CHA | Exp. Modifier |
 |:-:| :-:|
@@ -124,7 +124,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury, the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-**Healing Rate**
+#### Healing Rate
 
 | CON | Healing Rate |
 | :-:| :-:|
@@ -141,7 +141,7 @@ Some creatures, such as monsters or different classes of animal, by their very n
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table, above.
 
-**Hit Points per Location**
+#### Hit Points per Location
 
 | Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
@@ -168,7 +168,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the [Game System](https://srd.mythras.net/#/0004_Game_System?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-**Luck Points**
+#### Luck Points
 
 | POW | Luck Points |
 | :-- | :-: |
@@ -193,7 +193,7 @@ Skills fall into two classes. Everyone has Standard skills – things such as sn
 
 _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](https://srd.mythras.net/#/0005_Combat?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
-**Standard Skills**
+#### Standard Skills
 
 | Skill | Basic Percentage |
 | :-- | :-- |
@@ -274,7 +274,7 @@ Every character starts the game having been trained in a career. The occupation 
 
 Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](https://srd.mythras.net/#/0002_Characters?id=step-4-skills) chapter.
 
-**Careers**
+#### Careers
 
 | Career Name | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
@@ -320,7 +320,7 @@ It is recommended that beginning characters start fresh, with little or no pract
 
 A table is provided, breaking experience into Age Categories. A character's experience has a direct correlation to age and skill competence; more experienced characters naturally have more life experience than their younger compatriots. However, the noted Age Bonus should be treated as approximate, as campaigns advance at different rates — some campaigns have lots of game time pass between adventures while others are one long string of unbroken adventures. When converting an existing character, simply substitute the actual age for that noted on the table.
 
-**Experience Table**
+#### Experience Table
 
 | **Category** | **Age** | **Bonus Skill Points** | **Maximum Skill Increase** |
 | :-- | :-: | :-: | :-: |
@@ -450,7 +450,7 @@ Passions are measured in the same way as skills; they are rated between 1 and 10
 
 Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, profession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens), and Uphold (the Law) instead.
 
-**Passion Table**
+#### Passion Table
 
 | **Object of Passion** | **Starting Percentage** |
 | :-- | :-- |
@@ -489,7 +489,7 @@ For instance, a character with 'Trust Chieftain' might, if his chieftain acts tr
 
 The Deepening and Waning table shows by how much the Passion changes.
 
-**Deepening and Waning**
+#### Deepening and Waning
 
 | **Depth of Change** | **Passion Modified by** |
 | --- | --- |

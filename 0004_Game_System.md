@@ -92,7 +92,7 @@ _**Conditions**_: Every toxin has one or more Conditions. These have specific ef
 
 _**Antidote/Cure**_: If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
 
-**Conditions Table**
+#### Conditions Table
 
 | **Condition** | **Effects** |
 | :-- | :-- |
@@ -124,7 +124,7 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
 
-**Falling Distance Table**
+#### Falling Distance Table
 
 | **Distance Fallen** | **Damage Taken** |
 | :-- | :-- |
@@ -157,7 +157,7 @@ Characters recover from Fatigue depending on their Healing Rate. The amount of c
 
 Note that the table below represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from Asphyxiation or slower if recuperating from Blood Loss.
 
-**Fatigue Levels**
+#### Fatigue Levels
 
 | **Fatigue Level** | **Skill Grade** | **Movement** | **Initiative** | **Action Points** | **Recovery Period** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
@@ -178,7 +178,7 @@ Fires are always a source of danger when used as a weapon or raging out of contr
 
 Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
-**Fire Intensity Table**
+#### Fire Intensity Table
 
 | Intensity | Examples | Time to Ignite | Damage |
 | :-: | :-- | :-: | :-: |
@@ -306,7 +306,7 @@ Breakage attempts require a character to make a Brawn, Unarmed or Combat Style r
 
 Using a weapon against an inanimate object with Armor Points equal to or greater than those of the weapon deals damage to both the object and the weapon. For instance, using an axe on an iron door may damage the door, but the axe itself will be destroyed long before the iron door is. The Games Master should exercise discretion on which weapons or tools can affect which objects. A chisel, for example, is explicitly designed to carve wood or stone whilst a sword, although sharp, is not. The chisel would therefore not take damage from something it is attempting to carve whereas a sword most likely would.
 
-**Inanimate Objects**
+#### Inanimate Objects
 
 | Object | Armor / Hit Points |
 | :-- | :-: |
