@@ -271,7 +271,7 @@ _The rule as written quickly causes issues. Wearing a single piece of 6AP armor 
 
 #### Crawl
 
-A character that begins the Turn prone may crawl at a maximum rate of two metres per Turn in place of a normal Move. Creatures that naturally crawl as their normal mode of movement instead use their full Move rate with faster gaits - Walk, Run, and Sprint - covered in the full Mythras rulebook.
+A character that begins the Turn prone may crawl at a maximum rate of two metres per Turn in place of a normal Move. Creatures that naturally crawl as their normal mode of movement instead use their full Move rate with faster gaits - Walk, Run, and Sprint - covered in the full _Mythras_ rulebook.
 
 #### Jump
 
@@ -287,7 +287,7 @@ A character that moves adjacent to or starts the Turn next to a body of water ma
 
 #### _Swim_
 
-_The published version of _Mythras Imperative_ has no explicit rules for Swim movement at different gaits or speeds. They are covered in the Mythras core rulebook along with penalties for worn armor._
+_The published version of _Mythras Imperative_ has no explicit rules for Swim movement at different gaits or speeds. They are covered in the _Mythras_ core rulebook along with penalties for worn armor._
 
 </details>
 
@@ -503,7 +503,7 @@ A character is considered Engaged if within melee weapon range of an opponent. T
 
 ### Charging
 
-The Charge Action is the act of moving quickly to increase the force and impact of an attack. A charge requires the attacker to choose a Charge Action, moving at either a Running or Sprint gaits - covered in the full Mythras rulebook. If this brings them into contact with their opponent, they must stop there and conduct the Attack action, as modified for the charge. There is no minimum distance that must be covered before a charge can take place, as the distance moved is less a factor than the momentum achieved. Hence running or sprinting.
+The Charge Action is the act of moving quickly to increase the force and impact of an attack. A charge requires the attacker to choose a Charge Action, moving at either a Running or Sprint gaits - covered in the full _Mythras_ rulebook. If this brings them into contact with their opponent, they must stop there and conduct the Attack action, as modified for the charge. There is no minimum distance that must be covered before a charge can take place, as the distance moved is less a factor than the momentum achieved. Hence running or sprinting.
 
 While charging, the attack roll suffers a Difficulty Grade of Hard. In return the charge increases the Size of the attacking weapon by one step and a bipedal attacker's Damage Modifier by one step, or two steps if a quadruped (or more legs). Riding characters may substitute their Damage Modifier for that of their mount instead. The final position of the charging character depends on the result of the exchange and whether the attacker wishes to stop or continue sweeping past, immediately breaking engagement.
 
