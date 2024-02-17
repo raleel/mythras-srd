@@ -192,7 +192,7 @@ Fire-based attacks typically have a percentage chance of igniting flammable mate
 
 ## Game Time
 
-In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the GM may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
+In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the Games Master may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
 
 Following are the important distinctions of game time:
 
