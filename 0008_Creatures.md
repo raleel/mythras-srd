@@ -4,14 +4,14 @@ This section contains a small sample of creatures and various Creature Abilities
 
 ## Sample Creatures
 
-Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are fully described on pages XX to XX.
+Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are more fully described below in the [Creature Abilities](https://srd.mythras.net/#/0008_Creatures?id=Creature-Abilities) section.
 
 The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a wonderful monster repository with thousands of monsters and encounters available to generate. Links to the relevant entries are provided.
 
 ### Giant Ant
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
 
-SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bonus: +11, Move: 12m12m.
+SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bonus: +11, Move: 12m.
 
 **Abilities** : Formidable Natural Weapons
 
@@ -19,28 +19,28 @@ SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bo
 
 **Combat Style** : Ant Attack (Mandibles and Sting) 67%
 
-Bite (Size: M, Damage 1d6+1d2)
+- Bite (Size: M, Damage 1d6+1d2)
 
-Sting (Size: M, Damage 1d4+1d2)
+- Sting (Size: M, Damage 1d4+1d2)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1_ | Right Rear Leg | 4/6 |
-| _2_ | Left Rear Leg | 4/6 |
-| _3_ | Right Middle Leg | 4/6 |
-| _4_ | Left Middle Leg | 4/6 |
-| _5-9_ | Abdomen | 4/9 |
-| _10-13_ | Thorax | 4/6 |
-| _14_ | Right Front | 4/6 |
-| _15_ | Left Front Leg | 4/6 |
-| _16-20_ | Head | 4/7 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1 | Right Rear Leg | 4/6 |
+| 2 | Left Rear Leg | 4/6 |
+| 3 | Right Middle Leg | 4/6 |
+| 4 | Left Middle Leg | 4/6 |
+| 5-9 | Abdomen | 4/9 |
+| 10-13 | Thorax | 4/6 |
+| 14 | Right Front | 4/6 |
+| 15 | Left Front Leg | 4/6 |
+| 16-20 | Head | 4/7 |
 
 ### Bear (Grizzly)
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/276/)
 
-SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +13, Move: 8m8m.
+SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +13, Move: 8m.
 
 **Abilities** : Intimidate, Night Sight
 
@@ -48,49 +48,49 @@ SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative B
 
 **Combat Style** : Ursine Fury (Bite and Claws) 78%
 
-Bite (Size: L, Damage 1d8+1d12,)
+- Bite (Size: L, Damage 1d8+1d12,)
 
-Claw (Size: H, Damage 1d8+1d12)
+- Claw (Size: H, Damage 1d8+1d12)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Right Rear Leg | 3/10 |
-| _4-6_ | Left Rear Leg | 3/10 |
-| _7-9_ | Hindquarters | 3/11 |
-| _10-12_ | Forequarters | 3/12 |
-| _13-15_ | Right Front | 3/10 |
-| _16-18_ | Left Front Leg | 3/10 |
-| _19-20_ | Head | 3/10 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Right Rear Leg | 3/10 |
+| 4-6 | Left Rear Leg | 3/10 |
+| 7-9 | Hindquarters | 3/11 |
+| 10-12 | Forequarters | 3/12 |
+| 13-15 | Right Front | 3/10 |
+| 16-18 | Left Front Leg | 3/10 |
+| 19-20 | Head | 3/10 |
 
 ### Crocodile/Alligator
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11809/)
 
-SIZ: 37, Action Points: 2, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 6m6m.
+SIZ: 37, Action Points: 2, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 6m.
 
 **Abilities** : Camouflaged, Cold Blooded, Swimmer
 
-**Skills** : Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80% Willpower 44%
+**Skills** : Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44%
 
 **Combat Style** : Lurking Death (Bite and Tail) 67%
 
-Bite (Size: H, Damage 1d10+2d6)
+- Bite (Size: H, Damage 1d10+2d6)
 
-Tail (Size: H, Damage 1d8+2d6 – can make Sweep attack)
+- Tail (Size: H, Damage 1d8+2d6 – can make Sweep attack)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Tail | 5/12 |
-| _4-5_ | Right Rear Leg | 5/12 |
-| _6-7_ | Left Rear Leg | 5/12 |
-| _8-10_ | Hindquarters | 5/13 |
-| _11-14_ | Forequarters | 5/14 |
-| _15-16_ | Right Front | 5/12 |
-| _17-18_ | Left Front Leg | 5/12 |
-| _19-20_ | Head | 5/13 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Tail | 5/12 |
+| 4-5 | Right Rear Leg | 5/12 |
+| 6-7 | Left Rear Leg | 5/12 |
+| 8-10 | Hindquarters | 5/13 |
+| 11-14 | Forequarters | 5/14 |
+| 15-16 | Right Front | 5/12 |
+| 17-18 | Left Front Leg | 5/12 |
+| 19-20 | Head | 5/13 |
 
 ### Dragon
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11817/)
@@ -99,41 +99,41 @@ SIZ: 50, Action Points: 4, Damage Modifier: +2d8, Magic Points: 19, Initiative B
 
 **Abilities** : Breathe Flame, Cold Blooded, Dark Sight, Diving Strike, Engulfing, Flying, Formidable Natural Weapons, Immunity (Fire), Terrifying, Trample
 
-**Magic:** 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigour, Witchsight)
+**Magic:** 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight)
 
 **Skills** : Athletics 80%, Brawn 120%, Deceit 78%, Endurance 92%, Evade 68%, Fly 90%, Insight 78%, Locale 68%, Lore (Dragon) 68%, Perception 78%, Teach 58%, Willpower 78%
 
 **Combat Style** : Death and Destruction (Bite, Claws, Tail Sweep) 90%; Flame Breath 80%
 
-Bite (Size: E, Damage 1d12+2d8)
+- Bite (Size: E, Damage 1d12+2d8)
 
-Tail (Size: E, Damage 1d10+2d8 – can make Sweep attack)
+- Tail (Size: E, Damage 1d10+2d8 – can make Sweep attack)
 
-Claw (Size: E, Damage 1d10+2d8)
+- Claw (Size: E, Damage 1d10+2d8)
 
-Flame Breath: 4d6. The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON, and a number of metres wide equal to a quarter of CON. Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals.
+- Flame Breath: 4d6. The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON, and a number of metres wide equal to a quarter of CON. Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals.
 
-Trample (Size: C, Damage 4d8)
+- Trample (Size: C, Damage 4d8)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-2_ | Tail | 8/17 |
-| _3-4_ | Right Rear Leg | 8/17 |
-| _5-6_ | Left Rear Leg | 8/17 |
-| _7-8_ | Hindquarters | 8/18 |
-| _9-10_ | Right Wing | 8/16 |
-| _11-12_ | Left Wing | 8/16 |
-| _13-14_ | Forequarters | 8/19 |
-| _15-16_ | Right Front Leg | 8/17 |
-| _17-18_ | Left Front Leg | 8/17 |
-| _19-20_ | Head | 8/17 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-2 | Tail | 8/17 |
+| 3-4 | Right Rear Leg | 8/17 |
+| 5-6 | Left Rear Leg | 8/17 |
+| 7-8 | Hindquarters | 8/18 |
+| 9-10 | Right Wing | 8/16 |
+| 11-12 | Left Wing | 8/16 |
+| 13-14 | Forequarters | 8/19 |
+| 15-16 | Right Front Leg | 8/17 |
+| 17-18 | Left Front Leg | 8/17 |
+| 19-20 | Head | 8/17 |
 
 ### Goblin/Orc
 [MEG entry] (https://mythras.skoll.xyz/enemy_template/10891/)
 
-SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonus: +11, Move: 6m6m.
+SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonus: +11, Move: 6m.
 
 **Abilities** : Night Sight
 
@@ -141,28 +141,28 @@ SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonu
 
 **Combat Style** : Warrior (Shortsword, Shield, Spear, Sling) 62%
 
-Shortsword (Size: M, Damage 1d6)
+- Shortsword (Size: M, Damage 1d6)
 
-Spear (Size: M, Damage 1d8+1)
+- Spear (Size: M, Damage 1d8+1)
 
-Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
+- Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Right Leg | 1/5 |
-| _4-6_ | Left Leg | 1/5 |
-| _7-9_ | Abdomen | 1/6 |
-| _10-12_ | Chest | 1/7 |
-| _13-15_ | Right Arm | 1/4 |
-| _16-18_ | Left Arm | 1/4 |
-| _19-20_ | Head | 1/5 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Right Leg | 1/5 |
+| 4-6 | Left Leg | 1/5 |
+| 7-9 | Abdomen | 1/6 |
+| 10-12 | Chest | 1/7 |
+| 13-15 | Right Arm | 1/4 |
+| 16-18 | Left Arm | 1/4 |
+| 19-20 | Head | 1/5 |
 
 ### Horse
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/9997/)
 
-SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +11, Move: 12m12m.
+SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +11, Move: 12m.
 
 **Abilities** : Trample
 
@@ -170,24 +170,24 @@ SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative B
 
 **Combat Style** : Rear and Plunge (Hoofs) 62%
 
-Hoof (Size: H, Damage 1d6+1d12)
+- Hoof (Size: H, Damage 1d6+1d12)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Right Hind Leg | 1/9 |
-| _4-6_ | Left Hind Leg | 1/9 |
-| _7-9_ | Hindquarters | 1/10 |
-| _10-12_ | Forequarters | 1/11 |
-| _13-14_ | Right Front Leg | 1/8 |
-| _15-16_ | Left Front Leg | 1/8 |
-| _17-20_ | Head | 1/9 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Right Hind Leg | 1/9 |
+| 4-6 | Left Hind Leg | 1/9 |
+| 7-9 | Hindquarters | 1/10 |
+| 10-12 | Forequarters | 1/11 |
+| 13-14 | Right Front Leg | 1/8 |
+| 15-16 | Left Front Leg | 1/8 |
+| 17-20 | Head | 1/9 |
 
 ### Minotaur
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11814/)
 
-SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +12, Move: 8m8m.
+SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +12, Move: 8m.
 
 **Abilities** : Intimidate
 
@@ -195,57 +195,57 @@ SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative B
 
 **Combat Style** : Minotaur Warrior (Two Handed Axe, 2H spear used one handed, Hoplite Shield, Gore) 67%
 
-Axe (Size: E, Damage 2d8+2+1d6)
+- Axe (Size: E, Damage 2d8+2+1d6)
 
-Spear (Size: H, Damage 1d8+1+1d6)
+- Spear (Size: H, Damage 1d8+1+1d6)
 
-Shield (Size: E, Damage 1d8+1d6)
+- Shield (Size: E, Damage 1d8+1d6, Protects 4 locations for Passive Blocking/Warding)
 
-Gore (Size L, Damage 1d8+1d6)
+- Gore (Size L, Damage 1d8+1d6)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Right Leg | 0/7 |
-| _4-6_ | Left Leg | 0/7 |
-| _7-9_ | Abdomen | 0/8 |
-| _10-12_ | Chest | 0/9 |
-| _13-14_ | Right Arm | 0/6 |
-| _15-16_ | Left Arm | 0/6 |
-| _17-20_ | Head | 3/7 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Right Leg | 0/7 |
+| 4-6 | Left Leg | 0/7 |
+| 7-9 | Abdomen | 0/8 |
+| 10-12 | Chest | 0/9 |
+| 13-14 | Right Arm | 0/6 |
+| 15-16 | Left Arm | 0/6 |
+| 17-20 | Head | 3/7 |
 
 ### Shark
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11815/)
 
-SIZ: 42, Action Points: 3, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 12m (swim)
+SIZ: 42, Action Points: 3, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 12m (swim).
 
 **Abilities** : Blood Sense, Frenzy, Swimmer
 
 **Skills** : Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34%
 
-Combat Style: Jaws (Bite), 81%
+- Combat Style: Jaws (Bite), 81%
 
-Bite (Size: E, Damage 1d10+2d6
+- Bite (Size: E, Damage 1d10+2d6
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Tail | 2/12 |
-| _4-6_ | Dorsal Fin | 2/11 |
-| _7-10_ | Hindquarters | 2/13 |
-| _11-14_ | Forequarters | 2/14 |
-| _15-16_ | Right Fin | 2/11 |
-| _17-18_ | Left Fin | 2/11 |
-| _17-20_ | Head | 2/12 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Tail | 2/12 |
+| 4-6 | Dorsal Fin | 2/11 |
+| 7-10 | Hindquarters | 2/13 |
+| 11-14 | Forequarters | 2/14 |
+| 15-16 | Right Fin | 2/11 |
+| 17-18 | Left Fin | 2/11 |
+| 17-20 | Head | 2/12 |
 
 ### Skeleton
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/7925/)
 
-Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, andstep and thrusting weapons by two steps.
+Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, and thrusting weapons by two steps.
 
-SIZ: 13, Action Points: 2, Damage Modifier: +0, Magic Points: 16, Initiative Bonus: +14, Move: 6m6m.
+SIZ: 13, Action Points: 2, Damage Modifier: +0, Magic Points: 16, Initiative Bonus: +14, Move: 6m.
 
 Abilities: Undead
 
@@ -253,28 +253,28 @@ Abilities: Undead
 
 **Combat Style** : Skeletal Warrior (Sword, Spear, Peltast Shield) 68%, Formation Fighting
 
-Sword (Size: M, Damage 1d6)
+- Sword (Size: M, Damage 1d6)
 
-Spear (Size: H, Damage 1d8+1)
+- Spear (Size: H, Damage 1d8+1)
 
-Shield (Size: L, Damage 1d4)
+- Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Right Leg | 0/5 |
-| _4-6_ | Left Leg | 0/5 |
-| _7-9_ | Abdomen | 0/6 |
-| _10-12_ | Chest | 0/7 |
-| _13-15_ | Right Arm | 0/4 |
-| _16-18_ | Left Arm | 0/4 |
-| _19-20_ | Head | 0/5 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Right Leg | 0/5 |
+| 4-6 | Left Leg | 0/5 |
+| 7-9 | Abdomen | 0/6 |
+| 10-12 | Chest | 0/7 |
+| 13-15 | Right Arm | 0/4 |
+| 16-18 | Left Arm | 0/4 |
+| 19-20 | Head | 0/5 |
 
 ### Xenomorphic Alien
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11816/)
 
-SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +18, Move: 8m8m.
+SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +18, Move: 8m.
 
 **Abilities** : Camouflaged, Frenzy
 
@@ -282,24 +282,24 @@ SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative B
 
 **Combat Style** : Parasitic Alien Horror (Bite, Claw and Tail) 77%
 
-Bite (Size: M, Damage 1d4+1d6)
+- Bite (Size: M, Damage 1d4+1d6)
 
-Claw (Size: M, Damage 1d4+1+1d6)
+- Claw (Size: M, Damage 1d4+1+1d6)
 
-Tail (Size: L, Damage 1d6+1d6 – can make Sweep attack)
+- Tail (Size: L, Damage 1d6+1d6 – can make Sweep attack)
 
 **Hit Locations, Armor Points/Hit Points**
 
-| _**1d20**_ | **Location** | **AP/HP** |
-| --- | --- | --- |
-| _1-3_ | Tail | 6/5 |
-| _4-5_ | Right Rear Leg | 6/6 |
-| _6-7_ | Left Rear Leg | 6/6 |
-| _8-10_ | Abdomen | 6/7 |
-| _11-14_ | Chest | 6/8 |
-| _15-16_ | Right Arm | 6/5 |
-| _17-18_ | Left Arm | 6/5 |
-| _19-20_ | Head | 6/7 |
+| **1d20** | **Location** | **AP/HP** |
+| :-: | :-- | :-: |
+| 1-3 | Tail | 6/5 |
+| 4-5 | Right Rear Leg | 6/6 |
+| 6-7 | Left Rear Leg | 6/6 |
+| 8-10 | Abdomen | 6/7 |
+| 11-14 | Chest | 6/8 |
+| 15-16 | Right Arm | 6/5 |
+| 17-18 | Left Arm | 6/5 |
+| 19-20 | Head | 6/7 |
 
 Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armor first before affecting the flesh below.
 
@@ -307,7 +307,7 @@ Whenever the xenomorph is injured, its acidic blood sprays out over an attacker 
 
 A Creature Ability is something it can do naturally because of its physiology, biology, innate magic, and so forth. Birds, for example, can flap through the air, and so Flying is an ability.
 
-Each of the following Abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided earlier, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a general rule of thumbGenerally, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Grappler and Vampiric. However, in exceptional cases, more Abilities are allowed to reflect the awesome nature of the creature being described.
+Each of the following Abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided earlier, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a general rule of thumb, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Grappler and Vampiric. However, in exceptional cases, more Abilities are allowed to reflect the awesome nature of the creature being described.
 
 #### Adhering
 
@@ -357,11 +357,11 @@ The creature is immune to all diseases. All creatures without SIZ automatically 
 
 #### Diving Strike
 
-Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movement above its target (or possibly below if submerged) in order toto use the diving strike.
+Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movement above its target (or possibly below if submerged) in order to use the diving strike.
 
 #### Earth Sense
 
-Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By sensing vibration and air pressure, a creature with Earth Sense can fight, and make Perception rolls with no penalty as long asif their target is no more than their INS in metres away. If using Earth Sense above ground the range is halved.
+Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By sensing vibration and air pressure, a creature with Earth Sense can fight, and make Perception rolls with no penalty as long as their target is no more than their INS in metres away. If using Earth Sense above ground the range is halved.
 
 #### Echolocation
 
@@ -373,7 +373,7 @@ The creature has an orifice which can swallow targets whole. The maximum size of
 
 #### Flying
 
-The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flier may substitute the Fly skill (base STR+DEX) for Evade whilst fighting whilst aloft.
+The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flier may substitute the Fly skill (base STR+DEX) for Evade if fighting whilst aloft.
 
 #### Formidable Natural Weapons
 
@@ -405,7 +405,7 @@ The creature may intimidate opponents as a prelude to combat or to avoid it alto
 
 #### Leaper
 
-The creature uses Leaping attacks as described in the Combat Section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
+The creature uses Leaping attacks as described in the [Combat](https://srd.mythras.net/#/0005_Combat?id=leaping-attacks) section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
 
 #### Life Sense
 
@@ -413,7 +413,7 @@ In tune with the rhythms of nature, this creature can determine the vitality of 
 
 #### Magic Sense
 
-Similar toLike Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Perception roll, it learns of the target's current magic points, carried enchantments, and active spells.
+Similar to Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Perception roll, it learns of the target's current magic points, carried enchantments, and active spells.
 
 #### Multi-Headed
 
@@ -445,7 +445,7 @@ The creature's appearance, form or aura is so terrifying it forces viewers to ma
 
 #### Trample
 
-The creature is able tocan trample beings with a SIZ of half or less than its own, using its Athletics skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How, and when trample is used depends on the circumstances. If engaged in combat the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
+The creature is able to trample beings with a SIZ of half or less than its own, using its Athletics skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How, and when trample is used depends on the circumstances. If engaged in combat the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
 
 #### Undead
 
@@ -461,4 +461,4 @@ The creature has a venomous bite, sting, or other means of attack.
 
 #### Wing Buffet
 
-The creature is so large it can damage opponents by beating its wings. This requires an Attack Action and does damage equal to its damage bonus to those within 3 metres of the front or side of the creature.
+The creature is so large it can damage opponents by beating its wings. This requires an Attack action and does damage equal to its damage bonus to those within 3 metres of the front or side of the creature.
