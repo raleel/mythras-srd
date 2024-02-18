@@ -62,7 +62,7 @@ Athletics covers a range of physical activities, including climbing, jumping, th
 
 ### Boating (STR+CON)
 
-The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigours of the open sea. Most are propelled using oars, paddles, punts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
+The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigors of the open sea. Most are propelled using oars, paddles, punts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
 
 ### Brawn (STR+SIZ)
 
@@ -182,7 +182,7 @@ Understanding administrative procedures, records, and unspoken conventions are c
 
 ### Commerce (INT+CHA)
 
-Commerce is used to evaluate the worth of goods and commodities and to trade them for the best possible price. It is also used to understand the intricacies of business transactions in addition to securing a profit. A further use is in finding the best way to dispose of stolen and illicit goods – again for the best possible price. Commerce is obviously used when trading and it can be opposed by either an opponent's Commerce skill or Willpower, reflecting the opposing side's attempts to further the deal in their favour. It is also used to judge the market value of goods, gaining an idea of price, and where it will be best traded.
+Commerce is used to evaluate the worth of goods and commodities and to trade them for the best possible price. It is also used to understand the intricacies of business transactions in addition to securing a profit. A further use is in finding the best way to dispose of stolen and illicit goods – again for the best possible price. Commerce is obviously used when trading and it can be opposed by either an opponent's Commerce skill or Willpower, reflecting the opposing side's attempts to further the deal in their favor. It is also used to judge the market value of goods, gaining an idea of price, and where it will be best traded.
 
 ### Comms (INT x2)
 
@@ -304,7 +304,7 @@ Sleight covers attempts to palm or conceal small objects (legerdemain and presti
 
 ### Streetwise (POW+CHA)
 
-Streetwise represents knowledge of places and social contacts within a settlement. It covers everything from identifying potentially dangerous neighbourhoods, to finding local services – legal or illegal. How long a Streetwise attempt takes depends on what is sought. Finding a good inn will take less time than locating a fence for stolen goods or a fake trading permit.
+Streetwise represents knowledge of places and social contacts within a settlement. It covers everything from identifying potentially dangerous neighborhoods, to finding local services – legal or illegal. How long a Streetwise attempt takes depends on what is sought. Finding a good inn will take less time than locating a fence for stolen goods or a fake trading permit.
 
 ### Survival (CON+POW)
 
