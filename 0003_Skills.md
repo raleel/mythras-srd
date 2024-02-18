@@ -39,7 +39,7 @@ _Mythras Imperative_ uses a series of grades to determine how a skill is modifie
 
 #### Difficulty Grade Table
 
-| Difficulty Grade | Skill Modifier | Simplified Skill Modifier |
+| **Difficulty Grade** | **Skill Modifier** | **Simplified Skill Modifier** |
 | :-- | :-- | :-: |
 | Automatic | No need to roll | No need to roll |
 | Very Easy | Double the skill value | +40% |
@@ -343,7 +343,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 
 #### Opposed Roll Examples
 
-| Activity | Opposed Skill Examples |
+| **Activity** | **Opposed Skill Examples** |
 | :-- | :-- |
 | Bargaining/Haggling | Commerce vs. Commerce, Influence vs. Commerce |
 | Chasing/Racing | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
@@ -365,7 +365,7 @@ A Differential Roll is determined in the following manner: Both participants rol
 
 #### Differential Roll Results
 
-| Result of Rolls | Antagonist Critical | Antagonist Success | Antagonist Failure | Antagonist Fumble |
+| **Result of Rolls** | **Antagonist Critical** | **Antagonist Success** | **Antagonist Failure** | **Antagonist Fumble** |
 | :-- | :-: | :-: | :-: | :-: |
 | Protagonist Critical | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success | Protagonist Wins 3 Levels of Success |
 | Protagonist Success | Antagonist Wins 1 Level of Success | No Benefit | Protagonist Wins 1 Level of Success | Protagonist Wins 2 Levels of Success |
@@ -384,7 +384,7 @@ It can be very useful for both Games Masters and Players to have a common frame 
 
 #### Competency Level Table
 
-| Skill Rating | Random Value | Competence Level | Military Equivalent | Description |
+| **Skill Rating** | **Random Value** | **Competence Level** | **Military Equivalent** | **Description** |
 | :-- | :-: | :-: | :-: | :-- |
 | 1-30% | 1d20+10 | Novice | Cannon Fodder | Unqualified and learning the basics |
 | 31-50% | 1d20+30 | Competent | Green | Can perform easy tasks if taking time to be careful |

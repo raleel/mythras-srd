@@ -2,11 +2,11 @@
 
 Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
-- Characteristics: such as Strength or Charisma
+- **Characteristics:** such as Strength or Charisma
 
-- Attributes: things like Height or Movement
+- **Attributes:** things like Height or Movement
 
-- Skills: expertise in fundamental abilities
+- **Skills:** expertise in fundamental abilities
 
 Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
 
@@ -60,13 +60,13 @@ Charisma is a measure of presence and personality and is independent of physical
 
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
-**Dice Roll** : Roll dice for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
+- **Dice Roll:** Roll dice for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
 
-**Dice Roll, Assign** : As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range — but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
+- **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range — but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
 
-**Dice Roll, High** : Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
+- **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
 
-**Points Build** : Players assign Characteristic scores from a predetermined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
+- **Points Build:** Players assign Characteristic scores from a predetermined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
 
 ## Step 3: Attributes
 
@@ -84,7 +84,7 @@ Add together STR and SIZ and consult the Damage Modifier table, below.
 
 #### Damage Modifier
 
-| STR+SIZ | Damage Modifier |
+| **STR+SIZ** | **Damage Modifier** |
 | :-: | :-:|
 | 5 or less | –1d8 |
 | 6–10 | –1d6 |
@@ -113,7 +113,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 #### Experience Modifier
 
-| CHA | Exp. Modifier |
+| **CHA** | **Exp. Modifier** |
 |:-:| :-:|
 | 6 or less | -1 |
 | 7-12 | +0 |
@@ -126,7 +126,7 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 #### Healing Rate
 
-| CON | Healing Rate |
+| **CON** | **Healing Rate** |
 | :-:| :-:|
 | 6 or less | 1 |
 | 7-12 | 2 |
@@ -143,7 +143,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 #### Hit Points per Location
 
-| Location | CON+SIZ |  |  |  |  |  |  |  |  |
+| **Location** | **CON+SIZ** |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -170,7 +170,7 @@ Exactly how they are used, and when, is described in the [Game System](https://s
 
 #### Luck Points
 
-| POW | Luck Points |
+| **POW** | **Luck Points** |
 | :-- | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
@@ -195,7 +195,7 @@ _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat St
 
 #### Standard Skills
 
-| Skill | Basic Percentage |
+| **Skill** | **Basic Percentage** |
 | :-- | :-- |
 | Athletics | STR+DEX |
 | Boating | STR+CON |
@@ -276,7 +276,7 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 
 #### Careers
 
-| Career Name | Standard Skills | Professional Skills |
+| **Career Name** | **Standard Skills** | **Professional Skills** |
 | :-- | :-- | :-- |
 | Agent (Agitator, Assassin, Detective, Informer, Spy…) | Conceal, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Agent or Cultural Style) | Culture (any), Disguise, Language (any), Sleight, Streetwise, Survival, Track |
 | Beast Handler (Animal Breeder, Beast Tamer, Menagerie Keeper…) | Drive, Endurance, First Aid, Influence, Locale, Ride, Willpower | Craft (Animal Husbandry), Commerce, Healing (Specific Species), Lore (Specific Species), Survival, Teach (Specific Species), Track |

@@ -70,27 +70,27 @@ Diseases and poisons are near infinite in their varieties but, for game purposes
 
 All diseases and poisons manifest a number of traits important to their effects.
 
-_**Application**_ – The method of how the disease or poison is introduced into the victim.
+_**Application:**_  The method of how the disease or poison is introduced into the victim.
 
-- _**Ingestion**_ – Effects take place through either eating or drinking.
+- **Ingestion** – Effects take place through either eating or drinking.
 
-- _**Inhaled**_ – Effects take place through breathing or snorting.
+- **Inhaled** – Effects take place through breathing or snorting.
 
-- _**Contact**_ – Effects take place through absorption through the skin.
+- **Contact** – Effects take place through absorption through the skin.
 
-- _**Injected**_ – Effects take place when the substance is injected into the body through piercing.
+- **Injected** – Effects take place when the substance is injected into the body through piercing.
 
-_**Potency**_: The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
+_**Potency:**_ The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
 
-_**Resistance**_: How the disease or poison is resisted – usually either Endurance or Willpower, but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
+_**Resistance:**_ How the disease or poison is resisted – usually either Endurance or Willpower, but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
 
-_**Onset Time**_: Many diseases and poisons do not take immediate effect. The delay is called the Onset Time, and this can be a matter of seconds, minutes, hours, or even longer. Poisons or diseases possessing multiple effects may have different onset times for each one as described under Conditions.
+_**Onset Time:**_ Many diseases and poisons do not take immediate effect. The delay is called the Onset Time, and this can be a matter of seconds, minutes, hours, or even longer. Poisons or diseases possessing multiple effects may have different onset times for each one as described under Conditions.
 
-_**Duration**_: How long a disease or poison's Conditions last.
+_**Duration:**_ How long a disease or poison's Conditions last.
 
-_**Conditions**_: Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resist, he suffers all the Conditions described.
+_**Conditions:**_ Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resist, he suffers all the Conditions described.
 
-_**Antidote/Cure**_: If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
+_**Antidote/Cure:**_ If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
 
 #### Conditions Table
 
@@ -112,13 +112,13 @@ Red pox is a nasty disease spread by skin contact with a person already infected
 
 Victims initially suffer a minor rash, but within a day come down with a serious fever which usually renders them bedridden for the entire duration. During this time, the rash evolves into gruesomely itchy pustules which burst open at the slightest movement, weeping small trickles of blood – especially from the armpits and groin. This stage can last up to a week or more, potentially proving fatal.
 
-- Application: Contact
-- Potency: 50
-- Resistance: Endurance
-- Onset time: 1d6+6 hours
-- Duration: 1d6+3 days
-- Conditions: Once the disease manifests the victim becomes Contagious. 1 day later they begin to suffer Fever and Bleeding. Each day the pustules weep blood the victim loses one level of Fatigue, which does not recover until the duration of the disease has completed.
-- Antidote/Cure: Can be cured by the Healing skill.
+- **Application:** Contact
+- **Potency:** 50
+- **Resistance:** Endurance
+- **Onset time:** 1d6+6 hours
+- **Duration:** 1d6+3 days
+- **Conditions:** Once the disease manifests the victim becomes Contagious. 1 day later they begin to suffer Fever and Bleeding. Each day the pustules weep blood the victim loses one level of Fatigue, which does not recover until the duration of the disease has completed.
+- **Antidote/Cure:** Can be cured by the Healing skill.
 
 ## Falling
 
@@ -128,12 +128,12 @@ The amount of damage suffered in a fall depends on the distance of the drop. Arm
 
 | **Distance Fallen** | **Damage Taken** |
 | :-- | :-- |
-| **1 metre or less** | No damage. |
-| **2-5 metres** | 1d6 points of damage to one random location. |
-| **6-10 metres** | 2d6 points of damage to two random locations. |
-| **11-15 metres** | 3d6 points of damage to three random locations. |
-| **16-20 metres** | 4d6 points of damage to four random locations. |
-| **Each +5 metres** | +1d6 damage. |
+| 1 metre or less | No damage. |
+| 2-5 metres | 1d6 points of damage to one random location. |
+| 6-10 metres | 2d6 points of damage to two random locations. |
+| 11-15 metres | 3d6 points of damage to three random locations. |
+| 16-20 metres | 4d6 points of damage to four random locations. |
+| Each +5 metres | +1d6 damage. |
 
 ### Falling Objects
 
@@ -180,7 +180,7 @@ Fire can ignite flammable materials. If not extinguished immediately such materi
 
 #### Fire Intensity Table
 
-| Intensity | Examples | Time to Ignite | Damage |
+| **Intensity** | **Examples** | **Time to Ignite** | **Damage** |
 | :-: | :-- | :-: | :-: |
 | 1 | Candle | 1d4 | 1d2 |
 | 2 | Torch | 1d3 | 1d4 |
@@ -218,7 +218,7 @@ The humanoid Hit Location table is repeated here for ease of reference.
 
 #### Humanoid Hit Locations
 
-| 1d20 | Hit Location |
+| **1d20** | **Hit Location** |
 | :-: | :-- |
 | 1-3 | Right Leg |
 | 4-6 | Left Leg |
@@ -243,9 +243,9 @@ The rolled damage for the weapon or attack is modified by the certain conditions
 
 If the damage inflicted by the attack is above zero, then the Hit Location sustains that amount of damage, with the damage total being immediately removed from the location's Hit Points. Note how many Hit Points the location has remaining, and the wound category that results.
 
-- _**Minor Wound**_: Hit Location still has positive Hit Points
-- _**Serious Wound**_: Hit Location is reduced to zero Hit Points or below.
-- _**Major Wound**_: Hit Location is reduced to a negative score equal or greater than its starting Hit Points
+- **Minor Wound:** Hit Location still has positive Hit Points
+- **Serious Wound:** Hit Location is reduced to zero Hit Points or below.
+- **Major Wound:** Hit Location is reduced to a negative score equal or greater than its starting Hit Points
 
 Use the following rules if a location receives a Serious or Major Wound. Note that wounds requiring Endurance checks test them in an Opposed Roll against the value of the original attack roll. This reflects the ability of highly skilled warriors to make more deadly strikes. Endurance rolls are not repeated unless the location is wounded again.
 
@@ -283,11 +283,11 @@ In special cases where key characters receive a Major Wound, the Games Master mi
 
 Natural healing from wounds and injuries is based on the character's Healing Rate. The Healing Rate dictates how many Hit Points are recovered in a location depending on the injury's nature:
 
-- _**Minor Wounds**_: Days
+- **Minor Wounds:** Days
 
-- _**Serious Wounds**_: Weeks
+- **Serious Wounds:** Weeks
 
-- _**Major Wounds**_: Months
+- **Major Wounds:** Months
 
 Thus, a character with a Healing Rate of 3 who suffers damage taking him to –3 in a Hit Location, a Serious Wound, will heal naturally at a rate of 3 Hit Points per week until his wound goes above zero, and then heal 3 Hit Points per day until fully recovered.
 
@@ -308,7 +308,7 @@ Using a weapon against an inanimate object with Armor Points equal to or greater
 
 #### Inanimate Objects
 
-| Object | Armor / Hit Points |
+| **Object** | **Armor / Hit Points** |
 | :-- | :-: |
 | Castle Gate | 8/150 |
 | Castle Wall | 10/500 |

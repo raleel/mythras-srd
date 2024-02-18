@@ -12,11 +12,11 @@ For superpowers, Power Points recover at a rate of one per full minute of rest, 
 
 ### Casting Spells
 
-Spells are cast using the Magic skill ;skill; without it, magic is simply not possible. Preparing and casting a spell requires one Action and a successful Magic roll. If the roll fails, the spell does not work and must be readied and attempted again later. If the roll succeeds, the spell works, and Magic Points are deducted from the Magic Point pool.
+Spells are cast using the Magic skill; without it, magic is simply not possible. Preparing and casting a spell requires one Action and a successful Magic roll. If the roll fails, the spell does not work and must be readied and attempted again later. If the roll succeeds, the spell works, and Magic Points are deducted from the Magic Point pool.
 
 ### Using Superpowers
 
-Superhero characters find that their superpower is always working, and so needs no roll to use or Power Point expenditure; however, if trying to Boost a power ,power, then there is a Power Point cost.
+Superhero characters find that their superpower is always working, and so needs no roll to use or Power Point expenditure; however, if trying to Boost a power, then there is a Power Point cost.
 
 ## Beginning Powers and Learning New Ones
 
@@ -32,12 +32,12 @@ For superheroes, the Games Master and player should decide how the character cam
 
 Superheroes start with a number of core powers determined by POW plus another Characteristic based on the source of the powers: CON for altered physiology (mutation, alien species, experimentation) or INT for technology or skill-based powers (cybernetics, battle suits, intense training, and so on). See the table, below.
 
-A core power can be exchanged for two Boosts that can be applied to any core power. A character may also take up to two Limits from the list starting in the Super Powers section, with one providing a bonus Boost, or two granting a bonus core power. A selection of powers and example Boosts are listed in the Super Powers section.
+A core power can be exchanged for two Boosts that can be applied to any core power. A character may also take up to two Limits from the list starting in the Super Powers section, with one providing a bonus Boost, or two granting a bonus core power. A selection of powers and example Boosts are listed in the [Super Powers](https://srd.mythras.net/#/0007_Magic?id=superpowers) section.
 
-**Super Powers Table**
+#### Super Powers Table
 
-| POW+ Characteristic | Core Powers |
-|---------------------|-------------|
+| **POW+ Characteristic** | **Core Powers** |
+|:--|:-:|
 | 12 or less          | 1           |
 | 13-20               | 2           |
 | 21-30               | 3           |
@@ -50,10 +50,10 @@ Whenever a character wishes to use a spell, they make a roll against their Magic
 
 If the Magic roll is a...
 
--   Critical Success: the spell's Magic Point cost is zero.
--   Success: the caster loses 1 Magic Point, and the spell works
--   Failure: the caster loses 1 Magic Point, but the spell does not work.
--   Fumble: the caster loses 1d3 Magic Points for the spell and the spell fails.
+- **Critical Success:** the spell's Magic Point cost is zero.
+- **Success:** the caster loses 1 Magic Point, and the spell works
+- **Failure:** the caster loses 1 Magic Point, but the spell does not work.
+- **Fumble:** the caster loses 1d3 Magic Points for the spell and the spell fails.
 
 Due to their minor or petty nature, all Magic spells have a default Intensity and Magnitude of 1.
 
@@ -73,11 +73,11 @@ Unless a spell has either the Concentration or Instant traits it has a natural d
 
 Magic Traits are as follows:
 
--   **Concentration**: The spell's effects remain in place if the caster continues to concentrate on maintaining it. Concentration requires the caster to be free of all physical and mental distractions: any such disturbance interrupts the concentration, resulting in the spell's immediate dismissal.
--   **Instant**: The spell's effects happen immediately. It has no duration.
--   **Ranged**: Spells with the Ranged trait can be cast at a distance of up to the character's Magic score in metres. The caster must know the location of the target, such as 'hiding behind the door': if they are unable to directly see or sense the target of the spell, then the Magic roll becomes one grade harder.
--   **Resist (Endurance, Evade, Willpower)**: Any spell that is not readily accepted by a target can be actively resisted using either Endurance, Evade or Willpower, as determined by this trait. To successfully resist a spell, the target must win an Opposed Roll of the relevant skill against the caster's Magic casting result. If the target fails in the roll, then the spell takes effect as normal. Note that resisting is usually a passive action if Endurance or Willpower are the being used. If a spell requires the target to Evade, then it costs an Action Point to make the Evade attempt. Targets without Action Points to spend in evading will therefore be powerless against the spell's effect.
--   **Touch**: The caster must be in physical contact with the target whilst the spell is cast. If a target is intent on resisting physical contact, then the caster will most likely fail to complete his spell unless some specific circumstance prevents the target's withdrawal, such as surprise or the Grip special effect. A touch spell merely needs to contact the target or its carried accouterments to work.
+- **Concentration:** The spell's effects remain in place if the caster continues to concentrate on maintaining it. Concentration requires the caster to be free of all physical and mental distractions: any such disturbance interrupts the concentration, resulting in the spell's immediate dismissal.
+- **Instant:** The spell's effects happen immediately. It has no duration.
+- **Ranged:** Spells with the Ranged trait can be cast at a distance of up to the character's Magic score in metres. The caster must know the location of the target, such as 'hiding behind the door': if they are unable to directly see or sense the target of the spell, then the Magic roll becomes one grade harder.
+- **Resist (Endurance, Evade, Willpower):** Any spell that is not readily accepted by a target can be actively resisted using either Endurance, Evade or Willpower, as determined by this trait. To successfully resist a spell, the target must win an Opposed Roll of the relevant skill against the caster's Magic casting result. If the target fails in the roll, then the spell takes effect as normal. Note that resisting is usually a passive action if Endurance or Willpower are the being used. If a spell requires the target to Evade, then it costs an Action Point to make the Evade attempt. Targets without Action Points to spend in evading will therefore be powerless against the spell's effect.
+- **Touch:** The caster must be in physical contact with the target whilst the spell is cast. If a target is intent on resisting physical contact, then the caster will most likely fail to complete his spell unless some specific circumstance prevents the target's withdrawal, such as surprise or the Grip special effect. A touch spell merely needs to contact the target or its carried accouterments to work.
 
 ## Spell Descriptions
 
@@ -139,7 +139,7 @@ Darkness creates an area of shadow, equal to POW in square metres, which suppres
 
 Instant, Ranged, Resist (Endurance)
 
-Disruption is used for damaging or dissembling physical objects without the need for tools. It is commonly employed to drive off or kill living creatures, such as birds or vermin. When successfully cast, Disruption inflicts 1d3 damage to a single random Hit Location or the overall Hit Points of an object. In both cases the damage ignores any armor or natural protection.
+Disruption is used for damaging or disassembling physical objects without the need for tools. It is commonly employed to drive off or kill living creatures, such as birds or vermin. When successfully cast, Disruption inflicts 1d3 damage to a single random Hit Location or the overall Hit Points of an object. In both cases the damage ignores any armor or natural protection.
 
 ### Extinguish
 
@@ -246,20 +246,21 @@ A character may also take up to two Limits from the list below, with one providi
 
 Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armor value of the highest value material used, which is also the base armor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost:
 
-| Armor Values          | Power Point Cost |
-|-----------------------|------------------|
+| **Armor Values**          | **Power Point Cost** |
+|:--|:-:|
 | Plastic or Soft Wood  | 2                |
 | Concrete or Hard Wood | 4                |
 | Soft Metal or Stone   | 6                |
 | Hard Metal            | 8                |
 
-**Boost**: Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
+**Boost:** Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
 
 ### Combat Expert
 
 Choose one type of combat expertise from the list below, plus one for every boost spent.
 
-Melee expertise grants one bonus Action Point that can only be used defensively, and effective weapon size is increased by one step for attacks and parries. Ranged expertise reduces the situational modifiers by two grades instead of one when aiming and reload time of ranged weapons is reduced by one.
+- Melee expertise grants one bonus Action Point that can only be used defensively, and effective weapon size is increased by one step for attacks and parries. 
+- Ranged expertise reduces the situational modifiers by two grades instead of one when aiming and reload time of ranged weapons is reduced by one.
 
 Boost: Spend 2 Power Points to gain an extra Action Point that can only be used to Attack or Ready Weapon.
 
@@ -267,25 +268,25 @@ Boost: Spend 2 Power Points to gain an extra Action Point that can only be used 
 
 Hit points are calculated using CON+SIZ+POW and Healing Rate is calculated using CON+ half POW, rounded up.
 
-**Boost**: Spend 2 Power Points as a free action to regain Healing Rate in lost Hit Points or a lost level of Fatigue.
+**Boost:** Spend 2 Power Points as a free action to regain Healing Rate in lost Hit Points or a lost level of Fatigue.
 
 ### Elemental Control
 
 Choose a specific material or type of energy. Spend an action to control up to half POW in cubic metres of the element anywhere within POW metres. May alter the basic form or create complex shapes with a successful Craft (specific element) check. Upon creation choose either a close combat attack or a ranged attack. The close combat attack has a reach of Very Long and the ranged attack has a range of 8/24/100, then choose any two Combat Effects. Damage and force/size is determined by POW: 8 or less: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-**Boost**: Spend 3 Power Points to sheathe the character in the element for the scene. Solid materials gain an armor value equal to one fifth POW, rounded up. If it is energy, unarmed attacks inflict extra damage equal to the base damage of the power and unarmed attacks against the character suffer the same damage to the limb used.
+**Boost:** Spend 3 Power Points to sheathe the character in the element for the scene. Solid materials gain an armor value equal to one fifth POW, rounded up. If it is energy, unarmed attacks inflict extra damage equal to the base damage of the power and unarmed attacks against the character suffer the same damage to the limb used.
 
 ### Energy Blast
 
 Fire blasts of a specific type of energy out to a range of 10/30/120 and choose two Combat Effects to apply at time of creation. Damage and force are determined by the character's POW: 8 or less: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. To hit, the character rolls against either an applicable Combat Style for the power or uses Unarmed.
 
-**Boost**: Spend 2 Power Points and an action to inflict +1d6 damage on the next energy blast attack.
+**Boost:** Spend 2 Power Points and an action to inflict +1d6 damage on the next energy blast attack.
 
 ### Enhanced Reactions
 
 Gain a bonus to initiative rolls equal to the critical range of Athletics skill and never end up prone after using Evade.
 
-**Boost**: Spend 1 Power Point to make the next Athletics or Acrobatics check one difficulty grade easier.
+**Boost:** Spend 1 Power Point to make the next Athletics or Acrobatics check one difficulty grade easier.
 
 ### Enhanced Speed
 
@@ -293,67 +294,67 @@ Increase base movement by a multiplier based on DEX+POW. Maximum speed outside o
 
 DEX+POW: 12 or less: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Boost**: Spend 2 Power Points to gain an extra Action Point that can only be used to Change Range, Move, or Outmaneuver.
+**Boost:** Spend 2 Power Points to gain an extra Action Point that can only be used to Change Range, Move, or Outmaneuver.
 
 ### Enhanced Strength
 
 Damage bonus is calculated using STR+SIZ+POW and maximum lift is determined by the character's STR+POW: 12 or less: 1 ton, 13-24: 2 tons, 25-36: 3 tons, 37+: 5 tons. Unarmed attacks count as large size and melee and thrown objects have their size or force increased by one.
 
-**Boost**: Spend 3 Power Points to double maximum lift for one action or task.
+**Boost:** Spend 3 Power Points to double maximum lift for one action or task.
 
 ### Flight
 
 Gain a flight speed equal to POW in metres, with a maximum speed outside of combat equal to ten times movement in kilometres per hour.
 
-**Boost**: Spend 3 Power Points during an aerial Move action to initiate a charge attack during the movement.
+**Boost:** Spend 3 Power Points during an aerial Move action to initiate a charge attack during the movement.
 
 ### Heightened Sense
 
 Choose one sense. Perception checks with that sense are one skill grade easier.
 
-**Boost**: Spend 2 Power Points to use the core power for a different sense.
+**Boost:** Spend 2 Power Points to use the core power for a different sense.
 
 ### Inherent armor
 
 Provides an armor value to all locations equal to one third of CON, rounded up. Characters may choose to reduce the value of a location by up to two points to add it to another location; for example, lowering the value of their right arm to add to their head.
 
-**Boost**: When struck by an attack, gain an extra armor point against it for each 1 Power Point spent.
+**Boost:** When struck by an attack, gain an extra armor point against it for each 1 Power Point spent.
 
 ### Life Support
 
 Gain immunity to two environmental conditions or biological requirements.
 
-**Boost**: Gain immunity to two additional environments or requirements.
+**Boost:** Gain immunity to two additional environments or requirements.
 
 ### Lucky
 
 Calculate base Luck Points with CHA and half of POW, rounded up.
 
-**Boost**: When doubles are rolled spend 3 Power Points to gain a temporary Luck Point which must be used by the end of the scene.
+**Boost:** When doubles are rolled spend 3 Power Points to gain a temporary Luck Point which must be used by the end of the scene.
 
 ### Regeneration
 
 Regain one Hit Point to all wounded locations at the start of each round if the location has not sustained a Major Wound.
 
-**Boost**: Enter a healing trance and spend 1 Power Point per hour to regain one Hit Point to a location with a Major Wound.
+**Boost:** Enter a healing trance and spend 1 Power Point per hour to regain one Hit Point to a location with a Major Wound.
 
 ### Savant
 
 Choose three skills with one characteristic in common and checks with them are one grade easier.
 
-**Boost**: When using a specialized skill such as Craft or Science that is also a Savant skill, spend 3 Power Points to gain a specialty the character doesn't have for one task at the same level as the Savant skill.
+**Boost:** When using a specialized skill such as Craft or Science that is also a Savant skill, spend 3 Power Points to gain a specialty the character doesn't have for one task at the same level as the Savant skill.
 
 ### Teleport
 
 Teleport to any visible point within POW in metres as a move action.
 
-**Boost**: Spend 2 Power Points to teleport up to half of POW in metres, rounded up, as a free action.
+**Boost:** Spend 2 Power Points to teleport up to half of POW in metres, rounded up, as a free action.
 
 ### Vaporous Form
 
 As an action turn into a cloud of vapor or fine particles that is incapable of interacting with the physical world but is immune to physical attacks. Gain a flying speed equal to one- third POW in metres and pass through openings of any size. Energy based attacks inflict half damage to the character's Power Points. If reduced to 0 Power Points the character returns to a solid state and must make a Hard Endurance check of fall unconscious for 1d6+1 minutes.
 
-**Boost**: Spend 3 Power Point to solidify one hit location for one action.
+**Boost:** Spend 3 Power Point to solidify one hit location for one action.
 
 ### Limits
 
