@@ -8,22 +8,29 @@ Use these Sample Creatures as the inspiration for your own creations, adapting t
 
 The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a wonderful monster repository with thousands of monsters and encounters available to generate. Links to the relevant entries are provided.
 
-### Giant Ant
+---
+### Giant Ant 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
 
-SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bonus: +11, Move: 12m.
+| Creature Name | Giant Ant  |
+| :-- | :-- |
+| Key Attributes | STR 16, CON 19, SIZ 14, DEX 15, INT 7, POW 4, CHA 0 |
+| Action Points | 2 | 
+| Damage Modifier | +1d2 |
+| Initiative | +11 |
+| Move | 12m |
+| Abilities | Formidable Natural Weapons |
+| Skills | Athletics 67%, Brawn 68%, Endurance 74%, Evade 56%, Perception 53%, Track 66%, Willpower 48% |
+| Combat Style | Ant Attack (Mandibles and Sting) 67% |
 
-**Abilities** : Formidable Natural Weapons
+#### Weapon Details
 
-**Skills** : Athletics 67%, Brawn 68%, Endurance 74%, Evade 56%, Perception 53%, Track 66%, Willpower 48%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | M | T | 1d6+1d2 | as location |
+| Sting | M | M | 1d4+1d2 | as location |
 
-**Combat Style** : Ant Attack (Mandibles and Sting) 67%
-
-- Bite (Size: M, Damage 1d6+1d2)
-
-- Sting (Size: M, Damage 1d4+1d2)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -37,22 +44,29 @@ SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bo
 | 15 | Left Front Leg | 4/6 |
 | 16-20 | Head | 4/7 |
 
+---
 ### Bear (Grizzly)
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/276/)
 
-SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +13, Move: 8m.
+| Creature Name | Bear (Grizzly)  |
+| :-- | :-- |
+| Key Attributes | STR 26, CON 16, SIZ 34, DEX 16, INT 10, POW 6, CHA 0 |
+| Action Points | 3 | 
+| Damage Modifier | +1d12 |
+| Initiative | +13 |
+| Move | 8m |
+| Abilities | Intimidate, Night Sight |
+| Skills | Athletics 68%, Brawn 79%, Endurance 66%, Evade 46%, Perception 60%, Stealth 66%, Survival 60%, Swim 68%, Track 66%, Willpower 44% |
+| Combat Style | Ursine Fury (Bite and Claws) 78% |
 
-**Abilities** : Intimidate, Night Sight
+#### Weapon Details
 
-**Skills** : Athletics 68%, Brawn 79%, Endurance 66%, Evade 46%, Perception 60%, Stealth 66%, Survival 60%, Swim 68%, Track 66%, Willpower 44%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | L | L | 1d8+1d12 | as location |
+| Claw | H | VL | 1d8+1d12 | as location |
 
-**Combat Style** : Ursine Fury (Bite and Claws) 78%
-
-- Bite (Size: L, Damage 1d8+1d12,)
-
-- Claw (Size: H, Damage 1d8+1d12)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -64,22 +78,29 @@ SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative B
 | 16-18 | Left Front Leg | 3/10 |
 | 19-20 | Head | 3/10 |
 
+---
 ### Crocodile/Alligator
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11809/)
 
-SIZ: 37, Action Points: 2, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 6m.
+| Creature Name | Crocodile/Alligator  |
+| :-- | :-- |
+| Key Attributes | STR 31, CON 19, SIZ 37, DEX 14, INT 12, POW 6, CHA 0 |
+| Action Points | 2 | 
+| Damage Modifier | +2d6 |
+| Initiative | +13 |
+| Move | 6m |
+| Abilities | Camouflaged, Cold Blooded, Swimmer |
+| Skills | Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44% |
+| Combat Style | Lurking Death (Bite and Tail) 67% |
 
-**Abilities** : Camouflaged, Cold Blooded, Swimmer
+#### Weapon Details
 
-**Skills** : Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | H | M | 1d10+2d6 | as location | |
+| Tail | H | L | 1d8+2d6 | as location | Can make Sweep attacks |
 
-**Combat Style** : Lurking Death (Bite and Tail) 67%
-
-- Bite (Size: H, Damage 1d10+2d6)
-
-- Tail (Size: H, Damage 1d8+2d6 – can make Sweep attack)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -92,30 +113,34 @@ SIZ: 37, Action Points: 2, Damage Modifier: +2d6, Magic Points: 7, Initiative Bo
 | 17-18 | Left Front Leg | 5/12 |
 | 19-20 | Head | 5/13 |
 
+---
 ### Dragon
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11817/)
 
-SIZ: 50, Action Points: 4, Damage Modifier: +2d8, Magic Points: 19, Initiative Bonus: +19, Move: 12m/18m FlyingFlying.
+| Creature Name | Dragon  |
+| :-- | :-- |
+| Key Attributes | STR 33, CON 35, SIZ 50, DEX 18, INT 20, POW 19, CHA 17 |
+| Action Points | 4 | 
+| Magic Points | 19 | 
+| Damage Modifier | +2d8 |
+| Initiative | +19 |
+| Move | 12m/18m Flying |
+| Abilities | Breathe Flame, Cold Blooded, Dark Sight, Diving Strike, Engulfing, Flying, Formidable Natural Weapons, Immunity (Fire), Terrifying, Trample |
+| Skills | Athletics 80%, Brawn 120%, Deceit 78%, Endurance 92%, Evade 68%, Fly 90%, Insight 78%, Locale 68%, Lore (Dragon) 68%, Perception 78%, Teach 58%, Willpower 78% |
+| Magic | 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight) |
+| Combat Style | Death and Destruction (Bite, Claws, Tail Sweep) 90%; Flame Breath 80% |
 
-**Abilities** : Breathe Flame, Cold Blooded, Dark Sight, Diving Strike, Engulfing, Flying, Formidable Natural Weapons, Immunity (Fire), Terrifying, Trample
+#### Weapon Details
 
-**Magic:** 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight)
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | E | L | 1d12+2d8 | as location | |
+| Claw | E | L | 1d10+2d8 | as location | |
+| Flame Breath | 9m | 35m | 4d6 | - | The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON, and a number of metres wide equal to a quarter of CON. Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals. |
+| Tail | E | M | 1d10+2d8 | as location | Can make Sweep attacks |
+| Trample | C | T | 4d8 | - | 
 
-**Skills** : Athletics 80%, Brawn 120%, Deceit 78%, Endurance 92%, Evade 68%, Fly 90%, Insight 78%, Locale 68%, Lore (Dragon) 68%, Perception 78%, Teach 58%, Willpower 78%
-
-**Combat Style** : Death and Destruction (Bite, Claws, Tail Sweep) 90%; Flame Breath 80%
-
-- Bite (Size: E, Damage 1d12+2d8)
-
-- Tail (Size: E, Damage 1d10+2d8 – can make Sweep attack)
-
-- Claw (Size: E, Damage 1d10+2d8)
-
-- Flame Breath: 4d6. The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON, and a number of metres wide equal to a quarter of CON. Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals.
-
-- Trample (Size: C, Damage 4d8)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -130,24 +155,31 @@ SIZ: 50, Action Points: 4, Damage Modifier: +2d8, Magic Points: 19, Initiative B
 | 17-18 | Left Front Leg | 8/17 |
 | 19-20 | Head | 8/17 |
 
+---
 ### Goblin/Orc
-[MEG entry] (https://mythras.skoll.xyz/enemy_template/10891/)
+[MEG entry](https://mythras.skoll.xyz/enemy_template/10891/)
 
-SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonus: +11, Move: 6m.
+| Creature Name | Goblin/Orc  |
+| :-- | :-- |
+| Key Attributes | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
+| Action Points | 2 | 
+| Damage Modifier | - |
+| Initiative | +11 |
+| Move | 6m |
+| Abilities | Night Sight |
+| Skills | Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42% |
+| Combat Style | Warrior (Shortsword, Shield, Spear, Sling) 62% |
 
-**Abilities** : Night Sight
+#### Weapon Details
 
-**Skills** : Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Shortsword | M | M | 1d6 | 6/8 | |
+| Spear | M | L | 1d8+1 | 4/5 | |
+| Sling | L | 10/150/300 | 1d8 | 1/2 |  |
+| Shield | L | S | 1d4 | 4/9 | Protects 3 locations for Passive Blocking/Warding |
 
-**Combat Style** : Warrior (Shortsword, Shield, Spear, Sling) 62%
-
-- Shortsword (Size: M, Damage 1d6)
-
-- Spear (Size: M, Damage 1d8+1)
-
-- Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -159,20 +191,29 @@ SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonu
 | 16-18 | Left Arm | 1/4 |
 | 19-20 | Head | 1/5 |
 
+---
 ### Horse
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/9997/)
 
-SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +11, Move: 12m.
+| Creature Name | Horse  |
+| :-- | :-- |
+| Key Attributes | STR 26, CON 16, SIZ 31, DEX 16, INT 10, POW 6, CHA 0 |
+| Action Points | 2 | 
+| Damage Modifier | +1d12 |
+| Initiative | +11 |
+| Move | 12m |
+| Abilities | Trample |
+| Skills | Athletics 52%, Brawn 83%, Endurance 66%, Evade 40%, Perception 48%, Willpower 34% |
+| Combat Style | Rear and Plunge (Hoofs) 62% |
 
-**Abilities** : Trample
+#### Weapon Details
 
-**Skills** : Athletics 52%, Brawn 83%, Endurance 66%, Evade 40%, Perception 48%, Willpower 34%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Hoof | H | M | 1d6+1d12 | |
+| Trample | E | T | 2d12 | - | 
 
-**Combat Style** : Rear and Plunge (Hoofs) 62%
-
-- Hoof (Size: H, Damage 1d6+1d12)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -184,26 +225,31 @@ SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative B
 | 15-16 | Left Front Leg | 1/8 |
 | 17-20 | Head | 1/9 |
 
+---
 ### Minotaur
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11814/)
 
-SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +12, Move: 8m.
+| Creature Name | Minotaur |
+| :-- | :-- |
+| Key Attributes | STR 15, CON 14, SIZ 22, DEX 11, INT 13, POW 11, CHA 7 |
+| Action Points | 2 | 
+| Damage Modifier | +1d6 |
+| Initiative | +12 |
+| Move | 8m |
+| Abilities | Intimidate |
+| Skills | Athletics 57%, Brawn 79%, Customs 66%, Endurance 66%, Evade 40%, Insight 44%, Locale 56%, Lore (Herding) 66%, Perception 54%, Unarmed 57%, Willpower 42% |
+| Combat Style | Minotaur Warrior (Two Handed Axe, 2H spear used one handed, Hoplite Shield, Gore) 67% |
 
-**Abilities** : Intimidate
+#### Weapon Details
 
-**Skills** : Athletics 57%, Brawn 79%, Customs 66%, Endurance 66%, Evade 40%, Insight 44%, Locale 56%, Lore (Herding) 66%, Perception 54%, Unarmed 57%, Willpower 42%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Gore | L | M | 1d8+1d6 | as location | |
+| Two Handed Axe | E | VL | 2d8+2+1d6 | 6/12 | |
+| Spear | H | VL | 1d10+1+1d6 | 4/10 | |
+| Hoplite Shield | E | M | 1d4+1d6 | 6/15 | Protects 4 locations for Passive Blocking/Warding |
 
-**Combat Style** : Minotaur Warrior (Two Handed Axe, 2H spear used one handed, Hoplite Shield, Gore) 67%
-
-- Axe (Size: E, Damage 2d8+2+1d6)
-
-- Spear (Size: H, Damage 1d8+1+1d6)
-
-- Shield (Size: E, Damage 1d8+1d6, Protects 4 locations for Passive Blocking/Warding)
-
-- Gore (Size L, Damage 1d8+1d6)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -215,20 +261,28 @@ SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative B
 | 15-16 | Left Arm | 0/6 |
 | 17-20 | Head | 3/7 |
 
+---
 ### Shark
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11815/)
 
-SIZ: 42, Action Points: 3, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 12m (swim).
+| Creature Name | Shark  |
+| :-- | :-- |
+| Key Attributes | STR 22, CON 19, SIZ 42, DEX 20, INT 6, POW 6, CHA 0 |
+| Action Points | 3 | 
+| Damage Modifier | +2d6 |
+| Initiative | +13 |
+| Move | 12m (swim) |
+| Abilities | Blood Sense, Frenzy, Swimmer |
+| Skills | Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34% |
+| Combat Style | Jaws (Bite), 81% |
 
-**Abilities** : Blood Sense, Frenzy, Swimmer
+#### Weapon Details
 
-**Skills** : Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | E | M | 1d10+2d6 | as location | |
 
-- Combat Style: Jaws (Bite), 81%
-
-- Bite (Size: E, Damage 1d10+2d6
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -240,26 +294,31 @@ SIZ: 42, Action Points: 3, Damage Modifier: +2d6, Magic Points: 7, Initiative Bo
 | 17-18 | Left Fin | 2/11 |
 | 17-20 | Head | 2/12 |
 
+---
 ### Skeleton
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/7925/)
 
-Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, and thrusting weapons by two steps.
+| Creature Name | Skeleton  |
+| :-- | :-- |
+| Key Attributes | STR 11, CON 14, SIZ 13, DEX 11, INT 11, POW 16, CHA 7 |
+| Action Points | 2 | 
+| Damage Modifier | - |
+| Initiative | +11 |
+| Move | 6m |
+| Abilities | Undead |
+| Special | Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, and thrusting weapons by two steps. |
+| Skills | Athletics 68%, Brawn 45%, Endurance 44%, Evade 72%, Perception 57%, Unarmed 68%, Willpower 72% |
+| Combat Style | Skeletal Warrior (Sword, Spear, Peltast Shield) 68% - Formation Fighting |
 
-SIZ: 13, Action Points: 2, Damage Modifier: +0, Magic Points: 16, Initiative Bonus: +14, Move: 6m.
+#### Weapon Details
 
-Abilities: Undead
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Shortsword | M | M | 1d6 | 6/8 | |
+| Spear | M | L | 1d8+1 | 4/5 | |
+| Shield | L | S | 1d4 | 4/12 | Protects 3 locations for Passive Blocking/Warding |
 
-**Skills** : Athletics 68%, Brawn 45%, Endurance 44%, Evade 72%, Perception 57%, Unarmed 68%, Willpower 72%
-
-**Combat Style** : Skeletal Warrior (Sword, Spear, Peltast Shield) 68%, Formation Fighting
-
-- Sword (Size: M, Damage 1d6)
-
-- Spear (Size: H, Damage 1d8+1)
-
-- Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -271,24 +330,31 @@ Abilities: Undead
 | 16-18 | Left Arm | 0/4 |
 | 19-20 | Head | 0/5 |
 
+---
 ### Xenomorphic Alien
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11816/)
 
-SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +18, Move: 8m.
+| Creature Name | Xenomorphic Alien  |
+| :-- | :-- |
+| Key Attributes | STR 23, CON 11, SIZ 16, DEX 24, INT 12, POW 12, CHA 13 |
+| Action Points | 3 | 
+| Damage Modifier | +1d6 |
+| Initiative | +18 |
+| Move | 8m |
+| Abilities | Camouflaged, Frenzy |
+| Special | Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armor first before affecting the flesh below. |
+| Skills | Athletics 77%, Brawn 68%, Endurance 56%, Evade 80%, Perception 62%, Stealth 76%, Track 64, Willpower 52% |
+| Combat Style | Parasitic Alien Horror (Bite, Claw and Tail) 77% |
 
-**Abilities** : Camouflaged, Frenzy
+#### Weapon Details
 
-**Skills** : Athletics 77%, Brawn 68%, Endurance 56%, Evade 80%, Perception 62%, Stealth 76%, Track 64, Willpower 52%
+| Weapon | Size | Reach | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :--: | :-- |
+| Bite | H | M | 1d4+1d6 | as location | |
+| Claw | H | M | 1d4+1+1d6 | as location | |
+| Tail | H | L | 1d6+1d6 | as location | Can make Sweep attacks |
 
-**Combat Style** : Parasitic Alien Horror (Bite, Claw and Tail) 77%
-
-- Bite (Size: M, Damage 1d4+1d6)
-
-- Claw (Size: M, Damage 1d4+1+1d6)
-
-- Tail (Size: L, Damage 1d6+1d6 – can make Sweep attack)
-
-**Hit Locations, Armor Points/Hit Points**
+#### Hit Locations & Armor
 
 | **1d20** | **Location** | **AP/HP** |
 | :-: | :-- | :-: |
@@ -301,8 +367,7 @@ SIZ: 16, Action Points: 3, Damage Modifier: +1d6, Magic Points: 11, Initiative B
 | 17-18 | Left Arm | 6/5 |
 | 19-20 | Head | 6/7 |
 
-Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armor first before affecting the flesh below.
-
+---
 ## Creature Abilities
 
 A Creature Ability is something it can do naturally because of its physiology, biology, innate magic, and so forth. Birds, for example, can flap through the air, and so Flying is an ability.
