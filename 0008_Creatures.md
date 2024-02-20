@@ -4,7 +4,7 @@ This section contains a small sample of creatures and various Creature Abilities
 
 ## Sample Creatures
 
-Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are more fully described below in the [Creature Abilities](https://srd.mythras.net/#/0008_Creatures?id=Creature-Abilities) section.
+Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are more fully described below in the [Creature Abilities](0008_Creatures.md?id=Creature-Abilities) section.
 
 The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a wonderful monster repository with thousands of monsters and encounters available to generate. Links to the relevant entries are provided.
 
@@ -470,7 +470,7 @@ The creature may intimidate opponents as a prelude to combat or to avoid it alto
 
 #### Leaper
 
-The creature uses Leaping attacks as described in the [Combat](https://srd.mythras.net/#/0005_Combat?id=leaping-attacks) section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
+The creature uses Leaping attacks as described in the [Combat](0005_Combat.md?id=leaping-attacks) section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
 
 #### Life Sense
 

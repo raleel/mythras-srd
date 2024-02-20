@@ -88,9 +88,9 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 
 Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
 
-The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](https://srd.mythras.net/#/0006_Vehicles?id=system-damage-table) below.
+The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
 
-Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](https://srd.mythras.net/#/0006_Vehicles?id=damage) section below.
+Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
 
 ## Traits
 
@@ -239,7 +239,7 @@ The vehicle propels itself using articulated legs. Walker vehicles are capped at
 
 #### Weaponized
 
-The vehicle has been adapted to accommodate weaponry. Weapon systems are discussed below in the [Weapons](https://srd.mythras.net/#/0006_Vehicles?id=weapons) section.
+The vehicle has been adapted to accommodate weaponry. Weapon systems are discussed below in the [Weapons](0006_Vehicles.md?id=weapons) section.
 
 ## Handling and Maneuvers
 
@@ -281,7 +281,7 @@ Usually, only military hulls are designed to accommodate weaponry (hard points, 
 
 The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponized civilian vehicle).
 
-Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the [Weapons](https://srd.mythras.net/#/0006_Vehicles?id=weapons) section.
+Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the [Weapons](0006_Vehicles.md?id=weapons) section.
 
 ### Damage
 

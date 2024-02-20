@@ -129,7 +129,7 @@ The character can attempt to close in on or retreat from an opponent, as long as
 
 #### Charge
 
-The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. These rules are covered in more detail in the [Charging](https://srd.mythras.net/#/0005_Combat?id=charging) section below.
+The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. These rules are covered in more detail in the [Charging](0005_Combat.md?id=charging) section below.
 
 #### Delay
 
@@ -153,7 +153,7 @@ Provided one is not engaged with an opponent, the character can move any distanc
 
 #### Outmaneuver
 
-The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on [Outmaneuvering](https://srd.mythras.net/#/0005_Combat?id=outmaneuvering) below.
+The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who Fail to beat his roll cannot attack him in that Combat Round. See the section on [Outmaneuvering](0005_Combat.md?id=outmaneuvering) below.
 
 #### Ready Weapon
 
@@ -185,7 +185,7 @@ Switch Fire allows the user of an automatic or dual-purpose firearm to change th
 
 #### Take Cover
 
-Take Cover is a proactive action which allows a shooter to duck behind whatever cover is available in their immediate vicinity, thereby gaining some degree of protection against incoming fire. Unlike Evade it does not leave the user prone but does rely on some form of cover being available, for example ducking back around a corner in a corridor or crouching down behind a table in a bar. Depending on circumstances, the available cover may or may not be sufficient to completely protect the character. The type of cover will also determine its protective qualities; a thick steel door for instance may prove impenetrable to bullets, whereas a thin wooden wall might only provide 4 Armor Points. For general guidelines concerning the protective qualities of certain materials, see the table in the [Inanimate Objects](https://srd.mythras.net/#/0004_Game_System?id=inanimate-objects) section.
+Take Cover is a proactive action which allows a shooter to duck behind whatever cover is available in their immediate vicinity, thereby gaining some degree of protection against incoming fire. Unlike Evade it does not leave the user prone but does rely on some form of cover being available, for example ducking back around a corner in a corridor or crouching down behind a table in a bar. Depending on circumstances, the available cover may or may not be sufficient to completely protect the character. The type of cover will also determine its protective qualities; a thick steel door for instance may prove impenetrable to bullets, whereas a thin wooden wall might only provide 4 Armor Points. For general guidelines concerning the protective qualities of certain materials, see the table in the [Inanimate Objects](0004_Game_System.md?id=inanimate-objects) section.
 
 ### Reactive Actions
 
@@ -235,7 +235,7 @@ Using a Luck Point – to re-roll a particular result for example – is a Free 
 
 The character guards a particular Hit Location from being hit by dedicating one of his weapons to passively block the area. Any blow which lands on that location has its damage automatically downgraded as per normal for a parrying weapon of its Size. The cover continues until the dedicated weapon is used to attack or actively Parry. Establishing or changing the Hit Location covered must be performed prior to an opponent rolling to attack the character. Due to their design, shields can cover multiple areas.
 
-For further explanation see [Passive Blocking](https://srd.mythras.net/#/0005_Combat?id=passive-blocking) below.
+For further explanation see [Passive Blocking](0005_Combat.md?id=passive-blocking) below.
 
 ## Movement
 
@@ -279,7 +279,7 @@ A character that moves adjacent to or starts the Turn next to a jumpable obstacl
 
 #### Swim
 
-A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the Swim description in the [Skills](https://srd.mythras.net/#/0003_Skills?id=swim-strcon) section for more information.
+A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the Swim description in the [Skills](0003_Skills.md?id=swim-strcon) section for more information.
 
 <details>
 
@@ -668,7 +668,7 @@ Since gunfire is not normally resisted by an opposing skill, a special provision
 
 ### Parrying Weapon Fire with Shields
 
-As expressed earlier, it is almost impossible to deliberately parry a supersonic projectile or energy beam. Shields however still provide a degree of protection since in effect they are portable 'cover'. To utilize a shield in a firefight, just use the Passive Blocking rules from the [Close Combat](https://srd.mythras.net/#/0005_Combat?id=passive-blocking) section, above.
+As expressed earlier, it is almost impossible to deliberately parry a supersonic projectile or energy beam. Shields however still provide a degree of protection since in effect they are portable 'cover'. To utilize a shield in a firefight, just use the Passive Blocking rules from the [Close Combat](0005_Combat.md?id=passive-blocking) section, above.
 
 With regard to more modern firearms or those of a science fiction nature, a Game Master may wish to grant the shield an Armor Point value rather than assigning it a Size, based upon the inherent material it is made from. For example, a wooden shield might be treated as 4 Armor Points, a Kevlar tactical shield 8 AP, and a Ulysses 31 bracelet force field shield 15 AP.
 
@@ -676,7 +676,7 @@ With regard to more modern firearms or those of a science fiction nature, a Game
 
 A telescopic sight improves the accuracy of a firearm over greater distances when the user takes the time to aim properly (see Aiming). The most basic telescopic sights are merely optical magnifiers, but as technology advances, they begin to incorporate integral rangefinders, projectile trajectory calculators, air movement sensors, atmospheric lensing compensators, IR or low light amplifiers and a host of other gadgets which improve its effective 'hit' distance.
 
-Telescopic Sights make skill rolls easier by one or more Grades (see [Modifying Skills](https://srd.mythras.net/#/0003_Skills?id=modifying-skills)), depending on the sophistication of the sight. No sight can make a skill roll an Automatic success, so the best Grade that can be attained is Very Easy.
+Telescopic Sights make skill rolls easier by one or more Grades (see [Modifying Skills](0003_Skills.md?id=modifying-skills)), depending on the sophistication of the sight. No sight can make a skill roll an Automatic success, so the best Grade that can be attained is Very Easy.
 
 ## Arms and Armor
 

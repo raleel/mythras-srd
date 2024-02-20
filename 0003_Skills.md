@@ -58,7 +58,7 @@ Outside of combat, _Mythras_ _Imperative_ does not provide a definitive list of 
 
 ### Athletics (STR+DEX)
 
-Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See [Movement](https://srd.mythras.net/#/0005_Combat?id=situational-movement-rates) for more information on climbing, jumping, and running.
+Athletics covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a single roll against the Athletics skill. See [Movement](0005_Combat.md?id=situational-movement-rates) for more information on climbing, jumping, and running.
 
 ### Boating (STR+CON)
 
@@ -140,13 +140,13 @@ Hiding out of plain sight, or moving with minimal sound are covered by the Steal
 
 ### Swim (STR+CON)
 
-Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See [Movement](https://srd.mythras.net/#/0005_Combat?id=situational-movement-rates) for more information on swimming, including calculating swim speeds.
+Without development, the ability to swim is limited to being able to thrash around and keep one's head above the water for a short time. Higher Swim percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Swim roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See [Movement](0005_Combat.md?id=situational-movement-rates) for more information on swimming, including calculating swim speeds.
 
 ### Unarmed (STR+DEX)
 
 Unarmed is a universal Combat Skill common to all characters, measuring the ability to defend oneself without the aid of weapons. The Unarmed skill covers the brawling and wrestling techniques known by that culture.
 
-As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the [Combat](https://srd.mythras.net/#/0005_Combat) chapter.
+As Unarmed is a Combat Skill its Critical and Fumble effects are covered by the rules for combat, as detailed in the [Combat](0005_Combat.md) chapter.
 
 ### Willpower (POW x2)
 
@@ -252,7 +252,7 @@ Lore covers a specific body of knowledge which must be chosen when the skill is 
 
 ### Magic (POW+CHA)
 
-The Magic skill is used for casting the spells described in the [Magic and Powers](https://srd.mythras.net/#/0007_Magic) section. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
+The Magic skill is used for casting the spells described in the [Magic and Powers](0007_Magic.md) section. A successful roll is needed for a spell to work, although the spell may still be resisted by an opposing skill such as Willpower.
 
 ### Mechanisms (DEX+INT)
 
