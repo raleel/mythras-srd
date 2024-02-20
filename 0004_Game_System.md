@@ -17,7 +17,7 @@ Once the period of held breath is over, characters must make an Endurance roll:
 
 Without aid, death from Asphyxiation is usually swift. If the Asphyxiation ends before the character dies, they recover Fatigue levels lost to suffocation relatively quickly, regaining one level per minute.
 
-Depending on the method of Asphyxiation, the Games Master may wish to prevent full recovery, imposing an enduring level of Fatigue (refer to the section on [Fatigue](https://srd.mythras.net/#/0004_Game_System?id=fatigue)) to represent damage to the lungs caused by smoke or water inhalation.
+Depending on the method of Asphyxiation, the Games Master may wish to prevent full recovery, imposing an enduring level of Fatigue (refer to the section on [Fatigue](0004_Game_System.md?id=fatigue)) to represent damage to the lungs caused by smoke or water inhalation.
 
 ## Character Improvement
 
@@ -50,7 +50,7 @@ The same skill may not benefit from more than one Experience Roll per session.
 
 ### Increasing Passions
 
-As described under Passions in the [Passions](https://srd.mythras.net/#/0002_Characters?id=step-8-passions) section, the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
+As described under Passions in the [Passions](0002_Characters.md?id=step-8-passions) section, the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
 
 _For example, constant spurning from an unrequited love might eventually wear down the Passion of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them._
 
@@ -97,8 +97,8 @@ _**Antidote/Cure:**_ If the toxin can be treated it will be noted here. Successf
 | **Condition** | **Effects** |
 | :-- | :-- |
 | Agony | The victim is hindered by intense pain. Whether in a location or the entire body, any skill roll involving use of the affected area must also be less or equal to the character's Willpower, otherwise the attempt fails, and they moan or scream in pain. |
-| Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules from the  [Asphyxiation](https://srd.mythras.net/#/0004_Game_System?id=asphyxiation) section are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the latter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the disease or poison. |
-| Bleeding | The victim suffers from either internal bleeding or surface hemorrhaging which leads to the Fatigue and recovery times described under the [Fatigue](https://srd.mythras.net/#/0004_Game_System?id=fatigue) and [Blood Loss](https://srd.mythras.net/#/0004_Game_System?id=blood-loss) sections below. |
+| Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules from the  [Asphyxiation](0004_Game_System.md?id=asphyxiation) section are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the latter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the disease or poison. |
+| Bleeding | The victim suffers from either internal bleeding or surface hemorrhaging which leads to the Fatigue and recovery times described under the [Fatigue](0004_Game_System.md?id=fatigue) and [Blood Loss](0004_Game_System.md?id=blood-loss) sections below. |
 | Contagious | The victim can transfer the poison or disease by touch. |
 | Death | The victim collapses incapacitated and dies after a number of rounds equal to their CON characteristic. |
 | Fever | The victim's body temperature fluctuates wildly – from hot to cold – and muscles ache. All skills suffer a difficulty grade of Hard. |
@@ -269,7 +269,7 @@ If a location is reduced to a negative score equal to or greater than its starti
 
 The victim of a Major Wound to the abdomen, chest, or head drops unconscious, totally Incapacitated, and must immediately make an Opposed Roll of Endurance versus the successful attack roll of his enemy. Failure results in an instant and gratuitous death (decapitated, chopped in half, impaled through the heart, torn apart, and so forth). If they survive, and the location is not treated within a number of Combat Rounds equal to twice the character's Healing Rate, they still die from blood loss and shock.
 
-Since most Major Wounds require some form of surgery or significant magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see [Healing from Injury](https://srd.mythras.net/#/0004_Game_System?id=healing-from-injury) below).
+Since most Major Wounds require some form of surgery or significant magic to heal, the sufferer will be very unlikely to recover from a Major Wound in time to rejoin combat. Depending on the available treatment, the wounded location will be potentially maimed (see [Healing from Injury](0004_Game_System.md?id=healing-from-injury) below).
 
 ### Blood Loss
 
