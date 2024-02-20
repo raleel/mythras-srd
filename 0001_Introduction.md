@@ -65,3 +65,5 @@ _Mythras Imperative_ uses the standard polyhedral dice set: d4, d6, d8, d10 d12,
 d2: Roll any die. An odds number equals 1 and evens equals 2. Or flip a coin.
 
 d3: Roll a six-sided die; 1-2 = 1, 3-4 = 2, 5-6 = 3
+
+[Test](0005_Combat.md)
