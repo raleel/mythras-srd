@@ -66,4 +66,8 @@ d2: Roll any die. An odds number equals 1 and evens equals 2. Or flip a coin.
 
 d3: Roll a six-sided die; 1-2 = 1, 3-4 = 2, 5-6 = 3
 
-[Test](0005_Combat.md)
+### Test Links
+
+- [Test](0005_Combat.md)
+- [Test header](0005_Combat.md?id=combat-style)
+
