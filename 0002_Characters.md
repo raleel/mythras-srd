@@ -137,7 +137,7 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven: the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
-Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the [Damage and Wound Levels](https://srd.mythras.net/#/0004_Game_System?id=damage-and-wound-levels) section.
+Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the [Damage and Wound Levels](0004_Game_System.md?id=damage-and-wound-levels) section.
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table, above.
 
@@ -154,7 +154,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 ### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](https://srd.mythras.net/#/0005_Combat?id=combat-style) chapter goes into more detail on how Initiative is used.
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0005_Combat.md?id=combat-style) chapter goes into more detail on how Initiative is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -166,7 +166,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 - Mitigate physical damage or other unfortunate circumstances.
 - Gain an edge at a vital moment in combat.
 
-Exactly how they are used, and when, is described in the [Game System](https://srd.mythras.net/#/0004_Game_System?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
+Exactly how they are used, and when, is described in the [Game System](0004_Game_System.md?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
 #### Luck Points
 
@@ -191,7 +191,7 @@ Every creature has a Movement Rate – a number of metres that can be travelled 
 
 Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
-_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](https://srd.mythras.net/#/0005_Combat?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
+_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
 #### Standard Skills
 
@@ -272,7 +272,7 @@ _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navig
 
 Every character starts the game having been trained in a career. The occupation chosen may not necessarily be the one the character continues to follow as the character begins adventuring life, but it is the career embarked on as part of the transition to adulthood and it further defines skill development. Each career presents a range of Standard skills appropriate to it and permits the player to pick up to three of the listed Professional skills. Distribute 100 Career Skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. As with cultures a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
-Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](https://srd.mythras.net/#/0002_Characters?id=step-4-skills) chapter.
+Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](0002_Characters.md?id=step-4-skills) chapter.
 
 #### Careers
 
@@ -363,7 +363,7 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
 - Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramid.
-- Passions which gain the values noted in the [Passions](https://srd.mythras.net/#/0002_Characters?id=step-8-passions) section, and in addition to any allocations made from the pyramid.
+- Passions which gain the values noted in the [Passions](0002_Characters.md?id=step-8-passions) section, and in addition to any allocations made from the pyramid.
 - No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50-point value to a Combat Style.
 - Six of the values must be allocated to Professional Skills.
 - Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
@@ -384,7 +384,7 @@ These are traditional Pulp Heroes. They aren't superheroes or demigods, and a we
 
 #### Characteristics
 
-When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics) section. Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 90 points.
+When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters](0002_Characters.md?id=calculating-characteristics) section. Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 90 points.
 
 #### Attributes
 
@@ -416,7 +416,7 @@ As a result, Paragon characters won't be for everyone, but if a setting needs ch
 
 #### Characteristics
 
-When generating characters using the Dice Roll Assign method in the [Characters](https://srd.mythras.net/#/0002_Characters?id=calculating-characteristics) section. Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 100 points.
+When generating characters using the Dice Roll Assign method in the [Characters](0002_Characters.md?id=calculating-characteristics) section. Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 100 points.
 
 #### Attributes
 
