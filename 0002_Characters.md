@@ -107,7 +107,7 @@ Add together STR and SIZ and consult the Damage Modifier table, below.
 
 ### Experience Modifier
 
-Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](https://srd.mythras.net/#/0004_Game_System?id=experience-rolls) section.
+Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0004_Game_System.md?id=experience-rolls) section.
 
 A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
