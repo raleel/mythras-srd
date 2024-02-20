@@ -226,7 +226,7 @@ _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat St
 
 Culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies he or she might have. More practically, culture helps augment the values of the various skills that shape your character's overall capabilities. There are four basic human cultures: Barbarian, Civilized, Nomadic and Primitive. Each cultural background lists a range of Standard skills appropriate to it and invites the player to pick up to three of the presented Professional skills: in this way players from the same cultural background can ensure that their adventurers are different in the areas they have developed. Distribute 100 Culture skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. Games Masters may wish to apply a cap to how many skill points can be applied to any particular skill.
 
-## Barbarian
+### Barbarian
 
 Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
 
@@ -236,7 +236,7 @@ _**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perceptio
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
 
-## Civilized
+### Civilized
 
 The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tombstones, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
 
@@ -246,7 +246,7 @@ _**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willp
 
 _**Professional Skills**_: Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
 
-## Nomadic
+### Nomadic
 
 Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
 
@@ -256,7 +256,7 @@ _**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and tw
 
 _**Professional Skills**_: Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
 
-## Primitive
+### Primitive
 
 Of all peoples, primitives are those that live closest with the land, in tune with its hidden secrets. Living in extended family groups, primitive cultures gather around very simple dwellings that can range from caves and areas of natural shelter through to lean-tos or very basic huts. Primitives are typically hunter-gatherers with either few, or poorly developed, systems for farming and husbandry.
 
