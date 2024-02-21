@@ -292,13 +292,13 @@ _**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
 
-### Step 6: Career
+## Step 6: Career
 
 Every character starts the game having been trained in a career. The occupation chosen may not necessarily be the one the character continues to follow as the character begins adventuring life, but it is the career embarked on as part of the transition to adulthood and it further defines skill development. Each career presents a range of Standard skills appropriate to it and permits the player to pick up to three of the listed Professional skills. Distribute 100 Career Skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. As with cultures a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
 Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](0002_Characters.md?id=step-4-skills) chapter.
 
-#### Careers Table
+### Careers Table
 
 | **Career Name** | **Standard Skills** | **Professional Skills** |
 | :-- | :-- | :-- |
@@ -464,7 +464,7 @@ All Paragon characters double their Healing Rate when suffering from Minor or Se
 
 Paragon Heroic characters gain an additional 100 Bonus Skill Points to allocate as needed.
 
-### Step 8: Passions
+## Step 8: Passions
 
 Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
@@ -474,7 +474,7 @@ Passions are measured in the same way as skills; they are rated between 1 and 10
 
 Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, profession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens), and Uphold (the Law) instead.
 
-#### Passion Table
+### Passion Table
 
 | **Object of Passion** | **Starting Percentage** |
 | :-- | :-- |

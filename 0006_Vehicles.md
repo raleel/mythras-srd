@@ -70,7 +70,7 @@ Increasing a vehicle's Speed beyond its standard value is possible on a successf
 
 A driver can attempt to push a vehicle's speed by 2 steps, but this requires a Herculean Drive roll and the maximum the vehicle can sustain this speed is 1d3 minutes: a Critical Success will not extend the increased speed's duration.
 
-#### Speed Rating Table 
+### Speed Rating Table 
 
 | **Speed Rating** | **Max Speed For** |
 | :-- | :-: |
@@ -100,7 +100,7 @@ Every vehicle has an inherent trait: the travel mode for which it was primarily 
 
 Some traits may not be available, depending on the technology level of the setting; Games Masters must make their own judgment calls as to what traits can be applied.
 
-#### Vehicle Trait Allocation Table 
+### Vehicle Trait Allocation Table 
 
 | **Size** | **Max Traits** |
 | :-- | :-: |
