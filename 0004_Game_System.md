@@ -124,7 +124,7 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
 
-#### Falling Distance Table
+### Falling Distance Table
 
 | **Distance Fallen** | **Damage Taken** |
 | :-- | :-- |
@@ -178,7 +178,7 @@ Fires are always a source of danger when used as a weapon or raging out of contr
 
 Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
-#### Fire Intensity Table
+### Fire Intensity Table
 
 | **Intensity** | **Examples** | **Time to Ignite** | **Damage** |
 | :-: | :-- | :-: | :-: |

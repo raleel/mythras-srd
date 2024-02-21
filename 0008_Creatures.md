@@ -436,94 +436,94 @@ The creature senses its environment through reflections of sonic waves. This mea
 
 The creature has an orifice which can swallow targets whole. The maximum size of an engulfed victim is figured as half the creature's own SIZ but may be less than this depending on the creature's physiology. When engulfed the victim suffers at least one damage roll based on the creature's bite attack before being swallowed – the time spent chewing depends on the creature, and how sensitive its innards are. If still alive a swallowed victim will begin to suffocate, likely dying by asphyxiation before suffering any noticeable damage from stomach acid. Realistically, an engulfed victim lacks the mobility to move inside the digestive tract or the creature is so large that he will die long before he can cut its way out.
 
-#### Flying
+### Flying
 
 The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flier may substitute the Fly skill (base STR+DEX) for Evade if fighting whilst aloft.
 
-#### Formidable Natural Weapons
+### Formidable Natural Weapons
 
 This creature can actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which can shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
 
-#### Frenzy
+### Frenzy
 
 When wounded or exposed to a particular substance – blood for instance – the creature must succeed in a Willpower roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this time, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
 
-#### Gaze Attack
+### Gaze Attack
 
 The creature has a gaze attack. This attack may be active (the creature must consciously spend an Action Point on its turn to use it on a foe) or passive (anyone looking at the creature is affected), as listed in the creature's description.
 
-#### Grappler
+### Grappler
 
 If the creature successfully strikes in combat, it can immediately seize hold of the opponent in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Brawn skill to resist a victim from breaking free.
 
-#### Hold Breath
+### Hold Breath
 
 The creature can hold its breath for extended periods of time. If prepared and remaining fairly static, the creature can hold its breath for a number of minutes equal to its CON. This period is halved if the creature is active, such as when swimming or fighting.
 
-#### Immunity
+### Immunity
 
 The creature is completely immune to damage caused by one type of source. This source (cold, fire, iron, etc.) will be noted in the creature's listing, but a narrative description may be necessary for some of the more specific immunities.
 
-#### Intimidate
+### Intimidate
 
 The creature may intimidate opponents as a prelude to combat or to avoid it altogether: growls, snarls, lowering of horns, and so forth. Opponents must make an unopposed Willpower roll to hold their ground; a success allows a character to stand his ground, whereas a failure indicates that they must spend the next round instinctively placing distance between themselves and the creature. If he fumbles the Willpower roll, then the character flees at maximum speed. A critical success allows the character to ignore any further intimidation attempts by the creature or its brethren during that encounter. The effect continues for as long as the creature continues to act in a threatening manner, which includes it making an attack.
 
-#### Leaper
+### Leaper
 
 The creature uses Leaping attacks as described in the [Combat](0005_Combat.md?id=leaping-attacks) section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
 
-#### Life Sense
+### Life Sense
 
 In tune with the rhythms of nature, this creature can determine the vitality of any living creature by touch alone. If the creature makes a successful Perception roll, it learns of the target's current injuries, Fatigue level, and whether it is currently afflicted by any poison or disease. The creature is also aware of any form of life within a number of metres equal to its Willpower skill, which may make Stealth difficult to accomplish.
 
-#### Magic Sense
+### Magic Sense
 
 Similar to Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Perception roll, it learns of the target's current magic points, carried enchantments, and active spells.
 
-#### Multi-Headed
+### Multi-Headed
 
 The creature gains an additional Combat Action per extra head possessed beyond the first. These are lost as each individual head is incapacitated or severed. Provided one head remains active, the creature can still control its shared body. When a multi-headed creature resists spells which affect emotions or intellect, it rolls individual saves for each still intact head.
 
-#### Multi-Limbed
+### Multi-Limbed
 
 Similar to Multi-headed, the creature gains an additional Combat Action per extra pair of limbs (beyond the first) it can bring to bear during combat – those normally used to hold up or move the creature do not count. These extra Combat Actions can only be used to perform actions with those specific limbs and are lost as each pair are immobilized or incapacitated.
 
-#### Night Sight
+### Night Sight
 
 Allows the creature to treat partial darkness as illuminated and darkness as partial darkness.
 
-#### Poison Immunity
+### Poison Immunity
 
 The creature is immune to all poisons. All creatures without SIZ automatically have this Trait, although it is not specifically listed in their descriptions.
 
-#### Regeneration
+### Regeneration
 
 The creature can regenerate Hit Points lost to damage. The speed of regeneration varies depending upon the creature. Unless specifically noted, regeneration does not replace lost limbs, and the severing of a vital location (head, chest, or abdomen) will still result in death.
 
-#### Swimmer
+### Swimmer
 
 The creature automatically succeeds in everyday moving and maneuvering whilst swimming and need not roll their Swim skill unless attempting an unusually difficult task, such as swimming against a powerful tide or leaping up a waterfall. A swimmer may substitute the Swim skill for Athletics and Evade rolls whilst in water.
 
-#### Terrifying
+### Terrifying
 
 The creature's appearance, form or aura is so terrifying it forces viewers to make an unopposed Willpower roll. Success indicates the viewer is shaken for one round and cannot act offensively. Failure causes them to flee in terror. A fumble causes the viewer to collapse unconscious from the shock. Only a critical success allows the viewer to act unhindered. The viewer need not make any further checks for the remainder of the combat, even if more of the same creatures are present. Repeated exposure to a specific type of Terrifying monster may eventually permit the skill check to become one or more grades easier.
 
-#### Trample
+### Trample
 
 The creature is able to trample beings with a SIZ of half or less than its own, using its Athletics skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How, and when trample is used depends on the circumstances. If engaged in combat the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
 
-#### Undead
+### Undead
 
 Being already dead, the creature is immune to the consequences of both fatigue and severe injuries. Undead are thus immune to all the detrimental effects of Serious Wounds. Even Major Wounds do not incapacitate them, although they can still have locations severed or shattered as per normal. Treat the head or chest location of the undead creature as the area where the spirit or magic has been bound. Any location (and those contiguous to it) which is smashed or severed from the bound area ceases to function, but the remainder of the body can continue if it still has limbs with which to act. A Major Wound to the magic-infused location destroys the undead outright. Only fully corporeal dead creatures may possess the Undead trait.
 
-#### Vampiric
+### Vampiric
 
 The creature drains its victim's blood, causing an increase in Fatigue levels. The creature must use a bite attack, and cause damage with the bite to be able to drain blood at the rate described in the creature's description.
 
-#### Venomous
+### Venomous
 
 The creature has a venomous bite, sting, or other means of attack.
 
-#### Wing Buffet
+### Wing Buffet
 
 The creature is so large it can damage opponents by beating its wings. This requires an Attack action and does damage equal to its damage bonus to those within 3 metres of the front or side of the creature.
