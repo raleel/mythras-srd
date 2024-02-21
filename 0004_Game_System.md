@@ -209,7 +209,8 @@ Skill Time represents a few minutes to a few hours and is used to measure activi
 
 This is the amount of time taken when the Games Master is narrating to the players, or when the players are discussing. Unless there is a specific reason for it, most actual roleplaying takes place in narrative time. When roleplaying, narrative time resembles real time, where a conversation takes as long to have as it takes to play. If a game session includes lengthy travel, or periods of activity where exact time is not of the essence, then time is compressed greatly to a few moments of game time.
 
-### Hit Locations
+
+## Hit Locations
 
 Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location is been hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
 
@@ -231,7 +232,8 @@ The humanoid Hit Location table is repeated here for ease of reference.
 
 Note that some attacks, especially magical, technological or those produced by particular monsters (a dragon's fiery breath or an exploding grenade for example), may strike several Hit Locations simultaneously. Individual Hit Locations may be armored, either from worn protection or the natural toughness of the creature's outer surface. This is important when considering Damage and Wound Levels below.
 
-### Damage and Wound Levels
+
+## Damage and Wound Levels
 
 If an attack strikes successfully, it causes damage according to the damage rating for the weapon. A shortsword, for instance, inflicts 1d6 damage.
 
