@@ -120,6 +120,7 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 - **Conditions:** Once the disease manifests the victim becomes Contagious. 1 day later they begin to suffer Fever and Bleeding. Each day the pustules weep blood the victim loses one level of Fatigue, which does not recover until the duration of the disease has completed.
 - **Antidote/Cure:** Can be cured by the Healing skill.
 
+
 ## Falling
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
