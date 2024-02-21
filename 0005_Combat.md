@@ -260,7 +260,7 @@ A character that moves adjacent to or starts the Turn next to a climbable surfac
 
 <summary>* Community Errata</summary>
 
-#### _Climb_
+_**Climb**_
 
 _Community Errata:_
 _**"Worn armor hinders climbers by an amount equal to the average of worn Armor Points. Find this by totalling every location's worn armor points and divide that figure by the number of locations."**_
@@ -287,7 +287,7 @@ A character that moves adjacent to or starts the Turn next to a body of water ma
 
 <summary>* Community Errata</summary>
 
-#### _Swim_
+_**Swim**_
 
 _The published version of _Mythras Imperative_ has no explicit rules for Swim movement at different gaits or speeds. They are covered in the _Mythras_ core rulebook along with penalties for worn armor._
 
