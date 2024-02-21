@@ -195,7 +195,7 @@ Gaits faster than Walk apply a multiplier to the Move rating:
 
 <summary>* Community Errata</summary>
 
-#### _Gaits: Walk, Run, Sprint_
+_**Gaits: Walk, Run, Sprint**_
 
 _The published version of _Mythras Imperative_ has no explicit rules for moving at different Gaits though they are covered in the Mythras core rulebook. The Gait multipliers above have been added as part of the Community Errata._ 
 

@@ -121,7 +121,7 @@ Breath permits the recipient to hold their breath for an extended period, so tha
 
 <summary>* Community Errata</summary>
 
-#### _Breath_
+_**Breath**_
 
 _The original spell description was as follows: "Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they immediately begin to asphyxiate (or become poisoned)."_
 
