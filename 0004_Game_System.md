@@ -306,7 +306,7 @@ Breakage attempts require a character to make a Brawn, Unarmed or Combat Style r
 
 Using a weapon against an inanimate object with Armor Points equal to or greater than those of the weapon deals damage to both the object and the weapon. For instance, using an axe on an iron door may damage the door, but the axe itself will be destroyed long before the iron door is. The Games Master should exercise discretion on which weapons or tools can affect which objects. A chisel, for example, is explicitly designed to carve wood or stone whilst a sword, although sharp, is not. The chisel would therefore not take damage from something it is attempting to carve whereas a sword most likely would.
 
-#### Inanimate Objects
+#### Inanimate Objects Table
 
 | **Object** | **Armor / Hit Points** |
 | :-- | :-: |

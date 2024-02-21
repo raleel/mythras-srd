@@ -39,7 +39,7 @@ The size and purpose of a vehicle affects the thickness of its hull and resilien
 
 Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
 
-#### Terrestrial Hulls 
+### Terrestrial Hulls 
 
 | **Size** | **Structure** | **Civilian Hull Value** | **Military Hull Value** | **Example** |
 | :-- | :-: | :-: | :-: | :-- |
@@ -49,7 +49,7 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 | Huge | 61-80 | 7-12 | 13-15 | Semi, airliner, jet, coastguard vessel, yacht |
 | Enormous | 81-100 | 10-15 | 16-18 | Train, cruise liner, naval vessel |
 
-#### Starship Hulls 
+### Starship Hulls 
 
 | **Size** | **Structure** | **Civilian Hull Value** | **Military Hull Value** | **Example** |
 | :-- | :-: | :-: | :-: | :-- |
