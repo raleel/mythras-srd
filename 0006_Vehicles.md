@@ -33,6 +33,7 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 | Enormous | 5 |
 | Colossal | 6 |
 
+
 ## Hull and Structure
 
 The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
@@ -60,6 +61,7 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 | Enormous | 1351-4050 | 16-21 | 21-24 | Generation Ship, Heavy Battle Cruiser |
 | Colossal | 4050-12110 | 19-24 | 24-30 | Orbital Habitat, Planet-Busting Battle Station |
 
+
 ## Speed
 
 Since the physics of velocity, acceleration, drag and inertia (to name but a few) are complex issues, some simplification is needed and so vehicles are given an abstract speed rating. The Speed characteristic should only be used to roughly judge if one vehicle can overtake or catch up with another.
@@ -84,6 +86,7 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 | Fast | |
 | Fleet | Small |
 
+
 ## Systems
 
 Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
@@ -91,6 +94,7 @@ Every time a vehicle suffers damage that penetrates its hull, there is a chance 
 The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
 
 Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
+
 
 ## Traits
 
