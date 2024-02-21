@@ -115,7 +115,19 @@ Bludgeon is like Bladesharp but used on weapons and tools that deal blunt-force 
 
 Touch
 
-Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they immediately begin to asphyxiate (or become poisoned).
+Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they must immediately begin to breathe from their environment suffering any present risks - be that asphyxiation, drowning, poisoning, etc.
+
+<details>
+
+<summary>* Community Errata</summary>
+
+#### _Breath_
+
+_The original spell description was as follows: "Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they immediately begin to asphyxiate (or become poisoned)."_
+
+_This could be read as an offensive effect triggered at the spell's end, which seems counter to the authors' intention and the pattern of such spells as utilities rather than weapons. Hence the Community Errata edit above. We will update this text should the original authors revise the rule as written._
+
+</details>
 
 ### Calm
 

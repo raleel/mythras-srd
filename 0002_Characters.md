@@ -187,6 +187,30 @@ For those who can use such powers, a character's Magic Points are equal to their
 
 Every creature has a Movement Rate – a number of metres that can be travelled during a specific period of time. Movement is not calculated from Characteristics but is a default value which differs from species to species. The base Movement Rate for humans is 6 metres.
 
+Gaits faster than Walk apply a multiplier to the Move rating:
+- **Run:** Move x3  
+- **Sprint:** Move x5
+
+<details>
+
+<summary>* Community Errata</summary>
+
+#### _Gaits: Walk, Run, Sprint_
+
+_The published version of _Mythras Imperative_ has no explicit rules for moving at different Gaits though they are covered in the Mythras core rulebook. The Gait multipliers above have been added as part of the Community Errata._ 
+
+_Where required it should be enough to treat Gaits as follows:_
+
+- _Gaits faster than Walk apply a multiplier to the Move rating: 3x for Run, 5x for Sprint._
+
+- _While at a Run or Sprint Gait, characters cannot attempt most proactive actions like attacking or casting spells. Some exceptions include..._
+  - _Attacks when using the Charging rules._
+  - _Firing ranged weapons with the Skirmishing trait._ 
+- _As a general rule, any allowed actions should be treated as one Grade harder to pull off at a Run, and two Grades harder at a Sprint._
+
+
+</details>
+
 ## Step 4: Skills
 
 Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
