@@ -218,8 +218,7 @@ Animals and monsters usually have slightly different Hit Location tables than hu
 
 The humanoid Hit Location table is repeated here for ease of reference.
 
-
-#### Humanoid Hit Locations
+### Humanoid Hit Locations
 
 | **1d20** | **Hit Location** |
 | :-: | :-- |
