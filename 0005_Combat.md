@@ -335,7 +335,7 @@ Due to its mass and restriction to movement, the highest Armor Point value of ar
 
 If the attacker misses his initial attack roll, the defender has the option to spend an Action Point to Parry. Although it may seem disingenuous to parry an attack which will miss anyway, a skilled defender can use this to his advantage to gain one or more Special Effects, potentially weakening or incapacitating a foe and preserving their next turn for some other Action.
 
-#### Unable or Unwilling to Parry
+### Unable or Unwilling to Parry
 
 In a situation where a defender is unable to Parry due to having no Action Points remaining, or, confident in his ability to weather the blow, elects not to Parry, they are treated as having automatically rolled a Failure. This has the consequence of granting a successful attacker one or more Special Effects.
 
