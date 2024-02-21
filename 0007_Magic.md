@@ -57,11 +57,11 @@ If the Magic roll is a...
 
 Due to their minor or petty nature, all Magic spells have a default Intensity and Magnitude of 1.
 
-## Limits to Magic Capacity
+### Limits to Magic Capacity
 
 Characters have no actual limit to the number of Magic spells they can learn, provided that the Games Master permits them to have access to new ones.
 
-## Spells
+### Spells
 
 Spells are defined by various traits defining the effects of the spell and any particular limitations. Every spell is different with some having fewer traits than others.
 
