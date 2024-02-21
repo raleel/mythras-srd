@@ -374,65 +374,65 @@ A Creature Ability is something it can do naturally because of its physiology, b
 
 Each of the following Abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided earlier, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a general rule of thumb, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Grappler and Vampiric. However, in exceptional cases, more Abilities are allowed to reflect the awesome nature of the creature being described.
 
-#### Adhering
+### Adhering
 
 The creature can move freely on vertical surfaces, and even move upside down on a ceiling with no special equipment. Such Movement is always at half the creature's normal Movement rate.
 
-#### Aquatic
+### Aquatic
 
 The creature breathes water rather than air, generally possessing gills or a skin capable of absorbing dissolved air directly. If taken out of water and their breathing organs allowed to dry out, they begin to suffocate after their CON in minutes if remaining passive or half that time if moving or fighting.
 
-#### Blood Sense
+### Blood Sense
 
 Allows the creature to detect blood over great distances, either carried by wind or water. Traces of blood can be sensed up to 1d6+6 kilometres.
 
-#### Breathe Flame
+### Breathe Flame
 
 The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON in metres. At the furthest extent, the width of the cone is one quarter of the creature's CON. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. Armor Points count as normal unless otherwise noted.
 
 A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder or suffer a level of Fatigue.
 
-#### Burrower
+### Burrower
 
 The creature is adept at tunneling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
 
-#### Camouflaged
+### Camouflaged
 
 The creature is adept at hiding due to its coloration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Perception of two difficulty grades.
 
-#### Characteristic Drain
+### Characteristic Drain
 
 The creature has the innate ability to drain temporary Characteristic points from the target of their attacks. The type of attack, the Characteristic affected, and how to resist the draining effect is detailed in the creature's description.
 
-#### Cold-Blooded
+### Cold-Blooded
 
 The creature does not need to eat frequently. One meal a week is sufficient to keep it healthy and well fed, and gorging itself on a large amount of meat will remove the need to eat for a month. Conversely, when exposed to temperatures below 15 degrees Celsius, its reflexes become muted, suffering a penalty of –6 to Initiative, and the loss of one Combat Action per round. Below 5 degrees Celsius cold-blooded creatures become completely torpid, entering a helpless catatonic state.
 
-#### Dark Sight
+### Dark Sight
 
 Allows the creature to see normally in the complete absence of light.
 
-#### Death Sense
+### Death Sense
 
 In tune with the powers of death, the creature can sense the death of living things, and dead flesh at a range of up to half its INT in kilometres.
 
-#### Disease Immunity
+### Disease Immunity
 
 The creature is immune to all diseases. All creatures without SIZ automatically have this ability, although it is not specifically listed in their descriptions.
 
-#### Diving Strike
+### Diving Strike
 
 Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movement above its target (or possibly below if submerged) in order to use the diving strike.
 
-#### Earth Sense
+### Earth Sense
 
 Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By sensing vibration and air pressure, a creature with Earth Sense can fight, and make Perception rolls with no penalty as long as their target is no more than their INS in metres away. If using Earth Sense above ground the range is halved.
 
-#### Echolocation
+### Echolocation
 
 The creature senses its environment through reflections of sonic waves. This means that it can perceive others that may be either motionless or hidden. In such circumstances, using a Stealth roll to attempt to remain unperceived by the creature is two grades more difficult.
 
-#### Engulfing
+### Engulfing
 
 The creature has an orifice which can swallow targets whole. The maximum size of an engulfed victim is figured as half the creature's own SIZ but may be less than this depending on the creature's physiology. When engulfed the victim suffers at least one damage roll based on the creature's bite attack before being swallowed – the time spent chewing depends on the creature, and how sensitive its innards are. If still alive a swallowed victim will begin to suffocate, likely dying by asphyxiation before suffering any noticeable damage from stomach acid. Realistically, an engulfed victim lacks the mobility to move inside the digestive tract or the creature is so large that he will die long before he can cut its way out.
 

@@ -38,7 +38,7 @@ Characters who attempt to use a weapon not covered by their style should suffer 
 
 Combat styles possess another function beyond simply learning a group of weapon skills. Since each style is taught by a particular culture or career, they are inherently optimised for the environment or military tactics that group normally fights with; for instance, a horse nomad learns to fight from the saddle, or an infantryman trains to fight in close order formation. Therefore, as an additional bonus, some Combat Styles may be assigned one or more traits which grants it an advantage under certain circumstances. Traits are only intended to be used with the weapons and situations of that particular style. Obviously, there are countless traits, many of which are specific to a particular period or campaign world.
 
-#### Combat Style Traits
+### Combat Style Traits Table
 
 | Trait | Description |
 | :-- | :-- |
@@ -357,7 +357,7 @@ Special Effects cover a diverse range of situations and techniques. Some are des
 
 When two or more Special Effects are gained, the combatant may freely mix and match which ones are selected, providing the prerequisite conditions for each one are met. Some effects can be stacked. For example, an attacker who rolls a Critical Success and wins two Special Effects could choose Maximize Damage twice rather than choosing two separate offensive maneuvers.
 
-#### Special Effects Table
+### Special Effects Table
 
 | Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
 | :-- | :-: | :-: | :-: | :-: | :-: |
@@ -576,23 +576,23 @@ Ranged combat incorporates all forms of weaponry which require to be shot, throw
 
 Each Ranged Weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
-#### Force
+### Force
 
 The Ranged Weapon equivalent of Size. It is an abstract measure of the penetrative power of a weapon or its ammunition to determine whether the blow overcomes a (shield) parry.
 
-#### Damage Modifier
+### Damage Modifier
 
 This Attribute shows whether the Damage Modifier of the attacker can be used to boost the Ranged Weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
 
-#### Range
+### Range
 
 Three numbers separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Close Range is the distance over which the Choose Location Special Effect may be used, provided the target is stationary or unaware of the impending attack. Effective Range has no significant modifiers. At Long Range, the weapon can still inflict harm, but the amount of damage is halved, and Force is reduced by one step.
 
-#### Load
+### Load
 
 The time in Turns taken to load or reload a weapon that fires ammunition. A character can reduce the time spent loading or readying by use of the Rapid Reload Special Effect.
 
-#### Impale Size
+### Impale Size
 
 The Size of an impaled weapon is different from the Force it strikes with. Ranged impaling weapons have a special column denoting their actual size when considering the hindrances caused by the Impale Special Effect.
 
@@ -686,7 +686,7 @@ Telescopic Sights make skill rolls easier by one or more Grades (see [Modifying 
 
 Presented here is a selection of armor and weapons from a variety of settings and milieus.
 
-#### Sample Armor Table
+### Sample Armor Table
 
 | Ancient/Medieval | Modern | Futuristic | Armor Points |
 | :-- | :-- | :-- | :-: |
@@ -701,7 +701,7 @@ Presented here is a selection of armor and weapons from a variety of settings an
 | | Type IV Bulletproof Vest | | 10 |
 | | | Full Assault Armor | 12 |
 
-#### Sample Shield Table
+### Sample Shield Table
 
 | Shield Type | Damage | Size | AP/HP | Number of Locations for Passive Blocking |
 | :-- | :-: | :-: | :-: | :-: |
@@ -711,7 +711,7 @@ Presented here is a selection of armor and weapons from a variety of settings an
 | Scutum | 1d4 | H | 4/18 | 5 |
 | Viking/Riot Shield | 1d4 | L | 4/12 | 4 |
 
-#### Sample Melee Weapons
+### Sample Melee Weapons
 
 | Weapon | Damage | Size | AP/HP | Notes |
 | :-- | :-: | :-: | :-: | :-- |
@@ -730,7 +730,7 @@ Presented here is a selection of armor and weapons from a variety of settings an
 | War hammer | 1d8+1 | M | 3/8 | Two handed |
 | Whip | 1d3 | M | 2/8 | Entangling |
 
-#### Sample Ranged Weapons
+### Sample Ranged Weapons
 
 | Weapon | Damage | Damage Modifier | Force | Range (Metres) | Load | Impale Size | AP/HP |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

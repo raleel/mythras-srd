@@ -82,7 +82,7 @@ Larger and stronger characters and creatures may gain additional damage in certa
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
-#### Damage Modifier
+#### Damage Modifier Table
 
 | **STR+SIZ** | **Damage Modifier** |
 | :-: | :-:|
@@ -111,7 +111,7 @@ Over the course of play characters improve their skills and capabilities. This i
 
 A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-#### Experience Modifier
+#### Experience Modifier Table
 
 | **CHA** | **Exp. Modifier** |
 |:-:| :-:|
@@ -124,7 +124,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury, the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-#### Healing Rate
+#### Healing Rate Table
 
 | **CON** | **Healing Rate** |
 | :-:| :-:|
@@ -168,7 +168,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the [Game System](0004_Game_System.md?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-#### Luck Points
+#### Luck Points Table
 
 | **POW** | **Luck Points** |
 | :-- | :-: |
@@ -217,7 +217,7 @@ Skills fall into two classes. Everyone has Standard skills – things such as sn
 
 _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
-#### Standard Skills
+### Standard Skills
 
 | **Skill** | **Basic Percentage** |
 | :-- | :-- |
@@ -292,13 +292,13 @@ _**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
 
-## Step 6: Career
+### Step 6: Career
 
 Every character starts the game having been trained in a career. The occupation chosen may not necessarily be the one the character continues to follow as the character begins adventuring life, but it is the career embarked on as part of the transition to adulthood and it further defines skill development. Each career presents a range of Standard skills appropriate to it and permits the player to pick up to three of the listed Professional skills. Distribute 100 Career Skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. As with cultures a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
 Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](0002_Characters.md?id=step-4-skills) chapter.
 
-#### Careers
+#### Careers Table
 
 | **Career Name** | **Standard Skills** | **Professional Skills** |
 | :-- | :-- | :-- |
@@ -464,7 +464,7 @@ All Paragon characters double their Healing Rate when suffering from Minor or Se
 
 Paragon Heroic characters gain an additional 100 Bonus Skill Points to allocate as needed.
 
-## Step 8: Passions
+### Step 8: Passions
 
 Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
@@ -513,7 +513,7 @@ For instance, a character with 'Trust Chieftain' might, if his chieftain acts tr
 
 The Deepening and Waning table shows by how much the Passion changes.
 
-#### Deepening and Waning
+#### Deepening and Waning Table
 
 | **Depth of Change** | **Passion Modified by** |
 | --- | --- |
