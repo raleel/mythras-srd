@@ -245,6 +245,7 @@ The vehicle propels itself using articulated legs. Walker vehicles are capped at
 
 The vehicle has been adapted to accommodate weaponry. Weapon systems are discussed below in the [Weapons](0006_Vehicles.md?id=weapons) section.
 
+
 ## Handling and Maneuvers
 
 Evasive or sudden maneuvers require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular maneuver requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control table.
@@ -257,7 +258,7 @@ For example, a high-performance motorcycle has in-built gyrostabilizers giving i
 
 Superior Handling is a Trait. If a vehicle does not have the trait as part of its description, then the default is Standard handling for any vehicle of size Large and below. Huge and Enormous vehicles inherently have the Handling trait of Formidable and Herculean, respectively, and the Games Master is at liberty to rule that certain manoeuvres are simply impossible to achieve due to the vehicle's size.
 
-#### Loss of Control Table 
+### Loss of Control Table 
 
 | **1d100** | **Result** |
 | :-: | :-- |
