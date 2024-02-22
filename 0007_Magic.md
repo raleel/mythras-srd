@@ -86,37 +86,37 @@ Magic Traits are as follows:
 
 ### Alarm
 
-Special Duration
+_Special Duration_
 
 Casting Alarm on a location such as a room or small clearing creates a temporary psychic bond between the area and the caster. If the area is accessed by a living creature with a SIZ greater than 1, the caster is automatically made aware that something has transgressed no matter how great the distance. The Alarm is usually a distinct tingling sensation or mental twinge which will awaken the caster. Alarm can also be used on an individual object, triggering when touched or moved.
 
 ### Avert
 
-Instant, Ranged
+_Instant, Ranged_
 
 Avert is used to dismiss another spell within range. Avert can be cast reactively to neutralize offensive spells, by using the Counter Magic Reactive Action.
 
 ### Befuddle
 
-Ranged, Resist (Willpower)
+_Ranged, Resist (Willpower)_
 
 Befuddle causes confusion within the mind of a corporeal target. The subject of the spell has difficulty thinking straight, forgetting where it is, what it is doing and why – often lapsing into disassociated lines of thought. Befuddled targets can still act in self defense, but cannot initiate any constructive activity until the spell ends. Any sort of attack or threatening action instantly breaks the spell, whether or not it was directed specifically at the befuddled target.
 
 ### Bladesharp
 
-**Touch**
+_Touch_
 
 Bladesharp is cast on edged and piercing melee weapons. It increases the damage of a weapon by one dice step and incidentally leaves the edge honed after the spell concludes. This spell is often used on tools such as logging axes, plows, and razors. Thus, casting this spell on a dagger increases it to 1d6+1 damage, whereas the same spell on a great axe would increase it to 2d8+2 damage. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
 ### Bludgeon
 
-Touch
+_Touch_
 
 Bludgeon is like Bladesharp but used on weapons and tools that deal blunt-force trauma rather than cutting or piercing damage. It is normally used to aid with threshing grain, fulling wool, or similar heavy-duty work.
 
 ### Breath
 
-Touch
+_Touch_
 
 Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they must immediately begin to breathe from their environment suffering any present risks - be that asphyxiation, drowning, poisoning, etc.
 
@@ -134,37 +134,37 @@ _This could be read as an offensive effect triggered at the spell's end, which s
 
 ### Calm
 
-Ranged, Resist (Willpower)
+_Ranged, Resist (Willpower)_
 
 Calm attempts to dampen down the passions or the target, perhaps ensuring that a lovesick paramour doesn't press his suit, a frightened rival doesn't scream for help or that weapons are not drawn in anger. A calmed person is not otherwise mentally affected; Thus, any sort of assault or threatening action still permits the target to defend themselves and even attack, albeit they will do so in a calm and level-headed manner.
 
 ### Chill
 
-Instant, Touch
+_Instant, Touch_
 
 Chill dramatically reduces the temperature of small objects (no larger than the caster's hand) down to the temperature of ice water. Useful for rapidly cooling hot items, chilling drinks, and so forth. The spell does not freeze an object and neither does it cause any damage to its structure: it merely renders it very cold.
 
 ### Darkness
 
-Concentration, Ranged
+_Concentration, Ranged_
 
 Darkness creates an area of shadow, equal to POW in square metres, which suppresses all light within it. This is enough volume to fill a modest room, a length of corridor or form a small cloud if cast outside. All non-magical light, including sunlight, passing into or present within the boundary is reduced to the equivalent of a dim glow.
 
 ### Disruption
 
-Instant, Ranged, Resist (Endurance)
+_Instant, Ranged, Resist (Endurance)_
 
 Disruption is used for damaging or disassembling physical objects without the need for tools. It is commonly employed to drive off or kill living creatures, such as birds or vermin. When successfully cast, Disruption inflicts 1d3 damage to a single random Hit Location or the overall Hit Points of an object. In both cases the damage ignores any armor or natural protection.
 
 ### Extinguish
 
-Instant, Ranged
+_Instant, Ranged_
 
 Extinguish immediately quenches flames and small fires of modest size and heat. It is useful for dousing candles, lanterns, torches, or small cook fires, but it will not work on magical or larger, more ferocious conflagrations such as pyres, burning houses or dragon flames.
 
 ### Find (X)
 
-Concentration, Ranged, Resist (Special)
+_Concentration, Ranged, Resist (Special)_
 
 Find has many variations; always specific and learned as separate spells. Some common examples are given below. It works by attuning to the natural emanations of a creature or thing, alerting the caster to its presence within the spell's range. Find can be blocked by dense or thick materials such as metal, or earth and stone at least one metre thick. The spell cannot discern emotions or thoughts. 
 
@@ -177,73 +177,73 @@ Find has many variations; always specific and learned as separate spells. Some c
 
 ### Firearrow
 
-Touch
+_Touch_
 
 Firearrow causes all missiles thrown or fired by the recipient to burst into flame when released. Ostensibly created to act as a signal flare, it has since evolved into a combat magic. Missiles under its effect add an additional 1d3 damage but are extinguished if they impale flesh. Those that strike flammable material have a chance equal to the caster's Folk Magic skill of setting alight whatever they lodge in, such as wooden shields, thatched roofs and so on. Wooden ammunition is consumed as part of the spell.
 
 ### Fireblade
 
-Touch
+_Touch_
 
 Fireblade like Firearrow but is instead cast on hand tools and melee weapons. The original purpose of the spell is to sterilize surgical equipment, aid in slash and burn agriculture or provide illumination during darkness without the need to carry an additional light source. If cast on a weapon it inflicts an additional 1d3 damage, and damage and has the chance of setting flammable materials alight if held to them for several rounds (see Fire in the Game System Section). Wooden hafted weapons under the effects of Fireblade will be consumed as part of the spell.
 
 ### Glue
 
-Touch
+_Touch_
 
 Glue cements together two solid, inanimate objects for the duration of the spell, for example a cartwheel to its axle or a door to its frame. Whilst under the effects of the spell the items, no matter how disparate, cannot be parted unless something actively tries to wrench them apart. In this circumstance the spell has a Brawn skill equal to five times the caster's POW and fails when a superior Brawn is set against it, defeating it in an Opposed Roll. Once the spell concludes or fails, the items part completely unharmed.
 
 ### Heal
 
-Instant, Touch
+_Instant, Touch_
 
 Heal has several different effects depending on the nature of the ailment it is being used on. If the subject is suffering from a minor complaint such as a headache, back pain, hangover, cold, warts and so on, then the symptoms are immediately lifted. Cast on a location suffering a Minor Wound it restores all lost Hit Points instantly. Against Serious or Major Wounds no Hit Points are recovered. However, the spell will stabilize locations, stop all bleeding and prevent imminent death from inattention.
 
 ### Ignite
 
-Instant, Ranged
+_Instant, Ranged_
 
 Ignite only works on flammable inorganic matter, causing a small object or hand-sized area to burst into flame. Depending on what was set alight, once burning, the flames may then spread unless quenched or countered in some way. This spell is normally used to light candles, torches, or lanterns from afar. It can also be used to start a camp or cooking fire in adverse conditions, such as using damp kindling or in strong winds.
 
 ### Knock
 
-Instant, Touch
+_Instant, Touch_
 
 Knock magically unfastens any device that is currently secured with a mechanical bar or lock. It does not work on magically locked objects, only mundane ones. The spell only affects a single fastening, so if there are several locks and bars securing the object, the spell will need to be recast for each one.
 
 ### Light
 
-Concentration, Ranged
+_Concentration, Ranged_
 
 Light must be cast on an inanimate object (this could be a branch, sword blade, spear point, torch and so on). It produces enough light to illuminate an area as though with a lantern. It can also be cast directly against a Darkness spell to counter it. In this case both spells are consumed, leaving the ambient light to illuminate the area.
 
 ### Lock
 
-Special Duration, Touch
+_Special Duration, Touch_
 
 Lock magically secures any device that already has a mechanical bar or lock present. A Locked device can be opened only by the caster and cannot be picked by mundane means (such as by a thief using lock-picks) since the magic renders the mechanism immobile; however, it could still be forced open by breaking the object the lock is set into. The magic remains in place until opened by the caster, after which the device must be subject to a further casting of Lock to restore the enchantment. The Magic Point used to cast Lock does not recover until the spell is dismissed or concludes naturally.
 
 ### Phantasm
 
-Concentration, Ranged
+_Concentration, Ranged_
 
 Phantasm allows the caster to weave together insubstantial or near weightless objects so that they take a shape or ghostly form. Thus, a spectral figure could be woven from a naturally occurring mist, or a face formed in a pile of dead leaves. Beyond this the spell has little effect, save to frighten, intrigue, or disconcert those that view it.
 
 ### Sleep
 
-Resist (Endurance), Touch
+_Resist (Endurance), Touch_
 
 Sleep sends its recipient into a deep, peaceful sleep. It has no effect on creatures with a SIZ greater than the caster's POW. Unless the target resists, it slumbers for a number of hours equal to the half the caster's POW. However, the spell takes 1d3 Rounds to take effect before the target falls unconscious. Any attempt to cast this spell in a combat situation automatically fails.
 
 ### Vigor
 
-Touch
+_Touch_
 
 Vigor makes the recipient feel alive and energetic, being used to offset the effects of strenuous physical labor. For the spell's duration, all Fatigue effects gained from laborious activity are ignored (but return on the spell's dismissal).
 
 ### Witchsight
 
-Ranged, Resist (Willpower)
+_Ranged, Resist (Willpower)_
 
 Witchsight allows the caster to see active magic, enchanted items, and invisible entities (although such things are simply shadowy representations) that lie within range and line of sight. It can also penetrate illusions or discern the true guise of shapeshifted creatures. Beings which wish to remain hidden or disguised must win an Opposed Roll of their Willpower versus the casting roll.
 
