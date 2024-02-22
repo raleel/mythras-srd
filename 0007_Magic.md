@@ -255,9 +255,10 @@ Limits are optional disadvantages that can be placed on a character, core powers
 
 A character may also take up to two Limits from the list below, with one providing a bonus Boost, or two granting a bonus core power.
 
-### Powers Descriptions
 
-#### Animation
+## Powers Descriptions
+
+### Animation
 
 Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armor value of the highest value material used, which is also the base armor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost:
 
@@ -270,7 +271,7 @@ Animate 2 cubic metres of non-living materials within POW in metres to create a 
 
 **Boost:** Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
 
-#### Combat Expert
+### Combat Expert
 
 Choose one type of combat expertise from the list below, plus one for every boost spent.
 
@@ -279,31 +280,31 @@ Choose one type of combat expertise from the list below, plus one for every boos
 
 Boost: Spend 2 Power Points to gain an extra Action Point that can only be used to Attack or Ready Weapon.
 
-#### Durability
+### Durability
 
 Hit points are calculated using CON+SIZ+POW and Healing Rate is calculated using CON+ half POW, rounded up.
 
 **Boost:** Spend 2 Power Points as a free action to regain Healing Rate in lost Hit Points or a lost level of Fatigue.
 
-#### Elemental Control
+### Elemental Control
 
 Choose a specific material or type of energy. Spend an action to control up to half POW in cubic metres of the element anywhere within POW metres. May alter the basic form or create complex shapes with a successful Craft (specific element) check. Upon creation choose either a close combat attack or a ranged attack. The close combat attack has a reach of Very Long and the ranged attack has a range of 8/24/100, then choose any two Combat Effects. Damage and force/size is determined by POW: 8 or less: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
 **Boost:** Spend 3 Power Points to sheathe the character in the element for the scene. Solid materials gain an armor value equal to one fifth POW, rounded up. If it is energy, unarmed attacks inflict extra damage equal to the base damage of the power and unarmed attacks against the character suffer the same damage to the limb used.
 
-#### Energy Blast
+### Energy Blast
 
 Fire blasts of a specific type of energy out to a range of 10/30/120 and choose two Combat Effects to apply at time of creation. Damage and force are determined by the character's POW: 8 or less: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. To hit, the character rolls against either an applicable Combat Style for the power or uses Unarmed.
 
 **Boost:** Spend 2 Power Points and an action to inflict +1d6 damage on the next energy blast attack.
 
-#### Enhanced Reactions
+### Enhanced Reactions
 
 Gain a bonus to initiative rolls equal to the critical range of Athletics skill and never end up prone after using Evade.
 
 **Boost:** Spend 1 Power Point to make the next Athletics or Acrobatics check one difficulty grade easier.
 
-#### Enhanced Speed
+### Enhanced Speed
 
 Increase base movement by a multiplier based on DEX+POW. Maximum speed outside of combat is equal to ten times the modified movement in kilometres per hour.
 
@@ -311,13 +312,13 @@ DEX+POW: 12 or less: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
 **Boost:** Spend 2 Power Points to gain an extra Action Point that can only be used to Change Range, Move, or Outmaneuver.
 
-#### Enhanced Strength
+### Enhanced Strength
 
 Damage bonus is calculated using STR+SIZ+POW and maximum lift is determined by the character's STR+POW: 12 or less: 1 ton, 13-24: 2 tons, 25-36: 3 tons, 37+: 5 tons. Unarmed attacks count as large size and melee and thrown objects have their size or force increased by one.
 
 **Boost:** Spend 3 Power Points to double maximum lift for one action or task.
 
-#### Flight
+### Flight
 
 Gain a flight speed equal to POW in metres, with a maximum speed outside of combat equal to ten times movement in kilometres per hour.
 
@@ -329,74 +330,74 @@ Choose one sense. Perception checks with that sense are one skill grade easier.
 
 **Boost:** Spend 2 Power Points to use the core power for a different sense.
 
-#### Inherent armor
+### Inherent armor
 
 Provides an armor value to all locations equal to one third of CON, rounded up. Characters may choose to reduce the value of a location by up to two points to add it to another location; for example, lowering the value of their right arm to add to their head.
 
 **Boost:** When struck by an attack, gain an extra armor point against it for each 1 Power Point spent.
 
-#### Life Support
+### Life Support
 
 Gain immunity to two environmental conditions or biological requirements.
 
 **Boost:** Gain immunity to two additional environments or requirements.
 
-#### Lucky
+### Lucky
 
 Calculate base Luck Points with CHA and half of POW, rounded up.
 
 **Boost:** When doubles are rolled spend 3 Power Points to gain a temporary Luck Point which must be used by the end of the scene.
 
-#### Regeneration
+### Regeneration
 
 Regain one Hit Point to all wounded locations at the start of each round if the location has not sustained a Major Wound.
 
 **Boost:** Enter a healing trance and spend 1 Power Point per hour to regain one Hit Point to a location with a Major Wound.
 
-#### Savant
+### Savant
 
 Choose three skills with one characteristic in common and checks with them are one grade easier.
 
 **Boost:** When using a specialized skill such as Craft or Science that is also a Savant skill, spend 3 Power Points to gain a specialty the character doesn't have for one task at the same level as the Savant skill.
 
-#### Teleport
+### Teleport
 
 Teleport to any visible point within POW in metres as a move action.
 
 **Boost:** Spend 2 Power Points to teleport up to half of POW in metres, rounded up, as a free action.
 
-#### Vaporous Form
+### Vaporous Form
 
 As an action turn into a cloud of vapor or fine particles that is incapable of interacting with the physical world but is immune to physical attacks. Gain a flying speed equal to one- third POW in metres and pass through openings of any size. Energy based attacks inflict half damage to the character's Power Points. If reduced to 0 Power Points the character returns to a solid state and must make a Hard Endurance check of fall unconscious for 1d6+1 minutes.
 
 **Boost:** Spend 3 Power Point to solidify one hit location for one action.
 
-### Limits
+## Limits
 
-#### Activation Cost
+### Activation Cost
 
 The character spends 2 Power Points to activate a core power or increases a boost's cost by 2 Power Points. Alternately a continuous power costs 1 Power Point at the start of each turn to maintain.
 
-#### External Power Source
+### External Power Source
 
 The source of the character's powers is an artefact or device. If small or handheld, the source is vulnerable to Special Effects such as Disarm Weapon or Take Weapon. If it's large, it requires at least one minute to don or activate before the powers can be used.
 
-#### Fatal Flaw
+### Fatal Flaw
 
 The character must consume or contact a substance every four hours or suffer a level of Fatigue. A successful Endurance check can stave this off, but the difficulty of this check increases by one grade for each additional four hours the requirement isn't met.
 
-#### Limited Control
+### Limited Control
 
 With actions involving the power or boost, the character's range of critical failure increases to 90-00.
 
-#### Limited Power
+### Limited Power
 
 The power or boost only works under specific conditions or has some reduced effect determined by the Games Master.
 
-#### Physical Limitation
+### Physical Limitation
 
 The character has a persistent limiting condition, such as blindness, permanent Hit Point loss to a location, or reduced mobility.
 
-#### Vulnerability
+### Vulnerability
 
 The character takes double damage from a specific form of attack. Alternately the character must make Hard Endurance checks each turn when 5 metres of a specific substance or suffers a level of Fatigue.
