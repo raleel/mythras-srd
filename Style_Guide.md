@@ -1,13 +1,13 @@
 # Style Guide Title (h1)
 
-Use h1 headings (`# Heading Title`) for the main chapter title.
-All hx headings will appear in the sidebar as bookmarks.
+Use h1 headings (`# Heading Title`) for the main chapter title. All hx headings will appear in the sidebar as bookmarks.
+
+If the title is not an h1 heading, the sidebar will have a duplication error showing the page and then the h2 'title' heading.
 
 ---
-
 ## Section headings (h2)
 
-Use h2 headings (`## Section Heading`) for each new section.
+Use h2 headings (`## Section Heading`) preceded by a divider (`---`)for each new main section.
 
 ### Subsection headings increasing h-level by 1
 
@@ -22,15 +22,14 @@ The heading marker should increase by one or nothing.
 
 h2 followed by h2 or h3 is fine. h3 followed by h3 or h4 is also fine. 
 
-#### Subsection Errors
+### Subsection Errors
 h2 followed by h4 causes issues. The sidebar places the sub-heading somewhere above the heading in the table of contents.
 
-#### Reducing h-levels
+### Reducing h-levels
 
 This doesn't seem to be an issue. eg. h4 to h3 or h2 is fine. 
 
 ---
-
 ## Formatting conventions
 
 The following styles are the norm for these _Imperative_ SRDs in Markdown format.
@@ -65,7 +64,6 @@ Use italic titles for 'sub-lists' of variants spells etc.
 Use italic titles when referencing a book such as _Mythras Imperative_ or the core _Mythras_ ruleset.
 
 ---
-
 ## Lists formatting
 
 ### Unordered lists / Bullet points
@@ -96,7 +94,6 @@ For lists of related sub-headings embolden & italicise the title and colon.
 - **_Example 2:_** Bla, bla, bla...
 
 ---
-
 ## Tables
 
 Give tables a sub-header so they appear bookmarked in the sidebar, indented a level from their parent section. 
@@ -140,7 +137,137 @@ This will affect the whole column.
 | 5 | Volcanic lava | Instant | 3d6 |
 
 ---
+## Links
+Visible text & link text
+External vs Internal links
 
+Internal document links
+[Fatigue](0004_Game_System.md?id=fatigue)
+
+Chapter links
+[Fatigue](0004_Game_System.md?id=fatigue)
+
+Subsection links 
+[Damage and Wound Levels](0004_Game_System.md?id=damage-and-wound-levels)
+
+External 'web' links
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
+
+External links to sections
+
+---
+## Magic and Powers Lists
+
+Bla bla... Inclusions and format (list)
+
+
+```
+## h2 List name
+
+### List item
+
+_Attributes_
+
+Description text.
+```
+
+<details>
+
+<summary>Spell List Formatted Example</summary>
+
+---
+## Spell descriptions
+
+### Avert
+_Instant, Ranged_
+
+Avert is used to dismiss another spell within range. Avert can be cast reactively to neutralize offensive spells, by using the Counter Magic Reactive Action.
+
+</details>
+
+---
+## Vehicle stat blocks
+Bla bla... Inclusions and format (list)
+
+### Example
+
+---
+## Creature stat blocks
+Bla bla... Inclusions and format (list)
+
+Example
+
+---
+## Community Errata
+
+### Typos and confusion
+
+Edits to 'clean up' the authors' text should be kept minimal but typos and other mistakes should just be changed inline without any signposting.
+
+
+### Errata Info panels
+
+Where a given rule is too ambiguous, incomplete, or simply wrong, add in a collapsible Community Errata note.
+
+Explain the issue in italics using only bold italics for the issue's title - _no h(x) headers!_ - so as not to create confusing sidebar entries.
+
+If replacement text is added place it in double-quotes in bold italic, preceded by "_Community Errata:_" in normal weight italics.
+
+Additional rules, if required, should be presented in normal weight text.
+
+#### Errata Formatting Template
+
+```
+<details>
+
+<summary>* Community Errata</summary>
+
+_**Issue Title**_
+
+_Community Errata:_
+_**"Replacement text if required."**_
+
+_Explanation text stating how the rule as written causes problems._
+
+</details>
+```
+
+#### Errata Examples
+
+<details>
+
+<summary>* Community Errata</summary>
+
+_**Climb**_
+
+_Community Errata:_
+_**"Worn armor hinders climbers by an amount equal to the average of worn Armor Points. Find this by totalling every location's worn armor points and divide that figure by the number of locations."**_
+
+_The rule as written quickly causes issues. Wearing a single piece of 6AP armor would reduce a human to Move 0 meaning a human wearing a steel helmet and nothing else would be too overburdened to climb at all. This seems unreasonably restrictive hence the edited version suggested above. This will be updated should the original authors revise the rule as written._
+
+</details>
+
+<details>
+
+<summary>* Community Errata</summary>
+
+_**Gaits: Walk, Run, Sprint**_
+
+_The published version of _Mythras Imperative_ has no explicit rules for moving at different Gaits though they are covered in the Mythras core rulebook. The Gait multipliers above have been added as part of the Community Errata._ 
+
+_Where required it should be enough to treat Gaits as follows:_
+
+- _Gaits faster than Walk apply a multiplier to the Move rating: 3x for Run, 5x for Sprint._
+
+- _While at a Run or Sprint Gait, characters cannot attempt most proactive actions like attacking or casting spells. Some exceptions include..._
+  - _Attacks when using the Charging rules._
+  - _Firing ranged weapons with the Skirmishing trait._ 
+- _As a general rule, any allowed actions should be treated as one Grade harder to pull off at a Run, and two Grades harder at a Sprint._
+
+
+</details>
+
+---
 ## Miscellaneous Warnings
 
 ### Blank lines / Carriage Returns

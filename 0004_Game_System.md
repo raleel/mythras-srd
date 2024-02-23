@@ -75,13 +75,13 @@ All diseases and poisons manifest a number of traits important to their effects.
 
 _**Application:**_  The method of how the disease or poison is introduced into the victim.
 
-- **Ingestion** – Effects take place through either eating or drinking.
+- **Ingestion:**  Effects take place through either eating or drinking.
 
-- **Inhaled** – Effects take place through breathing or snorting.
+- **Inhaled:**  Effects take place through breathing or snorting.
 
-- **Contact** – Effects take place through absorption through the skin.
+- **Contact:**  Effects take place through absorption through the skin.
 
-- **Injected** – Effects take place when the substance is injected into the body through piercing.
+- **Injected:**  Effects take place when the substance is injected into the body through piercing.
 
 _**Potency:**_ The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
 
