@@ -26,6 +26,7 @@ When combatants can hit or be hit by a direct opponent, depending on circumstanc
 
 Combat manoeuvres which can be performed if one combatant gains the upper hand.
 
+---
 ## Combat Styles
 
 Combat Style represents a 'package' of multiple weapons related by their nature, which avoids the necessity of learning each individual weapon separately.
@@ -54,10 +55,12 @@ Combat styles possess another function beyond simply learning a group of weapon 
 | Throw Weapons | Any melee weapon in the style can also be thrown at no penalty to skill, but when used in this way a weapon's damage roll is halved. |
 | Unarmed Prowess | Permits the user to treat his Unarmed blocks and parries as 'Medium' sized, enabling him to better defend himself from armed opponents. |
 
+---
 ## Running Combat
 
 To emphasise its visceral nature, combat is tracked on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, maneuver into and out of combat, fire or throw a Ranged Weapon, and so on. Similar to real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds, unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
 
+---
 ## Firearms
 
 If using firearms in a _Mythras Imperative_ game, there are a few things to consider given the lethality of a firefight. First, it is near impossible to avoid laser beams or bullets which travel faster than human reflexes. Using the combat rules as presented, this means that unless one tries to dive clear of the area using Evade, any hit will immediately expose the victim to one or more Special Effects. It also changes the Action Point economy. If you can't use points to reactively defend yourself then most characters will end up using all their actions to blast away, gambling on the incompetence of their foes. To handle this paradigm shift, both Game Masters and Players may need to change the way they view – and approach – gun combat. Some things to note are:
@@ -75,6 +78,7 @@ It is perfectly possible that an entire gunfight will result in no injuries; jus
 
 Throughout these combat rules, certain action types, Special Effects and situations apply to combat with firearms only, and these are marked accordingly.
 
+---
 ## Combat Rounds and Initiative
 
 Combat Rounds use several important terms:
@@ -99,6 +103,7 @@ Reactive Actions are those taken by a character to counter or resist an act made
 
 Unused Action Points do not carry over from one Round to the next.
 
+---
 ## Combat Actions
 
 Combat Actions are those acts which can be performed during battle. Drawing a weapon, casting a spell, or diving clear from an attack are all examples of Combat Actions. Most are concerned with elements of combat itself, but some relate to activities outside the realm of spells and weapons.
@@ -237,6 +242,7 @@ The character guards a particular Hit Location from being hit by dedicating one 
 
 For further explanation see [Passive Blocking](0005_Combat.md?id=passive-blocking) below.
 
+---
 ## Movement
 
 The following rules govern engagement in combat:
@@ -293,6 +299,7 @@ _The published version of _Mythras Imperative_ has no explicit rules for Swim mo
 
 </details>
 
+---
 ## How Combat Works
 
 Fighting in _Mythras Imperative_ is resolved with each attack or parry representing a single stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
@@ -345,6 +352,7 @@ In a situation where a defender is unable to Parry due to having no Action Point
 
 If both combatants Fail their rolls, or the defender decides not to take advantage of a missed attack, then the attack – Parry sequence ends, and combat continues on to the participant with the next highest Initiative.
 
+---
 ## Special Effects
 
 Fighting is far more than simply injuring or killing an opponent. Combative arts teach many methods of defeating a foe, perhaps rendering them helpless or forcing them into situations where they must capitulate, without necessarily needing to cause them harm. Special Effects represent these techniques and control how they occur in play.
@@ -475,6 +483,7 @@ Although a pinned victim is unable to fire back for the requisite time, they can
 
 **Withdraw** : The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
 
+---
 ## Close Combat
 
 Close combat is hand-to-hand fighting in its classic sense when combatants strike each other with wielded or natural weapons. The following guidelines offer ways to make close combat more interesting and help to further explain some concepts hinted at earlier in this chapter.
@@ -572,6 +581,7 @@ Sweep attacks occur at the Games Master's decision, when weapons or creatures of
 
 A sweep attack is made by applying a single attack roll of the weapon or creature to all targets in its path. Each defender must resolve the effects of the attack separately and any Special Effects imposed on the attacker are treated as having occurred concurrently.
 
+---
 ## Ranged Combat
 
 Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged Weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged Weapons can be formidable deterrents.
@@ -684,6 +694,7 @@ A telescopic sight improves the accuracy of a firearm over greater distances whe
 
 Telescopic Sights make skill rolls easier by one or more Grades (see [Modifying Skills](0003_Skills.md?id=modifying-skills)), depending on the sophistication of the sight. No sight can make a skill roll an Automatic success, so the best Grade that can be attained is Very Easy.
 
+---
 ## Arms and Armor
 
 Presented here is a selection of armor and weapons from a variety of settings and milieus.

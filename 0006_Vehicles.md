@@ -1,9 +1,10 @@
-## Vehicles
+# Vehicles
 
 Vehicles in _Mythras Imperative_ are treated in a semi-abstract fashion. Essentially, they are background tools, used to get characters from A to B, with little need for detailed description or statistics. On occasion though, Games Masters will require details for vehicles when it is necessary to represent them in chases or combat situations.
 
 The rules in this section allow for the representation of most kinds of vehicles but in an abstracted way that is intended to permit flexibility and enhance storytelling. Starships and space craft are a little different, although they are based on similar principles.
 
+---
 ## Statistics
 
 All vehicles are described in terms of their Structure, Hull, Speed, Systems, Traits, and Shields (if present in the setting).
@@ -22,7 +23,7 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 
 - **Shields:**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
 
-#### Vehicle Size Table 
+### Vehicle Size Table 
 
 | **Size** | **System Hits** |
 | :-- | :-: |
@@ -34,6 +35,7 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 | Colossal | 6 |
 
 
+---
 ## Hull and Structure
 
 The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
@@ -62,6 +64,7 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 | Colossal | 4050-12110 | 19-24 | 24-30 | Orbital Habitat, Planet-Busting Battle Station |
 
 
+---
 ## Speed
 
 Since the physics of velocity, acceleration, drag and inertia (to name but a few) are complex issues, some simplification is needed and so vehicles are given an abstract speed rating. The Speed characteristic should only be used to roughly judge if one vehicle can overtake or catch up with another.
@@ -87,6 +90,7 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 | Fleet | Small |
 
 
+---
 ## Systems
 
 Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
@@ -96,6 +100,7 @@ The damage a System can sustain is based purely on the vehicle's size. This is m
 Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
 
 
+---
 ## Traits
 
 The maximum number of traits a vehicle can have depends on hull size and type.
@@ -246,6 +251,7 @@ The vehicle propels itself using articulated legs. Walker vehicles are capped at
 The vehicle has been adapted to accommodate weaponry. Weapon systems are discussed below in the [Weapons](0006_Vehicles.md?id=weapons) section.
 
 
+---
 ## Handling and Maneuvers
 
 Evasive or sudden maneuvers require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular maneuver requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control table.
@@ -272,6 +278,7 @@ Superior Handling is a Trait. If a vehicle does not have the trait as part of it
 | 91-98 | Immediate Explosion. As above but the explosion is immediate. |
 | 99-00 | Catastrophic Crash. Occupants must successfully roll Endurance or be killed instantly. Damage as for Write-Off is sustained regardless. |
 
+---
 ## Shields
 
 Deflector shields provide an additional layer of protection for those vehicles which can mount them. Shields work slightly differently than the Hull, due to their ablative nature. If incoming damage is equal to or less than the value of the shields, then it is all blocked. If damage exceeds the shield value, then any excess reduces the shield strength by that amount.
@@ -280,6 +287,7 @@ For example, a troop carrier has an energy shield strength of 12 points. If the 
 
 Once the strength of a deflector shield has dropped to zero, it collapses. Any remaining damage carries onto the hull.
 
+---
 ## Weapons
 
 Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponized' Trait can be taken for civilian vehicles that may have weapon requirements.
@@ -321,7 +329,6 @@ The systems at risk are listed in the Component Damage table below.
 | 8 | Weapons | A number of weapon systems proportional to the damage become inoperative. | Vehicle can no longer fire weapons. |
 | 9-0 | None | No systems struck; just Structure damage. | N/A |
 
-### Weapons
 
 #### Weapons by Size Table 
 
@@ -354,11 +361,12 @@ _Firing rates are for single shot, semi-auto, and full auto._
 
 _Ammo is firing capability before needing to be reloaded. Load is the reload time in Combat Rounds, assuming a full crew is available._
 
+---
 ## Sample Vehicles
 
-## Ground Vehicles
+### Ground Vehicles
 
-### Interceptor
+#### Interceptor
 
 - **Hull:**  6 (Medium Military), 40 Structure
 
@@ -373,7 +381,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 - **Description:**  A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
 
-### Pursuit Motorcycle
+#### Pursuit Motorcycle
 
 - **Hull:**  2 (Small Civilian), 12 Structure
 
@@ -387,7 +395,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries a surprise – either a pair of linked machine guns or two rockets.
 
-### Sedan Car
+#### Sedan Car
 
 - **Hull:**  4 (Medium Civilian), 25 Structure
 
@@ -401,7 +409,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A standard 4-door sedan featuring enough space to comfortably seat a driver and three passengers. Sacrifices cargo space to incorporate a surveillance suite.
 
-### Submersible Car
+#### Submersible Car
 
 - **Hull:**  6 (Medium Civilian), 25 Structure
 
@@ -415,7 +423,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A two-person car that can switch to waterborne or submersible mode to travel on or underwater. Comes with a front-mounted torpedo and top-mounted surface-to-air missile.
 
-### Surveillance Van
+#### Surveillance Van
 
 - **Hull:**  9 (Large Civilian), 60 Structure
 
@@ -429,7 +437,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A plain, unmarked van housing a team of agents and a suite of audio-visual recording equipment.
 
-### Tactical Support Vehicle
+#### Tactical Support Vehicle
 
 - **Hull:**  6 (Medium Civilian), 30 Structure
 
@@ -443,9 +451,9 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A pickup or jeep with room for a two-person crew in the cabin and a gunner standing in the flatbed section operating a swivel-mounted Medium Machine Gun.
 
-## Watercraft
+### Watercraft
 
-### Speedboat
+#### Speedboat
 
 - **Hull:**  3 (Medium Civilian), 24 Structure
 
@@ -459,7 +467,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  A typical speedboat, armed with a rear-mounted mine dispenser.
 
-### Yacht
+#### Yacht
 
 - **Hull:**  10 (Huge Civilian), 75 Structure
 
@@ -473,9 +481,9 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  The kind of luxury yacht an oligarch might own. Likely kitted out with a surveillance suite to protect against enemies attempting to get up to no good.
 
-## Aircraft/Spacecraft
+### Aircraft/Spacecraft
 
-### Dirigible (Civilian Airship Liner)
+#### Dirigible (Civilian Airship Liner)
 
 - **Hull:**  10 (Enormous Civilian), 85 Structure
 
@@ -491,7 +499,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
-### Assault Helicopter
+#### Assault Helicopter
 
 - **Hull:**  11 (Large Military), 50 Structure
 
@@ -507,7 +515,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  The traditional Assault Helicopter uses their advanced surveillance technology to intercept phone and wireless internet signals, and track individuals and vehicles even in the dark, through FLIR. Attempts to evade the tracker through Stealth are Formidable.
 
-### Multi-Role Fighter
+#### Multi-Role Fighter
 
 - **Hull:**  10 (Large Military), 45 Structure
 
@@ -523,7 +531,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  This twin-seat land-based fighter (similar in type to the De Havilland Mosquito) is well known for its performance and versatility. Its bomb bay is able to carry either two 250 lb. bombs (treat as medium missiles with range 0) or a single torpedo.
 
-### Interstellar Freighter (Light High-Tech Transport)
+#### Interstellar Freighter (Light High-Tech Transport)
 
 - **Hull:**  10 (Medium, Civilian Spaceship), 80 Structure
 
@@ -539,7 +547,7 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 - **Description:**  This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
-### General Contact Unit (Ultra High-Tech Spacecraft)
+#### General Contact Unit (Ultra High-Tech Spacecraft)
 
 - **Hull:**  20 (Colossal, Civilian Spaceship), 10,000 Structure
 
