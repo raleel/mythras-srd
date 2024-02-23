@@ -2,6 +2,7 @@
 
 Games Masters who want to include magic and/or superpowers in their games will find some basic rules for doing so in this section. It is always best to ensure that everyone involved in the game is happy for magic or superpowers to be included, and always give some thought to the kind of game it may produce.
 
+---
 ## How Powers Work
 
 Casting a spell or using a superpower usually requires the expenditure of some form of energy drawn from a pool of points. The size of this pool is equal to the character's POW characteristic, and in the case of magicians the pool is known as Magic Points; and for superheroes, Power Points. Using magic or powers costs a certain number of points that is deducted from this pool, and when the pool is empty, no more magic can be cast, or powers used, until it recovers.
@@ -18,6 +19,7 @@ Spells are cast using the Magic skill; without it, magic is simply not possible.
 
 Superhero characters find that their superpower is always working, and so needs no roll to use or Power Point expenditure; however, if trying to Boost a power, then there is a Power Point cost.
 
+---
 ## Beginning Powers and Learning New Ones
 
 ### Magicians
@@ -45,6 +47,7 @@ A core power can be exchanged for two Boosts that can be applied to any core pow
 | 40+                 | 5           |
 
 
+---
 ## Magic
 
 Whenever a character wishes to use a spell, they make a roll against their Magic skill. Casting takes a single turn, but the amount of Magic Points used and whether the spell is successful depends on the result of the roll..
@@ -82,6 +85,7 @@ Magic Traits are as follows:
 - **Touch:** The caster must be in physical contact with the target whilst the spell is cast. If a target is intent on resisting physical contact, then the caster will most likely fail to complete his spell unless some specific circumstance prevents the target's withdrawal, such as surprise or the Grip special effect. A touch spell merely needs to contact the target or its carried accouterments to work.
 
 
+---
 ## Spell Descriptions
 
 ### Alarm
@@ -247,6 +251,7 @@ _Ranged, Resist (Willpower)_
 
 Witchsight allows the caster to see active magic, enchanted items, and invisible entities (although such things are simply shadowy representations) that lie within range and line of sight. It can also penetrate illusions or discern the true guise of shapeshifted creatures. Beings which wish to remain hidden or disguised must win an Opposed Roll of their Willpower versus the casting roll.
 
+---
 ## Superpowers
 
 The superpowers included here provide a core power that is either always active or can be activated at will. Core powers can also have special stunts called Boosts that require the expenditure of Power Points to activate. A character that reaches 0 Power Points cannot use Boosts or any core powers with a cost until Power Points are regained.
@@ -256,6 +261,7 @@ Limits are optional disadvantages that can be placed on a character, core powers
 A character may also take up to two Limits from the list below, with one providing a bonus Boost, or two granting a bonus core power.
 
 
+---
 ## Powers Descriptions
 
 ### Animation
@@ -372,6 +378,7 @@ As an action turn into a cloud of vapor or fine particles that is incapable of i
 
 **Boost:** Spend 3 Power Point to solidify one hit location for one action.
 
+---
 ## Limits
 
 ### Activation Cost

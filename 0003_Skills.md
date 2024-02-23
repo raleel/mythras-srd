@@ -2,6 +2,7 @@
 
 Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
 
+---
 ## How Skills Work
 
 A skill has a Base Value built on two Characteristics; or one Characteristic multiplied by two. There is no upper limit to a skill's value; it can exceed 100 and, in play, characters can expect to see their skills reach such heights.
@@ -54,6 +55,7 @@ Where a character is already suffering a penalty from other circumstances, the h
 
 Outside of combat, _Mythras_ _Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
 
+---
 ## Standard Skills
 
 ### Athletics (STR+DEX)
@@ -154,6 +156,7 @@ Willpower is a measure of a character's ability to concentrate, channel his forc
 
 Again, like Endurance and Evade, Willpower is most often used in Opposed Rolls. When used as a Standard test, a Critical Willpower roll indicates that the character has hardened his mind and spirit to the extent that no further attempts to influence him, or shake his resolve, will work. In the case of resisting magic, a Critical Success means that no further mentally afflicting spells cast by the opponent have any effect on the character for the remainder of that encounter.
 
+---
 ## Professional Skills
 
 Professional Skills differ between characters and represent more specialized forms of training and experience. Some Professional Skills are gathered through cultural background and a character's Career, as the name suggests. Although they differ between characters they work in the same way as Standard Skills.
@@ -318,6 +321,7 @@ Teach allows the user to pass on their knowledge and techniques in an easy to un
 
 The Track skill is used for tracking any form of game or quarry. It uses both obvious and ambiguous signs of passing to remain on the quarry's trail, including footprints, bruised leaves, scattered pollen, displaced rocks, and so on; small, tell-tale signs that are invisible to the non-skilled. Track rolls need to be made periodically, especially if conditions change abruptly (a rain shower, for example, will disturb certain signs). How often depends on how cunning the quarry has been. Conceal rolls can be used to oppose a Track roll.
 
+---
 ## Skill Rules for Different Circumstances and Situations
 
 Although the basic rules for using skills in _Mythras Imperative_ are very straightforward, there are a multitude of different circumstances that arise during play that require skills to be handled in a slightly different way. The following sections look at these circumstances and situations and show how to handle them.

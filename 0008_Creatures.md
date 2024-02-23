@@ -2,6 +2,7 @@
 
 This section contains a small sample of creatures and various Creature Abilities. The list of sample creatures is not exhaustive but provides a good template for developing one's own creatures or adapting them from other sources. All the creatures follow the _Mythras Imperative_ rules outlined and explored in this document; however, to reflect the challenge some creatures (the dragon being a prime example) should pose, the rules have been slightly adjusted to allow for the creature's relative power level.
 
+---
 ## Sample Creatures
 
 Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are more fully described below in the [Creature Abilities](0008_Creatures.md?id=Creature-Abilities) section.

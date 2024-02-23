@@ -4,6 +4,7 @@ Many different things can occur during a _Mythras Imperative_ game. Some are res
 
 The list is not exhaustive but should represent the most common situations. If Games Masters find there are other situations that require some form of game system adjudication, and that these situations seem to occur frequently, then they are encouraged to develop their own rules to cover these special circumstances, using those given in this chapter as a basis for replication or development.
 
+---
 ## Asphyxiation
 
 Characters can hold their breath for a number of seconds equal to their Endurance skill. However, the character must be prepared (filling the lungs with as much air as possible); if not, then the period is halved if the character was in a passive situation, or reduced to one-fifth if the character was engaged in strenuous activity.
@@ -19,6 +20,7 @@ Without aid, death from Asphyxiation is usually swift. If the Asphyxiation ends 
 
 Depending on the method of Asphyxiation, the Games Master may wish to prevent full recovery, imposing an enduring level of Fatigue (refer to the section on [Fatigue](0004_Game_System.md?id=fatigue)) to represent damage to the lungs caused by smoke or water inhalation.
 
+---
 ## Character Improvement
 
 Every _Mythras Imperative_ character can improve with time and experience. Improvement can be undertaken in several areas:
@@ -60,6 +62,7 @@ Some characters may wish to study new Professional Skills which they never had t
 
 Once a source of education is found, the character must spend an entire month of study and practice to garner a basic grounding in that skill (learn at Base Level). This costs 3 Experience Rolls plus whatever in-game costs are required to pay the teacher (if one exists) and purchase (or rent) whatever equipment and tools may be needed.
 
+---
 ## Disease and Poison
 
 Some of the most feared things which can affect characters are the myriad diseases and poisons which infest the dark and grim places of the world. There's nothing quite more unsettling than a plague which strikes the character's home city, especially when they are still within its gates. Likewise finding a venomous serpent in the bed or being attacked by giant scorpions can be moments of high drama.
@@ -121,6 +124,7 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 - **Antidote/Cure:** Can be cured by the Healing skill.
 
 
+---
 ## Falling
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
@@ -140,6 +144,7 @@ The amount of damage suffered in a fall depends on the distance of the drop. Arm
 
 A falling object imparts an amount of damage based on its SIZ and the distance of the fall. An object imparts 1d6 damage for every 6 points of SIZ (or fraction thereof), plus an amount of damage equal to the Damage Taken column of the Falling Distance Table – including any reductions for objects of smaller size.
 
+---
 ## Fatigue
 
 Fatigue measures tiredness and its incremental effects. It is used to track many different things, from strenuous activity to the debilitating effects of disease.
@@ -173,6 +178,7 @@ Note that the table below represents Fatigue recovery for physical exertion. Fat
 | Comatose | No Activities Possible | No Activities Possible | No Activities Possible | No Activities Possible | 48 hours |
 | Dead | Dead | – | – | – | Never |
 
+---
 ## Fires
 
 Fires are always a source of danger when used as a weapon or raging out of control. The Fire Intensity table below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually that touching the source. Intensity 3 and 4 sources are larger, applying damage to the nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously.
@@ -191,6 +197,7 @@ Fire can ignite flammable materials. If not extinguished immediately such materi
 
 Fire-based attacks typically have a percentage chance of igniting flammable materials as they are generally over in a single Round. Unless otherwise noted, this chance is damage rolled x5% for fire-based attacks, and damage rolled x1% for electrical. Once ignited, flammable materials burn for 1d3-1 damage every Round until physically extinguished. Apply this damage directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. A creature's natural Armor offers its normal protection, however. The victim may attempt to smother the flames by dropping prone and making a successful Athletics roll, which requires an Action Point and may be attempted each Turn. If others assist in smothering the flames in some way, the roll is one Difficulty Grade easier. If the damage roll results in zero damage, the fire has gone out on its own in that one location. For each location that had gone out on its own, the roll to smother the flames is also one Difficulty Grade easier.
 
+---
 ## Game Time
 
 In _Mythras Imperative_, time is an important factor, mostly to determine what happens in what order, so that game mechanics are applied when they should be. Remember that in-game time is usually not equivalent to time spent playing. Sometimes, the Games Master may need to summarize the events of many days in a single sentence, such as 'It takes you a week to reach Castle Anthrax,' while at other times, particularly during combat, the actions of only a few seconds of time can take several minutes or longer to resolve.
@@ -210,6 +217,7 @@ Skill Time represents a few minutes to a few hours and is used to measure activi
 This is the amount of time taken when the Games Master is narrating to the players, or when the players are discussing. Unless there is a specific reason for it, most actual roleplaying takes place in narrative time. When roleplaying, narrative time resembles real time, where a conversation takes as long to have as it takes to play. If a game session includes lengthy travel, or periods of activity where exact time is not of the essence, then time is compressed greatly to a few moments of game time.
 
 
+---
 ## Hit Locations
 
 Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location is been hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
@@ -233,6 +241,7 @@ The humanoid Hit Location table is repeated here for ease of reference.
 Note that some attacks, especially magical, technological or those produced by particular monsters (a dragon's fiery breath or an exploding grenade for example), may strike several Hit Locations simultaneously. Individual Hit Locations may be armored, either from worn protection or the natural toughness of the creature's outer surface. This is important when considering Damage and Wound Levels below.
 
 
+---
 ## Damage and Wound Levels
 
 If an attack strikes successfully, it causes damage according to the damage rating for the weapon. A shortsword, for instance, inflicts 1d6 damage.
@@ -282,6 +291,7 @@ Blood Loss due to external and internal wounds, usually sustained in combat, can
 
 In special cases where key characters receive a Major Wound, the Games Master might allow a heroic last action – such as spitting out one last spell, attempting to cut down their slayer, crawling away to hide, or trying to tourniquet their own wound. They must have working limbs applicable to the Action and burn a Luck Point. They get a single opportunity to attempt their Action, and then immediately collapse into unconsciousness, and probable death.
 
+---
 ## Healing from Injury
 
 Natural healing from wounds and injuries is based on the character's Healing Rate. The Healing Rate dictates how many Hit Points are recovered in a location depending on the injury's nature:
@@ -299,6 +309,7 @@ There are certain restrictions on natural healing:
 - The healing character cannot engage in strenuous activity: otherwise, the Healing Rate is reduced by 1d3. Thus, a character recovering from even a Minor Wound could find his progress halted if they decide to engage in any physical tasks that might exacerbate the injuries.
 - Natural healing will not begin to heal a Major Wound until the victim has been treated with a successful Healing roll, or the casting of some form of healing magic. Non-dismembering Major Wounds which are not treated within a number of days equal to one twentieth of the Healing skill become maimed, permanently reducing the Hit Points of the location.
 
+---
 ## Inanimate Objects
 
 All inanimate objects possess Armor Points and Hit Points which are used to determine resistance to damage and destruction. Armor Points reduce damage before Hit Points are affected. Once an object's Hit Points have been reduced to zero, it is useless.
@@ -331,6 +342,7 @@ Using a weapon against an inanimate object with Armor Points equal to or greater
 | Truck/Excavator | 8/40 |
 | Tree Trunk | 6/50 |
 
+---
 ## Luck Points
 
 Luck Points help differentiate heroes from the rank and file. They represent a character's ability to potentially turn failure into success and even cheat death.
