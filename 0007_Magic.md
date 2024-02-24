@@ -36,7 +36,9 @@ Superheroes start with a number of core powers determined by POW plus another Ch
 
 A core power can be exchanged for two Boosts that can be applied to any core power. A character may also take up to two Limits from the list starting in the Super Powers section, with one providing a bonus Boost, or two granting a bonus core power. A selection of powers and example Boosts are listed in the [Super Powers](0007_Magic.md?id=superpowers) section.
 
-#### Super Powers Table
+
+#### Super Powers Table
+
 
 | **POW+ Characteristic** | **Core Powers** |
 |:--|:-:|
