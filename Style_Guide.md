@@ -138,28 +138,57 @@ This will affect the whole column.
 
 ---
 ## Links
-Visible text & link text
-External vs Internal links
 
-Internal document links
-[Fatigue](0004_Game_System.md?id=fatigue)
+There are many uses for links in the SRD and only a few main cases are covered here.
 
-Chapter links
-[Fatigue](0004_Game_System.md?id=fatigue)
+### Formatting Links
 
-Subsection links 
-[Damage and Wound Levels](0004_Game_System.md?id=damage-and-wound-levels)
+Formatting a link is done with bracketed text. Use square brackets for the visible link text, and curved brackets for the destination URL: `[Link Text](URL)`.
 
-External 'web' links
-[MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
+In these documents the most commonly used external link will be the [Mythras Encounter Generator](https://mythras.skoll.xyz).
+```
+[Mythras Encounter Generator](https://mythras.skoll.xyz)
+```
 
-External links to sections
+### External vs Internal links
+
+External links go to other pages via the internet and will need an `http://example.com` URL and, by default, they will _always_ open in a new browser tab. 
+
+To having multiple tabs cluttering the document being read, internal links and bookmarks are formed with relative URLs referencing the markdown files visible in the GitHub repository. Instead of a new tab, these internal links will rapidly scroll to the linked section.
+
+#### Internal link examples
+
+- **Chapter links:** These point to the start of a main (h1) section. e.g. the [Combat](0005_Combat.md) chapter.
+
+  - Link format: `[Combat](0005_Combat.md)`
+
+- **Subsection links:** These point to a heading within a chapter referencing the document as above but appending `?id=` followed immediately by the destination heading. e.g. [Leaping Attacks](0005_Combat.md?id=leaping-attacks) 
+
+  - Link format: `[Leaping Attacks](0005_Combat.md?id=leaping-attacks)`
+
+#### External links to subsections
+
+There may be occasion to reference a known section of an external document, for instance, a specific table in another SRD. The formatting is the same as with subsection links, above, only using the external HTTP URL.
+
+As an example, here is the [Imperial to Metric conversions table](https://cfi-srd.mythras.net/#/Appendix_B_Conversion_Tables?id=imperial-weights-and-measures-to-metric-conversion) from the [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net/). 
+
+
+```
+[Imperial to Metric conversions table](https://cfi-srd.mythras.net/#/Appendix_B_Conversion_Tables?id=imperial-weights-and-measures-to-metric-conversion)
+```
 
 ---
-## Magic and Powers Lists
+## Magic and Powers lists
 
-Bla bla... Inclusions and format (list)
+Start a 'clean' section with an h2 heading for lists of available spells, powers etc; then h3 for each list item. 
 
+Spells and powers are usually presented in a single flat list by magic type (Folk Magic, Theism, etc)  but if the list requires its own subsections, like school or cult specialisms, increase the heading level appropriately. For example, h2 for Theism Miracles List, h3 for Cult: Mithras, and h4 for each Mithras cult miracle. 
+ 
+Particularly in the case of spells, but in any description using keyword attributes, list them in italic text.
+
+Descriptive text and special rules use normal text.
+
+### Spell List formatting
 
 ```
 ## h2 List name
@@ -173,29 +202,144 @@ Description text.
 
 <details>
 
-<summary>Spell List Formatted Example</summary>
+<summary>Example: formatted spell list (block quoted) </summary>
 
 ---
-## Spell descriptions
-
-### Avert
-_Instant, Ranged_
-
-Avert is used to dismiss another spell within range. Avert can be cast reactively to neutralize offensive spells, by using the Counter Magic Reactive Action.
+> ## Spell descriptions
+>
+> ### Avert
+> _Instant, Ranged_
+>
+> Avert is used to dismiss another spell within range. Avert can be cast reactively to neutralize offensive spells, by using the Counter Magic Reactive Action.
 
 </details>
 
 ---
 ## Vehicle stat blocks
-Bla bla... Inclusions and format (list)
+Start a 'clean' section with an h2 heading for the listings, then increase the h-level as usual for categories and list items. 
 
-### Example
+Each listed example has the stats and descriptions presented as a bullet point list with bolded point titles.
+
+### Vehicle Stat Block formatting
+
+```
+## h2 List name
+
+### Category
+
+#### List Item
+
+- **Stat 1:**  [Value]
+
+- **Stat 2:**  [Value]
+
+- **Description:** Descriptive text.
+```
+
+
+<details>
+
+<summary>Example: formatted vehicle stat block (block quoted) </summary>
+
+---
+> ## Sample Vehicles
+> 
+> ### Ground Vehicles
+> 
+> #### Interceptor
+> 
+> - **Hull:**  6 (Medium Military), 40 Structure
+> 
+> - **Speed:**  Fast
+> 
+> - **Systems:**  3
+> 
+> - **Traits:**  Ejector Seat, Enhanced Performance, Superior Handling, Surveillance Suite, Tough, Weaponized
+> 
+> - **Weapons:**  Oil slick dispenser, smoke dispenser, twin linked medium machine guns
+> 
+> - **Description:**  A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
+
+</details>
 
 ---
 ## Creature stat blocks
-Bla bla... Inclusions and format (list)
+Start a 'clean' section with an h2 heading for the listings. Creature stat blocks use tables and are more complex in terms of formatting and space requirements. For clarity, avoid subsections and add dividers between list items.
 
-Example
+
+Each listed example should have the following...
+
+- **Creature title:** A divider followed by an h3 header for the creature name.
+
+- **MEG entry:** An external link to the specified creature on the [Mythras Encounter Generator](https://mythras.skoll.xyz/).
+
+- **Core Details:** Creature name/type, attributes, skills and any special descriptions or character notes as required.
+
+- **Weapon Details:** Abridged desciptions with columns for the weapon name and the following attributes: Size (include Force here), Reach (include Range here), Damage, AP/HP, and any special rules.
+
+- **Hit Locations & Armor:** Location tables will vary based on differing creature anatomy but should be included even for traditional humanoids as a means to track armor and damage. 
+
+### Creature Stat Block formatting
+
+```
+## Bestiary/List Name
+
+Descriptive text. 
+
+---
+### Example Creature
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/8626/)
+
+| Creature Name | Example Creature  |
+| :-- | :-- |
+| Key Attributes | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
+| Other notes | Values and details | 
+```
+
+
+<details>
+
+<summary>Example: formatted creature stat block tables (block quoted) </summary>
+
+> ---
+> ### Goblin/Orc
+> [MEG entry](https://mythras.skoll.xyz/enemy_template/10891/)
+> 
+> | Creature Name | Goblin/Orc  |
+> | :-- | :-- |
+> | Key Attributes | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
+> | Action Points | 2 | 
+> | Damage Modifier | - |
+> | Initiative | +11 |
+> | Move | 6m |
+> | Abilities | Night Sight |
+> | Skills | Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42% |
+> | Combat Style | Warrior (Shortsword, Shield, Spear, Sling) 62% |
+> 
+> #### Weapon Details
+> 
+> | Weapon | Size | Reach | Damage | AP/HP | Special |
+> | :-- | :-: | :--: | :--: | :--: | :-- |
+> | Shortsword | M | M | 1d6 | 6/8 | |
+> | Spear | M | L | 1d8+1 | 4/5 | |
+> | Sling | L | 10/150/300 | 1d8 | 1/2 |  |
+> | Shield | L | S | 1d4 | 4/9 | Protects 3 locations for Passive Blocking/Warding |
+> 
+> #### Hit Locations & Armor
+> 
+> | **1d20** | **Location** | **AP/HP** |
+> | :-: | :-- | :-: |
+> | 1-3 | Right Leg | 1/5 |
+> | 4-6 | Left Leg | 1/5 |
+> | 7-9 | Abdomen | 1/6 |
+> | 10-12 | Chest | 1/7 |
+> | 13-15 | Right Arm | 1/4 |
+> | 16-18 | Left Arm | 1/4 |
+> | 19-20 | Head | 1/5 |
+
+
+</details>
+
 
 ---
 ## Community Errata
