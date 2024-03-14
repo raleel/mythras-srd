@@ -24,7 +24,7 @@ _Mythras Imperative_ is licensed under the ORC License located at the Library of
 All warranties are disclaimed as set forth therein.
 
 ---
-## Attribution
+#### Attribution
 
 This product is based on the following Reserved Material:
 
@@ -35,7 +35,7 @@ If you use our Licensed Material in your own published works, please credit us a
 _Based on Mythras Imperative, Written by Pete Nash and Lawrence Whitaker, and published by The Design Mechanism, Copyright 2023_
 
 ---
-## Reserved Material
+#### Reserved Material
 
 Note that _Mythras Imperative_'s parent games, _**Classic Fantasy**_ and _**Mythras**_, published by The Design Mechanism, are designated as Reserved Material under the ORC license.
 
