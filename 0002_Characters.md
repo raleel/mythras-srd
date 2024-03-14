@@ -3,9 +3,7 @@
 Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
 - **Characteristics:** such as Strength or Charisma
-
 - **Attributes:** things like Height or Movement
-
 - **Skills:** expertise in fundamental abilities
 
 Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
@@ -30,45 +28,42 @@ Everyone is defined by seven Characteristics which tell you something about your
 
 Before calculating the Characteristics, the following section explains what each represents.
 
-### Strength (STR)
+#### Strength (STR)
 
 STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier. If a character is reduced to zero STR they lack the ability to move or lift objects.
 
-### Constitution (CON)
+#### Constitution (CON)
 
 CON is measure of health and hardiness. CON is a component in determining Hit Points and Healing Rate. If CON falls to zero for any reason the character dies.
 
-### Size (SIZ)
+#### Size (SIZ)
 
 SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure Hit Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
-### Dexterity (DEX)
+#### Dexterity (DEX)
 
 Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative. If a character is reduced to zero DEX, they suffer functional paralysis.
 
-### Intelligence (INT)
+#### Intelligence (INT)
 
 INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zero, the character becomes completely mindless.
 
-### Power (POW)
+#### Power (POW)
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points. If a character's POW ever drops to zero, they lose all independent will.
 
-### Charisma (CHA)
+#### Charisma (CHA)
 
 Charisma is a measure of presence and personality and is independent of physical appearance. CHA affects a character's Experience Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ---
-## Calculating Characteristics
+### Calculating Characteristics
 
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
 - **Dice Roll:** Roll dice for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
-
 - **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range — but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
-
 - **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
-
 - **Points Build:** Players assign Characteristic scores from a predetermined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
 
 ---
@@ -76,19 +71,19 @@ Each Characteristic has a numerical value to determine how potent it is. The num
 
 Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-### Action Points
+#### Action Points
 
 How often a character can act in a Combat Round is determined by Action Points. All _Mythras_ _Imperative_ characters have 2 Action Points.
 
-### Damage Modifier
+#### Damage Modifier
 
 Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker and smaller characters may reduce the damage they can inflict. The Damage Modifier is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
-#### Damage Modifier Table
+##### Damage Modifier Table
 
-| **STR+SIZ** | **Damage Modifier** |
+| STR+SIZ | Damage Modifier |
 | :-: | :-:|
 | 5 or less | –1d8 |
 | 6–10 | –1d6 |
@@ -109,35 +104,35 @@ Add together STR and SIZ and consult the Damage Modifier table, below.
 | 111–120 | +2d10+1d2 |
 | Each 10 points | Continue Progression |
 
-### Experience Modifier
+#### Experience Modifier
 
 Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0004_Game_System.md?id=experience-rolls) section.
 
 A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-#### Experience Modifier Table
+##### Experience Modifier Table
 
-| **CHA** | **Exp. Modifier** |
+| CHA | Exp. Modifier |
 |:-:| :-:|
 | 6 or less | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Each 6 points | +1 |
 
-### Healing Rate
+#### Healing Rate
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury, the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-#### Healing Rate Table
+##### Healing Rate Table
 
-| **CON** | **Healing Rate** |
+| CON | Healing Rate |
 | :-:| :-:|
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Each 6 points | +1 |
 
-### Hit Points
+#### Hit Points
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven: the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
@@ -145,9 +140,9 @@ Some creatures, such as monsters or different classes of animal, by their very n
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table, above.
 
-#### Hit Points per Location
+##### Hit Points per Location
 
-| **Location** | **CON+SIZ** |  |  |  |  |  |  |  |  |
+| Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -156,13 +151,13 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 | Each Arm | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
 | Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
-### Initiative
+#### Initiative
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0005_Combat.md?id=combat-style) chapter goes into more detail on how Initiative is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
-### Luck Points
+#### Luck Points
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
@@ -172,22 +167,22 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the [Game System](0004_Game_System.md?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-#### Luck Points Table
+##### Luck Points Table
 
-| **POW** | **Luck Points** |
+| POW | Luck Points |
 | :-- | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Each 6 points | +1 |
 
-### Magic Points
+#### Magic Points
 
 Mystical abilities, powers and spells used in _Mythras_ _Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
 For those who can use such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points, they have exhausted their ability to cast any spells until Magic Points are replenished.
 
-### Movement Rate
+#### Movement Rate
 
 Every creature has a Movement Rate – a number of metres that can be travelled during a specific period of time. Movement is not calculated from Characteristics but is a default value which differs from species to species. The base Movement Rate for humans is 6 metres.
 
@@ -206,7 +201,6 @@ _The published version of _Mythras Imperative_ has no explicit rules for moving 
 _Where required it should be enough to treat Gaits as follows:_
 
 - _Gaits faster than Walk apply a multiplier to the Move rating: 3x for Run, 5x for Sprint._
-
 - _While at a Run or Sprint Gait, characters cannot attempt most proactive actions like attacking or casting spells. Some exceptions include..._
   - _Attacks when using the Charging rules._
   - _Firing ranged weapons with the Skirmishing trait._ 
@@ -222,9 +216,9 @@ Skills fall into two classes. Everyone has Standard skills – things such as sn
 
 _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
-### Standard Skills
+##### Standard Skills
 
-| **Skill** | **Basic Percentage** |
+| Skill | Basic Percentage |
 | :-- | :-- |
 | Athletics | STR+DEX |
 | Boating | STR+CON |
@@ -249,7 +243,7 @@ _**Combat Style**_ is listed in the Cultural descriptions that follow. Combat St
 | Unarmed | STR+DEX |
 | Willpower | POW x2 |
 
-\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans).
+_\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans)._
 
 ---
 ## Step 5: Culture
@@ -262,9 +256,8 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 
 #### Skills
 
-_**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In addition, the player may also choose a cultural Combat Style.
-
-_**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
+- **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
 
 ### Civilized
 
@@ -272,9 +265,8 @@ The Civilized culture is epitomized by a semblance of law and order, underpinned
 
 #### Skills
 
-_**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In addition, the player may also choose a cultural Combat Style.
-
-_**Professional Skills**_: Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
+- **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
 
 ### Nomadic
 
@@ -282,9 +274,8 @@ Nomadic people are constantly on the move, with no home and hearth to call their
 
 #### Skills
 
-_**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In addition, the player may also choose a cultural Combat Style.
-
-_**Professional Skills**_: Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
+- **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:**  Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
 
 ### Primitive
 
@@ -294,9 +285,8 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 #### Skills
 
-_**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In addition, the player may also choose a cultural Combat Style.
-
-_**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
+- **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
 
 ---
 ## Step 6: Career
@@ -305,9 +295,9 @@ Every character starts the game having been trained in a career. The occupation 
 
 Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](0002_Characters.md?id=step-4-skills) chapter.
 
-### Careers Table
+#### Careers Table
 
-| **Career Name** | **Standard Skills** | **Professional Skills** |
+| Career Name | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
 | Agent (Agitator, Assassin, Detective, Informer, Spy…) | Conceal, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Agent or Cultural Style) | Culture (any), Disguise, Language (any), Sleight, Streetwise, Survival, Track |
 | Beast Handler (Animal Breeder, Beast Tamer, Menagerie Keeper…) | Drive, Endurance, First Aid, Influence, Locale, Ride, Willpower | Craft (Animal Husbandry), Commerce, Healing (Specific Species), Lore (Specific Species), Survival, Teach (Specific Species), Track |
@@ -354,7 +344,7 @@ A table is provided, breaking experience into Age Categories. A character's expe
 
 #### Experience Table
 
-| **Category** | **Age** | **Bonus Skill Points** | **Maximum Skill Increase** |
+| Category | Age | Bonus Skill Points | Maximum Skill Increase |
 | :-- | :-: | :-: | :-: |
 | Young | 10+1d6 | 100 | +10 |
 | Adult | 15+2d6 | 150 | +15 |
@@ -390,7 +380,7 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 10 10 10 10 10
 ```
 
-### A Few Simple Rules
+#### A Few Simple Rules
 
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
@@ -423,15 +413,10 @@ When generating Pulp Heroic characters, use the Dice Roll Assign method in the [
 These are calculated as per normal, except that Pulp Heroic characters gain two Advantages chosen from the following (note that advantages cannot be stacked):
 
 - +1 Action Point
-
 - +1 Luck Point
-
 - +1 Hit Point to each Hit Location
-
 - Endurance rolls are one Grade easier
-
 - Stealth rolls are one Grade Easier
-
 - Willpower rolls are one Grade easier
 
 All Pulp Heroic characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
@@ -455,15 +440,10 @@ When generating characters using the Dice Roll Assign method in the [Characters]
 These are calculated as per normal, except that Paragon Characters gain three Advantages chosen from the following (note that advantages cannot be stacked):
 
 - +1 Action Point
-
 - +2 Luck Points
-
 - +2 Hit Points to each Hit Location
-
 - Endurance rolls are one Grade easier
-
 - Stealth rolls are one Grade Easier
-
 - Willpower rolls are one Grade easier
 
 All Paragon characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
@@ -483,9 +463,9 @@ Passions are measured in the same way as skills; they are rated between 1 and 10
 
 Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, profession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens), and Uphold (the Law) instead.
 
-### Passion Table
+#### Passion Table
 
-| **Object of Passion** | **Starting Percentage** |
+| Object of Passion | Starting Percentage |
 | :-- | :-- |
 | A person, in a romantic or familial context | POW+CHA |
 | An organization or group of people | POW+INT |
@@ -501,13 +481,9 @@ A Passion is any deeply held commitment that has the capacity to influence event
 In summary, Passions can be used thus:
 
 - To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, if the augmentation is thematically and dramatically important.
-
 - As an Ability to drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
-
 - To oppose other Passions – even those held by the same character. This is typically used where two Passions would conflict. For instance, a personal love might dictate a course of action that would be contrary to an Oath or Loyalty. Here use an Opposed Roll between the two Passions, with the more successful determining how the character acts.
-
 - As a general measure of depth of commitment, belief, and loyalty to a cause. The higher the Passion's value, the more committed the character is. Characters with similar Passions can compare their ratings to determine who exhibits the deeper commitment.
-
 - To resist some form of psychological manipulation or magical domination. In certain cases where a character is being forced into performing an act contrary to their Passions, they may substitute either for Willpower in the Opposed Roll.
 
 New Passions can be developed at any point during a game session if the circumstances warrant it. One might instantly develop 'Hate X' where someone else does something that would strongly invoke hatred to arise. A lord or chief calling for an Oath would immediately establish a Passion of 'Loyalty to X' as soon as that Oath is taken or sworn.
@@ -524,7 +500,7 @@ The Deepening and Waning table shows by how much the Passion changes.
 
 #### Deepening and Waning Table
 
-| **Depth of Change** | **Passion Modified by** |
+| Depth of Change | Passion Modified by |
 | --- | --- |
 | Weak | 1d10 |
 | Moderate | 1d10+5 |
@@ -536,13 +512,8 @@ The Deepening and Waning table shows by how much the Passion changes.
 Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. During adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
 
 - A set of clothing appropriate to the character's profession and the setting.
-
 - An amount of pocket money; enough to last a little while without hardship.
-
 - A personal heirloom, keepsake, or some trinket of little relative value.
-
 - Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
-
 - Any personal weapon for the character's Combat Style.
-
 - Other items as appropriate for the setting, and subject to the GM's approval.
