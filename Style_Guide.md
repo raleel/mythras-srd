@@ -98,7 +98,8 @@ For lists of related sub-headings embolden & italicise the title and colon.
 
 Give tables a sub-header so they appear bookmarked in the sidebar, indented a level from their parent section. 
 
-Make the heading row bold text. 
+~Make the heading row bold text.~ 
+Making the header row bold actually renders it in normal text. The default CSS has that row bolded.
 
 ### Table text alignment
 
