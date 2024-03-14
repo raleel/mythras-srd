@@ -1,7 +1,7 @@
 # Mythras Imperative System Resource Document
 
 ---
-## Introduction
+## Introduction 
 
 _Mythras Imperative_ is an Open, ORC Licensed, version of the _Mythras_ ruleset. This document offers a comprehensive, but not exhaustive, set of rules, including character creation, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Mythras Imperative_ is compatible with the Mythras core rules, and other ORC licensed percentile gaming systems. Its companion volume, _Classic Fantasy Imperative,_ is also completely compatible and released under ORC, meaning that the two Imperatives can be easily combined.
 
@@ -17,7 +17,7 @@ What is _not_ shared under the ORC is known as _**Reserved Material**_ and inclu
 Under the ORC License you can use, share, adapt, and build on the Licensed Material however you see fit, so long as you give proper attribution in the form of a notice in your published work. This notice both credits the upstream licensors and their contribution to the work, as well as providing an easy way for downstream users to credit the author of the work in which the notice appears. By using material licensed under the ORC, you automatically agree to license out your game mechanics in your published work under the same terms. If you develop your own Reserved Material, that is your exclusive property.
 
 ---
-## ORC Notice
+#### ORC Notice
 
 _Mythras Imperative_ is licensed under the ORC License located at the Library of Congress and available online at various locations including [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) and others.
 
