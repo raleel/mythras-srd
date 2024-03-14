@@ -214,7 +214,9 @@ _Where required it should be enough to treat Gaits as follows:_
 
 Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
-_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
+##### Combat Style
+
+Combat Style is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
 ##### Standard Skills
 
@@ -355,7 +357,6 @@ A table is provided, breaking experience into Age Categories. A character's expe
 #### Experience Table Notes
 
 - Bonus Skill Points determine how many points the character must spend on developing skills.
-
 - Maximum Skill Increase limits how many of the Bonus Points can be applied to any one Skill.
 
 ### The Skill Pyramid
