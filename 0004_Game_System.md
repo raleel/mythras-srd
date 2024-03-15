@@ -30,7 +30,7 @@ Every _Mythras Imperative_ character can improve with time and experience. Impro
 - Learning new skills
 - Learning new Abilities
 
-### Experience Rolls
+#### Experience Rolls
 
 The mechanism for most character improvement is the Experience Roll. Games Masters dispense Experience Rolls at an appropriate juncture in the campaign: at the end of every successful scenario or storyline; or after perhaps two or three sessions of play if the story is a long one which will take time to complete. The frequency is at the Games Master's discretion. A high frequency of Experience Rolls will lead to the characters developing at a faster rate.
 
@@ -38,7 +38,7 @@ There is no right or wrong time to give Experience Rolls, but natural breaks in 
 
 The number of Experience Rolls awarded is also determined by the Games Master. However, a good rule of thumb is 1-3 Experience Rolls per session since the last time they were awarded.
 
-### Increasing Existing Skills
+#### Increasing Existing Skills
 
 Any skill on the Character Sheet, Standard or Professional, can be increased by spending one Experience Roll. Players can elect not to spend Experience Rolls on increasing skills, instead building up a stockpile for use in increasing other things – such as Class abilities (see below).
 
@@ -50,13 +50,13 @@ The player rolls 1d100 and compares it to the skill being increased. The charact
 
 The same skill may not benefit from more than one Experience Roll per session.
 
-### Increasing Passions
+#### Increasing Passions
 
 As described under Passions in the [Passions](0002_Characters.md?id=step-8-passions) section, the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced using an Experience Roll.
 
 _For example, constant spurning from an unrequited love might eventually wear down the Passion of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them._
 
-### Learning New Skills
+#### Learning New Skills
 
 Some characters may wish to study new Professional Skills which they never had the chance to learn from their culture. Before they can start investing Experience Rolls, they must first find a source of knowledge from which to learn. This could be as prosaic as a professional tutor such as those provided by orders or guilds. Alternately it might be a more exotic source of education such as an ancient and crumbling training scroll.
 
@@ -69,35 +69,32 @@ Some of the most feared things which can affect characters are the myriad diseas
 
 Diseases and poisons are near infinite in their varieties but, for game purposes, are handled in the same way.
 
-### Disease and Poison Traits
+#### Disease and Poison Traits
 
 All diseases and poisons manifest a number of traits important to their effects.
 
-_**Application:**_  The method of how the disease or poison is introduced into the victim.
+**Application:**  The method of how the disease or poison is introduced into the victim.
 
 - **Ingestion:**  Effects take place through either eating or drinking.
-
 - **Inhaled:**  Effects take place through breathing or snorting.
-
 - **Contact:**  Effects take place through absorption through the skin.
-
 - **Injected:**  Effects take place when the substance is injected into the body through piercing.
 
-_**Potency:**_ The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
+**Potency:** The virulence of the disease or poison. This value is set against an appropriate resisting skill (usually Endurance or Willpower) in an Opposed Roll. If the character wins the roll, they shrug off its effects. If they lose the roll, then they suffer all of the disease or poison Conditions, each at the appropriate time.
 
-_**Resistance:**_ How the disease or poison is resisted – usually either Endurance or Willpower, but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
+**Resistance:** How the disease or poison is resisted – usually either Endurance or Willpower, but may have more exotic resistance requirements. Resistance can be rolled at the time of exposure or deferred until the Onset Time to conceal the fact the character might have been infected or poisoned.
 
-_**Onset Time:**_ Many diseases and poisons do not take immediate effect. The delay is called the Onset Time, and this can be a matter of seconds, minutes, hours, or even longer. Poisons or diseases possessing multiple effects may have different onset times for each one as described under Conditions.
+**Onset Time:** Many diseases and poisons do not take immediate effect. The delay is called the Onset Time, and this can be a matter of seconds, minutes, hours, or even longer. Poisons or diseases possessing multiple effects may have different onset times for each one as described under Conditions.
 
-_**Duration:**_ How long a disease or poison's Conditions last.
+**Duration:** How long a disease or poison's Conditions last.
 
-_**Conditions:**_ Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resist, he suffers all the Conditions described.
+**Conditions:** Every toxin has one or more Conditions. These have specific effects as described in the Conditions table, below, and if a victim fails to resist, he suffers all the Conditions described.
 
-_**Antidote/Cure:**_ If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
+**Antidote/Cure:** If the toxin can be treated it will be noted here. Successful treatment prevents any further conditions from occurring, yet in some circumstances may leave the victim suffering enduring effects that have already been inflicted.
 
-#### Conditions Table
+##### Conditions Table
 
-| **Condition** | **Effects** |
+| Condition | Effects |
 | :-- | :-- |
 | Agony | The victim is hindered by intense pain. Whether in a location or the entire body, any skill roll involving use of the affected area must also be less or equal to the character's Willpower, otherwise the attempt fails, and they moan or scream in pain. |
 | Asphyxiation | The victim  suffers asphyxiation – he collapses incapacitated, unable to breathe. The rules from the  [Asphyxiation](0004_Game_System.md?id=asphyxiation) section are used. Asphyxiation may be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the latter case a victim can be kept alive by winning an opposed test of the First Aid skill against the Potency of the disease or poison. |
@@ -129,9 +126,9 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 
 The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
 
-### Falling Distance Table
+##### Falling Distance Table
 
-| **Distance Fallen** | **Damage Taken** |
+| Distance Fallen | Damage Taken |
 | :-- | :-- |
 | 1 metre or less | No damage. |
 | 2-5 metres | 1d6 points of damage to one random location. |
@@ -140,7 +137,7 @@ The amount of damage suffered in a fall depends on the distance of the drop. Arm
 | 16-20 metres | 4d6 points of damage to four random locations. |
 | Each +5 metres | +1d6 damage. |
 
-### Falling Objects
+#### Falling Objects
 
 A falling object imparts an amount of damage based on its SIZ and the distance of the fall. An object imparts 1d6 damage for every 6 points of SIZ (or fraction thereof), plus an amount of damage equal to the Damage Taken column of the Falling Distance Table – including any reductions for objects of smaller size.
 
@@ -157,15 +154,15 @@ For most characters, activities of any kind become near impossible when the leve
 
 Beyond Incapacitated, characters cannot act at all. The Fatigue levels – Semi-Conscious, Comatose, and Dead – are generally reserved for measuring the most extreme effects of suffocation, disease, blood loss, starvation, exposure, and so forth.
 
-### Recovering from Fatigue
+#### Recovering from Fatigue
 
 Characters recover from Fatigue depending on their Healing Rate. The amount of complete rest needed to recover from each level of accrued Fatigue is equal to the Recovery Period divided by the character's Healing Rate.
 
 Note that the table below represents Fatigue recovery for physical exertion. Fatigue recovery can be much faster when recovering from Asphyxiation or slower if recuperating from Blood Loss.
 
-#### Fatigue Levels
+##### Fatigue Levels
 
-| **Fatigue Level** | **Skill Grade** | **Movement** | **Initiative** | **Action Points** | **Recovery Period** |
+| Fatigue Level | Skill Grade | Movement | Initiative | Action Points | Recovery Period |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
@@ -185,9 +182,9 @@ Fires are always a source of danger when used as a weapon or raging out of contr
 
 Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
-### Fire Intensity Table
+##### Fire Intensity Table
 
-| **Intensity** | **Examples** | **Time to Ignite** | **Damage** |
+| Intensity | Examples | Time to Ignite | Damage |
 | :-: | :-- | :-: | :-: |
 | 1 | Candle | 1d4 | 1d2 |
 | 2 | Torch | 1d3 | 1d4 |
@@ -204,15 +201,15 @@ In _Mythras Imperative_, time is an important factor, mostly to determine what h
 
 Following are the important distinctions of game time:
 
-### Combat Rounds
+#### Combat Rounds
 
 A Combat Round represents five seconds of real time. They are used to measure short, frenetic bursts of activity that take moments to complete or measuring very detailed activities that require a blow-by-blow resolution. For example, a chase between hunter and prey where each Round determines the twists and turns of the pursuit.
 
-### Skill Time
+#### Skill Time
 
 Skill Time represents a few minutes to a few hours and is used to measure activities that do not require the detailed attention of a Combat Round but require a specific deliberation of effort with a definite result. Picking a lock might take five minutes, whereas observing the patrols made by teams of guards around a castle's walls might require several hours and are both examples of Skill Time.
 
-### Narrative Time
+#### Narrative Time
 
 This is the amount of time taken when the Games Master is narrating to the players, or when the players are discussing. Unless there is a specific reason for it, most actual roleplaying takes place in narrative time. When roleplaying, narrative time resembles real time, where a conversation takes as long to have as it takes to play. If a game session includes lengthy travel, or periods of activity where exact time is not of the essence, then time is compressed greatly to a few moments of game time.
 
@@ -226,9 +223,9 @@ Animals and monsters usually have slightly different Hit Location tables than hu
 
 The humanoid Hit Location table is repeated here for ease of reference.
 
-### Humanoid Hit Locations
+##### Humanoid Hit Locations
 
-| **1d20** | **Hit Location** |
+| 1d20 | Hit Location |
 | :-: | :-- |
 | 1-3 | Right Leg |
 | 4-6 | Left Leg |
@@ -297,9 +294,7 @@ In special cases where key characters receive a Major Wound, the Games Master mi
 Natural healing from wounds and injuries is based on the character's Healing Rate. The Healing Rate dictates how many Hit Points are recovered in a location depending on the injury's nature:
 
 - **Minor Wounds:** Days
-
 - **Serious Wounds:** Weeks
-
 - **Major Wounds:** Months
 
 Thus, a character with a Healing Rate of 3 who suffers damage taking him to –3 in a Hit Location, a Serious Wound, will heal naturally at a rate of 3 Hit Points per week until his wound goes above zero, and then heal 3 Hit Points per day until fully recovered.
@@ -316,13 +311,13 @@ All inanimate objects possess Armor Points and Hit Points which are used to dete
 
 Breakage attempts require a character to make a Brawn, Unarmed or Combat Style roll, as appropriate, to inflict damage. A success deals damage to the item.
 
-### Weapons vs Inanimate Objects
+#### Weapons vs Inanimate Objects
 
 Using a weapon against an inanimate object with Armor Points equal to or greater than those of the weapon deals damage to both the object and the weapon. For instance, using an axe on an iron door may damage the door, but the axe itself will be destroyed long before the iron door is. The Games Master should exercise discretion on which weapons or tools can affect which objects. A chisel, for example, is explicitly designed to carve wood or stone whilst a sword, although sharp, is not. The chisel would therefore not take damage from something it is attempting to carve whereas a sword most likely would.
 
-#### Inanimate Objects Table
+##### Inanimate Objects Table
 
-| **Object** | **Armor / Hit Points** |
+| Object | Armor / Hit Points |
 | :-- | :-: |
 | Castle Gate | 8/150 |
 | Castle Wall | 10/500 |
@@ -349,7 +344,7 @@ Luck Points help differentiate heroes from the rank and file. They represent a c
 
 Luck Points can be used during play and, at the beginning of the next session, replenish to their usual value.
 
-### Using Luck Points
+#### Using Luck Points
 
 Luck points can be used in a variety of ways. Only one Luck Point can be used in support of a particular Action. Luck Points cannot be spent on Experience or Training rolls. Each of the following options costs a single Luck Point.
 
