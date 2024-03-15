@@ -291,7 +291,7 @@ The maximum number of weapon systems a vehicle can support is equal to 1/10th of
 
 Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the [Weapons](0006_Vehicles.md?id=weapons) section.
 
-### Damage
+#### Damage
 
 Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic.
 
