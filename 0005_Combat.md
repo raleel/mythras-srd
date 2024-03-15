@@ -1,7 +1,7 @@
 # Combat
 
 Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-driven fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Mythras Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
-- **Combat Style:**The skill of wielding a group of weapons learned as part of a culture or profession.- **Combat Rounds:** Bookkeeping time segments of five seconds each.- **Combat Actions:** Possible acts a character can perform during a Round by the expenditure of an Action Point.- **Weapon Size:** How difficult it is to parry a particular weapon.- **Engagement:** When combatants can hit or be hit by a direct opponent, depending on circumstances.- **Special Effects:** Combat manoeuvres which can be performed if one combatant gains the upper hand.
+- **Combat Style:** The skill of wielding a group of weapons learned as part of a culture or profession.- **Combat Rounds:** Bookkeeping time segments of five seconds each.- **Combat Actions:** Possible acts a character can perform during a Round by the expenditure of an Action Point.- **Weapon Size:** How difficult it is to parry a particular weapon.- **Engagement:** When combatants can hit or be hit by a direct opponent, depending on circumstances.- **Special Effects:** Combat manoeuvres which can be performed if one combatant gains the upper hand.
 
 ---
 ## Combat Styles
