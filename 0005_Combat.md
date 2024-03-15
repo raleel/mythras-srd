@@ -1,30 +1,7 @@
 # Combat
 
 Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-driven fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Mythras Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
-
-### Combat Style
-
-The skill of wielding a group of weapons learned as part of a culture or profession.
-
-### Combat Rounds
-
-Bookkeeping time segments of five seconds each.
-
-### Combat Actions
-
-Possible acts a character can perform during a Round by the expenditure of an Action Point.
-
-### Weapon Size
-
-How difficult it is to parry a particular weapon.
-
-### Engagement
-
-When combatants can hit or be hit by a direct opponent, depending on circumstances.
-
-### Special Effects
-
-Combat manoeuvres which can be performed if one combatant gains the upper hand.
+- **Combat Style:**The skill of wielding a group of weapons learned as part of a culture or profession.- **Combat Rounds:** Bookkeeping time segments of five seconds each.- **Combat Actions:** Possible acts a character can perform during a Round by the expenditure of an Action Point.- **Weapon Size:** How difficult it is to parry a particular weapon.- **Engagement:** When combatants can hit or be hit by a direct opponent, depending on circumstances.- **Special Effects:** Combat manoeuvres which can be performed if one combatant gains the upper hand.
 
 ---
 ## Combat Styles
@@ -39,7 +16,7 @@ Characters who attempt to use a weapon not covered by their style should suffer 
 
 Combat styles possess another function beyond simply learning a group of weapon skills. Since each style is taught by a particular culture or career, they are inherently optimised for the environment or military tactics that group normally fights with; for instance, a horse nomad learns to fight from the saddle, or an infantryman trains to fight in close order formation. Therefore, as an additional bonus, some Combat Styles may be assigned one or more traits which grants it an advantage under certain circumstances. Traits are only intended to be used with the weapons and situations of that particular style. Obviously, there are countless traits, many of which are specific to a particular period or campaign world.
 
-### Combat Style Traits Table
+##### Combat Style Traits Table
 
 | Trait | Description |
 | :-- | :-- |
@@ -83,21 +60,22 @@ Throughout these combat rules, certain action types, Special Effects and situati
 
 Combat Rounds use several important terms:
 
-**Initiative** : The order of who acts when during a Turn of a Combat Round. The Games Master counts down through Initiative values from the highest to the lowest, so that each participant has a chance to take their Turn when their number is reached.
-
-**Turns** : During each 5 second Combat Round, each participant has an opportunity to take one or more Turns, dependent on the number of Action Points they possess, and how they use them. Upon their Turn, participants perform one Combat Action, which comprises of a declaration, possible movement, any necessary dice rolls (including Reactions), and the resolution of the Action. If any participant has Action Points remaining, the players may each take another Turn in Initiative order. Once no Action Points remain, or any remaining are being held back for Reactions, play proceeds to the next Combat Round.
+- **Initiative:** The order of who acts when during a Turn of a Combat Round. The Games Master counts down through Initiative values from the highest to the lowest, so that each participant has a chance to take their Turn when their number is reached.
+- **Turns:** During each 5 second Combat Round, each participant has an opportunity to take one or more Turns, dependent on the number of Action Points they possess, and how they use them. Upon their Turn, participants perform one Combat Action, which comprises of a declaration, possible movement, any necessary dice rolls (including Reactions), and the resolution of the Action. If any participant has Action Points remaining, the players may each take another Turn in Initiative order. Once no Action Points remain, or any remaining are being held back for Reactions, play proceeds to the next Combat Round.
 
 Each term is described, in more detail, below.
 
-### Initiative
+#### Initiative
 
 Initiative determines participants' order of actions in a Combat Round. It is rolled at the start of a fight and determines when each character acts. Unless something occurs to change the situation, such as certain Combat Actions or Special Effects, Initiative remains in play until it is forced to be re-rolled.
 
 Initiative is calculated by each participant rolling 1d10 and adding their Initiative Modifier. Whoever gained the highest result acts first, followed by the second highest and so on. When two or more participants tie scores, the one with the higher DEX will act first. If this still results in a tie, have each roll a die with high roll going before the other.
 
-### Actions in Combat
+#### Actions in Combat
 
-Once Initiative has been determined, the participants have the potential to perform several Combat Actions during each Combat Round. All characters get 2 Action Points per Round, but when they can act is limited to whether the Action is proactive or Reactive. Proactive Actions can only be attempted on the character's own Turn; that is to say, during his Initiative. Proactive Actions are those in which the character is the instigator, such as making an attack with a weapon.
+Once Initiative has been determined, the participants have the potential to perform several Combat Actions during each Combat Round. All characters get 2 Action Points per Round, but when they can act is limited to whether the Action is proactive or Reactive. 
+
+Proactive Actions can only be attempted on the character's own Turn; that is to say, during his Initiative. Proactive Actions are those in which the character is the instigator, such as making an attack with a weapon.
 
 Reactive Actions are those taken by a character to counter or resist an act made against them. Only one reaction attempt is permitted for each threat, an example would be trying to parry an attack.
 
@@ -406,39 +384,73 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 ### Special Effect Descriptions
 
-**Accidental Injury** : The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
+#### Accidental Injury
 
-**Arise** : Allows the defender to use a momentary opening to roll back up to their feet.
+The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
 
-**Bash** : The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or an unmodified Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
+#### Arise
 
-**Bleed** : The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, in the Game System section. For firearms, since most firearms produce very narrow wound paths, it is actually moremore difficult to nick or sever a major blood vessel than it is with a slicing or stabbing weapon. Due to this Bleed should be a Critical Success only – unless the gun is some sort of weird weaponry which fires shuriken, razor fléchettes, flattened force fields or some such exotic ammunition.
+Allows the defender to use a momentary opening to roll back up to their feet.
 
-**Blind Opponent** : On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
+#### Bash
 
-**Bypass armor** : On a Critical the attacker finds a gap in the defender's natural or worn armor. If the defender is wearing armor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armor. Although Bypass Armor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
+The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or an unmodified Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
 
-**Choose Location** : When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged weapons, including firearms, Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker. For firearms, telescopic scopes may extend this range.
+#### Bleed
 
-**Circumvent Parry:** On a Critical the attacker may completely bypass an otherwise successful Parry.
+The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, in the Game System section. For firearms, since most firearms produce very narrow wound paths, it is actually moremore difficult to nick or sever a major blood vessel than it is with a slicing or stabbing weapon. Due to this Bleed should be a Critical Success only – unless the gun is some sort of weird weaponry which fires shuriken, razor fléchettes, flattened force fields or some such exotic ammunition.
 
-**Damage Weapon** : Permits the character to damage his opponent's weapon as part of an Attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own Armor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks. For firearms, since striking a handheld weapon at range is even more difficult than targeting a specific body location, this should generally be reserved for Critical Successes only. There are several exceptions however, the first being that a shield should, by its very nature, be much easier to hit. The second concerns exotic weapons which fire a cone shaped beam able to target handheld objects within its area of affect; for instance, an induction gun that heats metal objects.
+#### Blind Opponent
 
-**Disarm Opponent** : The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier in metres. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
+On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
-**Drop Foe:** Offensive, Firearms Only. Assuming the target suffers at least a minor wound from the shot, they are forced to make an Opposed Test of their Endurance against the attacker's hit roll. Failure indicates that the target succumbs to shock and pain, becoming incapacitated and unable to continue fighting. Recovery from incapacitation can be performed with a successful First Aid check or using some form of technological or narcotic booster if such exists in the campaign. Otherwise, the temporary incapacitation lasts for a period equal to one hour divided by the Healing Rate of the target.
+#### Bypass armor
 
-**Duck Back:** Offensive, Firearms Only. This special effect allows the shooter to immediately duck back into cover, without needing to wait for their next Turn to use the Take Cover action. The character must be already standing or crouching adjacent to some form of cover to use Duck Back.
+On a Critical the attacker finds a gap in the defender's natural or worn armor. If the defender is wearing armor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armor. Although Bypass Armor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
 
-**Enhance Parry** : On a Critical the defender manages to deflect the entire force of an attack, no matter the Size of his weapon.
+#### Choose Location
 
-**Entangle** : Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or by winning a Special Effect and selecting Damage Weapon, Disarm Opponent, or Slip Free.
+When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged weapons, including firearms, Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker. For firearms, telescopic scopes may extend this range.
 
-**Force Failure** : Used when an opponent Fumbles, the character can combine Force Failure with any other Special Effect which requires an Opposed Roll to work. Force Failure causes the opponent to fail his resistance roll by default – thereby automatically be disarmed, tripped, and so forth.
+#### Circumvent Parry
 
-**Grip** : Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
+On a Critical the attacker may completely bypass an otherwise successful Parry.
 
-**Impale** : Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and a wound is caused, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
+#### Damage Weapon
+
+Permits the character to damage his opponent's weapon as part of an Attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own Armor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks. For firearms, since striking a handheld weapon at range is even more difficult than targeting a specific body location, this should generally be reserved for Critical Successes only. There are several exceptions however, the first being that a shield should, by its very nature, be much easier to hit. The second concerns exotic weapons which fire a cone shaped beam able to target handheld objects within its area of affect; for instance, an induction gun that heats metal objects.
+
+#### Disarm Opponent
+
+The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier in metres. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
+
+#### Drop Foe
+
+Offensive, Firearms Only. Assuming the target suffers at least a minor wound from the shot, they are forced to make an Opposed Test of their Endurance against the attacker's hit roll. Failure indicates that the target succumbs to shock and pain, becoming incapacitated and unable to continue fighting. Recovery from incapacitation can be performed with a successful First Aid check or using some form of technological or narcotic booster if such exists in the campaign. Otherwise, the temporary incapacitation lasts for a period equal to one hour divided by the Healing Rate of the target.
+
+#### Duck Back
+
+Offensive, Firearms Only. This special effect allows the shooter to immediately duck back into cover, without needing to wait for their next Turn to use the Take Cover action. The character must be already standing or crouching adjacent to some form of cover to use Duck Back.
+
+#### Enhance Parry
+
+On a Critical the defender manages to deflect the entire force of an attack, no matter the Size of his weapon.
+
+#### Entangle
+
+Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or by winning a Special Effect and selecting Damage Weapon, Disarm Opponent, or Slip Free.
+
+#### Force Failure
+
+Used when an opponent Fumbles, the character can combine Force Failure with any other Special Effect which requires an Opposed Roll to work. Force Failure causes the opponent to fail his resistance roll by default – thereby automatically be disarmed, tripped, and so forth.
+
+#### Grip
+
+Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
+
+#### Impale
+
+Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and a wound is caused, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
 
 #### Impale Effects Table
 
@@ -453,35 +465,63 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 For firearms, the ammunition of most projectile-based firearms will be able to impale. Game Masters may wish to restrict or ban this effect for plasma or laser-based energy weapons. Bullets, fléchettes and similar projectiles are clearly too small to impose any secondary impaling effects.
 
-**Marksman** : Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has influences over what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
+#### Marksman
 
-**Maximize Damage**: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximize Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
+Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has influences over what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
 
-**Over-penetration:** Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming that it overcomes the first target's body armor. The second victim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armor piercing ability. Any special effects inflicted on the first target are not applied to the second.
+#### Maximize Damage
 
-**Pin Down:** Firearms Only. Similar to Press Advantage, this special effect forces the target to make an Opposed Test of their Willpower against the attacker's hit roll. Failure means that the target hunkers down behind whatever cover is available and cannot return fire on their next Turn. Note that Pin Down works even if no actual damage is inflicted on the target (perhaps due to a successful evasion or shots striking their cover instead), as it relies on the intimidation effect of gunfire passing very close by.
+On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximize Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
+
+#### Over-penetration
+
+Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming that it overcomes the first target's body armor. The second victim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armor piercing ability. Any special effects inflicted on the first target are not applied to the second.
+
+#### Pin Down
+
+Firearms Only. Similar to Press Advantage, this special effect forces the target to make an Opposed Test of their Willpower against the attacker's hit roll. Failure means that the target hunkers down behind whatever cover is available and cannot return fire on their next Turn. Note that Pin Down works even if no actual damage is inflicted on the target (perhaps due to a successful evasion or shots striking their cover instead), as it relies on the intimidation effect of gunfire passing very close by.
 
 Although a pinned victim is unable to fire back for the requisite time, they can perform other actions provided they don't expose themselves to fire in the process, such as crawling away to new cover, communicating with others, reloading a weapon and so on.
 
-**Prepare Counter**: The defender reads the patterns of his foe and prepares a counter against a specific Special Effect (which should be noted down in secret). If his opponent attempts to inflict the chosen Special Effect upon him during the fight, the defender instantly substitutes the attacker's effect with one of his own, which succeeds automatically.
+#### Prepare Counter
 
-**Rapid Reload**: When using a Ranged Weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked. For firearms, whilst useful for black powder or single round firearms, this effect has less of an obvious application when applied to automatic weapons, where the next shot is chambered (or charged) instantly. However, Rapid Reload could be used instead to quickly change weapon magazines. It might also be applicable for energy weapons that possess lengthy cycle times to recharge capacitors or allow the barrel to cool.
+The defender reads the patterns of his foe and prepares a counter against a specific Special Effect (which should be noted down in secret). If his opponent attempts to inflict the chosen Special Effect upon him during the fight, the defender instantly substitutes the attacker's effect with one of his own, which succeeds automatically.
 
-**Scar Foe**: The combatant inflicts his opponent with a scar that will be the talk of all for the rest of his or her life – such as an almost-severed-throat, or the letter 'Z' artfully inscribed across the chest.
+#### Rapid Reload
 
-**Select Target**: When an attacker Fumbles, the defender may maneuver or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
+When using a Ranged Weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked. For firearms, whilst useful for black powder or single round firearms, this effect has less of an obvious application when applied to automatic weapons, where the next shot is chambered (or charged) instantly. However, Rapid Reload could be used instead to quickly change weapon magazines. It might also be applicable for energy weapons that possess lengthy cycle times to recharge capacitors or allow the barrel to cool.
 
-**Slip Free**: On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
+#### Scar Foe
 
-**Stun Location**: The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
+The combatant inflicts his opponent with a scar that will be the talk of all for the rest of his or her life – such as an almost-severed-throat, or the letter 'Z' artfully inscribed across the chest.
 
-**Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armors or more exotic concepts like gravity wave guns.
+#### Select Target
 
-**Trip Opponent**: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm shoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
+When an attacker Fumbles, the defender may maneuver or deflect the blow in such a way that it hits an adjacent bystander instead. This requires that the new target is within reach of the attacker's close combat weapon, or in the case of a ranged attack, is standing along the line of fire. The new victim is taken completely by surprise by the unexpected accident and has no chance to avoid the attack which automatically hits. In compensation, however, they suffer no Special Effect.
 
-**Weapon Malfunction:** Attacker Fumbles, Firearms Only. The attacker's firearm malfunctions in such a way that it is rendered useless until time can be spent field stripping and cleaning it.
+#### Slip Free
 
-**Withdraw** : The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
+On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
+
+#### Stun Location
+
+The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
+
+#### Sunder
+
+The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armors or more exotic concepts like gravity wave guns.
+
+#### Trip Opponent
+
+The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm shoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
+
+#### Weapon Malfunction
+
+Attacker Fumbles, Firearms Only. The attacker's firearm malfunctions in such a way that it is rendered useless until time can be spent field stripping and cleaning it.
+
+#### Withdraw
+
+The defender may automatically withdraw out of reach, breaking off engagement with that particular opponent.
 
 ---
 ## Close Combat
@@ -588,31 +628,17 @@ Ranged combat incorporates all forms of weaponry which require to be shot, throw
 
 Each Ranged Weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
-### Force
-
-The Ranged Weapon equivalent of Size. It is an abstract measure of the penetrative power of a weapon or its ammunition to determine whether the blow overcomes a (shield) parry.
-
-### Damage Modifier
-
-This Attribute shows whether the Damage Modifier of the attacker can be used to boost the Ranged Weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
-
-### Range
-
-Three numbers separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Close Range is the distance over which the Choose Location Special Effect may be used, provided the target is stationary or unaware of the impending attack. Effective Range has no significant modifiers. At Long Range, the weapon can still inflict harm, but the amount of damage is halved, and Force is reduced by one step.
-
-### Load
-
-The time in Turns taken to load or reload a weapon that fires ammunition. A character can reduce the time spent loading or readying by use of the Rapid Reload Special Effect.
-
-### Impale Size
-
-The Size of an impaled weapon is different from the Force it strikes with. Ranged impaling weapons have a special column denoting their actual size when considering the hindrances caused by the Impale Special Effect.
+- **Force:** The Ranged Weapon equivalent of Size. It is an abstract measure of the penetrative power of a weapon or its ammunition to determine whether the blow overcomes a (shield) parry.
+- **Damage Modifier:** This Attribute shows whether the Damage Modifier of the attacker can be used to boost the Ranged Weapon's damage roll. In general, only self-drawn bows and thrown weapons allow the user to apply their Damage Modifier.
+- **Range:** Three numbers separated by slashes, representing the maximum Close, Effective, and Long ranges of the weapon or its ammunition. Close Range is the distance over which the Choose Location Special Effect may be used, provided the target is stationary or unaware of the impending attack. Effective Range has no significant modifiers. At Long Range, the weapon can still inflict harm, but the amount of damage is halved, and Force is reduced by one step.
+- **Load:** The time in Turns taken to load or reload a weapon that fires ammunition. A character can reduce the time spent loading or readying by use of the Rapid Reload Special Effect.
+- **Impale Size:** The Size of an impaled weapon is different from the Force it strikes with. Ranged impaling weapons have a special column denoting their actual size when considering the hindrances caused by the Impale Special Effect.
 
 ### Situational Modifiers
 
 As with close combat, situational modifiers may be applied when using Ranged Weapons in particular conditions. A character's Combat Skill may be capped when using the weapon in difficult circumstances, such as throwing a spear while riding a horse.
 
-#### Ranged Combat Situational Modifiers
+##### Ranged Combat Situational Modifiers
 
 | Situation | Difficulty Grade |
 | :-- | --- |
@@ -630,11 +656,11 @@ As with close combat, situational modifiers may be applied when using Ranged Wea
 | Attacker prone\*\*\* | Herculean |
 | Attacker is on unstable ground | Hard |
 
-\* Assumes the thrown weapon or ammunition is vulnerable to crosswinds, and supersedes the normal penalty imposed by the winds on normal skills.
+_\* Assumes the thrown weapon or ammunition is vulnerable to crosswinds, and supersedes the normal penalty imposed by the winds on normal skills._
 
-\*\* Unless targets general location is revealed or known, then treat as Herculean
+_\*\* Unless targets general location is revealed or known, then treat as Herculean_
 
-\*\*\* Penalty can be negated if using a crossbow or firearm from a prepared position.
+_\*\*\* Penalty can be negated if using a crossbow or firearm from a prepared position._
 
 ### Aiming
 
@@ -660,7 +686,7 @@ Normally used for full blown suppressing fire to pin down multiple targets, full
 
 Note that only the first shot which strikes during a burst or full automatic spray can benefit from special effects. Thus, rolling a critical attack whilst firing in automatic mode would permit the selection of Maximize Damage, but only with the first shot, even if all the remaining rounds hit home.
 
-**Why is Automatic Fire So Heavily Penalised?**
+#### Why is Automatic Fire So Heavily Penalised?
 
 It might appear that the rules for automatic fire are unduly harsh compared with the apparent accuracy of modern firearms. There are several reasons for this, the primary ones being streamlining and game balance. Players who criticize their character's inaccuracy should be reminded that any tweaks to the rules will be applied against them too, which given the lethality of rapid fire should be a sobering thought.
 
