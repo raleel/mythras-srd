@@ -508,7 +508,7 @@ The kind of luxury yacht an oligarch might own. Likely kitted out with a surveil
 
 Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
-| Dirigible<br> (Civilian Airship Liner) | |
+| Dirigible | |
 | :- | :- |
 | **Hull** | Enormous Civilian (10) |
 | **Structure** | 85 |
@@ -562,7 +562,7 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 
 This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
-| Interstellar Freighter<br> (Light High-Tech Transport) | |
+| Interstellar Freighter | |
 | :- | :- |
 | **Hull** | Medium Civilian Spaceship (10) |
 | **Structure** | 80 |
@@ -571,9 +571,7 @@ This light transport requires a minimum crew of only two, with room for up to fo
 | **Traits** | Airborne, Cargo, FTL, Space Craft, VTOL |
 | **Shields** | 8 |
 | **Weapons** | x2 quad-mounted laser cannon turrets |
-<br>
 
----
 
 <br>
 
@@ -583,7 +581,7 @@ This light transport requires a minimum crew of only two, with room for up to fo
 
 This extremely high-tech starship is the physical representation of a highly advanced artificial Mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
 
-| General Contact Unit<br> (Ultra High-Tech Spacecraft) | |
+| General Contact Unit | |
 | :- | :- |
 | **Hull** | Colossal Civilian Spaceship (20) |
 | **Structure** | 10,000 |
