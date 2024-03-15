@@ -9,14 +9,13 @@ The rules in this section allow for the representation of most kinds of vehicles
 
 All vehicles are described in terms of their Structure, Hull, Speed, Systems, Traits, and Shields (if present in the setting).
 
-Size: All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
-
 - **Hull:**  Represents Armor Points
 - **Structure:**  Represents a vehicle's Hit Points
 - **Speed:**  Every vehicle has a basic Speed rating
 - **Systems:**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
 - **Traits:**  A vehicle may also have 1 or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
 - **Shields:**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
+- **Size:** All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
 
 ##### Vehicle Size Table 
 
