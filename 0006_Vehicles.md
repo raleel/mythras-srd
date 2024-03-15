@@ -362,12 +362,11 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 ### Ground Vehicles
 
-
 #### Interceptor
 
 A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
-| **Interceptor** | |
+| Interceptor | |
 | :- | :- |
 | **Hull** | Medium Military (6) |
 | **Structure** | 40 |
@@ -384,7 +383,7 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 
 A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries a surprise – either a pair of linked machine guns or two rockets.
 
-| **Pursuit Motorcycle** | |
+| Pursuit Motorcycle | |
 | :- | :- |
 | **Hull** | Small Civilian (2) |
 | **Structure** | 12 |
@@ -401,7 +400,7 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 
 A standard 4-door sedan featuring enough space to comfortably seat a driver and three passengers. Sacrifices cargo space to incorporate a surveillance suite.
 
-| **Sedan Car** | |
+| Sedan Car | |
 | :- | :- |
 | **Hull** | Medium Civilian (4) |
 | **Structure** | 25 |
@@ -418,7 +417,7 @@ A standard 4-door sedan featuring enough space to comfortably seat a driver and 
 
 A two-person car that can switch to waterborne or submersible mode to travel on or underwater. Comes with a front-mounted torpedo and top-mounted surface-to-air missile.
 
-| **Submersible Car** | |
+| Submersible Car | |
 | :- | :- |
 | **Hull** | Medium Civilian (6) |
 | **Structure** | 25 |
@@ -435,7 +434,7 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 
 A plain, unmarked van housing a team of agents and a suite of audio-visual recording equipment.
 
-| **Surveillance Van** | |
+| Surveillance Van | |
 | :- | :- |
 | **Hull** | Large Civilian (9) |
 | **Structure** | 60 |
@@ -452,7 +451,7 @@ A plain, unmarked van housing a team of agents and a suite of audio-visual recor
 
 A pickup or jeep with room for a two-person crew in the cabin and a gunner standing in the flatbed section operating a swivel-mounted Medium Machine Gun.
 
-| **Tactical Support Vehicle** | |
+| Tactical Support Vehicle | |
 | :- | :- |
 | **Hull** | Medium Civilian (6) |
 | **Structure** | 30 |
@@ -472,7 +471,7 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 
 A typical speedboat, armed with a rear-mounted mine dispenser.
 
-| **Speedboat** | |
+| Speedboat | |
 | :- | :- |
 | **Hull** | Medium Civilian (3) |
 | **Structure** | 24 |
@@ -489,7 +488,7 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 
 The kind of luxury yacht an oligarch might own. Likely kitted out with a surveillance suite to protect against enemies attempting to get up to no good.
 
-| **Yacht** | |
+| Yacht | |
 | :- | :- |
 | **Hull** | Huge Civilian (10) |
 | **Structure** | 75 |
@@ -509,7 +508,7 @@ The kind of luxury yacht an oligarch might own. Likely kitted out with a surveil
 
 Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
-| **Dirigible (Civilian Airship Liner)** | |
+| Dirigible<br> (Civilian Airship Liner) | |
 | :- | :- |
 | **Hull** | Enormous Civilian (10) |
 | **Structure** | 85 |
@@ -527,7 +526,7 @@ Similar to the Hindenburg, this class of transcontinental dirigible (and others 
 
 The traditional Assault Helicopter uses their advanced surveillance technology to intercept phone and wireless internet signals, and track individuals and vehicles even in the dark, through FLIR. Attempts to evade the tracker through Stealth are Formidable.
 
-| **Assault Helicopter** | |
+| Assault Helicopter | |
 | :- | :- |
 | **Hull** | Large Military (11) |
 | **Structure** | 50 |
@@ -545,7 +544,7 @@ The traditional Assault Helicopter uses their advanced surveillance technology t
 
 This twin-seat land-based fighter (similar in type to the De Havilland Mosquito) is well known for its performance and versatility. Its bomb bay is able to carry either two 250 lb. bombs (treat as medium missiles with range 0) or a single torpedo.
 
-| **Multi-Role Fighter** | |
+| Multi-Role Fighter | |
 | :- | :- |
 | **Hull** | Large Military (10) |
 | **Structure** | 45 |
@@ -563,7 +562,7 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 
 This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
-| **Interstellar Freighter (Light High-Tech Transport)** | |
+| Interstellar Freighter<br> (Light High-Tech Transport) | |
 | :- | :- |
 | **Hull** | Medium Civilian Spaceship (10) |
 | **Structure** | 80 |
@@ -584,7 +583,7 @@ This light transport requires a minimum crew of only two, with room for up to fo
 
 This extremely high-tech starship is the physical representation of a highly advanced artificial Mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
 
-| **General Contact Unit (Ultra High-Tech Spacecraft)** | |
+| General Contact Unit<br> (Ultra High-Tech Spacecraft) | |
 | :- | :- |
 | **Hull** | Colossal Civilian Spaceship (20) |
 | **Structure** | 10,000 |
@@ -595,5 +594,4 @@ This extremely high-tech starship is the physical representation of a highly adv
 | **Weapons** | None that it cares to discuss |
 
 <br>
-
 
