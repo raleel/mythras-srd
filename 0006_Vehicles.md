@@ -571,9 +571,6 @@ This light transport requires a minimum crew of only two, with room for up to fo
 | **Traits** | Airborne, Cargo, FTL, Space Craft, VTOL |
 | **Shields** | 8 |
 | **Weapons** | x2 quad-mounted laser cannon turrets |
-<br>
-
----
 
 <br>
 
