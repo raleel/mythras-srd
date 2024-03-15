@@ -12,20 +12,15 @@ All vehicles are described in terms of their Structure, Hull, Speed, Systems, Tr
 Size: All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
 
 - **Hull:**  Represents Armor Points
-
 - **Structure:**  Represents a vehicle's Hit Points
-
 - **Speed:**  Every vehicle has a basic Speed rating
-
 - **Systems:**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
-
 - **Traits:**  A vehicle may also have 1 or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
-
 - **Shields:**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
 
-### Vehicle Size Table 
+##### Vehicle Size Table 
 
-| **Size** | **System Hits** |
+| Size | System Hits |
 | :-- | :-: |
 | Small | 1 |
 | Medium | 2 |
@@ -42,9 +37,9 @@ The size and purpose of a vehicle affects the thickness of its hull and resilien
 
 Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
 
-### Terrestrial Hulls 
+##### Terrestrial Hulls 
 
-| **Size** | **Structure** | **Civilian Hull Value** | **Military Hull Value** | **Example** |
+| Size | Structure | Civilian Hull Value | Military Hull Value | Example |
 | :-- | :-: | :-: | :-: | :-- |
 | Small | 1-20 | 1-3 | 4-6 | Motorcycle, motorcycle with sidecar, compact or subcompact car, canoe, kayak, rowboat |
 | Medium | 21-40 | 1-6 | 7-9 | Sedan, panel van, pickup, luxury car, luxury sports car, muscle car, limousine, lifeboat, speedboat, hang glider, autogyro |
@@ -52,9 +47,9 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 | Huge | 61-80 | 7-12 | 13-15 | Semi, airliner, jet, coastguard vessel, yacht |
 | Enormous | 81-100 | 10-15 | 16-18 | Train, cruise liner, naval vessel |
 
-### Starship Hulls 
+##### Starship Hulls 
 
-| **Size** | **Structure** | **Civilian Hull Value** | **Military Hull Value** | **Example** |
+| Size | Structure | Civilian Hull Value | Military Hull Value | Example |
 | :-- | :-: | :-: | :-: | :-- |
 | Small | 10-50 | 4-9 | 10-12 | Single seat fighter |
 | Medium | 51-150 | 7-12 | 13-15 | Light Freighter, Shuttle craft |
@@ -75,9 +70,9 @@ Increasing a vehicle's Speed beyond its standard value is possible on a successf
 
 A driver can attempt to push a vehicle's speed by 2 steps, but this requires a Herculean Drive roll and the maximum the vehicle can sustain this speed is 1d3 minutes: a Critical Success will not extend the increased speed's duration.
 
-### Speed Rating Table 
+##### Speed Rating Table 
 
-| **Speed Rating** | **Max Speed For** |
+| Speed Rating | Max Speed For |
 | :-- | :-: |
 | Ponderous | Enormous |
 | Sluggish | |
@@ -109,9 +104,9 @@ Every vehicle has an inherent trait: the travel mode for which it was primarily 
 
 Some traits may not be available, depending on the technology level of the setting; Games Masters must make their own judgment calls as to what traits can be applied.
 
-### Vehicle Trait Allocation Table 
+##### Vehicle Trait Allocation Table 
 
-| **Size** | **Max Traits** |
+| Size | Max Traits |
 | :-- | :-: |
 | Small | 1 |
 | Medium | 2 |
@@ -164,9 +159,9 @@ In case of an emergency, an ejector seat propels occupants several hundred metre
 
 Spacecraft Only. The craft is fitted with a faster than light engine (be this a hyperdrive, warp drive, wormhole generator or similar). The FTL drive has a separate Speed rating which essentially measures the rate at which a starship can cross a single parsec (3.26 light-years, or 31 trillion kilometres or 19 trillion miles), as follows:
 
-#### FTL Speed Rating Table 
+##### FTL Speed Rating Table 
 
-| **Speed Rating** | **Factor to Traverse 1 Parsec** |
+| Speed Rating | Factor to Traverse 1 Parsec |
 | :-- | :-: |
 | Ponderous | 10 |
 | Sluggish | 8 |
@@ -264,9 +259,9 @@ For example, a high-performance motorcycle has in-built gyrostabilizers giving i
 
 Superior Handling is a Trait. If a vehicle does not have the trait as part of its description, then the default is Standard handling for any vehicle of size Large and below. Huge and Enormous vehicles inherently have the Handling trait of Formidable and Herculean, respectively, and the Games Master is at liberty to rule that certain manoeuvres are simply impossible to achieve due to the vehicle's size.
 
-### Loss of Control Table 
+##### Loss of Control Table 
 
-| **1d100** | **Result** |
+| 1d100 | Result |
 | :-: | :-- |
 | 01-25 | Swerve. The loss of control is temporary. Vehicle drops its speed by 1 step for 5 seconds. |
 | 26-40 | Skid. Driver must fight to keep the vehicle under control. Vehicle drops its speed by 2 steps for 10 seconds. |
@@ -302,9 +297,9 @@ Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and 
 
 For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
 
-#### System Damage Table 
+##### System Damage Table 
 
-| **Size** | **System Hits** | **Loss per Hit** |
+| Size | System Hits | Loss per Hit |
 | :-- | :-: | :-- |
 | Small | 1 | 1 Grade or 50% |
 | Medium | 2 | 1 Grade or 33% |
@@ -315,9 +310,9 @@ For example, a Large vehicle may take up to three hits on a system such as its D
 
 The systems at risk are listed in the Component Damage table below.
 
-#### System Component Damage Table 
+##### System Component Damage Table 
 
-| **1d10** | **System** | **Damaged Result** | **Destroyed Result** |
+| 1d10 | System | Damaged Result | Destroyed Result |
 | :-: | :-- | :-- | :-- |
 | 1 | Cargo | An amount of possessions or equipment stored in the hold, proportional to the damage, are destroyed. | All cargo is destroyed. |
 | 2 | Comms | Comms rolls suffer one additional Difficulty Grade of difficulty each time they are damaged. | Vehicle can no longer communicate or spoof enemy sensors. |
@@ -330,9 +325,9 @@ The systems at risk are listed in the Component Damage table below.
 | 9-0 | None | No systems struck; just Structure damage. | N/A |
 
 
-#### Weapons by Size Table 
+##### Weapons by Size Table 
 
-| **Size** | **Terrestrial** | **Spacecraft** |
+| Size | Terrestrial | Spacecraft |
 | :-- | :-- | :-- |
 | Small | Light Weapon (e.g. Assault Rifle) | Medium Weapon (e.g. Machine Gun, Rocket Launcher) |
 | Medium | Medium Weapon (e.g. Machine Gun, Rocket Launcher) | Turreted/Heavy Weapon (e.g. Heavy Linked Machine Guns, Mini-Guns) |
@@ -343,7 +338,7 @@ The systems at risk are listed in the Component Damage table below.
 
 #### Sample Weapon Statistics 
  
-| **Weapon** | **Damage** | Range | **Firing Rate** | **Ammo/Load** |
+| Weapon | Damage | Range | Firing Rate | Ammo/Load |
 | :-- | :-: | :-: | :-: | :-: |
 | 50 inch Cannon | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
 | Mini-Gun/Gatling Gun | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
@@ -369,86 +364,56 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 #### Interceptor
 
 - **Hull:**  6 (Medium Military), 40 Structure
-
 - **Speed:**  Fast
-
 - **Systems:**  3
-
 - **Traits:**  Ejector Seat, Enhanced Performance, Superior Handling, Surveillance Suite, Tough, Weaponized
-
 - **Weapons:**  Oil slick dispenser, smoke dispenser, twin linked medium machine guns
-
 - **Description:**  A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
 
 #### Pursuit Motorcycle
 
 - **Hull:**  2 (Small Civilian), 12 Structure
-
 - **Speed:**  Fast
-
 - **Systems:**  3
-
 - **Traits:**  Superior Handling, Weaponized
-
 - **Weapons:**  Two Rockets or twin linked Light Machine Guns
-
 - **Description:**  A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries a surprise – either a pair of linked machine guns or two rockets.
 
 #### Sedan Car
 
 - **Hull:**  4 (Medium Civilian), 25 Structure
-
 - **Speed:**  Rapid
-
 - **Systems:**  3
-
 - **Traits:**  Unobtrusive, Surveillance Suite
-
 - **Weapons:**  None
-
 - **Description:**  A standard 4-door sedan featuring enough space to comfortably seat a driver and three passengers. Sacrifices cargo space to incorporate a surveillance suite.
 
 #### Submersible Car
 
 - **Hull:**  6 (Medium Civilian), 25 Structure
-
 - **Speed:**  Fast
-
 - **Systems:**  3
-
 - **Traits:**  Enhanced Performance, Submersible, Watercraft, Weaponized
-
 - **Weapons:**  Rocket, Torpedo
-
 - **Description:**  A two-person car that can switch to waterborne or submersible mode to travel on or underwater. Comes with a front-mounted torpedo and top-mounted surface-to-air missile.
 
 #### Surveillance Van
 
 - **Hull:**  9 (Large Civilian), 60 Structure
-
 - **Speed:**  Gentle
-
 - **Systems:**  4
-
 - **Traits:**  Surveillance Suite, Tough
-
 - **Weapons:**  None
-
 - **Description:**  A plain, unmarked van housing a team of agents and a suite of audio-visual recording equipment.
 
 #### Tactical Support Vehicle
 
 - **Hull:**  6 (Medium Civilian), 30 Structure
-
 - **Speed:**  Rapid
-
 - **Systems:**  3
-
 - **Traits:**  All Terrain, Weaponized
-
 - **Weapons:**  Mounted Medium Machine Gun
-
 - **Description:**  A pickup or jeep with room for a two-person crew in the cabin and a gunner standing in the flatbed section operating a swivel-mounted Medium Machine Gun.
 
 ### Watercraft
@@ -456,29 +421,19 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 #### Speedboat
 
 - **Hull:**  3 (Medium Civilian), 24 Structure
-
 - **Speed:**  Fast
-
 - **Systems:**  3
-
 - **Traits:**  Enhanced Performance, Waterborne, Weaponized
-
 - **Weapons:**  Mine Dispenser
-
 - **Description:**  A typical speedboat, armed with a rear-mounted mine dispenser.
 
 #### Yacht
 
 - **Hull:**  10 (Huge Civilian), 75 Structure
-
 - **Speed:**  Slow
-
 - **Systems:**  4
-
 - **Traits:**  Luxurious, Surveillance Suite, Waterborne
-
 - **Weapons:**  None
-
 - **Description:**  The kind of luxury yacht an oligarch might own. Likely kitted out with a surveillance suite to protect against enemies attempting to get up to no good.
 
 ### Aircraft/Spacecraft
@@ -486,79 +441,49 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 #### Dirigible (Civilian Airship Liner)
 
 - **Hull:**  10 (Enormous Civilian), 85 Structure
-
 - **Speed:**  Ponderous
-
 - **Systems:**  5
-
 - **Traits:**  Airborne, Luxurious, VTOL
-
 - **Shields:**  None
-
 - **Weapons:**  None
-
 - **Description:**  Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
 #### Assault Helicopter
 
 - **Hull:**  11 (Large Military), 50 Structure
-
 - **Speed:**  Mediocre
-
 - **Systems:**  3
-
 - **Traits:**  Airborne, Enhanced Performance, Stealth, Superior Handling, Surveillance Suite, VTOL
-
 - **Shields:**  None
-
 - **Weapons:**  1 Gatling gun, 4 rockets
-
 - **Description:**  The traditional Assault Helicopter uses their advanced surveillance technology to intercept phone and wireless internet signals, and track individuals and vehicles even in the dark, through FLIR. Attempts to evade the tracker through Stealth are Formidable.
 
 #### Multi-Role Fighter
 
 - **Hull:**  10 (Large Military), 45 Structure
-
 - **Speed:**  Mediocre
-
 - **Systems:**  3
-
 - **Traits:**  Airborne, Enhanced Performance
-
 - **Shields:**  None
-
 - **Weapons:**  4 nose-mounted Gatling guns (fore), 1 bomb bay (see description)
-
 - **Description:**  This twin-seat land-based fighter (similar in type to the De Havilland Mosquito) is well known for its performance and versatility. Its bomb bay is able to carry either two 250 lb. bombs (treat as medium missiles with range 0) or a single torpedo.
 
 #### Interstellar Freighter (Light High-Tech Transport)
 
 - **Hull:**  10 (Medium, Civilian Spaceship), 80 Structure
-
 - **Speed:**  Rapid (Parsec Factor of 3)
-
 - **Systems:**  2
-
 - **Traits:**  Airborne, Cargo, FTL, Space Craft, VTOL
-
 - **Shields:**  8
-
 - **Weapons:**  x2 quad-mounted laser cannon turrets
-
 - **Description:**  This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
 #### General Contact Unit (Ultra High-Tech Spacecraft)
 
 - **Hull:**  20 (Colossal, Civilian Spaceship), 10,000 Structure
-
 - **Speed:**  Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour)
-
 - **Systems:**  30
-
 - **Traits:**  Airborne, Cargo, Carrier, Construction, FTL, Luxurious, Space Craft, Superior Handling, Tractor Beam
-
 - **Shields:**  30
-
 - **Weapons:**  None that it cares to discuss
-
 - **Description:**  This extremely high-tech starship is the physical representation of a highly advanced artificial Mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
