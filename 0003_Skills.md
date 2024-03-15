@@ -17,7 +17,7 @@ There are certain special cases concerning Success and Failure that should be no
 - Any roll of 01-05 is always a Success
 - Any roll of 96-00 is always a Failure, irrespective of how high the skill's value
 
-### Criticals and Fumbles
+#### Criticals and Fumbles
 
 Criticals and Fumbles represent spectacular successes and failures; those cases where a character has either excelled in his attempt or failed miserably and utterly.
 
