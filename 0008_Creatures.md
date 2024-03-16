@@ -9,13 +9,15 @@ Use these Sample Creatures as the inspiration for your own creations, adapting t
 
 The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a wonderful monster repository with thousands of monsters and encounters available to generate. Links to the relevant entries are provided.
 
+<br>
+
 ---
 ### Giant Ant 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
 
-| Creature Name | Giant Ant  |
+| Creature | Giant Ant  |
 | :-- | :-- |
-| Key Attributes | STR 16, CON 19, SIZ 14, DEX 15, INT 7, POW 4, CHA 0 |
+| Characteristics | STR 16, CON 19, SIZ 14, DEX 15, INT 7, POW 4, CHA 0 |
 | Action Points | 2 | 
 | Damage Modifier | +1d2 |
 | Initiative | +11 |
@@ -45,13 +47,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 15 | Left Front Leg | 4/6 |
 | 16-20 | Head | 4/7 |
 
+<br>
+
 ---
 ### Bear (Grizzly)
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/276/)
 
-| Creature Name | Bear (Grizzly)  |
+| Creature | Bear (Grizzly)  |
 | :-- | :-- |
-| Key Attributes | STR 26, CON 16, SIZ 34, DEX 16, INT 10, POW 6, CHA 0 |
+| Characteristics | STR 26, CON 16, SIZ 34, DEX 16, INT 10, POW 6, CHA 0 |
 | Action Points | 3 | 
 | Damage Modifier | +1d12 |
 | Initiative | +13 |
@@ -79,13 +83,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 16-18 | Left Front Leg | 3/10 |
 | 19-20 | Head | 3/10 |
 
+<br>
+
 ---
 ### Crocodile/Alligator
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11809/)
 
-| Creature Name | Crocodile/Alligator  |
+| Creature | Crocodile/Alligator  |
 | :-- | :-- |
-| Key Attributes | STR 31, CON 19, SIZ 37, DEX 14, INT 12, POW 6, CHA 0 |
+| Characteristics | STR 31, CON 19, SIZ 37, DEX 14, INT 12, POW 6, CHA 0 |
 | Action Points | 2 | 
 | Damage Modifier | +2d6 |
 | Initiative | +13 |
@@ -114,13 +120,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 17-18 | Left Front Leg | 5/12 |
 | 19-20 | Head | 5/13 |
 
+<br>
+
 ---
 ### Dragon
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11817/)
 
-| Creature Name | Dragon  |
+| Creature | Dragon  |
 | :-- | :-- |
-| Key Attributes | STR 33, CON 35, SIZ 50, DEX 18, INT 20, POW 19, CHA 17 |
+| Characteristics | STR 33, CON 35, SIZ 50, DEX 18, INT 20, POW 19, CHA 17 |
 | Action Points | 4 | 
 | Magic Points | 19 | 
 | Damage Modifier | +2d8 |
@@ -156,13 +164,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 17-18 | Left Front Leg | 8/17 |
 | 19-20 | Head | 8/17 |
 
+<br>
+
 ---
 ### Goblin/Orc
 [MEG entry](https://mythras.skoll.xyz/enemy_template/10891/)
 
-| Creature Name | Goblin/Orc  |
+| Creature | Goblin/Orc  |
 | :-- | :-- |
-| Key Attributes | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
+| Characteristics | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | - |
 | Initiative | +11 |
@@ -192,13 +202,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 16-18 | Left Arm | 1/4 |
 | 19-20 | Head | 1/5 |
 
+<br>
+
 ---
 ### Horse
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/9997/)
 
-| Creature Name | Horse  |
+| Creature | Horse  |
 | :-- | :-- |
-| Key Attributes | STR 26, CON 16, SIZ 31, DEX 16, INT 10, POW 6, CHA 0 |
+| Characteristics | STR 26, CON 16, SIZ 31, DEX 16, INT 10, POW 6, CHA 0 |
 | Action Points | 2 | 
 | Damage Modifier | +1d12 |
 | Initiative | +11 |
@@ -226,13 +238,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 15-16 | Left Front Leg | 1/8 |
 | 17-20 | Head | 1/9 |
 
+<br>
+
 ---
 ### Minotaur
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11814/)
 
-| Creature Name | Minotaur |
+| Creature | Minotaur |
 | :-- | :-- |
-| Key Attributes | STR 15, CON 14, SIZ 22, DEX 11, INT 13, POW 11, CHA 7 |
+| Characteristics | STR 15, CON 14, SIZ 22, DEX 11, INT 13, POW 11, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | +1d6 |
 | Initiative | +12 |
@@ -262,13 +276,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 15-16 | Left Arm | 0/6 |
 | 17-20 | Head | 3/7 |
 
+<br>
+
 ---
 ### Shark
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11815/)
 
-| Creature Name | Shark  |
+| Creature | Shark  |
 | :-- | :-- |
-| Key Attributes | STR 22, CON 19, SIZ 42, DEX 20, INT 6, POW 6, CHA 0 |
+| Characteristics | STR 22, CON 19, SIZ 42, DEX 20, INT 6, POW 6, CHA 0 |
 | Action Points | 3 | 
 | Damage Modifier | +2d6 |
 | Initiative | +13 |
@@ -295,13 +311,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 17-18 | Left Fin | 2/11 |
 | 17-20 | Head | 2/12 |
 
+<br>
+
 ---
 ### Skeleton
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/7925/)
 
-| Creature Name | Skeleton  |
+| Creature | Skeleton  |
 | :-- | :-- |
-| Key Attributes | STR 11, CON 14, SIZ 13, DEX 11, INT 11, POW 16, CHA 7 |
+| Characteristics | STR 11, CON 14, SIZ 13, DEX 11, INT 11, POW 16, CHA 7 |
 | Action Points | 2 | 
 | Damage Modifier | - |
 | Initiative | +11 |
@@ -331,13 +349,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 16-18 | Left Arm | 0/4 |
 | 19-20 | Head | 0/5 |
 
+<br>
+
 ---
 ### Xenomorphic Alien
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11816/)
 
-| Creature Name | Xenomorphic Alien  |
+| Creature | Xenomorphic Alien  |
 | :-- | :-- |
-| Key Attributes | STR 23, CON 11, SIZ 16, DEX 24, INT 12, POW 12, CHA 13 |
+| Characteristics | STR 23, CON 11, SIZ 16, DEX 24, INT 12, POW 12, CHA 13 |
 | Action Points | 3 | 
 | Damage Modifier | +1d6 |
 | Initiative | +18 |
@@ -368,6 +388,8 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | 17-18 | Left Arm | 6/5 |
 | 19-20 | Head | 6/7 |
 
+<br> 
+
 ---
 ## Creature Abilities
 
@@ -375,156 +397,156 @@ A Creature Ability is something it can do naturally because of its physiology, b
 
 Each of the following Abilities is described in terms of its game effects, and how it may affect interactions with others. Not all these Abilities are on display in the Sample Creatures provided earlier, but they show how seemingly mundane creatures can be turned into something unique, challenging, or downright terrifying. As a general rule of thumb, creatures should have up to three Abilities that are applicable to their nature and environment. A demonic spider, for example, might have Adhering, Grappler and Vampiric. However, in exceptional cases, more Abilities are allowed to reflect the awesome nature of the creature being described.
 
-### Adhering
+#### Adhering
 
 The creature can move freely on vertical surfaces, and even move upside down on a ceiling with no special equipment. Such Movement is always at half the creature's normal Movement rate.
 
-### Aquatic
+#### Aquatic
 
 The creature breathes water rather than air, generally possessing gills or a skin capable of absorbing dissolved air directly. If taken out of water and their breathing organs allowed to dry out, they begin to suffocate after their CON in minutes if remaining passive or half that time if moving or fighting.
 
-### Blood Sense
+#### Blood Sense
 
 Allows the creature to detect blood over great distances, either carried by wind or water. Traces of blood can be sensed up to 1d6+6 kilometres.
 
-### Breathe Flame
+#### Breathe Flame
 
 The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON in metres. At the furthest extent, the width of the cone is one quarter of the creature's CON. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. Armor Points count as normal unless otherwise noted.
 
 A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder or suffer a level of Fatigue.
 
-### Burrower
+#### Burrower
 
 The creature is adept at tunneling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
 
-### Camouflaged
+#### Camouflaged
 
 The creature is adept at hiding due to its coloration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Perception of two difficulty grades.
 
-### Characteristic Drain
+#### Characteristic Drain
 
 The creature has the innate ability to drain temporary Characteristic points from the target of their attacks. The type of attack, the Characteristic affected, and how to resist the draining effect is detailed in the creature's description.
 
-### Cold-Blooded
+#### Cold-Blooded
 
 The creature does not need to eat frequently. One meal a week is sufficient to keep it healthy and well fed, and gorging itself on a large amount of meat will remove the need to eat for a month. Conversely, when exposed to temperatures below 15 degrees Celsius, its reflexes become muted, suffering a penalty of –6 to Initiative, and the loss of one Combat Action per round. Below 5 degrees Celsius cold-blooded creatures become completely torpid, entering a helpless catatonic state.
 
-### Dark Sight
+#### Dark Sight
 
 Allows the creature to see normally in the complete absence of light.
 
-### Death Sense
+#### Death Sense
 
 In tune with the powers of death, the creature can sense the death of living things, and dead flesh at a range of up to half its INT in kilometres.
 
-### Disease Immunity
+#### Disease Immunity
 
 The creature is immune to all diseases. All creatures without SIZ automatically have this ability, although it is not specifically listed in their descriptions.
 
-### Diving Strike
+#### Diving Strike
 
 Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movement above its target (or possibly below if submerged) in order to use the diving strike.
 
-### Earth Sense
+#### Earth Sense
 
 Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By sensing vibration and air pressure, a creature with Earth Sense can fight, and make Perception rolls with no penalty as long as their target is no more than their INS in metres away. If using Earth Sense above ground the range is halved.
 
-### Echolocation
+#### Echolocation
 
 The creature senses its environment through reflections of sonic waves. This means that it can perceive others that may be either motionless or hidden. In such circumstances, using a Stealth roll to attempt to remain unperceived by the creature is two grades more difficult.
 
-### Engulfing
+#### Engulfing
 
 The creature has an orifice which can swallow targets whole. The maximum size of an engulfed victim is figured as half the creature's own SIZ but may be less than this depending on the creature's physiology. When engulfed the victim suffers at least one damage roll based on the creature's bite attack before being swallowed – the time spent chewing depends on the creature, and how sensitive its innards are. If still alive a swallowed victim will begin to suffocate, likely dying by asphyxiation before suffering any noticeable damage from stomach acid. Realistically, an engulfed victim lacks the mobility to move inside the digestive tract or the creature is so large that he will die long before he can cut its way out.
 
-### Flying
+#### Flying
 
 The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flier may substitute the Fly skill (base STR+DEX) for Evade if fighting whilst aloft.
 
-### Formidable Natural Weapons
+#### Formidable Natural Weapons
 
 This creature can actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which can shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
 
-### Frenzy
+#### Frenzy
 
 When wounded or exposed to a particular substance – blood for instance – the creature must succeed in a Willpower roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this time, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
 
-### Gaze Attack
+#### Gaze Attack
 
 The creature has a gaze attack. This attack may be active (the creature must consciously spend an Action Point on its turn to use it on a foe) or passive (anyone looking at the creature is affected), as listed in the creature's description.
 
-### Grappler
+#### Grappler
 
 If the creature successfully strikes in combat, it can immediately seize hold of the opponent in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Brawn skill to resist a victim from breaking free.
 
-### Hold Breath
+#### Hold Breath
 
 The creature can hold its breath for extended periods of time. If prepared and remaining fairly static, the creature can hold its breath for a number of minutes equal to its CON. This period is halved if the creature is active, such as when swimming or fighting.
 
-### Immunity
+#### Immunity
 
 The creature is completely immune to damage caused by one type of source. This source (cold, fire, iron, etc.) will be noted in the creature's listing, but a narrative description may be necessary for some of the more specific immunities.
 
-### Intimidate
+#### Intimidate
 
 The creature may intimidate opponents as a prelude to combat or to avoid it altogether: growls, snarls, lowering of horns, and so forth. Opponents must make an unopposed Willpower roll to hold their ground; a success allows a character to stand his ground, whereas a failure indicates that they must spend the next round instinctively placing distance between themselves and the creature. If he fumbles the Willpower roll, then the character flees at maximum speed. A critical success allows the character to ignore any further intimidation attempts by the creature or its brethren during that encounter. The effect continues for as long as the creature continues to act in a threatening manner, which includes it making an attack.
 
-### Leaper
+#### Leaper
 
 The creature uses Leaping attacks as described in the [Combat](0005_Combat.md?id=leaping-attacks) section but can combine the leap with a physical attack such as a claw or bite. If the leaping creature wins the opposed leap attack roll, it automatically inflicts damage for one of its natural weapons on the target. This damage cannot be parried except by Passive Blocking.
 
-### Life Sense
+#### Life Sense
 
 In tune with the rhythms of nature, this creature can determine the vitality of any living creature by touch alone. If the creature makes a successful Perception roll, it learns of the target's current injuries, Fatigue level, and whether it is currently afflicted by any poison or disease. The creature is also aware of any form of life within a number of metres equal to its Willpower skill, which may make Stealth difficult to accomplish.
 
-### Magic Sense
+#### Magic Sense
 
 Similar to Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Perception roll, it learns of the target's current magic points, carried enchantments, and active spells.
 
-### Multi-Headed
+#### Multi-Headed
 
 The creature gains an additional Combat Action per extra head possessed beyond the first. These are lost as each individual head is incapacitated or severed. Provided one head remains active, the creature can still control its shared body. When a multi-headed creature resists spells which affect emotions or intellect, it rolls individual saves for each still intact head.
 
-### Multi-Limbed
+#### Multi-Limbed
 
 Similar to Multi-headed, the creature gains an additional Combat Action per extra pair of limbs (beyond the first) it can bring to bear during combat – those normally used to hold up or move the creature do not count. These extra Combat Actions can only be used to perform actions with those specific limbs and are lost as each pair are immobilized or incapacitated.
 
-### Night Sight
+#### Night Sight
 
 Allows the creature to treat partial darkness as illuminated and darkness as partial darkness.
 
-### Poison Immunity
+#### Poison Immunity
 
 The creature is immune to all poisons. All creatures without SIZ automatically have this Trait, although it is not specifically listed in their descriptions.
 
-### Regeneration
+#### Regeneration
 
 The creature can regenerate Hit Points lost to damage. The speed of regeneration varies depending upon the creature. Unless specifically noted, regeneration does not replace lost limbs, and the severing of a vital location (head, chest, or abdomen) will still result in death.
 
-### Swimmer
+#### Swimmer
 
 The creature automatically succeeds in everyday moving and maneuvering whilst swimming and need not roll their Swim skill unless attempting an unusually difficult task, such as swimming against a powerful tide or leaping up a waterfall. A swimmer may substitute the Swim skill for Athletics and Evade rolls whilst in water.
 
-### Terrifying
+#### Terrifying
 
 The creature's appearance, form or aura is so terrifying it forces viewers to make an unopposed Willpower roll. Success indicates the viewer is shaken for one round and cannot act offensively. Failure causes them to flee in terror. A fumble causes the viewer to collapse unconscious from the shock. Only a critical success allows the viewer to act unhindered. The viewer need not make any further checks for the remainder of the combat, even if more of the same creatures are present. Repeated exposure to a specific type of Terrifying monster may eventually permit the skill check to become one or more grades easier.
 
-### Trample
+#### Trample
 
 The creature is able to trample beings with a SIZ of half or less than its own, using its Athletics skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How, and when trample is used depends on the circumstances. If engaged in combat the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
 
-### Undead
+#### Undead
 
 Being already dead, the creature is immune to the consequences of both fatigue and severe injuries. Undead are thus immune to all the detrimental effects of Serious Wounds. Even Major Wounds do not incapacitate them, although they can still have locations severed or shattered as per normal. Treat the head or chest location of the undead creature as the area where the spirit or magic has been bound. Any location (and those contiguous to it) which is smashed or severed from the bound area ceases to function, but the remainder of the body can continue if it still has limbs with which to act. A Major Wound to the magic-infused location destroys the undead outright. Only fully corporeal dead creatures may possess the Undead trait.
 
-### Vampiric
+#### Vampiric
 
 The creature drains its victim's blood, causing an increase in Fatigue levels. The creature must use a bite attack, and cause damage with the bite to be able to drain blood at the rate described in the creature's description.
 
-### Venomous
+#### Venomous
 
 The creature has a venomous bite, sting, or other means of attack.
 
-### Wing Buffet
+#### Wing Buffet
 
 The creature is so large it can damage opponents by beating its wings. This requires an Attack action and does damage equal to its damage bonus to those within 3 metres of the front or side of the creature.
