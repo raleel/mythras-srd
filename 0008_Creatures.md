@@ -12,7 +12,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Giant Ant 
+#### Giant Ant 
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
 
 | Creature | Giant Ant  |
@@ -50,7 +50,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Bear (Grizzly)
+#### Bear (Grizzly)
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/276/)
 
 | Creature | Bear (Grizzly)  |
@@ -86,7 +86,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Crocodile/Alligator
+#### Crocodile/Alligator
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11809/)
 
 | Creature | Crocodile/Alligator  |
@@ -123,7 +123,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Dragon
+#### Dragon
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11817/)
 
 | Creature | Dragon  |
@@ -167,7 +167,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Goblin/Orc
+#### Goblin/Orc
 [MEG entry](https://mythras.skoll.xyz/enemy_template/10891/)
 
 | Creature | Goblin/Orc  |
@@ -205,7 +205,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Horse
+#### Horse
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/9997/)
 
 | Creature | Horse  |
@@ -241,7 +241,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Minotaur
+#### Minotaur
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11814/)
 
 | Creature | Minotaur |
@@ -279,7 +279,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Shark
+#### Shark
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11815/)
 
 | Creature | Shark  |
@@ -314,7 +314,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Skeleton
+#### Skeleton
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/7925/)
 
 | Creature | Skeleton  |
@@ -352,7 +352,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 <br>
 
 ---
-### Xenomorphic Alien
+#### Xenomorphic Alien
 [MEG Entry](https://mythras.skoll.xyz/enemy_template/11816/)
 
 | Creature | Xenomorphic Alien  |
