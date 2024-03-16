@@ -185,10 +185,10 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 | Weapon | Size | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :-- |
-| Shortsword | M | 1d6 | 6/8 | |
-| Spear | M | 1d8+1 | 4/5 | |
-| Sling | L | 1d8 | 1/2 | Range 10/150/300m |
-| Shield | L | 1d4 | 4/9 | Passive Blocking/Warding on 3 locations, Ranged Parry |
+| Shortsword | M | 1d6 | 6/8 | [Bleed](0005_Combat.md?id=bleed), [Impale](0005_Combat.md?id=impale)|
+| Spear | M | 1d8+1 | 4/5 | [Impale](0005_Combat.md?id=impale)|
+| Sling | L | 1d8 | 1/2 | [Bash](0005_Combat.md?id=bash), [Stun Location](0005_Combat.md?id=stun-location), Range 10/150/300m |
+| Shield | L | 1d4 | 4/9 | [Passive Blocking/Warding on 3 locations](0005_Combat.md?id=passive-blocking), Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -259,10 +259,10 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 | Weapon | Size | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :-- |
-| Gore | L | 1d8+1d6 | as location | |
+| Gore | L | 1d8+1d6 | as location | [Impale](0005_Combat.md?id=impale) |
 | Two Handed Axe | E | 2d8+2+1d6 | 6/12 | |
-| Spear | H | 1d10+1+1d6 | 4/10 | |
-| Hoplite Shield | E | 1d4+1d6 | 6/15 | Passive Blocking/Warding on 4 locations, Ranged Parry |
+| Spear | H | 1d10+1+1d6 | 4/10 | [Impale](0005_Combat.md?id=impale) |
+| Hoplite Shield | E | 1d4+1d6 | 6/15 | [Passive Blocking/Warding on 4 locations](0005_Combat.md?id=passive-blocking), Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -333,9 +333,9 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 | Weapon | Size | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :-- |
-| Shortsword | M | 1d6 | 6/8 | |
-| Spear | M | 1d8+1 | 4/5 | |
-| Shield | L | 1d4 | 4/12 | Passive Blocking/Warding on 3 locations, Ranged Parry |
+| Shortsword | M | 1d6 | 6/8 | [Bleed](0005_Combat.md?id=bleed), [Impale](0005_Combat.md?id=impale)|
+| Spear | M | 1d8+1 | 4/5 | [Impale](0005_Combat.md?id=impale)|
+| Shield | L | 1d4 | 4/12 | [Passive Blocking/Warding on 3 locations](0005_Combat.md?id=passive-blocking), Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -373,7 +373,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | :-- | :-: | :--: | :--: | :-- |
 | Bite | H | 1d4+1d6 | as location | |
 | Claw | H | 1d4+1+1d6 | as location | |
-| Tail | H | 1d6+1d6 | as location | Can make Sweep attacks |
+| Tail | H | 1d6+1d6 | as location | [Sweep Attacks](0005_Combat.md?id=sweep-attacks) |
 
 ##### Hit Locations & Armor
 
