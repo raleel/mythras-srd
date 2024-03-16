@@ -31,7 +31,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Bite | M | T | 1d6+1d2 | as location |
 | Sting | M | M | 1d4+1d2 | as location |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -67,7 +67,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Bite | L | L | 1d8+1d12 | as location |
 | Claw | H | VL | 1d8+1d12 | as location |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -101,7 +101,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Bite | H | M | 1d10+2d6 | as location | |
 | Tail | H | L | 1d8+2d6 | as location | Can make Sweep attacks |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -141,7 +141,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Tail | E | M | 1d10+2d8 | as location | Can make Sweep attacks |
 | Trample | C | T | 4d8 | - | 
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -180,7 +180,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Sling | L | 10/150/300 | 1d8 | 1/2 |  |
 | Shield | L | S | 1d4 | 4/9 | Protects 3 locations for Passive Blocking/Warding |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -214,7 +214,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Hoof | H | M | 1d6+1d12 | |
 | Trample | E | T | 2d12 | - | 
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -250,7 +250,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Spear | H | VL | 1d10+1+1d6 | 4/10 | |
 | Hoplite Shield | E | M | 1d4+1d6 | 6/15 | Protects 4 locations for Passive Blocking/Warding |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -283,7 +283,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | :-- | :-: | :--: | :--: | :--: | :-- |
 | Bite | E | M | 1d10+2d6 | as location | |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -319,7 +319,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Spear | M | L | 1d8+1 | 4/5 | |
 | Shield | L | S | 1d4 | 4/12 | Protects 3 locations for Passive Blocking/Warding |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
@@ -355,7 +355,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Claw | H | M | 1d4+1+1d6 | as location | |
 | Tail | H | L | 1d6+1d6 | as location | Can make Sweep attacks |
 
-#### Hit Locations & Armor
+##### Hit Locations & Armor
 
 | 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
