@@ -22,16 +22,16 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +1d2 |
 | Initiative | +11 |
 | Move | 12m |
-| Abilities | Formidable Natural Weapons |
+| Abilities | [Formidable Natural Weapons](0008_Creatures.md?id=formidable-natural-weapons) |
 | Skills | Athletics 67%, Brawn 68%, Endurance 74%, Evade 56%, Perception 53%, Track 66%, Willpower 48% |
 | Combat Style | Ant Attack (Mandibles and Sting) 67% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | M | T | 1d6+1d2 | as location |
-| Sting | M | M | 1d4+1d2 | as location |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | M | 1d6+1d2 | as location |
+| Sting | M | 1d4+1d2 | as location |
 
 ##### Hit Locations & Armor
 
@@ -60,16 +60,16 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +1d12 |
 | Initiative | +13 |
 | Move | 8m |
-| Abilities | Intimidate, Night Sight |
+| Abilities | [Intimidate](0008_Creatures.md?id=intimidate), [Night Sight](0008_Creatures.md?id=night-sight) |
 | Skills | Athletics 68%, Brawn 79%, Endurance 66%, Evade 46%, Perception 60%, Stealth 66%, Survival 60%, Swim 68%, Track 66%, Willpower 44% |
 | Combat Style | Ursine Fury (Bite and Claws) 78% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | L | L | 1d8+1d12 | as location |
-| Claw | H | VL | 1d8+1d12 | as location |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | L | 1d8+1d12 | as location |
+| Claw | H | 1d8+1d12 | as location |
 
 ##### Hit Locations & Armor
 
@@ -96,16 +96,16 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +2d6 |
 | Initiative | +13 |
 | Move | 6m |
-| Abilities | Camouflaged, Cold Blooded, Swimmer |
+| Abilities | [Camouflaged](0008_Creatures.md?id=camouflaged), [Cold Blooded](0008_Creatures.md?id=cold-blooded), [Swimmer](0008_Creatures.md?id=swimmer) |
 | Skills | Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44% |
 | Combat Style | Lurking Death (Bite and Tail) 67% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | H | M | 1d10+2d6 | as location | |
-| Tail | H | L | 1d8+2d6 | as location | Can make Sweep attacks |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | H | 1d10+2d6 | as location | |
+| Tail | H | 1d8+2d6 | as location | [Bash](0005_Combat.md?id=bash), [Sweep Attacks](0005_Combat.md?id=sweep-attacks) |
 
 ##### Hit Locations & Armor
 
@@ -134,20 +134,20 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +2d8 |
 | Initiative | +19 |
 | Move | 12m/18m Flying |
-| Abilities | Breathe Flame, Cold Blooded, Dark Sight, Diving Strike, Engulfing, Flying, Formidable Natural Weapons, Immunity (Fire), Terrifying, Trample |
+| Abilities | [Breathe Flame](0008_Creatures.md?id=breathe-flame), [Cold Blooded](0008_Creatures.md?id=cold-blooded), [Dark Sight](0008_Creatures.md?id=dark-sight), [Diving Strike](0008_Creatures.md?id=diving-strike), [Engulfing](0008_Creatures.md?id=engulfing), [Flying](0008_Creatures.md?id=flying), [Formidable Natural Weapons](0008_Creatures.md?id=formidable-natural-weapons), [Immunity (Fire)](0008_Creatures.md?id=immunity), [Terrifying](0008_Creatures.md?id=terrifying), [Trample](0008_Creatures.md?id=trample) |
 | Skills | Athletics 80%, Brawn 120%, Deceit 78%, Endurance 92%, Evade 68%, Fly 90%, Insight 78%, Locale 68%, Lore (Dragon) 68%, Perception 78%, Teach 58%, Willpower 78% |
 | Magic | 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight) |
 | Combat Style | Death and Destruction (Bite, Claws, Tail Sweep) 90%; Flame Breath 80% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | E | L | 1d12+2d8 | as location | |
-| Claw | E | L | 1d10+2d8 | as location | |
-| Flame Breath | 9m | 35m | 4d6 | - | The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON, and a number of metres wide equal to a quarter of CON. Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals. |
-| Tail | E | M | 1d10+2d8 | as location | Can make Sweep attacks |
-| Trample | C | T | 4d8 | - | 
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | E | 1d12+2d8 | as location | |
+| Claw | E | 1d10+2d8 | as location | |
+| Flame Breath | E | 4d6 | - | The fire breathed by a dragon stretches in a cone for a number of metres in length equal to the dragon's CON (35m), and a number of metres wide equal to a quarter of CON (9m). Anything caught in the blast ignites if flammable, and the heat is powerful enough to melt un-enchanted metals. |
+| Tail | E | 1d10+2d8 | as location | [Bash](0005_Combat.md?id=bash), [Sweep Attacks](0005_Combat.md?id=sweep-attacks) |
+| Trample | C | 4d8 | - | 
 
 ##### Hit Locations & Armor
 
@@ -177,18 +177,18 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | - |
 | Initiative | +11 |
 | Move | 6m |
-| Abilities | Night Sight |
+| Abilities | [Night Sight](0008_Creatures.md?id=night-sight) |
 | Skills | Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42% |
 | Combat Style | Warrior (Shortsword, Shield, Spear, Sling) 62% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Shortsword | M | M | 1d6 | 6/8 | |
-| Spear | M | L | 1d8+1 | 4/5 | |
-| Sling | L | 10/150/300 | 1d8 | 1/2 |  |
-| Shield | L | S | 1d4 | 4/9 | Protects 3 locations for Passive Blocking/Warding |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Shortsword | M | 1d6 | 6/8 | |
+| Spear | M | 1d8+1 | 4/5 | |
+| Sling | L | 1d8 | 1/2 | Range 10/150/300m |
+| Shield | L | 1d4 | 4/9 | Passive Blocking/Warding on 3 locations, Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -215,16 +215,16 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +1d12 |
 | Initiative | +11 |
 | Move | 12m |
-| Abilities | Trample |
+| Abilities | [Trample](0008_Creatures.md?id=trample) |
 | Skills | Athletics 52%, Brawn 83%, Endurance 66%, Evade 40%, Perception 48%, Willpower 34% |
 | Combat Style | Rear and Plunge (Hoofs) 62% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Hoof | H | M | 1d6+1d12 | |
-| Trample | E | T | 2d12 | - | 
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Hoof | H | 1d6+1d12 | |
+| Trample | E | 2d12 | - | 
 
 ##### Hit Locations & Armor
 
@@ -251,18 +251,18 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +1d6 |
 | Initiative | +12 |
 | Move | 8m |
-| Abilities | Intimidate |
+| Abilities | [Intimidate](0008_Creatures.md?id=intimidate) |
 | Skills | Athletics 57%, Brawn 79%, Customs 66%, Endurance 66%, Evade 40%, Insight 44%, Locale 56%, Lore (Herding) 66%, Perception 54%, Unarmed 57%, Willpower 42% |
 | Combat Style | Minotaur Warrior (Two Handed Axe, 2H spear used one handed, Hoplite Shield, Gore) 67% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Gore | L | M | 1d8+1d6 | as location | |
-| Two Handed Axe | E | VL | 2d8+2+1d6 | 6/12 | |
-| Spear | H | VL | 1d10+1+1d6 | 4/10 | |
-| Hoplite Shield | E | M | 1d4+1d6 | 6/15 | Protects 4 locations for Passive Blocking/Warding |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Gore | L | 1d8+1d6 | as location | |
+| Two Handed Axe | E | 2d8+2+1d6 | 6/12 | |
+| Spear | H | 1d10+1+1d6 | 4/10 | |
+| Hoplite Shield | E | 1d4+1d6 | 6/15 | Passive Blocking/Warding on 4 locations, Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -289,15 +289,15 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +2d6 |
 | Initiative | +13 |
 | Move | 12m (swim) |
-| Abilities | Blood Sense, Frenzy, Swimmer |
+| Abilities | [Blood Sense](0008_Creatures.md?id=blood-sense), [Frenzy](0008_Creatures.md?id=frenzy), [Swimmer](0008_Creatures.md?id=swimmer) |
 | Skills | Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34% |
 | Combat Style | Jaws (Bite), 81% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | E | M | 1d10+2d6 | as location | |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | E | 1d10+2d6 | as location | |
 
 ##### Hit Locations & Armor
 
@@ -324,18 +324,18 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | - |
 | Initiative | +11 |
 | Move | 6m |
-| Abilities | Undead |
+| Abilities | [Undead](0008_Creatures.md?id=undead) |
 | Special | Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, and thrusting weapons by two steps. |
 | Skills | Athletics 68%, Brawn 45%, Endurance 44%, Evade 72%, Perception 57%, Unarmed 68%, Willpower 72% |
 | Combat Style | Skeletal Warrior (Sword, Spear, Peltast Shield) 68% - Formation Fighting |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Shortsword | M | M | 1d6 | 6/8 | |
-| Spear | M | L | 1d8+1 | 4/5 | |
-| Shield | L | S | 1d4 | 4/12 | Protects 3 locations for Passive Blocking/Warding |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Shortsword | M | 1d6 | 6/8 | |
+| Spear | M | 1d8+1 | 4/5 | |
+| Shield | L | 1d4 | 4/12 | Passive Blocking/Warding on 3 locations, Ranged Parry |
 
 ##### Hit Locations & Armor
 
@@ -362,18 +362,18 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Damage Modifier | +1d6 |
 | Initiative | +18 |
 | Move | 8m |
-| Abilities | Camouflaged, Frenzy |
+| Abilities | [Camouflaged](0008_Creatures.md?id=camouflaged), [Frenzy](0008_Creatures.md?id=frenzy) |
 | Special | Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armor first before affecting the flesh below. |
 | Skills | Athletics 77%, Brawn 68%, Endurance 56%, Evade 80%, Perception 62%, Stealth 76%, Track 64, Willpower 52% |
 | Combat Style | Parasitic Alien Horror (Bite, Claw and Tail) 77% |
 
 ##### Weapon Details
 
-| Weapon | Size | Reach | Damage | AP/HP | Special |
-| :-- | :-: | :--: | :--: | :--: | :-- |
-| Bite | H | M | 1d4+1d6 | as location | |
-| Claw | H | M | 1d4+1+1d6 | as location | |
-| Tail | H | L | 1d6+1d6 | as location | Can make Sweep attacks |
+| Weapon | Size | Damage | AP/HP | Special |
+| :-- | :-: | :--: | :--: | :-- |
+| Bite | H | 1d4+1d6 | as location | |
+| Claw | H | 1d4+1+1d6 | as location | |
+| Tail | H | 1d6+1d6 | as location | Can make Sweep attacks |
 
 ##### Hit Locations & Armor
 
