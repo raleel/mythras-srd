@@ -24,7 +24,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 67%, Brawn 68%, Endurance 74%, Evade 56%, Perception 53%, Track 66%, Willpower 48% |
 | Combat Style | Ant Attack (Mandibles and Sting) 67% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -33,7 +33,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1 | Right Rear Leg | 4/6 |
 | 2 | Left Rear Leg | 4/6 |
@@ -60,7 +60,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 68%, Brawn 79%, Endurance 66%, Evade 46%, Perception 60%, Stealth 66%, Survival 60%, Swim 68%, Track 66%, Willpower 44% |
 | Combat Style | Ursine Fury (Bite and Claws) 78% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -69,7 +69,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Rear Leg | 3/10 |
 | 4-6 | Left Rear Leg | 3/10 |
@@ -94,7 +94,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44% |
 | Combat Style | Lurking Death (Bite and Tail) 67% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -103,7 +103,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Tail | 5/12 |
 | 4-5 | Right Rear Leg | 5/12 |
@@ -131,7 +131,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Magic | 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight) |
 | Combat Style | Death and Destruction (Bite, Claws, Tail Sweep) 90%; Flame Breath 80% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -143,7 +143,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Tail | 8/17 |
 | 3-4 | Right Rear Leg | 8/17 |
@@ -171,7 +171,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42% |
 | Combat Style | Warrior (Shortsword, Shield, Spear, Sling) 62% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -182,7 +182,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 1/5 |
 | 4-6 | Left Leg | 1/5 |
@@ -207,7 +207,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 52%, Brawn 83%, Endurance 66%, Evade 40%, Perception 48%, Willpower 34% |
 | Combat Style | Rear and Plunge (Hoofs) 62% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -216,7 +216,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Hind Leg | 1/9 |
 | 4-6 | Left Hind Leg | 1/9 |
@@ -241,7 +241,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 57%, Brawn 79%, Customs 66%, Endurance 66%, Evade 40%, Insight 44%, Locale 56%, Lore (Herding) 66%, Perception 54%, Unarmed 57%, Willpower 42% |
 | Combat Style | Minotaur Warrior (Two Handed Axe, 2H spear used one handed, Hoplite Shield, Gore) 67% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -252,7 +252,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 0/7 |
 | 4-6 | Left Leg | 0/7 |
@@ -277,7 +277,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34% |
 | Combat Style | Jaws (Bite), 81% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -285,7 +285,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Tail | 2/12 |
 | 4-6 | Dorsal Fin | 2/11 |
@@ -311,7 +311,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 68%, Brawn 45%, Endurance 44%, Evade 72%, Perception 57%, Unarmed 68%, Willpower 72% |
 | Combat Style | Skeletal Warrior (Sword, Spear, Peltast Shield) 68% - Formation Fighting |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -321,7 +321,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Right Leg | 0/5 |
 | 4-6 | Left Leg | 0/5 |
@@ -347,7 +347,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 | Skills | Athletics 77%, Brawn 68%, Endurance 56%, Evade 80%, Perception 62%, Stealth 76%, Track 64, Willpower 52% |
 | Combat Style | Parasitic Alien Horror (Bite, Claw and Tail) 77% |
 
-#### Weapon Details
+##### Weapon Details
 
 | Weapon | Size | Reach | Damage | AP/HP | Special |
 | :-- | :-: | :--: | :--: | :--: | :-- |
@@ -357,7 +357,7 @@ The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a won
 
 #### Hit Locations & Armor
 
-| **1d20** | **Location** | **AP/HP** |
+| 1d20 | Location | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Tail | 6/5 |
 | 4-5 | Right Rear Leg | 6/6 |

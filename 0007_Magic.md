@@ -40,13 +40,13 @@ A core power can be exchanged for two Boosts that can be applied to any core pow
 ##### Super Powers Table
 
 
-| POW+ Characteristic | Core Powers |
-|:--|:-:|
-| 12 or less          | 1           |
-| 13-20               | 2           |
-| 21-30               | 3           |
-| 31-40               | 4           |
-| 40+                 | 5           |
+| POW+(CON or INT) | Core Powers |
+|:-:|:-:|
+| 1-12 | 1 |
+| 13-20 | 2 |
+| 21-30 | 3 |
+| 31-40 | 4 |
+| 40+ | 5 |
 
 
 ---
