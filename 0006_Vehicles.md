@@ -10,13 +10,13 @@ The rules in this section allow for the representation of most kinds of vehicles
 All vehicles are described in terms of their Structure, Hull, Speed, Systems, Traits, and Shields (if present in the setting).
 
 - **[Size](0006_Vehicles.md?id=vehicle-size-table):** All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
-- **Hull:**  Represents Armor Points
-- **Structure:**  Represents a vehicle's Hit Points
-- **Shields:**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
-- **Systems:**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
-- **Speed:**  Every vehicle has a basic Speed rating
-- **Traits:**  A vehicle may also have one or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
-- **Weapons:** Much like Traits, a vehicle may be equipped with weapons as the setting allows. Some suggested examples and values are detailed below.
+- **[Hull](0006_Vehicles.md?id=terrestrial-hulls):**  Represents Armor Points
+- **[Structure](0006_Vehicles.md?id=terrestrial-hulls):**  Represents a vehicle's Hit Points
+- **[Shields](0006_Vehicles.md?id=shields):**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
+- **[Systems](0006_Vehicles.md?id=systems):**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
+- **[Speed](0006_Vehicles.md?id=speed):**  Every vehicle has a basic Speed rating
+- **[Traits](0006_Vehicles.md?id=traits):**  A vehicle may also have one or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
+- **[Weapons](0006_Vehicles.md?id=weapons):** Much like Traits, a vehicle may be equipped with weapons as the setting allows. Some suggested examples and values are detailed below.
 
 
 ---
@@ -61,7 +61,7 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 
 
 ---
-## Shields
+### Shields
 
 Deflector shields provide an additional layer of protection for those vehicles which can mount them. Shields work slightly differently than the Hull, due to their ablative nature. If incoming damage is equal to or less than the value of the shields, then it is all blocked. If damage exceeds the shield value, then any excess reduces the shield strength by that amount.
 
@@ -289,40 +289,13 @@ The vehicle has been adapted to accommodate weaponry. Weapon systems are discuss
 
 
 ---
-## Handling and Maneuvers
-
-Evasive or sudden maneuvers require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular maneuver requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control table.
-
-Note that the Loss of Control Table only applies to terrestrial vehicles. Similar effects can be applied to airborne and space vehicles, but Games Masters will need to adjust the reasoning for the specific effect. For example, an aircraft, rather than skidding, might go into a spin.
-
-Also, a vehicle's inherent handling may have an additional impact on the Drive roll. Handling is either Easy, Standard, Hard, Formidable or Herculean and determines the starting point for the Drive roll when executing a maneuver. The difficulty grade for the maneuver is then applied to the handling to determine the final difficulty.
-
-For example, a high-performance motorcycle has in-built gyrostabilizers giving it a Handling of Easy. The driver wants to perform a 180 degree skid-turn to evade a pursuer, a maneuver the Games Master rates as being one additional grade of difficulty. The rider must therefore make his Drive roll at Standard rather than Easy. If he had been attempting the same maneuver on a non-stabilized motorcycle, the Drive roll would be at Hard.
-
-Superior Handling is a Trait. If a vehicle does not have the trait as part of its description, then the default is Standard handling for any vehicle of size Large and below. Huge and Enormous vehicles inherently have the Handling trait of Formidable and Herculean, respectively, and the Games Master is at liberty to rule that certain manoeuvres are simply impossible to achieve due to the vehicle's size.
-
-##### Loss of Control Table 
-
-| 1d100 | Result |
-| :-: | :-- |
-| 01-25 | Swerve. The loss of control is temporary. Vehicle drops its speed by 1 step for 5 seconds. |
-| 26-40 | Skid. Driver must fight to keep the vehicle under control. Vehicle drops its speed by 2 steps for 10 seconds. |
-| 41-50 | Severe Skid. Vehicle ends-up facing in the wrong direction and at a standstill for 15 seconds. |
-| 51-60 | Roll. Vehicle skids and rolls, sustaining 3d10 damage to its Structure. Occupants must make successful Endurance rolls or sustain 1d10 damage to 1d3 Hit Locations. |
-| 61-70 | Severe Roll. As above, but vehicle sustains 3d10+10 damage and Occupants receive 1d10 damage even if the Endurance roll succeeds, and 2d10 if it fails. |
-| 71-80 | Write-Off. As above but the vehicle is reduced to 0 Structure. Occupants sustain same damage as for Severe Roll. |
-| 81-90 | Explosion. As above but vehicle's fuel system ignites and explodes within 1d20+10 seconds. If unable to get clear, occupants suffer a further 1d6 burn damage to 1d6 locations |
-| 91-98 | Immediate Explosion. As above but the explosion is immediate. |
-| 99-00 | Catastrophic Crash. Occupants must successfully roll Endurance or be killed instantly. Damage as for Write-Off is sustained regardless. |
-
----
 ## Weapons
 
 Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponized' Trait can be taken for civilian vehicles that may have weapon requirements.
 
 The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponized civilian vehicle).
 
-Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the [Weapons](0006_Vehicles.md?id=weapons) section.
+Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the tables below.
 
 
 ##### Weapons by Size Table 
@@ -357,6 +330,33 @@ _Firing rates are for single shot, semi-auto, and full auto._
 _Ammo is firing capability before needing to be reloaded. Load is the reload time in Combat Rounds, assuming a full crew is available._
 
 ---
+## Handling and Maneuvers
+
+Evasive or sudden maneuvers require a successful Drive/Pilot roll to ensure that the driver or pilot retains control of the vehicle. Most vehicles are designed and built to withstand occasional stresses and strains, but the Games Master may rule that a particular maneuver requires a roll at a higher grade of difficulty, depending on how ambitious it is. Failure means that control over the vehicle is lost: roll on the Loss of Control table.
+
+Note that the Loss of Control Table only applies to terrestrial vehicles. Similar effects can be applied to airborne and space vehicles, but Games Masters will need to adjust the reasoning for the specific effect. For example, an aircraft, rather than skidding, might go into a spin.
+
+Also, a vehicle's inherent handling may have an additional impact on the Drive roll. Handling is either Easy, Standard, Hard, Formidable or Herculean and determines the starting point for the Drive roll when executing a maneuver. The difficulty grade for the maneuver is then applied to the handling to determine the final difficulty.
+
+For example, a high-performance motorcycle has in-built gyrostabilizers giving it a Handling of Easy. The driver wants to perform a 180 degree skid-turn to evade a pursuer, a maneuver the Games Master rates as being one additional grade of difficulty. The rider must therefore make his Drive roll at Standard rather than Easy. If he had been attempting the same maneuver on a non-stabilized motorcycle, the Drive roll would be at Hard.
+
+Superior Handling is a Trait. If a vehicle does not have the trait as part of its description, then the default is Standard handling for any vehicle of size Large and below. Huge and Enormous vehicles inherently have the Handling trait of Formidable and Herculean, respectively, and the Games Master is at liberty to rule that certain manoeuvres are simply impossible to achieve due to the vehicle's size.
+
+##### Loss of Control Table 
+
+| 1d100 | Result |
+| :-: | :-- |
+| 01-25 | Swerve. The loss of control is temporary. Vehicle drops its speed by 1 step for 5 seconds. |
+| 26-40 | Skid. Driver must fight to keep the vehicle under control. Vehicle drops its speed by 2 steps for 10 seconds. |
+| 41-50 | Severe Skid. Vehicle ends-up facing in the wrong direction and at a standstill for 15 seconds. |
+| 51-60 | Roll. Vehicle skids and rolls, sustaining 3d10 damage to its Structure. Occupants must make successful Endurance rolls or sustain 1d10 damage to 1d3 Hit Locations. |
+| 61-70 | Severe Roll. As above, but vehicle sustains 3d10+10 damage and Occupants receive 1d10 damage even if the Endurance roll succeeds, and 2d10 if it fails. |
+| 71-80 | Write-Off. As above but the vehicle is reduced to 0 Structure. Occupants sustain same damage as for Severe Roll. |
+| 81-90 | Explosion. As above but vehicle's fuel system ignites and explodes within 1d20+10 seconds. If unable to get clear, occupants suffer a further 1d6 burn damage to 1d6 locations |
+| 91-98 | Immediate Explosion. As above but the explosion is immediate. |
+| 99-00 | Catastrophic Crash. Occupants must successfully roll Endurance or be killed instantly. Damage as for Write-Off is sustained regardless. |
+
+---
 ## Sample Vehicles
 
 ---
@@ -367,9 +367,9 @@ _Ammo is firing capability before needing to be reloaded. Load is the reload tim
 
 A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
-| Interceptor | |
+| Interceptor | Medium Military |
 | :- | :- |
-| **Hull** | Medium Military (6) |
+| **Hull** | 6 |
 | **Structure** | 40 |
 | **Speed** | Fast |
 | **Systems** | 3 |
@@ -384,9 +384,9 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 
 A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries a surprise – either a pair of linked machine guns or two rockets.
 
-| Pursuit Motorcycle | |
+| Pursuit Motorcycle | Small Civilian |
 | :- | :- |
-| **Hull** | Small Civilian (2) |
+| **Hull** | 2 |
 | **Structure** | 12 |
 | **Speed** | Fast |
 | **Systems** | 3 |
@@ -401,9 +401,9 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 
 A standard 4-door sedan featuring enough space to comfortably seat a driver and three passengers. Sacrifices cargo space to incorporate a surveillance suite.
 
-| Sedan Car | |
+| Sedan Car | Medium Civilian |
 | :- | :- |
-| **Hull** | Medium Civilian (4) |
+| **Hull** | 4 |
 | **Structure** | 25 |
 | **Speed** | Rapid |
 | **Systems** | 3 |
@@ -418,9 +418,9 @@ A standard 4-door sedan featuring enough space to comfortably seat a driver and 
 
 A two-person car that can switch to waterborne or submersible mode to travel on or underwater. Comes with a front-mounted torpedo and top-mounted surface-to-air missile.
 
-| Submersible Car | |
+| Submersible Car | Medium Civilian |
 | :- | :- |
-| **Hull** | Medium Civilian (6) |
+| **Hull** | 6 |
 | **Structure** | 25 |
 | **Speed** | Fast |
 | **Systems** | 3 |
@@ -435,9 +435,9 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 
 A plain, unmarked van housing a team of agents and a suite of audio-visual recording equipment.
 
-| Surveillance Van | |
+| Surveillance Van | Large Civilian |
 | :- | :- |
-| **Hull** | Large Civilian (9) |
+| **Hull** | 9 |
 | **Structure** | 60 |
 | **Speed** | Gentle |
 | **Systems** | 4 |
@@ -452,9 +452,9 @@ A plain, unmarked van housing a team of agents and a suite of audio-visual recor
 
 A pickup or jeep with room for a two-person crew in the cabin and a gunner standing in the flatbed section operating a swivel-mounted Medium Machine Gun.
 
-| Tactical Support Vehicle | |
+| Tactical Support Vehicle | Medium Civilian |
 | :- | :- |
-| **Hull** | Medium Civilian (6) |
+| **Hull** | 6 |
 | **Structure** | 30 |
 | **Speed** | Rapid |
 | **Systems** | 3 |
@@ -472,9 +472,9 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 
 A typical speedboat, armed with a rear-mounted mine dispenser.
 
-| Speedboat | |
+| Speedboat | Medium Civilian |
 | :- | :- |
-| **Hull** | Medium Civilian (3) |
+| **Hull** | 3 |
 | **Structure** | 24 |
 | **Speed** | Fast |
 | **Systems** | 3 |
@@ -489,9 +489,9 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 
 The kind of luxury yacht an oligarch might own. Likely kitted out with a surveillance suite to protect against enemies attempting to get up to no good.
 
-| Yacht | |
+| Yacht | Huge Civilian |
 | :- | :- |
-| **Hull** | Huge Civilian (10) |
+| **Hull** | 10 |
 | **Structure** | 75 |
 | **Speed** | Slow |
 | **Systems** | 4 |
@@ -509,9 +509,9 @@ The kind of luxury yacht an oligarch might own. Likely kitted out with a surveil
 
 Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
-| Dirigible | |
+| Dirigible | Enormous Civilian |
 | :- | :- |
-| **Hull** | Enormous Civilian (10) |
+| **Hull** | 10 |
 | **Structure** | 85 |
 | **Speed** | Ponderous |
 | **Systems** | 5 |
@@ -527,9 +527,9 @@ Similar to the Hindenburg, this class of transcontinental dirigible (and others 
 
 The traditional Assault Helicopter uses their advanced surveillance technology to intercept phone and wireless internet signals, and track individuals and vehicles even in the dark, through FLIR. Attempts to evade the tracker through Stealth are Formidable.
 
-| Assault Helicopter | |
+| Assault Helicopter | Large Military |
 | :- | :- |
-| **Hull** | Large Military (11) |
+| **Hull** | 11 |
 | **Structure** | 50 |
 | **Speed** | Mediocre |
 | **Systems** | 3 |
@@ -545,9 +545,9 @@ The traditional Assault Helicopter uses their advanced surveillance technology t
 
 This twin-seat land-based fighter (similar in type to the De Havilland Mosquito) is well known for its performance and versatility. Its bomb bay is able to carry either two 250 lb. bombs (treat as medium missiles with range 0) or a single torpedo.
 
-| Multi-Role Fighter | |
+| Multi-Role Fighter | Large Military |
 | :- | :- |
-| **Hull** | Large Military (10) |
+| **Hull** | 10 |
 | **Structure** | 45 |
 | **Speed** | Mediocre |
 | **Systems** | 3 |
@@ -563,9 +563,9 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 
 This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
-| Interstellar Freighter | |
+| Interstellar Freighter | Medium Civilian Spaceship |
 | :- | :- |
-| **Hull** | Medium Civilian Spaceship (10) |
+| **Hull** | 10 |
 | **Structure** | 80 |
 | **Speed** | Rapid (Parsec Factor of 3) |
 | **Systems** | 2 |
@@ -582,9 +582,9 @@ This light transport requires a minimum crew of only two, with room for up to fo
 
 This extremely high-tech starship is the physical representation of a highly advanced artificial Mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
 
-| General Contact Unit | |
+| General Contact Unit | Colossal Civilian Spaceship |
 | :- | :- |
-| **Hull** | Colossal Civilian Spaceship (20) |
+| **Hull** | 20 |
 | **Structure** | 10,000 |
 | **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
 | **Systems** | 30 |
