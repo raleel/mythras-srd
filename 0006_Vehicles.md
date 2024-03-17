@@ -9,13 +9,23 @@ The rules in this section allow for the representation of most kinds of vehicles
 
 All vehicles are described in terms of their Structure, Hull, Speed, Systems, Traits, and Shields (if present in the setting).
 
+- **[Size](0006_Vehicles.md?id=vehicle-size-table):** All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
 - **Hull:**  Represents Armor Points
 - **Structure:**  Represents a vehicle's Hit Points
-- **Speed:**  Every vehicle has a basic Speed rating
-- **Systems:**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
-- **Traits:**  A vehicle may also have 1 or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
 - **Shields:**  In settings with advanced energy manipulation technology, shields may be present that protect the vehicle, but which may ablate under sustained fire.
-- **Size:** All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
+- **Systems:**  Representing vital components of the vehicle, including the power plant, crew section, and so on.
+- **Speed:**  Every vehicle has a basic Speed rating
+- **Traits:**  A vehicle may also have one or more Traits. Traits, like the Abilities assigned to Creatures in the _Mythras Imperative_ rules, or Combat Style Traits, offer an additional game description and advantage, reflecting the vehicle's nature.
+- **Weapons:** Much like Traits, a vehicle may be equipped with weapons as the setting allows. Some suggested examples and values are detailed below.
+
+
+---
+### Hull Size, Type and Structure
+
+The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
+
+Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
+
 
 ##### Vehicle Size Table 
 
@@ -27,14 +37,6 @@ All vehicles are described in terms of their Structure, Hull, Speed, Systems, Tr
 | Huge | 4 |
 | Enormous | 5 |
 | Colossal | 6 |
-
-
----
-## Hull and Structure
-
-The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
-
-Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
 
 ##### Terrestrial Hulls 
 
@@ -59,7 +61,58 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 
 
 ---
-## Speed
+## Shields
+
+Deflector shields provide an additional layer of protection for those vehicles which can mount them. Shields work slightly differently than the Hull, due to their ablative nature. If incoming damage is equal to or less than the value of the shields, then it is all blocked. If damage exceeds the shield value, then any excess reduces the shield strength by that amount.
+
+For example, a troop carrier has an energy shield strength of 12 points. If the carrier was hit by a laser for 11 damage, it simply does not penetrate and has no additional effect. On the other hand, if the carrier was hit by a blast inflicting 15 damage, the excess three points would drop the shield strength to 9.
+
+Once the strength of a deflector shield has dropped to zero, it collapses. Any remaining damage carries onto the hull.
+
+---
+### Systems
+
+Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
+
+The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
+
+Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
+
+#### Damage
+
+Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic.
+
+For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
+
+##### System Damage Table 
+
+| Size | System Hits | Loss per Hit |
+| :-- | :-: | :-- |
+| Small | 1 | 1 Grade or 50% |
+| Medium | 2 | 1 Grade or 33% |
+| Large | 3 | 1 Grade or 25% |
+| Huge | 4 | 1 Grade or 20% |
+| Enormous | 5 | 1 Grade or 16% |
+| Colossal | 6 | 1 Grade or 10% |
+
+The systems at risk are listed in the Component Damage table below.
+
+##### System Component Damage Table 
+
+| 1d10 | System | Damaged Result | Destroyed Result |
+| :-: | :-- | :-- | :-- |
+| 1 | Cargo | An amount of possessions or equipment stored in the hold, proportional to the damage, are destroyed. | All cargo is destroyed. |
+| 2 | Comms | Comms rolls suffer one additional Difficulty Grade of difficulty each time they are damaged. | Vehicle can no longer communicate or spoof enemy sensors. |
+| 3 | Controls | Boating, Drive, or Pilot rolls suffer one additional Difficulty Grade each time they are damaged; immediate Control roll required. | Vehicle can no longer be steered or change course. |
+| 4 | Drive | Speed reduced by an amount proportional to damage. | Vehicle stops dead; aircraft crash. |
+| 5 | Crew | A number of passengers proportional to the damage are rendered casualties. Those affected suffer a Major Wound and must succeed in an Endurance roll or be killed instantly. | Vehicle occupants die. |
+| 6 | Engine / Fuel | Maximum Speed is halved; electronic systems one Difficulty Grade more difficult to use. | Vehicle is destroyed in a disastrous explosion. |
+| 7 | Sensors | Sensor, Navigation and Weapon attack rolls suffer one additional Difficulty Grade each time they are damaged. | Vehicle is rendered blind. |
+| 8 | Weapons | A number of weapon systems proportional to the damage become inoperative. | Vehicle can no longer fire weapons. |
+| 9-0 | None | No systems struck; just Structure damage. | N/A |
+
+---
+### Speed
 
 Since the physics of velocity, acceleration, drag and inertia (to name but a few) are complex issues, some simplification is needed and so vehicles are given an abstract speed rating. The Speed characteristic should only be used to roughly judge if one vehicle can overtake or catch up with another.
 
@@ -85,17 +138,7 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 
 
 ---
-## Systems
-
-Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
-
-The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
-
-Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
-
-
----
-## Traits
+### Traits
 
 The maximum number of traits a vehicle can have depends on hull size and type.
 
@@ -273,15 +316,6 @@ Superior Handling is a Trait. If a vehicle does not have the trait as part of it
 | 99-00 | Catastrophic Crash. Occupants must successfully roll Endurance or be killed instantly. Damage as for Write-Off is sustained regardless. |
 
 ---
-## Shields
-
-Deflector shields provide an additional layer of protection for those vehicles which can mount them. Shields work slightly differently than the Hull, due to their ablative nature. If incoming damage is equal to or less than the value of the shields, then it is all blocked. If damage exceeds the shield value, then any excess reduces the shield strength by that amount.
-
-For example, a troop carrier has an energy shield strength of 12 points. If the carrier was hit by a laser for 11 damage, it simply does not penetrate and has no additional effect. On the other hand, if the carrier was hit by a blast inflicting 15 damage, the excess three points would drop the shield strength to 9.
-
-Once the strength of a deflector shield has dropped to zero, it collapses. Any remaining damage carries onto the hull.
-
----
 ## Weapons
 
 Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponized' Trait can be taken for civilian vehicles that may have weapon requirements.
@@ -289,39 +323,6 @@ Usually, only military hulls are designed to accommodate weaponry (hard points, 
 The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponized civilian vehicle).
 
 Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the [Weapons](0006_Vehicles.md?id=weapons) section.
-
-#### Damage
-
-Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic.
-
-For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
-
-##### System Damage Table 
-
-| Size | System Hits | Loss per Hit |
-| :-- | :-: | :-- |
-| Small | 1 | 1 Grade or 50% |
-| Medium | 2 | 1 Grade or 33% |
-| Large | 3 | 1 Grade or 25% |
-| Huge | 4 | 1 Grade or 20% |
-| Enormous | 5 | 1 Grade or 16% |
-| Colossal | 6 | 1 Grade or 10% |
-
-The systems at risk are listed in the Component Damage table below.
-
-##### System Component Damage Table 
-
-| 1d10 | System | Damaged Result | Destroyed Result |
-| :-: | :-- | :-- | :-- |
-| 1 | Cargo | An amount of possessions or equipment stored in the hold, proportional to the damage, are destroyed. | All cargo is destroyed. |
-| 2 | Comms | Comms rolls suffer one additional Difficulty Grade of difficulty each time they are damaged. | Vehicle can no longer communicate or spoof enemy sensors. |
-| 3 | Controls | Boating, Drive, or Pilot rolls suffer one additional Difficulty Grade each time they are damaged; immediate Control roll required. | Vehicle can no longer be steered or change course. |
-| 4 | Drive | Speed reduced by an amount proportional to damage. | Vehicle stops dead; aircraft crash. |
-| 5 | Crew | A number of passengers proportional to the damage are rendered casualties. Those affected suffer a Major Wound and must succeed in an Endurance roll or be killed instantly. | Vehicle occupants die. |
-| 6 | Engine / Fuel | Maximum Speed is halved; electronic systems one Difficulty Grade more difficult to use. | Vehicle is destroyed in a disastrous explosion. |
-| 7 | Sensors | Sensor, Navigation and Weapon attack rolls suffer one additional Difficulty Grade each time they are damaged. | Vehicle is rendered blind. |
-| 8 | Weapons | A number of weapon systems proportional to the damage become inoperative. | Vehicle can no longer fire weapons. |
-| 9-0 | None | No systems struck; just Structure damage. | N/A |
 
 
 ##### Weapons by Size Table 
@@ -335,7 +336,7 @@ The systems at risk are listed in the Component Damage table below.
 | Enormous | Advanced Weapons (e.g. Missile Systems) | Spinal Mounted Weapons (one only) |
 | Colossal | NA | Spinal Mounted Weapons (up to 3) |
 
-#### Sample Weapon Statistics 
+##### Sample Weapon Statistics 
  
 | Weapon | Damage | Range | Firing Rate | Ammo/Load |
 | :-- | :-: | :-: | :-: | :-: |
