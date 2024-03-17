@@ -1,4 +1,4 @@
-- [Introduction](0001_Introduction.md)
+- [Introduction](README.md)
 - [Characters](0002_Characters.md)
 - [Skills](0003_Skills.md)
 - [Game System](0004_Game_System.md)
