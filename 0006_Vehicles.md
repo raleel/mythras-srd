@@ -279,9 +279,11 @@ Spacecraft Only. The ship is fitted with a tractor beam that can ensnare and dra
 
 Vertical takeoff/landing. This trait is inherent for helicopters and similar vehicles that use a combination of rotors to produce lift. When applied to fixed-wing aircraft it indicates the use of fixed or align-able thrusters to control airborne attitude, ascent, and descent.
 
-#### Walker
+#### Waterborne
 
 The vehicle propels itself using articulated legs. Walker vehicles are capped at the Speed of Gentle, whatever their Size. However, Walkers can be built to heights that would simply be unstable for vehicles equipped with other means of locomotion.
+
+This vehicle is capable of subaqua movement.
 
 #### Weaponized
 
@@ -367,13 +369,14 @@ Superior Handling is a Trait. If a vehicle does not have the trait as part of it
 
 A souped-up luxury car, sports car or similar, this car is built to go fast and give as good as it takes in a battle. This is the sort of vehicle people think of when someone says, "spy car."
 
-| Interceptor | Medium Military |
+| Interceptor | |
 | :- | :- |
+| **Size / Type** | Medium Military |
 | **Hull** | 6 |
 | **Structure** | 40 |
 | **Speed** | Fast |
 | **Systems** | 3 |
-| **Traits** | Ejector Seat, Enhanced Performance, Superior Handling, Surveillance Suite, Tough, Weaponized |
+| **Traits** | [Ejector Seat](0006_Vehicles.md?id=ejector-seat), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Oil slick dispenser, smoke dispenser, twin linked medium machine guns |
 
 <br>
@@ -384,13 +387,14 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 
 A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries a surprise – either a pair of linked machine guns or two rockets.
 
-| Pursuit Motorcycle | Small Civilian |
+| Pursuit Motorcycle | |
 | :- | :- |
+| **Size / Type** | Small Civilian |
 | **Hull** | 2 |
 | **Structure** | 12 |
 | **Speed** | Fast |
 | **Systems** | 3 |
-| **Traits** | Superior Handling, Weaponized |
+| **Traits** | [Superior Handling](0006_Vehicles.md?id=superior-handling), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Two Rockets or twin linked Light Machine Guns |
 
 <br>
@@ -401,13 +405,14 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 
 A standard 4-door sedan featuring enough space to comfortably seat a driver and three passengers. Sacrifices cargo space to incorporate a surveillance suite.
 
-| Sedan Car | Medium Civilian |
+| Sedan Car | |
 | :- | :- |
+| **Size / Type** | Medium Civilian |
 | **Hull** | 4 |
 | **Structure** | 25 |
 | **Speed** | Rapid |
 | **Systems** | 3 |
-| **Traits** | Unobtrusive, Surveillance Suite |
+| **Traits** | [Unobtrusive](0006_Vehicles.md?id=unobtrusive), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite) |
 | **Weapons** | None |
 
 <br>
@@ -418,13 +423,14 @@ A standard 4-door sedan featuring enough space to comfortably seat a driver and 
 
 A two-person car that can switch to waterborne or submersible mode to travel on or underwater. Comes with a front-mounted torpedo and top-mounted surface-to-air missile.
 
-| Submersible Car | Medium Civilian |
+| Submersible Car | |
 | :- | :- |
+| **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 25 |
 | **Speed** | Fast |
 | **Systems** | 3 |
-| **Traits** | Enhanced Performance, Submersible, Watercraft, Weaponized |
+| **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Submersible](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Rocket, Torpedo |
 
 <br>
@@ -435,13 +441,14 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 
 A plain, unmarked van housing a team of agents and a suite of audio-visual recording equipment.
 
-| Surveillance Van | Large Civilian |
+| Surveillance Van | |
 | :- | :- |
+| **Size / Type** | Large Civilian |
 | **Hull** | 9 |
 | **Structure** | 60 |
 | **Speed** | Gentle |
 | **Systems** | 4 |
-| **Traits** | Surveillance Suite, Tough |
+| **Traits** | [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Tough](0006_Vehicles.md?id=tough) |
 | **Weapons** | None |
 
 <br>
@@ -452,13 +459,14 @@ A plain, unmarked van housing a team of agents and a suite of audio-visual recor
 
 A pickup or jeep with room for a two-person crew in the cabin and a gunner standing in the flatbed section operating a swivel-mounted Medium Machine Gun.
 
-| Tactical Support Vehicle | Medium Civilian |
+| Tactical Support Vehicle | |
 | :- | :- |
+| **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 30 |
 | **Speed** | Rapid |
 | **Systems** | 3 |
-| **Traits** | All Terrain, Weaponized |
+| **Traits** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Mounted Medium Machine Gun |
 
 
@@ -472,13 +480,14 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 
 A typical speedboat, armed with a rear-mounted mine dispenser.
 
-| Speedboat | Medium Civilian |
+| Speedboat | |
 | :- | :- |
+| **Size / Type** | Medium Civilian |
 | **Hull** | 3 |
 | **Structure** | 24 |
 | **Speed** | Fast |
 | **Systems** | 3 |
-| **Traits** | Enhanced Performance, Waterborne, Weaponized |
+| **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Mine Dispenser |
 
 <br>
@@ -489,13 +498,14 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 
 The kind of luxury yacht an oligarch might own. Likely kitted out with a surveillance suite to protect against enemies attempting to get up to no good.
 
-| Yacht | Huge Civilian |
+| Yacht | |
 | :- | :- |
+| **Size / Type** | Huge Civilian |
 | **Hull** | 10 |
 | **Structure** | 75 |
 | **Speed** | Slow |
 | **Systems** | 4 |
-| **Traits** | Luxurious, Surveillance Suite, Waterborne |
+| **Traits** | [Luxurious](0006_Vehicles.md?id=luxurious), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Waterborne](0006_Vehicles.md?id=waterborne) |
 | **Weapons** | None |
 
 
@@ -509,13 +519,14 @@ The kind of luxury yacht an oligarch might own. Likely kitted out with a surveil
 
 Similar to the Hindenburg, this class of transcontinental dirigible (and others of its class) is 245 meters in length and requires a crew of 40 to 61. It can typically carry a complement of 50 to 72 passengers in luxury accommodations.
 
-| Dirigible | Enormous Civilian |
+| Dirigible | |
 | :- | :- |
+| **Size / Type** | Enormous Civilian |
 | **Hull** | 10 |
 | **Structure** | 85 |
 | **Speed** | Ponderous |
 | **Systems** | 5 |
-| **Traits** | Airborne, Luxurious, VTOL |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Luxurious](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | None |
 | **Weapons** | None |
 
@@ -527,13 +538,14 @@ Similar to the Hindenburg, this class of transcontinental dirigible (and others 
 
 The traditional Assault Helicopter uses their advanced surveillance technology to intercept phone and wireless internet signals, and track individuals and vehicles even in the dark, through FLIR. Attempts to evade the tracker through Stealth are Formidable.
 
-| Assault Helicopter | Large Military |
+| Assault Helicopter | |
 | :- | :- |
+| **Size / Type** | Large Military |
 | **Hull** | 11 |
 | **Structure** | 50 |
 | **Speed** | Mediocre |
 | **Systems** | 3 |
-| **Traits** | Airborne, Enhanced Performance, Stealth, Superior Handling, Surveillance Suite, VTOL |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | None |
 | **Weapons** | 1 Gatling gun, 4 rockets |
 
@@ -545,13 +557,14 @@ The traditional Assault Helicopter uses their advanced surveillance technology t
 
 This twin-seat land-based fighter (similar in type to the De Havilland Mosquito) is well known for its performance and versatility. Its bomb bay is able to carry either two 250 lb. bombs (treat as medium missiles with range 0) or a single torpedo.
 
-| Multi-Role Fighter | Large Military |
+| Multi-Role Fighter | |
 | :- | :- |
+| **Size / Type** | Large Military |
 | **Hull** | 10 |
 | **Structure** | 45 |
 | **Speed** | Mediocre |
 | **Systems** | 3 |
-| **Traits** | Airborne, Enhanced Performance |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance) |
 | **Shields** | None |
 | **Weapons** | 4 nose-mounted Gatling guns (fore), 1 bomb bay (see description) |
 
@@ -563,13 +576,14 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 
 This light transport requires a minimum crew of only two, with room for up to four additional passengers. The standard stock version is noted here, however many owners will apply their own "special modifications" such as concealed cargo space, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, and so on.
 
-| Interstellar Freighter | Medium Civilian Spaceship |
+| Interstellar Freighter | |
 | :- | :- |
+| **Size / Type** | Medium Civilian Spaceship |
 | **Hull** | 10 |
 | **Structure** | 80 |
 | **Speed** | Rapid (Parsec Factor of 3) |
 | **Systems** | 2 |
-| **Traits** | Airborne, Cargo, FTL, Space Craft, VTOL |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Space Craft](0006_Vehicles.md?id=space-craft),[VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | 8 |
 | **Weapons** | x2 quad-mounted laser cannon turrets |
 
@@ -582,13 +596,14 @@ This light transport requires a minimum crew of only two, with room for up to fo
 
 This extremely high-tech starship is the physical representation of a highly advanced artificial Mind, that takes the form of a two-kilometre-long series of field-connected modules. The modules are individually purposed and include habitats, construction facilities, cargo areas, food processing, leisure complexes, hangar bays, and even some secretive units the ship's intelligence rarely, if ever, discusses. It needs no human crew, but can support a passenger population of up to 100,000 with ease. Many passengers are born and die aboard the Contact Unit: many are transitory, coming and going as they wish.
 
-| General Contact Unit | Colossal Civilian Spaceship |
+| General Contact Unit | |
 | :- | :- |
+| **Size / Type** | Colossal Civilian Spaceship |
 | **Hull** | 20 |
 | **Structure** | 10,000 |
 | **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
 | **Systems** | 30 |
-| **Traits** | Airborne, Cargo, Carrier, Construction, FTL, Luxurious, Space Craft, Superior Handling, Tractor Beam |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Space Craft](0006_Vehicles.md?id=space-craft),[Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
 | **Shields** | 30 |
 | **Weapons** | None that it cares to discuss |
 
