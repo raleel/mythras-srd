@@ -26,18 +26,6 @@ The size and purpose of a vehicle affects the thickness of its hull and resilien
 
 Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance, equal to the penetrating damage, of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
 
-
-##### Vehicle Size Table 
-
-| Size | System Hits |
-| :-- | :-: |
-| Small | 1 |
-| Medium | 2 |
-| Large | 3 |
-| Huge | 4 |
-| Enormous | 5 |
-| Colossal | 6 |
-
 ##### Terrestrial Hulls 
 
 | Size | Structure | Civilian Hull Value | Military Hull Value | Example |
@@ -117,14 +105,25 @@ For example, a Large vehicle may take up to two hits on a system such as its Dri
 | Enormous | 5 | 1 Grade or 16% |
 | Colossal | 6 | 1 Grade or 10% |
 
+##### Vehicle Size Table (from [Hull Size, Type and Structure]( 0006_Vehicles.md?id=hull-size-type-and-structure))
+
+| Size | System Hits |
+| :-- | :-: |
+| Small | 1 |
+| Medium | 2 |
+| Large | 3 |
+| Huge | 4 |
+| Enormous | 5 |
+| Colossal | 6 |
+
 _The original rules and examples are inconsistent:_
 - _"Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5)"._ 
    - _This suggests the Enormous vehicle shown with 5 System Hits should lose 20% with each hit - but the table says 16%._
 - _"For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive."_ 
   - _"This suggests - as does the table - 25% damage per System Hit but the Large Vehicles can only take 3 System Hits according to the same table._
-_- example._
+- _While not inconsistent, the Vehicle Size Table was redundant; appearing again in fuller form (adding the Loss per Hit column) just a few lines later._
 
-_This makes it hard to have a consistent rule. To fix this, the values and examples are changed to match._
+_This makes it hard to have a consistent rule. To address these issues, the values and examples are changed to match and the Vehicle Size Table was removed._
 
 ---
 
