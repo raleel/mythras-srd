@@ -117,6 +117,20 @@ For example, a Large vehicle may take up to two hits on a system such as its Dri
 | Enormous | 5 | 1 Grade or 16% |
 | Colossal | 6 | 1 Grade or 10% |
 
+<<<<<<< Updated upstream
+=======
+##### Vehicle Size Table (from [Hull Size, Type and Structure](0006_Vehicles.md?id=hull-size-type-and-structure))
+
+| Size | System Hits |
+| :-- | :-: |
+| Small | 1 |
+| Medium | 2 |
+| Large | 3 |
+| Huge | 4 |
+| Enormous | 5 |
+| Colossal | 6 |
+
+>>>>>>> Stashed changes
 _The original rules and examples are inconsistent:_
 - _"Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5)"._ 
    - _This suggests the Enormous vehicle shown with 5 System Hits should lose 20% with each hit - but the table says 16%._
