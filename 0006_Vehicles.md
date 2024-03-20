@@ -105,7 +105,7 @@ For example, a Large vehicle may take up to two hits on a system such as its Dri
 | Enormous | 5 | 1 Grade or 16% |
 | Colossal | 6 | 1 Grade or 10% |
 
-##### Vehicle Size Table (from [Hull Size, Type and Structure]( 0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Vehicle Size Table (from [Hull Size, Type and Structure](0006_Vehicles.md?id=hull-size-type-and-structure))
 
 | Size | System Hits |
 | :-- | :-: |
