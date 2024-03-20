@@ -22,9 +22,9 @@ All vehicles are described in terms of their Structure, Hull, Speed, Systems, Tr
 ---
 ### Hull Size, Type and Structure
 
-The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size table below.
+The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarized on the Vehicle Size and Hull tables below.
 
-Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
+Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance, equal to the penetrating damage, of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyed, or so badly wrecked it must be scrapped.
 
 
 ##### Vehicle Size Table 
@@ -65,16 +65,20 @@ Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull valu
 
 Deflector shields provide an additional layer of protection for those vehicles which can mount them. Shields work slightly differently than the Hull, due to their ablative nature. If incoming damage is equal to or less than the value of the shields, then it is all blocked. If damage exceeds the shield value, then any excess reduces the shield strength by that amount.
 
-For example, a troop carrier has an energy shield strength of 12 points. If the carrier was hit by a laser for 11 damage, it simply does not penetrate and has no additional effect. On the other hand, if the carrier was hit by a blast inflicting 15 damage, the excess three points would drop the shield strength to 9.
+_For example, a troop carrier has an energy shield strength of 12 points. If the carrier was hit by a laser for 11 damage, it simply does not penetrate and has no additional effect. On the other hand, if the carrier was hit by a blast inflicting 15 damage, the excess three points would drop the shield strength to 9._
 
 Once the strength of a deflector shield has dropped to zero, it collapses. Any remaining damage carries onto the hull.
 
 ---
 ### Systems
 
-Every time a vehicle suffers damage that penetrates its hull, there is a chance that a vital System has been affected. Depending on which system has been hit, the effects of System damage can be catastrophic.
+Every time a vehicle suffers damage that penetrates its hull, there is a chance, equal to the penetrating damage, that a vital System has been affected. 
 
-The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times it is hit, rather than the actual amount of damage. A single hit on a Small vehicle will instantly destroy that system. It takes two hits to demolish a Medium sized vehicle's subsystem, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
+_For example, 10 damage is applied to Speedboat - a vehicle with 3 Hull and 24 Structure. The Hull counts as armor reducing the damage to 7. This is removed from the 24 Structure points and there is a 7% chance to damage one of the vehicle's Systems._
+
+Depending on which system has been hit, the effects of System damage can be catastrophic.
+
+The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times that System is hit, rather than the actual amount of damage. A single System it on a Small vehicle will instantly destroy that System. It takes two hits to demolish a Medium sized vehicle's Systems, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
 
 Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
 
@@ -82,9 +86,27 @@ Systems that are damaged, but not yet destroyed, suffer a loss in functionality.
 
 Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic.
 
-For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
+For example, a Large vehicle may take up to two hits on a system such as its Drive. The third hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
 
 ##### System Damage Table 
+
+| Size | System Hits | Loss per Hit |
+| :-- | :-: | :-- |
+| Small | 1 | 100% - Destroyed |
+| Medium | 2 | 1 Grade or 50% |
+| Large | 3 | 1 Grade or 33% |
+| Huge | 4 | 1 Grade or 25% |
+| Enormous | 5 | 1 Grade or 20% |
+| Colossal | 6 | 1 Grade or 16% |
+
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+##### System Damage Table (Original) 
 
 | Size | System Hits | Loss per Hit |
 | :-- | :-: | :-- |
@@ -94,6 +116,19 @@ For example, a Large vehicle may take up to three hits on a system such as its D
 | Huge | 4 | 1 Grade or 20% |
 | Enormous | 5 | 1 Grade or 16% |
 | Colossal | 6 | 1 Grade or 10% |
+
+_The original rules and examples are inconsistent:_
+- _"Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5)"._ 
+   - _This suggests the Enormous vehicle shown with 5 System Hits should lose 20% with each hit - but the table says 16%._
+- _"For example, a Large vehicle may take up to three hits on a system such as its Drive. The fourth hit functionally destroys the Drive."_ 
+  - _"This suggests - as does the table - 25% damage per System Hit but the Large Vehicles can only take 3 System Hits according to the same table._
+_- example._
+
+_This makes it hard to have a consistent rule. To fix this, the values and examples are changed to match._
+
+---
+
+</details>
 
 The systems at risk are listed in the Component Damage table below.
 
