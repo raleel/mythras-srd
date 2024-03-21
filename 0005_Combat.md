@@ -395,7 +395,25 @@ Allows the defender to use a momentary opening to roll back up to their feet.
 
 #### Bash
 
-The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or an unmodified Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
+The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make an Acrobatics skill roll - or Athletics at Hard difficulty - to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+#### Bash
+
+_The original rule had ambiguous wording as follows: "...they must make a Hard Athletics or Acrobatics skill roll..."_
+
+_That looks like either skill should be rolled at Hard. Where the convention is to make a Standard check with a Professional skill or a Hard check with the closest  equivalent Standard skill._
+
+_The wording has been replaced with "...they must make an Acrobatics skill roll - or Athletics at Hard difficulty..."_
+
+---
+
+</details>
 
 #### Bleed
 
