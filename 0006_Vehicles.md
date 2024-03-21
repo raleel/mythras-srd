@@ -64,17 +64,32 @@ Every time a vehicle suffers damage that penetrates its hull, there is a chance,
 
 _For example, 10 damage is applied to Speedboat - a vehicle with 3 Hull and 24 Structure. The Hull counts as armor reducing the damage to 7. This is removed from the 24 Structure points and there is a 7% chance to damage one of the vehicle's Systems._
 
-Depending on which system has been hit, the effects of System damage can be catastrophic.
+The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of hits a System can take, rather than the actual amount of damage. A single System Hit on a Small vehicle will instantly destroy that System. It takes two hits to demolish a Medium sized vehicle's Systems, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below. 
 
-The damage a System can sustain is based purely on the vehicle's size. This is modelled by the number of times that System is hit, rather than the actual amount of damage. A single System it on a Small vehicle will instantly destroy that System. It takes two hits to demolish a Medium sized vehicle's Systems, three for a Large vehicle, and so on. See the [System Damage Table](0006_Vehicles.md?id=system-damage-table) below.
+Systems that are damaged, but not yet destroyed, suffer a loss of function proportionate to the number of Hits taken - either a percentage reduction or a Grade penalty to System tasks. The specific effect is based on what the subsystem controls, as detailed in the [System Component Damage Table](0006_Vehicles.md?id=system-component-damage-table) below. Depending on which System is hit, the effects can be catastrophic.
 
-Systems that are damaged, but not yet destroyed, suffer a loss in functionality. This is equal to the proportion of current hits to its total capability. Thus, an Enormous vehicle hit twice in the Drive would lose 40% of its power (2 hits out of a maximum of 5) and would reduce its Speed rating accordingly. For instance, a Land Ironclad with a Speed of Slow would be reduced to Ponderous. The specific effect depends on what the subsystem controls. For more detail, see the tables in the [Damage](0006_Vehicles.md?id=damage) section below.
+_For example, a Land Ironclad - an Enormous vehicle with 5 System Hits - hit twice in the Drive would lose 40% of its power and would reduce its Slow Speed two Grades to Ponderous. Similarly, a Large freighter - with 3 System Hits - taking two hits on the Engine/Fuel System would have a two Grade penalty to Speed as well to Electronic systems use. A third hit would destroy the Engine/Fuel System and the ship with it._
+
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
 
 #### Damage
 
-Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic.
 
-For example, a Large vehicle may take up to two hits on a system such as its Drive. The third hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained.
+_The original text here was originally further away. Placed directly after the Systems section it is unnecessarily repeating the preceding paragraph._
+
+- _"Damage that exceeds the Hull penetrates the vehicle, damaging the Structure and possibly impacting on one or more systems. Depending on the size of the vehicle, damage can be minor or catastrophic._
+- _For example, a Large vehicle may take up to two hits on a System such as its Drive. The third hit functionally destroys the Drive. Each time the system takes a hit, it either loses a percentage of its function as described in the Loss per Hit column of the System Damage Table below or a core function (such as Drive, Pilot, Comms, and so on) becomes one Difficulty Grade harder per hit sustained."_
+
+_The above paragraphs are removed and an abbreviated edit takes its place calling out another example System effect._
+
+---
+
+</details>
 
 ##### System Damage Table 
 
@@ -129,7 +144,6 @@ _This makes it hard to have a consistent rule. To address these issues, the valu
 
 </details>
 
-The systems at risk are listed in the Component Damage table below.
 
 ##### System Component Damage Table 
 
@@ -140,10 +154,27 @@ The systems at risk are listed in the Component Damage table below.
 | 3 | Controls | Boating, Drive, or Pilot rolls suffer one additional Difficulty Grade each time they are damaged; immediate Control roll required. | Vehicle can no longer be steered or change course. |
 | 4 | Drive | Speed reduced by an amount proportional to damage. | Vehicle stops dead; aircraft crash. |
 | 5 | Crew | A number of passengers proportional to the damage are rendered casualties. Those affected suffer a Major Wound and must succeed in an Endurance roll or be killed instantly. | Vehicle occupants die. |
-| 6 | Engine / Fuel | Maximum Speed is halved; electronic systems one Difficulty Grade more difficult to use. | Vehicle is destroyed in a disastrous explosion. |
+| 6 | Engine / Fuel | Speed reduced by an amount proportional to damage. Electronic systems one Difficulty Grade more difficult to use. | Vehicle is destroyed in a disastrous explosion. |
 | 7 | Sensors | Sensor, Navigation and Weapon attack rolls suffer one additional Difficulty Grade each time they are damaged. | Vehicle is rendered blind. |
 | 8 | Weapons | A number of weapon systems proportional to the damage become inoperative. | Vehicle can no longer fire weapons. |
 | 9-0 | None | No systems struck; just Structure damage. | N/A |
+
+<details>
+
+<summary>* Community Errata</summary>
+
+---
+
+##### System Component Damage Table (Engine/Fuel)
+
+_The original result was as follows: "Maximum Speed is halved..." This contradicts the general rule of damage penalties in proportion to System damage: 25% damage = 25% penalty. Moreover, the full rules in the Mythras Companion do not mention this halving of Speed._
+
+_As a result the text is replaced with the same entry from Drive Systems: "Speed reduced by an amount proportional to damage."_
+
+---
+
+</details>
+
 
 ---
 ### Speed
@@ -176,7 +207,7 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 
 The maximum number of traits a vehicle can have depends on hull size and type.
 
-Every vehicle has an inherent trait: the travel mode for which it was primarily designed. Therefore, aircraft inherently hold the Airborne trait, boats the Seaborne trait, and so on., This inherent trait does not count towards the available number of traits. However, if a vehicle wishes to include a second travel mode — a flying submarine for instance, then the Airborne trait would need to be taken as part of its available traits.
+Every vehicle has an inherent trait: the travel mode for which it was primarily designed. Therefore, aircraft inherently hold the Airborne trait, boats the Seaborne trait, and so on., This inherent trait does not count towards the available number of traits. However, if a vehicle should include a second travel mode — a flying submarine for instance, then the Airborne trait would need to be taken as one of its available traits.
 
 Some traits may not be available, depending on the technology level of the setting; Games Masters must make their own judgment calls as to what traits can be applied.
 
@@ -329,7 +360,7 @@ The vehicle has been adapted to accommodate weaponry. Weapon systems are discuss
 
 Usually, only military hulls are designed to accommodate weaponry (hard points, ammunition storage, control systems). The 'Weaponized' Trait can be taken for civilian vehicles that may have weapon requirements.
 
-The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a weaponized civilian vehicle).
+The maximum number of weapon systems a vehicle can support is equal to 1/10th of its Structure Points (so a vehicle with 40 Structure could support 4 weapon systems, if a military vehicle, or a Weaponized civilian vehicle).
 
 Weapon systems depend on the Size of the vehicle. The maximum type of weapon system for different Sizes are shown in the tables in the tables below.
 
@@ -392,6 +423,7 @@ Superior Handling is a Trait. If a vehicle does not have the trait as part of it
 | 91-98 | Immediate Explosion. As above but the explosion is immediate. |
 | 99-00 | Catastrophic Crash. Occupants must successfully roll Endurance or be killed instantly. Damage as for Write-Off is sustained regardless. |
 
+
 ---
 ## Sample Vehicles
 
@@ -408,8 +440,9 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 | **Size / Type** | Medium Military |
 | **Hull** | 6 |
 | **Structure** | 40 |
-| **Speed** | Fast |
 | **Systems** | 3 |
+| **Speed** | Fast |
+| **Handling** | Easy |
 | **Traits** | [Ejector Seat](0006_Vehicles.md?id=ejector-seat), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Oil slick dispenser, smoke dispenser, twin linked medium machine guns |
 
@@ -426,8 +459,9 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 | **Size / Type** | Small Civilian |
 | **Hull** | 2 |
 | **Structure** | 12 |
-| **Speed** | Fast |
 | **Systems** | 3 |
+| **Speed** | Fast |
+| **Handling** | Easy |
 | **Traits** | [Superior Handling](0006_Vehicles.md?id=superior-handling), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Two Rockets or twin linked Light Machine Guns |
 
@@ -444,8 +478,9 @@ A standard 4-door sedan featuring enough space to comfortably seat a driver and 
 | **Size / Type** | Medium Civilian |
 | **Hull** | 4 |
 | **Structure** | 25 |
-| **Speed** | Rapid |
 | **Systems** | 3 |
+| **Speed** | Rapid |
+| **Handling** | Standard |
 | **Traits** | [Unobtrusive](0006_Vehicles.md?id=unobtrusive), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite) |
 | **Weapons** | None |
 
@@ -462,8 +497,9 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 | **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 25 |
-| **Speed** | Fast |
 | **Systems** | 3 |
+| **Speed** | Fast |
+| **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Submersible](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Rocket, Torpedo |
 
@@ -480,8 +516,9 @@ A plain, unmarked van housing a team of agents and a suite of audio-visual recor
 | **Size / Type** | Large Civilian |
 | **Hull** | 9 |
 | **Structure** | 60 |
-| **Speed** | Gentle |
 | **Systems** | 4 |
+| **Speed** | Gentle |
+| **Handling** | Standard |
 | **Traits** | [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Tough](0006_Vehicles.md?id=tough) |
 | **Weapons** | None |
 
@@ -498,8 +535,9 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 | **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 30 |
-| **Speed** | Rapid |
 | **Systems** | 3 |
+| **Speed** | Rapid |
+| **Handling** | Standard |
 | **Traits** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Mounted Medium Machine Gun |
 
@@ -519,8 +557,9 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 | **Size / Type** | Medium Civilian |
 | **Hull** | 3 |
 | **Structure** | 24 |
-| **Speed** | Fast |
 | **Systems** | 3 |
+| **Speed** | Fast |
+| **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
 | **Weapons** | Mine Dispenser |
 
@@ -537,8 +576,9 @@ The kind of luxury yacht an oligarch might own. Likely kitted out with a surveil
 | **Size / Type** | Huge Civilian |
 | **Hull** | 10 |
 | **Structure** | 75 |
-| **Speed** | Slow |
 | **Systems** | 4 |
+| **Speed** | Slow |
+| **Handling** | Formidable |
 | **Traits** | [Luxurious](0006_Vehicles.md?id=luxurious), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Waterborne](0006_Vehicles.md?id=waterborne) |
 | **Weapons** | None |
 
@@ -558,8 +598,9 @@ Similar to the Hindenburg, this class of transcontinental dirigible (and others 
 | **Size / Type** | Enormous Civilian |
 | **Hull** | 10 |
 | **Structure** | 85 |
-| **Speed** | Ponderous |
 | **Systems** | 5 |
+| **Speed** | Ponderous |
+| **Handling** | Herculean |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Luxurious](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | None |
 | **Weapons** | None |
@@ -577,8 +618,9 @@ The traditional Assault Helicopter uses their advanced surveillance technology t
 | **Size / Type** | Large Military |
 | **Hull** | 11 |
 | **Structure** | 50 |
-| **Speed** | Mediocre |
 | **Systems** | 3 |
+| **Speed** | Moderate |
+| **Handling** | Easy |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | None |
 | **Weapons** | 1 Gatling gun, 4 rockets |
@@ -596,8 +638,9 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 | **Size / Type** | Large Military |
 | **Hull** | 10 |
 | **Structure** | 45 |
-| **Speed** | Mediocre |
 | **Systems** | 3 |
+| **Speed** | Moderate |
+| **Handling** | Standard |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance) |
 | **Shields** | None |
 | **Weapons** | 4 nose-mounted Gatling guns (fore), 1 bomb bay (see description) |
@@ -615,9 +658,10 @@ This light transport requires a minimum crew of only two, with room for up to fo
 | **Size / Type** | Medium Civilian Spaceship |
 | **Hull** | 10 |
 | **Structure** | 80 |
-| **Speed** | Rapid (Parsec Factor of 3) |
 | **Systems** | 2 |
-| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Space Craft](0006_Vehicles.md?id=space-craft),[VTOL](0006_Vehicles.md?id=vtol) |
+| **Speed** | Rapid (Parsec Factor of 3) |
+| **Handling** | Standard |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Space Craft](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | 8 |
 | **Weapons** | x2 quad-mounted laser cannon turrets |
 
@@ -635,8 +679,9 @@ This extremely high-tech starship is the physical representation of a highly adv
 | **Size / Type** | Colossal Civilian Spaceship |
 | **Hull** | 20 |
 | **Structure** | 10,000 |
-| **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
 | **Systems** | 30 |
+| **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
+| **Handling** | Formidable |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Space Craft](0006_Vehicles.md?id=space-craft),[Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
 | **Shields** | 30 |
 | **Weapons** | None that it cares to discuss |
