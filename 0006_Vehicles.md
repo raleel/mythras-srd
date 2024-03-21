@@ -444,7 +444,7 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 | **Speed** | Fast |
 | **Handling** | Easy |
 | **Traits** | [Ejector Seat](0006_Vehicles.md?id=ejector-seat), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Weaponized](0006_Vehicles.md?id=weaponized) |
-| **Weapons** | Oil slick dispenser, smoke dispenser, twin linked medium machine guns |
+| **Weapons** | Oil Slick Dispenser, Smoke Dispenser, Twin-Linked Medium Machine Guns (2d6+3) |
 
 <br>
 
@@ -463,7 +463,7 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 | **Speed** | Fast |
 | **Handling** | Easy |
 | **Traits** | [Superior Handling](0006_Vehicles.md?id=superior-handling), [Weaponized](0006_Vehicles.md?id=weaponized) |
-| **Weapons** | Two Rockets or twin linked Light Machine Guns |
+| **Weapons** | Two Rockets (4d6) or Twin-linked Light Machine Guns (2d6) |
 
 <br>
 
@@ -501,7 +501,7 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 | **Speed** | Fast |
 | **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Submersible](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
-| **Weapons** | Rocket, Torpedo |
+| **Weapons** | Rocket (5d6), Torpedo (4d10) |
 
 <br>
 
@@ -539,7 +539,7 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 | **Speed** | Rapid |
 | **Handling** | Standard |
 | **Traits** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Weaponized](0006_Vehicles.md?id=weaponized) |
-| **Weapons** | Mounted Medium Machine Gun |
+| **Weapons** | Mounted Medium Machine Gun (2d6) |
 
 
 <br>
@@ -561,7 +561,7 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 | **Speed** | Fast |
 | **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
-| **Weapons** | Mine Dispenser |
+| **Weapons** | Mine Dispenser (5d6) |
 
 <br>
 
@@ -623,7 +623,7 @@ The traditional Assault Helicopter uses their advanced surveillance technology t
 | **Handling** | Easy |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | None |
-| **Weapons** | 1 Gatling gun, 4 rockets |
+| **Weapons** | 1 Gatling Gun (3d6), 4 Rockets (5d6) |
 
 <br>
 
@@ -643,7 +643,7 @@ This twin-seat land-based fighter (similar in type to the De Havilland Mosquito)
 | **Handling** | Standard |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance) |
 | **Shields** | None |
-| **Weapons** | 4 nose-mounted Gatling guns (fore), 1 bomb bay (see description) |
+| **Weapons** | 4 Nose-mounted Gatling Guns (4d6+3), 1 bomb bay (6d10 - see description) |
 
 <br>
 
@@ -663,7 +663,7 @@ This light transport requires a minimum crew of only two, with room for up to fo
 | **Handling** | Standard |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Space Craft](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | 8 |
-| **Weapons** | x2 quad-mounted laser cannon turrets |
+| **Weapons** | 2x Quad-mounted Laser Cannon Turrets (5d6) |
 
 
 <br>
