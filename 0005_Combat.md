@@ -407,7 +407,7 @@ The attacker deliberately bashes the opponent off balance. How far the defender 
 
 _The original rule had ambiguous wording as follows: "...they must make a Hard Athletics or Acrobatics skill roll..."_
 
-_That looks like either skill should be rolled at Hard. Where the convention is to make a Standard check with a Professional skill or a Hard check with the closest  equivalent Standard skill._
+_That looks like either skill would be rolled at Hard where the convention is to make a Standard check with a Professional skill or a Hard check with the closest equivalent Standard skill._
 
 _The wording has been replaced with "...they must make an Acrobatics skill roll - or Athletics at Hard difficulty..."_
 
