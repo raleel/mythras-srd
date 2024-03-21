@@ -239,17 +239,33 @@ These movement rates are situational and are not always an option. Many are deta
 
 #### Climb
 
-A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armor hinders climbers by an amount equal to the Armor Points of the heaviest item worn.
+A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armor hinders climbers based on the total of Armor Points worn.
+
+##### Armoured Movement Penalty Table
+
+| Total AP Worn | Load Category | Movement |
+| :-: | :-: | :-: |
+| 0-7 | None | 0 |
+| 8-15 | Light | -1 |
+| 16-23 | Medium | -2 |
+| 24-31 | Heavy | -3 |
+| 32-39 | Formidable | -4 |
+| 40+ | Herculean	| -5 |
+
 <details>
 
 <summary>* Community Errata</summary>
 
-_**Climb**_
+#### Climb
 
-_Community Errata:_
-_**"Worn armor hinders climbers by an amount equal to the average of worn Armor Points. Find this by totalling every location's worn armor points and divide that figure by the number of locations."**_
 
-_The rule as written quickly causes issues. Wearing a single piece of 6AP armor would reduce a human to Move 0 meaning a human wearing a steel helmet and nothing else would be too overburdened to climb at all. This seems unreasonably restrictive hence the edited version suggested above. This will be updated should the original authors revise the rule as written._
+_The original text was "Worn armor hinders climbers by an amount equal to the Armor Points of the heaviest item worn."_
+
+_The rule as written quickly causes issues. Wearing a single piece of 6AP armor would reduce a human to Move 0 meaning a human wearing a steel helmet and nothing else would be too overburdened to climb at all. This seems unreasonably restrictive hence the edited version suggested above. This will be updated following Loz's suggestion in the [TDM forum](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
+
+_**nb:** Compare the Classic Fantasy Imperative rule which ties to Encumbrance:_
+- _"Worn armor hinders climbers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried."_ 
+- _The Classic Fantasy Imperative Encumbrance rule: "Every additional Thing above a character's STR reduces the character's Initiative Bonus by 1. Every 6 Things above STR reduces the character's Movement Rate by 5 feet (2m). Finally, when more Things are carried than the character's STR, skills using STR or DEX as part of their Base are 1 grade more difficult. When more Things are carried than twice the character's STR, these skills are 2 grades more difficult."_
 
 </details>
 
@@ -261,19 +277,39 @@ Movement rules are fully covered in the _Mythras_ rulebook.
 
 #### Jump
 
-A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a five metrefive-metre run-up available). If jumping from a standing position, then these distances are halved.
+A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. 
 
-#### Swim
+A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a five metre run-up available). If jumping from a standing position, then these distances are halved.
 
-A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the Swim description in the [Skills](0003_Skills.md?id=swim-strcon) section for more information.
+Reduce the jump distance in metres by one-fifth the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the beforementioned calculation, and heavy armor counts as 2 'Things.'
 
 <details>
 
 <summary>* Community Errata</summary>
 
-_**Swim**_
+#### Jump
 
-_The published version of _Mythras Imperative_ has no explicit rules for Swim movement at different gaits or speeds. They are covered in the _Mythras_ core rulebook along with penalties for worn armor._
+
+_The original text made no mention of Armor or Encumbrance. Loz's Climbing penalties are too restrictive to use for Jump as is but Classic Fantasy Imperative again ties armor penalties to Encumbrance:_
+- _"Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the beforementioned calculation, and heavy armor counts as 2 'Things.'"_ 
+
+</details>
+
+#### Swim
+
+A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the Swim description in the [Skills](0003_Skills.md?id=swim-strcon) section for more information.
+
+Under normal conditions a character's maximum swimming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders swimmers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces swim distance to 0 or less, the character automatically begins drowning (see [Asphyxiation](0004_Game_System.md?id=asphyxiation)).
+
+<details>
+
+<summary>* Community Errata</summary>
+
+#### Swim
+
+_The published version of _Mythras Imperative_ has no explicit rules for Swim movement at different gaits or speeds. Classic Fantasy Imperative again ties armor penalties to Encumbrance:_
+
+- _Under normal conditions a character's maximum swimming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders swimmers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces swim distance to 0 or less, the character automatically begins drowning (see Asphyxiation)._
 
 </details>
 
