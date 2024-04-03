@@ -440,7 +440,7 @@ A souped-up luxury car, sports car or similar, this car is built to go fast and 
 | **Size / Type** | Medium Military |
 | **Hull** | 6 |
 | **Structure** | 40 |
-| **Systems** | 3 |
+| **Systems** | 2 |
 | **Speed** | Fast |
 | **Handling** | Easy |
 | **Traits** | [Ejector Seat](0006_Vehicles.md?id=ejector-seat), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Weaponized](0006_Vehicles.md?id=weaponized) |
@@ -459,7 +459,7 @@ A lightweight, fast motorcycle for fast pursuits, the Pursuit Motorcycle carries
 | **Size / Type** | Small Civilian |
 | **Hull** | 2 |
 | **Structure** | 12 |
-| **Systems** | 3 |
+| **Systems** | 1 |
 | **Speed** | Fast |
 | **Handling** | Easy |
 | **Traits** | [Superior Handling](0006_Vehicles.md?id=superior-handling), [Weaponized](0006_Vehicles.md?id=weaponized) |
@@ -478,7 +478,7 @@ A standard 4-door sedan featuring enough space to comfortably seat a driver and 
 | **Size / Type** | Medium Civilian |
 | **Hull** | 4 |
 | **Structure** | 25 |
-| **Systems** | 3 |
+| **Systems** | 2 |
 | **Speed** | Rapid |
 | **Handling** | Standard |
 | **Traits** | [Unobtrusive](0006_Vehicles.md?id=unobtrusive), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite) |
@@ -497,7 +497,7 @@ A two-person car that can switch to waterborne or submersible mode to travel on 
 | **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 25 |
-| **Systems** | 3 |
+| **Systems** | 2 |
 | **Speed** | Fast |
 | **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Submersible](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
@@ -516,7 +516,7 @@ A plain, unmarked van housing a team of agents and a suite of audio-visual recor
 | **Size / Type** | Large Civilian |
 | **Hull** | 9 |
 | **Structure** | 60 |
-| **Systems** | 4 |
+| **Systems** | 3 |
 | **Speed** | Gentle |
 | **Handling** | Standard |
 | **Traits** | [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Tough](0006_Vehicles.md?id=tough) |
@@ -535,7 +535,7 @@ A pickup or jeep with room for a two-person crew in the cabin and a gunner stand
 | **Size / Type** | Medium Civilian |
 | **Hull** | 6 |
 | **Structure** | 30 |
-| **Systems** | 3 |
+| **Systems** | 2 |
 | **Speed** | Rapid |
 | **Handling** | Standard |
 | **Traits** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Weaponized](0006_Vehicles.md?id=weaponized) |
@@ -557,7 +557,7 @@ A typical speedboat, armed with a rear-mounted mine dispenser.
 | **Size / Type** | Medium Civilian |
 | **Hull** | 3 |
 | **Structure** | 24 |
-| **Systems** | 3 |
+| **Systems** | 2 |
 | **Speed** | Fast |
 | **Handling** | Standard |
 | **Traits** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
@@ -679,7 +679,7 @@ This extremely high-tech starship is the physical representation of a highly adv
 | **Size / Type** | Colossal Civilian Spaceship |
 | **Hull** | 20 |
 | **Structure** | 10,000 |
-| **Systems** | 30 |
+| **Systems** | 6 |
 | **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
 | **Handling** | Formidable |
 | **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Space Craft](0006_Vehicles.md?id=space-craft),[Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
