@@ -1,520 +1,520 @@
-# الشخصيات
+# Characters
 
-يتحكم كل لاعب في _Mythras Imperative_ بشخصية. الشخصية هي الأنا الأخرى للاعب، وعادة ما تكون مختلفة تمامًا، جسديًا وذهنيًا، عن اللاعب. يمكن أن تكون الشخصيات من مجموعة متنوعة من الأجناس، وفقًا لإعداد اللعبة؛ سيحتوي الإعداد التاريخي على البشر فقط، بينما يمكن أن يشمل الإعداد الخيالي الأقزام، الجان وحتى رجال السحالي. تُعرّف الشخصية الأساسية بسلسلة من العناصر المختلفة التي تصف قدرات الشخصية. هذه العناصر هي:
+Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
-- **السمات الشخصية:** مثل القوة أو الكاريزما
-- **السمات:** أشياء مثل الطول أو الحركة
-- **المهارات:** الخبرة في القدرات الأساسية
+- **Characteristics:** such as Strength or Charisma
+- **Attributes:** things like Height or Movement
+- **Skills:** expertise in fundamental abilities
 
-تُصوّر معظم هذه العناصر بالأرقام، وبعضها يعتمد على أو يُحسب من الآخرين. ما يعنيه كل عنصر، وكيفية تحديدها، موضح في الأقسام التالية.
-
----
-## الخطوة 1: مفهوم الشخصية
-
-نقطة بداية جيدة هي أن يكون لديك فكرة عن نوع الشخصية التي تريد لعبها: محارب ماكر ربما، أو مهرب متمرس. ربما تفضل أكاديميًا دراسيًا، أو ساحرًا حكيمًا. لا يحتاج مفهوم شخصيتك إلى أن يكون متقنًا في هذه المرحلة؛ مجرد فكرة ستساعد في توجيه بعض الخيارات مثل الثقافة والمهنة.
+Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
 
 ---
-## الخطوة 2: السمات الشخصية
+## Step 1: Character Concept
 
-يُعرّف كل فرد بسبع سمات شخصية تخبرك شيئًا عن شخصيتك؛ مدى قوتهم أو سرعتهم؛ مدى ذكائهم أو صحتهم. السمات الشخصية هي جوهر كل شخصية في _Mythras Imperative_ وتشكل الأساس لمعظم العناصر الأخرى مثل السمات والمهارات. السمات الشخصية السبع هي:
-
-- القوة (STR)
-- البنية (CON)
-- الحجم (SIZ)
-- البراعة (DEX)
-- الذكاء (INT)
-- القوة الروحية (POW)
-- الكاريزما (CHA)
-
-قبل حساب السمات الشخصية، يشرح القسم التالي ما يمثله كل منها.
-
-#### القوة (STR)
-
-تمثل القوة البدنية: مقدار ما يمكن رفعه، ومدى قوة الضرب، وما إلى ذلك. القوة هي مكون في معدل الضرر. إذا انخفضت قوة الشخصية إلى الصفر، فإنها تفتقر إلى القدرة على الحركة أو رفع الأشياء.
-
-#### البنية (CON)
-
-البنية هي مقياس للصحة والمتانة. البنية هي مكون في تحديد نقاط الإصابة ومعدل الشفاء. إذا انخفضت البنية إلى الصفر لأي سبب من الأسباب، فإن الشخصية تموت.
-
-#### الحجم (SIZ)
-
-يقيس الحجم الكتلة ويساعد في تحديد الطول والوزن. يُستخدم الحجم للمساعدة في تحديد نقاط الإصابة، حيث تميل الكائنات الأكبر والأثقل إلى امتلاك قدرة أكبر على تحمل الضرر. يمكن استخدام الحجم أيضًا لتحديد معدل الضرر للشخصية، حيث تساعد الكتلة في زيادة قوة الضربة.
-
-#### البراعة (DEX)
-
-تقاس خفة الحركة، والتوازن، وردود الأفعال بالبراعة. إنها جانب مهم من نقاط الحركة والمبادرة. إذا انخفضت براعة الشخصية إلى الصفر، فإنها تعاني من شلل وظيفي.
-
-#### الذكاء (INT)
-
-الذكاء هو مقياس للقدرة المعرفية. أولئك الذين لديهم درجة ذكاء أقل ليسوا بالضرورة أغبياء، لكنهم على الأرجح مقيدون في مدى إبداعهم في استخدام ذكائهم. الذكاء عامل في حساب نقاط الحركة والمبادرة. إذا انخفض الذكاء إلى الصفر، تصبح الشخصية بلا عقل تمامًا.
-
-#### القوة الروحية (POW)
-
-القوة الروحية هي مقياس لروح الشخصية، أو محركها الداخلي، أو قدرتها على السحر. تتحكم القوة الروحية في نقاط سحر الشخصية ونقاط الحظ. إذا انخفضت قوة الشخصية الروحية إلى الصفر، فإنها تفقد كل إرادة مستقلة.
-
-#### الكاريزما (CHA)
-
-الكاريزما هي مقياس للحضور والشخصية وهي مستقلة عن المظهر الجسدي. تؤثر الكاريزما على معدل الخبرة للشخصية. إذا انخفضت الكاريزما إلى الصفر، لا يمكن للشخصية التفاعل اجتماعيًا مع الآخرين، وتصبح خجولة للغاية أو غير اجتماعية لدرجة أنها تُتجاهل أو حتى تُطرد.
+A good place to start is to have some idea of what sort of character you want to play: a cunning warrior perhaps, or a wily smuggler. Maybe you prefer a studious academic, or a sagacious magician. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Culture and Career.
 
 ---
-### حساب السمات الشخصية
+## Step 2: Characteristics
 
-كل سمة شخصية لها قيمة عددية لتحديد مدى قوتها. الرقم الموجود بين قوسين بعد كل درجة نرد هو المتوسط العرقي ويستخدم كمقياس لتقييم نتائج شخصيتك عند مقارنتها بأفراد آخرين من جنسها. تشمل اقتراحات تحديد سماتك الشخصية ما يلي:
+Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Mythras_ _Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
 
-- **رمي النرد:** قم برمي النرد للقوة، والبنية، والحجم، والبراعة، والذكاء، والقوة الروحية، والكاريزما، مع أخذ كل درجة تم رميها كما هي. نظرًا لأن نتائج هذه الرميات يمكن أن تكون عشوائية إلى حد ما، فغالبًا ما يكون من الأفضل تحديد مفهوم الشخصية بعد رمي النرد. وإلا، فقد تمنع السمات النهائية دورًا متصورًا مسبقًا. ارمِ 3نرد6 للقوة، والبنية، والبراعة، والقوة الروحية، والكاريزما؛ ثم 2نرد6+6 للحجم والذكاء.
-- **رمي النرد، تعيين:** كما هو الحال أعلاه، باستثناء أنه يجوز للاعب تبادل القيم بين السمات الشخصية بنفس نطاق النرد. على سبيل المثال، عند إنشاء إنسان، يمكن للاعب تبديل القيم بين القوة، والبنية، والبراعة، والقوة الروحية، والكاريزما، حيث يتشاركون نطاق 3نرد6، أو بين الحجم والذكاء، اللذين يتشاركان نطاق 2نرد6+6 - ولكن يجب أن يكونا دائمًا من نفس مجموعة نطاق النرد؛ لا يمكنك تبديل الرميات من مجموعة إلى أخرى.
-- **رمي النرد، عالي:** قم برمي نرد إضافي واحد كما هو موضح للقوة، والبنية، والحجم، والبراعة، والذكاء، والقوة الروحية، والكاريزما، واسقط أقل نتيجة من كل منها.
-- **بناء بالنقاط:** يقوم اللاعبون بتعيين درجات السمات الشخصية من مجموعة محددة مسبقًا من 80 نقطة. لا يمكن أن تكون السمات الشخصية أقل من القيمة الدنيا التي تم رميها، ولا أعلى من القيمة القصوى.
+- Strength (STR)
+- Constitution (CON)
+- Size (SIZ)
+- Dexterity (DEX)
+- Intelligence (INT)
+- Power (POW)
+- Charisma (CHA)
+
+Before calculating the Characteristics, the following section explains what each represents.
+
+#### Strength (STR)
+
+STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier. If a character is reduced to zero STR they lack the ability to move or lift objects.
+
+#### Constitution (CON)
+
+CON is measure of health and hardiness. CON is a component in determining Hit Points and Healing Rate. If CON falls to zero for any reason the character dies.
+
+#### Size (SIZ)
+
+SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure Hit Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+
+#### Dexterity (DEX)
+
+Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative. If a character is reduced to zero DEX, they suffer functional paralysis.
+
+#### Intelligence (INT)
+
+INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zero, the character becomes completely mindless.
+
+#### Power (POW)
+
+POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points. If a character's POW ever drops to zero, they lose all independent will.
+
+#### Charisma (CHA)
+
+Charisma is a measure of presence and personality and is independent of physical appearance. CHA affects a character's Experience Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ---
-## الخطوة 3: السمات
+### Calculating Characteristics
 
-كل شخصية لديها أيضًا مجموعة من السمات. هذه هي القدرات المستمدة من السمات الشخصية أو المحددة بواسطتها والتي تستخدم للتحكم في عوامل معينة في اللعب.
+Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
-#### نقاط الحركة
+- **Dice Roll:** Roll dice for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
+- **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range — but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
+- **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
+- **Points Build:** Players assign Characteristic scores from a predetermined pool of 80 points. Characteristics cannot be lower than the minimum rolled value, nor higher than the maximum.
 
-تحدد نقاط الحركة عدد المرات التي يمكن للشخصية أن تتصرف فيها في جولة قتال. جميع شخصيات _Mythras Imperative_ لديها نقطتا حركة.
+---
+## Step 3: Attributes
 
-#### معدل الضرر
+Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-قد تكتسب الشخصيات والكائنات الأكبر والأقوى ضررًا إضافيًا في مواقف معينة؛ على العكس من ذلك، قد تقلل الشخصيات الأضعف والأصغر الضرر الذي يمكن أن تلحقه. يُستخدم معدل الضرر بشكل عام في مواقف القتال ولكن يمكن استخدامه أيضًا عند محاولة كسر الأشياء. معدل الضرر هو رمي نرد إضافي يُضاف أو يُطرح من الضرر الذي يلحقه السلاح أو الأداة. إذا أدى معدل ضرر سلبي إلى انخفاض ضرر السلاح إلى صفر أو أقل، فلن يتم إلحاق أي ضرر على الإطلاق.
+#### Action Points
 
-اجمع القوة والحجم معًا واستشر جدول معدل الضرر أدناه.
+How often a character can act in a Combat Round is determined by Action Points. All _Mythras_ _Imperative_ characters have 2 Action Points.
 
-##### جدول معدل الضرر
+#### Damage Modifier
 
-| القوة+الحجم | معدل الضرر |
+Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker and smaller characters may reduce the damage they can inflict. The Damage Modifier is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+
+Add together STR and SIZ and consult the Damage Modifier table, below.
+
+##### Damage Modifier Table
+
+| STR+SIZ | Damage Modifier |
 | :-: | :-:|
-| 5 أو أقل | –1نرد8 |
-| 6–10 | –1نرد6 |
-| 11–15 | –1نرد4 |
-| 16–20 | –1نرد2 |
+| 5 or less | –1d8 |
+| 6–10 | –1d6 |
+| 11–15 | –1d4 |
+| 16–20 | –1d2 |
 | 21–25 | +0 |
-| 26–30 | +1نرد2 |
-| 31–35 | +1نرد4 |
-| 36–40 | +1نرد6 |
-| 41–45 | +1نرد8 |
-| 46–50 | +1نرد10 |
-| 51–60 | +1نرد12 |
-| 61–70 | +2نرد6 |
-| 71–80 | +1نرد8+1نرد6 |
-| 81–90 | +2نرد8 |
-| 91–100 | +1نرد10+1نرد8 |
-| 101–110 | +2نرد10 |
-| 111–120 | +2نرد10+1نرد2 |
-| كل 10 نقاط | استمر في التقدم |
+| 26–30 | +1d2 |
+| 31–35 | +1d4 |
+| 36–40 | +1d6 |
+| 41–45 | +1d8 |
+| 46–50 | +1d10 |
+| 51–60 | +1d12 |
+| 61–70 | +2d6 |
+| 71–80 | +1d8+1d6 |
+| 81–90 | +2d8 |
+| 91–100 | +1d10+1d8 |
+| 101–110 | +2d10 |
+| 111–120 | +2d10+1d2 |
+| Each 10 points | Continue Progression |
 
-#### معدل الخبرة
+#### Experience Modifier
 
-على مدار اللعب، تحسن الشخصيات مهاراتها وقدراتها. يتم تحقيق ذلك باستخدام رميات الخبرة المشروحة بمزيد من التفصيل في قسم [نظام اللعبة](0004_Game_System.md?id=experience-rolls).
+Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0004_Game_System.md?id=experience-rolls) section.
 
-قد تعدل درجة الكاريزما للشخصية عدد رميات الخبرة التي تتلقاها الشخصية، مما يعكس العلاقة التي تربطها بأقرانها وسمعتها في المجتمع. مع الكاريزما العالية، يكون الناس على استعداد للمساعدة في تدريب أو دعم الشخصية أثناء خضوعها للتدريس. على العكس من ذلك، مع الكاريزما المنخفضة بشكل خاص، قد يكون هناك بعض الصعوبة في تحسين قدرات المرء دون مساعدة الآخرين؛ على سبيل المثال، إيجاد شخص للمبارزة معه.
+A character's CHA score may adjust the number of Experience Rolls the character receives, reflecting the relationship they have with their peers and their reputation in the community. With a high CHA people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, with particularly low CHA, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-##### جدول معدل الخبرة
+##### Experience Modifier Table
 
-| الكاريزما | معدل الخبرة |
+| CHA | Exp. Modifier |
 |:-:| :-:|
-| 6 أو أقل | -1 |
+| 6 or less | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
-| كل 6 نقاط | +1 |
+| Each 6 points | +1 |
 
-#### معدل الشفاء
+#### Healing Rate
 
-بعد تلقي الإصابات، تحتاج الشخصية إلى التعافي. يحدد معدل الشفاء مدى سرعة تعافيها طبيعيًا من الجروح. اعتمادًا على شدة الإصابة، يشير معدل الشفاء إلى عدد نقاط الإصابة التي يتم استردادها يوميًا، أسبوعيًا، أو شهريًا.
+After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury, the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-##### جدول معدل الشفاء
+##### Healing Rate Table
 
-| البنية | معدل الشفاء |
+| CON | Healing Rate |
 | :-:| :-:|
-| 6 أو أقل | 1 |
+| 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| كل 6 نقاط | +1 |
+| Each 6 points | +1 |
 
-#### نقاط الإصابة
+#### Hit Points
 
-تمثل نقاط الإصابة مدى الضرر الذي يمكن أن تتحمله منطقة من الجسم قبل أن تصبح بلا فائدة، مما قد يؤدي إلى العجز وفي النهاية موت الشخصية. ينقسم جسم كل كائن إلى مواقع منفصلة - البشر، على سبيل المثال، لديهم سبعة: الرأس، الصدر، البطن، الذراعين، والساقين - كل موقع بنقاط إصابة خاصة به.
+Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven: the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
-بعض الكائنات، مثل الوحوش أو فئات مختلفة من الحيوانات، بطبيعتها غالبًا ما يكون لديها هياكل جسدية مختلفة جذريًا، ومع ذلك لا يزال لكل موقع يمتلكونه نقاط إصابة. عندما تنخفض نقاط إصابة موقع إلى مستوى معين بسبب أي نوع من الضرر، فإن الشخصية تعاني من عواقب معينة تعكس شدة الإصابة. لمزيد من المعلومات المتعلقة بالجروح، راجع قسم [مستويات الضرر والجروح](0004_Game_System.md?id=damage-and-wound-levels).
+Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the [Damage and Wound Levels](0004_Game_System.md?id=damage-and-wound-levels) section.
 
-لحساب نقاط الإصابة لكل موقع، اجمع البنية والحجم معًا وقارن النتيجة في جدول نقاط الإصابة أعلاه.
+To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table, above.
 
-##### نقاط الإصابة لكل موقع
+##### Hit Points per Location
 
-| الموقع | البنية+الحجم |  |  |  |  |  |  |  |  |
+| Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
-| الرأس | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| الصدر | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
-| البطن | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| كل ذراع | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| كل ساق | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
+| Each Arm | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
-#### المبادرة
+#### Initiative
 
-اللحظة التي يتفاعل فيها شخص ما في القتال تحكمها المبادرة. تعمل المبادرة كمعدل لرميات المبادرة؛ كلما كانت المبادرة أعلى، كلما كان رد الفعل أسرع في موقف القتال، مما يحدد متى يمكنك التصرف. عوامل أخرى - الدروع على سبيل المثال - تعدلها. يوضح فصل [القتال](0005_Combat.md?id=combat-style) بمزيد من التفصيل كيفية استخدام المبادرة.
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0005_Combat.md?id=combat-style) chapter goes into more detail on how Initiative is used.
 
-المبادرة هي متوسط سمات البراعة والذكاء.
+Initiative is the average of the DEX and INT Characteristics.
 
-#### نقاط الحظ
+#### Luck Points
 
-تمثل نقاط الحظ تلك القوة الغريبة التي تميز الأبطال المغامرين عن الناس العاديين. سمها قدرًا، أو كرمة، أو حظًا جيدًا بسيطًا. يمكن استخدام نقاط الحظ من أجل:
+Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
-- إعادة رمي النرد إذا كانت غير مواتية.
-- تخفيف الضرر الجسدي أو الظروف المؤسفة الأخرى.
-- الحصول على ميزة في لحظة حاسمة في القتال.
+- Re-roll the dice if they are unfavorable.
+- Mitigate physical damage or other unfortunate circumstances.
+- Gain an edge at a vital moment in combat.
 
-يصف قسم [نظام اللعبة](0004_Game_System.md?id=game-system) بالضبط كيفية استخدامها ومتى. بمجرد إنفاق نقطة حظ، تتناقص المجموعة؛ عندما تنفد نقاط الحظ، لا تتوفر المزيد - إلا إذا منح سيد اللعبة مكافأة مرتجلة - حتى جلسة اللعب التالية عندما تتجدد إلى قيمتها الطبيعية.
+Exactly how they are used, and when, is described in the [Game System](0004_Game_System.md?id=game-system) section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-##### جدول نقاط الحظ
+##### Luck Points Table
 
-| القوة الروحية | نقاط الحظ |
+| POW | Luck Points |
 | :-- | :-: |
-| 6 أو أقل | 1 |
+| 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| كل 6 نقاط | +1 |
+| Each 6 points | +1 |
 
-#### نقاط السحر
+#### Magic Points
 
-القدرات الصوفية، والقوى، والتعاويذ المستخدمة في _Mythras Imperative_ تعتمد عادة على نقاط السحر. نظرًا لأن توفر السحر قد يكون محدودًا من خلال إعداد الحملة أو لمهن سحرية محددة، فإن بعض الشخصيات ستجد هذه السمة زائدة عن الحاجة.
+Mystical abilities, powers and spells used in _Mythras_ _Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
-بالنسبة لأولئك الذين يمكنهم استخدام مثل هذه القوى، فإن نقاط سحر الشخصية تساوي نقاط قوتهم الروحية. تستخدم هذه النقاط لإلقاء التعاويذ، وتعتمد تكلفتها على نوع السحر المستخدم. عندما ينفد نقاط السحر من مستخدمي السحر، فإنهم يستنفدون قدرتهم على إلقاء أي تعاويذ حتى تتجدد نقاط السحر.
+For those who can use such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points, they have exhausted their ability to cast any spells until Magic Points are replenished.
 
-#### معدل الحركة
+#### Movement Rate
 
-كل كائن حي لديه معدل حركة - عدد الأمتار التي يمكن قطعها خلال فترة زمنية محددة. لا يُحسب معدل الحركة من الخصائص ولكنه قيمة افتراضية تختلف من نوع لآخر. معدل الحركة الأساسي للبشر هو 6 أمتار.
+Every creature has a Movement Rate – a number of metres that can be travelled during a specific period of time. Movement is not calculated from Characteristics but is a default value which differs from species to species. The base Movement Rate for humans is 6 metres.
 
-تطبق الخطوات الأسرع من المشي مضاعفًا على معدل الحركة:
-- **الجري:** الحركة ×3
-- **العدو السريع:** الحركة ×5
+Gaits faster than Walk apply a multiplier to the Move rating:
+- **Run:** Move x3  
+- **Sprint:** Move x5
 
 <details>
 
-<summary>* تصحيحات المجتمع</summary>
+<summary>* Community Errata</summary>
 
-_**طرق المشي: المشي، الجري، العدو السريع**_
+_**Gaits: Walk, Run, Sprint**_
 
-_الإصدار المنشور من _Mythras Imperative_ لا يحتوي على قواعد صريحة للحركة بسرعات مختلفة على الرغم من أنها مشمولة في كتاب القواعد الأساسية لـ Mythras. تمت إضافة مضاعفات المشي المذكورة أعلاه كجزء من تصحيحات المجتمع._
+_The published version of _Mythras Imperative_ has no explicit rules for moving at different Gaits though they are covered in the Mythras core rulebook. The Gait multipliers above have been added as part of the Community Errata._ 
 
-_حيثما يلزم، يجب أن يكون كافيًا التعامل مع طرق المشي على النحو التالي:_
+_Where required it should be enough to treat Gaits as follows:_
 
-- _تطبق طرق المشي الأسرع من المشي مضاعفًا على معدل الحركة: 3 أضعاف للجري، 5 أضعاف للعدو السريع._
-- _أثناء الجري أو العدو السريع، لا تستطيع الشخصيات محاولة معظم الإجراءات الاستباقية مثل الهجوم أو إلقاء التعاويذ. تتضمن بعض الاستثناءات..._
-  - _الهجمات عند استخدام قواعد الشحن._
-  - _إطلاق الأسلحة بعيدة المدى ذات خاصية المناوشة._
-- _كقاعدة عامة، يجب اعتبار أي إجراءات مسموح بها أصعب بدرجة واحدة عند الجري، ودرجتين أصعب عند العدو السريع._
+- _Gaits faster than Walk apply a multiplier to the Move rating: 3x for Run, 5x for Sprint._
+- _While at a Run or Sprint Gait, characters cannot attempt most proactive actions like attacking or casting spells. Some exceptions include..._
+  - _Attacks when using the Charging rules._
+  - _Firing ranged weapons with the Skirmishing trait._ 
+- _As a general rule, any allowed actions should be treated as one Grade harder to pull off at a Run, and two Grades harder at a Sprint._
+
 
 </details>
 
 ---
-## الخطوة 4: المهارات
+## Step 4: Skills
 
-تنقسم المهارات إلى فئتين. يمتلك الجميع مهارات قياسية - مثل التسلل أو التأثير على الآخرين. أما المهارات المهنية، فهي تلك التي تتطلب تدريبًا خاصًا قبل محاولة القيام بها - مثل تتبع الحيوانات البرية، أو قيادة المركبات الفضائية، أو فهم اللغات القديمة. تُمنح الشخصيات ثلاث مجموعات من النقاط لإنفاقها على اكتساب المهارات؛ المجموعة الأولى للثقافة التي نشأوا فيها، والثانية للمهنة التي يتبنونها بعد الطفولة، والأخيرة لاستكمال مجموعة مهاراتهم. كقيمة افتراضية، يخصص اللاعبون الجدد 100 نقطة لمجموعة مهارات الثقافة، و 100 لمجموعة مهارات المهنة، و 150 نقطة إضافية أخرى لاستكمال المجموعة. تحتوي كل ثقافة ومهنة على نطاق محدد من المهارات القياسية والمهنية التي يمكن تخصيص نقاط المهارة هذه لها.
+Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft, or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
-##### أسلوب القتال
+##### Combat Style
 
-يُدرج أسلوب القتال في الأوصاف الثقافية التي تلي ذلك. تُشرح أساليب القتال بشكل كامل في قسم [القتال](0005_Combat.md?id=combat-style) ولها نسبة مئوية أساسية تساوي القوة+البراعة.
+Combat Style is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
 
-##### المهارات القياسية
+##### Standard Skills
 
-| المهارة | النسبة المئوية الأساسية |
+| Skill | Basic Percentage |
 | :-- | :-- |
-| ألعاب القوى | قوة+براعة |
-| الملاحة | قوة+بنية |
-| العضلات | قوة+حجم |
-| الإخفاء | براعة+قوة روحية |
-| العادات | ذكاء ×2، +40\* |
-| الرقص | براعة+كاريزما |
-| الخداع | ذكاء+كاريزما |
-| القيادة | براعة+قوة روحية |
-| القدرة على التحمل | بنية ×2 |
-| التهرب | براعة ×2 |
-| الإسعافات الأولية | ذكاء+براعة |
-| التأثير | كاريزما ×2 |
-| البصيرة | ذكاء+قوة روحية |
-| المنطقة المحلية | ذكاء ×2 |
-| اللغة الأم | ذكاء+كاريزما، +40\* |
-| الإدراك | ذكاء+قوة روحية |
-| الركوب | براعة+قوة روحية |
-| الغناء | كاريزما+قوة روحية |
-| التخفي | براعة+ذكاء |
-| السباحة | قوة+بنية |
-| غير مسلح | قوة+براعة |
-| قوة الإرادة | قوة روحية ×2 |
+| Athletics | STR+DEX |
+| Boating | STR+CON |
+| Brawn | STR+SIZ |
+| Conceal | DEX+POW |
+| Customs | INT x2, +40\* |
+| Dance | DEX+CHA |
+| Deceit | INT+CHA |
+| Drive | DEX+POW |
+| Endurance | CON x2 |
+| Evade | DEX x2 |
+| First Aid | INT+DEX |
+| Influence | CHA x2 |
+| Insight | INT+POW |
+| Locale | INT x2 |
+| Native Tongue | INT+CHA, +40\* |
+| Perception | INT+POW |
+| Ride | DEX+POW |
+| Sing | CHA+POW |
+| Stealth | DEX+INT |
+| Swim | STR+CON |
+| Unarmed | STR+DEX |
+| Willpower | POW x2 |
 
-_\* تتضمن مكافأة ثابتة قدرها +40% لكل من العادات واللغة الأم للشخصية (الشائعة للبشر)._
-
----
-## الخطوة 5: الثقافة
-
-تحدد الثقافة نوع المجتمع الذي نشأت فيه الشخصية، وبالتالي تحدد بعض وجهات النظر والفلسفات التي قد يمتلكها أو تمتلكها. عمليًا، تساعد الثقافة في زيادة قيم المهارات المختلفة التي تشكل القدرات الكلية لشخصيتك. هناك أربع ثقافات بشرية أساسية: البربرية، المتحضرة، البدوية، والبدائية. تدرج كل خلفية ثقافية مجموعة من المهارات القياسية المناسبة لها وتدعو اللاعب لاختيار ما يصل إلى ثلاث من المهارات المهنية المقدمة: بهذه الطريقة يمكن للاعبين من نفس الخلفية الثقافية التأكد من أن مغامراتهم مختلفة في المجالات التي طوروها. قم بتوزيع 100 نقطة مهارة ثقافية بين المهارات القياسية المدرجة في المهنة وأي مهارات مهنية تم اختيارها، مع زيادة كل مهارة بنسبة 1% لكل نقطة يتم إنفاقها على تحسينها. قد يرغب Games Masters في تطبيق حد أقصى لعدد نقاط المهارة التي يمكن تطبيقها على أي مهارة معينة.
-
-### البربرية
-
-البرابرة، بطبيعتهم القبلية، يميلون إلى تجنب الحضارة، وينظرون إلى أولئك الذين يعيشون في المدن والبلدات الكبيرة على أنهم ضعفاء وفاسدون. على الرغم من أن مستوطناتهم الخاصة هي أيضًا مستقرة، إلا أنها تميل إلى أن تكون أصغر بكثير وأقرب إلى الطبيعة. تحتل القبائل البربرية مناطق مميزة، وغالبًا ما تكون برية شبه مستأنسة، والتي يعتبرونها ملكًا لهم لأغراض الصيد والرعي والزراعة. معظمهم ماهرون في استخدام الأسلحة حيث يجب عليهم التغلب على العديد من المخاطر طوال حياتهم - مواجهة مخلوقات البرية أو التجمع للدفاع عن أراضيهم ضد القبائل المتنافسة. نظرًا لأنهم يعيشون في مجتمعات صغيرة، فإن روابط القرابة والعشيرة هي عناصر قوية في مجتمعهم.
-
-#### المهارات
-
-- **المهارات القياسية:** ألعاب القوى، العضلات، القدرة على التحمل، الإسعافات الأولية، المنطقة المحلية، الإدراك؛ وإما الملاحة أو الركوب. بالإضافة إلى ذلك، يمكن للاعب أيضًا اختيار أسلوب قتال ثقافي.
-- **المهارات المهنية:** حرفة (أي)، شفاء، معرفة (أي)، مهارة موسيقية، مهارة ملاحية، مهارة بحرية، بقاء، تتبع.
-
-### المتحضرة
-
-تجسد الثقافة المتحضرة مظهرًا من القانون والنظام، مدعومًا برموز اجتماعية معقدة، ومدعومًا ببيروقراطية. يعتقد المتحضرون أنفسهم متفوقين على جميع الثقافات الأخرى لأن إنجازاتهم تميل نحو الديمومة: مدن مترامية الأطراف، معابد مهيبة، آثار احتفالية، وتسجيل التاريخ والأحداث في الكتب، وشواهد القبور، واللفائف. بالطبع، هذا مجرد قشرة رقيقة. يمكن أن تكون أكثر المدن تحضرًا أكثر فوضى من أي مستوطنة حدودية بربرية؛ وقد تكون الرموز الاجتماعية أكثر خشونة من طقوس الضيافة للبدو. لكن الثقافة المتحضرة تفخر بإنجازاتها، وبنيتها التحتية، وحرفييها المحترفين، وقدرتها على توسيع نطاق وصولها بسهولة إلى أي مكان ترغب في الذهاب إليه.
-
-#### المهارات
-
-- **المهارات القياسية:** الإخفاء، الخداع، القيادة، التأثير، البصيرة، المنطقة المحلية، قوة الإرادة. بالإضافة إلى ذلك، يمكن للاعب أيضًا اختيار أسلوب قتال ثقافي.
-- **المهارات المهنية:** فن (أي)، تجارة، حرفة (أي)، مجاملة، لغة (أي)، معرفة (أي)، مهارة موسيقية، معرفة الشارع.
-
-### البدوية
-
-البدو يتنقلون باستمرار، بلا منزل أو موطن يسمونه خاصتهم. قد يتجولون بلا هدف أو قد يكون لديهم عدة مخيمات يتنقلون بينها على مدار العام. يزرعون القليل من المحاصيل وبدلاً من ذلك يتبعون هجرات الحيوانات أو الأسماك، وربما حتى يرعون حيواناتهم الأليفة. يتميز البدو ببراعتهم في العيش على ما يمكنهم جمعه بسرعة وسهولة من محيطهم، دون إضاعة أي شيء. يجب أن تُكيّف مهارات الثقافة البدوية مع بيئتهم. يسافر البعض لمسافات شاسعة سيرًا على الأقدام، بينما يعيش آخرون في قوافل أو يركبون مخلوقات غريبة، وبعضهم ينجرف عبر المحيطات على أطواف كبيرة عائمة.
-
-#### المهارات
-
-- **المهارات القياسية:** القدرة على التحمل، الإسعافات الأولية، المنطقة المحلية، الإدراك، التخفي؛ واثنتان مما يلي: ألعاب القوى، الملاحة، السباحة، القيادة أو الركوب حسب وسيلة التنقل الأساسية. بالإضافة إلى ذلك، يمكن للاعب أيضًا اختيار أسلوب قتال ثقافي.
-- **المهارات المهنية:** حرفة (أي)، ثقافة (أي)، لغة (أي)، معرفة (أي)، مهارة موسيقية، مهارة ملاحية، بقاء، تتبع.
-
-### البدائية
-
-من بين جميع الشعوب، البدائيون هم أولئك الذين يعيشون أقرب ما يكونون إلى الأرض، متناغمين مع أسرارها الخفية. يعيشون في مجموعات عائلية ممتدة، وتتجمع الثقافات البدائية حول مساكن بسيطة جدًا يمكن أن تتراوح من الكهوف ومناطق المأوى الطبيعية إلى الملاجئ المؤقتة أو الأكواخ الأساسية جدًا. عادة ما يكون البدائيون صيادين وجامعين ولديهم عدد قليل، أو أنظمة زراعة وتربية ضعيفة التطور.
-
-ومع ذلك، يمكن أن تكون بعض المعتقدات الثقافية، التي غالبًا ما تستند إلى الخرافات، محددة جيدًا. عدد قليل من الثقافات البدائية طورت أي شيء يقترب من لغة مكتوبة على الرغم من أن اللوحات والرموز التصويرية الأخرى تعمل كوسيلة للتواصل.
-
-#### المهارات
-
-- **المهارات القياسية:** العضلات، القدرة على التحمل، التهرب، المنطقة المحلية، الإدراك، التخفي؛ وواحدة من: ألعاب القوى، الملاحة أو السباحة. بالإضافة إلى ذلك، يمكن للاعب أيضًا اختيار أسلوب قتال ثقافي.
-- **المهارات المهنية:** حرفة (أي)، شفاء، معرفة (أي)، مهارة موسيقية، مهارة ملاحية، بقاء، تتبع.
+_\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans)._
 
 ---
-## الخطوة 6: المهنة
+## Step 5: Culture
 
-يبدأ كل لاعب اللعبة بعد أن تم تدريبه في مهنة. قد لا تكون المهنة المختارة بالضرورة هي التي تستمر الشخصية في اتباعها مع بداية حياة المغامرة، ولكنها المهنة التي بدأها كجزء من الانتقال إلى مرحلة البلوغ وتزيد من تحديد تطور المهارات. تقدم كل مهنة مجموعة من المهارات القياسية المناسبة لها وتسمح للاعب باختيار ما يصل إلى ثلاث من المهارات المهنية المدرجة. قم بتوزيع 100 نقطة مهارة مهنة بين المهارات القياسية المدرجة في المهنة وأي مهارات مهنية تم اختيارها، مع زيادة كل مهارة بنسبة 1% لكل نقطة يتم إنفاقها على تحسينها. كما هو الحال مع الثقافات، قد يطبق سيد اللعبة حدًا أقصى لعدد نقاط المهارة التي يمكن تطبيقها على أي مهارة معينة.
+Culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies he or she might have. More practically, culture helps augment the values of the various skills that shape your character's overall capabilities. There are four basic human cultures: Barbarian, Civilized, Nomadic and Primitive. Each cultural background lists a range of Standard skills appropriate to it and invites the player to pick up to three of the presented Professional skills: in this way players from the same cultural background can ensure that their adventurers are different in the areas they have developed. Distribute 100 Culture skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. Games Masters may wish to apply a cap to how many skill points can be applied to any particular skill.
 
-المهارات المهنية المحددة، مثل الطيار، من غير المرجح أن توجد في عالم خيالي. تُناقش المهارات بشكل كامل في فصل [المهارات](0002_Characters.md?id=step-4-skills).
+### Barbarian
 
-#### جدول المهن
+Tribal in nature, barbarians tend to shun civilization, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
 
-| اسم المهنة | المهارات القياسية | المهارات المهنية |
+#### Skills
+
+- **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
+
+### Civilized
+
+The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tombstones, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
+
+#### Skills
+
+- **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
+
+### Nomadic
+
+Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
+
+#### Skills
+
+- **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:**  Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
+
+### Primitive
+
+Of all peoples, primitives are those that live closest with the land, in tune with its hidden secrets. Living in extended family groups, primitive cultures gather around very simple dwellings that can range from caves and areas of natural shelter through to lean-tos or very basic huts. Primitives are typically hunter-gatherers with either few, or poorly developed, systems for farming and husbandry.
+
+However, certain cultural beliefs, often based on superstitions, can be very well defined. Few primitive cultures have developed anything approaching a written language although paintings and other pictorial symbols serve as a means of communication.
+
+#### Skills
+
+- **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In addition, the player may also choose a cultural Combat Style.
+- **Professional Skills:** Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
+
+---
+## Step 6: Career
+
+Every character starts the game having been trained in a career. The occupation chosen may not necessarily be the one the character continues to follow as the character begins adventuring life, but it is the career embarked on as part of the transition to adulthood and it further defines skill development. Each career presents a range of Standard skills appropriate to it and permits the player to pick up to three of the listed Professional skills. Distribute 100 Career Skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. As with cultures a Games Master may apply a cap to how many skill points can be applied to any particular skill.
+
+Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the [Skills](0002_Characters.md?id=step-4-skills) chapter.
+
+#### Careers Table
+
+| Career Name | Standard Skills | Professional Skills |
 | :-- | :-- | :-- |
-| عميل (محرض، قاتل، محقق، مخبر، جاسوس...) | إخفاء، خداع، تهرب، بصيرة، إدراك، تخفي؛ أسلوب قتال (عميل محدد أو أسلوب ثقافي) | ثقافة (أي)، تمويه، لغة (أي)، خفة يد، معرفة الشارع، بقاء، تتبع |
-| مربي وحوش (مربي حيوانات، مروض وحوش، حارس حديقة حيوان...) | قيادة، قدرة على التحمل، إسعافات أولية، تأثير، منطقة محلية، ركوب، قوة إرادة | حرفة (تربية حيوانات)، تجارة، شفاء (نوع محدد)، معرفة (نوع محدد)، بقاء، تعليم (نوع محدد)، تتبع |
-| صائد مكافآت (وكيل إنفاذ كفالة، قاتل مكافآت، صائد فروة رأس، متعقب هارب...) | ألعاب القوى، قدرة على التحمل، تهرب، بصيرة، إدراك، تخفي؛ أسلوب قتال (أي) | بيروقراطية، تجارة، ثقافة (أي)، لغويات، معرفة الشارع، بقاء (أي)، تتبع |
-| فنانة (عشيقة، مرافقة، فتاة حريم، حورية، محبوبة...) | عادات، رقص، خداع، تأثير، بصيرة، إدراك، غناء | فن (أي)، مجاملة، ثقافة (أي)، قمار، لغة (أي)، مهارة موسيقية، إغواء |
-| حرفي (صانع، فنان...) | عضلات، قيادة، تأثير، بصيرة، منطقة محلية، إدراك، قوة إرادة | فن (أي)، تجارة، حرفة (أساسي)، حرفة (ثانوي)، هندسة، آليات، معرفة الشارع |
-| محقق (محقق خاص، شرطي، محقق خاص، متحري...) | عادات، تهرب، تأثير، بصيرة، إدراك، تخفي؛ أسلوب قتال (غير مسلح أو أسلحة جانبية) | بيروقراطية، ثقافة (أي)، تمويه، لغويات، معرفة (أي)، بحث، خفة يد، معرفة الشارع |
-| فنان (بهلوان، شاعر، راقص، ممثل، شاعر...) | ألعاب القوى، عضلات، رقص، خداع، تأثير، بصيرة، غناء | بهلوانية، تمثيل، خطاب، مهارة موسيقية، إغواء، خفة يد، معرفة الشارع |
-| مزارع (صاحب عقار، بستاني، فلاح...) | ألعاب القوى، عضلات، قيادة، قدرة على التحمل، منطقة محلية، إدراك، ركوب | تجارة، حرفة (أي)، معرفة (زراعة)، معرفة (تربية حيوانات)، مهارة ملاحية، بقاء، تتبع |
-| صياد (جامع صدف، مربي شباك، غواص لؤلؤ، صائد حيتان...) | ألعاب القوى، ملاحة، قدرة على التحمل، منطقة محلية، إدراك، تخفي، سباحة | تجارة، حرفة (أي)، معرفة (صيد أساسي)، معرفة (صيد ثانوي)، مهارة ملاحية، مهارة بحرية، بقاء |
-| مقامر (صانع مراهنات، لاعب ورق، محتال...) | ألعاب القوى، عضلات، قدرة على التحمل، منطقة محلية، إدراك، قوة إرادة؛ وإما قيادة أو ركوب | تمثيل، بيروقراطية، تجارة، مجاملة، قمار، بحث، خفة يد، معرفة الشارع |
-| راعي (مربي، راعي غنم، حارس إوز مقدس، راعي بقر...) | قدرة على التحمل، إسعافات أولية، بصيرة، منطقة محلية، إدراك، ركوب؛ أسلوب قتال (رعي محدد أو أسلوب ثقافي) | تجارة، حرفة (تربية حيوانات)، شفاء (نوع محدد)، مهارة ملاحية، مهارة موسيقية، بقاء، تتبع |
-| صياد (حارس غابة، صائد غير شرعي، جامع، متعقب، مصطاد...) | ألعاب القوى، قدرة على التحمل، منطقة محلية، إدراك، ركوب، تخفي؛ أسلوب قتال (صيد محدد أو أسلوب ثقافي) | تجارة، حرفة (متعلقة بالصيد)، معرفة (إقليمية أو نوع محدد)، آليات، مهارة ملاحية، بقاء، تتبع |
-| صحفي (معلق، كاتب، جامع أخبار، رجل صحافة...) | عادات، خداع، تأثير، بصيرة، منطقة محلية، لغة أم، إدراك | بيروقراطية، ثقافة (أي)، لغة (أي)، معرفة (أي)، خطاب، سياسة، معرفة الشارع |
-| ساحر (ساحر، مشعوذ، ساحرة، عالم سحر...) | عادات، خداع، تأثير، بصيرة، منطقة محلية، إدراك، قوة إرادة | ثقافة، سحر، معرفة قراءة وكتابة، معرفة ×2، خطاب، خفة يد |
-| ميكانيكي (مهندس، ميكانيكي سيارات...) | عضلات، ثقافة، قيادة، قدرة على التحمل، تأثير، منطقة محلية، قوة إرادة | تجارة، حرفة (أساسي)، حرفة (ثانوي)، إلكترونيات، قمار، آليات، معرفة الشارع |
-| تاجر (سمسار، بائع متجول، مقرض مال، مهرب، تاجر...) | ملاحة، قيادة، خداع، بصيرة، تأثير، منطقة محلية، ركوب | تجارة، مجاملة، ثقافة (أي)، لغة (أي)، مهارة ملاحية، مهارة بحرية، معرفة الشارع |
-| عامل منجم (منقب، عامل محجر، عامل حفر، حافر آبار...) | ألعاب القوى، عضلات، قدرة على التحمل، منطقة محلية، إدراك، غناء، قوة إرادة | تجارة، حرفة (تعدين)، هندسة، معرفة (معادن)، آليات، مهارة ملاحية (تحت الأرض)، بقاء |
-| مسؤول (وزير، مشرف، وكيل، جابي ضرائب...) | عادات، خداع، تأثير، بصيرة، منطقة محلية، إدراك، قوة إرادة | بيروقراطية، تجارة، مجاملة، لغة (أي)، معرفة قراءة وكتابة، معرفة (أي)، خطاب |
-| طبيب (طبيب، معالج، طبيب شعبي، معذب، مشرّح أحياء...) | رقص، إسعافات أولية، تأثير، بصيرة، منطقة محلية، غناء، قوة إرادة | تجارة، حرفة (تخصص فسيولوجي محدد)، شفاء، لغة (أي)، معرفة قراءة وكتابة (أي)، معرفة (أي)، معرفة الشارع |
-| طيار (طيار، رائد فضاء، طيار استعراضي، طيار اختبار...) | عضلات، قيادة، قدرة على التحمل، تهرب، منطقة محلية، إدراك، قوة إرادة | عادات (أي)، إلكترونيات، آليات، مهارة ملاحية، طيار، مجسات، معرفة الشارع |
-| سياسي (موظف مدني، مسؤول حكومي، وزير، مشرف، وكيل...) | عادات، خداع، تأثير، بصيرة، منطقة محلية، لغة أم، إدراك | بيروقراطية، مجاملة، ثقافة (أي)، لغة (أي)، معرفة (أي)، خطاب، سياسة |
-| كاهن (حكم، عابد، درويد، متسول، نبي...) | عادات، رقص، خداع، تأثير، بصيرة، منطقة محلية، قوة إرادة | بيروقراطية، مجاملة، عادات، معرفة قراءة وكتابة (أي)، معرفة (أي)، خطاب، سياسة |
-| بحار (قبطان، عبد مجداف، جندي بحري، قرصان، رجل طوف...) | ألعاب القوى، ملاحة، عضلات، قدرة على التحمل، منطقة محلية، سباحة؛ أسلوب قتال (بحار محدد أو أسلوب ثقافي) | حرفة (تخصص على متن السفينة)، ثقافة (أي)، لغة (أي)، معرفة (أي)، مهارة ملاحية، مهارة بحرية، بقاء |
-| باحث (مؤرخ، أمين مكتبة، فيلسوف، سكالد، ناسخ...) | عادات، تأثير، بصيرة، منطقة محلية، لغة أم، إدراك، قوة إرادة | ثقافة (أي)، لغة (أي)، معرفة قراءة وكتابة (أي)، معرفة (أساسي)، معرفة (ثانوي)، خطاب، تعليم |
-| عالم (أمين أرشيف، أمين مكتبة، فيلسوف...) | عادات، تأثير، بصيرة، منطقة محلية، لغة أم، إدراك، قوة إرادة | ثقافة (أي)، هندسة، لغة (أي)، خطاب، بحث، علم (أي)، تعليم |
-| كشاف (صائد مكافآت، مستكشف، رائد، حارس غابة، رحالة...) | ألعاب القوى، قدرة على التحمل، إسعافات أولية، إدراك، تخفي، سباحة؛ أسلوب قتال (صيد محدد أو أسلوب ثقافي) | ثقافة (أي)، شفاء، لغة (أي)، معرفة (أي)، مهارة ملاحية، بقاء، تتبع |
-| خادم (مساعد، كبير الخدم، سائق خاص، خادمة منزل، مربية، كبير الخدم، خادم خاص، سكرتير...) | عادات، خداع، قيادة، تأثير، بصيرة، منطقة محلية، إدراك | بيروقراطية، مجاملة، حرفة (متعلقة بالخدمة)، ثقافة (أي)، لغة (أي)، سياسة، معرفة الشارع |
-| مهرب (تاجر سوق سوداء، مهرب خمور، مهرب أسلحة...) | إخفاء، عادات، خداع، قيادة، تأثير، بصيرة، منطقة محلية | بيروقراطية، تجارة، عادات (أي)، لغة (أي)، مهارة ملاحية، معرفة الشارع؛ وإما ملاحة فلكية أو ملاحة بحرية |
-| تقني (كهربائي، مساعد مختبر...) | عضلات، قيادة، قدرة على التحمل، تأثير، منطقة محلية، إدراك، قوة إرادة | اتصالات، حرفة (أي)، إلكترونيات، قمار، آليات، علم (أي)، مجسات |
-| لص (سارق، محتال، سمسار مسروقات، سارق، سارق قبور...) | ألعاب القوى، خداع، تهرب، بصيرة، إدراك، تخفي؛ أسلوب قتال (لص محدد أو أسلوب ثقافي) | تمثيل، تجارة، تمويه، فتح الأقفال، آليات، خفة يد، معرفة الشارع |
-| محارب (حارس شخصي، مرتزق، مقاتل حفرة، جندي...) | ألعاب القوى، عضلات، قدرة على التحمل، تهرب، غير مسلح؛ أسلوب قتال (أسلوب عسكري)، أسلوب قتال (أسلوب ثقافي) | حرفة (أي)، هندسة، قمار، معرفة (تاريخ عسكري)، معرفة (استراتيجية وتكتيكات)، خطاب، بقاء |
+| Agent (Agitator, Assassin, Detective, Informer, Spy…) | Conceal, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Agent or Cultural Style) | Culture (any), Disguise, Language (any), Sleight, Streetwise, Survival, Track |
+| Beast Handler (Animal Breeder, Beast Tamer, Menagerie Keeper…) | Drive, Endurance, First Aid, Influence, Locale, Ride, Willpower | Craft (Animal Husbandry), Commerce, Healing (Specific Species), Lore (Specific Species), Survival, Teach (Specific Species), Track |
+| Bounty Hunter (Bail enforcement agent, Bounty killer, Scalp hunter, Skip tracer…) | Athletics, Endurance, Evade, Insight, Perception, Stealth; Combat Style (any) | Bureaucracy, Commerce, Culture (any), Linguistics, Streetwise, Survival (any), Track |
+| Courtesan (Concubine, Escort, Harem-girl, Houri, Paramour…) | Customs, Dance, Deceit, Influence, Insight, Perception, Sing | Art (any), Courtesy, Culture (any), Gambling, Language (any), Musicianship, Seduction |
+| Crafter (Artificer, Artisan…) | Brawn, Drive, Influence, Insight, Locale, Perception, Willpower | Art (any), Commerce, Craft (Primary), Craft (Secondary), Engineering, Mechanisms, Streetwise |
+| Detective (Gumshoe, Policeman, Private Eye, Private Investigator, Sleuth…) | Customs, Evade, Influence, Insight, Perception, Stealth; Combat Style (Unarmed or Side Arms style) | Bureaucracy, Culture (any), Disguise, Linguistics, Lore (any), Research, Sleight, Streetwise |
+| Entertainer (Acrobat, Bard, Dancer, Player, Poet…) | Athletics, Brawn, Dance, Deceit, Influence, Insight, Sing | Acrobatics, Acting, Oratory, Musicianship, Seduction, Sleight, Streetwise |
+| Farmer (Estate Owner, Gardener, Plowman…) | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft (any), Lore (Agriculture), Lore (Animal Husbandry), Navigation, Survival, Track |
+| Fisher (Beach Comber, Net Tender, Pearl Diver, Whaler…) | Athletics, Boating, Endurance, Locale, Perception, Stealth, Swim | Commerce, Craft (Any), Lore (Primary Catch), Lore (Secondary Catch), Navigation, Seamanship, Survival |
+| Gambler (Bookie, Cardsharp, Hustler…) | Athletics, Brawn, Endurance, Locale, Perception, Willpower; and either Drive or Ride | Acting, Bureaucracy, Commerce, Courtesy, Gambling, Research, Sleight, Streetwise |
+| Herder (Breeder, Herdsman, Sacred Goose Tender, Wrangler…) | Endurance, First Aid, Insight, Locale, Perception, Ride; Combat Style (Specific Herding or Cultural Style) | Commerce, Craft (Animal Husbandry), Healing (Specific Species), Navigation, Musicianship, Survival, Track |
+| Hunter (Forester, Poacher, Scavenger, Stalker, Trapper…) | Athletics, Endurance, Locale, Perception, Ride, Stealth; Combat Style (Specific Hunting or Cultural Style) | Commerce, Craft (Hunting Related), Lore (Regional or Specific Species), Mechanisms, Navigation, Survival, Track |
+| Journalist (Commentator, Hack, Newshound, Pressman…) | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Culture (any), Language (any), Lore (any), Oratory, Politics, Streetwise |
+| Magician (Mage, Sorcerer, Witch, Wizard…) | Customs, Deceit, Influence, insight, Locale, Perception, Willpower | Culture, Magic, Literacy, Lore x2, Oratory, Sleight |
+| Mechanic (Engineer, Grease monkey…) | Brawn, Culture, Drive, Endurance, Influence, Locale, Willpower | Commerce, Craft (primary), Craft (secondary), Electronics, Gambling, Mechanisms, Streetwise |
+| Merchant (Broker, Hawker, Money Lender, Smuggler, Trader… | Boating, Drive, Deceit, Insight, Influence, Locale, Ride | Commerce, Courtesy, Culture (any), Language (any), Navigation, Seamanship, Streetwise |
+| Miner (Prospector, Quarryman, Sapper, Well Digger…) | Athletics, Brawn, Endurance, Locale, Perception, Sing, Willpower | Commerce, Craft (Mining), Engineering, Lore (Minerals), Mechanisms, Navigation (Underground), Survival |
+| Official (Minister, Overseer, Steward, Tax Collector…) | Customs, Deceit, Influence, Insight, Locale, Perception, Willpower | Bureaucracy, Commerce, Courtesy, Language (any), Literacy, Lore (any), Oratory |
+| Physician (Doctor, Healer, Medicine Man, Torturer, Vivisectionist…) | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft (Specific Physiological Specialty), Healing, Language (any), Literacy (any), Lore (any), Streetwise |
+| Pilot (Aeronaut, Astronaut, Barnstormer, Flyboy, Test Pilot…) | Brawn, Drive, Endurance, Evade, Locale, Perception, Willpower | Customs (any), Electronics, Mechanisms, Navigation, Pilot, Sensors, Streetwise |
+| Politician (Civil Servant, Mandarin, Minister, Overseer, Steward…) | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Courtesy, Culture (any), Language (any), Lore (any), Oratory, Politics |
+| Priest (Arbiter, Cultist, Druid, Mendicant, Prophet…) | Customs, Dance, Deceit, Influence, Insight, Locale, Willpower | Bureaucracy, Courtesy, Customs, Literacy (any), Lore (any), Oratory, Politics |
+| Sailor (Captain, Galley Slave, Marine, Pirate, Raft man…) | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style (Specific Sailor or Cultural Style) | Craft (Specific Shipboard Specialty), Culture (any), Language (any), Lore (any), Navigation, Seamanship, Survival |
+| Scholar (Annalist, Librarian, Philosopher, Skald, Scribe…) | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Language (any), Literacy (any), Lore (Primary), Lore (Secondary), Oratory, Teach |
+| Scientist (Archivist, Librarian, Philosopher…) | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Engineering, Language (any), Oratory, Research, Science (any), Teach |
+| Scout (Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer…) | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style (Specific Hunting or Cultural Style) | Culture (any), Healing, Language (any), Lore (any), Navigation, Survival, Track |
+| Servant (Aide, Butler, Chauffeur, House Maid, Governess, Majordomo, Manservant, Personal Assistant, Secretary…) | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft (service related), Culture (any), Language (any), Politics, Streetwise |
+| Smuggler (Black Marketer, Bootlegger, Gun Runner…) | Conceal, Customs, Deceit, Drive, Influence, Insight, Locale | Bureaucracy, Commerce, Customs (any), Language (any), Navigation, Streetwise; and either Astrogation or Seamanship |
+| Technician (Electrician, Laboratory Assistant…) | Brawn, Drive, Endurance, Influence, Locale, Perception, Willpower | Comms, Craft (any), Electronics, Gambling, Mechanisms, Science (any), Sensors |
+| Thief (Burglar, Conman, Fence, Mugger, Tomb Robber…) | Athletics, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Thief or Cultural Style) | Acting, Commerce, Disguise, Lockpicking, Mechanisms, Sleight, Streetwise |
+| Warrior (Bodyguard, Mercenary, Pit Fighter, Soldier…) | Athletics, Brawn, Endurance, Evade, Unarmed; Combat Style (Military Style), Combat Style (Cultural Style) | Craft (any), Engineering, Gambling, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival |
 
 ---
-## الخطوة 7: نقاط المهارة الإضافية
+## Step 7: Bonus Skill Points
 
-كخطوة أخيرة، يتم تخصيص مجموعة أخيرة من 150 نقطة مهارة لاستكمال الشخصية. يمكن تطبيق هذه النقاط على أي مهارة قياسية، أو على المهارات المهنية التي تم اكتسابها كجزء من الثقافة أو المهنة. مرة أخرى، قد يطبق سيد اللعبة حدًا أقصى لعدد نقاط المهارة التي يمكن تطبيقها على أي مهارة معينة.
+As a final step, a last pool of 150 skill points is assigned to round out the character. These may be applied to any Standard skill, or those Professional skills gained as part of Culture or Career. Once again, a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
-### إنشاء شخصيات ذات خبرة
+### Creating Experienced Characters
 
-يوصى بأن تبدأ الشخصيات المبتدئة من نقطة الصفر، مع القليل من الخبرة العملية أو بدونها. بالطبع، سيعتمد مستوى الشخصيات بشكل كبير على الإعداد وما إذا كانت اللعبة ستكون مغامرة قصيرة لمرة واحدة أو حملة طويلة الأمد. من الشائع أيضًا للاعب إنشاء شخصية أكثر خبرة إذا كان يحل محل شخصية ماتت في اللعب أو عند الانضمام إلى حملة موجودة.
+It is recommended that beginning characters start fresh, with little or no practical experience. Of course, the level of the characters will depend greatly on the setting and whether the game will be a short one-off adventure or a long-running campaign. It is also common for a player to create a more experienced character if replacing one that has died in play or when joining an existing campaign.
 
-يُقدم جدول يوضح الخبرة حسب الفئات العمرية. ترتبط خبرة الشخصية ارتباطًا مباشرًا بالعمر وكفاءة المهارات؛ فمن الطبيعي أن تتمتع الشخصيات الأكثر خبرة بخبرة حياتية أكبر من رفقائهم الأصغر سنًا. ومع ذلك، يجب التعامل مع مكافأة العمر المذكورة على أنها تقريبية، حيث تتقدم الحملات بمعدلات مختلفة - فبعض الحملات تمر بفترات طويلة من وقت اللعب بين المغامرات بينما تكون الأخرى سلسلة طويلة من المغامرات المتواصلة. عند تحويل شخصية موجودة، ما عليك سوى استبدال العمر الفعلي بالعمر المذكور في الجدول.
+A table is provided, breaking experience into Age Categories. A character's experience has a direct correlation to age and skill competence; more experienced characters naturally have more life experience than their younger compatriots. However, the noted Age Bonus should be treated as approximate, as campaigns advance at different rates — some campaigns have lots of game time pass between adventures while others are one long string of unbroken adventures. When converting an existing character, simply substitute the actual age for that noted on the table.
 
-#### جدول الخبرة
+#### Experience Table
 
-| الفئة | العمر | نقاط مهارة إضافية | أقصى زيادة في المهارة |
+| Category | Age | Bonus Skill Points | Maximum Skill Increase |
 | :-- | :-: | :-: | :-: |
-| شاب | 10+1نرد6 | 100 | +10 |
-| بالغ | 15+2نرد6 | 150 | +15 |
-| في منتصف العمر | 25+3نرد6 | 200 | +20 |
-| كبير السن | 40+4نرد6 | 250 | +25 |
-| عجوز | 60+5نرد6 | 300 | +30 |
+| Young | 10+1d6 | 100 | +10 |
+| Adult | 15+2d6 | 150 | +15 |
+| Middle Aged | 25+3d6 | 200 | +20 |
+| Senior | 40+4d6 | 250 | +25 |
+| Old | 60+5d6 | 300 | +30 |
 
-#### ملاحظات جدول الخبرة
+#### Experience Table Notes
 
-- تحدد نقاط المهارة الإضافية عدد النقاط التي يجب أن تنفقها الشخصية على تطوير المهارات.
-- يحدد الحد الأقصى لزيادة المهارة عدد نقاط المكافأة التي يمكن تطبيقها على أي مهارة واحدة.
+- Bonus Skill Points determine how many points the character must spend on developing skills.
+- Maximum Skill Increase limits how many of the Bonus Points can be applied to any one Skill.
 
-### هرم المهارات
+### The Skill Pyramid
 
-عملية تخصيص نقاط المهارة في _Mythras Imperative_ تستمد 350 نقطة من ثلاثة مصادر: الثقافة (100)، المهنة (100) ونقاط المهارة الإضافية (150). قد يكون تخصيص هذه النقاط يستغرق وقتًا طويلاً، ولا شك أن هناك أوقاتًا يكون فيها تحديد ثقافة الشخصية غير مهم جدًا، أو أن اللاعب لديه مهنة معينة في ذهنه لا تخدمها النماذج في القواعد الأساسية بسهولة. يُقدم هنا نظام بديل لتوزيع نقاط المهارة، عندما يكون الوقت ضيقًا أو عندما يكون اللاعبون متحمسين.
+_Mythras Imperative_'s skill point allocation process derives 350 points from three sources: Culture (100), Career (100) and Bonus Skill Points (150). Allocating these points can be time consuming, and there are no doubt times where determining a character's Culture isn't so important, or the player has a particular Occupation in mind that isn't readily served by the templates in the core rules. An alternative system for apportioning skill points, for when time is pressing or when players are eager, is presented here.
 
-بدلاً من تخصيص النقاط من مجموعات نقاط المهارة الثقافية والمهنية والإضافية، يُستخدم هرم المهارات بدلاً من ذلك. يقسم هذا الهرم 350 نقطة إلى خمس كتل من النقاط الثابتة، على النحو التالي:
+Instead of allocating points from the Cultural, Career and Bonus Skill Points pools, the Skills Pyramid is used instead. This divides 350 points into five blocks of fixed points, as follows:
 
-مهارة واحدة بنسبة 50%، مهارتان بنسبة 40%، ثلاث مهارات بنسبة 30%، أربع مهارات بنسبة 20%، خمس مهارات بنسبة 10%.
+1 skill at 50%, 2 skills at 40%, 3 skills at 30%, 4 skills at 20%, 5 skills at 10%.
 
-الذي يشكل هرمًا مفيدًا. ما عليك سوى شطب كل قيمة بمجرد تخصيصها.
+Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
 ```
-      50
+    50
 
-    40 40
+   40 40
 
-   30 30 30
+  30 30 30
 
-  20 20 20 20
+ 20 20 20 20
 
 10 10 10 10 10
 ```
 
-#### بعض القواعد البسيطة
+#### A Few Simple Rules
 
-- يجب تخصيص جميع النقاط من الهرم.
-- لا يمكن لأي مهارة أن تحصل على أكثر من تخصيص واحد من الهرم.
-- تحصل مهارتا العادات واللغة الأم على +40، كما هو الحال في القواعد الأساسية، بالإضافة إلى أي تخصيصات تم إجراؤها من الهرم.
-- العواطف التي تحصل على القيم المذكورة في قسم [العواطف](0002_Characters.md?id=step-8-passions)، بالإضافة إلى أي تخصيصات تم إجراؤها من الهرم.
-- لا يمكن لأي مهارة أن تتجاوز 80% من نتيجة التخصيص. لذلك، إذا كانت الشخصية لديها قوة 16 وبراعة 17، كأساس 33%، فلا يمكن للاعب تخصيص قيمة 50 نقطة لأسلوب قتال.
-- يجب تخصيص ست من القيم للمهارات المهنية.
-- لا يزال بإمكان الشخصيات اختيار ثقافة ومهنة، واستخدام المهارات المدرجة في الوصف المناسب كدليل لتخصيصاتها، أو يمكن أن تكون التخصيصات حرة تمامًا.
-- يوصى بتخصيص قيمة واحدة على الأقل لأسلوب قتال، ولكن هذا ليس إلزاميًا.
-- يتمتع سيد اللعبة دائمًا بالقول الفصل.
+- All points from the pyramid must be allocated.
+- No skill can have more than one allocation from the pyramid.
+- Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramid.
+- Passions which gain the values noted in the [Passions](0002_Characters.md?id=step-8-passions) section, and in addition to any allocations made from the pyramid.
+- No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50-point value to a Combat Style.
+- Six of the values must be allocated to Professional Skills.
+- Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
+- It is recommended that at least one of the values be allocated to a Combat Style, but this isn't mandatory.
+- The Games Master always has the final say.
 
-### بطولات أكبر من الحياة
+### Larger-Than-Life Heroics
 
-يتعامل _Mythras Imperative_ بشكل أساسي مع البشر العاديين، ولكن في بعض الأحيان تتطلب الحملة شيئًا آخر، خاصة إذا كانت تتطلب بطولات خاصة، أو تدور أحداثها في بيئة أكشن بولب، حيث يميل الأبطال والأشرار إلى أن يكونوا أكبر من الحياة.
+_Mythras Imperative_ deals primarily with normal human beings, but occasionally a campaign requires something else, especially if it demands special heroics, or takes place in a Pulp Action setting, where heroes and villains tend to be larger than life.
 
-قد لا يمتلك هؤلاء الأبطال قوى خارقة بحد ذاتها (على الرغم من أنه إذا كانت مرغوبة، فيمكن استخدام فصل السحر والقوى)، لكنهم أقوى قليلاً، وأسرع قليلاً، وأكثر مرونة قليلاً، وعادة ما يكونون أقوى إرادة بكثير. فكر في بربري معين من سيميريا؛ عميل خاص مرخص له بالقتل؛ رجل من البرونز؛ حارس ليلي مقنع هو أيضًا ملياردير بلاي بوي - أو أي عدد من الشخصيات البطولية الشهيرة. إنهم يواجهون في كثير من الأحيان مواقف قد ينهار فيها الإنسان العادي؛ ولكن كأبطال، يمكنهم تحمل كل ما يلقيه عليهم الحبكة، والعيش للمشاركة في المغامرة التالية (نسبيًا) دون إصابات.
+Such heroes may not necessarily have superpowers per se (although if these are desired, the Magic and Powers chapter can be used), but they are a bit stronger, a bit faster, a bit more resilient and usually a lot more strong-willed. Think of a certain barbarian from Cimmeria; a special agent who is licensed to kill; a man of bronze; a caped vigilante who is also a billionaire playboy – or any number of popular heroic characters. They frequently face situations where a normal human would crumble; but as heroes, they can withstand whatever the plot throws at them, and live to engage in the next adventure (relatively) unscathed.
 
-إذا كنت تنوي تقديم هذه الأنواع من الشخصيات في ألعابك، فتأكد من أن جميع اللاعبين لديهم شخصيات بنفس المستوى. تم تصميم هذه الأنواع من الشخصيات لتكون مؤثرة وتقود الحركة؛ قد تُترك الشخصيات العادية (ما لم يكن لديها فائدة السحر، أو أي ميزة أخرى) في الظل.
+If you intend to introduce these character types into your games, then make sure that all players have characters at the same level. These character types are designed to chew the scenery and drive the action; mundane characters (unless they have the benefit of magic, or some other advantage) may well be left in the shade.
 
-### شخصيات أبطال اللب
+### Pulp Hero Characters
 
-هؤلاء هم أبطال اللب التقليديون. ليسوا أبطالًا خارقين أو أنصاف آلهة، وطلقة بندقية جيدة التوجيه ستنهي حياتهم، لكنهم أقوى، أذكى، أكثر قدرة، وبشكل عام، خطوة أو خطوتين فوق الناس العاديين. كما أن حياتهم تميل إلى أن تكون مليئة بالمغامرات. بينما يمكن لشخصية بطولية أن تختار محاولة الاستقرار وقيادة حياة غير حافلة بالأحداث، غالبًا ما تجد المتاعب أو شخص محتاج طريقه إلى باب الشخصية.
+These are traditional Pulp Heroes. They aren't superheroes or demigods, and a well-placed shotgun blast will still end their life, but they are tougher, smarter, more able, and in general, a step or two above ordinary people. Also, their lives tend to be filled with adventure. While a Heroic character can choose to attempt to settle down and lead an uneventful life, often trouble or someone in need will find their way to the character's door.
 
-#### السمات الشخصية
+#### Characteristics
 
-عند إنشاء شخصيات أبطال اللب، استخدم طريقة رمي النرد وتعيين القيم في قسم [الشخصيات](0002_Characters.md?id=calculating-characteristics). ارمِ 4 نرد6 وتجاهل أقل نرد، خمس مرات، ثم عيّن النتائج للقوة، والبنية، والبراعة، والقوة الروحية، والكاريزما. بعد ذلك، ارمِ 3نرد6+6 وتجاهل أقل نرد مرتين وعيّن هذه الأرقام للحجم والذكاء. إذا كنت تستخدم طريقة بناء النقاط، فإن اللاعبين يبنون شخصيتهم من مجموعة محددة مسبقًا من 90 نقطة.
+When generating Pulp Heroic characters, use the Dice Roll Assign method in the [Characters](0002_Characters.md?id=calculating-characteristics) section. Roll 4d6 and discard the lowest die, five times, and then assign the results to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6 and discard the lowest die twice and assign these numbers to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 90 points.
 
-#### السمات
+#### Attributes
 
-تُحسب هذه السمات كالمعتاد، باستثناء أن شخصيات أبطال اللب تكتسب ميزتين مختارتين مما يلي (لاحظ أنه لا يمكن تجميع المزايا):
+These are calculated as per normal, except that Pulp Heroic characters gain two Advantages chosen from the following (note that advantages cannot be stacked):
 
-- +1 نقطة حركة
-- +1 نقطة حظ
-- +1 نقطة إصابة لكل موقع إصابة
-- تصبح رميات القدرة على التحمل أسهل بدرجة واحدة
-- تصبح رميات التخفي أسهل بدرجة واحدة
-- تصبح رميات قوة الإرادة أسهل بدرجة واحدة
+- +1 Action Point
+- +1 Luck Point
+- +1 Hit Point to each Hit Location
+- Endurance rolls are one Grade easier
+- Stealth rolls are one Grade Easier
+- Willpower rolls are one Grade easier
 
-تُضاعف جميع شخصيات أبطال اللب معدل شفائها عند المعاناة من جروح طفيفة أو خطيرة، على الرغم من أن الجروح الكبيرة تُعالج بمعدل الشفاء القياسي للشخصية.
+All Pulp Heroic characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
 
-#### المهارات
+#### Skills
 
-تكتسب شخصيات أبطال اللب 50 نقطة مهارة إضافية لتخصيصها حسب الحاجة.
+Pulp Heroic characters gain an additional 50 Bonus Skill Points to allocate as needed.
 
-### شخصيات النموذج الأعلى
+### Paragon Characters
 
-شخصيات النموذج الأعلى هي قمم التميز. في حين أن عالم آثار يمسك بسوط وعميل سري مرخص بالقتل هما شخصيات أبطال لب، فإن ذلك البربري، ورجل البرونز، ومحقق فارس الظلام، وشيرلوك هولمز هم شخصيات نموذج أعلى. شخصيات النموذج الأعلى ليست فقط كفؤة للغاية في مجال خبرة واحد: بل إنهم عادة ما يتفوقون في عدة مجالات. مخترع وفيزيائي لامع هو أيضًا بطل حرب مسلح بيده وبنادقه، هو مثال ممتاز لشخصية نموذج أعلى؛ ملياردير بلاي بوي مكافح للجريمة درس مع ألمع العقول البوليسية في العالم هو مثال آخر. قد يمتلك شخصيات النموذج الأعلى العديد من الشهادات الجامعية، وثروة مستقلة، ومحسنين غامضين، بالإضافة إلى العديد من أشكال الخبرة الأخرى.
+Paragon characters are epitomes of excellence. While a certain whip-wielding archaeologist and a licensed-to-kill super-spy are Pulp Heroic characters, that Cimmerian, Man of Bronze, Dark Knight Detective, and Sherlock Holmes are Paragon characters. Paragon characters aren't merely supremely competent in one area of expertise: they usually excel at several. A brilliant inventor and physicist who is also a two-fisted, crack-shot war hero, is an excellent example of a Paragon character; A billionaire playboy crime fighter who studied with the finest detective minds in the world is another. Paragon characters may well have several college degrees, independent wealth, mysterious benefactors, as well as numerous other forms of experience.
 
-نتيجة لذلك، لن تكون شخصيات النموذج الأعلى مناسبة للجميع، ولكن إذا كانت البيئة تتطلب شخصيات يمكنها تغيير مصير النظام الشمسي بأكمله، أو مواجهة أي تحدٍ، فإن حملة على مستوى النموذج الأعلى تناسب الفاتورة. بينما تتضمن الحملات العادية والبطولية أحيانًا رهانات عالية للغاية مثل مصير الدول أو حتى الكواكب، يجب أن تفعل حملات النموذج الأعلى ذلك بانتظام.
+As a result, Paragon characters won't be for everyone, but if a setting needs characters who can change the destiny of the entire solar system, or take on any challenge, then a Paragon level campaign fits the bill. While both Ordinary and Heroic campaigns occasionally involve exceedingly high stakes like the fate of nations or even planets, Paragon campaigns should regularly do so.
 
-#### السمات الشخصية
+#### Characteristics
 
-عند إنشاء الشخصيات باستخدام طريقة رمي النرد والتعيين في قسم [الشخصيات](0002_Characters.md?id=calculating-characteristics). ارمِ 4نرد6، مع تجاهل أقل نرد ست مرات، ثم عيّن النتائج الخمسة التي تختارها (عادةً، أعلى خمسة) للقوة، والبنية، والبراعة، والقوة الروحية، والكاريزما. بعد ذلك، ارمِ 3نرد6+6، مع تجاهل أقل نرد ثلاث مرات وعيّن النتيجتين التي تختارها (عادةً، أعلى اثنين) للحجم والذكاء. إذا كنت تستخدم طريقة بناء النقاط، فإن اللاعبين يبنون شخصيتهم من مجموعة محددة مسبقًا من 100 نقطة.
+When generating characters using the Dice Roll Assign method in the [Characters](0002_Characters.md?id=calculating-characteristics) section. Roll 4d6, discarding the lowest die six times, then assign the five results of your choice (typically, the highest five) to STR, CON, DEX, POW, and CHA. Next, roll 3d6+6, discarding the lowest die three times and assign the two results of your choice (typically, the highest two) to SIZ and INT. If using the Points Build method, players build their character from a preset pool of 100 points.
 
-#### السمات
+#### Attributes
 
-تُحسب هذه السمات كالمعتاد، باستثناء أن شخصيات النموذج الأعلى تكتسب ثلاث مزايا مختارة مما يلي (لاحظ أنه لا يمكن تجميع المزايا):
+These are calculated as per normal, except that Paragon Characters gain three Advantages chosen from the following (note that advantages cannot be stacked):
 
-- +1 نقطة حركة
-- +2 نقطة حظ
-- +2 نقطة إصابة لكل موقع إصابة
-- تصبح رميات القدرة على التحمل أسهل بدرجة واحدة
-- تصبح رميات التخفي أسهل بدرجة واحدة
-- تصبح رميات قوة الإرادة أسهل بدرجة واحدة
+- +1 Action Point
+- +2 Luck Points
+- +2 Hit Points to each Hit Location
+- Endurance rolls are one Grade easier
+- Stealth rolls are one Grade Easier
+- Willpower rolls are one Grade easier
 
-تُضاعف جميع شخصيات النموذج الأعلى معدل شفائها عند المعاناة من جروح طفيفة أو خطيرة، على الرغم من أن الجروح الكبيرة تُعالج بمعدل الشفاء القياسي للشخصية.
+All Paragon characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
 
-#### المهارات
+#### Skills
 
-تكتسب شخصيات النموذج الأعلى 100 نقطة مهارة إضافية لتخصيصها حسب الحاجة.
+Paragon Heroic characters gain an additional 100 Bonus Skill Points to allocate as needed.
 
 ---
-## الخطوة 8: العواطف
+## Step 8: Passions
 
-تُستخدم العواطف لمساعدة اللاعبين وسادة اللعبة في تعميق طبيعة الشخصية، وتقديم نقاط حبكة مبنية على رغبة الشخصية أو تحيزاتها، ومساعدة اللاعب على فهم من هي شخصيته، وما الذي يدفعها، وما إلى ذلك.
+Passions are used to assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what drives him, and so on.
 
-يمكن أن يكون الشغف لأي شيء - شخص، منظمة، مثالية، حتى كائن. عادة ما تُوصف العواطف بفعل مثل: الرغبة، الازدراء، التدمير، التأييد، الخوف، الهروب، التخلي، الكراهية، الحب، الولاء لـ، الحماية، التنصل، الاحترام، السعي، التخريب، التعذيب، أو التمسك بـ.
+A Passion can be for anything – a person, an organization, an ideal, even an object. Passions are typically described by a verb such as: Desire, Despise, Destroy, Espouse, Fear, Flee, Forswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment, or Uphold.
 
-تُقاس العواطف بنفس طريقة المهارات؛ وتُقيم بين 1 و 100 (أو أعلى). يمكن تحسين العاطفة بنفس طريقة المهارة، أو يمكن زيادتها أو تقليلها بواسطة الحكم اعتمادًا على الظروف.
+Passions are measured in the same way as skills; they are rated between 1 and 100 (or higher). A Passion can be improved in the same way as a skill, or it can be increased or decreased by the referee depending on circumstances.
 
-يمكن أن تبدأ الشخصيات المبتدئة بما يصل إلى ثلاث عواطف، تستند كل منها إلى سمتين شخصيتين، مع مكافأة +40 للأولى، +30 للثانية، و +20 للثالثة - يقرر اللاعب ترتيب الأهمية. يمكن ربط هذه العواطف بثقافته، أو مهنته، أو عيوبه الشخصية. على سبيل المثال، في حملة سيف وسحر، قد تختار الشخصية: كراهية (Stygians)، عدم ثقة (السحرة)، ورغبة (الكحول)؛ بينما في لعبة خيال علمي بائس، قد تختار الشخصية الولاء (الرئيس)، تدمير (الكائنات الفضائية)، والتمسك (القانون) بدلاً من ذلك.
+Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, profession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens), and Uphold (the Law) instead.
 
-#### جدول العاطفة
+#### Passion Table
 
-| موضوع العاطفة | النسبة المئوية الأولية |
-| :-- | :-: |
-| شخص، في سياق رومانسي أو عائلي | قوة روحية+كاريزما |
-| منظمة أو مجموعة من الناس | قوة روحية+ذكاء |
-| عرق أو نوع | قوة الشخصية الروحية ×2 |
-| مكان | قوة الشخصية الروحية+ذكاء |
-| كائن أو مادة | قوة الشخصية الروحية ×2 |
-| سمة شخصية | قوة الشخصية الروحية+كاريزما |
+| Object of Passion | Starting Percentage |
+| :-- | :-- |
+| A person, in a romantic or familial context | POW+CHA |
+| An organization or group of people | POW+INT |
+| A race or species | Character's POW x2 |
+| A place | Character's POW+INT |
+| An object or substance | Character's POW x2 |
+| A personality trait | Character's POW+CHA |
 
-### استخدام العواطف
+### Using Passions
 
-العاطفة هي أي التزام عميق يمكن أن يؤثر على الأحداث أثناء اللعب. على الرغم من أنه يمكن استخدامها كقدرات قائمة بذاتها (تسميتها مهارات هو ظلم لها)، فإن العواطف تتوسع أدناه لشرح بمزيد من التفصيل كيف تعمل وكيف يمكن أن تؤثر على شخصيات وحملات _Mythras Imperative_.
+A Passion is any deeply held commitment that has the capacity to influence events during play. Although they can be used as stand-alone Abilities (to call them skills is to do them a disservice), Passions are further expanded below to explain in more detail how they work and how they can influence _Mythras_ _Imperative_ characters and campaigns.
 
-باختصار، يمكن استخدام العواطف على النحو التالي:
+In summary, Passions can be used thus:
 
-- لتضخيم مهارة أخرى، مما يعكس عمق مشاعر الشخص وكيف تدفع العمل. عند استخدامها بهذا الصدد، تضيف العاطفة 20% من قيمتها إلى مهارة تُستخدم، إذا كان التضخيم مهمًا من الناحية الموضوعية والدرامية.
-- كقدرة لدفع الخيارات والرغبات والأفعال العاطفية والاستجابات. عند استخدامها بهذه الطريقة، تُجرى رمية قياسية ضد العاطفة لتحديد مدى قوة تفكير وشعور الشخصية تجاه شيء ما. إذا كانت الرمية ناجحة، فإن الشخصية تتصرف بما تمليه العاطفة. إذا فشلت الرمية، يمكن للشخصية أن تتصرف بحرية دون الشعور بالتقيد بدوافع العاطفة.
-- لمعارضة العواطف الأخرى - حتى تلك التي تمتلكها نفس الشخصية. يُستخدم هذا عادةً عندما تتعارض عاطفتان. على سبيل المثال، قد تملي محبة شخصية مسار عمل يتعارض مع قسم أو ولاء. هنا، استخدم رمية معارضة بين العاطفتين، مع الأكثر نجاحًا يحدد كيف تتصرف الشخصية.
-- كمقياس عام لعمق الالتزام، والمعتقد، والولاء لسبب ما. كلما ارتفعت قيمة العاطفة، زاد التزام الشخصية. يمكن للشخصيات ذات العواطف المتشابهة مقارنة تقييماتهم لتحديد من يظهر التزامًا أعمق.
-- لمقاومة شكل من أشكال التلاعب النفسي أو الهيمنة السحرية. في حالات معينة حيث تُجبر الشخصية على القيام بعمل يتعارض مع عواطفها، يمكنها استبدال أي منهما بقوة الإرادة في الرمية المعارضة.
+- To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, if the augmentation is thematically and dramatically important.
+- As an Ability to drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
+- To oppose other Passions – even those held by the same character. This is typically used where two Passions would conflict. For instance, a personal love might dictate a course of action that would be contrary to an Oath or Loyalty. Here use an Opposed Roll between the two Passions, with the more successful determining how the character acts.
+- As a general measure of depth of commitment, belief, and loyalty to a cause. The higher the Passion's value, the more committed the character is. Characters with similar Passions can compare their ratings to determine who exhibits the deeper commitment.
+- To resist some form of psychological manipulation or magical domination. In certain cases where a character is being forced into performing an act contrary to their Passions, they may substitute either for Willpower in the Opposed Roll.
 
-يمكن تطوير عواطف جديدة في أي وقت خلال جلسة اللعب إذا استدعت الظروف ذلك. قد يطور المرء على الفور "كراهية X" حيث يفعل شخص آخر شيئًا من شأنه أن يثير الكراهية بقوة. سيد أو رئيس ينادي بقسم من شأنه أن يؤسس على الفور عاطفة "الولاء لـ X" بمجرد أخذ أو أداء هذا القسم.
+New Passions can be developed at any point during a game session if the circumstances warrant it. One might instantly develop 'Hate X' where someone else does something that would strongly invoke hatred to arise. A lord or chief calling for an Oath would immediately establish a Passion of 'Loyalty to X' as soon as that Oath is taken or sworn.
 
-لا تكلف العواطف الجديدة التي تم تطويرها أثناء اللعب بهذه الطريقة أي رميات خبرة وتُنشأ هناك وفي الحال. بالطبع، يمكن للشخصيات أيضًا اختيار إنشاء عاطفة أثناء التحسين، على حساب رمية خبرة لاكتساب عاطفة بقيمتها الأساسية.
+New Passions developed during play in this way cost no Experience Rolls and are established there and then. Of course, characters can also choose to establish a Passion during improvement, at the cost of an Experience Roll to gain a Passion at its Base Value.
 
-### التعمق والتلاشي
+### Deepening and Waning
 
-يمكن أن تزداد العواطف خلال اللعبة بشكل مستقل عن رميات الخبرة، بناءً على قوة ما حدث لتحفيز الزيادة. كما أنها يمكن أن تتلاشى، وتتلاشى بالفعل. يمكن أن تهتز قناعة قوية بالعديد من الأشياء، مما يؤدي إلى تقليل هذه العاطفة أو، في ظروف أكثر تطرفًا، عكسها بالكامل.
+Passions can increase during a game independently of Experience Rolls, based on the strength of whatever occurred to trigger the increase. Also, they can, and do, wane. A strongly held belief can be shaken by many things, leading to that Passion being either reduced or, in more extreme circumstances, reversed completely.
 
-على سبيل المثال، قد تقلل شخصية لديها "ثقة زعيم القبيلة"، إذا تصرف زعيمها بغدر، من عاطفتها أو تتحول إلى "عدم ثقة زعيم القبيلة" بنفس النسبة المئوية. يحتاج سيد اللعبة إلى تحديد ما إذا كانت العاطفة تقل أم تنعكس. إذا تراجعت، فإنها تفعل ذلك وفقًا لقوة مصدر التغيير.
+For instance, a character with 'Trust Chieftain' might, if his chieftain acts treacherously, either reduce his Passion or turn into 'Distrust Chieftain' at the same percentage. The Games Master needs to determine whether a Passion reduces or reverses. If it reduces, then it does so according to the strength of the source of the change.
 
-يوضح جدول التعمق والتلاشي مدى تغير العاطفة.
+The Deepening and Waning table shows by how much the Passion changes.
 
-#### جدول التعمق والتلاشي
+#### Deepening and Waning Table
 
-| عمق التغيير | العاطفة المعدلة بـ |
+| Depth of Change | Passion Modified by |
 | --- | --- |
-| ضعيف | 1نرد10 |
-| متوسط | 1نرد10+5 |
-| قوي | 1نرد10+10 |
+| Weak | 1d10 |
+| Moderate | 1d10+5 |
+| Strong | 1d10+10 |
 
 ---
-## الخطوة 9: المعدات
+## Step 9: Equipment
 
-الآن بعد أن أوشكت الشخصية على الانتهاء، تحتاج إلى بعض المعدات. يمكن أن يشمل ذلك الأسلحة، والدروع، أو غيرها من المستلزمات الهامة المستخدمة في مهنة معينة. أثناء المغامرة، هناك العديد من الفرص للحصول على المزيد من المعدات، ولكن كل شخصية تبدأ اللعبة لديها في حوزتها الفورية ما يلي:
+Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. During adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
 
-- مجموعة من الملابس مناسبة لمهنة الشخصية والبيئة.
-- مبلغ من المال النقدي؛ يكفي للبقاء لفترة قصيرة دون مشقة.
-- إرث شخصي، أو تذكار، أو بعض الحلي ذات قيمة قليلة نسبيًا.
-- أي أدوات تجارية أو معدات قابلة للنقل مناسبة لمهنة الشخصية، إذا كان ذلك مناسبًا.
-- أي سلاح شخصي لأسلوب قتال الشخصية.
-- عناصر أخرى حسب ما يناسب البيئة، ووفقًا لموافقة سيد اللعبة.
-```
+- A set of clothing appropriate to the character's profession and the setting.
+- An amount of pocket money; enough to last a little while without hardship.
+- A personal heirloom, keepsake, or some trinket of little relative value.
+- Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
+- Any personal weapon for the character's Combat Style.
+- Other items as appropriate for the setting, and subject to the GM's approval.
