@@ -11,3 +11,4 @@
 - [BRP UGE SRD](https://brpugesrd.xyz)
 - [BRP UGE SRD alternate](https://bruge.us/rules/srd/)
 - [Fatman's Factotum - Mythras Tools!](https://factotum.mythras.net)
+- [Notes From Pavis, Hannu's Amazing tools!](https://notesfrompavis.blog/)
