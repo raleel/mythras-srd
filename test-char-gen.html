@@ -735,27 +735,44 @@ function generateRandomMythrasCharacter() {
 
   // --- Culture stage: min +5 on cultural standard skills and 3 cultural professional skills ---
   const cultureStdSpecialised = culture.standard_skills.map(specialise);
-  const cultureProfAll = culture.professional_skills.map(specialise);
-  const chosenCultureProf = cultureProfAll.slice(); // choose later, but we need uniqueness
-  // pick 3 professional skills
-  const shuffledCultureProf = [...chosenCultureProf].sort(() => Math.random() - 0.5);
-  const pickedCultureProf = shuffledCultureProf.slice(0, Math.min(3, shuffledCultureProf.length));
+const cultureProfAll = culture.professional_skills.map(specialise);
 
-  const mandatorySkillsSet = new Set([...cultureStdSpecialised, ...pickedCultureProf]);
-  const mandatorySkills = Array.from(mandatorySkillsSet);
+// pick 3 cultural professional skills
+const shuffledCultureProf = [...cultureProfAll].sort(() => Math.random() - 0.5);
+const pickedCultureProf = shuffledCultureProf.slice(0, Math.min(3, shuffledCultureProf.length));
 
-  const cultureTotalPool = 100;
-  const minPerCulturalSkill = 5;
-  const mandatoryPoints = minPerCulturalSkill * mandatorySkills.length;
-  const remainingCulture = Math.max(0, cultureTotalPool - mandatoryPoints);
+// ✅ mandatory cultural skills: standards + 3 prof + the cultural combat style
+const mandatorySkillsSet = new Set([
+  ...cultureStdSpecialised,
+  ...pickedCultureProf,
+  cultureStyleSkill,
+]);
+const mandatorySkills = Array.from(mandatorySkillsSet);
 
-  const cultureStagePoints = {};
-  for (const s of mandatorySkills) {
-    cultureStagePoints[s] = minPerCulturalSkill;
-  }
+// 100 cultural points total, min +5 to each mandatory
+const cultureTotalPool = 100;
+const minPerCulturalSkill = 5;
+const mandatoryPoints = minPerCulturalSkill * mandatorySkills.length;
+const remainingCulture = Math.max(0, cultureTotalPool - mandatoryPoints);
 
-  const extraCultureSkillListSet = new Set([...mandatorySkills, cultureStyleSkill]);
-  const extraCultureSkillList = Array.from(extraCultureSkillListSet);
+// assign the guaranteed +5
+const cultureStagePoints = {};
+for (const s of mandatorySkills) {
+  cultureStagePoints[s] = minPerCulturalSkill;
+}
+
+// distribute leftover points (still allowing up to +15 total from culture)
+const extraCultureSkillList = mandatorySkills; // already includes the combat style
+const extraCulturePoints = randomPointDistributionCappedStage(
+  extraCultureSkillList,
+  remainingCulture,
+  15,
+  cultureStagePoints
+);
+for (const [s, pts] of Object.entries(extraCulturePoints)) {
+  cultureStagePoints[s] = (cultureStagePoints[s] || 0) + pts;
+}
+
 
   const extraCulturePoints = randomPointDistributionCappedStage(
     extraCultureSkillList,
