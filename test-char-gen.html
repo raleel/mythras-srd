@@ -70,7 +70,7 @@
   </style>
 </head>
 <body>
-  <button class="btn" onclick="generateAndRender()">Generate New Character</button>
+  <button id="generate-btn" class="btn">Generate New Character</button>
   <div id="app" class="card"></div>
 
 <script>
@@ -932,8 +932,17 @@ function generateAndRender() {
   renderCharacter(ch);
 }
 
-// Initial character on load
-generateAndRender();
+/* =========================
+   Wire up button + initial render
+   ========================= */
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("generate-btn");
+  if (btn) {
+    btn.addEventListener("click", generateAndRender);
+  }
+  // initial character
+  generateAndRender();
+});
 </script>
 </body>
 </html>
