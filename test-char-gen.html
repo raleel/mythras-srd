@@ -552,6 +552,11 @@ function specialiseSkillName(template, cultureName, cache) {
 function ensureSkill(skills, name, chars) {
   if (!skills[name]) {
     const base = skillBase(name, chars);
+    // Extra +40% for native Customs and Native Tongue
+    // (applies only to the core standard skills, not specialised Customs (any) etc.)
+    if (name === "Customs" || name === "Native Tongue") {
+      base += 40;
+    }
     skills[name] = {
       base: base,
       culture: 0,
