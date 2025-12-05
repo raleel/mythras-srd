@@ -357,7 +357,7 @@ const CAREERS = [
     name: "Priest",
     standard_skills: ["Customs", "Dance", "Deceit", "Influence", "Insight", "Locale", "Willpower"],
     professional_skills: [
-      "Bureaucracy", "Courtesy", "Customs",
+      "Bureaucracy", "Courtesy", "Culture (any)",
       "Literacy (any)", "Lore (any)", "Oratory", "Politics",
     ],
   },
@@ -406,7 +406,7 @@ const CAREERS = [
     name: "Smuggler",
     standard_skills: ["Conceal", "Customs", "Deceit", "Drive", "Influence", "Insight", "Locale"],
     professional_skills: [
-      "Bureaucracy", "Commerce", "Customs (any)",
+      "Bureaucracy", "Commerce", "Culture (any)",
       "Language (any)", "Navigation", "Streetwise",
       "Astrogation/Seamanship",
     ],
