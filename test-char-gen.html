@@ -417,7 +417,7 @@ const CAREERS = [
     name: "Pilot",
     standard_skills: ["Brawn", "Drive", "Endurance", "Evade", "Locale", "Perception", "Willpower"],
     professional_skills: [
-      "Customs (any)", "Electronics", "Mechanisms",
+      "Culture (any)", "Electronics", "Mechanisms",
       "Navigation", "Pilot", "Sensors", "Streetwise",
     ],
   },
@@ -482,7 +482,7 @@ const CAREERS = [
     name: "Smuggler",
     standard_skills: ["Conceal", "Customs", "Deceit", "Drive", "Influence", "Insight", "Locale"],
     professional_skills: [
-      "Bureaucracy", "Commerce", "Customs (any)",
+      "Bureaucracy", "Commerce", "Culture (any)",
       "Language (any)", "Navigation", "Streetwise",
       "Astrogation/Seamanship",
     ],
@@ -553,7 +553,6 @@ function ensureSkill(skills, name, chars) {
   if (!skills[name]) {
     const base = skillBase(name, chars);
     // Extra +40% for native Customs and Native Tongue
-    // (applies only to the core standard skills, not specialised Customs (any) etc.)
     if (name === "Customs" || name === "Native Tongue") {
       base += 40;
     }
