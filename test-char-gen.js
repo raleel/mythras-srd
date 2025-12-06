@@ -771,8 +771,8 @@ function renderSkillTable(title, skillNames, skills) {
     const rec = skills[name];
     html += `<tr>
       <td>${name}</td>
-      <td>${rec.total}%</td>
-      <td class="mono">base ${rec.base} + cult ${rec.culture} + car ${rec.career} + bon ${rec.bonus}</td>
+      <td class="skill-total">${rec.total}%</td>
+      <td class="skill-breakdown">base ${rec.base} + cult ${rec.culture} + car ${rec.career} + bon ${rec.bonus}</td>
     </tr>`;
   }
   html += `</tbody></table>`;
