@@ -802,24 +802,36 @@ function renderCharacter(c) {
   html += `<div class="meta-line"><strong>Culture:</strong> ${c.culture}</div>`;
   html += `<div class="meta-line"><strong>Career:</strong> ${c.career}</div>`;
 
-  html += `<h2>Characteristics</h2><div class="grid">`;
+  // === NEW: three columns for Characteristics, Attributes, Hit Locations ===
+  html += `<div class="section-columns">`;
+
+  // Column 1: Characteristics
+  html += `<div class="section-column">`;
+  html += `<h2>Characteristics</h2><ul>`;
   for (const [k, v] of Object.entries(c.characteristics)) {
-    html += `<div><strong>${k}:</strong> ${v}</div>`;
+    html += `<li><strong>${k}:</strong> ${v}</li>`;
   }
-  html += `</div>`;
+  html += `</ul></div>`;
 
-  html += `<h2>Attributes</h2><div class="grid">`;
+  // Column 2: Attributes
+  html += `<div class="section-column">`;
+  html += `<h2>Attributes</h2><ul>`;
   for (const [k, v] of Object.entries(c.attributes)) {
-    html += `<div><strong>${k}:</strong> ${v}</div>`;
+    html += `<li><strong>${k}:</strong> ${v}</li>`;
   }
-  html += `</div>`;
+  html += `</ul></div>`;
 
-  html += `<h2>Hit Locations</h2><div class="grid">`;
+  // Column 3: Hit Locations
+  html += `<div class="section-column">`;
+  html += `<h2>Hit Locations</h2><ul>`;
   for (const [k, v] of Object.entries(c.hit_points)) {
-    html += `<div><strong>${k}:</strong> ${v}</div>`;
+    html += `<li><strong>${k}:</strong> ${v}</li>`;
   }
-  html += `</div>`;
+  html += `</ul></div>`;
 
+  html += `</div>`; // end .section-columns
+
+  // === Combat Styles ===
   html += `<h2>Combat Styles</h2>`;
   if (combatStyleNames.length) {
     html += `<table><thead><tr><th>Style</th><th>Total</th><th>Breakdown</th></tr></thead><tbody>`;
@@ -836,9 +848,11 @@ function renderCharacter(c) {
     html += `<p><em>None</em></p>`;
   }
 
+  // === Skills ===
   html += renderSkillTable("Standard Skills", standardNames, c.skills);
   html += renderSkillTable("Professional Skills", professionalNames, c.skills);
 
+  // === Passions ===
   html += `<h2>Passions</h2>`;
   if (Object.keys(c.passions).length) {
     html += `<ul>`;
