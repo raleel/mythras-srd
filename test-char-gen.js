@@ -839,8 +839,8 @@ function renderCharacter(c) {
       const rec = c.combat_styles[label];
       html += `<tr>
         <td>${label}</td>
-        <td>${rec.total}%</td>
-        <td class="mono">base ${rec.base} + cult ${rec.culture} + car ${rec.career} + bon ${rec.bonus}</td>
+        <td class="skill-total">${rec.total}%</td>
+        <td class="skill-breakdown">base ${rec.base} + cult ${rec.culture} + car ${rec.career} + bon ${rec.bonus}</td>
       </tr>`;
     }
     html += `</tbody></table>`;
