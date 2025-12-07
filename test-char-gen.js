@@ -868,10 +868,9 @@ html += `</div>`;
   }
 
   // === Skills ===
-html += `<div class="skill-sections">`;
 html += renderSkillTable("Standard Skills", standardNames, c.skills);
 html += renderSkillTable("Professional Skills", professionalNames, c.skills);
-html += `</div>`;
+
 
   // === Passions ===
   html += `<h2>Passions</h2>`;
