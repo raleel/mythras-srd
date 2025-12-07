@@ -168,7 +168,7 @@ function calcAttributes(chars) {
   const ap = calcActionPoints(chars.INT, chars.DEX);
   const dmgMod = calcDamageMod(chars.STR, chars.SIZ);
   const healRate = calcHealingRate(chars.CON);
-  const initiative = Math.floor((chars.INT + chars.DEX) / 2);
+  const initiative = Math.ceil((chars.INT + chars.DEX) / 2);
   const luck = Math.floor((chars.POW - 1) / 6) + 1;
   const move = 6;
   return {
