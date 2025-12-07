@@ -68,24 +68,15 @@
       background: #333;
     }
         /* Top three columns (Characteristics / Attributes / Hit Locations) */
-.section-columns {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);  /* desktop: 3 columns */
-  gap: 1.5rem;
-  margin-top: 1rem;
-}
-
-.section-column h2 {
-  margin-top: 0;
-}
-
-/* Standard / Professional skill tables side-by-side on desktop */
-.skill-sections {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns */
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
+        .section-columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    .section-column h2 {
+      margin-top: 0;
+    }
 
     .section-column ul {
       list-style: none;
