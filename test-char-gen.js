@@ -392,7 +392,7 @@ const professionalNames = Object.keys(c.skills).filter(
   let html = "";
 
   html += `<h1>${c.name}</h1>`;
-  html += `<div class="meta-line"><strong>Gender:</strong> ${c.gender}</div>`;
+//  html += `<div class="meta-line"><strong>Gender:</strong> ${c.gender}</div>`;
   html += `<div class="meta-line"><strong>Age:</strong> ${c.age}</div>`;
   html += `<div class="meta-line"><strong>Culture:</strong> ${c.culture}</div>`;
   html += `<div class="meta-line"><strong>Career:</strong> ${c.career}</div>`;
