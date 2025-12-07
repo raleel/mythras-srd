@@ -67,15 +67,26 @@
     .btn:hover {
       background: #333;
     }
-        .section-columns {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 1.5rem;
-      margin-top: 1rem;
-    }
-    .section-column h2 {
-      margin-top: 0;
-    }
+        /* Top three columns (Characteristics / Attributes / Hit Locations) */
+.section-columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);  /* desktop: 3 columns */
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.section-column h2 {
+  margin-top: 0;
+}
+
+/* Standard / Professional skill tables side-by-side on desktop */
+.skill-sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns */
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
     .section-column ul {
       list-style: none;
       padding-left: 0;
@@ -94,6 +105,39 @@
   font-weight: 600;
   color: #ffe08a;
 }
+    /* ===== Mobile layout ===== */
+@media (max-width: 768px) {
+  body {
+    padding: 0.75rem;
+  }
+
+  .card {
+    padding: 0.75rem 0.9rem;
+  }
+
+  /* Stack the three info sections vertically */
+  .section-columns {
+    grid-template-columns: 1fr;  /* single column on mobile */
+  }
+
+  /* Stack Standard / Professional skills vertically */
+  .skill-sections {
+    grid-template-columns: 1fr;  /* single column on mobile */
+  }
+
+  table th, table td {
+    font-size: 0.8rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+  }
+}
+
   </style>
 </head>
 <body>
