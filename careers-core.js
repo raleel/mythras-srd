@@ -191,8 +191,8 @@ const CAREERS = [
     professional_skills: [
       "Commerce",
       "Craft (any)",
-      "Lore (Primary Catch)",
-      "Lore (Secondary Catch)",
+      "Lore (Specific Catch)",
+      "Lore (Specific Catch)",
       "Navigation",
       "Seamanship",
       "Survival",
