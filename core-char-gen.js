@@ -126,8 +126,10 @@ function randomPointDistributionCappedStage(
   const existing = existingStagePoints || {};
   let remaining = totalPoints;
 
-  const skillSet = new Set(skillNames);
-  const priorityInThisStage = prioritySkills.filter((s) => skillSet.has(s));
+  const priorityInThisStage = skillNames.filter((name) => {
+  const root = skillRoot(name);
+  return prioritySkills.includes(name) || prioritySkills.includes(root);
+});
 
   while (remaining > 0) {
     let placed = false;
