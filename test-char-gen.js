@@ -786,13 +786,13 @@ function renderCharacter(c) {
   const combatStyleNames = Object.keys(c.combat_styles)
     .sort((a, b) => c.combat_styles[b].total - c.combat_styles[a].total);
 
-  const standardNames = Object.keys(c.skills).filter(
-    (s) => STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
-  ).sort((a, b) => c.skills[b].total - c.skills[a].total || a.localeCompare(b));
+const standardNames = Object.keys(c.skills).filter(
+  (s) => STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
+).sort((a, b) => a.localeCompare(b));
 
-  const professionalNames = Object.keys(c.skills).filter(
-    (s) => !STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
-  ).sort((a, b) => c.skills[b].total - c.skills[a].total || a.localeCompare(b));
+const professionalNames = Object.keys(c.skills).filter(
+  (s) => !STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
+).sort((a, b) => a.localeCompare(b));
 
   let html = "";
 
@@ -821,13 +821,32 @@ function renderCharacter(c) {
   }
   html += `</ul></div>`;
 
-  // Column 3: Hit Locations
-  html += `<div class="section-column">`;
-  html += `<h2>Hit Locations</h2><ul>`;
-  for (const [k, v] of Object.entries(c.hit_points)) {
-    html += `<li><strong>${k}:</strong> ${v}</li>`;
-  }
-  html += `</ul></div>`;
+// Column 3: Hit Locations
+html += `<div class="section-column">`;
+html += `<h2>Hit Locations</h2>`;
+
+// map the locations to 1d20 ranges and display names
+const hitRows = [
+  { key: "R Leg", label: "Right Leg", range: "1–3" },
+  { key: "L Leg", label: "Left Leg",  range: "4–6" },
+  { key: "Abdomen", label: "Abdomen", range: "7–9" },
+  { key: "Chest",   label: "Chest",   range: "10–12" },
+  { key: "R Arm",   label: "Right Arm", range: "13–15" },
+  { key: "L Arm",   label: "Left Arm",  range: "16–18" },
+  { key: "Head",    label: "Head",      range: "19–20" },
+];
+
+html += `<table><thead><tr><th>1d20</th><th>Location</th><th>HP</th></tr></thead><tbody>`;
+for (const row of hitRows) {
+  const hp = c.hit_points[row.key] ?? "-";
+  html += `<tr>
+    <td>${row.range}</td>
+    <td>${row.label}</td>
+    <td>${hp}</td>
+  </tr>`;
+}
+html += `</tbody></table>`;
+html += `</div>`;
 
   html += `</div>`; // end .section-columns
 
