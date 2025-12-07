@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mythras Core Character Generator</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #111;
+      color: #eee;
+      padding: 1.5rem;
+      line-height: 1.5;
+    }
+    h1, h2, h3 {
+      color: #ffd86b;
+      margin-bottom: 0.25rem;
+    }
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.4rem; margin-top: 1.5rem; }
+    h3 { font-size: 1.1rem; margin-top: 1rem; }
+    .card {
+      background: #1a1a1a;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.6);
+      max-width: 960px;
+    }
+    .meta-line {
+      margin: 0.1rem 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.5rem 1.5rem;
+    }
+    .mono {
+      font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+      white-space: pre;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.15rem 0.35rem;
+      font-size: 0.9rem;
+    }
+    th {
+      border-bottom: 1px solid #555;
+      color: #ffefb5;
+    }
+    tr:nth-child(even) td {
+      background: rgba(255,255,255,0.02);
+    }
+    .btn {
+      margin-bottom: 1rem;
+      padding: 0.4rem 0.75rem;
+      border-radius: 4px;
+      border: 1px solid #ffd86b;
+      background: #222;
+      color: #ffd86b;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    .btn:hover {
+      background: #333;
+    }
+        /* Top three columns (Characteristics / Attributes / Hit Locations) */
+        .section-columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    .section-column h2 {
+      margin-top: 0;
+    }
+
+    .section-column ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 0.25rem 0 0;
+    }
+    .section-column li {
+      margin: 0.1rem 0;
+    }
+    .skill-breakdown {
+  font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.75rem;
+  color: #aaa;
+  opacity: 0.75;
+}
+.skill-total {
+  font-weight: 600;
+  color: #ffe08a;
+}
+
+  </style>
+</head>
+<body>
+  <button id="generate-btn" class="btn">Generate New Character</button>
+  <div id="app" class="card"></div>
+
+  <!-- External script to avoid CSP blocking inline JS -->
+  <script src="skills-core.js"></script>
+<script src="cultures-core.js"></script>
+<script src="careers-core.js"></script>
+<script src="any-options-core.js"></script>
+<script src="core-char-gen.js"></script>  <!-- core logic -->
+
+</body>
+</html>
