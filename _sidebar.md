@@ -7,6 +7,7 @@
 - [Magic and Powers](0007_Magic.md)
 - [Creatures](0008_Creatures.md)
 ---
+- [Mythras Imperative Random Character Generator](https://srd.mythras.net/imperative-char-gen.html)
 - [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
 - [BRP UGE SRD alternate](https://bruge.us/rules/srd/)
