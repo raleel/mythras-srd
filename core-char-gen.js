@@ -273,11 +273,6 @@ function calcHitPoints(chars) {
    ========================= */
 
 function generateRandomMythrasCharacter() {
-  const givenNames = ["Arin", "Bera", "Corin", "Dara", "Eldric", "Fara", "Garric", "Hesta"];
-  const surnames = ["Stone", "Rivers", "Wolf", "Ironhand", "Bright", "Thorn", "Kestrel", "Storm"];
-  const name = `${givenNames[Math.floor(Math.random() * givenNames.length)]} ${
-    surnames[Math.floor(Math.random() * surnames.length)]
-  }`;
   const genders = ["Male", "Female", "Non-binary"];
   const gender = genders[Math.floor(Math.random() * genders.length)];
   const age = 17 + Math.floor(Math.random() * 11); // 17–27
@@ -288,6 +283,7 @@ function generateRandomMythrasCharacter() {
 
   const culture = CULTURES[Math.floor(Math.random() * CULTURES.length)];
   const career = CAREERS[Math.floor(Math.random() * CAREERS.length)];
+  const name = randomNameForCulture(culture.name);
 
   const specialCache = {};
   const specialise = (template) => specialiseSkillName(template, culture.name, specialCache);
