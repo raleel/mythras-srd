@@ -1,5 +1,6 @@
 const PRIORITY_SKILLS = [
-  "Athletics", "Brawn", "Combat Style", "Endurance", "Evade", "Insight", "Willpower"
+  "Athletics", "Brawn", "Combat Style", "Endurance", "Evade", "Insight", "Willpower",
+  "Shaping", "Invocation", "Trance", "Binding", "Meditation", "Mysticism", "Devotion", "Exhort"
 ];
 
 const STANDARD_SKILLS = [
