@@ -2,57 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Mythras Imperative Character Generator (JSON)</title>
-  <style>
-    body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #111;
-      color: #eee;
-      padding: 1.5rem;
-      line-height: 1.5;
-    }
-    h1 {
-      color: #ffd86b;
-      margin-bottom: 0.75rem;
-      font-size: 1.6rem;
-    }
-    .btn {
-      margin-bottom: 1rem;
-      padding: 0.4rem 0.75rem;
-      border-radius: 4px;
-      border: 1px solid #ffd86b;
-      background: #222;
-      color: #ffd86b;
-      cursor: pointer;
-      font-size: 0.9rem;
-    }
-    .btn:hover {
-      background: #333;
-    }
-    .card {
-      background: #1a1a1a;
-      border-radius: 8px;
-      padding: 1rem 1.25rem;
-      box-shadow: 0 0 10px rgba(0,0,0,0.6);
-      max-width: 960px;
-      overflow-x: auto;
-    }
-    pre {
-      margin: 0;
-      font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
-      font-size: 0.85rem;
-      white-space: pre;
-    }
-  </style>
+  <title></title>
 </head>
-<body data-mode="json">
-  <h1>Mythras Imperative Character (JSON)</h1>
-  <button id="generate-json-btn" class="btn">Generate New JSON Character</button>
-  <div class="card">
-    <pre id="json-output">{}</pre>
-  </div>
+<body data-mode="json" style="margin:0; padding:0;">
+  <pre id="json-output" style="margin:0; padding:0;"></pre>
 
-  <!-- Same script stack as imperative-char-gen.html -->
+  <!-- Load your data files -->
   <script src="skills-imperative.js"></script>
   <script src="cultures-imperative.js"></script>
   <script src="careers-imperative.js"></script>
@@ -60,3 +15,4 @@
   <script src="imperative-char-gen.js"></script>
 </body>
 </html>
+

@@ -570,20 +570,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const mode = document.body.getAttribute("data-mode") || "html";
 
   if (mode === "json") {
-    const btn = document.getElementById("generate-json-btn");
-    if (btn) {
-      btn.addEventListener("click", generateAndRenderJson);
-    }
-    // Auto-generate once on load
+    // No button, no UI — just output JSON once
     generateAndRenderJson();
     return;
   }
 
-  // Default: HTML sheet mode
+  // HTML sheet mode
   const btn = document.getElementById("generate-btn");
-  if (btn) {
-    btn.addEventListener("click", generateAndRender);
-  }
+  if (btn) btn.addEventListener("click", generateAndRender);
   generateAndRender();
 });
 
