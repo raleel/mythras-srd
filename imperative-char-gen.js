@@ -487,13 +487,103 @@ function generateAndRender() {
   renderCharacter(ch);
 }
 
+function mapCharacterToNpcJson(char) {
+  // stats as an array of single-key objects
+  const statOrder = ["STR", "CON", "SIZ", "DEX", "INT", "POW", "CHA"];
+  const stats = statOrder.map((k) => ({ [k]: char.characteristics[k] }));
+
+  // skills: just export totals
+  const skills = Object.entries(char.skills).map(([name, rec]) => ({
+    [name]: rec.total,
+  }));
+
+  // hit locations with ranges and armor points (ap). PCs have no built-in armor,
+  // so we default ap to 0.
+  const hitLocDefs = [
+    { key: "R Leg", name: "Right leg", range: "01-03" },
+    { key: "L Leg", name: "Left leg", range: "04-06" },
+    { key: "Abdomen", name: "Abdomen", range: "07-09" },
+    { key: "Chest", name: "Chest", range: "10-12" },
+    { key: "R Arm", name: "Right arm", range: "13-15" },
+    { key: "L Arm", name: "Left arm", range: "16-18" },
+    { key: "Head", name: "Head", range: "19-20" },
+  ];
+
+  const hit_locations = hitLocDefs.map((h) => ({
+    name: h.name,
+    range: h.range,
+    hp: char.hit_points[h.key] ?? 0,
+    ap: 0,
+  }));
+
+  // combat styles as an array with name + value + weapons (empty list for now)
+  const combat_styles = Object.entries(char.combat_styles).map(([name, rec]) => ({
+    name,
+    value: rec.total,
+    weapons: [],
+  }));
+
+  // attributes in your NPC schema
+  const attributes = {
+    action_points: char.attributes["Action Points"],
+    damage_modifier: char.attributes["Damage Mod"],
+    magic_points: char.attributes["Magic Points"],
+    // we don't currently compute the fancy "11(13-2)" strike rank,
+    // so just use Initiative as a string
+    strike_rank: String(char.attributes["Initiative"]),
+    movement: String(char.attributes["Movement"]),
+  };
+
+  return {
+    name: char.name,
+    cult_rank: "None",
+    stats,
+    skills,
+    folk_spells: [],
+    theism_spells: [],
+    sorcery_spells: [],
+    mysticism_spells: [],
+    hit_locations,
+    combat_styles,
+    attributes,
+    notes: "",
+    features: [],
+    cults: [],
+    spirits: [],
+    natural_armor: false,
+  };
+}
+
+function generateAndRenderJson() {
+  const ch = generateRandomMythrasCharacter();
+  const npc = mapCharacterToNpcJson(ch);
+  const pre = document.getElementById("json-output");
+  if (!pre) return;
+  // The outer [] to match your example: an array of one NPC
+  pre.textContent = JSON.stringify([npc], null, 2);
+}
+
 /* =========================
    Wire up button + initial render
    ========================= */
 document.addEventListener("DOMContentLoaded", () => {
+  const mode = document.body.getAttribute("data-mode") || "html";
+
+  if (mode === "json") {
+    const btn = document.getElementById("generate-json-btn");
+    if (btn) {
+      btn.addEventListener("click", generateAndRenderJson);
+    }
+    // Auto-generate once on load
+    generateAndRenderJson();
+    return;
+  }
+
+  // Default: HTML sheet mode
   const btn = document.getElementById("generate-btn");
   if (btn) {
     btn.addEventListener("click", generateAndRender);
   }
   generateAndRender();
 });
+

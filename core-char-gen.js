@@ -568,13 +568,34 @@ function generateAndRender() {
   renderCharacter(ch);
 }
 
+function generateAndRenderJson() {
+  const ch = generateRandomMythrasCharacter();
+  const pre = document.getElementById("json-output");
+  if (!pre) return;
+  pre.textContent = JSON.stringify(ch, null, 2);
+}
+
 /* =========================
    Wire up button + initial render
    ========================= */
 document.addEventListener("DOMContentLoaded", () => {
+  const mode = document.body.getAttribute("data-mode") || "html";
+
+  if (mode === "json") {
+    const btn = document.getElementById("generate-json-btn");
+    if (btn) {
+      btn.addEventListener("click", generateAndRenderJson);
+    }
+    // Auto-generate once on load
+    generateAndRenderJson();
+    return;
+  }
+
+  // Default: HTML sheet mode
   const btn = document.getElementById("generate-btn");
   if (btn) {
     btn.addEventListener("click", generateAndRender);
   }
   generateAndRender();
 });
+
