@@ -365,6 +365,7 @@ const CAREERS = [
     professional_skills: [
       "Bureaucracy",
       "Devotion (specific faith)",
+	  "Exhort",
       "Folk Magic",
       "Literacy",
       "Lore (any)",

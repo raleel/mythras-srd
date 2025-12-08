@@ -104,6 +104,86 @@ function ensureSkill(skills, name, chars) {
   }
 }
 
+function ensurePairedSpecialsInSelection(picked, allAvailable, maxCount) {
+  const result = [...picked];
+
+  function findByRoot(list, root) {
+    return list.find((name) => skillRoot(name) === root);
+  }
+
+  for (let i = 0; i < result.length; i++) {
+    const name = result[i];
+    const root = skillRoot(name);
+    const pairRoot = SPECIAL_SKILL_PAIRS[root];
+    if (!pairRoot) continue;
+
+    const hasPairAlready = result.some((s) => skillRoot(s) === pairRoot);
+    if (hasPairAlready) continue;
+
+    const partnerName = findByRoot(allAvailable, pairRoot);
+    if (!partnerName) continue; // that career/culture doesn't offer the pair
+
+    // If we still have room (< maxCount), just add the partner.
+    if (result.length < maxCount) {
+      if (!result.includes(partnerName)) {
+        result.push(partnerName);
+      }
+    } else {
+      // No room: replace one of the *other* skills with the partner.
+      const replaceable = result
+        .map((s, idx) => ({ s, idx }))
+        .filter((x) => x.idx !== i); // don't replace the original one
+
+      if (!replaceable.length) continue;
+      const choice =
+        replaceable[Math.floor(Math.random() * replaceable.length)];
+      result[choice.idx] = partnerName;
+    }
+  }
+
+  // Just in case we somehow exceeded maxCount, trim back randomly.
+  while (result.length > maxCount) {
+    result.splice(Math.floor(Math.random() * result.length), 1);
+  }
+
+  return result;
+}
+
+function enforceSpecialPairsInStagePoints(stagePoints) {
+  const names = Object.keys(stagePoints);
+
+  for (const name of names) {
+    const pts = stagePoints[name];
+    if (!pts || pts <= 0) continue;
+
+    const root = skillRoot(name);
+    const pairRoot = SPECIAL_SKILL_PAIRS[root];
+    if (!pairRoot) continue;
+
+    // See if the partner is already in this stage
+    let partnerName = Object.keys(stagePoints).find(
+      (n) => skillRoot(n) === pairRoot
+    );
+
+    if (!partnerName) {
+      // No partner yet: create an unspecialised partner
+      partnerName = pairRoot;
+    }
+
+    if (!stagePoints[partnerName]) {
+      // Split some of this skill's points into the partner.
+      const extra = Math.max(1, Math.floor(pts / 2));
+
+      // Try not to reduce the original below 1
+      if (stagePoints[name] > extra) {
+        stagePoints[name] -= extra;
+      }
+      // Give the partner some points
+      stagePoints[partnerName] = (stagePoints[partnerName] || 0) + extra;
+    }
+  }
+}
+
 /**
  * Distribute points across skills with an optional per-skill cap and
  * optional bias towards a set of priority skills.
@@ -316,11 +396,16 @@ function generateRandomMythrasCharacter() {
   const cultureStdSpecialised = expandedCultureStd.map(specialise);
   const cultureProfAll = expandedCultureProf.map(specialise);
 
-  const shuffledCultureProf = [...cultureProfAll].sort(() => Math.random() - 0.5);
-  const pickedCultureProf = shuffledCultureProf.slice(
-    0,
-    Math.min(3, shuffledCultureProf.length)
-  );
+const shuffledCultureProf = [...cultureProfAll].sort(() => Math.random() - 0.5);
+const maxCultureProf = Math.min(3, shuffledCultureProf.length);
+
+let pickedCultureProf = shuffledCultureProf.slice(0, maxCultureProf);
+pickedCultureProf = ensurePairedSpecialsInSelection(
+  pickedCultureProf,
+  cultureProfAll,
+  maxCultureProf
+);
+
 
   const mandatorySkillsSet = new Set([
     ...cultureStdSpecialised,
@@ -351,16 +436,23 @@ function generateRandomMythrasCharacter() {
     cultureStagePoints[s] = (cultureStagePoints[s] || 0) + pts;
   }
 
-  applyStagePoints(skills, cultureStagePoints, "culture", chars);
+	// ... after merging extraCulturePoints ...
+	enforceSpecialPairsInStagePoints(cultureStagePoints);
+	applyStagePoints(skills, cultureStagePoints, "culture", chars);
 
   /* --- Career stage: 100 pts, choose 3 pro skills, no mandatory minimum --- */
-  const careerStdSpecialised = career.standard_skills.map(specialise);
-  const careerProfAll = career.professional_skills.map(specialise);
-  const shuffledCareerProf = [...careerProfAll].sort(() => Math.random() - 0.5);
-  const pickedCareerProf2 = shuffledCareerProf.slice(
-    0,
-    Math.min(3, shuffledCareerProf.length)
-  );
+const careerStdSpecialised = career.standard_skills.map(specialise);
+const careerProfAll = career.professional_skills.map(specialise);
+const shuffledCareerProf = [...careerProfAll].sort(() => Math.random() - 0.5);
+const maxCareerProf = Math.min(3, shuffledCareerProf.length);
+
+let pickedCareerProf2 = shuffledCareerProf.slice(0, maxCareerProf);
+pickedCareerProf2 = ensurePairedSpecialsInSelection(
+  pickedCareerProf2,
+  careerProfAll,
+  maxCareerProf
+);
+
   const careerSkillSet = new Set([
     ...careerStdSpecialised,
     ...pickedCareerProf2,
@@ -375,6 +467,7 @@ function generateRandomMythrasCharacter() {
     null,
     typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : []
   );
+  enforceSpecialPairsInStagePoints(careerPoints);
   applyStagePoints(skills, careerPoints, "career", chars);
 
   /* --- Bonus stage: 150 pts on any skill we have so far --- */
@@ -386,6 +479,7 @@ function generateRandomMythrasCharacter() {
     null,
     typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : []
   );
+  enforceSpecialPairsInStagePoints(bonusPoints);
   applyStagePoints(skills, bonusPoints, "bonus", chars);
 
   finalizeSkillTotals(skills);

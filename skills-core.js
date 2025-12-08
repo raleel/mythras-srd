@@ -9,6 +9,18 @@ const STANDARD_SKILLS = [
   "Swim", "Unarmed", "Willpower",
 ];
 
+// Special skill pairs for magic traditions
+const SPECIAL_SKILL_PAIRS = {
+  Invocation: "Shaping",
+  Shaping: "Invocation",
+  Binding: "Trance",
+  Trance: "Binding",
+  Mysticism: "Meditation",
+  Meditation: "Mysticism",
+  Devotion: "Exhort",
+  Exhort: "Devotion",
+};
+
 // base stat formulas (root skill name => [stat1, stat2])
 const SKILL_BASE_FORMULAS = {
   // Standard
