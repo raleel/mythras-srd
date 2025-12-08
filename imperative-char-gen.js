@@ -567,17 +567,47 @@ function generateAndRenderJson() {
    Wire up button + initial render
    ========================= */
 document.addEventListener("DOMContentLoaded", () => {
-  const mode = document.body.getAttribute("data-mode") || "html";
+  // URL param override: ?json=1 or ?json=true or just ?json
+  const params = new URLSearchParams(window.location.search);
+  const urlWantsJson =
+    params.has("json") &&
+    !["0", "false", ""].includes(params.get("json")?.toLowerCase?.() || "");
+
+  // body[data-mode="json"] still works (for your minimal json-only pages),
+  // but URL param takes precedence.
+  let mode = document.body.getAttribute("data-mode") || "html";
+  if (urlWantsJson) {
+    mode = "json";
+  }
 
   if (mode === "json") {
-    // No button, no UI — just output JSON once
+    // Hide the normal UI if it exists
+    const btn = document.getElementById("generate-btn");
+    if (btn) btn.style.display = "none";
+
+    const app = document.getElementById("app");
+    if (app) app.style.display = "none";
+
+    // Ensure there is a <pre id="json-output"> somewhere
+    let pre = document.getElementById("json-output");
+    if (!pre) {
+      pre = document.createElement("pre");
+      pre.id = "json-output";
+      pre.style.margin = "0";
+      pre.style.padding = "0";
+      document.body.appendChild(pre);
+    }
+
     generateAndRenderJson();
     return;
   }
 
-  // HTML sheet mode
+  // Default: normal HTML sheet mode
   const btn = document.getElementById("generate-btn");
-  if (btn) btn.addEventListener("click", generateAndRender);
+  if (btn) {
+    btn.addEventListener("click", generateAndRender);
+  }
   generateAndRender();
 });
+
 
