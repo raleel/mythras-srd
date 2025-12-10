@@ -1,5 +1,5 @@
 const PRIORITY_SKILLS = [
-  "Athletics", "Brawn", "Combat Style", "Endurance", "Evade", "Insight", "Willpower", "Arcane Casting",
+  "Athletics", "Brawn", "Combat Skill", "Endurance", "Evade", "Insight", "Willpower", "Arcane Casting",
   "Channel", "Devotion (deity)"
 ];
 

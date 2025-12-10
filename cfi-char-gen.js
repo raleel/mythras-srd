@@ -428,10 +428,10 @@ function generateRandomMythrasCharacter() {
   }
 
   // Combat styles: one at culture, one at career
-  const cultureStyleLabel =
-    culture.combat_styles[Math.floor(Math.random() * culture.combat_styles.length)];
-  const cultureStyleSkill = `Combat Style (${cultureStyleLabel})`;
-  ensureSkill(skills, cultureStyleSkill, chars);
+  // const cultureStyleLabel =
+    // culture.combat_styles[Math.floor(Math.random() * culture.combat_styles.length)];
+  // const cultureStyleSkill = `Combat Style (${cultureStyleLabel})`;
+  // ensureSkill(skills, cultureStyleSkill, chars);
 
   const careerStyleOptions = [cultureStyleLabel, `${career.name} Style`];
   const careerStyleLabel =
