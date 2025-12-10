@@ -1,6 +1,5 @@
 const PRIORITY_SKILLS = [
-  "Athletics", "Brawn", "Combat Skill", "Endurance", "Evade", "Insight", "Willpower", "Arcane Casting",
-  "Channel", "Devotion (deity)"
+  "Athletics", "Brawn", "Endurance", "Evade", "Insight", "Willpower"
 ];
 
 const STANDARD_SKILLS = [
@@ -12,14 +11,18 @@ const STANDARD_SKILLS = [
 
 // Special skill pairs for magic traditions
 const SPECIAL_SKILL_PAIRS = {
-  Invocation: "Shaping",
-  Shaping: "Invocation",
-  Binding: "Trance",
-  Trance: "Binding",
-  Mysticism: "Meditation",
-  Meditation: "Mysticism",
-  Devotion: "Exhort",
-  Exhort: "Devotion",
+  // Invocation: "Shaping",
+  // Shaping: "Invocation",
+  // Binding: "Trance",
+  // Trance: "Binding",
+  // Mysticism: "Meditation",
+  // Meditation: "Mysticism",
+  // Devotion: "Exhort",
+  // Exhort: "Devotion",
+  "Arcane Casting": "Arcane Knowledge",
+  "Arcane Knowledge": "Arcane Casting",
+  Devotion: "Channel",
+  Channel: "Devotion (deity)"
 };
 
 // base stat formulas (root skill name => [stat1, stat2])

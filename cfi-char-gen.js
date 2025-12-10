@@ -48,6 +48,43 @@ function skillBase(name, chars) {
 /* =========================
    Helpers
    ========================= */
+function getPrioritySkillsForCareer(career) {
+  // Neutral baseline: good for everyone
+  const base = ["Athletics", "Brawn", "Endurance", "Evade", "Willpower", "Insight"];
+
+  if (!career || !career.name) {
+    // Fall back to global if something weird happens
+    return typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : base;
+  }
+
+  // MAGIC-USER: magic + mental focus, NO Combat Style priority
+  if (career.name === "Magic-User") {
+  const result = [...base];  // start with shared physical priorities
+
+  result.push(
+    "Arcane Casting",
+    "Arcane Knowledge",
+    "Channel",
+    "Devotion",      // matches "Devotion (deity)" via skillRoot
+    "Willpower",
+    "Insight"
+  );
+
+  return result;
+}
+
+
+  // Everyone else (Fighter, Rogue, Cleric, etc.) –
+  // Combat Style stays important
+  const result = [...base, "Combat Style"];
+
+  // Cleric-type classes really love Channel/Devotion too
+  if (career.name === "Cleric") {
+    result.push("Channel", "Devotion");
+  }
+
+  return result;
+}
 
 function expandSkillChoices(skillList) {
   const finalList = [];
@@ -419,7 +456,9 @@ function generateRandomMythrasCharacter() {
 
   const specialCache = {};
   const specialise = (template) => specialiseSkillName(template, culture.name, specialCache);
-
+  
+  const prioritySkills = getPrioritySkillsForCareer(career);
+  
   const skills = {};
 
   // Base standard skills
@@ -427,17 +466,11 @@ function generateRandomMythrasCharacter() {
     ensureSkill(skills, sname, chars);
   }
 
-  // Combat styles: one at culture, one at career
-  // const cultureStyleLabel =
-    // culture.combat_styles[Math.floor(Math.random() * culture.combat_styles.length)];
-  // const cultureStyleSkill = `Combat Style (${cultureStyleLabel})`;
-  // ensureSkill(skills, cultureStyleSkill, chars);
-
-  const careerStyleOptions = [cultureStyleLabel, `${career.name} Style`];
-  const careerStyleLabel =
-    careerStyleOptions[Math.floor(Math.random() * careerStyleOptions.length)];
+    // Combat styles: Classic Fantasy Imperative – only class-based combat style
+  const careerStyleLabel = `${career.name} Style`;
   const careerStyleSkill = `Combat Style (${careerStyleLabel})`;
   ensureSkill(skills, careerStyleSkill, chars);
+
 
   /* --- Culture stage: min +5 on cultural standard skills,
          3 cultural prof skills, and cultural combat style --- */
@@ -462,7 +495,6 @@ pickedCultureProf = ensurePairedSpecialsInSelection(
   const mandatorySkillsSet = new Set([
     ...cultureStdSpecialised,
     ...pickedCultureProf,
-    cultureStyleSkill,
   ]);
   const mandatorySkills = Array.from(mandatorySkillsSet);
 
@@ -482,7 +514,7 @@ pickedCultureProf = ensurePairedSpecialsInSelection(
     remainingCulture,
     15,
     cultureStagePoints,
-    typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : []
+    prioritySkills
   );
   for (const [s, pts] of Object.entries(extraCulturePoints)) {
     cultureStagePoints[s] = (cultureStagePoints[s] || 0) + pts;
@@ -505,19 +537,25 @@ pickedCareerProf2 = ensurePairedSpecialsInSelection(
   maxCareerProf
 );
 
-  const careerSkillSet = new Set([
+    const careerSkillSet = new Set([
     ...careerStdSpecialised,
     ...pickedCareerProf2,
-    careerStyleSkill,
-  ]);
-  const careerSkillList = Array.from(careerSkillSet);
+    ]);
+
+    // Magic-User combat style is bonus-only; others get career points too
+    if (career.name !== "Magic-User") {
+      careerSkillSet.add(careerStyleSkill);
+    }
+
+    const careerSkillList = Array.from(careerSkillSet);
+
 
   const careerPoints = randomPointDistributionCappedStage(
     careerSkillList,
     100,
     15,
     null,
-    typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : []
+    prioritySkills
   );
   enforceSpecialPairsInStagePoints(careerPoints);
   applyStagePoints(skills, careerPoints, "career", chars);
@@ -529,7 +567,7 @@ pickedCareerProf2 = ensurePairedSpecialsInSelection(
     100,  // CFI: 100 bonus points
     10,   // CFI: max +10 per skill from this pool
     null,
-    typeof PRIORITY_SKILLS !== "undefined" ? PRIORITY_SKILLS : []
+    prioritySkills
   );
   enforceSpecialPairsInStagePoints(bonusPoints);
   applyStagePoints(skills, bonusPoints, "bonus", chars);
