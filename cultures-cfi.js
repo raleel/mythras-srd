@@ -24,7 +24,8 @@ const CULTURES = [
       "Language (any)",
       "Lore (any)",
     ],
-    combat_styles: ["Tribal Weapons", "Raider Weapons"],
+    // combat_styles: ["Tribal Weapons", "Raider Weapons"],
+	combat_styles: [],
     passions: ["Loyalty (Tribe)", "Hate (Enemy Tribe)"],
   },
 
@@ -48,7 +49,7 @@ const CULTURES = [
       "Lore (any)",
       "Musicianship",
     ],
-    combat_styles: ["City Watch Weapons", "Dueling Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Home City)", "Hate (Criminals)"],
   },
 
@@ -71,7 +72,7 @@ const CULTURES = [
       "Language (any)",
       "Lore (any)",
     ],
-    combat_styles: ["Mounted Weapons", "Caravan Guard Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Clan)", "Love (Freedom of the Road)"],
   },
 
@@ -96,7 +97,7 @@ const CULTURES = [
       "First Aid",
       "Swim",
     ],
-    combat_styles: ["Hunter Weapons", "Tribal Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Tribe)", "Hate (Encroaching Civilisation)"],
   },
 
@@ -119,7 +120,7 @@ const CULTURES = [
       "Craft (any)",
       "Survival",
     ],
-    combat_styles: ["Axe & Shield", "Crossbow Drill"],
+    combat_styles: [],
     passions: ["Loyalty (Clan)", "Hate (Goblins)"],
   },
 
@@ -140,7 +141,7 @@ const CULTURES = [
       ["Language (any)", "Lore (any)", "Musicianship"],
       ["Language (any)", "Lore (any)", "Musicianship"],
     ],
-    combat_styles: ["Elven Archery", "Blade Dancing"],
+    combat_styles: [],
     passions: ["Love (Beauty of Nature)", "Hate (Orcs)"],
   },
 
@@ -161,7 +162,7 @@ const CULTURES = [
       "Craft (any)",
       ["Mechanisms", "Survival"],
     ],
-    combat_styles: ["Tinker Weapons", "Crossbow Drill"],
+    combat_styles: [],
     passions: ["Curiosity (Clockworks)", "Hate (Bullies)"],
   },
 
@@ -182,7 +183,7 @@ const CULTURES = [
       "Musicianship",
       "Streetwise",
     ],
-    combat_styles: ["Sling & Dagger", "Shortsword & Shield"],
+    combat_styles: [],
     passions: ["Love (Comfort & Food)", "Hate (Oppression)"],
   },
 
@@ -205,7 +206,7 @@ const CULTURES = [
       "Lore (any)",
       ["Musicianship", "Survival"],
     ],
-    combat_styles: ["Elven Archery", "Blade Dancing"],
+    combat_styles: [],
     passions: ["Loyalty (Elven Kin)", "Hate (Orcs)"],
   },
 
@@ -229,7 +230,7 @@ const CULTURES = [
       "Language (any)",
       "Lore (any)",
     ],
-    combat_styles: ["City Watch Weapons", "Dueling Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Adoptive Family)", "Curiosity (Other Culture)"],
   },
 
@@ -252,7 +253,7 @@ const CULTURES = [
       "Survival",
       "Track",
     ],
-    combat_styles: ["Brutal Weapons", "Raider Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Warband)", "Hate (Civilized Folk)"],
   },
 
@@ -275,7 +276,7 @@ const CULTURES = [
       "Language (any)",
       "Lore (any)",
     ],
-    combat_styles: ["City Watch Weapons", "Brutal Weapons"],
+    combat_styles: [],
     passions: ["Loyalty (Adoptive Kin)", "Hate (Orc Raiders)"],
   },
 ];
