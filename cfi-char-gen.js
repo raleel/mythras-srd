@@ -641,8 +641,6 @@ function renderCharacter(c) {
     )}</div>`;
   }
 
-  // === three columns for Characteristics, Attributes, Hit Locations ===
-  html += `<div class="section-columns">`;
   // ... keep the rest of the function as-is until we get near Passions
 
   // === three columns for Characteristics, Attributes, Hit Locations ===
