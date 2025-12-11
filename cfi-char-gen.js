@@ -86,8 +86,10 @@ function getPrioritySkillsForCareer(career) {
 			   "Bureaucracy", "Courtesy",
 			   "Culture (any)", "Healing",
 			   "Lore (Alchemy)", "Lore (Religion)",
-			   "Language (any)", "Oratory");
+			   "Language (any)", "Oratory"
+			   );
   }
+	
   if (career.name === "Rogue") {
     result.push(
 		"Lockpicking",
@@ -101,6 +103,7 @@ function getPrioritySkillsForCareer(career) {
 		"Sleight",
 		"Streetwise"
 	);
+  }	  
 if (career.name === "Figher") {
     result.push(
 		"Craft (any)",
@@ -113,7 +116,7 @@ if (career.name === "Figher") {
 		"Survival",
 		"Navigate"
 	);
-	
+}	
   return result;
 }
 
