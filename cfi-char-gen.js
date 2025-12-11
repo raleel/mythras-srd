@@ -642,13 +642,13 @@ function renderCharacter(c) {
 
   const standardNames = Object.keys(c.skills)
     .filter(
-      (s) => STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
+      (s) => STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style") && skillRoot(s) !== "Combat Skill"
     )
     .sort((a, b) => a.localeCompare(b));
 
   const professionalNames = Object.keys(c.skills)
     .filter(
-      (s) => !STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style")
+      (s) => !STANDARD_SKILLS.includes(skillRoot(s)) && !s.startsWith("Combat Style") && skillRoot(s) !== "Combat Skill"
     )
     .sort((a, b) => a.localeCompare(b));
 
