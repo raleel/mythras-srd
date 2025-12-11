@@ -323,14 +323,20 @@ function enforceRank1ClassSkills(skills, career) {
     if (rec.total >= 40) continue;
 
     const needed = 40 - rec.total;
-    if (needed <= 0) {
-      continue;
-    }
+    if (needed <= 0) continue;
 
-    // Directly add to the "bonus" bucket so the breakdown still makes sense
-    rec.bonus = (rec.bonus || 0) + needed;
-    rec.total += needed;
-    count40++;
+    // We can only ever spend up to +10 bonus points on a skill.
+    const currentBonus = rec.bonus || 0;
+    const bonusHeadroom = 10 - currentBonus;
+    if (bonusHeadroom <= 0) continue;
+
+    const delta = Math.min(needed, bonusHeadroom);
+    rec.bonus = currentBonus + delta;
+    rec.total += delta;
+
+    if (rec.total >= 40) {
+      count40++;
+    }
   }
 }
 
