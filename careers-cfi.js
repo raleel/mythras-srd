@@ -84,7 +84,7 @@ const CAREERS = [
     ],
     abilities_rank1: [
       "Spellcaster",
-      "Starting Spellsn",
+      "Starting Spells",
     ],
   },
 
