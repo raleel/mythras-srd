@@ -64,10 +64,12 @@ function getPrioritySkillsForCareer(career) {
   result.push(
     "Arcane Casting",
     "Arcane Knowledge",
-    "Channel",
-    "Devotion",      // matches "Devotion (deity)" via skillRoot
     "Willpower",
-    "Insight"
+    "Insight",
+	"Culture (any)",
+	"Language (any)",
+	"Lore (Alchemy)",
+	"Lore (any)"
   );
 
   return result;
@@ -80,9 +82,38 @@ function getPrioritySkillsForCareer(career) {
 
   // Cleric-type classes really love Channel/Devotion too
   if (career.name === "Cleric") {
-    result.push("Channel", "Devotion");
+    result.push("Channel", "Devotion",
+			   "Bureaucracy", "Courtesy",
+			   "Culture (any)", "Healing",
+			   "Lore (Alchemy)", "Lore (Religion)",
+			   "Language (any)", "Oratory");
   }
-
+  if (career.name === "Rogue") {
+    result.push(
+		"Lockpicking",
+		"Mechanisms",
+		"Acrobatics",
+		"Acting",
+		"Commerce",
+		"Disguise",
+		"Intimidation",
+		"Seduction",
+		"Sleight",
+		"Streetwise"
+	);
+if (career.name === "Figher") {
+    result.push(
+		"Craft (any)",
+		"Engineering",
+		"Gambling",
+		"Intimidation",
+		"Lore (Military History)",
+		"Lore (Strategy and Tactics)",
+		"Oratory",
+		"Survival",
+		"Navigate"
+	);
+	
   return result;
 }
 
