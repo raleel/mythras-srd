@@ -27,6 +27,65 @@ function roll(dice) {
 /* =========================
    Data helpers
    ========================= */
+function pickCareerProfessionalSkills(career, careerProfAll) {
+  // careerProfAll = career.professional_skills.map(specialise)
+  // We’ll match by skillRoot so "Devotion" matches "Devotion (deity)", etc.
+  const wantRoots = new Set();
+  let extraCount = 3; // default: 3 random pro skills
+
+  switch (career.name) {
+    case "Magic-User":
+      wantRoots.add("Arcane Casting");
+      wantRoots.add("Arcane Knowledge");
+      extraCount = 3; // 2 mandatory + 3 random = 5 total pro skills
+      break;
+    case "Rogue":
+      wantRoots.add("Lockpicking");
+      wantRoots.add("Mechanisms");
+      extraCount = 2; // 2 mandatory + 2 random = 4 total pro skills
+      break;
+    case "Cleric":
+      wantRoots.add("Channel");
+      wantRoots.add("Devotion"); // matches Devotion (deity) via skillRoot
+      extraCount = 3; // 2 mandatory + 3 random = 5 total pro skills
+      break;
+    default:
+      // other classes: just 3 random professional skills
+      break;
+  }
+
+  const required = [];
+  const used = new Set(); // tracks exact specialised names we’ve already taken
+
+  if (wantRoots.size > 0) {
+    for (const name of careerProfAll) {
+      const root = skillRoot(name);
+      if (wantRoots.has(root)) {
+        // avoid duplicates if there are multiple variants of the same root
+        if (!required.some((s) => skillRoot(s) === root)) {
+          required.push(name);
+          used.add(name);
+        }
+      }
+    }
+  }
+
+  // Remaining professional skills excluding the required ones
+  const remaining = careerProfAll.filter((s) => !used.has(s));
+  const shuffledRemaining = [...remaining].sort(() => Math.random() - 0.5);
+  const extra = shuffledRemaining.slice(
+    0,
+    Math.min(extraCount, shuffledRemaining.length)
+  );
+
+  let picked = [...required, ...extra];
+
+  // Respect special skill pairs using your existing helper.
+  // Max count is the current picked length; we don't want it to exceed that.
+  picked = ensurePairedSpecialsInSelection(picked, careerProfAll, picked.length);
+
+  return picked;
+}
 
 function skillRoot(name) {
   const idx = name.indexOf("(");
@@ -567,15 +626,9 @@ pickedCultureProf = ensurePairedSpecialsInSelection(
   /* --- Career stage: 100 pts, choose 3 pro skills, no mandatory minimum --- */
 const careerStdSpecialised = career.standard_skills.map(specialise);
 const careerProfAll = career.professional_skills.map(specialise);
-const shuffledCareerProf = [...careerProfAll].sort(() => Math.random() - 0.5);
-const maxCareerProf = Math.min(3, shuffledCareerProf.length);
-
-let pickedCareerProf2 = shuffledCareerProf.slice(0, maxCareerProf);
-pickedCareerProf2 = ensurePairedSpecialsInSelection(
-  pickedCareerProf2,
-  careerProfAll,
-  maxCareerProf
-);
+	
+// NEW: enforce class-specific pro picks
+  const pickedCareerProf2 = pickCareerProfessionalSkills(career, careerProfAll);
 
     const careerSkillSet = new Set([
     ...careerStdSpecialised,
@@ -588,8 +641,7 @@ pickedCareerProf2 = ensurePairedSpecialsInSelection(
     }
 
     const careerSkillList = Array.from(careerSkillSet);
-
-
+	
   const careerPoints = randomPointDistributionCappedStage(
     careerSkillList,
     100,
