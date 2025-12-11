@@ -23,6 +23,7 @@ const CULTURES = [
       "Healing",
       "Language (any)",
       "Lore (any)",
+		"Craft (any)", "Musicianship", "Seamanship",
     ],
     // combat_styles: ["Tribal Weapons", "Raider Weapons"],
 	combat_styles: [],
@@ -48,6 +49,7 @@ const CULTURES = [
       "Language (any)",
       "Lore (any)",
       "Musicianship",
+		"Art (any)", "Courtesy",
     ],
     combat_styles: [],
     passions: ["Loyalty (Home City)", "Hate (Criminals)"],
@@ -62,7 +64,8 @@ const CULTURES = [
       "Locale",
       "Perception",
       "Stealth",
-      ["Athletics", "Boating", "Drive", "Ride", "Swim"], // primary travel mode
+      ["Athletics", "Boating", "Drive", "Ride", "Swim"],
+	  ["Athletics", "Boating", "Drive", "Ride", "Swim"],// primary travel mode
     ],
     professional_skills: [
       "Navigation",
@@ -71,6 +74,7 @@ const CULTURES = [
       "Healing",
       "Language (any)",
       "Lore (any)",
+		"Craft (any)", "Culture (any)", "Musicianship", 
     ],
     combat_styles: [],
     passions: ["Loyalty (Clan)", "Love (Freedom of the Road)"],
@@ -92,10 +96,8 @@ const CULTURES = [
       "Survival",
       "Track",
       "Navigation",
-      "Athletics",
-      "Boating",
-      "First Aid",
-      "Swim",
+		"Craft (any)", "Healing", "Lore (any)", "Language (any)",
+		"Musicianship"
     ],
     combat_styles: [],
     passions: ["Loyalty (Tribe)", "Hate (Encroaching Civilisation)"],
