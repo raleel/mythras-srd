@@ -64,7 +64,7 @@ const SKILL_BASE_FORMULAS = {
   Courtesy: ["INT", "CHA"],
   Craft: ["DEX", "INT"],
   Culture: ["INT", "INT"],
-  "Devotion (deity)": ["POW", "CHA"],
+  "Devotion": ["POW", "CHA"],
   Disguise: ["INT", "CHA"],
   Engineering: ["INT", "INT"],
   Gambling: ["INT", "POW"],
