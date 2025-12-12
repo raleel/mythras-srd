@@ -19,7 +19,7 @@ const CAREERS = [
       "Healing",
       "Lore (Alchemy)",
       "Oratory",
-      "Devotion (deity)",
+      "Devotion",
       "Lore (Religion)",
       "Language (any)",
       "Lore (any)",
