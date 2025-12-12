@@ -22,7 +22,7 @@ const SPECIAL_SKILL_PAIRS = {
   "Arcane Casting": "Arcane Knowledge",
   "Arcane Knowledge": "Arcane Casting",
   Devotion: "Channel",
-  Channel: "Devotion (deity)"
+  Channel: "Devotion"
 };
 
 // base stat formulas (root skill name => [stat1, stat2])
