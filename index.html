@@ -47,6 +47,220 @@
   <div id="app"></div>
 
   <script>
+    var languageOptions = [
+      { code: 'en', label: 'English (en)' },
+      { code: 'es', label: 'Español (es)' },
+      { code: 'fr', label: 'Français (fr)' },
+      { code: 'it', label: 'Italiano (it)' },
+      { code: 'el', label: 'Ελληνικά (el - Greek)' },
+      { code: 'zh-CN', label: 'Mandarin Chinese (zh-CN)' },
+      { code: 'ar', label: 'Arabic (ar)' },
+      { code: 'hi', label: 'Hindi (hi)' },
+      { code: 'ja', label: 'Japanese (ja)' },
+      { code: 'ko', label: 'Korean (ko)' },
+      { code: 'tr', label: 'Turkish (tr)' },
+      { code: 'vi', label: 'Vietnamese (vi)' },
+      { code: 'ru', label: 'Russian (ru)' },
+      { code: 'uk', label: 'Ukrainian (uk)' },
+      { code: 'hr', label: 'Croatian (hr)' },
+      { code: 'sr', label: 'Serbian (sr)' },
+      { code: 'bs', label: 'Bosnian (bs)' },
+      { code: 'sq', label: 'Albanian (sq)' },
+      { code: 'mk', label: 'Macedonian (mk)' },
+      { code: 'sl', label: 'Slovenian (sl)' },
+      { code: 'bg', label: 'Bulgarian (bg)' },
+      { code: 'fa', label: 'Farsi (fa)' },
+      { code: 'ur', label: 'Urdu (ur)' },
+      { code: 'he', label: 'Hebrew (he)' },
+      { code: 'ps', label: 'Pashto (ps)' },
+      { code: 'ku', label: 'Kurdish (ku)' },
+      { code: 'dv', label: 'Dhivehi (dv)' }
+    ];
+    var supportedLanguages = languageOptions.map(function(option) {
+      return option.code;
+    });
+    const rtlLanguages = ['ar', 'fa', 'ur', 'he', 'ps', 'ku', 'dv'];
+    var storedLanguage = localStorage.getItem('selectedLanguage');
+    window.currentLang = supportedLanguages.indexOf(storedLanguage) !== -1 ? storedLanguage : 'en';
+
+    function applyLanguageContext() {
+      document.documentElement.lang = window.currentLang;
+      document.documentElement.dir = rtlLanguages.indexOf(window.currentLang) !== -1 ? 'rtl' : 'ltr';
+    }
+
+    function getRouteParts() {
+      var route = window.location.hash ? window.location.hash.slice(1) : '/';
+      var queryIndex = route.indexOf('?');
+      var path = queryIndex === -1 ? route : route.slice(0, queryIndex);
+      var suffix = queryIndex === -1 ? '' : route.slice(queryIndex);
+
+      if (!path) {
+        path = '/';
+      }
+
+      if (path.charAt(0) !== '/') {
+        path = '/' + path;
+      }
+
+      return {
+        path: path,
+        suffix: suffix
+      };
+    }
+
+    function normalizeRouteForLanguage(lang) {
+      var routeParts = getRouteParts();
+      var path = routeParts.path.replace(/\.md$/i, '');
+
+      if (path === '/' || path === '') {
+        path = '/README';
+      }
+
+      if (/^\/rules\/[^/]+\/?$/.test(path)) {
+        path = path.replace(/^\/rules\/[^/]+/, '/rules/' + lang);
+        if (/\/$/.test(path)) {
+          path += 'README';
+        } else if (path.split('/').length === 3) {
+          path += '/README';
+        }
+      } else if (/^\/rules\/[^/]+\//.test(path)) {
+        path = path.replace(/^\/rules\/[^/]+/, '/rules/' + lang);
+      } else {
+        path = '/rules/' + lang + path;
+      }
+
+      return path + routeParts.suffix;
+    }
+
+    function syncRouteToLanguage(lang, replaceState) {
+      var normalizedHash = '#' + normalizeRouteForLanguage(lang);
+
+      if (replaceState) {
+        window.history.replaceState(null, '', window.location.pathname + window.location.search + normalizedHash);
+      } else if (window.location.hash !== normalizedHash) {
+        window.location.hash = normalizedHash;
+      }
+    }
+
+    function setCurrentLanguage(lang) {
+      if (supportedLanguages.indexOf(lang) === -1) {
+        lang = 'en';
+      }
+
+      if (lang === window.currentLang) {
+        applyLanguageContext();
+        renderLanguagePicker();
+        return;
+      }
+
+      window.currentLang = lang;
+      localStorage.setItem('selectedLanguage', lang);
+      applyLanguageContext();
+      renderLanguagePicker();
+      syncRouteToLanguage(lang, false);
+    }
+
+    function renderLanguagePicker() {
+      var sidebar = document.querySelector('.sidebar');
+      var sidebarNav = document.querySelector('.sidebar-nav');
+
+      if (!sidebar || !sidebarNav) {
+        return;
+      }
+
+      var container = document.querySelector('.language-picker');
+
+      if (!container) {
+        container = document.createElement('div');
+        container.className = 'language-picker';
+        container.innerHTML = '<label for="language-picker-select">Language</label><select id="language-picker-select" aria-label="Select language"></select>';
+        sidebar.insertBefore(container, sidebarNav);
+      }
+
+      var select = container.querySelector('select');
+
+      if (!select.dataset.initialized) {
+        languageOptions.forEach(function(option) {
+          var optionElement = document.createElement('option');
+          optionElement.value = option.code;
+          optionElement.textContent = option.label;
+          select.appendChild(optionElement);
+        });
+
+        select.addEventListener('change', function(event) {
+          setCurrentLanguage(event.target.value);
+        });
+
+        select.dataset.initialized = 'true';
+      }
+
+      select.value = window.currentLang;
+    }
+
+    function localizeMarkdownRequest(url) {
+      var requestUrl = new URL(url, window.location.origin);
+      var isMarkdownRequest = /\.md$/i.test(requestUrl.pathname);
+      var isStaticAsset = /^\/_(assets|media)\//i.test(requestUrl.pathname);
+
+      if (requestUrl.origin !== window.location.origin || !isMarkdownRequest || isStaticAsset) {
+        return requestUrl.toString();
+      }
+
+      var fileName = requestUrl.pathname.split('/').pop();
+      var localizedPath = '/rules/' + window.currentLang + '/' + fileName;
+
+      if (window.currentLang !== 'en' && languageFileExists(localizedPath) === false) {
+        localizedPath = '/rules/en/' + fileName;
+      }
+
+      return localizedPath + requestUrl.search;
+    }
+
+    var isLanguageProbeRequest = false;
+    var originalXHROpen = XMLHttpRequest.prototype.open;
+
+    function languageFileExists(path) {
+      var request = new XMLHttpRequest();
+      var exists = true;
+
+      isLanguageProbeRequest = true;
+
+      try {
+        request.open('HEAD', path, false);
+        request.send();
+        exists = request.status !== 404;
+      } catch (error) {
+        exists = true;
+      }
+
+      isLanguageProbeRequest = false;
+      return exists;
+    }
+
+    XMLHttpRequest.prototype.open = function(method, url, async, user, password) {
+      var resolvedUrl = url;
+
+      if (!isLanguageProbeRequest && typeof url !== 'undefined' && url !== null) {
+        resolvedUrl = localizeMarkdownRequest(String(url));
+      }
+
+      return originalXHROpen.call(this, method, resolvedUrl, async, user, password);
+    };
+
+    function languagePickerPlugin(hook) {
+      hook.mounted(function() {
+        renderLanguagePicker();
+      });
+
+      hook.doneEach(function() {
+        applyLanguageContext();
+        renderLanguagePicker();
+      });
+    }
+
+    applyLanguageContext();
+    syncRouteToLanguage(window.currentLang, true);
+
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
       name: 'Menu',
@@ -84,7 +298,8 @@
         noData: 'No matches found.',
         // Headline depth, 1 - 6
         depth: 4,
-      }
+      },
+      plugins: [languagePickerPlugin]
     };
   </script>
   

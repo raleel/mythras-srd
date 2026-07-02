@@ -11,6 +11,34 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 30px!important;
 }
 
+.language-picker {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 16px 20px 0;
+}
+
+.language-picker label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.language-picker select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid rgba(127, 127, 127, 0.35);
+    border-radius: 6px;
+    background: var(--sidebar-background, #fff);
+    color: inherit;
+    font: inherit;
+}
+
+html[dir="rtl"] .language-picker {
+    text-align: right;
+}
+
 .sidebar-toggle {
     top: 0;
     bottom: unset;
