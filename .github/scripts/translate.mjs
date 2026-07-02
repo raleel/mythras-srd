@@ -7,6 +7,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 import { GoogleGenAI } from "@google/genai";
 
 const TARGET_LANGUAGES = [
@@ -94,6 +95,92 @@ function restoreCodeBlocks(translatedText, placeholders) {
 
 function targetPathFor(englishPath, lang) {
   return englishPath.replace("rules/en/", `rules/${lang}/`);
+}
+
+function git(args) {
+  return execFileSync("git", args, { encoding: "utf8" });
+}
+
+function configureGitIdentity() {
+  try {
+    git(["config", "user.name", "github-actions[bot]"]);
+    git(["config", "user.email", "github-actions[bot]@users.noreply.github.com"]);
+  } catch (error) {
+    console.error(`Failed to configure git identity: ${error.message}`);
+  }
+}
+
+/**
+ * Commits and pushes whatever has been translated so far for one English
+ * file, immediately after that file's language loop finishes. This is the
+ * key fix for preserving progress: a single file/language failure (or the
+ * job later timing out, being cancelled, or hitting a rate limit on a
+ * *different* file) no longer wipes out everything translated up to that
+ * point, since each file's results are safely on origin before we move on
+ * to the next one.
+ */
+function commitAndPushProgress(englishPath) {
+  try {
+    git(["add", "rules/"]);
+  } catch (error) {
+    console.error(`git add failed for ${englishPath}: ${error.message}`);
+    return;
+  }
+
+  let staged;
+  try {
+    staged = git(["diff", "--cached", "--name-only"]).trim();
+  } catch (error) {
+    console.error(`git diff failed for ${englishPath}: ${error.message}`);
+    return;
+  }
+
+  if (!staged) {
+    console.log(`No translation changes to commit for ${englishPath}.`);
+    return;
+  }
+
+  try {
+    git(["commit", "-m", `chore: auto-translate ${englishPath}`]);
+  } catch (error) {
+    console.error(`git commit failed for ${englishPath}: ${error.message}`);
+    return;
+  }
+
+  const branch = process.env.GITHUB_REF_NAME;
+  if (!branch) {
+    console.error(
+      `GITHUB_REF_NAME is not set; the commit for ${englishPath} is saved ` +
+      "locally but was not pushed."
+    );
+    return;
+  }
+
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    try {
+      git(["push", "origin", `HEAD:${branch}`]);
+      console.log(`Committed and pushed translations for ${englishPath}.`);
+      return;
+    } catch (error) {
+      console.error(`git push failed for ${englishPath} (attempt ${attempt + 1}/2): ${error.message}`);
+
+      // The branch may have moved (e.g. another commit landed on it while
+      // this long-running job was translating). Rebase once and retry.
+      if (attempt === 0) {
+        try {
+          git(["pull", "--rebase", "origin", branch]);
+        } catch (pullError) {
+          console.error(`git pull --rebase failed for ${englishPath}: ${pullError.message}`);
+          break;
+        }
+      }
+    }
+  }
+
+  console.error(
+    `Giving up pushing translations for ${englishPath} after retrying; ` +
+    "progress is committed locally but not pushed to origin."
+  );
 }
 
 async function translateOne(ai, protectedText, lang) {
@@ -212,6 +299,8 @@ async function main() {
 
   const ai = new GoogleGenAI({ apiKey });
 
+  configureGitIdentity();
+
   for (const file of changedFiles) {
     if (!file.startsWith("rules/en/") || !file.endsWith(".md")) {
       console.log(`Skipping ${file} (not an English rules markdown file).`);
@@ -225,6 +314,10 @@ async function main() {
 
     console.log(`Translating ${file} into ${TARGET_LANGUAGES.length} languages...`);
     await translateFile(ai, file);
+
+    // Commit + push immediately after this file's languages are done, so
+    // progress is preserved incrementally instead of all-or-nothing.
+    commitAndPushProgress(file);
   }
 }
 
