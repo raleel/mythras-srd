@@ -12,20 +12,39 @@ import { GoogleGenAI } from "@google/genai";
 const TARGET_LANGUAGES = [
   "es", "fr", "it", "el", "zh-CN", "ar", "fa", "ur", "he", "ps", "ku", "dv",
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
+  "tl",
 ];
 
 // gemini-2.5-pro has a 0-request free-tier quota, so default to the flash
 // model (which the free tier does support) unless overridden via env var.
 const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
-// Free-tier Gemini quota caps requests per minute, but with billing enabled
-// on the project this cap is lifted, so no artificial delay is needed
-// between translation calls. Set RATE_LIMIT_DELAY_MS to re-enable a delay
-// if you ever drop back to the free tier.
-const RATE_LIMIT_DELAY_MS = Number(process.env.RATE_LIMIT_DELAY_MS || 0);
+// Max attempts (including the first try) per language before giving up and
+// logging a final failure.
+const MAX_ATTEMPTS = 4;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * Pulls an HTTP-ish status code out of a Gemini API error, regardless of
+ * whether the SDK surfaced it as a numeric `.status`/`.code` property or
+ * only as a JSON blob embedded in `error.message` (which is what
+ * @google/genai currently does, e.g. `{"error":{"code":503,...}}`).
+ */
+function getErrorStatusCode(error) {
+  if (typeof error?.status === "number") return error.status;
+  if (typeof error?.code === "number") return error.code;
+
+  const message = String(error?.message || "");
+  const match = message.match(/"code"\s*:\s*(\d{3})/);
+  if (match) return Number(match[1]);
+
+  if (/RESOURCE_EXHAUSTED/i.test(message)) return 429;
+  if (/UNAVAILABLE/i.test(message)) return 503;
+
+  return null;
 }
 
 const SYSTEM_INSTRUCTION =
@@ -101,6 +120,44 @@ async function translateOne(ai, protectedText, lang) {
   return text;
 }
 
+/**
+ * Calls translateOne with bounded exponential backoff + jitter, so
+ * transient Google server overloads (503 UNAVAILABLE) or brief 429 rate
+ * spikes self-heal instead of failing the whole language immediately.
+ * Non-retryable errors (anything other than 429/503) fail fast.
+ */
+async function translateWithRetry(ai, protectedText, lang) {
+  let lastError;
+
+  for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt += 1) {
+    try {
+      return await translateOne(ai, protectedText, lang);
+    } catch (error) {
+      lastError = error;
+      const statusCode = getErrorStatusCode(error);
+      const isRetryable = statusCode === 503 || statusCode === 429;
+      const isLastAttempt = attempt === MAX_ATTEMPTS - 1;
+
+      if (!isRetryable || isLastAttempt) {
+        throw error;
+      }
+
+      const backoffMs = 2 ** attempt * 1000;
+      const jitterMs = 100 + Math.random() * 400; // 100-500ms
+      const delayMs = backoffMs + jitterMs;
+
+      console.warn(
+        `Retryable error (status ${statusCode}) translating into "${lang}" ` +
+        `(attempt ${attempt + 1}/${MAX_ATTEMPTS}). Retrying in ${Math.round(delayMs)}ms...`
+      );
+      await sleep(delayMs);
+    }
+  }
+
+  // Unreachable, but keeps TypeScript/linters happy about a return path.
+  throw lastError;
+}
+
 async function translateFile(ai, englishPath) {
   const englishContent = fs.readFileSync(englishPath, "utf8");
   const { protectedText, placeholders } = protectCodeBlocks(englishContent);
@@ -121,18 +178,17 @@ async function translateFile(ai, englishPath) {
     }
 
     try {
-      const translatedText = await translateOne(ai, protectedText, lang);
+      const translatedText = await translateWithRetry(ai, protectedText, lang);
       const restoredText = restoreCodeBlocks(translatedText, placeholders);
 
       fs.mkdirSync(path.dirname(targetPath), { recursive: true });
       fs.writeFileSync(targetPath, restoredText, "utf8");
       console.log(`Translated ${englishPath} -> ${targetPath}`);
-
-      await sleep(RATE_LIMIT_DELAY_MS);
     } catch (error) {
-      // A single language failing (rate limit, transient API error, etc.)
-      // should not stop the rest of the languages/files from being processed.
-      console.error(`Failed to translate ${englishPath} into "${lang}": ${error.message}`);
+      // A single language failing after all retries (rate limit, transient
+      // API error, etc.) should not stop the rest of the languages/files
+      // from being processed.
+      console.error(`Failed to translate ${englishPath} into "${lang}" after ${MAX_ATTEMPTS} attempts: ${error.message}`);
     }
   }
 }
