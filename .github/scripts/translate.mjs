@@ -14,7 +14,9 @@ const TARGET_LANGUAGES = [
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
 ];
 
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-pro";
+// gemini-2.5-pro has a 0-request free-tier quota, so default to the flash
+// model (which the free tier does support) unless overridden via env var.
+const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
 const SYSTEM_INSTRUCTION =
   "You are an expert TTRPG translator specializing in complex tabletop rules. " +
