@@ -121,10 +121,14 @@ jobs:
           FORCE_RETRANSLATE: ${{ github.event.inputs.force_retranslate }}
         run: node .github/scripts/translate.mjs
 
-      - name: Commit and push translated files
-        if: steps.changes.outputs.has_changes == 'true'
+      - name: Commit and push any remaining translated files
+        if: always() && steps.changes.outputs.has_changes == 'true'
         run: |
           set -e
+          # Safety net only: translate.mjs now commits and pushes
+          # incrementally after each English file finishes, so this should
+          # normally be a no-op. It's kept in case anything was left
+          # uncommitted (e.g. the job was killed mid-file).
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add rules/
