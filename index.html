@@ -83,110 +83,101 @@
     var storedLanguage = localStorage.getItem('selectedLanguage');
     window.currentLang = supportedLanguages.indexOf(storedLanguage) !== -1 ? storedLanguage : 'en';
 
+    function languageFileExists(path) {
+      var request = new XMLHttpRequest();
+
+      try {
+        request.open('HEAD', path, false);
+        request.send();
+        return request.status >= 200 && request.status < 400;
+      } catch (error) {
+        return false;
+      }
+    }
+
     function applyLanguageContext() {
       document.documentElement.lang = window.currentLang;
       document.documentElement.dir = rtlLanguages.indexOf(window.currentLang) !== -1 ? 'rtl' : 'ltr';
     }
 
-    function getRouteParts() {
+    function getRouteDocument() {
       var route = window.location.hash ? window.location.hash.slice(1) : '/';
       var queryIndex = route.indexOf('?');
       var path = queryIndex === -1 ? route : route.slice(0, queryIndex);
-      var suffix = queryIndex === -1 ? '' : route.slice(queryIndex);
+      var segments = path.split('/').filter(Boolean);
+      var docPath = 'README';
 
-      if (!path) {
-        path = '/';
+      if (segments.length === 0) {
+        return docPath;
       }
 
-      if (path.charAt(0) !== '/') {
-        path = '/' + path;
+      if (segments[0] === 'rules') {
+        if (segments.length >= 3) {
+          docPath = segments.slice(2).join('/');
+        } else {
+          docPath = 'README';
+        }
+      } else {
+        docPath = segments.join('/');
       }
 
-      return {
-        path: path,
-        suffix: suffix
-      };
+      if (!docPath || docPath === 'index' || docPath === 'index.html') {
+        docPath = 'README';
+      }
+
+      return docPath.replace(/\.md$/i, '');
     }
 
-    function isLandingRoutePath(path) {
-      return path === '/' ||
-        path === '' ||
-        path === '/index' ||
-        path === '/index.html' ||
-        path === '/README' ||
-        path === '/README.md' ||
-        /^\/rules\/[^/]+\/?$/.test(path) ||
-        /^\/rules\/[^/]+\/README(?:\.md)?$/i.test(path);
+    function routeForLanguageDocument(lang, docPath) {
+      return '#/rules/' + lang + '/' + docPath.replace(/\.md$/i, '');
     }
 
-    function getLocalizedHomePath(lang) {
-      return '/rules/' + lang + '/README';
-    }
-
-    function updateRouteHash(pathWithOptionalSuffix, replaceState) {
-      var normalizedHash = '#' + pathWithOptionalSuffix;
+    function ensureRouteForCurrentLanguage(replaceState) {
+      var docPath = getRouteDocument();
+      var targetHash = routeForLanguageDocument(window.currentLang, docPath);
 
       if (replaceState) {
-        window.history.replaceState(null, '', window.location.pathname + window.location.search + normalizedHash);
-      } else if (window.location.hash !== normalizedHash) {
-        window.location.hash = normalizedHash;
+        window.history.replaceState(null, '', window.location.pathname + window.location.search + targetHash);
+      } else if (window.location.hash !== targetHash) {
+        window.location.hash = targetHash;
       }
     }
 
-    function normalizeRouteForLanguage(lang) {
-      var routeParts = getRouteParts();
-      var path = routeParts.path.replace(/\.md$/i, '');
-
-      if (isLandingRoutePath(routeParts.path)) {
-        return getLocalizedHomePath(lang) + routeParts.suffix;
-      }
-
-      if (/^\/rules\/[^/]+\/?$/.test(path)) {
-        path = path.replace(/^\/rules\/[^/]+/, '/rules/' + lang);
-        if (/\/$/.test(path)) {
-          path += 'README';
-        } else if (path.split('/').length === 3) {
-          path += '/README';
-        }
-      } else if (/^\/rules\/[^/]+\//.test(path)) {
-        path = path.replace(/^\/rules\/[^/]+/, '/rules/' + lang);
-      } else {
-        path = '/rules/' + lang + path;
-      }
-
-      return path + routeParts.suffix;
+    function languageHasCoreFiles(lang) {
+      return languageFileExists('/rules/' + lang + '/README.md') &&
+        languageFileExists('/rules/' + lang + '/_sidebar.md');
     }
 
-    function syncRouteToLanguage(lang, replaceState) {
-      var routeParts = getRouteParts();
-
-      if (isLandingRoutePath(routeParts.path)) {
-        updateRouteHash(getLocalizedHomePath(lang) + routeParts.suffix, replaceState);
-        return;
-      }
-
-      updateRouteHash(normalizeRouteForLanguage(lang), replaceState);
+    if (window.currentLang !== 'en' && !languageHasCoreFiles(window.currentLang)) {
+      window.currentLang = 'en';
+      localStorage.setItem('selectedLanguage', 'en');
     }
+
+    applyLanguageContext();
+    ensureRouteForCurrentLanguage(true);
 
     function setCurrentLanguage(lang) {
       if (supportedLanguages.indexOf(lang) === -1) {
         lang = 'en';
       }
 
-      if (lang === window.currentLang) {
-        applyLanguageContext();
-        renderLanguagePicker();
-        if (isLandingRoutePath(getRouteParts().path)) {
-          syncRouteToLanguage(lang, false);
-        }
-        return;
+      localStorage.setItem('selectedLanguage', lang);
+      window.currentLang = lang;
+
+      if (window.currentLang !== 'en' && !languageHasCoreFiles(window.currentLang)) {
+        window.currentLang = 'en';
+        localStorage.setItem('selectedLanguage', 'en');
       }
 
-      window.currentLang = lang;
-      localStorage.setItem('selectedLanguage', lang);
       applyLanguageContext();
-      renderLanguagePicker();
-      syncRouteToLanguage(lang, false);
+      var targetUrl = window.location.pathname + window.location.search + routeForLanguageDocument(window.currentLang, getRouteDocument());
+      var currentUrl = window.location.pathname + window.location.search + window.location.hash;
+
+      if (targetUrl === currentUrl) {
+        window.location.reload();
+      } else {
+        window.location.href = targetUrl;
+      }
     }
 
     function renderLanguagePicker() {
@@ -226,57 +217,25 @@
       select.value = window.currentLang;
     }
 
-    function localizeMarkdownRequest(url) {
-      var requestUrl = new URL(url, window.location.origin);
-      var isMarkdownRequest = /\.md$/i.test(requestUrl.pathname);
-      var isStaticAsset = /^\/_(assets|media)\//i.test(requestUrl.pathname);
-
-      if (requestUrl.origin !== window.location.origin || !isMarkdownRequest || isStaticAsset) {
-        return requestUrl.toString();
+    function enforceEnglishFallbackForMissingRoute() {
+      if (window.currentLang === 'en') {
+        return;
       }
 
-      var fileName = requestUrl.pathname.split('/').pop();
-      var localizedPath = '/rules/' + window.currentLang + '/' + fileName;
-
-      if (window.currentLang !== 'en' && languageFileExists(localizedPath) === false) {
-        localizedPath = '/rules/en/' + fileName;
+      var docPath = getRouteDocument();
+      if (!languageFileExists('/rules/' + window.currentLang + '/' + docPath + '.md')) {
+        window.currentLang = 'en';
+        localStorage.setItem('selectedLanguage', 'en');
+        applyLanguageContext();
+        window.location.hash = routeForLanguageDocument('en', docPath);
       }
-
-      return localizedPath + requestUrl.search;
     }
-
-    var isLanguageProbeRequest = false;
-    var originalXHROpen = XMLHttpRequest.prototype.open;
-
-    function languageFileExists(path) {
-      var request = new XMLHttpRequest();
-      var exists = true;
-
-      isLanguageProbeRequest = true;
-
-      try {
-        request.open('HEAD', path, false);
-        request.send();
-        exists = request.status >= 200 && request.status < 400;
-      } catch (error) {
-        exists = false;
-      }
-
-      isLanguageProbeRequest = false;
-      return exists;
-    }
-
-    XMLHttpRequest.prototype.open = function(method, url, async, user, password) {
-      var resolvedUrl = url;
-
-      if (!isLanguageProbeRequest && typeof url !== 'undefined' && url !== null) {
-        resolvedUrl = localizeMarkdownRequest(String(url));
-      }
-
-      return originalXHROpen.call(this, method, resolvedUrl, async, user, password);
-    };
 
     function languagePickerPlugin(hook) {
+      hook.ready(function() {
+        enforceEnglishFallbackForMissingRoute();
+      });
+
       hook.mounted(function() {
         renderLanguagePicker();
       });
@@ -287,9 +246,6 @@
       });
     }
 
-    applyLanguageContext();
-    syncRouteToLanguage(window.currentLang, true);
-
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
       name: 'Menu',
@@ -298,29 +254,11 @@
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
+      homepage: '/rules/' + window.currentLang + '/README.md',
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
       subMaxLevel: 3,
-		executeScript: true,
-		// Define custom script to handle link clicks
-		scriptExecution: function() {
-			// Get all links in the document
-			var links = document.querySelectorAll('a');
-			// Loop through each link
-			links.forEach(function(link) {
-				// Add click event listener
-				link.addEventListener('click', function(e) {
-					// Prevent the default behavior (opening link in new tab)
-					e.preventDefault();
-					// Get the target link
-					var href = this.getAttribute('href');
-					// Update the content with the target link
-					window.history.pushState(null, null, href);
-					// Update the content by calling Docsify's function
-					window.Docsify.dom.updateSidebarAndContent();
-				});
-			});
-		},
+      relativePath: true,
       // Search Plugin Configuration
       search: {
         placeholder: 'Type to search',
