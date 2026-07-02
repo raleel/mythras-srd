@@ -93,6 +93,29 @@ function restoreCodeBlocks(translatedText, placeholders) {
   return restored;
 }
 
+// Structural "site frame" files that Docsify needs to render navigation and
+// the landing page in every language. These are prioritized ahead of
+// regular numbered content files (see sortByTranslationPriority) so that if
+// a run is interrupted partway through (rate limits, cancellation, quota),
+// every language that got ANY translation at all still has a working
+// sidebar/navbar/home page rather than a half-translated site with a blank
+// frame.
+const STRUCTURAL_FILENAMES = ["README.md", "_sidebar.md", "_navbar.md"];
+
+function structuralPriority(filePath) {
+  const index = STRUCTURAL_FILENAMES.indexOf(path.basename(filePath));
+  return index === -1 ? STRUCTURAL_FILENAMES.length : index;
+}
+
+/**
+ * Sorts changed files so README.md, _sidebar.md, and _navbar.md always
+ * translate first (in that order), before the numbered content files.
+ * Non-structural files keep their existing relative order.
+ */
+function sortByTranslationPriority(files) {
+  return [...files].sort((a, b) => structuralPriority(a) - structuralPriority(b));
+}
+
 function targetPathFor(englishPath, lang) {
   return englishPath.replace("rules/en/", `rules/${lang}/`);
 }
@@ -301,7 +324,9 @@ async function main() {
 
   configureGitIdentity();
 
-  for (const file of changedFiles) {
+  const orderedFiles = sortByTranslationPriority(changedFiles);
+
+  for (const file of orderedFiles) {
     if (!file.startsWith("rules/en/") || !file.endsWith(".md")) {
       console.log(`Skipping ${file} (not an English rules markdown file).`);
       continue;
