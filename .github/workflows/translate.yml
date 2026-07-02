@@ -1,7 +1,19 @@
 name: Translate SRD Markdown
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Which English files to (re-)translate'
+        type: choice
+        default: 'all'
+        options:
+          - all
+          - changed-only
+      force_retranslate:
+        description: 'Redo languages that already have a translated file (default: skip them)'
+        type: boolean
+        default: false
   push:
     paths:
       - 'rules/en/**.md'
@@ -36,6 +48,7 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           BEFORE_SHA: ${{ github.event.before }}
           AFTER_SHA: ${{ github.event.after }}
+          DISPATCH_MODE: ${{ github.event.inputs.mode }}
         run: |
           set -e
 
@@ -60,19 +73,27 @@ jobs:
             if [ -z "$HEAD_REF" ] || ! git cat-file -e "$HEAD_REF" 2>/dev/null; then
               HEAD_REF="HEAD"
             fi
-          else
-            # workflow_dispatch (or any other manual trigger): fall back to
-            # comparing against the parent of the last commit.
+
+            echo "Diffing $BASE_REF..$HEAD_REF"
+            FILES=$(git diff --name-only --diff-filter=ACM "$BASE_REF" "$HEAD_REF" -- 'rules/en/*.md' || true)
+          elif [ "$DISPATCH_MODE" = "changed-only" ]; then
+            # Manual run, but the user explicitly asked to only pick up
+            # whatever changed in the most recent commit.
             if git rev-parse HEAD^ >/dev/null 2>&1; then
               BASE_REF="HEAD^"
             else
               BASE_REF="$EMPTY_TREE"
             fi
-            HEAD_REF="HEAD"
+            echo "Diffing $BASE_REF..HEAD"
+            FILES=$(git diff --name-only --diff-filter=ACM "$BASE_REF" HEAD -- 'rules/en/*.md' || true)
+          else
+            # Manual run with the default "all" mode: backfill every English
+            # file, regardless of whether it changed recently. This is what
+            # catches languages that never got translated in the first place
+            # (e.g. because an earlier run hit a rate limit or quota error).
+            echo "Manual dispatch in 'all' mode: translating every rules/en/*.md file."
+            FILES=$(git ls-files 'rules/en/*.md')
           fi
-
-          echo "Diffing $BASE_REF..$HEAD_REF"
-          FILES=$(git diff --name-only --diff-filter=ACM "$BASE_REF" "$HEAD_REF" -- 'rules/en/*.md' || true)
 
           echo "Changed English markdown files:"
           echo "$FILES"
@@ -97,6 +118,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CHANGED_FILES: ${{ steps.changes.outputs.files }}
+          FORCE_RETRANSLATE: ${{ github.event.inputs.force_retranslate }}
         run: node .github/scripts/translate.mjs
 
       - name: Commit and push translated files

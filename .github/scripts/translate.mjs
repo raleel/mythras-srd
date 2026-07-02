@@ -104,8 +104,20 @@ async function translateFile(ai, englishPath) {
   const englishContent = fs.readFileSync(englishPath, "utf8");
   const { protectedText, placeholders } = protectCodeBlocks(englishContent);
 
+  // Skip languages that already have a translated file, unless the caller
+  // explicitly asks to redo them. This lets a manual "translate everything"
+  // backfill run pick up only what's actually missing (e.g. because an
+  // earlier run hit a rate limit or quota error) instead of burning API
+  // quota re-translating files that already succeeded.
+  const forceRetranslate = process.env.FORCE_RETRANSLATE === "true";
+
   for (const lang of TARGET_LANGUAGES) {
     const targetPath = targetPathFor(englishPath, lang);
+
+    if (!forceRetranslate && fs.existsSync(targetPath)) {
+      console.log(`Skipping ${targetPath} (already translated; set FORCE_RETRANSLATE=true to redo).`);
+      continue;
+    }
 
     try {
       const translatedText = await translateOne(ai, protectedText, lang);
