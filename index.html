@@ -108,12 +108,63 @@
       };
     }
 
+    function isLandingRoutePath(path) {
+      return path === '/' ||
+        path === '' ||
+        path === '/index' ||
+        path === '/index.html' ||
+        path === '/README' ||
+        path === '/README.md' ||
+        /^\/rules\/[^/]+\/?$/.test(path) ||
+        /^\/rules\/[^/]+\/README(?:\.md)?$/i.test(path);
+    }
+
+    function getLocalizedHomePath(lang) {
+      return '/rules/' + lang + '/README';
+    }
+
+    function updateRouteHash(pathWithOptionalSuffix, replaceState) {
+      var normalizedHash = '#' + pathWithOptionalSuffix;
+
+      if (replaceState) {
+        window.history.replaceState(null, '', window.location.pathname + window.location.search + normalizedHash);
+      } else if (window.location.hash !== normalizedHash) {
+        window.location.hash = normalizedHash;
+      }
+    }
+
+    function resolveLocalizedHomeRoute(lang) {
+      var localizedReadme = '/rules/' + lang + '/README.md';
+
+      return fetch(localizedReadme, { cache: 'no-store' })
+        .then(function(response) {
+          if (response.ok) {
+            return getLocalizedHomePath(lang);
+          }
+
+          if (response.status === 404 && lang !== 'en') {
+            return fetch('/rules/en/README.md', { cache: 'no-store' })
+              .then(function() {
+                return getLocalizedHomePath('en');
+              })
+              .catch(function() {
+                return getLocalizedHomePath('en');
+              });
+          }
+
+          return getLocalizedHomePath(lang);
+        })
+        .catch(function() {
+          return getLocalizedHomePath(lang);
+        });
+    }
+
     function normalizeRouteForLanguage(lang) {
       var routeParts = getRouteParts();
       var path = routeParts.path.replace(/\.md$/i, '');
 
-      if (path === '/' || path === '') {
-        path = '/README';
+      if (isLandingRoutePath(routeParts.path)) {
+        return getLocalizedHomePath(lang) + routeParts.suffix;
       }
 
       if (/^\/rules\/[^/]+\/?$/.test(path)) {
@@ -133,13 +184,16 @@
     }
 
     function syncRouteToLanguage(lang, replaceState) {
-      var normalizedHash = '#' + normalizeRouteForLanguage(lang);
+      var routeParts = getRouteParts();
 
-      if (replaceState) {
-        window.history.replaceState(null, '', window.location.pathname + window.location.search + normalizedHash);
-      } else if (window.location.hash !== normalizedHash) {
-        window.location.hash = normalizedHash;
+      if (isLandingRoutePath(routeParts.path)) {
+        resolveLocalizedHomeRoute(lang).then(function(homePath) {
+          updateRouteHash(homePath + routeParts.suffix, replaceState);
+        });
+        return;
       }
+
+      updateRouteHash(normalizeRouteForLanguage(lang), replaceState);
     }
 
     function setCurrentLanguage(lang) {
@@ -150,6 +204,9 @@
       if (lang === window.currentLang) {
         applyLanguageContext();
         renderLanguagePicker();
+        if (isLandingRoutePath(getRouteParts().path)) {
+          syncRouteToLanguage(lang, false);
+        }
         return;
       }
 
