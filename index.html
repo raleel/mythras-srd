@@ -287,7 +287,7 @@
         request.send();
         exists = request.status !== 404;
       } catch (error) {
-        exists = true;
+        exists = false;
       }
 
       isLanguageProbeRequest = false;
