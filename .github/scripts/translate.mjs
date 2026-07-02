@@ -18,6 +18,15 @@ const TARGET_LANGUAGES = [
 // model (which the free tier does support) unless overridden via env var.
 const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
+// Free-tier Gemini quota is capped at 10 requests per minute. Sleeping 6.5s
+// after each successful translation keeps us safely under that (~9.2 RPM)
+// across the 25-language loop.
+const RATE_LIMIT_DELAY_MS = 6500;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 const SYSTEM_INSTRUCTION =
   "You are an expert TTRPG translator specializing in complex tabletop rules. " +
   "Translate the following markdown text into the target language code provided. " +
@@ -105,6 +114,8 @@ async function translateFile(ai, englishPath) {
       fs.mkdirSync(path.dirname(targetPath), { recursive: true });
       fs.writeFileSync(targetPath, restoredText, "utf8");
       console.log(`Translated ${englishPath} -> ${targetPath}`);
+
+      await sleep(RATE_LIMIT_DELAY_MS);
     } catch (error) {
       // A single language failing (rate limit, transient API error, etc.)
       // should not stop the rest of the languages/files from being processed.
