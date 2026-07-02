@@ -169,15 +169,15 @@
         localStorage.setItem('selectedLanguage', 'en');
       }
 
-      applyLanguageContext();
-      var targetUrl = window.location.pathname + window.location.search + routeForLanguageDocument(window.currentLang, getRouteDocument());
-      var currentUrl = window.location.pathname + window.location.search + window.location.hash;
-
-      if (targetUrl === currentUrl) {
-        window.location.reload();
-      } else {
-        window.location.href = targetUrl;
-      }
+      // Explicitly update the hash route, then force a full page reload.
+      // Docsify's `alias` config (used for the sidebar/navbar language
+      // fallback below) is only evaluated once at page load, so a
+      // hash-only change would leave it pointed at the *previous*
+      // language. Reloading guarantees the whole frame (sidebar, navbar,
+      // RTL direction, alias map) is rebuilt for the newly selected
+      // language instead of just swapping the main content pane.
+      window.location.hash = routeForLanguageDocument(window.currentLang, getRouteDocument());
+      window.location.reload();
     }
 
     function renderLanguagePicker() {
@@ -217,33 +217,70 @@
       select.value = window.currentLang;
     }
 
+    // Falls back to the English copy of *this one page* when the current
+    // language doesn't have a translation for it yet. Deliberately does
+    // NOT touch window.currentLang or the stored language preference --
+    // a single untranslated page shouldn't knock the user's whole session
+    // back to English; the next page they visit should still try their
+    // selected language first.
     function enforceEnglishFallbackForMissingRoute() {
       if (window.currentLang === 'en') {
         return;
       }
 
       var docPath = getRouteDocument();
+      var expectedHash = routeForLanguageDocument(window.currentLang, docPath);
+
+      // Only act if we're actually looking at a route for the current
+      // language. This avoids redirect loops once we've already fallen
+      // back to /rules/en/... for this page.
+      if (window.location.hash !== expectedHash) {
+        return;
+      }
+
       if (!languageFileExists('/rules/' + window.currentLang + '/' + docPath + '.md')) {
-        window.currentLang = 'en';
-        localStorage.setItem('selectedLanguage', 'en');
-        applyLanguageContext();
         window.location.hash = routeForLanguageDocument('en', docPath);
       }
     }
 
     function languagePickerPlugin(hook) {
-      hook.ready(function() {
-        enforceEnglishFallbackForMissingRoute();
-      });
-
       hook.mounted(function() {
         renderLanguagePicker();
       });
 
+      // doneEach fires after every route render (including the first),
+      // so both the initial load and every subsequent in-app navigation
+      // (sidebar clicks, language switches, back/forward) get the RTL
+      // context, sidebar/menu re-render, and 404 fallback check applied.
       hook.doneEach(function() {
         applyLanguageContext();
         renderLanguagePicker();
+        enforceEnglishFallbackForMissingRoute();
       });
+    }
+
+    // Docsify loads _sidebar.md/_navbar.md relative to the current route's
+    // folder by default. Not every language has its own translated copy
+    // yet, so build an alias map that redirects ONLY the specific
+    // sidebar/navbar paths that don't exist (yet) for the current
+    // language back to the English original -- this is computed fresh on
+    // every page load (see the forced reload in setCurrentLanguage above),
+    // so it stays correct as translations land over time. A single
+    // catch-all regex alias would redirect every language's sidebar to
+    // English unconditionally, which would defeat localized sidebars
+    // entirely, so we only alias what's actually missing.
+    var docsifyAlias = {};
+    if (window.currentLang !== 'en') {
+      var localizedSidebarPath = '/rules/' + window.currentLang + '/_sidebar.md';
+      var localizedNavbarPath = '/rules/' + window.currentLang + '/_navbar.md';
+
+      if (!languageFileExists(localizedSidebarPath)) {
+        docsifyAlias[localizedSidebarPath] = '/rules/en/_sidebar.md';
+      }
+
+      if (!languageFileExists(localizedNavbarPath)) {
+        docsifyAlias[localizedNavbarPath] = '/rules/en/_navbar.md';
+      }
     }
 
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
@@ -254,6 +291,8 @@
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
+      loadNavbar: true,
+      alias: docsifyAlias,
       homepage: '/rules/' + window.currentLang + '/README.md',
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
