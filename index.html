@@ -188,7 +188,7 @@
 
       if (isLandingRoutePath(routeParts.path)) {
         resolveLocalizedHomeRoute(lang).then(function(homePath) {
-          updateRouteHash(homePath + routeParts.suffix, replaceState);
+          updateRouteHash(homePath + routeParts.suffix, false);
         });
         return;
       }
@@ -316,7 +316,7 @@
     }
 
     applyLanguageContext();
-    syncRouteToLanguage(window.currentLang, true);
+    syncRouteToLanguage(window.currentLang, false);
 
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
