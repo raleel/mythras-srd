@@ -18,10 +18,11 @@ const TARGET_LANGUAGES = [
 // model (which the free tier does support) unless overridden via env var.
 const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
-// Free-tier Gemini quota is capped at 10 requests per minute. Sleeping 6.5s
-// after each successful translation keeps us safely under that (~9.2 RPM)
-// across the 25-language loop.
-const RATE_LIMIT_DELAY_MS = 6500;
+// Free-tier Gemini quota caps requests per minute, but with billing enabled
+// on the project this cap is lifted, so no artificial delay is needed
+// between translation calls. Set RATE_LIMIT_DELAY_MS to re-enable a delay
+// if you ever drop back to the free tier.
+const RATE_LIMIT_DELAY_MS = Number(process.env.RATE_LIMIT_DELAY_MS || 0);
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
