@@ -133,32 +133,6 @@
       }
     }
 
-    function resolveLocalizedHomeRoute(lang) {
-      var localizedReadme = '/rules/' + lang + '/README.md';
-
-      return fetch(localizedReadme, { cache: 'no-store' })
-        .then(function(response) {
-          if (response.ok) {
-            return getLocalizedHomePath(lang);
-          }
-
-          if (response.status === 404 && lang !== 'en') {
-            return fetch('/rules/en/README.md', { cache: 'no-store' })
-              .then(function() {
-                return getLocalizedHomePath('en');
-              })
-              .catch(function() {
-                return getLocalizedHomePath('en');
-              });
-          }
-
-          return getLocalizedHomePath(lang);
-        })
-        .catch(function() {
-          return getLocalizedHomePath(lang);
-        });
-    }
-
     function normalizeRouteForLanguage(lang) {
       var routeParts = getRouteParts();
       var path = routeParts.path.replace(/\.md$/i, '');
@@ -187,9 +161,7 @@
       var routeParts = getRouteParts();
 
       if (isLandingRoutePath(routeParts.path)) {
-        resolveLocalizedHomeRoute(lang).then(function(homePath) {
-          updateRouteHash(homePath + routeParts.suffix, false);
-        });
+        updateRouteHash(getLocalizedHomePath(lang) + routeParts.suffix, replaceState);
         return;
       }
 
@@ -285,7 +257,7 @@
       try {
         request.open('HEAD', path, false);
         request.send();
-        exists = request.status !== 404;
+        exists = request.status >= 200 && request.status < 400;
       } catch (error) {
         exists = false;
       }
@@ -316,7 +288,7 @@
     }
 
     applyLanguageContext();
-    syncRouteToLanguage(window.currentLang, false);
+    syncRouteToLanguage(window.currentLang, true);
 
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
