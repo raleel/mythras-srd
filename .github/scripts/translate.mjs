@@ -13,7 +13,7 @@ import { GoogleGenAI } from "@google/genai";
 const TARGET_LANGUAGES = [
   "es", "fr", "it", "el", "zh-CN", "ar", "fa", "ur", "he", "ps", "ku", "dv",
   "hi", "ja", "ko", "tr", "vi", "ru", "uk", "hr", "sr", "bs", "sq", "mk", "sl",
-  "tl", "bg",
+  "tl", "bg", "bn", "te", "mr", "ta",
 ];
 
 // gemini-2.5-pro has a 0-request free-tier quota, so default to the flash
