@@ -124,6 +124,48 @@ function git(args) {
   return execFileSync("git", args, { encoding: "utf8" });
 }
 
+/**
+ * Lists every rules/en/*.md file, independent of what changed recently.
+ * Used to bypass the git-diff-based CHANGED_FILES filter when a full
+ * backfill is needed (see needsFullBackfill below). Prefers `git
+ * ls-files` (fast, respects the repo's actual tracked file list even if
+ * something is untracked/ignored), falling back to a plain directory
+ * scan if git isn't available for some reason.
+ */
+function getAllEnglishFiles() {
+  try {
+    return git(["ls-files", "rules/en/*.md"])
+      .split("\n")
+      .map((line) => line.trim())
+      .filter(Boolean);
+  } catch (error) {
+    console.error(`git ls-files failed, falling back to a filesystem scan: ${error.message}`);
+    return fs
+      .readdirSync("rules/en")
+      .filter((name) => name.endsWith(".md"))
+      .map((name) => `rules/en/${name}`);
+  }
+}
+
+/**
+ * True if a target language's rules/<lang>/ directory doesn't exist yet,
+ * or exists but has no markdown files in it (e.g. only a placeholder file
+ * used to reserve the folder). Either way, that language has never
+ * actually been translated, so a normal git-diff-scoped run (which only
+ * covers whatever English files happened to change most recently) would
+ * leave most of its content missing indefinitely.
+ */
+function languageNeedsFullBackfill(lang) {
+  const dir = path.join("rules", lang);
+  if (!fs.existsSync(dir)) return true;
+  return !fs.readdirSync(dir).some((name) => name.endsWith(".md"));
+}
+
+/** True when this run was triggered manually via workflow_dispatch. */
+function isManualRun() {
+  return process.env.GITHUB_EVENT_NAME === "workflow_dispatch";
+}
+
 function configureGitIdentity() {
   try {
     git(["config", "user.name", "github-actions[bot]"]);
@@ -310,7 +352,36 @@ async function main() {
     .map((line) => line.trim())
     .filter(Boolean);
 
-  if (changedFiles.length === 0) {
+  // Normally we only process whatever CHANGED_FILES (the git-diff-scoped
+  // list from the workflow) hands us. But that list only reflects recent
+  // English edits -- it has no idea a target language was just added and
+  // has never been translated at all. So: if any target language still
+  // needs a full backfill (missing/empty rules/<lang>/ folder), or this
+  // run was triggered manually, bypass the diff filter and fall back to
+  // every rules/en/*.md file. translateFile's existing "skip if already
+  // translated" check means this costs nothing for languages/files that
+  // are already up to date -- it only actually translates what's missing.
+  const languagesNeedingBackfill = TARGET_LANGUAGES.filter(languageNeedsFullBackfill);
+  const manualRun = isManualRun();
+
+  let filesToProcess = changedFiles;
+
+  if (languagesNeedingBackfill.length > 0 || manualRun) {
+    if (languagesNeedingBackfill.length > 0) {
+      console.log(
+        `Missing/empty rules/<lang>/ folder detected for: ${languagesNeedingBackfill.join(", ")}. ` +
+        "Bypassing the git diff filter and processing every rules/en/*.md file so these languages get a full backfill."
+      );
+    }
+    if (manualRun) {
+      console.log("Running via workflow_dispatch (manual trigger); bypassing the git diff filter and processing every rules/en/*.md file.");
+    }
+
+    const allEnglishFiles = getAllEnglishFiles();
+    filesToProcess = Array.from(new Set([...changedFiles, ...allEnglishFiles]));
+  }
+
+  if (filesToProcess.length === 0) {
     console.log("No changed English markdown files were provided. Exiting.");
     return;
   }
@@ -324,7 +395,7 @@ async function main() {
 
   configureGitIdentity();
 
-  const orderedFiles = sortByTranslationPriority(changedFiles);
+  const orderedFiles = sortByTranslationPriority(filesToProcess);
 
   for (const file of orderedFiles) {
     if (!file.startsWith("rules/en/") || !file.endsWith(".md")) {
