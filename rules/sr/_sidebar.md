@@ -7,9 +7,9 @@
 - [Magija i moći](0007_Magic.md)
 - [Stvorenja](0008_Creatures.md)
 ---
-- [Imperativni nasumični generator likova](https://srd.mythras.net/imperative-char-gen.html)
-- [Klasična fantazija imperativ SRD](https://cfi-srd.mythras.net)
+- [Imperativni generator nasumičnih likova](https://srd.mythras.net/imperative-char-gen.html)
+- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD alternativni](https://bruge.us/rules/srd/)
+- [BRP UGE SRD alternativa](https://bruge.us/rules/srd/)
 - [Fatman's Factotum - Mythras alati!](https://factotum.mythras.net)
-- [Beleške iz Pavisa, Hanuovi neverovatni alati!](https://notesfrompavis.blog/)
+- [Notes From Pavis, Hannuovi neverovatni alati!](https://notesfrompavis.blog/)

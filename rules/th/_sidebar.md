@@ -7,9 +7,9 @@
 - [เวทมนตร์และพลัง](0007_Magic.md)
 - [สิ่งมีชีวิต](0008_Creatures.md)
 ---
-- [เครื่องสร้างตัวละครแบบสุ่ม Imperative](https://srd.mythras.net/imperative-char-gen.html)
+- [โปรแกรมสุ่มตัวละคร Imperative](https://srd.mythras.net/imperative-char-gen.html)
 - [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD (ทางเลือก)](https://bruge.us/rules/srd/)
+- [BRP UGE SRD ฉบับสำรอง](https://bruge.us/rules/srd/)
 - [Fatman's Factotum - เครื่องมือสำหรับ Mythras!](https://factotum.mythras.net)
-- [Notes From Pavis, เครื่องมือสุดยอดของ Hannu!](https://notesfrompavis.blog/)
+- [Notes From Pavis, เครื่องมือสุดวิเศษของ Hannu!](https://notesfrompavis.blog/)

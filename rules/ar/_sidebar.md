@@ -8,8 +8,8 @@
 - [المخلوقات](0008_Creatures.md)
 ---
 - [مولد الشخصيات العشوائي الحتمي](https://srd.mythras.net/imperative-char-gen.html)
-- [SRD الإلزامي للخيال الكلاسيكي](https://cfi-srd.mythras.net)
-- [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD بديل](https://bruge.us/rules/srd/)
-- [Fatman's Factotum - أدوات Mythras!](https://factotum.mythras.net)
+- [مستند قواعد (SRD) "إمبراتيف" للفانتازيا الكلاسيكية](https://cfi-srd.mythras.net)
+- [مستند قواعد (SRD) لنظام BRP UGE](https://brpugesrd.xyz)
+- [مستند قواعد (SRD) لنظام BRP UGE (بديل)](https://bruge.us/rules/srd/)
+- [أدوات "فاكتوتوم" الخاصة بـ "فاتمان" - أدوات ميثراس!](https://factotum.mythras.net)
 - [ملاحظات من بافيس، أدوات هانو المذهلة!](https://notesfrompavis.blog/)
