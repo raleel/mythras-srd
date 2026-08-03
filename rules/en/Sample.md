@@ -67,3 +67,5 @@ D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 <!-- batch-api live test nudge 2 -->
 
 <!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->
