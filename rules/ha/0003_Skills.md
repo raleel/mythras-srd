@@ -1,396 +1,396 @@
-# Ƙwarewa
+# Ƙwarewa (Skills)
 
-Ƙwarewa sun kasu kashi biyu: Standard da Ƙwararru. Duk haruffa suna da saitin Ƙwarewar Standard iri ɗaya. Ƙwarewar Ƙwararru sun bambanta tsakanin haruffa ɗaiɗaikun kuma suna nuna ƙwarewar da aka haɓaka a cikin aiki da, har zuwa wani mataki, al'adunsu. Duk da waɗannan bambance-bambance, Ƙwarewar Standard da Ƙwararru suna aiki iri ɗaya.
+Ƙwarewa sun kasu kashi biyu: Na Yau da Kullum (Standard) da Na Kwararru (Professional). Dukan haruffa suna da saiti iri ɗaya na Ƙwarewar Yau da Kullum. Ƙwarewar Kwararru kuwa sun bambanta tsakanin haruffa daban-daban kuma suna nuna ƙwarewar da aka samu yayin aiki, har zuwa wani mataki, da kuma al'adunsu. Duk da waɗannan bambance-bambancen, Ƙwarewar Yau da Kullum da ta Kwararru suna aiki ta hanya ɗaya.
 
 ---
-## Yadda Ƙwarewa Ke Aiki
+## Yadda Ƙwarewa ke Aiki
 
-Ƙwarewa tana da Ƙimar Asali da aka gina akan Halaye biyu; ko Hali ɗaya da aka ninka sau biyu. Babu iyaka na sama ga ƙimar ƙwarewa; zai iya wuce 100 kuma, a wasa, haruffa na iya tsammanin ganin ƙwarewarsu ta kai irin waɗannan matakan.
+Ƙwarewa tana da Ƙimar Farko (Base Value) da aka gina a kan Halaye guda biyu; ko Halaye ɗaya da aka ninka sau biyu. Babu iyakar yadda ƙimar ƙwarewa za ta kai; tana iya wuce 100 kuma, a lokacin wasa, haruffa za su iya ganin ƙwarewarsu ta kai irin waɗannan matakan.
 
-Duk lokacin da aka kira hali don warware wani nau'i na gwaji, ƙalubale, ko ikon ƙwararru, ana mirgina 1d100 kuma a kwatanta shi da ƙimar ƙwarewar:
+Duk lokacin da aka bukaci harafi ya warware wani nau'i na jarabawa, ƙalubale, ko ƙwarewar sana'a, ana jefa 1d100 kuma a kwatanta shi da ƙimar ƙwarewar:
 
-- Daidai da, ko ƙasa da, ƙwarewar yana nuna Nasara
+- Daidai da, ko ƙasa da, ƙimar ƙwarewar yana nuna Nasara
 - Fiye da ƙimar ƙwarewar yana nuna Rashin Nasara
 
-Akwai wasu lokuta na musamman game da Nasara da Rashin Nasara waɗanda ya kamata a lura da su.
+Akwai wasu lokuta na musamman game da Nasara da Rashin Nasara da ya kamata a lura da su.
 
-- Duk wani mirgina na 01-05 koyaushe Nasara ne
-- Duk wani mirgina na 96-00 koyaushe Rashin Nasara ne, ba tare da la'akari da yadda ƙimar ƙwarewar take da girma ba
+- Duk wani jefa 01-05 koyaushe Nasara ne
+- Duk wani jefa 96-00 koyaushe Rashin Nasara ne, ko ta yaya ƙimar ƙwarewar ta kai girma
 
-#### Criticals da Fumbles
+#### Ƙwarewar Musamman (Criticals) da Kurakurai (Fumbles)
 
-Criticals da Fumbles suna wakiltar gagarumar nasara da gazawa; waɗancan lokuta inda hali ya yi fice a ƙoƙarinsa ko kuma ya gaza gabaɗaya.
+Ƙwarewar Musamman da Kurakurai suna wakiltar nasarori da gazawa na ban mamaki; waɗancan lokutan da harafi ya yi fice a ƙoƙarinsa ko kuma ya gaza sosai.
 
-- Nasara Mai Tsanani tana daidai da kashi ɗaya bisa goma na ƙimar ƙwarewar (kuma wannan ya haɗa da ƙwarewar da ke karɓar canji – don haka ƙwarewar da aka canza na iya samun babban ko ƙaramin dama na sakamakon Critical). A zagaye kashi sama lokacin lissafin Critical Success's range. Misali, idan an canza ƙwarewa zuwa ninki biyu na ƙimar ta na al'ada – daga 33% zuwa 66% misali, to Critical range ɗinta zai zama mirgina na 07 ko ƙasa.
-- Fumble mirgina ne na 99 ko 00. Ƙwarewa masu ƙimar fiye da 100% suna Fumble ne kawai akan mirgina na 00.
+- Nasara ta Musamman (Critical Success) daidai take da ɗaya bisa goma na ƙimar ƙwarewar (wannan ya haɗa da ƙwarewar da ta sami sauyi - don haka ƙwarewar da aka gyara na iya samun damar Nasara ta Musamman mafi girma ko ƙanƙanta). A zagaye ƙididdiga zuwa sama lokacin lissafin kewayon Nasara ta Musamman. Misali, idan an gyara ƙwarewa zuwa ninki biyu na ƙimarta ta yau da kullum – daga 33% zuwa 66% alal misali, to kewayon Nasararta ta Musamman zai zama jefa 07 ko ƙasa da haka.
+- Kurakurai (Fumble) shine jefa 99 ko 00. Ƙwarewar da ke da ƙima sama da 100% suna Kurakurai ne kawai idan aka jefa 00.
 
-An bar ainihin yanayin sakamakon Critical ko Fumble ga Mai Gudanar da Wasa ya tantance. Sakamakon na iya zama abin al'ajabi ko mai tsanani, ya danganta da yanayin.
+Madaidaicin yanayin sakamakon Nasara ta Musamman ko Kurakurai ya rage ga Jagoran Wasa (Games Master) don tantancewa. Sakamakon na iya zama mai ban mamaki ko mai tsanani, dangane da yanayin.
 
-#### Nasarorin Kai Tsaye
+#### Nasara ta Atomatik (Automatic Successes)
 
-Za a sami wasu lokuta inda mirgina a kan wata ƙwarewa ta musamman ba lallai ba ne – ko dai saboda aikin da ke gabanka yana da sauƙin cimmawa, ko kuma saboda, da isasshen lokaci da mai da hankali, an tabbatar da nasara. Hawa doki a hankali a cikin fili mai faɗi misali ne na Nasarar Kai Tsaye inda kawai kasancewa mai ƙwarewa a cikin aikin yana nufin cewa ayyuka masu sauƙi ba sa buƙatar kowane jujjuyawar ƙwarewa don warware su. Mai sana'a da ke sassaƙa itace zuwa ƙafar kujera wani misali ne inda jujjuyawar ƙwarewa ba lallai ba ne; yana ɗaukar lokaci don cimmawa, amma mai sana'a ya san yadda ake yin aikin kuma, idan ba a yi gaggawa ba, an tabbatar da nasara. Wani ɓarawo, ba tare da damuwa ba, tare da saitin makullai, zai iya buɗe maƙullin akwatin taska cikin nasara idan aka ba shi isasshen lokaci don yin hakan.
+Akwai wasu lokuta da jefa ƙwarewa akan wani takamaiman abu ba zai zama dole ba – ko dai saboda aikin da ake ciki yana da sauƙin cimmawa, ko kuma saboda, tare da isasshen lokaci da maida hankali, nasara tabbatacciya ce. Hawan doki a hankali a fadin fili misali ne na Nasara ta Atomatik inda kawai kasancewa ƙwararre a aikin yana nufin ayyuka masu sauƙi ba sa buƙatar jefa ƙwarewa don warware su. Mai sana'a da ke sassaka katako don yin ƙafar kujera wani misali ne inda jefa ƙwarewa ba lallai ba ne; yana ɗaukar lokaci don cimmawa, amma mai sana'ar ya san yadda ake yin aikin kuma, idan ba a gaggauta ba, nasara tabbatacciya ce. Wani ɓarawo, ba tare da an dame shi ba, tare da saitin kayan buɗe kulle, zai iya buɗe kulle mai sauƙi na akwatin taska da nasara idan an ba shi isasshen lokaci.
 
-#### Gyara Ƙwarewa
+#### Gyara Ƙwarewa (Modifying Skills)
 
-Akwai wasu lokuta inda ake buƙatar jujjuyawar ƙwarewa, amma ana buƙatar daidaita damar nasara don nuna yanayin da ke akwai. Barayi masu gudu, misali, na iya buƙatar jujjuyawar Athletics. Amma idan hali yana gudu ta cikin duhu ko ta cikin ciyawa mai haɗari? A irin wannan yanayin Mai Gudanar da Wasa na iya dagewa akan gyara ƙwarewar halin don nuna yanayin.
+Akwai wasu lokuta da jefa ƙwarewa ya zama dole, amma ana buƙatar daidaita damar nasara don nuna yanayin da ake ciki. Gudun hijira daga ƴan fashi, alal misali, na iya buƙatar jefa ƙwarewar Gudu (Athletics). Amma idan harafin yana gudu cikin duhu ko cikin ciyayi masu wahala fa? A irin wannan yanayin, Jagoran Wasa zai iya nace kan gyara ƙwarewar harafin don nuna yanayin.
 
-_Mythras Imperative_ yana amfani da jerin maki don tantance yadda aka gyara ƙwarewa. Waɗannan sune kamar haka. Lura cewa an samar da nau'ikan gyara guda biyu: na farko shine hanyar tsoho, kuma tana buƙatar ɗan lissafi, amma tana ba da ingantaccen kwaikwayo don haɓakawa, musamman inda manyan kashi na ƙwarewa suka shafi. Simplified Skill Modifier shine ƙari ko ragi mai sauƙi, kuma yana da sauƙin aiwatarwa. Zaɓi wace hanya ce ta fi dacewa da wasan amma tabbatar cewa an yi amfani da tsarin gyara iri ɗaya akai-akai.
+_Mythras Imperative_ yana amfani da jerin matakan daraja don tantance yadda ake gyara ƙwarewa. Waɗannan su ne kamar haka. Lura cewa an samar da nau'ikan gyare-gyare guda biyu: na farko shi ne hanyar da aka tsara, kuma ya haɗa da ɗan lissafi, amma yana ba da kyakkyawan kwaikwayo don haɓakawa, musamman inda ƙimar ƙwarewa mafi girma take. Gyaran Ƙwarewa Mai Sauƙi (Simplified Skill Modifier) ƙari ne ko ragi mai sauƙi, kuma ya fi sauƙin aiwatarwa. Zaɓi hanyar da ta fi dacewa da wasan amma tabbatar da cewa ana amfani da tsarin gyara iri ɗaya a kai a kai.
 
-##### Teburin Matakin Wahala
+##### Teburin Matakin Wahala (Difficulty Grade Table)
 
 | Matakin Wahala | Gyaran Ƙwarewa | Gyaran Ƙwarewa Mai Sauƙi |
 | :-- | :-- | :-: |
-| Kai Tsaye | Babu buƙatar mirgina | Babu buƙatar mirgina |
+| Atomatik | Ba buƙatar jefa | Ba buƙatar jefa |
 | Mai Sauƙi Sosai | Ninka ƙimar ƙwarewa sau biyu | +40% |
-| Mai Sauƙi | Ƙara rabin fiye da ƙimar ƙwarewa | +20% |
-| Standard | Babu daidaitawa | Babu |
-| Mai Wahala | Rage ƙimar ƙwarewa da kashi ɗaya bisa uku | -20% |
-| Mai Girma | Rage ƙimar ƙwarewa da rabi | -40% |
-| Mai Girma Sosai | Rage ƙimar ƙwarewa zuwa kashi ɗaya bisa biyar | -80% |
-| Babu Fata | Ba za a iya yin ƙoƙari ba | Ba za a iya yin ƙoƙari ba |
+| Mai Sauƙi | Ƙara rabin ƙimar ƙwarewa | +20% |
+| Na Yau da Kullum | Babu gyara | Babu |
+| Mai Wahala | Rage ƙimar ƙwarewa da ɗaya bisa uku | -20% |
+| Mai Tsanani | Rage ƙimar ƙwarewa da rabi | -40% |
+| Herculean | Rage ƙimar ƙwarewa zuwa ɗaya bisa biyar | -80% |
+| Ba a Fata | Ba za a iya yunƙurin yin komai ba | Ba za a iya yunƙurin yin komai ba |
 
-Inda hali ya riga ya fuskanci hukunci daga wasu yanayi, matakin Wahala mafi wuya shine ke da fifiko.
+Inda harafi ya riga ya sha wahala daga wasu yanayi, Matakin Wahala mafi tsanani shi ne ke da fifiko.
 
-A wajen faɗa, _Mythras_ _Imperative_ baya samar da tabbataccen jerin yanayi da ƙalubale waɗanda zasu iya haifar da gyaran ƙwarewa. Wane irin gyara ake buƙata don kowane ƙwarewa ko mahallin ya rage ga Mai Gudanar da Wasa ya yanke shawara, gwargwadon damar haruffa, fahimtarsa ​​game da wahalar yanayin da kuma tashin hankali na wasan a wannan lokacin.
+A wajen faɗa, _Mythras Imperative_ ba ya bayar da tabbataccen jerin yanayi da ƙalubale waɗanda za su iya haifar da gyaran ƙwarewa. Wane irin gyara ake buƙata don kowace ƙwarewa ko mahallin ya rage ga Jagoran Wasa ya yanke shawara, bisa ga ikon haruffa, fahimtarsa kan wahalar yanayin da kuma tashin hankalin wasan a wancan lokacin.
 
 ---
-## Ƙwarewar Standard
+## Ƙwarewar Yau da Kullum (Standard Skills)
 
 #### Athletics (STR+DEX)
 
-Athletics ya haɗa da ayyukan motsa jiki da yawa, ciki har da hawa, tsalle, jifa, da gudu. Ana gudanar da jujjuyawar ƙwarewa don kowane ɗayan waɗannan ayyukan ta hanyar jujjuyawar guda ɗaya a kan ƙwarewar Athletics. Duba [Movement](0005_Combat.md?id=situational-movement-rates) don ƙarin bayani kan hawa, tsalle, da gudu.
+Athletics yana rufe kewayon ayyukan motsa jiki, gami da hawa, tsalle, jifa, da gudu. Ana magance jefa ƙwarewa don kowane ɗayan waɗannan ayyukan ta hanyar jefa ɗaya kawai akan ƙwarewar Athletics. Duba [Motsi](0005_Combat.md?id=situational-movement-rates) don ƙarin bayani kan hawa, tsalle, da gudu.
 
 #### Boating (STR+CON)
 
-Ƙwarewar Boating ta haɗa da sarrafa ƙananan jiragen ruwa masu iyo. a kan koguna, tafkuna, da kusa da bakin teku. Jiragen ruwa masu dacewa gabaɗaya kwalekwale ne, kwale-kwale, ko raft waɗanda ke tafiya ɗan gajeren hanya kuma basu dace da tsananin buɗaɗɗen teku ba. Yawancinsu ana tura su ta amfani da tuƙi, paddles, punts, ko jiragen ruwa masu sauƙi; ko ma dabbobi za su iya ja su. Jiragen ruwa masu manyan ma'aikata ko waɗanda aka ƙera don dogon tafiye-tafiyen teku ana rufe su ƙarƙashin Ƙwarewar Ƙwararru ta Seamanship.
+Ƙwarewar Boating tana rufe sarrafa ƙananan jiragen ruwa. a koguna, tafkuna, da kusa da gabar teku. Jiragen da suka dace gabaɗaya su ne jiragen ruwa, kwale-kwale, ko raftoci waɗanda ke tafiya gajeren nesa kuma ba su dace da tsananin buɗaɗɗen teku ba. Yawancin ana motsa su ta amfani da sitiyari, matuka, ko jirage masu sauƙin tuki; ko ma za a iya ja su da dabbobi. Jiragen ruwa masu manyan ma'aikata ko waɗanda aka tsara don dogon tafiye-tafiye na ketare teku suna ƙarƙashin Ƙwarewar Kwararru ta Seamanship.
 
 #### Brawn (STR+SIZ)
 
-Brawn shine ingantaccen aikace-aikacen fasaha lokacin amfani da ɗanyen ƙarfin jiki. Ƙwarewar ta haɗa da ayyukan ƙarfin da aka yi amfani da su, ciki har da ɗagawa, fashe kofofin, da gasa na ƙarfi.
+Brawn shine ingantaccen amfani da dabarun lokacin amfani da ƙarfin jiki. Ƙwarewar tana rufe ayyukan ƙarfin da aka yi amfani da su, gami da ɗagawa, kakkarye kofofi da gasar ƙarfi.
 
 #### Combat Style (STR+DEX)
 
-Kowane Salon Yaƙi shine ƙwarewar amfani da makaman da ake tsammani daga aiki ko al'ada a cikin wuri. Yawancin al'adun faɗa sun haɗa da horo a cikin makamai da yawa, tare da fasahohin da ake buƙata don amfani da su duka yadda ya kamata, ko dai ɗaiɗai ko a haɗe. Bugu da ƙari, sau da yawa suna ɗaukar wani abu na yanayi, kamar faɗa a matsayin sojojin ƙafa ko yayin hawa. Salon Yaƙi na iya zama daban-daban, tun daga, misali, Yaƙin Gladiatorial har zuwa Sojojin Ruwa na Marine.
+Kowane Combat Style shine ƙwarewar amfani da makaman da ake tsammanin aiki ko al'ada a cikin saitunan. Yawancin al'adun yaƙi sun haɗa da horo a cikin makamai da yawa, tare da dabarun da ake buƙata don amfani da su duka yadda ya kamata, ko ɗaya ɗaya ko a haɗe. Bugu da ƙari, sau da yawa suna ɗaukar wani ɓangare na yanayi, kamar yaƙi a matsayin sojoji masu tsari ko kuma yayin da ake kan doki. Combat Styles na iya zama daban-daban, kama daga, alal misali, Yaƙin Gladiatorial har zuwa Sojojin Sama na Space Marine.
 
 #### Conceal (DEX+POW)
 
-Conceal shine akasin Stealth, kasancewar ɓoye manyan abubuwa maimakon halin da kansu. Misali, ana iya amfani da Conceal don ɓoye karusa a bayan duwatsu, ko share hanyoyin ƙafafun da ya bari don kada a iya gano hanyarsa. Ƙwarewar tana da amfani a cikin aikace-aikace, komai daga ɓoye takarda a ɗakin karatu zuwa ɓoye kasancewar tarko ko wata hanyar sirri.
+Conceal shine kishiyar Stealth, wato ɓoye manyan abubuwa maimakon haruffan kansu. Alal misali, za a iya amfani da Conceal don ɓoye karusa a bayan wasu duwatsu, ko share sawun ƙafafun da ta bari don kada a iya gano hanyarta. Ƙwarewar tana da yawa a cikin aikace-aikace, komai daga ɓoye littafi a ɗakin karatu zuwa ɓoye kasancewar tarko ko hanyar ɓoye.
 
 #### Customs (INT x2 +40)
 
-Customs yana wakiltar sanin hali game da al'ummarsa: ƙa'idodin zamantakewa, al'adu, abubuwan al'ada, haramun, da sauransu. Ana amfani da ƙwarewar lokacin da yake da mahimmanci a fassara ko aiwatar da kowane al'adar zamantakewa mai mahimmanci ko don yin hali ta wata hanya ta musamman.
+Customs yana wakiltar ilimin harafi game da al'ummarsa: lambobin zamantakewa, bukukuwa, al'adu, abubuwan da aka haramta, da sauransu. Ana amfani da ƙwarewar lokacin da yake da mahimmanci don fassara daidai ko yin kowane al'ada mai mahimmanci na zamantakewa ko don yin hali ta wata hanya ta musamman.
 
 #### Dance (DEX+CHA)
 
-Kusan kowace al'ada tana amfani da rawa ta wata hanya – ko dai don nishaɗi ko kuma a matsayin wani ɓangare na muhimman al'adu. Yana iya zama rawan kotu, rawan yaƙi, ko jerin motsi mai sauƙi tare da addu'a ko waƙar al'ada. Ƙwarewar Rawa tana auna ikon hali don motsawa daidai gwargwado kuma daidai (zuwa mataki mai ma'ana) lokacin da aka kira su don yin hakan.
+Kusan kowace al'ada tana amfani da raye-raye ta wata hanya - ko dai a matsayin nishaɗi ko a matsayin wani ɓangare na muhimman bukukuwa. Zai iya zama raye-rayen kotu, raye-rayen yaƙi, ko saitin motsi mai sauƙi da ke tare da addu'a ko waƙar biki. Ƙwarewar Dance tana auna ikon harafi na motsawa cikin tsari da daidai (zuwa mataki mai ma'ana) lokacin da aka buƙaci ya yi hakan.
 
 #### Deceit (INT+CHA)
 
-Deceit ya haɗa da duk lokuta inda hali ke ƙoƙarin rufe gaskiya kuma ya ba da wani nau'i na ruɗi: ƙarya a bayyane, yaudarar mai gadi, ko ma bluffing (ko yaudara) yayin wasan katin. Ƙwarewar ta haɗa da lokuta inda ɓoye ainihin motsin rai ko dalilai ke da mahimmanci (yin farin ciki lokacin da mutum ya ji takaici sosai wataƙila, ko ƙoƙarin nuna farin ciki da buɗewa lokacin da akasin haka yake). Deceit yana zama abokin haɗin gwiwa ga ƙwarewar Insight kuma ana iya amfani da shi don adawa da jujjuyawar Insight lokacin da wasu ke ƙoƙarin gano ko dai gaskiya ko dalili.
+Deceit yana rufe duk lokutan da harafi yake ƙoƙarin ɓoye gaskiya kuma ya ba da yaudara ta wata hanya: yin ƙarya, yaudarar mai tsaro, ko ma yin bluff (ko yaudara) yayin wasan kati. Ƙwarewar kuma tana rufe lokutan da ɓoye ainihin motsin rai ko dalilai ya zama dole (yin nuna murna lokacin da mutum ya ji takaici sosai wataƙila, ko ƙoƙarin zama mai maraba da buɗe ido lokacin da akasin haka ne gaskiya). Deceit yana samar da kishiyar ƙwarewar Insight kuma ana iya amfani da shi don adawa da jefa Insight lokacin da wasu ke ƙoƙarin tantance ko dai gaskiya ko dalili.
 
 #### Drive (DEX+POW)
 
-Drive ya haɗa da sarrafa motoci masu kafa ko waɗanda aka ja, ko ta hanyar dabba ɗaya ko fiye ko kuma ta hanyoyin da suka fi ban mamaki, kamar karusa, sleds, sail carts, ko ma motocin gasoline. Har ila yau ana buƙatar mirgina idan motar da ake tuƙi tana jan hankali ko kuma tana amfani da wata hanya dabam da direban ya saba da ita (doki maimakon shanu, ko inji maimakon dabbobi misali).
+Drive yana rufe sarrafa ababen hawa masu ƙafafun ko waɗanda ake ja, ko dai ta dabba ɗaya ko fiye ko kuma ta hanyar fasaha, kamar karusa, sleds, jiragen ruwa, ko ma motocin man fetur. Jefa ƙwarewa kuma ya zama dole idan abin hawan da ake tuƙa ana ja ko ana sarrafa shi ta hanyar da ta bambanta da wanda direban ya saba da shi (dawakai maimakon bijimai, ko inji maimakon dabbobi alal misali).
 
 #### Endurance (CON x2)
 
-Endurance shine ikon hali na jure wa damuwa ta jiki, zafi, da gajiya. Yana auna ikon jiki na magance yanayin da zai iya lalacewa ko raunana kuma shine ma'aunin gabaɗaya na juriya, juriya, da metabolism. Ana amfani da Endurance, kamar abokin haɗin gwiwar sa Willpower, a cikin hanyoyi daban-daban, amma mafi mahimmanci don tsayayya da yiwuwar tasirin raunuka, ciki har da guba mai cutarwa da cututtuka.
+Endurance shine ƙarfin harafi na jure damuwar jiki, zafi, da gajiya. Yana auna ikon jiki na magance yanayin da zai iya zama mai cutarwa ko raunana kuma shine ma'aunin juriya, ƙarfin hali, da metabolism. Endurance, kamar kishiyarsa Willpower, ana amfani da shi ta hanyoyi da yawa, amma musamman don tsayayya da tasirin raunuka, gami da guba mai cutarwa da cuta.
 
 #### Evade (DEX x2)
 
-Ana amfani da Evade don tserewa daga haɗari mai zuwa wanda aka lura da shi kuma ana iya amfani da shi akan Makamai Masu Nisanci (ta hanyar nutsewa don ɓuya, misali), guje wa tarko, canza nisan shiga a cikin yaƙi, kuma gabaɗaya fita daga hanyar yuwuwar haɗari na jiki. Hakanan ana iya amfani da shi azaman jujjuyawar juriya don wasu nau'ikan sihiri. Amfani da Evade yawanci yana barin halin a kwance. Waɗanda ke da Halin Salon Yaƙi na Daredevil na iya amfani da Evade don kauce wa harin melee ba tare da faɗuwa a kwance ba kuma, akan harin da aka yi nesa, suna faɗuwa a kwance ne kawai idan sun gaza jujjuyawar.
+Ana amfani da Evade don tserewa daga haɗarin da aka lura da shi, kuma ana iya amfani da shi akan Makamai Masu Nisa (ta hanyar ɓoyewa, alal misali), guje wa tarkuna, canza nisan yaƙi, da kuma guje wa haɗarin jiki gaba ɗaya. Hakanan ana iya amfani da shi azaman jefa juriya don wasu nau'ikan sihiri. Amfani da Evade yawanci yana barin harafin a kwance. Waɗanda ke da Halin Combat Style na Daredevil na iya amfani da Evade don guje wa harin kusa ba tare da faɗuwa ba kuma, akan harin nesa, suna faɗuwa ne kawai idan sun gaza wajen jefa ƙwarewar.
 
 #### First Aid (DEX+INT)
 
-Ƙwarewar First Aid tana auna ikon hali don magance ƙananan raunuka da daidaita waɗanda suka fi tsanani. Ana iya amfani da First Aid sau ɗaya kawai ga kowane rauni na musamman kuma yana warkar da 1d3 na lalacewa.
+Ƙwarewar First Aid tana auna ikon harafi na kula da ƙananan raunuka da daidaita waɗanda suka fi tsanani. Ana iya amfani da First Aid sau ɗaya kawai a kowane takamaiman rauni kuma yana warkar da 1d3 maki na lalacewa.
 
 #### Influence (CHA x2)
 
-Wannan ma'auni ne na ikon hali na shawo kan wasu, ta hanyar karisma na mutum, cikin halin da ake so. Ana amfani da shi a cikin yanayi daban-daban; daga canza tunanin wani, zuwa cin hanci ga jami'i ko mai gadi. Jujjuyawar Influence yawanci ana adawa da su ta hanyar Perception, Willpower, ko wata ƙwarewar Influence, ya danganta da yanayin, kuma ana gyara su ta yadda hali ke ƙoƙarin tasiri halin. Ƙoƙarin shawo kan aboki na kusa ya ba ka doki na iya zama mai sauƙi. Samun ma'aikacin gwamnati da ba a iya cin hanci da rashawa ba ya karɓi cin hanci yana da wuya.
+Wannan ma'auni ne na ikon harafi na gamsar da wasu, ta hanyar ƙwarin gwiwar mutum, cikin hanyar hali da ake so. Ana amfani da shi a cikin yanayi daban-daban; daga canza tunanin wani, zuwa bayar da cin hanci ga jami'i ko mai tsaro. Jefa ƙwarewar Influence yawanci ana adawa da shi ta Perception, Willpower, ko wata ƙwarewar Influence, dangane da yanayin, kuma ana gyara shi ta yadda harafi ke ƙoƙarin rinjayar hali. Ƙoƙarin gamsar da babban aboki ya ba ka rance dokinsa na iya zama mai sauƙi. Samun ma'aikacin gwamnati da ba ya karɓar cin hanci ya karɓi cin hanci yana da wahala.
 
 #### Insight (INT+POW)
 
-Insight shine ikon karantawa ko fassara halin wani na baki da wanda ba na baki ba (kamar harshen jiki ko yanayin magana) don tabbatar da dalilansu da yanayin tunaninsu. Ana amfani da Insight don tantance ko wani yana faɗin ƙarya (kuma ana iya adawa da shi ta hanyar ƙwarewar Deceit na wani), ko kuma don annabta yadda wani ke ji game da wani yanayi na musamman. Hakanan ana iya amfani da Insight ga yanayi na musamman da kuma wasu mutane: shin wannan mashaya mafaka ce ga matsala? Shin barayin za su iya shirya kwanton bauna a cikin tsaunukan da ke kusa?
+Insight shine ikon karantawa ko fahimtar halin magana da na rashin magana na wani (kamar yaren jiki ko hanyar magana) don kafa dalilansu da yanayin tunaninsu. Ana amfani da Insight don tantance ko wani yana yin ƙarya (kuma ana iya adawa da shi ta ƙwarewar Deceit na wani mutum), ko don hasashen yadda wani yake ji game da wani yanayi. Insight za a iya amfani da shi daidai ga takamaiman yanayi da kuma wasu mutane: wannan mashaya tana da haɗari? Shin ƴan fashin suna shirin yin kwantan bauna a tsaunukan kusa?
 
 #### Locale (INT x2)
 
-Locale yana auna fahimtar hali game da ciyayi na gida, dabbobi, yanayin ƙasa, da yanayi a yankin da ya kashe yawancin rayuwarsa, yawanci a cikin al'ummarsa. Halin ya san tsire-tsire na kowa, bishiyoyi, da dabbobi, kaddarorinsu da halayensu: inda za a sami mafi kyawun kifi; motsin dabbobin farauta; inda za a sami mafaka; yiwuwar yanayin yanayi na kakar, da kuma manyan haɗari na yanki. A makwabta, duk da haka wuraren da ba a sani ba Locale ya kamata a sanya shi ɗaya ko fiye da matakai masu wuya.
+Locale yana auna fahimtar harafi game da tsirrai, namun daji, ƙasa, da yanayin yankin da ya shafe yawancin rayuwarsa, yawanci a cikin al'ummarsa. Harafin ya san tsirrai, bishiyoyi, da dabbobi gama gari, kaddarorinsu da halayensu: inda za a iya samun kifi mafi kyau; motsin dabbobin daji; inda za a sami mafaka; yanayin da ake tsammani don kakar, da haɗarin yanki mafi yawa. A wuraren da ke kusa, duk da haka waɗanda ba a saba da su ba, yakamata a sa Locale ya zama mataki ɗaya ko fiye da wahala.
 
 #### Native Tongue (INT+CHA +40)
 
-Native Tongue shine ikon magana da karantawa yaren mutum, wanda aka koya yayin girma a cikin al'adar mutum. Native Tongue yana auna furuci, ladabi, da kuma zurfin kalmomin mai magana.
+Native Tongue shine ikon magana da karanta yaren mutum, wanda aka koya yayin girma a al'adun gida. Native Tongue yana auna bayyananniyar magana, ƙwarewar harshe, da zurfin ƙamus na mai magana.
 
-Sabanin sauran ƙwarewa, Native Tongue ba a yi amfani da shi kai tsaye ba. Maimakon haka, ana ɗaukarsa a matsayin wakilci mai tsayayye na gabaɗaya, yana iyakance matakin hulɗar magana. An bayyana wannan dalla-dalla a ƙarƙashin ƙwarewar Harshe, amma haruffa na farawa yawanci suna farawa da wasa cikakken fluently a cikin yarensu.
+Ba kamar sauran ƙwarewa ba, Native Tongue ba a jefa shi kai tsaye ba. Maimakon haka, ana ɗaukar shi azaman tsayayyen wakilcin ƙwarewar harshe gaba ɗaya, yana iyakance matakin hulɗar magana. An bayyana wannan dalla-dalla a ƙarƙashin ƙwarewar Harshe (Language), amma haruffa masu farawa yawanci suna fara wasa da cikakken ƙwarewa a yaren uwarsu.
 
 #### Perception (INT+POW)
 
-Perception ana amfani da shi don duka lura da natsuwa da kuma gano abubuwa da aka mai da hankali; ko neman wani abu na musamman, binciken gabaɗaya na wani yanki, ko kuma sanin abubuwan da ke kewaye da su. Yanayi na musamman – duhu, misali – na iya shafar Matakin Wahala na jujjuyawar ƙwarewar ya danganta da manyan hankula da ake amfani da su. Kamshi mai ƙarfi na iya sa jujjuyawar Perception ta zama Mai Sauƙi maimakon Standard, yayin da ƙoƙarin sauraron tattaunawa a cikin mashaya mai cunkoso da hayaniya zai sa jujjuyawar ta zama Mai Wahala.
+Ana amfani da Perception don lura da rashin aiki da kuma gano abubuwa da maida hankali; ko neman wani abu na musamman, duba gaba ɗaya na yanki, ko sanin kewayensu kawai. Takamaiman yanayi - duhu, alal misali - na iya shafar Matakin Wahala na jefa ƙwarewar dangane da ma'anar farko da ake amfani da ita. Ƙamshi mai ƙarfi na iya sa jefa Perception na ƙamshi ya zama Mai Sauƙi maimakon Na Yau da Kullum, yayin da ƙoƙarin sauraron tattaunawa a cikin mashaya cike da hayaniya zai sa jefa ƙwarewar ya zama Mai Wahala.
 
 #### Ride (DEX+POW)
 
-Ride ya haɗa da ikon sarrafawa da zama akan waɗannan halittu waɗanda aka horar da su don hawa. Ana iya amfani da ƙwarewar ga dabbobi daban-daban, komai daga alfadara zuwa giwaye; har ma da halittun da ke tashi ko iyo kamar manyan gaggafa ko dolphins. Hawa nau'in da ba a saba da shi ba koyaushe yana da Matakin Wahala ɗaya mafi wuya; yayin da hawa nau'in matsakaici daban (mawaƙin doki yana hawa dodanniya, misali) yana da matakai biyu masu wuya. Halittu masu daji, waɗanda ba a horar da su ba, ba za a iya hau su ta hanyar da ta dace ba har sai an fasa su kuma an horar da su su zama dabbobin hawa.
+Ride yana rufe ikon sarrafa da kuma kasancewa a kan waɗancan halittu waɗanda aka horar da su don hawa. Ana iya amfani da ƙwarewar ga kewayon dabbobi daban-daban, komai daga jakuna zuwa giwaye; har ma da halittu masu tashi ko yin iyo kamar gaggafa ko delfin. Hawan nau'in dabba da ba a saba da shi ba koyaushe mataki ɗaya ne na Wahala mafi girma; yayin da hawan nau'in dabba na wani yanayi daban (mai hawan doki yana hawan dodon aljan, alal misali) yana da matakai biyu mafi wahala. Ba za a iya hawan halittu na daji da ba a horar da su ba ta hanyar da ta dace har sai an karya su kuma an horar da su don su zama dabbobin hawa.
 
 #### Sing (POW+CHA)
 
-Rera waƙa yana ƙarƙashin Sing, komai daga waƙoƙin monotonous har zuwa waƙoƙin opera masu rikitarwa. Rera waƙa wani ɓangare ne na yawancin al'adu, babban tushen nishaɗi kuma watakila ana amfani da shi a cikin al'adunsa. Muhimman waƙoƙi ana iya amfani da su don soyayya, ƙarfafa sojoji kafin yaƙi, ko kuma kawai ba da labarin wani abu na tarihi. Ƙwarewar tana nuna ikon mai amfani don kiyaye jinkiri, riƙe maɓalli, da kuma tuna kalmomin da suka dace.
+Yin waƙa yana ƙarƙashin Sing, komai daga rera waƙoƙi masu ban gajiyar sauti har zuwa waƙoƙin opera masu rikitarwa. Yin waƙa wani ɓangare ne na yawancin al'adu, babban tushen nishaɗi kuma wataƙila ana amfani da shi a cikin bukukuwansa. Ana iya amfani da muhimman waƙoƙi don neman aure, ƙarfafa sojoji kafin yaƙi, ko kawai bayar da labarin wani aiki na tarihi. Ƙwarewar tana nuna ikon mai amfani na kiyaye kari, kiyaye sauti da tuna kalmomin da suka dace.
 
 #### Stealth (DEX+INT)
 
-Boye a wajen gani, ko motsawa da ƙarancin sauti ana rufe su ta hanyar ƙwarewar Stealth. Rufewa da yanayi, kamar duhu ko ƙara mai ƙarfi a bango, suna inganta matakin ƙwarewar gwargwadon yanayin muhalli. Haka kuma, yanayi mara kyau, kamar rashin rufewa ko shiru dare zai rage matakin ƙwarewar. Yanayi kuma yana shafar wahalar ƙoƙarin. Misali, wani jarumi da ke sanye da sulke mai nauyi zai iya ɓoye kansa a bayan bango cikin sauƙi, muddin ya tsaya cak ko ya motsa a hankali, yayin da motsawa da sauri na iya sa sulken sa ya yi kara.
+Ƃoyewa daga gani, ko motsawa da ƙaramin sauti suna ƙarƙashin ƙwarewar Stealth. Rufi da yanayi, kamar duhu ko hayaniyar baya, suna inganta matakin ƙwarewar gwargwadon takamaiman yanayin. Hakanan, yanayi mara kyau, kamar rashin rufi ko dare mai shiru zai rage matakin ƙwarewar. Yanayin kuma yana shafar wahalar yunƙurin. Alal misali, mayaki sanye da sulke mai nauyi zai iya ɓoye kansa cikin sauƙi a bayan bango, idan dai ya tsaya cak ko ya motsa a hankali sosai, yayin da motsawa da sauri na iya sa sulken sa ya yi ƙara.
 
 #### Swim (STR+CON)
 
-Ba tare da haɓakawa ba, ikon yin iyo yana iyakance ga iya motsawa da kiyaye kai a saman ruwa na ɗan gajeren lokaci. Manyan kashi na Swim suna nuna ikon motsawa a cikin ruwa mai zurfi da ƙarfi, tare da ƙarancin haɗarin nutsewa. Yin jujjuyawar Swim don haka ya dogara gabaɗaya akan yanayin. Ruwan teku mai haɗari, rafuffuka masu ƙarfi, ruwan farin ruwa, da ruwan teku duk suna rage matakin ƙwarewar ko menene sha'awar halin ga ruwa. Duba [Movement](0005_Combat.md?id=situational-movement-rates) don ƙarin bayani kan yin iyo, ciki har da lissafin saurin iyo.
+Ba tare da haɓakawa ba, ikon yin iyo yana iyakance ga iya jefa kai da kiyaye kai a sama da ruwa na ɗan lokaci. Mafi girman kashi na Swim yana nuna ikon iya shiga ruwa mai zurfi da ƙarfi, tare da ƙarancin haɗarin nutsewa. Don haka yin jefa Swim ya dogara gaba ɗaya kan yanayin. Teku mai ƙarfi, raƙuman ruwa masu ƙarfi, ruwan fari, da raguwa duk suna rage matakin ƙwarewar komai ƙarfin haɗin gwiwar harafi da ruwa. Duba [Motsi](0005_Combat.md?id=situational-movement-rates) don ƙarin bayani kan yin iyo, gami da lissafin saurin yin iyo.
 
 #### Unarmed (STR+DEX)
 
-Unarmed ƙwarewar Yaƙi ce ta duniya da aka saba da ita ga duk haruffa, tana auna ikon kare kai ba tare da taimakon makamai ba. Ƙwarewar Unarmed ta haɗa da dabarun faɗa da kokawa waɗanda al'adar ta sani.
+Unarmed ƙwarewar Yaƙi ce ta duniya gama gari ga dukan haruffa, tana auna ikon kare kai ba tare da taimakon makamai ba. Ƙwarewar Unarmed tana rufe dabarun fada da kokawa da al'adun suka sani.
 
-Kamar yadda Unarmed ƙwarewar Yaƙi ce, ana rufe tasirin Critical da Fumble ta hanyar ƙa'idodin yaƙi, kamar yadda aka bayyana a cikin babi na [Combat](0005_Combat.md).
+Tunda Unarmed ƙwarewar Yaƙi ce, ana rufe sakamakon Nasara ta Musamman da Kurakurai da ƙa'idodin yaƙi, kamar yadda aka bayyana a babi na [Yaƙi](0005_Combat.md).
 
 #### Willpower (POW x2)
 
-Willpower ma'auni ne na ikon hali na mai da hankali, tura ƙarfin nufinsa zuwa wata hanya ta musamman, ko taurare tunaninsa ga yuwuwar girgiza ta hankali. Hakanan ma'auni ne na ƙudurin mutum. Ana amfani da ƙwarewar a cikin yanayi daban-daban inda ake buƙatar juriya ta hankali, kuma wannan ya haɗa da tsayayya da sihiri. Ko da yake ba ma'auni na hankali ba ne ana iya amfani da shi don jure wa abubuwan da suka faru masu rauni waɗanda zasu girgiza har ma da hankali mafi tsarki, kwanciyar hankali. Willpower shine abokin haɗin hankali ga Endurance.
+Willpower ma'auni ne na ikon harafi na maida hankali, tura ƙarfin nufinsa zuwa wata takamaiman hanya, ko taurara tunaninsa ga yiwuwar girgizar tunani. Hakanan ma'auni ne na ƙudurin kai. Ana amfani da ƙwarewar a kowane yanayi inda ake buƙatar juriya ta tunani, kuma wannan ya haɗa da tsayayya da sihiri. Ko da yake ba ma'auni ne na hankali ba, ana iya amfani da shi don jure abubuwan da suka faru masu ban tsoro waɗanda za su girgiza ko da mafi koshin lafiya, kwanciyar hankali. Willpower shine kishiyar tunani ga Endurance.
 
-Kuma, kamar Endurance da Evade, Willpower galibi ana amfani da shi a Juye-juyen Gwaji. Lokacin da aka yi amfani da shi azaman gwajin Standard, jujjuyawar Critical Willpower yana nuna cewa hali ya taurare tunaninsa da ruhunsa har zuwa inda babu wasu ƙoƙari na tasiri a kansa, ko girgiza ƙudurinsa, zai yi aiki. A cikin yanayin tsayayya da sihiri, Nasara Mai Tsanani yana nufin cewa babu wasu sihiri masu damun hankali da abokin gaba ya jefa suna da tasiri ga hali don ragowar wannan gamuwa.
+Bugu da ƙari, kamar Endurance da Evade, ana amfani da Willpower sau da yawa a cikin Jefa Adawa (Opposed Rolls). Lokacin da ake amfani da shi azaman jarabawar Yau da Kullum, jefa Willpower na Musamman yana nuna cewa harafin ya taurara tunaninsa da ruhinsa har zuwa matakin da babu ƙarin ƙoƙarin rinjayar shi, ko girgiza ƙudurinsa, zai yi aiki. A yanayin tsayayya da sihiri, Nasara ta Musamman tana nufin babu ƙarin sihiri na tunani da abokin hamayya ya jefa zai yi tasiri ga harafin har sauran wannan gamuwar.
 
 ---
-## Ƙwarewar Ƙwararru
+## Ƙwarewar Kwararru (Professional Skills)
 
-Ƙwarewar Ƙwararru sun bambanta tsakanin haruffa kuma suna wakiltar ƙarin nau'ikan horo da gogewa na musamman. Wasu Ƙwarewar Ƙwararru ana tattara su ta hanyar al'adar al'adu da Aikin hali, kamar yadda sunan ya nuna. Ko da yake sun bambanta tsakanin haruffa suna aiki iri ɗaya kamar Ƙwarewar Standard.
+Ƙwarewar Kwararru sun bambanta tsakanin haruffa kuma suna wakiltar nau'ikan horo da gogewa na musamman. Wasu Ƙwarewar Kwararru ana tattara su ta hanyar tushen al'adu da Sana'ar harafi, kamar yadda sunan ke nunawa. Ko da yake sun bambanta tsakanin haruffa suna aiki ta hanya ɗaya da Ƙwarewar Yau da Kullum.
 
 #### Acting (CHA x2)
 
-Acting yana sarrafa fasahar iya kwaikwayo da isar da wani hali daban-daban, ko a cikin wasan kwaikwayo ko a cikin yanayin zamantakewa. Mai wasan kwaikwayo yana nuna hali da halaye daban-daban daga nasa ta hanyar gamsarwa. Tare da ƙwarewar Disguise da Deceit, wannan hanya ce mai ƙarfi ta zama wani daban gaba ɗaya.
+Acting yana sarrafa fasahar iya kwaikwayo da isar da wani harafi daban gaba ɗaya, ko a cikin wasan kwaikwayo ko a cikin yanayin zamantakewa. Ɗan wasan yana nuna halayen mutum da dabi'u daban da nasa a cikin hanyar da za ta gamsar. Tare da ƙwarewar Disguise da Deceit, wannan hanya ce mai ƙarfi ta zama wani daban gaba ɗaya.
 
 #### Acrobatics (STR+DEX)
 
-Acrobatics ya haɗa da ayyukan daidaitawa, gymnastics, juggling, da tumbling. Ana iya amfani da ƙwarewar don burge masu sauraro, amma kuma don taimakawa rage lalacewa daga faɗuwa. Tare da nasarar jujjuyawar, hali na iya motsawa da cikakken sauri kuma da ƙafafu mai ƙarfi a kan farfajiya mara ƙarfi ko kunkuntar. Idan ana ƙoƙarin rage lalacewa daga faɗuwa ba zato ba tsammani, nasarar jujjuyawar Acrobatics yana rage duk wani lalacewa da aka samu zuwa rabi. Bugu da ƙari, idan jujjuyawar ya yi nasara kuma hali bai sami Rauni Mai Tsanani ko Manyan Rauni saboda faɗuwar ba, halin yana sauka lafiya kuma ba ya kwance.
+Acrobatics yana rufe ayyukan daidaito, gymnastics, juggling, da tumbling. Ana iya amfani da ƙwarewar don burge masu sauraro, amma kuma don taimakawa wajen rage lalacewa daga faɗuwa. Tare da nasarar jefa ƙwarewa, harafi zai iya motsawa da cikakken sauri kuma da ƙarfi a fadin wani yanayi mara tsari ko kunkuntar. Idan ana ƙoƙarin rage lalacewa daga faɗuwar da ba a zata ba, nasarar jefa Acrobatics tana rage rabin kowace lalacewa da aka samu. Bugu da ƙari, idan jefa ƙwarewar ya yi nasara kuma harafin bai sami Rauni mai Tsanani ko Babban Rauni ba saboda faɗuwar, harafin yana sauka cikin aminci kuma ba ya faɗuwa.
 
-Ana iya maye gurbin Acrobatics da Evade idan yanayin ya buƙata. Amfanin wannan shine cewa hali yana dawo da ƙafafunsa ta atomatik maimakon a sanya shi a kwance.
+Ana iya maye gurbin Acrobatics da Evade idan yanayin ya ba da izini. Amfanin wannan shi ne cewa harafin yana dawo da ƙafafunsa ta atomatik maimakon a bar shi a kwance.
 
 #### Astrogation (INT x2)
 
-Astrogation yana daidai da Navigation, sai dai yana ba da damar matuƙin jirgin sama ya tsara hanya a nisan taurari da kuma tsakanin taurari.
+Astrogation daidai yake da Navigation, sai dai yana bawa matukan jirgin sararin samaniya damar tsara hanya a nisan taurari da tsakanin taurari.
 
 #### Art (POW+CHA)
 
-Akwai nau'ikan fasaha da yawa. Daga Zane zuwa Waƙa; Daga Adabi zuwa Sassaƙa. Hali yana zaɓar ƙwarewar Art lokacin da ya ɗauki wannan ƙwarewar. Ana ci gaba da haɓaka nau'ikan fasaha daban-daban. Ana yin jujjuyawar duk lokacin da hali ya buƙaci burge ko gamsarwa ta hanyar kafofin fasaharsa.
+Akwai nau'ikan fasaha da yawa na musamman. Fenti zuwa Waƙoƙi; Adabi zuwa Sassaka. Harafi yana zaɓar ƙwarewar Art lokacin da yake ɗaukar wannan ƙwarewar. Ana ci gaba da ƙwarewar Art daban-daban. Ana yin jefa ƙwarewa duk lokacin da harafi dole ne ya burge ko ya gamsar ta hanyar fasaharsa.
 
 #### Bureaucracy (INT x2)
 
-Fahimtar hanyoyin gudanarwa, rikodin, da kuma al'adun da ba a faɗa ba an rufe su ta hanyar ƙwarewar Bureaucracy. Ana amfani da ita don mu'amala da jami'ai ko gano muhimman bayanai na jama'a. Ya danganta da ingancin al'adunsu, ma'aikatan gwamnati ba lallai ba ne su zama masu karatu. Duk lokacin da ake buƙatar kewaya jan tef ko shimfidar gudanarwa, jujjuyawar Bureaucracy ya zama dole.
+Fahimtar hanyoyin gudanarwa, bayanan gudanarwa, da ka'idojin da ba a faɗi ba suna ƙarƙashin ƙwarewar Bureaucracy. Ana amfani da shi don hulɗa da jami'ai ko gano bayanan jama'a masu mahimmanci. Dangane da wayewar al'adunsu, ma'aikatan gwamnati ba lallai ba ne su zama masu iya karatu da rubutu. Duk lokacin da red-tape ko yanayin gudanarwa ke buƙatar kewayawa, jefa Bureaucracy ya zama dole.
 
 #### Commerce (INT+CHA)
 
-Ana amfani da Commerce don kimanta darajar kayayyaki da kuma sayar da su a mafi kyawun farashi. Hakanan ana amfani da shi don fahimtar rikitarwa na kasuwanci ban da samun riba. Wani amfani kuma shine a cikin gano hanya mafi kyau don zubar da kayayyaki da aka sata da kuma haramtattun kayayyaki – kuma don mafi kyawun farashi. A bayyane yake ana amfani da Commerce lokacin ciniki kuma ana iya adawa da shi ta hanyar ƙwarewar Commerce na abokin gaba ko Willpower, yana nuna ƙoƙarin ɓangaren adawa don ci gaba da cinikin a nasu tagomashi. Hakanan ana amfani da shi don tantance ƙimar kasuwa na kayayyaki, samun ra'ayi game da farashi, da kuma inda zai fi kyau a yi ciniki.
+Ana amfani da Commerce don tantance ƙimar kayayyaki da kuma sayar da su don mafi kyawun farashi. Hakanan ana amfani da shi don fahimtar rikitarwa na ma'amalar kasuwanci ban da tabbatar da riba. Wani ƙarin amfani shine gano mafi kyawun hanyar kawar da kayan sata da haramun - kuma don mafi kyawun farashi. Ana amfani da Commerce a fili lokacin kasuwanci kuma ana iya adawa da shi ta ko dai ƙwarewar Commerce na abokin hamayya ko Willpower, yana nuna ƙoƙarin ɓangaren adawa don ci gaba da cinikin don amfaninsu. Hakanan ana amfani da shi don tantance ƙimar kasuwa na kayayyaki, samun ra'ayin farashi, da inda zai fi kyau a sayar da su.
 
 #### Comms (INT x2)
 
-Wannan ƙwarewar tana ba da ikon amfani da kayan aikin sadarwa don ganowa, ɓoye, ko toshe zirga-zirgar sadarwa. Har ila yau, tana ba da damar fasa saƙonnin da aka ɓoye (idan mai amfani yana da damar zuwa na'urar fasa-code).
+Wannan ƙwarewar tana ba da ikon amfani da kayan aikin sadarwa don ganowa, ɓoye ko toshe zirga-zirgar sadarwa. Hakanan yana ba da damar fashe saƙonnin da aka ɓoye (idan mai amfani yana da damar yin amfani da fashe lambar).
 
 #### Computers (INT x2)
 
-Computers yana nuna ikon hali don warware matsaloli masu rikitarwa ko cire bayanai masu rikitarwa, ta amfani da tsarin kwamfuta – ko ta hanyar shirye-shiryen code, cikakken amfani da wani software na musamman, hacking, har ma da bincike/gyara matsalolin software da hardware. Gabaɗaya amfani da kwamfutoci yawanci baya buƙatar jujjuyawar.
+Computers yana nuna ikon harafi na warware matsaloli masu rikitarwa ko fitar da bayanan masu rikitarwa, ta amfani da tsarin kwamfuta - ko ta hanyar lambar shiri, cikakken amfani da wani yanki na software, hacking, har ma da gano/gyara matsalolin software da hardware. Amfani da kwamfutoci gaba ɗaya yawanci baya buƙatar jefa ƙwarewa.
 
 #### Courtesy (INT+CHA)
 
-Wannan ƙwarewar tana haɗa da fahimtar yadda ake yin hali daidai a cikin yanayin zamantakewa ko na yau da kullun: hanyoyin magana, al'adu, da al'adun hali, da sauransu. Ya haɗa da komai daga wanda za a sunkuyar masa kai da lokacin, zuwa yadda ƙasa; daga lokacin da za a yi amfani da wani take na musamman zuwa lokacin da ya dace a yi aiki ba bisa ka'ida ba.
+Wannan ƙwarewar tana rufe fahimtar yadda za a yi hali yadda ya kamata a cikin yanayin zamantakewa ko na yau da kullun: hanyoyin magana, bukukuwa, da ka'idojin hali, da sauransu. Ya haɗa da komai daga wanda za a sunkuyawa da lokacin, zuwa yadda za a sunkuyar; daga lokacin amfani da wani takamaiman laƙabi zuwa lokacin da ya dace a yi hali ba bisa ƙa'ida ba.
 
 #### Craft (DEX+INT)
 
-Kowane sana'a nau'i ne na musamman, kuma akwai sana'o'i da yawa kamar yadda akwai sana'o'i a gare su. Kamar Art, ana amfani da Craft don ƙirƙirar abin da aka yi. Yawan lokacin da zai ɗauka ya dogara gaba ɗaya akan yanayin samfurin: saƙa tabarma yana ɗaukar lokaci fiye da jefa tukunya, misali, amma lokaci ba lallai bane shine mafi mahimmancin abu: ƙwarewar mai sana'a ne, ingancin albarkatun da hankali ga daki-daki.
+Kowane Craft nau'i ne na musamman, kuma akwai sana'o'i da yawa kamar yadda akwai sana'o'i don su. Kamar Art, ana amfani da Craft don ƙirƙirar abin da ake magana. Yawan lokacin da yake ɗauka ya dogara gaba ɗaya kan yanayin samfurin: saƙar darduma yana ɗaukar lokaci fiye da yin tukwane, alal misali, amma lokaci ba lallai ba ne mafi mahimmancin abu: ƙwarewar mai sana'ar ce, ingancin albarkatu da kulawa ga daki-daki.
 
 #### Culture (INT x2)
 
-Culture shine mafi takamaiman nau'i na Ƙwarewar Standard na Customs, yana da alaƙa da al'ummomin da ba na halin ba. Kowane ƙwarewar Culture dole ne a ba shi wata ƙasa ko al'umma ta musamman wacce take amfani da ita. A injiniyanci yana aiki iri ɗaya kamar ƙwarewar Customs.
+Culture shine mafi takamaiman nau'i na ƙwarewar Yau da Kullum ta Customs, wanda ke da alaƙa da al'ummomin da ba na harafin ba. Kowane ƙwarewar Culture dole ne a ba shi wata ƙasa ko al'umma ta musamman wacce take amfani da shi. A fannin inji, yana aiki ta hanya ɗaya da ƙwarewar Customs.
 
 #### Demolitions (INT+POW)
 
-Wannan ƙwarewar tana ba da damar hali don sarrafawa da amfani da kayan fashewa lafiya, ko dai saita su ko kashe su.
+Wannan ƙwarewar tana ba harafi damar sarrafawa da amfani da kayan fashewa cikin aminci, ko kafa su ko kwance su.
 
 #### Disguise (INT+CHA)
 
-Yin shiga jikin wani mai gamsarwa, ta amfani da kayan da suka dace (kayan ado, kayan kwalliya, wigs, ko gashin kai), an rufe shi ta hanyar ƙwarewar Disguise. Ƙirƙirar shiga jikin wani yana buƙatar lokaci da hankali ga daki-daki, da kuma samun dama ga kayan da suka dace don sanya shi gamsarwa. Idan wasu, ko duka, waɗannan abubuwan ba su nan to Matakin Wahala na jujjuyawar Disguise an sanya shi matakai ɗaya ko fiye masu wuya.
+Yin ɓoyewa mai gamsarwa, ta amfani da kayan da suka dace (kofuna, kayan shafa, wigs, ko gashin doki), yana ƙarƙashin ƙwarewar Disguise. Ƙirƙirar ɓoyewar tana buƙatar lokaci da kulawa ga daki-daki, da kuma damar yin amfani da kayan da suka dace don sa ya zama mai gamsarwa. Idan wasu, ko duk, waɗannan abubuwan ba su nan to Matakin Wahala na jefa Disguise yana zama mataki ɗaya ko fiye da wahala.
 
-Ana iya haɓaka Disguise tare da Acting don haɓaka tasirin gabaɗaya na yaudara (vice versa lokacin yin wasan kwaikwayo) don haka ƙwarewar biyu suna dacewa.
+Ana iya haɓaka Disguise tare da Acting don inganta tasirin gaba ɗaya na yaudara (akasin haka lokacin yin wasa) don haka ƙwarewar biyu suna dacewa da juna.
 
 #### Electronics (DEX+INT)
 
-Wannan ƙwarewar tana ba mai amfani damar gyara, ketare, ko gyara na'urorin lantarki. Tana da aikace-aikace da yawa, galibi don gyara kayan aiki da suka lalace na ɗan lokaci ko maye gurbin da'irorin da suka karye da kayan gyara.
+Wannan ƙwarewar tana ba mai amfani damar yin kuskure tare da, ketare ko gyara na'urorin lantarki. Yana da aikace-aikace da yawa, yawanci don gyara kayan aiki da suka lalace na ɗan lokaci ko maye gurbin da'irori da suka karye da wasu na ajiyar.
 
 #### Engineering (INT x2)
 
-Zane da gina manyan gine-gine, daga gidaje zuwa gadoji, kofofi zuwa injunan yaƙi, yana cikin aikin ƙwarewar Engineering. Ana buƙatar jujjuyawar lokacin da ake shirin manyan ayyuka don tabbatar da ingantaccen gini amma kuma ana yin su lokacin da injiniya ke son kimanta ƙarfin tsarin don kowane dalili (yanayin gyara ko wurare masu rauni, misali).
+Zane da gina manyan gine-gine, daga gidaje zuwa gadoji, kofofi zuwa injinan yaƙi, yana cikin ikon ƙwarewar Engineering. Jefa ƙwarewa ya zama dole lokacin tsara manyan ayyukan don tabbatar da ingantaccen gini amma kuma ana yin su lokacin da injiniya yake son tantance amincin ginin don kowane dalili (yanayin gyara ko wuraren rauni, alal misali).
 
 #### Forgery (DEX+INT)
 
-Ƙwarewar Forgery tana ba da damar ƙirƙira ko ɓata takaddun hukuma.
+Ƙwarewar Forgery tana ba da damar ƙirƙirar ko ƙaryata takaddun hukuma.
 
 #### Gambling (INT+POW)
 
-Ƙwarewar Gambling tana auna ƙwarewar hali a cikin wasannin dama kuma musamman inda aka ajiye kuɗi akan sakamakon. Ana amfani da ita don kimanta damar nasara ko gazawa ko gano lokacin da wani ke yaudara. Ana iya amfani da ƙwarewar a cikin hanya mai adawa ko mara adawa, ya danganta da yanayin. Kashe dare a cikin wurin caca mara fuska na iya buƙatar gwaji kai tsaye kawai, yayin da wasan dice mai tsada wanda ya haɗa da manyan mutane na iya buƙatar jujjuyawar Gwaji da yawa.
+Ƙwarewar Gambling tana auna ƙwarewar harafi a cikin wasanni na sa'a kuma musamman inda ake saka kuɗi akan sakamakon. Ana amfani da shi don tantance damar nasara ko rashin nasara ko gano lokacin da wani yake yaudara. Ana iya amfani da ƙwarewar ta hanyar adawa ko mara adawa, dangane da yanayin. Yin amfani da dare a cikin gidan caca mara suna na iya buƙatar jarabawa madaidaiciya kawai, yayin da wasan caca na babban matsayi wanda ya haɗa da fitattun mutane na iya buƙatar Rounds da yawa na Jefa Adawa.
 
 #### Healing (INT+POW)
 
-Healing shine zurfin ilimin hanyoyin likitanci, dangane da al'adun gargajiya kuma ana amfani da shi don magance raunuka masu tsanani (yawanci waɗanda ke da Hit Points a sifili ko ƙasa da haka). A cikin al'adu na Farko ko na Barbarian misali, warkarwa za ta dogara ne akan ilimin ganyayyaki da magungunan halitta. A cikin al'adu na Wayewa, magunguna da hanyoyin magani na zamani za su fi zama ruwan dare. A duk al'adu Healing ya haɗa da ikon daidaita ƙasusuwa, dinka raunuka, da sauransu. A bayyane yake amfani da Healing yana buƙatar albarkatu masu dacewa, kuma yawancin masu warkarwa za su sami irin waɗannan abubuwa a hannu (allura, igiyar hanji ko zaren dinki, ganyayyaki don magungunan ganye, da sauransu, ko kayan aikin likitanci don wurare na zamani).
+Healing shine zurfin ilimin hanyoyin magani, bisa ga ayyukan al'adu kuma ana amfani da shi don kula da raunuka masu tsanani (yawanci waɗanda Hit Points suke a sifili ko ƙasa da haka). A cikin al'adun Primitive ko Barbarian alal misali, warkarwa za ta dogara ne akan ilimin ganye da magunguna na halitta. A cikin al'adun Civilized, kwayoyi da ƙarin jiyya na ci gaba za su kasance mafi yawa. A cikin dukan al'adu Healing ya haɗa da ikon saita ƙasusuwa, ɗinka raunuka, da sauransu. A bayyane yake cewa amfani da Healing yana buƙatar albarkatun da suka dace, kuma yawancin masu warkarwa za su sami irin waɗannan abubuwan a hannu (allurai, ɗinki ko zare don ɗinki, ganye don poultices, da sauransu, ko kayan aikin likita don saitunan zamani).
 
 #### Language (INT+CHA)
 
-Wannan ƙwarewar tana rufe magana da fahimtar wani yare banda na halin. Ana ɗaukar ƙwarewar a matsayin wakilci mai tsayayye na gabaɗaya. 1-25% kalmomi na asali kaɗan, 26-50% jimloli masu sauƙi, 51-75% mai iya magana sosai don tattaunawar gabaɗaya, 76+% iya magana da kyau. Mai Gudanar da Wasa yana amfani da ƙimar sa don iyakance matakin hulɗar magana lokacin da 'yan wasa ke magana da mutane a cikin wasan. Hakanan ana iya amfani da shi azaman iyaka ga wasu ƙwarewa (kamar Bureaucracy), inda Harshe na iya zama mai iyakancewa. A irin wannan yanayin, ƙwarewa kamar Bureaucracy ba za ta iya wuce ƙimar ƙwarewar Harshen da ake amfani da shi ba.
+Wannan ƙwarewar tana rufe magana da fahimtar yare banda na harafin kansa. Ana ɗaukar ƙwarewar azaman tsayayyen wakilcin ƙwarewar harshe gaba ɗaya. 1-25% ƴan kalmomi na asali, 26-50% jumloli masu sauƙi, 51-75% ƙwarewa don tattaunawa gaba ɗaya, 76+% iya tattaunawa da ƙwarewa. Jagoran Wasa ne ke amfani da ƙimarsa don iyakance matakin hulɗar magana lokacin da ƴan wasa suke tattaunawa da mutane a wasan. Hakanan ana iya amfani da shi azaman iyaka don wasu ƙwarewa (kamar Bureaucracy), inda Language zai iya zama abin iyakancewa. A irin wannan yanayin, ƙwarewa kamar Bureaucracy ba za ta iya wuce ƙimar ƙwarewar Harshen da ake amfani da shi ba.
 
 #### Literacy (Specific Language) (INT x2)
 
-Yin magana da harshe da kyau ba yana nufin mutum zai iya karantawa da rubuta shi ba. Ilimin rubutu da karatu ƙwarewa ce ta musamman kuma al'ummomi daban-daban suna nuna matakai daban-daban da hanyoyin magance ta. A wasu, ilimin rubutu da karatu an tanada shi ne ga masu martaba, masu gudanarwa ko ajin addini. A wasu kuwa ba a san shi ba yayin da al'adun baka ke ci gaba. A cikin al'ummomin zamani ko na gaba, ana koyon ilimin rubutu da karatu ta tsoho kuma baya buƙatar ƙwarewa ta daban.
+Magana da yare da ƙwarewa ba yana nufin mutum zai iya karanta shi da rubuta shi ba. Literacy ƙwarewa ce ta musamman kuma al'ummomi daban-daban suna nuna matakai da hanyoyi daban-daban game da ita. A wasu, Literacy an keɓe shi ne don sarauta, ma'aikatan gwamnati ko azuzuwan addini. A wasu kuwa ba a san shi ba tare da al'adun baka sun fi yawa maimakon haka. A cikin al'ummomin zamani ko na gaba, Literacy ana koyon shi ta atomatik kuma baya buƙatar ƙwarewa daban.
 
 #### Lockpicking (DEX x2)
 
-Lockpicking shine ikon buɗe tsarin maƙulli na inji ba tare da taimakon maɓalli ko wata na'urar da aka yi musamman don maƙullin ba. Ya haɗa da dabarun buɗe kofofin da aka ƙulla ko aka rufe da sanduna da tagogi ba tare da haifar da lalacewa ba. Ana iya amfani da Lockpicking don kulle kofa, akwati, da sauransu, lokacin da babu maɓalli.
+Lockpicking shine ikon buɗe tsarin kulle na inji ba tare da taimakon maɓalli ko wani na'urar da aka yi musamman don kulle ba. Ya haɗa da dabarun buɗe kofofi da windows masu ƙarfi ba tare da haifar da lalacewa ba. Hakanan ana iya amfani da Lockpicking don kulle kofa, akwati, da sauransu, lokacin da babu maɓalli.
 
 #### Lore (INT x2)
 
-Lore ya haɗa da wani takamaiman jiki na ilimi wanda dole ne a zaɓi shi lokacin da aka fara koyon ƙwarewar. Alchemy, Astrology, Astronomy, Geography, Heraldry, History, Midwifery, Mineral, Monsters, Politics, Religion, Strategy da Tactics: waɗannan duk misalai ne na ƙwarewar Lore. Ƙwarewa a cikin Lore yana nufin hali ya fahimci tushensa, yadda za a iya amfani da shi don ƙalubale da matsaloli nan take, kuma zai iya amfani da Lore don tuna bayanai masu amfani.
+Lore yana rufe takamaiman jikin ilimin wanda dole ne a zaɓa lokacin da aka fara koyon ƙwarewar. Alchemy, Astrology, Astronomy, Geography, Heraldry, History, Midwifery, Mineral, Monsters, Politics, Religion, Strategy and Tactics: waɗannan duka misalai ne na ƙwarewar Lore. Ƙwarewa a cikin Lore yana nufin harafi ya fahimci tushensa, yadda za a iya amfani da shi ga ƙalubale da matsalolin nan take, kuma zai iya amfani da Lore don tuna bayanai masu amfani.
 
 #### Magic (POW+CHA)
 
-Ana amfani da ƙwarewar Magic don yin sihiri da aka bayyana a cikin sashin [Magic and Powers](0007_Magic.md). Ana buƙatar nasarar jujjuyawar don sihiri ya yi aiki, ko da yake ana iya ƙin sihiri ta hanyar ƙwarewar adawa kamar Willpower.
+Ana amfani da ƙwarewar Magic don jefa sihiri da aka bayyana a cikin ɓangaren [Sihiri da Ƙarfi](0007_Magic.md). Nasarar jefa ƙwarewa ya zama dole don sihiri ya yi aiki, ko da yake ana iya tsayayya da sihiri ta ƙwarewar adawa kamar Willpower.
 
 #### Mechanisms (DEX+INT)
 
-Mechanisms yana wakiltar ilimi da ƙwarewar haɗawa da rarraba na'urorin inji, kamar tarko. Ƙwarewar Mechanisms gabaɗaya tana haɗa da ƙirƙirar na'urori masu laushi tare da ƙananan sassan aiki, sabanin Engineering, wanda ke magana da manyan gine-gine. Fannin daban ne daga Lockpicking kuma ba za a iya musanya shi da wannan ƙwarewar ba.
+Mechanisms yana wakiltar ilimi da ƙwarewa don haɗa da kwance na'urorin inji, kamar tarkuna. Ƙwarewar Mechanisms gaba ɗaya tana haɗa da ƙirƙirar na'urori masu laushi tare da ƙananan sassan aiki, sabanin Engineering, wanda ke hulɗa da manyan gine-gine. Tsarin ilimi ne daban daga Lockpicking kuma ba za a iya musanya shi da wannan ƙwarewar ba.
 
 #### Musicianship (DEX+CHA)
 
-Musicianship ya ƙunshi kunna kayan kida; daga bututu mai sauƙi zuwa kayan kida mai rikitarwa kamar garaya, kuma kowane maimaitawar Musicianship ana amfani da shi ga ƙungiyar kayan kida masu kama da juna. Mawaƙi wanda zai iya kunna bututu kuma zai iya kunna sarewa, panpipes, ko rikoda saboda tushensu iri ɗaya ne. Ba zai iya, duk da haka, kunna garaya ko lute ba.
+Musicianship yana rufe kunna kayan kida; daga bututun gora mai sauƙi zuwa kayan kida mai rikitarwa kamar garaya, kuma kowane maimaitawa na Musicianship ana amfani da shi ga ƙungiyar kayan kida masu kama da juna. Mawaki wanda zai iya kunna bututun gora zai iya kunna fito, panpipes, ko recorder saboda tushen iri ɗaya ne. Ba za su iya kunna garaya ko lute ba, duk da haka.
 
 #### Navigation (INT+POW)
 
-Ko ana amfani da sanannun wurare, taurari, ko canjin ɗanɗanon ruwan teku, ikon jagorantar tafiya daidai ya haɗa da ƙwarewar Navigation. Kowace ƙwarewar Navigation tana rufe wani yanki ko muhalli na musamman, kamar Open Seas ko Underground misali. Ya kamata a yi shi yayin tafiye-tafiye marasa al'ada ko lokacin da ake cikin wani wuri da ba a sani ba.
+Ko amfani da fitattun wuraren tarihi, taurari, ko dandano daban-daban na ruwan teku, ikon jagorantar tafiya daidai yana ƙarƙashin ƙwarewar Navigation. Kowane ƙwarewar Navigation yana rufe takamaiman yanki ko yanayi, kamar Buɗaɗɗen Teku ko Ƙarƙashin Ƙasa alal misali. Ya kamata a yi shi yayin tafiye-tafiye na ban mamaki ko lokacin da ake cikin yanki da ba a saba da shi ba gaba ɗaya.
 
 #### Oratory (POW+CHA)
 
-Oratory shine fasahar isar da jawabi ga babban rukuni na mutane da nufin isar da ko juya ra'ayi. Ƙwarewa ce da 'yan siyasa ke amfani da ita akai-akai don ƙarfafa manufa, amma kuma kwamandodi suna amfani da ita don ƙarfafa sojoji da kuma sanya horo a filin yaƙi. Duk inda ake buƙatar yawa, Oratory, maimakon Influence, ana amfani da shi.
+Oratory ita ce fasahar ba da jawabi ga babban rukuni na mutane da nufin isar da ko karkatar da ra'ayi. Ƙwarewa ce da ƴan siyasa ke amfani da ita akai-akai don tabbatar da manufa, amma kuma ana amfani da ita ta hannun kwamandoji don ƙarfafa sojoji da sanya ladabtarwa a fagen yaƙi. Duk inda ake buƙatar gamsar da jama'a, ana amfani da Oratory, maimakon Influence.
 
 #### Pilot (DEX+INT)
 
-Ƙwarewar Pilot tana ba da damar sarrafa wani nau'i na musamman (kamar gliders, jiragen sama masu injin prop, injunan jet, da sauransu) na motocin tashi.
+Ƙwarewar Pilot tana ba da damar sarrafa takamaiman aji (kamar gliders, jiragen sama masu prop, injunan jet, da sauransu) na ababen hawa masu tashi.
 
 #### Politics (INT+CHA)
 
-Haruffa masu mallakar ƙwarewar Politics sun fahimci yadda ake kewayawa da tattaunawa a cikin manyan matakan gwamnati a matakin gida da na ƙasa.
+Haruffa masu ƙwarewar Politics suna fahimtar yadda ake kewayawa da tattaunawa a cikin hanyoyin gwamnati a matakan gida da na ƙasa.
 
 #### Research (INT+POW)
 
-Research yana amfani da albarkatu daban-daban (kamar ɗakin karatu, tarihin jaridu, hanyar sadarwa ta kwamfuta, da sauransu), don gano bayanan da ake so.
+Research yana amfani da albarkatu daban-daban (kamar ɗakin karatu, tarihin jaridu, hanyar sadarwar kwamfuta, da sauransu), don gano bayanan da ake so.
 
 #### Science (INT x2)
 
-Akwai daruruwan fannoni na kimiyya kuma ƙwarewar Science, wanda za'a iya ɗauka sau da yawa, koyaushe tana da alaƙa da wani fanni: Science (Biology) ko Science (Chemistry), misali. Science ta maye gurbin ƙwarewar Lore a wuraren zamani da na gaba.
+Akwai daruruwan darussan kimiyya kuma ƙwarewar Science, wanda za a iya ɗauka sau da yawa, koyaushe yana da alaƙa da ilimin kimiyya: Science (Biology) ko Science (Chemistry), alal misali. Science yana maye gurbin ƙwarewar Lore a cikin saitunan zamani da na gaba.
 
 #### Seamanship (INT+CON)
 
-Ana amfani da wannan ƙwarewar kamar Boating amma ana amfani da ita ga manyan jiragen ruwa masu tafiya da jirgin ruwa ko kuma ta hanyar bankunan tuƙi. Hakanan tana rufe kulawa da gyaran jirgin: tantance lokacin da ake buƙatar gyara, inda yake lafiya a tsayawa, haɗarin yanayi mai tsanani, da sauransu.
+Ana amfani da wannan ƙwarewar ta hanya ɗaya da Boating amma maimakon haka ana amfani da ita ga manyan jiragen ruwa waɗanda ke amfani da matuka ko bankuna na sitiyari. Hakanan yana rufe kulawa da kiyaye jirgin ruwa: tantance lokacin da ake buƙatar gyara, inda yake da aminci a yi amfani da anga, haɗarin yanayin tashin hankali, da sauransu.
 
 #### Seduction (INT+CHA)
 
-Seduction shine shawo kan wani mutum ta hanyar soyayya ko jima'i, ƙwarewa ce daban da Influence. Yana amfani da alamomi bayyanannu – na baka da wanda ba na baka ba – don haifar da martani mai kyau na jima'i. Hakanan yana ɗaukar lokaci mai yawa: Nasarar Seduction na iya ɗaukar sa'o'i, kwanaki, ko makonni don cimmawa dangane da ɗabi'un wanda aka nufa, wanda koyaushe zai iya ƙoƙarin tsayayya da Seduction da Willpower.
+Seduction shine gamsar da soyayya ko jima'i na wani mutum, ƙwarewa daban da Influence. Yana amfani da sigina a fili - na magana da rashin magana - don samun martani mai kyau na jima'i. Hakanan yana ɗaukar lokaci mai yawa: Seduction mai nasara na iya ɗaukar sa'o'i, kwanaki, ko makonni don cimmawa dangane da ɗabi'ar manufa, wanda koyaushe zai iya ƙoƙarin tsayayya da Seduction da Willpower.
 
 #### Sensors (INT+POW)
 
-Wannan ƙwarewar tana ba da damar amfani da bincike daidai na na'urorin firikwensin daga masu fitar da sinadarai har zuwa na'urorin bincike na soja masu nisa.
+Wannan ƙwarewar tana ba da damar amfani daidai da nazarin na'urorin firikwensin daga masu ɗaukar ƙamshi na sinadarai har zuwa na'urorin dubawa na soja masu nisa.
 
 #### Sleight (DEX+CHA)
 
-Sleight ya haɗa da ƙoƙarin ɓoye ƙananan abubuwa (legerdemain da prestidigitation) kuma ya haɗa da ƙoƙarin satar aljihu, yanke jakar kuɗi, ko haifar da rarraba gani. A zahiri, ƙwarewa ce ta mahimman ɓarayi.
+Sleight yana rufe yunƙurin ɓoye ƙananan abubuwa (legerdemain da prestidigitation) kuma ya haɗa da yunƙurin ɗaukar aljihu, yanke jakunkuna, ko haifar da ɓatanci na gani. A zahiri, ƙwarewar ɓarawo ce mai mahimmanci.
 
 #### Streetwise (POW+CHA)
 
-Streetwise yana wakiltar sanin wurare da lambobin zamantakewa a cikin mazauni. Ya haɗa da komai daga gano unguwanni masu yuwuwar haɗari, zuwa gano ayyukan gida – na doka ko na haram. Yawan lokacin da ƙoƙarin Streetwise zai ɗauka ya dogara da abin da ake nema. Neman masauki mai kyau zai ɗauki lokaci kaɗan fiye da gano shinge don kayayyaki da aka sata ko izinin ciniki na bogi.
+Streetwise yana wakiltar ilimin wurare da alaƙar zamantakewa a cikin mazauna. Yana rufe komai daga gano unguwannin da ke da haɗari, zuwa gano ayyukan gida - na doka ko na haram. Yawan lokacin da yunƙurin Streetwise ke ɗauka ya dogara da abin da ake nema. Gano kyakkyawan gidan saukar baƙi zai ɗauki lokaci kaɗan fiye da gano mai karɓar kayan sata ko izinin kasuwanci na ƙarya.
 
 #### Survival (CON+POW)
 
-Wannan ƙwarewar tana rufe rayuwa a cikin yanayi na karkara ko daji inda babu fa'idodin wayewa: neman abinci, gina wuta, gano mafaka ko wuri mai lafiya don barci. Idan an shirya yadda ya kamata, yawanci ba a buƙatar jujjuyawar tunda hali na iya ɗaukar tanti, kayan abinci, da sauransu. Sai dai idan aka raba shi da kayan aikinsa ko kuma idan yanayin muhalli ya lalace ne kawai zai zama dole a yi amfani da wannan ƙwarewar. Yawanci ana yin jujjuyawar sau ɗaya a rana a cikin irin waɗannan yanayi.
+Wannan ƙwarewar tana rufe rayuwa a cikin yanayin ƙauye ko daji inda fa'idodin wayewa ba su nan: neman abinci, gina wuta, gano mafaka ko wurin kwana lafiya. Lokacin da aka sanye da kayan aiki yadda ya kamata, jefa ƙwarewa yawanci ba dole ba ne tunda harafin zai iya ɗaukar tantina, kayan abinci, da sauransu. Lokacin da aka raba shi da kayan aikinsa ko lokacin da yanayin muhalli ya lalace ne kawai ya zama dole a yi amfani da wannan ƙwarewar. Yawanci ana yin jefa ƙwarewa sau ɗaya a rana a irin waɗannan yanayi.
 
 #### Teach (INT+CHA)
 
-Teach yana ba mai amfani damar watsa iliminsu da dabarunsu ta hanya mai sauƙi da kuma ingantacciya. Ba tare da wannan ƙwarewar ba har ma da mafi ƙwarewar masters za su fuskanci matsaloli wajen koyar da wasu.
+Teach yana ba mai amfani damar ba da iliminsa da dabarunsa ta hanya mai sauƙi don fahimta da gina jiki. Ba tare da wannan ƙwarewar ba har ma mafi ƙwarewar malamai za su fuskanci matsalolin koyar da wasu.
 
 #### Track (INT+CON)
 
-Ana amfani da ƙwarewar Track don bin kowane nau'i na farauta. Yana amfani da alamomin wucewa bayyanannu da marasa tabbas don ci gaba da bin sawun farauta, ciki har da sawun kafa, ganyen da aka raunata, pollen da aka watsa, duwatsu da aka raba, da sauransu; ƙananan alamomi masu nuna gaskiya waɗanda ba a iya gani ga marasa ƙwarewa. Ana buƙatar yin jujjuyawar Track lokaci-lokaci, musamman idan yanayi ya canza ba zato ba tsammani (ruwan sama, misali, zai dame wasu alamomi). Sau nawa ya dogara da yadda farautar ta kasance mai wayo. Ana iya amfani da jujjuyawar Conceal don adawa da jujjuyawar Track.
+Ana amfani da ƙwarewar Track don bin kowane nau'i na namun daji ko abin farauta. Yana amfani da alamun da aka sani da kuma waɗanda ba a sani ba don kasancewa akan tafarkin abin farauta, gami da sawun ƙafa, ganyen da aka murƙushe, ƙura da aka watse, duwatsu da aka canza, da sauransu; ƙananan alamomi waɗanda ba a gani ga waɗanda ba su da ƙwarewa. Jefa Track yana buƙatar yin shi lokaci-lokaci, musamman idan yanayi ya canza ba zato ba tsammani (ruwan sama, alal misali, zai dame wasu alamomi). Yawan yadda ake yin sa ya dogara da yadda abin farautar ya yi wayo. Ana iya amfani da jefa Conceal don adawa da jefa Track.
 
 ---
-## Ƙa'idodin Ƙwarewa don Yanayi da Halaye Daban-daban
+## Ƙa'idodin Ƙwarewa don Yanayi da Mahalli Daban-daban
 
-Ko da yake ƙa'idodin asali na amfani da ƙwarewa a cikin _Mythras Imperative_ suna da sauƙi, akwai yanayi daban-daban da yawa waɗanda ke tasowa yayin wasan waɗanda ke buƙatar a sarrafa ƙwarewa ta wata hanya ta daban. Sassan da ke gaba suna duba waɗannan yanayi da halaye kuma suna nuna yadda za a sarrafa su.
+Ko da yake ƙa'idodin asali don amfani da ƙwarewa a cikin _Mythras Imperative_ suna da sauƙi sosai, akwai yanayi daban-daban da yawa waɗanda ke tasowa yayin wasa waɗanda ke buƙatar a magance ƙwarewa ta hanyar ɗan bambanci. Sassan masu zuwa suna duba waɗannan yanayi da mahalli kuma suna nuna yadda za a magance su.
 
-### Sake Ƙoƙarin Ƙwarewa
+### Sake Yunƙurin Ƙwarewa (Reattempting Skills)
 
-A wasu yanayi, hali zai kasa ƙoƙarin ƙwarewa amma za a bar shi a cikin yanayin da zai iya sake gwadawa. Misalan lokuta na iya zama buɗe makulli ko ƙoƙarin hawan bango mai tsayi. Maimakon kawai a hana duk wani ƙarin ƙoƙari, Masu Gudanar da Wasa masu kirki na iya ba da izinin sake yin wani ƙoƙari na ƙarshe. Duk da haka, hali zai sami wata fargaba ko rashin ƙarfin gwiwa wanda ke ƙara Matakin Wahala na jujjuyawar ƙwarewa da ɗaya.
+A wasu yanayi, harafi zai gaza wajen jefa ƙwarewa amma za a bar shi a cikin yanayin da zai iya sake yunƙurin yin hakan. Misalan lokuta na iya zama buɗe kulle ko ƙoƙarin hawan bango mai tsayi. Maimakon ƙin yarda da ƙarin yunƙurin, Jagororin Wasa masu kirki na iya ba da izinin bin diddigi, yunƙurin ƙarshe. Duk da haka, harafin zai sha wahala daga wani rashin kwarin gwiwa wanda ke ƙara Matakin Wahala na jefa ƙwarewar da ɗaya.
 
-Idan wannan ƙoƙarin na biyu ma ya ƙare da gazawa, an ɗauka cewa halin ya ba da "mafi kyawun sa" kuma ba zai iya yin wani ƙarin ƙoƙari ba nan gaba kaɗan.
+Idan wannan yunƙurin na biyu kuma ya ƙare da gazawa, ana ɗauka cewa harafin ya ba da 'mafi kyawun ƙoƙarinsa' kuma ba zai iya yin ƙarin yunƙuri ba na nan gaba.
 
-### Juye-juyen Gwaji
+### Jefa Adawa (Opposed Rolls)
 
-Ƙwarewa galibi ana gwada su da wasu ƙwarewa – Stealth akan Perception lokacin da ɓarawo ke ƙoƙarin yanke jakar kuɗin wani mutum mai daraja, misali; ko Deceit akan Insight lokacin da wannan ɓarawo ke ƙoƙarin musanta ƙoƙarin lokacin da aka kama ta – misalai ne masu kyau na lokutan da aka gwada ƙwarewa da juna. Waɗannan an san su da Juye-juyen Gwaji kuma ana amfani da su inda ƙalubale zai haifar ko dai nasara ko rashin nasara, wucewa, ko gazawa.
+Ƙwarewa ana yawan sanya su adawa da wasu ƙwarewa - Stealth versus Perception lokacin da ɓarawo ya yi ƙoƙarin yanke aljihun mai daraja, alal misali; ko Deceit versus Insight lokacin da ɓarawo ɗaya ke ƙoƙarin musanta yunƙurin lokacin da aka kama ta - misalai ne masu kyau na lokutan da ake daidaita ƙwarewa da juna. Ana kiran waɗannan Jefa Adawa kuma ana amfani da su inda ƙalubale zai haifar da ko dai nasara ko rashin nasara, wucewa, ko gazawa.
 
-- Ana tantance Jujjuyawar Gwaji kamar haka: duka mahalarta suna mirgina ƙwarewarsu. Wanda ya ci nasara shine wanda ya sami mafi kyawun Matakin Nasara. Idan mahalarta sun sami Matakin Nasara iri ɗaya (nasarar Standard kowannensu, ko Critical kowannensu), to wanda ya ci nasara shine wanda ke da mafi girman mirgina har yanzu a cikin kewayon nasarar ƙwarewar.
+- Ana tantance Jefa Adawa kamar haka: dukan mahalarta suna jefa ƙwarewarsu. Wanda ya ci nasara shi ne wanda ya sami mafi kyawun Matakin Nasara. Idan mahalarta sun sami Matakin Nasara iri ɗaya (Nasara ta Yau da Kullum kowannensu, ko Nasara ta Musamman kowannensu), to wanda ya ci nasara shi ne wanda yake da mafi girman jefa ƙoƙon da har yanzu yana cikin kewayon nasara na ƙwarewar.
 
-Idan duka mahalarta sun kasa a Jujjuyawar Gwaji, to ko dai:
+Idan dukan mahalarta sun gaza a cikin Jefa Adawa, to ko dai:
 
-- Bayyana yanayin, barin duka ɓangarorin a cikin tashin hankali, sannan a sake mirgina gasar don kafa mai nasara.
-- Mai Gudanar da Wasa ya samar da wani bayani ko yanayi da ya dace da yanayin gazawar.
+- Bayyana yanayin, barin ɓangarorin biyu a cikin tashin hankalin wasa, sannan sake jefa gasar don kafa wanda ya ci nasara.
+- Jagoran Wasa ya kamata ya samar da wani bayani ko yanayi wanda ya dace da yanayin gazawar.
 
-Ana yawan amfani da Juye-juyen Gwaji a wasu yanayin yaƙi don shawo kan tasirin raunuka ko adawa da tasirin Yaƙi na Musamman. Hakanan ana amfani da su don tsayayya da guba da cututtuka ko kuma kawar da tasirin sihiri mai muni.
+Ana amfani da Jefa Adawa akai-akai a cikin wasu yanayin yaƙi don shawo kan tasirin raunuka ko adawa da tasiri na Musamman na yaƙi. Hakanan ana amfani da su don tsayayya da guba da cuta ko kawar da tasirin sihiri mai muni.
 
-##### Misalan Juye-juyen Gwaji
+##### Misalan Jefa Adawa
 
-| Aiki | Misalan Ƙwarewar Gwaji |
+| Aiki | Misalan Ƙwarewar Adawa |
 | :-- | :-- |
-| Ciniki/Sadarwa | Commerce vs. Commerce, Influence vs. Commerce |
-| Farauta/Gudu | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
-| Yaudara ko Ƙarya | Deceit vs. Insight, Sleight vs. Perception |
+| Ciniki/Haggling | Commerce vs. Commerce, Influence vs. Commerce |
+| Korar/Gudun Tsere | Athletics vs. Athletics, Athletics vs. Endurance, Ride vs. Ride |
+| Yaudara ko Yin Ƙarya | Deceit vs. Insight, Sleight vs. Perception |
 | Nuna Aminci | Passion vs. Passion, Passion vs. Insight, Passion vs. Influence |
-| Fitar da Hanyar | Evade vs. Athletics, Evade vs. Mechanisms, Evade vs. Ride |
-| Boyewa ko Sata | Stealth vs. Perception; Stealth vs. Track |
-| Ja da baya | Influence vs. Willpower, Deceit vs. Willpower |
-| Ci gaba | Endurance vs. Endurance, Endurance vs. Brawn |
-| Jawo Hankalin Jama'a | Oratory vs. Willpower |
-| Gwajin Ƙarfi | Brawn vs. Brawn, Brawn vs. Endurance |
-| Gwajin So | Willpower vs. Willpower, Seduction vs. Willpower |
+| Fita daga Hanyar | Evade vs. Athletics, Evade vs. Mechanisms, Evade vs. Ride |
+| Ƃoyewa ko Yin Ɓoye | Stealth vs. Perception; Stealth vs. Track |
+| Jawo Matsayi | Influence vs. Willpower, Deceit vs. Willpower |
+| Zama akan Hanya | Endurance vs. Endurance, Endurance vs. Brawn |
+| Karkatar da Taron Jama'a | Oratory vs. Willpower |
+| Jarabawar Ƙarfi | Brawn vs. Brawn, Brawn vs. Endurance |
+| Jarabawar Nufi | Willpower vs. Willpower, Seduction vs. Willpower |
 
-### Juye-juyen Bambanci
+### Jefa Bambanci (Differential Rolls)
 
-Juye-juyen Bambanci suna kama da Juye-juyen Gwaji sai dai maimakon nasara ko rashin nasara mai sauƙi, an lissafta bambancin Matakan Nasara. Da farko ana amfani da su don warware yaƙi, ana iya amfani da Juye-juyen Bambanci a wasu yanayi inda Mai Gudanar da Wasa ke son ƙara cikakkun sakamakon gasar.
+Jefa Bambanci suna kama da Jefa Adawa sai dai maimakon sakamakon nasara ko rashin nasara mai sauƙi, ana lissafin bambanci a Matakan Nasara. Ana amfani da shi da farko don warware yaƙi, Jefa Bambanci kuma ana iya amfani da su a wasu yanayi inda Jagoran Wasa yake son ƙara cikakkun sakamakon gasar.
 
-Ana tantance Jujjuyawar Bambanci ta hanya mai zuwa: Duk mahalarta suna mirgina akan ƙwarewarsu kuma suna shan sakamakon mirginarsu kamar an gwada su a keɓe. Babu "mai nasara" kai tsaye, amma duk wanda ya sami mafi girman Matakin Nasara yana samun fa'ida daidai da bambancin matakan nasara tsakaninsu (idan ɗaya daga cikin mahalarta ya sami aƙalla nasarar Standard ko mafi kyau). Idan duka mahalarta sun sami Matakin Nasara iri ɗaya (nasarar Standard kowannensu, ko Critical kowannensu), to babu wani tasiri.
+Ana tantance Jefa Bambanci ta hanyar: Dukan mahalarta suna jefa ƙwarewarsu kuma suna shan sakamakon jefa ƙwarewarsu kamar yadda aka gwada a keɓe. Babu wanda ya ci nasara a fili, amma duk wanda ya sami mafi girman Matakin Nasara yana samun fa'ida daidai da bambanci a matakan nasara tsakanin su (tare da ɗauka cewa ɗaya daga cikin mahalarta ya sami aƙalla nasara ta Yau da Kullum ko mafi kyau). Idan dukan mahalarta sun sami Matakin Nasara iri ɗaya (Nasara ta Yau da Kullum kowannensu, ko Nasara ta Musamman kowannensu), to babu ƙarin tasiri.
 
-##### Sakamakon Juye-juyen Bambanci
+##### Sakamakon Jefa Bambanci
 
-| Sakamakon Jujjuyawa | Antagonist Critical | Antagonist Success | Antagonist Failure | Antagonist Fumble |
+| Sakamakon Jefa Ƙwarewa | Abokin Adawa na Musamman | Nasarar Abokin Adawa | Gazawar Abokin Adawa | Kurakurai na Abokin Adawa |
 | :-- | :-: | :-: | :-: | :-: |
-| Protagonist Critical | Babu Fa'ida | Protagonist ya ci Matakin Nasara 1 | Protagonist ya ci Matakan Nasara 2 | Protagonist ya ci Matakan Nasara 3 |
-| Protagonist Success | Antagonist ya ci Matakin Nasara 1 | Babu Fa'ida | Protagonist ya ci Matakin Nasara 1 | Protagonist ya ci Matakan Nasara 2 |
-| Protagonist Failure | Antagonist ya ci Matakan Nasara 2 | Antagonist ya ci Matakin Nasara 1 | Babu Fa'ida | Babu Fa'ida |
-| Protagonist Fumble | Antagonist ya ci Matakan Nasara 3 | Antagonist ya ci Matakan Nasara 2 | Babu Fa'ida | Babu Fa'ida |
+| Jarumi na Musamman | Babu Fa'ida | Jarumi ya ci Nasara mataki 1 | Jarumi ya ci Nasara mataki 2 | Jarumi ya ci Nasara mataki 3 |
+| Nasarar Jarumi | Abokin Adawa ya ci Nasara mataki 1 | Babu Fa'ida | Jarumi ya ci Nasara mataki 1 | Jarumi ya ci Nasara mataki 2 |
+| Gazawar Jarumi | Abokin Adawa ya ci Nasara mataki 2 | Abokin Adawa ya ci Nasara mataki 1 | Babu Fa'ida | Babu Fa'ida |
+| Kurakurai na Jarumi | Abokin Adawa ya ci Nasara mataki 3 | Abokin Adawa ya ci Nasara mataki 2 | Babu Fa'ida | Babu Fa'ida |
 
-### Ƙwarewar Gwaji Sama da 100%
+### Ƙwarewar Adawa sama da 100%
 
-Idan mahalarta mafi ƙwarewa a cikin Jujjuyawar Gwaji ko Bambanci yana da ƙwarewar fiye da 100%, wannan mahalarta yana ragi bambancin tsakanin 100 da ƙimar ƙwarewarsa daga ƙwarewar kowa a cikin gasar, ciki har da kansa. Wannan yana rage ƙimar ƙwarewar abokan gaba amma yana barinsa ya riƙe fa'idar.
+Idan mahalartin da ke da ƙwarewa mafi girma a cikin Jefa Adawa ko Jefa Bambanci yana da ƙwarewa sama da 100%, wannan mahalartin yana rage bambanci tsakanin 100 da ƙimar ƙwarewarsa daga ƙwarewar kowa a cikin gasar, gami da kansa. Wannan yana rage ƙimar ƙwarewar abokan adawa amma yana barin shi yana riƙe da fa'ida.
 
-Dole ne a lissafta gano wanda ke da mafi girman ƙwarewa bayan an yi amfani da duk wasu gyare-gyare don yanayi.
+Tantance wanda ke da mafi girman ƙwarewa dole ne a lissafa shi bayan an yi amfani da duk wani gyare-gyare don yanayi.
 
-### To, Yaya Kake Da Kyau?
+### To, Yaya Kwarewarku Take?
 
-Yana da amfani sosai ga Masu Gudanar da Wasa da 'Yan Wasa su sami ma'auni na gama gari don abin da ƙimar ƙwarewa ke fassara zuwa matakin cancanta. Shin mai sana'a mai Craft Wood 48% mai kafinta ne mai kyau ko kuma mai cancanta kawai? Teburin Matakin Cancanta yana taimakawa taƙaita matakan cancanta daban-daban da mutum zai iya tsammanin ƙima a cikin ƙwarewa don wakilta; Har ila yau, yana da kyau ga Masu Gudanar da Wasa lokacin sanya ƙimar gabaɗaya ga ƙwarewa don Haruffa Marasa Wasa da abokan gaba. Idan ana buƙatar ƙimar bazuwar don ƙwarewar Halin Marasa Wasa, to shafi na Random Value yana ba da lambar dice don samun ƙima a cikin Matakin Cancanta da ake so.
+Yana iya zama da amfani sosai ga Jagororin Wasa da ƴan wasa su sami tsarin tunani gama gari na abin da ƙimar ƙwarewa take fassara zuwa matakin ƙwarewa mai kama da haka. Shin mai sana'a da ke da Craft Wood 48% babban ma'aikacin katako ne ko mai ƙwarewa kawai? Teburin Matakin Ƙwarewa yana taimakawa wajen taƙaita matakan ƙwarewa daban-daban da mutum zai iya tsammanin ƙimar ƙwarewa za ta wakilta; yana kuma zama abin tunatarwa mai amfani ga Jagororin Wasa lokacin da suke sanya ƙimar gaba ɗaya ga ƙwarewar ga Halittun da ƴan wasa ba su sarrafa ba da abokan gaba. Idan ana buƙatar ƙima ta bazuwar don ƙwarewar Halittun da ƴan wasa ba su sarrafa ba, to shafi na Random Value yana ba da lambar jefa ƙoƙo don samun ƙima a cikin Matakin Ƙwarewar da ake so.
 
-##### Teburin Matakin Cancanta
+##### Teburin Matakin Ƙwarewa (Competency Level Table)
 
-| Ƙimar Ƙwarewa | Ƙimar Bazuwar | Matakin Cancanta | Daidai da Soja | Bayani |
+| Ƙimar Ƙwarewa | Ƙimar Bazuwar | Matakin Ƙwarewa | Daidai na Soja | Bayani |
 | :-- | :-: | :-: | :-: | :-- |
-| 1-30% | 1d20+10 | Sabon Shiga | Ciyar da Bindiga | Ba cancanta ba kuma yana koyon asali |
-| 31-50% | 1d20+30 | Mai Cancanta | Green | Zai iya yin ayyuka masu sauƙi idan ya ɗauki lokaci don zama mai hankali |
-| 51-70% | 1d20+50 | Mai Iya | Kware | Ya kai matakin cancanta mai iya aiki |
-| 71-90% | 1d20+70 | Ƙwararre | Tsohon Soja | An gane shi a matsayin ƙwararre ko masanin fanni |
-| 91-110% | 1d20+90 | Jagora | Elite | An ɗauka ɗaya daga cikin mafi kyau a cikin kasuwanci |
-| \>110% | 1d20+110 | Abin Misali | Jarumi | An shahara nesa da kusa saboda ƙwarewarsa mai girma |
+| 1-30% | 1d20+10 | Novice | Cannon Fodder | Ba a cancanta ba kuma suna koyon abubuwan yau da kullum |
+| 31-50% | 1d20+30 | Competent | Green | Zai iya yin ayyuka masu sauƙi idan yana ɗaukar lokaci don yin hankali |
+| 51-70% | 1d20+50 | Proficient | Seasoned | Ya kai matakin ƙwarewa na aiki |
+| 71-90% | 1d20+70 | Expert | Veteran | An gane shi azaman ƙwararre ko ƙwararren batun a fagen |
+| 91-110% | 1d20+90 | Master | Elite | An ɗauke shi ɗaya daga cikin mafi kyau a cikin kasuwancin |
+| >110% | 1d20+110 | Exemplar | Heroic | An san shi a nesa da kusa don ƙwarewarsa mai cika |
