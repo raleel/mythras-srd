@@ -1,0 +1,4 @@
+- [کور پاڼه](/)
+- [څنګه کار کوي](HowTo.md)
+- [د بدلونونو لړليک](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

@@ -1,0 +1,4 @@
+- [Destpêk](/)
+- [Çawa Bikar Bîne](HowTo.md)
+- [Lîsteya Guherînan](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

@@ -1,0 +1,4 @@
+- [मुख्य पान](/)
+- [कसे खेळाल](HowTo.md)
+- [बदलांचा तपशील](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

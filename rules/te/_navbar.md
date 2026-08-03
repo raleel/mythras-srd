@@ -1,0 +1,4 @@
+- [హోమ్](/)
+- [ఎలా చేయాలి](HowTo.md)
+- [చాంగ్‌లాగ్](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

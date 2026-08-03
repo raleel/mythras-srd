@@ -1,0 +1,4 @@
+- [Главная](/)
+- [Как играть](HowTo.md)
+- [Журнал изменений](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)
