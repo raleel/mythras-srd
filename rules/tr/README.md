@@ -3,76 +3,76 @@
 ---
 ## Giriş
 
-_Mythras Imperative_, _Mythras_ kurallarının Açık, ORC Lisanslı bir versiyonudur. Bu belge, karakter yaratma, beceriler, bazı tipik durumlar için kurallar, dövüş ve büyü dahil olmak üzere kapsamlı, ancak eksiksiz olmayan bir dizi kural sunar – hem oyuncuların hem de Oyun Yöneticilerinin başlaması ve daha fazla geliştirme için sağlam bir temel oluşturması için fazlasıyla yeterlidir. _Mythras Imperative_, Mythras çekirdek kuralları ve diğer ORC lisanslı yüzde tabanlı oyun sistemleri ile uyumludur. Eşlik eden cilt olan _Classic Fantasy Imperative_ de tamamen uyumludur ve ORC altında yayımlanmıştır, bu da iki Imperative'in kolayca birleştirilebileceği anlamına gelir.
+_Mythras Imperative_, _Mythras_ kural setinin Açık, ORC Lisanslı bir versiyonudur. Bu belge; karakter oluşturma, yetenekler, belirli tipik durumlar için kurallar, savaş ve büyü dahil olmak üzere kapsamlı ancak tüketici olmayan bir kural seti sunar. Hem oyuncuların hem de Oyun Yöneticilerinin (GM) başlaması için fazlasıyla yeterlidir ve daha ileri geliştirmeler için sağlam bir temel oluşturur. _Mythras Imperative_, Mythras çekirdek kuralları ve diğer ORC lisanslı yüzde tabanlı oyun sistemleriyle uyumludur. Eşlik eden cildi olan _Classic Fantasy Imperative_ da tamamen uyumludur ve ORC altında yayınlanmıştır; bu da iki Imperative'in kolayca birleştirilebileceği anlamına gelir.
 
 İngilizce dışındaki çeviriler yapay zeka aracılığıyla yapılmıştır. Topluluk katkıları memnuniyetle karşılanır!
 
 ---
 ## ORC Lisansı
 
-_Mythras Imperative_, ORC Lisansı kullanılarak yayımlanmıştır. ORC Lisansı, oyun yaratıcılarının oyunlarının mekaniklerini açıkça paylaşmalarına ve alt kullanıcıların bu oyun mekaniklerinin adaptasyonlarını serbestçe kullanmasına, değiştirmesine ve yeniden paylaşmasına olanak tanır.
+_Mythras Imperative_, ORC Lisansı kullanılarak yayınlanmıştır. ORC Lisansı, oyun yaratıcılarının oyunlarının mekaniklerini açıkça paylaşmaları için bir yol sunar ve alt kullanıcıların bu oyun mekaniklerinin uyarlamalarını özgürce kullanmasına, değiştirmesine ve yeniden paylaşmasına olanak tanır.
 
-ORC altında açıkça paylaşılan şey _**Lisanslı Materyal**_ olarak bilinir ve oyunun geniş fonksiyonel öğelerini, örneğin istatistik blokları, oyun kuralları, karakter nitelikleri ve oyunu oynamanın doğal yöntem ve sistemlerini, ayrıca lisans verenin açıkça paylaşmak istediği her şeyi içerir. Lisans geniştir ve Lisanslı Materyalleri dünya çapında basılı kitaplar, video oyunları, podcast'ler, yapay zeka veya gelecekte var olabilecek veya oluşturulabilecek diğer teknolojilerle bağlantılı olarak kullanmanıza izin verir. _Mythras Imperative_'de bulunan içeriğin büyük çoğunluğu Lisanslı Materyalden oluşur.
+ORC kapsamında açıkça paylaşılan içerik _**Lisanslı Materyal**_ olarak bilinir ve istatistik blokları, oyun kuralları, karakter nitelikleri, oyunu oynamanın doğasında bulunan yöntemler ve sistemler ile lisans sahibinin açıkça paylaşmak istediği diğer her şey gibi oyunun geniş işlevsel unsurlarını içerir. Lisans geniştir ve Lisanslı Materyalleri basılı kitaplar, video oyunları, podcast'ler, yapay zeka veya mevcut olan ya da gelecekte yaratılabilecek herhangi bir başka teknolojiyle bağlantılı olarak küresel olarak kullanmanıza izin verir. _Mythras Imperative_'de bulunan içeriğin büyük bir kısmı Lisanslı Materyal oluşturur.
 
-ORC altında _paylaşılmayan_ şey _**Saklı Materyal**_ olarak bilinir ve ticari markaları, dünya lore'unu, hikaye yaylarını, ayırt edici karakterleri ve görsel sanatı içerir. Saklı Materyali aşağıda, ORC Bildiriminde listeledik.
+ORC kapsamında _paylaşılmayan_ içerik _**Saklı Materyal**_ olarak bilinir ve ticari markaları, dünya lore'unu (kurgusal evren bilgisini), hikaye arklarını, belirgin karakterleri ve görsel sanatları içerir. Saklı Materyal'i aşağıdaki ORC Bildirimi'nde listeledik.
 
-ORC Lisansı altında, yayınladığınız eserde uygun bir bildirim şeklinde doğru atıfta bulunduğunuz sürece Lisanslı Materyali istediğiniz şekilde kullanabilir, paylaşabilir, uyarlayabilir ve üzerine inşa edebilirsiniz. Bu bildirim, hem yukarıdaki lisans verenleri ve onların esere katkılarını takdir eder hem de alt kullanıcıların bildirimin göründüğü eserin yazarını takdir etmeleri için kolay bir yol sağlar. ORC altında lisanslı materyali kullanarak, oyun mekaniklerinizi yayınladığınız eserde aynı koşullar altında lisanslamayı otomatik olarak kabul edersiniz. Kendi Saklı Materyalinizi geliştirirseniz, bu sizin münhasır mülkünüzdür.
+ORC Lisansı altında, yayınladığınız çalışmada bir bildirim biçiminde uygun atıfta bulunduğunuz sürece Lisanslı Materyali uygun gördüğünüz şekilde kullanabilir, paylaşabilir, uyarlayabilir ve üzerine inşa edebilirsiniz. Bu bildirim, hem yukarı akış lisans sahiplerine ve çalışmaya yaptıkları katkıya atıfta bulunur hem de alt kullanıcıların bildirimin göründüğü çalışmanın yazarını atıfta bulunmasını kolaylaştırır. ORC kapsamında lisanslanan materyali kullanarak, yayınladığınız çalışmadaki oyun mekaniklerinizi aynı koşullar altında lisanslamayı otomatik olarak kabul etmiş olursunuz. Kendi Saklı Materyalinizi geliştirirseniz, o sizin münhasır mülkünüzdür.
 
 ---
 #### ORC Bildirimi
 
-_Mythras Imperative_, Kongre Kütüphanesi'nde bulunan ve [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) ve diğerleri dahil olmak üzere çeşitli yerlerde çevrimiçi olarak erişilebilen ORC Lisansı altında lisanslanmıştır.
+_Mythras Imperative_, Kongre Kütüphanesi'nde yer alan ve [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) dahil olmak üzere çeşitli çevrimiçi konumlarda mevcut olan ORC Lisansı altında lisanslanmıştır.
 
-Belgede belirtildiği üzere tüm garantiler reddedilmiştir.
+Burada belirtilen tüm garantiler reddedilmiştir.
 
 ---
 #### Atıf
 
-Bu ürün aşağıdaki Saklı Materyal üzerine kuruludur:
+Bu ürün aşağıdaki Saklı Materyale dayanmaktadır:
 
-_Mythras_, The Design Mechanism Telif Hakkı 2016, Yazan Pete Nash ve Lawrence Whitaker
+_Mythras_, The Design Mechanism Telif Hakkı 2016, Yazan: Pete Nash ve Lawrence Whitaker
 
-Lisanslı Materyalimizi kendi yayınladığınız eserlerinizde kullanırsanız, lütfen bize aşağıdaki gibi atıfta bulunun:
+Lisanslı Materyalimizi kendi yayınlanmış çalışmalarınızda kullanırsanız, lütfen bize aşağıdaki şekilde atıfta bulunun:
 
-_Mythras Imperative'e dayanmaktadır, Yazan Pete Nash ve Lawrence Whitaker, ve The Design Mechanism tarafından yayımlanmıştır, Telif Hakkı 2023_
+_Pete Nash ve Lawrence Whitaker tarafından yazılan ve The Design Mechanism tarafından 2023 Telif Hakkı ile yayınlanan Mythras Imperative'e dayanmaktadır_
 
 ---
 #### Saklı Materyal
 
-_Mythras Imperative_'in ana oyunları olan _**Classic Fantasy**_ ve _**Mythras**_'ın, The Design Mechanism tarafından yayımlanan, ORC lisansı altında Saklı Materyal olarak belirlendiğini unutmayın.
+_Mythras Imperative_'in ana oyunları olan, The Design Mechanism tarafından yayınlanan _**Classic Fantasy**_ ve _**Mythras**_'ın ORC lisansı altında Saklı Materyal olarak belirlendiğini unutmayın.
 
-_**Classic Fantasy**_ veya _**Mythras**_'ta bulunan içeriği kullanmak isterseniz, lütfen Saklı Materyale telifsiz olarak erişilmesine izin veren, ancak onaylar ve atıfla ilgili bazı koşulları olan ayrı _Mythras Gateway Lisansı_ hakkında The Design Mechanism ile iletişime geçin.
+İster _**Classic Fantasy**_ ister _**Mythras**_ içinde bulunan içerikten yararlanmak isteyin, lütfen Saklı Materyale telifsiz ancak onaylar ve atıfla ilgili bazı koşullarla erişilmesine izin veren ayrı _Mythras Gateway Lisansı_ hakkında The Design Mechanism ile iletişime geçin.
 
 Aşağıdakiler de Saklı Materyal olarak kabul edilir:
 
-_**Mythras Imperative**_ – atıfta kullanıldığı durumlar dışında bir isim olarak, logosu dahil.
+_**Mythras Imperative**_ – atıfta kullanılırken yapılan kullanım hariç, logosu dahil bir isim olarak.
 
-_**Mythras**_ – atıfta kullanıldığı durumlar dışında bir isim olarak, logosu dahil.
+_**Mythras**_ – atıfta kullanılırken yapılan kullanım hariç, logosu dahil bir isim olarak.
 
-_Mythras Imperative_'de bulunan _**Tüm sanat eserleri, grafikler ve ticari sunumlar**_
+_**Mythras Imperative**_ içinde bulunan **tüm illüstrasyonlar, grafikler ve ticari kıyafetler (trade dress)**.
 
 ---
-## d100'e Yeni mi Başladınız?
+## d100'de Yeni misiniz?
 
-_Mythras Imperative_ bir d100 veya yüzde sistemidir. Yüzde zarları veya 1d100, anahtar eylemleri (beceri kullanımı, dövüş, büyü yapma vb.) çözmek için kullanılır. Bu, hedef sayının bir yüzde olarak ifade edildiği (örneğin Atletizm %65) ve hem Oyun Yöneticisi hem de oyuncunun bir Başarı elde etmek için 1d100 kullanarak bu hedef sayıya eşit veya daha az atmayı hedeflediği, _altına atma_ sistemidir. İstenirse 1d100'ü bir d20 ile değiştirmek oldukça kolaydır ve tüm yüzdeler 5'e bölünebilir (yukarı yuvarlanır) bir d20 atışı için hedef sayıyı elde etmek üzere. Örneğin Atletizm %65, Atletizm 13 olacaktır.
+_Mythras Imperative_ bir d100 veya yüzde sistemidir. Temel eylemleri (yetenek kullanımı, savaş, büyü yapma vb.) sonuçlandırmak için yüzde zar (percentile dice) veya 1d100 kullanılır. Bu bir "altında atma" (roll-under) sistemidir; yani hedef sayı bir yüzde olarak ifade edilir (örneğin Atletizm %65) ve hem Oyun Yöneticisi hem de oyuncu bir Başarı elde etmek için 1d100 kullanarak bu hedef sayıya eşit veya daha düşük bir sonuç atmaya çalışır. Tercih edilirse 1d100'ü bir d20 ile değiştirmek oldukça kolaydır ve d20 atışı için hedef sayıyı elde etmek üzere tüm yüzdeler 5'e bölünebilir (yukarı yuvarlanır). Örneğimizde Atletizm %65, Atletizm 13 haline gelirdi.
 
-Ancak, 1d100 tüm oyunun temelini oluşturan büyük bir esneklik ve nüans sunar, bu nedenle önerimiz önce 1d100 yaklaşımını denemenizdir. Bir şeyden _daha az_ atmak mantıksız görünse de (birçok oyunda genellikle daha yüksek daha iyidir!), kişinin atması gereken yüzde aralığı olarak ifade edilen bir hedef sayıya sahip olmak, başarı şansınızı görmeyi kolay ve basit hale getirir ve Karşıt Atışlar, Kritikler ve Başarısızlıklar gibi oldukça fazla "zar hilesi"ne ve bu kuralların ilerleyen kısımlarında keşfedilecek birkaç başka şeye izin verir. Yüzde tabanlı rol yapma, rol yapmanın ilk günlerinden beri var olmuştur ve esnek, sezgisel ve oyun sırasında arka planda kaybolma eğiliminde olan, denenmiş ve test edilmiş çekirdek mekaniğe sahip sağlam bir oyun sistemidir.
+Bununla birlikte, 1d100 tüm oyunun temelini oluşturan büyük bir esneklik ve nüans sunar, bu nedenle tavsiyemiz önce 1d100 yaklaşımını denemenizdir. Bir şeyden _daha azını_ atmanız gereksiniminin sezgisel tersi gibi görünmesi (birçok oyunda daha yüksek olan genellikle daha iyidir!) garip gelse de, içinde atılması gereken bir yüzde aralığı olarak ifade edilen bir hedef sayıya sahip olmak, başarı şansınızı görmenizi kolay ve basit hale getirir; Karşı Atışlar (Opposed Rolls), Kritik ve Düşüşler (Criticals and Fumbles) ve bu kuralların ilerleyen kısımlarında incelenen diğer birkaç şey gibi epeyce "zar hilesine" izin verir. Yüzdelik rol yapma oyunları, rol yapma oyunlarının en eski günlerinden beri var olmuştur ve esnek, sezgisel olan ve oyun sırasında arka plana çekilme eğiliminde olan denenmiş ve test edilmiş bir çekirdek mekaniğe sahip, sağlam bir şekilde kurulmuş bir oyun sistemidir.
 
 ---
 ## Basitleştirme
 
-_**Mythras**_'ın uzun süredir sahipleri, bazı yerlerde _Mythras Imperative_ kurallarının basitleştirildiğini fark edeceklerdir. Bu, bir Oyun Yöneticisinin oyunu yeni oyunculara minimum telaşla daha hızlı tanıtabilmesi için yapılmıştır.
+Uzun süredir _**Mythras**_ sahipleri olanlar, bazı yerlerde _Mythras Imperative_ kurallarının basitleştirilmiş olduğunu fark edeceklerdir. Bu, bir Oyun Yöneticisinin oyunu minimum zahmetle yeni oyunculara daha hızlı tanıtabilmesi için yapılmıştır.
 
 ---
 ## Sayıların ve Sonuçların Yuvarlanması
 
-Bazı durumlarda sayıları bölmeniz gerekecektir – tipik olarak bir becerinin derecesi (örneğin Kritik Başarıyı belirlemek için, bu beceri değerinin 1/10'udur). Bir bölme sonucu bir kesir oluşturduğunda, her zaman tam sayıya yukarı yuvarlayın. Örneğin, %63'ün 1/10'u 6.3'tür; bu 7'ye yuvarlanır.
+Bazı durumlarda sayıları bölmeniz gerekecektir - tipik olarak bir yetenekteki derece (yetenek değerinin 1/10'u olan Kritik Başarıyı belirlemek için olduğu gibi). Ne zaman bir bölme sonucu bir kesir oluşturursa, her zaman en yakın tam sayıya yukarı yuvarlayın. Örneğin, %63'ün 1/10'u 6.3'tür; bu 7'ye yukarı yuvarlanır.
 
 ---
-## Kullanılan Zarlar
+## Kullanılan Zar Seti
 
-_Mythras Imperative_, standart çokyüzlü zar setini kullanır: d4, d6, d8, d10 d12, d20 ve d100. Ek olarak, aşağıdaki zarlar istenir:
+_Mythras Imperative_ standart çokyüzlü zar setini kullanır: d4, d6, d8, d10, d12, d20 ve d100. Ek olarak, aşağıdaki zarlar da gereklidir:
 
-d2: Herhangi bir zar atın. Tek sayı 1'e, çift sayı 2'ye eşittir. Veya yazı tura atın.
+d2: Herhangi bir zar atın. Tek bir sayı 1'e ve çift sayılar 2'ye eşittir. Veya bir yazı tura atın.
 
 d3: Altı yüzlü bir zar atın; 1-2 = 1, 3-4 = 2, 5-6 = 3
