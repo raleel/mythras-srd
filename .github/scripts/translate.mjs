@@ -19,9 +19,11 @@ const TARGET_LANGUAGES = [
 ];
 
 // gemini-2.5-flash-lite returned a hard 404 ("no longer available to new
-// users") against this project's API key. Trying the newer gemini-3.5-flash-lite
-// generation instead. Override via env var if this needs to change again.
-const MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";
+// users") against this project's API key. Now trying gemini-3.1-flash-lite.
+// Both the Batch API (ai.batches.create) and the sequential fallback path
+// (ai.models.generateContent) read this same constant. Override via env var
+// if this needs to change again.
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
 
 // Max attempts (including the first try) per language before giving up and
 // logging a final failure. Used by the sequential fallback path.
