@@ -1,89 +1,89 @@
-# Jigogi
+# Haruffa
 
-Duk wani mai wasa a _Mythras Imperative_ yana sarrafa jigo. Jigo shine madadin mutum na mai wasa, kuma yawanci yana da bambanci sosai, ta jiki da ta hankali, da mai wasa. Jigogi na iya kasancewa daga jinsuna daban-daban, gwargwadon yanayin wasan; yanayin tarihi zai nuna mutane kawai, yayin da yanayin fantasy zai iya haɗawa da karkare, aljanu har ma da lizardmen. Babban jigo an bayyana shi ta hanyar abubuwa daban-daban da ke bayyana iyawar jigo. Waɗannan abubuwan sune:
+Kowane ɗan wasa a cikin _Mythras Imperative_ yana sarrafa haruffa. Haruffa ita ce ta waje ta ɗan wasa, kuma yawanci tana da banbanci sosai, a zahiri da kuma tunani, ga ɗan wasa. Haruffa na iya fitowa daga nau'ikan halittu daban-daban, bisa ga saitin wasan; saitin tarihi zai ƙunshi mutane ne kawai, yayin da saitin fantasy zai iya haɗawa da dwarves, elves, har ma da lizardmen. Ana fayyace asalin hali ta jerin abubuwa daban-daban waɗanda ke bayyana ƙarfin hali. Waɗannan abubuwan su ne:
 
-- **Halaye:** kamar Ƙarfi ko Sha'awa
-- **Siffofin Halaye:** abubuwa kamar Tsayi ko Motsi
-- **Kwarewa:** kwarewa a cikin iyawa ta asali
+- **Halaye (Characteristics):** kamar Ƙarfi ko Ƙwarjini
+- **Sigogin Jiki (Attributes):** abubuwa kamar Tsayi ko Motsi
+- **Basira (Skills):** kwarewa a muhimman iyawa
 
-Yawancin waɗannan abubuwan an bayyana su a cikin lambobi, kuma wasu suna dogara ne ko an lissafa su ta wasu. Ma'anar kowane abu, da yadda ake tantance su, an bayyana su a cikin sassan masu zuwa.
-
----
-## Mataki na 1: Manufar Jigo
-
-Wurin da ya dace a fara shine samun ra'ayin wane irin jigo kake so ka taka: jarumi mai dabara watakila, ko dan fashi mai wayo. Wataƙila ka fi son masanin ilimi mai nazari, ko mai sihiri mai hikima. Manufar jigonka ba lallai ne ta zama mai zurfi ba a wannan matakin; kawai ra'ayin da zai taimaka wajen jagorantar wasu zaɓuɓɓuka kamar Al'ada da Sana'a.
+Yawancin waɗannan abubuwan ana bayyana su ta fuskar lambobi, kuma wasu sun dogara ne ko kuma ana ƙididdige su ta wasu. Ma'anar kowane abu, da yadda ake tantance su, an bayyana su a sassan da ke biyo baya.
 
 ---
-## Mataki na 2: Halaye
+## Mataki na 1: Manufar Hali
 
-Kowane mutum an bayyana shi da Halaye guda bakwai waɗanda ke gaya maka wani abu game da jigonka; yadda yake da ƙarfi ko sauri; yadda yake da wayo ko lafiya. Halaye sune ginshiƙin kowane jigo na _Mythras Imperative_ kuma sune tushen yawancin sauran abubuwa kamar Siffofin Halaye da Kwarewa. Halaye bakwai sune:
+Wuri mai kyau don farawa shine samun ɗan ra'ayi game da irin halin da kake son takawa: jarumi mai dabara watakila, ko ɗan fasa-kwauri. Wataƙila ka fi son ɗan ilimi mai zurfi, ko magini mai hikima. Manufarka ba ta buƙatar zama mai sarkakiya a wannan matakin; kawai ra'ayi ne wanda zai taimaka wajen jagorantar zaɓuɓɓuka kamar Al'ada da Sana'a.
+
+---
+## Mataki na 2: Halaye (Characteristics)
+
+Ana fayyace kowa ta hanyar Halaye guda bakwai waɗanda suke ba ka wani bayani game da halinka; yadda suke da ƙarfi ko sauri; yadda suke da wayo ko lafiya. Halaye su ne tushen kowane hali na _Mythras Imperative_ kuma su ne tushen yawancin sauran abubuwa kamar Sigogin Jiki da Basira. Halaye guda bakwai su ne:
 
 - Ƙarfi (STR)
-- Juriya (CON)
+- Lafiya (CON)
 - Girma (SIZ)
-- Ƙwazo (DEX)
-- Hankali (INT)
+- Sauri (DEX)
+- Wayo (INT)
 - Iko (POW)
-- Sha'awa (CHA)
+- Ƙwarjini (CHA)
 
-Kafin lissafin Halaye, sashe na gaba yana bayyana abin da kowane ɗayan yake wakilta.
+Kafin ƙididdige Halaye, sashe na gaba yana bayyana abin da kowanne ke wakilta.
 
 #### Ƙarfi (STR)
 
-STR yana wakiltar ƙarfin jiki: yadda mutum zai iya ɗauka, yadda zai iya buga da ƙarfi, da sauransu. STR wani ɓangare ne na Mai Gyaran Lalacewa. Idan jigo ya ragu zuwa STR sifili, ba shi da ikon motsa ko ɗaukar abubuwa.
+STR tana wakiltar ƙarfin jiki: nawa mutum zai iya ɗagawa, yadda zai iya bugawa da ƙarfi, da sauransu. STR wani bangare ne na Ƙarin Lalacewa (Damage Modifier). Idan hali ya ragu zuwa sifili na STR, ba su da ikon motsawa ko ɗaga abubuwa.
 
-#### Juriya (CON)
+#### Lafiya (CON)
 
-CON ma'auni ne na lafiya da juriya. CON wani ɓangare ne wajen tantance Hit Points da Gudun Waraka. Idan CON ya faɗi zuwa sifili saboda kowane dalili, jigon ya mutu.
+CON ma'auni ne na lafiya da juriya. CON wani bangare ne na tantance Maki na Rauni (Hit Points) da Matsayin Warkewa (Healing Rate). Idan CON ta faɗo zuwa sifili saboda kowane dalili, halin zai mutu.
 
 #### Girma (SIZ)
 
-SIZ yana auna nauyi kuma yana taimakawa wajen nuna Tsayi da Nauyi. SIZ ana amfani da shi don taimakawa wajen tantance Hit Points, tunda manya, masu nauyi suna da ƙarin juriya ga lalacewa. SIZ kuma za a iya amfani da shi don tantance Mai Gyaran Lalacewa na jigo, tunda nauyi yana taimakawa wajen ƙara ƙarfin bugun.
+SIZ yana auna taro kuma yana taimakawa wajen nuna Tsayi da Nauyi. Ana amfani da SIZ don taimakawa wajen gano Maki na Rauni, tunda halittu masu girma da nauyi sukan sami juriya ga lalacewa. Ana iya amfani da SIZ don tantance Ƙarin Lalacewar hali, tunda taro yana taimakawa wajen ƙara ƙarfin bugu.
 
-#### Ƙwazo (DEX)
+#### Sauri (DEX)
 
-Ƙarfi, daidaito, da kuma reflexes ana auna su ta DEX. Muhimmin al'amari ne na Action Points da Initiative. Idan jigo ya ragu zuwa DEX sifili, yana fama da shanyewar jiki.
+Saurin motsi, daidaito, da juyayi ana auna su ta DEX. Muhimmin bangare ne na Maki na Aiki (Action Points) da Farko (Initiative). Idan hali ya ragu zuwa sifili na DEX, suna fuskantar gurguntaccen jiki.
 
-#### Hankali (INT)
+#### Wayo (INT)
 
-INT ma'auni ne na ikon tunani. Waɗanda ke da ƙarancin INT ba lallai ne su zama wawaye ba, amma suna iya iyakance su a yadda za su iya amfani da basirarsu da kere-kere. INT wani abu ne wajen lissafin Action Points da Initiative. Idan INT ya ragu zuwa sifili, jigon ya zama ba shi da hankali gaba ɗaya.
+INT ma'auni ne na ikon tunani. Waɗanda ke da ƙarancin maki na INT ba lallai ne su zama wawaye ba, amma wataƙila sun iyakance a yadda za su iya amfani da tunaninsu cikin fasaha. INT wani bangare ne na ƙididdige Maki na Aiki da Farko. Idan INT ta ragu zuwa sifili, halin ya zama marar hankali kwata-kwata.
 
 #### Iko (POW)
 
-POW ma'auni ne na ruhin jigo, ruhi, kuzarin ciki, ko ikon sihiri. POW yana sarrafa Magic Points da Luck Points na jigo. Idan POW na jigo ya taɓa faɗuwa zuwa sifili, ya rasa duk wani son rai mai zaman kansa.
+POW ma'auni ne na ruhin hali, zuciya, tuƙi na ciki, ko ikon sihiri. POW tana sarrafa Maki na Sihiri (Magic Points) da Maki na Sa'a (Luck Points). Idan POW na hali ya taɓa faɗuwa zuwa sifili, suna rasa duk wani ikon kansu.
 
-#### Sha'awa (CHA)
+#### Ƙwarjini (CHA)
 
-Sha'awa ma'auni ne na kasancewa da halayen mutum kuma yana zaman kansa daga bayyanar jiki. CHA yana shafar Experience Modifier na jigo. Idan CHA ya taɓa faɗuwa zuwa sifili, jigon ba zai iya hulɗa da wasu ba, ya zama mai kunya sosai ko antisocial har aka yi watsi da shi ko ma aka kore shi.
-
----
-### Lissafin Halaye
-
-Kowane Hali yana da ƙimar lambobi don tantance yadda yake da ƙarfi. Lambar da ke cikin maƙallai bayan kowane adadin dice shine matsakaicin jinsin kuma ana amfani da shi azaman ma'auni don kimanta sakamakon jigonka idan aka kwatanta da sauran membobin jinsinsu. Shawarwari don tantance Halayenku sun haɗa da:
-
-- **Jefa Dice:** Jefa dice don STR, CON, SIZ, DEX, INT, POW, da CHA, kuna ɗaukar kowane adadin da aka jefa yadda yake. Tunda sakamakon waɗannan jefarwa na iya zama mai bazuwa, sau da yawa ya fi kyau a yanke shawara game da manufar jigo bayan an jefa dice. In ba haka ba, Halayen ƙarshe na iya hana wani rawa da aka riga aka tsara. Jefa 3d6 don STR, CON, DEX, POW, da CHA; sannan 2d6+6 don SIZ da INT.
-- **Jefa Dice, Sanyawa:** Kamar yadda yake sama, sai dai mai wasa zai iya musanya ƙimomi tsakanin Halaye tare da daidai gwargwado na dice. Misali, lokacin da ake haɓaka mutum, mai wasa zai iya musanya ƙimomi tsakanin STR, CON, DEX, POW, da CHA, tunda suna da rabo 3d6, ko tsakanin SIZ da INT, waɗanda ke da rabo 2d6+6 – amma dole ne koyaushe su kasance daga daidai gwargwado na dice; ba za ku iya canza jefarwa daga wata ƙungiya zuwa wata ba.
-- **Jefa Dice, Mafi Girma:** Jefa dice ɗaya na ƙarin kamar yadda aka nuna don STR, CON, SIZ, DEX, INT, POW, da CHA, kuma a cire mafi ƙarancin sakamako daga kowane ɗayan.
-- **Ginin Ma'auni:** Masu wasa suna sanya ƙimar Halaye daga wani tafki na ma'auni 80 da aka riga aka tsara. Halaye ba za su iya zama ƙasa da mafi ƙarancin ƙimar da aka jefa ba, ko kuma fiye da iyakar.
+Ƙwarjini ma'auni ne na gabatarwa da hali kuma baya dogara ga kamannin jiki. CHA yana shafar Ƙarin Kwarewa (Experience Modifier) na hali. Idan CHA ta taɓa faɗuwa zuwa sifili, halin ba zai iya hulɗa da wasu ba, ya zama mai jin kunya ko ƙyamar jama'a har ana watsi da su ko ma a kora su.
 
 ---
-## Mataki na 3: Siffofin Halaye
+### Ƙididdige Halaye
 
-Kowane jigo kuma yana da saitin siffofin halaye. Waɗannan iyawa ne da aka samo daga Halaye ko kuma aka tantance su waɗanda ake amfani da su don sarrafa wasu abubuwa na wasan.
+Kowane Hali yana da ƙimar lamba don tantance yadda yake da ƙarfi. Lambar da ke cikin maƙallan bayan kowane jifa na dice ita ce matsakaicin tsere kuma ana amfani da ita azaman ma'auni don ƙididdige sakamakon halinka idan aka kwatanta da sauran membobin nau'insu. Shawarwari don tantance Halayenka sun haɗa da:
 
-#### Action Points
+- **Jifan Dice:** Jefa dice don STR, CON, SIZ, DEX, INT, POW, da CHA, ɗaukar kowane sakamakon da ya fito. Tunda sakamakon waɗannan jifajen na iya zama bazuwar, sau da yawa ya fi kyau a yanke shawara kan manufar hali bayan an jefa dice. In ba haka ba, Halayen ƙarshe na iya hana aikin da aka riga aka tsara. Jefa 3d6 don STR, CON, DEX, POW, da CHA; sannan 2d6+6 don SIZ da INT.
+- **Jifan Dice, Sanya:** Kamar yadda yake a sama, sai dai ɗan wasa zai iya musanya ƙimomi tsakanin Halaye masu kewayon dice iri ɗaya. Misali, lokacin da ake jefa mutum, ɗan wasa zai iya musanya ƙimomi tsakanin STR, CON, DEX, POW, da CHA, tunda suna raba kewayon 3d6, ko tsakanin SIZ da INT, waɗanda ke raba kewayon 2d6+6 — amma dole ne koyaushe su kasance daga rukuni ɗaya na kewayon dice; ba za ku iya canza jifa daga rukuni ɗaya zuwa wancan ba.
+- **Jifan Dice, Babban:** Jefa ƙarin dice ɗaya kamar yadda aka nuna don STR, CON, SIZ, DEX, INT, POW, da CHA, kuma a zubar da sakamako mafi ƙanƙanta daga kowane.
+- **Gina da Maki:** Yan wasa suna sanya ƙimomin Hali daga tafki da aka riga aka ƙayyade na maki 80. Halaye ba za su iya zama ƙasa da ƙimar da aka jefa ba, ko sama da matsakaicin.
 
-Yadda jigo zai iya yin aiki a cikin zagaye na yaƙi ana tantance shi ta Action Points. Duk jigogi na _Mythras Imperative_ suna da Action Points 2.
+---
+## Mataki na 3: Sigogin Jiki (Attributes)
 
-#### Mai Gyaran Lalacewa
+Kowane hali kuma yana da saitin sigogi. Waɗannan su ne iyawar da aka samo daga Halaye ko waɗanda suke tantance su waɗanda ake amfani da su don sarrafa wasu abubuwan wasan.
 
-Manyan jigogi da masu ƙarfi da halittu na iya samun ƙarin lalacewa a wasu yanayi; akasin haka, raunana da ƙananan jigogi na iya rage lalacewar da za su iya haifarwa. Mai Gyaran Lalacewa ana amfani da shi gabaɗaya a yanayin yaƙi amma kuma ana iya amfani da shi lokacin ƙoƙarin karya abubuwa. Mai Gyaran Lalacewa ƙarin jefa dice ne wanda ko dai ana ƙara shi, ko kuma ana cire shi, daga lalacewar da makami ko kayan aiki ya haifar. Idan Mai Gyaran Lalacewa mara kyau ya kai lalacewar makami zuwa sifili ko ƙasa, to babu wata lalacewa da aka haifar.
+#### Maki na Aiki (Action Points)
 
-Haɗa STR da SIZ tare kuma a duba teburin Mai Gyaran Lalacewa, a ƙasa.
+Yadda hali zai iya yin aiki a cikin zagaye na yaƙi (Combat Round) ana tantance shi ta Maki na Aiki. Duk haruffan _Mythras Imperative_ suna da Maki na Aiki guda 2.
 
-##### Teburin Mai Gyaran Lalacewa
+#### Ƙarin Lalacewa (Damage Modifier)
 
-| STR+SIZ | Mai Gyaran Lalacewa |
+Halittu da mutane masu girma da ƙarfi na iya samun ƙarin lalacewa a wasu yanayi; akasin haka, halittu masu rauni da ƙanƙanta na iya rage lalacewar da za su iya haifarwa. Ana amfani da Ƙarin Lalacewa gaba ɗaya a yanayin yaƙi amma kuma ana iya amfani da shi lokacin ƙoƙarin fasa abubuwa. Ƙarin Lalacewa ƙarin jifan dice ne wanda ake ƙarawa zuwa, ko cirewa daga, lalacewar da makami ko kayan aiki ya haifar. Idan Ƙarin Lalacewa mara kyau ya kai lalacewar makami zuwa sifili ko ƙasa, to babu wata lalacewa da aka haifar.
+
+Haɗa STR da SIZ tare kuma duba teburin Ƙarin Lalacewa, a ƙasa.
+
+##### Teburin Ƙarin Lalacewa
+
+| STR+SIZ | Ƙarin Lalacewa |
 | :-: | :-:|
 | 5 ko ƙasa | –1d8 |
 | 6–10 | –1d6 |
@@ -102,272 +102,272 @@ Haɗa STR da SIZ tare kuma a duba teburin Mai Gyaran Lalacewa, a ƙasa.
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Kowane maki 10 | Ci gaba da Ci gaba |
+| Kowane maki 10 | Ci gaba da cigaba |
 
-#### Mai Gyaran Ƙwarewa
+#### Ƙarin Kwarewa (Experience Modifier)
 
-A tsawon lokacin wasa, jigogi suna inganta kwarewarsu da iyawarsu. Wannan ana cimma shi ta amfani da Rolls na Ƙwarewa waɗanda aka bayyana dalla-dalla a cikin sashin [Tsarin Wasa](0004_Game_System.md?id=experience-rolls).
+A tsawon lokacin wasa, haruffa suna inganta basirarsu da iyawarsu. Ana samun wannan ta amfani da Jifan Kwarewa waɗanda aka bayyana dalla-dalla a sashen [Tsarin Wasa](0004_Game_System.md?id=experience-rolls).
 
-Ƙimar CHA ta jigo na iya daidaita adadin Rolls na Ƙwarewa da jigon ya samu, yana nuna dangantakar da suke da ita da takwarorinsu da kuma martabarsu a cikin al'umma. Da CHA mai girma mutane suna shirye su taimaka wajen horar da ko tallafa wa jigon yayin da suke koyo. Akasin haka, da CHA mai ƙarancin gaske, ana iya samun wahala wajen inganta iyawar mutum ba tare da taimakon wasu ba; nemo wanda za a yi yaƙi da shi misali.
+Ƙimar CHA na hali na iya daidaita adadin Jifan Kwarewa da halin yake samu, yana nuna dangantakar da suke da ita da takwarorinsu da kuma sunansu a cikin al'umma. Tare da babban CHA, mutane suna shirye su ba da taimakon kansu don horarwa ko tallafawa halin yayin da suke karatun koyarwa. Akasin haka, tare da CHA mara kyau musamman, yana iya zama da wuya a inganta iyawar mutum ba tare da taimakon wasu ba; neman wanda za a yi horo da shi misali.
 
-##### Teburin Mai Gyaran Ƙwarewa
+##### Teburin Ƙarin Kwarewa
 
-| CHA | Exp. Gyara |
+| CHA | Ƙarin Kwarewa |
 |:-:| :-:|
 | 6 ko ƙasa | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Kowane maki 6 | +1 |
 
-#### Gudun Waraka
+#### Matsayin Warkewa (Healing Rate)
 
-Bayan samun raunuka, jigo yana buƙatar murmurewa. Gudun Waraka yana tantance yadda sauri zasu murmure daga raunuka a zahiri. Dangane da tsananin raunin, Gudun Waraka yana nuna yawan Hit Points da aka murmure a kowace rana, mako, ko wata.
+Bayan shan rauni, hali yana buƙatar murmurewa. Matsayin Warkewa yana tantance yadda sauri suke murmurewa ta halitta daga raunuka. Dangane da tsananin raunin, Matsayin Warkewa yana nuna nawa Maki na Rauni ake dawo da shi kowace rana, mako, ko wata.
 
-##### Teburin Gudun Waraka
+##### Teburin Matsayin Warkewa
 
-| CON | Gudun Waraka |
+| CON | Matsayin Warkewa |
 | :-:| :-:|
 | 6 ko ƙasa | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Kowane maki 6 | +1 |
 
-#### Hit Points
+#### Maki na Rauni (Hit Points)
 
-Hit Points suna wakiltar yawan raunin da wani sashi na jiki zai iya jurewa kafin ya zama mara amfani, yana iya haifar da rashin iya motsi kuma daga ƙarshe mutuwar jigo. Jikin kowane halitta an raba shi zuwa wurare daban-daban – mutane, misali, suna da bakwai: kai, kirji, ciki, hannaye, da ƙafafu – kowane wuri yana da nasa Hit Points.
+Maki na Rauni yana wakiltar nawa rauni wani yanki na jiki zai iya jurewa kafin ya zama marar amfani, wanda zai iya haifar da rashin iya aiki kuma a ƙarshe mutuwar hali. Jikin kowane halitta an raba shi zuwa wurare daban-daban – mutane, misali, suna da bakwai: kai, ƙirji, ciki, hannaye, da ƙafafu – kowane wuri yana da nasa Maki na Rauni.
 
-Wasu halittu, kamar dodanni ko nau'ikan dabbobi daban-daban, ta yanayinsu sau da yawa suna da tsarin jiki daban-daban, duk da haka kowane wuri da suke da shi yana da Hit Points. Lokacin da Hit Points na wuri ya ragu zuwa wani matakin ta hanyar lalacewa na kowane iri, to jigon yana fuskantar wasu sakamako waɗanda ke nuna tsananin raunin. Don ƙarin bayani game da raunuka duba sashin [Lalacewa da Matakan Raunuka](0004_Game_System.md?id=damage-and-wound-levels).
+Wasu halittu, kamar dodanni ko nau'ikan dabba daban-daban, bisa ga yanayinsu sukan sami tsarin jiki daban-daban, duk da haka kowane wuri da suke da shi har yanzu yana da Maki na Rauni. Lokacin da Maki na Raunin wuri ya ragu zuwa wani matakin ta hanyar lalacewa ta kowane irin, to halin yana fuskantar wasu sakamako waɗanda ke nuna tsananin raunin. Don ƙarin bayani game da raunuka duba sashen [Lalacewa da Matakan Rauni](0004_Game_System.md?id=damage-and-wound-levels).
 
-Don lissafin Hit Points na kowane wuri, haɗa CON da SIZ tare kuma duba sakamakon a teburin Hit Points, a sama.
+Don ƙididdige Maki na Raunin kowane wuri, haɗa CON da SIZ tare kuma duba sakamakon akan teburin Maki na Rauni, a sama.
 
-##### Hit Points ga Kowane Wuri
+##### Maki na Rauni a kowane Wuri
 
-| Wuri | CON+SIZ |  |  |  |  |  |  |  |  |
+| Wuri | CON+SIZ | | | | | | | | |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
-|  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Kai | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| Kirji | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Ƙirji | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Ciki | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
 | Kowane Hannu | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
 | Kowane Ƙafa | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
-#### Initiative
+#### Farko (Initiative)
 
-Lokacin da wani ya mayar da martani a yaƙi ana sarrafa shi ta Initiative. Initiative yana aiki azaman mai gyara ga Rolls na Initiative; mafi girman Initiative, mafi sauri mutum zai mayar da martani a yanayin yaƙi, yana tantance lokacin da zaku iya aiki. Wasu abubuwa – sulke misali – suna gyara shi. Babi na [Yaƙi](0005_Combat.md?id=combat-style) yana ba da ƙarin bayani game da yadda ake amfani da Initiative.
+Lokacin da wani ya mayar da martani a cikin yaƙi ana sarrafa shi ta Farko. Farko yana aiki azaman gyara ga jifan Farko; mafi girman Farko, da sauri mutum zai amsa a yanayin yaƙi, yana tantance lokacin da zaka iya yin aiki. Wasu ƙarin abubuwa – makamai misali – suna gyara shi. Babi na [Yaƙi](0005_Combat.md?id=combat-style) yana ba da ƙarin bayani kan yadda ake amfani da Farko.
 
-Initiative shine matsakaicin halayen DEX da INT.
+Farko shine matsakaicin Halayen DEX da INT.
 
-#### Luck Points
+#### Maki na Sa'a (Luck Points)
 
-Luck Points suna wakiltar waccan ƙarfin ban mamaki wanda ke bambanta jarumai masu kasada daga mutane na yau da kullun. Kira shi kaddara, karma, ko kuma sa'a mai sauƙi. Ana iya amfani da Luck Points don:
+Maki na Sa'a suna wakiltar waccan ƙarfi mai ban mamaki da ke bambanta jaruman kasada da mutanen yau da kullun. Kira shi ƙaddara, karma, ko sa'a mai kyau. Ana iya amfani da Maki na Sa'a don:
 
 - Sake jefa dice idan ba su da kyau.
 - Rage lalacewar jiki ko wasu yanayi marasa kyau.
-- Samun fa'ida a lokacin mahimmanci a yaƙi.
+- Samun fa'ida a wani muhimmin lokaci a cikin yaƙi.
 
-An bayyana yadda ake amfani da su, da kuma lokacin, a cikin sashin [Tsarin Wasa](0004_Game_System.md?id=game-system). Da zarar an kashe Luck Point, tafkin yana raguwa; idan mutum ya kare da Luck Points, babu ƙarin da ake samu – sai dai idan Jagoran Wasa ya ba da kyauta ba zato ba tsammani – har zuwa zaman wasa na gaba lokacin da suka cika zuwa ƙimarsu ta al'ada.
+Daidai yadda ake amfani da su, da lokacin da, an bayyana su a sashen [Tsarin Wasa](0004_Game_System.md?id=game-system). Da zarar an kashe Maki na Sa'a, tafkin yana raguwa; lokacin da babu Maki na Sa'a, babu sauran – sai dai idan Mai Wasan (Games Master) ya ba da kyauta ba zato ba tsammani – har zuwa zama na wasa na gaba lokacin da za su sake cika zuwa ƙimarsu ta yau da kullun.
 
-##### Teburin Luck Points
+##### Teburin Maki na Sa'a
 
-| POW | Luck Points |
+| POW | Maki na Sa'a |
 | :-- | :-: |
 | 6 ko ƙasa | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Kowane maki 6 | +1 |
 
-#### Magic Points
+#### Maki na Sihiri (Magic Points)
 
-Ikon sihiri, ƙarfi da sihiri da ake amfani da su a _Mythras Imperative_ yawanci suna dogara ne akan Magic Points. Tunda samun sihiri na iya iyakance ta yanayin kamfen ko ga takamaiman sana'o'in sihiri, wasu jigogi za su ga wannan Siffar Halayyar ba ta da muhimmanci.
+Iyawar ban mamaki, iko da sihiri da ake amfani da su a _Mythras Imperative_ yawanci suna dogara ne akan Maki na Sihiri. Tunda samun sihiri na iya zama iyakance ta saitin yaƙin neman zaɓe ko zuwa takamaiman sana'o'in sihiri, wasu haruffa za su ga wannan Sigar ba ta da amfani.
 
-Ga waɗanda za su iya amfani da irin waɗannan iko, Magic Points na jigo sun yi daidai da POW ɗin su. Ana amfani da waɗannan ma'auni don jefa sihiri, farashin wanda ya dogara da nau'in sihirin da aka yi amfani da shi. Lokacin da masu sihiri suka kare da Magic Points, sun gama da ikon jefa kowane sihiri har sai Magic Points sun cika.
+Ga waɗanda za su iya amfani da irin wannan iko, Maki na Sihiri na hali daidai yake da POW ɗinsu. Ana amfani da waɗannan maki don yin sihiri, wanda farashinsa ya dogara ne akan nau'in sihiri da aka yi amfani da shi. Lokacin da masu sihiri suka ƙare da Maki na Sihiri, sun gaji ikon su na yin kowane sihiri har sai an sake cika Maki na Sihiri.
 
-#### Gudun Motsi
+#### Matsayin Motsi (Movement Rate)
 
-Kowane halitta yana da Gudun Motsi – adadin mitoci da za a iya tafiya a cikin takamaiman lokaci. Motsi ba a lissafa shi daga Halaye ba amma ƙimar asali ce wanda ya bambanta daga jinsi zuwa jinsi. Matsakaicin Gudun Motsi ga mutane shine mita 6.
+Kowane halitta yana da Matsayin Motsi – adadin mitoci da za a iya tafiya a cikin wani takamaiman lokaci. Motsi ba a ƙididdige shi daga Halaye ba amma darajar tsoho ce wanda ya bambanta daga nau'in zuwa nau'in. Matsayin Motsi na asali don mutane shine mita 6.
 
-Gaits masu sauri fiye da Tafiya suna amfani da mai ninka zuwa ƙimar Motsi:
-- **Gudu:** Motsi x3  
-- **Tsere:** Motsi x5
+Gudun da ya fi tafiya yana amfani da multiplier ga ƙimar Motsi:
+- **Gudu (Run):** Motsi x3
+- **Sauri (Sprint):** Motsi x5
 
 <details>
 
-<summary>* Kuskuren Al'umma</summary>
+<summary>* Community Errata</summary>
 
-_**Gaits: Tafiya, Gudu, Tsere**_
+_**Gudun: Tafiya, Gudu, Sauri**_
 
-_Sigar da aka buga ta _Mythras Imperative_ ba ta da dokoki bayyanannu don motsi a Gaits daban-daban ko da yake an rufe su a cikin littafin dokoki na Mythras. An ƙara masu ninka Gait a sama a matsayin wani ɓangare na Kuskuren Al'umma._ 
+_Buga na _Mythras Imperative_ ba shi da ƙa'idodi bayyanannu don motsawa a Gudun daban-daban kodayake ana ɗaukar su a cikin babban littafin ƙa'idodi na Mythras. An ƙara masu ninka Gudun a sama a matsayin wani ɓangare na Community Errata._
 
-_Inda ake buƙata ya kamata ya isa a bi da Gaits kamar haka:_
+_Inda ake buƙata ya kamata ya zama isa a kula da Gudun kamar haka:_
 
-- _Gaits masu sauri fiye da Tafiya suna amfani da mai ninka zuwa ƙimar Motsi: 3x don Gudu, 5x don Tsere._
-- _Yayin da yake a Gait na Gudu ko Tsere, jigogi ba za su iya yin yawancin ayyukan motsi kamar kai hari ko jefa sihiri ba. Wasu keɓancewa sun haɗa da..._
-  - _Harin lokacin amfani da dokokin Kai Hari._
-  - _Harba makaman nesa tare da halayen Skirmishing._ 
-- _A matsayin doka gabaɗaya, duk wani aiki da aka yarda ya kamata a bi da shi a matsayin Digiri ɗaya mai wuyar cimmawa a Gudu, da Digiri biyu mai wuyar cimmawa a Tsere._
+- _Gudun da ya fi Tafiya yana amfani da multiplier ga ƙimar Motsi: 3x don Gudu, 5x don Sauri._
+- _Yayin da kake a matsayin Gudu ko Sauri, haruffa ba za su iya ƙoƙarin yin ayyukan da suka fi dacewa kamar kai hari ko yin sihiri ba. Wasu keɓancewa sun haɗa da..._
+  - _Hare-hare lokacin amfani da ƙa'idodin Caji (Charging)._
+  - _Harbin makamai masu nisa tare da fasalin Skirmishing._
+- _A matsayin ƙa'ida ta gabaɗaya, kowane ayyukan da aka ba da izini ya kamata a ɗauke su azaman mataki ɗaya mafi wahala don cirewa a Gudu, da matakai biyu mafi wahala a Sauri._
 
 
 </details>
 
 ---
-## Mataki na 4: Kwarewa
+## Mataki na 4: Basira (Skills)
 
-Kwarewa sun kasu kashi biyu. Kowane mutum yana da Kwarewa ta Yau da Kullum – abubuwa kamar satar waya ko rinjayar wasu. Kwarewar Sana'a a gefe guda, sune waɗanda ke buƙatar horo na musamman kafin a iya gwada su – abubuwa kamar gano dabbobin daji, tuƙin jiragen sama, ko fahimtar tsoffin harsuna. Jigogi an ba su tafkuna uku na ma'auni don kashewa wajen samun kwarewa; tafkin farko don Al'adar da suka girma a ciki, na biyu don Sana'ar da suka ɗauka bayan yaro, kuma na ƙarshe don ƙara zagaye saitin kwarewarsu. A matsayin tsoho, sababbin jigogi suna sanya ma'auni 100 ga tafkin kwarewa na Al'ada, 100 ga tafkin kwarewa na Sana'a, da kuma ƙarin ma'auni 150 na Kyauta don zagaye. Kowane Al'ada da Sana'a suna da takamaiman jeri na kwarewar yau da kullum da na sana'a waɗanda za a iya sanya waɗannan ma'aunin kwarewa.
+Basira suna faɗuwa cikin nau'i biyu. Kowa yana da basirar daidaitacce (Standard) – abubuwa kamar kunkunya ko yin tasiri ga wasu. Basirar ƙwararru (Professional) a gefe guda, su ne waɗanda ke buƙatar takamaiman horo kafin a iya ƙoƙarin su – abubuwa kamar bin dabbobin daji, tuƙin jirgin sama, ko fahimtar tsoffin harsuna. Ana ba wa haruffa tafkuna uku na maki don kashewa kan samun basira; tafkin farko don Al'adar da suka girma a ciki, na biyu don Sana'ar da suka ɗauka bayan ƙuruciya, kuma na ƙarshe don ƙara zagaye saitin basirarsu. A matsayin tsoho, sabbin haruffa suna ba da maki 100 ga tafkin basirar Al'ada, 100 ga tafkin basirar Sana'a, da ƙarin maki 150 na Kari (Bonus) don zagayawa. Kowane Al'ada da Sana'a tana da fayyace kewayon basirar daidaitacce da ƙwararru waɗanda za a iya ba da waɗannan maki na basira zuwa gare su.
 
-##### Salon Yaƙi
+##### Salon Yaƙi (Combat Style)
 
-Salon Yaƙi an jera shi a cikin bayanan al'adu da ke biye. An bayyana Salon Yaƙi dalla-dalla a cikin sashin [Yaƙi](0005_Combat.md?id=combat-style) kuma yana da Matsakaicin Kashi na STR+DEX.
+Salon Yaƙi yana da jerin sunayen a cikin bayanan Al'adu da ke biyo baya. An ƙara bayyana Salon Yaƙi dalla-dalla a sashen [Yaƙi](0005_Combat.md?id=combat-style) kuma suna da Kashi na Asali (Basic Percentage) daidai da STR+DEX.
 
-##### Kwarewa ta Yau da Kullum
+##### Basirar Daidaitacce (Standard Skills)
 
-| Kwarewa | Matsakaicin Kashi |
+| Basira | Kashi na Asali |
 | :-- | :-- |
-| Wasanni | STR+DEX |
-| Tuƙin Ruwa | STR+CON |
-| Ƙarfi | STR+SIZ |
-| Boye | DEX+POW |
-| Al'adu | INT x2, +40\* |
-| Rawa | DEX+CHA |
-| Rudarwa | INT+CHA |
-| Tuƙi | DEX+POW |
-| Juriya | CON x2 |
-| Kaucewa | DEX x2 |
-| Taimakon Farko | INT+DEX |
-| Tasiri | CHA x2 |
-| Fahimta | INT+POW |
-| Wuri | INT x2 |
-| Harshen Ƙasa | INT+CHA, +40\* |
-| Fahimta | INT+POW |
-| Hawa | DEX+POW |
-| Waƙa | CHA+POW |
-| Sata | DEX+INT |
-| Ruwa | STR+CON |
-| Ba Tare da Makami ba | STR+DEX |
-| Ƙarfin Zuciya | POW x2 |
+| Athletics | STR+DEX |
+| Boating | STR+CON |
+| Brawn | STR+SIZ |
+| Conceal | DEX+POW |
+| Customs | INT x2, +40\* |
+| Dance | DEX+CHA |
+| Deceit | INT+CHA |
+| Drive | DEX+POW |
+| Endurance | CON x2 |
+| Evade | DEX x2 |
+| First Aid | INT+DEX |
+| Influence | CHA x2 |
+| Insight | INT+POW |
+| Locale | INT x2 |
+| Native Tongue | INT+CHA, +40\* |
+| Perception | INT+POW |
+| Ride | DEX+POW |
+| Sing | CHA+POW |
+| Stealth | DEX+INT |
+| Swim | STR+CON |
+| Unarmed | STR+DEX |
+| Willpower | POW x2 |
 
-_\* Ya haɗa da ƙarin kari na +40% ga Al'adu da Harshen Ƙasa na jigo (Common ga mutane)._
+_\* Ya haɗa da ƙarin maki na +40% don duka Customs da Harshen Ɗan ƙasa (Na gama-gari don mutane)._
 
 ---
-## Mataki na 5: Al'ada
+## Mataki na 5: Al'ada (Culture)
 
-Al'ada tana tantance irin al'ummar da aka rene jigo a ciki, don haka tana tsara wasu ra'ayoyi da falsafofin da zai iya samu. A aikace, al'ada tana taimakawa wajen ƙara ƙimar kwarewa daban-daban waɗanda ke tsara iyawar jigonka gaba ɗaya. Akwai al'adun mutane guda huɗu na asali: Barbarian, Civilized, Nomadic, da Primitive. Kowane asalin al'adu yana jera jerin kwarewar Yau da Kullum da suka dace da shi kuma yana gayyatar mai wasa ya zaɓi har zuwa uku daga cikin kwarewar Sana'a da aka gabatar: ta wannan hanyar masu wasa daga asalin al'adu ɗaya za su iya tabbatar da cewa masu kasadar su sun bambanta a yankunan da suka haɓaka. Raba ma'aunin kwarewar Al'ada 100 a tsakanin kwarewar Yau da Kullum da aka jera na sana'ar da kuma duk kwarewar Sana'a da aka zaɓa, ƙara kowane kwarewa da 1% ga kowane ma'auni da aka kashe don inganta shi. Jagoran Wasa na iya so ya sanya iyaka ga yawan ma'aunin kwarewa da za a iya amfani da su ga kowane takamaiman kwarewa.
+Al'ada tana tantance irin al'ummar da aka renon halin a ciki, don haka tana ba da shawarar wasu ra'ayoyi da falsafanci da shi ko ita za su iya samu. A aikace, al'ada tana taimakawa wajen ƙara ƙimomin basira daban-daban waɗanda ke tsara ikon halinka gaba ɗaya. Akwai al'adun ɗan adam guda huɗu na asali: Barbarian, Civilized, Nomadic, da Primitive. Kowane bayanan al'adu yana lissafin kewayon basirar Daidaitacce da suka dace da ita kuma yana gayyatar ɗan wasa ya zaɓi har zuwa basirar ƙwararru guda uku da aka gabatar: ta wannan hanyar 'yan wasa daga al'adar iri ɗaya za su iya tabbatar da cewa masu kasadarsu daban-daban ne a wuraren da suka haɓaka. Rarraba maki 100 na basirar Al'ada tsakanin basirar Daidaitacce da aka lissafa na sana'ar da kuma duk wane basirar ƙwararru da aka zaɓa, ƙara kowane basira da 1% don kowane maki da aka kashe don inganta shi. Masu Wasan (Games Master) na iya so su ba da iyaka ga yadda maki basira da yawa za a iya amfani da su ga kowane takamaiman basira.
 
 ### Barbarian
 
-Kabilanci a yanayin su, Barbarians suna ƙin wayewa, suna kallon waɗanda ke zaune a manyan garuruwa da birane a matsayin marasa ƙarfi da gurɓatattu. Ko da yake matsugunansu ma suna zaune, suna zama ƙanana sosai kuma kusa da yanayi. Kabilun Barbarian suna mamaye yankuna daban-daban, sau da yawa daji mai rabin-daji, wanda suke ɗauka nasu ne don farauta, kiwo, da noma. Yawancin su suna da kwarewa a amfani da makamai saboda dole ne su shawo kan haɗari da yawa a tsawon rayuwarsu – fuskantar halittun daji ko tara don kare yankunansu daga kabilun abokan gaba. Tunda suna zaune a cikin ƙananan al'ummomi, dangantakar dangi da kabilanci sune abubuwa masu ƙarfi na al'ummarsu.
+Tushen ƙabilanci, barbarians sukan guje wa wayewa, suna kallon waɗanda suke zaune a manyan garuruwa da birane a matsayin raunana da ɓata. Ko da yake nasu ƙauyukan ma suna zaune, sukan fi ƙanƙanta kuma su fi kusa da yanayi. Ƙabilun Barbarian suna mamaye wurare daban-daban, galibi hamada rabin sarrafawa, waɗanda suke ɗauka a matsayin nasu don farauta, kiwo, da dalilai na noma. Yawancin su suna da ƙwarewa wajen amfani da makamai tunda dole ne su shawo kan haɗari da yawa a cikin rayuwarsu – fuskantar halittu na daji ko haɗuwa don kare ƙasarsu daga ƙabilun da ke hamayya. Tun da suke zaune a ƙananan al'ummomi, alaƙar dangi da dangi sune muhimman abubuwan al'ummar su.
 
-#### Kwarewa
+#### Basira
 
-- **Kwarewa ta Yau da Kullum:** Wasanni, Ƙarfi, Juriya, Taimakon Farko, Wuri, Fahimta; da kuma ko dai Tuƙin Ruwa ko Hawa. Bugu da ƙari, mai wasa kuma zai iya zaɓar Salon Yaƙi na al'adu.
-- **Kwarewar Sana'a:** Sana'a (kowane), Warkarwa, Ilimi (kowane), Waƙa, Kewayawa, Tuƙin Jirgin Ruwa, Rayuwa, Gano Alama.
+- **Basirar Daidaitacce:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; da ɗaya daga cikin Boating ko Ride. Bugu da ƙari, ɗan wasa na iya zaɓar Salon Yaƙi na al'ada.
+- **Basirar Ƙwararru:** Craft (kowane), Healing, Lore (kowane), Musicianship, Navigation, Seamanship, Survival, Track.
 
 ### Civilized
 
-Al'adar Civilized tana nuna alamun doka da oda, wanda ke da alaƙa da tsarin zamantakewa mai rikitarwa, kuma wanda gudanarwa ke tallafawa. Mutanen Civilized sun yi imanin cewa sun fi kowace al'ada, saboda nasarorin da suka samu suna nuna dorewa: manyan birane, manyan gidajen ibada, abubuwan tunawa na biki, da kuma rubuta tarihi da abubuwan da suka faru a cikin littattafai, duwatsun kabari, da rubuce-rubuce. Tabbas, wannan farfajiyar ce mai siriri. Birane mafi Civilized na iya zama marasa doka fiye da kowane matsugunin Barbarian; kuma tsarin zamantakewa na iya zama mafi muni fiye da al'adun baƙi na nomads. Amma al'adar Civilized tana alfahari da nasarorinta, da ababen more rayuwa, da masu sana'a na kwarai, da kuma ikon ta na fadada zuwa duk inda take so.
+Al'adar Civilized tana nuna alamun doka da oda, wanda aka goyi bayan ta hanyar lambobin zamantakewa masu rikitarwa, kuma ana tallafawa ta hanyar gudanarwa. Mutanen Civilized sun yi imanin cewa su sun fi sauran al'adu girma saboda nasarorin da suka samu suna nufin dawwama: manyan birane, temples masu ban sha'awa, abubuwan tunawa, da rubuta tarihin da abubuwan da suka faru a littattafai, duwatsu, da gungume. Tabbas, wannan siririn abin rufi ne. Mafi "wayewa" na birane na iya zama marasa doka fiye da kowane ƙauyen Barbarian; kuma lambobin zamantakewa na iya zama mafi ƙanƙanta fiye da al'adun baƙo na nomads. Amma al'adar Civilized tana alfahari da nasarorinta, abubuwan more rayuwarta, ƙwararrun masu sana'arta, da ikon ta na faɗaɗa kewayenta cikin sauƙi duk inda take son zuwa.
 
-#### Kwarewa
+#### Basira
 
-- **Kwarewa ta Yau da Kullum:** Boye, Rudarwa, Tuƙi, Tasiri, Fahimta, Wuri, Ƙarfin Zuciya. Bugu da ƙari, mai wasa kuma zai iya zaɓar Salon Yaƙi na al'adu.
-- **Kwarewar Sana'a:** Fasaha (kowane), Kasuwanci, Sana'a (kowane), Ladabi, Harshe (kowane), Ilimi (kowane), Waƙa, Sanin Titi.
+- **Basirar Daidaitacce:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. Bugu da ƙari, ɗan wasa na iya zaɓar Salon Yaƙi na al'ada.
+- **Basirar Ƙwararru:** Art (kowane), Commerce, Craft (kowane), Courtesy, Language (kowane), Lore (kowane), Musicianship, Streetwise.
 
 ### Nomadic
 
-Mutanen Nomadic suna motsi koyaushe, ba tare da gida da gida ba. Suna iya yawo ba tare da manufa ba ko kuma suna iya samun sansani da yawa da suke motsawa zuwa da daga cikin shekara. Suna noma kaɗan kuma a maimakon haka suna bin ƙaura na dabbobi ko kifi, watakila ma kiwon dabbobin gida nasu. Nomads suna da kwarewa wajen rayuwa akan abin da za su iya samu da sauri da sauƙi daga muhallinsu, ba sa barin komai ya lalace. Kwarewar al'adar nomad ya kamata a daidaita ta da muhallinsu. Wasu suna tafiya nesa mai nisa a ƙafa, wasu suna zaune a cikin caravans ko hawan halittu masu ban mamaki, kuma wasu suna shawagi a cikin tekuna akan manyan jiragen ruwa masu shawagi.
+Mutanen Nomadic suna ci gaba da motsawa, ba tare da gida da kuma murhu da za su kira nasu ba. Suna iya yawo ba tare da manufa ba ko kuma suna iya samun sansani da yawa da suke komawa zuwa gare su a cikin shekara. Suna noman amfanin gona kaɗan kuma maimakon haka suna bin ƙaura na dabbobi ko kifi, watakila har ma suna kiwon nasu dabbobin da aka horar. Nomads suna da ƙwarewa wajen rayuwa kan abin da za su iya sauri da sauƙi su tsinta daga kewayensu, ba tare da barin komai ya ɓace ba. Basirar al'adar nomad ya kamata a tsara su don muhallinsu. Wasu suna tafiya nesa da ƙafafu, wasu suna zaune a cikin ayarin motoci ko suna hawan halittu masu ban mamaki, kuma wasu suna shawagi a kan tekuna a kan manyan rafts.
 
-#### Kwarewa
+#### Basira
 
-- **Kwarewa ta Yau da Kullum:** Juriya, Taimakon Farko, Wuri, Fahimta, Sata; da biyu daga cikin waɗannan: Wasanni, Tuƙin Ruwa, Ruwa, Tuƙi ko Hawa, dangane da babban hanyar tafiya. Bugu da ƙari, mai wasa kuma zai iya zaɓar Salon Yaƙi na al'adu.
-- **Kwarewar Sana'a:** Sana'a (kowane), Al'ada (kowane), Harshe (kowane), Ilimi (kowane), Waƙa, Kewayawa, Rayuwa, Gano Alama.
+- **Basirar Daidaitacce:** Endurance, First Aid, Locale, Perception, Stealth; da biyu daga cikin masu zuwa: Athletics, Boating, Swim, Drive ko Ride dangane da babban hanyar tafiya. Bugu da ƙari, ɗan wasa na iya zaɓar Salon Yaƙi na al'ada.
+- **Basirar Ƙwararru:** Craft (kowane), Culture (kowane), Language (kowane), Lore (kowane), Musicianship, Navigation, Survival, Track.
 
 ### Primitive
 
-Daga cikin dukan mutane, 'yan asali sune waɗanda ke rayuwa mafi kusa da ƙasa, a haɗe da sirrinsu na ɓoye. Rayuwa a cikin manyan iyalai, al'adun 'yan asali suna tattara kansu a kusa da gidaje masu sauƙi waɗanda zasu iya kasancewa daga kogo da wuraren da aka samu mafaka na halitta zuwa matsugunai ko kuma gidaje masu sauƙi. 'Yan asali yawanci maharba ne da masu tattara abinci, tare da ɗan ƙaramin ci gaba, ko kuma ba su da, tsarin noma da kiwo.
+Daga cikin dukan mutane, primitives su ne waɗanda suke zaune mafi kusa da ƙasa, tare da ɓoyayyun sirrantarta. Zaune cikin ƙungiyoyin dangi, al'adun primitive suna taruwa a kusa da gidaje masu sauƙi waɗanda za su iya zama daga kogo da wuraren matsuguni na halitta har zuwa lean-tos ko ƙananan bukka. Primitives yawanci mafarauta ne da masu tattarawa tare da ƙanana, ko marasa kyau, tsarin noma da kiwon dabbobi.
 
-Duk da haka, wasu imani na al'adu, galibi suna dogara ne akan camfi, na iya zama da kyau sosai. Ƙananan al'adun 'yan asali sun haɓaka wani abu kusan harshe rubuce, kodayake zanen-zanen da sauran alamomin hoto suna aiki azaman hanyar sadarwa.
+Koyaya, wasu imanin al'ada, galibi bisa ga camfi, na iya zama cikakke sosai. Ƙananan al'adun primitive sun haɓaka wani abu kusa da harshen rubutu kodayake zane-zane da sauran alamun hoto suna zama hanyar sadarwa.
 
-#### Kwarewa
+#### Basira
 
-- **Kwarewa ta Yau da Kullum:** Ƙarfi, Juriya, Kaucewa, Wuri, Fahimta, Sata; da kuma ɗaya daga cikin Wasanni, Tuƙin Ruwa ko Ruwa. Bugu da ƙari, mai wasa kuma zai iya zaɓar Salon Yaƙi na al'adu.
-- **Kwarewar Sana'a:** Sana'a (kowane), Warkarwa, Ilimi (kowane), Waƙa, Kewayawa, Rayuwa, Gano Alama.
+- **Basirar Daidaitacce:** Brawn, Endurance, Evade, Locale, Perception, Stealth; da ɗaya daga cikin Athletics, Boating ko Swim. Bugu da ƙari, ɗan wasa na iya zaɓar Salon Yaƙi na al'ada.
+- **Basirar Ƙwararru:** Craft (kowane), Healing, Lore (kowane), Musicianship, Navigation, Survival, Track.
 
 ---
-## Mataki na 6: Sana'a
+## Mataki na 6: Sana'a (Career)
 
-Kowane jigo yana fara wasan bayan an horar da shi a wata sana'a. Aikin da aka zaɓa ba lallai ne ya zama wanda jigon ya ci gaba da bi ba yayin da jigon ya fara rayuwar kasada, amma shine aikin da aka fara a matsayin wani ɓangare na canji zuwa girma kuma yana ƙara bayyana ci gaban kwarewa. Kowane sana'a yana gabatar da jerin kwarewar Yau da Kullum da suka dace da shi kuma yana ba da damar mai wasa ya zaɓi har zuwa uku daga cikin kwarewar Sana'a da aka jera. Raba ma'aunin kwarewar Sana'a 100 a tsakanin kwarewar Yau da Kullum da aka jera na sana'ar da kuma duk kwarewar Sana'a da aka zaɓa, ƙara kowane kwarewa da 1% ga kowane ma'auni da aka kashe don inganta shi. Kamar yadda yake tare da al'adu, Jagoran Wasa na iya sanya iyaka ga yawan ma'aunin kwarewa da za a iya amfani da su ga kowane takamaiman kwarewa.
+Kowane hali yana fara wasan bayan an horar da shi a cikin sana'a. Aikin da aka zaɓa ba lallai ba ne wanda halin zai ci gaba da bi yayin da halin ya fara rayuwar kasada, amma ita ce sana'ar da aka fara a matsayin wani ɓangare na sauyi zuwa girma kuma tana ƙara fayyace haɓakar basira. Kowane sana'a tana ba da kewayon basirar Daidaitacce waɗanda suka dace da ita kuma tana ba ɗan wasa damar zaɓar har zuwa basirar ƙwararru guda uku da aka lissafa. Rarraba maki 100 na basirar Sana'a tsakanin basirar Daidaitacce da aka lissafa na sana'ar da kuma duk wane basirar ƙwararru da aka zaɓa, ƙara kowane basira da 1% don kowane maki da aka kashe don inganta shi. Kamar yadda yake da al'adu, Mai Wasa na iya ba da iyaka ga yadda maki basira da yawa za a iya amfani da su ga kowane takamaiman basira.
 
-Takamaiman kwarewar sana'a, kamar Pilot, ba za a iya samun su ba a cikin duniyar fantasy. An tattauna kwarewa dalla-dalla a cikin babi na [Kwarewa](0002_Characters.md?id=step-4-skills).
+Takamaiman basirar ƙwararru, kamar Pilot, ba za a iya samun su a cikin duniyar fantasy ba. An tattauna basira dalla-dalla a cikin babi na [Basira](0002_Characters.md?id=step-4-skills).
 
 #### Teburin Sana'o'i
 
-| Sunan Sana'a | Kwarewa ta Yau da Kullum | Kwarewar Sana'a |
+| Sunan Sana'a | Basirar Daidaitacce | Basirar Ƙwararru |
 | :-- | :-- | :-- |
-| Wakili (Mai tada hankali, Mai kisan kai, Mai bincike, Mai ba da labari, Dan leƙen asiri…) | Boye, Rudarwa, Kaucewa, Fahimta, Fahimta, Sata; Salon Yaƙi (Takamaiman Wakili ko Salon Al'adu) | Al'ada (kowane), Ruɗi, Harshe (kowane), Wayo, Sanin Titi, Rayuwa, Gano Alama |
-| Mai kula da Dabbobi (Mai kiwon dabbobi, Mai horar da dabbobi, Mai kula da dabbobin daji…) | Tuƙi, Juriya, Taimakon Farko, Tasiri, Wuri, Hawa, Ƙarfin Zuciya | Sana'a (Kiwon dabbobi), Kasuwanci, Warkarwa (Takamaiman Jinsi), Ilimi (Takamaiman Jinsi), Rayuwa, Koyarwa (Takamaiman Jinsi), Gano Alama |
-| Mai farautar lada (Ma'aikacin tilasta beli, Mai kisan lada, Mai farautar kai, Mai gano mai tsere…) | Wasanni, Juriya, Kaucewa, Fahimta, Fahimta, Sata; Salon Yaƙi (kowane) | Gudanarwa, Kasuwanci, Al'ada (kowane), Harshe, Sanin Titi, Rayuwa (kowane), Gano Alama |
-| Karuwa (Kwakwa, Abokiyar tafiya, Yar gidan sarauta, Houri, Masoyiya…) | Al'adu, Rawa, Rudarwa, Tasiri, Fahimta, Fahimta, Waƙa | Fasaha (kowane), Ladabi, Al'ada (kowane), Caca, Harshe (kowane), Waƙa, Lallashi |
-| Mai sana'a (Mai ƙera kayan fasaha, Mai fasaha…) | Ƙarfi, Tuƙi, Tasiri, Fahimta, Wuri, Fahimta, Ƙarfin Zuciya | Fasaha (kowane), Kasuwanci, Sana'a (Na Farko), Sana'a (Na Biyu), Injiniyanci, Hanyoyin Aiki, Sanin Titi |
-| Mai bincike (Dan sanda, Mai bincike na sirri, Mai bincike, Mai bin diddigi…) | Al'adu, Kaucewa, Tasiri, Fahimta, Fahimta, Sata; Salon Yaƙi (Ba tare da Makami ba ko Salon Makami) | Gudanarwa, Al'ada (kowane), Ruɗi, Harshe, Ilimi (kowane), Bincike, Wayo, Sanin Titi |
-| Mai nishaɗi (Mai wasan motsa jiki, Mawaƙi, Mai rawa, Mai wasa, Mawaki…) | Wasanni, Ƙarfi, Rawa, Rudarwa, Tasiri, Fahimta, Waƙa | Wasan motsa jiki, Yin wasan kwaikwayo, Jawabi, Waƙa, Lallashi, Wayo, Sanin Titi |
-| Manomi (Mai gidan gona, Mai lambu, Mai noma…) | Wasanni, Ƙarfi, Tuƙi, Juriya, Wuri, Fahimta, Hawa | Kasuwanci, Sana'a (kowane), Ilimi (Noma), Ilimi (Kiwon dabbobi), Kewayawa, Rayuwa, Gano Alama |
-| Mafarauci (Mai tara kayan teku, Mai kama kifi, Mai tsirawa, Mai farautar kifin whale…) | Wasanni, Tuƙin Ruwa, Juriya, Wuri, Fahimta, Sata, Ruwa | Kasuwanci, Sana'a (Kowane), Ilimi (Babban Kama), Ilimi (Kama na Biyu), Kewayawa, Tuƙin Jirgin Ruwa, Rayuwa |
-| Mai caca (Mai cin amana, Mai caca, Mai zamba…) | Wasanni, Ƙarfi, Juriya, Wuri, Fahimta, Ƙarfin Zuciya; da kuma ko dai Tuƙi ko Hawa | Yin wasan kwaikwayo, Gudanarwa, Kasuwanci, Ladabi, Caca, Bincike, Wayo, Sanin Titi |
-| Makiyayi (Mai kiwo, Makiyayi, Mai kula da agwagwa mai tsarki, Mai kiwon dabbobi…) | Juriya, Taimakon Farko, Fahimta, Wuri, Fahimta, Hawa; Salon Yaƙi (Takamaiman Makiyayi ko Salon Al'adu) | Kasuwanci, Sana'a (Kiwon dabbobi), Warkarwa (Takamaiman Jinsi), Kewayawa, Waƙa, Rayuwa, Gano Alama |
-| Maharbi (Mai kula da daji, Maharbi ba bisa ka'ida ba, Mai tattara abinci, Mai bin sawu, Mai tarko…) | Wasanni, Juriya, Wuri, Fahimta, Hawa, Sata; Salon Yaƙi (Takamaiman Farauta ko Salon Al'adu) | Kasuwanci, Sana'a (Mai alaƙa da Farauta), Ilimi (Yanki ko Takamaiman Jinsi), Hanyoyin Aiki, Kewayawa, Rayuwa, Gano Alama |
-| Dan jarida (Mai sharhi, Mai rubuce-rubuce, Mai neman labarai, Mawallafi…) | Al'adu, Rudarwa, Tasiri, Fahimta, Wuri, Harshen Ƙasa, Fahimta | Gudanarwa, Al'ada (kowane), Harshe (kowane), Ilimi (kowane), Jawabi, Siyasa, Sanin Titi |
-| Mai sihiri (Mai sihiri, Mayya, Boka…) | Al'adu, Rudarwa, Tasiri, Fahimta, Wuri, Fahimta, Ƙarfin Zuciya | Al'ada, Sihiri, Ilimin karatu, Ilimi x2, Jawabi, Wayo |
-| Makaniki (Injiniya, Mai gyaran mota…) | Ƙarfi, Al'ada, Tuƙi, Juriya, Tasiri, Wuri, Ƙarfin Zuciya | Kasuwanci, Sana'a (na farko), Sana'a (na biyu), Lantarki, Caca, Hanyoyin Aiki, Sanin Titi |
-| Dan kasuwa (Dillali, Mai sayar da kaya, Mai ba da bashi, Mai fataucin kayan gwamnati…) | Tuƙin Ruwa, Tuƙi, Rudarwa, Fahimta, Tasiri, Wuri, Hawa | Kasuwanci, Ladabi, Al'ada (kowane), Harshe (kowane), Kewayawa, Tuƙin Jirgin Ruwa, Sanin Titi |
-| Mai hakar ma'adinai (Mai bincike, Mai hakar dutse, Injiniyan hakar ma'adinai, Mai hakar rijiya…) | Wasanni, Ƙarfi, Juriya, Wuri, Fahimta, Waƙa, Ƙarfin Zuciya | Kasuwanci, Sana'a (Hakar Ma'adinai), Injiniyanci, Ilimi (Ma'adanai), Hanyoyin Aiki, Kewayawa (Ƙasa), Rayuwa |
-| Jami'i (Minista, Mai kula, Mai riƙon amana, Mai karɓar haraji…) | Al'adu, Rudarwa, Tasiri, Fahimta, Wuri, Fahimta, Ƙarfin Zuciya | Gudanarwa, Kasuwanci, Ladabi, Harshe (kowane), Ilimin karatu, Ilimi (kowane), Jawabi |
-| Likita (Likita, Mai warkarwa, Likitan gargajiya, Mai azabtarwa, Mai yanka gawa…) | Rawa, Taimakon Farko, Tasiri, Fahimta, Wuri, Waƙa, Ƙarfin Zuciya | Kasuwanci, Sana'a (Takamaiman Kwarewa ta Jiki), Warkarwa, Harshe (kowane), Ilimin karatu (kowane), Ilimi (kowane), Sanin Titi |
-| Matukin Jirgi (Masaniyar sararin sama, Matukin jirgin sama, Matukin jirgin sama na nishaɗi, Matukin jirgin sama, Matukin gwaji…) | Ƙarfi, Tuƙi, Juriya, Kaucewa, Wuri, Fahimta, Ƙarfin Zuciya | Al'adu (kowane), Lantarki, Hanyoyin Aiki, Kewayawa, Tuƙin Jirgin Sama, Na'urorin haske, Sanin Titi |
-| Dan siyasa (Ma'aikacin gwamnati, Mandarawa, Minista, Mai kula, Mai riƙon amana…) | Al'adu, Rudarwa, Tasiri, Fahimta, Wuri, Harshen Ƙasa, Fahimta | Gudanarwa, Ladabi, Al'ada (kowane), Harshe (kowane), Ilimi (kowane), Jawabi, Siyasa |
-| Liman (Mai sasantawa, Mai addini, Druid, Mai roƙo, Annabi…) | Al'adu, Rawa, Rudarwa, Tasiri, Fahimta, Wuri, Ƙarfin Zuciya | Gudanarwa, Ladabi, Al'adu, Ilimin karatu (kowane), Ilimi (kowane), Jawabi, Siyasa |
-| Jirgin ruwa (Kyaftin, Bawan jirgin ruwa, Soja, Dan fashin teku, Mai jirgin ruwa…) | Wasanni, Tuƙin Ruwa, Ƙarfi, Juriya, Wuri, Ruwa; Salon Yaƙi (Takamaiman Jirgin Ruwa ko Salon Al'adu) | Sana'a (Takamaiman Kwarewa ta Jirgin Ruwa), Al'ada (kowane), Harshe (kowane), Ilimi (kowane), Kewayawa, Tuƙin Jirgin Ruwa, Rayuwa |
-| Malamin makaranta (Mai tarihin tarihi, Mai kula da laburare, Masanin falsafa, Skald, Marubuci…) | Al'adu, Tasiri, Fahimta, Wuri, Harshen Ƙasa, Fahimta, Ƙarfin Zuciya | Al'ada (kowane), Harshe (kowane), Ilimin karatu (kowane), Ilimi (Na Farko), Ilimi (Na Biyu), Jawabi, Koyarwa |
-| Masanin kimiyya (Mai rubuce-rubuce, Mai kula da laburare, Masanin falsafa…) | Al'adu, Tasiri, Fahimta, Wuri, Harshen Ƙasa, Fahimta, Ƙarfin Zuciya | Al'ada (kowane), Injiniyanci, Harshe (kowane), Jawabi, Bincike, Kimiyya (kowane), Koyarwa |
-| Dan leƙen asiri (Mai farautar lada, Mai bincike, Mai fara sabuwar rayuwa, Mai gadi, Matafiyi…) | Wasanni, Juriya, Taimakon Farko, Fahimta, Sata, Ruwa; Salon Yaƙi (Takamaiman Farauta ko Salon Al'adu) | Al'ada (kowane), Warkarwa, Harshe (kowane), Ilimi (kowane), Kewayawa, Rayuwa, Gano Alama |
-| Ma'aikaci (Mataimaki, Mai kula da gida, Direba, Ma'aikaciyar gida, Mai koyarwa, Babban ma'aikaci, Ma'aikacin gida, Mataimaki na sirri, Sakatare…) | Al'adu, Rudarwa, Tuƙi, Tasiri, Fahimta, Wuri, Fahimta | Gudanarwa, Ladabi, Sana'a (mai alaƙa da sabis), Al'ada (kowane), Harshe (kowane), Siyasa, Sanin Titi |
-| Mai fataucin kayan gwamnati (Mai fataucin kayan gwamnati, Mai sayar da kayan barasa, Mai fataucin makamai…) | Boye, Al'adu, Rudarwa, Tuƙi, Tasiri, Fahimta, Wuri | Gudanarwa, Kasuwanci, Al'adu (kowane), Harshe (kowane), Kewayawa, Sanin Titi; da kuma ko dai Kewayawa na sararin samaniya ko Tuƙin Jirgin Ruwa |
-| Mai fasaha (Mai amfani da wutar lantarki, Mataimakin dakin gwaje-gwaje…) | Ƙarfi, Tuƙi, Juriya, Tasiri, Wuri, Fahimta, Ƙarfin Zuciya | Sadarwa, Sana'a (kowane), Lantarki, Caca, Hanyoyin Aiki, Kimiyya (kowane), Na'urorin haske |
-| Barawo (Mai fasa gida, Mai zamba, Mai karɓar kayan sata, Mai satar mutane, Mai satar kaburbura…) | Wasanni, Rudarwa, Kaucewa, Fahimta, Fahimta, Sata; Salon Yaƙi (Takamaiman Barawo ko Salon Al'adu) | Yin wasan kwaikwayo, Kasuwanci, Ruɗi, Buɗe makulli, Hanyoyin Aiki, Wayo, Sanin Titi |
-| Jarumi (Mai gadin jiki, Soja mai haya, Mai yaƙi a rami, Soja…) | Wasanni, Ƙarfi, Juriya, Kaucewa, Ba tare da Makami ba; Salon Yaƙi (Salon Soja), Salon Yaƙi (Salon Al'adu) | Sana'a (kowane), Injiniyanci, Caca, Ilimi (Tarihin Soja), Ilimi (Dabarun Yaƙi), Jawabi, Rayuwa |
+| Agent | Conceal, Deceit, Evade, Insight, Perception, Stealth; Combat Style | Culture, Disguise, Language, Sleight, Streetwise, Survival, Track |
+| Beast Handler | Drive, Endurance, First Aid, Influence, Locale, Ride, Willpower | Craft, Commerce, Healing, Lore, Survival, Teach, Track |
+| Bounty Hunter | Athletics, Endurance, Evade, Insight, Perception, Stealth; Combat Style | Bureaucracy, Commerce, Culture, Linguistics, Streetwise, Survival, Track |
+| Courtesan | Customs, Dance, Deceit, Influence, Insight, Perception, Sing | Art, Courtesy, Culture, Gambling, Language, Musicianship, Seduction |
+| Crafter | Brawn, Drive, Influence, Insight, Locale, Perception, Willpower | Art, Commerce, Craft, Craft, Engineering, Mechanisms, Streetwise |
+| Detective | Customs, Evade, Influence, Insight, Perception, Stealth; Combat Style | Bureaucracy, Culture, Disguise, Linguistics, Lore, Research, Sleight, Streetwise |
+| Entertainer | Athletics, Brawn, Dance, Deceit, Influence, Insight, Sing | Acrobatics, Acting, Oratory, Musicianship, Seduction, Sleight, Streetwise |
+| Farmer | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft, Lore, Lore, Navigation, Survival, Track |
+| Fisher | Athletics, Boating, Endurance, Locale, Perception, Stealth, Swim | Commerce, Craft, Lore, Lore, Navigation, Seamanship, Survival |
+| Gambler | Athletics, Brawn, Endurance, Locale, Perception, Willpower; da Drive ko Ride | Acting, Bureaucracy, Commerce, Courtesy, Gambling, Research, Sleight, Streetwise |
+| Herder | Endurance, First Aid, Insight, Locale, Perception, Ride; Combat Style | Commerce, Craft, Healing, Navigation, Musicianship, Survival, Track |
+| Hunter | Athletics, Endurance, Locale, Perception, Ride, Stealth; Combat Style | Commerce, Craft, Lore, Mechanisms, Navigation, Survival, Track |
+| Journalist | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Culture, Language, Lore, Oratory, Politics, Streetwise |
+| Magician | Customs, Deceit, Influence, insight, Locale, Perception, Willpower | Culture, Magic, Literacy, Lore, Lore, Oratory, Sleight |
+| Mechanic | Brawn, Culture, Drive, Endurance, Influence, Locale, Willpower | Commerce, Craft, Craft, Electronics, Gambling, Mechanisms, Streetwise |
+| Merchant | Boating, Drive, Deceit, Insight, Influence, Locale, Ride | Commerce, Courtesy, Culture, Language, Navigation, Seamanship, Streetwise |
+| Miner | Athletics, Brawn, Endurance, Locale, Perception, Sing, Willpower | Commerce, Craft, Engineering, Lore, Mechanisms, Navigation, Survival |
+| Official | Customs, Deceit, Influence, Insight, Locale, Perception, Willpower | Bureaucracy, Commerce, Courtesy, Language, Literacy, Lore, Oratory |
+| Physician | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft, Healing, Language, Literacy, Lore, Streetwise |
+| Pilot | Brawn, Drive, Endurance, Evade, Locale, Perception, Willpower | Customs, Electronics, Mechanisms, Navigation, Pilot, Sensors, Streetwise |
+| Politician | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Courtesy, Culture, Language, Lore, Oratory, Politics |
+| Priest | Customs, Dance, Deceit, Influence, Insight, Locale, Willpower | Bureaucracy, Courtesy, Customs, Literacy, Lore, Oratory, Politics |
+| Sailor | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style | Craft, Culture, Language, Lore, Navigation, Seamanship, Survival |
+| Scholar | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture, Language, Literacy, Lore, Lore, Oratory, Teach |
+| Scientist | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture, Engineering, Language, Oratory, Research, Science, Teach |
+| Scout | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style | Culture, Healing, Language, Lore, Navigation, Survival, Track |
+| Servant | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft, Culture, Language, Politics, Streetwise |
+| Smuggler | Conceal, Customs, Deceit, Drive, Influence, Insight, Locale | Bureaucracy, Commerce, Customs, Language, Navigation, Streetwise; da Astrogation ko Seamanship |
+| Technician | Brawn, Drive, Endurance, Influence, Locale, Perception, Willpower | Comms, Craft, Electronics, Gambling, Mechanisms, Science, Sensors |
+| Thief | Athletics, Deceit, Evade, Insight, Perception, Stealth; Combat Style | Acting, Commerce, Disguise, Lockpicking, Mechanisms, Sleight, Streetwise |
+| Warrior | Athletics, Brawn, Endurance, Evade, Unarmed; Combat Style, Combat Style | Craft, Engineering, Gambling, Lore, Lore, Oratory, Survival |
 
 ---
-## Mataki na 7: Kyautar Ma'aunin Kwarewa
+## Mataki na 7: Maki na Basira na Kari (Bonus Skill Points)
 
-A mataki na ƙarshe, an sanya tafkin ƙarshe na ma'aunin kwarewa 150 don zagaye jigon. Waɗannan za a iya amfani da su ga kowane kwarewa na Yau da Kullum, ko kuma waɗannan kwarewar Sana'a da aka samu a matsayin wani ɓangare na Al'ada ko Sana'a. Sake, Jagoran Wasa na iya sanya iyaka ga yawan ma'aunin kwarewa da za a iya amfani da su ga kowane takamaiman kwarewa.
+A matsayin mataki na ƙarshe, an sanya tafkin maki na basira guda 150 don zagaye halin. Ana iya amfani da waɗannan ga kowane basirar Daidaitacce, ko waɗancan basirar ƙwararru da aka samu azaman wani ɓangare na Al'ada ko Sana'a. Har ila yau, Mai Wasa na iya ba da iyaka ga yadda maki basira da yawa za a iya amfani da su ga kowane takamaiman basira.
 
-### Ƙirƙirar Jigogi Masu Ƙwarewa
+### Ƙirƙirar Haruffa Masu Kwarewa
 
-Ana ba da shawarar cewa jigogi masu farawa su fara sabo, ba tare da ɗan ƙwarewa ba ko babu. Tabbas, matakin jigogi zai dogara sosai ga yanayin kuma ko wasan zai zama gajeren kasada ɗaya ko kamfen mai tsawo. Haka kuma ya zama ruwan dare ga mai wasa ya ƙirƙiri jigo mai ƙwarewa idan ya maye gurbin wanda ya mutu a wasan ko kuma lokacin da ya shiga wani kamfen da ke akwai.
+Ana ba da shawarar cewa haruffan da suka fara su kasance sabo, tare da ƙarancin ƙwarewa ko babu. Tabbas, matakin haruffan zai dogara sosai akan saitin kuma ko wasan zai zama gajeren kasada ko yaƙin neman zaɓe mai tsawo. Hakanan yana da yawa ga ɗan wasa ya ƙirƙiri hali mai ƙwarewa idan yana maye gurbin wanda ya mutu a wasa ko lokacin shiga yaƙin neman zaɓe da ake da shi.
 
-An samar da tebur, yana raba ƙwarewa zuwa Nau'ikan Shekaru. Ƙwarewar jigo tana da alaƙa kai tsaye da shekaru da ƙwarewar kwarewa; jigogi masu ƙwarewa a zahiri suna da ƙwarewar rayuwa fiye da takwarorinsu matasa. Duk da haka, Kyautar Shekaru da aka lura ya kamata a ɗauka a matsayin kusan, yayin da kamfen ke ci gaba a matakai daban-daban – wasu kamfen suna da lokacin wasa mai yawa tsakanin kasada yayin da wasu sune dogon zaren kasada marasa katsewa. Lokacin canza jigo da ke akwai, kawai maye gurbin ainihin shekarun da aka lura akan teburin.
+An ba da tebur, yana karya kwarewa zuwa Rukunin Shekaru. Ƙwarewar hali tana da alaƙa kai tsaye da shekaru da ƙwarewar basira; haruffa masu ƙwarewa a zahiri suna da ƙarin ƙwarewar rayuwa fiye da takwarorinsu matasa. Koyaya, ya kamata a ɗauki Kari na Shekaru a matsayin kusan kima, kamar yadda yaƙin neman zaɓe ke ci gaba a farashi daban-daban — wasu yaƙin neman zaɓe suna da lokacin wasa da yawa tsakanin kasada yayin da wasu su ne jerin dogon kasada marasa tsayawa. Lokacin canza hali da ake da shi, kawai a musanya ainihin shekarun da waɗanda aka lissafa akan teburin.
 
-#### Teburin Ƙwarewa
+#### Teburin Kwarewa
 
-| Nau'i | Shekaru | Kyautar Ma'aunin Kwarewa | Matsakaicin Ƙaruwar Kwarewa |
+| Rukunin | Shekaru | Maki na Basira na Kari | Matsakaicin Ƙaruwar Basira |
 | :-- | :-: | :-: | :-: |
 | Matashi | 10+1d6 | 100 | +10 |
-| Baligi | 15+2d6 | 150 | +15 |
-| Tsakiyar Shekaru | 25+3d6 | 200 | +20 |
-| Babban | 40+4d6 | 250 | +25 |
+| Babban | 15+2d6 | 150 | +15 |
+| Mai Matsakaicin Shekaru | 25+3d6 | 200 | +20 |
+| Dattijo | 40+4d6 | 250 | +25 |
 | Tsoho | 60+5d6 | 300 | +30 |
 
-#### Bayanan Teburin Ƙwarewa
+#### Bayanan Teburin Kwarewa
 
-- Kyautar Ma'aunin Kwarewa tana tantance yawan ma'aunin da jigon zai kashe don haɓaka kwarewa.
-- Matsakaicin Ƙaruwar Kwarewa yana iyakance yawan Kyautar Ma'aunin da za a iya amfani da su ga kowane Kwarewa.
+- Maki na Basira na Kari suna tantance maki nawa ɗan wasa dole ne ya kashe kan haɓaka basira.
+- Matsakaicin Ƙaruwar Basira yana iyakance yadda maki na Kari da yawa za a iya amfani da su ga kowane Basira ɗaya.
 
-### Ginin Kwarewa na Pyramid
+### Skill Pyramid
 
-Tsarin raba ma'aunin kwarewa na _Mythras Imperative_ yana samun ma'auni 350 daga tushe uku: Al'ada (100), Sana'a (100) da Kyautar Ma'aunin Kwarewa (150). Raba waɗannan ma'auni na iya cin lokaci, kuma babu shakka akwai lokutan da tantance Al'adar jigo ba shi da mahimmanci, ko kuma mai wasa yana da takamaiman Sana'a a zuciya wanda tsarin tushe ba ya bayar da shi cikin sauƙi. An gabatar da madadin tsarin raba ma'aunin kwarewa, don lokacin da ake gaggawa ko kuma lokacin da masu wasa ke da sha'awa, a nan.
+Tsarin rarraba maki na basira na _Mythras Imperative_ yana samo maki 350 daga tushe guda uku: Al'ada (100), Sana'a (100) da Maki na Basira na Kari (150). Rarraba waɗannan maki na iya ɗaukar lokaci, kuma babu shakka akwai lokutan da tantance Al'adar hali ba shi da mahimmanci, ko ɗan wasa yana da takamaiman Aiki a zuciya wanda ba a ba da shi da sauri ta hanyar samfurori a cikin babban ƙa'idodi. An gabatar da madadin tsarin rarraba maki na basira, don lokacin da lokaci ke matsi ko lokacin da 'yan wasa ke da sha'awa, an gabatar da shi anan.
 
-Maimakon raba ma'auni daga tafkunan Al'adu, Sana'a da Kyautar Ma'aunin Kwarewa, ana amfani da Ginin Kwarewa na Pyramid. Wannan yana raba ma'auni 350 zuwa tubalan biyar na ma'auni da aka daidaita, kamar haka:
+Maimakon rarraba maki daga tafkunan Al'ada, Sana'a da Maki na Basira na Kari, ana amfani da Skill Pyramid maimakon. Wannan yana raba maki 350 zuwa gungu biyar na maki da aka gyara, kamar haka:
 
-kwarewa 1 a 50%, kwarewa 2 a 40%, kwarewa 3 a 30%, kwarewa 4 a 20%, kwarewa 5 a 10%.
+1 basira a 50%, 2 basira a 40%, 3 basira a 30%, 4 basira a 20%, 5 basira a 10%.
 
-Wanda ya samar da pyramid mai amfani. Kawai a cire kowane ƙimar da aka raba.
+Wanda ke samar da pyramid mai amfani. Kawai a ketare kowane ƙima yayin da ake rarraba shi.
 
 ```
     50
@@ -381,140 +381,140 @@ Wanda ya samar da pyramid mai amfani. Kawai a cire kowane ƙimar da aka raba.
 10 10 10 10 10
 ```
 
-#### Wasu Ƙananan Dokoki
+#### ƴan Ƙa'idodi Masu Sauƙi
 
-- Dole ne a raba dukan ma'auni daga pyramid.
-- Ba wata kwarewa da zata iya samun fiye da raba ɗaya daga pyramid.
-- Al'adu da Harshen Ƙasa duka suna samun +40, kamar yadda yake a cikin dokokin tushe, kuma ban da duk raba da aka yi daga pyramid.
-- Sha'awoyi waɗanda suka sami ƙimar da aka lura a cikin sashin [Sha'awoyi](0002_Characters.md?id=step-8-passions), kuma ban da duk raba da aka yi daga pyramid.
-- Ba wata kwarewa da zata iya wuce 80% daga sakamakon raba. Don haka, idan jigo yana da STR 16 da DEX 17, don tushen 33%, mai wasa ba zai iya raba ƙimar maki 50 ga Salon Yaƙi ba.
-- Dole ne a raba shida daga cikin ƙimar ga Kwarewar Sana'a.
-- Jigogi na iya ci gaba da zaɓar Al'ada da Sana'a, kuma su yi amfani da kwarewar da aka jera a cikin bayanin da ya dace a matsayin jagora don rabon su, ko kuma ana iya yin rabon gaba ɗaya ba tare da tsari ba.
-- Ana ba da shawarar cewa a raba aƙalla ɗaya daga cikin ƙimar ga Salon Yaƙi, amma wannan ba tilas ba ne.
-- Jagoran Wasa koyaushe yana da kalma ta ƙarshe.
+- Dole ne a rarraba duk maki daga pyramid.
+- Babu basira da za ta iya samun fiye da rarraba ɗaya daga pyramid.
+- Customs da Harshen Ɗan ƙasa duka suna samun +40, kamar yadda yake a babban ƙa'idodi, kuma ban da duk wani rarraba da aka yi daga pyramid.
+- Passions waɗanda suke samun ƙimomin da aka lissafa a sashen [Passions](0002_Characters.md?id=step-8-passions), kuma ban da duk wani rarraba da aka yi daga pyramid.
+- Babu basira da za ta iya wuce 80% daga sakamakon rarraba. Don haka, idan hali yana da STR 16 da DEX 17, don tushen 33%, ɗan wasa ba zai iya rarraba ƙimar maki 50 zuwa Salon Yaƙi ba.
+- Dole ne a rarraba shida daga cikin ƙimomin zuwa Basirar Ƙwararru.
+- Haruffa na iya har yanzu zaɓar Al'ada da Aiki, kuma su yi amfani da basirar da aka lissafa a cikin bayanin da ya dace a matsayin jagora don rarrabawarsu, ko kuma rarrabawar na iya zama kyauta gaba ɗaya.
+- Ana ba da shawarar cewa aƙalla ɗaya daga cikin ƙimomin a rarraba zuwa Salon Yaƙi, amma wannan ba tilas ba ne.
+- Mai Wasa koyaushe yana da kalmar ƙarshe.
 
-### Jarumtaka Masu Girma
+### Jarumtaka Mai Girma
 
-_Mythras Imperative_ yana magance mutane na al'ada, amma lokaci-lokaci kamfen yana buƙatar wani abu daban, musamman idan yana buƙatar jarumtaka na musamman, ko kuma ya faru a yanayin Pulp Action, inda jarumai da miyagu ke zama masu girma.
+_Mythras Imperative_ yana magana da farko tare da mutane na yau da kullun, amma wani lokacin yaƙin neman zaɓe yana buƙatar wani abu dabam, musamman idan yana buƙatar jarumtaka ta musamman, ko yana faruwa a cikin saitin Pulp Action, inda jarumai da miyagu sukan kasance mafi girma fiye da rayuwa.
 
-Irin waɗannan jarumawa ba lallai ne su sami manyan iko ba (ko da yake idan ana so, ana iya amfani da babin Sihiri da Iko), amma sun ɗan fi ƙarfi, sun ɗan fi sauri, sun ɗan fi juriya kuma yawanci sun fi ƙarfin hali. Ka yi tunanin wani ɗan Barbarawa daga Cimmeria; wani wakili na musamman wanda aka ba izinin kashewa; mutum na tagulla; wani mai gadin dare mai rufe fuska wanda kuma ɗan biliyoniya ne mai wasan banza – ko kuma kowane adadin shahararrun jarumai. Sukan fuskanci yanayi inda ɗan adam na al'ada zai rushe; amma a matsayin jarumai, za su iya jure duk abin da labarin ya jefa musu, kuma su rayu don shiga sabuwar kasada (tare da ƙananan raunuka).
+Irin waɗannan jarumai ba lallai ba ne su sami iko na musamman per se (kodayake idan ana buƙatar waɗannan, ana iya amfani da babi na Sihiri da Iko), amma sun ɗan fi ƙarfi, sun ɗan fi sauri, sun ɗan fi juriya kuma yawanci sun fi ƙarfin zuciya. Yi tunanin wani barbarian daga Cimmeria; wakili na musamman wanda ke da lasisin kisa; mutum na tagulla; wani vigilante wanda kuma shi ne billionaire playboy – ko kowane adadin shahararrun jarumai. Sukan fuskanci yanayi akai-akai inda mutum na yau da kullun zai ruguje; amma a matsayin jarumai, za su iya jure duk abin da makircin ya jefa musu, kuma su rayu don shiga cikin kasada ta gaba (kadan sosai) ba tare da rauni ba.
 
-Idan kana da niyyar gabatar da waɗannan nau'ikan jigogi a cikin wasanninka, to ka tabbata cewa dukkan masu wasa suna da jigogi a mataki ɗaya. Waɗannan nau'ikan jigogi an tsara su don mamaye filin wasa da kuma tura wasan; jigogi na al'ada (sai dai idan suna da amfanin sihiri, ko wata fa'ida) na iya zama a baya.
+Idan kun yi niyyar gabatar da waɗannan nau'ikan hali cikin wasanninku, to tabbatar da cewa duk 'yan wasa suna da haruffa a matakin iri ɗaya. An tsara waɗannan nau'ikan hali don cinye yanayin kuma su fitar da aikin; haruffa na yau da kullun (sai dai idan suna da fa'idar sihiri, ko wani fa'ida) na iya barin su a inuwa.
 
-### Jigogi Jarumai na Pulp
+### Jaruman Pulp
 
-Waɗannan sune jarumai na gargajiya na Pulp. Ba su da manyan iko ko kuma rabin-alloli, kuma harbin bindiga da aka yi daidai zai iya kashe su, amma sun fi ƙarfi, sun fi wayo, sun fi iya, kuma gaba ɗaya, sun fi mutane na al'ada mataki ɗaya ko biyu. Har ila yau, rayuwarsu tana cike da kasada. Yayin da jigo Jarumi zai iya zaɓar ya yi ƙoƙari ya zauna lafiya kuma ya rayu rayuwa marar wahala, sau da yawa matsala ko wani mai buƙata zai gano hanyarsa zuwa ƙofar jigon.
-
-#### Halaye
-
-Lokacin ƙirƙirar jigogi Jarumai na Pulp, yi amfani da hanyar Dice Roll Assign a cikin sashin [Jigogi](0002_Characters.md?id=calculating-characteristics). Jefa 4d6 kuma a cire dice mafi ƙaranci, sau biyar, sannan a sanya sakamakon ga STR, CON, DEX, POW, da CHA. Na gaba, jefa 3d6+6 kuma a cire dice mafi ƙaranci sau biyu sannan a sanya waɗannan lambobi ga SIZ da INT. Idan ana amfani da hanyar Points Build, masu wasa suna gina jigonsu daga tafkin ma'auni 90 da aka tsara.
-
-#### Siffofin Halaye
-
-Waɗannan an lissafa su kamar yadda aka saba, sai dai cewa jigogi Jarumai na Pulp suna samun Fa'idodi guda biyu da aka zaɓa daga waɗannan (lura cewa fa'idodi ba za a iya haɗa su ba):
-
-- +1 Action Point
-- +1 Luck Point
-- +1 Hit Point ga kowane Wuri na Rauni
-- Rolls na Juriya sun fi sauƙi da Grade ɗaya
-- Rolls na Sata sun fi sauƙi da Grade ɗaya
-- Rolls na Ƙarfin Zuciya sun fi sauƙi da Grade ɗaya
-
-Duk jigogi Jarumai na Pulp suna ninka Gudun Waraka nasu lokacin da suke fama da Ƙananan Raunuka ko Tsanani, ko da yake ana kula da Manyan Raunuka a daidaitaccen Gudun Waraka na jigo.
-
-#### Kwarewa
-
-Jigogi Jarumai na Pulp suna samun ƙarin Ma'aunin Kwarewa na Kyauta 50 don raba su kamar yadda ake buƙata.
-
-### Jigogi Paragon
-
-Jigogi Paragon sune misalai na kyawawa. Yayin da wani masanin ilimin kimiyyar kayan tarihi mai amfani da bulala da wani babban ɗan leƙen asiri mai izinin kashewa sune jigogi Jarumai na Pulp, wancan Cimmerian, Mutumin Tagulla, Mai Bincike na Dark Knight, da Sherlock Holmes sune jigogi Paragon. Jigogi Paragon ba kawai ƙwararrun ƙwararrun ne a wani fanni na musamman ba: yawanci suna da kyau a fannoni da yawa. Mai ƙirƙira mai hazaka da masanin kimiyyar lissafi wanda kuma jarumi ne na yaƙi mai ƙarfi, misali ne mai kyau na jigo Paragon; wani ɗan biliyoniya mai yaki da laifuka wanda ya yi karatu tare da mafi kyawun masu bincike a duniya wani misali ne. Jigogi Paragon na iya samun digiri na kwaleji da yawa, dukiya mai zaman kanta, masu taimako masu ban mamaki, da kuma sauran nau'ikan ƙwarewa da yawa.
-
-Sakamakon haka, jigogi Paragon ba za su zama ga kowa ba, amma idan wani yanayi yana buƙatar jigogi waɗanda za su iya canza kaddarar dukan tsarin hasken rana, ko kuma su fuskanci kowane ƙalubale, to kamfen na matakin Paragon ya dace da lissafin. Yayin da duka kamfen na Talakawa da Jarumtaka lokaci-lokaci suna haɗawa da matsaloli masu yawa kamar kaddarar al'ummai ko ma duniyoyi, kamfen na Paragon ya kamata su yi haka a kai a kai.
+Waɗannan su ne Jaruman Pulp na gargajiya. Ba su ne jarumai ko alloli ba, kuma harbin bindiga da aka sanya da kyau zai kawo ƙarshen rayuwarsu, amma sun fi ƙarfi, sun fi wayo, sun fi iyawa, kuma gaba ɗaya, mataki ɗaya ko biyu sama da mutanen yau da kullun. Hakanan, rayuwarsu tana cike da kasada. Yayin da hali na Jarumtaka zai iya zaɓar ƙoƙarin zama kuma ya jagoranci rayuwa ba tare da faruwar abubuwa ba, sau da yawa matsala ko wani mai buƙata zai sami hanyar zuwa ƙofar hali.
 
 #### Halaye
 
-Lokacin ƙirƙirar jigogi ta amfani da hanyar Dice Roll Assign a cikin sashin [Jigogi](0002_Characters.md?id=calculating-characteristics). Jefa 4d6, a cire dice mafi ƙaranci sau shida, sannan a sanya sakamakon guda biyar na zaɓinku (yawanci, mafi girma guda biyar) ga STR, CON, DEX, POW, da CHA. Na gaba, jefa 3d6+6, a cire dice mafi ƙaranci sau uku kuma a sanya sakamakon guda biyu na zaɓinku (yawanci, mafi girma guda biyu) ga SIZ da INT. Idan ana amfani da hanyar Points Build, masu wasa suna gina jigonsu daga tafkin ma'auni 100 da aka tsara.
+Lokacin ƙirƙirar haruffan Jarumtaka na Pulp, yi amfani da hanyar Sanya Jifan Dice a cikin sashen [Haruffa](0002_Characters.md?id=calculating-characteristics). Jefa 4d6 kuma jefar da dice mafi ƙanƙanta, sau biyar, sannan sanya sakamakon ga STR, CON, DEX, POW, da CHA. Na gaba, jefa 3d6+6 kuma jefar da dice mafi ƙanƙanta sau biyu kuma sanya waɗannan lambobi ga SIZ da INT. Idan amfani da hanyar Gina da Maki, 'yan wasa suna gina halinsu daga tafki da aka riga aka saita na maki 90.
 
-#### Siffofin Halaye
+#### Sigogin Jiki
 
-Waɗannan an lissafa su kamar yadda aka saba, sai dai cewa Jigogi Paragon suna samun Fa'idodi guda uku da aka zaɓa daga waɗannan (lura cewa fa'idodi ba za a iya haɗa su ba):
+Ana ƙididdige waɗannan kamar yadda ya kamata, sai dai haruffan Jarumtaka na Pulp suna samun Fa'idodi guda biyu da aka zaɓa daga masu zuwa (lura cewa fa'idodi ba za a iya tara su ba):
 
-- +1 Action Point
-- +2 Luck Points
-- +2 Hit Points ga kowane Wuri na Rauni
-- Rolls na Juriya sun fi sauƙi da Grade ɗaya
-- Rolls na Sata sun fi sauƙi da Grade ɗaya
-- Rolls na Ƙarfin Zuciya sun fi sauƙi da Grade ɗaya
+- +1 Maki na Aiki
+- +1 Maki na Sa'a
+- +1 Maki na Rauni zuwa kowane Wuri na Rauni
+- Jifan Juriya (Endurance) sun fi mataki ɗaya sauƙi
+- Jifan Kunkunya (Stealth) sun fi mataki ɗaya sauƙi
+- Jifan Willpower sun fi mataki ɗaya sauƙi
 
-Duk jigogi Paragon suna ninka Gudun Waraka nasu lokacin da suke fama da Ƙananan Raunuka ko Tsanani, ko da yake ana kula da Manyan Raunuka a daidaitaccen Gudun Waraka na jigo.
+Duk haruffan Jarumtaka na Pulp suna ninka Matsayin Warkewarsu sau biyu lokacin da suke fama da Raunuka Marasa Mahimmanci ko Raunuka masu Tsanani, kodayake ana sarrafa Raunuka Masu Mahimmanci a Matsayin Warkewa na daidaitacce na hali.
 
-#### Kwarewa
+#### Basira
 
-Jigogi Jarumai na Paragon suna samun ƙarin Ma'aunin Kwarewa na Kyauta 100 don raba su kamar yadda ake buƙata.
+Haruffan Jarumtaka na Pulp suna samun ƙarin Maki na Basira na Kari guda 50 don rarrabawa kamar yadda ake buƙata.
+
+### Jaruman Paragon
+
+Haruffan Paragon sune misalan kyau. Yayin da wani masanin bincike mai amfani da bulala da kuma wani super-spy mai lasisin kisa su ne haruffan Jarumtaka na Pulp, wancan Cimmerian, Mutumin Tagulla, Dark Knight Detective, da Sherlock Holmes sune haruffan Paragon. Haruffan Paragon ba kawai suna da ƙwarewa sosai a yanki ɗaya na ƙwarewa ba: yawanci sukan yi fice a da yawa. Wani mai kirkira da masanin kimiyyar lissafi mai wayo wanda kuma shi ne jarumin yaƙi, misali ne mai kyau na halin Paragon; Wani billionaire playboy crime fighter wanda yayi karatu tare da mafi kyawun hankalin bincike a duniya wani misali ne. Haruffan Paragon na iya samun digiri na kwaleji da yawa, dukiya mai zaman kanta, masu tallafawa masu ban mamaki, da kuma sauran nau'ikan ƙwarewa da yawa.
+
+Sakamakon haka, haruffan Paragon ba za su kasance ga kowa ba, amma idan saitin yana buƙatar haruffa waɗanda za su iya canza makomar tsarin hasken rana gaba ɗaya, ko fuskantar kowane ƙalubale, to yaƙin neman zaɓe na matakin Paragon ya dace da lissafin. Yayin da duka yaƙin neman zaɓe na yau da kullun da Jarumtaka sukan haɗa da matakai masu girma sosai kamar makomar ƙasashe ko ma duniyoyi, yaƙin neman zaɓe na Paragon ya kamata su yi hakan akai-akai.
+
+#### Halaye
+
+Lokacin ƙirƙirar haruffa ta amfani da hanyar Sanya Jifan Dice a cikin sashen [Haruffa](0002_Characters.md?id=calculating-characteristics). Jefa 4d6, jefar da dice mafi ƙanƙanta sau shida, sannan sanya sakamakon biyar na zaɓinku (yawanci, mafi girma biyar) zuwa STR, CON, DEX, POW, da CHA. Na gaba, jefa 3d6+6, jefar da dice mafi ƙanƙanta sau uku kuma sanya sakamakon biyu na zaɓinku (yawanci, mafi girma biyu) zuwa SIZ da INT. Idan amfani da hanyar Gina da Maki, 'yan wasa suna gina halinsu daga tafki da aka riga aka saita na maki 100.
+
+#### Sigogin Jiki
+
+Ana ƙididdige waɗannan kamar yadda ya kamata, sai dai Haruffan Paragon suna samun Fa'idodi guda uku da aka zaɓa daga masu zuwa (lura cewa fa'idodi ba za a iya tara su ba):
+
+- +1 Maki na Aiki
+- +2 Maki na Sa'a
+- +2 Maki na Rauni zuwa kowane Wuri na Rauni
+- Jifan Juriya sun fi mataki ɗaya sauƙi
+- Jifan Kunkunya sun fi mataki ɗaya sauƙi
+- Jifan Willpower sun fi mataki ɗaya sauƙi
+
+Duk haruffan Paragon suna ninka Matsayin Warkewarsu sau biyu lokacin da suke fama da Raunuka Marasa Mahimmanci ko Raunuka masu Tsanani, kodayake ana sarrafa Raunuka Masu Mahimmanci a Matsayin Warkewa na daidaitacce na hali.
+
+#### Basira
+
+Haruffan Jarumtaka na Paragon suna samun ƙarin Maki na Basira na Kari guda 100 don rarrabawa kamar yadda ake buƙata.
 
 ---
-## Mataki na 8: Sha'awoyi
+## Mataki na 8: Passions
 
-Ana amfani da Sha'awoyi don taimaka wa masu wasa da Jagoran Wasa wajen zurfafa yanayin jigon, gabatar da alamar labari dangane da sha'awar jigo ko son zuciya, da taimaka wa mai wasa ya fahimci ko wanene jigonsa, abin da ke motsa shi, da sauransu.
+Ana amfani da Passions don taimaka wa 'yan wasa da Masu Wasa wajen zurfafa yanayin hali, gabatar da ƙugiyoyi na makirci bisa ga sha'awar hali ko nuna son kai, da taimaka wa ɗan wasa ya fahimci wanene halinsa, abin da yake motsa shi, da sauransu.
 
-Sha'awa na iya zama ga kowane abu – mutum, ƙungiya, manufa, har ma da wani abu. Sha'awoyi yawanci ana bayyana su ta wani fi'ili kamar: So, Tsana, Rushe, Tallafa, Tsoro, Gudu, Rantsuwa, Ƙi, Soyayya, Aminci ga, Kare, Musanta, Girmamawa, Neman, Sauya, Azabtarwa, ko Dogara.
+Passion na iya zama don komai – mutum, ƙungiya, manufa, har ma da abu. Passions yawanci ana bayyana su ta hanyar fi'ili kamar: Desire, Despise, Destroy, Espouse, Fear, Flee, Forswear, Hate, Love, Loyalty to, Protect, Repudiate, Respect, Seek, Subvert, Torment, ko Uphold.
 
-Ana auna Sha'awoyi kamar yadda ake auna kwarewa; ana kimanta su tsakanin 1 zuwa 100 (ko sama). Sha'awa za a iya inganta ta kamar kwarewa, ko kuma za a iya ƙara ta ko rage ta ta hanyar alkalin wasa dangane da yanayi.
+Ana auna Passions ta hanyar daidai da basira; ana ƙididdige su tsakanin 1 da 100 (ko sama da haka). Ana iya inganta Passion ta hanyar daidai da basira, ko kuma ana iya ƙara ko rage shi ta wurin alkalin wasa dangane da yanayi.
 
-Jigogi masu farawa za su iya farawa da Sha'awoyi har zuwa uku, kowannensu yana dogara ne akan Halaye biyu, tare da kari na +40 ga na farko, +30 ga na biyu da +20 ga na uku – mai wasa yana yanke shawara game da tsarin muhimmanci. Waɗannan za a iya haɗa su da al'adarsa, sana'arsa, ko kuma halayensa na sirri. Misali, a cikin kamfen na Takobi & Sihiri jigon na iya ɗauka: Tsana (Stygians), Rashin Aminci (Masu Sihiri), da Sha'awa (Barasa); yayin da a cikin wasan Sci-Fi na Dystopian jigon na iya zaɓar Aminci (Shugaban ƙasa), Rushe (Baƙi), da Tallafa (Doka) a maimakon haka.
+Haruffan da suka fara suna iya farawa da har zuwa Passions guda uku, kowane ɗaya bisa ga Halaye guda biyu, tare da ƙarin +40 zuwa na farko, +30 zuwa na biyu da +20 zuwa na uku – ɗan wasa yana yanke shawarar tsarin mahimmanci. Ana iya ɗaure waɗannan ga al'adarsa, sana'arsa, ko raunin kansa. Misali, a cikin yaƙin neman zaɓe na Sword & Sorcery, halin zai iya ɗaukar: Hate (Stygians), Distrust (Sorcerers), da Desire (Alcohol); yayin da a cikin wasan Dystopian Sci-Fi hali zai iya zaɓar Loyalty (President), Destroy (Aliens), da Uphold (the Law) maimakon.
 
-#### Teburin Sha'awoyi
+#### Teburin Passion
 
-| Abin Sha'awa | Matsakaicin Kashi na Farko |
-| :-- | :-: |
-| Mutum, a cikin dangantakar soyayya ko dangi | POW+CHA |
-| Ƙungiya ko rukunin mutane | POW+INT |
-| Jinsi ko nau'i | POW x2 na Jigo |
-| Wuri | POW+INT na Jigo |
-| Abu ko abu | POW x2 na Jigo |
-| Halayen mutum | POW+CHA na Jigo |
+| Abin Passion | Kashi na Farawa |
+| :-- | :-- |
+| Mutum, a cikin mahallin soyayya ko dangi | POW+CHA |
+| Ƙungiya ko gungun mutane | POW+INT |
+| Ƙabila ko nau'i | POW na Hali x2 |
+| Wuri | POW+INT na Hali |
+| Abu ko abu | POW na Hali x2 |
+| Halin mutum | POW+CHA na Hali |
 
-### Amfani da Sha'awoyi
+### Amfani da Passions
 
-Sha'awa ita ce duk wani babban alƙawari wanda ke da ikon shafar abubuwan da suka faru a lokacin wasa. Ko da yake ana iya amfani da su a matsayin Iyawa mai zaman kanta (kiran su kwarewa yana yi musu rashin adalci), an ƙara faɗaɗa Sha'awoyi a ƙasa don bayyana dalla-dalla yadda suke aiki da yadda za su iya shafar jigogi da kamfen na _Mythras Imperative_.
+Passion shine kowane babban sadaukarwa wanda ke da ikon rinjayar abubuwan da ke faruwa yayin wasa. Kodayake ana iya amfani da su azaman Iyayen da ke tsaye da kansu (kira su basira shi ne yin musu rashin adalci), Passions an ƙara faɗaɗa su a ƙasa don bayyana dalla-dalla yadda suke aiki da yadda za su iya rinjayar haruffan _Mythras Imperative_ da yaƙin neman zaɓe.
 
-A taƙaice, ana iya amfani da Sha'awoyi kamar haka:
+A taƙaice, ana iya amfani da Passions kamar haka:
 
-- Don ƙara wata kwarewa, yana nuna zurfin ji na mutum da yadda yake motsa aiki. Lokacin da aka yi amfani da shi a wannan batun, Sha'awar tana ƙara kashi 20% na ƙimarta ga kwarewar da ake amfani da ita, idan ƙarar tana da mahimmanci a ma'ana da kuma wasan kwaikwayo.
-- A matsayin Iyawa don motsa zaɓuɓɓuka, sha'awoyi da ayyukan motsin rai da martani. Lokacin da aka yi amfani da shi ta wannan hanyar ana yin daidaitaccen jefa ƙwallo a kan Sha'awa don tantance yadda jigon ke tunani da ji game da wani abu. Idan jefa ƙwallo ya yi Nasara, to jigon yana aiki daidai da abin da Sha'awar zata umarta. Idan jefa ƙwallo ya gaza, to jigon zai iya yin aiki da yardar rai ba tare da jin cikas daga motsin Sha'awar ba.
-- Don adawa da sauran Sha'awoyi – har ma da waɗanda jigon ɗaya ke riƙe. Wannan ana amfani da shi ne yawanci inda Sha'awoyi biyu za su yi karo. Misali, soyayya ta sirri na iya nuna hanyar aiki da za ta saba wa Rantsuwa ko Aminci. A nan yi amfani da Jefa Ƙwallo na Adawa tsakanin Sha'awoyi biyu, tare da mafi nasara yana tantance yadda jigon ke aiki.
-- A matsayin ma'auni na gaba ɗaya na zurfin alƙawari, imani, da aminci ga wata manufa. Mafi girman ƙimar Sha'awar, mafi alƙawarin jigon shine. Jigogi masu irin Sha'awoyi za su iya kwatanta ƙimarsu don tantance wanda ya nuna zurfin alƙawari.
-- Don tsayayya da wani nau'i na yaudarar hankali ko mulkin sihiri. A wasu lokuta inda ake tilasta wa jigo yin aiki sabanin Sha'awarsa, zai iya maye gurbin ko dai da Ƙarfin Zuciya a cikin Jefa Ƙwallo na Adawa.
+- Don ƙara wani basira, yana nuna zurfin jin daɗin mutum da yadda yake motsa aiki. Lokacin da aka yi amfani da shi ta wannan fannin, Passion yana ƙara 20% na ƙimarsa zuwa basirar da ake amfani da ita, idan ƙarin yana da mahimmanci a fannin jigogi da wasan kwaikwayo.
+- Azaman Ikon tuƙi zaɓuɓɓuka, sha'awa da ayyukan motsin rai da martani. Lokacin da aka yi amfani da shi ta wannan hanyar ana yin jifan Daidaitacce akan Passion don tantance yadda ƙarfi hali yake tunani da jin daɗin wani abu. Idan jifa Nasara ce, to halin yana aiki daidai da abin da Passion zai ba da umarni. Idan jifa ta Gaza, to halin zai iya aiki kyauta ba tare da jin an takura shi ta hanyar tuƙin Passion ba.
+- Don adawa da sauran Passions – har ma da waɗanda halin da kansa ya riƙe. Ana amfani da wannan yawanci inda Passions guda biyu za su yi karo. Misali, soyayyar mutum na iya ba da umarnin wani aikin da zai saɓa wa Rantsuwa ko Aminci. Anan yi amfani da Jifan Adawa tsakanin Passions guda biyu, tare da wanda ya fi samun nasara yana tantance yadda halin yake aiki.
+- Azaman ma'auni na gaba ɗaya na zurfin sadaukarwa, imani, da aminci ga manufa. Mafi girman ƙimar Passion, mafi girman sadaukarwar halin. Haruffa masu Passions iri ɗaya na iya kwatanta ƙimominsu don tantance wanda ke nuna zurfin sadaukarwa.
+- Don tsayayya da wani nau'i na sarrafa tunani ko mamayar sihiri. A wasu lokuta inda ake tilasta halin yin aiki saɓanin Passions ɗinsu, za su iya musanya ɗaya don Willpower a cikin Jifan Adawa.
 
-Ana iya haɓaka sabbin Sha'awoyi a kowane lokaci a lokacin zaman wasa idan yanayin ya ba da dama. Mutum na iya haɓaka "Ƙi X" nan da nan inda wani ya yi wani abu da zai haifar da ƙiyayya mai ƙarfi. Ubangiji ko shugaba da ke kira ga Rantsuwa zai kafa nan da nan Sha'awar "Aminci ga X" da zaran an ɗauki ko an yi rantsuwa.
+Ana iya haɓaka sabbin Passions a kowane lokaci yayin zaman wasa idan yanayin ya ba da izini. Mutum na iya haɓaka 'Hate X' nan take inda wani ya yi wani abu da zai tsokani ƙiyayya da ƙarfi. Ubangiji ko shugaba da ke kira ga Rantsuwa zai kafa Passion na 'Loyalty to X' nan take da zarar an ɗauki ko rantsuwa da wannan Rantsuwar.
 
-Sabbin Sha'awoyi da aka haɓaka a lokacin wasa ta wannan hanyar ba sa kashe Rolls na Ƙwarewa kuma an kafa su nan take. Tabbas, jigogi kuma za su iya zaɓar su kafa Sha'awa a lokacin haɓakawa, a farashin Roll na Ƙwarewa don samun Sha'awa a Matsakaicin Ƙimarta.
+Sabbin Passions da aka haɓaka yayin wasa ta wannan hanyar ba su da tsada na Jifan Kwarewa kuma ana kafa su a wurin. Tabbas, haruffa kuma za su iya zaɓar kafa Passion yayin ingantawa, a farashin Jifan Kwarewa don samun Passion a Ƙimarsa ta Asali.
 
 ### Zurfafa da Ragewa
 
-Sha'awoyi na iya ƙaruwa a lokacin wasa ba tare da dogaro ga Rolls na Ƙwarewa ba, dangane da ƙarfin abin da ya faru don haifar da ƙaruwar. Haka kuma, suna iya, kuma suna raguwa. Imani mai ƙarfi zai iya girgiza ta abubuwa da yawa, wanda zai haifar da rage waccan Sha'awar ko, a yanayin da ya fi tsanani, canza ta gaba ɗaya.
+Passions na iya ƙaruwa yayin wasa ba tare da Jifan Kwarewa ba, bisa ga ƙarfin duk abin da ya faru don haifar da ƙaruwar. Hakanan, za su iya, kuma suna yin, raguwa. Imani mai ƙarfi za a iya girgiza shi ta abubuwa da yawa, wanda ke haifar da rage wancan Passion ko, a cikin yanayi mafi tsanani, a juye gaba ɗaya.
 
-Misali, jigo mai "Aminci ga Shugaba" na iya, idan shugabansa ya yi cin amana, ko dai ya rage Sha'awarsa ko kuma ya juya zuwa "Rashin Aminci ga Shugaba" a daidai kashi ɗaya. Jagoran Wasa yana buƙatar tantance ko Sha'awa ta ragu ko ta canza. Idan ta ragu, to tana raguwa gwargwadon ƙarfin tushen canjin.
+Misali, hali mai 'Trust Chieftain' zai iya, idan shugabansa ya yi yaudara, ko dai ya rage Passion ɗinsa ko ya koma 'Distrust Chieftain' a kashi iri ɗaya. Mai Wasa yana buƙatar tantance ko Passion yana raguwa ko juyawa. Idan ya ragu, to yana yin hakan bisa ga ƙarfin tushen canjin.
 
-Teburin Zurfafa da Ragewa yana nuna yawan canjin Sha'awar.
+Teburin Zurfafa da Ragewa yana nuna yadda Passion yake canzawa.
 
 #### Teburin Zurfafa da Ragewa
 
-| Zurfin Canji | Sha'awar da aka Gyara ta |
+| Zurfin Canji | Passion da aka gyara da |
 | --- | --- |
 | Rauni | 1d10 |
 | Matsakaici | 1d10+5 |
 | Ƙarfi | 1d10+10 |
 
 ---
-## Mataki na 9: Kayan Aiki
+## Mataki na 9: Kayan aiki (Equipment)
 
-Yanzu da jigon ya kusan gama, yana buƙatar wasu kayan aiki. Waɗannan na iya haɗawa da makamai, sulke, ko wasu kayan aiki masu mahimmanci da aka yi amfani da su don takamaiman sana'a. A lokacin kasada akwai damammaki da yawa don samun ƙarin kayan aiki, amma kowane jigo mai farawa yana da waɗannan a cikin mallakarsa nan da nan:
+Yanzu da halin ya kusan ƙarewa, shi ko ita suna buƙatar wasu kayan aiki. Wannan na iya haɗawa da makamai, sulke, ko wasu muhimman kayan aiki da ake amfani da su don takamaiman sana'a. Yayin kasada akwai damammaki da yawa don samun ƙarin kayan aiki, amma kowane hali mai farawa yana da a cikin mallakarsa kai tsaye waɗannan abubuwan:
 
-- Tufafi da suka dace da sana'ar jigo da kuma yanayin.
-- Adadin kuɗin aljihu; isa ya ɗauki ɗan lokaci ba tare da wahala ba.
-- Gado na sirri, abin tunawa, ko wani abu mai ƙarancin daraja.
-- Duk wani kayan aikin ciniki ko kayan aiki masu motsi da suka dace da sana'ar jigo, idan ya dace.
-- Duk wani makami na sirri don Salon Yaƙin jigo.
-- Sauran abubuwa kamar yadda suka dace da yanayin, kuma bisa ga amincewar GM.
+- Saiti na tufafi da suka dace da sana'ar halin da saitin.
+- Adadin kuɗin aljihu; ya isa ya wuce ɗan lokaci ba tare da wahala ba.
+- Gado na sirri, abin tunawa, ko wani ƙaramin abu na ƙaramin ƙima.
+- Duk wani kayan aikin sana'a ko kayan aikin da za a iya ɗauka da suka dace da sana'ar halin, idan ya dace.
+- Duk wani makami na sirri don Salon Yaƙin halin.
+- Wasu abubuwa kamar yadda ya dace da saitin, kuma ƙarƙashin amincewar GM.

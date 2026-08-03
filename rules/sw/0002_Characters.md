@@ -1,89 +1,89 @@
 # Wahusika
 
-Kila mchezaji katika _Mythras Imperative_ anadhibiti mhusika. Mhusika ni mwongozi-badala wa mchezaji, na kwa kawaida ni tofauti sana, kimwili na kiakili, na mchezaji. Wahusika wanaweza kutoka kwa jamii mbalimbali, kulingana na mpangilio wa mchezo; mpangilio wa kihistoria ungekuwa na wanadamu tu, ilhali mpangilio wa njozi unaweza kuhusisha vibete, elf na hata wana-mjusi. Mhusika wa msingi anafafanuliwa na mfululizo wa vipengele tofauti vinavyoelezea uwezo wa mhusika. Vipengele hivi ni:
+Kila mchezaji katika _Mythras Imperative_ hudhibiti mhusika. Mhusika ni mwakilishi wa mchezaji, na kwa kawaida huwa tofauti sana, kimwili na kiakili, na mchezaji. Wahusika wanaweza kutoka katika jamii mbalimbali, kulingana na mazingira ya mchezo; mazingira ya kihistoria yatakuwa na binadamu pekee, wakati mazingira ya njozi (fantasy) yanaweza kuhusisha vibwengo (dwarves), elves, na hata watu-mijusi. Mhusika wa msingi hufafanuliwa na mfululizo wa vipengele tofauti vinavyoelezea uwezo wa mhusika. Vipengele hivi ni:
 
-- **Sifa:** kama vile Nguvu au Haiba
-- **Sifa za Msingi:** mambo kama Urefu au Mwendo
-- **Ujuzi:** utaalamu katika uwezo wa kimsingi
+- **Sifa (Characteristics):** kama vile Nguvu (Strength) au Haiba (Charisma)
+- **Sifa za ziada (Attributes):** vitu kama Urefu au Mwendo
+- **Ujuzi (Skills):** utaalamu katika uwezo wa kimsingi
 
-Mengi ya vipengele hivi yanaelezewa kwa idadi, na vingine vinategemea au vinahesabiwa na vingine. Kila kipengele kinamaanisha nini, na jinsi vinavyoamuliwa, imeelezwa katika sehemu zifuatazo.
+Vingi vya vipengele hivi huelezewa kwa namba, na vingine hutegemea au huhesabiwa na vingine. Kila kipengele kinamaanisha nini, na jinsi vinavyoamuliwa, vimefafanuliwa katika sehemu zifuatazo.
 
 ---
 ## Hatua ya 1: Dhana ya Mhusika
 
-Mahali pazuri pa kuanzia ni kuwa na wazo fulani la aina gani ya mhusika unayetaka kucheza: labda shujaa mjanja, au mtoroshaji mwerevu. Labda unapendelea msomi mwangalifu, au mchawi mwenye busara. Dhana yako ya mhusika haihitaji kuwa changamano katika hatua hii; wazo tu ambalo litasaidia kuongoza chaguzi fulani kama vile Utamaduni na Kazi.
+Mahali pazuri pa kuanzia ni kuwa na wazo la aina ya mhusika unayotaka kucheza: labda shujaa mjanja, au mfanyabiashara wa magendo mwenye hila. Labda unapendelea msomi mwenye bidii, au mchawi mwenye hekima. Dhana yako ya mhusika haihitaji kuwa tata katika hatua hii; ni wazo tu litakalosaidia kuongoza maamuzi fulani kama vile Utamaduni na Kazi.
 
 ---
-## Hatua ya 2: Sifa
+## Hatua ya 2: Sifa (Characteristics)
 
-Kila mtu anafafanuliwa na Sifa saba ambazo zinakueleza kitu kuhusu mhusika wako; ana nguvu au kasi kiasi gani; ana akili au afya kiasi gani. Sifa ziko kwenye msingi wa kila mhusika wa _Mythras_ _Imperative_ na huunda msingi wa vipengele vingine vingi kama vile Sifa za Msingi na Ujuzi. Sifa saba ni:
+Kila mtu hufafanuliwa na Sifa saba zinazokuambia kitu kuhusu mhusika wako; jinsi alivyo na nguvu au kasi; jinsi alivyo na akili au afya. Sifa ndizo kiini cha kila mhusika wa _Mythras Imperative_ na huunda msingi wa vipengele vingine vingi kama vile Sifa za ziada na Ujuzi. Sifa hizo saba ni:
 
 - Nguvu (STR)
-- Katiba (CON)
+- Afya (CON)
 - Ukubwa (SIZ)
-- Ustadi (DEX)
+- Utiifu wa mwili/Utendaji (DEX)
 - Akili (INT)
-- Nguvu ya Kiungu (POW)
+- Uwezo/Nguvu za ndani (POW)
 - Haiba (CHA)
 
-Kabla ya kuhesabu Sifa, sehemu ifuatayo inaeleza kila moja inawakilisha nini.
+Kabla ya kuhesabu Sifa, sehemu ifuatayo inaelezea kile ambacho kila moja inawakilisha.
 
 #### Nguvu (STR)
 
-STR inawakilisha nguvu za kimwili: kiasi gani mtu anaweza kuinua, kiasi gani anaweza kupiga, na kadhalika. STR ni sehemu ya Kirekebishaji Uharibifu. Ikiwa mhusika anapunguzwa hadi zero STR, anakosa uwezo wa kusogeza au kuinua vitu.
+STR inawakilisha nguvu za kimwili: kiasi gani mtu anaweza kuinua, jinsi anavyoweza kupiga kwa nguvu, na kadhalika. STR ni sehemu ya Kirekebishi cha Uharibifu (Damage Modifier). Ikiwa mhusika atashushwa hadi STR sufuri, anakosa uwezo wa kutembea au kuinua vitu.
 
-#### Katiba (CON)
+#### Afya (CON)
 
-CON ni kipimo cha afya na uimara. CON ni sehemu katika kuamua Hit Points na Kiwango cha Uponyaji. Ikiwa CON itashuka hadi zero kwa sababu yoyote, mhusika anakufa.
+CON ni kipimo cha afya na ustahimilivu. CON ni sehemu ya kuamua Alama za Afya (Hit Points) na Kiwango cha Uponyaji. Ikiwa CON itashuka hadi sufuri kwa sababu yoyote ile, mhusika hufa.
 
 #### Ukubwa (SIZ)
 
-SIZ inapima uzito na husaidia kuashiria Urefu na Uzito. SIZ inatumika kusaidia kujua Hit Points, kwani viumbe vikubwa na vizito huwa na uvumilivu mkubwa dhidi ya uharibifu. SIZ inaweza pia kutumika kuamua Kirekebishaji Uharibifu wa mhusika, kwani uzito husaidia kuongeza nguvu ya pigo.
+SIZ hupima uzito na kusaidia kuonyesha Urefu na Uzito. SIZ hutumika kusaidia kupata Alama za Afya, kwani viumbe wakubwa na wazito huwa na ustahimilivu mkubwa dhidi ya uharibifu. SIZ pia inaweza kutumika kuamua Kirekebishi cha Uharibifu cha mhusika, kwani uzito husaidia kuongeza nguvu ya pigo.
 
-#### Ustadi (DEX)
+#### Utendaji (DEX)
 
-Uwezo wa haraka, usawa, na hisia za haraka hupimwa na DEX. Ni kipengele muhimu cha Action Points na Initiative. Ikiwa mhusika anapunguzwa hadi zero DEX, anapata kupooza kwa utendaji.
+Weledi, usawaziko, na refleksti hupimwa na DEX. Ni kipengele muhimu cha Alama za Vitendo na Initiative. Ikiwa mhusika atashushwa hadi DEX sufuri, anapata ulemavu wa utendaji.
 
 #### Akili (INT)
 
-INT ni kipimo cha uwezo wa utambuzi. Wale walio na alama ya chini ya INT sio lazima wawe wajinga, lakini wanaweza kuwa wamebanwa katika jinsi wanavyoweza kutumia akili zao kwa ubunifu. INT ni sababu katika kuhesabu Action Points na Initiative. Ikiwa INT inapunguzwa hadi zero, mhusika anakuwa hana akili kabisa.
+INT ni kipimo cha uwezo wa kiakili. Wale walio na alama ya chini ya INT si lazima wawe wajinga, lakini wana uwezekano wa kuzuiwa katika jinsi wanavyoweza kutumia akili zao kwa ubunifu. INT ni kigezo katika kuhesabu Alama za Vitendo na Initiative. Ikiwa INT itashushwa hadi sufuri, mhusika anakuwa hana akili kabisa.
 
-#### Nguvu ya Kiungu (POW)
+#### Uwezo (POW)
 
-POW ni kipimo cha roho ya mhusika, ari, msukumo wa ndani, au uwezo wa uchawi. POW inadhibiti Magic Points na Luck Points za mhusika. Ikiwa POW ya mhusika itashuka hadi zero, anapoteza mapenzi yote ya kujitegemea.
+POW ni kipimo cha nafsi, roho, msukumo wa ndani, au uwezo wa uchawi wa mhusika. POW hudhibiti Alama za Uchawi na Alama za Bahati za mhusika. Ikiwa POW ya mhusika itashuka hadi sufuri, anapoteza utashi wote wa kujitegemea.
 
 #### Haiba (CHA)
 
-Haiba ni kipimo cha uwepo na utu na haina uhusiano na mwonekano wa kimwili. CHA inaathiri Kirekebishaji Uzoefu wa mhusika. Ikiwa CHA itashuka hadi zero, mhusika hawezi tena kuingiliana kijamii na wengine, akawa aibu sana au asiye na ushirikiano kiasi kwamba anapuuzwa au hata kufukuzwa.
+Haiba ni kipimo cha uwepo na utu na haitegemei mwonekano wa nje. CHA huathiri Kirekebishi cha Uzoefu (Experience Modifier) cha mhusika. Ikiwa CHA itashuka hadi sufuri, mhusika hawezi tena kuingiliana kijamii na wengine, akawa mwenye haya kupita kiasi au asiyependa jamii kiasi kwamba anapuuzwa au hata kufukuzwa.
 
 ---
 ### Kuhesabu Sifa
 
-Kila Sifa ina thamani ya nambari kuamua uwezo wake. Nambari iliyo kwenye mabano baada ya kila alama ya kete ni wastani wa kikabila na inatumika kama kipimo cha kukadiria matokeo ya mhusika wako anapolinganishwa na wanachama wengine wa spishi zao. Mapendekezo ya kuamua Sifa zako ni pamoja na:
+Kila Sifa ina thamani ya namba ili kuamua jinsi ilivyo na nguvu. Namba iliyo kwenye mabano baada ya kila alama ya kete ni wastani wa jamii hiyo na hutumika kama kipimo cha kukadiria matokeo ya mhusika wako ikilinganishwa na wanachama wengine wa spishi zao. Mapendekezo ya kuamua Sifa zako ni pamoja na:
 
-- **Kete Inarushwa:** Rusheni kete kwa STR, CON, SIZ, DEX, INT, POW, na CHA mkichukua kila alama iliyorushwa jinsi inavyokuja. Kwa kuwa matokeo ya mirusho hii yanaweza kuwa ya nasibu kiasi, mara nyingi ni bora kuamua dhana ya mhusika baada ya kete kurushwa. Vinginevyo, Sifa za mwisho zinaweza kuzuia jukumu lililopangwa kabla. Rusha 3d6 kwa STR, CON, DEX, POW, na CHA; kisha 2d6+6 kwa SIZ na INT.
-- **Kete Inarushwa, Gawanya:** Kama hapo juu, isipokuwa mchezaji anaweza kubadilishana thamani kati ya Sifa zenye anuwai sawa ya kete. Kwa mfano, anapomjenga mwanadamu, mchezaji anaweza kubadilishana thamani kati ya STR, CON, DEX, POW, na CHA, kwani zinashiriki anuwai ya 3d6, au kati ya SIZ na INT, ambazo zinashiriki anuwai ya 2d6+6 — lakini lazima ziwe daima kutoka kundi moja la anuwai ya kete; huwezi kubadilisha mirusho kutoka kundi moja kwenda jingine.
-- **Kete Inarushwa, Juu:** Rusha kete moja ya ziada kama ilivyoonyeshwa kwa STR, CON, SIZ, DEX, INT, POW, na CHA, na uondoe matokeo ya chini zaidi kutoka kila moja.
-- **Ujenzi wa Pointi:** Wachezaji hugawa alama za Sifa kutoka kwenye kundi lililopangwa tayari la pointi 80. Sifa haziwezi kuwa chini ya thamani ya chini iliyorushwa, wala juu ya kiwango cha juu.
+- **Kutupa Kete:** Tupa kete kwa ajili ya STR, CON, SIZ, DEX, INT, POW, na CHA ukichukua kila alama uliyopata kama ilivyo. Kwa kuwa matokeo ya mirindimo hii yanaweza kuwa ya kubahatisha, mara nyingi ni bora kuamua dhana ya mhusika baada ya kete kutupwa. Vinginevyo, Sifa za mwisho zinaweza kuzuia dhima iliyopangwa awali. Tupa kete 3d6 kwa ajili ya STR, CON, DEX, POW, na CHA; kisha 2d6+6 kwa ajili ya SIZ na INT.
+- **Kutupa Kete, Kupanga:** Kama ilivyo hapo juu, isipokuwa mchezaji anaweza kubadilishana thamani kati ya Sifa zenye upeo sawa wa kete. Kwa mfano, unapoandaa binadamu, mchezaji anaweza kubadilishana thamani kati ya STR, CON, DEX, POW, na CHA, kwa kuwa zinashiriki upeo wa 3d6, au kati ya SIZ na INT, zinazoshiriki upeo wa 2d6+6 — lakini lazima ziwe kutoka kundi moja la upeo wa kete; huwezi kubadilisha mirindimo kutoka kundi moja kwenda jingine.
+- **Kutupa Kete, Juu:** Tupa kete moja ya ziada kama ilivyoonyeshwa kwa STR, CON, SIZ, DEX, INT, POW, na CHA, na uondoe matokeo ya chini kabisa kutoka kwa kila moja.
+- **Ujenzi wa Pointi:** Wachezaji hupanga alama za Sifa kutoka kwa dimbwi lililotanguliwa la pointi 80. Sifa haziwezi kuwa chini ya thamani ya chini ya kete, wala juu ya thamani ya juu.
 
 ---
-## Hatua ya 3: Sifa za Msingi
+## Hatua ya 3: Sifa za Ziada (Attributes)
 
-Kila mhusika pia ana seti ya sifa za msingi. Hizi ni uwezo unaotokana na Sifa au kuamuliwa nazo ambazo hutumiwa kudhibiti mambo fulani ya mchezo.
+Kila mhusika pia ana seti ya sifa za ziada. Hizi ni uwezo unaotokana na Sifa au unaoamuliwa nazo ambao hutumika kudhibiti mambo fulani ya uchezaji wa mchezo.
 
-#### Action Points
+#### Alama za Vitendo (Action Points)
 
-Mara ngapi mhusika anaweza kutenda katika Pande la Mapigano huamuliwa na Action Points. Wahusika wote wa _Mythras_ _Imperative_ wana Action Points 2.
+Jinsi mhusika anavyoweza kutenda mara nyingi katika Mzunguko wa Mapigano huamuliwa na Alama za Vitendo. Wahusika wote wa _Mythras Imperative_ wana Alama za Vitendo 2.
 
-#### Damage Modifier
+#### Kirekebishi cha Uharibifu (Damage Modifier)
 
-Wahusika na viumbe vikubwa na wenye nguvu wanaweza kupata uharibifu wa ziada katika hali fulani; kinyume chake, wahusika dhaifu na wadogo wanaweza kupunguza uharibifu wanaoweza kusababisha. Damage Modifier hutumiwa kwa ujumla katika hali za mapigano lakini inaweza pia kutumika wakati wa kujaribu kuvunja vitu. Damage Modifier ni mruzo wa ziada wa kete ambao huongezwa au kutolewa kutoka kwa uharibifu uliosababishwa na silaha au zana. Ikiwa Damage Modifier hasi inafanya uharibifu wa silaha kuwa sifuri au chini, basi hakuna uharibifu wowote uliosababishwa.
+Wahusika na viumbe wakubwa na wenye nguvu zaidi wanaweza kupata uharibifu wa ziada katika hali fulani; kinyume chake, wahusika dhaifu na wadogo wanaweza kupunguza uharibifu wanaoweza kusababisha. Kirekebishi cha Uharibifu kwa ujumla hutumika katika hali za mapigano lakini kinaweza pia kutumika wakati wa kujaribu kuvunja vitu. Kirekebishi cha Uharibifu ni mirindimo ya kete ya ziada ambayo huongezwa kwa, au kutolewa kutoka kwa, uharibifu unaosababishwa na silaha au kifaa. Ikiwa Kirekebishi hasi cha Uharibifu kitafanya uharibifu wa silaha kuwa sufuri au chini, basi hakuna uharibifu wowote uliofanyika.
 
-Ongeza STR na SIZ pamoja na tazama jedwali la Damage Modifier, hapa chini.
+Jumlisha STR na SIZ na uone jedwali la Kirekebishi cha Uharibifu hapa chini.
 
-##### Jedwali la Damage Modifier
+##### Jedwali la Kirekebishi cha Uharibifu
 
-| STR+SIZ | Damage Modifier |
+| STR+SIZ | Kirekebishi cha Uharibifu |
 | :-: | :-:|
 | 5 au chini | –1d8 |
 | 6–10 | –1d6 |
@@ -102,45 +102,45 @@ Ongeza STR na SIZ pamoja na tazama jedwali la Damage Modifier, hapa chini.
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Kila pointi 10 | Endelea Kuongezeka |
+| Kila pointi 10 | Endeleza Mfululizo |
 
-#### Experience Modifier
+#### Kirekebishi cha Uzoefu (Experience Modifier)
 
-Katika kipindi cha mchezo, wahusika huboresha ujuzi na uwezo wao. Hii inafanikishwa kwa kutumia Experience Rolls ambazo zimefafanuliwa kwa undani zaidi katika sehemu ya [Game System](0004_Game_System.md?id=experience-rolls).
+Katika kipindi cha mchezo wahusika huboresha ujuzi na uwezo wao. Hii hupatikana kwa kutumia Mirindimo ya Uzoefu inayoelezewa kwa kina zaidi katika sehemu ya [Mfumo wa Mchezo](0004_Game_System.md?id=experience-rolls).
 
-Alama ya CHA ya mhusika inaweza kurekebisha idadi ya Experience Rolls ambazo mhusika anapokea, ikionyesha uhusiano walio nao na wenzao na sifa zao katika jamii. Kwa CHA ya juu, watu wako tayari kujitolea kusaidia kutoa mafunzo au kumsaidia mhusika wanapopitia masomo. Kinyume chake, kwa CHA ya chini sana, kunaweza kuwa na ugumu wa kuboresha uwezo wa mtu bila msaada wa wengine; kwa mfano, kupata mtu wa kupigana naye.
+Alama ya CHA ya mhusika inaweza kurekebisha idadi ya Mirindimo ya Uzoefu anayopokea mhusika, ikionyesha uhusiano alionao na wenzake na sifa yake katika jamii. Kwa CHA ya juu watu wako tayari kujitolea kusaidia kutoa mafunzo au kuunga mkono mhusika wakati anapopata elimu. Kinyume chake, kwa CHA ya chini sana, kunaweza kuwa na ugumu wa kuboresha uwezo wa mtu bila msaada wa wengine; kutafuta mtu wa kupambana naye kwa mfano.
 
-##### Jedwali la Experience Modifier
+##### Jedwali la Kirekebishi cha Uzoefu
 
-| CHA | Exp. Modifier |
+| CHA | Kirekebishi cha Uzoefu |
 |:-:| :-:|
 | 6 au chini | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Kila pointi 6 | +1 |
 
-#### Healing Rate
+#### Kiwango cha Uponyaji (Healing Rate)
 
-Baada ya kupokea majeraha, mhusika anahitaji kupona. Healing Rate huamua jinsi wanavyopona haraka kutokana na majeraha. Kulingana na ukali wa jeraha, Healing Rate huashiria pointi ngapi za Hit Points zinazopatikana kwa siku, wiki, au mwezi.
+Baada ya kupata majeraha, mhusika anahitaji kupona. Kiwango cha Uponyaji huamua jinsi anavyopona majeraha haraka kiasili. Kulingana na ukali wa jeraha, Kiwango cha Uponyaji kinaonyesha ni Alama ngapi za Afya zinazopona kwa siku, wiki, au mwezi.
 
-##### Jedwali la Healing Rate
+##### Jedwali la Kiwango cha Uponyaji
 
-| CON | Healing Rate |
+| CON | Kiwango cha Uponyaji |
 | :-:| :-:|
 | 6 au chini | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Kila pointi 6 | +1 |
 
-#### Hit Points
+#### Alama za Afya (Hit Points)
 
-Hit Points huwakilisha kiasi cha jeraha eneo la mwili linaweza kustahimili kabla halijawa lisilofaa, labda kusababisha kutokuwa na uwezo na hatimaye kifo cha mhusika. Mwili wa kila kiumbe umegawanywa katika sehemu tofauti – wanadamu, kwa mfano, wana saba: kichwa, kifua, tumbo, mikono, na miguu – kila eneo likiwa na Hit Points zake.
+Alama za Afya zinawakilisha ni kiasi gani cha jeraha eneo la mwili linaweza kuhimili kabla ya kuwa lisilofaa, labda kusababisha kutoweza kufanya kazi na hatimaye kifo cha mhusika. Mwili wa kila kiumbe umegawanywa katika maeneo tofauti – binadamu, kwa mfano, wana saba: kichwa, kifua, tumbo, mikono, na miguu – kila eneo likiwa na Alama zake za Afya.
 
-Viumbe vingine, kama vile wanyama wakali au aina tofauti za wanyama, kwa asili yao mara nyingi huwa na miundo ya mwili tofauti kabisa, lakini kila eneo walilo nalo bado lina Hit Points. Wakati Hit Points za eneo zinapopunguzwa hadi kiwango fulani kupitia uharibifu wa aina yoyote, basi mhusika hupata matokeo fulani yanayoakisi ukali wa jeraha. Kwa maelezo zaidi kuhusu majeraha tazama sehemu ya [Damage and Wound Levels](0004_Game_System.md?id=damage-and-wound-levels).
+Baadhi ya viumbe, kama vile majini au madarasa tofauti ya wanyama, kwa asili yao mara nyingi huwa na miundo tofauti kabisa ya mwili, lakini kila eneo walilonalo bado lina Alama za Afya. Wakati Alama za Afya za eneo zinaposhushwa hadi kiwango fulani kupitia uharibifu wa aina yoyote, basi mhusika hupata matokeo fulani yanayoonyesha ukali wa jeraha. Kwa habari zaidi kuhusu majeraha angalia sehemu ya [Uharibifu na Viwango vya Majeraha](0004_Game_System.md?id=damage-and-wound-levels).
 
-Ili kuhesabu Hit Points za kila eneo, ongeza CON na SIZ pamoja na ulinganishe matokeo kwenye jedwali la Hit Points, hapo juu.
+Ili kuhesabu Alama za Afya za kila eneo, jumlisha CON na SIZ na uone matokeo kwenye jedwali la Alama za Afya hapo juu.
 
-##### Hit Points kwa Kila Eneo
+##### Alama za Afya kwa Kila Eneo
 
 | Eneo | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
@@ -153,221 +153,221 @@ Ili kuhesabu Hit Points za kila eneo, ongeza CON na SIZ pamoja na ulinganishe ma
 
 #### Initiative
 
-Muda ambao mtu hugusika vitani hudhibitiwa na Initiative. Initiative hufanya kazi kama kirekebishaji cha Initiative rolls; kadri Initiative inavyokuwa juu, ndivyo mtu hugusika haraka zaidi katika hali ya vita, kuamua ni lini unaweza kutenda. Sababu zaidi – silaha kwa mfano – huirekebisha. Sura ya [Combat](0005_Combat.md?id=combat-style) inaeleza kwa undani zaidi jinsi Initiative inavyotumika.
+Wakati ambapo mtu anaitikia katika mapigano hudhibitiwa na Initiative. Initiative hufanya kazi kama kirekebishi kwa mirindimo ya Initiative; kadiri Initiative inavyokuwa ya juu, ndivyo mtu anavyoitikia haraka katika hali ya mapigano, ikiamua wakati unaweza kutenda. Sababu nyingine – silaha za mwili kwa mfano – huibadilisha. Sura ya [Mapigano](0005_Combat.md?id=combat-style) inaingia kwa undani zaidi juu ya jinsi Initiative inavyotumika.
 
 Initiative ni wastani wa Sifa za DEX na INT.
 
-#### Luck Points
+#### Alama za Bahati (Luck Points)
 
-Luck Points huwakilisha nguvu hiyo ya ajabu inayotofautisha mashujaa wa matukio na watu wa kawaida. Iite bahati, karma, au bahati nzuri tu. Luck Points zinaweza kutumika kwa:
+Alama za Bahati zinawakilisha ile nguvu ya ajabu inayotofautisha mashujaa wanaotafuta matukio na watu wa kawaida. Iite hatima, karma, au bahati njema tu. Alama za Bahati zinaweza kutumika:
 
-- Kurusha tena kete ikiwa hazifai.
-- Kupunguza uharibifu wa kimwili au hali zingine mbaya.
-- Kupata faida wakati muhimu katika mapigano.
+- Kutupa kete tena ikiwa hazikupendezi.
+- Kupunguza uharibifu wa kimwili au hali nyingine mbaya.
+- Kupata faida katika wakati muhimu katika mapigano.
 
-Jinsi zinavyotumiwa hasa, na lini, imeelezwa katika sehemu ya [Game System](0004_Game_System.md?id=game-system). Mara Luck Point inapotumiwa, hifadhi hupungua; mtu anapokosa Luck Points, hakuna nyingine zinazopatikana – isipokuwa Games Master atoe tuzo isiyopangwa – hadi kipindi kijacho cha mchezo zitakaporejeshwa kwa thamani yao ya kawaida.
+Jinsi zinavyotumiwa, na wakati gani, imeelezewa katika sehemu ya [Mfumo wa Mchezo](0004_Game_System.md?id=game-system). Mara Alama ya Bahati inapotumiwa, dimbwi hupungua; wakati mtu hana Alama za Bahati, hakuna nyingine zinazopatikana – isipokuwa Msimamizi wa Mchezo (Games Master) atoe zawadi ya ghafla – hadi kikao kijacho cha mchezo wakati zinapojaza tena thamani yake ya kawaida.
 
-##### Jedwali la Luck Points
+##### Jedwali la Alama za Bahati
 
-| POW | Luck Points |
+| POW | Alama za Bahati |
 | :-- | :-: |
 | 6 au chini | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Kila pointi 6 | +1 |
 
-#### Magic Points
+#### Alama za Uchawi (Magic Points)
 
-Uwezo wa fumbo, nguvu na tahajia zinazotumika katika _Mythras_ _Imperative_ kwa kawaida hutegemea Magic Points. Kwa kuwa upatikanaji wa uchawi unaweza kuwa mdogo na mpangilio wa kampeni au kwa taaluma maalum za uchawi, wahusika wengine wataona Sifa hii haina umuhimu.
+Uwezo wa fumbo, nguvu na tahadhari zinazotumiwa katika _Mythras Imperative_ kwa kawaida hutegemea Alama za Uchawi. Kwa kuwa upatikanaji wa uchawi unaweza kuwa mdogo na mazingira ya kampeni au kwa taaluma maalum za kichawi, baadhi ya wahusika wataona Sifa hii ikiwa haina maana.
 
-Kwa wale wanaoweza kutumia nguvu hizo, Magic Points za mhusika ni sawa na POW yao. Pointi hizi hutumika kutupa tahajia, gharama ambayo inategemea aina ya uchawi unaotumika. Wakati watupaji wanapoishiwa na Magic Points, wamechoka uwezo wao wa kutupa tahajia zozote hadi Magic Points zirejeshwe.
+Kwa wale wanaoweza kutumia nguvu hizo, Alama za Uchawi za mhusika ni sawa na POW yake. Pointi hizi hutumika kutupa tahadhari, ambazo gharama yake inategemea aina ya uchawi unaotumiwa. Wakati watupaji wanapoishiwa Alama za Uchawi, wamechoka uwezo wao wa kutupa tahadhari yoyote hadi Alama za Uchawi zijazwe tena.
 
-#### Movement Rate
+#### Kiwango cha Mwendo (Movement Rate)
 
-Kila kiumbe kina Movement Rate – idadi ya mita zinazoweza kusafirishwa wakati maalum. Movement haijahesabiwa kutoka Sifa lakini ni thamani ya msingi ambayo inatofautiana kutoka spishi hadi spishi. Movement Rate ya msingi kwa wanadamu ni mita 6.
+Kila kiumbe kina Kiwango cha Mwendo – idadi ya mita ambazo zinaweza kusafiriwa wakati wa kipindi fulani cha muda. Mwendo hauhesabiwi kutoka kwa Sifa bali ni thamani ya kawaida inayotofautiana kutoka spishi hadi spishi. Kiwango cha msingi cha Mwendo kwa binadamu ni mita 6.
 
-Mienendo ya kasi zaidi kuliko Walk hutumia kizidisho kwa ukadiriaji wa Move:
-- **Run:** Move x3  
-- **Sprint:** Move x5
+Miondoko ya haraka kuliko Kutembea hutumia kirekebishi kwa ukadiriaji wa Mwendo:
+- **Kukimbia (Run):** Mwendo x3
+- **Sprint:** Mwendo x5
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jamii</summary>
 
-_**Mienendo: Walk, Run, Sprint**_
+_**Miondoko: Kutembea, Kukimbia, Sprint**_
 
-_Toleo lililochapishwa la _Mythras Imperative_ halina sheria wazi za kusonga kwa Mienendo tofauti ingawa zimefunikwa katika kitabu cha sheria cha msingi cha Mythras. Vizidisho vya Gait hapo juu vimeongezwa kama sehemu ya Marekebisho ya Jumuiya._ 
+_Toleo lililochapishwa la _Mythras Imperative_ halina kanuni wazi za kusonga kwa Miondoko tofauti ingawa yamefunikwa katika kitabu cha msingi cha sheria za Mythras. Virekebishi vya Miondoko vilivyo hapo juu vimeongezwa kama sehemu ya Errata ya Jamii._
 
-_Pale inapohitajika, inapaswa kutosha kutibu Mienendo kama ifuatavyo:_
+_Pale inapohitajika inapaswa kutosha kutibu Miondoko kama ifuatavyo:_
 
-- _Mienendo ya kasi zaidi kuliko Walk hutumia kizidisho kwa ukadiriaji wa Move: 3x kwa Run, 5x kwa Sprint._
-- _Wakati wa Run au Sprint Gait, wahusika hawawezi kujaribu vitendo vingi vya kutenda kama kushambulia au kutupa tahajia. Baadhi ya vighairi ni pamoja na..._
-  - _Mashambulizi wakati wa kutumia sheria za Charging._
-  - _Kupiga silaha za masafa marefu na sifa ya Skirmishing._ 
-- _Kama sheria ya jumla, vitendo vyovyote vinavyoruhusiwa vinapaswa kutibiwa kama Grade moja ngumu zaidi kufanikiwa kwa Run, na Grade mbili ngumu zaidi kwa Sprint._
+- _Miondoko ya haraka kuliko Kutembea hutumia kirekebishi kwa ukadiriaji wa Mwendo: 3x kwa Kukimbia, 5x kwa Sprint._
+- _Wakati wa Miondoko ya Kukimbia au Sprint, wahusika hawawezi kujaribu vitendo vingi vya kuchukua hatua kama kushambulia au kutupa tahadhari. Baadhi ya vighairi ni pamoja na..._
+  - _Mashambulizi wakati wa kutumia kanuni za Kuchaji._
+  - _Kufyatua silaha za mbali na sifa ya Skirmishing._
+- _Kama kanuni ya jumla, vitendo vyovyote vinavyoruhusiwa vinapaswa kutibiwa kama vigumu kwa Daraja moja kufanikiwa wakati wa Kukimbia, na vigumu kwa Daraja mbili wakati wa Sprint._
 
 
 </details>
 
 ---
-## Hatua ya 4: Ujuzi
+## Hatua ya 4: Ujuzi (Skills)
 
-Ujuzi umegawanyika katika aina mbili. Kila mtu ana ujuzi wa Kawaida – mambo kama vile kujificha au kushawishi wengine. Ujuzi wa Kitaalamu kwa upande mwingine, ni yale yanayohitaji mafunzo maalum kabla ya kujaribiwa – mambo kama vile kufuatilia wanyama pori, kuruka vyombo vya anga, au kuelewa lugha za kale. Wahusika wanapewa makundi matatu ya pointi za kutumia katika kupata ujuzi; kundi la kwanza kwa Utamaduni waliolelewa, la pili kwa Kazi wanayoifanya baada ya utoto, na la mwisho kuimarisha zaidi ujuzi wao. Kama kawaida, wahusika wapya hugawa pointi 100 kwa kundi la ujuzi wa Utamaduni, pointi 100 kwa kundi la ujuzi wa Kazi, na pointi 150 za Ziada kwa kukamilisha. Kila Utamaduni na Kazi ina safu maalum ya ujuzi wa kawaida na wa kitaalamu ambao pointi hizo za ujuzi zinaweza kugawiwa.
+Ujuzi huanguka katika madarasa mawili. Kila mtu ana ujuzi wa Kawaida – vitu kama kujipenyeza au kushawishi wengine. Ujuzi wa Kitaaluma kwa upande mwingine, ni ule unaohitaji mafunzo maalum kabla ya kujaribiwa – vitu kama kufuatilia wanyama pori, kuendesha chombo cha anga, au kuelewa lugha za kale. Wahusika hupewa madimbwi matatu ya pointi za kutumia kupata ujuzi; dimbwi la kwanza kwa ajili ya Utamaduni waliokulia, la pili kwa ajili ya Kazi wanayochukua baada ya utoto, na la mwisho kwa ajili ya kukamilisha seti yao ya ujuzi. Kama msingi, wahusika wapya hupanga pointi 100 kwa dimbwi la ujuzi wa Utamaduni, 100 kwa dimbwi la ujuzi wa Kazi, na pointi 150 za Ziada kwa ajili ya kukamilisha. Kila Utamaduni na Kazi vina upeo maalum wa ujuzi wa kawaida na kitaaluma ambao pointi hizo za ujuzi zinaweza kupangwa.
 
-##### Combat Style
+##### Mtindo wa Mapigano (Combat Style)
 
-Combat Style imeorodheshwa katika maelezo ya Utamaduni yanayofuata. Combat Styles zimefafanuliwa kikamilifu zaidi katika sehemu ya [Combat](0005_Combat.md?id=combat-style) na zina Asilimia ya Msingi sawa na STR+DEX.
+Mtindo wa Mapigano umeorodheshwa katika maelezo ya Kitamaduni yanayofuata. Mitindo ya Mapigano imeelezewa kikamilifu zaidi katika sehemu ya [Mapigano](0005_Combat.md?id=combat-style) na ina Asilimia ya Msingi sawa na STR+DEX.
 
 ##### Ujuzi wa Kawaida
 
 | Ujuzi | Asilimia ya Msingi |
 | :-- | :-- |
-| Riadha | STR+DEX |
+| Riadha (Athletics) | STR+DEX |
 | Kuendesha Boti | STR+CON |
-| Nguvu za Kimwili | STR+SIZ |
-| Kujificha | DEX+POW |
-| Desturi | INT x2, +40\* |
+| Nguvu za Mwili | STR+SIZ |
+| Kuficha (Conceal) | DEX+POW |
+| Desturi (Customs) | INT x2, +40\* |
 | Ngoma | DEX+CHA |
-| Udanganyifu | INT+CHA |
-| Kuendesha | DEX+POW |
-| Ustahimilivu | CON x2 |
-| Kukwepa | DEX x2 |
+| Ulaghai (Deceit) | INT+CHA |
+| Kuendesha Gari | DEX+POW |
+| Ustahimilivu (Endurance) | CON x2 |
+| Kukwepa (Evade) | DEX x2 |
 | Huduma ya Kwanza | INT+DEX |
-| Ushawishi | CHA x2 |
-| Ufahamu | INT+POW |
-| Mahali | INT x2 |
+| Ushawishi (Influence) | CHA x2 |
+| Ufahamu (Insight) | INT+POW |
+| Maarifa ya Eneo (Locale) | INT x2 |
 | Lugha ya Asili | INT+CHA, +40\* |
-| Utambuzi | INT+POW |
-| Kuendesha Farasi | DEX+POW |
+| Utambuzi (Perception) | INT+POW |
+| Kupanda (Ride) | DEX+POW |
 | Kuimba | CHA+POW |
-| Kujipenyeza | DEX+INT |
+| Ujuzi wa Kujificha (Stealth) | DEX+INT |
 | Kuogelea | STR+CON |
 | Bila Silaha | STR+DEX |
-| Utashi | POW x2 |
+| Nguvu ya Utashi (Willpower) | POW x2 |
 
-_\* Inajumuisha bonasi ya kudumu ya +40% kwa Desturi zote mbili na Lugha ya Asili ya mhusika (Kawaida kwa wanadamu)._
-
----
-## Hatua ya 5: Utamaduni
-
-Utamaduni huamua aina ya jamii ambayo mhusika alilelewa, na hivyo huagiza mitazamo na falsafa fulani ambazo anaweza kuwa nazo. Kwa vitendo zaidi, utamaduni husaidia kukuza thamani za ujuzi mbalimbali unaounda uwezo wa jumla wa mhusika wako. Kuna tamaduni nne za msingi za binadamu: Mshenzi, Mstaarabu, Kuhama na Kale. Kila asili ya kitamaduni huorodhesha anuwai ya ujuzi wa Kawaida unaofaa na humwalika mchezaji kuchagua hadi ujuzi tatu wa Kitaalamu kati ya zile zilizowasilishwa: kwa njia hii wachezaji kutoka asili sawa ya kitamaduni wanaweza kuhakikisha kuwa wasafiri wao ni tofauti katika maeneo waliyoyaendeleza. Gawanya pointi 100 za ujuzi wa Utamaduni miongoni mwa ujuzi wa Kawaida ulioorodheshwa na ujuzi wa Kitaalamu uliochaguliwa, ukiongeza kila ujuzi kwa 1% kwa kila pointi iliyotumiwa kuuboresha. Games Masters wanaweza kutaka kuweka kikomo cha pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi fulani.
-
-### Mshenzi
-
-Wenye asili ya kikabila, washenzi huwa wanapuuza ustaarabu, wakiwaona wale wanaoishi katika miji mikubwa na majiji kama dhaifu na fisadi. Ingawa makazi yao wenyewe pia yamekaa, huwa madogo zaidi na karibu na asili. Makabila ya Washenzi hukalia maeneo tofauti, mara nyingi nyika zilizotunzwa nusu, ambazo wanazichukulia kuwa zao kwa ajili ya uwindaji, malisho, na kilimo. Wengi wao ni hodari katika matumizi ya silaha kwani wanapaswa kushinda hatari nyingi katika maisha yao – wakikabiliana na viumbe wa porini au kukusanyika kutetea ardhi zao dhidi ya makabila pinzani. Kwa kuwa wanaishi katika jamii ndogo, vifungo vya undugu na ukoo ni vipengele vyenye nguvu vya jamii yao.
-
-#### Ujuzi
-
-- **Ujuzi wa Kawaida:** Riadha, Nguvu za Kimwili, Ustahimilivu, Huduma ya Kwanza, Mahali, Utambuzi; na aidha Kuendesha Boti au Kuendesha Farasi. Aidha, mchezaji anaweza pia kuchagua Combat Style ya kitamaduni.
-- **Ujuzi wa Kitaalamu:** Ufundi (wowote), Uponyaji, Lore (wowote), Uimbaji, Urambazaji, Uongozaji Meli, Ustahimilivu, Kufuatilia.
-
-### Mstaarabu
-
-Utamaduni wa Mstaarabu unaonyeshwa na taswira ya sheria na utaratibu, uliowekwa chini na kanuni tata za kijamii, na kuungwa mkono na urasimu. Watu wa Kistaarabu wanajiona wao ni bora kuliko tamaduni zingine zote kwa sababu mafanikio yao huwa yanakaa muda mrefu: miji mikubwa, mahekalu makubwa, makaburi ya kuadhimisha, na kurekodi historia na matukio katika vitabu, mawe ya kaburi, na vitabu vya maandishi. Bila shaka, hii ni kifuniko chembamba. Miji ya Kistaarabu zaidi inaweza kuwa haina sheria kuliko makazi yoyote ya Mshenzi; na kanuni za kijamii zinaweza kuwa mbaya zaidi kuliko mila za ukarimu za wahamaji. Lakini utamaduni wa Kistaarabu unajivunia mafanikio yake, miundombinu yake, mafundi wake wa kitaalamu, na uwezo wake wa kupanua kwa urahisi kufikia popote panapotaka kwenda.
-
-#### Ujuzi
-
-- **Ujuzi wa Kawaida:** Kujificha, Udanganyifu, Kuendesha, Ushawishi, Ufahamu, Mahali, Utashi. Aidha, mchezaji anaweza pia kuchagua Combat Style ya kitamaduni.
-- **Ujuzi wa Kitaalamu:** Sanaa (yoyote), Biashara, Ufundi (wowote), Adabu, Lugha (yoyote), Lore (wowote), Uimbaji, Ujuzi wa Mitaani.
-
-### Kuhama
-
-Watu wahamaji huendelea kusafiri, bila makazi ya kudumu kuita yao. Wanaweza kuzunguka-zunguka bila malengo au wanaweza kuwa na kambi kadhaa wanazohamia mwaka mzima. Wanalima mazao machache na badala yake hufuata uhamiaji wa wanyama au samaki, labda hata kufuga wanyama wao wa kufugwa. Wahamaji ni hodari katika kujikimu kwa kile wanachoweza kukusanya haraka na kwa urahisi kutoka mazingira yao, bila kuruhusu chochote kiende bure. Ujuzi wa utamaduni wa wahamaji unapaswa kurekebishwa kulingana na mazingira yao. Baadhi husafiri umbali mrefu kwa miguu, wengine huishi kwenye misafara au huendesha viumbe wa ajabu, na wengine huelea juu ya bahari kwenye rafts kubwa za kuelea.
-
-#### Ujuzi
-
-- **Ujuzi wa Kawaida:** Ustahimilivu, Huduma ya Kwanza, Mahali, Utambuzi, Kujipenyeza; na miwili kati ya yafuatayo: Riadha, Kuendesha Boti, Kuogelea, Kuendesha au Kuendesha Farasi kulingana na njia kuu ya kusafiri. Aidha, mchezaji anaweza pia kuchagua Combat Style ya kitamaduni.
-- **Ujuzi wa Kitaalamu:** Ufundi (wowote), Utamaduni (wowote), Lugha (yoyote), Lore (wowote), Uimbaji, Urambazaji, Ustahimilivu, Kufuatilia.
-
-### Kale
-
-Kati ya watu wote, Watu wa Kale ndio wanaoishi karibu zaidi na ardhi, wakiendana na siri zake zilizofichwa. Wakiishi katika vikundi vya familia vilivyopanuliwa, tamaduni za kale hujikusanya karibu na makazi rahisi sana ambayo yanaweza kuanzia mapango na maeneo ya makazi asilia hadi vibanda au vibanda rahisi sana. Watu wa Kale kwa kawaida ni wawindaji-wakusanyaji walio na mifumo michache, au isiyoendelea vizuri, ya kilimo na ufugaji.
-
-Hata hivyo, imani fulani za kitamaduni, mara nyingi zinazotokana na ushirikina, zinaweza kufafanuliwa vizuri sana. Tamaduni chache za kale zimeendeleza kitu chochote kinachofanana na lugha iliyoandikwa ingawa michoro na alama zingine za picha hutumika kama njia ya mawasiliano.
-
-#### Ujuzi
-
-- **Ujuzi wa Kawaida:** Nguvu za Kimwili, Ustahimilivu, Kukwepa, Mahali, Utambuzi, Kujipenyeza; na moja kati ya Riadha, Kuendesha Boti au Kuogelea. Aidha, mchezaji anaweza pia kuchagua Combat Style ya kitamaduni.
-- **Ujuzi wa Kitaalamu:** Ufundi (wowote), Uponyaji, Lore (wowote), Uimbaji, Urambazaji, Ustahimilivu, Kufuatilia.
+_\* Inajumuisha bonasi tuli ya +40% kwa Desturi na Lugha ya Asili ya mhusika (Kawaida kwa binadamu)._
 
 ---
-## Hatua ya 6: Kazi
+## Hatua ya 5: Utamaduni (Culture)
 
-Kila mhusika huanza mchezo akiwa amefunzwa katika kazi. Kazi iliyochaguliwa inaweza isiwe lazima ile ambayo mhusika anaendelea kuifuata wakati mhusika anaanza maisha ya usafiri, lakini ni kazi iliyoanzishwa kama sehemu ya mpito kwenda utu uzima na inafafanua zaidi maendeleo ya ujuzi. Kila kazi inawasilisha anuwai ya ujuzi wa Kawaida unaofaa na inaruhusu mchezaji kuchagua hadi ujuzi tatu wa Kitaalamu kati ya zile zilizoorodheshwa. Gawanya pointi 100 za Ujuzi wa Kazi miongoni mwa ujuzi wa Kawaida ulioorodheshwa na ujuzi wa Kitaalamu uliochaguliwa, ukiongeza kila ujuzi kwa 1% kwa kila pointi iliyotumiwa kuuboresha. Kama ilivyo kwa tamaduni, Games Master anaweza kuweka kikomo cha pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi fulani.
+Utamaduni huamua aina ya jamii ambayo mhusika alilelewa, na kwa hivyo huamuru mitazamo na falsafa fulani ambazo anaweza kuwa nazo. Kwa vitendo zaidi, utamaduni husaidia kuongeza thamani za ujuzi mbalimbali unaounda uwezo wa jumla wa mhusika wako. Kuna tamaduni nne za msingi za kibinadamu: Mshenzi (Barbarian), Mstaarabu (Civilized), Mhamaji (Nomadic) na Wa kale (Primitive). Kila historia ya kitamaduni huorodhesha anuwai ya ujuzi wa Kawaida unaofaa kwake na kumwalika mchezaji kuchagua hadi ujuzi tatu kati ya ujuzi wa Kitaaluma uliowasilishwa: kwa njia hii wachezaji kutoka historia moja ya kitamaduni wanaweza kuhakikisha kuwa wasafiri wao ni tofauti katika maeneo waliyoyaendeleza. Gawa pointi 100 za ujuzi wa Utamaduni kati ya ujuzi wa Kawaida wa kazi iliyoorodheshwa na ujuzi wowote wa Kitaaluma uliochaguliwa, ukiongeza kila ujuzi kwa 1% kwa kila pointi inayotumika kuiboresha. Wasimamizi wa Mchezo wanaweza kutaka kutumia kikomo kwa pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi wowote maalum.
 
-Ujuzi maalum wa Kitaalamu, kama vile Pilot, huenda usipatikane katika ulimwengu wa njozi. Ujuzi umejadiliwa kikamilifu zaidi katika sura ya [Skills](0002_Characters.md?id=step-4-skills).
+### Mshenzi (Barbarian)
+
+Wakiwa na asili ya kikabila, washenzi huelekea kuikataa ustaarabu, wakiwaona wale wanaoishi katika miji mikubwa na miji kama dhaifu na wafisadi. Ingawa makazi yao wenyewe pia yamekaa sehemu moja, huwa ni madogo sana na karibu zaidi na asili. Makabila ya washenzi yanachukua maeneo tofauti, mara nyingi pori lililofugwa nusu, ambalo wanachukulia kuwa lao kwa ajili ya uwindaji, malisho, na kilimo. Wengi wana ujuzi katika matumizi ya silaha kwani lazima washinde hatari nyingi katika maisha yao yote – wakikabiliana na viumbe wa porini au kukusanyika kutetea ardhi yao dhidi ya makabila pinzani. Kwa kuwa wanaishi katika jamii ndogo, uhusiano wa ukoo na kabila ni mambo yenye nguvu katika jamii yao.
+
+#### Ujuzi
+
+- **Ujuzi wa Kawaida:** Riadha, Nguvu za Mwili, Ustahimilivu, Huduma ya Kwanza, Maarifa ya Eneo, Utambuzi; na ama Kuendesha Boti au Kupanda. Aidha, mchezaji anaweza pia kuchagua Mtindo wa Mapigano wa kitamaduni.
+- **Ujuzi wa Kitaaluma:** Ufundi (wowote), Uponyaji, Maarifa (yoyote), Muziki, Urambazaji (Navigation), Uanamaji (Seamanship), Uokoaji (Survival), Kufuatilia (Track).
+
+### Mstaarabu (Civilized)
+
+Utamaduni wa Kistaarabu unawakilishwa na mwonekano wa sheria na utaratibu, unaoungwa mkono na kanuni ngumu za kijamii, na kusaidiwa na urasimu. Watu wa Kistaarabu wanajiona kuwa bora kuliko tamaduni nyingine zote kwa sababu mafanikio yao huelekea kwenye kudumu: miji iliyoenea, mahekalu ya kuvutia, makaburi ya sherehe, na kurekodi historia na matukio katika vitabu, mawe ya makaburi, na maandishi. Bila shaka, huu ni mwonekano mwembamba. Miji ya Kistaarabu zaidi inaweza kuwa na vurugu zaidi kuliko makazi yoyote ya mpakani ya Washenzi; na kanuni za kijamii zinaweza kuwa mbaya zaidi kuliko mila za ukarimu za wahamaji. Lakini utamaduni wa Kistaarabu unajivunia mafanikio yake, miundombinu yake, mafundi wake wa kitaaluma, na uwezo wake wa kupanua wigo wake kwa urahisi popote inapotaka kwenda.
+
+#### Ujuzi
+
+- **Ujuzi wa Kawaida:** Kuficha, Ulaghai, Kuendesha Gari, Ushawishi, Ufahamu, Maarifa ya Eneo, Nguvu ya Utashi. Aidha, mchezaji anaweza pia kuchagua Mtindo wa Mapigano wa kitamaduni.
+- **Ujuzi wa Kitaaluma:** Sanaa (yoyote), Biashara, Ufundi (wowote), Ustaarabu (Courtesy), Lugha (yoyote), Maarifa (yoyote), Muziki, Ujuzi wa Mitaani (Streetwise).
+
+### Mhamaji (Nomadic)
+
+Watu wahamaji wako kwenye mwendo kila wakati, bila nyumba na makao ya kuita yao. Wanaweza kutangatanga bila malengo au wanaweza kuwa na kambi kadhaa wanazohamia na kutoka kwa mwaka mzima. Wanalima mazao kidogo na badala yake hufuata uhamiaji wa wanyama au samaki, labda hata kufuga wanyama wao waliofugwa. Wahamaji wana ujuzi katika kujikimu kwa kile wanachoweza kuchota haraka na kwa urahisi kutoka kwenye mazingira yao, bila kuruhusu kitu chochote kupotea. Ujuzi wa utamaduni wa mhamaji unapaswa kurekebishwa kulingana na mazingira yao. Wengine husafiri umbali mrefu kwa miguu, wengine wanaishi katika misafara au hupanda viumbe wa ajabu, na wengine huelea kwenye bahari kwenye rafts kubwa zinazoelea.
+
+#### Ujuzi
+
+- **Ujuzi wa Kawaida:** Ustahimilivu, Huduma ya Kwanza, Maarifa ya Eneo, Utambuzi, Ujuzi wa Kujificha; na mbili kati ya zifuatazo: Riadha, Kuendesha Boti, Kuogelea, Kuendesha Gari au Kupanda kulingana na njia kuu ya usafiri. Aidha, mchezaji anaweza pia kuchagua Mtindo wa Mapigano wa kitamaduni.
+- **Ujuzi wa Kitaaluma:** Ufundi (wowote), Utamaduni (wowote), Lugha (yoyote), Maarifa (yoyote), Muziki, Urambazaji, Uokoaji, Kufuatilia.
+
+### Wa kale (Primitive)
+
+Kati ya watu wote, wa kale ni wale wanaoishi karibu zaidi na ardhi, wakiwa katika maelewano na siri zake zilizofichika. Wakiishi katika makundi makubwa ya familia, tamaduni za kale hukusanyika karibu na makao rahisi sana ambayo yanaweza kuanzia mapango na maeneo ya hifadhi ya asili hadi vibanda au vibanda rahisi sana. Wa kale kwa kawaida ni wawindaji-wakusanyaji walio na mifumo michache, au iliyoendelezwa vibaya, ya kilimo na ufugaji.
+
+Hata hivyo, imani fulani za kitamaduni, mara nyingi kulingana na ushirikina, zinaweza kufafanuliwa vizuri sana. Tamaduni chache za kale zimeendeleza chochote kinachokaribia lugha iliyoandikwa ingawa uchoraji na alama nyingine za picha hutumika kama njia ya mawasiliano.
+
+#### Ujuzi
+
+- **Ujuzi wa Kawaida:** Nguvu za Mwili, Ustahimilivu, Kukwepa, Maarifa ya Eneo, Utambuzi, Ujuzi wa Kujificha; na moja kati ya Riadha, Kuendesha Boti au Kuogelea. Aidha, mchezaji anaweza pia kuchagua Mtindo wa Mapigano wa kitamaduni.
+- **Ujuzi wa Kitaaluma:** Ufundi (wowote), Uponyaji, Maarifa (yoyote), Muziki, Urambazaji, Uokoaji, Kufuatilia.
+
+---
+## Hatua ya 6: Kazi (Career)
+
+Kila mhusika huanza mchezo akiwa amefunzwa katika kazi. Kazi iliyochaguliwa haipaswi kuwa ile ambayo mhusika anaendelea kuifuata wakati mhusika anaanza maisha ya kusafiri, lakini ni kazi iliyoanzishwa kama sehemu ya mpito kwenda utu uzima na inafafanua zaidi maendeleo ya ujuzi. Kila kazi inatoa anuwai ya ujuzi wa Kawaida unaofaa kwake na kumruhusu mchezaji kuchagua hadi ujuzi tatu kati ya ujuzi wa Kitaaluma uliorodheshwa. Gawa pointi 100 za Ujuzi wa Kazi kati ya ujuzi wa Kawaida wa kazi iliyoorodheshwa na ujuzi wowote wa Kitaaluma uliochaguliwa, ukiongeza kila ujuzi kwa 1% kwa kila pointi inayotumika kuiboresha. Kama ilivyo kwa tamaduni, Msimamizi wa Mchezo anaweza kutumia kikomo kwa pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi wowote maalum.
+
+Ujuzi maalum wa Kitaaluma, kama vile Rubani, hauwezekani kupatikana katika ulimwengu wa njozi. Ujuzi umejadiliwa kwa kina zaidi katika sura ya [Ujuzi](0002_Characters.md?id=step-4-skills).
 
 #### Jedwali la Kazi
 
-| Jina la Kazi | Ujuzi wa Kawaida | Ujuzi wa Kitaalamu |
+| Jina la Kazi | Ujuzi wa Kawaida | Ujuzi wa Kitaaluma |
 | :-- | :-- | :-- |
-| Agent (Mchochezi, Muuaji, Mpelelezi, Mtoa Taarifa, Jasusi…) | Kujificha, Udanganyifu, Kukwepa, Ufahamu, Utambuzi, Kujipenyeza; Combat Style (Agent Maalum au Mtindo wa Kitamaduni) | Utamaduni (wowote), Kujificha, Lugha (yoyote), Ustadi, Ujuzi wa Mitaani, Ustahimilivu, Kufuatilia |
-| Beast Handler (Mfuga Wanyama, Mfunza Wanyama, Mlinzi wa Menagerie…) | Kuendesha, Ustahimilivu, Huduma ya Kwanza, Ushawishi, Mahali, Kuendesha Farasi, Utashi | Ufundi (Ufugaji wa Wanyama), Biashara, Uponyaji (Spishi Maalum), Lore (Spishi Maalum), Ustahimilivu, Kufundisha (Spishi Maalum), Kufuatilia |
-| Bounty Hunter (Agent wa kutekeleza dhamana, Muuaji wa zawadi, Mwindaji wa vichwa, Mfuatiliaji wa waliokimbia dhamana…) | Riadha, Ustahimilivu, Kukwepa, Ufahamu, Utambuzi, Kujipenyeza; Combat Style (yoyote) | Urasimu, Biashara, Utamaduni (wowote), Lugha, Ujuzi wa Mitaani, Ustahimilivu (wowote), Kufuatilia |
-| Courtesan (Suria, Escort, Msichana wa Harem, Houri, Mpenzi…) | Desturi, Ngoma, Udanganyifu, Ushawishi, Ufahamu, Utambuzi, Kuimba | Sanaa (yoyote), Adabu, Utamaduni (wowote), Kamari, Lugha (yoyote), Uimbaji, Ushawishi wa Kimapenzi |
-| Crafter (Mvumbuzi, Fundi…) | Nguvu za Kimwili, Kuendesha, Ushawishi, Ufahamu, Mahali, Utambuzi, Utashi | Sanaa (yoyote), Biashara, Ufundi (Msingi), Ufundi (Pili), Uhandisi, Mitambo, Ujuzi wa Mitaani |
-| Detective (Mpelelezi, Polisi, Mpelelezi Binafsi, Mtafiti wa Siri…) | Desturi, Kukwepa, Ushawishi, Ufahamu, Utambuzi, Kujipenyeza; Combat Style (Bila Silaha au Mtindo wa Silaha Ndogo) | Urasimu, Utamaduni (wowote), Kujificha, Lugha, Lore (wowote), Utafiti, Ustadi, Ujuzi wa Mitaani |
-| Entertainer (Mwanariadha, Mshairi, Mchezaji, Mwigizaji, Mtunzi wa Nyimbo…) | Riadha, Nguvu za Kimwili, Ngoma, Udanganyifu, Ushawishi, Ufahamu, Kuimba | Acrobatics, Uigizaji, Hotuba, Uimbaji, Ushawishi wa Kimapenzi, Ustadi, Ujuzi wa Mitaani |
-| Farmer (Mmiliki wa Shamba, Mkulima, Mlimaji…) | Riadha, Nguvu za Kimwili, Kuendesha, Ustahimilivu, Mahali, Utambuzi, Kuendesha Farasi | Biashara, Ufundi (wowote), Lore (Kilimo), Lore (Ufugaji wa Wanyama), Urambazaji, Ustahimilivu, Kufuatilia |
-| Fisher (Mwindaji wa Pwani, Mtunza Nyavu, Mvuvi wa Lulu, Mwindaji wa Nyangumi…) | Riadha, Kuendesha Boti, Ustahimilivu, Mahali, Utambuzi, Kujipenyeza, Kuogelea | Biashara, Ufundi (Wowote), Lore (Mavuno Msingi), Lore (Mavuno Pili), Urambazaji, Uongozaji Meli, Ustahimilivu |
-| Gambler (Mtoza Beti, Mtaalamu wa Kadi, Mlaghai…) | Riadha, Nguvu za Kimwili, Ustahimilivu, Mahali, Utambuzi, Utashi; na aidha Kuendesha au Kuendesha Farasi | Uigizaji, Urasimu, Biashara, Adabu, Kamari, Utafiti, Ustadi, Ujuzi wa Mitaani |
-| Herder (Mfuga Wanyama, Mchunga Wanyama, Mtunza Mabata Matakatifu, Mchungaji…) | Ustahimilivu, Huduma ya Kwanza, Ufahamu, Mahali, Utambuzi, Kuendesha Farasi; Combat Style (Ufugaji Maalum au Mtindo wa Kitamaduni) | Biashara, Ufundi (Ufugaji wa Wanyama), Uponyaji (Spishi Maalum), Urambazaji, Uimbaji, Ustahimilivu, Kufuatilia |
-| Hunter (Mlinzi wa Msitu, Mwindaji Haramu, Mkusanyaji, Mfuatiliaji, Mtega Mitego…) | Riadha, Ustahimilivu, Mahali, Utambuzi, Kuendesha Farasi, Kujipenyeza; Combat Style (Uwindaji Maalum au Mtindo wa Kitamaduni) | Biashara, Ufundi (Uhusiano na Uwindaji), Lore (Kikanda au Spishi Maalum), Mitambo, Urambazaji, Ustahimilivu, Kufuatilia |
-| Journalist (Mchambuzi, Mwandishi, Mtafuta Habari, Mwandishi wa Habari…) | Desturi, Udanganyifu, Ushawishi, Ufahamu, Mahali, Lugha ya Asili, Utambuzi | Urasimu, Utamaduni (wowote), Lugha (yoyote), Lore (wowote), Hotuba, Siasa, Ujuzi wa Mitaani |
-| Magician (Mchawi, Mlozi, Mchawi, Mganga…) | Desturi, Udanganyifu, Ushawishi, Ufahamu, Mahali, Utambuzi, Utashi | Utamaduni, Uchawi, Kusoma na Kuandika, Lore x2, Hotuba, Ustadi |
-| Mechanic (Mhandisi, Fundi Magari…) | Nguvu za Kimwili, Utamaduni, Kuendesha, Ustahimilivu, Ushawishi, Mahali, Utashi | Biashara, Ufundi (msingi), Ufundi (pili), Elektroniki, Kamari, Mitambo, Ujuzi wa Mitaani |
-| Merchant (Broker, Muuza Rejareja, Mkopeshaji, Mtoroshaji, Mfanyabiashara… | Kuendesha Boti, Kuendesha, Udanganyifu, Ufahamu, Ushawishi, Mahali, Kuendesha Farasi | Biashara, Adabu, Utamaduni (wowote), Lugha (yoyote), Urambazaji, Uongozaji Meli, Ujuzi wa Mitaani |
-| Miner (Mtafuta Madini, Mchimba Mawe, Mhandisi wa Kijeshi, Mchimba Visima…) | Riadha, Nguvu za Kimwili, Ustahimilivu, Mahali, Utambuzi, Kuimba, Utashi | Biashara, Ufundi (Uchimbaji Madini), Uhandisi, Lore (Madini), Mitambo, Urambazaji (Chini ya Ardhi), Ustahimilivu |
-| Official (Waziri, Msimamizi, Wakili, Mkusanyaji Ushuru…) | Desturi, Udanganyifu, Ushawishi, Ufahamu, Mahali, Utambuzi, Utashi | Urasimu, Biashara, Adabu, Lugha (yoyote), Kusoma na Kuandika, Lore (wowote), Hotuba |
-| Physician (Daktari, Mponyaji, Mganga, Mtesaji, Mtafiti wa Maiti…) | Ngoma, Huduma ya Kwanza, Ushawishi, Ufahamu, Mahali, Kuimba, Utashi | Biashara, Ufundi (Utaalamu Maalum wa Fiziolojia), Uponyaji, Lugha (yoyote), Kusoma na Kuandika (yoyote), Lore (yoyote), Ujuzi wa Mitaani |
-| Pilot (Rubani, Mwanaanga, Rubani wa Majaribio…) | Nguvu za Kimwili, Kuendesha, Ustahimilivu, Kukwepa, Mahali, Utambuzi, Utashi | Desturi (wowote), Elektroniki, Mitambo, Urambazaji, Pilot, Sensors, Ujuzi wa Mitaani |
-| Politician (Mtumishi wa Umma, Mandarin, Waziri, Msimamizi, Wakili…) | Desturi, Udanganyifu, Ushawishi, Ufahamu, Mahali, Lugha ya Asili, Utambuzi | Urasimu, Adabu, Utamaduni (wowote), Lugha (yoyote), Lore (wowote), Hotuba, Siasa |
-| Priest (Mwamuzi, Mfuasi wa Dini, Druid, Mtawa, Nabii…) | Desturi, Ngoma, Udanganyifu, Ushawishi, Ufahamu, Mahali, Utashi | Urasimu, Adabu, Desturi, Kusoma na Kuandika (yoyote), Lore (yoyote), Hotuba, Siasa |
-| Sailor (Kapteni, Mtumwa wa Galley, Baharia, Pirate, Mtu wa Raft…) | Riadha, Kuendesha Boti, Nguvu za Kimwili, Ustahimilivu, Mahali, Kuogelea; Combat Style (Baharia Maalum au Mtindo wa Kitamaduni) | Ufundi (Utaalamu Maalum wa Meli), Utamaduni (wowote), Lugha (yoyote), Lore (wowote), Urambazaji, Uongozaji Meli, Ustahimilivu |
-| Scholar (Mwandishi wa Habari, Mkumbukaji, Mwanafalsafa, Skald, Mwandishi…) | Desturi, Ushawishi, Ufahamu, Mahali, Lugha ya Asili, Utambuzi, Utashi | Utamaduni (wowote), Lugha (yoyote), Kusoma na Kuandika (yoyote), Lore (Msingi), Lore (Pili), Hotuba, Kufundisha |
-| Scientist (Mwandishi wa Kumbukumbu, Mkumbukaji, Mwanafalsafa…) | Desturi, Ushawishi, Ufahamu, Mahali, Lugha ya Asili, Utambuzi, Utashi | Utamaduni (wowote), Uhandisi, Lugha (yoyote), Hotuba, Utafiti, Sayansi (yoyote), Kufundisha |
-| Scout (Mwindaji wa Zawadi, Mchunguzi, Painia, Mlinzi wa Msitu, Msafiri…) | Riadha, Ustahimilivu, Huduma ya Kwanza, Utambuzi, Kujipenyeza, Kuogelea; Combat Style (Uwindaji Maalum au Mtindo wa Kitamaduni) | Utamaduni (wowote), Uponyaji, Lugha (yoyote), Lore (wowote), Urambazaji, Ustahimilivu, Kufuatilia |
-| Servant (Msaidizi, Butler, Dereva, Mfanyakazi wa Nyumbani, Mlezi, Majordomo, Mhudumu, Msaidizi Binafsi, Katibu…) | Desturi, Udanganyifu, Kuendesha, Ushawishi, Ufahamu, Mahali, Utambuzi | Urasimu, Adabu, Ufundi (kuhusiana na huduma), Utamaduni (wowote), Lugha (yoyote), Siasa, Ujuzi wa Mitaani |
-| Smuggler (Mfanyabiashara wa Magendo, Mlaghai, Mleta Bunduki Kinyemela…) | Kujificha, Desturi, Udanganyifu, Kuendesha, Ushawishi, Ufahamu, Mahali | Urasimu, Biashara, Desturi (wowote), Lugha (yoyote), Urambazaji, Uongozaji Meli, Ujuzi wa Mitaani; na aidha Astrogation au Uongozaji Meli |
-| Technician (Fundi Umeme, Msaidizi wa Maabara…) | Nguvu za Kimwili, Kuendesha, Ustahimilivu, Ushawishi, Mahali, Utambuzi, Utashi | Comms, Ufundi (wowote), Elektroniki, Kamari, Mitambo, Sayansi (yoyote), Sensors |
-| Thief (Mnyang'anyi, Mlaghai, Mpokeaji Mali za Wizi, Mnyang'anyi, Mpora Makaburi…) | Riadha, Udanganyifu, Kukwepa, Ufahamu, Utambuzi, Kujipenyeza; Combat Style (Mnyang'anyi Maalum au Mtindo wa Kitamaduni) | Uigizaji, Biashara, Kujificha, Kufungua Kufuli, Mitambo, Ustadi, Ujuzi wa Mitaani |
-| Warrior (Mlinzi, Mtu wa Kulipwa, Mpiganaji wa Uwanjani, Askari…) | Riadha, Nguvu za Kimwili, Ustahimilivu, Kukwepa, Bila Silaha; Combat Style (Mtindo wa Kijeshi), Combat Style (Mtindo wa Kitamaduni) | Ufundi (wowote), Uhandisi, Kamari, Lore (Historia ya Kijeshi), Lore (Mkakati na Mbinu), Hotuba, Ustahimilivu |
+| Wakala (Mchochezi, Mwuaji, Mpelelezi, Mtoa taarifa, Jasusi…) | Kuficha, Ulaghai, Kukwepa, Ufahamu, Utambuzi, Ujuzi wa Kujificha; Mtindo wa Mapigano (Mtindo maalum wa Wakala au Kitamaduni) | Utamaduni (wowote), Kujificha, Lugha (yoyote), Ujanja, Ujuzi wa Mitaani, Uokoaji, Kufuatilia |
+| Mfugaji Wanyama (Mfugaji, Mfunzaji wa Wanyama, Mlinzi wa Menagerie…) | Kuendesha Gari, Ustahimilivu, Huduma ya Kwanza, Ushawishi, Maarifa ya Eneo, Kupanda, Nguvu ya Utashi | Ufundi (Ufugaji Wanyama), Biashara, Uponyaji (Spishi Maalum), Maarifa (Spishi Maalum), Uokoaji, Kufundisha (Spishi Maalum), Kufuatilia |
+| Mwindaji wa Fadhila (Afisa wa dhamana, Mwuaji wa fadhila, Mwindaji wa vichwa…) | Riadha, Ustahimilivu, Kukwepa, Ufahamu, Utambuzi, Ujuzi wa Kujificha; Mtindo wa Mapigano (wowote) | Urasimu, Biashara, Utamaduni (wowote), Isimu, Ujuzi wa Mitaani, Uokoaji (wowote), Kufuatilia |
+| Kahaba (Mke wa pili, Msindikizaji, Msichana wa harem, Paramour…) | Desturi, Ngoma, Ulaghai, Ushawishi, Ufahamu, Utambuzi, Kuimba | Sanaa (yoyote), Ustaarabu, Utamaduni (wowote), Kamari, Lugha (yoyote), Muziki, Ushawishi wa kimapenzi |
+| Fundi (Artificer, Artisan…) | Nguvu za Mwili, Kuendesha Gari, Ushawishi, Ufahamu, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi | Sanaa (yoyote), Biashara, Ufundi (Msingi), Ufundi (Sekondari), Uhandisi, Mitambo, Ujuzi wa Mitaani |
+| Mpelelezi (Polisi, Mpelelezi wa Kibinafsi…) | Desturi, Kukwepa, Ushawishi, Ufahamu, Utambuzi, Ujuzi wa Kujificha; Mtindo wa Mapigano (Bila silaha au Silaha za pembeni) | Urasimu, Utamaduni (wowote), Kujificha, Isimu, Maarifa (yoyote), Utafiti, Ujanja, Ujuzi wa Mitaani |
+| Mburudishaji (Acrobat, Bard, Dansa, Mwigizaji, Mshairi…) | Riadha, Nguvu za Mwili, Ngoma, Ulaghai, Ushawishi, Ufahamu, Kuimba | Akrobatiki, Uigizaji, Uzungumzaji, Muziki, Ushawishi wa kimapenzi, Ujanja, Ujuzi wa Mitaani |
+| Mkulima (Mmiliki wa shamba, Mtunza bustani, Mlimaji…) | Riadha, Nguvu za Mwili, Kuendesha Gari, Ustahimilivu, Maarifa ya Eneo, Utambuzi, Kupanda | Biashara, Ufundi (wowote), Maarifa (Kilimo), Maarifa (Ufugaji Wanyama), Urambazaji, Uokoaji, Kufuatilia |
+| Mvuvi (Mvuvi wa pwani, Mtunza nyavu, Mtafuta lulu, Mwindaji nyangumi…) | Riadha, Kuendesha Boti, Ustahimilivu, Maarifa ya Eneo, Utambuzi, Ujuzi wa Kujificha, Kuogelea | Biashara, Ufundi (Wowote), Maarifa (Samaki Mkuu), Maarifa (Samaki Sekondari), Urambazaji, Uanamaji, Uokoaji |
+| Mkamari (Bookie, Mchezaji kadi, Hustler…) | Riadha, Nguvu za Mwili, Ustahimilivu, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi; na ama Kuendesha Gari au Kupanda | Uigizaji, Urasimu, Biashara, Ustaarabu, Kamari, Utafiti, Ujanja, Ujuzi wa Mitaani |
+| Mchungaji (Mfugaji, Mlinzi wa wanyama…) | Ustahimilivu, Huduma ya Kwanza, Ufahamu, Maarifa ya Eneo, Utambuzi, Kupanda; Mtindo wa Mapigano (Mtindo maalum wa Ufugaji au Kitamaduni) | Biashara, Ufundi (Ufugaji Wanyama), Uponyaji (Spishi Maalum), Urambazaji, Muziki, Uokoaji, Kufuatilia |
+| Mwindaji (Forester, Poacher, Scavenger, Stalker, Trapper…) | Riadha, Ustahimilivu, Maarifa ya Eneo, Utambuzi, Kupanda, Ujuzi wa Kujificha; Mtindo wa Mapigano (Mtindo maalum wa Uwindaji au Kitamaduni) | Biashara, Ufundi (Kuhusiana na Uwindaji), Maarifa (Kikanda au Spishi Maalum), Mitambo, Urambazaji, Uokoaji, Kufuatilia |
+| Mwandishi wa Habari (Mtoa maoni, Hack, Newshound…) | Desturi, Ulaghai, Ushawishi, Ufahamu, Maarifa ya Eneo, Lugha ya Asili, Utambuzi | Urasimu, Utamaduni (wowote), Lugha (yoyote), Maarifa (yoyote), Uzungumzaji, Siasa, Ujuzi wa Mitaani |
+| Mchawi (Mage, Sorcerer, Mchawi, Wizard…) | Desturi, Ulaghai, Ushawishi, Ufahamu, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi | Utamaduni, Uchawi, Kusoma na Kuandika, Maarifa x2, Uzungumzaji, Ujanja |
+| Fundi Mitambo (Mhandisi…) | Nguvu za Mwili, Utamaduni, Kuendesha Gari, Ustahimilivu, Ushawishi, Maarifa ya Eneo, Nguvu ya Utashi | Biashara, Ufundi (Msingi), Ufundi (Sekondari), Elektroniki, Kamari, Mitambo, Ujuzi wa Mitaani |
+| Mfanyabiashara (Broker, Hawker, Mtoa mikopo, Smuggler, Trader…) | Kuendesha Boti, Kuendesha Gari, Ulaghai, Ufahamu, Ushawishi, Maarifa ya Eneo, Kupanda | Biashara, Ustaarabu, Utamaduni (wowote), Lugha (yoyote), Urambazaji, Uanamaji, Ujuzi wa Mitaani |
+| Mchimbaji (Mtafutaji wa madini, Quarryman, Sapper…) | Riadha, Nguvu za Mwili, Ustahimilivu, Maarifa ya Eneo, Utambuzi, Kuimba, Nguvu ya Utashi | Biashara, Ufundi (Uchimbaji madini), Uhandisi, Maarifa (Madini), Mitambo, Urambazaji (Chini ya ardhi), Uokoaji |
+| Afisa (Waziri, Msimamizi, Mhudumu, Mtoza ushuru…) | Desturi, Ulaghai, Ushawishi, Ufahamu, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi | Urasimu, Biashara, Ustaarabu, Lugha (yoyote), Kusoma na Kuandika, Maarifa (yoyote), Uzungumzaji |
+| Daktari (Mponyaji, Mganga, Torturer, Vivisectionist…) | Ngoma, Huduma ya Kwanza, Ushawishi, Ufahamu, Maarifa ya Eneo, Kuimba, Nguvu ya Utashi | Biashara, Ufundi (Utaalamu Maalum wa Kisaikolojia), Uponyaji, Lugha (yoyote), Kusoma na Kuandika (yoyote), Maarifa (yoyote), Ujuzi wa Mitaani |
+| Rubani (Aeronaut, Astronaut, Barnstormer, Flyboy…) | Nguvu za Mwili, Kuendesha Gari, Ustahimilivu, Kukwepa, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi | Desturi (yoyote), Elektroniki, Mitambo, Urambazaji, Urubani, Sensor, Ujuzi wa Mitaani |
+| Mwanasiasa (Mtumishi wa umma, Mandarin, Waziri, Msimamizi…) | Desturi, Ulaghai, Ushawishi, Ufahamu, Maarifa ya Eneo, Lugha ya Asili, Utambuzi | Urasimu, Ustaarabu, Utamaduni (wowote), Lugha (yoyote), Maarifa (yoyote), Uzungumzaji, Siasa |
+| Kuhani (Arbiter, Cultist, Druid, Mendicant, Prophet…) | Desturi, Ngoma, Ulaghai, Ushawishi, Ufahamu, Maarifa ya Eneo, Nguvu ya Utashi | Urasimu, Ustaarabu, Desturi, Kusoma na Kuandika (yoyote), Maarifa (yoyote), Uzungumzaji, Siasa |
+| Baharia (Kapteni, Mtumwa wa Galley, Marine, Pirate, Raft man…) | Riadha, Kuendesha Boti, Nguvu za Mwili, Ustahimilivu, Maarifa ya Eneo, Kuogelea; Mtindo wa Mapigano (Mtindo maalum wa Baharia au Kitamaduni) | Ufundi (Utaalamu Maalum wa Meli), Utamaduni (wowote), Lugha (yoyote), Maarifa (yoyote), Urambazaji, Uanamaji, Uokoaji |
+| Msomi (Annalist, Librarian, Mwanafalsafa, Skald, Mwandishi…) | Desturi, Ushawishi, Ufahamu, Maarifa ya Eneo, Lugha ya Asili, Utambuzi, Nguvu ya Utashi | Utamaduni (wowote), Lugha (yoyote), Kusoma na Kuandika (yoyote), Maarifa (Msingi), Maarifa (Sekondari), Uzungumzaji, Kufundisha |
+| Mwanasayansi (Archivist, Librarian, Mwanafalsafa…) | Desturi, Ushawishi, Ufahamu, Maarifa ya Eneo, Lugha ya Asili, Utambuzi, Nguvu ya Utashi | Utamaduni (wowote), Uhandisi, Lugha (yoyote), Uzungumzaji, Utafiti, Sayansi (yoyote), Kufundisha |
+| Skauti (Mwindaji wa Fadhila, Mpelelezi, Pioneer, Ranger, Wayfarer…) | Riadha, Ustahimilivu, Huduma ya Kwanza, Utambuzi, Ujuzi wa Kujificha, Kuogelea; Mtindo wa Mapigano (Mtindo maalum wa Uwindaji au Kitamaduni) | Utamaduni (wowote), Uponyaji, Lugha (yoyote), Maarifa (yoyote), Urambazaji, Uokoaji, Kufuatilia |
+| Mtumishi (Aide, Butler, Chauffeur, House Maid, Governess, Majordomo, Manservant…) | Desturi, Ulaghai, Kuendesha Gari, Ushawishi, Ufahamu, Maarifa ya Eneo, Utambuzi | Urasimu, Ustaarabu, Ufundi (kuhusiana na huduma), Utamaduni (wowote), Lugha (yoyote), Siasa, Ujuzi wa Mitaani |
+| Mfanyabiashara wa Magendo (Black Marketer, Bootlegger, Gun Runner…) | Kuficha, Desturi, Ulaghai, Kuendesha Gari, Ushawishi, Ufahamu, Maarifa ya Eneo | Urasimu, Biashara, Desturi (yoyote), Lugha (yoyote), Urambazaji, Ujuzi wa Mitaani; na ama Astrogation au Uanamaji |
+| Fundi (Electrician, Laboratory Assistant…) | Nguvu za Mwili, Kuendesha Gari, Ustahimilivu, Ushawishi, Maarifa ya Eneo, Utambuzi, Nguvu ya Utashi | Comms, Ufundi (wowote), Elektroniki, Kamari, Mitambo, Sayansi (yoyote), Sensor |
+| Mwizi (Burglar, Conman, Fence, Mugger, Tomb Robber…) | Riadha, Ulaghai, Kukwepa, Ufahamu, Utambuzi, Ujuzi wa Kujificha; Mtindo wa Mapigano (Mtindo maalum wa Mwizi au Kitamaduni) | Uigizaji, Biashara, Kujificha, Kufungua kufuli, Mitambo, Ujanja, Ujuzi wa Mitaani |
+| Shujaa (Bodyguard, Mercenary, Pit Fighter, Soldier…) | Riadha, Nguvu za Mwili, Ustahimilivu, Kukwepa, Bila silaha; Mtindo wa Mapigano (Mtindo wa Kijeshi), Mtindo wa Mapigano (Mtindo wa Kitamaduni) | Ufundi (wowote), Uhandisi, Kamari, Maarifa (Historia ya Kijeshi), Maarifa (Mkakati na Mbinu), Uzungumzaji, Uokoaji |
 
 ---
-## Hatua ya 7: Pointi za Ujuzi za Bonasi
+## Hatua ya 7: Pointi za Ujuzi wa Ziada
 
-Kama hatua ya mwisho, kundi la mwisho la pointi 150 za ujuzi hugawiwa ili kukamilisha mhusika. Hizi zinaweza kutumika kwa ujuzi wowote wa Kawaida, au ujuzi huo wa Kitaalamu uliopatikana kama sehemu ya Utamaduni au Kazi. Tena, Games Master anaweza kuweka kikomo cha pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi fulani.
+Kama hatua ya mwisho, dimbwi la mwisho la pointi 150 za ujuzi limepangwa ili kukamilisha mhusika. Hizi zinaweza kutumika kwa ujuzi wowote wa Kawaida, au ujuzi huo wa Kitaaluma uliopatikana kama sehemu ya Utamaduni au Kazi. Kwa mara nyingine tena, Msimamizi wa Mchezo anaweza kutumia kikomo kwa pointi ngapi za ujuzi zinaweza kutumika kwa ujuzi wowote maalum.
 
 ### Kuunda Wahusika Wenye Uzoefu
 
-Inapendekezwa kwamba wahusika wa mwanzo waanze wakiwa wapya, wakiwa na uzoefu mdogo au bila uzoefu wowote wa kivitendo. Bila shaka, kiwango cha wahusika kitategemea sana mpangilio na kama mchezo utakuwa wa tukio moja fupi au kampeni inayoendelea kwa muda mrefu. Pia ni kawaida kwa mchezaji kuunda mhusika mwenye uzoefu zaidi ikiwa anachukua nafasi ya yule aliyekufa katika mchezo au anapojiunga na kampeni iliyopo.
+Inapendekezwa kuwa wahusika wanaoanza waanze upya, wakiwa na uzoefu mdogo au bila uzoefu wa vitendo. Bila shaka, kiwango cha wahusika kitategemea sana mazingira na ikiwa mchezo utakuwa tukio moja fupi au kampeni ya muda mrefu. Pia ni kawaida kwa mchezaji kuunda mhusika mwenye uzoefu zaidi ikiwa anachukua nafasi ya mhusika aliyekufa wakati wa mchezo au wakati wa kujiunga na kampeni iliyopo.
 
-Jedwali limetolewa, likivunja uzoefu katika Vitengo vya Umri. Uzoefu wa mhusika una uhusiano wa moja kwa moja na umri na uwezo wa ujuzi; wahusika wenye uzoefu zaidi kwa kawaida wana uzoefu wa maisha zaidi kuliko wenzao wadogo. Hata hivyo, Bonasi ya Umri iliyoandikwa inapaswa kutibiwa kama ya kukadiria, kwani kampeni huendelea kwa viwango tofauti — kampeni zingine zina muda mwingi wa mchezo unaopita kati ya matukio wakati zingine ni mfululizo mrefu wa matukio yasiyokatizwa. Wakati wa kubadilisha mhusika aliyepo, badilisha tu umri halisi kwa ule ulioandikwa kwenye jedwali.
+Jedwali limetolewa, likivunja uzoefu katika Vitengo vya Umri. Uzoefu wa mhusika una uwiano wa moja kwa moja na umri na uwezo wa ujuzi; wahusika wenye uzoefu zaidi kawaida wana uzoefu wa maisha zaidi kuliko wenzao wadogo. Hata hivyo, Bonasi ya Umri iliyoainishwa inapaswa kutibiwa kama takriban, kwani kampeni huendelea kwa viwango tofauti – kampeni nyingine huwa na muda mwingi wa mchezo kupita kati ya matukio wakati nyingine ni mfululizo mmoja mrefu wa matukio yasiyovunjika. Wakati wa kubadilisha mhusika aliyepo, badilisha tu umri halisi na ule ulioainishwa kwenye jedwali.
 
 #### Jedwali la Uzoefu
 
-| Kitengo | Umri | Pointi za Ujuzi za Bonasi | Uongezaji wa Juu wa Ujuzi |
+| Kitengo | Umri | Pointi za Ujuzi wa Ziada | Ongezeko la Juu la Ujuzi |
 | :-- | :-: | :-: | :-: |
-| Vijana | 10+1d6 | 100 | +10 |
-| Watu Wazima | 15+2d6 | 150 | +15 |
-| Wenye Umri wa Kati | 25+3d6 | 200 | +20 |
-| Wazee | 40+4d6 | 250 | +25 |
-| Waliozeeka Sana | 60+5d6 | 300 | +30 |
+| Kijana | 10+1d6 | 100 | +10 |
+| Mtu Mzima | 15+2d6 | 150 | +15 |
+| Umri wa Kati | 25+3d6 | 200 | +20 |
+| Mwandamizi | 40+4d6 | 250 | +25 |
+| Mzee | 60+5d6 | 300 | +30 |
 
 #### Maelezo ya Jedwali la Uzoefu
 
-- Pointi za Ujuzi za Bonasi huamua pointi ngapi mhusika lazima atumie katika kuendeleza ujuzi.
-- Uongezaji wa Juu wa Ujuzi huweka kikomo cha pointi ngapi za Bonasi zinaweza kutumika kwa Ujuzi wowote.
+- Pointi za Ujuzi wa Ziada huamua ni pointi ngapi mhusika lazima atumie katika kukuza ujuzi.
+- Ongezeko la Juu la Ujuzi huweka kikomo ni ngapi ya Pointi za Ziada zinazoweza kutumika kwa Ujuzi wowote mmoja.
 
 ### Piramidi ya Ujuzi
 
-Mchakato wa ugawaji wa pointi za ujuzi wa _Mythras Imperative_ hupata pointi 350 kutoka vyanzo vitatu: Utamaduni (100), Kazi (100) na Pointi za Ujuzi za Bonasi (150). Kugawanya pointi hizi kunaweza kuchukua muda, na bila shaka kuna nyakati ambapo kuamua Utamaduni wa mhusika si muhimu sana, au mchezaji ana Kazi fulani akilini ambayo haitumiki kwa urahisi na templeti katika sheria za msingi. Mfumo mbadala wa ugawaji wa pointi za ujuzi, kwa wakati unapoisha au wakati wachezaji wako na shauku, umewasilishwa hapa.
+Mchakato wa ugawaji wa pointi za ujuzi wa _Mythras Imperative_ hupata pointi 350 kutoka vyanzo vitatu: Utamaduni (100), Kazi (100) na Pointi za Ujuzi wa Ziada (150). Kugawanya pointi hizi kunaweza kuchukua muda, na bila shaka kuna wakati ambapo kuamua Utamaduni wa mhusika si muhimu sana, au mchezaji ana Kazi maalum akilini ambayo haitumiki kwa urahisi na violezo katika sheria za msingi. Mfumo mbadala wa kugawanya pointi za ujuzi, kwa wakati ambapo wakati unasisitiza au wakati wachezaji wana hamu, umewasilishwa hapa.
 
-Badala ya kugawanya pointi kutoka makundi ya Utamaduni, Kazi na Pointi za Ujuzi za Bonasi, Piramidi ya Ujuzi inatumiwa badala yake. Hii inagawanya pointi 350 katika vitalu vitano vya pointi zisizobadilika, kama ifuatavyo:
+Badala ya kugawanya pointi kutoka kwa madimbwi ya Utamaduni, Kazi na Pointi za Ujuzi wa Ziada, Piramidi ya Ujuzi hutumika badala yake. Hii inagawanya pointi 350 katika vizuizi vitano vya pointi zisizobadilika, kama ifuatavyo:
 
 Ujuzi 1 kwa 50%, ujuzi 2 kwa 40%, ujuzi 3 kwa 30%, ujuzi 4 kwa 20%, ujuzi 5 kwa 10%.
 
-Ambayo huunda piramidi inayofaa. Vuka tu kila thamani inapogawiwa.
+Ambayo huunda piramidi inayofaa. Futa tu kila thamani inapotengwa.
 
 ```
     50
@@ -381,140 +381,140 @@ Ambayo huunda piramidi inayofaa. Vuka tu kila thamani inapogawiwa.
 10 10 10 10 10
 ```
 
-#### Sheria Chache Rahisi
+#### Kanuni Chache Rahisi
 
-- Pointi zote kutoka piramidi lazima zigawiwe.
-- Hakuna ujuzi unaoweza kuwa na mgawo zaidi ya mmoja kutoka piramidi.
-- Desturi na Lugha ya Asili zote hupata +40, kulingana na sheria za msingi, na kwa kuongeza mgawo wowote uliotolewa kutoka piramidi.
-- Passions ambazo hupata thamani zilizoonyeshwa katika sehemu ya [Passions](0002_Characters.md?id=step-8-passions), na kwa kuongeza mgawo wowote uliotolewa kutoka piramidi.
-- Hakuna ujuzi unaoweza kuzidi 80% kutokana na matokeo ya mgawo. Kwa hivyo, ikiwa mhusika ana STR 16 na DEX 17, kwa msingi wa 33%, mchezaji hawezi kugawa thamani ya pointi 50 kwa Combat Style.
-- Thamani sita lazima zigawiwe kwa Ujuzi wa Kitaalamu.
-- Wahusika bado wanaweza kuchagua Utamaduni na Kazi, na kutumia ujuzi ulioorodheshwa katika maelezo husika kama mwongozo wa mgawo wao, au mgawo unaweza kuwa huru kabisa.
-- Inapendekezwa kuwa angalau moja ya thamani zigawiwe kwa Combat Style, lakini hii si lazima.
-- Games Master daima ana kauli ya mwisho.
+- Pointi zote kutoka kwa piramidi lazima zigawiwe.
+- Hakuna ujuzi unaoweza kuwa na zaidi ya mgao mmoja kutoka kwa piramidi.
+- Desturi na Lugha ya Asili zote hupata +40, kama ilivyo kwa sheria za msingi, na kwa kuongeza mgao wowote uliotolewa kutoka kwa piramidi.
+- Shauku (Passions) ambazo hupata thamani zilizobainishwa katika sehemu ya [Shauku](0002_Characters.md?id=step-8-passions), na kwa kuongeza mgao wowote uliotolewa kutoka kwa piramidi.
+- Hakuna ujuzi unaoweza kuzidi 80% kutokana na matokeo ya mgao. Kwa hivyo, ikiwa mhusika ana STR 16 na DEX 17, kwa msingi wa 33%, mchezaji hawezi kutenga thamani ya pointi 50 kwa Mtindo wa Mapigano.
+- Sita kati ya thamani hizo lazima zigawiwe kwa Ujuzi wa Kitaaluma.
+- Wahusika bado wanaweza kuchagua Utamaduni na Kazi, na kutumia ujuzi ulioorodheshwa katika maelezo yanayofaa kama mwongozo wa mgao wao, au mgao unaweza kuwa huru kabisa.
+- Inapendekezwa kuwa angalau moja ya thamani hizo itengwe kwa Mtindo wa Mapigano, lakini hii si lazima.
+- Msimamizi wa Mchezo daima ana kauli ya mwisho.
 
-### Ushujaa Usio wa Kawaida
+### Ushujaa wa Kushangaza (Larger-Than-Life Heroics)
 
-_Mythras Imperative_ inahusu zaidi wanadamu wa kawaida, lakini mara kwa mara kampeni inahitaji kitu kingine, hasa ikiwa inahitaji ushujaa maalum, au inafanyika katika mpangilio wa Pulp Action, ambapo mashujaa na wabaya huwa na ukubwa zaidi ya kawaida.
+_Mythras Imperative_ inashughulika kimsingi na binadamu wa kawaida, lakini mara kwa mara kampeni inahitaji kitu kingine, hasa ikiwa inahitaji ushujaa maalum, au inafanyika katika mazingira ya Pulp Action, ambapo mashujaa na wahalifu huelekea kuwa wakubwa kuliko maisha.
 
-Mashujaa kama hao hawana lazima kuwa na nguvu za ajabu (ingawa ikiwa hizi zinatamaniwa, sura ya Uchawi na Nguvu inaweza kutumika), lakini wana nguvu kidogo, kasi kidogo, uwezo wa kustahimili zaidi na kwa kawaida wana utashi mkubwa zaidi. Fikiria shujaa fulani kutoka Cimmeria; wakala maalum ambaye ana leseni ya kuua; mtu wa shaba; mlinzi mwenye kofia ambaye pia ni bilionea - au idadi yoyote ya wahusika maarufu wa kishujaa. Mara nyingi hukabiliana na hali ambazo mwanadamu wa kawaida angeanguka; lakini kama mashujaa, wanaweza kustahimili chochote ambacho njama inawatupia, na kuishi ili kushiriki katika tukio linalofuata (kwa kiasi fulani) bila majeraha.
+Mashujaa kama hawa hawawezi kuwa na nguvu za ziada per se (ingawa ikiwa hizi zinahitajika, sura ya Uchawi na Nguvu inaweza kutumika), lakini wana nguvu kidogo zaidi, kasi zaidi, ustahimilivu zaidi na kwa kawaida wana utashi mkubwa zaidi. Fikiria shujaa fulani kutoka Cimmeria; wakala maalum ambaye ana leseni ya kuua; mtu wa shaba; mlinzi aliyevaa kofia ambaye pia ni bilionea playboy – au idadi yoyote ya wahusika mashujaa maarufu. Mara nyingi hukabiliana na hali ambapo binadamu wa kawaida angeshindwa; lakini kama mashujaa, wanaweza kuhimili chochote ambacho njama inawatupia, na kuishi ili kushiriki katika tukio linalofuata (bila kujeruhiwa).
 
-Ikiwa unakusudia kuanzisha aina hizi za wahusika kwenye michezo yako, basi hakikisha kwamba wachezaji wote wana wahusika wa kiwango sawa. Aina hizi za wahusika zimeundwa kula mandhari na kuendesha hatua; wahusika wa kawaida (isipokuwa wawe na faida ya uchawi, au faida nyingine) wanaweza kuachwa nyuma.
+Ikiwa una nia ya kuanzisha aina hizi za wahusika katika michezo yako, basi hakikisha kuwa wachezaji wote wana wahusika katika kiwango sawa. Aina hizi za wahusika zimeundwa ili kuendesha hatua; wahusika wa kawaida (isipokuwa wawe na manufaa ya uchawi, au faida nyingine yoyote) wanaweza kuachwa kwenye kivuli.
 
-### Wahusika wa Pulp Hero
+### Wahusika Mashujaa wa Pulp
 
-Hawa ni Pulp Heroes wa jadi. Sio mashujaa-kuu au miungu-nusu, na risasi ya shotgun iliyopigwa vizuri bado itamaliza maisha yao, lakini ni wagumu zaidi, wenye akili zaidi, wenye uwezo zaidi, na kwa ujumla, hatua moja au mbili juu ya watu wa kawaida. Pia, maisha yao huwa yamejaa matukio. Ingawa mhusika wa Kishujaa anaweza kuchagua kujaribu kutulia na kuishi maisha yasiyo na matukio, mara nyingi matatizo au mtu anayehitaji msaada atapata njia ya kufika mlangoni mwa mhusika.
-
-#### Sifa
-
-Wakati wa kuzalisha wahusika wa Pulp Heroic, tumia njia ya Dice Roll Assign katika sehemu ya [Characters](0002_Characters.md?id=calculating-characteristics). Rusha 4d6 na utupe kete ya chini zaidi, mara tano, kisha ugawanye matokeo kwa STR, CON, DEX, POW, na CHA. Kisha, rusha 3d6+6 na utupe kete ya chini zaidi mara mbili na ugawanye namba hizi kwa SIZ na INT. Ikiwa unatumia njia ya Points Build, wachezaji hujenga mhusika wao kutoka kwenye kundi lililopangwa tayari la pointi 90.
-
-#### Sifa za Msingi
-
-Hizi huhesabiwa kama kawaida, isipokuwa kwamba wahusika wa Pulp Heroic hupata Faida mbili zilizochaguliwa kutoka zifuatazo (kumbuka kuwa faida haziwezi kuunganishwa):
-
-- +1 Action Point
-- +1 Luck Point
-- +1 Hit Point kwa kila Hit Location
-- Mirurumo ya Ustahimilivu ni Grade moja rahisi
-- Mirurumo ya Kujipenyeza ni Grade moja rahisi
-- Mirurumo ya Utashi ni Grade moja rahisi
-
-Wahusika wote wa Pulp Heroic huongeza mara mbili Healing Rate yao wanapopata Majeraha Madogo au Makubwa, ingawa Majeraha Makubwa hushughulikiwa kwa Healing Rate ya kawaida ya mhusika.
-
-#### Ujuzi
-
-Wahusika wa Pulp Heroic hupata Pointi za Ujuzi za Bonasi 50 za ziada za kugawiwa kama inavyohitajika.
-
-### Wahusika wa Paragon
-
-Wahusika wa Paragon ni mfano wa ubora. Wakati mtaalamu wa akiolojia anayeshika mjeledi na jasusi mkuu mwenye leseni ya kuua ni wahusika wa Pulp Heroic, yule Cimmerian, Man of Bronze, Dark Knight Detective, na Sherlock Holmes ni wahusika wa Paragon. Wahusika wa Paragon si tu hodari sana katika eneo moja la utaalamu: kwa kawaida hufanya vizuri katika maeneo kadhaa. Mvumbuzi na mwanafizikia mahiri ambaye pia ni shujaa wa vita mshupavu na mwenye uwezo wa kupiga risasi, ni mfano bora wa mhusika wa Paragon; mpiganaji wa uhalifu bilionea anayecheza michezo ya kimapenzi ambaye alisoma na akili bora za upelelezi duniani ni mfano mwingine. Wahusika wa Paragon wanaweza kuwa na digrii kadhaa za chuo kikuu, utajiri wa kibinafsi, wafadhili wa ajabu, pamoja na aina nyingi za uzoefu.
-
-Kutokana na hayo, wahusika wa Paragon hawatakuwa kwa kila mtu, lakini ikiwa mpangilio unahitaji wahusika wanaoweza kubadilisha hatima ya mfumo mzima wa jua, au kukabiliana na changamoto yoyote, basi kampeni ya kiwango cha Paragon inafaa. Ingawa kampeni za Kawaida na za Kishujaa mara kwa mara zinahusisha hatari kubwa sana kama vile hatima ya mataifa au hata sayari, kampeni za Paragon zinapaswa kufanya hivyo mara kwa mara.
+Hawa ni Mashujaa wa kawaida wa Pulp. Si mashujaa wakubwa au miungu, na mlipuko wa risasi wa bunduki uliowekwa vizuri bado utamaliza maisha yao, lakini wao ni wagumu zaidi, wajanja zaidi, wenye uwezo zaidi, na kwa ujumla, hatua moja au mbili juu ya watu wa kawaida. Pia, maisha yao huelekea kujaa matukio. Wakati mhusika Shujaa anaweza kuchagua kujaribu kutulia na kuishi maisha ya kawaida, mara nyingi shida au mtu anayehitaji msaada atapata njia ya kwenda mlangoni pa mhusika.
 
 #### Sifa
 
-Wakati wa kuzalisha wahusika kwa kutumia njia ya Dice Roll Assign katika sehemu ya [Characters](0002_Characters.md?id=calculating-characteristics). Rusha 4d6, ukiondoa kete ya chini zaidi mara sita, kisha ugawanye matokeo matano ya chaguo lako (kwa kawaida, matano ya juu zaidi) kwa STR, CON, DEX, POW, na CHA. Kisha, rusha 3d6+6, ukiondoa kete ya chini zaidi mara tatu na ugawanye matokeo mawili ya chaguo lako (kwa kawaida, mawili ya juu zaidi) kwa SIZ na INT. Ikiwa unatumia njia ya Points Build, wachezaji hujenga mhusika wao kutoka kwenye kundi lililopangwa tayari la pointi 100.
+Unapounda wahusika Mashujaa wa Pulp, tumia mbinu ya Kutupa Kete ya Kupanga katika sehemu ya [Wahusika](0002_Characters.md?id=calculating-characteristics). Tupa kete 4d6 na uondoe kete ya chini kabisa, mara tano, na kisha upange matokeo kwa STR, CON, DEX, POW, na CHA. Kisha, tupa kete 3d6+6 na uondoe kete ya chini kabisa mara mbili na upange namba hizi kwa SIZ na INT. Ikiwa unatumia mbinu ya Ujenzi wa Pointi, wachezaji huunda mhusika wao kutoka kwa dimbwi la pointi 90.
 
-#### Sifa za Msingi
+#### Sifa za Ziada
 
-Hizi huhesabiwa kama kawaida, isipokuwa kwamba Wahusika wa Paragon hupata Faida tatu zilizochaguliwa kutoka zifuatazo (kumbuka kuwa faida haziwezi kuunganishwa):
+Hizi huhesabiwa kama kawaida, isipokuwa wahusika Mashujaa wa Pulp hupata Manufaa mawili yaliyochaguliwa kutoka kwa yafuatayo (kumbuka kuwa manufaa hayawezi kurundikwa):
 
-- +1 Action Point
-- +2 Luck Points
-- +2 Hit Points kwa kila Hit Location
-- Mirurumo ya Ustahimilivu ni Grade moja rahisi
-- Mirurumo ya Kujipenyeza ni Grade moja rahisi
-- Mirurumo ya Utashi ni Grade moja rahisi
+- +1 Alama ya Vitendo
+- +1 Alama ya Bahati
+- +1 Alama ya Afya kwa kila Eneo la Afya
+- Mirindimo ya Ustahimilivu ni Daraja moja rahisi zaidi
+- Mirindimo ya Ujuzi wa Kujificha ni Daraja moja rahisi zaidi
+- Mirindimo ya Nguvu ya Utashi ni Daraja moja rahisi zaidi
 
-Wahusika wote wa Paragon huongeza mara mbili Healing Rate yao wanapopata Majeraha Madogo au Makubwa, ingawa Majeraha Makubwa hushughulikiwa kwa Healing Rate ya kawaida ya mhusika.
+Wahusika wote Mashujaa wa Pulp hukausha maradufu Kiwango chao cha Uponyaji wakati wanapoumia kutoka kwa Majeraha Madogo au Makubwa, ingawa Majeraha Makuu hushughulikiwa kwa Kiwango cha kawaida cha Uponyaji cha mhusika.
 
 #### Ujuzi
 
-Wahusika wa Paragon Heroic hupata Pointi za Ujuzi za Bonasi 100 za ziada za kugawiwa kama inavyohitajika.
+Wahusika Mashujaa wa Pulp hupata pointi 50 za ziada za Ujuzi wa Ziada ili kugawanya inavyohitajika.
+
+### Wahusika Paragon
+
+Wahusika Paragon ni kielelezo cha ubora. Wakati mwanaakiolojia fulani anayeshikilia mjeledi na jasusi mkuu mwenye leseni ya kuua ni wahusika Mashujaa wa Pulp, yule Cimmerian, Mtu wa Shaba, Mpelelezi wa Dark Knight, na Sherlock Holmes ni wahusika Paragon. Wahusika Paragon si tu wenye uwezo mkubwa katika eneo moja la utaalamu: kwa kawaida huwa bora katika kadhaa. Mvumbuzi na mwanafizikia mahiri ambaye pia ni shujaa wa vita, ni mfano bora wa mhusika Paragon; Bilionea playboy mpiganaji wa uhalifu ambaye alisoma na akili bora za upelelezi duniani ni mwingine. Wahusika Paragon wanaweza kuwa na shahada kadhaa za chuo kikuu, utajiri wa kujitegemea, wafadhili wa ajabu, pamoja na aina nyingine nyingi za uzoefu.
+
+Kwa sababu hiyo, wahusika Paragon hawatakuwa kwa kila mtu, lakini ikiwa mazingira yanahitaji wahusika wanaoweza kubadilisha hatima ya mfumo mzima wa jua, au kuchukua changamoto yoyote, basi kampeni ya kiwango cha Paragon inafaa. Ingawa kampeni zote mbili za Kawaida na Kishujaa mara kwa mara zinahusisha vigingi vya juu sana kama hatima ya mataifa au hata sayari, kampeni za Paragon zinapaswa kufanya hivyo mara kwa mara.
+
+#### Sifa
+
+Unapounda wahusika kwa kutumia mbinu ya Kutupa Kete ya Kupanga katika sehemu ya [Wahusika](0002_Characters.md?id=calculating-characteristics). Tupa kete 4d6, ukiondoa kete ya chini kabisa mara sita, kisha panga matokeo matano ya chaguo lako (kwa kawaida, matano ya juu) kwa STR, CON, DEX, POW, na CHA. Kisha, tupa kete 3d6+6, ukiondoa kete ya chini kabisa mara tatu na panga matokeo mawili ya chaguo lako (kwa kawaida, mawili ya juu) kwa SIZ na INT. Ikiwa unatumia mbinu ya Ujenzi wa Pointi, wachezaji huunda mhusika wao kutoka kwa dimbwi la pointi 100.
+
+#### Sifa za Ziada
+
+Hizi huhesabiwa kama kawaida, isipokuwa Wahusika Paragon hupata Manufaa matatu yaliyochaguliwa kutoka kwa yafuatayo (kumbuka kuwa manufaa hayawezi kurundikwa):
+
+- +1 Alama ya Vitendo
+- +2 Alama za Bahati
+- +2 Alama za Afya kwa kila Eneo la Afya
+- Mirindimo ya Ustahimilivu ni Daraja moja rahisi zaidi
+- Mirindimo ya Ujuzi wa Kujificha ni Daraja moja rahisi zaidi
+- Mirindimo ya Nguvu ya Utashi ni Daraja moja rahisi zaidi
+
+Wahusika wote Paragon hukausha maradufu Kiwango chao cha Uponyaji wakati wanapoumia kutoka kwa Majeraha Madogo au Makubwa, ingawa Majeraha Makuu hushughulikiwa kwa Kiwango cha kawaida cha Uponyaji cha mhusika.
+
+#### Ujuzi
+
+Wahusika Mashujaa Paragon hupata pointi 100 za ziada za Ujuzi wa Ziada ili kugawanya inavyohitajika.
 
 ---
-## Hatua ya 8: Passions
+## Hatua ya 8: Shauku (Passions)
 
-Passions hutumika kusaidia wachezaji na Games Masters katika kukuza undani wa mhusika, kuanzisha sehemu za njama kulingana na matakwa au chuki za mhusika, na kumsaidia mchezaji kuelewa mhusika wake ni nani, kinachomfanya atende, na kadhalika.
+Shauku hutumika kusaidia wachezaji na Wasimamizi wa Mchezo katika kukuza asili ya mhusika, kuanzisha njama kulingana na tamaa au chuki ya mhusika, na kumsaidia mchezaji kuelewa mhusika wake ni nani, ni nini kinachomfukuza, na kadhalika.
 
-Passion inaweza kuwa kwa chochote – mtu, shirika, bora, hata kitu. Passions kwa kawaida huelezewa na kitenzi kama vile: Kutamani, Kudharau, Kuharibu, Kutetea, Kuogopa, Kukimbia, Kuapa, Kuchukia, Kupenda, Uaminifu kwa, Kulinda, Kukataa, Kuheshimu, Kutafuta, Kuharibu, Kutesa, au Kutetea.
+Shauku inaweza kuwa kwa ajili ya kitu chochote – mtu, shirika, bora, hata kitu. Shauku kwa kawaida huelezewa na kitenzi kama vile: Tamaa, Zarau, Haribu, Espouse, Hofu, Kimbia, Forswear, Chuki, Upendo, Uaminifu kwa, Linda, Repudiate, Heshima, Tafuta, Subvert, Torment, au Uphold.
 
-Passions hupimwa kwa njia sawa na ujuzi; zimekadiriwa kati ya 1 na 100 (au juu zaidi). Passion inaweza kuboreshwa kwa njia sawa na ujuzi, au inaweza kuongezwa au kupunguzwa na mwamuzi kulingana na mazingira.
+Shauku hupimwa kwa njia sawa na ujuzi; zimekadiriwa kati ya 1 na 100 (au zaidi). Shauku inaweza kuboreshwa kwa njia sawa na ujuzi, au inaweza kuongezwa au kupunguzwa na mwamuzi kulingana na hali.
 
-Wahusika wa mwanzo wanaweza kuanza na Passions hadi tatu, kila moja ikitegemea Sifa mbili, na bonasi ya +40 kwa ya kwanza, +30 kwa ya pili na +20 kwa ya tatu – mchezaji akiamua utaratibu wa umuhimu. Hizi zinaweza kuhusishwa na utamaduni wake, taaluma, au tabia zake za kibinafsi. Kwa mfano, katika kampeni ya Upanga na Uchawi mhusika anaweza kuchukua: Kuchukia (Stygians), Kutoamini (Wachawi), na Kutamani (Pombe); ilhali katika mchezo wa Dystopian Sci-Fi mhusika anaweza kuchagua Uaminifu (Rais), Kuharibu (Wageni), na Kutetea (Sheria) badala yake.
+Wahusika wanaoanza wanaweza kuanza na hadi Shauku tatu, kila moja ikitegemea Sifa mbili, na bonasi ya +40 kwa ya kwanza, +30 kwa ya pili na +20 kwa ya tatu – mchezaji akiamua mpangilio wa umuhimu. Hizi zinaweza kufungwa na utamaduni wake, taaluma, au udhaifu wa kibinafsi. Kwa mfano, katika kampeni ya Upanga & Uchawi mhusika anaweza kuchukua: Chuki (Stygians), Kutokuamini (Wachawi), na Tamaa (Pombe); wakati katika mchezo wa Dystopian Sci-Fi mhusika anaweza kuchagua Uaminifu (Rais), Haribu (Wageni), na Uphold (Sheria) badala yake.
 
-#### Jedwali la Passion
+#### Jedwali la Shauku
 
-| Lengo la Passion | Asilimia ya Kuanzia |
+| Kitu cha Shauku | Asilimia ya Kuanzia |
 | :-- | :-- |
-| Mtu, katika mazingira ya kimapenzi au kifamilia | POW+CHA |
+| Mtu, katika muktadha wa kimapenzi au kifamilia | POW+CHA |
 | Shirika au kundi la watu | POW+INT |
-| Kabila au spishi | POW x2 ya Mhusika |
-| Mahali | POW+INT ya Mhusika |
-| Kitu au dutu | POW x2 ya Mhusika |
-| Sifa ya utu | POW+CHA ya Mhusika |
+| Kabila au spishi | POW x2 ya mhusika |
+| Mahali | POW+INT ya mhusika |
+| Kitu au dutu | POW x2 ya mhusika |
+| Sifa ya utu | POW+CHA ya mhusika |
 
-### Kutumia Passions
+### Kutumia Shauku
 
-Passion ni ahadi yoyote iliyo shupavu ambayo ina uwezo wa kuathiri matukio wakati wa mchezo. Ingawa zinaweza kutumiwa kama Uwezo huru (kuziita ujuzi ni kuzifanyia isivyostahili), Passions zimepanuliwa zaidi hapa chini ili kueleza kwa undani zaidi jinsi zinavyofanya kazi na jinsi zinavyoweza kuathiri wahusika na kampeni za _Mythras_ _Imperative_.
+Shauku ni ahadi yoyote ya dhati ambayo ina uwezo wa kushawishi matukio wakati wa mchezo. Ingawa zinaweza kutumika kama Uwezo wa kusimama pekee (kuviita ujuzi ni kuifanyia kutowatendea haki), Shauku hupanuliwa zaidi hapa chini ili kuelezea kwa kina zaidi jinsi zinavyofanya kazi na jinsi zinavyoweza kuathiri wahusika wa _Mythras Imperative_ na kampeni.
 
-Kwa muhtasari, Passions zinaweza kutumiwa hivi:
+Kwa muhtasari, Shauku inaweza kutumika hivyo:
 
-- Kuongeza ujuzi mwingine, ikionyesha kina cha hisia za mtu na jinsi zinavyosukuma matendo. Zikitumiwa katika suala hili, Passion huongeza 20% ya thamani yake kwa ujuzi unaotumiwa, ikiwa nyongeza hiyo ni muhimu kimaudhui na kwa tamthilia.
-- Kama Uwezo wa kusukuma chaguzi, matakwa na matendo na hisia za kihisia. Zikitumiwa kwa njia hii mruzo wa Kawaida hufanywa dhidi ya Passion ili kuamua jinsi mhusika anavyofikiria na kuhisi sana kuhusu kitu. Ikiwa mruzo umefanikiwa, basi mhusika hutenda kulingana na kile Passion ingetaka. Ikiwa mruzo Umeshindwa, basi mhusika anaweza kutenda kwa uhuru bila kuhisi kuzuiliwa na msukumo wa Passion.
-- Kupinga Passions nyingine – hata zile zinazoshikiliwa na mhusika yuleyule. Hii kwa kawaida hutumiwa pale ambapo Passions mbili zingepingana. Kwa mfano, upendo wa kibinafsi unaweza kuamuru hatua ambayo ingekuwa kinyume na Kiapo au Uaminifu. Hapa tumia Mruzo Unaopingana kati ya Passions hizo mbili, huku ile iliyofanikiwa zaidi ikiamua jinsi mhusika anavyotenda.
-- Kama kipimo cha jumla cha kina cha ahadi, imani, na uaminifu kwa sababu. Kadri thamani ya Passion inavyokuwa juu, ndivyo mhusika anavyojitolea zaidi. Wahusika wenye Passions zinazofanana wanaweza kulinganisha viwango vyao ili kuamua ni nani anayeonyesha ahadi kubwa zaidi.
-- Kupinga aina fulani ya udanganyifu wa kisaikolojia au utawala wa kichawi. Katika baadhi ya matukio ambapo mhusika analazimishwa kufanya kitendo kinachokinzana na Passions zao, wanaweza kubadilisha aidha kwa Utashi katika Mruzo Unaopingana.
+- Kuongeza ujuzi mwingine, ikionyesha kina cha hisia za mtu na jinsi inavyoendesha hatua. Inapotumika kwa njia hii, Shauku huongeza 20% ya thamani yake kwa ujuzi unaotumiwa, ikiwa nyongeza ni muhimu kwa mada na ya kuvutia.
+- Kama Uwezo wa kuendesha chaguzi, tamaa na hatua za kihisia na majibu. Inapotumika kwa njia hii, mirindimo ya kawaida hufanywa dhidi ya Shauku ili kuamua jinsi mhusika anavyofikiri na kuhisi kuhusu kitu. Ikiwa mirindimo ni Mafanikio, basi mhusika hufanya kulingana na kile ambacho Shauku ingeamuru. Ikiwa mirindimo Inashindwa, basi mhusika anaweza kutenda kwa uhuru bila kuhisi kubanwa na misukumo ya Shauku.
+- Kupinga Shauku nyingine – hata zile zinazoshikiliwa na mhusika yuleyule. Hii kwa kawaida hutumiwa ambapo Shauku mbili zinaweza kugongana. Kwa mfano, upendo wa kibinafsi unaweza kuamuru njia ya hatua ambayo ingekuwa kinyume na Kiapo au Uaminifu. Hapa tumia Mirindimo ya Kupingana kati ya Shauku mbili, na ile yenye mafanikio zaidi ikiamua jinsi mhusika anavyotenda.
+- Kama kipimo cha jumla cha kina cha ahadi, imani, na uaminifu kwa sababu. Kadiri thamani ya Shauku inavyokuwa ya juu, ndivyo mhusika anavyojitolea zaidi. Wahusika wenye Shauku zinazofanana wanaweza kulinganisha ukadiriaji wao ili kuamua nani anaonyesha ahadi ya kina zaidi.
+- Kupinga aina fulani ya udhibiti wa kisaikolojia au utawala wa kichawi. Katika hali fulani ambapo mhusika analazimishwa kufanya tendo kinyume na Shauku zao, wanaweza kubadilisha yoyote kwa Nguvu ya Utashi katika Mirindimo ya Kupingana.
 
-Passions mpya zinaweza kuendelezwa wakati wowote wakati wa kipindi cha mchezo ikiwa hali inaruhusu. Mtu anaweza kukuza mara moja 'Chukia X' pale ambapo mtu mwingine anafanya kitu ambacho kingesababisha chuki kali kutokea. Bwana au chifu anayeomba Kiapo angeanzisha mara moja Passion ya 'Uaminifu kwa X' mara tu Kiapo hicho kitakapochukuliwa au kuapwa.
+Shauku mpya zinaweza kuendelezwa wakati wowote wakati wa kikao cha mchezo ikiwa hali inahalalisha. Mtu anaweza kukuza mara moja 'Chuki X' ambapo mtu mwingine anafanya kitu ambacho kingesababisha chuki kutokea. Bwana au kiongozi anayetoa wito wa Kiapo angeanzisha mara moja Shauku ya 'Uaminifu kwa X' mara tu Kiapo hicho kinapochukuliwa au kuapishwa.
 
-Passions mpya zilizoundwa wakati wa mchezo kwa njia hii hazina gharama ya Experience Rolls na huwekwa papo hapo. Bila shaka, wahusika wanaweza pia kuchagua kuanzisha Passion wakati wa uboreshaji, kwa gharama ya Experience Roll ili kupata Passion kwa Thamani yake ya Msingi.
+Shauku mpya zilizotengenezwa wakati wa mchezo kwa njia hii hazigharimu Mirindimo ya Uzoefu na zinaanzishwa hapo hapo. Bila shaka, wahusika wanaweza pia kuchagua kuanzisha Shauku wakati wa uboreshaji, kwa gharama ya Mirindimo ya Uzoefu ili kupata Shauku katika Thamani yake ya Msingi.
 
-### Kuongezeka na Kupungua
+### Kuzidisha na Kupungua
 
-Passions zinaweza kuongezeka wakati wa mchezo bila kujali Experience Rolls, kulingana na nguvu ya kile kilichotokea kusababisha ongezeko hilo. Pia, zinaweza, na hupungua. Imani iliyo imara inaweza kutikiswa na mambo mengi, na kusababisha Passion hiyo kupunguzwa au, katika hali mbaya zaidi, kubadilishwa kabisa.
+Shauku inaweza kuongezeka wakati wa mchezo bila kutegemea Mirindimo ya Uzoefu, kulingana na nguvu ya chochote kilichotokea kusababisha ongezeko hilo. Pia, zinaweza, na hufanya, kupungua. Imani inayoshikiliwa kwa nguvu inaweza kutikiswa na mambo mengi, na kusababisha Shauku hiyo kupunguzwa au, katika hali mbaya zaidi, kubadilishwa kabisa.
 
-Kwa mfano, mhusika mwenye 'Amini Chifu' anaweza, ikiwa chifu wake atafanya uhaini, aidha kupunguza Passion yake au kuibadilisha kuwa 'Kutoamini Chifu' kwa asilimia ileile. Games Master anahitaji kuamua kama Passion inapungua au inabadilishwa. Ikiwa inapungua, basi hufanya hivyo kulingana na nguvu ya chanzo cha mabadiliko.
+Kwa mfano, mhusika aliye na 'Tumaini kwa Chieftain' anaweza, ikiwa mkuu wake atatenda kwa hila, ama kupunguza Shauku yake au kugeuka kuwa 'Kutokuamini kwa Chieftain' kwa asilimia ileile. Msimamizi wa Mchezo anahitaji kuamua ikiwa Shauku inapungua au inabadilika. Ikiwa inapungua, basi hufanya hivyo kulingana na nguvu ya chanzo cha mabadiliko.
 
-Jedwali la Kuongezeka na Kupungua linaonyesha ni kiasi gani Passion inabadilika.
+Jedwali la Kuzidisha na Kupungua linaonyesha ni kwa kiasi gani Shauku inabadilika.
 
-#### Jedwali la Kuongezeka na Kupungua
+#### Jedwali la Kuzidisha na Kupungua
 
-| Kina cha Mabadiliko | Passion Iliyorekebishwa na |
+| Kina cha Mabadiliko | Shauku Iliyorekebishwa na |
 | --- | --- |
 | Dhaifu | 1d10 |
 | Wastani | 1d10+5 |
 | Nguvu | 1d10+10 |
 
 ---
-## Hatua ya 9: Vifaa
+## Hatua ya 9: Vifaa (Equipment)
 
-Sasa kwa kuwa mhusika karibu amemalizika, anahitaji vifaa fulani. Hii inaweza kujumuisha silaha, mavazi ya kujikinga, au vifaa vingine muhimu vinavyotumika kwa taaluma fulani. Wakati wa matukio kuna fursa nyingi za kupata vifaa zaidi, lakini kila mhusika anayeanza ana vitu vifuatavyo mkononi mwake:
+Sasa kwa kuwa mhusika amekaribia kumalizika, anahitaji vifaa fulani. Hii inaweza kujumuisha silaha, silaha za mwili, au vifaa vingine muhimu vinavyotumiwa kwa taaluma maalum. Wakati wa safari kuna nafasi nyingi za kupata vifaa zaidi, lakini kila mhusika anayeanza ana katika milki yake ya haraka yafuatayo:
 
-- Seti ya nguo zinazofaa kwa taaluma ya mhusika na mpangilio.
-- Kiasi cha pesa za mfukoni; za kutosha kukaa kwa muda bila shida.
-- Urithi wa kibinafsi, kumbukumbu, au kitu kidogo chenye thamani ndogo.
+- Seti ya nguo inayofaa kwa taaluma ya mhusika na mazingira.
+- Kiasi cha pesa ya mfukoni; ya kutosha kudumu kwa muda bila ugumu.
+- Heirloom ya kibinafsi, keepsake, au trinket fulani ya thamani ndogo ya jamaa.
 - Zana zozote za biashara au vifaa vinavyoweza kusafirishwa vinavyofaa kwa taaluma ya mhusika, ikiwa inafaa.
-- Silaha yoyote ya kibinafsi kwa Combat Style ya mhusika.
-- Vitu vingine kama inavyofaa kwa mpangilio, na kwa idhini ya GM.
+- Silaha yoyote ya kibinafsi kwa Mtindo wa Mapigano wa mhusika.
+- Vitu vingine kama inavyofaa kwa mazingira, na kulingana na idhini ya GM.

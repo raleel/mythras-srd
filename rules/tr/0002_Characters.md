@@ -1,131 +1,131 @@
 # Karakterler
 
-_Mythras Imperative_'deki her oyuncu bir karakteri kontrol eder. Karakter, oyuncunun alter-egosudur ve genellikle fiziksel ve zihinsel olarak oyuncudan çok farklıdır. Karakterler, oyunun geçtiği dünyaya göre çeşitli ırklardan olabilir; tarihi bir ortamda sadece insanlar bulunurken, bir fantezi ortamı cüceler, elfler ve hatta kertenkele adamları içerebilir. Temel karakter, karakterin yeteneklerini tanımlayan bir dizi farklı öğeyle tanımlanır. Bu öğeler şunlardır:
+_Mythras Imperative_ oyunundaki her oyuncu bir karakteri yönetir. Karakter, oyuncunun alter-egosudur ve genellikle fiziksel ve zihinsel olarak oyuncudan çok farklıdır. Karakterler, oyunun geçtiği ortama göre çeşitli ırklardan olabilir; tarihsel bir ortamda sadece insanlar bulunurken, fantastik bir ortamda cüceler, elfler ve hatta kertenkele adamlar yer alabilir. Temel karakter, karakterin yeteneklerini tanımlayan bir dizi farklı unsurla belirlenir. Bu unsurlar şunlardır:
 
-- **Özellikler:** Güç veya Karizma gibi
-- **Nitelikler:** Boy veya Hareket gibi
-- **Yetenekler:** Temel becerilerdeki uzmanlık
+- **Nitelikler (Characteristics):** Güç veya Karizma gibi
+- **Özellikler (Attributes):** Boy veya Hareket gibi şeyler
+- **Beceriler (Skills):** Temel yeteneklerdeki uzmanlık
 
-Bu öğelerin çoğu sayılarla ifade edilir ve bazıları diğerlerine bağlıdır veya onlardan hesaplanır. Her bir öğenin ne anlama geldiği ve nasıl belirlendiği aşağıdaki bölümlerde açıklanmıştır.
-
----
-## Adım 1: Karakter Konsepti
-
-Başlamak için iyi bir yer, oynamak istediğiniz karakter türü hakkında bir fikre sahip olmaktır: belki kurnaz bir savaşçı ya da açıkgöz bir kaçakçı. Belki de çalışkan bir akademisyen veya bilge bir büyücü tercih edersiniz. Karakter konseptinizin bu aşamada ayrıntılı olması gerekmez; sadece Kültür ve Kariyer gibi belirli seçimlere rehberlik edecek bir fikir olması yeterlidir.
+Bu unsurların çoğu sayılarla ifade edilir ve bazıları diğerlerine bağlıdır veya diğerleri tarafından hesaplanır. Her bir unsurun ne anlama geldiği ve nasıl belirlendiği aşağıdaki bölümlerde açıklanmıştır.
 
 ---
-## Adım 2: Özellikler
+## 1. Adım: Karakter Konsepti
 
-Herkes, karakteriniz hakkında bir şeyler anlatan yedi Özellik ile tanımlanır; ne kadar güçlü veya hızlı oldukları; ne kadar zeki veya sağlıklı oldukları. Özellikler her _Mythras_ _Imperative_ karakterinin çekirdeğidir ve Nitelikler ve Yetenekler gibi diğer öğelerin çoğu için temel oluşturur. Yedi Özellik şunlardır:
-
-- Güç (GÜÇ)
-- Bünye (BÜN)
-- Boyut (BOY)
-- Beceri (BEC)
-- Zeka (ZEKA)
-- Kudret (KUD)
-- Karizma (KAR)
-
-Özellikleri hesaplamadan önce, aşağıdaki bölüm her birinin neyi temsil ettiğini açıklar.
-
-#### Güç (GÜÇ)
-
-GÜÇ fiziksel gücü temsil eder: ne kadar kaldırabildiğini, ne kadar sert vurabildiğini vb. GÜÇ, Hasar Değiştiricisinin bir bileşenidir. Bir karakterin GÜÇ değeri sıfıra düşerse, nesneleri hareket ettirme veya kaldırma yeteneğini kaybeder.
-
-#### Bünye (BÜN)
-
-BÜN, sağlık ve dayanıklılık ölçüsüdür. BÜN, Can Puanları ve İyileşme Oranının belirlenmesinde bir bileşendir. Herhangi bir nedenle BÜN sıfıra düşerse karakter ölür.
-
-#### Boyut (BOY)
-
-BOY, kütleyi ölçer ve Boy ile Kilo'yu belirtmeye yardımcı olur. BOY, Can Puanlarını bulmaya yardımcı olmak için kullanılır, çünkü daha büyük, daha ağır yaratıklar hasara karşı daha fazla dayanıklılığa sahip olma eğilimindedir. BOY, bir karakterin Hasar Değiştiricisini belirlemek için de kullanılabilir, çünkü kütle bir darbenin kuvvetini artırmaya yardımcı olur.
-
-#### Beceri (BEC)
-
-Çeviklik, denge ve refleksler BEC ile ölçülür. Aksiyon Puanları ve İnisiyatifin önemli bir yönüdür. Bir karakterin BEC değeri sıfıra düşerse, fonksiyonel felç yaşar.
-
-#### Zeka (ZEKA)
-
-ZEKA, bilişsel yeteneğin bir ölçüsüdür. Daha düşük ZEKÂ puanına sahip olanlar mutlaka aptal değildir, ancak zekâlarını ne kadar yaratıcı bir şekilde kullanabilecekleri konusunda kısıtlanmaları muhtemeldir. ZEKA, Aksiyon Puanları ve İnisiyatifin hesaplanmasında bir faktördür. ZEKA sıfıra düşerse, karakter tamamen akılsız hale gelir.
-
-#### Kudret (KUD)
-
-KUD, bir karakterin ruhunun, tininin, içsel dürtüsünün veya büyü kapasitesinin bir ölçüsüdür. KUD, bir karakterin Büyü Puanlarını ve Şans Puanlarını yönetir. Bir karakterin KUD değeri sıfıra düşerse, tüm bağımsız iradesini kaybeder.
-
-#### Karizma (KAR)
-
-Karizma, mevcudiyetin ve kişiliğin bir ölçüsüdür ve fiziksel görünümden bağımsızdır. KAR, bir karakterin Deneyim Değiştiricisini etkiler. KAR herhangi bir nedenle sıfıra düşerse, karakter artık başkalarıyla sosyal olarak etkileşime giremez, o kadar acı verici derecede çekingen veya asosyal hale gelir ki göz ardı edilir veya hatta uzaklaştırılır.
+Başlamak için iyi bir yol, ne tür bir karakter oynamak istediğinize dair bir fikre sahip olmaktır: belki kurnaz bir savaşçı ya da hilekâr bir kaçakçı. Belki de çalışkan bir akademisyeni veya bilge bir büyücüyü tercih edersiniz. Karakter konseptinizin bu aşamada ayrıntılı olması gerekmez; sadece Kültür ve Kariyer gibi belirli seçimleri yönlendirmenize yardımcı olacak bir fikir yeterlidir.
 
 ---
-### Özellikleri Hesaplama
+## 2. Adım: Nitelikler
 
-Her Özellik, ne kadar güçlü olduğunu belirleyen sayısal bir değere sahiptir. Her zar sonucunun yanındaki parantez içindeki sayı, ırksal ortalamayı belirtir ve karakterinizin sonuçlarını kendi türlerinin diğer üyeleriyle karşılaştırmak için bir ölçüt olarak kullanılır. Özelliklerinizi belirleme önerileri şunları içerir:
+Herkes, karakteriniz hakkında size bir şeyler söyleyen yedi Nitelik ile tanımlanır; ne kadar güçlü veya hızlı oldukları; ne kadar zeki veya sağlıklı oldukları gibi. Nitelikler, her _Mythras Imperative_ karakterinin temelini oluşturur ve Özellikler ve Beceriler gibi diğer unsurların çoğunun temelini oluşturur. Yedi Nitelik şunlardır:
 
-- **Zar Atışı:** GÜÇ, BÜN, BOY, BEC, ZEKA, KUD ve KAR için zar atın ve gelen her sonucu olduğu gibi alın. Bu atışların sonuçları biraz rastgele olabileceğinden, zar atıldıktan sonra bir karakter konseptine karar vermek genellikle daha iyidir. Aksi takdirde, nihai Özellikler önceden tasarlanmış bir rolü dışlayabilir. GÜÇ, BÜN, BEC, KUD ve KAR için 3z6 atın; BOY ve ZEKA için ise 2z6+6 atın.
-- **Zar Atışı, Ata:** Yukarıdaki gibidir, ancak oyuncu aynı zar aralığına sahip Özellikler arasındaki değerleri değiştirebilir. Örneğin, bir insanı oluştururken, oyuncu 3z6 aralığını paylaşan GÜÇ, BÜN, BEC, KUD ve KAR arasındaki değerleri veya 2z6+6 aralığını paylaşan BOY ve ZEKA arasındaki değerleri değiştirebilir — ancak her zaman aynı zar aralığı grubundan olmalıdırlar; bir gruptan diğerine atışları değiştiremezsiniz.
-- **Zar Atışı, Yüksek:** GÜÇ, BÜN, BOY, BEC, ZEKA, KUD ve KAR için belirtildiği gibi fazladan bir zar atın ve her birinden en düşük sonucu atın.
-- **Puan Oluşturma:** Oyuncular, 80 puanlık önceden belirlenmiş bir havuzdan Özellik puanları atarlar. Özellikler, yuvarlanan minimum değerden düşük veya maksimum değerden yüksek olamaz.
+- Güç (STR)
+- Bünye (CON)
+- Boyut (SIZ)
+- Çeviklik (DEX)
+- Zeka (INT)
+- Güç (POW)
+- Karizma (CHA)
+
+Nitelikleri hesaplamadan önce, aşağıdaki bölüm her birinin neyi temsil ettiğini açıklar.
+
+#### Güç (STR)
+
+STR fiziksel gücü temsil eder: ne kadar kaldırabileceğiniz, ne kadar sert vurabileceğiniz vb. STR, Hasar Değiştiricinin (Damage Modifier) bir bileşenidir. Bir karakter sıfır STR'ye düşerse, hareket etme veya nesneleri kaldırma yeteneğinden yoksun kalır.
+
+#### Bünye (CON)
+
+CON sağlık ve dayanıklılık ölçüsüdür. CON, Can Puanlarını (Hit Points) ve İyileşme Hızını (Healing Rate) belirlemede bir bileşendir. CON herhangi bir nedenle sıfıra düşerse karakter ölür.
+
+#### Boyut (SIZ)
+
+SIZ kütleyi ölçer ve Boy ve Kilonun belirlenmesine yardımcı olur. SIZ, daha büyük ve ağır yaratıklar hasara karşı daha fazla dayanıklılığa sahip olma eğiliminde olduğundan, Can Puanlarını hesaplamaya yardımcı olmak için kullanılır. SIZ ayrıca, kütle bir darbenin gücünü artırmaya yardımcı olduğundan karakterin Hasar Değiştiricisini belirlemek için de kullanılabilir.
+
+#### Çeviklik (DEX)
+
+Çeviklik, denge ve refleksler DEX ile ölçülür. Eylem Puanları ve İnisiyatifin önemli bir yönüdür. Bir karakter sıfır DEX'e düşerse, işlevsel felç yaşar.
+
+#### Zeka (INT)
+
+INT, bilişsel yeteneğin ölçüsüdür. INT puanı düşük olanlar mutlaka aptal değildir, ancak zekalarını ne kadar yaratıcı bir şekilde kullanabilecekleri konusunda kısıtlanmaları muhtemeldir. INT, Eylem Puanları ve İnisiyatif hesaplamasında bir faktördür. INT sıfıra düşerse, karakter tamamen zihinsizleşir.
+
+#### Güç (POW)
+
+POW, karakterin ruhunun, içsel dürtüsünün veya büyü kapasitesinin bir ölçüsüdür. POW, karakterin Büyü Puanlarını ve Şans Puanlarını yönetir. Bir karakterin POW'u sıfıra düşerse, tüm bağımsız iradesini kaybeder.
+
+#### Karizma (CHA)
+
+Karizma, dış görünüşten bağımsız olan bir varlık ve kişilik ölçüsüdür. CHA, karakterin Deneyim Değiştiricisini (Experience Modifier) etkiler. CHA sıfıra düşerse, karakter artık başkalarıyla sosyal etkileşime giremez; görmezden gelinecek veya dışlanacak kadar utangaç veya asosyal hale gelir.
 
 ---
-## Adım 3: Nitelikler
+### Niteliklerin Hesaplanması
 
-Her karakterin ayrıca bir dizi niteliği vardır. Bunlar, Özelliklerden türetilen veya onlar tarafından belirlenen ve oyunun belirli faktörlerini yönetmek için kullanılan yeteneklerdir.
+Her Nitelik, ne kadar güçlü olduğunu belirlemek için sayısal bir değere sahiptir. Her zar sonucundan sonra parantez içindeki sayı ırksal ortalamadır ve karakterinizin sonuçlarını türünün diğer üyeleriyle karşılaştırırken bir ölçü olarak kullanılır. Niteliklerinizi belirlemek için öneriler şunlardır:
 
-#### Aksiyon Puanları
+- **Zar Atma:** STR, CON, SIZ, DEX, INT, POW ve CHA için zarları atın ve her gelen sonucu olduğu gibi kabul edin. Bu atışların sonuçları biraz rastgele olabileceğinden, zarlar atıldıktan sonra bir karakter konseptine karar vermek genellikle daha iyidir. Aksi takdirde, nihai Nitelikler önceden tasarlanmış bir rolü engelleyebilir. STR, CON, DEX, POW ve CHA için 3d6; SIZ ve INT için 2d6+6 atın.
+- **Zar Atma, Ata:** Yukarıdaki gibidir, ancak oyuncu aynı zar aralığına sahip Nitelikler arasında değerleri değiştirebilir. Örneğin, bir insan oluştururken, oyuncu 3d6 aralığını paylaştıkları için STR, CON, DEX, POW ve CHA arasında veya 2d6+6 aralığını paylaştıkları için SIZ ve INT arasında değerleri değiştirebilir — ancak her zaman aynı zar aralığı grubundan olmalıdırlar; bir gruptan diğerine atışları değiştiremezsiniz.
+- **Zar Atma, Yüksek:** STR, CON, SIZ, DEX, INT, POW ve CHA için belirtildiği gibi bir ekstra zar atın ve her birinden en düşük sonucu düşürün.
+- **Puan Dağıtımı:** Oyuncular Nitelik puanlarını 80 puanlık önceden belirlenmiş bir havuzdan atarlar. Nitelikler, zarla belirlenen minimum değerden düşük veya maksimum değerden yüksek olamaz.
 
-Bir karakterin Bir Savaş Turunda ne sıklıkla hareket edebileceği Aksiyon Puanları ile belirlenir. Tüm _Mythras_ _Imperative_ karakterlerinin 2 Aksiyon Puanı vardır.
+---
+## 3. Adım: Özellikler
 
-#### Hasar Değiştiricisi
+Her karakterin ayrıca bir dizi özelliği vardır. Bunlar, Niteliklerden türetilen veya onlar tarafından belirlenen, oyunun belirli faktörlerini yönetmek için kullanılan yeteneklerdir.
 
-Daha büyük ve daha güçlü karakterler ve yaratıklar belirli durumlarda ek hasar kazanabilir; tam tersine, daha zayıf ve daha küçük karakterler verdikleri hasarı azaltabilir. Hasar Değiştiricisi genellikle savaş durumlarında kullanılır, ancak nesneleri kırmaya çalışırken de kullanılabilir. Hasar Değiştiricisi, silah veya alet tarafından verilen hasara eklenen veya çıkarılan fazladan bir zar atışıdır. Negatif bir Hasar Değiştiricisi, bir silahın hasarını sıfıra veya altına indirirse, hiçbir hasar verilmemiştir.
+#### Eylem Puanları
 
-GÜÇ ve BOY'u toplayın ve aşağıdaki Hasar Değiştirici tablosuna bakın.
+Bir karakterin bir Çatışma Turunda ne sıklıkla hareket edebileceği Eylem Puanları ile belirlenir. Tüm _Mythras Imperative_ karakterlerinin 2 Eylem Puanı vardır.
+
+#### Hasar Değiştirici
+
+Daha büyük ve daha güçlü karakterler ve yaratıklar, belirli durumlarda ek hasar kazanabilir; buna karşılık, daha zayıf ve daha küçük karakterler verdikleri hasarı azaltabilir. Hasar Değiştirici genellikle çatışma durumlarında kullanılır ancak nesneleri kırmaya çalışırken de kullanılabilir. Hasar Değiştirici, silah veya aletin verdiği hasara eklenen veya ondan çıkarılan ekstra bir zar atışıdır. Negatif bir Hasar Değiştirici, bir silahın hasarını sıfıra veya altına düşürürse, hiçbir hasar verilmemiş olur.
+
+STR ve SIZ'i toplayın ve aşağıdaki Hasar Değiştirici tablosuna bakın.
 
 ##### Hasar Değiştirici Tablosu
 
-| GÜÇ+BOY | Hasar Değiştiricisi |
+| STR+SIZ | Hasar Değiştirici |
 | :-: | :-:|
-| 5 veya daha az | –1z8 |
-| 6–10 | –1z6 |
-| 11–15 | –1z4 |
-| 16–20 | –1z2 |
+| 5 veya daha az | –1d8 |
+| 6–10 | –1d6 |
+| 11–15 | –1d4 |
+| 16–20 | –1d2 |
 | 21–25 | +0 |
-| 26–30 | +1z2 |
-| 31–35 | +1z4 |
-| 36–40 | +1z6 |
-| 41–45 | +1z8 |
-| 46–50 | +1z10 |
-| 51–60 | +1z12 |
-| 61–70 | +2z6 |
-| 71–80 | +1z8+1z6 |
-| 81–90 | +2z8 |
-| 91–100 | +1z10+1z8 |
-| 101–110 | +2z10 |
-| 111–120 | +2z10+1z2 |
-| Her 10 puan | İlerlemeye Devam Et |
+| 26–30 | +1d2 |
+| 31–35 | +1d4 |
+| 36–40 | +1d6 |
+| 41–45 | +1d8 |
+| 46–50 | +1d10 |
+| 51–60 | +1d12 |
+| 61–70 | +2d6 |
+| 71–80 | +1d8+1d6 |
+| 81–90 | +2d8 |
+| 91–100 | +1d10+1d8 |
+| 101–110 | +2d10 |
+| 111–120 | +2d10+1d2 |
+| Her 10 puan | İlerlemeye devam edin |
 
-#### Deneyim Değiştiricisi
+#### Deneyim Değiştirici
 
-Oyun boyunca karakterler yeteneklerini ve becerilerini geliştirir. Bu, [Oyun Sistemi](0004_Game_System.md?id=experience-rolls) bölümünde daha ayrıntılı açıklanan Deneyim Atışları kullanılarak başarılır.
+Oyun süresince karakterler becerilerini ve yeteneklerini geliştirirler. Bu, [Oyun Sistemi](0004_Game_System.md?id=experience-rolls) bölümünde daha ayrıntılı açıklanan Deneyim Atışları kullanılarak başarılır.
 
-Bir karakterin KAR puanı, karakterin akranlarıyla olan ilişkisini ve toplumdaki itibarını yansıtarak aldığı Deneyim Atışı sayısını ayarlayabilir. Yüksek bir KAR ile insanlar, ders alırken karakteri eğitmeye veya desteklemeye yardımcı olmak için kendilerini zorlamaya isteklidir. Tersine, özellikle düşük bir KAR ile, başkalarının yardımı olmadan yeteneklerini geliştirmekte zorluk çekebilirler; örneğin, karşı savaşacak birini bulmak gibi.
+Bir karakterin CHA puanı, karakterin aldığı Deneyim Atışlarının sayısını ayarlayabilir; bu, akranlarıyla olan ilişkilerini ve toplumdaki itibarını yansıtır. Yüksek bir CHA ile insanlar, karakter eğitim alırken ona yardım etmek veya destek olmak için kendilerini öne çıkarırlar. Buna karşılık, özellikle düşük bir CHA ile, başkalarının yardımı olmadan yeteneklerini geliştirmek biraz zor olabilir; örneğin, karşı karşıya gelebilecek birini bulmak.
 
 ##### Deneyim Değiştirici Tablosu
 
-| KAR | Deneyim Değiştirici |
+| CHA | Deneyim Değ. |
 |:-:| :-:|
 | 6 veya daha az | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Her 6 puan | +1 |
 
-#### İyileşme Oranı
+#### İyileşme Hızı
 
-Yaralandıktan sonra bir karakterin iyileşmesi gerekir. İyileşme Oranı, yaralardan doğal olarak ne kadar hızlı iyileştiğini belirler. Yaralanmanın şiddetine bağlı olarak, İyileşme Oranı, günde, haftada veya ayda kaç Can Puanının geri kazanıldığını gösterir.
+Yaralandıktan sonra karakterin iyileşmesi gerekir. İyileşme Hızı, yaralardan ne kadar hızlı doğal bir şekilde iyileştiğini belirler. Yaralanmanın ciddiyetine bağlı olarak, İyileşme Hızı günde, haftada veya ayda kaç Can Puanının geri kazanıldığını gösterir.
 
-##### İyileşme Oranı Tablosu
+##### İyileşme Hızı Tablosu
 
-| BÜN | İyileşme Oranı |
+| CON | İyileşme Hızı |
 | :-:| :-:|
 | 6 veya daha az | 1 |
 | 7-12 | 2 |
@@ -134,15 +134,15 @@ Yaralandıktan sonra bir karakterin iyileşmesi gerekir. İyileşme Oranı, yara
 
 #### Can Puanları
 
-Can Puanları, bir vücut bölgesinin işe yaramaz hale gelmeden, potansiyel olarak etkisiz hale gelmesi ve nihayetinde karakterin ölümüyle sonuçlanmadan önce ne kadar hasara dayanabileceğini temsil eder. Her yaratığın vücudu ayrı konumlara ayrılmıştır – örneğin, insanların yedi tanesi vardır: baş, göğüs, karın, kollar ve bacaklar – her konumun kendi Can Puanları vardır.
+Can Puanları, vücudun bir bölgesinin etkisiz hale gelmeden, muhtemelen sakatlanma ve nihayetinde karakterin ölümüyle sonuçlanmadan önce ne kadar yaralanmaya dayanabileceğini temsil eder. Her yaratığın vücudu ayrı bölgelere ayrılmıştır – örneğin insanların yedi bölgesi vardır: baş, göğüs, karın, kollar ve bacaklar – her bölgenin kendi Can Puanı vardır.
 
-Canavarlar veya farklı hayvan sınıfları gibi bazı yaratıklar, doğası gereği genellikle radikal olarak farklı vücut yapılarına sahiptir, ancak sahip oldukları her konumun yine de Can Puanları vardır. Bir konumun Can Puanları herhangi bir tür hasarla belirli bir seviyeye düşürüldüğünde, karakter yaralanmanın ciddiyetini yansıtan belirli sonuçlar yaşar. Yaralar hakkında daha fazla bilgi için [Hasar ve Yara Seviyeleri](0004_Game_System.md?id=damage-and-wound-levels) bölümüne bakın.
+Canavarlar veya farklı hayvan sınıfları gibi bazı yaratıklar, doğaları gereği genellikle kökten farklı vücut yapılarına sahiptir, ancak sahip oldukları her bölgenin yine de Can Puanı vardır. Bir bölgenin Can Puanı herhangi bir türdeki hasar yoluyla belirli bir seviyeye düştüğünde, karakter yaralanmanın ciddiyetini yansıtan belirli sonuçlara maruz kalır. Yaralarla ilgili daha fazla bilgi için [Hasar ve Yara Seviyeleri](0004_Game_System.md?id=damage-and-wound-levels) bölümüne bakın.
 
-Her konumun Can Puanlarını hesaplamak için, BÜN ve BOY'u toplayın ve sonucu yukarıdaki Can Puanları tablosunda çapraz referans alın.
+Her bölgenin Can Puanını hesaplamak için CON ve SIZ'i toplayın ve sonucu yukarıdaki Can Puanları tablosunda çapraz referanslayın.
 
-##### Konum Başına Can Puanları
+##### Bölge Başına Can Puanı
 
-| Konum | BÜN+BOY |  |  |  |  |  |  |  |  |
+| Bölge | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Baş | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -153,23 +153,23 @@ Her konumun Can Puanlarını hesaplamak için, BÜN ve BOY'u toplayın ve sonucu
 
 #### İnisiyatif
 
-Birinin savaşta tepki verdiği an İnisiyatif tarafından yönetilir. İnisiyatif, İnisiyatif atışları için bir değiştirici görevi görür; İnisiyatif ne kadar yüksekse, savaş durumunda o kadar hızlı tepki verirsiniz ve ne zaman hareket edebileceğinizi belirler. Zırh gibi diğer faktörler onu değiştirir. [Savaş](0005_Combat.md?id=combat-style) bölümü İnisiyatifin nasıl kullanıldığı hakkında daha fazla ayrıntıya girer.
+Çatışmada birinin tepki verdiği an İnisiyatif tarafından yönetilir. İnisiyatif, İnisiyatif atışlarına bir değiştirici olarak hareket eder; İnisiyatif ne kadar yüksekse, bir çatışma durumunda o kadar hızlı yanıt verirsiniz ve ne zaman hareket edebileceğinizi belirlersiniz. Diğer faktörler – örneğin zırh – bunu değiştirir. [Çatışma](0005_Combat.md?id=combat-style) bölümü İnisiyatifin nasıl kullanıldığına dair daha fazla ayrıntıya girer.
 
-İnisiyatif, BEC ve ZEKA Özelliklerinin ortalamasıdır.
+İnisiyatif, DEX ve INT Niteliklerinin ortalamasıdır.
 
 #### Şans Puanları
 
-Şans Puanları, maceraperest kahramanları sıradan insanlardan ayıran o tuhaf gücü temsil eder. Buna kader, karma veya sadece iyi şans deyin. Şans Puanları şunlar için kullanılabilir:
+Şans Puanları, maceracı kahramanları sıradan insanlardan ayıran o garip gücü temsil eder. Buna kader, karma veya basitçe iyi şans deyin. Şans Puanları şunlar için kullanılabilir:
 
-- Eğer zar atışları elverişsizse zarları yeniden atmak.
+- Elverişsiz olmaları durumunda zarları tekrar atmak.
 - Fiziksel hasarı veya diğer talihsiz durumları hafifletmek.
-- Savaşta hayati bir anda avantaj elde etmek.
+- Çatışmada hayati bir anda avantaj elde etmek.
 
-Tam olarak nasıl ve ne zaman kullanıldıkları [Oyun Sistemi](0004_Game_System.md?id=game-system) bölümünde açıklanmıştır. Bir Şans Puanı harcandığında, havuz azalır; Şans Puanları bittiğinde, Oyun Yöneticisi doğaçlama bir ödül yapmadıkça, bir sonraki oyun oturumuna kadar daha fazlası mevcut değildir ve bu oturumda normal değerlerine geri dönerler.
+Tam olarak nasıl ve ne zaman kullanıldıkları [Oyun Sistemi](0004_Game_System.md?id=game-system) bölümünde açıklanmıştır. Bir Şans Puanı harcandığında, havuz azalır; Şans Puanınız kalmadığında, Oyun Yöneticisi doğaçlama bir ödül vermedikçe, bir sonraki oyun oturumuna kadar (normal değerlerine yenilenene kadar) başka puan yoktur.
 
 ##### Şans Puanları Tablosu
 
-| KUD | Şans Puanları |
+| POW | Şans Puanları |
 | :-- | :-: |
 | 6 veya daha az | 1 |
 | 7-12 | 2 |
@@ -178,195 +178,195 @@ Tam olarak nasıl ve ne zaman kullanıldıkları [Oyun Sistemi](0004_Game_System
 
 #### Büyü Puanları
 
-_Mythras_ _Imperative_'de kullanılan mistik yetenekler, güçler ve büyüler genellikle Büyü Puanlarına dayanır. Büyünün mevcudiyeti bir kampanya ortamı veya belirli büyülü mesleklerle sınırlı olabileceğinden, bazı karakterler bu Niteliği gereksiz bulacaktır.
+_Mythras Imperative_ oyununda kullanılan mistik yetenekler, güçler ve büyüler genellikle Büyü Puanlarına dayanır. Büyünün mevcudiyeti bir kampanya ayarı veya belirli büyüsel mesleklerle sınırlı olabileceğinden, bazı karakterler bu Özelliği gereksiz bulacaktır.
 
-Bu güçleri kullanabilenler için, bir karakterin Büyü Puanları KUD değerine eşittir. Bu puanlar büyü yapmak için kullanılır ve büyünün maliyeti kullanılan büyünün türüne bağlıdır. Büyücüler Büyü Puanları bittiğinde, Büyü Puanları yenilenene kadar büyü yapma yetenekleri tükenmiştir.
+Bu tür güçleri kullanabilenler için, bir karakterin Büyü Puanları POW'una eşittir. Bu puanlar, maliyeti kullanılan büyü türüne bağlı olan büyüleri yapmak için kullanılır. Büyücüler Büyü Puanları tükendiğinde, Büyü Puanları yenilenene kadar herhangi bir büyü yapma yeteneklerini tüketmiş olurlar.
 
 #### Hareket Hızı
 
-Her yaratığın bir Hareket Hızı vardır – belirli bir süre boyunca katedilebilecek metre sayısı. Hareket Özelliklerden hesaplanmaz, ancak türden türe değişen varsayılan bir değerdir. İnsanlar için temel Hareket Hızı 6 metredir.
+Her yaratığın bir Hareket Hızı vardır – belirli bir süre içinde katedilebilecek metre sayısı. Hareket, Niteliklerden hesaplanmaz, türden türe değişen varsayılan bir değerdir. İnsanlar için temel Hareket Hızı 6 metredir.
 
-Yürüme'den daha hızlı yürüyüşler, Hareket derecesine bir çarpan uygular:
-- **Koşu:** Hareket x3
-- **Sprint:** Hareket x5
+Yürüyüşten daha hızlı yürüyüşler, Hareket derecesine bir çarpan uygular:
+- **Koşma (Run):** Hareket x3  
+- **Sürat Koşusu (Sprint):** Hareket x5
 
 <details>
 
-<summary>* Topluluk Hataları</summary>
+<summary>* Topluluk Düzeltmeleri</summary>
 
-_**Yürüyüşler: Yürüme, Koşu, Sprint**_
+_**Yürüyüşler: Yürüyüş, Koşma, Sürat Koşusu**_
 
-_Mythras Imperative'in yayınlanmış sürümünde farklı yürüyüş hızlarında hareket etmek için açık kurallar bulunmamakla birlikte, bunlar Mythras çekirdek kural kitabında yer almaktadır. Yukarıdaki yürüyüş hız çarpanları Topluluk Hataları kapsamında eklenmiştir._
+_Mythras Imperative'in yayınlanmış sürümünde, Mythras ana kural kitabında yer almalarına rağmen farklı Yürüyüşlerde hareket etmek için açık kurallar yoktur. Yukarıdaki Yürüyüş çarpanları Topluluk Düzeltmeleri kapsamında eklenmiştir._ 
 
-_Gerektiğinde Yürüyüşler aşağıdaki gibi ele alınmalıdır:_
+_Gerektiğinde, Yürüyüşleri şu şekilde ele almak yeterli olmalıdır:_
 
-- _Yürüme'den daha hızlı yürüyüşler, Hareket derecesine bir çarpan uygular: Koşu için 3 kat, Sprint için 5 kat._
-- _Koşu veya Sprint hızında iken, karakterler saldırmak veya büyü yapmak gibi çoğu proaktif eylemi deneyemezler. Bazı istisnalar şunları içerir..._
-  - _Hücum kuralları kullanılırken yapılan saldırılar._
-  - _Çatışma özelliğine sahip menzilli silahlarla ateş etmek._
-- _Genel bir kural olarak, izin verilen tüm eylemler Koşu'da bir Derece daha zor, Sprint'te ise iki Derece daha zor olarak ele alınmalıdır._
+- _Yürüyüşten daha hızlı yürüyüşler, Hareket derecesine bir çarpan uygular: Koşma için 3x, Sürat Koşusu için 5x._
+- _Koşma veya Sürat Koşusu Yürüyüşündeyken, karakterler saldırma veya büyü yapma gibi çoğu proaktif eylemi deneyemezler. Bazı istisnalar şunları içerir..._
+  - _Şarj etme kurallarını kullanırken saldırılar._
+  - _Çatışmacı (Skirmishing) özelliğine sahip menzilli silahları ateşleme._ 
+- _Genel bir kural olarak, izin verilen tüm eylemler Koşma sırasında bir Derece daha zor, Sürat Koşusunda ise iki Derece daha zor olarak ele alınmalıdır._
 
 </details>
 
 ---
-## Adım 4: Yetenekler
+## 4. Adım: Beceriler
 
-Yetenekler iki sınıfa ayrılır. Herkesin Standart yetenekleri vardır – etrafta gizlenmek veya başkalarını etkilemek gibi şeyler. Profesyonel yetenekler ise, denenmeden önce özel eğitim gerektiren şeylerdir – vahşi hayvanları takip etmek, uzay aracı pilotluğu yapmak veya antik dilleri anlamak gibi. Karakterlere yetenek edinmek için üç havuz puanı verilir; ilk havuz büyüdükleri Kültür için, ikincisi çocukluktan sonra edindikleri Kariyer için ve sonuncusu da yetenek setlerini daha da tamamlamak içindir. Varsayılan olarak, yeni karakterler Kültür yetenek havuzuna 100 puan, Kariyer yetenek havuzuna 100 puan ve yetenekleri tamamlamak için ek 150 Bonus puanı atarlar. Her Kültür ve Kariyer, bu yetenek puanlarının atanabileceği belirli bir standart ve profesyonel yetenek yelpazesine sahiptir.
+Beceriler iki sınıfa ayrılır. Herkesin Standart becerileri vardır – etrafta gizlice dolaşmak veya başkalarını etkilemek gibi şeyler. Öte yandan Profesyonel beceriler, denenmeden önce özel eğitim gerektiren becerilerdir – vahşi hayvanları izlemek, uzay aracı kullanmak veya antik dilleri anlamak gibi. Karakterlere beceri edinmek için harcayabilecekleri üç puan havuzu verilir; birincisi büyüdükleri Kültür için, ikincisi çocukluktan sonra benimsedikleri Kariyer için ve sonuncusu beceri setlerini tamamlamak için. Varsayılan olarak, yeni karakterler Kültür beceri havuzuna 100 puan, Kariyer beceri havuzuna 100 puan ve tamamlamak için 150 Bonus puan atarlar. Her Kültür ve Kariyer, bu beceri puanlarının atanabileceği tanımlanmış bir standart ve profesyonel beceri aralığına sahiptir.
 
-##### Savaş Tarzı
+##### Çatışma Stili
 
-Savaş Tarzı, takip eden Kültürel açıklamalarda listelenmiştir. Savaş Tarzları, [Savaş](0005_Combat.md?id=combat-style) bölümünde daha ayrıntılı olarak açıklanmıştır ve GÜÇ+BEC'ye eşit Temel Yüzdeye sahiptir.
+Çatışma Stili, takip eden Kültürel açıklamalarda listelenmiştir. Çatışma Stilleri, [Çatışma](0005_Combat.md?id=combat-style) bölümünde daha ayrıntılı açıklanmıştır ve STR+DEX'e eşit bir Temel Yüzdeye sahiptir.
 
-##### Standart Yetenekler
+##### Standart Beceriler
 
-| Yetenek | Temel Yüzde |
+| Beceri | Temel Yüzde |
 | :-- | :-- |
-| Atletizm | GÜÇ+BEC |
-| Botçuluk | GÜÇ+BÜN |
-| Kas | GÜÇ+BOY |
-| Gizlenme | BEC+KUD |
-| Gelenekler | ZEKÂ x2, +40\* |
-| Dans | BEC+KAR |
-| Aldatma | ZEKÂ+KAR |
-| Sürme | BEC+KUD |
-| Dayanıklılık | BÜN x2 |
-| Kaçınma | BEC x2 |
-| İlk Yardım | ZEKÂ+BEC |
-| Etkileme | KAR x2 |
-| İçgörü | ZEKÂ+KUD |
-| Yerel | ZEKÂ x2 |
-| Ana Dil | ZEKÂ+KAR, +40\* |
-| Algılama | ZEKÂ+KUD |
-| Binicilik | BEC+KUD |
-| Şarkı Söyleme | KAR+KUD |
-| Gizlilik | BEC+ZEKÂ |
-| Yüzme | GÜÇ+BÜN |
-| Silahsız | GÜÇ+BEC |
-| İrade Gücü | KUD x2 |
+| Atletizm | STR+DEX |
+| Bot Kullanma | STR+CON |
+| Brawn | STR+SIZ |
+| Gizlenme | DEX+POW |
+| Gelenekler | INT x2, +40\* |
+| Dans | DEX+CHA |
+| Hile | INT+CHA |
+| Sürüş | DEX+POW |
+| Dayanıklılık | CON x2 |
+| Kaçınma | DEX x2 |
+| İlk Yardım | INT+DEX |
+| Etkileme | CHA x2 |
+| İçgörü | INT+POW |
+| Yerel Bilgi | INT x2 |
+| Anadil | INT+CHA, +40\* |
+| Algı | INT+POW |
+| Binicilik | DEX+POW |
+| Şarkı | CHA+POW |
+| Gizlilik | DEX+INT |
+| Yüzme | STR+CON |
+| Silahsız | STR+DEX |
+| İrade Gücü | POW x2 |
 
-_\* Hem Gelenekler hem de karakterin Ana Dili (insanlar için Ortak Dil) için +40% statik bonus içerir._
+_\* Gelenekler ve karakterin Anadili (insanlar için Ortak) için +%40'lık bir statik bonus içerir._
 
 ---
-## Adım 5: Kültür
+## 5. Adım: Kültür
 
-Kültür, karakterin büyüdüğü toplum türünü belirler ve böylece sahip olabileceği belirli bakış açılarını ve felsefeleri öngörür. Daha pratik olarak, kültür, karakterinizin genel yeteneklerini şekillendiren çeşitli yeteneklerin değerlerini artırmaya yardımcı olur. Dört temel insan kültürü vardır: Barbar, Medeni, Göçebe ve İlkel. Her kültürel geçmiş, buna uygun bir dizi Standart yetenek listeler ve oyuncuyu sunulan Profesyonel yeteneklerden en fazla üçünü seçmeye davet eder: bu şekilde, aynı kültürel geçmişe sahip oyuncular, maceracılarının geliştirdikleri alanlarda farklı olmasını sağlayabilirler. 100 Kültür yetenek puanını kariyerin listelenen Standart yetenekleri ve seçilen Profesyonel yetenekleri arasında dağıtın, her yeteneği geliştirilmesi için harcanan her puan için %1 artırın. Oyun Yöneticileri, herhangi bir yeteneğe kaç yetenek puanı uygulanabileceğine bir üst sınır koymak isteyebilirler.
+Kültür, karakterin içinde yetiştirildiği toplumun türünü belirler ve bu nedenle sahip olabileceği belirli bakış açılarını ve felsefeleri öngörür. Daha pratik olarak, kültür, karakterinizin genel yeteneklerini şekillendiren çeşitli becerilerin değerlerini artırmaya yardımcı olur. Dört temel insan kültürü vardır: Barbar, Medeni, Göçebe ve İlkel. Her kültürel arka plan, kendisine uygun bir Standart beceri aralığını listeler ve oyuncuyu sunulan Profesyonel becerilerden üç tanesini seçmeye davet eder: bu şekilde aynı kültürel arka plandan gelen oyuncular, maceracılarının geliştirdikleri alanlarda farklı olduklarından emin olabilirler. 100 Kültür becerisi puanını kariyerin listelenen Standart becerileri ve seçilen Profesyonel beceriler arasında dağıtın, her beceriyi onu geliştirmek için harcanan her puan için %1 artırın. Oyun Yöneticileri, belirli bir beceriye kaç beceri puanı uygulanabileceğine bir sınır koymak isteyebilir.
 
 ### Barbar
 
-Kabile yapısındaki barbarlar, büyük kasabalarda ve şehirlerde yaşayanları zayıf ve yozlaşmış olarak görerek medeniyetten kaçınma eğilimindedir. Kendi yerleşim yerleri de yerleşik olsa da, çok daha küçük ve doğaya daha yakındır. Barbar kabileleri, genellikle yarı evcilleştirilmiş vahşi yaşamdan oluşan, avlanma, otlatma ve çiftçilik amaçları için kendi toprakları olarak gördükleri farklı bölgeleri işgal ederler. Çoğu, hayatları boyunca birçok tehlikenin üstesinden gelmeleri gerektiğinden – vahşi yaşamın yaratıklarıyla yüzleşmek veya topraklarını rakip kabilelere karşı savunmak için toplanmak – silah kullanımında ustadır. Küçük topluluklarda yaşadıkları için akrabalık ve klan bağları toplumlarının güçlü unsurlarıdır.
+Doğası gereği kabile odaklı olan barbarlar, büyük kasabalarda ve şehirlerde yaşayanları zayıf ve yozlaşmış olarak görerek medeniyetten kaçma eğilimindedir. Kendi yerleşimleri de yerleşik olmasına rağmen, genellikle çok daha küçük olma ve doğaya daha yakın olma eğilimindedirler. Barbar kabileleri, avlanma, otlatma ve tarım amacıyla kendilerine ait saydıkları, genellikle yarı evcilleştirilmiş vahşi doğa olan belirgin bölgeleri işgal ederler. Çoğu, yaşamları boyunca birçok tehlikeyi aşmaları gerektiğinden – vahşi doğanın yaratıklarıyla yüzleşmek veya topraklarını rakip kabilelere karşı savunmak için toplanmak – silah kullanımında yeteneklidirler. Küçük topluluklarda yaşadıkları için akrabalık ve klan bağları toplumlarının güçlü unsurlarıdır.
 
-#### Yetenekler
+#### Beceriler
 
-- **Standart Yetenekler:** Atletizm, Kas, Dayanıklılık, İlk Yardım, Yerel, Algılama; ve ya Botçuluk ya da Binicilik. Ek olarak, oyuncu kültürel bir Savaş Tarzı da seçebilir.
-- **Profesyonel Yetenekler:** Zanaat (herhangi), İyileştirme, İrfan (herhangi), Müzisyenlik, Navigasyon, Denizcilik, Hayatta Kalma, İz Sürme.
+- **Standart Beceriler:** Atletizm, Brawn, Dayanıklılık, İlk Yardım, Yerel Bilgi, Algı; ve Bot Kullanma veya Binicilik. Ayrıca, oyuncu kültürel bir Çatışma Stili de seçebilir.
+- **Profesyonel Beceriler:** Zanaat (herhangi), İyileştirme, Bilgi (herhangi), Müzisyenlik, Navigasyon, Denizcilik, Hayatta Kalma, İz Sürme.
 
 ### Medeni
 
-Medeni kültür, karmaşık sosyal kodlarla desteklenen bir hukuk ve düzen görünümü ve bir bürokrasi tarafından desteklenmesiyle özetlenir. Medeni insanlar, başarıları kalıcılığa yöneldiği için kendilerini diğer tüm kültürlerden üstün görürler: genişleyen şehirler, heybetli tapınaklar, kutlama anıtları ve tarih ile olayların kitaplara, mezar taşlarına ve parşömenlere kaydedilmesi. Elbette, bu ince bir örtüdür. En medeni şehirler bile herhangi bir Barbar sınır yerleşiminden daha kanunsuz olabilir; ve sosyal kodlar göçebelerin misafirperverlik ritüellerinden daha kaba olabilir. Ancak Medeni kültür, başarılarıyla, altyapısıyla, profesyonel zanaatkârlarıyla ve istediği her yere kolayca ulaşabilme yeteneğiyle gurur duyar.
+Medeni kültür, karmaşık sosyal kurallarla desteklenen ve bir bürokrasi tarafından desteklenen bir yasa ve düzen görünümüyle somutlaşır. Medeni insanlar, başarıları kalıcılığa yöneldiği için kendilerini diğer tüm kültürlerden üstün görürler: genişleyen şehirler, heybetli tapınaklar, kutlama anıtları ve tarihin ve olayların kitaplarda, mezar taşlarında ve parşömenlerde kaydedilmesi. Elbette, bu ince bir ciladır. Şehirlerin en Medeni olanı bile herhangi bir Barbar sınır yerleşiminden daha kanunsuz olabilir; ve sosyal kurallar göçebelerin misafirperverlik ritüellerinden daha kaba olabilir. Ancak Medeni kültür, başarılarıyla, altyapısıyla, profesyonel zanaatkarlarıyla ve gitmek istediği her yere kolayca ulaşabilme yeteneğiyle gurur duyar.
 
-#### Yetenekler
+#### Beceriler
 
-- **Standart Yetenekler:** Gizlenme, Aldatma, Sürme, Etkileme, İçgörü, Yerel, İrade Gücü. Ek olarak, oyuncu kültürel bir Savaş Tarzı da seçebilir.
-- **Profesyonel Yetenekler:** Sanat (herhangi), Ticaret, Zanaat (herhangi), Nezaket, Dil (herhangi), İrfan (herhangi), Müzisyenlik, Sokak Bilgisi.
+- **Standart Beceriler:** Gizlenme, Hile, Sürüş, Etkileme, İçgörü, Yerel Bilgi, İrade Gücü. Ayrıca, oyuncu kültürel bir Çatışma Stili de seçebilir.
+- **Profesyonel Beceriler:** Sanat (herhangi), Ticaret, Zanaat (herhangi), Nezaket, Dil (herhangi), Bilgi (herhangi), Müzisyenlik, Sokak Bilgisi.
 
 ### Göçebe
 
-Göçebe insanlar sürekli hareket halindedir, kendilerine ait bir evleri ve ocakları yoktur. Amaçsızca dolaşabilirler veya yıl boyunca sürekli yer değiştirdikleri birkaç kampı olabilir. Çok az ekin yetiştirirler ve bunun yerine hayvan veya balık göçlerini takip ederler, hatta kendi evcil hayvanlarını bile gütleyebilirler. Göçebeler, çevrelerinden hızlı ve kolayca bulduklarıyla geçinme konusunda ustadırlar, hiçbir şeyi israf etmezler. Göçebe kültürünün yetenekleri, çevrelerine göre uyarlanmalıdır. Bazıları yaya olarak büyük mesafeler kat eder, diğerleri karavanlarda yaşar veya tuhaf yaratıklara biner, bazıları ise büyük yüzen sallar üzerinde okyanusları aşar.
+Göçebe insanlar sürekli hareket halindedir, kendilerine ait evleri ve ocakları yoktur. Amaçsızca dolaşabilirler veya yıl boyunca gidip geldikleri birkaç kampları olabilir. Az ekin yetiştirirler ve bunun yerine hayvanların veya balıkların göçlerini takip ederler, belki de kendi evcil hayvanlarını sürüler halinde güderler. Göçebeler, çevrelerinden hızlı ve kolay bir şekilde toplayabildikleri şeylerle geçinmekte yeteneklidirler, hiçbir şeyin ziyan olmasına izin vermezler. Göçebe kültürünün becerileri çevrelerine göre uyarlanmalıdır. Bazıları yürüyerek çok uzak mesafeler kat eder, diğerleri kervanlarda yaşar veya garip yaratıklara biner ve bazıları büyük yüzen sallar üzerinde okyanusları aşar.
 
-#### Yetenekler
+#### Beceriler
 
-- **Standart Yetenekler:** Dayanıklılık, İlk Yardım, Yerel, Algılama, Gizlilik; ve aşağıdakilerden ikisi: Atletizm, Botçuluk, Yüzme, Sürme veya Binicilik, birincil seyahat moduna bağlı olarak. Ek olarak, oyuncu kültürel bir Savaş Tarzı da seçebilir.
-- **Profesyonel Yetenekler:** Zanaat (herhangi), Kültür (herhangi), Dil (herhangi), İrfan (herhangi), Müzisyenlik, Navigasyon, Hayatta Kalma, İz Sürme.
+- **Standart Beceriler:** Dayanıklılık, İlk Yardım, Yerel Bilgi, Algı, Gizlilik; ve aşağıdakilerden ikisi: birincil seyahat moduna bağlı olarak Atletizm, Bot Kullanma, Yüzme, Sürüş veya Binicilik. Ayrıca, oyuncu kültürel bir Çatışma Stili de seçebilir.
+- **Profesyonel Beceriler:** Zanaat (herhangi), Kültür (herhangi), Dil (herhangi), Bilgi (herhangi), Müzisyenlik, Navigasyon, Hayatta Kalma, İz Sürme.
 
 ### İlkel
 
-Tüm halklar arasında, ilkel insanlar toprağa en yakın, gizli sırlarıyla uyum içinde yaşayanlardır. Geniş aile grupları halinde yaşayan ilkel kültürler, mağaralar ve doğal barınma alanlarından, barakalara veya çok basit kulübelere kadar değişebilen çok basit yerleşim yerlerinin etrafında toplanırlar. İlkeller genellikle çiftçilik ve hayvancılık için ya çok az ya da kötü gelişmiş sistemlere sahip avcı-toplayıcılardır.
+Tüm insanlar arasında ilkeller, gizli sırlarıyla uyum içinde, toprakla en yakın yaşayanlardır. Geniş aile grupları halinde yaşayan ilkel kültürler, mağaralardan ve doğal barınak alanlarından sundurmalara veya çok basit kulübelere kadar değişebilen çok basit konutların etrafında toplanırlar. İlkeller tipik olarak, tarım ve hayvancılık için az veya zayıf geliştirilmiş sistemlere sahip avcı-toplayıcılardır.
 
-Ancak, genellikle batıl inançlara dayanan belirli kültürel inançlar çok iyi tanımlanmış olabilir. Çok az ilkel kültür, yazılı bir dil geliştirmeye yaklaşmıştır, ancak resimler ve diğer resimsel semboller bir iletişim aracı olarak hizmet eder.
+Bununla birlikte, genellikle batıl inançlara dayanan belirli kültürel inançlar çok iyi tanımlanmış olabilir. Çok az ilkel kültür, resimler ve diğer resimsel semboller bir iletişim aracı olarak hizmet etse de yazılı bir dile yaklaşan herhangi bir şey geliştirmiştir.
 
-#### Yetenekler
+#### Beceriler
 
-- **Standart Yetenekler:** Kas, Dayanıklılık, Kaçınma, Yerel, Algılama, Gizlilik; ve ya Atletizm, Botçuluk ya da Yüzme. Ek olarak, oyuncu kültürel bir Savaş Tarzı da seçebilir.
-- **Profesyonel Yetenekler:** Zanaat (herhangi), İyileştirme, İrfan (herhangi), Müzisyenlik, Navigasyon, Hayatta Kalma, İz Sürme.
+- **Standart Beceriler:** Brawn, Dayanıklılık, Kaçınma, Yerel Bilgi, Algı, Gizlilik; ve Atletizm, Bot Kullanma veya Yüzme'den biri. Ayrıca, oyuncu kültürel bir Çatışma Stili de seçebilir.
+- **Profesyonel Beceriler:** Zanaat (herhangi), İyileştirme, Bilgi (herhangi), Müzisyenlik, Navigasyon, Hayatta Kalma, İz Sürme.
 
 ---
-## Adım 6: Kariyer
+## 6. Adım: Kariyer
 
-Her karakter oyuna bir kariyerde eğitim almış olarak başlar. Seçilen meslek, karakterin maceraperest hayata başlarken devam ettirmeyi düşündüğü meslek olmak zorunda değildir, ancak yetişkinliğe geçişin bir parçası olarak başlanan ve yetenek gelişimini daha da tanımlayan kariyerdir. Her kariyer, kendisine uygun bir dizi Standart yetenek sunar ve oyuncunun listelenen Profesyonel yeteneklerden en fazla üçünü seçmesine izin verir. 100 Kariyer Yetenek puanını kariyerin listelenen Standart yetenekleri ve seçilen Profesyonel yetenekleri arasında dağıtın, her yeteneği geliştirilmesi için harcanan her puan için %1 artırın. Kültürlerde olduğu gibi, Oyun Yöneticisi herhangi bir yeteneğe uygulanabilecek yetenek puanlarına bir üst sınır uygulayabilir.
+Her karakter oyuna bir kariyerde eğitim almış olarak başlar. Seçilen meslek, karakter maceraya atılmaya başlarken karakterin sürdürmeye devam edeceği meslek olmayabilir, ancak yetişkinliğe geçişin bir parçası olarak girilen kariyerdir ve beceri gelişimini daha da tanımlar. Her kariyer, kendisine uygun bir Standart beceri aralığını sunar ve oyuncunun listelenen Profesyonel becerilerden üçünü seçmesine izin verir. 100 Kariyer Beceri puanını kariyerin listelenen Standart becerileri ve seçilen Profesyonel beceriler arasında dağıtın, her beceriyi onu geliştirmek için harcanan her puan için %1 artırın. Kültürlerde olduğu gibi, bir Oyun Yöneticisi belirli bir beceriye kaç beceri puanı uygulanabileceğine bir sınır koyabilir.
 
-Pilot gibi belirli Profesyonel yetenekler, bir fantezi dünyasında bulunma olasılığı düşüktür. Yetenekler hakkında daha ayrıntılı bilgi [Yetenekler](0002_Characters.md?id=step-4-skills) bölümünde tartışılmaktadır.
+Pilot gibi özel Profesyonel becerilerin fantastik bir dünyada bulunması pek olası değildir. Beceriler, [Beceriler](0002_Characters.md?id=step-4-skills) bölümünde daha ayrıntılı olarak tartışılmaktadır.
 
 #### Kariyer Tablosu
 
-| Kariyer Adı | Standart Yetenekler | Profesyonel Yetenekler |
+| Kariyer Adı | Standart Beceriler | Profesyonel Beceriler |
 | :-- | :-- | :-- |
-| Ajan (Ajitatör, Suikastçı, Dedektif, Muhbir, Casus…) | Gizlenme, Aldatma, Kaçınma, İçgörü, Algılama, Gizlilik; Savaş Tarzı (Belirli Ajan veya Kültürel Tarz) | Kültür (herhangi), Kılık Değiştirme, Dil (herhangi), El Çabukluğu, Sokak Bilgisi, Hayatta Kalma, İz Sürme |
-| Hayvan Eğitmeni (Hayvan Yetiştiricisi, Canavar Terbiyecisi, Hayvanat Bahçesi Bakıcısı…) | Sürme, Dayanıklılık, İlk Yardım, Etkileme, Yerel, Binicilik, İrade Gücü | Zanaat (Hayvan Yetiştiriciliği), Ticaret, İyileştirme (Belirli Tür), İrfan (Belirli Tür), Hayatta Kalma, Öğretme (Belirli Tür), İz Sürme |
-| Ödül Avcısı (Kefalet Takip Ajanı, Ödül Katili, Kelle Avcısı, Kaçak Takipçisi…) | Atletizm, Dayanıklılık, Kaçınma, İçgörü, Algılama, Gizlilik; Savaş Tarzı (herhangi) | Bürokrasi, Ticaret, Kültür (herhangi), Dilbilim, Sokak Bilgisi, Hayatta Kalma (herhangi), İz Sürme |
-| Kibar (Cariye, Escort, Harem Kızı, Huri, Metres…) | Gelenekler, Dans, Aldatma, Etkileme, İçgörü, Algılama, Şarkı Söyleme | Sanat (herhangi), Nezaket, Kültür (herhangi), Kumar, Dil (herhangi), Müzisyenlik, Baştan Çıkarma |
-| Zanaatkar (Sanatçı, Usta…) | Kas, Sürme, Etkileme, İçgörü, Yerel, Algılama, İrade Gücü | Sanat (herhangi), Ticaret, Zanaat (Birincil), Zanaat (İkincil), Mühendislik, Mekanizmalar, Sokak Bilgisi |
-| Dedektif (Hafiye, Polis, Özel Dedektif, Özel Araştırmacı, Cinayet Dedektifi…) | Gelenekler, Kaçınma, Etkileme, İçgörü, Algılama, Gizlilik; Savaş Tarzı (Silahsız veya Yan Silah Tarzı) | Bürokrasi, Kültür (herhangi), Kılık Değiştirme, Dilbilim, İrfan (herhangi), Araştırma, El Çabukluğu, Sokak Bilgisi |
-| Eğlenceci (Akrobat, Ozan, Dansçı, Oyuncu, Şair…) | Atletizm, Kas, Dans, Aldatma, Etkileme, İçgörü, Şarkı Söyleme | Akrobasi, Oyunculuk, Hitabet, Müzisyenlik, Baştan Çıkarma, El Çabukluğu, Sokak Bilgisi |
-| Çiftçi (Arazi Sahibi, Bahçıvan, Pullukçu…) | Atletizm, Kas, Sürme, Dayanıklılık, Yerel, Algılama, Binicilik | Ticaret, Zanaat (herhangi), İrfan (Tarım), İrfan (Hayvan Yetiştiriciliği), Navigasyon, Hayatta Kalma, İz Sürme |
-| Balıkçı (Sahil Avcısı, Ağcı, İnci Dalgıcı, Balina Avcısı…) | Atletizm, Botçuluk, Dayanıklılık, Yerel, Algılama, Gizlilik, Yüzme | Ticaret, Zanaat (Herhangi), İrfan (Birincil Av), İrfan (İkincil Av), Navigasyon, Denizcilik, Hayatta Kalma |
-| Kumarbaz (Bahisçi, Kart Hilebazı, Dolandırıcı…) | Atletizm, Kas, Dayanıklılık, Yerel, Algılama, İrade Gücü; ve ya Sürme ya da Binicilik | Oyunculuk, Bürokrasi, Ticaret, Nezaket, Kumar, Araştırma, El Çabukluğu, Sokak Bilgisi |
-| Çoban (Yetiştirici, Çoban, Kutsal Kaz Bakıcısı, Vahşi At Terbiyecisi…) | Dayanıklılık, İlk Yardım, İçgörü, Yerel, Algılama, Binicilik; Savaş Tarzı (Belirli Çobanlık veya Kültürel Tarz) | Ticaret, Zanaat (Hayvan Yetiştiriciliği), İyileştirme (Belirli Tür), Navigasyon, Müzisyenlik, Hayatta Kalma, İz Sürme |
-| Avcı (Ormancı, Kaçak Avcı, Çöpçü, Takipçi, Tuzakçı…) | Atletizm, Dayanıklılık, Yerel, Algılama, Binicilik, Gizlilik; Savaş Tarzı (Belirli Avcılık veya Kültürel Tarz) | Ticaret, Zanaat (Avcılıkla İlgili), İrfan (Bölgesel veya Belirli Tür), Mekanizmalar, Navigasyon, Hayatta Kalma, İz Sürme |
-| Gazeteci (Yorumcu, Muhabir, Haber Avcısı, Basın Mensubu…) | Gelenekler, Aldatma, Etkileme, İçgörü, Yerel, Ana Dil, Algılama | Bürokrasi, Kültür (herhangi), Dil (herhangi), İrfan (herhangi), Hitabet, Politika, Sokak Bilgisi |
-| Büyücü (Medyum, Sihirbaz, Cadı, Büyücü…) | Gelenekler, Aldatma, Etkileme, İçgörü, Yerel, Algılama, İrade Gücü | Kültür, Büyü, Okuryazarlık, İrfan x2, Hitabet, El Çabukluğu |
-| Mekanik (Mühendis, Yağlı Kurbağa…) | Kas, Kültür, Sürme, Dayanıklılık, Etkileme, Yerel, İrade Gücü | Ticaret, Zanaat (birincil), Zanaat (ikincil), Elektronik, Kumar, Mekanizmalar, Sokak Bilgisi |
-| Tüccar (Broker, Seyyar Satıcı, Faizci, Kaçakçı, Ticaretçi…) | Botçuluk, Sürme, Aldatma, İçgörü, Etkileme, Yerel, Binicilik | Ticaret, Nezaket, Kültür (herhangi), Dil (herhangi), Navigasyon, Denizcilik, Sokak Bilgisi |
-| Madenci (Prospektör, Taş Ocağı İşçisi, İstihkamcı, Kuyu Kazıcısı…) | Atletizm, Kas, Dayanıklılık, Yerel, Algılama, Şarkı Söyleme, İrade Gücü | Ticaret, Zanaat (Madencilik), Mühendislik, İrfan (Mineraller), Mekanizmalar, Navigasyon (Yeraltı), Hayatta Kalma |
-| Memur (Bakan, Murakıp, Katip, Vergi Tahsildarı…) | Gelenekler, Aldatma, Etkileme, İçgörü, Yerel, Algılama, İrade Gücü | Bürokrasi, Ticaret, Nezaket, Dil (herhangi), Okuryazarlık, İrfan (herhangi), Hitabet |
-| Hekim (Doktor, Şifacı, Şaman, İşkenceci, Canlı Deneyci…) | Dans, İlk Yardım, Etkileme, İçgörü, Yerel, Şarkı Söyleme, İrade Gücü | Ticaret, Zanaat (Belirli Fizyolojik Uzmanlık), İyileştirme, Dil (herhangi), Okuryazarlık (herhangi), İrfan (herhangi), Sokak Bilgisi |
-| Pilot (Havacı, Astronot, Gösteri Pilotu, Uçuş Meraklısı, Test Pilotu…) | Kas, Sürme, Dayanıklılık, Kaçınma, Yerel, Algılama, İrade Gücü | Gelenekler (herhangi), Elektronik, Mekanizmalar, Navigasyon, Pilotluk, Sensörler, Sokak Bilgisi |
-| Politikacı (Devlet Memuru, Mandarin, Bakan, Murakıp, Katip…) | Gelenekler, Aldatma, Etkileme, İçgörü, Yerel, Ana Dil, Algılama | Bürokrasi, Nezaket, Kültür (herhangi), Dil (herhangi), İrfan (herhangi), Hitabet, Politika |
-| Rahip (Hakem, Kültist, Druid, Derviş, Peygamber…) | Gelenekler, Dans, Aldatma, Etkileme, İçgörü, Yerel, İrade Gücü | Bürokrasi, Nezaket, Gelenekler, Okuryazarlık (herhangi), İrfan (herhangi), Hitabet, Politika |
-| Denizci (Kaptan, Kürek Mahkumu, Deniz Piyadesi, Korsan, Salcı…) | Atletizm, Botçuluk, Kas, Dayanıklılık, Yerel, Yüzme; Savaş Tarzı (Belirli Denizci veya Kültürel Tarz) | Zanaat (Belirli Gemi İçi Uzmanlık), Kültür (herhangi), Dil (herhangi), İrfan (herhangi), Navigasyon, Denizcilik, Hayatta Kalma |
-| Akademisyen (Tarihçi, Kütüphaneci, Filozof, Ozan, Katip…) | Gelenekler, Etkileme, İçgörü, Yerel, Ana Dil, Algılama, İrade Gücü | Kültür (herhangi), Dil (herhangi), Okuryazarlık (herhangi), İrfan (Birincil), İrfan (İkincil), Hitabet, Öğretme |
-| Bilim İnsanı (Arşivci, Kütüphaneci, Filozof…) | Gelenekler, Etkileme, İçgörü, Yerel, Ana Dil, Algılama, İrade Gücü | Kültür (herhangi), Mühendislik, Dil (herhangi), Hitabet, Araştırma, Bilim (herhangi), Öğretme |
-| İzci (Ödül Avcısı, Kaşif, Öncü, Korucu, Yolcu…) | Atletizm, Dayanıklılık, İlk Yardım, Algılama, Gizlilik, Yüzme; Savaş Tarzı (Belirli Avcılık veya Kültürel Tarz) | Kültür (herhangi), İyileştirme, Dil (herhangi), İrfan (herhangi), Navigasyon, Hayatta Kalma, İz Sürme |
-| Hizmetçi (Yardımcı, Uşak, Şoför, Hizmetçi, Mürebbiye, Baş Kâhya, Erkek Hizmetçi, Kişisel Asistan, Sekreter…) | Gelenekler, Aldatma, Sürme, Etkileme, İçgörü, Yerel, Algılama | Bürokrasi, Nezaket, Zanaat (hizmetle ilgili), Kültür (herhangi), Dil (herhangi), Politika, Sokak Bilgisi |
-| Kaçakçı (Kara Borsa, Kaçak İçki Satıcısı, Silah Kaçakçısı…) | Gizlenme, Gelenekler, Aldatma, Sürme, Etkileme, İçgörü, Yerel | Bürokrasi, Ticaret, Gelenekler (herhangi), Dil (herhangi), Navigasyon, Sokak Bilgisi; ve ya Astrogasyon ya da Denizcilik |
-| Teknisyen (Elektrikçi, Laboratuvar Asistanı…) | Kas, Sürme, Dayanıklılık, Etkileme, Yerel, Algılama, İrade Gücü | İletişim, Zanaat (herhangi), Elektronik, Kumar, Mekanizmalar, Bilim (herhangi), Sensörler |
-| Hırsız (Ev Hırsızı, Dolandırıcı, Çalıntı Mal Satıcısı, Gaspçı, Mezar Soyguncusu…) | Atletizm, Aldatma, Kaçınma, İçgörü, Algılama, Gizlilik; Savaş Tarzı (Belirli Hırsız veya Kültürel Tarz) | Oyunculuk, Ticaret, Kılık Değiştirme, Kilit Açma, Mekanizmalar, El Çabukluğu, Sokak Bilgisi |
-| Savaşçı (Koruma, Paralı Asker, Arenacı, Asker…) | Atletizm, Kas, Dayanıklılık, Kaçınma, Silahsız; Savaş Tarzı (Askeri Tarz), Savaş Tarzı (Kültürel Tarz) | Zanaat (herhangi), Mühendislik, Kumar, İrfan (Askeri Tarih), İrfan (Strateji ve Taktikler), Hitabet, Hayatta Kalma |
+| Ajan (Kışkırtıcı, Suikastçı, Dedektif, Muhbir, Casus…) | Gizlenme, Hile, Kaçınma, İçgörü, Algı, Gizlilik; Çatışma Stili (Özel Ajan veya Kültürel Stil) | Kültür (herhangi), Kılık Değiştirme, Dil (herhangi), El Çabukluğu, Sokak Bilgisi, Hayatta Kalma, İz Sürme |
+| Hayvan Eğitmeni (Hayvan Yetiştiricisi, Canavar Terbiyecisi…) | Sürüş, Dayanıklılık, İlk Yardım, Etkileme, Yerel Bilgi, Binicilik, İrade Gücü | Zanaat (Hayvancılık), Ticaret, İyileştirme (Belirli Tür), Bilgi (Belirli Tür), Hayatta Kalma, Öğretme (Belirli Tür), İz Sürme |
+| Ödül Avcısı (Kefalet icra ajanı, Ödül katili…) | Atletizm, Dayanıklılık, Kaçınma, İçgörü, Algı, Gizlilik; Çatışma Stili (herhangi) | Bürokrasi, Ticaret, Kültür (herhangi), Dilbilim, Sokak Bilgisi, Hayatta Kalma (herhangi), İz Sürme |
+| Kibar (Cariye, Escort, Haremli…) | Gelenekler, Dans, Hile, Etkileme, İçgörü, Algı, Şarkı | Sanat (herhangi), Nezaket, Kültür (herhangi), Kumar, Dil (herhangi), Müzisyenlik, Baştan Çıkarma |
+| Zanaatkar (Artificer, Zanaatkar…) | Brawn, Sürüş, Etkileme, İçgörü, Yerel Bilgi, Algı, İrade Gücü | Sanat (herhangi), Ticaret, Zanaat (Birincil), Zanaat (İkincil), Mühendislik, Mekanizmalar, Sokak Bilgisi |
+| Dedektif (Polis, Özel Dedektif…) | Gelenekler, Kaçınma, Etkileme, İçgörü, Algı, Gizlilik; Çatışma Stili (Silahsız veya Yan Silahlar) | Bürokrasi, Kültür (herhangi), Kılık Değiştirme, Dilbilim, Bilgi (herhangi), Araştırma, El Çabukluğu, Sokak Bilgisi |
+| Eğlendirici (Akrobat, Ozan, Dansçı, Şair…) | Atletizm, Brawn, Dans, Hile, Etkileme, İçgörü, Şarkı | Akrobasi, Oyunculuk, Hitabet, Müzisyenlik, Baştan Çıkarma, El Çabukluğu, Sokak Bilgisi |
+| Çiftçi (Mülk Sahibi, Bahçıvan, Sabancı…) | Atletizm, Brawn, Sürüş, Dayanıklılık, Yerel Bilgi, Algı, Binicilik | Ticaret, Zanaat (herhangi), Bilgi (Tarım), Bilgi (Hayvancılık), Navigasyon, Hayatta Kalma, İz Sürme |
+| Balıkçı (Sahil toplayıcısı, Ağcı, İnci Avcısı, Balina Avcısı…) | Atletizm, Bot Kullanma, Dayanıklılık, Yerel Bilgi, Algı, Gizlilik, Yüzme | Ticaret, Zanaat (herhangi), Bilgi (Birincil Av), Bilgi (İkincil Av), Navigasyon, Denizcilik, Hayatta Kalma |
+| Kumarbaz (Bahisçi, Kart hilecisi, Hustler…) | Atletizm, Brawn, Dayanıklılık, Yerel Bilgi, Algı, İrade Gücü; ve Sürüş veya Binicilik | Oyunculuk, Bürokrasi, Ticaret, Nezaket, Kumar, Araştırma, El Çabukluğu, Sokak Bilgisi |
+| Sürücü (Yetiştirici, Çoban, Wrangler…) | Dayanıklılık, İlk Yardım, İçgörü, Yerel Bilgi, Algı, Binicilik; Çatışma Stili (Özel Sürücü veya Kültürel Stil) | Ticaret, Zanaat (Hayvancılık), İyileştirme (Belirli Tür), Navigasyon, Müzisyenlik, Hayatta Kalma, İz Sürme |
+| Avcı (Ormancı, Kaçak Avcı, Çöpçü, Tuzakçı…) | Atletizm, Dayanıklılık, Yerel Bilgi, Algı, Binicilik, Gizlilik; Çatışma Stili (Özel Avcılık veya Kültürel Stil) | Ticaret, Zanaat (Avcılık), Bilgi (Bölgesel veya Belirli Tür), Mekanizmalar, Navigasyon, Hayatta Kalma, İz Sürme |
+| Gazeteci (Yorumcu, Muhabir, Basın mensubu…) | Gelenekler, Hile, Etkileme, İçgörü, Yerel Bilgi, Anadil, Algı | Bürokrasi, Kültür (herhangi), Dil (herhangi), Bilgi (herhangi), Hitabet, Siyaset, Sokak Bilgisi |
+| Büyücü (Sihirbaz, Cadı, Büyücü…) | Gelenekler, Hile, Etkileme, İçgörü, Yerel Bilgi, Algı, İrade Gücü | Kültür, Büyü, Okuryazarlık, Bilgi x2, Hitabet, El Çabukluğu |
+| Mekanik (Mühendis, Grease monkey…) | Brawn, Kültür, Sürüş, Dayanıklılık, Etkileme, Yerel Bilgi, İrade Gücü | Ticaret, Zanaat (birincil), Zanaat (ikincil), Elektronik, Kumar, Mekanizmalar, Sokak Bilgisi |
+| Tüccar (Broker, Satıcı, Tefeci, Kaçakçı…) | Bot Kullanma, Sürüş, Hile, İçgörü, Etkileme, Yerel Bilgi, Binicilik | Ticaret, Nezaket, Kültür (herhangi), Dil (herhangi), Navigasyon, Denizcilik, Sokak Bilgisi |
+| Madenci (Prospektör, Taşçı, Sapper…) | Atletizm, Brawn, Dayanıklılık, Yerel Bilgi, Algı, Şarkı, İrade Gücü | Ticaret, Zanaat (Madencilik), Mühendislik, Bilgi (Mineraller), Mekanizmalar, Navigasyon (Yeraltı), Hayatta Kalma |
+| Yetkili (Bakan, Gözetmen, Vekil, Vergi Tahsildarı…) | Gelenekler, Hile, Etkileme, İçgörü, Yerel Bilgi, Algı, İrade Gücü | Bürokrasi, Ticaret, Nezaket, Dil (herhangi), Okuryazarlık, Bilgi (herhangi), Hitabet |
+| Doktor (Şifacı, Tıbbi adam, İşkenceci…) | Dans, İlk Yardım, Etkileme, İçgörü, Yerel Bilgi, Şarkı, İrade Gücü | Ticaret, Zanaat (Özel Fizyolojik Uzmanlık), İyileştirme, Dil (herhangi), Okuryazarlık (herhangi), Bilgi (herhangi), Sokak Bilgisi |
+| Pilot (Havacılık, Uzay Pilotu, Test Pilotu…) | Brawn, Sürüş, Dayanıklılık, Kaçınma, Yerel Bilgi, Algı, İrade Gücü | Gelenekler (herhangi), Elektronik, Mekanizmalar, Navigasyon, Pilot, Sensörler, Sokak Bilgisi |
+| Politikacı (Memur, Bakan, Gözetmen…) | Gelenekler, Hile, Etkileme, İçgörü, Yerel Bilgi, Anadil, Algı | Bürokrasi, Nezaket, Kültür (herhangi), Dil (herhangi), Bilgi (herhangi), Hitabet, Siyaset |
+| Rahip (Hakem, Tarikatçı, Druid, Gezgin…) | Gelenekler, Dans, Hile, Etkileme, İçgörü, Yerel Bilgi, İrade Gücü | Bürokrasi, Nezaket, Gelenekler, Okuryazarlık (herhangi), Bilgi (herhangi), Hitabet, Siyaset |
+| Denizci (Kaptan, Kürek Kölesi, Korsan…) | Atletizm, Bot Kullanma, Brawn, Dayanıklılık, Yerel Bilgi, Yüzme; Çatışma Stili (Özel Denizci veya Kültürel Stil) | Zanaat (Özel Gemi Uzmanlığı), Kültür (herhangi), Dil (herhangi), Bilgi (herhangi), Navigasyon, Denizcilik, Hayatta Kalma |
+| Akademisyen (Yazar, Kütüphaneci, Filozof, Scribe…) | Gelenekler, Etkileme, İçgörü, Yerel Bilgi, Anadil, Algı, İrade Gücü | Kültür (herhangi), Dil (herhangi), Okuryazarlık (herhangi), Bilgi (Birincil), Bilgi (İkincil), Hitabet, Öğretme |
+| Bilim İnsanı (Arşivci, Kütüphaneci, Filozof…) | Gelenekler, Etkileme, İçgörü, Yerel Bilgi, Anadil, Algı, İrade Gücü | Kültür (herhangi), Mühendislik, Dil (herhangi), Hitabet, Araştırma, Bilim (herhangi), Öğretme |
+| İzcİ (Ödül Avcısı, Kaşif, Ranger…) | Atletizm, Dayanıklılık, İlk Yardım, Algı, Gizlilik, Yüzme; Çatışma Stili (Özel Avcılık veya Kültürel Stil) | Kültür (herhangi), İyileştirme, Dil (herhangi), Bilgi (herhangi), Navigasyon, Hayatta Kalma, İz Sürme |
+| Hizmetkar (Yardımcı, Uşak, Şoför, Sekreter…) | Gelenekler, Hile, Sürüş, Etkileme, İçgörü, Yerel Bilgi, Algı | Bürokrasi, Nezaket, Zanaat (hizmetle ilgili), Kültür (herhangi), Dil (herhangi), Siyaset, Sokak Bilgisi |
+| Kaçakçı (Karaborsacı, İçki Kaçakçısı…) | Gizlenme, Gelenekler, Hile, Sürüş, Etkileme, İçgörü, Yerel Bilgi | Bürokrasi, Ticaret, Gelenekler (herhangi), Dil (herhangi), Navigasyon, Sokak Bilgisi; ve Astrogasyon veya Denizcilik |
+| Teknisyen (Elektrikçi, Laboratuvar Asistanı…) | Brawn, Sürüş, Dayanıklılık, Etkileme, Yerel Bilgi, Algı, İrade Gücü | İletişim, Zanaat (herhangi), Elektronik, Kumar, Mekanizmalar, Bilim (herhangi), Sensörler |
+| Hırsız (Soyguncu, Dolandırıcı, Mezarcı…) | Atletizm, Hile, Kaçınma, İçgörü, Algı, Gizlilik; Çatışma Stili (Özel Hırsız veya Kültürel Stil) | Oyunculuk, Ticaret, Kılık Değiştirme, Kilit Açma, Mekanizmalar, El Çabukluğu, Sokak Bilgisi |
+| Savaşçı (Korum, Paralı Asker, Asker…) | Atletizm, Brawn, Dayanıklılık, Kaçınma, Silahsız; Çatışma Stili (Askeri Stil), Çatışma Stili (Kültürel Stil) | Zanaat (herhangi), Mühendislik, Kumar, Bilgi (Askeri Tarih), Bilgi (Strateji ve Taktik), Hitabet, Hayatta Kalma |
 
 ---
-## Adım 7: Bonus Yetenek Puanları
+## 7. Adım: Bonus Beceri Puanları
 
-Son adım olarak, karakteri tamamlamak için 150 yetenek puanlık son bir havuz atanır. Bunlar herhangi bir Standart yeteneğe veya Kültür veya Kariyerin bir parçası olarak edinilen Profesyonel yeteneklere uygulanabilir. Bir kez daha, Oyun Yöneticisi herhangi bir yeteneğe kaç yetenek puanı uygulanabileceğine bir üst sınır uygulayabilir.
+Son bir adım olarak, karakteri tamamlamak için son 150 beceri puanı atanır. Bunlar herhangi bir Standart beceriye veya Kültür veya Kariyerin bir parçası olarak kazanılan Profesyonel becerilere uygulanabilir. Bir kez daha, bir Oyun Yöneticisi belirli bir beceriye kaç beceri puanı uygulanabileceğine bir sınır koyabilir.
 
-### Deneyimli Karakterler Yaratma
+### Deneyimli Karakterler Oluşturma
 
-Başlangıç seviyesindeki karakterlerin sıfırdan, çok az veya hiç pratik deneyime sahip olmadan başlaması önerilir. Elbette, karakterlerin seviyesi büyük ölçüde ortama ve oyunun kısa tek seferlik bir macera mı yoksa uzun süreli bir kampanya mı olacağına bağlı olacaktır. Bir oyuncunun, oyunda ölen bir karakteri değiştirirken veya mevcut bir kampanyaya katılırken daha deneyimli bir karakter oluşturması da yaygındır.
+Başlangıç karakterlerinin taze, az veya hiç pratik deneyimi olmayan karakterlerle başlaması önerilir. Elbette, karakterlerin seviyesi büyük ölçüde ayara ve oyunun kısa süreli bir macera mı yoksa uzun soluklu bir kampanya mı olacağına bağlı olacaktır. Oyun içinde ölen bir karakterin yerini alırken veya mevcut bir kampanyaya katılırken bir oyuncunun daha deneyimli bir karakter yaratması da yaygındır.
 
-Deneyimi Yaş Kategorilerine ayıran bir tablo sunulmuştur. Bir karakterin deneyimi yaş ve yetenek yeterliliği ile doğrudan ilişkilidir; daha deneyimli karakterler doğal olarak daha genç yoldaşlarından daha fazla yaşam deneyimine sahiptir. Ancak, belirtilen Yaş Bonusu yaklaşık olarak ele alınmalıdır, çünkü kampanyalar farklı hızlarda ilerler – bazı kampanyalarda maceralar arasında çok fazla oyun süresi geçerken, diğerleri kesintisiz maceralardan oluşan uzun bir zincirdir. Mevcut bir karakteri dönüştürürken, tablodaki yaş yerine gerçek yaşı kullanmanız yeterlidir.
+Deneyimi Yaş Kategorilerine ayıran bir tablo sağlanmıştır. Bir karakterin deneyiminin yaş ve beceri yetkinliği ile doğrudan bir korelasyonu vardır; daha deneyimli karakterler doğal olarak genç meslektaşlarından daha fazla yaşam deneyimine sahiptir. Bununla birlikte, belirtilen Yaş Bonusu yaklaşık olarak kabul edilmelidir, çünkü kampanyalar farklı hızlarda ilerler — bazı kampanyalarda maceralar arasında çok fazla oyun süresi geçerken, bazıları kesintisiz maceralardan oluşan uzun bir dizidir. Mevcut bir karakteri dönüştürürken, tablodakini gerçek yaşla değiştirmeniz yeterlidir.
 
 #### Deneyim Tablosu
 
-| Kategori | Yaş | Bonus Yetenek Puanları | Maksimum Yetenek Artışı |
+| Kategori | Yaş | Bonus Beceri Puanı | Maksimum Beceri Artışı |
 | :-- | :-: | :-: | :-: |
-| Genç | 10+1z6 | 100 | +10 |
-| Yetişkin | 15+2z6 | 150 | +15 |
-| Orta Yaşlı | 25+3z6 | 200 | +20 |
-| Kıdemli | 40+4z6 | 250 | +25 |
-| Yaşlı | 60+5z6 | 300 | +30 |
+| Genç | 10+1d6 | 100 | +10 |
+| Yetişkin | 15+2d6 | 150 | +15 |
+| Orta Yaşlı | 25+3d6 | 200 | +20 |
+| Kıdemli | 40+4d6 | 250 | +25 |
+| Yaşlı | 60+5d6 | 300 | +30 |
 
 #### Deneyim Tablosu Notları
 
-- Bonus Yetenek Puanları, karakterin yetenek geliştirmek için harcaması gereken puan sayısını belirler.
-- Maksimum Yetenek Artışı, Bonus Puanlarından herhangi bir Yeteneğe ne kadarının uygulanabileceğini sınırlar.
+- Bonus Beceri Puanları, karakterin becerileri geliştirmek için kaç puan harcaması gerektiğini belirler.
+- Maksimum Beceri Artışı, Bonus Puanların kaç tanesinin tek bir Beceriye uygulanabileceğini sınırlar.
 
-### Yetenek Piramidi
+### Beceri Piramidi
 
-_Mythras Imperative_'in yetenek puanı tahsis süreci, üç kaynaktan 350 puan türetir: Kültür (100), Kariyer (100) ve Bonus Yetenek Puanları (150). Bu puanları tahsis etmek zaman alıcı olabilir ve şüphesiz karakterin Kültürünü belirlemenin o kadar önemli olmadığı veya oyuncunun çekirdek kurallardaki şablonlarla kolayca karşılanmayan belirli bir Mesleği düşündüğü zamanlar vardır. Zamanın kısıtlı olduğu veya oyuncuların hevesli olduğu durumlar için yetenek puanlarını tahsis etmek için alternatif bir sistem burada sunulmaktadır.
+_Mythras Imperative_'in beceri puanı tahsis süreci, üç kaynaktan 350 puan türetir: Kültür (100), Kariyer (100) ve Bonus Beceri Puanları (150). Bu puanları tahsis etmek zaman alıcı olabilir ve şüphesiz bir karakterin Kültürünü belirlemenin çok önemli olmadığı veya oyuncunun temel kurallardaki şablonlar tarafından kolayca karşılanmayan belirli bir Mesleği olduğu zamanlar olacaktır. Zaman kısıtlı olduğunda veya oyuncular istekli olduğunda beceri puanlarını paylaştırmak için alternatif bir sistem burada sunulmaktadır.
 
-Kültürel, Kariyer ve Bonus Yetenek Puanı havuzlarından puan tahsis etmek yerine, Yetenek Piramidi kullanılır. Bu, 350 puanı beş sabit puan bloğuna böler:
+Kültürel, Kariyer ve Bonus Beceri Puanları havuzlarından puan tahsis etmek yerine, bunun yerine Beceri Piramidi kullanılır. Bu, 350 puanı aşağıdaki gibi beş sabit puan bloğuna böler:
 
-%50'de 1 yetenek, %40'ta 2 yetenek, %30'da 3 yetenek, %20'de 4 yetenek, %10'da 5 yetenek.
+50%'de 1 beceri, 40%'ta 2 beceri, 30%'da 3 beceri, 20%'de 4 beceri, 10%'da 5 beceri.
 
-Bu da kullanışlı bir piramit oluşturur. Tahsis edildikçe her değeri işaretlemeniz yeterlidir.
+Bu da kullanışlı bir piramit oluşturur. Her değer atandıkça üzerini çizmeniz yeterlidir.
 
 ```
     50
@@ -383,137 +383,137 @@ Bu da kullanışlı bir piramit oluşturur. Tahsis edildikçe her değeri işare
 #### Birkaç Basit Kural
 
 - Piramitten gelen tüm puanlar tahsis edilmelidir.
-- Hiçbir yetenek piramitten birden fazla tahsis alamaz.
-- Gelenekler ve Ana Dil, çekirdek kurallara göre +40 kazanır ve piramitten yapılan tahsislere ek olarak.
-- [Tutkular](0002_Characters.md?id=step-8-passions) bölümünde belirtilen değerleri kazanan Tutkular ve piramitten yapılan tahsislere ek olarak.
-- Hiçbir yetenek, bir tahsis sonucu %80'i aşamaz. Yani, bir karakterin GÜÇ 16 ve BEC 17'ye sahipse, temel %33 için, oyuncu bir Savaş Tarzına 50 puanlık değeri atayamaz.
-- Değerlerden altısı Profesyonel Yeteneklere tahsis edilmelidir.
-- Karakterler yine de bir Kültür ve Meslek seçebilir ve tahsisleri için uygun açıklamada listelenen yetenekleri bir rehber olarak kullanabilir veya tahsisler tamamen serbest stil olabilir.
-- Değerlerden en az birinin bir Savaş Tarzına tahsis edilmesi önerilir, ancak bu zorunlu değildir.
-- Son söz her zaman Oyun Yöneticisinindir.
+- Hiçbir becerinin piramitten birden fazla tahsisatı olamaz.
+- Gelenekler ve Anadil, temel kurallara göre +40 kazanır ve piramitten yapılan atamalara ektir.
+- [Tutkular](0002_Characters.md?id=step-8-passions) bölümünde belirtilen değerleri kazanan tutkular, piramitten yapılan atamalara ektir.
+- Bir atamanın sonucu olarak hiçbir beceri %80'i aşamaz. Yani, bir karakterin 16 STR ve 17 DEX'i varsa, %33'lük bir taban için, oyuncu 50 puanlık değeri bir Çatışma Stiline atayamaz.
+- Değerlerden altısı Profesyonel Becerilere tahsis edilmelidir.
+- Karakterler yine de bir Kültür ve Meslek seçebilir ve listedeki becerileri tahsisatları için bir rehber olarak kullanabilirler veya tahsisatlar tamamen serbest stil olabilir.
+- Değerlerden en az birinin bir Çatışma Stiline tahsis edilmesi önerilir, ancak bu zorunlu değildir.
+- Oyun Yöneticisi her zaman son söz hakkına sahiptir.
 
-### Sıradışı Kahramanlıklar
+### Hayattan Daha Büyük Kahramanlıklar
 
-_Mythras Imperative_ öncelikle normal insanlarla ilgilenir, ancak bazen bir kampanya başka bir şey gerektirir, özellikle de özel kahramanlıklar gerektiriyorsa veya kahramanların ve kötülerin sıradışı olma eğiliminde olduğu bir Pulp Aksiyon ortamında geçiyorsa.
+_Mythras Imperative_ esas olarak normal insanlarla ilgilenir, ancak bazen, özellikle özel kahramanlıklar gerektiriyorsa veya kahramanların ve kötü adamların hayattan daha büyük olma eğiliminde olduğu Pulp Action ayarında gerçekleşiyorsa, kampanya başka bir şey gerektirir.
 
-Bu tür kahramanlar doğaüstü güçlere sahip olmayabilirler (ancak bunlar isteniyorsa, Büyü ve Güçler bölümü kullanılabilir), ancak biraz daha güçlü, biraz daha hızlı, biraz daha dirençli ve genellikle çok daha iradeli olurlar. Cimmeria'dan gelen belirli bir barbaryanı; öldürme lisansına sahip özel bir ajanı; bronz bir adamı; aynı zamanda milyarder bir playboy olan pelerinli bir kanun savaşçısını veya diğer birçok popüler kahraman karakteri düşünün. Sık sık normal bir insanın çökeceği durumlarla karşılaşırlar; ancak kahraman olarak, senaryonun onlara fırlattığı her şeye dayanabilir ve bir sonraki maceraya (görece) yara almadan katılabilirler.
+Böyle kahramanların mutlaka süper güçleri olması gerekmez (gerçi bunlar isteniyorsa, Büyü ve Güçler bölümü kullanılabilir), ancak biraz daha güçlü, biraz daha hızlı, biraz daha dirençli ve genellikle çok daha güçlü iradelidirler. Cimmeria'dan o belirli barbarı düşünün; öldürme yetkisi olan özel bir ajan; bronzdan bir adam; milyarder playboy olan pelerinli bir kanun savaşçısı – veya herhangi bir sayıda popüler kahraman karakter. Normal bir insanın yıkılacağı durumlarla sık sık karşılaşırlar; ancak kahramanlar olarak, olay örgüsünün onlara attığı her şeye dayanabilir ve (nispeten) yara almadan bir sonraki maceraya atılmak için yaşayabilirler.
 
-Bu karakter tiplerini oyunlarınıza dahil etmeyi düşünüyorsanız, tüm oyuncuların aynı seviyede karakterlere sahip olduğundan emin olun. Bu karakter tipleri sahneyi çiğnemek ve aksiyonu yönlendirmek için tasarlanmıştır; sıradan karakterler (sihir veya başka bir avantajdan yararlanmadıkları sürece) gölgede kalabilirler.
+Bu karakter türlerini oyunlarınıza dahil etmeye niyetliyseniz, tüm oyuncuların aynı seviyede karakterlere sahip olduğundan emin olun. Bu karakter türleri manzarayı çiğnemek ve aksiyonu yönlendirmek için tasarlanmıştır; sıradan karakterler (büyü veya başka bir avantajdan yararlanmadıkça) gölgede bırakılabilir.
 
 ### Pulp Kahraman Karakterler
 
-Bunlar geleneksel Pulp Kahramanlarıdır. Süper kahramanlar veya yarı tanrılar değildirler ve iyi yerleştirilmiş bir pompalı tüfek atışı yine de hayatlarına son verecektir, ancak daha sert, daha zeki, daha yetenekli ve genel olarak sıradan insanlardan bir veya iki adım daha üstündürler. Ayrıca, hayatları genellikle maceralarla doludur. Kahraman bir karakter yerleşmeye ve sakin bir hayat sürmeye karar verebilirken, çoğu zaman sorunlar veya yardıma ihtiyacı olan biri karakterin kapısını bulacaktır.
-
-#### Özellikler
-
-Pulp Kahraman karakterleri oluştururken, [Karakterler](0002_Characters.md?id=calculating-characteristics) bölümündeki Zar Atışı Ata yöntemini kullanın. 4z6 atın ve en düşük zarı beş kez atın, sonra sonuçları GÜÇ, BÜN, BEC, KUD ve KAR'a atayın. Ardından, 3z6+6 atın ve en düşük zarı iki kez atın ve bu sayıları BOY ve ZEKA'ya atayın. Puan Oluşturma yöntemini kullanıyorsanız, oyuncular karakterlerini 90 puanlık önceden ayarlanmış bir havuzdan oluştururlar.
+Bunlar geleneksel Pulp Kahramanlarıdır. Süper kahraman veya yarı tanrı değillerdir ve yerleştirilmiş bir av tüfeği ateşi hala hayatlarını sona erdirecektir, ancak daha sert, daha zeki, daha yetenekli ve genel olarak sıradan insanlardan bir veya iki adım öndedirler. Ayrıca, hayatları maceralarla dolu olma eğilimindedir. Bir Kahraman karakteri yerleşmeye ve olaysız bir yaşam sürmeye çalışmayı seçebilse de, genellikle başı dertte olan biri veya yardıma ihtiyacı olan biri karakterin kapısını bulacaktır.
 
 #### Nitelikler
 
-Bunlar normal şekilde hesaplanır, ancak Pulp Kahraman karakterleri aşağıdaki avantajlardan iki tanesini kazanır (avantajlar biriktirilemez):
+Pulp Kahraman karakterleri oluştururken, [Karakterler](0002_Characters.md?id=calculating-characteristics) bölümündeki Zar Atma Ata yöntemini kullanın. 4d6 atın ve en düşük zarı beş kez atın, ardından sonuçları STR, CON, DEX, POW ve CHA'ya atayın. Ardından, 3d6+6 atın ve en düşük zarı iki kez atın ve bu sayıları SIZ ve INT'ye atayın. Puan Dağıtımı yöntemini kullanıyorsanız, oyuncular karakterlerini 90 puanlık önceden ayarlanmış bir havuzdan oluştururlar.
 
-- +1 Aksiyon Puanı
+#### Özellikler
+
+Bunlar normal şekilde hesaplanır, ancak Pulp Kahraman karakterler aşağıdakilerden seçilen iki Avantaj kazanır (avantajların üst üste eklenemeyeceğini unutmayın):
+
+- +1 Eylem Puanı
 - +1 Şans Puanı
-- Her Vücut Bölgesine +1 Can Puanı
+- Her Yara Bölgesine +1 Can Puanı
 - Dayanıklılık atışları bir Derece daha kolaydır
 - Gizlilik atışları bir Derece daha kolaydır
 - İrade Gücü atışları bir Derece daha kolaydır
 
-Tüm Pulp Kahraman karakterleri, Küçük veya Ciddi Yaralardan muzdaripken İyileşme Oranlarını ikiye katlar, ancak Büyük Yaralar karakterin standart İyileşme Oranında ele alınır.
+Tüm Pulp Kahraman karakterler, Küçük veya Ciddi Yaralar alırken İyileşme Hızlarını ikiye katlarlar, ancak Büyük Yaralar karakterin standart İyileşme Hızında ele alınır.
 
-#### Yetenekler
+#### Beceriler
 
-Pulp Kahraman karakterleri, gerektiğinde tahsis etmek için ek 50 Bonus Yetenek Puanı kazanır.
+Pulp Kahraman karakterler, gerektiği gibi tahsis etmek için ek 50 Bonus Beceri Puanı kazanır.
 
 ### Paragon Karakterler
 
-Paragon karakterler, mükemmelliğin somut örnekleridir. Belirli bir kırbaç kullanan arkeolog ve öldürme lisansına sahip bir süper casus Pulp Kahraman karakterlerken, o Cimmerian, Bronz Adam, Kara Şövalye Dedektifi ve Sherlock Holmes Paragon karakterlerdir. Paragon karakterler sadece bir uzmanlık alanında son derece yetkin olmakla kalmazlar: genellikle birkaç alanda üstün başarı gösterirler. Aynı zamanda iki yumruklu, keskin nişancı bir savaş kahramanı olan parlak bir mucit ve fizikçi, mükemmel bir Paragon karakter örneğidir; dünyanın en iyi dedektif beyinleriyle çalışmış milyarder bir playboy suç savaşçısı bir başka örnektir. Paragon karakterler, birkaç üniversite diplomasına, bağımsız servete, gizemli hayırseverlere ve sayısız başka deneyim türüne sahip olabilirler.
+Paragon karakterler mükemmelliğin somutlaşmış halidir. O kırbaç kullanan arkeolog ve öldürme yetkili süper casus Pulp Kahraman karakterleriyken, o Cimmerian, Bronz Adam, Kara Şövalye Dedektif ve Sherlock Holmes Paragon karakterleridir. Paragon karakterler sadece bir uzmanlık alanında son derece yetkin değillerdir: genellikle birkaç alanda mükemmelleşirler. Aynı zamanda iki yumruklu, çatlak bir savaş kahramanı olan parlak bir mucit ve fizikçi, Paragon karakterin mükemmel bir örneğidir; Dünyanın en iyi dedektif beyinleriyle çalışan milyarder bir playboy suç savaşçısı bir başkasıdır. Paragon karakterler birkaç üniversite diplomasına, bağımsız servete, gizemli hayırseverlere ve sayısız başka deneyim biçimine sahip olabilirler.
 
-Sonuç olarak, Paragon karakterler herkes için olmayacaktır, ancak bir ortam, tüm güneş sisteminin kaderini değiştirebilecek veya herhangi bir zorluğun üstesinden gelebilecek karakterlere ihtiyaç duyuyorsa, bir Paragon seviyesi kampanya tam da ihtiyacı karşılar. Hem Sıradan hem de Kahraman kampanyalar zaman zaman ulusların veya hatta gezegenlerin kaderi gibi son derece yüksek riskler içerse de, Paragon kampanyalar bunu düzenli olarak yapmalıdır.
-
-#### Özellikler
-
-[Karakterler](0002_Characters.md?id=calculating-characteristics) bölümündeki Zar Atışı Ata yöntemini kullanarak karakter oluştururken. 4z6 atın, en düşük zarı altı kez atın, sonra seçtiğiniz beş sonucu (tipik olarak, en yüksek beşi) GÜÇ, BÜN, BEC, KUD ve KAR'a atayın. Ardından, 3z6+6 atın, en düşük zarı üç kez atın ve seçtiğiniz iki sonucu (tipik olarak, en yüksek ikisi) BOY ve ZEKA'ya atayın. Puan Oluşturma yöntemini kullanıyorsanız, oyuncular karakterlerini 100 puanlık önceden ayarlanmış bir havuzdan oluştururlar.
+Sonuç olarak, Paragon karakterler herkes için olmayacaktır, ancak bir ayar tüm güneş sisteminin kaderini değiştirebilecek veya herhangi bir zorluğu üstlenebilecek karakterlere ihtiyaç duyuyorsa, o zaman bir Paragon seviyesi kampanyası işi görür. Hem Sıradan hem de Kahraman kampanyaları ara sıra ulusların ve hatta gezegenlerin kaderi gibi son derece yüksek riskler içerse de, Paragon kampanyaları bunu düzenli olarak yapmalıdır.
 
 #### Nitelikler
 
-Bunlar normal şekilde hesaplanır, ancak Paragon Karakterler aşağıdaki avantajlardan üç tanesini kazanır (avantajlar biriktirilemez):
+[Karakterler](0002_Characters.md?id=calculating-characteristics) bölümündeki Zar Atma Ata yöntemini kullanarak karakterler oluştururken. 4d6 atın, en düşük zarı altı kez atın, ardından seçtiğiniz beş sonucu (genellikle en yüksek beş) STR, CON, DEX, POW ve CHA'ya atayın. Ardından, 3d6+6 atın, en düşük zarı üç kez atın ve seçtiğiniz iki sonucu (genellikle en yüksek iki) SIZ ve INT'ye atayın. Puan Dağıtımı yöntemini kullanıyorsanız, oyuncular karakterlerini 100 puanlık önceden ayarlanmış bir havuzdan oluştururlar.
 
-- +1 Aksiyon Puanı
+#### Özellikler
+
+Bunlar normal şekilde hesaplanır, ancak Paragon Karakterler aşağıdakilerden seçilen üç Avantaj kazanır (avantajların üst üste eklenemeyeceğini unutmayın):
+
+- +1 Eylem Puanı
 - +2 Şans Puanı
-- Her Vücut Bölgesine +2 Can Puanı
+- Her Yara Bölgesine +2 Can Puanı
 - Dayanıklılık atışları bir Derece daha kolaydır
 - Gizlilik atışları bir Derece daha kolaydır
 - İrade Gücü atışları bir Derece daha kolaydır
 
-Tüm Paragon karakterleri, Küçük veya Ciddi Yaralardan muzdaripken İyileşme Oranlarını ikiye katlar, ancak Büyük Yaralar karakterin standart İyileşme Oranında ele alınır.
+Tüm Paragon karakterler, Küçük veya Ciddi Yaralar alırken İyileşme Hızlarını ikiye katlarlar, ancak Büyük Yaralar karakterin standart İyileşme Hızında ele alınır.
 
-#### Yetenekler
+#### Beceriler
 
-Paragon Kahraman karakterleri, gerektiğinde tahsis etmek için ek 100 Bonus Yetenek Puanı kazanır.
+Paragon Kahraman karakterler, gerektiği gibi tahsis etmek için ek 100 Bonus Beceri Puanı kazanır.
 
 ---
-## Adım 8: Tutkular
+## 8. Adım: Tutkular
 
-Tutkular, oyunculara ve Oyun Yöneticilerine karakterin doğasını derinleştirmede, bir karakterin arzu veya önyargılarına dayalı olay kancaları oluşturmada ve oyuncunun karakterinin kim olduğunu, onu neyin yönlendirdiğini vb. anlamasına yardımcı olmak için kullanılır.
+Tutkular, oyunculara ve Oyun Yöneticilerine karakterin doğasını derinleştirmede, karakterin arzu veya önyargılarına dayalı olay örgüsü kancaları tanıtmada ve oyuncunun karakterinin kim olduğunu, onu neyin yönlendirdiğini vb. anlamasına yardımcı olur.
 
-Bir Tutku her şey için olabilir – bir kişi, bir örgüt, bir ideal, hatta bir nesne. Tutkular tipik olarak şu gibi bir fiille tanımlanır: Arzu Etmek, Nefret Etmek, Yok Etmek, Desteklemek, Korkmak, Kaçmak, Yeminini Bozmak, Nefret Etmek, Sevmek, Bağlılık, Korumak, Reddetmek, Aramak, Bozmak, Eziyet Etmek veya Korumak.
+Bir Tutku herhangi bir şey için olabilir – bir kişi, bir organizasyon, bir ideal, hatta bir nesne. Tutkular genellikle şu gibi bir fiil ile tanımlanır: Arzu etmek, Hor görmek, Yok etmek, Benimsemek, Korkmak, Kaçmak, Vazgeçmek, Nefret etmek, Sevmek, Sadakat duymak, Korumak, Reddetmek, Saygı duymak, Aramak, Yıkmak, İşkence etmek veya Desteklemek.
 
-Tutkular, yeteneklerle aynı şekilde ölçülür; 1 ile 100 (veya daha yüksek) arasında derecelendirilirler. Bir Tutku, bir yetenek gibi geliştirilebilir veya duruma göre hakem tarafından artırılabilir veya azaltılabilir.
+Tutkular, becerilerle aynı şekilde ölçülür; 1 ile 100 (veya daha yüksek) arasında derecelendirilirler. Bir Tutku, bir beceri ile aynı şekilde geliştirilebilir veya koşullara bağlı olarak hakem tarafından artırılabilir veya azaltılabilir.
 
-Başlangıç karakterleri en fazla üç Tutku ile başlayabilir, her biri iki Özelliğe dayanır, ilkine +40, ikincisine +30 ve üçüncüsüne +20 bonusla – oyuncu önem sırasını belirler. Bunlar, karakterin kültürüyle, mesleğiyle veya kişisel kusurlarıyla bağlantılı olabilir. Örneğin, bir Kılıç ve Büyü kampanyasında karakter şunları alabilir: Nefret (Stygyalılar), Güvensizlik (Büyücüler) ve Arzu (Alkol); oysa bir Distopik Bilim Kurgu oyununda karakter bunun yerine Sadakat (Başkan), Yok Etme (Uzaylılar) ve Korumak (Kanun) seçebilir.
+Başlangıç karakterleri, her biri iki Nitelikten oluşan, birincisine +40, ikincisine +30 ve üçüncüsüne +20 bonus ile – oyuncu önem sırasına karar vererek – üç Tutku ile başlayabilir. Bunlar kültürü, mesleği veya kişisel zaaflarıyla bağlanabilir. Örneğin, bir Kılıç ve Büyü kampanyasında karakter şu tutkuları alabilir: Nefret (Stygians), Güvensizlik (Büyücüler) ve Arzu (Alkol); oysa Distopik bir Bilim Kurgu oyununda karakter bunun yerine Sadakat (Başkan), Yok Et (Uzaylılar) ve Destekle (Yasa) seçebilir.
 
 #### Tutku Tablosu
 
 | Tutku Nesnesi | Başlangıç Yüzdesi |
 | :-- | :-- |
-| Romantik veya ailevi bağlamda bir kişi | KUD+KAR |
-| Bir örgüt veya insan grubu | KUD+ZEKA |
-| Bir ırk veya tür | Karakterin KUD x2 |
-| Bir yer | Karakterin KUD+ZEKA |
-| Bir nesne veya madde | Karakterin KUD x2 |
-| Bir kişilik özelliği | Karakterin KUD+KAR |
+| Romantik veya ailevi bağlamda bir kişi | POW+CHA |
+| Bir organizasyon veya grup | POW+INT |
+| Bir ırk veya tür | Karakterin POW x2 |
+| Bir yer | Karakterin POW+INT |
+| Bir nesne veya madde | Karakterin POW x2 |
+| Bir kişilik özelliği | Karakterin POW+CHA |
 
 ### Tutkuları Kullanma
 
-Tutku, oyun sırasında olayları etkileme kapasitesine sahip derinden hissedilen herhangi bir bağlılıktır. Yetenekler olarak tek başına kullanılabilseler de (onlara yetenek demek, haklarını teslim etmemektir), Tutkuların nasıl çalıştığını ve _Mythras_ _Imperative_ karakterlerini ve kampanyalarını nasıl etkileyebileceğini daha ayrıntılı açıklamak için aşağıda daha da genişletilmiştir.
+Tutku, oyun sırasında olayları etkileme kapasitesine sahip her türlü derin bağlılıktır. Bunlar bağımsız Yetenekler olarak kullanılabilse de (onlara beceri demek onlara haksızlık etmektir), Tutkular, nasıl çalıştıklarını ve _Mythras Imperative_ karakterlerini ve kampanyalarını nasıl etkileyebileceklerini daha ayrıntılı açıklamak için aşağıda daha da genişletilmiştir.
 
-Özetle, Tutkular şöyle kullanılabilir:
+Özetle, Tutkular şu şekilde kullanılabilir:
 
-- Başka bir yeteneği güçlendirmek için, kişinin duygularının derinliğini ve eylemleri nasıl yönlendirdiğini yansıtarak. Bu durumda kullanıldığında, eğer güçlendirme tematik ve dramatik olarak önemliyse, Tutku değerinin %20'sini kullanılan bir yeteneğe ekler.
-- Seçimleri, arzuları ve duygusal eylemleri ve tepkileri yönlendiren bir Yetenek olarak. Bu şekilde kullanıldığında, bir Tutkuya karşı bir Standart atış yapılır, karakterin bir şey hakkında ne kadar güçlü düşündüğünü ve hissettiğini belirlemek için. Eğer atış Başarılı olursa, karakter Tutkunun dikte ettiği doğrultuda hareket eder. Eğer atış Başarısız olursa, karakter Tutkunun dürtüleri tarafından kısıtlanmadan özgürce hareket edebilir.
-- Diğer Tutkulara – hatta aynı karakter tarafından beslenenlere bile – karşı koymak için. Bu genellikle iki Tutkunun çatıştığı durumlarda kullanılır. Örneğin, kişisel bir sevgi, bir Yemine veya Sadakate aykırı olabilecek bir eylem rotasını dikte edebilir. Burada, daha başarılı olanın karakterin nasıl hareket edeceğini belirlediği iki Tutku arasında Karşıt Atış kullanılır.
-- Bağlılığın, inancın ve bir davaya sadakatin genel bir ölçüsü olarak. Tutkunun değeri ne kadar yüksekse, karakter o kadar bağlıdır. Benzer Tutkulara sahip karakterler, kimin daha derin bir bağlılık sergilediğini belirlemek için derecelendirmelerini karşılaştırabilirler.
-- Bazı psikolojik manipülasyon veya büyülü dominasyona direnmek için. Bir karakterin Tutkularına aykırı bir eylemi yapmaya zorlandığı belirli durumlarda, Karşıt Atışta İrade Gücü yerine Tutkuyu kullanabilir.
+- Başka bir beceriyi artırmak için, kişinin duygularının derinliğini ve eylemi nasıl yönlendirdiğini yansıtır. Bu bağlamda kullanıldığında, Tutku, eğer artış tematik ve dramatik olarak önemliyse, kullanılan beceriye değerinin %20'sini ekler.
+- Seçimleri, arzuları ve duygusal eylemleri ve tepkileri yönlendirmek için bir Yetenek olarak. Bu şekilde kullanıldığında, karakterin bir şey hakkında ne kadar güçlü düşündüğünü ve hissettiğini belirlemek için bir Tutkuya karşı standart bir atış yapılır. Atış bir Başarı ise, karakter Tutkunun dikte edeceği doğrultuda hareket eder. Atış Başarısız olursa, karakter Tutkunun dürtüleriyle kısıtlanmış hissetmeden özgürce hareket edebilir.
+- Diğer Tutkulara karşı çıkmak için – aynı karakterin sahip oldukları bile. Bu, tipik olarak iki Tutkunun çatıştığı durumlarda kullanılır. Örneğin, kişisel bir aşk, Yemin veya Sadakat ile çelişen bir eylem yolunu dikte edebilir. Burada iki Tutku arasında Karşıt bir Atış kullanın, daha başarılı olan karakterin nasıl hareket edeceğini belirler.
+- Bir davaya olan bağlılığın, inancın ve sadakatin derinliğinin genel bir ölçüsü olarak. Tutkunun değeri ne kadar yüksekse, karakter o kadar bağlıdır. Benzer Tutkulara sahip karakterler, kimin daha derin bir bağlılık sergilediğini belirlemek için puanlarını karşılaştırabilirler.
+- Bazı psikolojik manipülasyon veya büyüsel hakimiyet biçimlerine direnmek için. Bir karakterin Tutkularına aykırı bir eylem gerçekleştirmeye zorlandığı bazı durumlarda, Karşıt Atışta İrade Gücü yerine Tutkularını kullanabilirler.
 
-Oyun oturumu sırasında, koşullar gerektirdiğinde herhangi bir noktada yeni Tutkular geliştirilebilir. Birisi, nefret uyandıracak bir şey yaptığında anında 'X'ten Nefret Etmek' geliştirebilir. Bir lord veya şef bir Yemin istediğinde, o Yemin alındığı veya edildiği anda hemen 'X'e Sadakat' Tutkusunu oluşturur.
+Koşullar gerektiriyorsa, yeni Tutkular bir oyun oturumu sırasında herhangi bir noktada geliştirilebilir. Başka birinin nefreti tetikleyecek bir şey yapması durumunda anında 'Nefret X' geliştirebilirsiniz. Yemin isteyen bir lord veya şef, o Yemin edildiği veya ant içildiği anda anında 'Sadakat X' Tutkusunu oluşturacaktır.
 
-Oyun sırasında bu şekilde geliştirilen yeni Tutkuların Deneyim Atışı maliyeti yoktur ve anında oluşturulur. Elbette, karakterler gelişim sırasında bir Tutku oluşturmayı da seçebilirler, bu da Temel Değerinde bir Tutku kazanmak için bir Deneyim Atışı maliyetiyle gerçekleşir.
+Bu şekilde oyun sırasında geliştirilen yeni Tutkular Deneyim Atışına mal olmaz ve orada oluşturulur. Elbette karakterler, bir Tutkuyu Temel Değerinde kazanmak için bir Deneyim Atışı maliyetiyle, geliştirme sırasında bir Tutku oluşturmayı da seçebilirler.
 
 ### Derinleşme ve Zayıflama
 
-Tutkular, deneyim atışlarından bağımsız olarak, artışı tetikleyen olayların gücüne bağlı olarak oyun sırasında artabilir. Ayrıca zayıflayabilirler ve zayıflarlar. Güçlü bir inanç birçok şey tarafından sarsılabilir, bu da Tutkunun azalmasına veya daha aşırı durumlarda tamamen tersine dönmesine yol açabilir.
+Tutkular, artışı tetikleyen olayın gücüne bağlı olarak Deneyim Atışlarından bağımsız olarak oyun sırasında artabilir. Ayrıca, azalabilirler ve azalırlar. Güçlü bir inanç, birçok şey tarafından sarsılabilir, bu da o Tutkunun ya azalmasına ya da daha uç durumlarda tamamen tersine dönmesine yol açar.
 
-Örneğin, 'Şefine Güven' Tutkusu olan bir karakter, şefi haince hareket ederse, Tutkusunu azaltabilir veya aynı yüzdeyle 'Şefine Güvenmeme'ye dönüşebilir. Oyun Yöneticisi, bir Tutkunun azalacağını mı yoksa tersine döneceğini mi belirlemelidir. Eğer azalırsa, bu değişimin kaynağının gücüne göre azalır.
+Örneğin, 'Güven Reisi' olan bir karakter, reisi haince davranırsa, Tutkusunu ya azaltabilir ya da aynı yüzdeyle 'Reise Güvensizlik'e dönüştürebilir. Oyun Yöneticisinin bir Tutkunun azalıp mı yoksa tersine mi döndüğünü belirlemesi gerekir. Azalırsa, değişimin kaynağının gücüne göre azalır.
 
 Derinleşme ve Zayıflama tablosu, Tutkunun ne kadar değiştiğini gösterir.
 
 #### Derinleşme ve Zayıflama Tablosu
 
-| Değişimin Derinliği | Tutku Tarafından Değiştirildi |
+| Değişim Derinliği | Tutku Değiştirici |
 | --- | --- |
-| Zayıf | 1z10 |
-| Orta | 1z10+5 |
-| Güçlü | 1z10+10 |
+| Zayıf | 1d10 |
+| Orta | 1d10+5 |
+| Güçlü | 1d10+10 |
 
 ---
-## Adım 9: Ekipman
+## 9. Adım: Ekipman
 
-Karakter neredeyse tamamlandığına göre, kendisine bazı eşyalar gerekir. Bu, silahları, zırhları veya belirli bir meslek için kullanılan diğer önemli teçhizatları içerebilir. Macera sırasında daha fazla ekipman edinme şansı çoktur, ancak her başlangıç karakterinin hemen sahip olduğu şeyler şunlardır:
+Karakter neredeyse bittiğine göre, biraz teçhizata ihtiyacı var. Bu, silahları, zırhları veya belirli bir meslek için kullanılan diğer önemli teçhizatları içerebilir. Macera sırasında daha fazla ekipman almak için birçok şans vardır, ancak her başlangıç karakterinin elinde şunlar bulunur:
 
-- Karakterin mesleğine ve ortama uygun bir giysi takımı.
-- Bir miktar cep harçlığı; zorluk çekmeden bir süre idare edecek kadar.
-- Kişisel bir hatıra, antika veya göreceli olarak az değerli bir biblo.
-- Karakterin mesleğine uygun herhangi bir meslek aleti veya taşınabilir ekipman, eğer uygunsa.
-- Karakterin Savaş Tarzı için herhangi bir kişisel silah.
-- Ortama uygun diğer eşyalar ve GM'nin onayına tabidir.
+- Karakterin mesleğine ve ortama uygun bir kıyafet seti.
+- Harçlık miktarı; sıkıntı çekmeden bir süre idare etmeye yetecek kadar.
+- Kişisel bir aile yadigarı, hatıra veya az değerli küçük bir eşya.
+- Uygunsa, karakterin mesleğine uygun ticaret araçları veya taşınabilir ekipman.
+- Karakterin Çatışma Stili için herhangi bir kişisel silah.
+- Ortam için uygun ve GM'nin onayına tabi diğer öğeler.

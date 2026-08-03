@@ -1,118 +1,118 @@
-# Liki
+# Značaji
 
-Vsak igralec v _Mythras Imperative_ nadzoruje lik. Lik je igralčev alter ego in je običajno zelo drugačen, fizično in mentalno, od igralca. Liki so lahko različnih ras, odvisno od igralnega okolja; zgodovinsko okolje bi vključevalo samo ljudi, medtem ko bi fantazijsko okolje lahko vključevalo škrate, viline in celo kuščarje. Osnovni lik je določen z nizom različnih elementov, ki opisujejo sposobnosti lika. Ti elementi so:
+Vsak igralec v _Mythras Imperative_ nadzoruje svojega lika. Lik je igralčev alter-ego in je običajno zelo drugačen od igralca, tako fizično kot mentalno. Liki so lahko različnih ras, odvisno od okolja igre; zgodovinsko okolje bi vključevalo le ljudi, medtem ko bi domišljijsko okolje lahko vključevalo škrate, vilince in celo kuščarje. Osnovni lik je definiran z vrsto različnih elementov, ki opisujejo njegove zmožnosti. Ti elementi so:
 
-- **Lastnosti:** kot sta Moč ali Karizma
-- **Atributi:** stvari, kot sta Višina ali Gibanje
-- **Spretnosti:** strokovno znanje na področju temeljnih sposobnosti
+- **Značilnosti (Characteristics):** kot sta Moč ali Karizma
+- **Atributi (Attributes):** stvari, kot sta višina ali premikanje
+- **Veščine (Skills):** strokovnost v temeljnih sposobnostih
 
-Večina teh elementov je opisana s številkami, nekateri pa so odvisni od drugih ali izračunani z njihovo pomočjo. Kaj pomeni vsak element in kako se določijo, je opisano v naslednjih poglavjih.
+Večina teh elementov je opisanih s številkami, nekateri pa so odvisni od drugih ali pa se iz njih izračunajo. Kaj pomeni posamezen element in kako se določi, je opisano v naslednjih poglavjih.
 
 ---
 ## 1. korak: Koncept lika
 
-Dober začetek je, da imate predstavo o tem, kakšen lik želite igrati: morda prebrisanega bojevnika ali zvitega tihotapca. Morda imate raje študioznega akademika ali modrega čarovnika. Vaš koncept lika v tej fazi ni treba, da je dodelan; preprosto ideja, ki vam bo pomagala usmerjati določene izbire, kot sta Kultura in Poklic.
+Dobro izhodišče je, da imate v mislih, kakšen tip lika želite igrati: morda pretkanega bojevnika ali zvitega tihotapca. Morda imate raje študioznega akademika ali modrega čarodeja. Vaš koncept lika v tej fazi ne potrebuje podrobnosti; zadostuje le ideja, ki bo pomagala usmerjati določene izbire, kot sta Kultura in Kariera.
 
 ---
-## 2. korak: Lastnosti
+## 2. korak: Značilnosti
 
-Vsakogar določa sedem Lastnosti, ki povedo nekaj o vašem liku; kako močan ali hiter je; kako pameten ali zdrav. Lastnosti so jedro vsakega lika v _Mythras_ _Imperative_ in so osnova za večino drugih elementov, kot so Atributi in Spretnosti. Sedem Lastnosti je:
+Vsakogar definira sedem Značilnosti, ki vam povedo nekaj o vašem liku; kako močan ali hiter je; kako pameten ali zdrav. Značilnosti so v središču vsakega lika v _Mythras Imperative_ in tvorijo osnovo za večino drugih elementov, kot so Atributi in Veščine. Sedem Značilnosti je:
 
 - Moč (STR)
-- Kondicija (CON)
+- Konstitucija (CON)
 - Velikost (SIZ)
 - Spretnost (DEX)
 - Inteligenca (INT)
-- Moč (POW)
+- Moč volje (POW)
 - Karizma (CHA)
 
-Pred izračunom Lastnosti, naslednje poglavje pojasnjuje, kaj vsaka predstavlja.
+Pred izračunom Značilnosti naslednje poglavje pojasnjuje, kaj vsaka predstavlja.
 
 #### Moč (STR)
 
-STR predstavlja fizično moč: koliko lahko nekdo dvigne, kako močno lahko udari in tako naprej. STR je sestavina Modifikatorja škode. Če se liku STR zmanjša na nič, nima zmožnosti premikanja ali dvigovanja predmetov.
+STR predstavlja fizično moč: koliko lahko nekdo dvigne, kako močno lahko udari itd. STR je sestavni del Modifikatorja poškodb. Če se liku STR zniža na nič, nima sposobnosti premikanja ali dvigovanja predmetov.
 
-#### Kondicija (CON)
+#### Konstitucija (CON)
 
-CON je merilo zdravja in odpornosti. CON je sestavina pri določanju Življenjskih točk in Stopnje zdravljenja. Če CON iz kakršnegakoli razloga pade na nič, lik umre.
+CON je merilo zdravja in vzdržljivosti. CON je sestavni del pri določanju Točk življenja in Stopnje zdravljenja. Če CON iz katerega koli razloga pade na nič, lik umre.
 
 #### Velikost (SIZ)
 
-SIZ meri maso in pomaga določiti Višino in Težo. SIZ se uporablja za določitev Življenjskih točk, saj imajo večja, težja bitja običajno večjo vzdržljivost proti poškodbam. SIZ se lahko uporablja tudi za določanje Modifikatorja škode lika, saj masa pomaga povečati silo udarca.
+SIZ meri maso in pomaga določiti višino in težo. SIZ se uporablja za izračun Točk življenja, saj imajo večja in težja bitja običajno večjo odpornost proti poškodbam. SIZ se lahko uporablja tudi za določanje Modifikatorja poškodb lika, saj masa pomaga povečati silo udarca.
 
 #### Spretnost (DEX)
 
-Gibčnost, ravnotežje in refleksi se merijo z DEX. Je pomemben vidik Akcijskih točk in Iniciative. Če se liku DEX zmanjša na nič, trpi zaradi funkcionalne paralize.
+Spretnost, ravnotežje in refleksi se merijo z DEX. Je pomemben vidik Akcijskih točk in Iniciative. Če se liku DEX zniža na nič, utrpi funkcionalno paralizo.
 
 #### Inteligenca (INT)
 
-INT je merilo kognitivnih sposobnosti. Tisti z nižjim rezultatom INT niso nujno neumni, vendar so verjetno omejeni pri tem, kako ustvarjalno lahko uporabljajo svojo pamet. INT je dejavnik pri izračunu Akcijskih točk in Iniciative. Če se INT zmanjša na nič, lik postane popolnoma brez misli.
+INT je merilo kognitivnih sposobnosti. Tisti z nižjo oceno INT niso nujno neumni, vendar bodo verjetno omejeni pri tem, kako ustvarjalno lahko uporabljajo svojo pamet. INT je dejavnik pri izračunu Akcijskih točk in Iniciative. Če se INT zniža na nič, lik postane popolnoma brez pameti.
 
-#### Moč (POW)
+#### Moč volje (POW)
 
-POW je merilo duše, duha, notranjega pogona ali sposobnosti lika za magijo. POW določa Čarobne točke in Točke sreče lika. Če se POW lika kdaj zmanjša na nič, izgubi vso neodvisno voljo.
+POW je merilo lika duše, duha, notranjega pogona ali sposobnosti za magijo. POW ureja Magične točke in Srečne točke lika. Če POW lika kdaj pade na nič, izgubi vso neodvisno voljo.
 
 #### Karizma (CHA)
 
-Karizma je merilo prisotnosti in osebnosti in je neodvisna od fizičnega videza. CHA vpliva na Modifikator izkušenj lika. Če CHA kdaj pade na nič, se lik ne more več socialno povezovati z drugimi, saj postane tako boleče sramežljiv ali antisocialen, da ga ignorirajo ali celo odženejo.
+Karizma je merilo prisotnosti in osebnosti in je neodvisna od fizičnega videza. CHA vpliva na Modifikator izkušenj lika. Če CHA kdaj pade na nič, lik ne more več socialno komunicirati z drugimi, saj postane tako boleče sramežljiv ali asocialen, da ga ljudje ignorirajo ali celo odženejo.
 
 ---
-### Izračun Lastnosti
+### Izračun Značilnosti
 
-Vsaka Lastnost ima številčno vrednost, ki določa, kako močna je. Številka v oklepaju za vsakim metom kocke je rasno povprečje in se uporablja kot merilo za oceno rezultatov vašega lika v primerjavi z drugimi člani njihove vrste. Predlogi za določanje vaših Lastnosti vključujejo:
+Vsaka Značilnost ima številčno vrednost, ki določa njeno moč. Številka v oklepaju za vsakim rezultatom metanja kock je rasno povprečje in se uporablja kot merilo za ocenjevanje rezultatov vašega lika v primerjavi z drugimi člani vrste. Predlogi za določanje Značilnosti vključujejo:
 
-- **Met kocke:** Vrzite kocke za STR, CON, SIZ, DEX, INT, POW in CHA, pri čemer si zabeležite vsak dobljeni rezultat. Ker so rezultati teh metov lahko precej naključni, je pogosto bolje, da se za koncept lika odločite, ko so kocke že vržene. V nasprotnem primeru lahko končne Lastnosti preprečijo vnaprej določeno vlogo. Vrzite 3k6 za STR, CON, DEX, POW in CHA; nato 2k6+6 za SIZ in INT.
-- **Met kocke, dodelitev:** Kot zgoraj, le da lahko igralec zamenja vrednosti med Lastnostmi z enakim razponom kocke. Na primer, pri ustvarjanju človeka lahko igralec zamenja vrednosti med STR, CON, DEX, POW in CHA, saj imajo razpon 3k6, ali med SIZ in INT, ki imata razpon 2k6+6 – vendar morajo biti vedno iz iste skupine razponov kocke; ne morete preklapljati metov iz ene skupine v drugo.
-- **Met kocke, višje:** Vrzite eno dodatno kocko, kot je navedeno za STR, CON, SIZ, DEX, INT, POW in CHA, in pri vsakem izpustite najnižji rezultat.
-- **Točkovna gradnja:** Igralci dodelijo vrednosti Lastnosti iz vnaprej določenega sklada 80 točk. Lastnosti ne morejo biti nižje od minimalne vržene vrednosti, niti višje od maksimalne.
+- **Met kock:** Vrzite kocke za STR, CON, SIZ, DEX, INT, POW in CHA ter vzemite vsak dobljeni rezultat. Ker so rezultati teh metov lahko precej naključni, je pogosto bolje, da se za koncept lika odločite šele po metu kock. V nasprotnem primeru lahko končne Značilnosti izključijo vnaprej določeno vlogo. Vrzite 3d6 za STR, CON, DEX, POW in CHA; nato 2d6+6 za SIZ in INT.
+- **Met kock, razporeditev:** Kot zgoraj, razen da lahko igralec zamenja vrednosti med Značilnostmi z istim razponom kock. Na primer, pri ustvarjanju človeka lahko igralec zamenja vrednosti med STR, CON, DEX, POW in CHA, ker si delijo razpon 3d6, ali med SIZ in INT, ki si delita razpon 2d6+6 — vendar morajo biti vedno iz iste skupine razpona kock; ne morete zamenjati metov iz ene skupine v drugo.
+- **Met kock, visoki:** Vrzite eno dodatno kocko, kot je navedeno za STR, CON, SIZ, DEX, INT, POW in CHA, in zavrzite najnižji rezultat za vsako.
+- **Gradnja s točkami:** Igralci razporedijo ocene Značilnosti iz vnaprej določenega sklada 80 točk. Značilnosti ne smejo biti nižje od najmanjše možne vrednosti pri metu niti višje od največje.
 
 ---
 ## 3. korak: Atributi
 
-Vsak lik ima tudi nabor atributov. To so sposobnosti, ki izhajajo iz Lastnosti ali so z njimi določene in se uporabljajo za uravnavanje določenih dejavnikov igranja.
+Vsak lik ima tudi nabor atributov. To so sposobnosti, izpeljane iz Značilnosti ali določene z njimi, ki se uporabljajo za urejanje določenih dejavnikov igranja.
 
 #### Akcijske točke
 
-Kako pogosto lahko lik deluje v bojnem krogu, določajo Akcijske točke. Vsi liki v _Mythras_ _Imperative_ imajo 2 Akcijski točki.
+Kako pogosto lahko lik deluje v bojnem krogu, določajo Akcijske točke. Vsi liki v _Mythras Imperative_ imajo 2 Akcijski točki.
 
-#### Modifikator škode
+#### Modifikator poškodb
 
-Večji in močnejši liki in bitja lahko v določenih situacijah povzročijo dodatno škodo; nasprotno pa lahko šibkejši in manjši liki zmanjšajo škodo, ki jo lahko povzročijo. Modifikator škode se običajno uporablja v bojnih situacijah, lahko pa se uporablja tudi pri poskusih uničenja predmetov. Modifikator škode je dodaten met kocke, ki se bodisi prišteje ali odšteje od škode, ki jo povzroči orožje ali orodje. Če negativni Modifikator škode zmanjša škodo orožja na nič ali manj, potem ni bila povzročena nobena škoda.
+Večji in močnejši liki in bitja lahko pridobijo dodatno škodo v določenih situacijah; nasprotno, šibkejši in manjši liki lahko zmanjšajo škodo, ki jo lahko povzročijo. Modifikator poškodb se na splošno uporablja v bojnih situacijah, lahko pa se uporablja tudi pri poskusih lomljenja predmetov. Modifikator poškodb je dodaten met kocke, ki se doda ali odšteje od škode, ki jo povzroči orožje ali orodje. Če negativni Modifikator poškodb zmanjša škodo orožja na nič ali manj, potem škoda sploh ni bila povzročena.
 
-Seštejte STR in SIZ ter si oglejte spodnjo tabelo Modifikatorja škode.
+Seštejte STR in SIZ ter poglejte spodnjo tabelo Modifikatorja poškodb.
 
-##### Tabela modifikatorja škode
+##### Tabela Modifikatorja poškodb
 
-| STR+SIZ | Modifikator škode |
+| STR+SIZ | Modifikator poškodb |
 | :-: | :-:|
-| 5 ali manj | –1k8 |
-| 6–10 | –1k6 |
-| 11–15 | –1k4 |
-| 16–20 | –1k2 |
+| 5 ali manj | –1d8 |
+| 6–10 | –1d6 |
+| 11–15 | –1d4 |
+| 16–20 | –1d2 |
 | 21–25 | +0 |
-| 26–30 | +1k2 |
-| 31–35 | +1k4 |
-| 36–40 | +1k6 |
-| 41–45 | +1k8 |
-| 46–50 | +1k10 |
-| 51–60 | +1k12 |
-| 61–70 | +2k6 |
-| 71–80 | +1k8+1k6 |
-| 81–90 | +2k8 |
-| 91–100 | +1k10+1k8 |
-| 101–110 | +2k10 |
-| 111–120 | +2k10+1k2 |
-| Vsakih 10 točk | Nadaljevanje progresije |
+| 26–30 | +1d2 |
+| 31–35 | +1d4 |
+| 36–40 | +1d6 |
+| 41–45 | +1d8 |
+| 46–50 | +1d10 |
+| 51–60 | +1d12 |
+| 61–70 | +2d6 |
+| 71–80 | +1d8+1d6 |
+| 81–90 | +2d8 |
+| 91–100 | +1d10+1d8 |
+| 101–110 | +2d10 |
+| 111–120 | +2d10+1d2 |
+| Vsakih 10 točk | Nadaljuj progresijo |
 
 #### Modifikator izkušenj
 
-Med igro liki izboljšujejo svoje spretnosti in sposobnosti. To se doseže z Meti izkušenj, ki so podrobneje razloženi v razdelku [Sistem igre](0004_Game_System.md?id=experience-rolls).
+Med igranjem liki izboljšujejo svoje veščine in sposobnosti. To se doseže z Meti izkušenj, ki so podrobneje pojasnjeni v poglavju [Igralni sistem](0004_Game_System.md?id=experience-rolls).
 
-Rezultat CHA lika lahko prilagodi število Metov izkušenj, ki jih lik prejme, kar odraža odnos, ki ga ima s svojimi vrstniki, in njegov ugled v skupnosti. Z visoko CHA so ljudje pripravljeni pomagati pri usposabljanju ali podpori lika med učenjem. Nasprotno pa z izjemno nizko CHA lahko pride do težav pri izboljšanju sposobnosti brez pomoči drugih; na primer, iskanje nekoga za boj.
+Ocena CHA lika lahko prilagodi število Metov izkušenj, ki jih lik prejme, kar odraža odnos, ki ga ima s svojimi vrstniki, in njegov ugled v skupnosti. Z visoko CHA so ljudje pripravljeni pomagati pri usposabljanju ali podpiranju lika med šolanjem. Nasprotno, z zelo nizko CHA je morda težje izboljšati svoje sposobnosti brez pomoči drugih; na primer, iskanje nekoga za sparing.
 
-##### Tabela modifikatorja izkušenj
+##### Tabela Modifikatorja izkušenj
 
-| CHA | Modifikator izkušenj |
+| CHA | Modif. izkušenj |
 |:-:| :-:|
 | 6 ali manj | -1 |
 | 7-12 | +0 |
@@ -121,9 +121,9 @@ Rezultat CHA lika lahko prilagodi število Metov izkušenj, ki jih lik prejme, k
 
 #### Stopnja zdravljenja
 
-Po poškodbah si mora lik opomoči. Stopnja zdravljenja določa, kako hitro si naravno opomore od ran. Odvisno od resnosti poškodbe, Stopnja zdravljenja označuje, koliko Življenjskih točk se povrne na dan, teden ali mesec.
+Po prejetih poškodbah si mora lik opomoči. Stopnja zdravljenja določa, kako hitro si naravno opomore od ran. Odvisno od resnosti poškodbe, Stopnja zdravljenja označuje, koliko Točk življenja se povrne na dan, teden ali mesec.
 
-##### Tabela stopnje zdravljenja
+##### Tabela Stopnje zdravljenja
 
 | CON | Stopnja zdravljenja |
 | :-:| :-:|
@@ -132,240 +132,239 @@ Po poškodbah si mora lik opomoči. Stopnja zdravljenja določa, kako hitro si n
 | 13-18 | 3 |
 | Vsakih 6 točk | +1 |
 
-#### Življenjske točke
+#### Točke življenja
 
-Življenjske točke predstavljajo, koliko poškodb lahko določeno področje telesa prenese, preden postane neuporabno, kar lahko povzroči onesposobitev in končno smrt lika. Telo vsakega bitja je razdeljeno na ločene lokacije – ljudje imajo na primer sedem: glavo, prsi, trebuh, roke in noge – vsaka lokacija ima svoje Življenjske točke.
+Točke življenja predstavljajo, koliko poškodb lahko prenese del telesa, preden postane neuporaben, kar lahko vodi do nezmožnosti za delovanje in končno do smrti lika. Telo vsakega bitja je razdeljeno na ločene lokacije – ljudje imajo na primer sedem: glavo, prsni koš, trebuh, roke in noge – vsaka lokacija ima svoje Točke življenja.
 
-Nekatera bitja, kot so pošasti ali različne vrste živali, imajo po svoji naravi pogosto radikalno drugačne telesne strukture, vendar ima vsaka lokacija, ki jo imajo, še vedno Življenjske točke. Ko se Življenjske točke lokacije zaradi kakršne koli poškodbe zmanjšajo na določeno raven, lik trpi določene posledice, ki odražajo resnost poškodbe. Za dodatne informacije o ranah glejte razdelek [Poškodbe in stopnje ran](0004_Game_System.md?id=damage-and-wound-levels).
+Nekatera bitja, kot so pošasti ali različni razredi živali, imajo zaradi svoje narave pogosto radikalno drugačne telesne zgradbe, vendar ima vsaka lokacija, ki jo imajo, še vedno Točke življenja. Ko se Točke življenja lokacije zmanjšajo na določeno raven zaradi škode katere koli vrste, potem lik utrpi določene posledice, ki odražajo resnost poškodbe. Za nadaljnje informacije o ranah glejte poglavje [Škoda in stopnje ran](0004_Game_System.md?id=damage-and-wound-levels).
 
-Za izračun Življenjskih točk vsake lokacije, seštejte CON in SIZ ter poiščite rezultat v tabeli Življenjskih točk zgoraj.
+Za izračun Točk življenja vsake lokacije seštejte CON in SIZ ter poglejte rezultat v zgornji tabeli Točk življenja.
 
-##### Življenjske točke na lokacijo
+##### Točke življenja na lokacijo
 
 | Lokacija | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Glava | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| Prsi | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Prsni koš | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Trebuh | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
 | Vsaka roka | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
 | Vsaka noga | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 #### Iniciativa
 
-Trenutek, v katerem se nekdo odzove v boju, določa Iniciativa. Iniciativa deluje kot modifikator k metom za Iniciativo; višja kot je Iniciativa, hitreje se nekdo odzove v bojni situaciji, kar določa, kdaj lahko delujete. Dodatni dejavniki – na primer oklep – jo spreminjajo. Poglavje [Boj](0005_Combat.md?id=combat-style) podrobneje opisuje, kako se Iniciativa uporablja.
+Trenutek, v katerem se nekdo odzove v boju, ureja Iniciativa. Iniciativa deluje kot modifikator za mete Iniciative; višja kot je Iniciativa, hitreje se nekdo odzove v bojni situaciji, kar določa, kdaj lahko delujete. Drugi dejavniki – na primer oklep – jo modificirajo. Poglavje [Boj](0005_Combat.md?id=combat-style) podrobneje obravnava, kako se uporablja Iniciativa.
 
-Iniciativa je povprečje Lastnosti DEX in INT.
+Iniciativa je povprečje Značilnosti DEX in INT.
 
-#### Točke sreče
+#### Srečne točke
 
-Točke sreče predstavljajo tisto čudno silo, ki pustolovske junake ločuje od običajnih ljudi. Imenujte jo usoda, karmo ali preprosto srečo. Točke sreče se lahko uporabijo za:
+Srečne točke predstavljajo tisto čudno silo, ki razlikuje pustolovske junake od vsakdanjih ljudi. Imenujte jo usoda, karma ali preprosto sreča. Srečne točke se lahko uporabijo za:
 
-- Ponovni met kocke, če so neugodne.
+- Ponoven met kock, če so neugodne.
 - Ublažitev fizične škode ali drugih nesrečnih okoliščin.
-- Pridobitev prednosti v ključnem trenutku boja.
+- Pridobitev prednosti v ključnem trenutku v boju.
 
-Natančno, kako se uporabljajo in kdaj, je opisano v razdelku [Sistem igre](0004_Game_System.md?id=game-system). Ko je Točka sreče porabljena, se zaloga zmanjša; ko zmanjka Točk sreče, jih ni več na voljo – razen če Pripovedovalec (Game Master) impromptu dodeli – do naslednje igralne seje, ko se dopolnijo na svojo običajno vrednost.
+Kako točno se uporabljajo in kdaj, je opisano v poglavju [Igralni sistem](0004_Game_System.md?id=game-system). Ko je Srečna točka porabljena, se sklad zmanjša; ko nekdo nima več Srečnih točk, jih ni več na voljo – razen če jih Mojster iger podeli improvizirano – do naslednje igralne seje, ko se obnovijo na svojo običajno vrednost.
 
-##### Tabela točk sreče
+##### Tabela Srečnih točk
 
-| POW | Točke sreče |
+| POW | Srečne točke |
 | :-- | :-: |
 | 6 ali manj | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Vsakih 6 točk | +1 |
 
-#### Čarobne točke
+#### Magične točke
 
-Mistične sposobnosti, moči in uroki, uporabljeni v _Mythras_ _Imperative_, običajno temeljijo na Čarobnih točkah. Ker je razpoložljivost magije lahko omejena z nastavitvijo kampanje ali specifičnimi magičnimi poklici, bodo nekateri liki ta atribut odvečen.
+Mistične sposobnosti, moči in uroki, uporabljeni v _Mythras Imperative_, se običajno zanašajo na Magične točke. Ker je dostopnost magije lahko omejena z okoljem kampanje ali na določene magične poklice, se bodo nekaterim likom ti Atributi zdeli odveč.
 
-Za tiste, ki lahko uporabljajo takšne moči, so Čarobne točke lika enake njihovi POW. Te točke se uporabljajo za izrekanje urokov, katerih strošek je odvisen od vrste uporabljene magije. Ko čarovnikom zmanjka Čarobnih točk, so izčrpali svojo sposobnost izrekanja urokov, dokler se Čarobne točke ne dopolnijo.
+Za tiste, ki lahko uporabljajo takšne moči, so Magične točke lika enake njegovi POW. Te točke se uporabljajo za metanje urokov, katerih strošek je odvisen od vrste uporabljene magije. Ko zmanjka Magičnih točk, so čarodeji izčrpali svojo sposobnost metanja kakršnih koli urokov, dokler se Magične točke ne obnovijo.
 
-#### Hitrost gibanja
+#### Stopnja premikanja
 
-Vsako bitje ima Hitrost gibanja – število metrov, ki jih je mogoče prehoditi v določenem časovnem obdobju. Gibanje se ne izračunava iz Lastnosti, ampak je privzeta vrednost, ki se razlikuje od vrste do vrste. Osnovna Hitrost gibanja za ljudi je 6 metrov.
+Vsako bitje ima Stopnjo premikanja – število metrov, ki jih lahko prepotuje v določenem časovnem obdobju. Premikanje se ne izračuna iz Značilnosti, ampak je privzeta vrednost, ki se razlikuje od vrste do vrste. Osnovna Stopnja premikanja za ljudi je 6 metrov.
 
-Hitrejši načini gibanja kot hoja uporabljajo multiplikator za oceno Gibanja:
-- **Tek:** Gibanje x3  
-- **Sprint:** Gibanje x5
+Hitrejši načini hoje od hoje (Walk) uporabljajo množitelj za oceno Premikanja:
+- **Tek (Run):** Premikanje x3
+- **Šprint (Sprint):** Premikanje x5
 
 <details>
 
-<summary>* Errata skupnosti</summary>
+<summary>* Popravki skupnosti</summary>
 
-_**Načini gibanja: Hoja, Tek, Sprint**_
+_**Načini hoje: Walk, Run, Sprint**_
 
-_Objavljena različica _Mythras Imperative_ nima eksplicitnih pravil za gibanje z različnimi načini gibanja, čeprav so pokrita v osnovnem pravilniku Mythras. Zgoraj navedeni množitelji načinov gibanja so bili dodani kot del Errate skupnosti._ 
+_Objavljena različica _Mythras Imperative_ nima izrecnih pravil za premikanje z različnimi načini hoje, čeprav so zajeti v osnovni knjigi pravil Mythras. Zgoraj navedeni množitelji so bili dodani kot del Popravkov skupnosti._
 
-_Kjer je to potrebno, bi moralo zadostovati, da se načini gibanja obravnavajo kot sledi:_
+_Kjer je potrebno, naj zadostuje, da načine hoje obravnavate takole:_
 
-- _Načini gibanja, hitrejši od hoje, uporabljajo množitelj za oceno gibanja: 3x za tek, 5x za sprint._
-- _Med tekom ali sprintom liki ne morejo poskusiti večine proaktivnih dejanj, kot so napadanje ali izrekanje urokov. Nekatere izjeme vključujejo..._
-  - _Napade pri uporabi pravil za juriš._
-  - _Streli z orožjem na daljavo z značilnostjo izmikanja._ 
-- _Kot splošno pravilo je treba vsa dovoljena dejanja obravnavati kot eno stopnjo težja pri teku in dve stopnji težja pri sprintu._
-
+- _Hitrejši načini hoje od hoje (Walk) uporabljajo množitelj za oceno Premikanja: 3x za Tek (Run), 5x za Šprint (Sprint)._
+- _Med Tekom ali Šprintom liki ne morejo poskusiti večine proaktivnih dejanj, kot sta napadanje ali metanje urokov. Nekatere izjeme vključujejo..._
+  - _Napadi pri uporabi pravil za jurišanje (Charging)._
+  - _Streljanje z orožji na daljavo z lastnostjo Skirmishing._
+- _Kot splošno pravilo velja, da je treba vsa dovoljena dejanja obravnavati kot eno stopnjo težja za izvedbo pri Teku in dve stopnji težja pri Šprintu._
 
 </details>
 
 ---
-## 4. korak: Spretnosti
+## 4. korak: Veščine
 
-Spretnosti spadajo v dva razreda. Vsakdo ima standardne spretnosti – stvari, kot so prikradanje ali vplivanje na druge. Profesionalne spretnosti pa so tiste, ki zahtevajo specifično usposabljanje, preden jih je mogoče poskusiti – stvari, kot so sledenje divjim živalim, pilotiranje vesoljskih plovil ali razumevanje starih jezikov. Likom so na voljo trije skladi točk za pridobivanje spretnosti; prvi sklad za kulturo, v kateri so odraščali, drugi za poklic, ki ga prevzamejo po otroštvu, in zadnji za nadaljnje zaokroževanje njihovih spretnosti. Privzeto novi liki dodelijo 100 točk skladu spretnosti Kulture, 100 točk skladu spretnosti Poklica in nadaljnjih 150 bonus točk za zaokroževanje. Vsaka Kultura in Poklic ima določen razpon standardnih in profesionalnih spretnosti, na katere se lahko dodelijo te točke spretnosti.
+Veščine spadajo v dva razreda. Vsakdo ima Standardne veščine – stvari, kot so prikradanje ali vplivanje na druge. Profesionalne veščine pa so tiste, ki zahtevajo posebno usposabljanje, preden jih je mogoče poskusiti – stvari, kot so sledenje divjim živalim, pilotiranje vesoljskega plovila ali razumevanje starodavnih jezikov. Liki prejmejo tri sklade točk, ki jih lahko porabijo za pridobivanje veščin; prvi sklad za Kulturo, v kateri so odraščali, drugi za Kariero, ki jo sprejmejo po otroštvu, in zadnji za nadaljnje zaokroževanje nabora veščin. Privzeto novi liki razporedijo 100 točk v sklad veščin Kulture, 100 v sklad veščin Kariere in dodatnih 150 bonus točk za zaokroževanje. Vsaka Kultura in Kariera ima določen nabor standardnih in profesionalnih veščin, v katere se lahko razporedijo te točke veščin.
 
-##### Bojni slog
+##### Bojni stil
 
-Bojni slog je naveden v kulturnih opisih, ki sledijo. Bojni slogi so podrobneje razloženi v razdelku [Boj](0005_Combat.md?id=combat-style) in imajo osnovni odstotek, enak STR+DEX.
+Bojni stil je naveden v naslednjih kulturnih opisih. Bojni stili so podrobneje pojasnjeni v poglavju [Boj](0005_Combat.md?id=combat-style) in imajo Osnovni odstotek, enak STR+DEX.
 
-##### Standardne spretnosti
+##### Standardne veščine
 
-| Spretnost | Osnovni odstotek |
+| Veščina | Osnovni odstotek |
 | :-- | :-- |
 | Atletika | STR+DEX |
-| Čolnarstvo | STR+CON |
-| Moč | STR+SIZ |
+| Čolnarjenje | STR+CON |
+| Moč (Brawn) | STR+SIZ |
 | Prikrivanje | DEX+POW |
-| Navade | INT x2, +40\* |
+| Običaji | INT x2, +40\* |
 | Ples | DEX+CHA |
-| Prevara | INT+CHA |
+| Zvitost | INT+CHA |
 | Vožnja | DEX+POW |
 | Vzdržljivost | CON x2 |
 | Izmikanje | DEX x2 |
 | Prva pomoč | INT+DEX |
-| Vpliv | CHA x2 |
-| Uvid | INT+POW |
-| Območje | INT x2 |
+| Vplivanje | CHA x2 |
+| Vpogled | INT+POW |
+| Poznavanje okolja | INT x2 |
 | Materni jezik | INT+CHA, +40\* |
 | Zaznavanje | INT+POW |
 | Jahanje | DEX+POW |
 | Petje | CHA+POW |
 | Prikradanje | DEX+INT |
 | Plavanje | STR+CON |
-| Goloroka borba | STR+DEX |
+| Neborožni boj | STR+DEX |
 | Moč volje | POW x2 |
 
-_\* Vključuje statični bonus +40% za Navade in Materni jezik lika (Skupni za ljudi)._
+_\* Vključuje statični bonus +40 % za Običaje in Materni jezik lika (za ljudi običajen)._
 
 ---
 ## 5. korak: Kultura
 
-Kultura določa vrsto družbe, v kateri je bil lik vzgojen, in tako predpisuje določene poglede in filozofije, ki jih morda ima. Bolj praktično, kultura pomaga povečati vrednosti različnih spretnosti, ki oblikujejo splošne sposobnosti vašega lika. Obstajajo štiri osnovne človeške kulture: Barbarska, Civilizirana, Nomadska in Primitivna. Vsako kulturno ozadje navaja vrsto standardnih spretnosti, ki so mu primerne, in vabi igralca, da izbere do tri predstavljene poklicne spretnosti: na ta način lahko igralci iz istega kulturnega ozadja zagotovijo, da so njihovi pustolovci različni na področjih, ki so jih razvili. Razdelite 100 točk spretnosti Kulture med navedene standardne spretnosti poklica in vse izbrane poklicne spretnosti, pri čemer vsako spretnost povečate za 1% za vsako točko, porabljeno za njeno izboljšanje. Pripovedovalci (Game Masters) lahko želijo določiti zgornjo mejo, koliko točk spretnosti se lahko uporabi za katero koli posamezno spretnost.
+Kultura določa vrsto družbe, v kateri je bil lik vzgojen, in zato predpisuje določene poglede in filozofije, ki jih morda ima. Bolj praktično, kultura pomaga povečati vrednosti različnih veščin, ki oblikujejo splošne zmožnosti vašega lika. Obstajajo štiri osnovne človeške kulture: Barbar, Civiliziran, Nomad in Primitiven. Vsako kulturno ozadje navaja nabor Standardnih veščin, ki so zanj primerne, in vabi igralca, da izbere do tri predstavljene Profesionalne veščine: na ta način lahko igralci iz istega kulturnega ozadja zagotovijo, da so njihovi pustolovci različni na področjih, ki so jih razvili. Porazdelite 100 točk veščin Kulture med navedene Standardne veščine kariere in izbrane Profesionalne veščine, tako da povečate vsako veščino za 1 % za vsako točko, porabljeno za njeno izboljšanje. Mojstri iger lahko določijo omejitev, koliko točk veščin se lahko uporabi za določeno veščino.
 
-### Barbarski
+### Barbar
 
-Po naravi plemenski, barbari ponavadi zavračajo civilizacijo, tiste, ki živijo v velikih mestih, pa imajo za šibke in pokvarjene. Čeprav so tudi njihova naselja ustaljena, so ponavadi precej manjša in bližje naravi. Barbarska plemena zasedajo izrazita ozemlja, pogosto na pol ukročeno divjino, ki jo imajo za svojo za lov, pašo in kmetovanje. Večina je veščih uporabe orožja, saj morajo skozi življenje premagati številne nevarnosti – soočajo se z bitji divjine ali se zbirajo, da branijo svoje dežele pred rivalskimi plemeni. Ker živijo v majhnih skupnostih, so vezi sorodstva in klana močni elementi njihove družbe.
+Barbar, po naravi plemenski, se običajno izogiba civilizaciji, saj tiste, ki živijo v velikih mestih, dojema kot šibke in pokvarjene. Čeprav so tudi njihova lastna naselja ustaljena, so običajno veliko manjša in bližje naravi. Barbaraska plemena zasedajo jasna ozemlja, pogosto napol ukročeno divjino, ki jo imajo za svojo za lov, pašo in kmetovanje. Večina je vešča uporabe orožja, saj se morajo skozi vse življenje spopadati s številnimi nevarnostmi – soočanjem z bitji divjine ali zbiranjem za obrambo svojih zemljišč pred rivalskimi plemeni. Ker živijo v majhnih skupnostih, so vezi sorodstva in klana močni elementi njihove družbe.
 
-#### Spretnosti
+#### Veščine
 
-- **Standardne spretnosti:** Atletika, Moč, Vzdržljivost, Prva pomoč, Območje, Zaznavanje; in bodisi Čolnarstvo ali Jahanje. Poleg tega lahko igralec izbere tudi kulturni Bojni slog.
-- **Profesionalne spretnosti:** Obrt (katera koli), Zdravljenje, Znanje (katero koli), Muzikalnost, Navigacija, Pomorstvo, Preživetje, Sledenje.
+- **Standardne veščine:** Atletika, Moč (Brawn), Vzdržljivost, Prva pomoč, Poznavanje okolja, Zaznavanje; in bodisi Čolnarjenje ali Jahanje. Poleg tega lahko igralec izbere tudi kulturni Bojni stil.
+- **Profesionalne veščine:** Obrt (katera koli), Zdravilstvo, Znanje (katero koli), Glasbeništvo, Navigacija, Pomorstvo, Preživetje, Sledenje.
 
-### Civilizirani
+### Civiliziran
 
-Civilizirano kulturo zaznamuje privid reda in zakona, podprt s kompleksnimi socialnimi kodeksi in birokracijo. Civilizirani ljudje verjamejo, da so superiorni vsem drugim kulturam, ker so njihovi dosežki usmerjeni k trajnosti: razprostranjena mesta, mogočni templji, slavnostni spomeniki ter beleženje zgodovine in dogodkov v knjigah, nagrobnikih in zvitkih. Seveda je to tanka prevleka. Najbolj civilizirana mesta so lahko bolj brezpravna kot katero koli barbarsko obmejno naselje; in socialni kodeksi so lahko bolj surovi kot gostoljubni rituali nomadov. Toda civilizirana kultura se ponaša s svojimi dosežki, svojo infrastrukturo, svojimi poklicnimi obrtniki in svojo sposobnostjo, da z lahkoto razširi svoj doseg, kamor koli želi.
+Civilizirano kulturo uteleša videz zakona in reda, podprt s kompleksnimi družbenimi kodeksi in podprt z birokracijo. Civilizirani ljudje verjamejo, da so boljši od vseh drugih kultur, ker njihovi dosežki stremijo k trajnosti: razprostrta mesta, mogočni templji, spominski spomeniki ter beleženje zgodovine in dogodkov v knjige, nagrobnike in svitke. Seveda je to le tanek premaz. Najbolj civilizirano mesto je lahko bolj brez zakonov kot katera koli barbarska obmejna naselbina; in družbeni kodeksi so lahko bolj surovi kot gostoljubni rituali nomadov. Toda civilizirana kultura se ponaša s svojimi dosežki, svojo infrastrukturo, svojimi profesionalnimi obrtniki in svojo sposobnostjo, da zlahka razširi svoj doseg, kamor koli želi.
 
-#### Spretnosti
+#### Veščine
 
-- **Standardne spretnosti:** Prikrivanje, Prevara, Vožnja, Vpliv, Uvid, Območje, Moč volje. Poleg tega lahko igralec izbere tudi kulturni Bojni slog.
-- **Profesionalne spretnosti:** Umetnost (katera koli), Trgovina, Obrt (katera koli), Vljudnost, Jezik (kateri koli), Znanje (katero koli), Muzikalnost, Poznavanje ulic.
+- **Standardne veščine:** Prikrivanje, Zvitost, Vožnja, Vplivanje, Vpogled, Poznavanje okolja, Moč volje. Poleg tega lahko igralec izbere tudi kulturni Bojni stil.
+- **Profesionalne veščine:** Umetnost (katera koli), Trgovina, Obrt (katera koli), Vljudnost, Jezik (kateri koli), Znanje (katero koli), Glasbeništvo, Poznavanje ulic.
 
-### Nomadi
+### Nomad
 
-Nomadi so nenehno v gibanju, brez doma in ognjišča, ki bi ga lahko imenovali svojega. Lahko tavajo brez cilja ali pa imajo več taborišč, med katerimi se selijo skozi leto. Gojijo malo pridelkov in namesto tega sledijo migracijam živali ali rib, morda celo pasejo svoje udomačene živali. Nomadi so spretni pri preživetju s tem, kar lahko hitro in enostavno najdejo v svojem okolju, pri čemer ničesar ne zavržejo. Spretnosti nomadske kulture bi morale biti prilagojene njihovemu okolju. Nekateri potujejo na velike razdalje peš, drugi živijo v karavanah ali jahajo čudna bitja, nekateri pa se prenašajo po oceanih na velikih plavajočih splavih.
+Nomadski ljudje so nenehno na poti, brez doma in ognjišča, ki bi ga lahko imenovali svoje. Lahko brezciljno tavajo naokoli ali pa imajo več taborov, med katerimi se selijo skozi leto. Gojijo malo poljščin in namesto tega sledijo migracijam živali ali rib, morda celo pasejo svoje udomačene zveri. Nomadi so vešči preživljanja s tistim, kar lahko hitro in zlahka najdejo v svoji okolici, ne da bi karkoli zavrgli. Veščine nomadske kulture bi morale biti prilagojene njihovemu okolju. Nekateri prepotujejo ogromne razdalje peš, drugi živijo v karavanah ali jahajo nenavadna bitja, nekateri pa plujejo čez oceane na velikih plavajočih splavih.
 
-#### Spretnosti
+#### Veščine
 
-- **Standardne spretnosti:** Vzdržljivost, Prva pomoč, Območje, Zaznavanje, Prikradanje; in dve od naslednjih: Atletika, Čolnarstvo, Plavanje, Vožnja ali Jahanje, odvisno od primarnega načina potovanja. Poleg tega lahko igralec izbere tudi kulturni Bojni slog.
-- **Profesionalne spretnosti:** Obrt (katera koli), Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Muzikalnost, Navigacija, Preživetje, Sledenje.
+- **Standardne veščine:** Vzdržljivost, Prva pomoč, Poznavanje okolja, Zaznavanje, Prikradanje; in dve od naslednjih: Atletika, Čolnarjenje, Plavanje, Vožnja ali Jahanje, odvisno od glavnega načina potovanja. Poleg tega lahko igralec izbere tudi kulturni Bojni stil.
+- **Profesionalne veščine:** Obrt (katera koli), Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Glasbeništvo, Navigacija, Preživetje, Sledenje.
 
-### Primitivni
+### Primitiven
 
-Od vseh ljudstev so primitivni tisti, ki živijo najbližje zemlji, uglašeni z njenimi skritimi skrivnostmi. Primitivne kulture, ki živijo v širših družinskih skupinah, se zbirajo okoli zelo preprostih bivališč, ki segajo od jam in naravnih zatočišč do zavetišč ali zelo preprostih koč. Primitivni so tipično lovci-nabiralci z malo ali slabo razvitimi sistemi za kmetovanje in živinorejo.
+Od vseh ljudstev živijo primitivci najbližje zemlji, uglašeni z njenimi skritimi skrivnostmi. Primitivne kulture živijo v razširjenih družinskih skupinah in se zbirajo okoli zelo preprostih bivališč, ki segajo od jam in območij naravnega zavetja do lopi ali zelo osnovnih koč. Primitivci so običajno lovci-nabiralci z malo ali slabo razvitimi sistemi za kmetovanje in živinorejo.
 
-Vendar pa so določena kulturna prepričanja, pogosto temelječa na praznoverju, lahko zelo dobro opredeljena. Malokatera primitivna kultura je razvila kaj podobnega pisni govorici, čeprav slike in drugi slikovni simboli služijo kot sredstvo komunikacije.
+Vendar so določena kulturna verovanja, ki pogosto temeljijo na vraževerju, lahko zelo dobro opredeljena. Malo primitivnih kultur je razvilo karkoli, kar bi spominjalo na pisni jezik, čeprav slike in drugi slikovni simboli služijo kot sredstvo komunikacije.
 
-#### Spretnosti
+#### Veščine
 
-- **Standardne spretnosti:** Moč, Vzdržljivost, Izmikanje, Območje, Zaznavanje, Prikradanje; in ena od Atletike, Čolnarstva ali Plavanja. Poleg tega lahko igralec izbere tudi kulturni Bojni slog.
-- **Profesionalne spretnosti:** Obrt (katera koli), Zdravljenje, Znanje (katero koli), Muzikalnost, Navigacija, Preživetje, Sledenje.
+- **Standardne veščine:** Moč (Brawn), Vzdržljivost, Izmikanje, Poznavanje okolja, Zaznavanje, Prikradanje; in ena od: Atletika, Čolnarjenje ali Plavanje. Poleg tega lahko igralec izbere tudi kulturni Bojni stil.
+- **Profesionalne veščine:** Obrt (katera koli), Zdravilstvo, Znanje (katero koli), Glasbeništvo, Navigacija, Preživetje, Sledenje.
 
 ---
-## 6. korak: Poklic
+## 6. korak: Kariera
 
-Vsak lik začne igro z usposabljanjem v poklicu. Izbrana poklicna pot morda ni nujno tista, ki jo bo lik nadaljeval, ko začne svoje pustolovsko življenje, vendar je to poklic, ki se ga je lotil kot del prehoda v odraslost in nadalje opredeljuje razvoj spretnosti. Vsak poklic predstavlja vrsto standardnih spretnosti, ki so mu primerne, in omogoča igralcu, da izbere do tri navedene poklicne spretnosti. Razdelite 100 točk spretnosti Poklica med navedene standardne spretnosti poklica in vse izbrane poklicne spretnosti, pri čemer vsako spretnost povečate za 1% za vsako točko, porabljeno za njeno izboljšanje. Kot pri kulturah lahko Pripovedovalec (Game Master) določi zgornjo mejo, koliko točk spretnosti se lahko uporabi za katero koli posamezno spretnost.
+Vsak lik začne igro z usposabljanjem za kariero. Izbrani poklic morda ni nujno tisti, ki ga bo lik nadaljeval, ko se bo podal na pustolovsko pot, vendar je kariera, v katero se je podal kot del prehoda v odraslost, in še dodatno opredeljuje razvoj veščin. Vsaka kariera predstavlja nabor Standardnih veščin, ki so zanjo primerne, in igralcu dovoljuje, da izbere do tri od navedenih Profesionalnih veščin. Porazdelite 100 točk veščin Kariere med navedene Standardne veščine kariere in izbrane Profesionalne veščine, tako da povečate vsako veščino za 1 % za vsako točko, porabljeno za njeno izboljšanje. Kot pri kulturah lahko Mojster iger določi omejitev, koliko točk veščin se lahko uporabi za določeno veščino.
 
-Specifične poklicne spretnosti, kot je Pilot, verjetno ne bodo najdene v fantazijskem svetu. Spretnosti so podrobneje obravnavane v poglavju [Spretnosti](0002_Characters.md?id=step-4-skills).
+Posebne profesionalne veščine, kot je Pilot, verjetno ne bodo prisotne v domišljijskem svetu. Veščine so podrobneje obravnavane v poglavju [Veščine](0002_Characters.md?id=step-4-skills).
 
-#### Tabela poklicev
+#### Tabela karier
 
-| Ime poklica | Standardne spretnosti | Profesionalne spretnosti |
+| Ime kariere | Standardne veščine | Profesionalne veščine |
 | :-- | :-- | :-- |
-| Agent (Agitator, Morilec, Detektiv, Informator, Vohun…) | Prikrivanje, Prevara, Izmikanje, Uvid, Zaznavanje, Prikradanje; Bojni slog (specifičen agent ali kulturni slog) | Kultura (katera koli), Preobleka, Jezik (kateri koli), Spretnost rok, Poznavanje ulic, Preživetje, Sledenje |
-| Učitelj zveri (Vzreditelj živali, Krotilec zveri, Skrbnik menažerije…) | Vožnja, Vzdržljivost, Prva pomoč, Vpliv, Območje, Jahanje, Moč volje | Obrt (živinoreja), Trgovina, Zdravljenje (specifične vrste), Znanje (specifične vrste), Preživetje, Poučevanje (specifične vrste), Sledenje |
-| Lovec na glave (Agent za izvrševanje varščin, Lovec na glave, Skip tracer…) | Atletika, Vzdržljivost, Izmikanje, Uvid, Zaznavanje, Prikradanje; Bojni slog (kateri koli) | Birokracija, Trgovina, Kultura (katera koli), Lingvistika, Poznavanje ulic, Preživetje (katero koli), Sledenje |
-| Kurtizana (Priležnica, Spremljevalka, Dekle v haremu, Hurija, Ljubica…) | Navade, Ples, Prevara, Vpliv, Uvid, Zaznavanje, Petje | Umetnost (katera koli), Vljudnost, Kultura (katera koli), Igranje iger na srečo, Jezik (kateri koli), Muzikalnost, Zapeljevanje |
-| Obrtnik (Umetnik, Obrtnik…) | Moč, Vožnja, Vpliv, Uvid, Območje, Zaznavanje, Moč volje | Umetnost (katera koli), Trgovina, Obrt (primarna), Obrt (sekundarna), Inženirstvo, Mehanizmi, Poznavanje ulic |
-| Detektiv (Zasebni detektiv, Policist, Zasebni raziskovalec…) | Navade, Izmikanje, Vpliv, Uvid, Zaznavanje, Prikradanje; Bojni slog (goloroka borba ali pištola) | Birokracija, Kultura (katera koli), Preobleka, Lingvistika, Znanje (katero koli), Raziskovanje, Spretnost rok, Poznavanje ulic |
-| Zabavljač (Akrobat, Bard, Plesalec, Igralec, Pesnik…) | Atletika, Moč, Ples, Prevara, Vpliv, Uvid, Petje | Akrobatika, Igranje, Retorika, Muzikalnost, Zapeljevanje, Spretnost rok, Poznavanje ulic |
-| Kmet (Lastnik posestva, Vrtnar, Orač…) | Atletika, Moč, Vožnja, Vzdržljivost, Območje, Zaznavanje, Jahanje | Trgovina, Obrt (katera koli), Znanje (kmetijstvo), Znanje (živinoreja), Navigacija, Preživetje, Sledenje |
-| Ribič (Nabiralec školjk, Skrbnik mreže, Potapljač za bisere, Kitalovec…) | Atletika, Čolnarstvo, Vzdržljivost, Območje, Zaznavanje, Prikradanje, Plavanje | Trgovina, Obrt (katera koli), Znanje (primarni ulov), Znanje (sekundarni ulov), Navigacija, Pomorstvo, Preživetje |
-| Igralec na srečo (Stavničar, Kartač, Goljuf…) | Atletika, Moč, Vzdržljivost, Območje, Zaznavanje, Moč volje; in bodisi Vožnja ali Jahanje | Igranje, Birokracija, Trgovina, Vljudnost, Igranje iger na srečo, Raziskovanje, Spretnost rok, Poznavanje ulic |
-| Pastir (Vzreditelj, Pastir, Skrbnik svetih gosi, Privezovalec živine…) | Vzdržljivost, Prva pomoč, Uvid, Območje, Zaznavanje, Jahanje; Bojni slog (specifičen pastirski ali kulturni slog) | Trgovina, Obrt (živinoreja), Zdravljenje (specifične vrste), Navigacija, Muzikalnost, Preživetje, Sledenje |
-| Lovec (Gozdar, Krivolovec, Mrhovinar, Zasledovalec, Pastir…) | Atletika, Vzdržljivost, Območje, Zaznavanje, Jahanje, Prikradanje; Bojni slog (specifičen lovski ali kulturni slog) | Trgovina, Obrt (lovsko povezano), Znanje (regionalno ali specifične vrste), Mehanizmi, Navigacija, Preživetje, Sledenje |
-| Novinar (Komentator, Novinar, Doprsnik, Tiskar…) | Navade, Prevara, Vpliv, Uvid, Območje, Materni jezik, Zaznavanje | Birokracija, Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Retorika, Politika, Poznavanje ulic |
-| Čarovnik (Mag, Čarodej, Čarovnica, Čarovnik…) | Navade, Prevara, Vpliv, Uvid, Območje, Zaznavanje, Moč volje | Kultura, Magija, Pismenost, Znanje x2, Retorika, Spetnost rok |
-| Mehanik (Inženir, Mazač…) | Moč, Kultura, Vožnja, Vzdržljivost, Vpliv, Območje, Moč volje | Trgovina, Obrt (primarna), Obrt (sekundarna), Elektronika, Igranje iger na srečo, Mehanizmi, Poznavanje ulic |
-| Trgovec (Posrednik, Ulični prodajalec, Posojilodajalec, Tihotapec, Trgovec…) | Čolnarstvo, Vožnja, Prevara, Uvid, Vpliv, Območje, Jahanje | Trgovina, Vljudnost, Kultura (katera koli), Jezik (kateri koli), Navigacija, Pomorstvo, Poznavanje ulic |
-| Rudar (Prospektor, Kamnolomec, Sapér, Kopač vodnjakov…) | Atletika, Moč, Vzdržljivost, Območje, Zaznavanje, Petje, Moč volje | Trgovina, Obrt (rudarstvo), Inženirstvo, Znanje (minerali), Mehanizmi, Navigacija (podzemlje), Preživetje |
-| Uradnik (Minister, Nadzornik, Upravitelj, Pobiralec davkov…) | Navade, Prevara, Vpliv, Uvid, Območje, Zaznavanje, Moč volje | Birokracija, Trgovina, Vljudnost, Jezik (kateri koli), Pismenost, Znanje (katero koli), Retorika |
-| Zdravnik (Doktor, Zdravilec, Šaman, Mučitelj, Vivisekcionist…) | Ples, Prva pomoč, Vpliv, Uvid, Območje, Petje, Moč volje | Trgovina, Obrt (specifična fiziološka specialnost), Zdravljenje, Jezik (kateri koli), Pismenost (katera koli), Znanje (katero koli), Poznavanje ulic |
-| Pilot (Aeronaut, Kozmonavt, Akrobatski pilot, Preizkusni pilot…) | Moč, Vožnja, Vzdržljivost, Izmikanje, Območje, Zaznavanje, Moč volje | Navade (katere koli), Elektronika, Mehanizmi, Navigacija, Pilotiranje, Senzorji, Poznavanje ulic |
-| Politik (Državni uradnik, Mandarin, Minister, Nadzornik, Upravitelj…) | Navade, Prevara, Vpliv, Uvid, Območje, Materni jezik, Zaznavanje | Birokracija, Vljudnost, Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Retorika, Politika |
-| Duhovnik (Razsodnik, Kultist, Druid, Berač, Prerok…) | Navade, Ples, Prevara, Vpliv, Uvid, Območje, Moč volje | Birokracija, Vljudnost, Navade, Pismenost (katera koli), Znanje (katero koli), Retorika, Politika |
-| Mornar (Kapitan, Suženj na galeji, Marinec, Pirat, Splavar…) | Atletika, Čolnarstvo, Moč, Vzdržljivost, Območje, Plavanje; Bojni slog (specifičen mornar ali kulturni slog) | Obrt (specifična ladijska specialnost), Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Navigacija, Pomorstvo, Preživetje |
-| Učenjak (Annalist, Knjižničar, Filozof, Skald, Pisec…) | Navade, Vpliv, Uvid, Območje, Materni jezik, Zaznavanje, Moč volje | Kultura (katera koli), Jezik (kateri koli), Pismenost (katera koli), Znanje (primarno), Znanje (sekundarno), Retorika, Poučevanje |
-| Znanstvenik (Arhivist, Knjižničar, Filozof…) | Navade, Vpliv, Uvid, Območje, Materni jezik, Zaznavanje, Moč volje | Kultura (katera koli), Inženirstvo, Jezik (kateri koli), Retorika, Raziskovanje, Znanost (katera koli), Poučevanje |
-| Izvidnik (Lovec na glave, Raziskovalec, Pionir, Gozdar, Potnik…) | Atletika, Vzdržljivost, Prva pomoč, Zaznavanje, Prikradanje, Plavanje; Bojni slog (specifičen lovski ali kulturni slog) | Kultura (katera koli), Zdravljenje, Jezik (kateri koli), Znanje (katero koli), Navigacija, Preživetje, Sledenje |
-| Služabnik (Pomočnik, Batler, Šofer, Hišna služkinja, Guvernanja, Majordom, Služabnik, Osebni pomočnik, Tajnik…) | Navade, Prevara, Vožnja, Vpliv, Uvid, Območje, Zaznavanje | Birokracija, Vljudnost, Obrt (povezana s storitvami), Kultura (katera koli), Jezik (kateri koli), Politika, Poznavanje ulic |
-| Tihotapec (Preprodajalec na črnem trgu, Prohibicionist, Preprodajalec orožja…) | Prikrivanje, Navade, Prevara, Vožnja, Vpliv, Uvid, Območje | Birokracija, Trgovina, Navade (katere koli), Jezik (kateri koli), Navigacija, Poznavanje ulic; in bodisi Astrogacija ali Pomorstvo |
-| Tehnik (Električar, Laboratorijski pomočnik…) | Moč, Vožnja, Vzdržljivost, Vpliv, Območje, Zaznavanje, Moč volje | Komunikacije, Obrt (katera koli), Elektronika, Igranje iger na srečo, Mehanizmi, Znanost (katera koli), Senzorji |
-| Tat (Vlomilec, Prevarant, Prekupčevalec, Ropar, Ropar grobnic…) | Atletika, Prevara, Izmikanje, Uvid, Zaznavanje, Prikradanje; Bojni slog (specifičen tatinski ali kulturni slog) | Igranje, Trgovina, Preobleka, Odklepanje, Mehanizmi, Spetnost rok, Poznavanje ulic |
-| Bojevnik (Telesni stražar, Najemnik, Gladoator, Vojak…) | Atletika, Moč, Vzdržljivost, Izmikanje, Goloroka borba; Bojni slog (vojaški slog), Bojni slog (kulturni slog) | Obrt (katera koli), Inženirstvo, Igranje iger na srečo, Znanje (vojaška zgodovina), Znanje (strategija in taktika), Retorika, Preživetje |
+| Agent (Agitator, Morilec, Detektiv, Informator, Špijun…) | Prikrivanje, Zvitost, Izmikanje, Vpogled, Zaznavanje, Prikradanje; Bojni stil (Poseben agentski ali kulturni stil) | Kultura (katera koli), Preobleka, Jezik (kateri koli), Spretni prsti, Poznavanje ulic, Preživetje, Sledenje |
+| Skrbnik zveri (Živalski vzreditelj, Krotilec zveri, Čuvaj zverinjaka…) | Vožnja, Vzdržljivost, Prva pomoč, Vplivanje, Poznavanje okolja, Jahanje, Moč volje | Obrt (Živinoreja), Trgovina, Zdravilstvo (Posebna vrsta), Znanje (Posebna vrsta), Preživetje, Poučevanje (Posebna vrsta), Sledenje |
+| Lovec na glave (Izvršitelj varščine, Morilec za denar, Lovec na skalpe…) | Atletika, Vzdržljivost, Izmikanje, Vpogled, Zaznavanje, Prikradanje; Bojni stil (kateri koli) | Birokracija, Trgovina, Kultura (katera koli), Jezikoslovje, Poznavanje ulic, Preživetje (katero koli), Sledenje |
+| Kurtizana (Pripetnica, Spremljevalka, Haremsko dekle, Ljubica…) | Običaji, Ples, Zvitost, Vplivanje, Vpogled, Zaznavanje, Petje | Umetnost (katera koli), Vljudnost, Kultura (katera koli), Igre na srečo, Jezik (kateri koli), Glasbeništvo, Zapeljevanje |
+| Obrtnik (Artificer, Artisan…) | Moč (Brawn), Vožnja, Vplivanje, Vpogled, Poznavanje okolja, Zaznavanje, Moč volje | Umetnost (katera koli), Trgovina, Obrt (Primarna), Obrt (Sekundarna), Inženirstvo, Mehanizmi, Poznavanje ulic |
+| Detektiv (Gumshoe, Policist, Zasebni detektiv, Preiskovalec…) | Običaji, Izmikanje, Vplivanje, Vpogled, Zaznavanje, Prikradanje; Bojni stil (Neborožni ali stil s stranskim orožjem) | Birokracija, Kultura (katera koli), Preobleka, Jezikoslovje, Znanje (katero koli), Raziskovanje, Spretni prsti, Poznavanje ulic |
+| Zabavljač (Akrobat, Bard, Plesalec, Igralec, Pesnik…) | Atletika, Moč (Brawn), Ples, Zvitost, Vplivanje, Vpogled, Petje | Akrobatika, Igranje, Govorništvo, Glasbeništvo, Zapeljevanje, Spretni prsti, Poznavanje ulic |
+| Kmet (Lastnik posestva, Vrtnar, Oráč…) | Atletika, Moč (Brawn), Vožnja, Vzdržljivost, Poznavanje okolja, Zaznavanje, Jahanje | Trgovina, Obrt (katera koli), Znanje (Kmetijstvo), Znanje (Živinoreja), Navigacija, Preživetje, Sledenje |
+| Ribič (Obalni iskalec, Mrežar, Potapljač za biseri, Kitolovec…) | Atletika, Čolnarjenje, Vzdržljivost, Poznavanje okolja, Zaznavanje, Prikradanje, Plavanje | Trgovina, Obrt (katera koli), Znanje (Primarni ulov), Znanje (Sekundarni ulov), Navigacija, Pomorstvo, Preživetje |
+| Kockar (Stavničar, Kartopivec, Hustler…) | Atletika, Moč (Brawn), Vzdržljivost, Poznavanje okolja, Zaznavanje, Moč volje; in bodisi Vožnja ali Jahanje | Igranje, Birokracija, Trgovina, Vljudnost, Igre na srečo, Raziskovanje, Spretni prsti, Poznavanje ulic |
+| Pastir (Vzreditelj, Pastir, Čuvaj svetih gosi, Wrangler…) | Vzdržljivost, Prva pomoč, Vpogled, Poznavanje okolja, Zaznavanje, Jahanje; Bojni stil (Poseben pastirski ali kulturni stil) | Trgovina, Obrt (Živinoreja), Zdravilstvo (Posebna vrsta), Navigacija, Glasbeništvo, Preživetje, Sledenje |
+| Lovec (Gozdar, Krivolovec, Zbiralec, Zasledovalec, Traper…) | Atletika, Vzdržljivost, Poznavanje okolja, Zaznavanje, Jahanje, Prikradanje; Bojni stil (Poseben lovski ali kulturni stil) | Trgovina, Obrt (Povezano z lovom), Znanje (Regionalno ali posebna vrsta), Mehanizmi, Navigacija, Preživetje, Sledenje |
+| Novinar (Komentator, Hack, Newshound, Tiskar…) | Običaji, Zvitost, Vplivanje, Vpogled, Poznavanje okolja, Materni jezik, Zaznavanje | Birokracija, Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Govorništvo, Politika, Poznavanje ulic |
+| Čarodej (Mage, Sorcerer, Čarovnica, Wizard…) | Običaji, Zvitost, Vplivanje, Vpogled, Poznavanje okolja, Zaznavanje, Moč volje | Kultura, Magija, Pismenost, Znanje x2, Govorništvo, Spretni prsti |
+| Mehanik (Inženir, Oljni mojster…) | Moč (Brawn), Kultura, Vožnja, Vzdržljivost, Vplivanje, Poznavanje okolja, Moč volje | Trgovina, Obrt (primarna), Obrt (sekundarna), Elektronika, Igre na srečo, Mehanizmi, Poznavanje ulic |
+| Trgovec (Posrednik, Ulični prodajalec, Posojilodajalec, Tihotapec…) | Čolnarjenje, Vožnja, Zvitost, Vpogled, Vplivanje, Poznavanje okolja, Jahanje | Trgovina, Vljudnost, Kultura (katera koli), Jezik (kateri koli), Navigacija, Pomorstvo, Poznavanje ulic |
+| Rudar (Prospektor, Kamnosek, Saper, Kopalc…) | Atletika, Moč (Brawn), Vzdržljivost, Poznavanje okolja, Zaznavanje, Petje, Moč volje | Trgovina, Obrt (Rudarstvo), Inženirstvo, Znanje (Minerali), Mehanizmi, Navigacija (podzemna), Preživetje |
+| Uradnik (Minister, Nadzornik, Upravnik, Davčni izterjevalec…) | Običaji, Zvitost, Vplivanje, Vpogled, Poznavanje okolja, Zaznavanje, Moč volje | Birokracija, Trgovina, Vljudnost, Jezik (kateri koli), Pismenost, Znanje (katero koli), Govorništvo |
+| Zdravnik (Doktor, Zdravilec, Šaman, Mučitelj, Vivisekcionist…) | Ples, Prva pomoč, Vplivanje, Vpogled, Poznavanje okolja, Petje, Moč volje | Trgovina, Obrt (Posebna fiziološka specialnost), Zdravilstvo, Jezik (kateri koli), Pismenost (katera koli), Znanje (katero koli), Poznavanje ulic |
+| Pilot (Aeronavt, Astronavt, Akrobatski pilot, Flyboy, Testni pilot…) | Moč (Brawn), Vožnja, Vzdržljivost, Izmikanje, Poznavanje okolja, Zaznavanje, Moč volje | Običaji (kateri koli), Elektronika, Mehanizmi, Navigacija, Pilot, Senzorji, Poznavanje ulic |
+| Politik (Javni uslužbenec, Mandarin, Minister, Nadzornik, Upravnik…) | Običaji, Zvitost, Vplivanje, Vpogled, Poznavanje okolja, Materni jezik, Zaznavanje | Birokracija, Vljudnost, Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Govorništvo, Politika |
+| Duhovnik (Arbiter, Kultist, Druid, Žebrajec, Prerok…) | Običaji, Ples, Zvitost, Vplivanje, Vpogled, Poznavanje okolja, Moč volje | Birokracija, Vljudnost, Običaji, Pismenost (katera koli), Znanje (katero koli), Govorništvo, Politika |
+| Mornar (Kapitan, Galejni suženj, Marinec, Pirat, Splavar…) | Atletika, Čolnarjenje, Moč (Brawn), Vzdržljivost, Poznavanje okolja, Plavanje; Bojni stil (Poseben mornarski ali kulturni stil) | Obrt (Posebna ladijska specialnost), Kultura (katera koli), Jezik (kateri koli), Znanje (katero koli), Navigacija, Pomorstvo, Preživetje |
+| Učenjak (Annalist, Knjižničar, Filozof, Skald, Pisec…) | Običaji, Vplivanje, Vpogled, Poznavanje okolja, Materni jezik, Zaznavanje, Moč volje | Kultura (katera koli), Jezik (kateri koli), Pismenost (katera koli), Znanje (Primarno), Znanje (Sekundarno), Govorništvo, Poučevanje |
+| Znanstvenik (Arhivist, Knjižničar, Filozof…) | Običaji, Vplivanje, Vpogled, Poznavanje okolja, Materni jezik, Zaznavanje, Moč volje | Kultura (katera koli), Inženirstvo, Jezik (kateri koli), Govorništvo, Raziskovanje, Znanost (katera koli), Poučevanje |
+| Izvidnik (Lovec na glave, Raziskovalec, Pionir, Ranger, Popotnik…) | Atletika, Vzdržljivost, Prva pomoč, Zaznavanje, Prikradanje, Plavanje; Bojni stil (Poseben lovski ali kulturni stil) | Kultura (katera koli), Zdravilstvo, Jezik (kateri koli), Znanje (katero koli), Navigacija, Preživetje, Sledenje |
+| Služabnik (Pomočnik, Butler, Šofer, Hišna pomočnica, Guvernanta, Majordom, Postrešček, Osebni asistent, Sekretar…) | Običaji, Zvitost, Vožnja, Vplivanje, Vpogled, Poznavanje okolja, Zaznavanje | Birokracija, Vljudnost, Obrt (povezano s storitvami), Kultura (katera koli), Jezik (kateri koli), Politika, Poznavanje ulic |
+| Tihotapec (Črni trgovec, Bootlegger, Preprodajalec orožja…) | Prikrivanje, Običaji, Zvitost, Vožnja, Vplivanje, Vpogled, Poznavanje okolja | Birokracija, Trgovina, Običaji (kateri koli), Jezik (kateri koli), Navigacija, Poznavanje ulic; in bodisi Astrogacija ali Pomorstvo |
+| Tehnik (Električar, Laboratorijski asistent…) | Moč (Brawn), Vožnja, Vzdržljivost, Vplivanje, Poznavanje okolja, Zaznavanje, Moč volje | Komunikacije, Obrt (katera koli), Elektronika, Igre na srečo, Mehanizmi, Znanost (katera koli), Senzorji |
+| Tat (Vlomilec, Goljuf, Preprodajalec ukradenega, Ropar, Grobni plenilec…) | Atletika, Zvitost, Izmikanje, Vpogled, Zaznavanje, Prikradanje; Bojni stil (Poseben tatinski ali kulturni stil) | Igranje, Trgovina, Preobleka, Odklepanje, Mehanizmi, Spretni prsti, Poznavanje ulic |
+| Bojevnik (Telesni stražar, Plačanec, Gladiatorski borec, Vojak…) | Atletika, Moč (Brawn), Vzdržljivost, Izmikanje, Neborožni boj; Bojni stil (Vojaški stil), Bojni stil (Kulturni stil) | Obrt (katera koli), Inženirstvo, Igre na srečo, Znanje (Vojaška zgodovina), Znanje (Strategija in taktika), Govorništvo, Preživetje |
 
 ---
-## 7. korak: Bonusne točke spretnosti
+## 7. korak: Bonus točke veščin
 
-Kot zadnji korak se dodeli zadnji sklad 150 točk spretnosti za zaokrožitev lika. Te se lahko uporabijo za katero koli standardno spretnost ali za tiste profesionalne spretnosti, pridobljene kot del kulture ali poklica. Ponovno lahko Pripovedovalec (Game Master) določi zgornjo mejo, koliko točk spretnosti se lahko uporabi za katero koli posamezno spretnost.
+Kot zadnji korak se dodeli zadnji sklad 150 točk veščin za zaokroževanje lika. Te se lahko uporabijo za katero koli Standardno veščino ali tiste Profesionalne veščine, pridobljene kot del Kulture ali Kariere. Tudi tukaj lahko Mojster iger določi omejitev, koliko točk veščin se lahko uporabi za določeno veščino.
 
 ### Ustvarjanje izkušenih likov
 
-Priporočljivo je, da začetni liki začnejo sveži, z malo ali nič praktičnimi izkušnjami. Seveda bo raven likov močno odvisna od okolja in od tega, ali bo igra kratka enkratna pustolovščina ali dolgotrajna kampanja. Običajno je tudi, da igralec ustvari bolj izkušenega lika, če nadomešča tistega, ki je umrl med igro, ali ko se pridruži obstoječi kampanji.
+Priporočljivo je, da začetni liki začnejo na sveže, z malo ali nič praktičnih izkušenj. Seveda bo raven likov močno odvisna od okolja in od tega, ali bo igra kratka samostojna pustolovščina ali dolgoročna kampanja. Prav tako je pogosto, da igralec ustvari bolj izkušenega lika, če zamenjuje tistega, ki je umrl med igro, ali ko se pridruži obstoječi kampanji.
 
-Na voljo je tabela, ki razdeli izkušnje v starostne kategorije. Izkušnje lika so neposredno povezane s starostjo in usposobljenostjo spretnosti; bolj izkušeni liki imajo seveda več življenjskih izkušenj kot njihovi mlajši tovariši. Vendar pa je treba navedeni starostni bonus obravnavati kot približnega, saj kampanje napredujejo z različnimi hitrostmi – nekatere kampanje imajo veliko igralnega časa med pustolovščinami, medtem ko so druge dolga veriga neprekinjenih pustolovščin. Pri pretvorbi obstoječega lika preprosto nadomestite dejansko starost s tisto, ki je navedena v tabeli.
+Na voljo je tabela, ki razbija izkušnje na Starostne kategorije. Izkušnje lika so v neposredni korelaciji s starostjo in kompetentnostjo veščin; bolj izkušeni liki imajo naravno več življenjskih izkušenj kot njihovi mlajši kolegi. Vendar pa je treba naveden Starostni bonus obravnavati kot približen, saj kampanje napredujejo z različnimi hitrostmi — v nekaterih kampanjah med pustolovščinami preteče veliko igralnega časa, medtem ko so druge ena dolga veriga neprekinjenih pustolovščin. Pri pretvorbi obstoječega lika preprosto zamenjajte dejansko starost z tisto, ki je navedena v tabeli.
 
 #### Tabela izkušenj
 
-| Kategorija | Starost | Bonusne točke spretnosti | Največje povečanje spretnosti |
+| Kategorija | Starost | Bonus točke veščin | Največje povečanje veščine |
 | :-- | :-: | :-: | :-: |
-| Mlad | 10+1k6 | 100 | +10 |
-| Odrasel | 15+2k6 | 150 | +15 |
-| Srednjih let | 25+3k6 | 200 | +20 |
-| Starejši | 40+4k6 | 250 | +25 |
-| Star | 60+5k6 | 300 | +30 |
+| Mladi | 10+1d6 | 100 | +10 |
+| Odrasli | 15+2d6 | 150 | +15 |
+| Srednjih let | 25+3d6 | 200 | +20 |
+| Starejši | 40+4d6 | 250 | +25 |
+| Stari | 60+5d6 | 300 | +30 |
 
 #### Opombe k tabeli izkušenj
 
-- Bonusne točke spretnosti določajo, koliko točk mora lik porabiti za razvoj spretnosti.
-- Največje povečanje spretnosti omejuje, koliko bonus točk se lahko uporabi za katero koli spretnost.
+- Bonus točke veščin določajo, koliko točk mora lik porabiti za razvoj veščin.
+- Največje povečanje veščine omejuje, koliko Bonus točk se lahko uporabi za katero koli posamezno veščino.
 
-### Piramida spretnosti
+### Piramida veščin
 
-Postopek dodeljevanja točk spretnosti v _Mythras Imperative_ izhaja iz 350 točk iz treh virov: Kultura (100), Poklic (100) in Bonusne točke spretnosti (150). Dodeljevanje teh točk je lahko zamudno, in ni dvoma, da obstajajo časi, ko določanje kulture lika ni tako pomembno, ali pa ima igralec v mislih določeno poklicno pot, ki je ne pokrivajo predloge v osnovnih pravilih. Tukaj je predstavljen alternativni sistem za dodeljevanje točk spretnosti, ko je čas kratek ali ko so igralci nestrpni.
+Proces dodeljevanja točk veščin v _Mythras Imperative_ izpelje 350 točk iz treh virov: Kultura (100), Kariera (100) in Bonus točke veščin (150). Razporejanje teh točk je lahko zamudno in nedvomno obstajajo trenutki, ko določanje Kulture lika ni tako pomembno, ali pa ima igralec v mislih določen poklic, ki ga predloge v osnovnih pravilih ne služijo najbolje. Tukaj je predstavljen alternativni sistem za razporejanje točk veščin, ko se mudi ali ko so igralci nestrpni.
 
-Namesto dodeljevanja točk iz skladov spretnosti Kulture, Poklica in Bonusnih točk spretnosti, se uporablja Piramida spretnosti. Ta razdeli 350 točk v pet blokov fiksnih točk, kot sledi:
+Namesto razporejanja točk iz skladov Kulture, Kariere in Bonus točk veščin se uporabi Piramida veščin. Ta razdeli 350 točk na pet blokov fiksnih točk, kot sledi:
 
-1 spretnost pri 50%, 2 spretnosti pri 40%, 3 spretnosti pri 30%, 4 spretnosti pri 20%, 5 spretnosti pri 10%.
+1 veščina pri 50 %, 2 veščini pri 40 %, 3 veščine pri 30 %, 4 veščine pri 20 %, 5 veščin pri 10 %.
 
 Kar tvori priročno piramido. Preprosto prečrtajte vsako vrednost, ko je dodeljena.
 
@@ -383,86 +382,86 @@ Kar tvori priročno piramido. Preprosto prečrtajte vsako vrednost, ko je dodelj
 
 #### Nekaj preprostih pravil
 
-- Vse točke iz piramide morajo biti dodeljene.
-- Nobena spretnost ne more imeti več kot ene dodelitve iz piramide.
-- Navade in Materni jezik prejmejo +40, kot je določeno v osnovnih pravilih, in poleg morebitnih dodelitev iz piramide.
-- Strasti, ki prejmejo vrednosti, navedene v razdelku [Strasti](0002_Characters.md?id=step-8-passions), in poleg morebitnih dodelitev iz piramide.
-- Nobena spretnost ne sme preseči 80% zaradi dodelitve. Torej, če ima lik STR 16 in DEX 17, kar je osnova 33%, igralec ne more dodeliti 50-točkovne vrednosti Bojnemu slogu.
-- Šest vrednosti mora biti dodeljenih profesionalnim spretnostim.
-- Liki lahko še vedno izberejo Kulturo in Poklic ter uporabijo spretnosti, navedene v ustreznem opisu, kot vodilo za svoje dodelitve, ali pa so dodelitve popolnoma proste.
-- Priporočljivo je, da se vsaj ena od vrednosti dodeli Bojnemu slogu, vendar to ni obvezno.
-- Pripovedovalec (Game Master) ima vedno zadnjo besedo.
+- Vse točke iz piramide morajo biti razporejene.
+- Nobena veščina ne sme imeti več kot ene dodelitve iz piramide.
+- Običaji in Materni jezik oba pridobita +40, kot po osnovnih pravilih, in poleg vseh dodelitev iz piramide.
+- Strasti pridobijo vrednosti, navedene v razdelku [Strasti](0002_Characters.md?id=step-8-passions), in poleg vseh dodelitev iz piramide.
+- Nobena veščina ne sme preseči 80 % zaradi rezultata dodelitve. Torej, če ima lik STR 16 in DEX 17, kar skupaj znaša 33 %, igralec ne more dodeliti vrednosti 50 točk Bojnemu stilu.
+- Šest vrednosti mora biti dodeljenih Profesionalnim veščinam.
+- Liki lahko še vedno izberejo Kulturo in Poklic ter uporabijo veščine, navedene v ustreznem opisu, kot vodilo za svoje dodelitve, ali pa so dodelitve lahko popolnoma proste.
+- Priporočljivo je, da je vsaj ena od vrednosti dodeljena Bojnemu stilu, vendar to ni obvezno.
+- Mojster iger ima vedno zadnjo besedo.
 
-### Junaštva, večja od življenja
+### Nad-naravna junaštva
 
-_Mythras Imperative_ se primarno ukvarja z običajnimi človeškimi bitji, včasih pa kampanja zahteva nekaj drugega, še posebej, če zahteva posebna junaštva ali se odvija v okolju Pulp Action, kjer so junaki in zlikovci ponavadi večji od življenja.
+_Mythras Imperative_ se ukvarja predvsem z običajnimi ljudmi, občasno pa kampanja zahteva nekaj drugega, zlasti če zahteva posebna junaštva ali se odvija v okolju Pulp Action, kjer so junaki in zlikovci navadno večji od življenja.
 
-Takšni junaki morda nimajo nadnaravnih moči per se (čeprav, če so te zaželene, se lahko uporabi poglavje Magija in moči), vendar so nekoliko močnejši, nekoliko hitrejši, nekoliko bolj odporni in običajno veliko bolj trdno voljni. Pomislite na določenega barbara iz Cimmerije; posebnega agenta, ki ima licenco za ubijanje; človeka iz brona; zamaskiranega vigilanta, ki je tudi milijarder playboy – ali na katero koli število priljubljenih junaških likov. Pogosto se soočajo s situacijami, kjer bi se navaden človek zlomil; a kot junaki lahko prenesejo vse, kar jim zaplet prinese, in živijo, da se vključijo v naslednjo pustolovščino (razmeroma) nepoškodovani.
+Takšni junaki nimajo nujno supermoči (čeprav se lahko uporabi poglavje Magija in moči, če so zaželene), vendar so malo močnejši, malo hitrejši, malo bolj odporni in običajno veliko bolj močne volje. Pomislite na določenega barbara iz Cimmerie; posebnega agenta z dovoljenjem za ubijanje; moža iz brona; zamaskiranega budnega državljana, ki je hkrati milijarder playboy – ali katero koli število priljubljenih junaških likov. Pogosto se soočajo s situacijami, kjer bi običajen človek klonil; toda kot junaki lahko prenesejo vse, kar jim zaplet postavi na pot, in živijo, da se podajo v naslednjo pustolovščino (razmeroma) nepoškodovani.
 
-Če nameravate uvesti te vrste likov v svoje igre, poskrbite, da imajo vsi igralci like na isti ravni. Te vrste likov so zasnovane tako, da dominirajo prizorišče in poganjajo dogajanje; navadni liki (razen če imajo koristi od magije ali kakšne druge prednosti) lahko ostanejo v senci.
+Če nameravate vpeljati te vrste likov v svoje igre, se prepričajte, da imajo vsi igralci like na isti ravni. Te vrste likov so zasnovane tako, da "žvečijo kuliso" in vodijo akcijo; vsakdanji liki (razen če imajo prednost magije ali kakšno drugo prednost) lahko hitro ostanejo v senci.
 
-### Pulp Junaški Liki
+### Pulp Hero liki
 
-To so tradicionalni Pulp Junaki. Niso superjunaki ali polbogovi, in dobro usmerjen strel s puško jim bo še vedno vzel življenje, vendar so žilavejši, pametnejši, sposobnejši in na splošno eno ali dve stopnici nad običajnimi ljudmi. Poleg tega je njihovo življenje ponavadi polno pustolovščin. Medtem ko se Junaški lik lahko odloči, da se umiri in vodi nezahtevno življenje, se pogosto težave ali nekdo v stiski znajdejo pred vrati lika.
+To so tradicionalni Pulp junaki. Niso superjunaki ali polbogovi in dobro nameščen strel s šibrenico bo še vedno končal njihovo življenje, vendar so težji, pametnejši, bolj sposobni in na splošno stopnjo ali dve nad običajnimi ljudmi. Prav tako so njihova življenja pogosto polna pustolovščin. Medtem ko se junaški lik lahko odloči, da se poskusi ustaliti in voditi neizstopajoče življenje, bodo težave ali nekdo v stiski pogosto našli pot do vrat lika.
 
-#### Lastnosti
+#### Značilnosti
 
-Pri ustvarjanju Pulp Junaških likov uporabite metodo Dodeljevanja metov kocke v razdelku [Liki](0002_Characters.md?id=calculating-characteristics). Vrzite 4k6 in odvrzite najnižjo kocko, petkrat, nato pa rezultate dodelite STR, CON, DEX, POW in CHA. Nato vrzite 3k6+6 in odvrzite najnižjo kocko dvakrat ter ti dve številki dodelite SIZ in INT. Če uporabljate metodo Točkovne gradnje, igralci gradijo svoj lik iz vnaprej določenega sklada 90 točk.
-
-#### Atributi
-
-Ti se izračunajo kot običajno, le da Pulp Junaški liki pridobijo dve prednosti, izbrani izmed naslednjih (upoštevajte, da se prednosti ne morejo kopičiti):
-
-- +1 Akcijska točka
-- +1 Točka sreče
-- +1 Življenjska točka za vsako lokacijo udarca
-- Meti Vzdržljivosti so eno stopnjo lažji
-- Meti Prikradanja so eno stopnjo lažji
-- Meti Moči volje so eno stopnjo lažji
-
-Vsi Pulp Junaški liki podvojijo svojo Stopnjo zdravljenja, ko trpijo zaradi manjših ali resnih ran, čeprav se večje rane obravnavajo po standardni Stopnji zdravljenja lika.
-
-#### Spretnosti
-
-Pulp Junaški liki pridobijo dodatnih 50 Bonusnih točk spretnosti, ki jih po potrebi dodelijo.
-
-### Liki parangonov
-
-Liki parangonov so utelešenja odličnosti. Medtem ko sta določen arheolog z bičem in super-vohun z licenco za ubijanje Pulp Junaški liki, so tisti Kimerčan, Človek iz brona, Detektiv Temni vitez in Sherlock Holmes liki parangonov. Liki parangonov niso zgolj izjemno kompetentni na enem področju strokovnega znanja: običajno so odlični na več področjih. Briljanten izumitelj in fizik, ki je tudi dvokremi, izjemno natančen vojni junak, je odličen primer lika parangona; milijarder playboy, borec proti kriminalu, ki se je učil od najboljših detektivov na svetu, je še en. Liki parangonov imajo lahko več univerzitetnih diplom, neodvisno bogastvo, skrivnostne dobrotnike, pa tudi številne druge oblike izkušenj.
-
-Posledično liki parangonov ne bodo za vsakogar, toda če okolje potrebuje like, ki lahko spremenijo usodo celotnega osončja ali se spopadejo s katerim koli izzivom, potem kampanja na ravni parangonov ustreza. Medtem ko tako navadne kot junaške kampanje občasno vključujejo izjemno visoke vložke, kot je usoda narodov ali celo planetov, bi to morale kampanje parangonov redno početi.
-
-#### Lastnosti
-
-Pri ustvarjanju likov z metodo Dodeljevanja metov kocke v razdelku [Liki](0002_Characters.md?id=calculating-characteristics). Vrzite 4k6, odvrzite najnižjo kocko šestkrat, nato pa dodelite pet rezultatov po vaši izbiri (običajno pet najvišjih) STR, CON, DEX, POW in CHA. Nato vrzite 3k6+6, odvrzite najnižjo kocko trikrat in dodelite dva rezultata po vaši izbiri (običajno dva najvišja) SIZ in INT. Če uporabljate metodo Točkovne gradnje, igralci gradijo svoj lik iz vnaprej določenega sklada 100 točk.
+Pri ustvarjanju Pulp junaških likov uporabite metodo Met kock, razporeditev v razdelku [Značilnosti](0002_Characters.md?id=calculating-characteristics). Vrzite 4d6 in petkrat zavrzite najnižjo kocko, nato pa rezultate razporedite v STR, CON, DEX, POW in CHA. Nato vrzite 3d6+6, dvakrat zavrzite najnižjo kocko in te številke razporedite v SIZ in INT. Če uporabljate metodo Gradnja s točkami, igralci gradijo svoj lik iz vnaprej določenega sklada 90 točk.
 
 #### Atributi
 
-Ti se izračunajo kot običajno, le da Liki parangonov pridobijo tri prednosti, izbrani izmed naslednjih (upoštevajte, da se prednosti ne morejo kopičiti):
+Ti se izračunajo kot običajno, razen da Pulp junaški liki pridobijo dve Prednosti, izbrani iz naslednjih (upoštevajte, da se prednosti ne morejo seštevati):
 
 - +1 Akcijska točka
-- +2 Točki sreče
-- +2 Življenjski točki za vsako lokacijo udarca
-- Meti Vzdržljivosti so eno stopnjo lažji
-- Meti Prikradanja so eno stopnjo lažji
-- Meti Moči volje so eno stopnjo lažji
+- +1 Srečna točka
+- +1 Točka življenja na vsako lokacijo telesa
+- Meti za Vzdržljivost so za eno stopnjo lažji
+- Meti za Prikradanje so za eno stopnjo lažji
+- Meti za Moč volje so za eno stopnjo lažji
 
-Vsi Liki parangonov podvojijo svojo Stopnjo zdravljenja, ko trpijo zaradi manjših ali resnih ran, čeprav se večje rane obravnavajo po standardni Stopnji zdravljenja lika.
+Vsi Pulp junaški liki podvojijo svojo Stopnjo zdravljenja, ko trpijo zaradi Manjših ali Resnih ran, čeprav se Hude rane obravnavajo pri standardni Stopnji zdravljenja lika.
 
-#### Spretnosti
+#### Veščine
 
-Liki parangonov pridobijo dodatnih 100 Bonusnih točk spretnosti, ki jih po potrebi dodelijo.
+Pulp junaški liki pridobijo dodatnih 50 Bonus točk veščin, ki jih razporedijo po potrebi.
+
+### Paragon liki
+
+Paragon liki so utelešenja odličnosti. Medtem ko sta določen arheolog z bičem in super-špijun z dovoljenjem za ubijanje Pulp junaška lika, sta tisti Cimmerian, Mož iz brona, Dark Knight detektiv in Sherlock Holmes Paragon lika. Paragon liki niso le vrhunsko kompetentni na enem področju strokovnosti: običajno izstopajo na več področjih. Genialen izumitelj in fizik, ki je hkrati tudi dvoročni, vrhunski vojni heroj, je odličen primer Paragon lika; milijarder playboy, ki se je boril proti kriminalu in študiral z najboljšimi detektivskimi umi na svetu, je še en. Paragon liki imajo lahko več univerzitetnih diplom, neodvisno bogastvo, skrivnostne dobrotnike in številne druge oblike izkušenj.
+
+Posledično Paragon liki ne bodo za vsakogar, če pa okolje potrebuje like, ki lahko spremenijo usodo celotnega sončnega sistema ali sprejmejo kateri koli izziv, potem kampanja na ravni Paragon ustreza namenu. Medtem ko tako običajne kot junaške kampanje občasno vključujejo izjemno visoke vložke, kot je usoda narodov ali celo planetov, bi morale kampanje Paragon to redno početi.
+
+#### Značilnosti
+
+Pri ustvarjanju likov z uporabo metode Met kock, razporeditev v razdelku [Značilnosti](0002_Characters.md?id=calculating-characteristics). Vrzite 4d6, šestkrat zavrzite najnižjo kocko, nato pa pet rezultatov po vaši izbiri (običajno pet najvišjih) razporedite v STR, CON, DEX, POW in CHA. Nato vrzite 3d6+6, trikrat zavrzite najnižjo kocko in dva rezultata po vaši izbiri (običajno dva najvišja) razporedite v SIZ in INT. Če uporabljate metodo Gradnja s točkami, igralci gradijo svoj lik iz vnaprej določenega sklada 100 točk.
+
+#### Atributi
+
+Ti se izračunajo kot običajno, razen da Paragon liki pridobijo tri Prednosti, izbrane iz naslednjih (upoštevajte, da se prednosti ne morejo seštevati):
+
+- +1 Akcijska točka
+- +2 Srečni točki
+- +2 Točki življenja na vsako lokacijo telesa
+- Meti za Vzdržljivost so za eno stopnjo lažji
+- Meti za Prikradanje so za eno stopnjo lažji
+- Meti za Moč volje so za eno stopnjo lažji
+
+Vsi Paragon liki podvojijo svojo Stopnjo zdravljenja, ko trpijo zaradi Manjših ali Resnih ran, čeprav se Hude rane obravnavajo pri standardni Stopnji zdravljenja lika.
+
+#### Veščine
+
+Paragon junaški liki pridobijo dodatnih 100 Bonus točk veščin, ki jih razporedijo po potrebi.
 
 ---
 ## 8. korak: Strasti
 
-Strasti se uporabljajo za pomoč igralcem in Pripovedovalcem (Game Masters) pri poglabljanju narave lika, uvajanju zapletov, ki temeljijo na željah ali predsodkih lika, ter pomagajo igralcu razumeti, kdo je njegov lik, kaj ga žene in tako naprej.
+Strasti se uporabljajo za pomoč igralcem in Mojstrom iger pri poglabljanju narave lika, uvajanju zapletov, ki temeljijo na željah ali predsodkih lika, in pomagajo igralcu razumeti, kdo je njegov lik, kaj ga žene itd.
 
-Strast je lahko do česar koli – osebe, organizacije, ideala, celo predmeta. Strasti so tipično opisane z glagolom, kot so: Želja, Prezira, Uniči, Zagovarja, Strah, Beži, Zatajuje, Sovraži, Ljubi, Zvestoba do, Ščiti, Zavrača, Spoštuje, Išče, Podre, Muči ali Podpira.
+Strast je lahko karkoli – oseba, organizacija, ideal, celo predmet. Strasti so običajno opisane z glagolom, kot so: Želja, Prezir, Uničenje, Podpora, Strah, Beg, Odpoved, Sovraštvo, Ljubezen, Zvestoba, Zaščita, Zavrnitev, Spoštovanje, Iskanje, Spodkopavanje, Mučenje ali Uveljavljanje.
 
-Strasti se merijo enako kot spretnosti; ocenjene so med 1 in 100 (ali več). Strast se lahko izboljša na enak način kot spretnost, ali pa jo sodnik poveča ali zmanjša, odvisno od okoliščin.
+Strasti se merijo na enak način kot veščine; ocenjene so med 1 in 100 (ali več). Strast se lahko izboljša na enak način kot veščina, ali pa jo sodnik poveča ali zmanjša glede na okoliščine.
 
-Začetni liki lahko začnejo z do tremi Strastmi, vsaka temelji na dveh Lastnostih, z bonusom +40 za prvo, +30 za drugo in +20 za tretjo – igralec določi vrstni red pomembnosti. Te so lahko povezane z njegovo kulturo, poklicem ali osebnimi pomanjkljivostmi. Na primer, v kampanji Meč in čarovništvo bi lik lahko imel: Sovraštvo (Stigijcem), Nezaupanje (Čarovnikom) in Želja (Alkohol); medtem ko bi v distopični Sci-Fi igri lik namesto tega izbral Zvestobo (Predsedniku), Uniči (Vesoljce) in Podpira (Zakon).
+Začetni liki lahko začnejo z do tremi Strastmi, vsaka temelji na dveh Značilnostih, z bonusom +40 za prvo, +30 za drugo in +20 za tretjo – igralec odloča o vrstnem redu pomembnosti. Te so lahko vezane na njegovo kulturo, poklic ali osebne šibkosti. Na primer, v kampanji Meč & Čarovnija bi lik lahko vzel: Sovraštvo (Stygijci), Nezaupanje (Čarodeji) in Želja (Alkohol); medtem ko bi v distopični Sci-Fi igri lik raje izbral Zvestoba (Predsednik), Uničenje (Vesoljci) in Uveljavljanje (Zakon).
 
 #### Tabela strasti
 
@@ -470,51 +469,51 @@ Začetni liki lahko začnejo z do tremi Strastmi, vsaka temelji na dveh Lastnost
 | :-- | :-- |
 | Oseba, v romantičnem ali družinskem kontekstu | POW+CHA |
 | Organizacija ali skupina ljudi | POW+INT |
-| Rasa ali vrsta | POW lika x2 |
-| Kraj | POW lika+INT |
-| Predmet ali snov | POW lika x2 |
-| Osebnostna lastnost | POW lika+CHA |
+| Rasa ali vrsta | Likova POW x2 |
+| Kraj | Likova POW+INT |
+| Predmet ali substanca | Likova POW x2 |
+| Osebnostna lastnost | Likova POW+CHA |
 
 ### Uporaba strasti
 
-Strast je vsaka globoko zakoreninjena zaveza, ki lahko vpliva na dogodke med igro. Čeprav se lahko uporabljajo kot samostojne Sposobnosti (imenovati jih spretnosti bi jih omalovaževalo), so Strasti spodaj podrobneje razširjene, da podrobneje pojasnijo, kako delujejo in kako lahko vplivajo na like in kampanje v _Mythras_ _Imperative_.
+Strast je kakršna koli globoko ukoreninjena zaveza, ki ima sposobnost vplivati na dogodke med igro. Čeprav se lahko uporabljajo kot samostojne Sposobnosti (imenovati jih veščine bi bilo krivično), so Strasti spodaj podrobneje razložene, da pojasnijo, kako delujejo in kako lahko vplivajo na like v _Mythras Imperative_ in njihove kampanje.
 
-Če povzamemo, Strasti se lahko uporabljajo tako:
+Povzeto, Strasti se lahko uporabljajo tako:
 
-- Za dopolnjevanje druge spretnosti, kar odraža globino čustev in kako ta poganja dejanja. V tem primeru Strast doda 20% svoje vrednosti spretnosti, ki se uporablja, če je dopolnjevanje tematsko in dramatično pomembno.
-- Kot sposobnost za poganjanje odločitev, želja in čustvenih dejanj ter odzivov. V tem primeru se izvede standardni met proti Strasti, da se določi, kako močno lik o nečem razmišlja in čuti. Če je met Uspešen, potem lik deluje v skladu s tem, kar bi Strast narekovala. Če met Ne uspe, potem lahko lik deluje svobodno, ne da bi se počutil omejenega z nagoni Strasti.
-- Za nasprotovanje drugim Strastem – celo tistim, ki jih ima isti lik. To se običajno uporablja, kadar bi se dve Strasti spopadli. Na primer, osebna ljubezen bi lahko narekovala smer delovanja, ki bi bila v nasprotju s Prisego ali Zvestobo. V tem primeru uporabite nasprotni met med dvema Strastema, pri čemer bolj uspešna določa, kako bo lik deloval.
-- Kot splošno merilo globine zavezanosti, prepričanja in zvestobe vzroku. Višja kot je vrednost Strasti, bolj je lik zavezan. Liki s podobnimi Strastmi lahko primerjajo svoje ocene, da določijo, kdo kaže globljo zavezanost.
-- Za upiranje neki obliki psihološke manipulacije ali magične dominacije. V določenih primerih, ko je lik prisiljen k dejanju, ki je v nasprotju z njegovimi Strastmi, lahko namesto Moči volje uporabi katero koli Strast v nasprotnem metu.
+- Za povečanje (augment) druge veščine, kar odraža globino čustev in kako to žene dejanja. Kadar se uporabljajo v tem smislu, Strast doda 20 % svoje vrednosti veščini, ki se uporablja, če je povečanje tematsko in dramatično pomembno.
+- Kot Sposobnost za vodenje izbir, želja ter čustvenih dejanj in odzivov. Kadar se uporabljajo na ta način, se naredi standardni met proti Strasti, da se določi, kako močno lik razmišlja in čuti o nečem. Če je met Uspeh, potem lik deluje v skladu s tem, kar bi narekovala Strast. Če met spodleti, potem lahko lik deluje svobodno, ne da bi se počutil omejenega s pogoni Strasti.
+- Za nasprotovanje drugim Strastem – celo tistim, ki jih ima isti lik. To se običajno uporablja, kadar bi si dve Strasti nasprotovali. Na primer, osebna ljubezen bi lahko narekovala potek dejanja, ki bi bil v nasprotju s Prisego ali Zvestobo. Tukaj uporabite Nasprotni met med obema Strastema, pri čemer uspešnejša določi, kako lik deluje.
+- Kot splošno merilo globine zavezanosti, prepričanja in lojalnosti cilju. Višja kot je vrednost Strasti, bolj zavezan je lik. Liki s podobnimi Strastmi lahko primerjajo svoje ocene, da določijo, kdo izkazuje globljo zavezanost.
+- Za odpor proti kakršni koli obliki psihološke manipulacije ali magične dominacije. V določenih primerih, ko je lik prisiljen v izvajanje dejanja v nasprotju s svojimi Strastmi, lahko nadomestijo katero koli od njih za Moč volje v Nasprotnem metu.
 
-Nove Strasti se lahko razvijejo kadar koli med igralno sejo, če to okoliščine upravičujejo. Nekdo bi lahko takoj razvil 'Sovraži X', če nekdo drug stori nekaj, kar bi močno izzvalo sovraštvo. Gospod ali poglavar, ki zahteva Prisego, bi takoj vzpostavil Strast 'Zvestoba X', takoj ko je ta Prisega sprejeta ali izrečena.
+Nove Strasti se lahko razvijejo kadar koli med igralno sejo, če okoliščine to upravičujejo. Nekdo lahko takoj razvije 'Sovraštvo X', če nekdo drug naredi nekaj, kar bi močno spodbudilo nastanek sovraštva. Gospod ali poglavar, ki kliče k Prisegi, bi takoj vzpostavil Strast 'Zvestoba X', takoj ko je ta prisega dana ali zaprisežena.
 
-Nove Strasti, razvite med igro na ta način, ne stanejo Metov izkušenj in se vzpostavijo takoj. Seveda lahko liki tudi izberejo vzpostavitev Strasti med izboljšanjem, za ceno Metov izkušenj, da pridobijo Strast na njeni Osnovni vrednosti.
+Nove Strasti, razvite med igro na ta način, ne stanejo Metov izkušenj in so vzpostavljene takoj. Seveda se lahko liki odločijo tudi za vzpostavitev Strasti med izboljševanjem, po ceni Meta izkušenj za pridobitev Strasti pri njeni Osnovni vrednosti.
 
 ### Poglabljanje in upadanje
 
-Strasti se lahko med igro povečajo neodvisno od Metov izkušenj, na podlagi moči dogodka, ki je sprožil povečanje. Prav tako lahko in tudi upadejo. Močno prepričanje lahko omajejo številne stvari, kar vodi do zmanjšanja te Strasti ali, v bolj ekstremnih okoliščinah, do popolnega obrata.
+Strasti se lahko povečajo med igro neodvisno od Metov izkušenj, glede na moč tistega, kar se je zgodilo, da bi sprožilo povečanje. Prav tako lahko upadajo. Globoko ukoreninjeno prepričanje lahko omajejo številne stvari, kar vodi do tega, da se ta Strast bodisi zmanjša bodisi, v bolj skrajnih okoliščinah, popolnoma obrne.
 
-Na primer, lik z 'Zaupa Poglavarju' lahko, če njegov poglavar deluje zahrbtno, bodisi zmanjša svojo Strast ali jo spremeni v 'Ne zaupa Poglavarju' z enakim odstotkom. Pripovedovalec (Game Master) mora določiti, ali se Strast zmanjša ali obrne. Če se zmanjša, se to zgodi glede na moč vira spremembe.
+Na primer, lik z 'Zaupanje poglavarju' bi lahko, če njegov poglavar deluje zahrbtno, svojo Strast bodisi zmanjšal bodisi spremenil v 'Nezaupanje poglavarju' pri istem odstotku. Mojster iger mora določiti, ali se Strast zmanjša ali obrne. Če se zmanjša, potem se to zgodi glede na moč vira spremembe.
 
 Tabela Poglabljanja in upadanja prikazuje, za koliko se Strast spremeni.
 
-#### Tabela poglabljanja in upadanja
+#### Tabela Poglabljanja in upadanja
 
-| Globina spremembe | Strast spremenjena za |
+| Globina spremembe | Strast modificirana za |
 | --- | --- |
-| Šibka | 1k10 |
-| Zmerna | 1k10+5 |
-| Močna | 1k10+10 |
+| Šibka | 1d10 |
+| Zmerna | 1d10+5 |
+| Močna | 1d10+10 |
 
 ---
 ## 9. korak: Oprema
 
-Sedaj, ko je lik skoraj končan, potrebuje nekaj opreme. To lahko vključuje orožje, oklep ali drugo pomembno opremo, ki se uporablja za določen poklic. Med pustolovščinami je veliko priložnosti za pridobitev več opreme, vendar ima vsak začetni lik takoj v posesti naslednje:
+Zdaj, ko je lik skoraj končan, potrebuje nekaj opreme. To lahko vključuje orožje, oklep ali druge pomembne pripomočke, uporabljene za določen poklic. Med pustolovščino obstaja veliko priložnosti za pridobitev več opreme, vendar ima vsak začetni lik v svoji neposredni posesti naslednje:
 
-- Komplet oblačil, primernih za likov poklic in okolje.
-- Določeno količino žepnine; dovolj, da zdrži nekaj časa brez stiske.
-- Osebno dediščino, spominek ali kakšno malenkost majhne relativne vrednosti.
-- Vsa trgovska orodja ali prenosno opremo, primerno za likov poklic, če je to ustrezno.
-- Kakršno koli osebno orožje za likov Bojni slog.
-- Druge predmete, ki so primerni za okolje, in podvrženi odobritvi Pripovedovalca (GM).
+- Komplet oblačil, primeren za poklic lika in okolje.
+- Znesek žepnine; dovolj, da zdrži nekaj časa brez stiske.
+- Osebna dediščina, spominek ali kakšna drobnarija majhne relativne vrednosti.
+- Vsa trgovska orodja ali prenosna oprema, primerna za poklic lika, če je primerno.
+- Katero koli osebno orožje za Bojni stil lika.
+- Drugi predmeti, kot je primerno za okolje in predmet odobritve GM-a.
