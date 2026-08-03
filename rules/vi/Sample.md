@@ -1,4 +1,4 @@
-# Tiêu đề Mẫu 1
+# Tiêu đề mẫu 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
@@ -14,9 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 **IN ĐẬM**
 
-*IN NGHIÊNG*
+*In nghiêng*
 
-## Bảng Mẫu
+## Bảng mẫu
 
 | Cột 1 | Cột 2 |
 | ----------- | ----------- |
@@ -24,40 +24,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Cảnh báo Linh hoạt
+## Các cảnh báo linh hoạt
 
 > [!Note]
-> Phong cách Ghi chú Mẫu
+> Kiểu chú thích mẫu
 
 > [!Tip]
-> Phong cách Mẹo Mẫu
+> Kiểu mẹo mẫu
 
 > [!Warning]
-> Phong cách Cảnh báo Mẫu
+> Kiểu cảnh báo mẫu
 
 > [!Attention]
-> Phong cách Chú ý Mẫu
+> Kiểu lưu ý mẫu
 
 > [!Note|style:flat]
-> Phong cách Ghi chú Phẳng Mẫu
+> Kiểu chú thích phẳng mẫu
 
 > [!Tip|style:flat]
-> Phong cách Mẹo Phẳng Mẫu
+> Kiểu mẹo phẳng mẫu
 
 > [!Warning|style:flat]
-> Phong cách Cảnh báo Phẳng Mẫu
+> Kiểu cảnh báo phẳng mẫu
 
 > [!Attention|style:flat]
-> Phong cách Chú ý Phẳng Mẫu
+> Kiểu lưu ý phẳng mẫu
 
-## Biểu tượng Fontawesome
+## Biểu tượng Fontawesome 
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
 D20 Tĩnh :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Hoạt hình :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 Động :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
 ## Biểu tượng Material
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

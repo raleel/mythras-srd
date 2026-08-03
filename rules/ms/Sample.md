@@ -1,4 +1,4 @@
-# Contoh Tajuk 1
+# Tajuk Contoh 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 *Italik*
 
-## Contoh Jadual
+## Jadual Contoh
 
 | Lajur 1 | Lajur 2 |
 | ----------- | ----------- |
@@ -26,29 +26,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ## Makluman Fleksibel
 
-> [!Nota]
-> Contoh Gaya Panggilan Nota
+> [!Note]
+> Gaya Kotak Makluman Nota
 
-> [!Petua]
-> Contoh Gaya Panggilan Petua
+> [!Tip]
+> Gaya Kotak Makluman Petua
 
-> [!Amaran]
-> Contoh Gaya Panggilan Amaran
+> [!Warning]
+> Gaya Kotak Makluman Amaran
 
-> [!Perhatian]
-> Contoh Gaya Panggilan Perhatian
+> [!Attention]
+> Gaya Kotak Makluman Perhatian
 
-> [!Nota|style:flat]
-> Contoh Gaya Nota Rata
+> [!Note|style:flat]
+> Gaya Rata Nota
 
-> [!Petua|style:flat]
-> Contoh Gaya Petua Rata
+> [!Tip|style:flat]
+> Gaya Rata Petua
 
-> [!Amaran|style:flat]
-> Contoh Gaya Amaran Rata
+> [!Warning|style:flat]
+> Gaya Rata Amaran
 
-> [!Perhatian|style:flat]
-> Contoh Gaya Perhatian Rata
+> [!Attention|style:flat]
+> Gaya Rata Perhatian
 
 ## Ikon Fontawesome 
 

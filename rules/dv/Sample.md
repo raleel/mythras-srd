@@ -1,63 +1,71 @@
-# ނަމޫނާ ސުރުޚީ 1
+# ސާމްޕަލް ހެޑިންގ 1
 
-ލޯރަމް އިޕްސަމް ދޮޅަރު ސިތު އާމެތު، ކޮންސެކްޓެޓޫރް އެޑިޕިސްސިންގ އެލިތު. ކުއިސްކް އައިޑީ ފިއުގިއަތު މައްސާ. އިން ސިތު އާމެތު ނެކުއެ އަންޓެ. ޕްރައެސެންޓު ނެކު ނުއްލާ އިއާކުލިސް، ފްރިންގިއްލާ ދިއާމް ވިތާއެ، ޕޮރޓިޓޮރ ޓުރްޕިސް. ކުރުބިތުރް ނެކު އެކްސް އިން ދުއި އޮރނާރ ކޮންސެކްޓެޓޫރ. ނުއްލާ ޕްރެތިއަމް، ދޮޅަރު ސެޑު ލަސިނިއާ އިމްޕަރޑިއަތު، ނިސި ނިސްލު އެފިސިތޫރ އޮޑިއޯ، ފަރެޓުރާ ތެމްޕޮރ ފެލިސް ކުއަމް ކުއިސް އައުގުއެ. އިން އެރާތު ދިއާމް، މޮލެސްތިއެ ވެލު ކޮމޮޑޮ ވެލު، ކޮންވަލިސް އައިޑީ މި. ޕެއްލެންތެސްކް ޕްރެތިއަމް ތޮރްތޮރ ކުއިސް އެފިސިތޫރ ގްރަވިދާ.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## ސުރުޚީ 2
+## ހެޑިންގ 2
 
-### ސުރުޚީ 3
+### ހެޑިންގ 3
 
-#### ސުރުޚީ 4
+#### ހެޑިންގ 4
 
-##### ސުރުޚީ 5
+##### ހެޑިންގ 5
 
-###### ސުރުޚީ 6
+###### ހެޑިންގ 6
 
-**ގަދަކޮށް**
+**ބޯލްޑް**
 
-*އެބުރި*
+*އިޓަލިކްސް*
 
-## ނަމޫނާ ތާވަލު
+## ސާމްޕަލް ޓޭބަލް
 
 | ކޮލަމް 1 | ކޮލަމް 2 |
 | ----------- | ----------- |
-| 1 | ލޯރަމް އިޕްސަމް ދޮޅަރު ސިތު އާމެތު |
-| 2 | މޮރްބި އައުކުތޮރް، ކުއަމް ކުއިސް ފިނިބަސް ކޮމޮޑޮ |
-| 3 | ކުއިސްކް އެފިސިތޫރ ލަކަސް މޮލެސްތިއެ ދިއާމް ސޮދަލެސް ފައުސިބަސް |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## ފަސޭހައިން ބަދަލުކުރެވޭ އެލާޓްތައް
+## ފްލެކްސިބަލް އެލާޓްތައް
 
-> [!ނޯޓް]
-> ނޯޓް ކޯލްއައުޓް ސްޓައިލް ނަމޫނާ
+> [!Note]
+> ސާމްޕަލް ނޯޓް ކޯލްއައުޓް ސްޓައިލް
 
-> [!ޓިޕް]
-> ޓިޕް ކޯލްއައުޓް ސްޓައިލް ނަމޫނާ
+> [!Tip]
+> ސާމްޕަލް ޓިޕް ކޯލްއައުޓް ސްޓައިލް
 
-> [!އިންޒާރު]
-> އިންޒާރު ކޯލްއައުޓް ސްޓައިލް ނަމޫނާ
+> [!Warning]
+> ސާމްޕަލް ވޯނިންގ ކޯލްއައުޓް ސްޓައިލް
 
-> [!ސަމާލުވުން]
-> ސަމާލުވުމުގެ ކޯލްއައުޓް ސްޓައިލް ނަމޫނާ
+> [!Attention]
+> ސާމްޕަލް އެޓެންޝަން ކޯލްއައުޓް ސްޓައިލް
 
-> [!ނޯޓް|style:flat]
-> ނޯޓް ފްލެޓް ސްޓައިލް ނަމޫނާ
+> [!Note|style:flat]
+> ސާމްޕަލް ނޯޓް ފްލެޓް ސްޓައިލް
 
-> [!ޓިޕް|style:flat]
-> ޓިޕް ފްލެޓް ސްޓައިލް ނަމޫނާ
+> [!Tip|style:flat]
+> ސާމްޕަލް ޓިޕް ފްލެޓް ސްޓައިލް
 
-> [!އިންޒާރު|style:flat]
-> އިންޒާރު ފްލެޓް ސްޓައިލް ނަމޫނާ
+> [!Warning|style:flat]
+> ސާމްޕަލް ވޯނިންގ ފްލެޓް ސްޓައިލް
 
-> [!ސަމާލުވުން|style:flat]
-> ސަމާލުވުމުގެ ފްލެޓް ސްޓައިލް ނަމޫނާ
+> [!Attention|style:flat]
+> ސާމްޕަލް އެޓެންޝަން ފްލެޓް ސްޓައިލް
 
-## ފޮންޓްއޯސަމް އައިކޮންތައް
+## ފޮންޓްއޯސަމް އައިކަންތައް
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
-D20 ސްޓެޓިކް :fa-solid fa-dice-d20 fa-lg:
+D20 ސްޓޭޓިކް :fa-solid fa-dice-d20 fa-lg:  
 
-D20 އެނިމޭޓެޑް :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 އެނިމޭޓެޑް :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## މެޓީރިއަލް އައިކޮންތައް
+## މެޓީރިއަލް އައިކަންތައް
 
-<span class="material-icons">މޫނު</span>
+<span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

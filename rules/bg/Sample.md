@@ -1,4 +1,4 @@
-# Примерно Заглавие 1
+# Примерно заглавие 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
@@ -12,11 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ###### Заглавие 6
 
-**УДЕБЛЕН**
+**ПОЛУЧЕРЕН**
 
 *Курсив*
 
-## Примерна Таблица
+## Примерна таблица
 
 | Колона 1 | Колона 2 |
 | ----------- | ----------- |
@@ -24,40 +24,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Гъвкави Известия
+## Гъвкави известия (Alerts)
 
 > [!Note]
-> Примерен Стил на Известие (Забележка)
+> Примерно известие тип „Бележка“
 
 > [!Tip]
-> Примерен Стил на Известие (Съвет)
+> Примерно известие тип „Съвет“
 
 > [!Warning]
-> Примерен Стил на Известие (Предупреждение)
+> Примерно известие тип „Предупреждение“
 
 > [!Attention]
-> Примерен Стил на Известие (Внимание)
+> Примерно известие тип „Внимание“
 
 > [!Note|style:flat]
-> Примерен Плосък Стил на Известие (Забележка)
+> Примерно известие тип „Бележка“ (изчистен стил)
 
 > [!Tip|style:flat]
-> Примерен Плосък Стил на Известие (Съвет)
+> Примерно известие тип „Съвет“ (изчистен стил)
 
 > [!Warning|style:flat]
-> Примерен Плосък Стил на Известие (Предупреждение)
+> Примерно известие тип „Предупреждение“ (изчистен стил)
 
 > [!Attention|style:flat]
-> Примерен Плосък Стил на Известие (Внимание)
+> Примерно известие тип „Внимание“ (изчистен стил)
 
-## Икони Fontawesome 
+## Fontawesome икони 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Статично :fa-solid fa-dice-d20 fa-lg:  
+D20 статична :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Анимирано :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 анимирана :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Икони Material
+## Material икони
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

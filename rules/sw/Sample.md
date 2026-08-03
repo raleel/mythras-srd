@@ -1,63 +1,71 @@
-# Mfano wa Kichwa 1
+# Kichwa cha Habari cha Mfano 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## Kichwa 2
+## Kichwa cha Habari cha 2
 
-### Kichwa 3
+### Kichwa cha Habari cha 3
 
-#### Kichwa 4
+#### Kichwa cha Habari cha 4
 
-##### Kichwa 5
+##### Kichwa cha Habari cha 5
 
-###### Kichwa 6
+###### Kichwa cha Habari cha 6
 
-**MANENO MAZITO**
+**KIBONDO**
 
 *Italiki*
 
-## Mfano wa Jedwali
+## Jedwali la Mfano
 
-| Safu 1 | Safu 2 |
+| Safu ya 1 | Safu ya 2 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Arifa Rahisi
+## Tahadhari Zinazoweza Kubadilika
 
-> [!Kumbuka]
-> Mtindo wa Kikumbusho wa Mfano
+> [!Note]
+> Mtindo wa Kidokezo cha Ujumbe wa Mfano
 
-> [!Kidokezo]
-> Mtindo wa Kidokezo wa Mfano
+> [!Tip]
+> Mtindo wa Kidokezo cha Kidokezo cha Mfano
 
-> [!Onyo]
-> Mtindo wa Onyo wa Mfano
+> [!Warning]
+> Mtindo wa Kidokezo cha Onyo la Mfano
 
-> [!Tahadhari]
-> Mtindo wa Tahadhari wa Mfano
+> [!Attention]
+> Mtindo wa Kidokezo cha Uangalifu wa Mfano
 
-> [!Kumbuka|style:flat]
-> Mtindo Bapa wa Kikumbusho wa Mfano
+> [!Note|style:flat]
+> Mtindo wa Kidokezo wa Gorofa wa Mfano
 
-> [!Kidokezo|style:flat]
-> Mtindo Bapa wa Kidokezo wa Mfano
+> [!Tip|style:flat]
+> Mtindo wa Kidokezo cha Kidokezo wa Gorofa wa Mfano
 
-> [!Onyo|style:flat]
-> Mtindo Bapa wa Onyo wa Mfano
+> [!Warning|style:flat]
+> Mtindo wa Kidokezo cha Onyo wa Gorofa wa Mfano
 
-> [!Tahadhari|style:flat]
-> Mtindo Bapa wa Tahadhari wa Mfano
+> [!Attention|style:flat]
+> Mtindo wa Kidokezo cha Uangalifu wa Gorofa wa Mfano
 
-## Ikoni za Fontawesome
+## Aikoni za Fontawesome 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Isiyobadilika :fa-solid fa-dice-d20 fa-lg:
+D20 Imesimama :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Iliyohuishwa :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 Inayohuhuika :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Ikoni za Material
+## Aikoni za Nyenzo
 
-<span class="material-icons">uso</span>
+<span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

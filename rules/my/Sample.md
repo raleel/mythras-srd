@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ###### ခေါင်းစဉ် ၆
 
-**အထူ**
+**စာလုံးအထူ**
 
 *စာလုံးစောင်း*
 
@@ -24,40 +24,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | ၂ | Morbi auctor, quam quis finibus commodo |
 | ၃ | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## ပြောင်းလွယ်ပြင်လွယ် သတိပေးချက်များ
+## ပြောင်းလွယ်ပြင်လွယ်ရှိသော သတိပေးချက်များ
 
 > [!Note]
-> နမူနာ မှတ်စုပုံစံ
+> မှတ်စု နမူနာ ပုံစံ
 
 > [!Tip]
-> နမူနာ အကြံပြုချက်ပုံစံ
+> အကြံပြုချက် နမူနာ ပုံစံ
 
 > [!Warning]
-> နမူနာ သတိပေးချက်ပုံစံ
+> သတိပေးချက် နမူနာ ပုံစံ
 
 > [!Attention]
-> နမူနာ အာရုံစိုက်မှုပုံစံ
+> အထူးဂရုပြုရန် နမူနာ ပုံစံ
 
 > [!Note|style:flat]
-> နမူနာ မှတ်စုပြားပုံစံ
+> မှတ်စု ပြားချပ်သော ပုံစံ
 
 > [!Tip|style:flat]
-> နမူနာ အကြံပြုချက်ပြားပုံစံ
+> အကြံပြုချက် ပြားချပ်သော ပုံစံ
 
 > [!Warning|style:flat]
-> နမူနာ သတိပေးချက်ပြားပုံစံ
+> သတိပေးချက် ပြားချပ်သော ပုံစံ
 
 > [!Attention|style:flat]
-> နမူနာ အာရုံစိုက်မှုပြားပုံစံ
+> အထူးဂရုပြုရန် ပြားချပ်သော ပုံစံ
 
-## Fontawesome အိုင်ကွန်များ 
+## Fontawesome သင်္ကေတများ 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 စတက်တစ် :fa-solid fa-dice-d20 fa-lg:  
+D20 ငြိမ် :fa-solid fa-dice-d20 fa-lg:  
 
-D20 ကာတွန်းကား :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 လှုပ်ရှား :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Material အိုင်ကွန်များ
+## Material သင်္ကေတများ
 
-<span class="material-icons">မျက်နှာ</span>
+<span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

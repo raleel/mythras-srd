@@ -27,16 +27,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 ## התראות גמישות
 
 > [!Note]
-> סגנון הערה לדוגמה
+> סגנון קריאת הערה לדוגמה
 
 > [!Tip]
-> סגנון טיפ לדוגמה
+> סגנון קריאת טיפ לדוגמה
 
 > [!Warning]
-> סגנון אזהרה לדוגמה
+> סגנון קריאת אזהרה לדוגמה
 
 > [!Attention]
-> סגנון תשומת לב לדוגמה
+> סגנון קריאת תשומת לב לדוגמה
 
 > [!Note|style:flat]
 > סגנון הערה שטוח לדוגמה
@@ -50,14 +50,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention|style:flat]
 > סגנון תשומת לב שטוח לדוגמה
 
-## אייקוני Fontawesome 
+## סמלי Fontawesome 
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
 D20 סטטי :fa-solid fa-dice-d20 fa-lg:  
 
 D20 מונפש :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## אייקוני Material
+## סמלי Material
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 **GRAS**
 
-*Italiques*
+*Italique*
 
 ## Exemple de Tableau
 
@@ -27,32 +27,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 ## Alertes Flexibles
 
 > [!Note]
-> Exemple de Style d'Appel de Note
+> Exemple de style d'encadré Note
 
 > [!Tip]
-> Exemple de Style d'Appel de Conseil
+> Exemple de style d'encadré Conseil
 
 > [!Warning]
-> Exemple de Style d'Appel d'Avertissement
+> Exemple de style d'encadré Avertissement
 
 > [!Attention]
-> Exemple de Style d'Appel d'Attention
+> Exemple de style d'encadré Attention
 
 > [!Note|style:flat]
-> Exemple de Style Plat de Note
+> Exemple de style plat Note
 
 > [!Tip|style:flat]
-> Exemple de Style Plat de Conseil
+> Exemple de style plat Conseil
 
 > [!Warning|style:flat]
-> Exemple de Style Plat d'Avertissement
+> Exemple de style plat Avertissement
 
 > [!Attention|style:flat]
-> Exemple de Style Plat d'Attention
+> Exemple de style plat Attention
 
 ## Icônes Fontawesome 
 
-D6  :fa-solid fa-dice fa-xl:
+D6 :fa-solid fa-dice fa-xl:
 
 D20 Statique :fa-solid fa-dice-d20 fa-lg:  
 
@@ -61,3 +61,11 @@ D20 Animé :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 ## Icônes Material
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

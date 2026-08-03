@@ -1,22 +1,22 @@
-# Primer Naslova 1
+# Sample Heading 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## Naslov 2
+## Heading 2
 
-### Naslov 3
+### Heading 3
 
-#### Naslov 4
+#### Heading 4
 
-##### Naslov 5
+##### Heading 5
 
-###### Naslov 6
+###### Heading 6
 
-**PODEBLJANO**
+**BOLD**
 
-*Kurziv*
+*Italics*
 
-## Primer Tabele
+## Sample Table
 
 | Kolona 1 | Kolona 2 |
 | ----------- | ----------- |
@@ -24,10 +24,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Fleksibilna Obaveštenja
+## Flexible Alerts
 
 > [!Note]
-> Primer stila obaveštenja
+> Primer stila napomene
 
 > [!Tip]
 > Primer stila saveta
@@ -39,25 +39,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > Primer stila pažnje
 
 > [!Note|style:flat]
-> Primer stila obaveštenja (ravan)
+> Primer ravnog stila napomene
 
 > [!Tip|style:flat]
-> Primer stila saveta (ravan)
+> Primer ravnog stila saveta
 
 > [!Warning|style:flat]
-> Primer stila upozorenja (ravan)
+> Primer ravnog stila upozorenja
 
 > [!Attention|style:flat]
-> Primer stila pažnje (ravan)
+> Primer ravnog stila pažnje
 
-## Fontawesome Ikone
+## Fontawesome Icons 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Statična :fa-solid fa-dice-d20 fa-lg:
+D20 Static :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Animirana :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Material Ikone
+## Material Icons
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

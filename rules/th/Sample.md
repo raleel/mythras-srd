@@ -1,16 +1,16 @@
-# หัวข้อตัวอย่าง 1
+# หัวข้อตัวอย่างที่ 1
 
-ความเจ็บปวดนั้นเอง ใครจะรัก แสวงหา หรือต้องการมัน เพื่อตัวมันเอง เพียงเพราะมันคือความเจ็บปวด แต่เป็นเพราะในบางครั้งก็มีสถานการณ์ที่การทำงานหนักและความเจ็บปวดสามารถนำมาซึ่งความสุขที่ยิ่งใหญ่ได้ ลองยกตัวอย่างง่ายๆ ว่ามีใครบ้างที่เคยออกกำลังกายอย่างหนัก นอกจากเพื่อผลประโยชน์บางอย่างจากมัน แต่ใครเล่าที่มีสิทธิ์จะตำหนิคนที่เลือกจะมีความสุขที่ไม่มีผลลัพธ์ที่น่ารำคาญ หรือคนที่หลีกเลี่ยงความเจ็บปวดที่ไม่ได้นำมาซึ่งความสุขใดๆ?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## หัวข้อ 2
+## หัวข้อที่ 2
 
-### หัวข้อ 3
+### หัวข้อที่ 3
 
-#### หัวข้อ 4
+#### หัวข้อที่ 4
 
-##### หัวข้อ 5
+##### หัวข้อที่ 5
 
-###### หัวข้อ 6
+###### หัวข้อที่ 6
 
 **ตัวหนา**
 
@@ -18,47 +18,54 @@
 
 ## ตารางตัวอย่าง
 
-| คอลัมน์ 1 | คอลัมน์ 2 |
+| คอลัมน์ที่ 1 | คอลัมน์ที่ 2 |
 | ----------- | ----------- |
-| 1 | ลอเร็ม อิปซัม ดอลอร์ ซิต อเม็ต |
-| 2 | มอร์บี ออคเตอร์, ควอม ควิส ฟินิบัส คอมโมโด |
-| 3 | ควิสก์ เอฟฟิซิทูร์ ลาคัส โมเลสตี้ เดียม โซดาเลส ฟอซิบัส |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## การแจ้งเตือนที่ยืดหยุ่น
+## กล่องข้อความแจ้งเตือน (Alerts)
 
 > [!Note]
-> รูปแบบการแจ้งเตือนแบบ Note
+> รูปแบบกล่องบันทึกตัวอย่าง
 
 > [!Tip]
-> รูปแบบการแจ้งเตือนแบบ Tip
+> รูปแบบกล่องเคล็ดลับตัวอย่าง
 
 > [!Warning]
-> รูปแบบการแจ้งเตือนแบบ Warning
+> รูปแบบกล่องคำเตือนตัวอย่าง
 
 > [!Attention]
-> รูปแบบการแจ้งเตือนแบบ Attention
+> รูปแบบกล่องข้อควรระวังตัวอย่าง
 
 > [!Note|style:flat]
-> รูปแบบ Note แบบเรียบ
+> รูปแบบกล่องบันทึกแบบแบน
 
 > [!Tip|style:flat]
-> รูปแบบ Tip แบบเรียบ
+> รูปแบบกล่องเคล็ดลับแบบแบน
 
 > [!Warning|style:flat]
-> รูปแบบ Warning แบบเรียบ
+> รูปแบบกล่องคำเตือนแบบแบน
 
 > [!Attention|style:flat]
-> รูปแบบ Attention แบบเรียบ
+> รูปแบบกล่องข้อควรระวังแบบแบน
 
 ## ไอคอน Fontawesome 
 
-D6  :fa-solid fa-dice fa-xl:
+ลูกเต๋า 6 หน้า (D6) :fa-solid fa-dice fa-xl:
 
-D20 แบบคงที่ :fa-solid fa-dice-d20 fa-lg:  
+ลูกเต๋า 20 หน้า (D20) แบบนิ่ง :fa-solid fa-dice-d20 fa-lg:  
 
-D20 แบบเคลื่อนไหว :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+ลูกเต๋า 20 หน้า (D20) แบบเคลื่อนไหว :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## ไอคอน Material
+## ไอคอน Material Icons
 
-<span class="material-icons">หน้า</span>
+<span class="material-icons">face</span>
 
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

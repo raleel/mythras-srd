@@ -1,6 +1,6 @@
 # নমুনা শিরোনাম ১
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
+লরেম ইপসাম ডোলার সিট আমেত, কনসেক্টেচুর অ্যাডিপিস্কিং এলিট। কুইসকো আইডি ফিউগিয়াট মাসা। ইন সিট আমেত নেকুই আন্টে। প্রেজেন্ট নেক নুলা ইয়াকুলিস, ফ্রিঞ্জিলা ডায়াম ভিটা, পোর্টিটর টারপিস। কিউরেবিটার নেক এক্স ইন ডুই অরনারে কনসেক্টেচুর। নুলা প্রিটিয়াম, ডোলার সেড ল্যাসিনিয়া ইম্পারডিট, নিসি নিসিল এফিজিটার ওডিও, ফ্যারেট্রা টেম্পোর ফেলিস কোয়াম কুইস অগি। ইন ইরাট ডায়াম, মোলেস্টি ভেল কমোডো ভেল, কনভালিস আইডি মি। পেলেন্টেসক প্রিটিয়াম টরটর কুইস এফিজিটার গ্রাভিডা।
 
 ## শিরোনাম ২
 
@@ -14,43 +14,43 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 **বোল্ড**
 
-*ইটালিক*
+*ইটালিক্স*
 
-## নমুনা সারণী
+## নমুনা টেবিল
 
-| স্তম্ভ ১ | স্তম্ভ ২ |
+| কলাম ১ | কলাম ২ |
 | ----------- | ----------- |
-| 1 | Lorem ipsum dolor sit amet |
-| 2 | Morbi auctor, quam quis finibus commodo |
-| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
+| ১ | লরেম ইপসাম ডোলার সিট আমেত |
+| ২ | মরবি অক্টোর, কোয়াম কুইস ফিনিবাস কমোডো |
+| ৩ | কুইসকো এফিজিটার ল্যাকাস মোলেস্টি ডায়াম সোডালেস ফসেস |
 
-## নমনীয় সতর্কতা
+## ফ্লেক্সিবল অ্যালার্ট
 
 > [!Note]
-> নমুনা নোট কলআউট শৈলী
+> নমুনা নোট কলআউট স্টাইল
 
 > [!Tip]
-> নমুনা টিপ কলআউট শৈলী
+> নমুনা টিপ কলআউট স্টাইল
 
 > [!Warning]
-> নমুনা সতর্কতা কলআউট শৈলী
+> নমুনা সতর্কবার্তা কলআউট স্টাইল
 
 > [!Attention]
-> নমুনা মনোযোগ কলআউট শৈলী
+> নমুনা মনোযোগ আকর্ষণ কলআউট স্টাইল
 
 > [!Note|style:flat]
-> নমুনা নোট ফ্ল্যাট শৈলী
+> নমুনা নোট ফ্ল্যাট স্টাইল
 
 > [!Tip|style:flat]
-> নমুনা টিপ ফ্ল্যাট শৈলী
+> নমুনা টিপ ফ্ল্যাট স্টাইল
 
 > [!Warning|style:flat]
-> নমুনা সতর্কতা ফ্ল্যাট শৈলী
+> নমুনা সতর্কবার্তা ফ্ল্যাট স্টাইল
 
 > [!Attention|style:flat]
-> নমুনা মনোযোগ ফ্ল্যাট শৈলী
+> নমুনা মনোযোগ আকর্ষণ ফ্ল্যাট স্টাইল
 
-## ফন্টঅসাম আইকন 
+## ফন্টঅসাম আইকন (Fontawesome Icons)
 
 D6  :fa-solid fa-dice fa-xl:
 
@@ -58,6 +58,14 @@ D20 স্ট্যাটিক :fa-solid fa-dice-d20 fa-lg:
 
 D20 অ্যানিমেটেড :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## মেটেরিয়াল আইকন
+## ম্যাটেরিয়াল আইকন
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

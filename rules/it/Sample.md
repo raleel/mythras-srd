@@ -1,4 +1,4 @@
-# Esempio di Intestazione 1
+# Intestazione di Esempio 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 *Corsivo*
 
-## Esempio di Tabella
+## Tabella di Esempio
 
 | Colonna 1 | Colonna 2 |
 | ----------- | ----------- |
@@ -27,28 +27,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 ## Avvisi Flessibili
 
 > [!Note]
-> Esempio Stile Richiamo Nota
+> Stile Riquadro Nota di Esempio
 
 > [!Tip]
-> Esempio Stile Richiamo Suggerimento
+> Stile Riquadro Suggerimento di Esempio
 
 > [!Warning]
-> Esempio Stile Richiamo Avviso
+> Stile Riquadro Avvertimento di Esempio
 
 > [!Attention]
-> Esempio Stile Richiamo Attenzione
+> Stile Riquadro Attenzione di Esempio
 
 > [!Note|style:flat]
-> Esempio Stile Piatto Nota
+> Stile Piatto Nota di Esempio
 
 > [!Tip|style:flat]
-> Esempio Stile Piatto Suggerimento
+> Stile Piatto Suggerimento di Esempio
 
 > [!Warning|style:flat]
-> Esempio Stile Piatto Avviso
+> Stile Piatto Avvertimento di Esempio
 
 > [!Attention|style:flat]
-> Esempio Stile Piatto Attenzione
+> Stile Piatto Attenzione di Esempio
 
 ## Icone Fontawesome 
 
@@ -58,6 +58,14 @@ D20 Statico :fa-solid fa-dice-d20 fa-lg:
 
 D20 Animato :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Icone Material Icons
+## Icone Material
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

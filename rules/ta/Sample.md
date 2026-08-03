@@ -1,6 +1,6 @@
 # மாதிரி தலைப்பு 1
 
-லாரெம் இப்சம் டாலர் சிட் அமெட், கோன்செக்டெடூர் அடிபிஸ்கிங் எலிட். க்விஸ்க் இட் பியூஜியாட் மாஸ்ஸா. இன் சிட் அமெட் நேக்யூ ஆன்டே. ப்ரசென்ட் நெக் நல் அக்யூலிஸ், பிரிங்கில்லா டியாம் வைடே, போர்ட்டர் டர்பிஸ். குராபிடூர் நெக் எக்ஸ் இன் டுய் ஓர்னே கான்செக்டெடூர். நல் ப்ரெட்டியம், டாலர் செட் லாகினியா இம்பெர்டியேட், நிசி நிஸ்ல் எஃபிசிடூர் ஓடியோ, ஃபாரெட்ரா டெம்போர் ஃபெலிஸ் குவாம் குவிஸ் ஆகு. இன் எராட் டியாம், மோலஸ்டி வெல் கொமோடோ வெல், கான்வாலிஸ் இட் மி. பெல்லென்டெஸ்க் ப்ரெட்டியம் டார்ட்டர் குவிஸ் எஃபிசிடூர் கிராவிடா.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## தலைப்பு 2
 
@@ -12,52 +12,60 @@
 
 ###### தலைப்பு 6
 
-**தடிமன்**
+**தடித்த எழுத்து (BOLD)**
 
-*சாய்வெழுத்து*
+*சாய்வெழுத்து (Italics)*
 
 ## மாதிரி அட்டவணை
 
-| பத்தி 1 | பத்தி 2 |
+| நெடுவரிசை 1 | நெடுவரிசை 2 |
 | ----------- | ----------- |
-| 1 | லாரெம் இப்சம் டாலர் சிட் அமெட் |
-| 2 | மோர்பி ஆக்டர், குவாம் குவிஸ் ஃபினிபஸ் கொமோடோ |
-| 3 | குவிஸ்க் எஃபிசிடூர் லாகஸ் மோலஸ்டி டியாம் சோடேல்ஸ் ஃபவ்சபஸ் |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## நெகிழ்வான எச்சரிக்கைகள்
+## நெகிழ்வான அறிவிப்புகள் (Flexible Alerts)
 
-> [!குறிப்பு]
-> மாதிரி குறிப்பு அழைப்பு நடை
+> [!Note]
+> மாதிரி குறிப்பு அறிவிப்பு நடை
 
-> [!உதவிக்குறிப்பு]
-> மாதிரி உதவிக்குறிப்பு அழைப்பு நடை
+> [!Tip]
+> மாதிரி உதவிக்குறிப்பு அறிவிப்பு நடை
 
-> [!எச்சரிக்கை]
-> மாதிரி எச்சரிக்கை அழைப்பு நடை
+> [!Warning]
+> மாதிரி எச்சரிக்கை அறிவிப்பு நடை
 
-> [!கவனம்]
-> மாதிரி கவனம் அழைப்பு நடை
+> [!Attention]
+> மாதிரி கவன ஈர்ப்பு அறிவிப்பு நடை
 
-> [!குறிப்பு|style:flat]
-> மாதிரி குறிப்பு தட்டையான நடை
+> [!Note|style:flat]
+> மாதிரி குறிப்பு பிளாட் (Flat) நடை
 
-> [!உதவிக்குறிப்பு|style:flat]
-> மாதிரி உதவிக்குறிப்பு தட்டையான நடை
+> [!Tip|style:flat]
+> மாதிரி உதவிக்குறிப்பு பிளாட் (Flat) நடை
 
-> [!எச்சரிக்கை|style:flat]
-> மாதிரி எச்சரிக்கை தட்டையான நடை
+> [!Warning|style:flat]
+> மாதிரி எச்சரிக்கை பிளாட் (Flat) நடை
 
-> [!கவனம்|style:flat]
-> மாதிரி கவனம் தட்டையான நடை
+> [!Attention|style:flat]
+> மாதிரி கவன ஈர்ப்பு பிளாட் (Flat) நடை
 
-## ஃபாண்ட்ஆசம் சின்னங்கள்
+## Fontawesome சின்னங்கள் 
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
-D20 நிலையானது :fa-solid fa-dice-d20 fa-lg:
+D20 நிலையானது :fa-solid fa-dice-d20 fa-lg:  
 
-D20 அசைவூட்டப்பட்டது :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 இயங்குபடம் :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## மெட்டீரியல் சின்னங்கள்
+## Material சின்னங்கள்
 
-<span class="material-icons">முகப்பு</span>
+<span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

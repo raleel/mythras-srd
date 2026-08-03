@@ -1,6 +1,6 @@
 # 샘플 제목 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## 제목 2
 
@@ -24,10 +24,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## 유연한 알림
+## 유연한 알림 (Flexible Alerts)
 
 > [!Note]
-> 샘플 노트 콜아웃 스타일
+> 샘플 참고 콜아웃 스타일
 
 > [!Tip]
 > 샘플 팁 콜아웃 스타일
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > 샘플 주의 콜아웃 스타일
 
 > [!Note|style:flat]
-> 샘플 노트 플랫 스타일
+> 샘플 참고 플랫 스타일
 
 > [!Tip|style:flat]
 > 샘플 팁 플랫 스타일
@@ -50,14 +50,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 > [!Attention|style:flat]
 > 샘플 주의 플랫 스타일
 
-## 폰트어썸 아이콘
+## Fontawesome 아이콘 
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
-D20 고정 :fa-solid fa-dice-d20 fa-lg:
+D20 정적 :fa-solid fa-dice-d20 fa-lg:  
 
-D20 애니메이션 :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 애니메이션 :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## 머티리얼 아이콘
+## Material 아이콘
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

@@ -1,6 +1,6 @@
 # サンプル見出し 1
 
-このセクションはダミーテキストです。本編のルールや設定が記述される予定の箇所であり、現在その内容は準備中です。ゲームプレイに関する重要な詳細、世界観の背景情報、または特定のメカニクスについての説明がここに掲載されるでしょう。この例示テキストは、最終的なコンテンツで置き換えられます。
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## 見出し 2
 
@@ -20,44 +20,52 @@
 
 | 列 1 | 列 2 |
 | ----------- | ----------- |
-| 1 | ダミーテキストです |
-| 2 | サンプル内容です |
-| 3 | 例の文章が入ります |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## 柔軟なアラート
+## フレキシブルアラート
 
 > [!Note]
-> ノートの呼び出しスタイルのサンプル
+> サンプルノート（Note）のコールアウトスタイル
 
 > [!Tip]
-> ヒントの呼び出しスタイルのサンプル
+> サンプルヒント（Tip）のコールアウトスタイル
 
 > [!Warning]
-> 警告の呼び出しスタイルのサンプル
+> サンプル警告（Warning）のコールアウトスタイル
 
 > [!Attention]
-> 注意の呼び出しスタイルのサンプル
+> サンプル注意（Attention）のコールアウトスタイル
 
 > [!Note|style:flat]
-> ノートのフラットスタイルのサンプル
+> サンプルノート（Note）のフラットスタイル
 
 > [!Tip|style:flat]
-> ヒントのフラットスタイルのサンプル
+> サンプルヒント（Tip）のフラットスタイル
 
 > [!Warning|style:flat]
-> 警告のフラットスタイルのサンプル
+> サンプル警告（Warning）のフラットスタイル
 
 > [!Attention|style:flat]
-> 注意のフラットスタイルのサンプル
+> サンプル注意（Attention）のフラットスタイル
 
-## Fontawesomeアイコン 
+## Fontawesome アイコン 
 
-6面ダイス :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
-20面ダイス (静的) :fa-solid fa-dice-d20 fa-lg:  
+D20 静的 :fa-solid fa-dice-d20 fa-lg:  
 
-20面ダイス (アニメーション) :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 アニメーション :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
 ## マテリアルアイコン
 
-<span class="material-icons">顔</span>
+<span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

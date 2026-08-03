@@ -1,6 +1,6 @@
-# Vzorec naslova 1
+# Vzorčni naslov 1
 
-Bolečina je ljubezen, njen glavni vir. Celota fevda mase. V sedežu nobenega preteklosti. Darilo, nobenih iaculisov, okrasitev živil, vmesnih turbin. Curabitur ne ex in dui okrasitev consectetur. Nobena cena, bolečina sedi v pomanjkanju imperdieta, nisi nisl efficitur sovraštvo, pharetra tempor felis quam quis avgust. V erat diam, žalosti vel komodo vel, convallis id mi. Pellentesque pretium torto quis efficitur gravida.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## Naslov 2
 
@@ -14,50 +14,58 @@ Bolečina je ljubezen, njen glavni vir. Celota fevda mase. V sedežu nobenega pr
 
 **KREPKO**
 
-*Poševno*
+*Ležeče*
 
 ## Vzorčna tabela
 
 | Stolpec 1 | Stolpec 2 |
 | ----------- | ----------- |
-| 1 | Bolečina je ljubezen, njen glavni vir |
-| 2 | Boli avtorja, kateri je želel konec ugodja |
-| 3 | Vsakdo, ki naredi jezero žalosti iz diam sodales, naj gre |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Prožna opozorila
+## Prilagodljiva opozorila
 
 > [!Note]
-> Primer stila opombe
+> Vzorec opombe (Note)
 
 > [!Tip]
-> Primer stila nasveta
+> Vzorec nasveta (Tip)
 
 > [!Warning]
-> Primer stila opozorila
+> Vzorec opozorila (Warning)
 
 > [!Attention]
-> Primer stila pozornosti
+> Vzorec pozornosti (Attention)
 
 > [!Note|style:flat]
-> Primer ploskega stila opombe
+> Vzorec opombe v ploščatem slogu (Flat Note)
 
 > [!Tip|style:flat]
-> Primer ploskega stila nasveta
+> Vzorec nasveta v ploščatem slogu (Flat Tip)
 
 > [!Warning|style:flat]
-> Primer ploskega stila opozorila
+> Vzorec opozorila v ploščatem slogu (Flat Warning)
 
 > [!Attention|style:flat]
-> Primer ploskega stila pozornosti
+> Vzorec pozornosti v ploščatem slogu (Flat Attention)
 
 ## Ikone Fontawesome
 
-D6  :fa-solid fa-dice fa-xl:
+D6 :fa-solid fa-dice fa-xl:
 
-D20 Statično :fa-solid fa-dice-d20 fa-lg:  
+D20 statična :fa-solid fa-dice-d20 fa-lg:
 
-D20 Animirano :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 animirana :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
-## Ikone Material
+## Material ikone
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->

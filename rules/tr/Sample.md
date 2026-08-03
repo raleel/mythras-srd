@@ -26,38 +26,46 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ## Esnek Uyarılar
 
-> [!Not]
-> Örnek Not Çağrı Stili
+> [!Note]
+> Örnek Not Çağrısı Stili
 
-> [!İpucu]
-> Örnek İpucu Çağrı Stili
+> [!Tip]
+> Örnek İpucu Çağrısı Stili
 
-> [!Uyarı]
-> Örnek Uyarı Çağrı Stili
+> [!Warning]
+> Örnek Uyarı Çağrısı Stili
 
-> [!Dikkat]
-> Örnek Dikkat Çağrı Stili
+> [!Attention]
+> Örnek Dikkat Çağrısı Stili
 
-> [!Not|style:flat]
-> Örnek Not Düz Stili
+> [!Note|style:flat]
+> Örnek Not Düz Stil
 
-> [!İpucu|style:flat]
-> Örnek İpucu Düz Stili
+> [!Tip|style:flat]
+> Örnek İpucu Düz Stil
 
-> [!Uyarı|style:flat]
-> Örnek Uyarı Düz Stili
+> [!Warning|style:flat]
+> Örnek Uyarı Düz Stil
 
-> [!Dikkat|style:flat]
-> Örnek Dikkat Düz Stili
+> [!Attention|style:flat]
+> Örnek Dikkat Düz Stil
 
-## Fontawesome Simgeleri 
+## Fontawesome İkonları 
 
 D6  :fa-solid fa-dice fa-xl:
 
-D20 Statik :fa-solid fa-dice-d20 fa-lg:  
+D20 Sabit :fa-solid fa-dice-d20 fa-lg:  
 
-D20 Animasyonlu :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
+D20 Hareketli :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Material Simgeleri
+## Material İkonları
 
 <span class="material-icons">face</span>
+
+
+
+<!-- batch-api live test nudge 2 -->
+
+<!-- gemini-3.5-flash-lite live test nudge -->
+
+<!-- gemini-3.1-flash-lite live test nudge -->
