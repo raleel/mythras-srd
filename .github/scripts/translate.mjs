@@ -18,11 +18,10 @@ const TARGET_LANGUAGES = [
   "tl", "bg", "bn", "te", "mr", "ta", "sw", "ha", "ms", "th", "my", "pt",
 ];
 
-// gemini-2.5-flash-lite returns a hard 404 ("no longer available to new
-// users") against this project's API key, so we're back on gemini-2.5-flash,
-// the model that has been reliably translating this repo's content. Override
-// via env var if a cheaper/newer model becomes available.
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+// gemini-2.5-flash-lite returned a hard 404 ("no longer available to new
+// users") against this project's API key. Trying the newer gemini-3.5-flash-lite
+// generation instead. Override via env var if this needs to change again.
+const MODEL = process.env.GEMINI_MODEL || "gemini-3.5-flash-lite";
 
 // Max attempts (including the first try) per language before giving up and
 // logging a final failure. Used by the sequential fallback path.
