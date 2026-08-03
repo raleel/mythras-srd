@@ -2,8 +2,10 @@
 //
 // Reads the list of changed rules/en/*.md files (newline-separated) from the
 // CHANGED_FILES environment variable, translates each one into every target
-// language with the Gemini API, and writes the result to the matching
-// rules/<lang>/ folder.
+// language with the Gemini Batch API (all languages for a file submitted as
+// one batch job), and writes the result to the matching rules/<lang>/
+// folder. Falls back to sequential per-language requests if the batch job
+// itself fails, or for any individual language whose batch result failed.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -16,13 +18,24 @@ const TARGET_LANGUAGES = [
   "tl", "bg", "bn", "te", "mr", "ta", "sw", "ha", "ms", "th", "my", "pt",
 ];
 
-// gemini-2.5-pro has a 0-request free-tier quota, so default to the flash
-// model (which the free tier does support) unless overridden via env var.
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+// gemini-2.5-flash-lite is the cheapest/fastest model in the 2.5 family that
+// still supports the Batch API, so it's the default for both batch and
+// sequential-fallback requests unless overridden via env var.
+const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash-lite";
 
 // Max attempts (including the first try) per language before giving up and
-// logging a final failure.
+// logging a final failure. Used by the sequential fallback path.
 const MAX_ATTEMPTS = 4;
+
+// How often to poll an in-flight batch job for completion.
+const BATCH_POLL_INTERVAL_MS = 15000;
+
+const BATCH_TERMINAL_STATES = new Set([
+  "JOB_STATE_SUCCEEDED",
+  "JOB_STATE_FAILED",
+  "JOB_STATE_CANCELLED",
+  "JOB_STATE_EXPIRED",
+]);
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -310,6 +323,105 @@ async function translateWithRetry(ai, protectedText, lang) {
   throw lastError;
 }
 
+function buildGenerateContentRequest(protectedText, lang) {
+  return {
+    contents: [
+      {
+        role: "user",
+        parts: [{ text: `Target language code: ${lang}\n\n${protectedText}` }],
+      },
+    ],
+    config: {
+      systemInstruction: SYSTEM_INSTRUCTION,
+    },
+  };
+}
+
+/** Polls a batch job every BATCH_POLL_INTERVAL_MS until it reaches a terminal state. */
+async function pollBatchJob(ai, jobName) {
+  let job = await ai.batches.get({ name: jobName });
+
+  while (!BATCH_TERMINAL_STATES.has(job.state)) {
+    await sleep(BATCH_POLL_INTERVAL_MS);
+    job = await ai.batches.get({ name: jobName });
+  }
+
+  return job;
+}
+
+function formatBatchError(error) {
+  if (!error) return "unknown error";
+  return typeof error === "string" ? error : error.message || JSON.stringify(error);
+}
+
+/**
+ * Submits every language still needed for one English file as a single
+ * Gemini Batch API job (one inline request per language), polls it to
+ * completion, and returns a Map<lang, {ok, text} | {ok:false, error}>.
+ *
+ * Each request gets a unique customId (file-${index}-${filename}) purely
+ * for our own bookkeeping/logging -- the SDK's inline batch responses come
+ * back in the same order the requests were submitted in, so results are
+ * mapped back to their language via that same index, not by relying on the
+ * API to echo the customId back.
+ *
+ * Throws if the job itself fails to submit, times out in a non-terminal
+ * failure state, or comes back with a mismatched response count -- callers
+ * should catch this and fall back to sequential per-language requests.
+ */
+async function translateFileWithBatchApi(ai, englishPath, languagesToTranslate, protectedText) {
+  const fileName = path.basename(englishPath);
+  const customIds = languagesToTranslate.map((lang, index) => `file-${index}-${fileName}-${lang}`);
+  const inlinedRequests = languagesToTranslate.map((lang) => buildGenerateContentRequest(protectedText, lang));
+
+  console.log(
+    `Submitting batch translation job for ${englishPath} covering ${languagesToTranslate.length} ` +
+    `language(s): ${languagesToTranslate.join(", ")}`
+  );
+
+  const batchJob = await ai.batches.create({
+    model: MODEL,
+    src: inlinedRequests,
+    config: { displayName: `translate-${fileName}` },
+  });
+
+  console.log(`Batch job ${batchJob.name} created for ${englishPath}; polling every ${BATCH_POLL_INTERVAL_MS / 1000}s...`);
+
+  const finishedJob = await pollBatchJob(ai, batchJob.name);
+
+  if (finishedJob.state !== "JOB_STATE_SUCCEEDED") {
+    throw new Error(`Batch job ${batchJob.name} ended in state ${finishedJob.state}: ${formatBatchError(finishedJob.error)}`);
+  }
+
+  const inlinedResponses = finishedJob.dest?.inlinedResponses;
+  if (!inlinedResponses || inlinedResponses.length !== languagesToTranslate.length) {
+    throw new Error(
+      `Batch job ${batchJob.name} returned ${inlinedResponses ? inlinedResponses.length : 0} response(s), ` +
+      `expected ${languagesToTranslate.length}`
+    );
+  }
+
+  const results = new Map();
+
+  inlinedResponses.forEach((inlineResponse, index) => {
+    const lang = languagesToTranslate[index];
+    const customId = customIds[index];
+
+    if (inlineResponse.response) {
+      const text = inlineResponse.response.text;
+      if (text && text.trim()) {
+        results.set(lang, { ok: true, text });
+      } else {
+        results.set(lang, { ok: false, error: new Error(`Empty response from Gemini batch API (${customId})`) });
+      }
+    } else {
+      results.set(lang, { ok: false, error: new Error(`Batch request failed (${customId}): ${formatBatchError(inlineResponse.error)}`) });
+    }
+  });
+
+  return results;
+}
+
 async function translateFile(ai, englishPath) {
   const englishContent = fs.readFileSync(englishPath, "utf8");
   const { protectedText, placeholders } = protectCodeBlocks(englishContent);
@@ -321,16 +433,58 @@ async function translateFile(ai, englishPath) {
   // quota re-translating files that already succeeded.
   const forceRetranslate = process.env.FORCE_RETRANSLATE === "true";
 
-  for (const lang of TARGET_LANGUAGES) {
+  const languagesToTranslate = TARGET_LANGUAGES.filter((lang) => {
     const targetPath = targetPathFor(englishPath, lang);
-
     if (!forceRetranslate && fs.existsSync(targetPath)) {
       console.log(`Skipping ${targetPath} (already translated; set FORCE_RETRANSLATE=true to redo).`);
-      continue;
+      return false;
     }
+    return true;
+  });
+
+  if (languagesToTranslate.length === 0) {
+    return;
+  }
+
+  // Try the whole file as one batch job first (cheaper and faster than one
+  // sequential request per language). If the job itself fails outright
+  // (submission error, timeout in a failure state, mismatched response
+  // count), fall back to the old sequential path for every language in
+  // this file so the run stays resilient instead of losing the whole file.
+  let batchResults = null;
+  try {
+    batchResults = await translateFileWithBatchApi(ai, englishPath, languagesToTranslate, protectedText);
+  } catch (error) {
+    console.warn(
+      `Batch translation failed for ${englishPath} (${error.message}). ` +
+      `Falling back to sequential per-language requests for all ${languagesToTranslate.length} language(s).`
+    );
+  }
+
+  for (const lang of languagesToTranslate) {
+    const targetPath = targetPathFor(englishPath, lang);
 
     try {
-      const translatedText = await translateWithRetry(ai, protectedText, lang);
+      let translatedText;
+
+      if (batchResults) {
+        const result = batchResults.get(lang);
+
+        if (result && result.ok) {
+          translatedText = result.text;
+        } else {
+          // Either this language's batch entry failed, or (shouldn't
+          // happen, but be defensive) it's missing from the results map.
+          // Either way, retry just this one language sequentially instead
+          // of giving up on it.
+          const reason = result ? result.error.message : "missing from batch results";
+          console.warn(`Batch result for "${lang}" unusable (${reason}); retrying ${targetPath} sequentially.`);
+          translatedText = await translateWithRetry(ai, protectedText, lang);
+        }
+      } else {
+        translatedText = await translateWithRetry(ai, protectedText, lang);
+      }
+
       const restoredText = restoreCodeBlocks(translatedText, placeholders);
 
       fs.mkdirSync(path.dirname(targetPath), { recursive: true });
@@ -344,6 +498,7 @@ async function translateFile(ai, englishPath) {
     }
   }
 }
+
 
 async function main() {
   const changedFilesRaw = process.env.CHANGED_FILES || "";
