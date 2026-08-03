@@ -176,9 +176,17 @@ function languageNeedsFullBackfill(lang) {
   return !fs.readdirSync(dir).some((name) => name.endsWith(".md"));
 }
 
-/** True when this run was triggered manually via workflow_dispatch. */
-function isManualRun() {
-  return process.env.GITHUB_EVENT_NAME === "workflow_dispatch";
+/**
+ * True when this run was triggered manually via workflow_dispatch AND the
+ * user selected (or defaulted to) the "all" mode. A manual dispatch of
+ * "changed-only" should behave exactly like a push -- only touch whatever
+ * git-diff says changed -- not silently balloon into a full 13-file x
+ * N-language backfill.
+ */
+function isManualAllModeRun() {
+  if (process.env.GITHUB_EVENT_NAME !== "workflow_dispatch") return false;
+  const mode = process.env.DISPATCH_MODE || "all";
+  return mode === "all";
 }
 
 function configureGitIdentity() {
@@ -513,25 +521,27 @@ async function main() {
   // list from the workflow) hands us. But that list only reflects recent
   // English edits -- it has no idea a target language was just added and
   // has never been translated at all. So: if any target language still
-  // needs a full backfill (missing/empty rules/<lang>/ folder), or this
-  // run was triggered manually, bypass the diff filter and fall back to
+  // needs a full backfill (missing/empty rules/<lang>/ folder), or this is
+  // a manual "all" mode dispatch, bypass the diff filter and fall back to
   // every rules/en/*.md file. translateFile's existing "skip if already
   // translated" check means this costs nothing for languages/files that
   // are already up to date -- it only actually translates what's missing.
+  // A manual dispatch explicitly set to "changed-only" mode is NOT bypassed
+  // here -- it behaves just like a push and only touches CHANGED_FILES.
   const languagesNeedingBackfill = TARGET_LANGUAGES.filter(languageNeedsFullBackfill);
-  const manualRun = isManualRun();
+  const manualAllModeRun = isManualAllModeRun();
 
   let filesToProcess = changedFiles;
 
-  if (languagesNeedingBackfill.length > 0 || manualRun) {
+  if (languagesNeedingBackfill.length > 0 || manualAllModeRun) {
     if (languagesNeedingBackfill.length > 0) {
       console.log(
         `Missing/empty rules/<lang>/ folder detected for: ${languagesNeedingBackfill.join(", ")}. ` +
         "Bypassing the git diff filter and processing every rules/en/*.md file so these languages get a full backfill."
       );
     }
-    if (manualRun) {
-      console.log("Running via workflow_dispatch (manual trigger); bypassing the git diff filter and processing every rules/en/*.md file.");
+    if (manualAllModeRun) {
+      console.log("Running via workflow_dispatch in 'all' mode; bypassing the git diff filter and processing every rules/en/*.md file.");
     }
 
     const allEnglishFiles = getAllEnglishFiles();

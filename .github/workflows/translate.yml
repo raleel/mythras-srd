@@ -119,6 +119,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CHANGED_FILES: ${{ steps.changes.outputs.files }}
           FORCE_RETRANSLATE: ${{ github.event.inputs.force_retranslate }}
+          DISPATCH_MODE: ${{ github.event.inputs.mode }}
         run: node .github/scripts/translate.mjs
 
       - name: Commit and push any remaining translated files
