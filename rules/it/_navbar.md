@@ -1,0 +1,4 @@
+- [Home](/)
+- [Come iniziare](HowTo.md)
+- [Registro delle modifiche](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

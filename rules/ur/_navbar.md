@@ -1,0 +1,4 @@
+- [ہوم](/)
+- [طریقہ کار](HowTo.md)
+- [تبدیلیوں کی فہرست](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

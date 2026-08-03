@@ -1,0 +1,4 @@
+- [ホーム](/)
+- [遊び方](HowTo.md)
+- [変更履歴](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)

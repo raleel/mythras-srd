@@ -1,0 +1,4 @@
+- [முகப்பு (Home)](/)
+- [எவ்வாறு (How To)](HowTo.md)
+- [மாற்றங்கள் (Changelog)](Changelog.md)
+- [கிட்ஹப் (GitHub)](https://github.com/raleel/mythras-srd)

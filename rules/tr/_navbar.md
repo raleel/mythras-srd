@@ -1,0 +1,4 @@
+- [Anasayfa](/)
+- [Nasıl Oynanır](HowTo.md)
+- [Sürüm Notları](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)
