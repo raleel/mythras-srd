@@ -1,225 +1,227 @@
 # Oyun Sistemi
 
-Bir _Mythras Imperative_ oyunu sırasında birçok farklı şey meydana gelebilir. Bazıları beceri kullanımı veya savaş ya da büyü gibi ana oyun mekaniklerinden biri aracılığıyla çözülür; diğerleri karara bağlanmak için kendi kurallarına ihtiyaç duyar. Bu bölüm, oyuncuların oyunu oynarken karşılaşacakları çeşitli farklı senaryolar için kurallar ve rehberlik sağlar.
+Bir _Mythras Imperative_ oyunu sırasında pek çok farklı şey meydana gelebilir. Bazıları beceri kullanımı veya çatışma ya da büyü gibi temel oyun mekaniklerinden biriyle çözülür; diğerleri ise karara bağlanmaları için kendi kurallarına ihtiyaç duyarlar. Bu bölüm, oyuncuların oyunu oynarken karşılaşacakları çeşitli senaryolar için kurallar ve rehberlik sağlar.
 
-Liste ayrıntılı değildir ancak en yaygın durumları temsil etmelidir. Oyun Yöneticileri, bir tür oyun sistemi kararını gerektiren başka durumlar olduğunu ve bu durumların sık sık meydana geldiğini fark ederlerse, bu özel koşulları kapsayacak kendi kurallarını geliştirmeleri teşvik edilir, bu bölümde verilenleri kopyalama veya geliştirme için bir temel olarak kullanarak.
+Bu liste kapsamlı değildir ancak en yaygın durumları temsil etmelidir. Oyun Yöneticileri, bir tür oyun sistemi kararı gerektiren ve sıklıkla meydana gelen başka durumlar olduğunu fark ederlerse, bu özel durumları kapsayacak kendi kurallarını, bu bölümde verilenleri temel alarak geliştirmeleri teşvik edilir.
 
 ---
-## Asfiksi
+## Boğulma
 
-Karakterler Dayanıklılık becerileri kadar saniye boyunca nefeslerini tutabilirler. Ancak, karakterin hazırlıklı olması (akciğerlerini mümkün olduğunca havayla doldurması) gerekir; aksi takdirde, pasif bir durumda ise süre yarıya iner veya yorucu bir aktiviteyle uğraşıyorsa beşte birine düşer.
+Karakterler, Dayanıklılık (Endurance) becerilerine eşit saniye kadar nefeslerini tutabilirler. Ancak karakterin hazırlıklı olması gerekir (ciğerlerini mümkün olduğunca hava ile doldurması); değilse, karakter pasif bir durumdaysa süre yarıya indirilir veya karakter ağır fiziksel aktivite içindeyse beşte bire düşürülür.
 
-Tutulan nefes süresi sona erdiğinde, karakterler bir Dayanıklılık testi yapmalıdır:
+Nefes tutma süresi bittiğinde, karakterlerin bir Dayanıklılık zarı atması gerekir:
 
-- Test Eleştirel Başarılı olursa, daha fazla kötüleşme olmaz.
-- Test Başarılı olursa, karakter fazladan bir Yorgunluk seviyesi kazanır.
-- Test Başarısız olursa, karakter o Turda 1d2 fazladan Yorgunluk seviyesi alır.
-- Test Fırsatsız Olursa, karakter o Turda 1d3 fazladan Yorgunluk seviyesi alır.
+- Zar Kritik Başarı ise, daha fazla bozulma meydana gelmez.
+- Zar Başarılı ise, karakter fazladan bir Yorgunluk seviyesi kazanır.
+- Zar Başarısız ise, karakter o Tur fazladan 1d2 Yorgunluk seviyesi alır.
+- Zar Kritik Başarısızlık ise, karakter o Tur fazladan 1d3 Yorgunluk seviyesi alır.
 
-Yardım olmadan, Asfiksi'den ölüm genellikle hızlıdır. Karakter ölmeden Asfiksi sona ererse, boğulma nedeniyle kaybedilen Yorgunluk seviyelerini nispeten hızlı bir şekilde geri kazanır, dakikada bir seviye geri kazanır.
+Yardım olmaksızın, Boğulmadan ölüm genellikle hızlıdır. Eğer Boğulma karakter ölmeden önce sona ererse, boğulmadan dolayı kaybettikleri Yorgunluk seviyelerini nispeten hızlı bir şekilde, dakikada bir seviye olacak şekilde geri kazanırlar.
 
-Asfiksi yöntemine bağlı olarak, Oyun Yöneticisi tam iyileşmeyi engellemek isteyebilir, duman veya su solunmasının neden olduğu akciğer hasarını temsil etmek için kalıcı bir Yorgunluk seviyesi uygulayabilir ([Yorgunluk](0004_Game_System.md?id=fatigue) bölümüne bakınız).
+Boğulma yöntemine bağlı olarak, Oyun Yöneticisi duman veya su solumadan kaynaklanan ciğer hasarını temsil etmek adına, tam iyileşmeyi engelleyip kalıcı bir Yorgunluk seviyesi ( [Yorgunluk](0004_Game_System.md?id=fatigue) bölümüne bakın) uygulamak isteyebilir.
 
 ---
 ## Karakter Gelişimi
 
-Her _Mythras Imperative_ karakteri zaman ve deneyimle gelişebilir. Gelişim birkaç alanda yapılabilir:
+Her _Mythras Imperative_ karakteri zamanla ve tecrübeyle gelişebilir. Gelişim birkaç alanda gerçekleştirilebilir:
 
-- Mevcut becerileri artırma
-- Tutkuları artırma
-- Yeni beceriler öğrenme
-- Yeni Yetenekler öğrenme
+- Mevcut becerileri artırmak
+- Tutkuları (Passions) artırmak
+- Yeni beceriler öğrenmek
+- Yeni Yetenekler öğrenmek
 
-#### Deneyim Testleri
+#### Tecrübe Zarları
 
-Çoğu karakter gelişiminin mekanizması Deneyim Testi'dir. Oyun Yöneticileri, kampanyada uygun bir noktada Deneyim Testleri verir: her başarılı senaryo veya hikaye sonunda; veya hikaye tamamlanması zaman alacak uzun bir hikaye ise belki iki veya üç oyun seansından sonra. Sıklık Oyun Yöneticisi'nin takdirindedir. Yüksek Deneyim Testi sıklığı, karakterlerin daha hızlı gelişmesine yol açacaktır.
+Çoğu karakter gelişimi için kullanılan mekanizma Tecrübe Zarıdır. Oyun Yöneticileri, kampanyadaki uygun bir kavşakta (her başarılı senaryonun veya hikaye dizisinin sonunda ya da uzun bir hikaye ise belki iki veya üç oyun oturumundan sonra) Tecrübe Zarları verirler. Sıklık Oyun Yöneticisinin takdirindedir. Tecrübe Zarlarının yüksek sıklığı, karakterlerin daha hızlı gelişmesini sağlar.
 
-Deneyim Testleri vermek için doğru veya yanlış bir zaman yoktur, ancak hikayedeki doğal molalar uygun zamanlar önerebilir. Ancak, Oyun Yöneticisi burada her zaman karar vericidir. Oyuncular Deneyim Testleri talep edemese de, belirli noktalarda bunları beklemeye hakları vardır - çünkü karakterleri onlar olmadan gelişemeyecektir.
+Tecrübe Zarı vermek için doğru veya yanlış bir zaman yoktur, ancak hikayedeki doğal molalar uygun zamanları işaret edebilir. Ancak karar verici her zaman Oyun Yöneticisidir. Oyuncular Tecrübe Zarı talep edemezlerse de, karakterleri onlar olmadan gelişemeyeceği için belirli noktalarda bunları bekleme hakları vardır.
 
-Verilen Deneyim Testlerinin sayısı da Oyun Yöneticisi tarafından belirlenir. Ancak, iyi bir kural, son verildiği zamandan bu yana seans başına 1-3 Deneyim Testidir.
+Verilen Tecrübe Zarlarının sayısı da Oyun Yöneticisi tarafından belirlenir. Bununla birlikte, iyi bir kural olarak, son verilmesinden bu yana geçen her oturum için 1-3 Tecrübe Zarı verilebilir.
 
-#### Mevcut Becerileri Artırma
+#### Mevcut Becerileri Artırmak
 
-Karakter Kağıdındaki herhangi bir beceri, Standart veya Profesyonel, bir Deneyim Testi harcanarak artırılabilir. Oyuncular, becerileri artırmak için Deneyim Testleri harcamamayı, bunun yerine diğer şeyleri -sınıf yetenekleri gibi (aşağıya bakınız)- artırmak için bir stok oluşturmayı seçebilirler.
+Karakter Kağıdındaki herhangi bir Standart veya Mesleki beceri, bir Tecrübe Zarı harcanarak artırılabilir. Oyuncular Tecrübe Zarlarını beceri artırmak için harcamamayı seçebilir, bunun yerine Sınıf yetenekleri (aşağıya bakın) gibi diğer şeyleri artırmak için biriktirebilirler.
 
-Oyuncu 1d100 atar ve bunu artırılan beceriyle karşılaştırır. Karakterin ZEKası atışa eklenir.
+Oyuncu 1d100 atar ve bunu geliştirilmekte olan beceriyle karşılaştırır. Karakterin Zekası (INT), atılan zara eklenir.
 
-- Atılan sayı artırılan beceriye eşit veya daha büyükse, 1d4+1% artar.
-- Atılan sayı seçilen beceriden az ise, beceri yine de artar, ancak sadece %1 oranında.
-- Bir karakter önceki seans(lar)da (yani, son Deneyim Testleri seti ile mevcut olan arasında) herhangi bir beceride Fırsatsız olmuşsa, Fırsatsız olan beceri %1'lik ücretsiz bir artış kazanır. Başarılarımızdan çok hatalarımızdan öğreniriz ve bu, bir karakterin feci bir başarısızlıktan sonra yaşadığı düşünmeyi temsil eder. Aynı becerideki birden fazla Fırsatsızlık birikmez. Fırsatsız olan beceri aynı zamanda bir Deneyim Testi ile artırılıyorsa, Fırsatsızlık'tan gelen %1, iyileştirme testi yapılmadan önce uygulanır.
+- Atılan sayı, geliştirilen beceriye eşit veya daha büyükse, beceri 1d4+1% artar.
+- Atılan sayı, seçilen beceriden küçükse, beceri yine de artar ancak sadece %1 oranında.
+- Bir karakter önceki oturum(lar) sırasında -yani son Tecrübe Zarı seti ile şimdiki arasında- herhangi bir beceride Kritik Başarısızlık (Fumble) yaşamışsa, Kritik Başarısızlık yaşanan beceri %1'lik ücretsiz bir artış kazanır. Hatalarımızdan başarılarımızdan daha fazla şey öğreniriz ve bu, karakterin felaket bir başarısızlığın ardından geçirdiği yansımayı temsil eder. Aynı becerideki birden fazla Kritik Başarısızlık birikmez. Kritik Başarısızlık yaşanan becerinin aynı zamanda bir Tecrübe Zarı ile yükseltildiği bir durumda, Kritik Başarısızlıktan gelen %1'lik artış, geliştirme zarı atılmadan önce uygulanır.
 
-Aynı beceri, seans başına birden fazla Deneyim Testi'nden faydalanamaz.
+Aynı beceri, oturum başına birden fazla Tecrübe Zarından yararlanamaz.
 
-#### Tutkuları Artırma
+#### Tutkuları (Passions) Artırmak
 
-[Tutkular](0002_Characters.md?id=step-8-passions) bölümündeki Tutkular altında açıklandığı gibi, bir Tutku'nun değeri, bir beceri gibi Deneyim Testleri ile artırılabilir. Oyunla desteklenirse, Oyun Yöneticisi bir Tutku'nun bir Deneyim Testi kullanılarak azaltılmasına bile izin verebilir.
+[Tutkular](0002_Characters.md?id=step-8-passions) bölümündeki Tutkular kısmında açıklandığı gibi, bir Tutkunun değeri, becerilerle aynı şekilde Tecrübe Zarları ile artırılabilir. Oyun içindeki gelişmelere bağlı olarak, Oyun Yöneticisi bir Tutkunun bir Tecrübe Zarı kullanılarak azaltılmasına bile izin verebilir.
 
-_Örneğin, karşılıksız bir aşkın sürekli reddedilmesi, en ateşli aşığı bile sonunda yorabilir, özellikle geçmişin hayaletlerinin kendisini rahatsız etmediği bir ilişki kurmak isteyen birini._
+_Örneğin, karşılıksız bir aşktan kaynaklanan sürekli reddedilme, en tutkulu aşığın bile Tutkusunu zamanla yıpratabilir, özellikle de geçmişin hayaletleri tarafından rahatsız edilmeden bir ilişki sürdürmek isteyen birinin._
 
-#### Yeni Beceriler Öğrenme
+#### Yeni Beceriler Öğrenmek
 
-Bazı karakterler, kültürlerinden öğrenme fırsatı bulamadıkları yeni Profesyonel Beceriler öğrenmek isteyebilirler. Deneyim Testleri yatırmaya başlamadan önce, öğrenmek için bir bilgi kaynağı bulmaları gerekir. Bu, tarikatlar veya loncalar tarafından sağlanan profesyonel bir öğretmen kadar sıradan olabilir. Alternatif olarak, eski ve parçalanmış bir eğitim parşömeni gibi daha egzotik bir eğitim kaynağı da olabilir.
+Bazı karakterler, kültürlerinden öğrenme şansı bulamadıkları yeni Mesleki Becerileri çalışmak isteyebilirler. Tecrübe Zarı yatırmaya başlamadan önce, öğrenmek için bir bilgi kaynağı bulmaları gerekir. Bu, düzenler veya loncalar tarafından sağlananlar gibi profesyonel bir eğitmen kadar sıradan olabilir. Alternatif olarak, eski ve yıpranmış bir eğitim parşömeni gibi daha egzotik bir eğitim kaynağı da olabilir.
 
-Bir eğitim kaynağı bulunduğunda, karakterin bu beceride temel bir bilgi edinmek (Temel Seviyede öğrenmek) için tam bir ay boyunca çalışması ve pratik yapması gerekir. Bu, 3 Deneyim Testi'nin yanı sıra öğretmene (varsa) ödenmesi ve gerekli ekipman ve aletlerin satın alınması (veya kiralanması) için gereken oyun içi maliyetleri gerektirir.
+Eğitim kaynağı bulunduğunda, karakter o beceride temel bir seviyeye ulaşmak için (Temel Seviyede öğrenmek) bir ay boyunca çalışma ve pratik yapmalıdır. Bu, 3 Tecrübe Zarına ve (varsa) öğretmene ödenmesi gereken oyun içi maliyetlere ve ihtiyaç duyulabilecek ekipman ve araçları satın almak (veya kiralamak) için gereken masraflara mal olur.
 
 ---
 ## Hastalık ve Zehir
 
-Karakterleri etkileyebilecek en korkulan şeylerden bazıları, dünyanın karanlık ve kasvetli yerlerini istila eden sayısız hastalık ve zehirdir. Özellikle karakterin kendi ev şehrinde salgın bir veba baş gösterdiğinde ve kendileri hala şehrin kapıları içindeyken, hiçbir şey bundan daha rahatsız edici olamaz. Aynı şekilde, yatakta zehirli bir yılan bulmak veya dev akrepler tarafından saldırıya uğramak yüksek drama anları olabilir.
+Karakterleri etkileyebilecek en korkulan şeylerden bazıları, dünyanın karanlık ve kasvetli yerlerini istila eden sayısız hastalık ve zehirdir. Bir karakterin kendi şehrini vuran bir vebadan, özellikle de hala surların içindeyken, daha rahatsız edici bir şey yoktur. Benzer şekilde, yatakta zehirli bir yılan bulmak veya dev akrepler tarafından saldırıya uğramak yüksek dram anları olabilir.
 
-Hastalıklar ve zehirler çeşitlilikleri açısından neredeyse sonsuzdur, ancak oyun amaçları için aynı şekilde ele alınır.
+Hastalıklar ve zehirler çeşitlilik bakımından neredeyse sonsuzdur ancak oyun amaçları doğrultusunda aynı şekilde ele alınırlar.
 
 #### Hastalık ve Zehir Özellikleri
 
-Tüm hastalıklar ve zehirler, etkileri için önemli olan bir dizi özellik gösterir.
+Tüm hastalıklar ve zehirler, etkileri için önemli olan bir dizi özellik sergiler.
 
-**Uygulama:** Hastalık veya zehirin kurbana nasıl bulaştığı yöntemi.
+**Uygulama:** Hastalığın veya zehrin kurbanın vücuduna giriş yöntemi.
 
-- **Yutma:** Etkiler yemek veya içmek yoluyla ortaya çıkar.
-- **Soluma:** Etkiler nefes alma veya burundan çekme yoluyla ortaya çıkar.
-- **Temas:** Etkiler cilt yoluyla emilimle ortaya çıkar.
-- **Enjeksiyon:** Etkiler, madde vücuda delme yoluyla enjekte edildiğinde ortaya çıkar.
+- **Sindirim:** Etkiler yeme veya içme yoluyla gerçekleşir.
+- **Solunum:** Etkiler nefes alma veya burundan çekme yoluyla gerçekleşir.
+- **Temas:** Etkiler deri yoluyla emilimle gerçekleşir.
+- **Enjeksiyon:** Etkiler madde delinme yoluyla vücuda enjekte edildiğinde gerçekleşir.
 
-**Etki:** Hastalık veya zehirin virülansı. Bu değer, Karşıt bir Testte uygun bir direnç becerisine (genellikle Dayanıklılık veya İrade) karşı ayarlanır. Karakter testi kazanırsa, etkilerini atlatır. Testi kaybederse, hastalığın veya zehirin tüm Koşullarını, her birini uygun zamanda çeker.
+**Etki Gücü (Potency):** Hastalığın veya zehrin virülansı. Bu değer, Karşıt Zar (Opposed Roll) sisteminde uygun bir direnç becerisine (genellikle Dayanıklılık veya İrade) karşı ayarlanır. Karakter zarı kazanırsa, etkilerini üzerinden atar. Zarı kaybederse, hastalığın veya zehrin tüm Durumlarına (Conditions), her biri uygun zamanda olacak şekilde maruz kalır.
 
-**Direnç:** Hastalığın veya zehirin nasıl direndiği - genellikle Dayanıklılık veya İrade, ancak daha egzotik direnç gereksinimleri olabilir. Direnç maruz kalma anında atılabilir veya karakterin enfekte veya zehirlenmiş olabileceği gerçeğini gizlemek için Başlangıç Zamanına kadar ertelenebilir.
+**Direnç:** Hastalığın veya zehrin nasıl karşılandığıdır – genellikle Dayanıklılık veya İrade, ancak daha egzotik direnç gereksinimleri de olabilir. Direnç, maruz kalma anında atılabilir veya karakterin enfekte ya da zehirlenmiş olabileceği gerçeğini gizlemek için Başlangıç Zamanına ertelenebilir.
 
-**Başlangıç Zamanı:** Birçok hastalık ve zehir hemen etkisini göstermez. Gecikmeye Başlangıç Zamanı denir ve bu birkaç saniye, dakika, saat veya daha uzun olabilir. Birden fazla etkisi olan zehirler veya hastalıklar, Koşullar altında açıklandığı gibi her biri için farklı başlangıç zamanlarına sahip olabilir.
+**Başlangıç Zamanı (Onset Time):** Birçok hastalık ve zehir anında etki etmez. Gecikmeye Başlangıç Zamanı denir ve bu saniyeler, dakikalar, saatler veya daha uzun olabilir. Birden fazla etkisi olan zehirler veya hastalıklar, Durumlar altında açıklandığı gibi her biri için farklı başlangıç zamanlarına sahip olabilir.
 
-**Süre:** Bir hastalık veya zehirin Koşullarının ne kadar sürdüğü.
+**Süre:** Bir hastalık veya zehirin Durumlarının ne kadar süreceği.
 
-**Koşullar:** Her toksinin bir veya daha fazla Koşulu vardır. Bunlar, aşağıdaki Koşullar tablosunda açıklandığı gibi belirli etkilere sahiptir ve bir kurban direnmeyi başaramazsa, açıklanan tüm Koşullara maruz kalır.
+**Durumlar (Conditions):** Her toksin bir veya daha fazla Duruma sahiptir. Bunlar, aşağıdaki Durumlar tablosunda açıklandığı gibi belirli etkilere sahiptir ve bir kurban direnç gösteremezse, açıklanan tüm Durumlardan muzdarip olur.
 
-**Panzehir/Tedavi:** Toksin tedavi edilebilirse burada belirtilecektir. Başarılı tedavi, başka koşulların ortaya çıkmasını engeller, ancak bazı durumlarda kurbanın zaten çekmiş olduğu kalıcı etkilerden muzdarip olmasına neden olabilir.
+**Antidot/İyileştirme:** Eğer toksin tedavi edilebiliyorsa burada belirtilir. Başarılı tedavi, başka hiçbir durumun oluşmasını engeller, ancak bazı durumlarda kurbanı zaten oluşmuş kalıcı etkilerle baş başa bırakabilir.
 
-##### Koşullar Tablosu
+##### Durumlar Tablosu
 
-| Koşul | Etkiler |
+| Durum | Etkiler |
 | :-- | :-- |
-| Izdırap | Kurban yoğun ağrıdan etkilenir. Bir yerde veya tüm vücutta olsun, etkilenen alanı kullanmayı içeren herhangi bir beceri testi, karakterin İrade gücünden az veya eşit olmalıdır, aksi takdirde girişim başarısız olur ve ağrı içinde inler veya çığlık atar. |
-| Asfiksi | Kurban asfiksi çeker – bilinçsizce yere yığılır, nefes alamaz. [Asfiksi](0004_Game_System.md?id=asphyxiation) bölümündeki kurallar kullanılır. Asfiksi astımik olabilir, yani kurban sadece nefes darlığı çeker veya tam solunum yetmezliği ile sonuçlanan ölüme yol açabilir. İkinci durumda, bir kurban, İlk Yardım becerisi ile hastalığın veya zehirin Etki gücüne karşı kazanılan zıt bir testle hayatta tutulabilir. |
-| Kanama | Kurban, iç kanama veya yüzey kanaması çeker, bu da aşağıdaki [Yorgunluk](0004_Game_System.md?id=fatigue) ve [Kan Kaybı](0004_Game_System.md?id=blood-loss) bölümlerinde açıklanan Yorgunluk ve iyileşme sürelerine yol açar. |
-| Bulaşıcı | Kurban zehiri veya hastalığı dokunma yoluyla bulaştırabilir. |
-| Ölüm | Kurban bilinçsizce yere yığılır ve Dayanıklılık özelliği kadar tur sonra ölür. |
-| Ateş | Kurbanın vücut ısısı vahşice dalgalanır – sıcaktan soğuğa – ve kasları ağrır. Tüm beceriler Zorluk derecesinde bir zorluk yaşar. |
-| Mani | Kurban, sudan kaçınma, paranoya, kendine zarar verme gibi bir takıntıyı takip etmeye zorlanır. Hastalığın veya zehirin neden olduğu mani açıklamasında belirtilecektir. |
-| Bulantı | Kurban yemek yiyemez ve stresli bir fiziksel eylem her yaptığında fiziksel olarak hastalanmaktan kaçınmak için Dayanıklılığına karşı test yapmalıdır. Kusma 1d3 tur sürer ve bu süre boyunca hareket edemez. Uzun süreli Bulantı açlığa neden olabilir. |
-| Felç | Kurban fiziksel olarak hareket edemez. Etkilenen bölge, bir konumsa, süre boyunca kullanılamaz. Tüm vücudu etkiliyorsa, karakter hiç hareket edemez. |
+| Acı (Agony) | Kurban şiddetli ağrıyla engellenir. Bir bölgede veya tüm vücutta olsun, etkilenen bölgenin kullanımını içeren herhangi bir beceri zarı, karakterin İradesine eşit veya daha düşük olmalıdır, aksi takdirde girişim başarısız olur ve karakter acı içinde inler veya çığlık atar. |
+| Boğulma | Kurban boğulma yaşar – nefes alamayacak şekilde aciz kalarak yere yığılır. [Boğulma](0004_Game_System.md?id=asphyxiation) bölümündeki kurallar kullanılır. Boğulma astım kaynaklı olabilir, yani kurban sadece nefes darlığı çeker veya ölümle sonuçlanan tam solunum yetmezliği yaşar. İkinci durumda, bir kurban İlk Yardım becerisi ile hastalık veya zehrin Etki Gücüne karşı kazanılan bir karşıt test ile hayatta tutulabilir. |
+| Kanama | Kurban, [Yorgunluk](0004_Game_System.md?id=fatigue) ve [Kan Kaybı](0004_Game_System.md?id=blood-loss) bölümlerinde açıklanan Yorgunluk ve iyileşme sürelerine yol açan iç kanama veya yüzey kanaması yaşar. |
+| Bulaşıcı | Kurban zehri veya hastalığı temas yoluyla bulaştırabilir. |
+| Ölüm | Kurban aciz kalarak yere yığılır ve CON özelliğine eşit tur sayısı sonra ölür. |
+| Ateş | Kurbanın vücut ısısı vahşi bir şekilde dalgalanır – sıcaktan soğuğa – ve kasları ağrır. Tüm beceriler Zor (Hard) zorluk derecesinden muzdarip olur. |
+| Mani | Kurban, sudan kaçınma, paranoya, kendine zarar verme vb. gibi bir dürtüyü takip etmeye zorlanır. Hastalık veya zehir tarafından tetiklenen mani, tanımında not edilecektir. |
+| Mide Bulantısı | Kurban yemek yiyemez ve fiziksel olarak hasta olmamak için stresli bir fiziksel eylem gerçekleştirdiği her seferinde Dayanıklılık zarı atmalıdır. Kusma, 1d3 tur sürer ve bu süre zarfında hareket edemez. Uzun süreli Mide Bulantısı açlığa neden olabilir. |
+| Felç | Kurban fiziksel olarak hareket edemez. Etkilenen bölge, eğer bir konumsa, süre boyunca kullanılamaz. Tüm vücudu etkiliyorsa, karakter hiç hareket edemez. |
 
-#### Örnek Hastalık: Kızıl Çiçek
+#### Örnek Hastalık: Kızıl Çiçek (Red Pox)
 
-Kızıl çiçek, zaten enfekte olmuş bir kişiyle veya dokundukları bir şeyle cilt teması yoluyla yayılan kötü bir hastalıktır. Bir nesneden hastalığı kapma şansı temasdan sonra 1d3 gün boyunca devam eder, bu da bir salgın başladığında hastalığı kontrol altına almayı oldukça zorlaştırır.
+Kızıl Çiçek, zaten enfekte olmuş biriyle veya dokundukları bir şeyle ten teması yoluyla yayılan kötü bir hastalıktır. Bir nesneden hastalığı kapma şansı, temastan sonra 1d3 gün boyunca devam eder, bu da bir salgın başladığında hastalığı kontrol altına almayı oldukça zorlaştırır.
 
-Kurbanlar başlangıçta hafif bir döküntüden muzdariptir, ancak bir gün içinde genellikle onları tüm süre boyunca yatağa bağlı kılan ciddi bir ateşle karşılaşırlar. Bu süre zarfında, döküntü, en ufak bir harekette patlayan, özellikle koltuk altlarından ve kasık bölgelerinden küçük kan akıntıları yapan korkunç derecede kaşıntılı püstüllere dönüşür. Bu aşama bir hafta veya daha uzun sürebilir ve potansiyel olarak ölümcül olabilir.
+Kurbanlar başlangıçta küçük bir kızarıklık yaşarlar, ancak bir gün içinde genellikle tüm süre boyunca yatalak kalmalarına neden olan ciddi bir ateş geçirirler. Bu süre zarfında kızarıklık, en ufak bir harekette patlayan, özellikle koltuk altlarından ve kasıklardan küçük kan damlaları sızdıran korkunç derecede kaşıntılı püstüllere dönüşür. Bu evre bir hafta veya daha uzun sürebilir ve potansiyel olarak ölümcül olabilir.
 
 - **Uygulama:** Temas
-- **Etki:** 50
+- **Etki Gücü:** 50
 - **Direnç:** Dayanıklılık
-- **Başlangıç zamanı:** 1d6+6 saat
+- **Başlangıç Zamanı:** 1d6+6 saat
 - **Süre:** 1d6+3 gün
-- **Koşullar:** Hastalık ortaya çıktığında kurban Bulaşıcı hale gelir. 1 gün sonra Ateş ve Kanama çekmeye başlarlar. Püstüllerin her kan akıtmasıyla kurban bir seviye Yorgunluk kaybeder, bu da hastalığın süresi tamamlanana kadar iyileşmez.
-- **Panzehir/Tedavi:** Şifa becerisiyle tedavi edilebilir.
+- **Durumlar:** Hastalık ortaya çıktığında kurban Bulaşıcı hale gelir. 1 gün sonra Ateş ve Kanama yaşamaya başlar. Püstüllerin kan sızdırdığı her gün, kurban bir Yorgunluk seviyesi kaybeder ve bu, hastalık süresi tamamlanana kadar düzelmez.
+- **Antidot/İyileştirme:** İyileştirme (Healing) becerisi ile tedavi edilebilir.
+
 
 ---
 ## Düşme
 
-Bir düşüşte alınan hasar miktarı, düşüşün mesafesine bağlıdır. Zırh Puanları düşme hasarını azaltmaz, ancak düşen karakter veya yaratığın Hasar Değiştiricisi düşüşten alınan hasara uygulanır.
+Bir düşüşte maruz kalınan hasar miktarı, düşüşün mesafesine bağlıdır. Zırh Puanları düşme hasarını azaltmaz, ancak düşen karakterin veya yaratığın Hasar Değiştiricisi (Damage Modifier), düşüşten kaynaklanan hasara uygulanır.
 
 ##### Düşme Mesafesi Tablosu
 
 | Düşülen Mesafe | Alınan Hasar |
 | :-- | :-- |
 | 1 metre veya daha az | Hasar yok. |
-| 2-5 metre | Rastgele bir konuma 1d6 hasar puanı. |
-| 6-10 metre | Rastgele iki konuma 2d6 hasar puanı. |
-| 11-15 metre | Rastgele üç konuma 3d6 hasar puanı. |
-| 16-20 metre | Rastgele dört konuma 4d6 hasar puanı. |
+| 2-5 metre | Rastgele bir konuma 1d6 hasar. |
+| 6-10 metre | Rastgele iki konuma 2d6 hasar. |
+| 11-15 metre | Rastgele üç konuma 3d6 hasar. |
+| 16-20 metre | Rastgele dört konuma 4d6 hasar. |
 | Her +5 metre | +1d6 hasar. |
 
 #### Düşen Nesneler
 
-Düşen bir nesne, BÜYÜKLÜĞÜNE ve düşüş mesafesine bağlı olarak bir miktar hasar verir. Bir nesne, her 6 BÜYÜKLÜK puanı (veya bunun bir kesri) için 1d6 hasar verir, ayrıca Düşme Mesafesi Tablosu'nun Alınan Hasar sütunundaki hasar miktarı kadar hasar verir - daha küçük boyutlu nesneler için herhangi bir indirim dahil.
+Düşen bir nesne, SIZ (Boyut) değerine ve düşüş mesafesine bağlı olarak hasar verir. Bir nesne, her 6 puanlık SIZ (veya küsuratı) için 1d6 hasar verir, buna Düşme Mesafesi Tablosunun Alınan Hasar sütununa eşit bir hasar miktarı eklenir – daha küçük boyutlu nesneler için olan indirimler dahil.
 
 ---
 ## Yorgunluk
 
-Yorgunluk, yorgunluğu ve bunun artan etkilerini ölçer. Yorucu aktiviteden hastalıkların zayıflatıcı etkilerine kadar birçok farklı şeyi takip etmek için kullanılır.
+Yorgunluk, yorgunluğu ve onun kademeli etkilerini ölçer. Yorucu faaliyetlerden hastalığın zayıflatıcı etkilerine kadar birçok farklı şeyi takip etmek için kullanılır.
 
-Yorgunluk biriktirmenin birincil yolu, bir tür fiziksel aktiviteye girmektir. Egzersiz veya iş ne kadar zahmetliyse, karakter o kadar çabuk yorulur. Oyun Yöneticisi'nin takdirine bağlı olarak, karakterler bir Yorgunluk seviyesi kazanmaya direnmek için uygun bir beceri testi yapmalıdır - ya Atletizm, ya Güç, ya da Dayanıklılık.
+Yorgunluk kazanmanın birincil yolu, bir tür fiziksel aktiviteye girmektir. Egzersiz veya iş ne kadar ağırsa, karakter o kadar çabuk yorulur. Oyun Yöneticisinin takdirine bağlı olarak, karakterler Yorgunluk seviyesi kazanmaya direnmek için uygun bir beceri zarı – Atletizm, Güç (Brawn) veya Dayanıklılık – atmalıdır.
 
-Her Başarısız test bir Yorgunluk seviyesi biriktirir. Her Yorgunluk seviyesi beceri kullanımı, hareket, Girişim ve Eylem Puanları için cezalar taşır. Asfiksi, Kan Kaybı ve diğer ortama bağlı etkiler de Yorgunluk birikimine katkıda bulunur.
+Her Başarısız zar bir Yorgunluk seviyesi kazandırır. Her Yorgunluk seviyesi; beceri kullanımı, hareket, İnisiyatif ve Eylem Puanları için cezalar taşır. Boğulma, Kan Kaybı ve diğer ortama bağlı etkiler de Yorgunluk kazanımına katkıda bulunur.
 
-Çoğu karakter için, İşlevsiz seviyesine ulaşıldığında her türlü aktivite neredeyse imkansız hale gelir. Bu aşamada, karakter hala bilinci yerindedir ancak en çaresiz aktiviteler dışında hiçbir şey yapamaz.
+Çoğu karakter için, Aciz (Incapacitated) seviyesine ulaşıldığında her türlü aktivite imkansız hale gelir. Bu aşamada karakter hala bilinçlidir ancak en çaresiz faaliyetler dışında hiçbir şey yapamaz.
 
-İşlevsizliğin ötesinde, karakterler hiç hareket edemez. Yorgunluk seviyeleri - Yarı Bilinçli, Koma Halinde ve Ölü - genellikle boğulma, hastalık, kan kaybı, açlık, maruz kalma vb. en aşırı etkilerini ölçmek için ayrılmıştır.
+Aciz durumun ötesinde, karakterler hiçbir şey yapamazlar. Yorgunluk seviyeleri – Yarı Bilinçli, Koma ve Ölü – genellikle boğulma, hastalık, kan kaybı, açlık, maruz kalma vb. durumların en uç etkilerini ölçmek için ayrılmıştır.
 
 #### Yorgunluktan İyileşme
 
-Karakterler, İyileşme Oranlarına bağlı olarak Yorgunluktan iyileşir. Biriken her Yorgunluk seviyesinden iyileşmek için gereken tam dinlenme süresi, İyileşme Süresi'nin karakterin İyileşme Oranı'na bölünmesiyle bulunur.
+Karakterler, İyileşme Hızlarına (Healing Rate) bağlı olarak Yorgunluktan iyileşirler. Kazanılan her Yorgunluk seviyesinden iyileşmek için gereken tam dinlenme miktarı, İyileşme Süresinin karakterin İyileşme Hızına bölünmesine eşittir.
 
-Aşağıdaki tablonun fiziksel efordan iyileşme için Yorgunluk iyileşmesini temsil ettiğini unutmayın. Asfiksi'den iyileşirken Yorgunluk iyileşmesi çok daha hızlı veya Kan Kaybı'ndan iyileşirken daha yavaş olabilir.
+Aşağıdaki tablonun fiziksel efor için Yorgunluk iyileşmesini temsil ettiğini unutmayın. Boğulmadan iyileşirken Yorgunluk iyileşmesi çok daha hızlı veya Kan Kaybından iyileşirken daha yavaş olabilir.
 
 ##### Yorgunluk Seviyeleri
 
-| Yorgunluk Seviyesi | Beceri Derecesi | Hareket | Girişim | Eylem Puanları | İyileşme Süresi |
+| Yorgunluk Seviyesi | Beceri Derecesi | Hareket | İnisiyatif | Eylem Puanı | İyileşme Süresi |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Taze | – | – | Ceza Yok | – | – |
-| Nefessiz | Zor | Ceza Yok | Ceza Yok | Ceza Yok | 15 dakika |
+| Zinde (Fresh) | – | – | Ceza Yok | – | – |
+| Nefes Nefese | Zor | Ceza Yok | Ceza Yok | Ceza Yok | 15 dakika |
 | Yorgun | Zor | -1 metre | Ceza Yok | Ceza Yok | 3 saat |
-| Bitkin | Zorlu | -2 metre | -2 | Ceza Yok | 6 saat |
-| Tükenmiş | Zorlu | Yarıya İndi | -4 | -1 | 12 saat |
-| Güçsüz | Herkülvari | Yarıya İndi | -6 | -2 | 18 saat |
-| İşlevsiz | Herkülvari | Hareketsiz | -8 | -3 | 24 saat |
-| Yarı Bilinçli | Umutsuz | Aktivite Mümkün Değil | Aktivite Mümkün Değil | Aktivite Mümkün Değil | 36 saat |
-| Koma Halinde | Aktivite Mümkün Değil | Aktivite Mümkün Değil | Aktivite Mümkün Değil | Aktivite Mümkün Değil | 48 saat |
+| Bitkin | Müthiş | -2 metre | -2 | Ceza Yok | 6 saat |
+| Tükenmiş | Müthiş | Yarıya iner | -4 | -1 | 12 saat |
+| Zayıf Düşmüş | Herkülvari | Yarıya iner | -6 | -2 | 18 saat |
+| Aciz | Herkülvari | Hareket edemez | -8 | -3 | 24 saat |
+| Yarı Bilinçli | Çaresiz | Aktivite Olamaz | Aktivite Olamaz | Aktivite Olamaz | 36 saat |
+| Koma | Aktivite Olamaz | Aktivite Olamaz | Aktivite Olamaz | Aktivite Olamaz | 48 saat |
 | Ölü | Ölü | – | – | – | Asla |
 
 ---
-## Yangınlar
+## Ateş
 
-Yangınlar, silah olarak kullanıldığında veya kontrolden çıktığında her zaman bir tehlike kaynağıdır. Aşağıdaki Yangın Yoğunluğu tablosu, ısı hasarı için beş farklı yoğunluk ve bazı örnekler vermektedir. Tur başına verilen hasar Hasar sütununda verilmiştir. Nispeten küçük oldukları için, Yoğunluk 1 ve 2 kaynakları hasarlarını tek bir Vuruş Konumuna, genellikle kaynağa dokunan kısma uygular. Yoğunluk 3 ve 4 kaynakları daha büyüktür ve radyant ısı derecesini gösteren en yakın 1d4+1 Vuruş Konumuna hasar uygular. Yoğunluk 5 kaynakları tüm Vuruş Konumlarını aynı anda etkiler.
+Ateş, bir silah olarak kullanıldığında veya kontrolden çıktığında her zaman bir tehlike kaynağıdır. Aşağıdaki Ateş Yoğunluğu tablosu, bazı örneklerle birlikte ısı hasarı için beş farklı yoğunluk verir. Tur başına verilen hasar, Hasar sütununda verilmiştir. Nispeten küçük olduklarından, Yoğunluk 1 ve 2 kaynakları hasarlarını tek bir Vuruş Konumuna (genellikle kaynakla temas eden yere) uygular. Yoğunluk 3 ve 4 kaynakları daha büyüktür ve radyant ısı derecesini belirterek en yakın 1d4+1 Vuruş Konumuna hasar uygular. Yoğunluk 5 kaynakları tüm Vuruş Konumlarını aynı anda etkiler.
 
-Yangın yanıcı malzemeleri tutuşturabilir. Hemen söndürülmezlerse, bu tür malzemeler yangının Yoğunluğuna göre belirtilen tur sayısı içinde tutuşur. Tutuştuğunda, yanıcı malzemeler fiziksel olarak söndürülene kadar yanar. Hasar doğrudan malzemenin Can Puanlarına, Zırh Puanları göz ardı edilerek ve altındaki herhangi bir ete uygulanır. Kontrolsüz bırakılırsa, Tur başına Yoğunluğuna eşit sayıda Vuruş Konumuna yayılır.
+Ateş, yanıcı malzemeleri tutuşturabilir. Hemen söndürülmezse, bu tür malzemeler ateşin Yoğunluğu ile belirtilen tur sayısı içinde yanmaya başlar. Bir kez tutuştuğunda, yanıcı malzemeler fiziksel olarak söndürülene kadar yanar. Hasar, Zırh Puanları göz ardı edilerek doğrudan malzemenin Vuruş Puanlarına ve altındaki ete uygulanır. Kontrolsüz bırakılırsa, Tur başına Yoğunluğuna eşit sayıda Vuruş Konumuna yayılır.
 
-##### Yangın Yoğunluğu Tablosu
+##### Ateş Yoğunluğu Tablosu
 
 | Yoğunluk | Örnekler | Tutuşma Süresi | Hasar |
 | :-: | :-- | :-: | :-: |
 | 1 | Mum | 1d4 | 1d2 |
 | 2 | Meşale | 1d3 | 1d4 |
-| 3 | Kamp Ateşi | 1d2 | 1d6 |
-| 4 | Odayı dolduran yangın | 1d2 | 2d6 |
+| 3 | Kamp ateşi | 1d2 | 1d6 |
+| 4 | Odayı kaplayan yangın | 1d2 | 2d6 |
 | 5 | Volkanik lav | Anında | 3d6 |
 
-Yangın tabanlı saldırılar genellikle tek bir Turda bittiği için yanıcı maddeleri tutuşturma şansına sahiptir. Aksi belirtilmedikçe, bu şans yangın tabanlı saldırılar için atılan hasar x%5, elektriksel saldırılar için ise atılan hasar x%1'dir. Bir kere tutuşan yanıcı maddeler, fiziksel olarak söndürülene kadar her Turda 1d3-1 hasar verir. Bu hasarı doğrudan malzemenin Can Puanlarına, Zırh Puanlarını göz ardı ederek ve altındaki herhangi bir ete uygulayın. Bir yaratığın doğal Zırhı, normal korumasını sunar. Kurban, yüzüstü düşerek ve başarılı bir Atletizm testi yaparak alevleri söndürmeyi deneyebilir, bu bir Eylem Puanı gerektirir ve her Turda denenebilir. Eğer başkaları alevleri bir şekilde söndürmeye yardım ederse, test bir Zorluk Derecesi daha kolaydır. Hasar testi sıfır hasarla sonuçlanırsa, yangın o konumda kendi kendine sönmüştür. Kendi kendine sönen her konum için, alevleri söndürme testi de bir Zorluk Derecesi daha kolaydır.
+Ateş tabanlı saldırılar genellikle tek bir Turda sona erdiği için yanıcı malzemeleri tutuşturma şansına sahiptir. Aksi belirtilmedikçe, bu şans ateş tabanlı saldırılar için atılan hasar x5% ve elektrikli saldırılar için atılan hasar x1% şeklindedir. Bir kez tutuştuğunda, yanıcı malzemeler fiziksel olarak söndürülene kadar her Tur 1d3-1 hasar verir. Bu hasarı, Zırh Puanlarını göz ardı ederek doğrudan malzemenin Vuruş Puanlarına ve altındaki ete uygulayın. Ancak, bir yaratığın doğal Zırhı normal korumasını sunar. Kurban, yere yatarak ve başarılı bir Atletizm zarı atarak alevleri boğmaya çalışabilir; bu bir Eylem Puanı gerektirir ve her Tur denenebilir. Başkaları alevleri bir şekilde söndürmeye yardım ederse, zar bir Zorluk Derecesi daha kolay olur. Hasar zarı sıfır hasar verirse, ateş o konumda kendi kendine sönmüştür. Kendi kendine sönen her konum için, alevleri boğma zarı da bir Zorluk Derecesi daha kolay olur.
 
 ---
 ## Oyun Zamanı
 
-_Mythras Imperative_'da zaman önemli bir faktördür, çoğunlukla neyin hangi sırayla olduğunu belirlemek için, böylece oyun mekanikleri gerektiğinde uygulanır. Oyun içi zamanın genellikle oynayarak geçirilen zamana eşit olmadığını unutmayın. Bazen, Oyun Yöneticisi birçok günün olaylarını tek bir cümleyle özetlemesi gerekebilir, örneğin 'Kale Anthrax'a ulaşmanız bir hafta sürer' derken, başka zamanlarda, özellikle savaş sırasında, sadece birkaç saniyelik eylemlerin çözülmesi birkaç dakika veya daha uzun sürebilir.
+_Mythras Imperative_'de zaman önemli bir faktördür, çoğunlukla neyin hangi sırada gerçekleşeceğini belirlemek için, böylece oyun mekanikleri olması gerektiği zaman uygulanır. Oyun içi zamanın genellikle oynanan zamanla eşdeğer olmadığını unutmayın. Bazen Oyun Yöneticisinin 'Castle Anthrax'a ulaşmanız bir hafta sürüyor' gibi birçok günün olaylarını tek bir cümlede özetlemesi gerekebilir, bazen de özellikle çatışma sırasında sadece birkaç saniyelik zamanın eylemlerinin çözülmesi birkaç dakika veya daha uzun sürebilir.
 
 Oyun zamanının önemli ayrımları şunlardır:
 
-#### Savaş Turları
+#### Çatışma Turları (Combat Rounds)
 
-Bir Savaş Turu beş saniye gerçek zamanı temsil eder. Bunlar, anları tamamlayan kısa, çılgın aktivite patlamalarını veya vuruş vuruş çözümlenmesini gerektiren çok detaylı aktiviteleri ölçmek için kullanılır. Örneğin, avcı ve av arasındaki bir kovalamaca, her Turun takibin dönemeçlerini ve dönüşlerini belirlediği bir durumdur.
+Bir Çatışma Turu, gerçek zamanın beş saniyesini temsil eder. Tamamlanması anlar alan kısa, telaşlı aktivite patlamalarını ölçmek veya darbe darbe çözümleme gerektiren çok ayrıntılı faaliyetleri ölçmek için kullanılırlar. Örneğin, her turun kovalamacanın kıvrımlarını ve dönüşlerini belirlediği avcı ve av arasındaki bir kovalamaca.
 
-#### Beceri Süresi
+#### Beceri Zamanı (Skill Time)
 
-Beceri Süresi birkaç dakikadan birkaç saate kadar sürebilir ve Savaş Turu'nun detaylı dikkatini gerektirmeyen, ancak belirli bir çaba gerektiren ve kesin bir sonucu olan aktiviteleri ölçmek için kullanılır. Bir kilit açmak beş dakika sürebilirken, bir kalenin duvarları etrafındaki gardiyan ekiplerinin devriyelerini gözlemlemek birkaç saat gerektirebilir ve her ikisi de Beceri Süresi örnekleridir.
+Beceri Zamanı, birkaç dakikadan birkaç saate kadar olan süreyi temsil eder ve bir Çatışma Turunun ayrıntılı dikkatini gerektirmeyen ancak kesin bir sonuçla belirli bir çaba gerektiren faaliyetleri ölçmek için kullanılır. Bir kilidi açmak beş dakika alabilirken, bir kalenin duvarları etrafındaki muhafız ekiplerinin yaptığı devriyeleri gözlemlemek birkaç saat gerektirebilir ve her ikisi de Beceri Zamanı örneğidir.
 
-#### Anlatı Zamanı
+#### Anlatım Zamanı (Narrative Time)
 
-Bu, Oyun Yöneticisi'nin oyunculara anlatım yaptığı veya oyuncuların tartıştığı zaman dilimidir. Özel bir neden olmadıkça, çoğu gerçek rol yapma anlatı zamanında gerçekleşir. Rol yaparken, anlatı zamanı gerçek zamanı andırır, burada bir konuşma oynaması kadar sürer. Bir oyun oturumu uzun seyahatler veya kesin zamanın önemli olmadığı faaliyet dönemleri içeriyorsa, zaman büyük ölçüde oyun zamanının birkaç anına sıkıştırılır.
+Bu, Oyun Yöneticisinin oyunculara anlattığı veya oyuncuların tartıştığı sırada geçen süredir. Belirli bir neden olmadıkça, gerçek rol yapma faaliyetlerinin çoğu anlatım zamanında gerçekleşir. Rol yaparken, anlatım zamanı gerçek zamana benzer; bir konuşma, onu yapmak ne kadar sürerse o kadar zaman alır. Bir oyun oturumu uzun süreli seyahatleri veya kesin zamanın esas olmadığı faaliyet dönemlerini içeriyorsa, zaman birkaç oyun zamanı anına büyük ölçüde sıkıştırılır.
+
 
 ---
 ## Vuruş Konumları
 
-Çoğu başarılı (silah) saldırısı belirli bir Vuruş Konumuna isabet eder. Bu rastgele belirlenebilir veya bazı durumlarda Konum Seçimi gibi Özel Efektlerle seçilebilir. Hangi konuma isabet edildiğini rastgele hesaplamak için, 1d20 atın ve atılan sayıyı ilgili insansı veya yaratık Vuruş Konumu tablosuyla karşılaştırın.
+Çoğu başarılı (silah) saldırı belirli bir Vuruş Konumuna isabet eder. Bu rastgele belirlenebilir veya bazı durumlarda Konum Seç (Choose Location) gibi Özel Efektler tarafından seçilebilir. Hangi konuma vurulduğunu rastgele hesaplamak için 1d20 atın ve atılan sayıyı ilgili insansı veya yaratık Vuruş Konumu tablosuyla karşılaştırın.
 
-Hayvanlar ve canavarlar, kendi benzersiz fizyolojilerini yansıtmak için genellikle insansılarınkinden biraz farklı Vuruş Konumu tablolarına sahiptir. Bunlar, her varlığın açıklamasının bir parçası olarak listelenir ve genellikle sadece Oyun Yöneticisi'nin işine yarar.
+Hayvanlar ve canavarlar, kendi benzersiz fizyolojilerini yansıtmak için genellikle insansılardan biraz farklı Vuruş Konumu tablolarına sahiptir. Bunlar, her varlığın tanımının bir parçası olarak listelenir ve genellikle sadece Oyun Yöneticisi için kullanışlıdır.
 
-İnsansı Vuruş Konumu tablosu, kolay referans olması için burada tekrarlanmıştır.
+İnsansı Vuruş Konumu tablosu, kolaylık olması için burada tekrarlanmıştır.
 
 ##### İnsansı Vuruş Konumları
 
@@ -233,96 +235,97 @@ Hayvanlar ve canavarlar, kendi benzersiz fizyolojilerini yansıtmak için genell
 | 16-18 | Sol Kol |
 | 19-20 | Baş |
 
-Bazı saldırıların, özellikle büyülü, teknolojik veya belirli canavarlar tarafından üretilenlerin (bir ejderhanın ateş püskürtmesi veya patlayan bir el bombası gibi), aynı anda birden fazla Vuruş Konumuna isabet edebileceğini unutmayın. Bireysel Vuruş Konumları, giyilen korumadan veya yaratığın dış yüzeyinin doğal sertliğinden dolayı zırhlı olabilir. Bu, aşağıdaki Hasar ve Yara Seviyeleri dikkate alındığında önemlidir.
+Bazı saldırıların, özellikle büyülü, teknolojik veya belirli canavarlar tarafından üretilenlerin (bir ejderhanın ateşli nefesi veya patlayan bir el bombası gibi), birkaç Vuruş Konumuna aynı anda vurabileceğini unutmayın. Bireysel Vuruş Konumları, ya giyilen korumadan ya da yaratığın dış yüzeyinin doğal sertliğinden dolayı zırhlı olabilir. Bu, aşağıdaki Hasar ve Yara Seviyeleri değerlendirilirken önemlidir.
+
 
 ---
 ## Hasar ve Yara Seviyeleri
 
-Bir saldırı başarılı bir şekilde isabet ederse, silahın hasar derecesine göre hasar verir. Örneğin, kısa bir kılıç 1d6 hasar verir.
+Eğer bir saldırı başarılı bir şekilde isabet ederse, silahın hasar değerine göre hasar verir. Örneğin, kısa kılıç 1d6 hasar verir.
 
-Silah veya saldırı için atılan hasar, belirli aşağıdaki sıraya göre belirli koşullarla değiştirilir:
+Silah veya saldırı için atılan hasar, belirli koşullarda aşağıdaki sırayla değiştirilir:
 
-1. Saldırıyı yapan karakterin Hasar Değiştiricisini uygulayın.
-2. Silahı güçlendiren (veya azaltan) herhangi bir büyünün hasarını değiştirin.
-3. Eğer savuşturulduysa, karşılaştırmalı silah boyutlarına göre hasarı uygun şekilde azaltın.
-4. Vuruş Konumu zırhlıysa, hasarı Zırh Puanı değeri kadar azaltın.
+1. Saldırıyı yapan karakter için Hasar Değiştiricisini uygulayın.
+2. Hasarı artıran (veya azaltan) herhangi bir büyünün hasarını değiştirin.
+3. Eğer savuşturulduysa (parry), karşılaştırmalı silah boyutlarına göre hasarı uygun şekilde azaltın.
+4. Eğer Vuruş Konumu zırhlıysa, hasarı Zırh Puanı değeri kadar azaltın.
 
-Saldırının verdiği hasar sıfırın üzerindeyse, Vuruş Konumu o miktarda hasarı alır ve toplam hasar hemen konumun Can Puanlarından düşülür. Konumun kaç Can Puanı kaldığını ve ortaya çıkan yara kategorisini not alın.
+Saldırının verdiği hasar sıfırın üzerindeyse, Vuruş Konumu o miktarda hasar alır ve hasar toplamı konumun Vuruş Puanlarından hemen düşülür. Konumun kaç Vuruş Puanı kaldığını ve sonuçlanan yara kategorisini not edin.
 
-- **Küçük Yara:** Vuruş Konumu hala pozitif Can Puanına sahip
-- **Ciddi Yara:** Vuruş Konumu sıfır Can Puanına veya altına düşürülmüş.
-- **Büyük Yara:** Vuruş Konumu başlangıçtaki Can Puanlarına eşit veya daha büyük bir negatif puana düşürülmüş
+- **Hafif Yara (Minor Wound):** Vuruş Konumunun hala pozitif Vuruş Puanı var
+- **Ciddi Yara (Serious Wound):** Vuruş Konumu sıfır Vuruş Puanına veya altına düşer.
+- **Ağır Yara (Major Wound):** Vuruş Konumu, başlangıçtaki Vuruş Puanlarına eşit veya daha büyük negatif bir puana düşer
 
-Bir konum Ciddi veya Büyük Yara aldığında aşağıdaki kuralları kullanın. Dayanıklılık testlerini gerektiren yaraların, orijinal saldırı atışının değerine karşı Zıt bir Testte yapıldığını unutmayın. Bu, son derece yetenekli savaşçıların daha ölümcül vuruşlar yapma yeteneğini yansıtır. Dayanıklılık testleri, konum tekrar yaralanmadıkça tekrarlanmaz.
+Bir konum Ciddi veya Ağır Yara alırsa aşağıdaki kuralları kullanın. Dayanıklılık zarları gerektiren yaraların, bunları orijinal saldırı zarının değerine karşı Karşıt Zarda test ettiğini unutmayın. Bu, yüksek yetenekli savaşçıların daha ölümcül darbeler indirme yeteneğini yansıtır. Dayanıklılık zarları, konum tekrar yaralanmadıkça tekrarlanmaz.
 
-### Küçük Yara
+### Hafif Yara
 
-Küçük yaralar kesikler, çizikler, morluklar ve burkulmalardır. Acıtır, kanayabilir, ancak kurbanı yavaşlatacak veya engelleyecek kadar önemli değildir.
+Hafif yaralar kesikler, çizikler, morluklar ve burkulmalardır. Acıtırlar, kanayabilirler ancak kurbanı yavaşlatacak veya engelleyecek kadar önemli değildirler.
 
 ### Ciddi Yara
 
-Bir konum sıfır Can Puanına veya altına düşürülürse, kurban Ciddi Bir Yara alır. Konum kalıcı olarak yaralanır ve kurban yaranın acısıyla şaşkına döndüğü veya dikkatini dağıttığı için sonraki 1d3 Tur boyunca saldıramaz veya büyü yapmaya başlayamaz (ancak yine de Savuşturabilir veya Kaçabilir).
+Bir konum sıfır Vuruş Puanına veya altına düşerse, kurban Ciddi bir Yara alır. Konum kalıcı olarak yara alır ve kurban, acıdan dolayı sersemlediği veya dikkati dağıldığı için sonraki 1d3 Tur boyunca saldıramaz veya büyü yapmaya başlayamaz (ancak yine de Savuşturabilir veya Kaçınabilir).
 
-Bir uzvuna Ciddi Yara alan bir karakter, düşmanının başarılı saldırı atışına karşı Dayanıklılığını hemen bir Zıt Test yapmalıdır. Başarısızlık, uzvun, konum pozitif Can Puanlarına dönene kadar işe yaramaz hale gelmesiyle sonuçlanır. Eğer bacaksa, kurban yere düşer. Eğer kol ise, tutulan ne varsa düşer, nesne bağlı değilse (burada sağduyu kullanın).
+Bir uzuvdan Ciddi Yara alan bir karakter, derhal düşmanının başarılı saldırı zarına karşı kendi Dayanıklılık zarıyla bir Karşıt Zar atmalıdır. Başarısızlık, konum pozitif Vuruş Puanlarına geri döndürülene kadar uzvun işe yaramaz hale gelmesiyle sonuçlanır. Eğer bir bacaksa, kurban yere yığılır. Eğer bir kol ise, tutulan nesne (eğer kayışla bağlı değilse - burada sağduyulu olun) düşer.
 
-Karnına, göğsüne veya başına Ciddi Yara alan bir karakter, düşmanının başarılı saldırı atışına karşı Dayanıklılığını hemen bir Zıt Test yapmalıdır. Başarısızlık, Ciddi Yara'ya neden olan saldırıda alınan hasar miktarı kadar dakika boyunca bilinç kaybıyla sonuçlanır. İlk Yardım veya Şifa becerileri, bilinçsiz bir kurbanın bilincine geri dönmesine yardımcı olmak için kullanılabilir.
+Karın, göğüs veya baştan Ciddi Yara alan bir karakter, derhal düşmanının başarılı saldırı zarına karşı kendi Dayanıklılık zarıyla bir Karşıt Zar atmalıdır. Başarısızlık, Ciddi Yaraya neden olan saldırıda alınan hasar miktarına eşit dakika kadar bilinç kaybıyla sonuçlanır. İlk Yardım veya İyileştirme becerileri, bilinçsiz bir kurbanın bilincini geri kazanmasına yardımcı olmak için kullanılabilir.
 
-Oyun Yöneticisi'nin takdirine bağlı olarak, karakter işlevsel kalsa bile, o Vuruş Konumunu kullanmayı gerektiren tüm görevler, yaralanma Küçük Yara seviyesine inene kadar bir Zorluk Derecesi sürekli bir ceza çeker.
+Oyun Yöneticisinin takdirine bağlı olarak, karakter işlevsel kalsa bile, o Vuruş Konumunun kullanılmasını gerektiren tüm görevler, yaralanma Hafif Yaraya düşürülene kadar sürekli bir Zorluk Derecesi cezası çeker.
 
-### Büyük Yara
+### Ağır Yara
 
-Bir konum, başlangıçtaki Can Puanlarına eşit veya daha büyük negatif bir puana düşürülürse, karakter Büyük Bir Yara alır. Karakter hemen İşlevsiz hale gelir ve savaşmaya devam edemez. Bir uzuv, Büyük Bir Yara tarafından kesilir, delinir, paramparça edilir veya koparılır. Karakter yere düşer, fiziksel olarak İşlevsiz hale gelir ve düşmanının başarılı saldırı atışına karşı Dayanıklılığını hemen bir Zıt Test yapmalıdır. Başarısızlık, acıdan kaynaklanan bilinç kaybıyla sonuçlanır. Eğer kesilen, delinen veya kopan bir konum, İyileşme Oranının beş katına eşit dakika sayısı içinde tedavi edilmezse, karakter kan kaybından ve şoktan ölür.
+Bir konum, başlangıçtaki Vuruş Puanlarına eşit veya daha büyük negatif bir puana düşerse, karakter Ağır bir Yara alır. Karakter derhal Aciz (Incapacitated) kalır ve savaşmaya devam edemez. Bir uzuv, Ağır bir Yara ile kesilir, delinir, parçalanır veya koparılır. Karakter yere yığılır, fiziksel olarak Aciz kalır ve derhal düşmanının başarılı saldırı zarına karşı Dayanıklılık Karşıt Zarı atmalıdır. Başarısızlık, acıdan dolayı bilinç kaybıyla sonuçlanır. Kesilen, delinen veya kopan bir konum, İyileşme Hızının beş katına eşit dakika içinde tedavi edilmezse, karakter kan kaybı ve şoktan ölür.
 
-Karnına, göğsüne veya başına Büyük Yara alan kurban bilinçsizce, tamamen İşlevsiz halde yere düşer ve düşmanının başarılı saldırı atışına karşı Dayanıklılığını hemen bir Zıt Test yapmalıdır. Başarısızlık, anında ve acımasız bir ölümle sonuçlanır (kafasının kesilmesi, ikiye bölünmesi, kalbinden delinmesi, parçalanması vb.). Eğer hayatta kalırlarsa ve konum, karakterin İyileşme Oranının iki katına eşit Savaş Turu sayısı içinde tedavi edilmezse, yine de kan kaybından ve şoktan ölürler.
+Karın, göğüs veya baştan Ağır Yara alan kurban bilincini kaybeder, tamamen Aciz kalır ve derhal düşmanının başarılı saldırı zarına karşı Dayanıklılık Karşıt Zarı atmalıdır. Başarısızlık, anında ve acımasız bir ölümle (kafası kesilmiş, ikiye bölünmüş, kalbinden şişlenmiş, parçalanmış vb.) sonuçlanır. Eğer hayatta kalırlarsa ve konum karakterin İyileşme Hızının iki katına eşit Çatışma Turu içinde tedavi edilmezse, yine de kan kaybı ve şoktan ölürler.
 
-Çoğu Büyük Yara, iyileşmek için bir tür cerrahi veya önemli büyü gerektirdiğinden, acı çekenin savaşa yeniden katılmak için Büyük Yara'dan zamanında iyileşmesi pek olası değildir. Mevcut tedaviye bağlı olarak, yaralanan konum potansiyel olarak sakat kalacaktır (aşağıdaki [Yaralanmalardan İyileşme](0004_Game_System.md?id=healing-from-injury) bölümüne bakınız).
+Çoğu Ağır Yara iyileşmek için bir tür cerrahi veya önemli bir büyü gerektirdiğinden, acı çekenin savaşa geri dönmek için Ağır Yaradan iyileşmesi pek olası değildir. Mevcut tedaviye bağlı olarak, yaralı konum potansiyel olarak sakat kalacaktır (aşağıdaki [Yaralanmadan İyileşme](0004_Game_System.md?id=healing-from-injury) bölümüne bakın).
 
 ### Kan Kaybı
 
-Genellikle savaşta alınan dış ve iç yaralardan kaynaklanan Kan Kaybı, bir karakteri çok hızlı bir şekilde yıpratabilir. Etkileri, Asfiksi gibi Yorgunluk seviyelerinin birikimiyle ölçülür. Kontrolsüz Kan Kaybı, bir tür tıbbi müdahale olmadan genellikle ölümle sonuçlanır. Asfiksi'nin aksine, ciddi Kan Kaybının Yorgunluk üzerindeki etkileri kalıcıdır. Bir karakter, kanamasının durduğu günden sonra, günde bir seviye oranında kanamadan kaybettiği Yorgunluğu geri kazanır.
+Genellikle çatışmalarda meydana gelen dış ve iç yaralardan kaynaklanan Kan Kaybı, bir karakteri çok çabuk yıpratabilir. Etkileri, tıpkı Boğulma gibi Yorgunluk seviyelerinin birikmesiyle ölçülür. Dizginlenmemiş Kan Kaybı genellikle tıbbi müdahale olmaksızın ölümle sonuçlanır. Boğulmanın aksine, ciddi Kan Kaybının Yorgunluk üzerindeki etkileri kalıcıdır. Bir karakter, kanaması durduktan sonraki günden başlayarak, günde bir seviye oranında kanamadan dolayı kaybettiği Yorgunluğu geri kazanır.
 
-### Kahramanca Son Hareketler
+### Kahramanca Son Eylemler
 
-Anahtar karakterlerin Büyük Yara aldığı özel durumlarda, Oyun Yöneticisi kahramanca bir son harekete izin verebilir - örneğin son bir büyü yapmak, katilini indirmeye çalışmak, saklanmak için sürünmek veya kendi yarasını sarmaya çalışmak gibi. Eylem için uygulanabilir çalışan uzuvlara sahip olmalı ve bir Şans Puanı yakmalıdır. Eylemlerini denemek için tek bir fırsat elde ederler ve ardından hemen bilincini kaybeder ve muhtemelen ölürler.
+Kilit karakterlerin Ağır Yara aldığı özel durumlarda, Oyun Yöneticisi kahramanca bir son eyleme – son bir büyü püskürtmek, katillerini devirmeye çalışmak, gizlenmek için sürünmek veya kendi yaralarına turnike yapmaya çalışmak gibi – izin verebilir. Eylem için çalışan uzuvlara sahip olmaları ve bir Şans Puanı (Luck Point) harcamaları gerekir. Eylemlerini denemek için tek bir fırsatları olur ve ardından derhal bilinçsizliğe ve muhtemel ölüme sürüklenirler.
 
 ---
-## Yaralanmalardan İyileşme
+## Yaralanmadan İyileşme
 
-Yara ve yaralanmalardan doğal iyileşme, karakterin İyileşme Oranına dayanır. İyileşme Oranı, yaranın niteliğine bağlı olarak bir konumda kaç Can Puanının geri kazanılacağını belirler:
+Yaralardan ve sakatlanmalardan doğal iyileşme, karakterin İyileşme Hızına (Healing Rate) dayanır. İyileşme Hızı, yaralanmanın doğasına bağlı olarak bir konumda kaç Vuruş Puanının geri kazanılacağını belirler:
 
-- **Küçük Yaralar:** Günler
+- **Hafif Yaralar:** Günler
 - **Ciddi Yaralar:** Haftalar
-- **Büyük Yaralar:** Aylar
+- **Ağır Yaralar:** Aylar
 
-Böylece, 3 İyileşme Oranı olan bir karakter, bir Vuruş Konumunda kendisini -3'e düşüren bir hasar, yani Ciddi bir Yara alırsa, yarası sıfırın üzerine çıkana kadar haftada 3 Can Puanı oranında doğal olarak iyileşir ve ardından tamamen iyileşene kadar günde 3 Can Puanı iyileşir.
+Bu nedenle, İyileşme Hızı 3 olan ve bir Vuruş Konumunda -3'e düşerek Ciddi Yara alan bir karakter, yarası sıfırın üzerine çıkana kadar haftada 3 Vuruş Puanı ve ardından tamamen iyileşene kadar günde 3 Vuruş Puanı oranında doğal olarak iyileşecektir.
 
 Doğal iyileşmede belirli kısıtlamalar vardır:
 
-- İyileşen karakter yorucu aktivitelere giremez; aksi takdirde, İyileşme Oranı 1d3 azalır. Dolayısıyla, Küçük Bir Yara'dan iyileşen bir karakter bile, yaralarını kötüleştirebilecek herhangi bir fiziksel göreve girişmeye karar verirse ilerlemesinin durduğunu görebilir.
-- Doğal iyileşme, kurban başarılı bir Şifa testiyle tedavi edilene veya bir tür iyileştirme büyüsü yapılana kadar Büyük Bir Yara'yı iyileştirmeye başlamaz. İyileşme becerisinin yirmide birine eşit gün sayısı içinde tedavi edilmeyen, uzuv koparmayan Büyük Yaralar sakat kalır ve konumun Can Puanlarını kalıcı olarak azaltır.
+- İyileşen karakter ağır fiziksel aktiviteye giremez: aksi takdirde, İyileşme Hızı 1d3 kadar azalır. Bu nedenle, Hafif bir Yaradan bile iyileşen bir karakter, yaralanmaları şiddetlendirebilecek herhangi bir fiziksel göreve girmeye karar verirse ilerlemesinin durduğunu görebilir.
+- Doğal iyileşme, kurban başarılı bir İyileştirme zarı ile tedavi edilene veya bir tür iyileştirme büyüsü yapılana kadar Ağır bir Yarayı iyileştirmeye başlamayacaktır. İyileştirme becerisinin yirmide birine eşit gün sayısı içinde tedavi edilmeyen, uzuv kopması içermeyen Ağır Yaralar sakat kalır ve konumun Vuruş Puanlarını kalıcı olarak azaltır.
 
 ---
 ## Cansız Nesneler
 
-Tüm cansız nesneler, hasara ve yıkıma karşı direnci belirlemek için kullanılan Zırh Puanlarına ve Can Puanlarına sahiptir. Zırh Puanları, Can Puanları etkilenmeden önce hasarı azaltır. Bir nesnenin Can Puanları sıfıra düştüğünde, kullanılamaz hale gelir.
+Tüm cansız nesneler, hasara ve yıkıma karşı direnci belirlemek için kullanılan Zırh Puanlarına ve Vuruş Puanlarına sahiptir. Zırh Puanları, Vuruş Puanları etkilenmeden önce hasarı azaltır. Bir nesnenin Vuruş Puanları sıfıra düştüğünde, işe yaramaz hale gelir.
 
-Kırma girişimleri, hasar vermek için karakterin Güç, Silahsız veya Savaş Stili testi yapmasını gerektirir. Başarılı bir test, eşyaya hasar verir.
+Kırma girişimleri, karakterin hasar vermek için uygun şekilde Güç, Silahsız veya Dövüş Stili zarı atmasını gerektirir. Bir başarı, öğeye hasar verir.
 
-#### Silahlar ve Cansız Nesneler
+#### Silahlar vs Cansız Nesneler
 
-Zırh Puanları silahınkine eşit veya daha fazla olan cansız bir nesneye karşı silah kullanmak, hem nesneye hem de silaha hasar verir. Örneğin, demir bir kapıya balta kullanmak kapıya hasar verebilir, ancak balta demir kapıdan çok önce yok olacaktır. Oyun Yöneticisi, hangi silahların veya aletlerin hangi nesneleri etkileyebileceği konusunda takdir yetkisi kullanmalıdır. Örneğin, bir keski ahşap veya taşı oymak için özel olarak tasarlanmıştır, oysa bir kılıç keskin olsa da öyle değildir. Bu nedenle keski, oyduğu şeyden hasar almazken, bir kılıç büyük olasılıkla hasar alacaktır.
+Bir silaha eşit veya ondan daha yüksek Zırh Puanına sahip cansız bir nesneye karşı silah kullanmak, hem nesneye hem de silaha hasar verir. Örneğin, demir bir kapıda balta kullanmak kapıya hasar verebilir, ancak balta demir kapıdan çok önce yok olacaktır. Oyun Yöneticisi, hangi silahların veya aletlerin hangi nesneleri etkileyebileceği konusunda takdir yetkisini kullanmalıdır. Örneğin, bir keski ahşap veya taşı oymak için özel olarak tasarlanmıştır, ancak bir kılıç keskin olsa da öyle değildir. Bu nedenle keski, oymaya çalıştığı şeyden hasar almazken, bir kılıç büyük olasılıkla alacaktır.
 
 ##### Cansız Nesneler Tablosu
 
-| Nesne | Zırh / Can Puanları |
+| Nesne | Zırh / Vuruş Puanı |
 | :-- | :-: |
 | Kale Kapısı | 8/150 |
 | Kale Duvarı | 10/500 |
-| Zincir/Kelepçe | 8/8 |
+| Zincir/Pranga | 8/8 |
 | Demir Direk | 8/15 |
 | Cam Pencere | 1/4 |
 | Demir Kapı | 12/30 |
-| İp | 6/3 |
+| Halat | 6/3 |
 | Ahşap Sandalye | 4/15 |
 | Tuğla Duvar | 6/30 |
 | Beton Duvar | 8/40 |
@@ -330,29 +333,29 @@ Zırh Puanları silahınkine eşit veya daha fazla olan cansız bir nesneye kar�
 | Kurşun Geçirmez Cam | 8/25 |
 | Çelik Kiriş | 12/50 |
 | Zırhlı Personel Taşıyıcı | 10/50 |
-| Savaş Tankı | 15/100 |
+| Muharebe Tankı | 15/100 |
 | Kamyon/Ekskavatör | 8/40 |
 | Ağaç Gövdesi | 6/50 |
 
 ---
-## Şans Puanları
+## Şans Puanları (Luck Points)
 
-Şans Puanları kahramanları sıradan askerlerden ayırmaya yardımcı olur. Bir karakterin potansiyel olarak başarısızlığı başarıya dönüştürme ve hatta ölümü atlatma yeteneğini temsil ederler.
+Şans Puanları, kahramanları sıradan kişilerden ayırmaya yardımcı olur. Karakterin başarısızlığı başarıya dönüştürme ve hatta ölümden kurtulma yeteneğini temsil ederler.
 
-Şans Puanları oyun sırasında kullanılabilir ve bir sonraki seansın başında normal değerlerine yenilenir.
+Şans Puanları oyun sırasında kullanılabilir ve bir sonraki oturumun başında normal değerlerine geri dönerler.
 
 #### Şans Puanlarını Kullanma
 
-Şans Puanları çeşitli şekillerde kullanılabilir. Belirli bir Eylemi desteklemek için sadece bir Şans Puanı kullanılabilir. Şans Puanları Deneyim veya Eğitim testleri için harcanamaz. Aşağıdaki seçeneklerin her biri tek bir Şans Puanı maliyetindedir.
+Şans puanları çeşitli şekillerde kullanılabilir. Belirli bir Eylemi desteklemek için yalnızca bir Şans Puanı kullanılabilir. Şans Puanları Tecrübe veya Eğitim zarları için harcanamaz. Aşağıdaki seçeneklerin her biri tek bir Şans Puanına mal olur.
 
-#### Kaderi Kandırmak
+#### Kaderi Hileyle Değiştir (Cheat Fate)
 
-Karakterler, yaptıkları herhangi bir zar atışını (örneğin 75, 57 olurdu) tekrar atmak veya değiştirmek için bir Şans Puanı kullanabilir. Bu bir beceri testi, hasar testi veya bir etkisi olan herhangi bir şey olabilir. Karakterler, rakiplerine karşı yapılan bir saldırı veya hasar testini bile tekrar attırabilir.
+Karakterler, yaptıkları herhangi bir zar atışını yeniden atmak veya değiştirmek (örneğin, 75, 57 olabilir) için bir Şans Puanı kullanabilirler. Bu bir beceri zarı, hasar zarı veya başka bir etkisi olan herhangi bir şey olabilir. Karakterler, rakiplerini kendilerine karşı yapılan bir saldırı veya hasar zarını yeniden atmaya bile zorlayabilirler.
 
-#### Umutsuz Çaba
+#### Çaresiz Çaba (Desperate Effort)
 
-Bir karakterin bir dövüş sırasında Eylem Puanları tükenmişse ve belki de kötü bir sondan kaçınmak için son bir umutsuz enerji patlaması bulması gerekiyorsa, ek bir Eylem Puanı kazanmak için bir Şans Puanı harcayabilir.
+Eğer bir karakter bir dövüş sırasında Eylem Puanlarını tüketmişse ve belki de kötü bir sonu önlemek için o son çaresiz enerji patlamasını bulması gerekiyorsa, ek bir Eylem Puanı kazanmak için bir Şans Puanı harcayabilirler.
 
-#### Hasarı Hafifletmek
+#### Hasarı Azalt (Mitigate Damage)
 
-Büyük Yara alan bir karakter, yaralanmayı Ciddi Bir Yara'ya düşürmek için bir Şans Puanı harcayabilir. Bu, alınan hasarı Büyük Yara vermek için gereken hasardan bir Can Puanı daha aza indirir.
+Ağır bir Yara alan bir karakter, yaralanmayı Ciddi Yaraya düşürmek için bir Şans Puanı harcayabilir. Bu, alınan hasarı Ağır bir Yara vermek için gerekenden bir Vuruş Puanı daha aza indirir.
