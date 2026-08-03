@@ -1,62 +1,62 @@
-# Mythras Imperative - Sistemski vir
+# Mythras Imperative System Resource Document
 
 ---
 ## Uvod
 
-_Mythras Imperative_ je odprta različica pravilnika _Mythras_ z licenco ORC. Ta dokument ponuja obsežen, vendar ne izčrpen nabor pravil, vključno z ustvarjanjem likov, spretnostmi, pravili za določene tipične situacije, bojem in magijo – več kot dovolj, da se tako igralci kot igralni mojstri (Games Masters) lahko začnejo igrati in postavijo trdne temelje za nadaljnji razvoj. _Mythras Imperative_ je združljiv z osrednjimi pravili igre Mythras in drugimi percentilnimi igralnimi sistemi z licenco ORC. Njegov spremljevalni zvezek, _Classic Fantasy Imperative_, je prav tako popoln pomen združljiv in izdan pod licenco ORC, kar pomeni, da je mogoče oba priročnika Imperative enostavno združiti.
+_Mythras Imperative_ je odprta, z licenco ORC podprta različica sistema pravil _Mythras_. Ta dokument ponuja celovit, čeprav ne izčrpen nabor pravil, vključno z ustvarjanjem likov, veščinami, pravili za določene tipične situacije, bojem in magijo – več kot dovolj, da igralci in igralni mojstri (Games Masters) začnejo in postavijo trdno podlago za nadaljnji razvoj. _Mythras Imperative_ je združljiv s temeljnimi pravili _Mythras_ in drugimi sistemi, ki temeljijo na odstotkovnem sistemu in imajo licenco ORC. Njegov spremljevalni zvezek, _Classic Fantasy Imperative_, je prav tako popolnoma združljiv in izdan pod licenco ORC, kar pomeni, da lahko oba sistema Imperative zlahka združite.
 
-Prevodi, ki niso v angleščini, so narejeni z umetno inteligenco. Prispevki skupnosti so dobrodošli!
+Prevodi v jezike, ki niso angleščina, so narejeni s pomočjo umetne inteligence. Prispevki skupnosti so dobrodošli!
 
 ---
 ## Licenciranje ORC
 
-_Mythras Imperative_ je izdan z uporabo licence ORC. Licenca ORC ustvarjalcem iger omogoča, da odkrito delijo mehaniko svoje igre, uporabnikom nadaljnjih različic pa omogoča prosto uporabo, spreminjanje in ponovno deljenje priredb teh igralnih mehanik.
+_Mythras Imperative_ je objavljen z uporabo licence ORC. Licenca ORC ustvarjalcem iger omogoča odprto deljenje mehanik svojih iger in uporabnikom omogoča prosto uporabo, spreminjanje in ponovno deljenje priredb teh igralnih mehanik.
 
-Tisto, kar je javno deljeno v okviru licence ORC, je znano kot _**licencirano gradivo**_ (_Licensed Material_) in vključuje širše funkcionalne elemente igre, kot so bloki s statistiko, pravila igre, atributi likov ter metode in sistemi, ki so lastni igranju igre, pa tudi vse drugo, kar licenzator izrecno želi deliti. Licenca je obsežna in vam omogoča globalno uporabo licenciranega gradiva v povezavi s tiskanimi knjigami, video igrami, podcasti, umetno inteligenco ali katero koli drugo tehnologijo, ki obstaja ali bo ustvarjena v prihodnosti. Velika večina vsebine v _Mythras Imperative_ predstavlja licencirano gradivo.
+Tisto, kar se v okviru ORC deli odprto, je znano kot _**Licensed Material**_ (licencirano gradivo) in vključuje široke funkcionalne elemente igre, kot so bloki s statistiko, pravila igre, lastnosti likov ter metode in sisteme, ki so neločljivo povezani z igranjem igre, pa tudi vse ostalo, kar želi dajalec licence izrecno deliti. Licenca je široka in vam omogoča globalno uporabo licenciranega gradiva v povezavi s tiskanimi knjigami, videoigrami, podkasti, umetno inteligenco ali katero koli drugo tehnologijo, ki obstaja ali bo ustvarjena v prihodnosti. Velika večina vsebine, ki jo najdete v _Mythras Imperative_, predstavlja licencirano gradivo.
 
-Tisto, kar _ni_ deljeno v okviru licence ORC, je znano kot _**pridržano gradivo**_ (_Reserved Material_) in vključuje blagovne znamke, svetovno mitologijo, zgodbene loke, značilne likov in vizualno umetnost. Pridržano gradivo smo navedli v spodnjem obvestilu ORC.
+Tisto, kar _ni_ deljeno v okviru ORC, je znano kot _**Reserved Material**_ (pridržano gradivo) in vključuje blagovne znamke, svetovno izročilo, zgodbene loke, prepoznavne like in vizualno umetnost. Pridržano gradivo smo navedli v obvestilu ORC spodaj.
 
-V skladu z licenco ORC lahko uporabljate, delite, prirejate in nadgrajujete licencirano gradivo, kolikor se vam zdi primerno, če le ustrezno navedete vir v obliki obvestila v svojem objavljenem delu. To obvestilo hkrati priznava zasluge licenzatorjem višje stopnje in njihov prispevek k delu ter uporabnikom spodnjih stopenj omogoča preprost način, da navedejo avtorja dela, v katerem se obvestilo pojavi. Z uporabo gradiva, licenciranega pod licenco ORC, samodejno soglašate, da boste mehaniko svoje igre v svojem objavljenem delu licencirali pod enakimi pogoji. Če razvijete lastno pridržano gradivo, je to vaša izključna lastnina.
+V skladu z licenco ORC lahko licencirano gradivo uporabljate, delite, prilagajate in nadgrajujete, kakor se vam zdi primerno, pod pogojem, da v svojem objavljenem delu ustrezno navedete vir v obliki obvestila. To obvestilo tako prizna avtorstvo prvotnim dajalcem licence in njihov prispevek k delu kot tudi uporabnikom omogoča preprost način za navedbo avtorja dela, v katerem se obvestilo pojavi. Z uporabo gradiva, licenciranega pod ORC, se samodejno strinjate, da boste svoje igralne mehanike v svojem objavljenem delu licencirali pod enakimi pogoji. Če razvijete lastno pridržano gradivo, je to vaša izključna lastnina.
 
 ---
 #### Obvestilo ORC
 
-_Mythras Imperative_ je licenciran pod licenco ORC, ki se nahaja v Knjižnici Kongresa in je na voljo na spletu na različnih lokacijah, vključno s [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) in drugimi.
+_Mythras Imperative_ je licenciran pod licenco ORC, ki se nahaja v Kongresni knjižnici in je na spletu dostopna na različnih lokacijah, vključno s [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) in drugimi.
 
-Vse garancije so zavrnjene, kot je določeno v nadaljevanju.
+Vsa jamstva so zavrnjena, kot je določeno v licenci.
 
 ---
-#### Priznanje avtorstva (Atribucija)
+#### Navedba avtorstva
 
 Ta izdelek temelji na naslednjem pridržanem gradivu:
 
-_Mythras_, The Design Mechanism, avtorske pravice 2016, napisala Pete Nash in Lawrence Whitaker
+_Mythras_, The Design Mechanism, avtorske pravice 2016, napisala Pete Nash in Lawrence Whitaker.
 
-Če v svojih objavljenih delih uporabljate naše licencirano gradivo, nam pripišite zasluge na naslednji način:
+Če v svojih objavljenih delih uporabljate naše licencirano gradivo, nas prosimo navedite takole:
 
-_Temelji na Mythras Imperative, napisal sta Pete Nash in Lawrence Whitaker, izdalo pa The Design Mechanism, avtorske pravice 2023_
+_Na podlagi Mythras Imperative, napisala Pete Nash in Lawrence Whitaker, založba The Design Mechanism, avtorske pravice 2023_
 
 ---
 #### Pridržano gradivo
 
-Upoštevajte, da sta matični igri igre _Mythras Imperative_, _**Classic Fantasy**_ in _**Mythras**_, ki ju je izdalo podjetje The Design Mechanism, opredeljeni kot pridržano gradivo v skladu z licenco ORC.
+Upoštevajte, da sta matični igri _Mythras Imperative_, _**Classic Fantasy**_ in _**Mythras**_, ki ju je izdala založba The Design Mechanism, označeni kot pridržano gradivo v skladu z licenco ORC.
 
-Če se želite opreti na vsebino, ki jo najdete v igri _**Classic Fantasy**_ ali _**Mythras**_, se obrnite na The Design Mechanism glede ločene licence _Mythras Gateway License_, ki omogoča dostop do pridržanega gradiva brez provizij (royalties), vendar z nekaterimi pogoji glede odobritev in navedbe virov.
+Če želite črpati vsebino iz iger _**Classic Fantasy**_ ali _**Mythras**_, se obrnite na The Design Mechanism glede ločene licence _Mythras Gateway License_, ki omogoča dostop do pridržanega gradiva brez licenčnin, vendar pod nekaterimi pogoji glede odobritev in navedbe avtorstva.
 
-Za pridržano gradivo se štejejo tudi naslednji elementi:
+Naslednje se prav tako šteje za pridržano gradivo:
 
-_**Mythras Imperative**_ – kot ime, razen kadar se uporablja pri navedbi virov, vključno z logotipom.
+_**Mythras Imperative**_ – kot ime, razen če se uporablja pri navedbi avtorstva, vključno z logotipom.
 
-_**Mythras**_ – kot ime, razen kadar se uporablja pri navedbi virov, vključno z logotipom.
+_**Mythras**_ – kot ime, razen če se uporablja pri navedbi avtorstva, vključno z logotipom.
 
-_**Vse umetnine, grafike in celostna podoba (trade dress)**_, ki jih najdete v _Mythras Imperative_.
+_**Vse umetnine, grafike in celostna podoba**_, ki jih najdete v _Mythras Imperative_.
 
 ---
-## Ste novi v sistemu d100?
+## Ste novi v d100 sistemih?
 
-_Mythras Imperative_ je sistem d100 oziroma percentilni sistem. Percentilne kocke ali 1d100 se uporabljajo za razreševanje ključnih dejanj – uporabe spretnosti, boja, čaranja in tako naprej. Gre za sistem metanja na manj (roll-under), kar pomeni, da je ciljna številka izražena kot odstotek (na primer Atletika 65 %), pri čemer tako igralni mojster kot igralec želita z metom 1d100 vreči število, ki je enako ali manjše od te ciljne številke, da bi dosegla uspeh. Kocke 1d100 je zelo enostavno nadomestiti z d20, če tako raje storite, in vse odstotke je mogoče deliti s 5 (zaokroženo navzgor), da dobite ciljno številko za met d20. V našem primeru bi Atletika 65 % postala Atletika 13.
+_Mythras Imperative_ je sistem d100 ali odstotkovni sistem. Odstotkovne kocke ali 1d100 se uporabljajo za razreševanje ključnih dejanj – uporaba veščin, boj, magični uroki in tako naprej. To je sistem "metanja pod" (roll-under), kar pomeni, da je ciljna številka izražena v odstotkih (na primer Atletika 65 %), tako igralni mojster kot igralec pa z metom 1d100 poskušata doseči številko, ki je enaka ali manjša od te ciljne številke, da dosežeta uspeh. Če želite, lahko 1d100 zlahka nadomestite z d20, pri čemer vse odstotke delite s 5 (zaokroženo navzgor), da dobite ciljno številko za met d20. V našem primeru bi Atletika 65 % postala Atletika 13.
 
-Vendar pa 1d100 ponuja veliko mero prožnosti in nians, na katerih temelji celotna igra, zato priporočamo, da najprej preizkusite pristop z d100. Čeprav se morda zdi protislovno, da je treba vreči _manj_ kot nekaj (pri mnogih igrah je višje ponavadi bolje!), pa je zaradi ciljne številke, izražene v odstotnem območju, v katerem je treba vreči, preprosto in enostavno videti vaše možnosti za uspeh ter omogoča precejšnje število "kockarskih trikov", kot so nasprotni meti, kritični zadetki in spodrsljaji ter nekatere druge stvari, ki so raziskane kasneje v teh pravilih. Percentilno igranje vlog obstaja že od začetkov igranja vlog in je trdno uveljavljen igralni sistem s preizkušeno osrednjo mehaniko, ki je prilagodljiva, intuitivna in med igro običajno zbledi v ozadje.
+Vendar pa 1d100 ponuja veliko mero prilagodljivosti in odtenkov, ki so temelj celotne igre, zato priporočamo, da najprej preizkusite pristop 1d100. Čeprav se morda zdi protintuitivno, da morate vreči _manj_ od nečesa (v mnogih igrah je običajno bolje vreči več!), vam ciljna številka, izražena kot odstotkovni razpon, znotraj katerega morate vreči, omogoča preprost in jasen vpogled v možnosti za uspeh. Poleg tega omogoča kar nekaj "kockarskih trikov", kot so nasprotujoči si meti, kritični zadetki in napake (fumbles) ter še nekaj drugih stvari, ki so raziskane pozneje v teh pravilih. Odstotkovno igranje iger obstaja že od najzgodnejših dni igranja vlog in je trdno uveljavljen sistem z preizkušeno osnovno mehaniko, ki je prilagodljiva, intuitivna in med igro običajno hitro zbledi v ozadje.
 
 ---
 ## Poenostavitev
@@ -64,15 +64,15 @@ Vendar pa 1d100 ponuja veliko mero prožnosti in nians, na katerih temelji celot
 Dolgoletni lastniki igre _**Mythras**_ bodo opazili, da so bila pravila _Mythras Imperative_ na nekaterih mestih poenostavljena. To je bilo storjeno zato, da lahko igralni mojster hitreje predstavi igro novim igralcem z minimalnim naporom.
 
 ---
-## Zaokroževanje števil in rezultatov
+## Zaokroževanje številk in rezultatov
 
-Včasih boste morali deliti števila – običajno oceno spretnosti (na primer za določitev kritičnega uspeha, ki znaša 1/10 vrednosti spretnosti). Kadar rezultat deljenja ustvari ulomek, ga vedno zaokrožite navzgor na celo število. Tako je na primer 1/10 od 63 % enako 6,3; to se zaokroži navzgor na 7.
+Občasno boste morali deliti številke – običajno oceno veščine (na primer za določanje kritičnega uspeha, ki je 1/10 vrednosti veščine). Kadar rezultat deljenja ustvari ulomek, ga vedno zaokrožite navzgor na celo število. Tako je na primer 1/10 od 63 % enako 6,3; to se zaokroži navzgor na 7.
 
 ---
 ## Uporabljene kocke
 
-_Mythras Imperative_ uporablja standardni nabor večstranskih kock: d4, d6, d8, d10, d12, d20 in d100. Poleg tega se zahtevajo naslednje kocke:
+_Mythras Imperative_ uporablja standardni komplet večstranskih kock: d4, d6, d8, d10, d12, d20 in d100. Poleg tega se zahteva uporaba naslednjih kock:
 
-d2: Vrzite katerokoli kocko. Liho število je enako 1, sodo pa je enako 2. Ali pa vrzite kovanec.
+d2: Vrzite katero koli kocko. Liho število pomeni 1, sodo število pomeni 2. Ali pa vrzite kovanec.
 
 d3: Vrzite šeststrano kocko; 1-2 = 1, 3-4 = 2, 5-6 = 3

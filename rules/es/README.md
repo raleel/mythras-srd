@@ -1,78 +1,78 @@
-# Recurso del Sistema Mythras Imperative
+# Documento de Recursos del Sistema Mythras Imperative
 
 ---
 ## Introducción
 
-_Mythras Imperative_ es una versión abierta y bajo licencia ORC del reglamento de _Mythras_. Este documento ofrece un conjunto de reglas completo, aunque no exhaustivo, que incluye la creación de personajes, habilidades, reglas para ciertas situaciones típicas, combate y magia; más que suficiente para que tanto los jugadores como los Directores de Juego comiencen, y constituye una base sólida para un mayor desarrollo. _Mythras Imperative_ es compatible con las reglas básicas de _Mythras_ y otros sistemas de juego percentiles con licencia ORC. Su volumen complementario, _Classic Fantasy Imperative_, también es totalmente compatible y se publica bajo ORC, lo que significa que ambos Imperatives se pueden combinar fácilmente.
+_Mythras Imperative_ es una versión abierta y con licencia ORC del conjunto de reglas de _Mythras_. Este documento ofrece un conjunto completo, aunque no exhaustivo, de reglas que incluye la creación de personajes, habilidades, reglas para ciertas situaciones típicas, combate y magia; más que suficiente para que tanto los jugadores como los Directores de Juego comiencen y formen una base sólida para un desarrollo posterior. _Mythras Imperative_ es compatible con las reglas básicas de Mythras y otros sistemas de juego porcentuales con licencia ORC. Su volumen complementario, _Classic Fantasy Imperative_, también es totalmente compatible y se publica bajo la licencia ORC, lo que significa que ambos Imperatives se pueden combinar fácilmente.
 
-Las traducciones que no sean al inglés se realizan mediante IA. ¡Se agradece la participación de la comunidad!
+Las traducciones distintas al inglés se realizan mediante IA. ¡La contribución de la comunidad es bienvenida!
 
 ---
-## Licenciamiento ORC
+## Licencia ORC
 
-_Mythras Imperative_ se publica utilizando la Licencia ORC. La Licencia ORC ofrece a los creadores de juegos una forma de compartir abiertamente la mecánica de sus juegos y permite a los usuarios posteriores utilizar, modificar y volver a compartir libremente las adaptaciones de dichas mecánicas.
+_Mythras Imperative_ se publica utilizando la Licencia ORC. La Licencia ORC proporciona una forma para que los creadores de juegos compartan abiertamente la mecánica de sus juegos y permite a los usuarios intermedios utilizar, modificar y volver a compartir libremente las adaptaciones de estas mecánicas de juego.
 
-Lo que se comparte abiertamente bajo la ORC se conoce como _**Material Licenciado**_ e incluye los elementos funcionales amplios del juego, como bloques de estadísticas, reglas de juego, atributos de los personajes y los métodos y sistemas inherentes a la partida, así como cualquier otra cosa que el licenciante quiera compartir explícitamente. La licencia es amplia y te permite utilizar los Materiales Licenciados a nivel mundial en relación con libros impresos, videojuegos, podcasts, IA o cualquier otra tecnología que pueda existir o crearse en el futuro. La gran mayor parte del contenido que se encuentra en _Mythras Imperative_ constituye Material Licenciado.
+Lo que se comparte abiertamente bajo la ORC se conoce como _**Material Bajo Licencia**_ (Licensed Material) e incluye los elementos funcionales generales del juego, tales como bloques de estadísticas, reglas del juego, atributos de personajes y los métodos y sistemas inherentes al juego, así como cualquier otra cosa que el licenciante desee compartir explícitamente. La licencia es amplia y le permite utilizar los Materiales Bajo Licencia a nivel mundial en relación con libros impresos, videojuegos, podcasts, IA o cualquier otra tecnología que pueda existir o crearse en el futuro. La gran mayoría del contenido que se encuentra en _Mythras Imperative_ constituye Material Bajo Licencia.
 
-Lo que _no_ se comparte bajo la ORC se conoce como _**Material Reservado**_ e incluye marcas registradas, la ambientación del mundo, arcos argumentales, personajes distintivos y arte visual. Hemos enumerado el Material Reservado en el Aviso ORC a continuación.
+Lo que _no_ se comparte bajo la ORC se conoce como _**Material Reservado**_ (Reserved Material) e incluye marcas comerciales, trasfondo del mundo, arcos argumentales, personajes distintivos y arte visual. Hemos enumerado el Material Reservado en el Aviso ORC, a continuación.
 
-Bajo la Licencia ORC puedes usar, compartir, adaptar y construir sobre el Material Licenciado como te parezca conveniente, siempre y cuando des la atribución adecuada en forma de un aviso en tu obra publicada. Este aviso acredita tanto a los licenciantes originales y su contribución a la obra, como proporciona una manera sencilla para que los usuarios posteriores acrediten al autor de la obra en la que aparece dicho aviso. Al utilizar material licenciado bajo la ORC, aceptas automáticamente licenciar las mecánicas de tu juego en tu obra publicada bajo los mismos términos. Si desarrollas tu propio Material Reservado, este será tu exclusiva propiedad.
+Bajo la Licencia ORC, puede utilizar, compartir, adaptar y desarrollar el Material Bajo Licencia como crea conveniente, siempre y cuando proporcione la atribución adecuada en forma de aviso en su obra publicada. Este aviso tanto acredita a los licenciantes originales y su contribución a la obra, como proporciona una manera fácil para que los usuarios intermedios acrediten al autor de la obra en la que aparece el aviso. Al utilizar material bajo licencia ORC, usted acepta automáticamente licenciar las mecánicas de su juego en su obra publicada bajo los mismos términos. Si desarrolla su propio Material Reservado, ese es su propiedad exclusiva.
 
 ---
 #### Aviso ORC
 
-_Mythras Imperative_ está licenciado bajo la Licencia ORC ubicada en la Biblioteca del Congreso y disponible en línea en varios lugares, incluyendo [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) y otros.
+_Mythras Imperative_ tiene licencia bajo la Licencia ORC ubicada en la Biblioteca del Congreso y disponible en línea en varios lugares, incluyendo [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) y otros.
 
-Se renuncia a todas las garantías tal como se establece en la misma.
+Se renuncia a todas las garantías según lo establecido en el mismo.
 
 ---
 #### Atribución
 
 Este producto se basa en el siguiente Material Reservado:
 
-_Mythras_, The Design Mechanism Copyright 2016, Escrito por Pete Nash y Lawrence Whitaker.
+_Mythras_, The Design Mechanism Copyright 2016, escrito por Pete Nash y Lawrence Whitaker
 
-Si utilizas nuestro Material Licenciado en tus propias obras publicadas, por favor credits de la siguiente manera:
+Si utiliza nuestro Material Bajo Licencia en sus propias obras publicadas, por favor acredítenos de la siguiente manera:
 
 _Basado en Mythras Imperative, escrito por Pete Nash y Lawrence Whitaker, y publicado por The Design Mechanism, Copyright 2023_
 
 ---
 #### Material Reservado
 
-Ten en cuenta que los juegos principales de _Mythras Imperative_, _**Classic Fantasy**_ y _**Mythras**_, publicados por The Design Mechanism, están designados como Material Reservado bajo la licencia ORC.
+Tenga en cuenta que los juegos principales de _Mythras Imperative_, _**Classic Fantasy**_ y _**Mythras**_, publicados por The Design Mechanism, están designados como Material Reservado bajo la licencia ORC.
 
-Si deseas utilizar contenido que se encuentra en _**Classic Fantasy**_ o _**Mythras**_, ponte en contacto con The Design Mechanism en relación con la _Mythras Gateway License_ independiente, la cual permite acceder al Material Reservado sin pago de regalías, pero con ciertas condiciones relativas a aprobaciones y atribuciones.
+Si desea recurrir a contenido que se encuentra en _**Classic Fantasy**_ o _**Mythras**_, por favor comuníquese con The Design Mechanism sobre la _Mythras Gateway License_ por separado, la cual permite acceder al Material Reservado, libre de regalías, pero con algunas condiciones relacionadas con aprobaciones y atribución.
 
-También se consideran Material Reservado los siguientes elementos:
+Lo siguiente también se considera Material Reservado:
 
-_**Mythras Imperative**_ – como nombre, excepto cuando se use en la atribución, incluido su logotipo.
+_**Mythras Imperative**_ – como nombre, excepto cuando se usa en la atribución, incluido su logotipo.
 
-_**Mythras**_ – como nombre, excepto cuando se use en la atribución, incluido su logotipo.
+_**Mythras**_ – como nombre, excepto cuando se usa en la atribución, incluido su logotipo.
 
-_**Todas las ilustraciones, gráficos y diseño comercial (trade dress)**_ que se encuentran en _Mythras Imperative_.
+_**Toda obra de arte, gráficos e identidad visual (trade dress)**_ que se encuentre en _Mythras Imperative_
 
 ---
-## ¿Nuevo en d100?
+## ¿Nuevo en el sistema d100?
 
-_Mythras Imperative_ es un sistema de d100 o percentil. Los dados percentiles, o 1d100, se utilizan para resolver acciones clave: uso de habilidades, combate, lanzamiento de conjuros, etc. Es un sistema de tirada inferior, lo que significa que el número objetivo se expresa como un porcentaje (Atletismo 65%, por ejemplo), y tanto el Director de Juego como el jugador buscan sacar un resultado igual o inferior a este número objetivo, utilizando 1d100, para lograr un Éxito. Es bastante fácil reemplazar el 1d100 por un d20 si se prefiere, y todos los porcentajes se pueden dividir entre 5 (redondeando hacia arriba) para obtener el número objetivo para una tirada de d20. Atletismo 65% se convertiría en Atletismo 13, en nuestro ejemplo.
+_Mythras Imperative_ es un sistema d100 o porcentual. Los dados porcentuales, o 1d100, se utilizan para resolver acciones clave: uso de habilidades, combate, lanzamiento de hechizos, etcétera. Es un sistema de tirada por debajo, lo que significa que el número objetivo se expresa como un porcentaje (Atletismo 65%, por ejemplo), y tanto el Director de Juego como el jugador buscan obtener un resultado igual o inferior a este número objetivo, usando 1d100, para lograr un éxito. Es bastante fácil reemplazar el 1d100 con un d20 si se prefiere, y todos los porcentajes pueden dividirse por 5 (redondeando hacia arriba) para obtener el número objetivo para una tirada de d20. Atletismo 65% se convertiría en Atletismo 13, en nuestro ejemplo.
 
-Sin embargo, el 1d100 ofrece una gran flexibilidad y matices que sustentan todo el juego, por lo que nuestra recomendación es probar primero el enfoque de 1d100. Aunque pueda parecer contradictorio tener que sacar _menos_ que algo (¡en muchos juegos, un resultado más alto suele ser mejor!), tener un número objetivo expresado como un rango porcentual dentro del cual hay que sacar hace que sea fácil y sencillo ver tus posibilidades de éxito, y permite bastantes "trucos de dados", como Tiradas Enfrentadas, Críticos y Fiascos, y algunas otras cosas que se exploran más adelante en estas reglas. El rol percentil existe desde los primeros días de los juegos de rol y es un sistema de juego firmemente establecido con una mecánica central probada y contrastada que es flexible, intuitiva y tiende a pasar a desapercibida durante la partida.
+Sin embargo, el 1d100 ofrece una gran flexibilidad y matices que sustentan todo el juego, por lo que nuestra recomendación es probar el enfoque del 1d100 primero. Aunque puede parecer contradictorio tener que sacar _menos_ que algo (¡en muchos juegos, cuanto más alto, mejor!), tener un número objetivo expresado como un rango porcentual dentro del cual uno necesita obtener un resultado hace que sea fácil y sencillo ver las probabilidades de éxito, y permite bastantes "trucos con dados", tales como Tiradas Opuestas, Críticos y Pifias, y algunas otras cosas que se exploran más adelante en estas reglas. El juego de rol porcentual ha existido desde los primeros días de los juegos de rol y es un sistema de juego firmemente establecido con una mecánica central probada que es flexible, intuitiva y tiende a desvanecerse en el fondo durante la partida.
 
 ---
 ## Simplificación
 
-Los veteranos propietarios de _**Mythras**_ notarán que en algunos lugares las reglas de _Mythras Imperative_ se han simplificado. Esto se ha hecho para que un Director de Juego pueda introducir el juego más rápidamente a nuevos jugadores con un mínimo de complicaciones.
+Los propietarios veteranos de _**Mythras**_ notarán que en algunos lugares las reglas de _Mythras Imperative_ han sido simplificadas. Esto se ha hecho para que un Director de Juego pueda introducir el juego más rápidamente a nuevos jugadores con un mínimo de complicaciones.
 
 ---
-## Redondeo de Números y Resultados
+## Redondeo de números y resultados
 
-En algunas ocasiones se te pedirá que dividas números, normalmente el valor de una habilidad (como para determinar un Éxito Crítico, que es 1/10 del valor de la habilidad). Siempre que el resultado de una división genere una fracción, redondea siempre hacia arriba al número entero. Por ejemplo, 1/10 de 63% es 6.3; esto se redondea hacia arriba a 7.
+En algunas ocasiones se le pedirá que divida números, generalmente el valor de una habilidad (como para determinar un Éxito Crítico, que es 1/10 del valor de la habilidad). Siempre que el resultado de una división cree una fracción, redondee siempre hacia arriba al número entero. Así, por ejemplo, 1/10 de 63% es 6.3; esto se redondea hacia arriba a 7.
 
 ---
-## Dados Utilizados
+## Dados utilizados
 
-_Mythras Imperative_ utiliza el conjunto de dados poliédricos estándar: d4, d6, d8, d10, d12, d20 y d100. Además, se requiere el uso de los siguientes dados:
+_Mythras Imperative_ utiliza el conjunto estándar de dados poliédricos: d4, d6, d8, d10, d12, d20 y d100. Además, se requieren los siguientes dados:
 
-d2: Lanza cualquier dado. Un número impar equivale a 1 y uno par equivale a 2. O bien, lanza una moneda al aire.
+d2: Tire cualquier dado. Un número impar equivale a 1 y los pares equivalen a 2. O lance una moneda.
 
-d3: Lanza un dado de seis caras; 1-2 = 1, 3-4 = 2, 5-6 = 3.
+d3: Tire un dado de seis caras; 1-2 = 1, 3-4 = 2, 5-6 = 3

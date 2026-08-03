@@ -1,78 +1,78 @@
-# Çavkaniya Pergala Mythras Imperative
+# Çavkaniya Sîstema Mythras Imperative
 
 ---
-## Destpêk
+## Pêşkêş
 
-_Mythras Imperative_ guhertokek vekirî, bi lîsansa ORC ya ji koma qaîdeyên _Mythras_ e. Ev belge komek qaîdeyên berfireh lê ne qedandî pêşkêş dike; di nav de çêkirina karakteran, jêhatîbûn, qaîdeyên ji bo hin rewşên tipîk, şer û sêrbaziyê hene – ev ji bo destpêkirina hem lîstikvan û hem hamîlên lîstikê (Games Masters) zêdetirî bes in, û bingeheke xurt ji bo pêşveçûna bêtir pêk tînin. _Mythras Imperative_ bi qaîdeyên bingehîn ên Mythras re, û pergalên lîstikê yên din ên sedî yên bi lîsansa ORC re lihevhatî ye. Berga wê ya hevrê, _Classic Fantasy Imperative_, jî bi tevahî lihevhatî ye û di bin lîsansa ORC de hatiye weşandin, ku tê vê wateyê ku her du Imperative dikarin bi hêsanî werin girtin cem hev.
+_Mythras Imperative_ guhertoyek vekirî û bi lîsansa ORC ya rêzikên _Mythras_ e. Ev belge komek rêzikên berfireh (lê ne hemû) pêşkêş dike, di nav de afirandina karakteran, jêhatîbûn, rêzikên ji bo rewşên tîpîk, şer û sêrbaziyê – ji bo ku hem lîstikvan û hem jî Gerînendeyên Lîstikê (Games Masters) dest pê bikin û bingehek zexm ji bo pêşkeftina bêtir ava bikin, zêdetir e. _Mythras Imperative_ bi rêzikên bingehîn ên Mythras û pergalên lîstika sedî yên din ên bi lîsansa ORC re hevgirtî ye. Pirtûka wê ya hevalbend, _Classic Fantasy Imperative,_ jî bi tevahî hevgirtî ye û di bin ORC de hatiye weşandin, ev tê vê wateyê ku her du Imperative dikarin bi hêsanî bi hev re werin bikar anîn.
 
-Wergerên ji bilî inglîzî bi rêya AIyê hatine kirin. Nêrînên civakê bi dilxweşî tên qebûlkirin!
-
----
-## Lîsansa ORC
-
-_Mythras Imperative_ bi karanîna Lîsansa ORC tê weşandin. Lîsansa ORC rêyekê dide afirînerên lîstikê ku mekanîka lîstika xwe bi eşkere parve bikin û destûrê dide bikarhênerên jêrîn ku adaptasyonên van mekanîkên lîstikê bi serbestî bikar bînin, biguherînin û ji nû ve parve bikin.
-
-Tiştê ku di bin ORC de bi eşkere tê parvekirin wekî _**Materyalê Lîmasekirî (Licensed Material)**_ tê naskirin, û ew hêmanên fonksiyonel ên berfireh ên lîstikê dihewîne, wekî mînak blokên statîstîkî, qaîdeyên lîstikê, taybetmendiyên karakteran, û rêbaz û pergalên ku di lîstina lîstikê de cîh digirin, digel her tiştê din ku lîmasekar bi eşkere dixwaze parve bike. Lîsans berfireh e û dihêle ku hûn Materyalên Lîmasekirî li seranserê cîhanê di têkiliya bi pirtûkên çapkirî, lîstikên vîdyoyê, podkast, AI, an her teknolojiyek din a ku hebe an di pêşerojê de were afirandin de bikar bînin. Piraniya naveroka ku di _Mythras Imperative_ de tê dîtin pêk tîne Materyalê Lîmasekirî.
-
-Tiştê ku di bin ORC de _nayê_ parvekirin wekî _**Materyalê Parastî (Reserved Material)**_ tê naskirin û nîşanên bazirganî, çîroka cîhanê, arcên çîrokê, karakterên taybet, û hunera dîtbarî dihewîne. Me Materyalê Parastî di Daxuyaniya ORC de, li jêr, rêz kiriye.
-
-Di bin Lîsansa ORC de hûn dikarin Materyalê Lîmasekirî bikar bînin, parve bikin, adapte bikin û li ser ava bikin bi qasî ku hûn guncaw dibînin, heya ku hûn di forma Daxuyaniyekê de di xebata xwe ya çapkirî de pîrozekirina rast bikin. Ev daxuyanî hem lîmasekarên jorîn û tevkariya wan a di xebatê de diyar dike, û hem jî rêyek hêsan ji bo bikarhênerên jêrîn peyda dike ku nivîskarê xebata ku daxuyanî tê de xuya dike pîroz bikin. Bi karanîna materyalê ku di bin ORC de hatî lîmasekirin, hûn bixweber razî dibin ku mekanîkên lîstika xwe di xebata xwe ya çapkirî de di bin heman şertan de lîmase bikin. Ger hûn Materyalê xwe yê Parastî pêşve bibin, ew milkê we yê taybet e.
+Wergerên ji bilî îngilîzî bi AI-yê hatine kirin. Beşdariya civakê tê pêşwazîkirin!
 
 ---
-#### Daxuyaniya ORC
+## Lîsansên ORC
 
-_Mythras Imperative_ di bin Lîsansa ORC de ku li Pirtûkxaneya Kongresê ye û li serhêl li gelek cihan tevî [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) û yên din peyda dibe, hatiye lîmasekirin.
+_Mythras Imperative_ bi karanîna Lîsansa ORC tê weşandin. Lîsansa ORC ji bo afirînerên lîstikê rêyek peyda dike ku mekanîka lîstika xwe bi eşkere parve bikin û rê dide bikarhênerên li jêr ku adapteyên van mekanîkayên lîstikê bi serbestî bikar bînin, biguhezînin û ji nû ve parve bikin.
 
-Hemû garantî wekî ku tê de hatine destnîşankirin têne red kirin.
+Tiştê ku di bin ORC de bi eşkere tê parve kirin wekî _**Materyalên Lîsanskirî**_ tê zanîn û hêmanên fonksiyonel ên berfireh ên lîstikê dihewîne, wekî stat block, rêzikên lîstikê, taybetmendiyên karakteran, û rêbaz û pergalên ku di lîstina lîstikê de cîh digirin, û her tiştê din ku lîsansor bi eşkere dixwaze parve bike. Lîsans berfireh e û dihêle hûn Materyalên Lîsanskirî bi gerdûnî di têkiliya bi pirtûkên çapkirî, lîstikên vîdyoyê, podcast, AI, an her teknolojiya din a ku dibe ku hebe an di pêşerojê de were afirandin de bikar bînin. Piraniya naveroka ku di _Mythras Imperative_ de tê dîtin Materyalên Lîsanskirî pêk tîne.
 
----
-#### Pîrozkirin (Attribution)
+Tiştê ku di bin ORC de _nayê_ parve kirin wekî _**Materyalên Parastî**_ tê zanîn û nîşaneyên bazirganî, lore-ya cîhanê, arcên çîrokan, karakterên taybet û hunera dîtbarî dihewîne. Me Materyalên Parastî di Agahdariya ORC de, li jêr lîste kiriye.
 
-Ev hilber li ser Materyalê Parastî yê jêrîn hatine damezrandin:
-
-_Mythras_, The Design Mechanism Copyright 2016, Nivîskar: Pete Nash, û Lawrence Whitaker
-
-Ger hûn Materyalê me yê Lîmasekirî di berhemên xwe yên çapkirî de bikar bînin, ji kerema xwe me wiha bi nav bikin:
-
-_Li ser bingeha Mythras Imperative, Nivîskar: Pete Nash û Lawrence Whitaker, û ji aliyê The Design Mechanism ve hatiye weşandin, Copyright 2023_
+Di bin Lîsansa ORC de hûn dikarin Materyalên Lîsanskirî çawa bixwazin bikar bînin, parve bikin, adapte bikin û li ser wan ava bikin, heya ku hûn di karê xwe yê weşandî de wekî agahdariyekê krediya rast bidin. Ev agahdarî hem lîsansorên li jor û tevkariya wan li ser karê xwe diyar dike, hem jî ji bo bikarhênerên li jêr rêyek hêsan peyda dike ku nivîskarê karê ku agahdarî tê de xuya dike, kredî bikin. Bi karanîna materyalên ku di bin ORC de lîsanskirî ne, hûn bixweber razî dibin ku mekanîkayên lîstika xwe di karê xwe yê weşandî de di bin heman şertan de lîsans bikin. Ger hûn Materyalên xwe yên Parastî pêş bixin, ew milkê we yê taybet e.
 
 ---
-#### Materyalê Parastî
+#### Agahdariya ORC
 
-Bîr bînin ku lîstikên dê û bav ên _Mythras Imperative_, _**Classic Fantasy**_ û _**Mythras**_, ku ji aliyê The Design Mechanism ve hatine weşandin, di bin lîsansa ORC de wekî Materyalê Parastî hatine destnîşankirin.
+_Mythras Imperative_ di bin Lîsansa ORC de tê lîsans kirin ku li Pirtûkxaneya Kongreyê (Library of Congress) cih digire û li serhêl li cîhên cûrbecûr, di nav de [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico) û yên din, heye.
 
-Ger hûn dixwazin naveroka ku di _**Classic Fantasy**_ an _**Mythras**_ de hatî dîtin bikar bînin, ji kerema xwe li ser _Mythras Gateway License_ ya cûda bi The Design Mechanism re têkilî daynin, ku destûrê dide ku bigihîjin Materyalê Parastî, bêyî telafî (royalty), lê bi hin şertan di derbarê erêkirin û pîrozkirinê de.
-
-Yên jêrîn jî wekî Materyalê Parastî têne hesibandin:
-
-_**Mythras Imperative**_ – wekî navek, ji bilî dema ku di pîrozkirinê de tê bikar anîn, tevî logoya wê.
-
-_**Mythras**_ – wekî navek, ji bilî dema ku di pîrozkirinê de tê bikar anîn, tevî logoya wê.
-
-_**Hemû huner, grafîk û cilûbergên bazirganî**_ ku di _Mythras Imperative_ de hatine dîtin
+Hemî garantî wekî ku tê de hatine destnîşan kirin têne red kirin.
 
 ---
-## Ji d100 re Nû Hatin?
+#### Kredî (Attribution)
 
-_Mythras Imperative_ pergaleke d100 ango sedî ye. Zarên sedî, ango 1d100, ji bo çareserkirina çalakiyên sereke têne bikar anîn - karanîna jêhatîbûnê, şer, avêtina sêrbaziyê, û hwd. Ew pergaleke xwar-jêr (roll-under) e, ku tê vê wateyê ku hejmara armanc wekî ji sedî tê diyar kirin (mînak Atletîzm 65%), û hem Hamîlê Lîstikê û hem jî lîstikvan bi karanîna 1d100 digerin ku hevsengî an kêmtir ji vê hejmara armanc bavêjin da ku Serkeftinê bi dest bixin. Pir hêsan e ku hûn 1d100 bi d20 veguherînin ger hûn tercîh bikin, û hemû ji sedî dikarin li 5 werin dabeş kirin (jortirîn werin dorxistin) da ku hejmara armanc ji bo avêtina d20 bistînin. Atletîzm 65% dê di mînaka me de bibe Atletîzm 13.
+Ev hilber li ser Materyalên Parastî yên jêrîn hatiye avakirin:
 
-Lêbelê, 1d100 nermbûnek mezin û nuwazeyek ku bingeha tevahiya lîstikê pêk tîne pêşkêş dike, ji ber vê yekê pêşniyara me ev e ku hûn pêşî nêzîkatiya 1d100 biceribînin. Dibe ku dij-întuîtîf xuya bike ku meriv neçar be ku tiştekî _kêmtir_ ji tiştekî bavêje (di gelek lîstikan de, bilindtir bi gelemperî çêtir e!), lê hebûna hejmareke armanc ku wekî rêjeyeke ji sedî tê îfade kirin ku mirov hewce dike di nav de bavêje, dîtina derfetên we yên serkeftinê hêsan û sade dike, û rê dide gelek 'xapên zarokan', wekî Avêtinên Dijber (Opposed Rolls), Rexneyî (Criticals) û Têkçûnên Xirab (Fumbles), û çend tiştên din ku paşê di van qaîdeyan de têne lêkolîn kirin. Rolleyîstina sedî ji rojên herî pêşîn ên rolleyîstinê ve heye û pergaleke lîstikê ya ku bi zexmî hatiye damezrandin e bi mekanîkeke bingehîn a ceribandî û testa ku nerm e, înteraktîf e û di dema lîstikê de diçe paşperdeyê.
+_Mythras_, The Design Mechanism Copyright 2016, Nivîskar: Pete Nash û Lawrence Whitaker
 
----
-## Saddedirîn (Simplification)
+Ger hûn Materyalên me yên Lîsanskirî di karên xwe yên weşandî de bikar bînin, ji kerema xwe me bi vî rengî kredî bikin:
 
-Xwediyên demdirêj ên _**Mythras**_ dê bala xwe bidin ku li hin cihan qaîdeyên _Mythras Imperative_ hatine hêsankirin. Ev ji bo wê hatiye kirin ku Hamîlê Lîstikê bikaribe zûtir lîstikê bi kêmasîkî bide naskirin ji lîstikvanên nû re.
-
----
-## Dorxistina Hejmar û Encaman
-
-Di hin deman de hûn ê hewce bikin ku hejmaran dabeş bikin - bi gelemperî pîvana di jêhatîbûnê de (wekî ji bo destnîşankirina Serkeftineke Rexneyî, ku 1/10ê nirxa jêhatîbûnê ye). Gava ku encamek dabeşkirinê fraksiyonek çêdike, her gav berbi hejmara tam jor ve dor bixin. Ji ber vê yekê, mînakî, 1/10ê 63% dibe 6.3; ev jor ve tê dorxistin bo 7.
+_Li ser bingeha Mythras Imperative, ji hêla Pete Nash û Lawrence Whitaker ve hatî nivîsandin, û ji hêla The Design Mechanism ve hatî weşandin, Copyright 2023_
 
 ---
-## Zarên ku Tên Bikaranîn
+#### Materyalên Parastî
 
-_Mythras Imperative_ koma zarên piralî yên standard bikar tîne: d4, d6, d8, d10, d12, d20 û d100. Wekî din, zarên jêrîn têne xwestin:
+Bala xwe bidinê ku lîstikên dêûbav ên _Mythras Imperative_, _**Classic Fantasy**_ û _**Mythras**_, ku ji hêla The Design Mechanism ve hatine weşandin, wekî Materyalên Parastî di bin lîsansa ORC de hatine destnîşan kirin.
 
-d2: Her zareke bavêje. Hejmareke ecêb wekî 1 û zewac wekî 2 ye. An jî pereyekî bizivirîne.
+Ger hûn dixwazin naveroka ku di _**Classic Fantasy**_ an _**Mythras**_ de hatî dîtin bikar bînin, ji kerema xwe bi The Design Mechanism re li ser _Lîsansa Deriyê Mythras (Mythras Gateway License)_ ya cuda têkilî daynin, ku destûrê dide Materyalên Parastî bêyî xercên qraliyetê, lê bi hin şertên di derbarê pejirandin û krediyê de, werin gihîştin.
 
-d3: Zareke şeş-alî bavêje; 1-2 = 1, 3-4 = 2, 5-6 = 3
+Jêrîn jî wekî Materyalên Parastî têne hesibandin:
+
+_**Mythras Imperative**_ – wekî nav, ji bilî dema ku di krediyê de tê bikar anîn, tevî logoya wê.
+
+_**Mythras**_ – wekî nav, ji bilî dema ku di krediyê de tê bikar anîn, tevî logoya wê.
+
+_**Hemî huner, grafik û cilûbergên bazirganî**_ yên ku di _Mythras Imperative_ de hatine dîtin.
+
+---
+## Di d100 de nû ne?
+
+_Mythras Imperative_ pergalek d100 an sedî ye. Zarên sedî, an 1d100, ji bo çareserkirina kiryarên sereke têne bikar anîn – karanîna jêhatîbûnê, şer, avêtina sêrbaziyê, û hwd. Ev pergalek "bin-hejmar" e, wateya wê ev e ku hejmara armanc wekî sedî tê îfade kirin (mînak, Atletîzm 65%), û hem Gerînendeyê Lîstikê hem jî lîstikvan dixwazin bi karanîna 1d100 hejmarek wekhev an kêmtir ji vê hejmara armancê biavêjin da ku bigihîjin Serkeftinê. Guhertina 1d100 bi d20-ê re heke were xwestin pir hêsan e, û hemî sedî dikarin li 5-ê werin dabeş kirin (ber bi jor ve werin girtin) da ku hejmara armancê ji bo avêtina d20-ê bi dest bixin. Atletîzm 65% dê bibe Atletîzm 13, di mînaka me de.
+
+Lêbelê, 1d100 nermbûn û hûrguliyek mezin pêşkêşî dike ku bingeha tevahiya lîstikê pêk tîne, ji ber vê yekê pêşniyara me ev e ku hûn pêşî nêzîkatiya 1d100 biceribînin. Her çend dibe ku neintûîtîf xuya bike ku meriv *kêmtir* ji tiştekî biavêje (di gelek lîstikan de, bilindtir bi gelemperî çêtir e!), hebûna hejmarek armanc a ku wekî rêzek sedî tê îfade kirin ku meriv hewce dike ku di nav wê de biavêje, dîtina şansên we yên serkeftinê hêsan û sade dike, û rê dide çend 'hîleyên zar' ên din, wekî Avêtinên Dijber, Krîtîk û Çewtî, û çend tiştên din ên ku paşê di van rêzikan de têne lêkolîn kirin. Rolleyîstiya sedî ji rojên herî destpêkê yên lîstikê ve heye û pergalek lîstikek bi tundî hatî damezrandin e bi mekanîka bingehîn a ceribandî û têkûz ku nerm, intûîtîf e û di dema lîstikê de di paşerojê de winda dibe.
+
+---
+## Hêsankirin
+
+Xwediyên demdirêj ên _**Mythras**_ dê bala xwe bidinê ku li hin cihan rêzikên _Mythras Imperative_ hatine hêsan kirin. Ev ji bo wê hatiye kirin ku Gerînendeyek Lîstikê bikaribe bi leztir lîstikê bi lîstikvanên nû re bi kêmî tengasiyê bide nasîn.
+
+---
+## Girtina Hejmaran û Encaman
+
+Di hin rewşan de dê ji we were xwestin ku hejmaran dabeş bikin – bi gelemperî rêjeya di jêhatîbûnekê de (wekî ji bo diyarkirina Serkeftinek Krîtîk, ku 1/10-a nirxa jêhatîbûnê ye). Gava ku encama dabeşkirinê fraksiyonek çêdike, her gav ber bi jor ve bigirin bo hejmara tevahî. Ji ber vê yekê, mînakî, 1/10-a 63% dibe 6.3; ev ber bi jor ve tê girtin û dibe 7.
+
+---
+## Zarên Tê Bikaranîn
+
+_Mythras Imperative_ komek zarên polyhedral ên standard bikar tîne: d4, d6, d8, d10, d12, d20 û d100. Wekî din, zarên jêrîn têne xwestin:
+
+d2: Her zarekî biavêjin. Hejmarek tekî wekhevî 1 e û cot wekhevî 2 ye. An jî pereyekê bavêjin.
+
+d3: Zarekî şeş-rûyî biavêjin; 1-2 = 1, 3-4 = 2, 5-6 = 3
