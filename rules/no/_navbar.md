@@ -1,0 +1,4 @@
+- [Hjem](/)
+- [Hvordan gjøre](HowTo.md)
+- [Endringslogg](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)
