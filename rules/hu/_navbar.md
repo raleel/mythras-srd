@@ -1,0 +1,4 @@
+- [Kezdőlap](/)
+- [Hogyan](HowTo.md)
+- [Változások naplója](Changelog.md)
+- [GitHub](https://github.com/raleel/mythras-srd)
