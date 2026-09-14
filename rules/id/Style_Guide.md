@@ -276,7 +276,7 @@ Setiap contoh yang terdaftar harus memiliki hal-hal berikut...
 
 - **Detail Senjata:** Deskripsi singkat dengan kolom untuk nama senjata dan atribut berikut: Ukuran (sertakan Force di sini), Jangkauan (sertakan Range di sini), Kerusakan, AP/HP, dan aturan khusus apa pun.
 
-- **Lokasi Luka & Armor:** Tabel lokasi akan bervariasi berdasarkan anatomi makhluk yang berbeda tetapi harus disertakan bahkan untuk humanoid tradisional sebagai cara untuk melacak armor dan kerusakan.
+- **Lokasi Luka & Zirah:** Tabel lokasi akan bervariasi berdasarkan anatomi makhluk yang berbeda tetapi harus disertakan bahkan untuk humanoid tradisional sebagai cara untuk melacak Zirah dan kerusakan.
 
 ### Pemformatan Blok Statistik Makhluk
 
@@ -323,7 +323,7 @@ Descriptive text.
 > | Katapel | L | 10/150/300 | 1d8 | 1/2 | |
 > | Perisai | L | S | 1d4 | 4/9 | Melindungi 3 lokasi untuk Blokir Pasif/Menangkal |
 >
-> #### Lokasi Luka & Armor
+> #### Lokasi Luka & Zirah
 >
 > | **1d20** | **Lokasi** | **AP/HP** |
 > | :-: | :-- | :-: |
@@ -380,9 +380,9 @@ _Explanation text stating how the rule as written causes problems._
 _**Memanjat (Climb)**_
 
 _Errata Komunitas:_
-_**"Armor yang dikenakan menghambat pemanjat sebesar jumlah yang sama dengan rata-rata Poin Armor yang dikenakan. Temukan ini dengan menjumlahkan poin armor setiap lokasi yang dikenakan dan bagi angka tersebut dengan jumlah lokasi."**_
+_**"Zirah yang dikenakan menghambat pemanjat sebesar jumlah yang sama dengan rata-rata Poin Zirah yang dikenakan. Temukan ini dengan menjumlahkan poin Zirah setiap lokasi yang dikenakan dan bagi angka tersebut dengan jumlah lokasi."**_
 
-_Aturan seperti yang tertulis dengan cepat menyebabkan masalah. Mengenakan satu potong armor 6AP akan mengurangi manusia menjadi Gerak 0, yang berarti manusia yang mengenakan helm baja dan tidak ada lagi yang lain akan terlalu terbebani untuk memanjat sama sekali. Ini tampak sangat membatasi, oleh karena itu versi edit yang disarankan di atas. Ini akan diperbarui jika penulis asli merevisi aturan seperti yang tertulis._
+_Aturan seperti yang tertulis dengan cepat menyebabkan masalah. Mengenakan satu potong Zirah 6AP akan mengurangi manusia menjadi Gerak 0, yang berarti manusia yang mengenakan helm baja dan tidak ada lagi yang lain akan terlalu terbebani untuk memanjat sama sekali. Ini tampak sangat membatasi, oleh karena itu versi edit yang disarankan di atas. Ini akan diperbarui jika penulis asli merevisi aturan seperti yang tertulis._
 
 </details>
 

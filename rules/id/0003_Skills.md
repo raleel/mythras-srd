@@ -17,14 +17,14 @@ Ada beberapa kasus khusus mengenai Keberhasilan dan Kegagalan yang perlu dicatat
 - Lemparan apa pun sebesar 01-05 selalu merupakan Keberhasilan
 - Lemparan apa pun sebesar 96-00 selalu merupakan Kegagalan, terlepas dari seberapa tinggi nilai keterampilannya
 
-#### Kritis dan Fumble
+#### Kritis dan Kegagalan Mutlak
 
-Kritis (Criticals) dan Fumble mewakili keberhasilan dan kegagalan yang spektakuler; kasus di mana seorang karakter telah unggul dalam usahanya atau gagal dengan sangat menyedihkan.
+Kritis (Criticals) dan Kegagalan Mutlak mewakili keberhasilan dan kegagalan yang spektakuler; kasus di mana seorang karakter telah unggul dalam usahanya atau gagal dengan sangat menyedihkan.
 
 - Keberhasilan Kritis sama dengan sepersepuluh dari nilai keterampilan (dan ini termasuk keterampilan yang menerima pengubah – sehingga keterampilan yang dimodifikasi mungkin memiliki peluang hasil Kritis yang lebih besar atau lebih kecil). Bulatkan pecahan ke atas saat menghitung kisaran Keberhasilan Kritis. Sebagai contoh, jika sebuah keterampilan dimodifikasi menjadi dua kali nilai normalnya – katakanlah dari 33% menjadi 66%, maka kisaran Kritisnya adalah lemparan 07 atau kurang.
-- Fumble adalah lemparan 99 atau 00. Keterampilan dengan nilai lebih dari 100% hanya akan mengalami Fumble pada lemparan 00.
+- Kegagalan Mutlak adalah lemparan 99 atau 00. Keterampilan dengan nilai lebih dari 100% hanya akan mengalami Kegagalan Mutlak pada lemparan 00.
 
-Sifat pasti dari hasil Kritis atau Fumble diserahkan kepada Games Master untuk ditentukan. Konsekuensinya bisa sangat menakjubkan atau mengerikan, tergantung pada situasinya.
+Sifat pasti dari hasil Kritis atau Kegagalan Mutlak diserahkan kepada Games Master untuk ditentukan. Konsekuensinya bisa sangat menakjubkan atau mengerikan, tergantung pada situasinya.
 
 #### Keberhasilan Otomatis
 
@@ -136,7 +136,7 @@ Melantunkan nada dicakup oleh Menyanyi, mulai dari nyanyian monoton hingga aria 
 
 #### Siluman (DEX+INT)
 
-Bersembunyi dari pandangan umum, atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman (Stealth). Perlindungan dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifikasi lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya perlindungan atau malam yang tenang akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan baju besi berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan baju besi mereka berdenting.
+Bersembunyi dari pandangan umum, atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman (Stealth). Perlindungan dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifikasi lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya perlindungan atau malam yang tenang akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Zirah berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Zirah mereka berdenting.
 
 #### Berenang (STR+CON)
 
@@ -146,7 +146,7 @@ Tanpa pengembangan, kemampuan berenang terbatas pada kemampuan untuk meronta-ron
 
 Tanpa Senjata adalah Keterampilan Bertarung universal yang umum bagi semua karakter, mengukur kemampuan untuk membela diri tanpa bantuan senjata. Keterampilan Tanpa Senjata mencakup teknik perkelahian dan gulat yang diketahui oleh budaya tersebut.
 
-Karena Tanpa Senjata adalah Keterampilan Bertarung, efek Kritis dan Fumble-nya dicakup oleh aturan pertempuran, sebagaimana dirinci dalam bab [Pertarungan](0005_Combat.md).
+Karena Tanpa Senjata adalah Keterampilan Bertarung, efek Kritis dan Kegagalan Mutlak-nya dicakup oleh aturan pertempuran, sebagaimana dirinci dalam bab [Pertarungan](0005_Combat.md).
 
 #### Kekuatan Kehendak (POW x2)
 
@@ -367,12 +367,12 @@ Lemparan Diferensial ditentukan dengan cara berikut: Kedua peserta melempar terh
 
 ##### Hasil Lemparan Diferensial
 
-| Hasil Lemparan | Antagonis Kritis | Antagonis Sukses | Antagonis Gagal | Antagonis Fumble |
+| Hasil Lemparan | Antagonis Kritis | Antagonis Sukses | Antagonis Gagal | Antagonis Kegagalan Mutlak |
 | :-- | :--: | :--: | :--: | :--: |
 | Protagonis Kritis | Tanpa Keuntungan | Protagonis Menang 1 Tingkat Keberhasilan | Protagonis Menang 2 Tingkat Keberhasilan | Protagonis Menang 3 Tingkat Keberhasilan |
 | Protagonis Sukses | Antagonis Menang 1 Tingkat Keberhasilan | Tanpa Keuntungan | Protagonis Menang 1 Tingkat Keberhasilan | Protagonis Menang 2 Tingkat Keberhasilan |
 | Protagonis Gagal | Antagonis Menang 2 Tingkat Keberhasilan | Antagonis Menang 1 Tingkat Keberhasilan | Tanpa Keuntungan | Tanpa Keuntungan |
-| Protagonis Fumble | Antagonis Menang 3 Tingkat Keberhasilan | Antagonis Menang 2 Tingkat Keberhasilan | Tanpa Keuntungan | Tanpa Keuntungan |
+| Protagonis Kegagalan Mutlak | Antagonis Menang 3 Tingkat Keberhasilan | Antagonis Menang 2 Tingkat Keberhasilan | Tanpa Keuntungan | Tanpa Keuntungan |
 
 ### Keterampilan Lawanan di atas 100%
 
