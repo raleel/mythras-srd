@@ -59,7 +59,7 @@ Jika lemparan Magic adalah...
 - **Critical Success:** biaya Magic Point mantra adalah nol.
 - **Success:** perapal kehilangan 1 Magic Point, dan mantra berhasil.
 - **Failure:** perapal kehilangan 1 Magic Point, tetapi mantra tidak berhasil.
-- **Fumble:** perapal kehilangan 1d3 Magic Points untuk mantra tersebut dan mantra gagal.
+- **Kegagalan Mutlak:** perapal kehilangan 1d3 Magic Points untuk mantra tersebut dan mantra gagal.
 
 Karena sifatnya yang kecil atau sepele, semua mantra Sihir memiliki Intensitas dan Magnitudo default sebesar 1.
 
@@ -292,7 +292,7 @@ Boost: Habiskan 2 Power Points untuk mendapatkan satu Action Point ekstra yang h
 
 Hit points dihitung menggunakan CON+SIZ+POW dan Healing Rate dihitung menggunakan CON+ setengah POW, dibulatkan ke atas.
 
-**Boost:** Habiskan 2 Power Points sebagai aksi bebas untuk memulihkan Healing Rate dalam Hit Points yang hilang atau satu tingkat Kelelahan yang hilang.
+**Boost:** Habiskan 2 Power Points sebagai Aksi Gratis untuk memulihkan Healing Rate dalam Hit Points yang hilang atau satu tingkat Kelelahan yang hilang.
 
 #### Elemental Control
 
@@ -338,7 +338,7 @@ Pilih satu indra. Pemeriksaan persepsi dengan indra tersebut satu tingkat skill 
 
 **Boost:** Habiskan 2 Power Points untuk menggunakan kekuatan inti pada indra yang berbeda.
 
-#### Inherent Armor
+#### Inherent Zirah
 
 Memberikan nilai pelindung pada semua lokasi setara dengan sepertiga CON, dibulatkan ke atas. Karakter dapat memilih untuk mengurangi nilai lokasi hingga dua poin untuk menambahkannya ke lokasi lain; misalnya, menurunkan nilai lengan kanan mereka untuk ditambahkan ke kepala.
 
@@ -372,7 +372,7 @@ Pilih tiga skill dengan satu karakteristik yang sama, dan pemeriksaan dengan ski
 
 Teleport ke titik mana pun yang terlihat dalam jarak POW meter sebagai aksi bergerak.
 
-**Boost:** Habiskan 2 Power Points untuk teleport hingga setengah POW dalam meter, dibulatkan ke atas, sebagai aksi bebas.
+**Boost:** Habiskan 2 Power Points untuk teleport hingga setengah POW dalam meter, dibulatkan ke atas, sebagai Aksi Gratis.
 
 #### Vaporous Form
 

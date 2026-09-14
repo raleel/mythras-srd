@@ -105,7 +105,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Senjata | Ukuran | Kerusakan | AP/HP | Spesial |
 | :-- | :-: | :--: | :--: | :-- |
 | Gigitan | H | 1d10+2d6 | sesuai lokasi | |
-| Ekor | H | 1d8+2d6 | sesuai lokasi | [Benturan](0005_Combat.md?id=bash), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
+| Ekor | H | 1d8+2d6 | sesuai lokasi | [Benturan](0005_Combat.md?id=Dorong), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
 
 ##### Lokasi Pukulan & Zirah
 
@@ -146,7 +146,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Gigitan | E | 1d12+2d8 | sesuai lokasi | |
 | Cakar | E | 1d10+2d8 | sesuai lokasi | |
 | Napas Api | E | 4d6 | - | Api yang diembuskan naga membentang dalam kerucut sepanjang CON naga (35m), dan selebar seperempat CON (9m). Apa pun yang terkena ledakan akan terbakar jika mudah terbakar, dan panasnya cukup kuat untuk melelehkan logam yang tidak terpesona. |
-| Ekor | E | 1d10+2d8 | sesuai lokasi | [Benturan](0005_Combat.md?id=bash), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
+| Ekor | E | 1d10+2d8 | sesuai lokasi | [Benturan](0005_Combat.md?id=Dorong), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
 | Menginjak | C | 4d8 | - | 
 
 ##### Lokasi Pukulan & Zirah
@@ -187,7 +187,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | :-- | :-: | :--: | :--: | :-- |
 | Pedang Pendek | M | 1d6 | 6/8 | [Pendarahan](0005_Combat.md?id=bleed), [Penusukan](0005_Combat.md?id=impale)|
 | Tombak | M | 1d8+1 | 4/5 | [Penusukan](0005_Combat.md?id=impale)|
-| Ketapel | L | 1d8 | 1/2 | [Benturan](0005_Combat.md?id=bash), [Stun Lokasi](0005_Combat.md?id=stun-location), Jarak 10/150/300m |
+| Ketapel | L | 1d8 | 1/2 | [Benturan](0005_Combat.md?id=Dorong), [Stun Lokasi](0005_Combat.md?id=stun-location), Jarak 10/150/300m |
 | Perisai | L | 1d4 | 4/9 | [Blok Pasif/Menangkal 3 lokasi](0005_Combat.md?id=passive-blocking), Tangkisan Jarak Jauh |
 
 ##### Lokasi Pukulan & Zirah

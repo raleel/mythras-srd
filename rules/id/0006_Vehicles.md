@@ -10,7 +10,7 @@ Aturan di bagian ini memungkinkan representasi sebagian besar jenis kendaraan te
 Semua kendaraan dideskripsikan berdasarkan Struktur, Lambung (Hull), Kecepatan (Speed), Sistem, Sifat (Traits), dan Perisai (Shields) (jika ada dalam pengaturan).
 
 - **[Ukuran](0006_Vehicles.md?id=vehicle-size-table):** Semua kendaraan memiliki satu dari enam peringkat Ukuran yang menentukan nilai atau rentang dari karakteristik lainnya. Karena ukuran intrinsiknya yang lebih besar dan lingkungan ruang angkasa yang berbahaya, kapal luar angkasa memiliki rentang nilainya sendiri.
-- **[Lambung](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Armor.
+- **[Lambung](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Zirah.
 - **[Struktur](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Hit kendaraan.
 - **[Perisai](0006_Vehicles.md?id=shields):** Dalam pengaturan dengan teknologi manipulasi energi canggih, perisai mungkin ada untuk melindungi kendaraan, tetapi dapat terkikis di bawah tembakan terus-menerus.
 - **[Sistem](0006_Vehicles.md?id=systems):** Mewakili komponen vital kendaraan, termasuk pembangkit listrik, bagian kru, dan sebagainya.
@@ -62,7 +62,7 @@ Setelah kekuatan perisai deflektor turun menjadi nol, perisai tersebut runtuh. K
 
 Setiap kali kendaraan menderita kerusakan yang menembus lambungnya, ada peluang, setara dengan kerusakan yang menembus, bahwa Sistem vital telah terpengaruh.
 
-_Contoh: 10 kerusakan diterapkan pada Speedboat - kendaraan dengan 3 Lambung dan 24 Struktur. Lambung bertindak sebagai armor yang mengurangi kerusakan menjadi 7. Ini dikurangi dari 24 poin Struktur dan ada peluang 7% untuk merusak salah satu Sistem kendaraan._
+_Contoh: 10 kerusakan diterapkan pada Speedboat - kendaraan dengan 3 Lambung dan 24 Struktur. Lambung bertindak sebagai Zirah yang mengurangi kerusakan menjadi 7. Ini dikurangi dari 24 poin Struktur dan ada peluang 7% untuk merusak salah satu Sistem kendaraan._
 
 Kerusakan yang dapat ditahan oleh sebuah Sistem didasarkan sepenuhnya pada ukuran kendaraan. Ini dimodelkan oleh jumlah hit yang dapat diterima sebuah Sistem, bukan jumlah kerusakan aktual. Satu Hit Sistem pada kendaraan Kecil akan langsung menghancurkan Sistem tersebut. Dibutuhkan dua hit untuk menghancurkan Sistem kendaraan berukuran Sedang, tiga untuk kendaraan Besar, dan seterusnya. Lihat [Tabel Kerusakan Sistem](0006_Vehicles.md?id=system-damage-table) di bawah.
 
