@@ -1,4 +1,0 @@
-- [Beranda](/)
-- [Cara Bermain](HowTo.md)
-- [Catatan Perubahan](Changelog.md)
-- [GitHub](https://github.com/raleel/mythras-srd)
