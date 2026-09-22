@@ -1,12 +1,12 @@
 # Pertarungan
 
 Pertarungan adalah fitur penting dalam permainan peran. Konfrontasi kekerasan selalu menjadi cara untuk menyelesaikan masalah, mulai dari perkelahian karena dendam antara musuh bebuyutan, hingga bentrokan tentara di masa perang. Meskipun demikian, pertarungan tidak harus menjadi pertempuran kejam sampai mati. Beberapa pertemuan pertarungan bisa berupa duel yang seru dan berakhir tanpa cedera, atau mungkin perkelahian ringan di bar. _Mythras Imperative_ menggunakan beberapa istilah untuk menjelaskan elemen inti pertarungan. Istilah-istilah ini dijelaskan di bagian berikut, namun secara garis besar adalah:
-- **Gaya Bertarung (Combat Style):** Keterampilan menggunakan sekelompok senjata yang dipelajari sebagai bagian dari budaya atau profesi.
+- **Gaya Bertarung (Gaya Tarung):** Keterampilan menggunakan sekelompok senjata yang dipelajari sebagai bagian dari budaya atau profesi.
 - **Ronde Pertarungan (Combat Rounds):** Segmen waktu pembukuan masing-masing lima detik.
 - **Aksi Pertarungan (Combat Actions):** Tindakan yang dapat dilakukan karakter selama satu Ronde dengan mengeluarkan Poin Aksi (Action Point).
-- **Ukuran Senjata (Weapon Size):** Seberapa sulit menangkis senjata tertentu.
+- **Ukuran Senjata (Weapon Ukuran):** Seberapa sulit menangkis senjata tertentu.
 - **Keterlibatan (Engagement):** Saat petarung dapat memukul atau dipukul oleh lawan langsung, tergantung pada situasinya.
-- **Efek Khusus (Special Effects):** Manuver pertarungan yang dapat dilakukan jika salah satu petarung unggul.
+- **Efek Khusus (Efek Spesial):** Manuver pertarungan yang dapat dilakukan jika salah satu petarung unggul.
 
 ---
 ## Gaya Bertarung
@@ -27,12 +27,12 @@ Gaya bertarung memiliki fungsi lain selain sekadar mempelajari sekelompok ketera
 | :-- | :-- |
 | Penombak Berkuda | Melakukan serangan kavaleri dengan gaya bertarung ini tidak menimbulkan penalti kesulitan satu tingkat untuk mengenai lawan. |
 | Bertarung dalam Gelap | Memungkinkan pengguna mengabaikan penalti apa pun akibat pencahayaan buruk atau kebutaan sementara. |
-| Pemberani (Daredevil) | Dapat menggunakan keterampilan Menghindar (Evade) untuk menghindari pukulan dalam pertarungan jarak dekat tanpa berakhir dalam posisi tengkurap. |
+| Pemberani (Daredevil) | Dapat menggunakan keterampilan Menghindar (Menghindar) untuk menghindari pukulan dalam pertarungan jarak dekat tanpa berakhir dalam posisi tengkurap. |
 | Berpikiran Defensif | Meningkatkan Ukuran senjata Anda saat menangkis sebesar satu tingkat, asalkan tidak ada tindakan ofensif yang diambil pada ronde tersebut. |
 | Pertarungan Formasi | Mengizinkan kelompok yang tidak terdesak terdiri dari tiga prajurit atau lebih untuk membentuk formasi rapat, menempatkan lawan yang lebih terbuka atau tidak teratur dalam posisi tidak menguntungkan dan mengurangi Poin Aksi setiap lawan sebesar satu jika mereka terlibat. |
-| Pukulan KO | Saat menyerang dengan kejutan, perlakukan Lokasi Pingsan (Stun Location) sebagai bertahan selama hitungan menit, bukan putaran. |
-| Pertarungan Berkuda | Memungkinkan karakter mengabaikan batas keterampilan yang diberlakukan pada lemparan pertarungan oleh keterampilan Berkuda (Ride). |
-| Penembak Jitu | Saat menggunakan senjata jarak jauh, geser lemparan Lokasi Sasaran (Hit Location) acak ke lokasi tubuh yang berdekatan. |
+| Pukulan KO | Saat menyerang dengan kejutan, perlakukan Lokasi Pingsan (Stun Lokasi) sebagai bertahan selama hitungan menit, bukan putaran. |
+| Pertarungan Berkuda | Memungkinkan karakter mengabaikan batas keterampilan yang diberlakukan pada lemparan pertarungan oleh keterampilan Berkuda (Menunggang). |
+| Penembak Jitu | Saat menggunakan senjata jarak jauh, geser lemparan Lokasi Sasaran (Hit Lokasi) acak ke lokasi tubuh yang berdekatan. |
 | Menyerbu (Skirmishing) | Gaya ini memungkinkan peluncuran serangan jarak jauh sambil berjalan atau berlari. |
 | Lempar Senjata | Senjata jarak dekat apa pun dalam gaya ini juga dapat dilemparkan tanpa penalti keterampilan, namun saat digunakan dengan cara ini, lemparan kerusakan senjata akan dikurangi setengahnya. |
 | Kemahiran Tangan Kosong | Mengizinkan pengguna untuk memperlakukan blok dan tangkisan Tangan Kosong mereka sebagai ukuran 'Sedang', sehingga memungkinkan mereka bertahan lebih baik dari lawan bersenjata. |
@@ -45,7 +45,7 @@ Untuk menekankan sifat visceral-nya, pertarungan dilacak berdasarkan pukulan dem
 ---
 ## Senjata Api
 
-Jika menggunakan senjata api dalam permainan _Mythras Imperative_, ada beberapa hal yang perlu dipertimbangkan mengingat mematikannya baku tembak. Pertama, hampir mustahil untuk menghindari sinar laser atau peluru yang bergerak lebih cepat daripada refleks manusia. Menggunakan aturan pertarungan seperti yang disajikan, ini berarti kecuali seseorang mencoba menghindar dari area tersebut menggunakan Menghindar (Evade), serangan apa pun akan langsung membuat korban terkena satu atau lebih Efek Khusus. Hal ini juga mengubah ekonomi Poin Aksi. Jika Anda tidak dapat menggunakan poin untuk bertahan secara reaktif, maka sebagian besar karakter akan berakhir menggunakan semua tindakan mereka untuk menembak, bertaruh pada ketidakmampuan musuh mereka. Untuk menangani pergeseran paradigma ini, baik Game Master maupun Pemain mungkin perlu mengubah cara mereka memandang – dan mendekati – pertarungan senjata api. Beberapa hal yang perlu dicatat adalah:
+Jika menggunakan senjata api dalam permainan _Mythras Imperative_, ada beberapa hal yang perlu dipertimbangkan mengingat mematikannya baku tembak. Pertama, hampir mustahil untuk menghindari sinar laser atau peluru yang bergerak lebih cepat daripada refleks manusia. Menggunakan aturan pertarungan seperti yang disajikan, ini berarti kecuali seseorang mencoba menghindar dari area tersebut menggunakan Menghindar (Menghindar), serangan apa pun akan langsung membuat korban terkena satu atau lebih Efek Khusus. Hal ini juga mengubah ekonomi Poin Aksi. Jika Anda tidak dapat menggunakan poin untuk bertahan secara reaktif, maka sebagian besar karakter akan berakhir menggunakan semua tindakan mereka untuk menembak, bertaruh pada ketidakmampuan musuh mereka. Untuk menangani pergeseran paradigma ini, baik Game Master maupun Pemain mungkin perlu mengubah cara mereka memandang – dan mendekati – pertarungan senjata api. Beberapa hal yang perlu dicatat adalah:
 
 - Pertarungan senjata api itu berbahaya!
 - Secara keseluruhan, orang lebih mengutamakan untuk tidak tertembak daripada menembak orang lain.
@@ -54,7 +54,7 @@ Jika menggunakan senjata api dalam permainan _Mythras Imperative_, ada beberapa 
 - Senjata api sangat tidak akurat kecuali waktu diambil untuk menopang dan/atau membidik.
 - Saat Anda tertembak, hal buruk akan terjadi.
 
-Bertahan melawan tembakan senjata api sebagian besar menjadi masalah Zirah, menggunakan perlindungan, dan mencoba mencegah lawan agar tidak bisa menembak balik. Akibatnya, sebagian besar pertempuran senjata api cenderung menjadi sangat taktis – banyak tembakan supresi, gerakan menyamping, dan mengeluarkan musuh dari tempat persembunyian – di mana karakter mungkin menghabiskan seluruh ronde pertarungan dengan tertekan dan tidak dapat merespons sampai lawan berhenti menembak... yang mungkin dianggap sangat membosankan oleh sebagian pemain.
+Bertahan melawan tembakan senjata api sebagian besar menjadi masalah Armor, menggunakan perlindungan, dan mencoba mencegah lawan agar tidak bisa menembak balik. Akibatnya, sebagian besar pertempuran senjata api cenderung menjadi sangat taktis – banyak tembakan supresi, gerakan menyamping, dan mengeluarkan musuh dari tempat persembunyian – di mana karakter mungkin menghabiskan seluruh ronde pertarungan dengan tertekan dan tidak dapat merespons sampai lawan berhenti menembak... yang mungkin dianggap sangat membosankan oleh sebagian pemain.
 
 Sangat mungkin bahwa baku tembak total tidak akan mengakibatkan cedera apa pun; hanya satu pihak yang menyerah karena kehabisan amunisi atau melarikan diri sepenuhnya. Bagaimanapun, sedikit orang yang ingin mengambil risiko terkena rentetan tembakan dari senjata otomatis penuh.
 
@@ -97,7 +97,7 @@ Kecuali ditentukan lain, setiap Aksi Pertarungan (kecuali Aksi "Bebas") menelan 
 
 ### Aksi Proaktif
 
-Berikut adalah aktivitas yang dapat dicoba karakter pada Gilirannya dengan menghabiskan satu Poin Aksi. Perhatikan bahwa beberapa Aksi seperti merapalkan mantra atau mengisi ulang (reload) mungkin memerlukan beberapa Giliran untuk diselesaikan; setiap Giliran menelan biaya Poin Aksinya sendiri.
+Berikut adalah aktivitas yang dapat dicoba karakter pada Gilirannya dengan menghabiskan satu Poin Aksi. Perhatikan bahwa beberapa Aksi seperti merapalkan mantra atau mengisi ulang (Relod) mungkin memerlukan beberapa Giliran untuk diselesaikan; setiap Giliran menelan biaya Poin Aksinya sendiri.
 
 #### Serangan (Attack)
 Karakter dapat mencoba menyerang dengan senjata jarak dekat atau menggunakan Senjata Jarak Jauh.
@@ -108,7 +108,7 @@ Karakter menopang dengan mengambil posisi berdiri yang kokoh dan bersandar ke ar
 #### Merapalkan Sihir/Gunakan Kekuatan (Cast Magic/Use Power)
 Karakter dapat mencoba merapalkan mantra, menggunakan kekuatan tertentu, dan seterusnya. Sihir kompleks mungkin memerlukan beberapa Aksi untuk menyelesaikan perapalan. Setelah selesai, sihir dapat dilepaskan kapan saja hingga Giliran caster berikutnya – di mana sihir tersebut dapat ditahan untuk efek nanti, tetapi ini memerlukan Aksi Menahan Sihir/Kekuatan (Hold Magic/Power) untuk mempertahankannya dalam persiapan untuk pelepasan nanti.
 
-#### Mengubah Jarak (Change Range)
+#### Mengubah Jarak (Change Jarak)
 Karakter dapat mencoba mendekat atau mundur dari lawan, selama mereka tidak terlibat dalam pertarungan jarak dekat dengan lawan atau ditekan oleh tembakan musuh dalam situasi pertarungan jarak jauh.
 
 #### Menyerbu (Charge)
@@ -130,22 +130,22 @@ Karakter dapat menaiki atau turun dari hewan tunggangan atau kendaraan. Tunggang
 Asalkan seseorang tidak terlibat dengan lawan, karakter dapat bergerak sejauh apa pun yang dianggap sesuai oleh Game Master untuk situasi tersebut.
 
 #### Bermanuver (Outmaneuver)
-Karakter dapat melibatkan banyak lawan dalam kelompok Lemparan Lawan (Opposed Roll) dari keterampilan Menghindar (Evade). Mereka yang Gagal mengalahkan lemparannya tidak dapat menyerangnya pada Ronde Pertarungan tersebut. Lihat bagian tentang [Bermanuver](0005_Combat.md?id=outmaneuvering) di bawah.
+Karakter dapat melibatkan banyak lawan dalam kelompok Lemparan Lawan (Opposed Roll) dari keterampilan Menghindar (Menghindar). Mereka yang Gagal mengalahkan lemparannya tidak dapat menyerangnya pada Ronde Pertarungan tersebut. Lihat bagian tentang [Bermanuver](0005_Combat.md?id=outmaneuvering) di bawah.
 
 #### Menyiapkan Senjata (Ready Weapon)
 Karakter dapat mengambil, menarik, menyarungkan, menarik kembali, atau mengisi ulang senjata atau objek lain. Mengambil objek yang jatuh di dekatnya memerlukan 2 Aksi: satu untuk bergerak dan menjangkau objek tersebut dan yang kedua untuk kembali ke posisi siap. Beberapa senjata rudal memerlukan beberapa Aksi untuk diisi ulang.
 
-#### Mengisi Ulang (Reload) (Senjata Api)
+#### Mengisi Ulang (Relod) (Senjata Api)
 Sesuai dengan Menyiapkan Senjata. Waktu pengisian ulang dapat sangat bervariasi tergantung pada jenis senjata. Senapan mesiu tembakan tunggal akan jauh lebih lambat untuk diisi ulang daripada mengganti magasin amunisi atau sumber daya.
 
 #### Mendapatkan Kembali Pijakan (Regain Footing)
-Jika tidak terlibat dengan lawan, karakter dapat secara otomatis mendapatkan kembali pijakannya setelah tersandung atau jatuh. Jika Terlibat (Engaged), karakter harus memenangkan Lemparan Lawan Brawn atau Atletik dengan lawan sebelum berdiri. Kontes ini tidak memerlukan biaya Poin Aksi untuk diselesaikan.
+Jika tidak terlibat dengan lawan, karakter dapat secara otomatis mendapatkan kembali pijakannya setelah tersandung atau jatuh. Jika Terlibat (Engaged), karakter harus memenangkan Lemparan Lawan Berotot atau Atletik dengan lawan sebelum berdiri. Kontes ini tidak memerlukan biaya Poin Aksi untuk diselesaikan.
 
 #### Mengintip (Sneak Peek) (Senjata Api)
 Mengintip memungkinkan seseorang yang saat ini berlindung di balik perlindungan untuk melihat sekilas guna menilai situasi taktis. Tindakan ini secara pura-pura aman, memungkinkan pengamat melakukan satu lemparan Persepsi sebelum kembali berlindung. Namun, jika tes Persepsi adalah kegagalan fatal (Kegagalan Mutlak), mereka dengan bodohnya memanjangkan kepala mereka atau tetap terlihat cukup lama bagi musuh untuk mengambil tembakan.
 
 #### Menstabilkan Senjata (Steady Weapon) (Senjata Api)
-Memungkinkan karakter untuk membangun postur menembak yang kuat dan mendukung senjata otomatis agar tetap stabil. Ini mengharuskan karakter setidaknya terlihat sebagian dan tidak sepenuhnya terlindungi oleh perlindungan. Manfaat utamanya adalah mengurangi penalti hentakan (recoil) dari tembakan Burst atau Full-Automatic sebanyak satu tingkat. Efek ini seperti Brace di mana manfaatnya berlanjut sampai karakter bergerak.
+Memungkinkan karakter untuk membangun postur menembak yang kuat dan mendukung senjata otomatis agar tetap stabil. Ini mengharuskan karakter setidaknya terlihat sebagian dan tidak sepenuhnya terlindungi oleh perlindungan. Manfaat utamanya adalah mengurangi penalti hentakan (recoil) dari tembakan Burst atau Full-Otomatis sebanyak satu tingkat. Efek ini seperti Brace di mana manfaatnya berlanjut sampai karakter bergerak.
 
 #### Berjuang (Struggle)
 Jika karakter menjadi korban dari jenis serangan atau Efek Khusus tertentu, mereka dapat mencoba melepaskan diri dari situasi tersebut. Misalnya, melepaskan diri dari cengkeraman musuh.
@@ -154,7 +154,7 @@ Jika karakter menjadi korban dari jenis serangan atau Efek Khusus tertentu, mere
 Mengganti Tembak memungkinkan pengguna senjata api otomatis atau tujuan ganda untuk mengubah pemilih pada senjata mereka guna memanfaatkan mode tembak lainnya. Jadi, senapan serbu dapat diubah dari semi-otomatis ke burst, memilih jenis amunisi yang berbeda, atau sistem tambahan seperti pelontar granat integral diaktifkan. Sementara senjata modern memerlukan Poin Aksi pada Giliran karakter untuk mengganti mode, senjata api berteknologi tinggi yang cukup canggih mungkin mengizinkannya sebagai Aksi Gratis, yang dipicu oleh implan elektronik atau pembacaan pikiran psikis pengguna.
 
 #### Berlindung (Take Cover)
-Berlindung adalah aksi proaktif yang memungkinkan penembak untuk bersembunyi di balik perlindungan apa pun yang tersedia di sekitar mereka, sehingga mendapatkan tingkat perlindungan tertentu terhadap tembakan yang masuk. Tidak seperti Menghindar, tindakan ini tidak meninggalkan pengguna dalam posisi tengkurap tetapi bergantung pada adanya bentuk perlindungan yang tersedia, misalnya kembali ke sekitar sudut koridor atau berjongkok di balik meja di bar. Tergantung pada keadaannya, perlindungan yang tersedia mungkin cukup atau mungkin tidak cukup untuk melindungi karakter sepenuhnya. Jenis perlindungan juga akan menentukan kualitas pelindungnya; pintu baja tebal misalnya mungkin terbukti tidak tertembus peluru, sedangkan dinding kayu tipis mungkin hanya memberikan 4 Poin Zirah. Untuk panduan umum mengenai kualitas pelindung bahan tertentu, lihat tabel di bagian [Objek Mati](0004_Game_System.md?id=inanimate-objects).
+Berlindung adalah aksi proaktif yang memungkinkan penembak untuk bersembunyi di balik perlindungan apa pun yang tersedia di sekitar mereka, sehingga mendapatkan tingkat perlindungan tertentu terhadap tembakan yang masuk. Tidak seperti Menghindar, tindakan ini tidak meninggalkan pengguna dalam posisi tengkurap tetapi bergantung pada adanya bentuk perlindungan yang tersedia, misalnya kembali ke sekitar sudut koridor atau berjongkok di balik meja di bar. Tergantung pada keadaannya, perlindungan yang tersedia mungkin cukup atau mungkin tidak cukup untuk melindungi karakter sepenuhnya. Jenis perlindungan juga akan menentukan kualitas pelindungnya; pintu baja tebal misalnya mungkin terbukti tidak tertembus peluru, sedangkan dinding kayu tipis mungkin hanya memberikan 4 Poin Armor. Untuk panduan umum mengenai kualitas pelindung bahan tertentu, lihat tabel di bagian [Objek Mati](0004_Game_System.md?id=inanimate-objects).
 
 ### Aksi Reaktif
 
@@ -163,7 +163,7 @@ Daftar ini menentukan Reaksi yang dapat digunakan kapan saja selama Ronde Pertar
 #### Melawan Sihir (Counter Spell)
 Karakter dapat mencoba membatalkan atau melawan mantra yang masuk. Ini mengasumsikan sihir pelawan memiliki Waktu Perapalan (Casting Time) satu Giliran, jika tidak, sihir tersebut harus disiapkan terlebih dahulu dan ditahan sementara menggunakan Aksi Menahan Sihir (Hold Magic). Berhasil mencegat sihir dengan cara ini dianggap meniadakan seluruh mantra, bahkan yang memiliki banyak target atau area efek.
 
-#### Menghindar (Evade)
+#### Menghindar (Menghindar)
 Karakter dapat menggunakan keterampilan Menghindar mereka dalam upaya untuk menghindar dari ancaman seperti rudal yang masuk atau serangan serbu. Ini membuat karakter dalam posisi tengkurap kecuali dimitigasi oleh Kemampuan atau keadaan khusus. Dengan demikian, giliran karakter berikutnya biasanya dihabiskan untuk mengambil Aksi Mendapatkan Kembali Pijakan untuk berdiri kembali.
 
 #### Interupsi (Interrupt)
@@ -191,7 +191,7 @@ Karakter dapat berbicara kapan saja selama pertarungan, tetapi apa yang dikataka
 #### Menggunakan Poin Keberuntungan (Use Luck Point)
 Menggunakan Poin Keberuntungan – misalnya untuk menggulirkan ulang hasil tertentu – adalah Aksi Gratis.
 
-#### Menjaga Lokasi (Ward Location)
+#### Menjaga Lokasi (Ward Lokasi)
 Karakter menjaga Lokasi Sasaran tertentu agar tidak terkena pukulan dengan mendedikasikan salah satu senjata mereka untuk memblokir area tersebut secara pasif. Pukulan apa pun yang mendarat di lokasi itu kerusakannya secara otomatis diturunkan sesuai normal untuk senjata penangkis dari Ukurannya. Perlindungan berlanjut sampai senjata yang didedikasikan digunakan untuk menyerang atau Menangkis secara aktif. Menetapkan atau mengubah Lokasi Sasaran yang ditutupi harus dilakukan sebelum lawan menggulirkan serangan terhadap karakter. Karena desainnya, perisai dapat menutupi beberapa area.
 
 Untuk penjelasan lebih lanjut, lihat [Blokir Pasif](0005_Combat.md?id=passive-blocking) di bawah.
@@ -214,9 +214,9 @@ Aturan berikut mengatur keterlibatan dalam pertarungan:
 Tingkat pergerakan ini bersifat situasional dan tidak selalu menjadi pilihan. Banyak yang dirinci di tempat lain tetapi disertakan di sini untuk kenyamanan. Sebagian besar tingkat situasional ini dapat digunakan sebagai tambahan pada Tingkat Pergerakan normal di bawah batasan yang ditetapkan. Informasi tersebut dirinci dalam deskripsi spesifik di bawah ini.
 
 #### Memanjat (Climb)
-Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah permukaan atau objek yang dapat dipanjat dapat memanjat dengan kecepatan yang sama dengan Tingkat Pergerakan Dasar. Karakter tidak boleh bergerak lebih cepat dari Jalan Kaki dan harus memiliki sisa pergerakan, dengan jarak panjat dikurangi oleh pergerakan apa pun yang sudah digunakan. Zirah yang dikenakan menghambat pemanjat berdasarkan total Poin Zirah yang dikenakan.
+Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah permukaan atau objek yang dapat dipanjat dapat memanjat dengan kecepatan yang sama dengan Tingkat Pergerakan Dasar. Karakter tidak boleh bergerak lebih cepat dari Jalan Kaki dan harus memiliki sisa pergerakan, dengan jarak panjat dikurangi oleh pergerakan apa pun yang sudah digunakan. Armor yang dikenakan menghambat pemanjat berdasarkan total Poin Armor yang dikenakan.
 
-##### Tabel Penalti Pergerakan Zirah
+##### Tabel Penalti Pergerakan Armor
 
 | Total AP yang Dikenakan | Kategori Beban | Pergerakan |
 | :-: | :-: | :-: |
@@ -225,14 +225,14 @@ Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah permuka
 | 16-23 | Sedang | -2 |
 | 24-31 | Berat | -3 |
 | 32-39 | Luar Biasa | -4 |
-| 40+ | Herculean | -5 |
+| 40+ | Herkules | -5 |
 
 <details>
 <summary>* Errata Komunitas</summary>
 #### Memanjat
-_Teks asli berbunyi "Zirah yang dikenakan menghambat pemanjat dengan jumlah yang sama dengan Poin Zirah dari barang terberat yang dikenakan."_
+_Teks asli berbunyi "Armor yang dikenakan menghambat pemanjat dengan jumlah yang sama dengan Poin Armor dari barang terberat yang dikenakan."_
 
-_Aturan yang tertulis dengan cepat menimbulkan masalah. Mengenakan satu potong Zirah 6AP akan mengurangi manusia menjadi Pergerakan 0, yang berarti manusia yang mengenakan helm baja dan tidak ada yang lain akan terlalu terbebani untuk memanjat sama sekali. Ini tampaknya terlalu membatasi, oleh karena itu versi yang diedit disarankan di atas. Ini akan diperbarui mengikuti saran Loz di [forum TDM](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
+_Aturan yang tertulis dengan cepat menimbulkan masalah. Mengenakan satu potong Armor 6AP akan mengurangi manusia menjadi Pergerakan 0, yang berarti manusia yang mengenakan helm baja dan tidak ada yang lain akan terlalu terbebani untuk memanjat sama sekali. Ini tampaknya terlalu membatasi, oleh karena itu versi yang diedit disarankan di atas. Ini akan diperbarui mengikuti saran Loz di [forum TDM](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
 </details>
 
 #### Merangkak (Crawl)
@@ -245,26 +245,26 @@ Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah rintang
 
 Lemparan Atletik yang berhasil memungkinkan seseorang untuk melompat hingga dua kali tinggi badannya sendiri secara horizontal atau hingga setengah tinggi badannya sendiri secara vertikal (jika karakter memiliki setidaknya jarak ancang lima meter). Jika melompat dari posisi berdiri, maka jarak ini dikurangi setengahnya.
 
-Kurangi jarak lompat dalam meter sebesar seperlima dari total 'Barang' yang dibawa. Zirah yang dikenakan menghambat pelompat, dengan setiap lokasi yang ditutupi oleh Zirah ringan dihitung sebagai 1 'Barang' dalam perhitungan sebelumnya, dan Zirah berat dihitung sebagai 2 'Barang.'
+Kurangi jarak lompat dalam meter sebesar seperlima dari total 'Barang' yang dibawa. Armor yang dikenakan menghambat pelompat, dengan setiap lokasi yang ditutupi oleh Armor ringan dihitung sebagai 1 'Barang' dalam perhitungan sebelumnya, dan Armor berat dihitung sebagai 2 'Barang.'
 
 <details>
 <summary>* Errata Komunitas</summary>
 #### Melompat
-_Teks asli tidak menyebutkan Zirah atau Beban. Penalti Memanjat Loz terlalu membatasi untuk digunakan untuk Melompat seperti adanya tetapi Classic Fantasy Imperative kembali mengaitkan penalti Zirah dengan Beban:_
-- _"Kurangi jarak lompat dalam kaki sebesar setengah dari total 'Barang' yang dibawa. Zirah yang dikenakan menghambat pelompat, dengan setiap lokasi yang ditutupi oleh Zirah ringan dihitung sebagai 1 'Barang' dalam perhitungan sebelumnya, dan Zirah berat dihitung sebagai 2 'Barang'."_
+_Teks asli tidak menyebutkan Armor atau Beban. Penalti Memanjat Loz terlalu membatasi untuk digunakan untuk Melompat seperti adanya tetapi Classic Fantasy Imperative kembali mengaitkan penalti Armor dengan Beban:_
+- _"Kurangi jarak lompat dalam kaki sebesar setengah dari total 'Barang' yang dibawa. Armor yang dikenakan menghambat pelompat, dengan setiap lokasi yang ditutupi oleh Armor ringan dihitung sebagai 1 'Barang' dalam perhitungan sebelumnya, dan Armor berat dihitung sebagai 2 'Barang'."_
 </details>
 
-#### Berenang (Swim)
-Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah perairan dapat berenang dengan kecepatan yang sama dengan Tingkat Pergerakan Dasar, dikurangi pergerakan apa pun yang sudah digunakan. Lihat deskripsi Berenang di bagian [Keterampilan](0003_Skills.md?id=swim-strcon) untuk informasi lebih lanjut.
+#### Berenang (Berenang)
+Karakter yang bergerak berdekatan dengan atau memulai Giliran di sebelah perairan dapat berenang dengan kecepatan yang sama dengan Tingkat Pergerakan Dasar, dikurangi pergerakan apa pun yang sudah digunakan. Lihat deskripsi Berenang di bagian [Keterampilan](0003_Skills.md?id=Berenang-strcon) untuk informasi lebih lanjut.
 
-Dalam kondisi normal, kecepatan berenang maksimum karakter per Ronde sama dengan Tingkat Pergerakan mereka, -1 untuk setiap 'Barang' yang dibawa lebih dari STR karakter. Zirah yang dikenakan menghambat perenang, dengan setiap lokasi yang ditutupi oleh Zirah ringan dihitung sebagai 1 'Barang' tambahan yang dibawa, dan setiap lokasi yang ditutupi oleh Zirah berat dihitung sebagai 2 'Barang' tambahan yang dibawa. Jika total ENC mengurangi jarak berenang menjadi 0 atau kurang, karakter secara otomatis mulai tenggelam (lihat [Asfiksia](0004_Game_System.md?id=asphyxiation)).
+Dalam kondisi normal, kecepatan berenang maksimum karakter per Ronde sama dengan Tingkat Pergerakan mereka, -1 untuk setiap 'Barang' yang dibawa lebih dari STR karakter. Armor yang dikenakan menghambat perenang, dengan setiap lokasi yang ditutupi oleh Armor ringan dihitung sebagai 1 'Barang' tambahan yang dibawa, dan setiap lokasi yang ditutupi oleh Armor berat dihitung sebagai 2 'Barang' tambahan yang dibawa. Jika total ENC mengurangi jarak berenang menjadi 0 atau kurang, karakter secara otomatis mulai tenggelam (lihat [Asfiksia](0004_Game_System.md?id=asphyxiation)).
 
 <details>
 <summary>* Errata Komunitas</summary>
 #### Berenang
-_Versi _Mythras Imperative_ yang diterbitkan tidak memiliki aturan eksplisit untuk pergerakan Berenang pada gaya atau kecepatan yang berbeda. Classic Fantasy Imperative kembali mengaitkan penalti Zirah dengan Beban:_
+_Versi _Mythras Imperative_ yang diterbitkan tidak memiliki aturan eksplisit untuk pergerakan Berenang pada gaya atau kecepatan yang berbeda. Classic Fantasy Imperative kembali mengaitkan penalti Armor dengan Beban:_
 
-- _Dalam kondisi normal, kecepatan berenang maksimum karakter per Ronde sama dengan Tingkat Pergerakan mereka, -1 untuk setiap 'Barang' yang dibawa lebih dari STR karakter. Zirah yang dikenakan menghambat perenang, dengan setiap lokasi yang ditutupi oleh Zirah ringan dihitung sebagai 1 'Barang' tambahan yang dibawa, dan setiap lokasi yang ditutupi oleh Zirah berat dihitung sebagai 2 'Barang' tambahan yang dibawa. Jika total ENC mengurangi jarak berenang menjadi 0 atau kurang, karakter secara otomatis mulai tenggelam (lihat Asfiksia)._
+- _Dalam kondisi normal, kecepatan berenang maksimum karakter per Ronde sama dengan Tingkat Pergerakan mereka, -1 untuk setiap 'Barang' yang dibawa lebih dari STR karakter. Armor yang dikenakan menghambat perenang, dengan setiap lokasi yang ditutupi oleh Armor ringan dihitung sebagai 1 'Barang' tambahan yang dibawa, dan setiap lokasi yang ditutupi oleh Armor berat dihitung sebagai 2 'Barang' tambahan yang dibawa. Jika total ENC mengurangi jarak berenang menjadi 0 atau kurang, karakter secara otomatis mulai tenggelam (lihat Asfiksia)._
 </details>
 
 ---
@@ -282,7 +282,7 @@ Pertarungan jarak dekat ditangani dengan langkah-langkah berikut:
 4. Perbedaan apa pun memberikan petarung yang berhasil dengan lemparan superior satu atau lebih Efek Khusus.
 5. Jika penyerang mencapai Keberhasilan atau Kritis, mereka dapat menggulirkan kerusakan senjata dan menerapkan Modifikator Kerusakan mereka (jika ada). Jika berlaku, Lokasi Sasaran ditentukan untuk pukulan tersebut.
 6. Jika pemain bertahan mencapai Keberhasilan atau Kritis, kurangi kerusakan yang ditimbulkan menurut ukuran relatif senjata yang terlibat.
-7. Kurangi kerusakan yang tersisa dengan Poin Zirah dari perlindungan alami atau yang dikenakan.
+7. Kurangi kerusakan yang tersisa dengan Poin Armor dari perlindungan alami atau yang dikenakan.
 
 Perhatikan bahwa Efek Khusus apa pun yang dihasilkan oleh pertukaran tersebut tidak bergantung pada apakah kerusakan ditimbulkan atau tidak. Sangat mungkin bagi pemain bertahan untuk mendapatkan tingkat keberhasilan yang lebih tinggi, namun tetap menderita cedera.
 
@@ -300,11 +300,11 @@ Jika pemain bertahan berhasil menangkis, maka mereka dapat mengurangi kerusakan 
 
 _Sebagai contoh, menangkis kapak besar (Raksasa) dengan perisai kite (juga Raksasa) akan memblokir semua kerusakan; menangkisnya dengan Pedang Panjang (Besar) akan mengurangi setengah kerusakan, dan menangkisnya dengan pedang pendek (Sedang) tidak akan menghentikan kerusakan sama sekali._
 
-### Zirah
+### Armor
 
-Setiap kerusakan yang menembus Tangkisan pemain bertahan selanjutnya dikurangi oleh Poin Zirah dari perlindungan alami (seperti sisik atau cangkang) atau Zirah yang dikenakan yang mereka miliki. Jika pemain bertahan memiliki keduanya, maka keduanya bertumpuk untuk mengurangi kerusakan.
+Setiap kerusakan yang menembus Tangkisan pemain bertahan selanjutnya dikurangi oleh Poin Armor dari perlindungan alami (seperti sisik atau cangkang) atau Armor yang dikenakan yang mereka miliki. Jika pemain bertahan memiliki keduanya, maka keduanya bertumpuk untuk mengurangi kerusakan.
 
-Karena massa dan pembatasannya terhadap pergerakan, nilai Poin Zirah tertinggi dari Zirah yang dikenakan oleh karakter bertindak sebagai penalti pada lemparan Inisiatif mereka.
+Karena massa dan pembatasannya terhadap pergerakan, nilai Poin Armor tertinggi dari Armor yang dikenakan oleh karakter bertindak sebagai penalti pada lemparan Inisiatif mereka.
 
 ### Menangkis Serangan yang Meleset
 
@@ -342,11 +342,11 @@ Ketika dua atau lebih Efek Khusus diperoleh, petarung dapat dengan bebas mencamp
 | [Dorong](0005_Combat.md?id=Dorong) | X | | Perisai atau Tumpul | | |
 | [Bleed](0005_Combat.md?id=bleed) | X | | Senjata Potong | Senjata Api: Penyerang Kritis | |
 | [Blind Opponent](0005_Combat.md?id=blind-opponent) | | X | | Pemain Bertahan Kritis | |
-| [Bypass Zirah](0005_Combat.md?id=bypass-Zirah) | X | | | Penyerang Kritis | X |
-| [Choose Location](0005_Combat.md?id=choose-location) | X | | | Lihat Deskripsi | |
+| [Bypass Armor](0005_Combat.md?id=bypass-Armor) | X | | | Penyerang Kritis | X |
+| [Choose Lokasi](0005_Combat.md?id=choose-Lokasi) | X | | | Lihat Deskripsi | |
 | [Circumvent Cover](0005_Combat.md?id=circumvent-cover) | X | | Hanya Senjata Api Canggih | | |
 | [Circumvent Parry](0005_Combat.md?id=circumvent-parry) | X | | | Penyerang Kritis | |
-| [Damage Weapon](0005_Combat.md?id=damage-weapon) | X | X | | | |
+| [Daya Rusak Weapon](0005_Combat.md?id=Daya Rusak-weapon) | X | X | | | |
 | [Disarm Opponent](0005_Combat.md?id=disarm-opponent) | X | X | | | |
 | [Drop Foe](0005_Combat.md?id=drop-foe) | X | | Hanya Senjata Api | | |
 | [Duck Back](0005_Combat.md?id=duck-back) | X | | Hanya Senjata Api | | |
@@ -356,15 +356,15 @@ Ketika dua atau lebih Efek Khusus diperoleh, petarung dapat dengan bebas mencamp
 | [Grip](0005_Combat.md?id=grip) | X | | Tangan Kosong | | |
 | [Impale](0005_Combat.md?id=impale) | X | | Senjata Penusuk | | |
 | [Marksman](0005_Combat.md?id=marksman) | X | | Senjata Jarak Jauh | | |
-| [Maximize Damage](0005_Combat.md?id=maximize-damage) | X | | | Penyerang Kritis | X |
+| [Maximize Daya Rusak](0005_Combat.md?id=maximize-Daya Rusak) | X | | | Penyerang Kritis | X |
 | [Overpenetration](0005_Combat.md?id=overpenetration) | X | | Hanya Senjata Api | Penyerang Kritis | |
 | [Pin Down](0005_Combat.md?id=pin-down) | X | | Hanya Senjata Api | | X |
 | [Prepare Counter](0005_Combat.md?id=prepare-counter) | | X | | | X |
-| [Rapid Reload](0005_Combat.md?id=rapid-reload) | X | | | | X |
+| [Rapid Relod](0005_Combat.md?id=rapid-Relod) | X | | | | X |
 | [Scar Foe](0005_Combat.md?id=scar-foe) | X | X | | | |
 | [Select Target](0005_Combat.md?id=select-target) | | X | | Penyerang Kegagalan Mutlak | |
 | [Slip Free](0005_Combat.md?id=slip-free) | | X | | Pemain Bertahan Kritis | |
-| [Stun Location](0005_Combat.md?id=stun-location) | X | | Senjata Tumpul | | |
+| [Stun Lokasi](0005_Combat.md?id=stun-Lokasi) | X | | Senjata Tumpul | | |
 | [Sunder](0005_Combat.md?id=sunder) | X | | Senjata Dua Tangan | | |
 | [Trip Opponent](0005_Combat.md?id=trip-opponent) | X | X | | | |
 | [Weapon Malfunction](0005_Combat.md?id=weapon-malfunction) | | X | Hanya Senjata Api | Penyerang Kegagalan Mutlak | |
@@ -373,13 +373,13 @@ Ketika dua atau lebih Efek Khusus diperoleh, petarung dapat dengan bebas mencamp
 ### Deskripsi Efek Khusus
 
 #### Cedera Tidak Disengaja (Accidental Injury)
-Pemain bertahan membelokkan atau memutar serangan lawan sedemikian rupa sehingga penyerang melakukan kegagalan fatal (Kegagalan Mutlak), melukai dirinya sendiri. Penyerang harus menggulirkan kerusakan terhadap dirinya sendiri di Lokasi Sasaran acak menggunakan senjata yang digunakan untuk menyerang. Jika tangan kosong, penyerang merobek atau mematahkan sesuatu di dalam tubuh, lemparan kerusakan mengabaikan Zirah apa pun.
+Pemain bertahan membelokkan atau memutar serangan lawan sedemikian rupa sehingga penyerang melakukan kegagalan fatal (Kegagalan Mutlak), melukai dirinya sendiri. Penyerang harus menggulirkan kerusakan terhadap dirinya sendiri di Lokasi Sasaran acak menggunakan senjata yang digunakan untuk menyerang. Jika tangan kosong, penyerang merobek atau mematahkan sesuatu di dalam tubuh, lemparan kerusakan mengabaikan Armor apa pun.
 
 #### Bangkit (Arise)
 Memungkinkan pemain bertahan menggunakan celah sesaat untuk kembali berdiri.
 
 #### Dorong
-Penyerang dengan sengaja membenturkan lawan hingga kehilangan keseimbangan. Seberapa jauh pemain bertahan terhuyung ke belakang atau ke samping tergantung pada senjata yang digunakan. Perisai menjatuhkan lawan ke belakang satu meter untuk setiap 2 poin kerusakan yang digulirkan (sebelum pengurangan apa pun karena Zirah, tangkisan, dan seterusnya), sedangkan senjata tumpul menjatuhkan satu meter untuk setiap tiga poin. Dorong hanya bekerja pada makhluk hingga dua kali SIZ penyerang. Jika penerima terpaksa mundur ke rintangan, maka mereka harus melakukan lemparan keterampilan Akrobatik - atau Atletik pada tingkat kesulitan Sulit - untuk menghindari jatuh atau tersandung. Untuk senjata api, karena Dorong lebih bergantung pada menangkap lawan yang tidak seimbang, daripada melempar mereka ke belakang dengan kekuatan murni, sangat masuk akal bagi amunisi proyektil untuk menyebabkan target terhuyung jika mengenai ekstremitas. Senjata energi lebih kecil kemungkinannya untuk menimbulkan efek tersebut kecuali fisika sinar tersebut mengakibatkan semacam ledakan permukaan.
+Penyerang dengan sengaja membenturkan lawan hingga kehilangan keseimbangan. Seberapa jauh pemain bertahan terhuyung ke belakang atau ke samping tergantung pada senjata yang digunakan. Perisai menjatuhkan lawan ke belakang satu meter untuk setiap 2 poin kerusakan yang digulirkan (sebelum pengurangan apa pun karena Armor, tangkisan, dan seterusnya), sedangkan senjata tumpul menjatuhkan satu meter untuk setiap tiga poin. Dorong hanya bekerja pada makhluk hingga dua kali SIZ penyerang. Jika penerima terpaksa mundur ke rintangan, maka mereka harus melakukan lemparan keterampilan Akrobatik - atau Atletik pada tingkat kesulitan Sulit - untuk menghindari jatuh atau tersandung. Untuk senjata api, karena Dorong lebih bergantung pada menangkap lawan yang tidak seimbang, daripada melempar mereka ke belakang dengan kekuatan murni, sangat masuk akal bagi amunisi proyektil untuk menyebabkan target terhuyung jika mengenai ekstremitas. Senjata energi lebih kecil kemungkinannya untuk menimbulkan efek tersebut kecuali fisika sinar tersebut mengakibatkan semacam ledakan permukaan.
 
 <details>
 <summary>* Errata Komunitas</summary>
@@ -392,22 +392,22 @@ _Kata-kata tersebut telah diganti dengan "...mereka harus melakukan lemparan ket
 </details>
 
 #### Pendarahan (Bleed)
-Serangan memotong pembuluh darah utama. Jika pukulan mengatasi Poin Zirah dan melukai target, pemain bertahan harus melakukan Lemparan Lawan Ketahanan terhadap lemparan serangan asli. Jika pemain bertahan Gagal, maka mereka mulai berdarah deras. Di awal setiap Ronde Pertarungan, penerima kehilangan satu tingkat Kelelahan, sampai mereka pingsan dan mungkin mati. Luka pendarahan dapat dihentikan dengan lulus lemparan keterampilan Pertolongan Pertama, tetapi penerima tidak dapat lagi melakukan tindakan berat atau kekerasan tanpa membuka kembali luka tersebut. Lihat Kehilangan Darah, di bagian Sistem Permainan. Untuk senjata api, karena sebagian besar senjata api menghasilkan jalur luka yang sangat sempit, sebenarnya jauh lebih sulit untuk melukai atau memutuskan pembuluh darah utama dibandingkan dengan senjata pemotong atau penusuk. Karena ini, Pendarahan harus berupa Keberhasilan Kritis saja – kecuali senjata tersebut adalah semacam senjata aneh yang menembakkan shuriken, fléchette pisau cukur, medan gaya pipih, atau amunisi eksotis semacam itu.
+Serangan memotong pembuluh darah utama. Jika pukulan mengatasi Poin Armor dan melukai target, pemain bertahan harus melakukan Lemparan Lawan Ketahanan terhadap lemparan serangan asli. Jika pemain bertahan Gagal, maka mereka mulai berdarah deras. Di awal setiap Ronde Pertarungan, penerima kehilangan satu tingkat Kelelahan, sampai mereka pingsan dan mungkin mati. Luka pendarahan dapat dihentikan dengan lulus lemparan keterampilan Pertolongan Pertama, tetapi penerima tidak dapat lagi melakukan tindakan berat atau kekerasan tanpa membuka kembali luka tersebut. Lihat Kehilangan Darah, di bagian Sistem Permainan. Untuk senjata api, karena sebagian besar senjata api menghasilkan jalur luka yang sangat sempit, sebenarnya jauh lebih sulit untuk melukai atau memutuskan pembuluh darah utama dibandingkan dengan senjata pemotong atau penusuk. Karena ini, Pendarahan harus berupa Keberhasilan Kritis saja – kecuali senjata tersebut adalah semacam senjata aneh yang menembakkan shuriken, fléchette pisau cukur, medan gaya pipih, atau amunisi eksotis semacam itu.
 
 #### Butakan Lawan (Blind Opponent)
 Pada hasil Kritis, pemain bertahan secara singkat membutakan lawannya dengan melemparkan pasir, memantulkan sinar matahari dari perisainya, atau taktik lain yang secara singkat mengganggu penglihatan penyerang. Penyerang harus melakukan Lemparan Lawan keterampilan Menghindar (atau keterampilan Senjata jika menggunakan perisai) terhadap lemparan Tangkisan asli pemain bertahan. Jika penyerang Gagal, mereka menderita penalti situasional Sulit atau Luar Biasa selama 1d3 Giliran berikutnya, tergantung pada metode membutakan.
 
-#### Melewati Zirah (Bypass Zirah)
-Pada hasil Kritis, penyerang menemukan celah di Zirah alami atau yang dikenakan pemain bertahan. Jika pemain bertahan mengenakan Zirah di atas perlindungan alami, maka penyerang harus memutuskan mana dari keduanya yang dilewati. Efek ini dapat ditumpuk untuk melewati keduanya. Untuk tujuan efek ini, perlindungan fisik yang diperoleh dari sihir dianggap sebagai Zirah yang dikenakan. Meskipun Melewati Zirah secara pura-pura dapat digunakan dengan segala jenis serangan, beberapa jenis amunisi mungkin dicegah mengakses efek ini (peluru shotgun karena penyebarannya) atau sudah terintegrasi ke dalam kinerja dasarnya, memberikannya sebagai efek khusus bonus tambahan di atas efek lainnya yang dimenangkan (peluru Teleportasi). Banyak tergantung pada bagaimana Game Master ingin memodelkan senjata tersebut.
+#### Melewati Armor (Bypass Armor)
+Pada hasil Kritis, penyerang menemukan celah di Armor alami atau yang dikenakan pemain bertahan. Jika pemain bertahan mengenakan Armor di atas perlindungan alami, maka penyerang harus memutuskan mana dari keduanya yang dilewati. Efek ini dapat ditumpuk untuk melewati keduanya. Untuk tujuan efek ini, perlindungan fisik yang diperoleh dari sihir dianggap sebagai Armor yang dikenakan. Meskipun Melewati Armor secara pura-pura dapat digunakan dengan segala jenis serangan, beberapa jenis amunisi mungkin dicegah mengakses efek ini (peluru shotgun karena penyebarannya) atau sudah terintegrasi ke dalam kinerja dasarnya, memberikannya sebagai efek khusus bonus tambahan di atas efek lainnya yang dimenangkan (peluru Teleportasi). Banyak tergantung pada bagaimana Game Master ingin memodelkan senjata tersebut.
 
-#### Pilih Lokasi (Choose Location)
+#### Pilih Lokasi (Choose Lokasi)
 Saat menggunakan senjata jarak dekat tangan ke tangan, penyerang dapat dengan bebas memilih lokasi di mana pukulan mendarat, selama lokasi tersebut biasanya berada dalam jangkauan. Jika menggunakan senjata Jarak Jauh, termasuk senjata api, Pilih Lokasi hanya berlaku untuk Keberhasilan Kritis, kecuali target berada dalam Jarak Dekat dan diam atau tidak menyadari penyerang. Untuk senjata api, teropong teleskopik dapat memperpanjang jangkauan ini.
 
 #### Memitigasi Tangkisan (Circumvent Parry)
 Pada hasil Kritis, penyerang dapat sepenuhnya melewati Tangkisan yang seharusnya berhasil.
 
-#### Merusak Senjata (Damage Weapon)
-Mengizinkan karakter untuk merusak senjata lawannya sebagai bagian dari Serangan atau Tangkisan. Jika menyerang, karakter membidik secara khusus pada senjata Penangkis pemain bertahan dan menerapkan lemparan kerusakannya pada senjata tersebut, bukan pada pemegangnya. Senjata yang ditargetkan menggunakan Poin Zirah miliknya sendiri untuk menahan kerusakan. Jika dikurangi menjadi nol Poin Hit, senjata tersebut rusak. Untuk senjata api, karena memukul senjata genggam dari jarak jauh bahkan lebih sulit daripada menargetkan lokasi tubuh tertentu, ini umumnya harus dicadangkan untuk Keberhasilan Kritis saja. Namun, ada beberapa pengecualian, yang pertama adalah perisai harusnya, secara alami, jauh lebih mudah untuk dipukul. Yang kedua menyangkut senjata eksotis yang menembakkan sinar berbentuk kerucut yang mampu menargetkan objek genggam di dalam area pengaruhnya; misalnya, pistol induksi yang memanaskan objek logam.
+#### Merusak Senjata (Daya Rusak Weapon)
+Mengizinkan karakter untuk merusak senjata lawannya sebagai bagian dari Serangan atau Tangkisan. Jika menyerang, karakter membidik secara khusus pada senjata Penangkis pemain bertahan dan menerapkan lemparan kerusakannya pada senjata tersebut, bukan pada pemegangnya. Senjata yang ditargetkan menggunakan Poin Armor miliknya sendiri untuk menahan kerusakan. Jika dikurangi menjadi nol Poin Hit, senjata tersebut rusak. Untuk senjata api, karena memukul senjata genggam dari jarak jauh bahkan lebih sulit daripada menargetkan lokasi tubuh tertentu, ini umumnya harus dicadangkan untuk Keberhasilan Kritis saja. Namun, ada beberapa pengecualian, yang pertama adalah perisai harusnya, secara alami, jauh lebih mudah untuk dipukul. Yang kedua menyangkut senjata eksotis yang menembakkan sinar berbentuk kerucut yang mampu menargetkan objek genggam di dalam area pengaruhnya; misalnya, pistol induksi yang memanaskan objek logam.
 
 #### Melucuti Lawan (Disarm Opponent)
 Karakter memukul, menarik, atau memutar senjata lawan keluar dari tangannya. Lawan harus melakukan Lemparan Lawan Gaya Bertarung mereka terhadap lemparan asli karakter. Jika penerima pelucutan senjata kalah, senjatanya terlempar sejauh hasil lemparan Modifikator Kerusakan pelucut dalam meter. Jika tidak ada Modifikator Kerusakan, maka senjata jatuh di kaki orang yang dilucuti. Ukuran relatif senjata memengaruhi lemparan. Setiap tingkat senjata penyerang yang lebih besar meningkatkan kesulitan lemparan lawan sebesar satu tingkat. Sebaliknya, setiap tingkat senjata penyerang yang lebih kecil membuat kesulitan menjadi satu tingkat lebih mudah. Melucuti hanya bekerja pada makhluk hingga dua kali STR penyerang.
@@ -422,7 +422,7 @@ Ofensif, Hanya Senjata Api. Efek khusus ini memungkinkan penembak untuk segera k
 Pada hasil Kritis, pemain bertahan berhasil membelokkan seluruh kekuatan serangan, berapa pun Ukuran senjatanya.
 
 #### Menjerat (Entangle)
-Mengizinkan karakter yang memegang senjata penjerat, seperti cambuk atau jaring, untuk melumpuhkan lokasi yang terkena. Lengan yang terjerat tidak dapat menggunakan apa pun yang dipegangnya; kaki yang terjerat mencegah target bergerak; sementara kepala, dada, atau perut yang terperangkap membuat semua lemparan keterampilan menjadi satu tingkat lebih sulit. Pada giliran berikutnya, pemegang dapat menghabiskan Poin Aksi untuk melakukan upaya Menjatuhkan Lawan (Trip Opponent) otomatis. Korban yang terjerat dapat mencoba membebaskan diri pada giliran mereka dengan mencoba Lemparan Lawan menggunakan Kekuatan (Brawn) untuk menarik diri, atau dengan memenangkan Efek Khusus dan memilih Merusak Senjata, Melucuti Lawan, atau Slip Free.
+Mengizinkan karakter yang memegang senjata penjerat, seperti cambuk atau jaring, untuk melumpuhkan lokasi yang terkena. Lengan yang terjerat tidak dapat menggunakan apa pun yang dipegangnya; kaki yang terjerat mencegah target bergerak; sementara kepala, dada, atau perut yang terperangkap membuat semua lemparan keterampilan menjadi satu tingkat lebih sulit. Pada giliran berikutnya, pemegang dapat menghabiskan Poin Aksi untuk melakukan upaya Menjatuhkan Lawan (Trip Opponent) otomatis. Korban yang terjerat dapat mencoba membebaskan diri pada giliran mereka dengan mencoba Lemparan Lawan menggunakan Kekuatan (Berotot) untuk menarik diri, atau dengan memenangkan Efek Khusus dan memilih Merusak Senjata, Melucuti Lawan, atau Slip Free.
 
 #### Paksa Kegagalan (Force Failure)
 Digunakan ketika lawan Gagal Fatal (Kegagalan Mutlak), karakter dapat menggabungkan Paksa Kegagalan dengan Efek Khusus lain yang memerlukan Lemparan Lawan untuk bekerja. Paksa Kegagalan menyebabkan lawan gagal dalam lemparan resistensi mereka secara default – sehingga secara otomatis dilucuti, dijatuhkan, dan sebagainya.
@@ -431,16 +431,16 @@ Digunakan ketika lawan Gagal Fatal (Kegagalan Mutlak), karakter dapat menggabung
 Asalkan lawan berada dalam jangkauan Pertarungan Tangan Kosong penyerang, mereka dapat menggunakan tangan kosong (atau anggota tubuh serupa yang mampu mencengkeram) untuk memegang lawan, mencegah mereka untuk bisa melepaskan diri dari pertarungan. Lawan dapat mencoba melepaskan diri pada giliran mereka, memerlukan Lemparan Lawan baik Kekuatan atau Tangan Kosong terhadap keterampilan mana pun dari keduanya yang lebih disukai oleh pencengkeram.
 
 #### Menusuk (Impale)
-Gulirkan kerusakan senjata dua kali, dengan penyerang memilih mana dari dua hasil yang akan digunakan untuk serangan tersebut. Dengan asumsi senjata adalah senjata jarak dekat, jika Zirah ditembus dan luka disebabkan, penyerang memiliki opsi untuk meninggalkan senjata di dalam luka atau menariknya keluar pada giliran berikutnya. Meninggalkan senjata di dalam luka memberikan penalti Tingkat Kesulitan pada upaya keterampilan korban di masa depan. Keparahan penalti tergantung pada ukuran makhluk dan senjata yang menusuknya, seperti yang tercantum pada Tabel Efek Tusukan di bawah. Demi kesederhanaan, tusukan lebih lanjut dengan senjata berukuran sama tidak memberikan penalti tambahan. Untuk menarik senjata yang tertusuk selama jarak dekat memerlukan penggunaan Aksi Pertarungan Menyiapkan Senjata. Pemegang harus lulus lemparan Kekuatan yang tidak dilawan (atau memenangkan Lemparan Lawan Kekuatan jika lawan melawan). Keberhasilan menarik senjata bebas, menyebabkan cedera lebih lanjut ke lokasi yang sama sebesar setengah dari lemparan kerusakan normal untuk senjata itu, tetapi tanpa Modifikator Kerusakan. Kegagalan menyiratkan bahwa senjata tetap tertancap di luka tanpa efek lebih lanjut, meskipun pemegang dapat mencoba lagi pada giliran berikutnya. Senjata yang secara khusus berduri (seperti harpun) memberikan kerusakan normal. Zirah tidak mengurangi kerusakan penarikan. Saat tetap tertusuk, penyerang tidak dapat menggunakan senjata penusuknya untuk Menangkis.
+Gulirkan kerusakan senjata dua kali, dengan penyerang memilih mana dari dua hasil yang akan digunakan untuk serangan tersebut. Dengan asumsi senjata adalah senjata jarak dekat, jika Armor ditembus dan luka disebabkan, penyerang memiliki opsi untuk meninggalkan senjata di dalam luka atau menariknya keluar pada giliran berikutnya. Meninggalkan senjata di dalam luka memberikan penalti Tingkat Kesulitan pada upaya keterampilan korban di masa depan. Keparahan penalti tergantung pada ukuran makhluk dan senjata yang menusuknya, seperti yang tercantum pada Tabel Efek Tusukan di bawah. Demi kesederhanaan, tusukan lebih lanjut dengan senjata berukuran sama tidak memberikan penalti tambahan. Untuk menarik senjata yang tertusuk selama jarak dekat memerlukan penggunaan Aksi Pertarungan Menyiapkan Senjata. Pemegang harus lulus lemparan Kekuatan yang tidak dilawan (atau memenangkan Lemparan Lawan Kekuatan jika lawan melawan). Keberhasilan menarik senjata bebas, menyebabkan cedera lebih lanjut ke lokasi yang sama sebesar setengah dari lemparan kerusakan normal untuk senjata itu, tetapi tanpa Modifikator Kerusakan. Kegagalan menyiratkan bahwa senjata tetap tertancap di luka tanpa efek lebih lanjut, meskipun pemegang dapat mencoba lagi pada giliran berikutnya. Senjata yang secara khusus berduri (seperti harpun) memberikan kerusakan normal. Armor tidak mengurangi kerusakan penarikan. Saat tetap tertusuk, penyerang tidak dapat menggunakan senjata penusuknya untuk Menangkis.
 
 #### Tabel Efek Tusukan
 
 | SIZ Makhluk | Senjata Kecil | Senjata Sedang | Senjata Besar | Senjata Raksasa | Senjata Sangat Besar |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1-10 | Sulit | Herculean | Lumpuh | Lumpuh | Lumpuh |
-| 11-20 | Sukar | Sulit | Herculean | Lumpuh | Lumpuh |
-| 21-30 | Tidak Ada Efek | Sukar | Sulit | Herculean | Lumpuh |
-| 31-40 | Tidak Ada Efek | Tidak Ada Efek | Sukar | Sulit | Herculean |
+| 1-10 | Sulit | Herkules | Lumpuh | Lumpuh | Lumpuh |
+| 11-20 | Sukar | Sulit | Herkules | Lumpuh | Lumpuh |
+| 21-30 | Tidak Ada Efek | Sukar | Sulit | Herkules | Lumpuh |
+| 31-40 | Tidak Ada Efek | Tidak Ada Efek | Sukar | Sulit | Herkules |
 | 41-50 | Tidak Ada Efek | Tidak Ada Efek | Tidak Ada Efek | Sukar | Sulit |
 | Setiap +10 | Ikuti tabel perkembangan |
 
@@ -449,11 +449,11 @@ Untuk senjata api, amunisi sebagian besar senjata api berbasis proyektil akan ma
 #### Penembak Jitu (Marksman)
 Mengizinkan penembak untuk memindahkan Lokasi Sasaran yang terkena tembakannya sebanyak satu tingkat, ke area tubuh yang segera berdekatan. Fisiologi memiliki pengaruh atas apa yang dapat ditargetkan ulang dan akal sehat harus diterapkan. Jadi, menggunakan Efek Khusus ini pada humanoid akan memungkinkan penyerang yang menggulirkan tembakan kaki, untuk memindahkannya ke perut sebagai gantinya. Sebaliknya menembak griffin di dada akan memungkinkan pemilihan kaki depan, sayap, atau kepala.
 
-#### Maksimalkan Kerusakan (Maximize Damage)
+#### Maksimalkan Kerusakan (Maximize Daya Rusak)
 Pada hasil Kritis, karakter dapat mengganti salah satu dadu kerusakan senjatanya dengan nilai penuh. Misalnya, Kapak Tangan yang biasanya memberikan kerusakan 1d6 akan diperlakukan sebagai 6, sedangkan pentungan besar dengan kerusakan 2d6 akan memberikan kerusakan 1d6+6. Efek Khusus ini dapat ditumpuk. Meskipun juga dapat digunakan untuk senjata alami, Maksimalkan Kerusakan tidak memengaruhi Modifikator Kerusakan penyerang, yang harus digulirkan secara normal.
 
 #### Penetrasi Berlebih (Over-penetration)
-Kritis, Hanya Senjata Api. Jika menembak ke arah lawan yang diposisikan secara linear atau ke dalam kelompok yang padat, efek khusus ini memungkinkan tembakan untuk benar-benar menembus korban pertama hingga mengenai korban kedua di belakang mereka, dengan asumsi bahwa itu mengatasi Zirah korban pertama. Namun, korban kedua hanya menderita setengah kerusakan karena redaman atau perlambatan tembakan. Penetrasi Berlebih umumnya lebih berguna dengan senjata bertenaga tinggi yang memberikan jumlah kerusakan besar atau senjata yang memiliki semacam kemampuan menembus Zirah. Efek khusus apa pun yang ditimpakan pada target pertama tidak diterapkan pada target kedua.
+Kritis, Hanya Senjata Api. Jika menembak ke arah lawan yang diposisikan secara linear atau ke dalam kelompok yang padat, efek khusus ini memungkinkan tembakan untuk benar-benar menembus korban pertama hingga mengenai korban kedua di belakang mereka, dengan asumsi bahwa itu mengatasi Armor korban pertama. Namun, korban kedua hanya menderita setengah kerusakan karena redaman atau perlambatan tembakan. Penetrasi Berlebih umumnya lebih berguna dengan senjata bertenaga tinggi yang memberikan jumlah kerusakan besar atau senjata yang memiliki semacam kemampuan menembus Armor. Efek khusus apa pun yang ditimpakan pada target pertama tidak diterapkan pada target kedua.
 
 #### Menekan Musuh (Pin Down)
 Hanya Senjata Api. Mirip dengan Tekan Keuntungan, efek khusus ini memaksa target untuk melakukan Tes Lawan dari Ketahanan mereka terhadap lemparan serangan penyerang. Kegagalan berarti target berjongkok di balik perlindungan apa pun yang tersedia dan tidak dapat membalas tembakan pada Giliran berikutnya. Perhatikan bahwa Tekan Musuh bekerja bahkan jika tidak ada kerusakan aktual yang ditimbulkan pada target (mungkin karena penghindaran yang berhasil atau tembakan mengenai perlindungan mereka sebagai gantinya), karena itu bergantung pada efek intimidasi tembakan yang lewat sangat dekat.
@@ -463,7 +463,7 @@ Meskipun korban yang tertekan tidak dapat menembak balik untuk waktu yang diperl
 #### Siapkan Konter (Prepare Counter)
 Pemain bertahan membaca pola musuhnya dan menyiapkan konter terhadap Efek Khusus tertentu (yang harus dicatat secara rahasia). Jika lawannya mencoba menimpakan Efek Khusus yang dipilih kepadanya selama pertarungan, pemain bertahan secara instan mengganti efek penyerang dengan miliknya sendiri, yang berhasil secara otomatis.
 
-#### Isi Ulang Cepat (Rapid Reload)
+#### Isi Ulang Cepat (Rapid Relod)
 Saat menggunakan Senjata Jarak Jauh, penyerang mengurangi waktu pengisian ulang untuk tembakan berikutnya sebanyak satu. Efek ini dapat ditumpuk. Untuk senjata api, meskipun berguna untuk senjata api mesiu atau satu peluru, efek ini memiliki aplikasi yang kurang jelas saat diterapkan pada senjata otomatis, di mana tembakan berikutnya langsung berada di kamar (atau diisi). Namun, Isi Ulang Cepat dapat digunakan sebagai gantinya untuk mengganti magasin senjata dengan cepat. Ini juga mungkin berlaku untuk senjata energi yang memiliki waktu siklus yang lama untuk mengisi ulang kapasitor atau membiarkan laras mendingin.
 
 #### Bekas Luka Musuh (Scar Foe)
@@ -475,11 +475,11 @@ Ketika penyerang Kegagalan Mutlak, pemain bertahan dapat bermanuver atau membelo
 #### Lepaskan Diri (Slip Free)
 Pada hasil Kritis, pemain bertahan dapat secara otomatis melarikan diri dari status Terjerat, Dicengkeram, atau Ditekan.
 
-#### Lokasi Pingsan (Stun Location)
-Penyerang dapat menggunakan senjata tumpul untuk melumpuhkan bagian tubuh yang terkena untuk sementara. Jika pukulan mengatasi Poin Zirah dan melukai target, pemain bertahan harus melakukan Lemparan Lawan dari Ketahanan vs lemparan serangan asli. Jika pemain bertahan Gagal, maka Lokasi Sasaran Lumpuh selama sejumlah Giliran sama dengan kerusakan yang ditimbulkan. Pukulan ke dada menyebabkan pemain bertahan terhuyung sesak napas, hanya mampu bertahan. Pukulan kepala membuat musuh pingsan secara singkat dan tidak dapat bertindak.
+#### Lokasi Pingsan (Stun Lokasi)
+Penyerang dapat menggunakan senjata tumpul untuk melumpuhkan bagian tubuh yang terkena untuk sementara. Jika pukulan mengatasi Poin Armor dan melukai target, pemain bertahan harus melakukan Lemparan Lawan dari Ketahanan vs lemparan serangan asli. Jika pemain bertahan Gagal, maka Lokasi Sasaran Lumpuh selama sejumlah Giliran sama dengan kerusakan yang ditimbulkan. Pukulan ke dada menyebabkan pemain bertahan terhuyung sesak napas, hanya mampu bertahan. Pukulan kepala membuat musuh pingsan secara singkat dan tidak dapat bertindak.
 
 #### Sunder
-Penyerang dapat menggunakan senjata yang sesuai, seperti kapak, untuk merusak Zirah atau perlindungan alami lawan. Kerusakan senjata apa pun, setelah dikurangi karena menangkis atau sihir, diterapkan terhadap nilai Poin Zirah dari perlindungan tersebut. Kerusakan surplus di atas Poin Armornya kemudian digunakan untuk mengurangi nilai Poin Zirah dari lokasi yang dilindungi tersebut – merobek tali, memecahkan cincin, menekuk lempengan, atau merobek kulit, sisik, atau kitin monster. Jika ada kerusakan yang tersisa setelah perlindungan dikurangi menjadi nol AP, itu terbawa ke Poin Hit lokasi yang terkena. Untuk senjata api, Sunder akan cocok untuk senjata api berbasis energi yang dirancang untuk menghancurkan Zirah ablatif atau konsep yang lebih eksotis seperti senjata gelombang gravitasi.
+Penyerang dapat menggunakan senjata yang sesuai, seperti kapak, untuk merusak Armor atau perlindungan alami lawan. Kerusakan senjata apa pun, setelah dikurangi karena menangkis atau sihir, diterapkan terhadap nilai Poin Armor dari perlindungan tersebut. Kerusakan surplus di atas Poin Armornya kemudian digunakan untuk mengurangi nilai Poin Armor dari lokasi yang dilindungi tersebut – merobek tali, memecahkan cincin, menekuk lempengan, atau merobek kulit, sisik, atau kitin monster. Jika ada kerusakan yang tersisa setelah perlindungan dikurangi menjadi nol AP, itu terbawa ke Poin Hit lokasi yang terkena. Untuk senjata api, Sunder akan cocok untuk senjata api berbasis energi yang dirancang untuk menghancurkan Armor ablatif atau konsep yang lebih eksotis seperti senjata gelombang gravitasi.
 
 #### Jatuhkan Lawan (Trip Opponent)
 Karakter mencoba membuat lawan kehilangan keseimbangan atau melempar lawan ke tanah. Lawan harus melakukan Lemparan Lawan dari Kekuatan, Menghindar, atau Akrobatik mereka terhadap lemparan asli karakter. Jika target gagal, mereka jatuh tengkurap. Lawan berkaki empat (atau makhluk dengan lebih banyak kaki) dapat mengganti keterampilan Atletik mereka untuk Menghindar dan memperlakukan lemparan tersebut satu tingkat kesulitan lebih mudah. Untuk senjata api, dengan asumsi senjata api menembakkan amunisi dengan massa, tidak ada alasan efek ini tidak bisa digunakan saat menembak kaki lawan, bahkan jika tidak ada kerusakan yang menembus perlindungan apa pun yang dikenakan.
@@ -497,7 +497,7 @@ Pertarungan jarak dekat adalah pertarungan tangan kosong dalam pengertian klasik
 
 ### Penalti Situasional
 
-Penalti situasional dapat diterapkan saat bertarung dalam kondisi tertentu, atau sebagai hasil dari Efek Khusus. Misalnya, bertarung dalam kegelapan mungkin menimbulkan Tingkat Kesulitan Herculean. Kecuali dinyatakan lain, penalti diputuskan oleh Game Master. Di mana dua atau lebih situasi relevan bagi karakter, gunakan yang paling parah.
+Penalti situasional dapat diterapkan saat bertarung dalam kondisi tertentu, atau sebagai hasil dari Efek Khusus. Misalnya, bertarung dalam kegelapan mungkin menimbulkan Tingkat Kesulitan Herkules. Kecuali dinyatakan lain, penalti diputuskan oleh Game Master. Di mana dua atau lebih situasi relevan bagi karakter, gunakan yang paling parah.
 
 Beberapa penalti bergantung pada keadaan, tetapi alih-alih menerapkan Tingkat Kesulitan, Keterampilan Bertarung dibatasi oleh keterampilan yang relevan. Misalnya, bertarung dari punggung kuda akan membatasi Keterampilan Bertarung petarung dengan keterampilan Berkuda mereka, sementara bertarung di air mungkin membatasi keterampilan itu dengan nilai Berenang karakter.
 
@@ -514,8 +514,8 @@ Beberapa penalti bergantung pada keadaan, tetapi alih-alih menerapkan Tingkat Ke
 | Bertahan terhadap serangan dari belakang | Luar Biasa |
 | Bertarung saat tengkurap | Luar Biasa |
 | Bertarung dalam kegelapan sebagian (pencahayaan redup) | Luar Biasa |
-| Bertarung dalam kondisi gelap total (tanpa pencahayaan sama sekali) | Herculean |
-| Buta atau kehilangan indra persepsi utama | Herculean |
+| Bertarung dalam kondisi gelap total (tanpa pencahayaan sama sekali) | Herkules |
+| Buta atau kehilangan indra persepsi utama | Herkules |
 
 ### Keterlibatan (Engagement)
 
@@ -546,7 +546,7 @@ Menghindar dalam pertarungan adalah membuang diri dari serangan yang luar biasa.
 Jika pemenang Lemparan Lawan mencapai satu atau lebih Tingkat Keberhasilan atas lawannya, mereka dapat memilih Efek Khusus yang sesuai seperti pertarungan normal. Apa pun hasilnya, taktik menghindar membuat pemain bertahan tengkurap – biasanya mengharuskan karakter untuk mendapatkan kembali pijakan pada giliran berikutnya – kecuali mereka dapat menggunakan Efek Khusus Bangkit.
 
 ### Knockback
-Serangan yang memberikan kerusakan lebih dari SIZ penerima akan, secara default, mengakibatkan karakter terlempar ke belakang. Kerusakan dalam keadaan ini adalah sebelum pengurangan apa pun karena menangkis atau Zirah. Saat menerima pukulan seperti itu, penerima harus lulus lemparan Akrobatik Mudah atau Atletik Standar untuk menghindari jatuh tengkurap. Mereka juga terdorong satu meter untuk setiap lima poin kerusakan (atau pecahannya) di atas SIZ mereka. Menggunakan Aksi Pertarungan Menopang secara proaktif dapat mengurangi atau bahkan meniadakan efek knockback.
+Serangan yang memberikan kerusakan lebih dari SIZ penerima akan, secara default, mengakibatkan karakter terlempar ke belakang. Kerusakan dalam keadaan ini adalah sebelum pengurangan apa pun karena menangkis atau Armor. Saat menerima pukulan seperti itu, penerima harus lulus lemparan Akrobatik Mudah atau Atletik Standar untuk menghindari jatuh tengkurap. Mereka juga terdorong satu meter untuk setiap lima poin kerusakan (atau pecahannya) di atas SIZ mereka. Menggunakan Aksi Pertarungan Menopang secara proaktif dapat mengurangi atau bahkan meniadakan efek knockback.
 
 ### Serangan Melompat (Leaping Attacks)
 Serangan melompat dapat diluncurkan dari berbagai situasi, sebagian besar dipicu sebagai bagian dari penyergapan atau di akhir serangan, tetapi beberapa makhluk dapat melompat ke atas lawan tanpa perlu lari atau ketinggian yang lebih tinggi.
@@ -591,9 +591,9 @@ Setiap Senjata Jarak Jauh memiliki beberapa atribut spesifik yang menentukan efe
 
 - **Kekuatan (Force):** Senjata Jarak Jauh setara dengan Ukuran. Ini adalah ukuran abstrak dari kekuatan penetrasi senjata atau amunisinya untuk menentukan apakah pukulan mengatasi tangkisan (perisai).
 - **Modifikator Kerusakan:** Atribut ini menunjukkan apakah Modifikator Kerusakan penyerang dapat digunakan untuk meningkatkan lemparan kerusakan Senjata Jarak Jauh. Secara umum, hanya busur yang ditarik sendiri dan senjata lempar yang memungkinkan pengguna menerapkan Modifikator Kerusakan mereka.
-- **Jarak (Range):** Tiga angka yang dipisahkan oleh garis miring, mewakili jarak maksimum Dekat, Efektif, dan Jauh dari senjata atau amunisinya. Jarak Dekat adalah jarak di mana Efek Khusus Pilih Lokasi dapat digunakan, asalkan target diam atau tidak menyadari serangan yang akan datang. Jarak Efektif tidak memiliki penalti signifikan. Pada Jarak Jauh, senjata masih dapat menimbulkan kerugian, tetapi jumlah kerusakannya dikurangi setengahnya, dan Kekuatan dikurangi satu tingkat.
+- **Jarak (Jarak):** Tiga angka yang dipisahkan oleh garis miring, mewakili jarak maksimum Dekat, Efektif, dan Jauh dari senjata atau amunisinya. Jarak Dekat adalah jarak di mana Efek Khusus Pilih Lokasi dapat digunakan, asalkan target diam atau tidak menyadari serangan yang akan datang. Jarak Efektif tidak memiliki penalti signifikan. Pada Jarak Jauh, senjata masih dapat menimbulkan kerugian, tetapi jumlah kerusakannya dikurangi setengahnya, dan Kekuatan dikurangi satu tingkat.
 - **Beban (Load):** Waktu dalam Giliran yang dibutuhkan untuk memuat atau mengisi ulang senjata yang menembakkan amunisi. Karakter dapat mengurangi waktu yang dihabiskan untuk memuat atau menyiapkan dengan penggunaan Efek Khusus Isi Ulang Cepat.
-- **Ukuran Tusukan (Impale Size):** Ukuran senjata yang tertusuk berbeda dari Kekuatan saat menyerang. Senjata penusuk Jarak Jauh memiliki kolom khusus yang menunjukkan ukuran sebenarnya saat mempertimbangkan hambatan yang disebabkan oleh Efek Khusus Menusuk.
+- **Ukuran Tusukan (Impale Ukuran):** Ukuran senjata yang tertusuk berbeda dari Kekuatan saat menyerang. Senjata penusuk Jarak Jauh memiliki kolom khusus yang menunjukkan ukuran sebenarnya saat mempertimbangkan hambatan yang disebabkan oleh Efek Khusus Menusuk.
 
 ### Penalti Situasional
 
@@ -605,16 +605,16 @@ Seperti pertarungan jarak dekat, penalti situasional dapat diterapkan saat mengg
 | :-- | :-: |
 | Angin Ringan\* | Sulit |
 | Angin Sedang\* | Luar Biasa |
-| Angin Kencang\* | Herculean |
+| Angin Kencang\* | Herkules |
 | Badai, Topan, atau lebih buruk\* | Tanpa Harapan |
 | Target sedang Lari | Sulit |
 | Target sedang Sprint | Luar Biasa |
 | Target terhalang kabut atau dalam kegelapan sebagian | Sulit |
 | Target terhalang asap tebal atau dalam kegelapan | Luar Biasa |
-| Target tertutup sepenuhnya | Herculean |
+| Target tertutup sepenuhnya | Herkules |
 | Target tidak terlihat sepenuhnya | Mustahil\*\* |
 | Target tengkurap | Luar Biasa |
-| Penyerang tengkurap\*\*\* | Herculean |
+| Penyerang tengkurap\*\*\* | Herkules |
 | Penyerang di tanah tidak stabil | Sulit |
 
 _\* Mengasumsikan senjata lempar atau amunisi rentan terhadap angin silang, dan menggantikan penalti normal yang dikenakan oleh angin pada keterampilan normal._
@@ -631,7 +631,7 @@ Dengan menghabiskan waktu tambahan untuk membidik Senjata Jarak Jauh, karakter b
 
 Beberapa senjata api secara otomatis memasukkan tembakan berikutnya, dengan menggunakan gas buang, hentakan, atau energi dari tembakan sebelumnya. Tanpa perlu mengokang ulang, ini memberikan senjata berbagai kecepatan tembak yang berbeda, semuanya bergantung pada berapa banyak amunisi yang ingin dilepaskan pengguna.
 
-Mode tembak ini dikenal sebagai Semi-Otomatis, Burst, dan Full-Automatic. Meskipun kemampuan ini dapat membuat beberapa senjata mampu memberikan kerusakan yang mengerikan, mencoba mempertahankan akurasi dengan senjata yang mengalami hentakan adalah masalah. Asumsikan bahwa aturan berikut terutama berlaku untuk senjata otomatis penembak proyektil.
+Mode tembak ini dikenal sebagai Semi-Otomatis, Burst, dan Full-Otomatis. Meskipun kemampuan ini dapat membuat beberapa senjata mampu memberikan kerusakan yang mengerikan, mencoba mempertahankan akurasi dengan senjata yang mengalami hentakan adalah masalah. Asumsikan bahwa aturan berikut terutama berlaku untuk senjata otomatis penembak proyektil.
 
 #### Semi-Otomatis
 Ini sebenarnya adalah kecepatan tembak default untuk sebagian besar senjata, di mana setiap tarikan pelatuk menembakkan satu peluru dan memuat peluru berikutnya.
@@ -639,8 +639,8 @@ Ini sebenarnya adalah kecepatan tembak default untuk sebagian besar senjata, di 
 #### Burst
 Untuk tembakan burst, setiap tarikan pada pelatuk melepaskan sejumlah kecil peluru, biasanya tidak lebih dari tiga hingga lima tergantung pada senjata. Tujuan aslinya adalah untuk mengizinkan tembakan supresi terbatas tetapi membatasi penggunaan amunisi yang berlebihan. Ini tidak dimaksudkan untuk meningkatkan peluang penembak untuk mengenai karena hentakan sekuensial yang cepat terus-menerus menghentakkan senjata keluar jalur. Menembak dalam mode burst memaksakan tingkat penalti Sulit pada lemparan serangan. Namun, jika serangan berhasil, penembak menggulirkan dadu untuk melihat berapa banyak peluru dalam burst tersebut yang mengenai target. Jadi, burst tiga peluru akan menggunakan 1d3. Gulirkan lokasi dan kerusakan terpisah untuk setiap peluru yang mengenai.
 
-#### Full-Automatic
-Biasanya digunakan untuk tembakan supresi penuh untuk menekan banyak target, full-automatic bisa sangat merusak jika ditembakkan ke sekelompok musuh yang berkelompok rapat. Penembak memutuskan berapa banyak peluru amunisi yang akan ditembakkan (hingga batas tingkat siklik senjata) yang kemudian didistribusikan secara merata ke semua target yang termasuk dalam busur tembak. Peluru cadangan dianggap hilang saat melintasi bidikan (jadi menembakkan 15 peluru pada 6 target akan menjadi dua peluru masing-masing). Lemparan serangan terpisah dilakukan untuk setiap target, tetapi pada tingkat kesulitan Luar Biasa karena efek hentakan yang meningkat dari tembakan berkelanjutan. Target yang terkena menderita sejumlah peluru acak sesuai dengan Tembakan Burst.
+#### Full-Otomatis
+Biasanya digunakan untuk tembakan supresi penuh untuk menekan banyak target, full-Otomatis bisa sangat merusak jika ditembakkan ke sekelompok musuh yang berkelompok rapat. Penembak memutuskan berapa banyak peluru amunisi yang akan ditembakkan (hingga batas tingkat siklik senjata) yang kemudian didistribusikan secara merata ke semua target yang termasuk dalam busur tembak. Peluru cadangan dianggap hilang saat melintasi bidikan (jadi menembakkan 15 peluru pada 6 target akan menjadi dua peluru masing-masing). Lemparan serangan terpisah dilakukan untuk setiap target, tetapi pada tingkat kesulitan Luar Biasa karena efek hentakan yang meningkat dari tembakan berkelanjutan. Target yang terkena menderita sejumlah peluru acak sesuai dengan Tembakan Burst.
 
 Perhatikan bahwa hanya tembakan pertama yang mengenai selama burst atau semprotan otomatis penuh yang dapat memperoleh manfaat dari efek khusus. Jadi, menggulirkan serangan kritis saat menembak dalam mode otomatis akan memungkinkan pemilihan Maksimalkan Kerusakan, tetapi hanya dengan tembakan pertama, bahkan jika semua peluru yang tersisa mengenai sasaran.
 
@@ -665,7 +665,7 @@ Karena tembakan biasanya tidak dilawan oleh keterampilan lawan, ketentuan khusus
 ### Menangkis Tembakan Senjata dengan Perisai
 Seperti yang dinyatakan sebelumnya, hampir mustahil untuk dengan sengaja menangkis proyektil supersonik atau sinar energi. Namun, perisai masih memberikan tingkat perlindungan karena pada kenyataannya mereka adalah 'perlindungan' portabel. Untuk menggunakan perisai dalam baku tembak, gunakan saja aturan Blokir Pasif dari bagian [Pertarungan Jarak Dekat](0005_Combat.md?id=passive-blocking), di atas.
 
-Mengenai senjata api yang lebih modern atau yang bersifat fiksi ilmiah, Game Master mungkin ingin memberikan nilai Poin Zirah pada perisai daripada menetapkan Ukuran, berdasarkan bahan bawaan yang terbuat darinya. Misalnya, perisai kayu mungkin diperlakukan sebagai 4 Poin Zirah, perisai taktis Kevlar 8 AP, dan perisai medan gaya gelang Ulysses 31 15 AP.
+Mengenai senjata api yang lebih modern atau yang bersifat fiksi ilmiah, Game Master mungkin ingin memberikan nilai Poin Armor pada perisai daripada menetapkan Ukuran, berdasarkan bahan bawaan yang terbuat darinya. Misalnya, perisai kayu mungkin diperlakukan sebagai 4 Poin Armor, perisai taktis Kevlar 8 AP, dan perisai medan gaya gelang Ulysses 31 15 AP.
 
 ### Teropong Teleskopik
 Teropong teleskopik meningkatkan akurasi senjata api dalam jarak yang lebih jauh saat pengguna meluangkan waktu untuk membidik dengan benar (lihat Membidik). Teropong teleskopik paling dasar hanyalah pembesar optik, tetapi seiring kemajuan teknologi, mereka mulai memasukkan pengintai jangkauan integral, kalkulator lintasan proyektil, sensor pergerakan udara, kompensator lensa atmosferik, penguat IR atau cahaya rendah, dan sejumlah gadget lain yang meningkatkan jarak 'kena' efektifnya.
@@ -673,24 +673,24 @@ Teropong teleskopik meningkatkan akurasi senjata api dalam jarak yang lebih jauh
 Teropong Teleskopik membuat lemparan keterampilan menjadi lebih mudah sebesar satu atau lebih Tingkat (lihat [Memodifikasi Keterampilan](0003_Skills.md?id=modifying-skills)), tergantung pada kecanggihan teropong tersebut. Tidak ada teropong yang dapat membuat lemparan keterampilan menjadi keberhasilan Otomatis, jadi Tingkat terbaik yang dapat dicapai adalah Sangat Mudah.
 
 ---
-## Senjata dan Zirah
+## Senjata dan Armor
 
-Disajikan di sini adalah pilihan Zirah dan senjata dari berbagai latar dan milieu.
+Disajikan di sini adalah pilihan Armor dan senjata dari berbagai latar dan milieu.
 
-### Tabel Zirah Sampel
+### Tabel Armor Sampel
 
-| Kuno/Abad Pertengahan | Modern | Futuristik | Poin Zirah |
+| Kuno/Abad Pertengahan | Modern | Futuristik | Poin Armor |
 | :-- | :-- | :-- | :-: |
 | Bulu/Kulit | Kulit Motor | | 1 |
 | Aketon, Gambeson | Perlengkapan Olahraga | | 2 |
-| Linothorax | Kain Balistik | Zirah Cair | 3 |
+| Linothorax | Kain Balistik | Armor Cair | 3 |
 | Brigandine | Jaket Flak | | 4 |
 | Pelat Hoplite | Perlengkapan Huru-Hara | | 5 |
 | Mail | Rompi Anti Peluru Tipe I | Jaring Adaptif | 6 |
 | Plated Mail | Rompi Anti Peluru Tipe II | | 7 |
-| | Rompi Anti Peluru Tipe III | Zirah Serbu Ringan | 8 |
+| | Rompi Anti Peluru Tipe III | Armor Serbu Ringan | 8 |
 | | Rompi Anti Peluru Tipe IV | | 10 |
-| | | Zirah Serbu Penuh | 12 |
+| | | Armor Serbu Penuh | 12 |
 
 ### Tabel Perisai Sampel
 
@@ -706,7 +706,7 @@ Disajikan di sini adalah pilihan Zirah dan senjata dari berbagai latar dan milie
 
 | Senjata | Kerusakan | Ukuran | AP/HP | Catatan |
 | :-- | :-: | :-: | :-: | :-- |
-| Kapak | 1d6+1 | M | 4/8 | Dapat Sunder Zirah |
+| Kapak | 1d6+1 | M | 4/8 | Dapat Sunder Armor |
 | Pedang Lebar | 1d8 | M | 6/10 | — |
 | Rantai | 1d4 | M | 8/6 | Dapat menjerat |
 | Pentungan | 1d6 | M | 4/4 | — |

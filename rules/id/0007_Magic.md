@@ -5,15 +5,15 @@ Game Master yang ingin memasukkan sihir dan/atau kekuatan super ke dalam permain
 ---
 ## Cara Kerja Kekuatan
 
-Mantra atau menggunakan kekuatan super biasanya memerlukan pengeluaran energi tertentu yang diambil dari kumpulan poin. Ukuran kumpulan ini sama dengan karakteristik POW karakter, dan bagi pesulap, kumpulan ini dikenal sebagai Magic Points; sedangkan untuk pahlawan super, disebut Power Points. Menggunakan sihir atau kekuatan memakan sejumlah poin yang dikurangkan dari kumpulan ini, dan ketika kumpulan kosong, tidak ada lagi sihir yang dapat dirapalkan atau kekuatan yang dapat digunakan hingga poin tersebut pulih.
+Mantra atau menggunakan kekuatan super biasanya memerlukan pengeluaran energi tertentu yang diambil dari kumpulan poin. Ukuran kumpulan ini sama dengan karakteristik POW karakter, dan bagi pesulap, kumpulan ini dikenal sebagai Poin Sihir; sedangkan untuk pahlawan super, disebut Power Points. Menggunakan sihir atau kekuatan memakan sejumlah poin yang dikurangkan dari kumpulan ini, dan ketika kumpulan kosong, tidak ada lagi sihir yang dapat dirapalkan atau kekuatan yang dapat digunakan hingga poin tersebut pulih.
 
-Magic Points pulih sebanyak jumlah poin yang setara dengan Healing Rate karakter per jam hingga mencapai tingkat yang setara dengan POW karakter. Ini mengasumsikan bahwa karakter dapat beristirahat sepenuhnya, tidak melakukan aktivitas lain, dan tidak sedang dalam masa pemulihan dari kelelahan atau cedera. Jika demikian, Game Master dapat menambah waktu yang dibutuhkan untuk memulihkan Magic/Power Points, atau mengurangi Healing Rate.
+Poin Sihir pulih sebanyak jumlah poin yang setara dengan Tingkat Sembuh karakter per jam hingga mencapai tingkat yang setara dengan POW karakter. Ini mengasumsikan bahwa karakter dapat beristirahat sepenuhnya, tidak melakukan aktivitas lain, dan tidak sedang dalam masa pemulihan dari kelelahan atau cedera. Jika demikian, Game Master dapat menambah waktu yang dibutuhkan untuk memulihkan Magic/Power Points, atau mengurangi Tingkat Sembuh.
 
 Untuk kekuatan super, Power Points pulih dengan kecepatan satu poin per menit istirahat penuh, tetapi karakter juga dapat menghabiskan satu Luck Point untuk segera memulihkan 1d4+1 Power Points yang hilang hingga batas maksimum mereka.
 
 #### Merapalkan Mantra
 
-Mantra dirapalkan menggunakan skill Magic; tanpa skill ini, sihir tidak mungkin dilakukan. Menyiapkan dan merapalkan mantra memerlukan satu Action dan keberhasilan lemparan dadu Magic. Jika lemparan gagal, mantra tidak berfungsi dan harus disiapkan serta dicoba lagi nanti. Jika lemparan berhasil, mantra bekerja, dan Magic Points dikurangi dari kumpulan Magic Point.
+Mantra dirapalkan menggunakan Skill Magic; tanpa Skill ini, sihir tidak mungkin dilakukan. Menyiapkan dan merapalkan mantra memerlukan satu Action dan keberhasilan lemparan dadu Magic. Jika lemparan gagal, mantra tidak berfungsi dan harus disiapkan serta dicoba lagi nanti. Jika lemparan berhasil, mantra bekerja, dan Poin Sihir dikurangi dari kumpulan Magic Point.
 
 #### Menggunakan Kekuatan Super
 
@@ -24,13 +24,13 @@ Karakter pahlawan super mendapati bahwa kekuatan super mereka selalu aktif, sehi
 
 #### Pesulap
 
-Pesulap memulai dengan 1d4+1 mantra, yang semuanya dirapalkan menggunakan skill Magic. Pemain dan Game Master harus berkonsultasi mengenai mantra apa saja yang tersedia dan bagaimana karakter tersebut mendapatkannya. Misalnya, karakter mungkin pernah menjadi murid seorang pesulap lokal, atau mempelajarinya sejak kecil dari orang tuanya.
+Pesulap memulai dengan 1d4+1 mantra, yang semuanya dirapalkan menggunakan Skill Magic. Pemain dan Game Master harus berkonsultasi mengenai mantra apa saja yang tersedia dan bagaimana karakter tersebut mendapatkannya. Misalnya, karakter mungkin pernah menjadi murid seorang pesulap lokal, atau mempelajarinya sejak kecil dari orang tuanya.
 
 Mantra tambahan dapat dipelajari, namun biayanya adalah 3 Experience Rolls untuk mempelajari mantra baru, dan membutuhkan waktu satu minggu untuk studi dan latihan intensif. Mantra baru harus dipelajari dari seorang guru atau sumber terpercaya (seperti gulungan atau grimoire yang dirancang untuk mengajarkan mantra baru).
 
 #### Pahlawan Super
 
-Untuk pahlawan super, Game Master dan pemain harus memutuskan bagaimana karakter tersebut mendapatkan kekuatannya, dan apa sumber kekuatannya (misalnya, bisa berupa baju zirah khusus, kemampuan yang didapat melalui paparan sinar kosmik, atau mutasi genetik).
+Untuk pahlawan super, Game Master dan pemain harus memutuskan bagaimana karakter tersebut mendapatkan kekuatannya, dan apa sumber kekuatannya (misalnya, bisa berupa baju Armor khusus, kemampuan yang didapat melalui paparan sinar kosmik, atau mutasi genetik).
 
 Pahlawan super memulai dengan sejumlah kekuatan inti yang ditentukan oleh POW ditambah Karakteristik lain berdasarkan sumber kekuatannya: CON untuk fisiologi yang berubah (mutasi, spesies alien, eksperimen) atau INT untuk teknologi atau kekuatan berbasis keterampilan (sibernetika, baju perang, latihan intensif, dan sebagainya). Lihat tabel di bawah ini.
 
@@ -52,14 +52,14 @@ Satu kekuatan inti dapat ditukar dengan dua Boost yang dapat diterapkan pada kek
 ---
 ## Sihir
 
-Setiap kali karakter ingin menggunakan mantra, mereka melakukan lemparan dadu terhadap skill Magic mereka. Perapalan membutuhkan satu giliran, tetapi jumlah Magic Points yang digunakan dan apakah mantra berhasil bergantung pada hasil lemparan dadu tersebut.
+Setiap kali karakter ingin menggunakan mantra, mereka melakukan lemparan dadu terhadap Skill Magic mereka. Perapalan membutuhkan satu giliran, tetapi jumlah Poin Sihir yang digunakan dan apakah mantra berhasil bergantung pada hasil lemparan dadu tersebut.
 
 Jika lemparan Magic adalah...
 
 - **Critical Success:** biaya Magic Point mantra adalah nol.
 - **Success:** perapal kehilangan 1 Magic Point, dan mantra berhasil.
 - **Failure:** perapal kehilangan 1 Magic Point, tetapi mantra tidak berhasil.
-- **Kegagalan Mutlak:** perapal kehilangan 1d3 Magic Points untuk mantra tersebut dan mantra gagal.
+- **Kegagalan Mutlak:** perapal kehilangan 1d3 Poin Sihir untuk mantra tersebut dan mantra gagal.
 
 Karena sifatnya yang kecil atau sepele, semua mantra Sihir memiliki Intensitas dan Magnitudo default sebesar 1.
 
@@ -83,7 +83,7 @@ Sifat Sihir adalah sebagai berikut:
 - **Concentration:** Efek mantra tetap ada jika perapal terus berkonsentrasi untuk mempertahankannya. Konsentrasi mengharuskan perapal bebas dari semua gangguan fisik dan mental: gangguan apa pun akan menginterupsi konsentrasi, yang mengakibatkan mantra segera berhenti.
 - **Instant:** Efek mantra terjadi segera. Tidak memiliki durasi.
 - **Ranged:** Mantra dengan sifat Ranged dapat dirapalkan pada jarak hingga setara dengan skor Magic karakter dalam meter. Perapal harus mengetahui lokasi target, seperti 'bersembunyi di balik pintu': jika mereka tidak dapat melihat atau merasakan target mantra secara langsung, maka lemparan dadu Magic menjadi satu tingkat lebih sulit.
-- **Resist (Endurance, Evade, Willpower):** Setiap mantra yang tidak langsung diterima oleh target dapat dilawan secara aktif menggunakan Endurance, Evade, atau Willpower, sebagaimana ditentukan oleh sifat ini. Untuk berhasil melawan mantra, target harus memenangkan Opposed Roll dari skill yang relevan melawan hasil perapalan Magic perapal. Jika target gagal dalam lemparan, maka mantra mulai berlaku seperti biasa. Perhatikan bahwa melawan biasanya merupakan tindakan pasif jika Endurance atau Willpower yang digunakan. Jika mantra mengharuskan target untuk Evade, maka diperlukan satu Action Point untuk melakukan upaya Evade tersebut. Target yang tidak memiliki Action Point untuk digunakan dalam menghindar tidak akan berdaya melawan efek mantra.
+- **Resist (Ketahanan, Menghindar, Tekad):** Setiap mantra yang tidak langsung diterima oleh target dapat dilawan secara aktif menggunakan Ketahanan, Menghindar, atau Tekad, sebagaimana ditentukan oleh sifat ini. Untuk berhasil melawan mantra, target harus memenangkan Opposed Roll dari Skill yang relevan melawan hasil perapalan Magic perapal. Jika target gagal dalam lemparan, maka mantra mulai berlaku seperti biasa. Perhatikan bahwa melawan biasanya merupakan tindakan pasif jika Ketahanan atau Tekad yang digunakan. Jika mantra mengharuskan target untuk Menghindar, maka diperlukan satu Action Point untuk melakukan upaya Menghindar tersebut. Target yang tidak memiliki Action Point untuk digunakan dalam menghindar tidak akan berdaya melawan efek mantra.
 - **Touch:** Perapal harus melakukan kontak fisik dengan target saat mantra dirapalkan. Jika target berniat melawan kontak fisik, maka perapal kemungkinan besar akan gagal menyelesaikan mantranya kecuali ada keadaan khusus yang mencegah target menghindar, seperti kejutan atau efek khusus Grip. Mantra sentuhan hanya perlu menyentuh target atau perlengkapan yang dibawanya agar berhasil.
 
 
@@ -104,7 +104,7 @@ Avert digunakan untuk membatalkan mantra lain dalam jangkauan. Avert dapat dirap
 
 #### Befuddle
 
-_Ranged, Resist (Willpower)_
+_Ranged, Resist (Tekad)_
 
 Befuddle menyebabkan kebingungan di dalam pikiran target berwujud. Subjek mantra kesulitan berpikir jernih, lupa di mana ia berada, apa yang dilakukannya, dan mengapa – sering kali mengalami alur pemikiran yang tidak terhubung. Target yang bingung masih dapat bertindak untuk membela diri, tetapi tidak dapat memulai aktivitas konstruktif apa pun hingga mantra berakhir. Segala jenis serangan atau tindakan mengancam akan langsung mematahkan mantra, terlepas dari apakah serangan tersebut ditujukan secara khusus kepada target yang bingung atau tidak.
 
@@ -140,7 +140,7 @@ _Hal ini dapat dibaca sebagai efek ofensif yang dipicu pada akhir mantra, yang t
 
 #### Calm
 
-_Ranged, Resist (Willpower)_
+_Ranged, Resist (Tekad)_
 
 Calm mencoba meredam nafsu atau emosi target, mungkin memastikan bahwa kekasih yang jatuh cinta tidak mendesak keinginannya, saingan yang ketakutan tidak berteriak minta tolong, atau senjata tidak dihunus dalam kemarahan. Orang yang ditenangkan tidak terpengaruh secara mental; oleh karena itu, segala jenis serangan atau tindakan mengancam masih memungkinkan target untuk membela diri dan bahkan menyerang, meskipun mereka akan melakukannya dengan cara yang tenang dan berkepala dingin.
 
@@ -158,7 +158,7 @@ Darkness menciptakan area bayangan, setara dengan POW dalam meter persegi, yang 
 
 #### Disruption
 
-_Instant, Ranged, Resist (Endurance)_
+_Instant, Ranged, Resist (Ketahanan)_
 
 Disruption digunakan untuk merusak atau membongkar objek fisik tanpa memerlukan alat. Biasanya digunakan untuk mengusir atau membunuh makhluk hidup, seperti burung atau hama. Saat berhasil dirapalkan, Disruption memberikan 1d3 kerusakan pada satu Lokasi Hit acak atau Hit Points keseluruhan objek. Dalam kedua kasus, kerusakan mengabaikan pelindung atau perlindungan alami apa pun.
 
@@ -176,7 +176,7 @@ Find memiliki banyak variasi; selalu spesifik dan dipelajari sebagai mantra terp
 
 - *Find Arrows*: Menemukan amunisi yang ditembakkan oleh pemburu yang meleset dari sasarannya.
 - *Find Flaw*: Mengidentifikasi kekurangan apa pun pada objek, seperti ketidaksempurnaan tersembunyi atau kerusakan fisik.
-- *Find Livestock*: Menemukan jenis hewan tertentu. Dapat dilawan dengan Willpower.
+- *Find Livestock*: Menemukan jenis hewan tertentu. Dapat dilawan dengan Tekad.
 - *Find Loot*: Menemukan logam mulia dan permata.
 - *Find Object*: Menemukan harta benda pribadi yang hilang.
 - *Find Sickness*: Mengidentifikasi adanya penyakit dan kelainan, baik magis maupun duniawi.
@@ -185,7 +185,7 @@ Find memiliki banyak variasi; selalu spesifik dan dipelajari sebagai mantra terp
 
 _Touch_
 
-Firearrow menyebabkan semua proyektil yang dilemparkan atau ditembakkan oleh penerima meledak menjadi api saat dilepaskan. Awalnya diciptakan untuk bertindak sebagai suar sinyal, mantra ini kemudian berkembang menjadi sihir tempur. Proyektil di bawah efeknya menambahkan kerusakan tambahan 1d3 tetapi padam jika menancap pada daging. Proyektil yang mengenai bahan mudah terbakar memiliki peluang setara dengan skill Folk Magic perapal untuk membakar apa pun yang ditempatinya, seperti perisai kayu, atap jerami, dan sebagainya. Amunisi kayu akan terbakar habis sebagai bagian dari mantra.
+Firearrow menyebabkan semua proyektil yang dilemparkan atau ditembakkan oleh penerima meledak menjadi api saat dilepaskan. Awalnya diciptakan untuk bertindak sebagai suar sinyal, mantra ini kemudian berkembang menjadi sihir tempur. Proyektil di bawah efeknya menambahkan kerusakan tambahan 1d3 tetapi padam jika menancap pada daging. Proyektil yang mengenai bahan mudah terbakar memiliki peluang setara dengan Skill Folk Magic perapal untuk membakar apa pun yang ditempatinya, seperti perisai kayu, atap jerami, dan sebagainya. Amunisi kayu akan terbakar habis sebagai bagian dari mantra.
 
 #### Fireblade
 
@@ -197,7 +197,7 @@ Fireblade mirip dengan Firearrow tetapi dirapalkan pada alat tangan dan senjata 
 
 _Touch_
 
-Glue merekatkan dua benda padat yang tidak bernyawa untuk durasi mantra, misalnya roda kereta ke porosnya atau pintu ke bingkainya. Saat berada di bawah efek mantra, benda-benda tersebut, tidak peduli seberapa berbeda, tidak dapat dipisahkan kecuali ada sesuatu yang secara aktif mencoba merenggutnya. Dalam keadaan ini, mantra memiliki skill Brawn setara dengan lima kali POW perapal dan gagal ketika Brawn yang lebih tinggi dilawan, mengalahkannya dalam Opposed Roll. Setelah mantra berakhir atau gagal, barang-barang tersebut terpisah sepenuhnya tanpa kerusakan.
+Glue merekatkan dua benda padat yang tidak bernyawa untuk durasi mantra, misalnya roda kereta ke porosnya atau pintu ke bingkainya. Saat berada di bawah efek mantra, benda-benda tersebut, tidak peduli seberapa berbeda, tidak dapat dipisahkan kecuali ada sesuatu yang secara aktif mencoba merenggutnya. Dalam keadaan ini, mantra memiliki Skill Berotot setara dengan lima kali POW perapal dan gagal ketika Berotot yang lebih tinggi dilawan, mengalahkannya dalam Opposed Roll. Setelah mantra berakhir atau gagal, barang-barang tersebut terpisah sepenuhnya tanpa kerusakan.
 
 #### Heal
 
@@ -237,7 +237,7 @@ Phantasm memungkinkan perapal untuk menjalin benda-benda yang tidak substansial 
 
 #### Sleep
 
-_Resist (Endurance), Touch_
+_Resist (Ketahanan), Touch_
 
 Sleep mengirim penerimanya ke dalam tidur yang nyenyak dan damai. Mantra ini tidak berpengaruh pada makhluk dengan SIZ lebih besar dari POW perapal. Kecuali target melawan, ia akan tertidur selama jumlah jam setara dengan setengah POW perapal. Namun, mantra membutuhkan 1d3 Ronde untuk berlaku sebelum target jatuh pingsan. Segala upaya untuk merapalkan mantra ini dalam situasi pertempuran akan otomatis gagal.
 
@@ -249,9 +249,9 @@ Vigor membuat penerima merasa hidup dan energik, digunakan untuk mengimbangi efe
 
 #### Witchsight
 
-_Ranged, Resist (Willpower)_
+_Ranged, Resist (Tekad)_
 
-Witchsight memungkinkan perapal untuk melihat sihir aktif, benda terpesona, dan entitas tak terlihat (meskipun hal-hal tersebut hanyalah representasi samar) yang berada dalam jangkauan dan garis pandang. Mantra ini juga dapat menembus ilusi atau melihat wujud asli makhluk yang berubah bentuk. Makhluk yang ingin tetap tersembunyi atau menyamar harus memenangkan Opposed Roll dari Willpower mereka melawan lemparan perapalan.
+Witchsight memungkinkan perapal untuk melihat sihir aktif, benda terpesona, dan entitas tak terlihat (meskipun hal-hal tersebut hanyalah representasi samar) yang berada dalam jangkauan dan garis pandang. Mantra ini juga dapat menembus ilusi atau melihat wujud asli makhluk yang berubah bentuk. Makhluk yang ingin tetap tersembunyi atau menyamar harus memenangkan Opposed Roll dari Tekad mereka melawan lemparan perapalan.
 
 ---
 ## Kekuatan Super
@@ -268,7 +268,7 @@ Seorang karakter juga dapat mengambil hingga dua Limit dari daftar di bawah ini,
 
 #### Animation
 
-Animasikan 2 meter kubik bahan tidak hidup dalam jarak POW meter untuk membuat konstruksi, biasanya dalam bentuk humanoid. Biaya dalam Power Points setara dengan nilai pelindung dari bahan bernilai tertinggi yang digunakan, yang juga merupakan nilai pelindung dasar konstruksi. Konstruksi memiliki STR dasar 2d6+16 (23), SIZ 1d6+12 (15), dan DEX 1d6+8 (11), dengan Hit Points ditentukan seperti biasa. Karakter harus menggunakan aksi untuk mengarahkan konstruksi dan ia menggunakan skill karakter untuk lemparan apa pun. Jika konstruksi mengalami Luka Serius pada dada atau perut, lakukan pemeriksaan Endurance yang berlawanan dengan lemparan serangan. Jika tidak berhasil, konstruksi akan segera runtuh. Contoh Nilai Pelindung/Biaya Power Point:
+Animasikan 2 meter kubik bahan tidak hidup dalam jarak POW meter untuk membuat konstruksi, biasanya dalam bentuk humanoid. Biaya dalam Power Points setara dengan nilai pelindung dari bahan bernilai tertinggi yang digunakan, yang juga merupakan nilai pelindung dasar konstruksi. Konstruksi memiliki STR dasar 2d6+16 (23), SIZ 1d6+12 (15), dan DEX 1d6+8 (11), dengan Hit Points ditentukan seperti biasa. Karakter harus menggunakan aksi untuk mengarahkan konstruksi dan ia menggunakan Skill karakter untuk lemparan apa pun. Jika konstruksi mengalami Luka Serius pada dada atau perut, lakukan pemeriksaan Ketahanan yang berlawanan dengan lemparan serangan. Jika tidak berhasil, konstruksi akan segera runtuh. Contoh Nilai Pelindung/Biaya Power Point:
 
 | Nilai Pelindung       | Biaya Power Point |
 |:--|:-:|
@@ -290,9 +290,9 @@ Boost: Habiskan 2 Power Points untuk mendapatkan satu Action Point ekstra yang h
 
 #### Durability
 
-Hit points dihitung menggunakan CON+SIZ+POW dan Healing Rate dihitung menggunakan CON+ setengah POW, dibulatkan ke atas.
+Hit points dihitung menggunakan CON+SIZ+POW dan Tingkat Sembuh dihitung menggunakan CON+ setengah POW, dibulatkan ke atas.
 
-**Boost:** Habiskan 2 Power Points sebagai Aksi Gratis untuk memulihkan Healing Rate dalam Hit Points yang hilang atau satu tingkat Kelelahan yang hilang.
+**Boost:** Habiskan 2 Power Points sebagai Aksi Gratis untuk memulihkan Tingkat Sembuh dalam Hit Points yang hilang atau satu tingkat Kelelahan yang hilang.
 
 #### Elemental Control
 
@@ -302,15 +302,15 @@ Pilih bahan atau jenis energi tertentu. Habiskan satu aksi untuk mengendalikan h
 
 #### Energy Blast
 
-Tembakkan ledakan energi jenis tertentu hingga jarak 10/30/120 dan pilih dua Efek Pertarungan untuk diterapkan saat pembuatan. Kerusakan dan kekuatan ditentukan oleh POW karakter: 8 atau kurang: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Untuk mengenai, karakter melakukan lemparan terhadap Combat Style yang berlaku untuk kekuatan tersebut atau menggunakan Unarmed.
+Tembakkan ledakan energi jenis tertentu hingga jarak 10/30/120 dan pilih dua Efek Pertarungan untuk diterapkan saat pembuatan. Kerusakan dan kekuatan ditentukan oleh POW karakter: 8 atau kurang: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Untuk mengenai, karakter melakukan lemparan terhadap Gaya Tarung yang berlaku untuk kekuatan tersebut atau menggunakan Bela Diri.
 
 **Boost:** Habiskan 2 Power Points dan satu aksi untuk memberikan kerusakan +1d6 pada serangan ledakan energi berikutnya.
 
 #### Enhanced Reactions
 
-Dapatkan bonus pada lemparan inisiatif setara dengan rentang kritis skill Athletics dan tidak pernah jatuh tertelungkup setelah menggunakan Evade.
+Dapatkan bonus pada lemparan inisiatif setara dengan rentang kritis Skill Atletik dan tidak pernah jatuh tertelungkup setelah menggunakan Menghindar.
 
-**Boost:** Habiskan 1 Power Point untuk membuat pemeriksaan Athletics atau Acrobatics berikutnya satu tingkat kesulitan lebih mudah.
+**Boost:** Habiskan 1 Power Point untuk membuat pemeriksaan Atletik atau Acrobatics berikutnya satu tingkat kesulitan lebih mudah.
 
 #### Enhanced Speed
 
@@ -334,11 +334,11 @@ Dapatkan kecepatan terbang setara dengan POW dalam meter, dengan kecepatan maksi
 
 #### Heightened Sense
 
-Pilih satu indra. Pemeriksaan persepsi dengan indra tersebut satu tingkat skill lebih mudah.
+Pilih satu indra. Pemeriksaan persepsi dengan indra tersebut satu tingkat Skill lebih mudah.
 
 **Boost:** Habiskan 2 Power Points untuk menggunakan kekuatan inti pada indra yang berbeda.
 
-#### Inherent Zirah
+#### Inherent Armor
 
 Memberikan nilai pelindung pada semua lokasi setara dengan sepertiga CON, dibulatkan ke atas. Karakter dapat memilih untuk mengurangi nilai lokasi hingga dua poin untuk menambahkannya ke lokasi lain; misalnya, menurunkan nilai lengan kanan mereka untuk ditambahkan ke kepala.
 
@@ -352,7 +352,7 @@ Dapatkan kekebalan terhadap dua kondisi lingkungan atau kebutuhan biologis.
 
 #### Lucky
 
-Hitung Luck Points dasar dengan CHA dan setengah POW, dibulatkan ke atas.
+Hitung Poin Hoki dasar dengan CHA dan setengah POW, dibulatkan ke atas.
 
 **Boost:** Saat angka kembar muncul, habiskan 3 Power Points untuk mendapatkan satu Luck Point sementara yang harus digunakan sebelum akhir adegan.
 
@@ -364,9 +364,9 @@ Pulihkan satu Hit Point ke semua lokasi yang terluka di awal setiap ronde jika l
 
 #### Savant
 
-Pilih tiga skill dengan satu karakteristik yang sama, dan pemeriksaan dengan skill tersebut satu tingkat lebih mudah.
+Pilih tiga Skill dengan satu karakteristik yang sama, dan pemeriksaan dengan Skill tersebut satu tingkat lebih mudah.
 
-**Boost:** Saat menggunakan skill khusus seperti Craft atau Science yang juga merupakan skill Savant, habiskan 3 Power Points untuk mendapatkan spesialisasi yang tidak dimiliki karakter untuk satu tugas pada tingkat yang sama dengan skill Savant.
+**Boost:** Saat menggunakan Skill khusus seperti Craft atau Science yang juga merupakan Skill Savant, habiskan 3 Power Points untuk mendapatkan spesialisasi yang tidak dimiliki karakter untuk satu tugas pada tingkat yang sama dengan Skill Savant.
 
 #### Teleport
 
@@ -376,7 +376,7 @@ Teleport ke titik mana pun yang terlihat dalam jarak POW meter sebagai aksi berg
 
 #### Vaporous Form
 
-Sebagai sebuah aksi, berubah menjadi awan uap atau partikel halus yang tidak mampu berinteraksi dengan dunia fisik tetapi kebal terhadap serangan fisik. Dapatkan kecepatan terbang setara dengan sepertiga POW dalam meter dan dapat melewati bukaan berukuran apa pun. Serangan berbasis energi memberikan setengah kerusakan pada Power Points karakter. Jika dikurangi menjadi 0 Power Points, karakter kembali ke wujud padat dan harus melakukan pemeriksaan Endurance Hard atau pingsan selama 1d6+1 menit.
+Sebagai sebuah aksi, berubah menjadi awan uap atau partikel halus yang tidak mampu berinteraksi dengan dunia fisik tetapi kebal terhadap serangan fisik. Dapatkan kecepatan terbang setara dengan sepertiga POW dalam meter dan dapat melewati bukaan berukuran apa pun. Serangan berbasis energi memberikan setengah kerusakan pada Power Points karakter. Jika dikurangi menjadi 0 Power Points, karakter kembali ke wujud padat dan harus melakukan pemeriksaan Ketahanan Sulit atau pingsan selama 1d6+1 menit.
 
 **Boost:** Habiskan 3 Power Points untuk memadatkan satu lokasi luka untuk satu aksi.
 
@@ -393,7 +393,7 @@ Sumber kekuatan karakter adalah artefak atau perangkat. Jika kecil atau genggam,
 
 #### Fatal Flaw
 
-Karakter harus mengonsumsi atau melakukan kontak dengan suatu zat setiap empat jam atau menderita satu tingkat Kelelahan. Pemeriksaan Endurance yang berhasil dapat menunda hal ini, tetapi kesulitan pemeriksaan ini meningkat satu tingkat untuk setiap empat jam tambahan saat kebutuhan tersebut tidak terpenuhi.
+Karakter harus mengonsumsi atau melakukan kontak dengan suatu zat setiap empat jam atau menderita satu tingkat Kelelahan. Pemeriksaan Ketahanan yang berhasil dapat menunda hal ini, tetapi kesulitan pemeriksaan ini meningkat satu tingkat untuk setiap empat jam tambahan saat kebutuhan tersebut tidak terpenuhi.
 
 #### Limited Control
 
@@ -409,4 +409,4 @@ Karakter memiliki kondisi pembatas yang terus-menerus, seperti kebutaan, kehilan
 
 #### Vulnerability
 
-Karakter menerima kerusakan ganda dari bentuk serangan tertentu. Sebagai alternatif, karakter harus melakukan pemeriksaan Endurance Hard setiap giliran saat berada dalam jarak 5 meter dari zat tertentu atau menderita satu tingkat Kelelahan.
+Karakter menerima kerusakan ganda dari bentuk serangan tertentu. Sebagai alternatif, karakter harus melakukan pemeriksaan Ketahanan Sulit setiap giliran saat berada dalam jarak 5 meter dari zat tertentu atau menderita satu tingkat Kelelahan.

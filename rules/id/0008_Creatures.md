@@ -22,8 +22,8 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Modifikator Kerusakan | +1d2 |
 | Inisiatif | +11 |
 | Pergerakan | 12m |
-| Kemampuan | [Senjata Alami yang Tangguh](0008_Creatures.md?id=formidable-natural-weapons) |
-| Keterampilan | Athletics 67%, Brawn 68%, Endurance 74%, Evade 56%, Perception 53%, Track 66%, Willpower 48% |
+| Kemampuan | [Senjata Alami yang Tangguh](0008_Creatures.md?id=Tangguh-natural-Senjata) |
+| Keterampilan | Atletik 67%, Berotot 68%, Ketahanan 74%, Menghindar 56%, Persepsi 53%, Track 66%, Tekad 48% |
 | Gaya Tempur | Serangan Semut (Mandibula dan Sengatan) 67% |
 
 ##### Detail Senjata
@@ -33,7 +33,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Gigitan | M | 1d6+1d2 | sesuai lokasi |
 | Sengatan | M | 1d4+1d2 | sesuai lokasi |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -61,7 +61,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +13 |
 | Pergerakan | 8m |
 | Kemampuan | [Intimidasi](0008_Creatures.md?id=intimidate), [Penglihatan Malam](0008_Creatures.md?id=night-sight) |
-| Keterampilan | Athletics 68%, Brawn 79%, Endurance 66%, Evade 46%, Perception 60%, Stealth 66%, Survival 60%, Swim 68%, Track 66%, Willpower 44% |
+| Keterampilan | Atletik 68%, Berotot 79%, Ketahanan 66%, Menghindar 46%, Persepsi 60%, Senyap 66%, Survival 60%, Berenang 68%, Track 66%, Tekad 44% |
 | Gaya Tempur | Kemarahan Ursine (Gigitan dan Cakar) 78% |
 
 ##### Detail Senjata
@@ -71,7 +71,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Gigitan | L | 1d8+1d12 | sesuai lokasi |
 | Cakar | H | 1d8+1d12 | sesuai lokasi |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -97,7 +97,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +13 |
 | Pergerakan | 6m |
 | Kemampuan | [Berkamuflase](0008_Creatures.md?id=camouflaged), [Berdarah Dingin](0008_Creatures.md?id=cold-blooded), [Perenang](0008_Creatures.md?id=swimmer) |
-| Keterampilan | Athletics 47%, Brawn 99%, Endurance 78%, Evade 32%, Perception 49%, Swim 80%, Willpower 44% |
+| Keterampilan | Atletik 47%, Berotot 99%, Ketahanan 78%, Menghindar 32%, Persepsi 49%, Berenang 80%, Tekad 44% |
 | Gaya Tempur | Kematian Mengintai (Gigitan dan Ekor) 67% |
 
 ##### Detail Senjata
@@ -107,7 +107,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Gigitan | H | 1d10+2d6 | sesuai lokasi | |
 | Ekor | H | 1d8+2d6 | sesuai lokasi | [Benturan](0005_Combat.md?id=Dorong), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -134,8 +134,8 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Modifikator Kerusakan | +2d8 |
 | Inisiatif | +19 |
 | Pergerakan | 12m/18m Terbang |
-| Kemampuan | [Napas Api](0008_Creatures.md?id=breathe-flame), [Berdarah Dingin](0008_Creatures.md?id=cold-blooded), [Penglihatan Gelap](0008_Creatures.md?id=dark-sight), [Serangan Menukik](0008_Creatures.md?id=diving-strike), [Menelan](0008_Creatures.md?id=engulfing), [Terbang](0008_Creatures.md?id=flying), [Senjata Alami yang Tangguh](0008_Creatures.md?id=formidable-natural-weapons), [Kekebalan (Api)](0008_Creatures.md?id=immunity), [Mengerikan](0008_Creatures.md?id=terrifying), [Menginjak](0008_Creatures.md?id=trample) |
-| Keterampilan | Athletics 80%, Brawn 120%, Deceit 78%, Endurance 92%, Evade 68%, Fly 90%, Insight 78%, Locale 68%, Lore (Naga) 68%, Perception 78%, Teach 58%, Willpower 78% |
+| Kemampuan | [Napas Api](0008_Creatures.md?id=breathe-flame), [Berdarah Dingin](0008_Creatures.md?id=cold-blooded), [Penglihatan Gelap](0008_Creatures.md?id=dark-sight), [Serangan Menukik](0008_Creatures.md?id=diving-strike), [Menelan](0008_Creatures.md?id=engulfing), [Terbang](0008_Creatures.md?id=flying), [Senjata Alami yang Tangguh](0008_Creatures.md?id=Tangguh-natural-Senjata), [Kekebalan (Api)](0008_Creatures.md?id=immunity), [Mengerikan](0008_Creatures.md?id=terrifying), [Menginjak](0008_Creatures.md?id=trample) |
+| Keterampilan | Atletik 80%, Berotot 120%, Menipu 78%, Ketahanan 92%, Menghindar 68%, Fly 90%, Intuisi 78%, Lokal 68%, Lore (Naga) 68%, Persepsi 78%, Teach 58%, Tekad 78% |
 | Sihir | 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight) |
 | Gaya Tempur | Kematian dan Kehancuran (Gigitan, Cakar, Sapuan Ekor) 90%; Napas Api 80% |
 
@@ -149,7 +149,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Ekor | E | 1d10+2d8 | sesuai lokasi | [Benturan](0005_Combat.md?id=Dorong), [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
 | Menginjak | C | 4d8 | - | 
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -178,7 +178,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +11 |
 | Pergerakan | 6m |
 | Kemampuan | [Penglihatan Malam](0008_Creatures.md?id=night-sight) |
-| Keterampilan | Athletics 52%, Brawn 42%, Deceit 57%, Endurance 48%, Evade 62%, Perception 61%, Unarmed 52%, Willpower 42% |
+| Keterampilan | Atletik 52%, Berotot 42%, Menipu 57%, Ketahanan 48%, Menghindar 62%, Persepsi 61%, Bela Diri 52%, Tekad 42% |
 | Gaya Tempur | Prajurit (Pedang Pendek, Perisai, Tombak, Ketapel) 62% |
 
 ##### Detail Senjata
@@ -187,10 +187,10 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | :-- | :-: | :--: | :--: | :-- |
 | Pedang Pendek | M | 1d6 | 6/8 | [Pendarahan](0005_Combat.md?id=bleed), [Penusukan](0005_Combat.md?id=impale)|
 | Tombak | M | 1d8+1 | 4/5 | [Penusukan](0005_Combat.md?id=impale)|
-| Ketapel | L | 1d8 | 1/2 | [Benturan](0005_Combat.md?id=Dorong), [Stun Lokasi](0005_Combat.md?id=stun-location), Jarak 10/150/300m |
+| Ketapel | L | 1d8 | 1/2 | [Benturan](0005_Combat.md?id=Dorong), [Stun Lokasi](0005_Combat.md?id=stun-Lokasi), Jarak 10/150/300m |
 | Perisai | L | 1d4 | 4/9 | [Blok Pasif/Menangkal 3 lokasi](0005_Combat.md?id=passive-blocking), Tangkisan Jarak Jauh |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -216,7 +216,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +11 |
 | Pergerakan | 12m |
 | Kemampuan | [Menginjak](0008_Creatures.md?id=trample) |
-| Keterampilan | Athletics 52%, Brawn 83%, Endurance 66%, Evade 40%, Perception 48%, Willpower 34% |
+| Keterampilan | Atletik 52%, Berotot 83%, Ketahanan 66%, Menghindar 40%, Persepsi 48%, Tekad 34% |
 | Gaya Tempur | Menghentak dan Menerjang (Kuku) 62% |
 
 ##### Detail Senjata
@@ -226,7 +226,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Kuku | H | 1d6+1d12 | |
 | Menginjak | E | 2d12 | - | 
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -252,7 +252,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +12 |
 | Pergerakan | 8m |
 | Kemampuan | [Intimidasi](0008_Creatures.md?id=intimidate) |
-| Keterampilan | Athletics 57%, Brawn 79%, Customs 66%, Endurance 66%, Evade 40%, Insight 44%, Locale 56%, Lore (Penggembalaan) 66%, Perception 54%, Unarmed 57%, Willpower 42% |
+| Keterampilan | Atletik 57%, Berotot 79%, Adat Istiadat 66%, Ketahanan 66%, Menghindar 40%, Intuisi 44%, Lokal 56%, Lore (Penggembalaan) 66%, Persepsi 54%, Bela Diri 57%, Tekad 42% |
 | Gaya Tempur | Prajurit Minotaur (Kapak Dua Tangan, Tombak 2T dipakai satu tangan, Perisai Hoplite, Menyeruduk) 67% |
 
 ##### Detail Senjata
@@ -264,7 +264,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Tombak | H | 1d10+1+1d6 | 4/10 | [Penusukan](0005_Combat.md?id=impale) |
 | Perisai Hoplite | E | 1d4+1d6 | 6/15 | [Blok Pasif/Menangkal 4 lokasi](0005_Combat.md?id=passive-blocking), Tangkisan Jarak Jauh |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -290,7 +290,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +13 |
 | Pergerakan | 12m (berenang) |
 | Kemampuan | [Indera Darah](0008_Creatures.md?id=blood-sense), [Frenzy](0008_Creatures.md?id=frenzy), [Perenang](0008_Creatures.md?id=swimmer) |
-| Keterampilan | Athletics 87%, Brawn 87%, Endurance 66%, Evade 55%, Perception 57%, Swim 91%, Willpower 34% |
+| Keterampilan | Atletik 87%, Berotot 87%, Ketahanan 66%, Menghindar 55%, Persepsi 57%, Berenang 91%, Tekad 34% |
 | Gaya Tempur | Rahang (Gigitan), 81% |
 
 ##### Detail Senjata
@@ -299,7 +299,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | :-- | :-: | :--: | :--: | :-- |
 | Gigitan | E | 1d10+2d6 | sesuai lokasi | |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -326,7 +326,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Pergerakan | 6m |
 | Kemampuan | [Mayat Hidup](0008_Creatures.md?id=undead) |
 | Spesial | Kerangka yang dihidupkan rentan terhadap senjata yang memberikan trauma tumpul, yang menghancurkan tulang (atau kitin), dan mengganggu sendi. Senjata semacam itu meningkatkan dadu kerusakannya satu tingkat saat digunakan melawan kerangka (misalnya tongkat dengan kerusakan 1d6 akan menjadi 1d8). Sebaliknya, kerangka tahan terhadap senjata tebas dan tusuk. Kurangi dadu kerusakan senjata tebas satu tingkat, dan senjata tusuk dua tingkat. |
-| Keterampilan | Athletics 68%, Brawn 45%, Endurance 44%, Evade 72%, Perception 57%, Unarmed 68%, Willpower 72% |
+| Keterampilan | Atletik 68%, Berotot 45%, Ketahanan 44%, Menghindar 72%, Persepsi 57%, Bela Diri 68%, Tekad 72% |
 | Gaya Tempur | Prajurit Kerangka (Pedang, Tombak, Perisai Peltast) 68% - Pertarungan Formasi |
 
 ##### Detail Senjata
@@ -337,7 +337,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Tombak | M | 1d8+1 | 4/5 | [Penusukan](0005_Combat.md?id=impale)|
 | Perisai | L | 1d4 | 4/12 | [Blok Pasif/Menangkal 3 lokasi](0005_Combat.md?id=passive-blocking), Tangkisan Jarak Jauh |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -363,8 +363,8 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Inisiatif | +18 |
 | Pergerakan | 8m |
 | Kemampuan | [Berkamuflase](0008_Creatures.md?id=camouflaged), [Frenzy](0008_Creatures.md?id=frenzy) |
-| Spesial | Setiap kali xenomorf terluka, darah asamnya menyemprot ke penyerang dalam jarak dekat. Ini memberikan 1d3 kerusakan selama 1d3 putaran ke Lokasi Pukulan acak. Asam akan menggerogoti zirah terlebih dahulu sebelum mengenai daging di bawahnya. |
-| Keterampilan | Athletics 77%, Brawn 68%, Endurance 56%, Evade 80%, Perception 62%, Stealth 76%, Track 64, Willpower 52% |
+| Spesial | Setiap kali xenomorf terluka, darah asamnya menyemprot ke penyerang dalam jarak dekat. Ini memberikan 1d3 kerusakan selama 1d3 putaran ke Lokasi Pukulan acak. Asam akan menggerogoti Armor terlebih dahulu sebelum mengenai daging di bawahnya. |
+| Keterampilan | Atletik 77%, Berotot 68%, Ketahanan 56%, Menghindar 80%, Persepsi 62%, Senyap 76%, Track 64, Tekad 52% |
 | Gaya Tempur | Horor Alien Parasit (Gigitan, Cakar, dan Ekor) 77% |
 
 ##### Detail Senjata
@@ -375,7 +375,7 @@ Gunakan Contoh Makhluk ini sebagai inspirasi untuk kreasi Anda sendiri, sesuaika
 | Cakar | H | 1d4+1+1d6 | sesuai lokasi | |
 | Ekor | H | 1d6+1d6 | sesuai lokasi | [Serangan Sapuan](0005_Combat.md?id=sweep-attacks) |
 
-##### Lokasi Pukulan & Zirah
+##### Lokasi Pukulan & Armor
 
 | 1d20 | Lokasi | AP/HP |
 | :-: | :-- | :-: |
@@ -407,15 +407,15 @@ Makhluk bernapas di air, bukan udara, umumnya memiliki insang atau kulit yang ma
 Memungkinkan makhluk untuk mendeteksi darah dari jarak yang sangat jauh, baik terbawa angin maupun air. Jejak darah dapat dirasakan hingga 1d6+6 kilometer.
 
 #### Breathe Flame
-Makhluk mengembuskan api ke suatu area sebagai Aksi Tempur. Api menutupi kerucut di depan makhluk, yang membentang sejauh CON-nya dalam meter. Pada jarak terjauh, lebar kerucut adalah seperempat dari CON makhluk tersebut. Setiap makhluk yang terkena api menderita kerusakan berbasis api ke semua lokasi pukulan, meskipun karakter dapat mencoba untuk Menghindar (Evade) untuk mengurangi kerusakan ini menjadi setengahnya. Poin Zirah dihitung seperti biasa kecuali dinyatakan lain.
+Makhluk mengembuskan api ke suatu area sebagai Aksi Tempur. Api menutupi kerucut di depan makhluk, yang membentang sejauh CON-nya dalam meter. Pada jarak terjauh, lebar kerucut adalah seperempat dari CON makhluk tersebut. Setiap makhluk yang terkena api menderita kerusakan berbasis api ke semua lokasi pukulan, meskipun karakter dapat mencoba untuk Menghindar (Menghindar) untuk mengurangi kerusakan ini menjadi setengahnya. Poin Armor dihitung seperti biasa kecuali dinyatakan lain.
 
-Makhluk hanya bisa mengembuskan api sekali dalam periode waktu tertentu (biasanya sekali per jam atau sekali per hari). Upaya lebih lanjut untuk mengembuskan api dalam periode waktu ini mengharuskan makhluk tersebut untuk lulus lemparan Endurance dengan setiap lemparan menjadi satu tingkat lebih sulit atau menderita satu tingkat Kelelahan.
+Makhluk hanya bisa mengembuskan api sekali dalam periode waktu tertentu (biasanya sekali per jam atau sekali per hari). Upaya lebih lanjut untuk mengembuskan api dalam periode waktu ini mengharuskan makhluk tersebut untuk lulus lemparan Ketahanan dengan setiap lemparan menjadi satu tingkat lebih sulit atau menderita satu tingkat Kelelahan.
 
 #### Burrower
 Makhluk ini mahir menggali melalui tanah dengan tingkat Pergerakan normalnya. Beberapa makhluk terbatas pada jenis tanah yang dapat mereka lalui, yang dicatat dalam deskripsi makhluk tersebut.
 
 #### Camouflaged
-Makhluk ini mahir bersembunyi karena pewarnaan atau tekstur permukaannya yang tidak biasa. Mereka yang mencoba untuk menemukan makhluk tersebut akan menderita penalti pada Perception sebesar dua tingkat kesulitan.
+Makhluk ini mahir bersembunyi karena pewarnaan atau tekstur permukaannya yang tidak biasa. Mereka yang mencoba untuk menemukan makhluk tersebut akan menderita penalti pada Persepsi sebesar dua tingkat kesulitan.
 
 #### Characteristic Drain
 Makhluk memiliki kemampuan bawaan untuk menguras poin Karakteristik sementara dari target serangan mereka. Jenis serangan, Karakteristik yang terpengaruh, dan cara melawan efek pengurasan dirinci dalam deskripsi makhluk tersebut.
@@ -436,28 +436,28 @@ Makhluk kebal terhadap semua penyakit. Semua makhluk tanpa SIZ secara otomatis m
 Beberapa makhluk dapat jatuh dari langit atau melonjak melalui perairan untuk menyerang mangsanya, menyerang dengan kekuatan yang luar biasa. Ini secara efektif adalah menerjang (charge) bagi makhluk yang bukan berbasis darat. Serangan Menukik (Diving Strike) meningkatkan Ukuran serangan dan Modifikator Kerusakan makhluk tersebut satu tingkat, hanya untuk serangan ini saja. Serangan menukik hanya boleh digunakan sekali per putaran. Makhluk harus berada setidaknya satu putaran penuh Pergerakan di atas targetnya (atau mungkin di bawah jika terendam) agar dapat menggunakan serangan menukik.
 
 #### Earth Sense
-Beberapa makhluk begitu selaras dengan dunia bawah tanah sehingga mereka dapat bekerja dengan sempurna dalam kegelapan total di kedalaman. Dengan merasakan getaran dan tekanan udara, makhluk dengan Earth Sense dapat bertarung, dan melakukan lemparan Perception tanpa penalti selama target mereka tidak lebih jauh dari jarak INS-nya dalam meter. Jika menggunakan Earth Sense di atas tanah, jaraknya berkurang setengahnya.
+Beberapa makhluk begitu selaras dengan dunia bawah tanah sehingga mereka dapat bekerja dengan sempurna dalam kegelapan total di kedalaman. Dengan merasakan getaran dan tekanan udara, makhluk dengan Earth Sense dapat bertarung, dan melakukan lemparan Persepsi tanpa penalti selama target mereka tidak lebih jauh dari jarak INS-nya dalam meter. Jika menggunakan Earth Sense di atas tanah, jaraknya berkurang setengahnya.
 
 #### Echolocation
-Makhluk merasakan lingkungannya melalui pantulan gelombang sonik. Ini berarti makhluk tersebut dapat merasakan orang lain yang mungkin tidak bergerak atau tersembunyi. Dalam keadaan seperti itu, menggunakan lemparan Stealth untuk mencoba tetap tidak terlihat oleh makhluk tersebut adalah dua tingkat lebih sulit.
+Makhluk merasakan lingkungannya melalui pantulan gelombang sonik. Ini berarti makhluk tersebut dapat merasakan orang lain yang mungkin tidak bergerak atau tersembunyi. Dalam keadaan seperti itu, menggunakan lemparan Senyap untuk mencoba tetap tidak terlihat oleh makhluk tersebut adalah dua tingkat lebih sulit.
 
 #### Engulfing
 Makhluk memiliki lubang yang dapat menelan target hidup-hidup. Ukuran maksimum korban yang ditelan dihitung sebagai setengah dari SIZ makhluk itu sendiri tetapi mungkin kurang dari ini tergantung pada fisiologi makhluk tersebut. Saat ditelan, korban menderita setidaknya satu lemparan kerusakan berdasarkan serangan gigitan makhluk tersebut sebelum ditelan – waktu yang dihabiskan untuk mengunyah tergantung pada makhluk itu, dan seberapa sensitif isi perutnya. Jika masih hidup, korban yang tertelan akan mulai mati lemas, kemungkinan mati karena asfiksia sebelum menderita kerusakan nyata dari asam lambung. Secara realistis, korban yang tertelan tidak memiliki mobilitas untuk bergerak di dalam saluran pencernaan atau makhluk tersebut begitu besar sehingga dia akan mati jauh sebelum dia bisa memotong jalan keluar.
 
 #### Flying
-Makhluk secara otomatis berhasil dalam bergerak dan bermanuver sehari-hari saat terbang dan tidak perlu melempar keterampilan Fly kecuali mencoba tugas yang sangat sulit, seperti terbang melawan angin yang kuat, menghindari serangan jarak jauh di udara, atau mengakali musuh di udara. Penumpang yang terbang dapat mengganti keterampilan Fly (basis STR+DEX) untuk Evade jika bertarung saat berada di udara.
+Makhluk secara otomatis berhasil dalam bergerak dan bermanuver sehari-hari saat terbang dan tidak perlu melempar keterampilan Fly kecuali mencoba tugas yang sangat sulit, seperti terbang melawan angin yang kuat, menghindari serangan jarak jauh di udara, atau mengakali musuh di udara. Penumpang yang terbang dapat mengganti keterampilan Fly (basis STR+DEX) untuk Menghindar jika bertarung saat berada di udara.
 
-#### Formidable Natural Weapons
-Makhluk ini dapat secara aktif menangkis atau membelokkan serangan menggunakan senjata alaminya. Ini karena kombinasi gaya bertarung dan memiliki persenjataan alami yang dibentuk dari zat tangguh seperti tanduk, kitin, atau tulang yang dapat menepis kerusakan dari senjata buatan. Perhatikan bahwa makhluk yang tidak memiliki sifat ini mengandalkan zirah alami mereka untuk membelokkan pukulan atau menggunakan Evade.
+#### Tangguh Natural Senjata
+Makhluk ini dapat secara aktif menangkis atau membelokkan serangan menggunakan senjata alaminya. Ini karena kombinasi gaya bertarung dan memiliki persenjataan alami yang dibentuk dari zat tangguh seperti tanduk, kitin, atau tulang yang dapat menepis kerusakan dari senjata buatan. Perhatikan bahwa makhluk yang tidak memiliki sifat ini mengandalkan Armor alami mereka untuk membelokkan pukulan atau menggunakan Menghindar.
 
 #### Frenzy
-Ketika terluka atau terpapar zat tertentu – misalnya darah – makhluk tersebut harus berhasil dalam lemparan Willpower atau masuk ke dalam kondisi frenzy. Frenzy berlangsung selama beberapa putaran yang sama dengan CON makhluk tersebut. Selama frenzy, mereka hanya boleh menghabiskan Aksi Tempur untuk menyerang atau bergerak menuju pertempuran. Merapal mantra, menangkis, menghindar, dan apa pun yang lain dilarang; semua pikiran tentang pertahanan diri tersapu dalam kabut merah. Sebagai gantinya, makhluk tersebut tidak lagi menderita rasa sakit atau kelelahan, dan kebal terhadap kendali mental. Selama waktu ini, ia kebal terhadap semua efek merugikan dari Luka Serius, meskipun Luka Utama tetap akan melumpuhkan. Jika masih hidup, setelah frenzy selesai, makhluk tersebut secara otomatis mendapatkan tingkat kelelahan Exhausted.
+Ketika terluka atau terpapar zat tertentu – misalnya darah – makhluk tersebut harus berhasil dalam lemparan Tekad atau masuk ke dalam kondisi frenzy. Frenzy berlangsung selama beberapa putaran yang sama dengan CON makhluk tersebut. Selama frenzy, mereka hanya boleh menghabiskan Aksi Tempur untuk menyerang atau bergerak menuju pertempuran. Merapal mantra, menangkis, menghindar, dan apa pun yang lain dilarang; semua pikiran tentang pertahanan diri tersapu dalam kabut merah. Sebagai gantinya, makhluk tersebut tidak lagi menderita rasa sakit atau kelelahan, dan kebal terhadap kendali mental. Selama waktu ini, ia kebal terhadap semua efek merugikan dari Luka Serius, meskipun Luka Utama tetap akan melumpuhkan. Jika masih hidup, setelah frenzy selesai, makhluk tersebut secara otomatis mendapatkan tingkat kelelahan Kehabisan Tenaga.
 
 #### Gaze Attack
 Makhluk memiliki serangan tatapan. Serangan ini bisa aktif (makhluk harus secara sadar menghabiskan Poin Aksi pada gilirannya untuk menggunakannya pada musuh) atau pasif (siapa pun yang melihat makhluk tersebut terpengaruh), sebagaimana tercantum dalam deskripsi makhluk tersebut.
 
 #### Grappler
-Jika makhluk berhasil menyerang dalam pertempuran, ia dapat segera mencengkeram lawan selain menimbulkan kerusakan. Jika serangan makhluk tersebut ditangkis (atau makhluk itu sendiri sedang menangkis), maka makhluk tersebut diberikan efek Grip terhadap anggota tubuh lawan atau efek Pin Weapon terhadap senjatanya. Makhluk selalu menggunakan keterampilan Brawn untuk menahan korban agar tidak melepaskan diri.
+Jika makhluk berhasil menyerang dalam pertempuran, ia dapat segera mencengkeram lawan selain menimbulkan kerusakan. Jika serangan makhluk tersebut ditangkis (atau makhluk itu sendiri sedang menangkis), maka makhluk tersebut diberikan efek Grip terhadap anggota tubuh lawan atau efek Pin Weapon terhadap senjatanya. Makhluk selalu menggunakan keterampilan Berotot untuk menahan korban agar tidak melepaskan diri.
 
 #### Hold Breath
 Makhluk dapat menahan napas untuk waktu yang lama. Jika disiapkan dan tetap diam, makhluk dapat menahan napas selama beberapa menit yang sama dengan CON-nya. Periode ini berkurang setengahnya jika makhluk tersebut aktif, seperti saat berenang atau bertarung.
@@ -466,16 +466,16 @@ Makhluk dapat menahan napas untuk waktu yang lama. Jika disiapkan dan tetap diam
 Makhluk benar-benar kebal terhadap kerusakan yang disebabkan oleh satu jenis sumber. Sumber ini (dingin, api, besi, dll.) akan dicatat dalam daftar makhluk tersebut, tetapi deskripsi naratif mungkin diperlukan untuk beberapa kekebalan yang lebih spesifik.
 
 #### Intimidate
-Makhluk dapat mengintimidasi lawan sebagai awal pertempuran atau untuk menghindarinya sama sekali: geraman, seringai, menurunkan tanduk, dan sebagainya. Lawan harus melakukan lemparan Willpower yang tidak ditentang untuk mempertahankan posisi mereka; keberhasilan memungkinkan karakter untuk tetap berdiri, sedangkan kegagalan menunjukkan bahwa mereka harus menghabiskan putaran berikutnya secara naluriah menjaga jarak antara mereka dan makhluk tersebut. Jika dia gagal dalam lemparan Willpower, maka karakter tersebut melarikan diri dengan kecepatan maksimum. Keberhasilan kritis memungkinkan karakter untuk mengabaikan upaya intimidasi lebih lanjut oleh makhluk tersebut atau kerabatnya selama pertemuan itu. Efeknya berlanjut selama makhluk tersebut terus bertindak dengan cara yang mengancam, yang mencakup melakukan serangan.
+Makhluk dapat mengintimidasi lawan sebagai awal pertempuran atau untuk menghindarinya sama sekali: geraman, seringai, menurunkan tanduk, dan sebagainya. Lawan harus melakukan lemparan Tekad yang tidak ditentang untuk mempertahankan posisi mereka; keberhasilan memungkinkan karakter untuk tetap berdiri, sedangkan kegagalan menunjukkan bahwa mereka harus menghabiskan putaran berikutnya secara naluriah menjaga jarak antara mereka dan makhluk tersebut. Jika dia gagal dalam lemparan Tekad, maka karakter tersebut melarikan diri dengan kecepatan maksimum. Keberhasilan kritis memungkinkan karakter untuk mengabaikan upaya intimidasi lebih lanjut oleh makhluk tersebut atau kerabatnya selama pertemuan itu. Efeknya berlanjut selama makhluk tersebut terus bertindak dengan cara yang mengancam, yang mencakup melakukan serangan.
 
 #### Leaper
 Makhluk menggunakan serangan Melompat (Leaping) seperti yang dijelaskan di bagian [Pertempuran](0005_Combat.md?id=leaping-attacks) tetapi dapat menggabungkan lompatan tersebut dengan serangan fisik seperti cakar atau gigitan. Jika makhluk yang melompat memenangkan lemparan serangan lompat yang ditentang, ia secara otomatis memberikan kerusakan untuk salah satu senjata alaminya pada target. Kerusakan ini tidak dapat ditangkis kecuali dengan Blok Pasif.
 
 #### Life Sense
-Selaras dengan ritme alam, makhluk ini dapat menentukan vitalitas makhluk hidup apa pun hanya dengan sentuhan. Jika makhluk tersebut melakukan lemparan Perception yang berhasil, ia mengetahui cedera target saat ini, tingkat Kelelahan, dan apakah ia saat ini menderita racun atau penyakit apa pun. Makhluk tersebut juga menyadari segala bentuk kehidupan dalam jarak meter yang sama dengan keterampilan Willpower-nya, yang dapat membuat Stealth sulit dilakukan.
+Selaras dengan ritme alam, makhluk ini dapat menentukan vitalitas makhluk hidup apa pun hanya dengan sentuhan. Jika makhluk tersebut melakukan lemparan Persepsi yang berhasil, ia mengetahui cedera target saat ini, tingkat Kelelahan, dan apakah ia saat ini menderita racun atau penyakit apa pun. Makhluk tersebut juga menyadari segala bentuk kehidupan dalam jarak meter yang sama dengan keterampilan Tekad-nya, yang dapat membuat Senyap sulit dilakukan.
 
 #### Magic Sense
-Mirip dengan Life Sense tetapi memungkinkan makhluk untuk mendeteksi pancaran sihir dalam jarak yang sama. Jika makhluk tersebut menyentuh yang lain dan melakukan lemparan Perception yang berhasil, ia mengetahui poin sihir target saat ini, pesona yang dibawa, dan mantra aktif.
+Mirip dengan Life Sense tetapi memungkinkan makhluk untuk mendeteksi pancaran sihir dalam jarak yang sama. Jika makhluk tersebut menyentuh yang lain dan melakukan lemparan Persepsi yang berhasil, ia mengetahui poin sihir target saat ini, pesona yang dibawa, dan mantra aktif.
 
 #### Multi-Headed
 Makhluk mendapatkan satu Aksi Tempur tambahan per kepala ekstra yang dimiliki di luar yang pertama. Ini hilang saat setiap kepala individu dilumpuhkan atau dipenggal. Asalkan satu kepala tetap aktif, makhluk itu masih bisa mengendalikan tubuhnya yang terbagi. Ketika makhluk berkepala banyak menahan mantra yang memengaruhi emosi atau kecerdasan, ia melempar penyelamatan individu untuk setiap kepala yang masih utuh.
@@ -493,13 +493,13 @@ Makhluk kebal terhadap semua racun. Semua makhluk tanpa SIZ secara otomatis memi
 Makhluk dapat meregenerasi Poin Hit yang hilang karena kerusakan. Kecepatan regenerasi bervariasi tergantung pada makhluk tersebut. Kecuali dicatat secara khusus, regenerasi tidak menggantikan anggota tubuh yang hilang, dan pemutusan lokasi vital (kepala, dada, atau perut) masih akan mengakibatkan kematian.
 
 #### Swimmer
-Makhluk secara otomatis berhasil dalam bergerak dan bermanuver sehari-hari saat berenang dan tidak perlu melempar keterampilan Swim kecuali mencoba tugas yang sangat sulit, seperti berenang melawan arus yang kuat atau melompat ke atas air terjun. Seorang perenang dapat mengganti keterampilan Swim untuk lemparan Athletics dan Evade saat berada di air.
+Makhluk secara otomatis berhasil dalam bergerak dan bermanuver sehari-hari saat berenang dan tidak perlu melempar keterampilan Berenang kecuali mencoba tugas yang sangat sulit, seperti berenang melawan arus yang kuat atau melompat ke atas air terjun. Seorang perenang dapat mengganti keterampilan Berenang untuk lemparan Atletik dan Menghindar saat berada di air.
 
 #### Terrifying
-Penampilan, bentuk, atau aura makhluk tersebut begitu menakutkan sehingga memaksa penonton untuk melakukan lemparan Willpower yang tidak ditentang. Keberhasilan menunjukkan penonton terguncang selama satu putaran dan tidak dapat bertindak ofensif. Kegagalan menyebabkan mereka melarikan diri karena ketakutan. Kegagalan fatal menyebabkan penonton pingsan karena syok. Hanya keberhasilan kritis yang memungkinkan penonton untuk bertindak tanpa hambatan. Penonton tidak perlu melakukan pemeriksaan lebih lanjut selama sisa pertempuran, bahkan jika lebih banyak makhluk yang sama hadir. Paparan berulang terhadap jenis monster yang Mengerikan mungkin pada akhirnya memungkinkan pemeriksaan keterampilan menjadi satu atau lebih tingkat lebih mudah.
+Penampilan, bentuk, atau aura makhluk tersebut begitu menakutkan sehingga memaksa penonton untuk melakukan lemparan Tekad yang tidak ditentang. Keberhasilan menunjukkan penonton terguncang selama satu putaran dan tidak dapat bertindak ofensif. Kegagalan menyebabkan mereka melarikan diri karena ketakutan. Kegagalan fatal menyebabkan penonton pingsan karena syok. Hanya keberhasilan kritis yang memungkinkan penonton untuk bertindak tanpa hambatan. Penonton tidak perlu melakukan pemeriksaan lebih lanjut selama sisa pertempuran, bahkan jika lebih banyak makhluk yang sama hadir. Paparan berulang terhadap jenis monster yang Mengerikan mungkin pada akhirnya memungkinkan pemeriksaan keterampilan menjadi satu atau lebih tingkat lebih mudah.
 
 #### Trample
-Makhluk tersebut mampu menginjak-injak makhluk dengan SIZ setengah atau kurang dari miliknya sendiri, menggunakan keterampilan Athletics-nya untuk menyerang. Ini memberikan kerusakan yang sama dengan dua kali lipat Modifikator Kerusakan dasar makhluk tersebut dan meningkatkan Ukuran serangan satu tingkat. Bagaimana, dan kapan trample digunakan tergantung pada keadaannya. Jika terlibat dalam pertempuran, makhluk tersebut dapat menginjak lawan yang terjatuh pada gilirannya, tetapi ini memakan Poin Aksi. Jika trample dilakukan saat makhluk bergerak atau menerjang di atas lawan, maka trample tersebut adalah Aksi Gratis.
+Makhluk tersebut mampu menginjak-injak makhluk dengan SIZ setengah atau kurang dari miliknya sendiri, menggunakan keterampilan Atletik-nya untuk menyerang. Ini memberikan kerusakan yang sama dengan dua kali lipat Modifikator Kerusakan dasar makhluk tersebut dan meningkatkan Ukuran serangan satu tingkat. Bagaimana, dan kapan trample digunakan tergantung pada keadaannya. Jika terlibat dalam pertempuran, makhluk tersebut dapat menginjak lawan yang terjatuh pada gilirannya, tetapi ini memakan Poin Aksi. Jika trample dilakukan saat makhluk bergerak atau menerjang di atas lawan, maka trample tersebut adalah Aksi Gratis.
 
 #### Undead
 Karena sudah mati, makhluk tersebut kebal terhadap konsekuensi kelelahan dan cedera parah. Oleh karena itu, mayat hidup kebal terhadap semua efek merugikan dari Luka Serius. Bahkan Luka Utama tidak melumpuhkan mereka, meskipun mereka masih bisa dipotong atau dihancurkan lokasinya seperti biasa. Perlakukan lokasi kepala atau dada makhluk mayat hidup sebagai area di mana roh atau sihir telah terikat. Lokasi apa pun (dan yang berdampingan dengannya) yang dihancurkan atau diputus dari area terikat berhenti berfungsi, tetapi sisa tubuh dapat berlanjut jika masih memiliki anggota tubuh untuk bertindak. Luka Utama pada lokasi yang diresapi sihir secara langsung menghancurkan mayat hidup tersebut. Hanya makhluk mati yang sepenuhnya berwujud (corporeal) yang dapat memiliki sifat Undead.

@@ -7,9 +7,9 @@ Daftar ini tidak lengkap tetapi seharusnya mewakili situasi yang paling umum. Ji
 ---
 ## Asfiksia
 
-Karakter dapat menahan napas selama beberapa detik yang setara dengan nilai keahlian Endurance mereka. Namun, karakter harus bersiap (mengisi paru-paru dengan udara sebanyak mungkin); jika tidak, maka periode tersebut dibagi dua jika karakter berada dalam situasi pasif, atau dikurangi menjadi seperlima jika karakter terlibat dalam aktivitas berat.
+Karakter dapat menahan napas selama beberapa detik yang setara dengan nilai keahlian Ketahanan mereka. Namun, karakter harus bersiap (mengisi paru-paru dengan udara sebanyak mungkin); jika tidak, maka periode tersebut dibagi dua jika karakter berada dalam situasi pasif, atau dikurangi menjadi seperlima jika karakter terlibat dalam aktivitas berat.
 
-Setelah periode menahan napas berakhir, karakter harus melakukan lemparan Endurance:
+Setelah periode menahan napas berakhir, karakter harus melakukan lemparan Ketahanan:
 
 - Jika lemparannya adalah Keberhasilan Kritis, tidak ada kerusakan lebih lanjut yang terjadi.
 - Jika lemparannya Berhasil, karakter memperoleh satu tingkat Kelelahan tambahan.
@@ -52,7 +52,7 @@ Keahlian yang sama tidak boleh mendapatkan lebih dari satu Lemparan Pengalaman p
 
 #### Meningkatkan Passion
 
-Sebagaimana dijelaskan di bawah Passion dalam bagian [Passion](0002_Characters.md?id=step-8-passions), nilai Passion dapat ditingkatkan dengan Lemparan Pengalaman dengan cara yang sama seperti keahlian. Jika didukung oleh permainan, Games Master bahkan mungkin mengizinkan Passion dikurangi menggunakan Lemparan Pengalaman.
+Sebagaimana dijelaskan di bawah Passion dalam bagian [Passion](0002_Characters.md?id=step-8-Gairah), nilai Passion dapat ditingkatkan dengan Lemparan Pengalaman dengan cara yang sama seperti keahlian. Jika didukung oleh permainan, Games Master bahkan mungkin mengizinkan Passion dikurangi menggunakan Lemparan Pengalaman.
 
 _Sebagai contoh, penolakan terus-menerus dari cinta yang tak berbalas mungkin pada akhirnya akan melemahkan Passion dari pecinta yang paling bersemangat sekalipun, terutama seseorang yang ingin menjalin hubungan tanpa dihantui oleh bayang-bayang masa lalu._
 
@@ -80,9 +80,9 @@ Semua penyakit dan racun menunjukkan sejumlah sifat yang penting bagi efeknya.
 - **Kontak:** Efek terjadi melalui penyerapan melalui kulit.
 - **Injeksi (Disuntikkan):** Efek terjadi ketika zat disuntikkan ke dalam tubuh melalui penusukan.
 
-**Potensi:** Virulensi penyakit atau racun. Nilai ini diadu dengan keahlian perlawanan yang sesuai (biasanya Endurance atau Willpower) dalam Lemparan Berlawanan (Opposed Roll). Jika karakter memenangkan lemparan, mereka menepis efeknya. Jika mereka kalah dalam lemparan, maka mereka menderita semua Kondisi penyakit atau racun, masing-masing pada waktu yang tepat.
+**Potensi:** Virulensi penyakit atau racun. Nilai ini diadu dengan keahlian perlawanan yang sesuai (biasanya Ketahanan atau Tekad) dalam Lemparan Berlawanan (Opposed Roll). Jika karakter memenangkan lemparan, mereka menepis efeknya. Jika mereka kalah dalam lemparan, maka mereka menderita semua Kondisi penyakit atau racun, masing-masing pada waktu yang tepat.
 
-**Resistansi:** Bagaimana penyakit atau racun dilawan – biasanya Endurance atau Willpower, tetapi mungkin memiliki persyaratan resistansi yang lebih eksotis. Resistansi dapat dilempar pada saat paparan atau ditunda hingga Waktu Muncul (Onset Time) untuk menyembunyikan fakta bahwa karakter mungkin telah terinfeksi atau diracuni.
+**Resistansi:** Bagaimana penyakit atau racun dilawan – biasanya Ketahanan atau Tekad, tetapi mungkin memiliki persyaratan resistansi yang lebih eksotis. Resistansi dapat dilempar pada saat paparan atau ditunda hingga Waktu Muncul (Onset Time) untuk menyembunyikan fakta bahwa karakter mungkin telah terinfeksi atau diracuni.
 
 **Waktu Muncul (Onset Time):** Banyak penyakit dan racun tidak memberikan efek langsung. Penundaannya disebut Waktu Muncul, dan ini bisa berupa hitungan detik, menit, jam, atau bahkan lebih lama. Racun atau penyakit yang memiliki banyak efek mungkin memiliki waktu muncul yang berbeda untuk masing-masing efek seperti yang dijelaskan di bawah Kondisi.
 
@@ -96,14 +96,14 @@ Semua penyakit dan racun menunjukkan sejumlah sifat yang penting bagi efeknya.
 
 | Kondisi | Efek |
 | :-- | :-- |
-| Agoni | Korban terhambat oleh rasa sakit yang hebat. Baik di lokasi tertentu atau seluruh tubuh, setiap lemparan keahlian yang melibatkan penggunaan area yang terkena juga harus sama dengan atau kurang dari Willpower karakter, jika tidak, upaya tersebut gagal, dan mereka merintih atau berteriak kesakitan. |
-| Asfiksia | Korban menderita asfiksia – ia pingsan tidak berdaya, tidak mampu bernapas. Aturan dari bagian [Asfiksia](0004_Game_System.md?id=asphyxiation) digunakan. Asfiksia mungkin bersifat asmatik yang berarti korban hanya mengalami sesak napas, atau gagal napas total yang mengakibatkan kematian. Dalam kasus terakhir, korban dapat tetap hidup dengan memenangkan tes berlawanan keahlian First Aid melawan Potensi penyakit atau racun. |
+| Agoni | Korban terhambat oleh rasa sakit yang hebat. Baik di lokasi tertentu atau seluruh tubuh, setiap lemparan keahlian yang melibatkan penggunaan area yang terkena juga harus sama dengan atau kurang dari Tekad karakter, jika tidak, upaya tersebut gagal, dan mereka merintih atau berteriak kesakitan. |
+| Asfiksia | Korban menderita asfiksia – ia pingsan tidak berdaya, tidak mampu bernapas. Aturan dari bagian [Asfiksia](0004_Game_System.md?id=asphyxiation) digunakan. Asfiksia mungkin bersifat asmatik yang berarti korban hanya mengalami sesak napas, atau gagal napas total yang mengakibatkan kematian. Dalam kasus terakhir, korban dapat tetap hidup dengan memenangkan tes berlawanan keahlian Pertolongan Pertama melawan Potensi penyakit atau racun. |
 | Pendarahan | Korban menderita pendarahan internal atau pendarahan permukaan yang menyebabkan tingkat Kelelahan dan waktu pemulihan yang dijelaskan di bawah bagian [Kelelahan](0004_Game_System.md?id=Kelelahan) dan [Kehilangan Darah](0004_Game_System.md?id=blood-loss). |
 | Menular | Korban dapat menularkan racun atau penyakit melalui sentuhan. |
 | Kematian | Korban pingsan tidak berdaya dan meninggal setelah sejumlah ronde sama dengan karakteristik CON mereka. |
-| Demam | Suhu tubuh korban berfluktuasi secara drastis – dari panas ke dingin – dan otot-otot terasa sakit. Semua keahlian menderita tingkat kesulitan Hard. |
+| Demam | Suhu tubuh korban berfluktuasi secara drastis – dari panas ke dingin – dan otot-otot terasa sakit. Semua keahlian menderita tingkat kesulitan Sulit. |
 | Mania | Korban didorong untuk mengikuti suatu paksaan, seperti menghindari air, paranoia, menyakiti diri sendiri, dan sebagainya. Mania yang ditimbulkan oleh penyakit atau racun akan dicatat dalam deskripsinya. |
-| Mual | Korban tidak bisa makan, dan harus melempar Endurance setiap kali ia melakukan tindakan fisik yang menegangkan untuk menghindari muntah secara fisik. Muntah berlangsung selama 1d3 ronde di mana ia tidak bisa bertindak. Durasi Mual yang lama dapat menyebabkan kelaparan. |
+| Mual | Korban tidak bisa makan, dan harus melempar Ketahanan setiap kali ia melakukan tindakan fisik yang menegangkan untuk menghindari muntah secara fisik. Muntah berlangsung selama 1d3 ronde di mana ia tidak bisa bertindak. Durasi Mual yang lama dapat menyebabkan kelaparan. |
 | Paralisis | Korban secara fisik tidak mampu bergerak. Area yang terkena, jika berupa lokasi, tidak dapat digunakan selama durasi tersebut. Jika memengaruhi seluruh tubuh, karakter tidak bisa bergerak sama sekali. |
 
 #### Contoh Penyakit: Red Pox
@@ -114,7 +114,7 @@ Korban awalnya menderita ruam ringan, tetapi dalam sehari mengalami demam serius
 
 - **Aplikasi:** Kontak
 - **Potensi:** 50
-- **Resistansi:** Endurance
+- **Resistansi:** Ketahanan
 - **Waktu Muncul:** 1d6+6 jam
 - **Durasi:** 1d6+3 hari
 - **Kondisi:** Setelah penyakit muncul, korban menjadi Menular. 1 hari kemudian mereka mulai menderita Demam dan Pendarahan. Setiap hari pustula mengeluarkan darah, korban kehilangan satu tingkat Kelelahan, yang tidak pulih sampai durasi penyakit selesai.
@@ -123,7 +123,7 @@ Korban awalnya menderita ruam ringan, tetapi dalam sehari mengalami demam serius
 ---
 ## Jatuh
 
-Jumlah kerusakan yang diderita akibat jatuh bergantung pada jarak jatuh. Zirah Point tidak mengurangi kerusakan akibat jatuh, tetapi Damage Modifier dari karakter atau makhluk yang jatuh berlaku untuk kerusakan yang diderita akibat jatuh tersebut.
+Jumlah kerusakan yang diderita akibat jatuh bergantung pada jarak jatuh. Armor Point tidak mengurangi kerusakan akibat jatuh, tetapi Daya Rusak Modifier dari karakter atau makhluk yang jatuh berlaku untuk kerusakan yang diderita akibat jatuh tersebut.
 
 ##### Tabel Jarak Jatuh
 
@@ -145,17 +145,17 @@ Objek yang jatuh memberikan jumlah kerusakan berdasarkan SIZ-nya dan jarak jatuh
 
 Kelelahan mengukur kelelahan dan efek tambahannya. Ini digunakan untuk melacak banyak hal yang berbeda, mulai dari aktivitas berat hingga efek penyakit yang melemahkan.
 
-Cara utama untuk memperoleh Kelelahan adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Athletics, Brawn, atau Endurance – untuk melawan perolehan tingkat Kelelahan.
+Cara utama untuk memperoleh Kelelahan adalah dengan melakukan beberapa bentuk aktivitas fisik. Semakin berat latihan atau pekerjaan, semakin cepat karakter lelah. Atas kebijakan Games Master, karakter harus melakukan lemparan keahlian yang sesuai – baik Atletik, Berotot, atau Ketahanan – untuk melawan perolehan tingkat Kelelahan.
 
 Setiap lemparan Gagal menambah satu tingkat Kelelahan. Setiap tingkat Kelelahan membawa penalti untuk penggunaan keahlian, gerakan, Inisiatif, dan Action Point. Asfiksia, Kehilangan Darah, dan efek lain yang bergantung pada latar juga berkontribusi pada akumulasi Kelelahan.
 
-Bagi sebagian besar karakter, aktivitas dalam bentuk apa pun menjadi hampir mustahil ketika tingkat Tidak Berdaya (Incapacitated) tercapai. Pada tahap ini, karakter masih sadar tetapi tidak mampu melakukan apa pun selain aktivitas yang paling mendesak.
+Bagi sebagian besar karakter, aktivitas dalam bentuk apa pun menjadi hampir mustahil ketika tingkat Tidak Berdaya (Tak Berdaya) tercapai. Pada tahap ini, karakter masih sadar tetapi tidak mampu melakukan apa pun selain aktivitas yang paling mendesak.
 
 Di luar Tidak Berdaya, karakter tidak dapat bertindak sama sekali. Tingkat Kelelahan – Setengah Sadar, Koma, dan Mati – umumnya dicadangkan untuk mengukur efek paling ekstrem dari mati lemas, penyakit, kehilangan darah, kelaparan, paparan, dan sebagainya.
 
 #### Pulih dari Kelelahan
 
-Karakter pulih dari Kelelahan tergantung pada Healing Rate mereka. Jumlah istirahat total yang diperlukan untuk memulihkan setiap tingkat Kelelahan yang terkumpul setara dengan Periode Pemulihan dibagi dengan Healing Rate karakter.
+Karakter pulih dari Kelelahan tergantung pada Tingkat Sembuh mereka. Jumlah istirahat total yang diperlukan untuk memulihkan setiap tingkat Kelelahan yang terkumpul setara dengan Periode Pemulihan dibagi dengan Tingkat Sembuh karakter.
 
 Perhatikan bahwa tabel di bawah mewakili pemulihan Kelelahan untuk aktivitas fisik. Pemulihan Kelelahan bisa jauh lebih cepat saat pulih dari Asfiksia atau lebih lambat jika memulihkan diri dari Kehilangan Darah.
 
@@ -164,22 +164,22 @@ Perhatikan bahwa tabel di bawah mewakili pemulihan Kelelahan untuk aktivitas fis
 | Tingkat Kelelahan | Kelas Keahlian | Gerakan | Inisiatif | Action Point | Periode Pemulihan |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Segar | – | – | Tanpa Penalti | – | – |
-| Terengah-engah | Hard | Tanpa Penalti | Tanpa Penalti | Tanpa Penalti | 15 menit |
-| Lelah | Hard | -1 meter | Tanpa Penalti | Tanpa Penalti | 3 jam |
-| Letih | Formidable | -2 meter | -2 | Tanpa Penalti | 6 jam |
-| Kehabisan Tenaga | Formidable | Dibagi dua | -4 | -1 | 12 jam |
-| Lemah | Herculean | Dibagi dua | -6 | -2 | 18 jam |
-| Tidak Berdaya | Herculean | Immobile | -8 | -3 | 24 jam |
-| Setengah Sadar | Hopeless | Tidak Ada Aktivitas | Tidak Ada Aktivitas | Tidak Ada Aktivitas | 36 jam |
+| Terengah-engah | Sulit | Tanpa Penalti | Tanpa Penalti | Tanpa Penalti | 15 menit |
+| Lelah | Sulit | -1 meter | Tanpa Penalti | Tanpa Penalti | 3 jam |
+| Letih | Tangguh | -2 meter | -2 | Tanpa Penalti | 6 jam |
+| Kehabisan Tenaga | Tangguh | Dibagi dua | -4 | -1 | 12 jam |
+| Lemah | Herkules | Dibagi dua | -6 | -2 | 18 jam |
+| Tidak Berdaya | Herkules | Immobile | -8 | -3 | 24 jam |
+| Setengah Sadar | Tanpa Harapan | Tidak Ada Aktivitas | Tidak Ada Aktivitas | Tidak Ada Aktivitas | 36 jam |
 | Koma | Tidak Ada Aktivitas | Tidak Ada Aktivitas | Tidak Ada Aktivitas | Tidak Ada Aktivitas | 48 jam |
 | Mati | Mati | – | – | – | Tidak Pernah |
 
 ---
 ## Api
 
-Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. Tabel Intensitas Api di bawah ini memberikan lima intensitas berbeda untuk kerusakan akibat panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan di kolom Kerusakan. Karena ukurannya yang relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya pada satu Lokasi Pukul (Hit Location), biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, memberikan kerusakan pada 1d4+1 Lokasi Pukul terdekat, menunjukkan derajat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Pukul secara bersamaan.
+Api selalu menjadi sumber bahaya ketika digunakan sebagai senjata atau mengamuk di luar kendali. Tabel Intensitas Api di bawah ini memberikan lima intensitas berbeda untuk kerusakan akibat panas, dengan beberapa contoh. Kerusakan yang ditimbulkan per Ronde diberikan di kolom Kerusakan. Karena ukurannya yang relatif kecil, sumber Intensitas 1 dan 2 menerapkan kerusakannya pada satu Lokasi Pukul (Hit Lokasi), biasanya yang menyentuh sumbernya. Sumber Intensitas 3 dan 4 lebih besar, memberikan kerusakan pada 1d4+1 Lokasi Pukul terdekat, menunjukkan derajat panas radiasi. Sumber Intensitas 5 memengaruhi semua Lokasi Pukul secara bersamaan.
 
-Api dapat menyulut bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut akan terbakar dalam beberapa Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah tersulut, bahan yang mudah terbakar akan terus terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Pukul (Hit Points) material tersebut, mengabaikan Zirah Point, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Pukul, per Ronde, setara dengan Intensitasnya.
+Api dapat menyulut bahan yang mudah terbakar. Jika tidak segera dipadamkan, bahan tersebut akan terbakar dalam beberapa Ronde seperti yang ditunjukkan oleh Intensitas api. Setelah tersulut, bahan yang mudah terbakar akan terus terbakar sampai dipadamkan secara fisik. Kerusakan diterapkan langsung ke Poin Pukul (Hit Points) material tersebut, mengabaikan Armor Point, dan ke daging apa pun di bawahnya. Jika dibiarkan tidak terkendali, api menyebar ke sejumlah Lokasi Pukul, per Ronde, setara dengan Intensitasnya.
 
 ##### Tabel Intensitas Api
 
@@ -191,7 +191,7 @@ Api dapat menyulut bahan yang mudah terbakar. Jika tidak segera dipadamkan, baha
 | 4 | Kebakaran memenuhi ruangan | 1d2 | 2d6 |
 | 5 | Lava Vulkanik | Instan | 3d6 |
 
-Serangan berbasis api biasanya memiliki persentase peluang untuk menyulut bahan yang mudah terbakar karena biasanya serangan tersebut berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah tersulut, bahan yang mudah terbakar terbakar selama 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Pukul material, mengabaikan Zirah Point, dan ke daging apa pun di bawahnya. Namun, Zirah alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri ke tanah dan melakukan lemparan Athletics yang berhasil, yang memerlukan Action Point dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut menjadi satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga menjadi satu Tingkat Kesulitan lebih mudah.
+Serangan berbasis api biasanya memiliki persentase peluang untuk menyulut bahan yang mudah terbakar karena biasanya serangan tersebut berakhir dalam satu Ronde. Kecuali dinyatakan lain, peluang ini adalah kerusakan yang dilempar x5% untuk serangan berbasis api, dan kerusakan yang dilempar x1% untuk listrik. Setelah tersulut, bahan yang mudah terbakar terbakar selama 1d3-1 kerusakan setiap Ronde sampai dipadamkan secara fisik. Terapkan kerusakan ini langsung ke Poin Pukul material, mengabaikan Armor Point, dan ke daging apa pun di bawahnya. Namun, Armor alami makhluk menawarkan perlindungan normalnya. Korban dapat mencoba memadamkan api dengan menjatuhkan diri ke tanah dan melakukan lemparan Atletik yang berhasil, yang memerlukan Action Point dan dapat dicoba setiap Giliran. Jika orang lain membantu memadamkan api dengan cara tertentu, lemparan tersebut menjadi satu Tingkat Kesulitan lebih mudah. Jika lemparan kerusakan menghasilkan nol kerusakan, api telah padam dengan sendirinya di satu lokasi tersebut. Untuk setiap lokasi yang telah padam dengan sendirinya, lemparan untuk memadamkan api juga menjadi satu Tingkat Kesulitan lebih mudah.
 
 ---
 ## Waktu Permainan
@@ -213,7 +213,7 @@ Waktu Keahlian mewakili beberapa menit hingga beberapa jam dan digunakan untuk m
 Ini adalah jumlah waktu yang diambil ketika Games Master sedang menarasikan kepada pemain, atau ketika para pemain sedang berdiskusi. Kecuali ada alasan khusus untuk itu, sebagian besar permainan peran yang sebenarnya berlangsung dalam waktu narasi. Saat bermain peran, waktu narasi menyerupai waktu nyata, di mana percakapan berlangsung selama waktu yang dibutuhkan untuk memainkannya. Jika sesi permainan mencakup perjalanan yang panjang, atau periode aktivitas di mana waktu yang tepat tidak terlalu penting, maka waktu dikompresi sangat singkat menjadi beberapa saat waktu permainan.
 
 ---
-## Lokasi Pukul (Hit Locations)
+## Lokasi Pukul (Lokasi Bentur)
 
 Sebagian besar serangan (senjata) yang berhasil mengenai Lokasi Pukul tertentu. Ini dapat ditentukan secara acak atau dalam beberapa keadaan dipilih oleh Efek Khusus seperti Pilih Lokasi. Untuk menghitung secara acak lokasi mana yang terkena, lempar 1d20 dan bandingkan angka yang dilempar dengan tabel Lokasi Pukul humanoid atau makhluk yang relevan.
 
@@ -242,10 +242,10 @@ Jika serangan berhasil mengenai, serangan itu menyebabkan kerusakan sesuai denga
 
 Kerusakan yang dilempar untuk senjata atau serangan dimodifikasi oleh kondisi tertentu dalam urutan berikut:
 
-1. Terapkan Damage Modifier untuk karakter yang melakukan serangan.
+1. Terapkan Daya Rusak Modifier untuk karakter yang melakukan serangan.
 2. Modifikasi kerusakan dari sihir peningkat (atau pengurang) senjata apa pun.
 3. Jika ditangkis, kurangi kerusakan dengan tepat sesuai dengan ukuran senjata yang sebanding.
-4. Jika Lokasi Pukul diberi pelindung, kurangi kerusakan dengan nilai Zirah Point.
+4. Jika Lokasi Pukul diberi pelindung, kurangi kerusakan dengan nilai Armor Point.
 
 Jika kerusakan yang ditimbulkan oleh serangan di atas nol, maka Lokasi Pukul mengalami jumlah kerusakan tersebut, dengan total kerusakan segera dikurangi dari Poin Pukul lokasi tersebut. Catat berapa Poin Pukul yang tersisa di lokasi tersebut, dan kategori luka yang dihasilkan.
 
@@ -253,7 +253,7 @@ Jika kerusakan yang ditimbulkan oleh serangan di atas nol, maka Lokasi Pukul men
 - **Luka Serius:** Lokasi Pukul berkurang menjadi nol Poin Pukul atau kurang.
 - **Luka Mayor:** Lokasi Pukul berkurang menjadi skor negatif yang setara atau lebih besar dari Poin Pukul awalnya
 
-Gunakan aturan berikut jika lokasi menerima Luka Serius atau Mayor. Perhatikan bahwa luka yang memerlukan pemeriksaan Endurance mengujinya dalam Lemparan Berlawanan melawan nilai lemparan serangan asli. Ini mencerminkan kemampuan pejuang yang sangat terampil untuk melakukan serangan yang lebih mematikan. Lemparan Endurance tidak diulang kecuali lokasi tersebut terluka kembali.
+Gunakan aturan berikut jika lokasi menerima Luka Serius atau Mayor. Perhatikan bahwa luka yang memerlukan pemeriksaan Ketahanan mengujinya dalam Lemparan Berlawanan melawan nilai lemparan serangan asli. Ini mencerminkan kemampuan pejuang yang sangat terampil untuk melakukan serangan yang lebih mematikan. Lemparan Ketahanan tidak diulang kecuali lokasi tersebut terluka kembali.
 
 ### Luka Ringan
 
@@ -263,17 +263,17 @@ Luka ringan adalah luka potong, goresan, memar, dan keseleo. Luka ini menyakitka
 
 Jika suatu lokasi berkurang menjadi nol Poin Pukul atau kurang, korban menerima Luka Serius. Lokasi tersebut terluka permanen, dan korban tidak dapat menyerang atau mulai merapalkan mantra (tetapi masih dapat Menangkis atau Menghindar) untuk 1d3 Giliran berikutnya karena pingsan atau terganggu oleh rasa sakit dari luka tersebut.
 
-Karakter yang menderita Luka Serius pada anggota tubuh harus segera melakukan Lemparan Berlawanan dari Endurance-nya melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan anggota tubuh tersebut tidak dapat digunakan, sampai lokasi tersebut dikembalikan ke Poin Pukul positif. Jika kaki, korban jatuh ke tanah. Jika lengan, apa pun yang dipegang akan jatuh, kecuali objek tersebut diikat (gunakan akal sehat di sini).
+Karakter yang menderita Luka Serius pada anggota tubuh harus segera melakukan Lemparan Berlawanan dari Ketahanan-nya melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan anggota tubuh tersebut tidak dapat digunakan, sampai lokasi tersebut dikembalikan ke Poin Pukul positif. Jika kaki, korban jatuh ke tanah. Jika lengan, apa pun yang dipegang akan jatuh, kecuali objek tersebut diikat (gunakan akal sehat di sini).
 
-Karakter yang menderita Luka Serius pada perut, dada, atau kepala harus segera melakukan Lemparan Berlawanan dari Endurance-nya melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan ketidaksadaran selama beberapa menit setara dengan jumlah kerusakan yang diderita dalam serangan yang menyebabkan Luka Serius. Keahlian First Aid atau Healing dapat digunakan untuk membantu korban yang tidak sadar agar kembali sadar.
+Karakter yang menderita Luka Serius pada perut, dada, atau kepala harus segera melakukan Lemparan Berlawanan dari Ketahanan-nya melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan ketidaksadaran selama beberapa menit setara dengan jumlah kerusakan yang diderita dalam serangan yang menyebabkan Luka Serius. Keahlian Pertolongan Pertama atau Healing dapat digunakan untuk membantu korban yang tidak sadar agar kembali sadar.
 
 Atas kebijakan Games Master, bahkan jika karakter tetap berfungsi, semua tugas yang memerlukan penggunaan Lokasi Pukul tersebut akan menderita penalti berkelanjutan sebesar satu Tingkat Kesulitan, sampai cedera tersebut berkurang menjadi Luka Ringan.
 
 ### Luka Mayor
 
-Jika suatu lokasi berkurang menjadi skor negatif yang setara atau lebih besar dari Poin Pukul awalnya, karakter menerima Luka Mayor. Karakter segera Tidak Berdaya, tidak mampu melanjutkan pertarungan. Anggota tubuh terputus, tertusuk, hancur, atau tercabik oleh Luka Mayor. Karakter jatuh ke tanah, secara fisik Tidak Berdaya, dan harus segera melakukan Lemparan Berlawanan dari Endurance melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan ketidaksadaran karena rasa sakit yang luar biasa. Jika lokasi yang terputus, tertusuk, atau tercabik tidak dirawat dalam beberapa menit setara dengan lima kali Healing Rate-nya, karakter meninggal karena kehilangan darah dan syok.
+Jika suatu lokasi berkurang menjadi skor negatif yang setara atau lebih besar dari Poin Pukul awalnya, karakter menerima Luka Mayor. Karakter segera Tidak Berdaya, tidak mampu melanjutkan pertarungan. Anggota tubuh terputus, tertusuk, hancur, atau tercabik oleh Luka Mayor. Karakter jatuh ke tanah, secara fisik Tidak Berdaya, dan harus segera melakukan Lemparan Berlawanan dari Ketahanan melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan ketidaksadaran karena rasa sakit yang luar biasa. Jika lokasi yang terputus, tertusuk, atau tercabik tidak dirawat dalam beberapa menit setara dengan lima kali Tingkat Sembuh-nya, karakter meninggal karena kehilangan darah dan syok.
 
-Korban Luka Mayor pada perut, dada, atau kepala jatuh pingsan, benar-benar Tidak Berdaya, dan harus segera melakukan Lemparan Berlawanan dari Endurance melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan kematian instan dan tragis (dipenggal, dibelah dua, tertusuk jantung, tercabik-cabik, dan sebagainya). Jika mereka selamat, dan lokasi tersebut tidak dirawat dalam beberapa Ronde Pertarungan setara dengan dua kali Healing Rate karakter, mereka tetap meninggal karena kehilangan darah dan syok.
+Korban Luka Mayor pada perut, dada, atau kepala jatuh pingsan, benar-benar Tidak Berdaya, dan harus segera melakukan Lemparan Berlawanan dari Ketahanan melawan lemparan serangan musuh yang berhasil. Kegagalan mengakibatkan kematian instan dan tragis (dipenggal, dibelah dua, tertusuk jantung, tercabik-cabik, dan sebagainya). Jika mereka selamat, dan lokasi tersebut tidak dirawat dalam beberapa Ronde Pertarungan setara dengan dua kali Tingkat Sembuh karakter, mereka tetap meninggal karena kehilangan darah dan syok.
 
 Karena sebagian besar Luka Mayor memerlukan semacam pembedahan atau sihir yang signifikan untuk disembuhkan, penderita akan sangat kecil kemungkinannya untuk pulih dari Luka Mayor tepat waktu untuk bergabung kembali dalam pertarungan. Tergantung pada pengobatan yang tersedia, lokasi yang terluka berpotensi cacat (lihat [Pemulihan dari Cedera](0004_Game_System.md?id=healing-from-injury) di bawah).
 
@@ -288,33 +288,33 @@ Dalam kasus khusus di mana karakter penting menerima Luka Mayor, Games Master mu
 ---
 ## Pemulihan dari Cedera
 
-Pemulihan alami dari luka dan cedera didasarkan pada Healing Rate karakter. Healing Rate menentukan berapa banyak Poin Pukul yang dipulihkan di suatu lokasi tergantung pada sifat cedera:
+Pemulihan alami dari luka dan cedera didasarkan pada Tingkat Sembuh karakter. Tingkat Sembuh menentukan berapa banyak Poin Pukul yang dipulihkan di suatu lokasi tergantung pada sifat cedera:
 
 - **Luka Ringan:** Hari
 - **Luka Serius:** Minggu
 - **Luka Mayor:** Bulan
 
-Jadi, karakter dengan Healing Rate 3 yang menderita kerusakan yang membawanya ke –3 di Lokasi Pukul, sebuah Luka Serius, akan sembuh secara alami dengan kecepatan 3 Poin Pukul per minggu sampai lukanya di atas nol, dan kemudian sembuh 3 Poin Pukul per hari sampai pulih sepenuhnya.
+Jadi, karakter dengan Tingkat Sembuh 3 yang menderita kerusakan yang membawanya ke –3 di Lokasi Pukul, sebuah Luka Serius, akan sembuh secara alami dengan kecepatan 3 Poin Pukul per minggu sampai lukanya di atas nol, dan kemudian sembuh 3 Poin Pukul per hari sampai pulih sepenuhnya.
 
 Ada batasan tertentu pada penyembuhan alami:
 
-- Karakter yang menyembuhkan tidak dapat melakukan aktivitas berat: jika tidak, Healing Rate berkurang sebesar 1d3. Jadi, karakter yang pulih dari Luka Ringan sekalipun dapat mendapati kemajuannya terhenti jika mereka memutuskan untuk terlibat dalam tugas fisik apa pun yang mungkin memperburuk cedera.
+- Karakter yang menyembuhkan tidak dapat melakukan aktivitas berat: jika tidak, Tingkat Sembuh berkurang sebesar 1d3. Jadi, karakter yang pulih dari Luka Ringan sekalipun dapat mendapati kemajuannya terhenti jika mereka memutuskan untuk terlibat dalam tugas fisik apa pun yang mungkin memperburuk cedera.
 - Penyembuhan alami tidak akan mulai menyembuhkan Luka Mayor sampai korban telah dirawat dengan lemparan Healing yang berhasil, atau perapalan semacam sihir penyembuhan. Luka Mayor yang tidak terputus yang tidak dirawat dalam beberapa hari setara dengan seperdua puluh dari keahlian Healing menjadi cacat, secara permanen mengurangi Poin Pukul lokasi tersebut.
 
 ---
 ## Objek Tidak Bernyawa
 
-Semua objek tidak bernyawa memiliki Zirah Point dan Poin Pukul yang digunakan untuk menentukan resistansi terhadap kerusakan dan kehancuran. Zirah Point mengurangi kerusakan sebelum Poin Pukul terpengaruh. Setelah Poin Pukul suatu objek berkurang menjadi nol, objek tersebut tidak berguna.
+Semua objek tidak bernyawa memiliki Armor Point dan Poin Pukul yang digunakan untuk menentukan resistansi terhadap kerusakan dan kehancuran. Armor Point mengurangi kerusakan sebelum Poin Pukul terpengaruh. Setelah Poin Pukul suatu objek berkurang menjadi nol, objek tersebut tidak berguna.
 
-Upaya memecahkan objek memerlukan karakter untuk melakukan lemparan Brawn, Unarmed, atau Combat Style, yang sesuai, untuk menimbulkan kerusakan. Keberhasilan memberikan kerusakan pada item tersebut.
+Upaya memecahkan objek memerlukan karakter untuk melakukan lemparan Berotot, Bela Diri, atau Gaya Tarung, yang sesuai, untuk menimbulkan kerusakan. Keberhasilan memberikan kerusakan pada item tersebut.
 
 #### Senjata vs Objek Tidak Bernyawa
 
-Menggunakan senjata melawan objek tidak bernyawa dengan Zirah Point setara atau lebih besar daripada senjata tersebut memberikan kerusakan pada objek maupun senjata tersebut. Misalnya, menggunakan kapak pada pintu besi dapat merusak pintu, tetapi kapak itu sendiri akan hancur jauh sebelum pintu besi itu rusak. Games Master harus menggunakan kebijaksanaan tentang senjata atau alat mana yang dapat memengaruhi objek mana. Pahat, misalnya, secara eksplisit dirancang untuk mengukir kayu atau batu sementara pedang, meskipun tajam, tidak. Oleh karena itu, pahat tidak akan menerima kerusakan dari sesuatu yang coba diukirnya sedangkan pedang kemungkinan besar akan menerimanya.
+Menggunakan senjata melawan objek tidak bernyawa dengan Armor Point setara atau lebih besar daripada senjata tersebut memberikan kerusakan pada objek maupun senjata tersebut. Misalnya, menggunakan kapak pada pintu besi dapat merusak pintu, tetapi kapak itu sendiri akan hancur jauh sebelum pintu besi itu rusak. Games Master harus menggunakan kebijaksanaan tentang senjata atau alat mana yang dapat memengaruhi objek mana. Pahat, misalnya, secara eksplisit dirancang untuk mengukir kayu atau batu sementara pedang, meskipun tajam, tidak. Oleh karena itu, pahat tidak akan menerima kerusakan dari sesuatu yang coba diukirnya sedangkan pedang kemungkinan besar akan menerimanya.
 
 ##### Tabel Objek Tidak Bernyawa
 
-| Objek | Zirah / Poin Pukul |
+| Objek | Armor / Poin Pukul |
 | :-- | :-: |
 | Gerbang Kastil | 8/150 |
 | Dinding Kastil | 10/500 |
@@ -335,7 +335,7 @@ Menggunakan senjata melawan objek tidak bernyawa dengan Zirah Point setara atau 
 | Batang Pohon | 6/50 |
 
 ---
-## Poin Keberuntungan (Luck Points)
+## Poin Keberuntungan (Poin Hoki)
 
 Poin Keberuntungan membantu membedakan pahlawan dari kalangan biasa. Poin ini mewakili kemampuan karakter untuk berpotensi mengubah kegagalan menjadi keberhasilan dan bahkan menipu kematian.
 
@@ -353,6 +353,6 @@ Karakter dapat menggunakan Poin Keberuntungan untuk melempar ulang atau menukar 
 
 Jika karakter telah menghabiskan Action Point mereka selama pertarungan dan perlu menemukan semburan energi putus asa terakhir untuk mungkin menghindari kematian yang berantakan, mereka dapat menghabiskan Poin Keberuntungan untuk mendapatkan satu Action Point tambahan.
 
-#### Meringankan Kerusakan (Mitigate Damage)
+#### Meringankan Kerusakan (Mitigate Daya Rusak)
 
 Karakter yang menderita Luka Mayor dapat menghabiskan Poin Keberuntungan untuk menurunkan cedera menjadi Luka Serius. Ini mengurangi kerusakan yang diterima menjadi satu Poin Pukul lebih sedikit daripada yang diperlukan untuk menimbulkan Luka Mayor.

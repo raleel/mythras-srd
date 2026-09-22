@@ -66,7 +66,7 @@ Keterampilan Berperahu mencakup pengoperasian perahu kecil di sungai, danau, dan
 
 #### Kekuatan Otot (STR+SIZ)
 
-Kekuatan Otot (Brawn) adalah penerapan teknik yang efisien saat menggunakan kekuatan fisik mentah. Keterampilan ini mencakup tindakan kekuatan yang diterapkan, termasuk mengangkat, mendobrak pintu, dan kontes kekuatan.
+Kekuatan Otot (Berotot) adalah penerapan teknik yang efisien saat menggunakan kekuatan fisik mentah. Keterampilan ini mencakup tindakan kekuatan yang diterapkan, termasuk mengangkat, mendobrak pintu, dan kontes kekuatan.
 
 #### Gaya Bertarung (STR+DEX)
 
@@ -74,7 +74,7 @@ Setiap Gaya Bertarung adalah keterampilan untuk menggunakan senjata yang diharap
 
 #### Menyembunyikan Objek (DEX+POW)
 
-Menyembunyikan Objek (Conceal) adalah lawan dari Siluman (Stealth), yaitu penyembunyian objek besar, bukan karakter itu sendiri. Misalnya, *Conceal* dapat digunakan untuk menyembunyikan kereta di balik bebatuan, atau menyapu bekas roda yang ditinggalkannya agar jalurnya tidak dapat dilacak. Keterampilan ini serbaguna dalam aplikasinya, mulai dari menyembunyikan gulungan di perpustakaan hingga menyamarkan keberadaan jebakan atau jalan rahasia.
+Menyembunyikan Objek (Menyelundupkan) adalah lawan dari Siluman (Senyap), yaitu penyembunyian objek besar, bukan karakter itu sendiri. Misalnya, *Menyelundupkan* dapat digunakan untuk menyembunyikan kereta di balik bebatuan, atau menyapu bekas roda yang ditinggalkannya agar jalurnya tidak dapat dilacak. Keterampilan ini serbaguna dalam aplikasinya, mulai dari menyembunyikan gulungan di perpustakaan hingga menyamarkan keberadaan jebakan atau jalan rahasia.
 
 #### Adat Istiadat (INT x2 +40)
 
@@ -86,7 +86,7 @@ Hampir setiap budaya menggunakan tarian dengan cara tertentu – baik sebagai re
 
 #### Penipuan (INT+CHA)
 
-Penipuan (Deceit) mencakup semua kasus di mana karakter mencoba menutupi kebenaran dan menawarkan tipuan dalam bentuk apa pun: berbohong terang-terangan, menyesatkan penjaga, atau bahkan menggertak (atau curang) selama permainan kartu. Keterampilan ini juga mencakup kasus di mana menyembunyikan emosi atau motif yang sebenarnya diperlukan (mungkin berpura-pura senang ketika seseorang sangat kecewa, atau mencoba untuk tampak ramah dan terbuka ketika kenyataannya sebaliknya). Penipuan merupakan lawan dari keterampilan Wawasan (Insight) dan dapat digunakan untuk melawan lemparan Wawasan ketika orang lain mencoba mengetahui kebenaran atau motif.
+Penipuan (Menipu) mencakup semua kasus di mana karakter mencoba menutupi kebenaran dan menawarkan tipuan dalam bentuk apa pun: berbohong terang-terangan, menyesatkan penjaga, atau bahkan menggertak (atau curang) selama permainan kartu. Keterampilan ini juga mencakup kasus di mana menyembunyikan emosi atau motif yang sebenarnya diperlukan (mungkin berpura-pura senang ketika seseorang sangat kecewa, atau mencoba untuk tampak ramah dan terbuka ketika kenyataannya sebaliknya). Penipuan merupakan lawan dari keterampilan Wawasan (Intuisi) dan dapat digunakan untuk melawan lemparan Wawasan ketika orang lain mencoba mengetahui kebenaran atau motif.
 
 #### Mengemudi (DEX+POW)
 
@@ -94,11 +94,11 @@ Mengemudi mencakup kendali atas kendaraan beroda atau ditarik, baik oleh satu at
 
 #### Ketahanan (CON x2)
 
-Ketahanan (Endurance) adalah kapasitas karakter untuk menanggung stres fisik, rasa sakit, dan kelelahan. Ini mengukur kemampuan tubuh untuk menangani kondisi yang berpotensi merusak atau melemahkan dan merupakan tolok ukur umum untuk ketangguhan, stamina, dan metabolisme. Ketahanan, seperti lawannya Kekuatan Kehendak (Willpower), digunakan dalam berbagai cara, tetapi secara khusus untuk menahan kemungkinan efek cedera, termasuk racun dan penyakit berbahaya.
+Ketahanan (Ketahanan) adalah kapasitas karakter untuk menanggung stres fisik, rasa sakit, dan kelelahan. Ini mengukur kemampuan tubuh untuk menangani kondisi yang berpotensi merusak atau melemahkan dan merupakan tolok ukur umum untuk ketangguhan, stamina, dan metabolisme. Ketahanan, seperti lawannya Kekuatan Kehendak (Tekad), digunakan dalam berbagai cara, tetapi secara khusus untuk menahan kemungkinan efek cedera, termasuk racun dan penyakit berbahaya.
 
 #### Menghindar (DEX x2)
 
-Menghindar (Evade) digunakan untuk melarikan diri dari bahaya yang terlihat dan mengancam serta dapat digunakan terhadap Senjata Jarak Jauh (misalnya dengan terjun mencari perlindungan), menghindari jebakan, mengubah jarak keterlibatan dalam pertempuran, dan secara umum menjauh dari potensi bahaya fisik. Ini juga dapat digunakan sebagai lemparan ketahanan untuk jenis sihir tertentu. Menggunakan Menghindar biasanya membuat karakter menjadi rawan (prone). Mereka yang memiliki Sifat Gaya Bertarung Pemberani (Daredevil) dapat menggunakan Menghindar untuk menghindari serangan jarak dekat tanpa jatuh rawan dan, terhadap serangan jarak jauh, mereka hanya akan jatuh rawan jika mereka gagal dalam lemparan tersebut.
+Menghindar (Menghindar) digunakan untuk melarikan diri dari bahaya yang terlihat dan mengancam serta dapat digunakan terhadap Senjata Jarak Jauh (misalnya dengan terjun mencari perlindungan), menghindari jebakan, mengubah jarak keterlibatan dalam pertempuran, dan secara umum menjauh dari potensi bahaya fisik. Ini juga dapat digunakan sebagai lemparan ketahanan untuk jenis sihir tertentu. Menggunakan Menghindar biasanya membuat karakter menjadi rawan (prone). Mereka yang memiliki Sifat Gaya Bertarung Pemberani (Daredevil) dapat menggunakan Menghindar untuk menghindari serangan jarak dekat tanpa jatuh rawan dan, terhadap serangan jarak jauh, mereka hanya akan jatuh rawan jika mereka gagal dalam lemparan tersebut.
 
 #### Pertolongan Pertama (DEX+INT)
 
@@ -110,11 +110,11 @@ Ini adalah ukuran kemampuan karakter untuk membujuk orang lain, melalui karisma 
 
 #### Wawasan (INT+POW)
 
-Wawasan (Insight) adalah kemampuan untuk membaca atau mendefinisikan perilaku verbal dan non-verbal orang lain secara intuitif (seperti bahasa tubuh atau cara bicara) untuk menetapkan motif dan kondisi mental mereka. Wawasan digunakan untuk menentukan apakah seseorang berbohong (dan dapat dilawan oleh keterampilan Penipuan orang lain), atau untuk memprediksi bagaimana perasaan seseorang tentang situasi tertentu. Wawasan juga dapat diterapkan pada situasi tertentu serta orang lain: apakah kedai itu tempat yang bermasalah? Mungkinkah para bandit merencanakan penyergapan di perbukitan terdekat?
+Wawasan (Intuisi) adalah kemampuan untuk membaca atau mendefinisikan perilaku verbal dan non-verbal orang lain secara intuitif (seperti bahasa tubuh atau cara bicara) untuk menetapkan motif dan kondisi mental mereka. Wawasan digunakan untuk menentukan apakah seseorang berbohong (dan dapat dilawan oleh keterampilan Penipuan orang lain), atau untuk memprediksi bagaimana perasaan seseorang tentang situasi tertentu. Wawasan juga dapat diterapkan pada situasi tertentu serta orang lain: apakah kedai itu tempat yang bermasalah? Mungkinkah para bandit merencanakan penyergapan di perbukitan terdekat?
 
 #### Lokal (INT x2)
 
-Lokal (Locale) mengukur pemahaman karakter tentang flora, fauna, medan, dan cuaca setempat di area tempat ia menghabiskan sebagian besar hidupnya, biasanya dalam komunitasnya. Karakter mengetahui tanaman, pohon, dan hewan yang umum, sifat dan perilakunya: di mana ikan terbaik dapat ditemukan; pergerakan makhluk buruan; tempat mencari perlindungan; kemungkinan cuaca untuk musim tersebut, dan bahaya regional yang paling umum. Di lokasi tetangga namun tidak dikenal, Lokal harus dibuat satu atau beberapa tingkat lebih sulit.
+Lokal (Lokal) mengukur pemahaman karakter tentang flora, fauna, medan, dan cuaca setempat di area tempat ia menghabiskan sebagian besar hidupnya, biasanya dalam komunitasnya. Karakter mengetahui tanaman, pohon, dan hewan yang umum, sifat dan perilakunya: di mana ikan terbaik dapat ditemukan; pergerakan makhluk buruan; tempat mencari perlindungan; kemungkinan cuaca untuk musim tersebut, dan bahaya regional yang paling umum. Di lokasi tetangga namun tidak dikenal, Lokal harus dibuat satu atau beberapa tingkat lebih sulit.
 
 #### Bahasa Ibu (INT+CHA +40)
 
@@ -136,7 +136,7 @@ Melantunkan nada dicakup oleh Menyanyi, mulai dari nyanyian monoton hingga aria 
 
 #### Siluman (DEX+INT)
 
-Bersembunyi dari pandangan umum, atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman (Stealth). Perlindungan dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifikasi lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya perlindungan atau malam yang tenang akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Zirah berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Zirah mereka berdenting.
+Bersembunyi dari pandangan umum, atau bergerak dengan suara minimal dicakup oleh keterampilan Siluman (Senyap). Perlindungan dan kondisi, seperti kegelapan atau kebisingan latar belakang yang keras, meningkatkan tingkat keterampilan sesuai dengan spesifikasi lingkungan. Demikian pula, kondisi yang merugikan, seperti kurangnya perlindungan atau malam yang tenang akan menurunkan tingkat keterampilan. Keadaan juga memengaruhi kesulitan upaya tersebut. Misalnya, seorang pejuang yang mengenakan Armor berat dapat dengan mudah menyembunyikan diri di balik dinding, asalkan mereka diam atau bergerak sangat lambat, sedangkan bergerak cepat mungkin menyebabkan Armor mereka berdenting.
 
 #### Berenang (STR+CON)
 
@@ -150,7 +150,7 @@ Karena Tanpa Senjata adalah Keterampilan Bertarung, efek Kritis dan Kegagalan Mu
 
 #### Kekuatan Kehendak (POW x2)
 
-Kekuatan Kehendak (Willpower) adalah ukuran kemampuan karakter untuk berkonsentrasi, menyalurkan kekuatan kehendaknya ke arah tertentu, atau mengeraskan jiwanya terhadap kemungkinan kejutan mental. Ini juga merupakan ukuran tekad pribadi. Keterampilan ini digunakan dalam segala situasi di mana ketahanan mental diperlukan, dan ini termasuk menahan sihir. Meskipun bukan ukuran kewarasan, keterampilan ini dapat digunakan untuk menanggung peristiwa traumatis yang akan mengguncang pikiran yang paling waras dan stabil sekalipun. Kekuatan Kehendak adalah lawan mental dari Ketahanan.
+Kekuatan Kehendak (Tekad) adalah ukuran kemampuan karakter untuk berkonsentrasi, menyalurkan kekuatan kehendaknya ke arah tertentu, atau mengeraskan jiwanya terhadap kemungkinan kejutan mental. Ini juga merupakan ukuran tekad pribadi. Keterampilan ini digunakan dalam segala situasi di mana ketahanan mental diperlukan, dan ini termasuk menahan sihir. Meskipun bukan ukuran kewarasan, keterampilan ini dapat digunakan untuk menanggung peristiwa traumatis yang akan mengguncang pikiran yang paling waras dan stabil sekalipun. Kekuatan Kehendak adalah lawan mental dari Ketahanan.
 
 Sekali lagi, seperti Ketahanan dan Menghindar, Kekuatan Kehendak paling sering digunakan dalam Lemparan Lawanan. Saat digunakan sebagai ujian Standar, lemparan Kekuatan Kehendak Kritis menunjukkan bahwa karakter telah mengeraskan pikiran dan jiwanya sampai-sampai tidak ada upaya lebih lanjut untuk memengaruhinya, atau mengguncang tekadnya, yang akan berhasil. Dalam kasus menahan sihir, Keberhasilan Kritis berarti tidak ada mantra yang mengganggu mental yang dilemparkan oleh lawan yang memiliki efek apa pun pada karakter selama sisa pertempuran tersebut.
 

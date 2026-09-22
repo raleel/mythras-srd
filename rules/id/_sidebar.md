@@ -12,4 +12,4 @@
 - [SRD BRP UGE](https://brpugesrd.xyz)
 - [Alternatif SRD BRP UGE](https://bruge.us/rules/srd/)
 - [Fatman's Factotum - Alat Mythras!](https://factotum.mythras.net)
-- [Notes From Pavis, Alat Luar Biasa Hannu!](https://notesfrompavis.blog/)
+- [Catatan From Pavis, Alat Luar Biasa Hannu!](https://notesfrompavis.blog/)

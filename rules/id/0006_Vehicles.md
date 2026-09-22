@@ -9,14 +9,14 @@ Aturan di bagian ini memungkinkan representasi sebagian besar jenis kendaraan te
 
 Semua kendaraan dideskripsikan berdasarkan Struktur, Lambung (Hull), Kecepatan (Speed), Sistem, Sifat (Traits), dan Perisai (Shields) (jika ada dalam pengaturan).
 
-- **[Ukuran](0006_Vehicles.md?id=vehicle-size-table):** Semua kendaraan memiliki satu dari enam peringkat Ukuran yang menentukan nilai atau rentang dari karakteristik lainnya. Karena ukuran intrinsiknya yang lebih besar dan lingkungan ruang angkasa yang berbahaya, kapal luar angkasa memiliki rentang nilainya sendiri.
-- **[Lambung](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Zirah.
+- **[Ukuran](0006_Vehicles.md?id=vehicle-Ukuran-table):** Semua kendaraan memiliki satu dari enam peringkat Ukuran yang menentukan nilai atau rentang dari karakteristik lainnya. Karena ukuran intrinsiknya yang lebih besar dan lingkungan ruang angkasa yang berbahaya, kapal luar angkasa memiliki rentang nilainya sendiri.
+- **[Lambung](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Armor.
 - **[Struktur](0006_Vehicles.md?id=terrestrial-hulls):** Mewakili Poin Hit kendaraan.
 - **[Perisai](0006_Vehicles.md?id=shields):** Dalam pengaturan dengan teknologi manipulasi energi canggih, perisai mungkin ada untuk melindungi kendaraan, tetapi dapat terkikis di bawah tembakan terus-menerus.
 - **[Sistem](0006_Vehicles.md?id=systems):** Mewakili komponen vital kendaraan, termasuk pembangkit listrik, bagian kru, dan sebagainya.
 - **[Kecepatan](0006_Vehicles.md?id=speed):** Setiap kendaraan memiliki peringkat Kecepatan dasar.
 - **[Sifat](0006_Vehicles.md?id=traits):** Kendaraan juga mungkin memiliki satu atau lebih Sifat. Sifat, seperti Kemampuan yang diberikan kepada Makhluk dalam aturan _Mythras Imperative_, atau Sifat Gaya Bertarung, menawarkan deskripsi permainan dan keuntungan tambahan yang mencerminkan sifat kendaraan tersebut.
-- **[Senjata](0006_Vehicles.md?id=weapons):** Sama seperti Sifat, kendaraan dapat dilengkapi dengan senjata sesuai dengan pengaturan yang berlaku. Beberapa contoh dan nilai yang disarankan dirinci di bawah ini.
+- **[Senjata](0006_Vehicles.md?id=Senjata):** Sama seperti Sifat, kendaraan dapat dilengkapi dengan senjata sesuai dengan pengaturan yang berlaku. Beberapa contoh dan nilai yang disarankan dirinci di bawah ini.
 
 
 ---
@@ -62,13 +62,13 @@ Setelah kekuatan perisai deflektor turun menjadi nol, perisai tersebut runtuh. K
 
 Setiap kali kendaraan menderita kerusakan yang menembus lambungnya, ada peluang, setara dengan kerusakan yang menembus, bahwa Sistem vital telah terpengaruh.
 
-_Contoh: 10 kerusakan diterapkan pada Speedboat - kendaraan dengan 3 Lambung dan 24 Struktur. Lambung bertindak sebagai Zirah yang mengurangi kerusakan menjadi 7. Ini dikurangi dari 24 poin Struktur dan ada peluang 7% untuk merusak salah satu Sistem kendaraan._
+_Contoh: 10 kerusakan diterapkan pada Speedboat - kendaraan dengan 3 Lambung dan 24 Struktur. Lambung bertindak sebagai Armor yang mengurangi kerusakan menjadi 7. Ini dikurangi dari 24 poin Struktur dan ada peluang 7% untuk merusak salah satu Sistem kendaraan._
 
-Kerusakan yang dapat ditahan oleh sebuah Sistem didasarkan sepenuhnya pada ukuran kendaraan. Ini dimodelkan oleh jumlah hit yang dapat diterima sebuah Sistem, bukan jumlah kerusakan aktual. Satu Hit Sistem pada kendaraan Kecil akan langsung menghancurkan Sistem tersebut. Dibutuhkan dua hit untuk menghancurkan Sistem kendaraan berukuran Sedang, tiga untuk kendaraan Besar, dan seterusnya. Lihat [Tabel Kerusakan Sistem](0006_Vehicles.md?id=system-damage-table) di bawah.
+Kerusakan yang dapat ditahan oleh sebuah Sistem didasarkan sepenuhnya pada ukuran kendaraan. Ini dimodelkan oleh jumlah hit yang dapat diterima sebuah Sistem, bukan jumlah kerusakan aktual. Satu Hit Sistem pada kendaraan Kecil akan langsung menghancurkan Sistem tersebut. Dibutuhkan dua hit untuk menghancurkan Sistem kendaraan berukuran Sedang, tiga untuk kendaraan Besar, dan seterusnya. Lihat [Tabel Kerusakan Sistem](0006_Vehicles.md?id=system-Daya Rusak-table) di bawah.
 
-Sistem yang rusak, tetapi belum hancur, mengalami kehilangan fungsi yang proporsional dengan jumlah Hit yang diterima - baik pengurangan persentase atau penalti Tingkat (Grade) pada tugas Sistem. Efek spesifik didasarkan pada apa yang dikendalikan oleh subsistem tersebut, seperti yang dirinci dalam [Tabel Kerusakan Komponen Sistem](0006_Vehicles.md?id=system-component-damage-table) di bawah. Bergantung pada Sistem mana yang terkena, efeknya bisa sangat fatal.
+Sistem yang rusak, tetapi belum hancur, mengalami kehilangan fungsi yang proporsional dengan jumlah Hit yang diterima - baik pengurangan persentase atau penalti Tingkat (Tanjakan) pada tugas Sistem. Efek spesifik didasarkan pada apa yang dikendalikan oleh subsistem tersebut, seperti yang dirinci dalam [Tabel Kerusakan Komponen Sistem](0006_Vehicles.md?id=system-component-Daya Rusak-table) di bawah. Bergantung pada Sistem mana yang terkena, efeknya bisa sangat fatal.
 
-_Contoh: Sebuah Land Ironclad - kendaraan Raksasa dengan 5 Hit Sistem - terkena dua kali pada bagian Penggerak (Drive) akan kehilangan 40% kekuatannya dan akan menurunkan Kecepatan Lambatnya dua Tingkat menjadi Berat (Ponderous). Demikian pula, kapal pengangkut Besar - dengan 3 Hit Sistem - menerima dua hit pada Sistem Mesin/Bahan Bakar akan memiliki penalti dua Tingkat pada Kecepatan serta penggunaan sistem Elektronik. Hit ketiga akan menghancurkan Sistem Mesin/Bahan Bakar dan kapal bersamanya._
+_Contoh: Sebuah Land Ironclad - kendaraan Raksasa dengan 5 Hit Sistem - terkena dua kali pada bagian Penggerak (Mengemudi) akan kehilangan 40% kekuatannya dan akan menurunkan Kecepatan Lambatnya dua Tingkat menjadi Berat (Ponderous). Demikian pula, kapal pengangkut Besar - dengan 3 Hit Sistem - menerima dua hit pada Sistem Mesin/Bahan Bakar akan memiliki penalti dua Tingkat pada Kecepatan serta penggunaan sistem Elektronik. Hit ketiga akan menghancurkan Sistem Mesin/Bahan Bakar dan kapal bersamanya._
 
 <details>
 
@@ -117,7 +117,7 @@ _Paragraf di atas dihapus dan suntingan singkat menggantikannya dengan menyebutk
 | Raksasa | 5 | 1 Tingkat atau 16% |
 | Kolosal | 6 | 1 Tingkat atau 10% |
 
-##### Tabel Ukuran Kendaraan (dari [Ukuran, Tipe, dan Struktur Lambung](0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Tabel Ukuran Kendaraan (dari [Ukuran, Tipe, dan Struktur Lambung](0006_Vehicles.md?id=hull-Ukuran-type-and-structure))
 
 | Ukuran | Hit Sistem |
 | :-- | :-: |
@@ -179,9 +179,9 @@ Karena fisika kecepatan, akselerasi, hambatan, dan inersia (untuk menyebutkan be
 
 Peringkat kecepatan mewakili tingkat operasional nominal kendaraan. Dalam situasi darurat, kinerja ini dapat ditingkatkan satu langkah, dengan risiko keausan atau kerusakan pada mesin. Meskipun tabel yang sama digunakan untuk semua jenis kendaraan, akal sehat harus diterapkan agar hanya kendaraan dari kelas yang sama yang dibandingkan. Misalnya, jika Pesawat Luar Angkasa dan mobil sport sama-sama memiliki tingkat akselerasi Cepat (Rapid), maka sudah jelas pesawat luar angkasa tersebut secara komparatif lebih cepat.
 
-Meningkatkan Kecepatan kendaraan di luar nilai standarnya dimungkinkan dengan lemparan Penggerak (Drive) yang berhasil. Biasanya, kecepatan ekstra ini hanya dapat dipertahankan untuk waktu yang singkat – tidak lebih dari 1d6 menit sebelum kendaraan harus turun ke kecepatan standarnya atau berisiko merusak pembangkit listriknya. Lemparan kritis Penggerak memungkinkan durasi kecepatan yang lebih tinggi ditingkatkan menjadi 1d12 menit.
+Meningkatkan Kecepatan kendaraan di luar nilai standarnya dimungkinkan dengan lemparan Penggerak (Mengemudi) yang berhasil. Biasanya, kecepatan ekstra ini hanya dapat dipertahankan untuk waktu yang singkat – tidak lebih dari 1d6 menit sebelum kendaraan harus turun ke kecepatan standarnya atau berisiko merusak pembangkit listriknya. Lemparan kritis Penggerak memungkinkan durasi kecepatan yang lebih tinggi ditingkatkan menjadi 1d12 menit.
 
-Pengemudi dapat mencoba mendorong kecepatan kendaraan sebanyak 2 langkah, tetapi ini memerlukan lemparan Penggerak Herculean dan waktu maksimum kendaraan dapat mempertahankan kecepatan ini adalah 1d3 menit: Keberhasilan Kritis tidak akan memperpanjang durasi kecepatan yang meningkat.
+Pengemudi dapat mencoba mendorong kecepatan kendaraan sebanyak 2 langkah, tetapi ini memerlukan lemparan Penggerak Herkules dan waktu maksimum kendaraan dapat mempertahankan kecepatan ini adalah 1d3 menit: Keberhasilan Kritis tidak akan memperpanjang durasi kecepatan yang meningkat.
 
 ##### Tabel Peringkat Kecepatan 
 
@@ -249,7 +249,7 @@ Peringkat Kecepatan kendaraan satu langkah lebih tinggi dari maksimum untuk ukur
 Jika terjadi keadaan darurat, kursi pelontar melontarkan penumpang beberapa ratus meter ke udara, lalu menyebarkan parasut untuk memungkinkan pendaratan yang aman. Parasut bersifat opsional. Tidak disarankan untuk helikopter (Kamov Ka-52 Alligator adalah pengecualian yang terkenal).
 
 #### FTL
-Khusus Pesawat Luar Angkasa. Kapal dilengkapi dengan mesin lebih cepat dari cahaya (baik ini hyperdrive, warp drive, generator lubang cacing, atau sejenisnya). Drive FTL memiliki peringkat Kecepatan terpisah yang pada dasarnya mengukur kecepatan kapal luar angkasa dapat melintasi satu parsek (3,26 tahun cahaya, atau 31 triliun kilometer atau 19 triliun mil), sebagai berikut:
+Khusus Pesawat Luar Angkasa. Kapal dilengkapi dengan mesin lebih cepat dari cahaya (baik ini hyperdrive, warp Mengemudi, generator lubang cacing, atau sejenisnya). Mengemudi FTL memiliki peringkat Kecepatan terpisah yang pada dasarnya mengukur kecepatan kapal luar angkasa dapat melintasi satu parsek (3,26 tahun cahaya, atau 31 triliun kilometer atau 19 triliun mil), sebagai berikut:
 
 ##### Tabel Kecepatan FTL 
 
@@ -265,13 +265,13 @@ Khusus Pesawat Luar Angkasa. Kapal dilengkapi dengan mesin lebih cepat dari caha
 | Kencang (Fast) | 2 |
 | Kilat (Fleet) | 1 |
 
-Waktu faktor terserah keputusan Games Master, tergantung seberapa maju perkembangan FTL dalam pengaturan tersebut. Misalnya, faktor dasar mungkin 1 Hari, yang berarti kapal dengan drive FTL Ponderous membutuhkan 10 hari untuk menyelesaikan perjalanan, sedangkan kapal dengan drive FTL Kilat menyelesaikan perjalanan dalam 1 hari. Di tempat lain, di mana teknologi FTL kurang efisien, waktu faktor mungkin diukur dalam hitungan bulan, bukan hari.
+Waktu faktor terserah keputusan Games Master, tergantung seberapa maju perkembangan FTL dalam pengaturan tersebut. Misalnya, faktor dasar mungkin 1 Hari, yang berarti kapal dengan Mengemudi FTL Ponderous membutuhkan 10 hari untuk menyelesaikan perjalanan, sedangkan kapal dengan Mengemudi FTL Kilat menyelesaikan perjalanan dalam 1 hari. Di tempat lain, di mana teknologi FTL kurang efisien, waktu faktor mungkin diukur dalam hitungan bulan, bukan hari.
 
 Diasumsikan bahwa kapal memiliki cadangan bahan bakar untuk melakukan perjalanan kembali, atau sarana untuk mengisi bahan bakar di titik tujuan.
 
-Diasumsikan bahwa kapal luar angkasa ukuran apa pun dapat dipasangi drive FTL, meskipun, sekali lagi, ini tergantung pada pengaturannya.
+Diasumsikan bahwa kapal luar angkasa ukuran apa pun dapat dipasangi Mengemudi FTL, meskipun, sekali lagi, ini tergantung pada pengaturannya.
 
-Drive FTL tidak dapat diaktifkan dalam jarak 1,5 Satuan Astronomi dari sebuah bintang (sekitar 225 juta kilometer, atau 270 juta mil). Ini berarti kapal harus menggunakan drive subcahaya untuk bergerak ke jarak sekitar Mars sebelum mengaktifkan sistem FTL.
+Mengemudi FTL tidak dapat diaktifkan dalam jarak 1,5 Satuan Astronomi dari sebuah bintang (sekitar 225 juta kilometer, atau 270 juta mil). Ini berarti kapal harus menggunakan Mengemudi subcahaya untuk bergerak ke jarak sekitar Mars sebelum mengaktifkan sistem FTL.
 
 #### Ground Vehicle
 Kendaraan mampu melakukan perjalanan darat.
@@ -294,14 +294,14 @@ Kendaraan dapat mengapung di atas air.
 #### Spacecraft
 Kendaraan disegel dari ruang hampa dan terlindung dari radiasi kosmik dan mungkin, tergantung pada desain, mampu meninggalkan dan masuk kembali ke atmosfer, serta mempertahankan penerbangan di dalam atmosfer.
 
-#### Stealth
+#### Senyap
 Khusus Pesawat. Kendaraan dirancang untuk menghindari deteksi oleh radar dan sistem sensor jarak jauh lainnya. Upaya untuk melihat kendaraan menggunakan sensor elektronik menjadi satu tingkat lebih sulit.
 
 #### Submersible
 Kendaraan mampu menyelam di bawah permukaan laut hingga kedalaman operasional sebesar Peringkat Lambungnya x 10 meter. Kedalaman keruntuhan — kedalaman maksimum absolut yang dapat dicapai kapal selam tanpa hancur — adalah 1,5 kali kedalaman operasionalnya.
 
 #### Superior Handling
-Penanganan kendaraan dinilai Mudah (Easy).
+Penanganan kendaraan dinilai Mudah (Mudah).
 
 #### Surveillance Suite
 Kendaraan memiliki komputer terpasang, stasiun pangkalan komunikasi, penerima untuk sinyal alat penyadap, dan aparatus untuk mencegat sinyal ponsel pintar di dekatnya dalam jarak 100 meter.
@@ -321,7 +321,7 @@ Kendaraan menggerakkan dirinya sendiri menggunakan kaki berengsel. Kendaraan Wal
 Kendaraan ini mampu melakukan pergerakan di bawah air.
 
 #### Weaponized
-Kendaraan telah diadaptasi untuk menampung persenjataan. Sistem senjata dibahas di bawah di bagian [Senjata](0006_Vehicles.md?id=weapons).
+Kendaraan telah diadaptasi untuk menampung persenjataan. Sistem senjata dibahas di bawah di bagian [Senjata](0006_Vehicles.md?id=Senjata).
 
 ---
 ## Senjata
@@ -370,11 +370,11 @@ Manuver mengelak atau mendadak memerlukan lemparan Penggerak/Pilot yang berhasil
 
 Perhatikan bahwa Tabel Kehilangan Kendali hanya berlaku untuk kendaraan terestrial. Efek serupa dapat diterapkan pada kendaraan udara dan luar angkasa, tetapi Games Master harus menyesuaikan alasan untuk efek spesifik tersebut. Misalnya, pesawat, bukannya tergelincir, mungkin mengalami putaran (spin).
 
-Selain itu, penanganan bawaan kendaraan mungkin memiliki dampak tambahan pada lemparan Penggerak. Penanganan bisa Mudah, Standar, Sulit, Luar Biasa (Formidable), atau Herculean dan menentukan titik awal untuk lemparan Penggerak saat melakukan manuver. Tingkat kesulitan untuk manuver kemudian diterapkan pada penanganan untuk menentukan kesulitan akhir.
+Selain itu, penanganan bawaan kendaraan mungkin memiliki dampak tambahan pada lemparan Penggerak. Penanganan bisa Mudah, Standar, Sulit, Luar Biasa (Tangguh), atau Herkules dan menentukan titik awal untuk lemparan Penggerak saat melakukan manuver. Tingkat kesulitan untuk manuver kemudian diterapkan pada penanganan untuk menentukan kesulitan akhir.
 
 Contoh: sepeda motor berperforma tinggi memiliki girostabilizer internal yang memberinya Penanganan Mudah. Pengemudi ingin melakukan putaran skid 180 derajat untuk menghindari pengejar, manuver yang dinilai Games Master memiliki satu tingkat kesulitan tambahan. Pengendara harus melakukan lemparan Penggerak pada Standar alih-alih Mudah. Jika dia mencoba manuver yang sama pada sepeda motor tanpa stabilizer, lemparan Penggerak akan menjadi Sulit.
 
-Penanganan Superior adalah Sifat. Jika kendaraan tidak memiliki sifat tersebut sebagai bagian dari deskripsinya, maka defaultnya adalah penanganan Standar untuk kendaraan berukuran Besar dan di bawahnya. Kendaraan Sangat Besar dan Raksasa secara inheren memiliki sifat Penanganan Luar Biasa dan Herculean, dan Games Master bebas untuk memutuskan bahwa manuver tertentu tidak mungkin dicapai karena ukuran kendaraan.
+Penanganan Superior adalah Sifat. Jika kendaraan tidak memiliki sifat tersebut sebagai bagian dari deskripsinya, maka defaultnya adalah penanganan Standar untuk kendaraan berukuran Besar dan di bawahnya. Kendaraan Sangat Besar dan Raksasa secara inheren memiliki sifat Penanganan Luar Biasa dan Herkules, dan Games Master bebas untuk memutuskan bahwa manuver tertentu tidak mungkin dicapai karena ukuran kendaraan.
 
 ##### Tabel Kehilangan Kendali 
 
@@ -564,7 +564,7 @@ Mirip dengan Hindenburg, kelas dirigible transkontinental ini (dan yang lainnya 
 | **Struktur** | 85 |
 | **Sistem** | 5 |
 | **Kecepatan** | Berat |
-| **Penanganan** | Herculean |
+| **Penanganan** | Herkules |
 | **Sifat** | [Airborne](0006_Vehicles.md?id=airborne), [Luxurious](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Perisai** | Tidak Ada |
 | **Senjata** | Tidak Ada |
@@ -575,7 +575,7 @@ Mirip dengan Hindenburg, kelas dirigible transkontinental ini (dan yang lainnya 
 
 #### Assault Helicopter
 
-Helikopter Serbu tradisional menggunakan teknologi pengawasan canggih mereka untuk mencegat sinyal telepon dan internet nirkabel, serta melacak individu dan kendaraan bahkan dalam gelap, melalui FLIR. Upaya untuk menghindari pelacak melalui Stealth adalah Luar Biasa (Formidable).
+Helikopter Serbu tradisional menggunakan teknologi pengawasan canggih mereka untuk mencegat sinyal telepon dan internet nirkabel, serta melacak individu dan kendaraan bahkan dalam gelap, melalui FLIR. Upaya untuk menghindari pelacak melalui Senyap adalah Luar Biasa (Tangguh).
 
 | Assault Helicopter | |
 | :- | :- |
@@ -585,7 +585,7 @@ Helikopter Serbu tradisional menggunakan teknologi pengawasan canggih mereka unt
 | **Sistem** | 3 |
 | **Kecepatan** | Menengah |
 | **Penanganan** | Mudah |
-| **Sifat** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Sifat** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Senyap](0006_Vehicles.md?id=Senyap), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Perisai** | Tidak Ada |
 | **Senjata** | 1 Gatling Gun (3d6), 4 Roket (5d6) |
 
@@ -615,7 +615,7 @@ Pesawat tempur berbasis darat kursi ganda ini (mirip jenisnya dengan De Havillan
 
 #### Interstellar Freighter (Transportasi Ringan Berteknologi Tinggi)
 
-Transportasi ringan ini membutuhkan kru minimum hanya dua orang, dengan ruang hingga empat penumpang tambahan. Versi standar yang tersedia dicatat di sini, namun banyak pemilik akan menerapkan "modifikasi khusus" mereka sendiri seperti ruang kargo tersembunyi, Enhanced Performance, Superior Handling, EMP Resistance, Stealth, dan sebagainya.
+Transportasi ringan ini membutuhkan kru minimum hanya dua orang, dengan ruang hingga empat penumpang tambahan. Versi standar yang tersedia dicatat di sini, namun banyak pemilik akan menerapkan "modifikasi khusus" mereka sendiri seperti ruang kargo tersembunyi, Enhanced Performance, Superior Handling, EMP Resistance, Senyap, dan sebagainya.
 
 | Interstellar Freighter | |
 | :- | :- |

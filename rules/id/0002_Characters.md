@@ -20,7 +20,7 @@ Setiap orang didefinisikan oleh tujuh Karakteristik yang memberi tahu Anda sesua
 
 - Kekuatan (Strength/STR)
 - Konstitusi (CON)
-- Ukuran (Size/SIZ)
+- Ukuran (Ukuran/SIZ)
 - Ketangkasan (Dexterity/DEX)
 - Kecerdasan (Intelligence/INT)
 - Kekuatan Spiritual (Power/POW)
@@ -30,11 +30,11 @@ Sebelum menghitung Karakteristik, bagian berikut menjelaskan apa yang diwakili o
 
 #### Kekuatan (STR)
 
-STR mewakili kekuatan fisik: seberapa banyak seseorang dapat mengangkat, seberapa keras mereka dapat memukul, dan seterusnya. STR adalah komponen dari Pengubah Kerusakan (Damage Modifier). Jika karakter dikurangi menjadi STR nol, mereka kehilangan kemampuan untuk bergerak atau mengangkat benda.
+STR mewakili kekuatan fisik: seberapa banyak seseorang dapat mengangkat, seberapa keras mereka dapat memukul, dan seterusnya. STR adalah komponen dari Pengubah Kerusakan (Daya Rusak Modifier). Jika karakter dikurangi menjadi STR nol, mereka kehilangan kemampuan untuk bergerak atau mengangkat benda.
 
 #### Konstitusi (CON)
 
-CON adalah ukuran kesehatan dan ketahanan. CON adalah komponen dalam menentukan Poin Hit (Hit Points) dan Tingkat Penyembuhan (Healing Rate). Jika CON turun menjadi nol karena alasan apa pun, karakter tersebut mati.
+CON adalah ukuran kesehatan dan ketahanan. CON adalah komponen dalam menentukan Poin Hit (Hit Points) dan Tingkat Penyembuhan (Tingkat Sembuh). Jika CON turun menjadi nol karena alasan apa pun, karakter tersebut mati.
 
 #### Ukuran (SIZ)
 
@@ -42,7 +42,7 @@ SIZ mengukur massa dan membantu menunjukkan Tinggi serta Berat Badan. SIZ diguna
 
 #### Ketangkasan (DEX)
 
-Kelincahan, keseimbangan, dan refleks diukur oleh DEX. Ini adalah aspek penting dari Poin Tindakan (Action Points) dan Inisiatif. Jika karakter dikurangi menjadi DEX nol, mereka mengalami kelumpuhan fungsional.
+Kelincahan, keseimbangan, dan refleks diukur oleh DEX. Ini adalah aspek penting dari Poin Tindakan (Poin Aksi) dan Inisiatif. Jika karakter dikurangi menjadi DEX nol, mereka mengalami kelumpuhan fungsional.
 
 #### Kecerdasan (INT)
 
@@ -50,11 +50,11 @@ INT adalah ukuran kemampuan kognitif. Mereka yang memiliki skor INT lebih rendah
 
 #### Kekuatan Spiritual (POW)
 
-POW adalah ukuran jiwa, roh, dorongan batin, atau kapasitas untuk sihir karakter. POW mengatur Poin Sihir (Magic Points) dan Poin Keberuntungan (Luck Points) karakter. Jika POW karakter pernah turun menjadi nol, mereka kehilangan semua kehendak bebas.
+POW adalah ukuran jiwa, roh, dorongan batin, atau kapasitas untuk sihir karakter. POW mengatur Poin Sihir (Poin Sihir) dan Poin Keberuntungan (Poin Hoki) karakter. Jika POW karakter pernah turun menjadi nol, mereka kehilangan semua kehendak bebas.
 
 #### Karisma (CHA)
 
-Karisma adalah ukuran kehadiran dan kepribadian serta tidak bergantung pada penampilan fisik. CHA memengaruhi Pengubah Pengalaman (Experience Modifier) karakter. Jika CHA pernah turun menjadi nol, karakter tidak dapat lagi berinteraksi secara sosial dengan orang lain, menjadi sangat pemalu atau antisosial sehingga mereka diabaikan atau bahkan diusir.
+Karisma adalah ukuran kehadiran dan kepribadian serta tidak bergantung pada penampilan fisik. CHA memengaruhi Pengubah Pengalaman (Exp. Mod) karakter. Jika CHA pernah turun menjadi nol, karakter tidak dapat lagi berinteraksi secara sosial dengan orang lain, menjadi sangat pemalu atau antisosial sehingga mereka diabaikan atau bahkan diusir.
 
 ---
 ### Menghitung Karakteristik
@@ -71,11 +71,11 @@ Setiap Karakteristik memiliki nilai numerik untuk menentukan seberapa kuat Karak
 
 Setiap karakter juga memiliki seperangkat atribut. Ini adalah kemampuan yang berasal dari Karakteristik atau ditentukan oleh Karakteristik tersebut yang digunakan untuk mengatur faktor-faktor tertentu dalam permainan.
 
-#### Poin Tindakan (Action Points)
+#### Poin Tindakan (Poin Aksi)
 
 Seberapa sering karakter dapat bertindak dalam Putaran Pertempuran ditentukan oleh Poin Tindakan. Semua karakter _Mythras Imperative_ memiliki 2 Poin Tindakan.
 
-#### Pengubah Kerusakan (Damage Modifier)
+#### Pengubah Kerusakan (Daya Rusak Modifier)
 
 Karakter dan makhluk yang lebih besar dan kuat mungkin mendapatkan kerusakan tambahan dalam situasi tertentu; sebaliknya, karakter yang lebih lemah dan kecil mungkin mengurangi kerusakan yang dapat mereka timbulkan. Pengubah Kerusakan umumnya digunakan dalam situasi pertempuran tetapi juga dapat digunakan saat mencoba menghancurkan benda. Pengubah Kerusakan adalah lemparan dadu tambahan yang ditambahkan ke, atau dikurangi dari, kerusakan yang ditimbulkan oleh senjata atau alat. Jika Pengubah Kerusakan negatif membuat kerusakan senjata menjadi nol atau di bawahnya, maka tidak ada kerusakan sama sekali yang ditimbulkan.
 
@@ -104,7 +104,7 @@ Jumlahkan STR dan SIZ lalu lihat tabel Pengubah Kerusakan di bawah ini.
 | 111–120 | +2d10+1d2 |
 | Setiap 10 poin | Lanjutkan Progresi |
 
-#### Pengubah Pengalaman (Experience Modifier)
+#### Pengubah Pengalaman (Exp. Mod)
 
 Selama permainan, karakter meningkatkan keahlian dan kemampuan mereka. Ini dicapai menggunakan Lemparan Pengalaman yang dijelaskan lebih rinci di bagian [Sistem Permainan](0004_Game_System.md?id=experience-rolls).
 
@@ -119,7 +119,7 @@ Skor CHA karakter dapat menyesuaikan jumlah Lemparan Pengalaman yang diterima ka
 | 13-18 | +1 |
 | Setiap 6 poin | +1 |
 
-#### Tingkat Penyembuhan (Healing Rate)
+#### Tingkat Penyembuhan (Tingkat Sembuh)
 
 Setelah mengalami cedera, karakter perlu memulihkan diri. Tingkat Penyembuhan menentukan seberapa cepat mereka pulih secara alami dari luka. Tergantung pada tingkat keparahan cedera, Tingkat Penyembuhan menunjukkan berapa banyak Poin Hit yang dipulihkan per hari, minggu, atau bulan.
 
@@ -136,7 +136,7 @@ Setelah mengalami cedera, karakter perlu memulihkan diri. Tingkat Penyembuhan me
 
 Poin Hit mewakili seberapa banyak cedera yang dapat ditahan oleh area tubuh sebelum menjadi tidak berguna, yang mungkin mengakibatkan ketidakmampuan dan akhirnya kematian karakter. Tubuh setiap makhluk dibagi menjadi lokasi-lokasi terpisah – manusia, misalnya, memiliki tujuh: kepala, dada, perut, lengan, dan kaki – masing-masing lokasi memiliki Poin Hit-nya sendiri.
 
-Beberapa makhluk, seperti monster atau kelas hewan yang berbeda, secara alami sering memiliki struktur tubuh yang sangat berbeda, namun setiap lokasi yang mereka miliki tetap memiliki Poin Hit. Ketika Poin Hit suatu lokasi berkurang ke tingkat tertentu akibat kerusakan apa pun, maka karakter menderita konsekuensi tertentu yang mencerminkan tingkat keparahan cedera tersebut. Untuk informasi lebih lanjut mengenai luka, lihat bagian [Kerusakan dan Tingkat Luka](0004_Game_System.md?id=damage-and-wound-levels).
+Beberapa makhluk, seperti monster atau kelas hewan yang berbeda, secara alami sering memiliki struktur tubuh yang sangat berbeda, namun setiap lokasi yang mereka miliki tetap memiliki Poin Hit. Ketika Poin Hit suatu lokasi berkurang ke tingkat tertentu akibat kerusakan apa pun, maka karakter menderita konsekuensi tertentu yang mencerminkan tingkat keparahan cedera tersebut. Untuk informasi lebih lanjut mengenai luka, lihat bagian [Kerusakan dan Tingkat Luka](0004_Game_System.md?id=Daya Rusak-and-wound-levels).
 
 Untuk menghitung Poin Hit setiap lokasi, tambahkan CON dan SIZ bersama-sama dan lihat hasilnya pada tabel Poin Hit di atas.
 
@@ -153,11 +153,11 @@ Untuk menghitung Poin Hit setiap lokasi, tambahkan CON dan SIZ bersama-sama dan 
 
 #### Inisiatif
 
-Saat seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai pengubah untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya baju zirah – memodifikasinya. Bab [Pertempuran](0005_Combat.md?id=combat-style) membahas lebih detail tentang bagaimana Inisiatif digunakan.
+Saat seseorang bereaksi dalam pertempuran diatur oleh Inisiatif. Inisiatif bertindak sebagai pengubah untuk lemparan Inisiatif; semakin tinggi Inisiatif, semakin cepat seseorang merespons dalam situasi pertempuran, menentukan kapan Anda dapat bertindak. Faktor lebih lanjut – misalnya baju Armor – memodifikasinya. Bab [Pertempuran](0005_Combat.md?id=combat-Gaya) membahas lebih detail tentang bagaimana Inisiatif digunakan.
 
 Inisiatif adalah rata-rata dari Karakteristik DEX dan INT.
 
-#### Poin Keberuntungan (Luck Points)
+#### Poin Keberuntungan (Poin Hoki)
 
 Poin Keberuntungan mewakili kekuatan aneh yang membedakan pahlawan petualang dari orang biasa. Sebut saja nasib, karma, atau sekadar keberuntungan. Poin Keberuntungan dapat digunakan untuk:
 
@@ -176,13 +176,13 @@ Bagaimana tepatnya poin ini digunakan, dan kapan, dijelaskan di bagian [Sistem P
 | 13-18 | 3 |
 | Setiap 6 poin | +1 |
 
-#### Poin Sihir (Magic Points)
+#### Poin Sihir (Poin Sihir)
 
 Kemampuan mistis, kekuatan, dan mantra yang digunakan dalam _Mythras Imperative_ biasanya mengandalkan Poin Sihir. Karena ketersediaan sihir mungkin dibatasi oleh latar kampanye atau profesi sihir tertentu, beberapa karakter akan menganggap Atribut ini tidak perlu.
 
 Bagi mereka yang dapat menggunakan kekuatan tersebut, Poin Sihir karakter sama dengan POW mereka. Poin-poin ini digunakan untuk merapalkan mantra, yang biayanya bergantung pada jenis sihir yang digunakan. Ketika perapalan mantra kehabisan Poin Sihir, mereka telah menghabiskan kemampuan mereka untuk merapalkan mantra apa pun sampai Poin Sihir terisi kembali.
 
-#### Tingkat Pergerakan (Movement Rate)
+#### Tingkat Pergerakan (Tingkat Gerak)
 
 Setiap makhluk memiliki Tingkat Pergerakan – sejumlah meter yang dapat ditempuh selama periode waktu tertentu. Pergerakan tidak dihitung dari Karakteristik tetapi merupakan nilai default yang berbeda dari satu spesies ke spesies lainnya. Tingkat Pergerakan dasar untuk manusia adalah 6 meter.
 
@@ -214,9 +214,9 @@ _Jika diperlukan, cukup perlakukan Gaya Berjalan sebagai berikut:_
 
 Keahlian terbagi menjadi dua kelas. Semua orang memiliki keahlian Standar – hal-hal seperti mengendap-endap atau memengaruhi orang lain. Keahlian Profesional, di sisi lain, adalah keahlian yang memerlukan pelatihan khusus sebelum dapat dicoba – hal-hal seperti melacak hewan liar, menerbangkan pesawat ruang angkasa, atau memahami bahasa kuno. Karakter diberi tiga kumpulan poin untuk dibelanjakan guna memperoleh keahlian; kumpulan pertama untuk Budaya tempat mereka dibesarkan, kumpulan kedua untuk Karier yang mereka ambil setelah masa kanak-kanak, dan kumpulan terakhir untuk lebih melengkapi keahlian mereka. Secara default, karakter baru menetapkan 100 poin ke kumpulan keahlian Budaya, 100 ke kumpulan keahlian Karier, dan 150 poin Bonus tambahan untuk pelengkap. Setiap Budaya dan Karier memiliki rentang keahlian standar dan profesional yang ditentukan di mana poin keahlian tersebut dapat ditetapkan.
 
-##### Gaya Bertarung (Combat Style)
+##### Gaya Bertarung (Gaya Tarung)
 
-Gaya Bertarung tercantum dalam deskripsi Budaya yang mengikuti. Gaya Bertarung dijelaskan lebih lengkap di bagian [Pertempuran](0005_Combat.md?id=combat-style) dan memiliki Persentase Dasar sama dengan STR+DEX.
+Gaya Bertarung tercantum dalam deskripsi Budaya yang mengikuti. Gaya Bertarung dijelaskan lebih lengkap di bagian [Pertempuran](0005_Combat.md?id=combat-Gaya) dan memiliki Persentase Dasar sama dengan STR+DEX.
 
 ##### Keahlian Standar
 
@@ -224,26 +224,26 @@ Gaya Bertarung tercantum dalam deskripsi Budaya yang mengikuti. Gaya Bertarung d
 | :-- | :-- |
 | Atletik | STR+DEX |
 | Berperahu | STR+CON |
-| Brawn (Kekuatan Otot) | STR+SIZ |
-| Menyembunyikan (Conceal) | DEX+POW |
-| Adat Istiadat (Customs) | INT x2, +40\* |
+| Berotot (Kekuatan Otot) | STR+SIZ |
+| Menyembunyikan (Menyelundupkan) | DEX+POW |
+| Adat Istiadat (Adat Istiadat) | INT x2, +40\* |
 | Menari | DEX+CHA |
-| Menipu (Deceit) | INT+CHA |
+| Menipu (Menipu) | INT+CHA |
 | Mengemudi | DEX+POW |
-| Ketahanan (Endurance) | CON x2 |
-| Menghindar (Evade) | DEX x2 |
+| Ketahanan (Ketahanan) | CON x2 |
+| Menghindar (Menghindar) | DEX x2 |
 | Pertolongan Pertama | INT+DEX |
 | Memengaruhi | CHA x2 |
-| Wawasan (Insight) | INT+POW |
-| Pengetahuan Lokal (Locale) | INT x2 |
+| Wawasan (Intuisi) | INT+POW |
+| Pengetahuan Lokal (Lokal) | INT x2 |
 | Bahasa Asli | INT+CHA, +40\* |
 | Persepsi | INT+POW |
 | Berkuda | DEX+POW |
 | Menyanyi | CHA+POW |
-| Mengendap-endap (Stealth) | DEX+INT |
+| Mengendap-endap (Senyap) | DEX+INT |
 | Berenang | STR+CON |
 | Tangan Kosong | STR+DEX |
-| Tekad (Willpower) | POW x2 |
+| Tekad (Tekad) | POW x2 |
 
 _\* Termasuk bonus statis +40% untuk Adat Istiadat dan Bahasa Asli karakter (Umum untuk manusia)._
 
@@ -258,7 +258,7 @@ Bersifat kesukuan, orang barbar cenderung menjauhi peradaban, memandang mereka y
 
 #### Keahlian
 
-- **Keahlian Standar:** Atletik, Brawn, Ketahanan, Pertolongan Pertama, Pengetahuan Lokal, Persepsi; dan Berperahu atau Berkuda. Selain itu, pemain juga dapat memilih Gaya Bertarung budaya.
+- **Keahlian Standar:** Atletik, Berotot, Ketahanan, Pertolongan Pertama, Pengetahuan Lokal, Persepsi; dan Berperahu atau Berkuda. Selain itu, pemain juga dapat memilih Gaya Bertarung budaya.
 - **Keahlian Profesional:** Kerajinan (apa saja), Penyembuhan, Pengetahuan (apa saja), Bermusik, Navigasi, Pelayaran, Kelangsungan Hidup, Melacak.
 
 ### Beradab (Civilized)
@@ -287,7 +287,7 @@ Namun, kepercayaan budaya tertentu, yang sering didasarkan pada takhayul, bisa s
 
 #### Keahlian
 
-- **Keahlian Standar:** Brawn, Ketahanan, Menghindar, Pengetahuan Lokal, Persepsi, Mengendap-endap; dan salah satu dari Atletik, Berperahu, atau Berenang. Selain itu, pemain juga dapat memilih Gaya Bertarung budaya.
+- **Keahlian Standar:** Berotot, Ketahanan, Menghindar, Pengetahuan Lokal, Persepsi, Mengendap-endap; dan salah satu dari Atletik, Berperahu, atau Berenang. Selain itu, pemain juga dapat memilih Gaya Bertarung budaya.
 - **Keahlian Profesional:** Kerajinan (apa saja), Penyembuhan, Pengetahuan (apa saja), Bermusik, Navigasi, Kelangsungan Hidup, Melacak.
 
 ---
@@ -305,33 +305,33 @@ Keahlian Profesional tertentu, seperti Pilot, tidak mungkin ditemukan di dunia f
 | Penangan Hewan (Pembiak Hewan, Penjinak Binatang, Penjaga Kebun Binatang…) | Mengemudi, Ketahanan, Pertolongan Pertama, Memengaruhi, Pengetahuan Lokal, Berkuda, Tekad | Kerajinan (Peternakan), Perdagangan, Penyembuhan (Spesies Spesifik), Pengetahuan (Spesies Spesifik), Kelangsungan Hidup, Mengajar (Spesies Spesifik), Melacak |
 | Pemburu Hadiah (Agen penegak jaminan, Pembunuh buronan, Pemburu kulit kepala…) | Atletik, Ketahanan, Menghindar, Wawasan, Persepsi, Mengendap-endap; Gaya Bertarung (apa saja) | Birokrasi, Perdagangan, Budaya (apa saja), Linguistik, Pengetahuan Jalanan, Kelangsungan Hidup (apa saja), Melacak |
 | Pelacur (Selir, Pengawal, Gadis harem, Pendamping…) | Adat Istiadat, Menari, Menipu, Memengaruhi, Wawasan, Persepsi, Menyanyi | Seni (apa saja), Kesopanan, Budaya (apa saja), Perjudian, Bahasa (apa saja), Bermusik, Rayuan |
-| Pengrajin (Artificer, Seniman…) | Brawn, Mengemudi, Memengaruhi, Wawasan, Pengetahuan Lokal, Persepsi, Tekad | Seni (apa saja), Perdagangan, Kerajinan (Primer), Kerajinan (Sekunder), Teknik, Mekanisme, Pengetahuan Jalanan |
+| Pengrajin (Artificer, Seniman…) | Berotot, Mengemudi, Memengaruhi, Wawasan, Pengetahuan Lokal, Persepsi, Tekad | Seni (apa saja), Perdagangan, Kerajinan (Primer), Kerajinan (Sekunder), Teknik, Mekanisme, Pengetahuan Jalanan |
 | Detektif (Polisi, Penyelidik Swasta…) | Adat Istiadat, Menghindar, Memengaruhi, Wawasan, Persepsi, Mengendap-endap; Gaya Bertarung (Tangan Kosong atau Senjata Samping) | Birokrasi, Budaya (apa saja), Menyamar, Linguistik, Pengetahuan (apa saja), Riset, Kecepatan Tangan, Pengetahuan Jalanan |
-| Penghibur (Akrobat, Penyair, Penari, Aktor…) | Atletik, Brawn, Menari, Menipu, Memengaruhi, Wawasan, Menyanyi | Akrobatik, Akting, Orasi, Bermusik, Rayuan, Kecepatan Tangan, Pengetahuan Jalanan |
-| Petani (Pemilik Perkebunan, Tukang Kebun, Pembajak…) | Atletik, Brawn, Mengemudi, Ketahanan, Pengetahuan Lokal, Persepsi, Berkuda | Perdagangan, Kerajinan (apa saja), Pengetahuan (Pertanian), Pengetahuan (Peternakan), Navigasi, Kelangsungan Hidup, Melacak |
+| Penghibur (Akrobat, Penyair, Penari, Aktor…) | Atletik, Berotot, Menari, Menipu, Memengaruhi, Wawasan, Menyanyi | Akrobatik, Akting, Orasi, Bermusik, Rayuan, Kecepatan Tangan, Pengetahuan Jalanan |
+| Petani (Pemilik Perkebunan, Tukang Kebun, Pembajak…) | Atletik, Berotot, Mengemudi, Ketahanan, Pengetahuan Lokal, Persepsi, Berkuda | Perdagangan, Kerajinan (apa saja), Pengetahuan (Pertanian), Pengetahuan (Peternakan), Navigasi, Kelangsungan Hidup, Melacak |
 | Nelayan (Pencari pantai, Penjaga jaring, Penyelam mutiara, Pemburu paus…) | Atletik, Berperahu, Ketahanan, Pengetahuan Lokal, Persepsi, Mengendap-endap, Berenang | Perdagangan, Kerajinan (apa saja), Pengetahuan (Tangkapan Utama), Pengetahuan (Tangkapan Sekunder), Navigasi, Pelayaran, Kelangsungan Hidup |
-| Penjudi (Bandar, Penipu kartu, Hustler…) | Atletik, Brawn, Ketahanan, Pengetahuan Lokal, Persepsi, Tekad; dan Mengemudi atau Berkuda | Akting, Birokrasi, Perdagangan, Kesopanan, Perjudian, Riset, Kecepatan Tangan, Pengetahuan Jalanan |
+| Penjudi (Bandar, Penipu kartu, Hustler…) | Atletik, Berotot, Ketahanan, Pengetahuan Lokal, Persepsi, Tekad; dan Mengemudi atau Berkuda | Akting, Birokrasi, Perdagangan, Kesopanan, Perjudian, Riset, Kecepatan Tangan, Pengetahuan Jalanan |
 | Penggembala (Pembiak, Penggembala, Penjaga angsa suci…) | Ketahanan, Pertolongan Pertama, Wawasan, Pengetahuan Lokal, Persepsi, Berkuda; Gaya Bertarung (Gaya Penggembalaan atau Gaya Budaya) | Perdagangan, Kerajinan (Peternakan), Penyembuhan (Spesies Spesifik), Navigasi, Bermusik, Kelangsungan Hidup, Melacak |
 | Pemburu (Penjaga hutan, Pemburu liar, Pemulung, Penjerat…) | Atletik, Ketahanan, Pengetahuan Lokal, Persepsi, Berkuda, Mengendap-endap; Gaya Bertarung (Gaya Berburu atau Gaya Budaya) | Perdagangan, Kerajinan (terkait Berburu), Pengetahuan (Regional atau Spesies Spesifik), Mekanisme, Navigasi, Kelangsungan Hidup, Melacak |
 | Jurnalis (Komentator, Wartawan, Pemburu berita…) | Adat Istiadat, Menipu, Memengaruhi, Wawasan, Pengetahuan Lokal, Bahasa Asli, Persepsi | Birokrasi, Budaya (apa saja), Bahasa (apa saja), Pengetahuan (apa saja), Orasi, Politik, Pengetahuan Jalanan |
 | Penyihir (Mage, Sorcerer, Witch, Wizard…) | Adat Istiadat, Menipu, Memengaruhi, Wawasan, Pengetahuan Lokal, Persepsi, Tekad | Budaya, Sihir, Literasi, Pengetahuan x2, Orasi, Kecepatan Tangan |
-| Mekanik (Insinyur, Montir…) | Brawn, Budaya, Mengemudi, Ketahanan, Memengaruhi, Pengetahuan Lokal, Tekad | Perdagangan, Kerajinan (primer), Kerajinan (sekunder), Elektronik, Perjudian, Mekanisme, Pengetahuan Jalanan |
+| Mekanik (Insinyur, Montir…) | Berotot, Budaya, Mengemudi, Ketahanan, Memengaruhi, Pengetahuan Lokal, Tekad | Perdagangan, Kerajinan (primer), Kerajinan (sekunder), Elektronik, Perjudian, Mekanisme, Pengetahuan Jalanan |
 | Pedagang (Pialang, Penjaja, Pemberi pinjaman uang, Penyelundup…) | Berperahu, Mengemudi, Menipu, Wawasan, Memengaruhi, Pengetahuan Lokal, Berkuda | Perdagangan, Kesopanan, Budaya (apa saja), Bahasa (apa saja), Navigasi, Pelayaran, Pengetahuan Jalanan |
-| Penambang (Pencari tambang, Penggali sumur…) | Atletik, Brawn, Ketahanan, Pengetahuan Lokal, Persepsi, Menyanyi, Tekad | Perdagangan, Kerajinan (Pertambangan), Teknik, Pengetahuan (Mineral), Mekanisme, Navigasi (Bawah Tanah), Kelangsungan Hidup |
+| Penambang (Pencari tambang, Penggali sumur…) | Atletik, Berotot, Ketahanan, Pengetahuan Lokal, Persepsi, Menyanyi, Tekad | Perdagangan, Kerajinan (Pertambangan), Teknik, Pengetahuan (Mineral), Mekanisme, Navigasi (Bawah Tanah), Kelangsungan Hidup |
 | Pejabat (Menteri, Pengawas, Penata, Pemungut pajak…) | Adat Istiadat, Menipu, Memengaruhi, Wawasan, Pengetahuan Lokal, Persepsi, Tekad | Birokrasi, Perdagangan, Kesopanan, Bahasa (apa saja), Literasi, Pengetahuan (apa saja), Orasi |
 | Dokter (Penyembuh, Dukun, Vivisectionist…) | Menari, Pertolongan Pertama, Memengaruhi, Wawasan, Pengetahuan Lokal, Menyanyi, Tekad | Perdagangan, Kerajinan (Spesialisasi Fisiologis Spesifik), Penyembuhan, Bahasa (apa saja), Literasi (apa saja), Pengetahuan (apa saja), Pengetahuan Jalanan |
-| Pilot (Penerbang, Astronot, Pilot Uji…) | Brawn, Mengemudi, Ketahanan, Menghindar, Pengetahuan Lokal, Persepsi, Tekad | Adat Istiadat (apa saja), Elektronik, Mekanisme, Navigasi, Pilot, Sensor, Pengetahuan Jalanan |
+| Pilot (Penerbang, Astronot, Pilot Uji…) | Berotot, Mengemudi, Ketahanan, Menghindar, Pengetahuan Lokal, Persepsi, Tekad | Adat Istiadat (apa saja), Elektronik, Mekanisme, Navigasi, Pilot, Sensor, Pengetahuan Jalanan |
 | Politisi (Pegawai Negeri, Menteri, Pengawas…) | Adat Istiadat, Menipu, Memengaruhi, Wawasan, Pengetahuan Lokal, Bahasa Asli, Persepsi | Birokrasi, Kesopanan, Budaya (apa saja), Bahasa (apa saja), Pengetahuan (apa saja), Orasi, Politik |
 | Pendeta (Arbiter, Kultus, Druid, Pengemis, Nabi…) | Adat Istiadat, Menari, Menipu, Memengaruhi, Wawasan, Pengetahuan Lokal, Tekad | Birokrasi, Kesopanan, Adat Istiadat, Literasi (apa saja), Pengetahuan (apa saja), Orasi, Politik |
-| Pelaut (Kapten, Budak Galai, Marinir, Bajak Laut…) | Atletik, Berperahu, Brawn, Ketahanan, Pengetahuan Lokal, Berenang; Gaya Bertarung (Gaya Pelaut atau Gaya Budaya) | Kerajinan (Spesialisasi Kapal Spesifik), Budaya (apa saja), Bahasa (apa saja), Pengetahuan (apa saja), Navigasi, Pelayaran, Kelangsungan Hidup |
+| Pelaut (Kapten, Budak Galai, Marinir, Bajak Laut…) | Atletik, Berperahu, Berotot, Ketahanan, Pengetahuan Lokal, Berenang; Gaya Bertarung (Gaya Pelaut atau Gaya Budaya) | Kerajinan (Spesialisasi Kapal Spesifik), Budaya (apa saja), Bahasa (apa saja), Pengetahuan (apa saja), Navigasi, Pelayaran, Kelangsungan Hidup |
 | Cendekiawan (Analis, Pustakawan, Filsuf, Penulis…) | Adat Istiadat, Memengaruhi, Wawasan, Pengetahuan Lokal, Bahasa Asli, Persepsi, Tekad | Budaya (apa saja), Bahasa (apa saja), Literasi (apa saja), Pengetahuan (Primer), Pengetahuan (Sekunder), Orasi, Mengajar |
 | Ilmuwan (Arsiparis, Pustakawan, Filsuf…) | Adat Istiadat, Memengaruhi, Wawasan, Pengetahuan Lokal, Bahasa Asli, Persepsi, Tekad | Budaya (apa saja), Teknik, Bahasa (apa saja), Orasi, Riset, Sains (apa saja), Mengajar |
 | Pengintai (Pemburu Hadiah, Penjelajah, Perintis, Penjaga Hutan…) | Atletik, Ketahanan, Pertolongan Pertama, Persepsi, Mengendap-endap, Berenang; Gaya Bertarung (Gaya Berburu atau Gaya Budaya) | Budaya (apa saja), Penyembuhan, Bahasa (apa saja), Pengetahuan (apa saja), Navigasi, Kelangsungan Hidup, Melacak |
 | Pelayan (Pembantu, Butler, Sopir, Pengasuh, Sekretaris…) | Adat Istiadat, Menipu, Mengemudi, Memengaruhi, Wawasan, Pengetahuan Lokal, Persepsi | Birokrasi, Kesopanan, Kerajinan (terkait layanan), Budaya (apa saja), Bahasa (apa saja), Politik, Pengetahuan Jalanan |
 | Penyelundup (Pasar Gelap, Pembuat minuman keras, Penyelundup senjata…) | Menyembunyikan, Adat Istiadat, Menipu, Mengemudi, Memengaruhi, Wawasan, Pengetahuan Lokal | Birokrasi, Perdagangan, Adat Istiadat (apa saja), Bahasa (apa saja), Navigasi, Pengetahuan Jalanan; dan Astrogasi atau Pelayaran |
-| Teknisi (Listrik, Asisten Laboratorium…) | Brawn, Mengemudi, Ketahanan, Memengaruhi, Pengetahuan Lokal, Persepsi, Tekad | Komunikasi, Kerajinan (apa saja), Elektronik, Perjudian, Mekanisme, Sains (apa saja), Sensor |
+| Teknisi (Listrik, Asisten Laboratorium…) | Berotot, Mengemudi, Ketahanan, Memengaruhi, Pengetahuan Lokal, Persepsi, Tekad | Komunikasi, Kerajinan (apa saja), Elektronik, Perjudian, Mekanisme, Sains (apa saja), Sensor |
 | Pencuri (Perampok, Penipu, Penadah, Penjambret…) | Atletik, Menipu, Menghindar, Wawasan, Persepsi, Mengendap-endap; Gaya Bertarung (Gaya Pencuri atau Gaya Budaya) | Akting, Perdagangan, Menyamar, Membuka Kunci, Mekanisme, Kecepatan Tangan, Pengetahuan Jalanan |
-| Prajurit (Pengawal, Tentara Bayaran, Petarung Arena, Tentara…) | Atletik, Brawn, Ketahanan, Menghindar, Tangan Kosong; Gaya Bertarung (Gaya Militer), Gaya Bertarung (Gaya Budaya) | Kerajinan (apa saja), Teknik, Perjudian, Pengetahuan (Sejarah Militer), Pengetahuan (Strategi dan Taktik), Orasi, Kelangsungan Hidup |
+| Prajurit (Pengawal, Tentara Bayaran, Petarung Arena, Tentara…) | Atletik, Berotot, Ketahanan, Menghindar, Tangan Kosong; Gaya Bertarung (Gaya Militer), Gaya Bertarung (Gaya Budaya) | Kerajinan (apa saja), Teknik, Perjudian, Pengetahuan (Sejarah Militer), Pengetahuan (Strategi dan Taktik), Orasi, Kelangsungan Hidup |
 
 ---
 ## Langkah 7: Poin Keahlian Bonus
@@ -386,7 +386,7 @@ Yang membentuk piramida yang praktis. Cukup coret setiap nilai saat dialokasikan
 - Semua poin dari piramida harus dialokasikan.
 - Tidak ada keahlian yang boleh memiliki lebih dari satu alokasi dari piramida.
 - Adat Istiadat dan Bahasa Asli keduanya mendapatkan +40, sesuai aturan inti, dan sebagai tambahan untuk alokasi apa pun yang dibuat dari piramida.
-- Gairah (Passions) yang mendapatkan nilai yang dicatat di bagian [Gairah](0002_Characters.md?id=step-8-passions), dan sebagai tambahan untuk alokasi apa pun yang dibuat dari piramida.
+- Gairah (Gairah) yang mendapatkan nilai yang dicatat di bagian [Gairah](0002_Characters.md?id=step-8-Gairah), dan sebagai tambahan untuk alokasi apa pun yang dibuat dari piramida.
 - Tidak ada keahlian yang boleh melebihi 80% dari hasil alokasi. Jadi, jika karakter memiliki STR 16 dan DEX 17, untuk dasar 33%, pemain tidak dapat mengalokasikan nilai 50 poin ke Gaya Bertarung.
 - Enam dari nilai tersebut harus dialokasikan ke Keahlian Profesional.
 - Karakter masih dapat memilih Budaya dan Pekerjaan, dan menggunakan keahlian yang tercantum dalam deskripsi yang sesuai sebagai panduan untuk alokasi mereka, atau alokasi bisa benar-benar bebas.
@@ -407,7 +407,7 @@ Ini adalah Pahlawan Pulp tradisional. Mereka bukan pahlawan super atau dewa, dan
 
 #### Karakteristik
 
-Saat membuat karakter Heroik Pulp, gunakan metode Lempar Dadu, Tetapkan di bagian [Karakter](0002_Characters.md?id=calculating-characteristics). Lempar 4d6 dan buang dadu terendah, lima kali, lalu tetapkan hasilnya ke STR, CON, DEX, POW, dan CHA. Selanjutnya, lempar 3d6+6 dan buang dadu terendah dua kali dan tetapkan angka-angka ini ke SIZ dan INT. Jika menggunakan metode Poin Build, pemain membangun karakter mereka dari kumpulan awal 90 poin.
+Saat membuat karakter Heroik Pulp, gunakan metode Lempar Dadu, Tetapkan di bagian [Karakter](0002_Characters.md?id=calculating-Karakteristik). Lempar 4d6 dan buang dadu terendah, lima kali, lalu tetapkan hasilnya ke STR, CON, DEX, POW, dan CHA. Selanjutnya, lempar 3d6+6 dan buang dadu terendah dua kali dan tetapkan angka-angka ini ke SIZ dan INT. Jika menggunakan metode Poin Build, pemain membangun karakter mereka dari kumpulan awal 90 poin.
 
 #### Atribut
 
@@ -434,7 +434,7 @@ Hasilnya, karakter Paragon mungkin tidak cocok untuk semua orang, tetapi jika la
 
 #### Karakteristik
 
-Saat membuat karakter menggunakan metode Lempar Dadu, Tetapkan di bagian [Karakter](0002_Characters.md?id=calculating-characteristics). Lempar 4d6, buang dadu terendah enam kali, lalu tetapkan lima hasil pilihan Anda (biasanya, lima tertinggi) ke STR, CON, DEX, POW, dan CHA. Selanjutnya, lempar 3d6+6, buang dadu terendah tiga kali dan tetapkan dua hasil pilihan Anda (biasanya, dua tertinggi) ke SIZ dan INT. Jika menggunakan metode Poin Build, pemain membangun karakter mereka dari kumpulan awal 100 poin.
+Saat membuat karakter menggunakan metode Lempar Dadu, Tetapkan di bagian [Karakter](0002_Characters.md?id=calculating-Karakteristik). Lempar 4d6, buang dadu terendah enam kali, lalu tetapkan lima hasil pilihan Anda (biasanya, lima tertinggi) ke STR, CON, DEX, POW, dan CHA. Selanjutnya, lempar 3d6+6, buang dadu terendah tiga kali dan tetapkan dua hasil pilihan Anda (biasanya, dua tertinggi) ke SIZ dan INT. Jika menggunakan metode Poin Build, pemain membangun karakter mereka dari kumpulan awal 100 poin.
 
 #### Atribut
 
@@ -454,7 +454,7 @@ Semua karakter Paragon menggandakan Tingkat Penyembuhan mereka saat menderita Lu
 Karakter Heroik Paragon mendapatkan tambahan 100 Poin Keahlian Bonus untuk dialokasikan sesuai kebutuhan.
 
 ---
-## Langkah 8: Gairah (Passions)
+## Langkah 8: Gairah (Gairah)
 
 Gairah digunakan untuk membantu pemain dan Pengatur Permainan dalam memperdalam sifat karakter, memperkenalkan kaitan plot berdasarkan keinginan atau prasangka karakter, dan membantu pemain memahami siapa karakternya, apa yang mendorongnya, dan sebagainya.
 
@@ -510,7 +510,7 @@ Tabel Pendalaman dan Pudar menunjukkan seberapa banyak Gairah berubah.
 ---
 ## Langkah 9: Peralatan
 
-Sekarang setelah karakter hampir selesai, dia memerlukan beberapa peralatan. Ini bisa termasuk senjata, baju zirah, atau perlengkapan penting lainnya yang digunakan untuk profesi tertentu. Selama petualangan, ada banyak peluang untuk mendapatkan lebih banyak peralatan, tetapi setiap karakter awal memiliki barang-barang berikut ini:
+Sekarang setelah karakter hampir selesai, dia memerlukan beberapa peralatan. Ini bisa termasuk senjata, baju Armor, atau perlengkapan penting lainnya yang digunakan untuk profesi tertentu. Selama petualangan, ada banyak peluang untuk mendapatkan lebih banyak peralatan, tetapi setiap karakter awal memiliki barang-barang berikut ini:
 
 - Seperangkat pakaian yang sesuai dengan profesi karakter dan latar belakangnya.
 - Sejumlah uang saku; cukup untuk bertahan hidup beberapa saat tanpa kesulitan.
