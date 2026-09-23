@@ -1,50 +1,50 @@
-# Sinh vật
+# Sinh Vật
 
-Phần này chứa một số sinh vật mẫu và các Khả năng Sinh vật khác nhau. Danh sách sinh vật mẫu không đầy đủ nhưng cung cấp một khuôn mẫu tốt để phát triển sinh vật của riêng bạn hoặc điều chỉnh chúng từ các nguồn khác. Tất cả các sinh vật đều tuân theo các quy tắc của _Mythras Imperative_ được nêu và khám phá trong tài liệu này; tuy nhiên, để phản ánh thách thức mà một số sinh vật (ví dụ điển hình là rồng) nên tạo ra, các quy tắc đã được điều chỉnh một chút để phù hợp với cấp độ sức mạnh tương đối của sinh vật.
+Phần này chứa một số mẫu sinh vật và các Khả Năng Sinh Vật đa dạng. Danh sách các sinh vật mẫu không phải là tất cả nhưng cung cấp một khuôn mẫu tốt để phát triển sinh vật của riêng bạn hoặc điều chỉnh chúng từ các nguồn khác. Tất cả các sinh vật tuân theo các quy tắc _Mythras Imperative_ đã được nêu và khám phá trong tài liệu này; tuy nhiên, để phản ánh thử thách mà một số sinh vật (rồng là một ví dụ điển hình) cần mang lại, các quy tắc đã được điều chỉnh một chút để phù hợp với cấp độ sức mạnh tương đối của sinh vật đó.
 
 ---
-## Sinh vật Mẫu
+## Sinh Vật Mẫu
 
-Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sáng tạo của riêng bạn, điều chỉnh các mẫu theo yêu cầu của kịch bản, cấp độ thử thách mong muốn, v.v. Các sinh vật đại diện cho các ví dụ điển hình của loài của chúng: sẽ có các dạng lớn hơn và nhỏ hơn, với kỹ năng, khả năng Chiến đấu và Điểm Máu cao hơn và thấp hơn. Lưu ý rằng hầu hết các sinh vật này có một số Khả năng nhất định. Chúng được mô tả đầy đủ hơn dưới đây trong phần [Khả năng Sinh vật](0008_Creatures.md?id=Creature-Abilities).
+Hãy sử dụng những Sinh Vật Mẫu này làm nguồn cảm hứng cho các sáng tạo của riêng bạn, điều chỉnh các khuôn mẫu khi cần thiết cho kịch bản, cấp độ thử thách mong muốn, v.v. Các sinh vật này đại diện cho những ví dụ điển hình của loài: những hình thái lớn hơn và nhỏ hơn sẽ tồn tại, với các kỹ năng, khả năng chiến đấu và Điểm Sinh Lực (HP) cao hơn hoặc thấp hơn. Lưu ý rằng hầu hết các sinh vật này có những Khả Năng nhất định. Chúng được mô tả đầy đủ hơn dưới đây trong phần [Khả Năng Sinh Vật](0008_Creatures.md?id=Creature-Abilities).
 
-[Trình tạo Cuộc chạm trán Mythras](https://mythras.skoll.xyz/), còn gọi là MEG, là một kho quái vật tuyệt vời với hàng ngàn quái vật và cuộc chạm trán có sẵn để tạo ra. Các liên kết đến các mục có liên quan được cung cấp.
+[Mythras Encounter Generator](https://mythras.skoll.xyz/), hay còn gọi là MEG, là một kho lưu trữ quái vật tuyệt vời với hàng ngàn quái vật và cuộc chạm trán để tạo. Các liên kết đến các mục tương ứng đã được cung cấp.
 
 <br>
 
 ---
-#### Kiến Khổng lồ
+#### Kiến Khổng Lồ
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/244/)
 
-| Sinh vật | Kiến Khổng lồ |
+| Sinh Vật | Kiến Khổng Lồ |
 | :-- | :-- |
-| Thuộc tính | STR 16, CON 19, SIZ 14, DEX 15, INT 7, POW 4, CHA 0 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | +1d2 |
-| Sáng kiến | +11 |
-| Di chuyển | 12m |
-| Khả năng | [Vũ khí Tự nhiên Đáng gờm](0008_Creatures.md?id=formidable-natural-weapons) |
-| Kỹ năng | Điền kinh 67%, Sức mạnh 68%, Sức bền 74%, Né tránh 56%, Cảm nhận 53%, Dò đường 66%, Ý chí 48% |
-| Phong cách Chiến đấu | Tấn công của Kiến (Răng hàm và Vòi chích) 67% |
+| Chỉ Số | SM 16, TC 19, KT 14, KL 15, TT 7, NL 4, SH 0 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | +1d2 |
+| Tiên Cơ | +11 |
+| Di Chuyển | 12m |
+| Khả Năng | [Vũ Khí Tự Nhiên Ghê Gớm](0008_Creatures.md?id=formidable-natural-weapons) |
+| Kỹ Năng | Điền Kinh 67%, Cơ Bắp 68%, Sức Bền 74%, Né Tránh 56%, Nhận Thức 53%, Dấu Vết 66%, Ý Chí 48% |
+| Phong Cách Chiến Đấu | Tấn Công Kiến (Cặp hàm và Ngòi chích) 67% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | M | 1d6+1d2 | theo vị trí | |
-| Chích | M | 1d4+1d2 | theo vị trí | |
+| Ngòi chích | M | 1d4+1d2 | theo vị trí | |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
-| 1 | Chân Sau Phải | 4/6 |
-| 2 | Chân Sau Trái | 4/6 |
-| 3 | Chân Giữa Phải | 4/6 |
-| 4 | Chân Giữa Trái | 4/6 |
+| 1 | Tay Phải Phía Sau | 4/6 |
+| 2 | Tay Trái Phía Sau | 4/6 |
+| 3 | Tay Phải Giữa | 4/6 |
+| 4 | Tay Trái Giữa | 4/6 |
 | 5-9 | Bụng | 4/9 |
 | 10-13 | Ngực | 4/6 |
-| 14 | Chân Trước Phải | 4/6 |
-| 15 | Chân Trước Trái | 4/6 |
+| 14 | Tay Phải Phía Trước | 4/6 |
+| 15 | Tay Trái Phía Trước | 4/6 |
 | 16-20 | Đầu | 4/7 |
 
 <br>
@@ -53,71 +53,71 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 #### Gấu (Grizzly)
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/276/)
 
-| Sinh vật | Gấu (Grizzly) |
+| Sinh Vật | Gấu (Grizzly) |
 | :-- | :-- |
-| Thuộc tính | STR 26, CON 16, SIZ 34, DEX 16, INT 10, POW 6, CHA 0 |
-| Điểm Hành động | 3 |
-| Chỉ số Sát thương | +1d12 |
-| Sáng kiến | +13 |
-| Di chuyển | 8m |
-| Khả năng | [Hăm dọa](0008_Creatures.md?id=intimidate), [Tầm nhìn Ban đêm](0008_Creatures.md?id=night-sight) |
-| Kỹ năng | Điền kinh 68%, Sức mạnh 79%, Sức bền 66%, Né tránh 46%, Cảm nhận 60%, Lén lút 66%, Sinh tồn 60%, Bơi lội 68%, Dò đường 66%, Ý chí 44% |
-| Phong cách Chiến đấu | Cơn thịnh nộ Ursine (Cắn và Móng vuốt) 78% |
+| Chỉ Số | SM 26, TC 16, KT 34, KL 16, TT 10, NL 6, SH 0 |
+| Điểm Hành Động | 3 |
+| Hệ Số Sát Thương | +1d12 |
+| Tiên Cơ | +13 |
+| Di Chuyển | 8m |
+| Khả Năng | [Đe Dọa](0008_Creatures.md?id=intimidate), [Tầm Nhìn Ban Đêm](0008_Creatures.md?id=night-sight) |
+| Kỹ Năng | Điền Kinh 68%, Cơ Bắp 79%, Sức Bền 66%, Né Tránh 46%, Nhận Thức 60%, Ẩn Nấp 66%, Sinh Tồn 60%, Bơi Lội 68%, Dấu Vết 66%, Ý Chí 44% |
+| Phong Cách Chiến Đấu | Cơn Thịnh Nộ Của Gấu (Cắn và Cào) 78% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | L | 1d8+1d12 | theo vị trí | |
-| Móng vuốt | H | 1d8+1d12 | theo vị trí | |
+| Cào | H | 1d8+1d12 | theo vị trí | |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
-| 1-3 | Chân Sau Phải | 3/10 |
-| 4-6 | Chân Sau Trái | 3/10 |
-| 7-9 | Phần sau | 3/11 |
-| 10-12 | Phần trước | 3/12 |
-| 13-15 | Chân Trước Phải | 3/10 |
-| 16-18 | Chân Trước Trái | 3/10 |
+| 1-3 | Chân Phải Phía Sau | 3/10 |
+| 4-6 | Chân Trái Phía Sau | 3/10 |
+| 7-9 | Phần Mông | 3/11 |
+| 10-12 | Phần Vai | 3/12 |
+| 13-15 | Tay Phải Phía Trước | 3/10 |
+| 16-18 | Tay Trái Phía Trước | 3/10 |
 | 19-20 | Đầu | 3/10 |
 
 <br>
 
 ---
-#### Cá sấu/Alligator
+#### Cá Sấu
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/11809/)
 
-| Sinh vật | Cá sấu/Alligator |
+| Sinh Vật | Cá Sấu |
 | :-- | :-- |
-| Thuộc tính | STR 31, CON 19, SIZ 37, DEX 14, INT 12, POW 6, CHA 0 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | +2d6 |
-| Sáng kiến | +13 |
-| Di chuyển | 6m |
-| Khả năng | [Ngụy trang](0008_Creatures.md?id=camouflaged), [Máu lạnh](0008_Creatures.md?id=cold-blooded), [Kẻ bơi lội](0008_Creatures.md?id=swimmer) |
-| Kỹ năng | Điền kinh 47%, Sức mạnh 99%, Sức bền 78%, Né tránh 32%, Cảm nhận 49%, Bơi lội 80%, Ý chí 44% |
-| Phong cách Chiến đấu | Cái chết Rình rập (Cắn và Đuôi) 67% |
+| Chỉ Số | SM 31, TC 19, KT 37, KL 14, TT 12, NL 6, SH 0 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | +2d6 |
+| Tiên Cơ | +13 |
+| Di Chuyển | 6m |
+| Khả Năng | [Ngụy Trang](0008_Creatures.md?id=camouflaged), [Máu Lạnh](0008_Creatures.md?id=cold-blooded), [Bơi Lội](0008_Creatures.md?id=swimmer) |
+| Kỹ Năng | Điền Kinh 47%, Cơ Bắp 99%, Sức Bền 78%, Né Tránh 32%, Nhận Thức 49%, Bơi Lội 80%, Ý Chí 44% |
+| Phong Cách Chiến Đấu | Cái Chết Rình Rập (Cắn và Đuôi) 67% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | H | 1d10+2d6 | theo vị trí | |
-| Đuôi | H | 1d8+2d6 | theo vị trí | [Đập](0005_Combat.md?id=bash), [Tấn công Quét](0005_Combat.md?id=sweep-attacks) |
+| Đuôi | H | 1d8+2d6 | theo vị trí | [Đập Mạnh](0005_Combat.md?id=bash), [Tấn Công Quét](0005_Combat.md?id=sweep-attacks) |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Đuôi | 5/12 |
-| 4-5 | Chân Sau Phải | 5/12 |
-| 6-7 | Chân Sau Trái | 5/12 |
-| 8-10 | Phần sau | 5/13 |
-| 11-14 | Phần trước | 5/14 |
-| 15-16 | Chân Trước Phải | 5/12 |
-| 17-18 | Chân Trước Trái | 5/12 |
+| 4-5 | Chân Phải Phía Sau | 5/12 |
+| 6-7 | Chân Trái Phía Sau | 5/12 |
+| 8-10 | Phần Mông | 5/13 |
+| 11-14 | Phần Vai | 5/14 |
+| 15-16 | Tay Phải Phía Trước | 5/12 |
+| 17-18 | Tay Trái Phía Trước | 5/12 |
 | 19-20 | Đầu | 5/13 |
 
 <br>
@@ -126,42 +126,42 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 #### Rồng
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/11817/)
 
-| Sinh vật | Rồng |
+| Sinh Vật | Rồng |
 | :-- | :-- |
-| Thuộc tính | STR 33, CON 35, SIZ 50, DEX 18, INT 20, POW 19, CHA 17 |
-| Điểm Hành động | 4 |
-| Điểm Phép thuật | 19 |
-| Chỉ số Sát thương | +2d8 |
-| Sáng kiến | +19 |
-| Di chuyển | 12m/18m Bay |
-| Khả năng | [Thở lửa](0008_Creatures.md?id=breathe-flame), [Máu lạnh](0008_Creatures.md?id=cold-blooded), [Tầm nhìn Tối](0008_Creatures.md?id=dark-sight), [Đòn bổ nhào](0008_Creatures.md?id=diving-strike), [Nuốt chửng](0008_Creatures.md?id=engulfing), [Bay](0008_Creatures.md?id=flying), [Vũ khí Tự nhiên Đáng gờm](0008_Creatures.md?id=formidable-natural-weapons), [Miễn nhiễm (Lửa)](0008_Creatures.md?id=immunity), [Đáng sợ](0008_Creatures.md?id=terrifying), [Giẫm đạp](0008_Creatures.md?id=trample) |
-| Kỹ năng | Điền kinh 80%, Sức mạnh 120%, Lừa dối 78%, Sức bền 92%, Né tránh 68%, Bay 90%, Thấu hiểu 78%, Địa phương 68%, Truyền thuyết (Rồng) 68%, Cảm nhận 78%, Dạy dỗ 58%, Ý chí 78% |
-| Phép thuật | 78% (Mê hoặc, Tẩy sạch, Phối hợp, Tìm kho báu, Thần giao cách cảm, Lá chắn linh hồn, Sinh lực, Tầm nhìn phù thủy) |
-| Phong cách Chiến đấu | Chết chóc và Hủy diệt (Cắn, Móng vuốt, Đuôi quét) 90%; Hơi thở Lửa 80% |
+| Chỉ Số | SM 33, TC 35, KT 50, KL 18, TT 20, NL 19, SH 17 |
+| Điểm Hành Động | 4 |
+| Điểm Phép Thuật | 19 |
+| Hệ Số Sát Thương | +2d8 |
+| Tiên Cơ | +19 |
+| Di Chuyển | 12m/18m Bay |
+| Khả Năng | [Thổi Lửa](0008_Creatures.md?id=breathe-flame), [Máu Lạnh](0008_Creatures.md?id=cold-blooded), [Tầm Nhìn Tối](0008_Creatures.md?id=dark-sight), [Tấn Công Lặn](0008_Creatures.md?id=diving-strike), [Nuốt Chửng](0008_Creatures.md?id=engulfing), [Bay](0008_Creatures.md?id=flying), [Vũ Khí Tự Nhiên Ghê Gớm](0008_Creatures.md?id=formidable-natural-weapons), [Miễn Nhiễm (Lửa)](0008_Creatures.md?id=immunity), [Kinh Hoàng](0008_Creatures.md?id=terrifying), [Giẫm Đạp](0008_Creatures.md?id=trample) |
+| Kỹ Năng | Điền Kinh 80%, Cơ Bắp 120%, Lừa Dối 78%, Sức Bền 92%, Né Tránh 68%, Bay 90%, Trực Giác 78%, Khu Vực 68%, Kiến Thức (Rồng) 68%, Nhận Thức 78%, Dạy Dỗ 58%, Ý Chí 78% |
+| Phép Thuật | 78% (Befuddle, Cleanse, Coordination, Find Treasure, Mindspeech, Spiritshield, Vigor, Witchsight) |
+| Phong Cách Chiến Đấu | Cái Chết Và Sự Hủy Diệt (Cắn, Cào, Quét Đuôi) 90%; Thổi Lửa 80% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | E | 1d12+2d8 | theo vị trí | |
-| Móng vuốt | E | 1d10+2d8 | theo vị trí | |
-| Hơi thở Lửa | E | 4d6 | - | Ngọn lửa rồng thở ra trải dài theo hình nón với chiều dài bằng CON của rồng (35m), và chiều rộng bằng một phần tư CON (9m). Bất cứ thứ gì bị trúng vụ nổ sẽ bốc cháy nếu dễ cháy, và sức nóng đủ mạnh để làm tan chảy kim loại không được yểm phép. |
-| Đuôi | E | 1d10+2d8 | theo vị trí | [Đập](0005_Combat.md?id=bash), [Tấn công Quét](0005_Combat.md?id=sweep-attacks) |
-| Giẫm đạp | C | 4d8 | - | |
+| Cào | E | 1d10+2d8 | theo vị trí | |
+| Thổi Lửa | E | 4d6 | - | Ngọn lửa rồng thở ra trải dài thành một hình nón với chiều dài bằng chỉ số TC của rồng (35m), và chiều rộng tại điểm xa nhất bằng một phần tư TC (9m). Bất cứ sinh vật nào bị bắt gặp trong vụ nổ sẽ bốc cháy nếu có tính bắt lửa, và sức nóng đủ mạnh để làm tan chảy các kim loại không bị yểm bùa. |
+| Đuôi | E | 1d10+2d8 | theo vị trí | [Đập Mạnh](0005_Combat.md?id=bash), [Tấn Công Quét](0005_Combat.md?id=sweep-attacks) |
+| Giẫm Đạp | C | 4d8 | - | |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-2 | Đuôi | 8/17 |
-| 3-4 | Chân Sau Phải | 8/17 |
-| 5-6 | Chân Sau Trái | 8/17 |
-| 7-8 | Phần sau | 8/18 |
+| 3-4 | Chân Phải Phía Sau | 8/17 |
+| 5-6 | Chân Trái Phía Sau | 8/17 |
+| 7-8 | Phần Mông | 8/18 |
 | 9-10 | Cánh Phải | 8/16 |
 | 11-12 | Cánh Trái | 8/16 |
-| 13-14 | Phần trước | 8/19 |
-| 15-16 | Chân Trước Phải | 8/17 |
-| 17-18 | Chân Trước Trái | 8/17 |
+| 13-14 | Phần Vai | 8/19 |
+| 15-16 | Tay Phải Phía Trước | 8/17 |
+| 17-18 | Tay Trái Phía Trước | 8/17 |
 | 19-20 | Đầu | 8/17 |
 
 <br>
@@ -170,29 +170,29 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 #### Goblin/Orc
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/10891/)
 
-| Sinh vật | Goblin/Orc |
+| Sinh Vật | Goblin/Orc |
 | :-- | :-- |
-| Thuộc tính | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | - |
-| Sáng kiến | +11 |
-| Di chuyển | 6m |
-| Khả năng | [Tầm nhìn Ban đêm](0008_Creatures.md?id=night-sight) |
-| Kỹ năng | Điền kinh 52%, Sức mạnh 42%, Lừa dối 57%, Sức bền 48%, Né tránh 62%, Cảm nhận 61%, Tay không 52%, Ý chí 42% |
-| Phong cách Chiến đấu | Chiến binh (Kiếm ngắn, Khiên, Giáo, Ná) 62% |
+| Chỉ Số | SM 11, TC 14, KT 11, KL 11, TT 11, NL 11, SH 7 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | - |
+| Tiên Cơ | +11 |
+| Di Chuyển | 6m |
+| Khả Năng | [Tầm Nhìn Ban Đêm](0008_Creatures.md?id=night-sight) |
+| Kỹ Năng | Điền Kinh 52%, Cơ Bắp 42%, Lừa Dối 57%, Sức Bền 48%, Né Tránh 62%, Nhận Thức 61%, Tay Không 52%, Ý Chí 42% |
+| Phong Cách Chiến Đấu | Chiến Binh (Kiếm Ngắn, Khiên, Thương, Ná) 62% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
-| Kiếm ngắn | M | 1d6 | 6/8 | [Chảy máu](0005_Combat.md?id=bleed), [Xuyên thủng](0005_Combat.md?id=impale)|
-| Giáo | M | 1d8+1 | 4/5 | [Xuyên thủng](0005_Combat.md?id=impale)|
-| Ná | L | 1d8 | 1/2 | [Đập](0005_Combat.md?id=bash), [Choáng Vị trí](0005_Combat.md?id=stun-location), Tầm bắn 10/150/300m |
-| Khiên | L | 1d4 | 4/9 | [Chặn/Che chắn Thụ động trên 3 vị trí](0005_Combat.md?id=passive-blocking), Đỡ đòn từ xa |
+| Kiếm Ngắn | M | 1d6 | 6/8 | [Chảy Máu](0005_Combat.md?id=bleed), [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Thương | M | 1d8+1 | 4/5 | [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Ná | L | 1d8 | 1/2 | [Đập Mạnh](0005_Combat.md?id=bash), [Choáng Vị Trí](0005_Combat.md?id=stun-location), Tầm Bắn 10/150/300m |
+| Khiên | L | 1d4 | 4/9 | [Chặn/Đỡ Bị Động tại 3 vị trí](0005_Combat.md?id=passive-blocking), Đỡ Tầm Xa |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Chân Phải | 1/5 |
 | 4-6 | Chân Trái | 1/5 |
@@ -208,32 +208,32 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 #### Ngựa
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/9997/)
 
-| Sinh vật | Ngựa |
+| Sinh Vật | Ngựa |
 | :-- | :-- |
-| Thuộc tính | STR 26, CON 16, SIZ 31, DEX 16, INT 10, POW 6, CHA 0 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | +1d12 |
-| Sáng kiến | +11 |
-| Di chuyển | 12m |
-| Khả năng | [Giẫm đạp](0008_Creatures.md?id=trample) |
-| Kỹ năng | Điền kinh 52%, Sức mạnh 83%, Sức bền 66%, Né tránh 40%, Cảm nhận 48%, Ý chí 34% |
-| Phong cách Chiến đấu | Dựng và Bổ nhào (Móng guốc) 62% |
+| Chỉ Số | SM 26, TC 16, KT 31, KL 16, TT 10, NL 6, SH 0 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | +1d12 |
+| Tiên Cơ | +11 |
+| Di Chuyển | 12m |
+| Khả Năng | [Giẫm Đạp](0008_Creatures.md?id=trample) |
+| Kỹ Năng | Điền Kinh 52%, Cơ Bắp 83%, Sức Bền 66%, Né Tránh 40%, Nhận Thức 48%, Ý Chí 34% |
+| Phong Cách Chiến Đấu | Dựng Ngựa và Nhào tới (Móng guốc) 62% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
-| Móng guốc | H | 1d6+1d12 | |
-| Giẫm đạp | E | 2d12 | - | |
+| Móng guốc | H | 1d6+1d12 | | |
+| Giẫm Đạp | E | 2d12 | - | |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Chân Sau Phải | 1/9 |
 | 4-6 | Chân Sau Trái | 1/9 |
-| 7-9 | Phần sau | 1/10 |
-| 10-12 | Phần trước | 1/11 |
+| 7-9 | Phần Mông | 1/10 |
+| 10-12 | Phần Vai | 1/11 |
 | 13-14 | Chân Trước Phải | 1/8 |
 | 15-16 | Chân Trước Trái | 1/8 |
 | 17-20 | Đầu | 1/9 |
@@ -241,32 +241,32 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 <br>
 
 ---
-#### Minotaur
+#### Nhân Mã (Minotaur)
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/11814/)
 
-| Sinh vật | Minotaur |
+| Sinh Vật | Nhân Mã |
 | :-- | :-- |
-| Thuộc tính | STR 15, CON 14, SIZ 22, DEX 11, INT 13, POW 11, CHA 7 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | +1d6 |
-| Sáng kiến | +12 |
-| Di chuyển | 8m |
-| Khả năng | [Hăm dọa](0008_Creatures.md?id=intimidate) |
-| Kỹ năng | Điền kinh 57%, Sức mạnh 79%, Phong tục 66%, Sức bền 66%, Né tránh 40%, Thấu hiểu 44%, Địa phương 56%, Truyền thuyết (Chăn nuôi) 66%, Cảm nhận 54%, Tay không 57%, Ý chí 42% |
-| Phong cách Chiến đấu | Chiến binh Minotaur (Rìu hai tay, Giáo hai tay dùng một tay, Khiên Hoplite, Húc sừng) 67% |
+| Chỉ Số | SM 15, TC 14, KT 22, KL 11, TT 13, NL 11, SH 7 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | +1d6 |
+| Tiên Cơ | +12 |
+| Di Chuyển | 8m |
+| Khả Năng | [Đe Dọa](0008_Creatures.md?id=intimidate) |
+| Kỹ Năng | Điền Kinh 57%, Cơ Bắp 79%, Phong Tục 66%, Sức Bền 66%, Né Tránh 40%, Trực Giác 44%, Khu Vực 56%, Kiến Thức (Chăn Nuôi) 66%, Nhận Thức 54%, Tay Không 57%, Ý Chí 42% |
+| Phong Cách Chiến Đấu | Chiến Binh Nhân Mã (Rìu hai tay, Thương 2 tay dùng một tay, Khiên Hoplite, Húc) 67% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
-| Húc sừng | L | 1d8+1d6 | theo vị trí | [Xuyên thủng](0005_Combat.md?id=impale) |
-| Rìu hai tay | E | 2d8+2+1d6 | 6/12 | |
-| Giáo | H | 1d10+1+1d6 | 4/10 | [Xuyên thủng](0005_Combat.md?id=impale) |
-| Khiên Hoplite | E | 1d4+1d6 | 6/15 | [Chặn/Che chắn Thụ động trên 4 vị trí](0005_Combat.md?id=passive-blocking), Đỡ đòn từ xa |
+| Húc | L | 1d8+1d6 | theo vị trí | [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Rìu Hai Tay | E | 2d8+2+1d6 | 6/12 | |
+| Thương | H | 1d10+1+1d6 | 4/10 | [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Khiên Hoplite | E | 1d4+1d6 | 6/15 | [Chặn/Đỡ Bị Động tại 4 vị trí](0005_Combat.md?id=passive-blocking), Đỡ Tầm Xa |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Chân Phải | 0/7 |
 | 4-6 | Chân Trái | 0/7 |
@@ -279,34 +279,34 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 <br>
 
 ---
-#### Cá mập
+#### Cá Mập
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/11815/)
 
-| Sinh vật | Cá mập |
+| Sinh Vật | Cá Mập |
 | :-- | :-- |
-| Thuộc tính | STR 22, CON 19, SIZ 42, DEX 20, INT 6, POW 6, CHA 0 |
-| Điểm Hành động | 3 |
-| Chỉ số Sát thương | +2d6 |
-| Sáng kiến | +13 |
-| Di chuyển | 12m (bơi) |
-| Khả năng | [Cảm nhận Máu](0008_Creatures.md?id=blood-sense), [Cuồng nộ](0008_Creatures.md?id=frenzy), [Kẻ bơi lội](0008_Creatures.md?id=swimmer) |
-| Kỹ năng | Điền kinh 87%, Sức mạnh 87%, Sức bền 66%, Né tránh 55%, Cảm nhận 57%, Bơi lội 91%, Ý chí 34% |
-| Phong cách Chiến đấu | Hàm (Cắn), 81% |
+| Chỉ Số | SM 22, TC 19, KT 42, KL 20, TT 6, NL 6, SH 0 |
+| Điểm Hành Động | 3 |
+| Hệ Số Sát Thương | +2d6 |
+| Tiên Cơ | +13 |
+| Di Chuyển | 12m (bơi) |
+| Khả Năng | [Cảm Nhận Máu](0008_Creatures.md?id=blood-sense), [Cuồng Loạn](0008_Creatures.md?id=frenzy), [Bơi Lội](0008_Creatures.md?id=swimmer) |
+| Kỹ Năng | Điền Kinh 87%, Cơ Bắp 87%, Sức Bền 66%, Né Tránh 55%, Nhận Thức 57%, Bơi Lội 91%, Ý Chí 34% |
+| Phong Cách Chiến Đấu | Hàm Răng (Cắn), 81% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | E | 1d10+2d6 | theo vị trí | |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Đuôi | 2/12 |
 | 4-6 | Vây Lưng | 2/11 |
-| 7-10 | Phần sau | 2/13 |
-| 11-14 | Phần trước | 2/14 |
+| 7-10 | Phần Mông | 2/13 |
+| 11-14 | Phần Vai | 2/14 |
 | 15-16 | Vây Phải | 2/11 |
 | 17-18 | Vây Trái | 2/11 |
 | 17-20 | Đầu | 2/12 |
@@ -314,32 +314,32 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 <br>
 
 ---
-#### Bộ xương
+#### Bộ Xương
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/7925/)
 
-| Sinh vật | Bộ xương |
+| Sinh Vật | Bộ Xương |
 | :-- | :-- |
-| Thuộc tính | STR 11, CON 14, SIZ 13, DEX 11, INT 11, POW 16, CHA 7 |
-| Điểm Hành động | 2 |
-| Chỉ số Sát thương | - |
-| Sáng kiến | +11 |
-| Di chuyển | 6m |
-| Khả năng | [Xác sống](0008_Creatures.md?id=undead) |
-| Đặc biệt | Các bộ xương sống lại dễ bị tổn thương bởi vũ khí gây chấn thương cùn, làm vỡ xương (hoặc vỏ chitin), và làm gián đoạn các khớp. Những vũ khí như vậy tăng một bậc sát thương khi dùng chống lại bộ xương (ví dụ một cây gậy gây 1d6 sát thương sẽ trở thành 1d8). Mặt khác, bộ xương có khả năng kháng lại vũ khí chém và đâm. Giảm một bậc sát thương của vũ khí chém và hai bậc đối với vũ khí đâm. |
-| Kỹ năng | Điền kinh 68%, Sức mạnh 45%, Sức bền 44%, Né tránh 72%, Cảm nhận 57%, Tay không 68%, Ý chí 72% |
-| Phong cách Chiến đấu | Chiến binh Bộ xương (Kiếm, Giáo, Khiên Peltast) 68% - Chiến đấu đội hình |
+| Chỉ Số | SM 11, TC 14, KT 13, KL 11, TT 11, NL 16, SH 7 |
+| Điểm Hành Động | 2 |
+| Hệ Số Sát Thương | - |
+| Tiên Cơ | +11 |
+| Di Chuyển | 6m |
+| Khả Năng | [Bất Tử](0008_Creatures.md?id=undead) |
+| Đặc Biệt | Các bộ xương hoạt hình dễ bị tổn thương bởi các vũ khí gây chấn thương cùn, làm đập vỡ xương (hoặc vỏ cứng) và làm gián đoạn các khớp. Những vũ khí như vậy làm tăng xúc xắc sát thương của chúng thêm một bậc khi sử dụng chống lại bộ xương (ví dụ: một chiếc gậy với sát thương 1d6 sẽ trở thành 1d8). Mặt khác, bộ xương có khả năng kháng lại các vũ khí chém và đâm. Giảm xúc xắc sát thương của vũ khí chém đi một bậc, và vũ khí đâm đi hai bậc. |
+| Kỹ Năng | Điền Kinh 68%, Cơ Bắp 45%, Sức Bền 44%, Né Tránh 72%, Nhận Thức 57%, Tay Không 68%, Ý Chí 72% |
+| Phong Cách Chiến Đấu | Chiến Binh Bộ Xương (Kiếm, Thương, Khiên Peltast) 68% - Chiến Đấu Đội Hình |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
-| Kiếm ngắn | M | 1d6 | 6/8 | [Chảy máu](0005_Combat.md?id=bleed), [Xuyên thủng](0005_Combat.md?id=impale)|
-| Giáo | M | 1d8+1 | 4/5 | [Xuyên thủng](0005_Combat.md?id=impale)|
-| Khiên | L | 1d4 | 4/12 | [Chặn/Che chắn Thụ động trên 3 vị trí](0005_Combat.md?id=passive-blocking), Đỡ đòn từ xa |
+| Kiếm Ngắn | M | 1d6 | 6/8 | [Chảy Máu](0005_Combat.md?id=bleed), [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Thương | M | 1d8+1 | 4/5 | [Xuyên Thấu](0005_Combat.md?id=impale) |
+| Khiên | L | 1d4 | 4/12 | [Chặn/Đỡ Bị Động tại 3 vị trí](0005_Combat.md?id=passive-blocking), Đỡ Tầm Xa |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Chân Phải | 0/5 |
 | 4-6 | Chân Trái | 0/5 |
@@ -352,36 +352,36 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 <br>
 
 ---
-#### Người ngoài hành tinh Xenomorphic
+#### Sinh Vật Ngoài Hành Tinh Xenomorphic
 [Mục MEG](https://mythras.skoll.xyz/enemy_template/11816/)
 
-| Sinh vật | Người ngoài hành tinh Xenomorphic |
+| Sinh Vật | Sinh Vật Ngoài Hành Tinh Xenomorphic |
 | :-- | :-- |
-| Thuộc tính | STR 23, CON 11, SIZ 16, DEX 24, INT 12, POW 12, CHA 13 |
-| Điểm Hành động | 3 |
-| Chỉ số Sát thương | +1d6 |
-| Sáng kiến | +18 |
-| Di chuyển | 8m |
-| Khả năng | [Ngụy trang](0008_Creatures.md?id=camouflaged), [Cuồng nộ](0008_Creatures.md?id=frenzy) |
-| Đặc biệt | Bất cứ khi nào xenomorph bị thương, máu axit của nó sẽ phun ra kẻ tấn công trong phạm vi cận chiến. Nó gây 1d3 sát thương trong 1d3 vòng đấu vào một Vị trí Bị thương ngẫu nhiên. Axit sẽ ăn mòn giáp trước khi ảnh hưởng đến thịt bên dưới. |
-| Kỹ năng | Điền kinh 77%, Sức mạnh 68%, Sức bền 56%, Né tránh 80%, Cảm nhận 62%, Lén lút 76%, Dò đường 64, Ý chí 52% |
-| Phong cách Chiến đấu | Kinh hoàng Ngoại lai Ký sinh (Cắn, Móng vuốt và Đuôi) 77% |
+| Chỉ Số | SM 23, TC 11, KT 16, KL 24, TT 12, NL 12, SH 13 |
+| Điểm Hành Động | 3 |
+| Hệ Số Sát Thương | +1d6 |
+| Tiên Cơ | +18 |
+| Di Chuyển | 8m |
+| Khả Năng | [Ngụy Trang](0008_Creatures.md?id=camouflaged), [Cuồng Loạn](0008_Creatures.md?id=frenzy) |
+| Đặc Biệt | Mỗi khi Xenomorph bị thương, máu axit của nó sẽ phun ra trúng kẻ tấn công trong phạm vi cận chiến. Nó gây 1d3 sát thương trong 1d3 vòng vào một Vị Trí Trúng Đòn ngẫu nhiên. Axit sẽ ăn mòn giáp trước khi ảnh hưởng đến phần thịt bên dưới. |
+| Kỹ Năng | Điền Kinh 77%, Cơ Bắp 68%, Sức Bền 56%, Né Tránh 80%, Nhận Thức 62%, Ẩn Nấp 76%, Dấu Vết 64, Ý Chí 52% |
+| Phong Cách Chiến Đấu | Kinh Dị Ngoài Hành Tinh Ký Sinh (Cắn, Cào và Đuôi) 77% |
 
-##### Chi tiết Vũ khí
+##### Chi Tiết Vũ Khí
 
-| Vũ khí | Kích thước | Sát thương | AP/HP | Đặc biệt |
+| Vũ Khí | Kích Thước | Sát Thương | AP/HP | Đặc Biệt |
 | :-- | :-: | :--: | :--: | :-- |
 | Cắn | H | 1d4+1d6 | theo vị trí | |
-| Móng vuốt | H | 1d4+1+1d6 | theo vị trí | |
-| Đuôi | H | 1d6+1d6 | theo vị trí | [Tấn công Quét](0005_Combat.md?id=sweep-attacks) |
+| Cào | H | 1d4+1+1d6 | theo vị trí | |
+| Đuôi | H | 1d6+1d6 | theo vị trí | [Tấn Công Quét](0005_Combat.md?id=sweep-attacks) |
 
-##### Vị trí Bị thương & Giáp
+##### Vị Trí Trúng Đòn & Giáp
 
-| 1d20 | Vị trí | AP/HP |
+| 1d20 | Vị Trí | AP/HP |
 | :-: | :-- | :-: |
 | 1-3 | Đuôi | 6/5 |
-| 4-5 | Chân Sau Phải | 6/6 |
-| 6-7 | Chân Sau Trái | 6/6 |
+| 4-5 | Chân Phải Phía Sau | 6/6 |
+| 6-7 | Chân Trái Phía Sau | 6/6 |
 | 8-10 | Bụng | 6/7 |
 | 11-14 | Ngực | 6/8 |
 | 15-16 | Tay Phải | 6/5 |
@@ -391,162 +391,160 @@ Sử dụng các Sinh vật Mẫu này làm nguồn cảm hứng cho những sá
 <br>
 
 ---
-## Khả năng Sinh vật
+## Khả Năng Sinh Vật
 
-Khả năng Sinh vật là thứ mà sinh vật có thể làm một cách tự nhiên nhờ sinh lý, sinh học, phép thuật bẩm sinh, v.v. Ví dụ, chim có thể vỗ cánh bay trong không trung, vì vậy Bay là một khả năng.
+Một Khả Năng Sinh Vật là thứ mà sinh vật có thể thực hiện một cách tự nhiên do sinh lý, sinh học, phép thuật bẩm sinh, v.v. Ví dụ, loài chim có thể đập cánh bay trong không trung, nên Bay là một khả năng.
 
-Mỗi Khả năng sau đây được mô tả về hiệu ứng trong trò chơi của nó và cách nó có thể ảnh hưởng đến tương tác với những người khác. Không phải tất cả các Khả năng này đều được thể hiện trong các Sinh vật Mẫu được cung cấp trước đó, nhưng chúng cho thấy cách các sinh vật tưởng chừng như bình thường có thể biến thành thứ gì đó độc đáo, đầy thử thách hoặc đáng sợ. Theo nguyên tắc chung, sinh vật nên có tối đa ba Khả năng phù hợp với bản chất và môi trường của chúng. Ví dụ, một con nhện quỷ có thể có Bám dính, Kẻ khóa và Hút máu. Tuy nhiên, trong những trường hợp đặc biệt, nhiều Khả năng hơn được cho phép để phản ánh bản chất đáng kinh ngạc của sinh vật được mô tả.
+Mỗi Khả Năng dưới đây được mô tả dựa trên hiệu ứng trò chơi của nó, và cách nó có thể ảnh hưởng đến tương tác với những sinh vật khác. Không phải tất cả các Khả Năng này đều được thể hiện trong các Sinh Vật Mẫu đã cung cấp trước đó, nhưng chúng cho thấy cách những sinh vật có vẻ bình thường có thể biến thành thứ gì đó độc đáo, đầy thử thách hoặc thực sự kinh hoàng. Theo quy tắc chung, sinh vật nên có tối đa ba Khả Năng phù hợp với bản chất và môi trường của chúng. Ví dụ, một TC nhện quỷ có thể có Bám Dính, Vật Lộn và Hút Máu. Tuy nhiên, trong những trường hợp ngoại lệ, có thể cho phép nhiều Khả Năng hơn để phản ánh bản chất tuyệt vời của sinh vật đang được mô tả.
 
-#### Bám dính
+#### Bám Dính
 
-Sinh vật có thể di chuyển tự do trên các bề mặt thẳng đứng, và thậm chí di chuyển lộn ngược trên trần nhà mà không cần thiết bị đặc biệt nào. Tốc độ Di chuyển như vậy luôn bằng một nửa tốc độ Di chuyển bình thường của sinh vật.
+Sinh vật có thể di chuyển tự do trên các bề mặt thẳng đứng, và thậm chí di chuyển lộn ngược trên trần nhà mà không cần thiết bị đặc biệt. Sự di chuyển như vậy luôn bằng một nửa Tốc Độ Di Chuyển bình thường của sinh vật.
 
-#### Dưới nước
+#### Thủy Sinh
 
-Sinh vật thở bằng nước thay vì không khí, thường có mang hoặc da có khả năng hấp thụ trực tiếp không khí hòa tan. Nếu được đưa ra khỏi nước và các cơ quan hô hấp của chúng bị khô, chúng bắt đầu ngạt thở sau số phút bằng CON của chúng nếu duy trì trạng thái bị động hoặc một nửa thời gian đó nếu di chuyển hoặc chiến đấu.
+Sinh vật thở bằng nước thay vì không khí, thường sở hữu mang hoặc da có khả năng hấp thụ trực tiếp không khí hòa tan. Nếu bị đưa ra khỏi nước và các cơ quan hô hấp bị khô, chúng bắt đầu ngạt thở sau số phút bằng chỉ số TC nếu đứng yên hoặc một nửa thời gian đó nếu di chuyển hoặc chiến đấu.
 
-#### Cảm nhận Máu
+#### Cảm Nhận Máu
 
-Cho phép sinh vật phát hiện máu từ khoảng cách rất xa, dù được gió hoặc nước mang đi. Dấu vết máu có thể được cảm nhận trong phạm vi lên đến 1d6+6 kilômét.
+Cho phép sinh vật phát hiện máu ở khoảng cách xa, dù được mang theo bởi gió hay nước. Dấu vết của máu có thể được cảm nhận lên đến 1d6+6 km.
 
-#### Thở lửa
+#### Thổi Lửa
 
-Sinh vật thở ra lửa bao trùm một khu vực như một Hành động Chiến đấu. Ngọn lửa bao phủ một hình nón phía trước sinh vật, kéo dài theo số mét bằng CON của nó. Ở điểm xa nhất, chiều rộng của hình nón bằng một phần tư CON của sinh vật. Bất kỳ sinh vật nào bị trúng lửa đều phải chịu sát thương lửa vào tất cả các vị trí bị thương, mặc dù nhân vật có thể cố gắng Né tránh để giảm một nửa sát thương này. Điểm Giáp tính như bình thường trừ khi có ghi chú khác.
+Sinh vật thổi lửa trên một khu vực như một Hành Động Chiến Đấu. Ngọn lửa bao phủ một hình nón phía trước sinh vật, kéo dài bằng số mét bằng chỉ số TC của nó. Ở phạm vi xa nhất, chiều rộng của hình nón bằng một phần tư chỉ số TC của sinh vật. Bất kỳ sinh vật nào bị bắt gặp trong ngọn lửa đều phải chịu sát thương dựa trên lửa vào tất cả các vị trí trúng đòn, mặc dù nhân vật có thể cố gắng Né Tránh để giảm một nửa sát thương này. Điểm Giáp vẫn tính như bình thường trừ khi có ghi chú khác.
 
-Một sinh vật chỉ có thể thở lửa một lần trong một khoảng thời gian cụ thể (thường là mỗi giờ một lần hoặc mỗi ngày một lần). Các lần cố gắng thở lửa tiếp theo trong thời gian này yêu cầu sinh vật phải vượt qua các lần kiểm tra Sức bền, với mỗi lần kiểm tra trở nên khó hơn một bậc hoặc phải chịu một cấp độ Mệt mỏi.
+Một sinh vật chỉ có thể thổi lửa một lần trong một khoảng thời gian xác định (thường là một giờ hoặc một ngày một lần). Các lần thử thổi lửa tiếp theo trong khoảng thời gian này yêu cầu sinh vật phải vượt qua các cuộn Sức Bền với mỗi cuộn khó hơn một cấp hoặc chịu một mức Mệt Mỏi.
 
-#### Đào hang
+#### Đào Hang
 
-Sinh vật rất thành thạo trong việc đào đường hầm dưới đất với tốc độ Di chuyển bình thường của nó. Một số sinh vật bị hạn chế về loại đất mà chúng có thể di chuyển qua, điều này được ghi chú trong mô tả của sinh vật.
+Sinh vật rất giỏi trong việc đào đường hầm xuyên qua mặt đất với Tốc Độ Di Chuyển bình thường. Một số sinh vật bị hạn chế về loại mặt đất mà chúng có thể di chuyển qua, điều này được ghi chú trong mô tả của sinh vật.
 
-#### Ngụy trang
+#### Ngụy Trang
 
-Sinh vật rất thành thạo trong việc ẩn nấp nhờ màu sắc hoặc kết cấu bề mặt khác thường của nó. Những người cố gắng phát hiện sinh vật phải chịu hình phạt Cảm nhận hai bậc khó khăn.
+Sinh vật rất giỏi trong việc ẩn nấp nhờ màu sắc hoặc cấu trúc bề mặt bất thường. Những ai cố gắng phát hiện sinh vật phải chịu hình phạt vào Nhận Thức hai cấp độ khó.
 
-#### Hút Thuộc tính
+#### Rút Cạn Chỉ Số
 
-Sinh vật có khả năng bẩm sinh hút điểm Thuộc tính tạm thời từ mục tiêu các cuộc tấn công của chúng. Loại tấn công, Thuộc tính bị ảnh hưởng và cách chống lại hiệu ứng hút được mô tả chi tiết trong mô tả của sinh vật.
+Sinh vật có khả năng bẩm sinh rút cạn các điểm Chỉ Số tạm thời từ mục tiêu bị chúng tấn công. Loại tấn công, Chỉ Số bị ảnh hưởng và cách chống lại hiệu ứng rút cạn được nêu chi tiết trong mô tả của sinh vật.
 
-#### Máu lạnh
+#### Máu Lạnh
 
-Sinh vật không cần ăn thường xuyên. Một bữa ăn mỗi tuần là đủ để giữ cho nó khỏe mạnh và no đủ, và việc ăn một lượng lớn thịt sẽ loại bỏ nhu cầu ăn trong một tháng. Ngược lại, khi tiếp xúc với nhiệt độ dưới 15 độ C, phản xạ của nó trở nên yếu đi, phải chịu hình phạt –6 vào Sáng kiến, và mất một Hành động Chiến đấu mỗi vòng. Dưới 5 độ C, sinh vật máu lạnh trở nên hoàn toàn hôn mê, rơi vào trạng thái bất động không thể tự vệ.
+Sinh vật không cần ăn thường xuyên. Một bữa ăn một tuần là đủ để giữ cho nó khỏe mạnh và được nuôi dưỡng đầy đủ, và việc ăn uống no nê một lượng lớn thịt sẽ loại bỏ nhu cầu ăn trong một tháng. Ngược lại, khi tiếp xúc với nhiệt độ dưới 15 độ C, phản xạ của nó trở nên yếu đi, chịu hình phạt –6 vào Tiên Cơ, và mất một Hành Động Chiến Đấu mỗi vòng. Dưới 5 độ C, các sinh vật máu lạnh trở nên hoàn toàn lờ đờ, rơi vào trạng thái bất lực giống như hôn mê.
 
-#### Tầm nhìn Tối
+#### Tầm Nhìn Tối
 
-Cho phép sinh vật nhìn bình thường trong điều kiện hoàn toàn không có ánh sáng.
+Cho phép sinh vật nhìn bình thường khi hoàn toàn không có ánh sáng.
 
-#### Cảm nhận Cái chết
+#### Cảm Nhận Cái Chết
 
-Hòa hợp với sức mạnh của cái chết, sinh vật có thể cảm nhận cái chết của sinh vật sống và thịt chết trong phạm vi lên đến một nửa INT của nó tính bằng kilômét.
+Hòa hợp với quyền năng của cái chết, sinh vật có thể cảm nhận cái chết của những sinh vật sống, và xác thịt đã chết trong phạm vi tối đa bằng một nửa chỉ số TT của nó tính bằng km.
 
-#### Miễn nhiễm Bệnh tật
+#### Miễn Nhiễm Dịch Bệnh
 
-Sinh vật miễn nhiễm với mọi bệnh tật. Tất cả các sinh vật không có SIZ tự động có khả năng này, mặc dù nó không được liệt kê cụ thể trong mô tả của chúng.
+Sinh vật miễn nhiễm với tất cả các loại bệnh tật. Tất cả các sinh vật không có KT tự động có khả năng này, mặc dù nó không được liệt kê cụ thể trong mô tả của chúng.
 
-#### Đòn bổ nhào
+#### Tấn Công Lặn
 
-Một số sinh vật có thể lao từ trên trời xuống hoặc lao qua mặt nước để tấn công con mồi, ra đòn với lực kinh hoàng. Đây thực chất là hành động xung phong đối với những sinh vật không sống trên cạn. Đòn bổ nhào tăng cả Kích thước của đòn tấn công và Chỉ số Sát thương của sinh vật lên một bậc, chỉ áp dụng cho đòn tấn công này. Đòn bổ nhào chỉ có thể được sử dụng một lần mỗi vòng. Sinh vật phải ở ít nhất một vòng Di chuyển đầy đủ phía trên mục tiêu của nó (hoặc có thể ở dưới nếu bị chìm) để sử dụng đòn bổ nhào.
+Một số sinh vật có thể lao xuống từ bầu trời hoặc lao qua mặt nước để tấn công TC mồi, tấn công với lực vô cùng mạnh. Đây thực sự là hành động lao tới đối với các sinh vật không dựa trên mặt đất. Tấn Công Lặn làm tăng cả Kích Thước của đòn tấn công, và Hệ Số Sát Thương của sinh vật thêm một bậc, chỉ cho đòn tấn công này. Một đòn tấn công lặn chỉ có thể được sử dụng một lần mỗi vòng. Sinh vật phải ở trên mục tiêu ít nhất một vòng Di Chuyển đầy đủ (hoặc có thể ở bên dưới nếu ngâm mình trong nước) để sử dụng đòn tấn công lặn.
 
-#### Cảm nhận Đất
+#### Cảm Nhận Trái Đất
 
-Một số sinh vật hòa hợp với thế giới ngầm đến mức chúng có thể hoạt động hoàn hảo trong bóng tối hoàn toàn của lòng đất. Bằng cách cảm nhận rung động và áp suất không khí, một sinh vật có Khả năng Cảm nhận Đất có thể chiến đấu và thực hiện các lần kiểm tra Cảm nhận mà không bị phạt miễn là mục tiêu của chúng không cách xa quá INS của chúng tính bằng mét. Nếu sử dụng Khả năng Cảm nhận Đất trên mặt đất thì phạm vi bị giảm một nửa.
+Một số sinh vật rất hòa hợp với thế giới ngầm đến mức chúng có thể hoạt động hoàn hảo trong bóng tối hoàn toàn của vực sâu. Bằng cách cảm nhận rung động và áp suất không khí, một sinh vật có Cảm Nhận Trái Đất có thể chiến đấu, và thực hiện các cuộn Nhận Thức không có hình phạt miễn là mục tiêu của chúng không xa hơn khoảng cách bằng chỉ số NL của chúng tính bằng mét. Nếu sử dụng Cảm Nhận Trái Đất trên mặt đất, phạm vi này bị giảm một nửa.
 
-#### Định vị bằng Tiếng vang
+#### Định Vị Bằng Sóng Âm
 
-Sinh vật cảm nhận môi trường xung quanh thông qua sự phản xạ của sóng âm. Điều này có nghĩa là nó có thể nhận biết những người khác có thể bất động hoặc ẩn nấp. Trong những trường hợp như vậy, việc sử dụng kỹ năng Lén lút để cố gắng không bị sinh vật phát hiện sẽ khó hơn hai bậc.
+Sinh vật cảm nhận môi trường xung quanh thông qua phản xạ của sóng âm. Điều này có nghĩa là nó có thể nhận thức được những người khác có thể đang đứng yên hoặc ẩn nấp. Trong những trường hợp như vậy, việc sử dụng kỹ năng Ẩn Nấp để cố gắng không bị sinh vật phát hiện sẽ khó hơn hai cấp độ.#### Nuốt Chửng
 
-#### Nuốt chửng
-
-Sinh vật có một lỗ có thể nuốt chửng toàn bộ mục tiêu. Kích thước tối đa của một nạn nhân bị nuốt chửng được tính bằng một nửa SIZ của chính sinh vật nhưng có thể ít hơn tùy thuộc vào sinh lý của sinh vật. Khi bị nuốt chửng, nạn nhân phải chịu ít nhất một lần sát thương dựa trên đòn cắn của sinh vật trước khi bị nuốt – thời gian nhai phụ thuộc vào sinh vật và mức độ nhạy cảm của nội tạng nó. Nếu vẫn còn sống, nạn nhân bị nuốt sẽ bắt đầu ngạt thở, có khả năng chết vì ngạt trước khi chịu bất kỳ sát thương đáng kể nào từ axit dạ dày. Trên thực tế, nạn nhân bị nuốt chửng thiếu khả năng di chuyển bên trong đường tiêu hóa hoặc sinh vật quá lớn đến mức anh ta sẽ chết rất lâu trước khi có thể tự cắt đường thoát ra.
+Sinh vật này có một lỗ tự nhiên có thể nuốt chửng mục tiêu hoàn toàn. Kích thước tối đa của nạn nhân bị nuốt được tính bằng một nửa KT của chính sinh vật đó, nhưng có thể ít hơn tùy thuộc vào cấu tạo sinh lý của sinh vật. Khi bị nuốt chửng, nạn nhân phải chịu ít nhất một lần đổ xúc xắc Sát Thương dựa trên đòn tấn công bằng cú cắn của sinh vật trước khi bị nuốt vào trong – thời gian nhai phụ thuộc vào sinh vật đó và độ nhạy cảm của nội tạng nó. Nếu vẫn còn sống, nạn nhân bị nuốt sẽ bắt đầu ngạt thở, và nhiều khả năng sẽ chết do thiếu oxy trước khi phải chịu bất kỳ sát thương đáng kể nào từ axit dạ dày. Xét trên thực tế, nạn nhân bị nuốt chửng không có đủ khả năng di chuyển bên trong đường tiêu hóa hoặc sinh vật đó quá lớn đến mức nạn nhân sẽ chết từ lâu trước khi kịp tự cắt đường thoát ra ngoài.
 
 #### Bay
 
-Sinh vật tự động thành công trong việc di chuyển và điều khiển hàng ngày khi bay và không cần kiểm tra kỹ năng Bay trừ khi cố gắng thực hiện một nhiệm vụ đặc biệt khó khăn, chẳng hạn như bay ngược gió mạnh, né tránh một đòn tấn công từ xa trên không hoặc vượt qua một kẻ thù trên không. Một kẻ bay có thể thay thế kỹ năng Bay (cơ bản STR+DEX) cho Né tránh nếu chiến đấu trên không.
+Sinh vật này tự động thành công trong các hoạt động và di chuyển hàng ngày khi đang bay và không cần phải đổ xúc xắc kỹ năng Bơi Lội (Fly) trừ khi thực hiện một nhiệm vụ khó bất thường, chẳng hạn như bay ngược chiều gió mạnh, né tránh một đòn tấn công tầm xa trên không hoặc vượt mặt một kẻ thù trên không. Một sinh vật bay có thể thay thế kỹ năng Bay (cơ sở SM+KL) cho Né Tránh nếu chiến đấu khi đang ở trên không.
 
-#### Vũ khí Tự nhiên Đáng gờm
+#### Vũ Khí Tự Nhiên Ghê Gớm
 
-Sinh vật này có thể chủ động đỡ hoặc làm chệch hướng các đòn tấn công bằng vũ khí tự nhiên của nó. Điều này là do sự kết hợp giữa phong cách chiến đấu và sở hữu vũ khí tự nhiên được hình thành từ các chất bền bỉ như sừng, vỏ kitin hoặc xương có thể chống lại sát thương từ vũ khí chế tạo. Lưu ý rằng các sinh vật không có đặc điểm này hoặc dựa vào giáp tự nhiên của chúng để đỡ đòn hoặc sử dụng Né tránh.
+Sinh vật này có thể chủ động đỡ đòn hoặc làm chệch hướng các đòn tấn công bằng cách sử dụng vũ khí tự nhiên của nó. Điều này là nhờ sự kết hợp giữa phong cách chiến đấu và việc sở hữu vũ khí tự nhiên được hình thành từ các chất bền bỉ như sừng, chitin hoặc xương, có thể chịu được sát thương từ vũ khí nhân tạo. Lưu ý rằng các sinh vật thiếu đặc điểm này thường dựa vào Giáp tự nhiên của chúng để làm chệch hướng các đòn đánh hoặc sử dụng Né Tránh.
 
-#### Cuồng nộ
+#### Cuồng Loạn
 
-Khi bị thương hoặc tiếp xúc với một chất cụ thể – ví dụ như máu – sinh vật phải thành công trong một lần kiểm tra Ý chí hoặc rơi vào trạng thái cuồng nộ. Cơn cuồng nộ kéo dài số vòng bằng CON của sinh vật. Trong cơn cuồng nộ, chúng chỉ được sử dụng Hành động Chiến đấu để tấn công hoặc di chuyển về phía chiến đấu. Việc niệm phép, đỡ đòn, né tránh và bất cứ điều gì khác đều bị cấm; mọi suy nghĩ về sự tự bảo vệ đều tan biến trong một làn sương đỏ. Đổi lại, sinh vật không còn chịu đau đớn hay mệt mỏi, và miễn nhiễm với sự kiểm soát tinh thần. Trong thời gian này, nó miễn nhiễm với tất cả các hiệu ứng bất lợi của Vết thương Nghiêm trọng, mặc dù một Vết thương Lớn vẫn sẽ làm nó bất động. Nếu vẫn còn sống, một khi cơn cuồng nộ kết thúc, sinh vật tự động đạt cấp độ mệt mỏi là Kiệt sức.
+Khi bị thương hoặc tiếp xúc với một chất cụ thể – chẳng hạn như máu – sinh vật đó phải vượt qua lượt đổ xúc xắc Ý Chí hoặc rơi vào trạng thái cuồng loạn. Trạng thái cuồng loạn kéo dài trong số hiệp bằng với TC của sinh vật. Trong thời gian cuồng loạn, chúng chỉ được phép dùng Điểm Hành Động để tấn công hoặc di chuyển về phía trận chiến. Việc sử dụng phép thuật, đỡ đòn, né tránh và bất kỳ hành động nào khác đều bị cấm; mọi suy nghĩ về việc tự bảo vệ bản thân bị xóa sạch trong một màn sương đỏ. Đổi lại, sinh vật không còn cảm thấy đau đớn hay Mệt Mỏi, và không bị ảnh hưởng bởi sự kiểm soát tâm trí. Trong thời gian này, nó miễn nhiễm với tất cả các hiệu ứng bất lợi của Vết Thương Nghiêm Trọng, mặc dù một Vết Thương Chính vẫn sẽ khiến nó mất khả năng hành động. Nếu vẫn còn sống, khi trạng thái cuồng loạn kết thúc, sinh vật sẽ tự động nhận một cấp độ mệt mỏi là Kiệt Sức.
 
-#### Tấn công bằng Ánh mắt
+#### Đòn Tấn Công Bằng Ánh Nhìn
 
-Sinh vật có một đòn tấn công bằng ánh mắt. Đòn tấn công này có thể là chủ động (sinh vật phải cố ý dành một Điểm Hành động trong lượt của mình để sử dụng nó lên kẻ thù) hoặc bị động (bất cứ ai nhìn vào sinh vật đều bị ảnh hưởng), như được liệt kê trong mô tả của sinh vật.
+Sinh vật có một đòn tấn công bằng ánh nhìn. Đòn tấn công này có thể là chủ động (sinh vật phải cố ý dùng một Điểm Hành Động trong lượt của mình để sử dụng nó lên đối thủ) hoặc thụ động (bất kỳ ai nhìn vào sinh vật đều bị ảnh hưởng), như được liệt kê trong mô tả của sinh vật.
 
-#### Kẻ khóa
+#### Vật Thủ
 
-Nếu sinh vật tấn công thành công trong chiến đấu, nó có thể ngay lập tức tóm lấy đối thủ ngoài việc gây sát thương. Nếu đòn tấn công của sinh vật bị đỡ (hoặc bản thân sinh vật đang đỡ đòn), thì sinh vật được cấp hiệu ứng Khóa tay/chân đối với chi của đối thủ hoặc hiệu ứng Ghìm Vũ khí đối với vũ khí của hắn. Sinh vật luôn sử dụng kỹ năng Sức mạnh của nó để chống lại việc nạn nhân thoát ra.
+Nếu sinh vật tấn công trúng trong chiến đấu, nó có thể ngay lập tức tóm chặt đối thủ bên cạnh việc gây Sát Thương. Nếu đòn tấn công của sinh vật bị đỡ đòn (hoặc chính sinh vật đó đang đỡ đòn), thì sinh vật đó sẽ nhận được hiệu ứng Giữ (Grip) lên chi của đối thủ hoặc hiệu ứng Ghim Vũ Khí lên vũ khí của hắn. Sinh vật luôn sử dụng kỹ năng Cơ Bắp để ngăn chặn nạn nhân thoát ra.
 
-#### Nín thở
+#### Nín Thở
 
-Sinh vật có thể nín thở trong thời gian dài. Nếu được chuẩn bị và giữ tương đối tĩnh, sinh vật có thể nín thở trong số phút bằng CON của nó. Thời gian này bị giảm một nửa nếu sinh vật hoạt động, chẳng hạn như khi bơi hoặc chiến đấu.
+Sinh vật có thể nín thở trong thời gian dài. Nếu đã chuẩn bị và duy trì trạng thái khá tĩnh, sinh vật có thể nín thở trong số phút bằng với TC của nó. Khoảng thời gian này sẽ giảm một nửa nếu sinh vật đang hoạt động, chẳng hạn như khi đang bơi hoặc chiến đấu.
 
-#### Miễn nhiễm
+#### Miễn Nhiễm
 
-Sinh vật hoàn toàn miễn nhiễm với sát thương do một loại nguồn gây ra. Nguồn này (lạnh, lửa, sắt, v.v.) sẽ được ghi chú trong danh sách sinh vật, nhưng một mô tả tường thuật có thể cần thiết cho một số miễn nhiễm cụ thể hơn.
+Sinh vật hoàn toàn miễn nhiễm với Sát Thương gây ra từ một loại nguồn cụ thể. Nguồn này (lạnh, lửa, sắt, v.v.) sẽ được ghi chú trong danh sách của sinh vật, nhưng có thể cần một mô tả tường thuật cho một số trường hợp miễn nhiễm cụ thể hơn.
 
-#### Hăm dọa
+#### Đe Dọa
 
-Sinh vật có thể hăm dọa đối thủ như một màn dạo đầu cho trận chiến hoặc để tránh hoàn toàn: gầm gừ, nhe nanh, hạ sừng, v.v. Đối thủ phải thực hiện một lần kiểm tra Ý chí không đối kháng để giữ vững lập trường; thành công cho phép nhân vật giữ vững vị trí, trong khi thất bại cho thấy họ phải dành vòng tiếp theo để bản năng tạo khoảng cách giữa bản thân và sinh vật. Nếu anh ta thất bại thảm hại trong lần kiểm tra Ý chí, thì nhân vật sẽ bỏ chạy với tốc độ tối đa. Thành công chí mạng cho phép nhân vật bỏ qua mọi nỗ lực hăm dọa tiếp theo của sinh vật hoặc đồng loại của nó trong cuộc chạm trán đó. Hiệu ứng này tiếp tục chừng nào sinh vật còn hành động theo cách đe dọa, bao gồm cả việc nó tấn công.
+Sinh vật có thể đe dọa đối thủ như một khúc dạo đầu cho chiến đấu hoặc để tránh hoàn toàn chiến đấu: gầm gừ, nhe nanh, hạ thấp sừng, v.v. Đối thủ phải thực hiện một lượt đổ xúc xắc Ý Chí không bị đối kháng để giữ vững vị trí; thành công cho phép nhân vật trụ lại, trong khi thất bại cho thấy họ phải dành hiệp tiếp theo để theo bản năng tạo khoảng cách giữa mình và sinh vật đó. Nếu thất bại thảm hại lượt đổ xúc xắc Ý Chí, thì nhân vật sẽ bỏ chạy ở tốc độ tối đa. Một thành công chí mạng cho phép nhân vật bỏ qua mọi nỗ lực đe dọa tiếp theo của sinh vật đó hoặc đồng loại của nó trong cuộc chạm trán đó. Hiệu ứng kéo dài chừng nào sinh vật còn tiếp tục hành động theo cách đe dọa, bao gồm cả việc nó thực hiện một đòn tấn công.
 
-#### Kẻ nhảy
+#### Nhảy Vọt
 
-Sinh vật sử dụng các đòn tấn công Nhảy như được mô tả trong phần [Chiến đấu](0005_Combat.md?id=leaping-attacks) nhưng có thể kết hợp cú nhảy với một đòn tấn công vật lý như móng vuốt hoặc cắn. Nếu sinh vật nhảy chiến thắng trong lần kiểm tra tấn công nhảy đối kháng, nó tự động gây sát thương bằng một trong các vũ khí tự nhiên của nó lên mục tiêu. Sát thương này không thể bị đỡ trừ khi bằng Chặn Thụ động.
+Sinh vật sử dụng các đòn tấn công Nhảy Vọt như được mô tả trong phần [Chiến Đấu](0005_Combat.md?id=leaping-attacks) nhưng có thể kết hợp cú nhảy với một đòn tấn công vật lý như móng vuốt hoặc cú cắn. Nếu sinh vật nhảy vọt thắng lượt đổ xúc xắc tấn công nhảy vọt đối kháng, nó sẽ tự động gây Sát Thương cho một trong các loại vũ khí tự nhiên của nó lên mục tiêu. Sát Thương này không thể bị đỡ đòn trừ khi bằng cách Chặn Thụ Động (Passive Blocking).
 
-#### Cảm nhận Sự sống
+#### Cảm Nhận Sự Sống
 
-Hòa hợp với nhịp điệu của tự nhiên, sinh vật này có thể xác định sức sống của bất kỳ sinh vật sống nào chỉ bằng cách chạm. Nếu sinh vật thực hiện một lần kiểm tra Cảm nhận thành công, nó sẽ biết về các vết thương hiện tại, cấp độ Mệt mỏi của mục tiêu và liệu mục tiêu có đang bị ảnh hưởng bởi bất kỳ chất độc hoặc bệnh tật nào hay không. Sinh vật cũng nhận thức được bất kỳ dạng sống nào trong phạm vi số mét bằng kỹ năng Ý chí của nó, điều này có thể khiến việc Lén lút trở nên khó khăn.
+Hòa hợp với nhịp điệu của tự nhiên, sinh vật này có thể xác định sức sống của bất kỳ sinh vật sống nào chỉ bằng cách chạm. Nếu sinh vật thực hiện thành công lượt đổ xúc xắc Nhận Thức, nó sẽ biết được các chấn thương hiện tại, cấp độ Mệt Mỏi của mục tiêu và liệu mục tiêu đó có đang bị nhiễm độc hay mắc bệnh hay không. Sinh vật cũng nhận biết được bất kỳ dạng sống nào trong phạm vi mét bằng với kỹ năng Ý Chí của nó, điều này có thể khiến việc Ẩn Nấp trở nên khó khăn.
 
-#### Cảm nhận Phép thuật
+#### Cảm Nhận Phép Thuật
 
-Tương tự như Cảm nhận Sự sống nhưng cho phép sinh vật phát hiện sự phát ra phép thuật trong cùng khoảng cách. Nếu sinh vật chạm vào người khác và thực hiện một lần kiểm tra Cảm nhận thành công, nó sẽ biết về điểm phép thuật hiện tại của mục tiêu, các bùa chú mang theo và các phép thuật đang hoạt động.
+Tương tự như Cảm Nhận Sự Sống nhưng cho phép sinh vật phát hiện các luồng phép thuật trong cùng khoảng cách. Nếu sinh vật chạm vào người khác và thực hiện thành công lượt đổ xúc xắc Nhận Thức, nó sẽ biết được Điểm Phép Thuật hiện tại, các bùa chú đang mang trên người và các phép thuật đang hoạt động của mục tiêu.
 
-#### Đa đầu
+#### Nhiều Đầu
 
-Sinh vật nhận thêm một Hành động Chiến đấu cho mỗi cái đầu phụ sở hữu ngoài cái đầu tiên. Những hành động này sẽ mất đi khi mỗi cái đầu riêng lẻ bị bất động hoặc bị chặt đứt. Miễn là một cái đầu vẫn hoạt động, sinh vật vẫn có thể kiểm soát cơ thể chung của nó. Khi một sinh vật đa đầu chống lại các phép thuật ảnh hưởng đến cảm xúc hoặc trí tuệ, nó sẽ thực hiện các lần cứu riêng cho mỗi cái đầu còn nguyên vẹn.
+Sinh vật nhận thêm một Điểm Hành Động cho mỗi cái đầu bổ sung so với cái đầu tiên. Những điểm này sẽ mất đi khi mỗi cái đầu riêng lẻ bị mất khả năng hành động hoặc bị chặt đứt. Với điều kiện còn một cái đầu hoạt động, sinh vật vẫn có thể điều khiển cơ thể chung của mình. Khi một sinh vật nhiều đầu chống lại các phép thuật ảnh hưởng đến cảm xúc hoặc trí tuệ, nó sẽ đổ xúc xắc cứu nguy riêng lẻ cho từng cái đầu còn nguyên vẹn.
 
-#### Đa chi
+#### Nhiều Chi
 
-Tương tự như Đa đầu, sinh vật nhận thêm một Hành động Chiến đấu cho mỗi cặp chi phụ (ngoài cặp đầu tiên) mà nó có thể sử dụng trong chiến đấu – những chi thường được dùng để giữ hoặc di chuyển sinh vật không được tính. Những Hành động Chiến đấu phụ này chỉ có thể được sử dụng để thực hiện các hành động bằng các chi cụ thể đó và sẽ mất đi khi mỗi cặp chi bị bất động hoặc bị vô hiệu hóa.
+Tương tự như Nhiều Đầu, sinh vật nhận thêm một Điểm Hành Động cho mỗi cặp chi bổ sung (ngoài cặp đầu tiên) mà nó có thể sử dụng trong chiến đấu – những chi thường dùng để nâng đỡ hoặc di chuyển sinh vật thì không được tính. Những Điểm Hành Động bổ sung này chỉ có thể được sử dụng để thực hiện các hành động với các chi cụ thể đó và sẽ mất đi khi mỗi cặp chi bị bất động hoặc mất khả năng hành động.
 
-#### Tầm nhìn Ban đêm
+#### Nhìn Trong Đêm
 
-Cho phép sinh vật coi bóng tối một phần như được chiếu sáng và bóng tối hoàn toàn như bóng tối một phần.
+Cho phép sinh vật coi bóng tối một phần là được chiếu sáng và bóng tối hoàn toàn là bóng tối một phần.
 
-#### Miễn nhiễm Chất độc
+#### Miễn Nhiễm Chất Độc
 
-Sinh vật miễn nhiễm với mọi chất độc. Tất cả các sinh vật không có SIZ tự động có đặc điểm này, mặc dù nó không được liệt kê cụ thể trong mô tả của chúng.
+Sinh vật miễn nhiễm với tất cả các loại chất độc. Tất cả các sinh vật không có KT tự động có đặc điểm này, mặc dù nó không được liệt kê cụ thể trong mô tả của chúng.
 
-#### Tái tạo
+#### Hồi Phục
 
-Sinh vật có thể tái tạo Điểm Máu bị mất do sát thương. Tốc độ tái tạo khác nhau tùy thuộc vào sinh vật. Trừ khi được ghi chú cụ thể, tái tạo không thay thế các chi đã mất, và việc chặt đứt một vị trí quan trọng (đầu, ngực hoặc bụng) vẫn sẽ dẫn đến cái chết.
+Sinh vật có thể hồi phục Điểm Máu đã mất do Sát Thương. Tốc độ hồi phục thay đổi tùy thuộc vào sinh vật. Trừ khi có lưu ý cụ thể, khả năng hồi phục không thay thế các chi đã mất, và việc cắt đứt một vị trí quan trọng (Đầu, Ngực hoặc Bụng) vẫn sẽ dẫn đến cái chết.
 
-#### Kẻ bơi lội
+#### Người Bơi Lội
 
-Sinh vật tự động thành công trong việc di chuyển và điều khiển hàng ngày khi bơi lội và không cần kiểm tra kỹ năng Bơi lội trừ khi cố gắng thực hiện một nhiệm vụ đặc biệt khó khăn, chẳng hạn như bơi ngược dòng chảy mạnh hoặc nhảy lên thác nước. Một kẻ bơi lội có thể thay thế kỹ năng Bơi lội cho các lần kiểm tra Điền kinh và Né tránh khi ở dưới nước.
+Sinh vật tự động thành công trong các hoạt động và di chuyển hàng ngày khi đang bơi và không cần phải đổ xúc xắc kỹ năng Bơi Lội trừ khi thực hiện một nhiệm vụ khó bất thường, chẳng hạn như bơi ngược dòng nước mạnh hoặc nhảy ngược lên thác nước. Một người bơi lội có thể thay thế kỹ năng Bơi Lội cho các lượt đổ xúc xắc Điền Kinh và Né Tránh khi ở dưới nước.
 
-#### Đáng sợ
+#### Đáng Sợ
 
-Hình dáng, hình dạng hoặc hào quang của sinh vật đáng sợ đến mức buộc người xem phải thực hiện một lần kiểm tra Ý chí không đối kháng. Thành công cho thấy người xem bị choáng váng trong một vòng và không thể hành động tấn công. Thất bại khiến họ bỏ chạy trong kinh hoàng. Thất bại thảm hại khiến người xem ngất xỉu vì sốc. Chỉ một thành công chí mạng mới cho phép người xem hành động không bị cản trở. Người xem không cần thực hiện bất kỳ kiểm tra nào nữa trong phần còn lại của trận chiến, ngay cả khi có nhiều sinh vật cùng loại xuất hiện. Việc tiếp xúc lặp đi lặp lại với một loại quái vật Đáng sợ cụ thể cuối cùng có thể cho phép lần kiểm tra kỹ năng trở nên dễ dàng hơn một hoặc nhiều bậc.
+Ngoại hình, hình dáng hoặc hào quang của sinh vật đáng sợ đến mức buộc người nhìn phải thực hiện một lượt đổ xúc xắc Ý Chí không bị đối kháng. Thành công cho thấy người nhìn bị rung động trong một hiệp và không thể hành động tấn công. Thất bại khiến họ bỏ chạy trong kinh hoàng. Thất bại thảm hại khiến người nhìn ngất xỉu do sốc. Chỉ thành công chí mạng mới cho phép người nhìn hành động mà không bị cản trở. Người nhìn không cần thực hiện thêm bất kỳ lượt kiểm tra nào trong phần còn lại của trận chiến, ngay cả khi có thêm các sinh vật cùng loại xuất hiện. Việc tiếp xúc lặp đi lặp lại với một loại quái vật Đáng Sợ cụ thể có thể cho phép lượt kiểm tra kỹ năng trở nên dễ hơn một hoặc nhiều cấp độ theo thời gian.
 
-#### Giẫm đạp
+#### Giẫm Đạp
 
-Sinh vật có khả năng giẫm đạp lên các sinh vật có SIZ bằng một nửa hoặc ít hơn SIZ của nó, sử dụng kỹ năng Điền kinh để tấn công. Điều này gây sát thương bằng hai lần Chỉ số Sát thương cơ bản của sinh vật và tăng Kích thước của đòn tấn công lên một bậc. Cách thức và thời điểm sử dụng giẫm đạp phụ thuộc vào hoàn cảnh. Nếu đang tham gia chiến đấu, sinh vật có thể giẫm đạp lên một đối thủ nằm sấp trong lượt của nó, nhưng điều này tốn một Điểm Hành động. Nếu hành động giẫm đạp được thực hiện trong khi sinh vật đang di chuyển hoặc lao tới đối thủ, thì hành động giẫm đạp là một Hành động Tự do.
+Sinh vật có khả năng giẫm đạp các thực thể có KT bằng một nửa hoặc nhỏ hơn KT của chính nó, sử dụng kỹ năng Điền Kinh để tấn công. Điều này gây Sát Thương bằng gấp đôi Hệ Số Sát Thương cơ bản của sinh vật và tăng Kích Thước của đòn tấn công thêm một bậc. Cách thức và thời điểm sử dụng giẫm đạp phụ thuộc vào hoàn cảnh. Nếu đang tham gia chiến đấu, sinh vật có thể giẫm đạp một đối thủ đang nằm sấp trong lượt của nó, nhưng hành động này tiêu tốn một Điểm Hành Động. Nếu cú giẫm đạp được thực hiện trong khi sinh vật đang di chuyển hoặc lao tới đè lên đối thủ, thì cú giẫm đạp là một Hành Động Miễn Phí.
 
-#### Xác sống
+#### Bất Tử
 
-Vì đã chết, sinh vật miễn nhiễm với hậu quả của cả mệt mỏi và chấn thương nghiêm trọng. Do đó, Xác sống miễn nhiễm với tất cả các hiệu ứng bất lợi của Vết thương Nghiêm trọng. Ngay cả Vết thương Lớn cũng không làm chúng bất động, mặc dù chúng vẫn có thể bị chặt đứt hoặc vỡ nát các vị trí như bình thường. Coi vị trí đầu hoặc ngực của sinh vật xác sống là khu vực mà linh hồn hoặc phép thuật đã bị ràng buộc. Bất kỳ vị trí nào (và những vị trí liền kề với nó) bị đập nát hoặc chặt đứt khỏi khu vực ràng buộc sẽ ngừng hoạt động, nhưng phần còn lại của cơ thể có thể tiếp tục nếu nó vẫn còn các chi để hành động. Một Vết thương Lớn vào vị trí được truyền phép thuật sẽ tiêu diệt xác sống ngay lập tức. Chỉ những sinh vật chết hoàn toàn có thể chất mới có thể sở hữu đặc điểm Xác sống.
+Vì đã chết từ trước, sinh vật này miễn nhiễm với hậu quả của cả Mệt Mỏi và các chấn thương nghiêm trọng. Do đó, sinh vật Bất Tử miễn nhiễm với tất cả các hiệu ứng bất lợi của Vết Thương Nghiêm Trọng. Ngay cả Vết Thương Chính cũng không làm chúng mất khả năng hành động, mặc dù các vị trí trên cơ thể chúng vẫn có thể bị cắt rời hoặc đập nát như bình thường. Hãy coi vị trí Đầu hoặc Ngực của sinh vật bất tử là nơi linh hồn hoặc phép thuật bị ràng buộc. Bất kỳ vị trí nào (và các vị trí liền kề với nó) bị đập nát hoặc cắt rời khỏi khu vực bị ràng buộc sẽ ngừng hoạt động, nhưng phần còn lại của cơ thể vẫn có thể tiếp tục nếu nó vẫn còn các chi để hành động. Một Vết Thương Chính vào vị trí bị yểm phép sẽ tiêu diệt hoàn toàn sinh vật bất tử đó. Chỉ những sinh vật chết có thể xác hoàn toàn mới có thể sở hữu đặc điểm Bất Tử.
 
-#### Hút máu
+#### Ma Cà Rồng
 
-Sinh vật hút máu nạn nhân, gây tăng cấp độ Mệt mỏi. Sinh vật phải sử dụng đòn cắn, và gây sát thương bằng đòn cắn để có thể hút máu với tốc độ được mô tả trong mô tả của sinh vật.
+Sinh vật hút máu nạn nhân của nó, gây ra sự gia tăng các cấp độ Mệt Mỏi. Sinh vật phải sử dụng đòn tấn công bằng cú cắn, và gây Sát Thương bằng cú cắn để có thể hút máu với tốc độ được mô tả trong mô tả của sinh vật đó.
 
-#### Có nọc độc
+#### Có Nọc Độc
 
-Sinh vật có vết cắn, vết chích hoặc phương tiện tấn công khác có nọc độc.
+Sinh vật có cú cắn, vết đốt chứa nọc độc hoặc các phương thức tấn công khác.
 
-#### Vỗ cánh
+#### Vỗ Cánh
 
-Sinh vật quá lớn đến mức nó có thể gây sát thương cho đối thủ bằng cách vỗ cánh. Điều này yêu cầu một hành động Tấn công và gây sát thương bằng phần thưởng sát thương của nó cho những người trong vòng 3 mét phía trước hoặc hai bên của sinh vật.
+Sinh vật này quá lớn đến mức nó có thể gây Sát Thương cho đối thủ bằng cách vỗ đôi cánh của mình. Hành động này yêu cầu một hành động Tấn công và gây Sát Thương bằng với Hệ Số Sát Thương của nó cho những đối thủ trong phạm vi 3 mét phía trước hoặc bên cạnh sinh vật.
