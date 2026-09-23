@@ -23,7 +23,7 @@ Setiap orang ditentukan oleh tujuh Karakteristik yang memberi tahu Anda sesuatu 
 - Ukuran (SIZ)
 - Ketangkasan (DEX)
 - Kecerdasan (INT)
-- Tekad (POW)
+- Daya (POW)
 - Kharisma (CHA)
 
 Sebelum menghitung Karakteristik, bagian berikut menjelaskan apa yang diwakili oleh masing-masing Karakteristik.
@@ -48,7 +48,7 @@ Kelincahan, keseimbangan, dan refleks diukur dengan DEX. Ini adalah aspek pentin
 
 INT adalah ukuran kemampuan kognitif. Mereka dengan skor INT yang lebih rendah tidak selalu bodoh, tetapi mereka cenderung dibatasi dalam seberapa kreatif mereka dapat menggunakan kecerdasan mereka. INT adalah faktor dalam menghitung Poin Aksi dan Inisiatif. Jika INT dikurangi menjadi nol, karakter menjadi benar-benar tanpa pikiran.
 
-#### Tekad (POW)
+#### Daya (POW)
 
 POW adalah ukuran jiwa, semangat, dorongan batin, atau kapasitas untuk sihir karakter. POW mengatur Poin Sihir dan Poin Hoki karakter. Jika POW karakter pernah turun menjadi nol, mereka kehilangan semua kehendak bebas.
 
