@@ -396,3 +396,5 @@ It can be very useful for both Games Masters and Players to have a common frame 
 | \>110% | 1d20+110 | Exemplar | Heroic | Renowned far and wide for their consummate skill |
 
 <!-- retranslate-trigger -->
+
+<!-- retranslate-trigger-2 -->
