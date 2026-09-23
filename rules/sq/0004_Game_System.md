@@ -1,358 +1,359 @@
 # Sistemi i Lojës
 
-Shumë gjëra të ndryshme mund të ndodhin gjatë një loje _Mythras Imperative_. Disa zgjidhen përmes përdorimit të aftësive ose njërit prej mekanizmave kryesorë të lojës si lufta apo magjia; të tjerat kërkojnë rregullat e tyre për gjykim. Ky kapitull ofron rregulla dhe udhëzime për një shumëllojshmëri skenarësh të ndryshëm që lojtarët do të ndeshin gjatë lojës.
+Në një lojë _Mythras Imperative_ mund të ndodhin shumë gjëra të ndryshme. Disa zgjidhen përmes përdorimit të aftësive ose një prej mekanikave kryesore të lojës si lufta ose magjia; të tjera kërkojnë rregullat e tyre për gjykim. Ky kapitull ofron rregulla dhe udhëzime për një sërë skenarësh të ndryshëm me të cilët lojtarët do të përballen gjatë lojës.
 
-Lista nuk është shteruese, por duhet të përfaqësojë situatat më të zakonshme. Nëse Masterat e Lojërave zbulojnë se ka situata të tjera që kërkojnë një formë gjykimi të sistemit të lojës, dhe se këto situata duket se ndodhin shpesh, atëherë ata inkurajohen të zhvillojnë rregullat e tyre për të mbuluar këto rrethana të veçanta, duke përdorur ato të dhëna në këtë kapitull si bazë për riprodhim ose zhvillim.
-
----
-## Asfiksimi
-
-Personazhet mund të mbajnë frymën për një numër sekondash të barabartë me aftësinë e tyre të Qëndrueshmërisë. Megjithatë, personazhi duhet të jetë i përgatitur (duke mbushur mushkëritë me sa më shumë ajër të jetë e mundur); nëse jo, atëherë periudha përgjysmohet nëse personazhi ishte në një situatë pasive, ose reduktohet në një të pestën nëse personazhi ishte i angazhuar në aktivitet të rëndë.
-
-Pasi të përfundojë periudha e frymëmarrjes së mbajtur, personazhet duhet të bëjnë një test Qëndrueshmërie:
-
-- Nëse testi është një Sukses Kritik, nuk ndodh asnjë përkeqësim i mëtejshëm.
-- Nëse testi është i Suksesshëm, personazhi merr një nivel shtesë Lodhjeje.
-- Nëse testi Dështon, personazhi pëson 1d2 nivele shtesë Lodhjeje atë Rund.
-- Nëse testi Fumble, personazhi pëson 1d3 nivele shtesë Lodhjeje atë Rund.
-
-Pa ndihmë, vdekja nga Asfiksimi është zakonisht e shpejtë. Nëse Asfiksimi përfundon para se personazhi të vdesë, ata shërohen nga nivelet e Lodhjes të humbura nga mbytja relativisht shpejt, duke rifituar një nivel për minutë.
-
-Në varësi të metodës së Asfiksimit, Masteri i Lojërave mund të dëshirojë të parandalojë rikuperimin e plotë, duke vendosur një nivel të qëndrueshëm Lodhjeje (referojuni seksionit [Lodhja](0004_Game_System.md?id=fatigue)) për të përfaqësuar dëmtimin e mushkërive të shkaktuar nga thithja e tymit ose ujit.
+Lista nuk është shteruese, por duhet të përfaqësojë situatat më të zakonshme. Nëse Udhëheqësit e Lojës zbulojnë se ka situata të tjera që kërkojnë ndonjë formë gjykimi nga sistemi i lojës, dhe se këto situata duket se ndodhin shpesh, atëherë ata inkurajohen të zhvillojnë rregullat e tyre për të mbuluar këto rrethana të veçanta, duke përdorur ato të dhëna në këtë kapitull si bazë për përsëritje ose zhvillim.
 
 ---
-## Përmirësimi i Personazhit
+## Asfiksia
 
-Çdo personazh i _Mythras Imperative_ mund të përmirësohet me kohën dhe përvojën. Përmirësimi mund të bëhet në disa fusha:
+Karakteret mund ta mbajnë frymën për një numër sekondash të barabartë me aftësinë e tyre Qëndrueshmëri (Endurance). Megjithatë, karakteri duhet të jetë i përgatitur (duke mbushur mushkëritë me sa më shumë ajër të jetë e mundur); nëse jo, atëherë periudha përgjysmohet nëse karakteri ishte në një situatë pasive, ose reduktohet në një të pestën nëse karakteri ishte i angazhuar në aktivitet të sforcuar.
+
+Pasi të përfundojë periudha e mbajtjes së frymës, karakteret duhet të bëjnë një hedhje për Qëndrueshmëri:
+
+- Nëse hedhja është një Suksess Kritik, nuk ndodh asnjë përkeqësim i mëtejshëm.
+- Nëse hedhja është e Suksesshme, karakteri fiton një nivel shtesë Lodhjeje.
+- Nëse hedhja dështon, karakteri pëson 1d2 nivele shtesë Lodhjeje atë Raund.
+- Nëse hedhja është një Dështim (Fumble), karakteri pëson 1d3 nivele shtesë Lodhjeje atë Raund.
+
+Pa ndihmë, vdekja nga Asfiksia është zakonisht e shpejtë. Nëse Asfiksia përfundon përpara se karakteri të vdesë, ata rikuperojnë nivelet e Lodhjes të humbura nga mbytja relativisht shpejt, duke rifituar një nivel për minutë.
+
+Në varësi të metodës së Asfiksisë, Udhëheqësi i Lojës mund të dëshirojë të parandalojë rikuperimin e plotë, duke imponuar një nivel të qëndrueshëm Lodhjeje (referojuni seksionit mbi [Lodhjen](0004_Game_System.md?id=fatigue)) për të përfaqësuar dëmtimin e mushkërive të shkaktuar nga thithja e tymit ose ujit.
+
+---
+## Përmirësimi i Karakterit
+
+Çdo karakter i _Mythras Imperative_ mund të përmirësohet me kohën dhe përvojën. Përmirësimi mund të ndërmerret në disa fusha:
 
 - Rritja e aftësive ekzistuese
-- Rritja e Pasionet
+- Rritja e Pasioneve
 - Mësimi i aftësive të reja
-- Mësimi i Aftësive të reja
+- Mësimi i Aftësive të reja (Abilities)
 
-#### Testet e Përvojës
+#### Hedhjet e Përvojës
 
-Mekanizmi për shumicën e përmirësimeve të personazheve është Testi i Përvojës. Masterat e Lojërave shpërndajnë Teste Përvoje në një moment të përshtatshëm në fushatë: në fund të çdo skenari ose historie të suksesshme; ose pas ndoshta dy ose tre sesioneve të lojës nëse historia është e gjatë dhe do të kërkojë kohë për t'u përfunduar. Frekuenca është në diskrecionin e Masterit të Lojërave. Një frekuencë e lartë e Testeve të Përvojës do të çojë në zhvillimin e personazheve me një ritëm më të shpejtë.
+Mekanizmi për shumicën e përmirësimeve të karakterit është Hedhja e Përvojës. Udhëheqësit e Lojës shpërndajnë Hedhje Përvoje në një moment të përshtatshëm të fushatës: në fund të çdo skenari ose historie të suksesshme; ose ndoshta pas dy ose tre seancave të lojës nëse historia është e gjatë dhe do të marrë kohë për t'u përfunduar. Frekuenca është në diskrecionin e Udhëheqësit të Lojës. Një frekuencë e lartë e Hedhjeve të Përvojës do të çojë në zhvillimin e karaktereve me një shkallë më të shpejtë.
 
-Nuk ka kohë të drejtë ose të gabuar për të dhënë Teste Përvoje, por ndërprerjet natyrale në histori mund të sugjerojnë kohë të përshtatshme. Masteri i Lojërave është, megjithatë, gjithmonë vendimmarrësi këtu. Ndërsa lojtarët nuk mund të kërkojnë Teste Përvoje, ata kanë të drejtë t'i presin ato në pika të caktuara - pasi personazhet e tyre nuk do të jenë në gjendje të zhvillohen pa to.
+Nuk ka kohë të duhur ose të gabuar për të dhënë Hedhje Përvoje, por pushimet natyrore në histori mund të sugjerojnë kohë të përshtatshme. Udhëheqësi i Lojës është, megjithatë, gjithmonë vendimmarrësi këtu. Ndërsa lojtarët nuk mund të kërkojnë Hedhje Përvoje, ata kanë të drejtë t'i presin ato në pika të caktuara – pasi karakteret e tyre nuk do të jenë në gjendje të zhvillohen pa to.
 
-Numri i Testeve të Përvojës të dhëna përcaktohet gjithashtu nga Masteri i Lojërave. Megjithatë, një rregull i mirë është 1-3 Teste Përvoje për sesion që nga hera e fundit që u dhanë.
+Numri i Hedhjeve të Përvojës të dhëna përcaktohet gjithashtu nga Udhëheqësi i Lojës. Megjithatë, një rregull i mirë i përgjithshëm është 1-3 Hedhje Përvoje për seancë që nga hera e fundit që ato u dhanë.
 
 #### Rritja e Aftësive Ekzistuese
 
-Çdo aftësi në Fletën e Personazhit, Standarde ose Profesionale, mund të rritet duke shpenzuar një Test Përvoje. Lojtarët mund të zgjedhin të mos shpenzojnë Teste Përvoje për rritjen e aftësive, por të grumbullojnë një sasi për t'u përdorur në rritjen e gjërave të tjera - si aftësitë e Klasës (shih më poshtë).
+Çdo aftësi në Fletën e Karakterit, Standarde ose Profesionale, mund të rritet duke shpenzuar një Hedhje Përvoje. Lojtarët mund të zgjedhin të mos shpenzojnë Hedhje Përvoje për rritjen e aftësive, duke ndërtuar në vend të kësaj një stok për t'u përdorur në rritjen e gjërave të tjera – siç janë aftësitë e Klasës (shih më poshtë).
 
-Lojtari hedh 1d100 dhe e krahason me aftësinë që po rritet. INT e personazhit i shtohet hedhjes.
+Lojtari hedh 1d100 dhe e krahason atë me aftësinë që po rritet. ZGJ-ja (ZGJ) e karakterit i shtohet hedhjes.
 
 - Nëse numri i hedhur është i barabartë ose më i madh se aftësia që po përmirësohet, ajo rritet me 1d4+1%.
-- Nëse numri i hedhur është më i vogël se aftësia e zgjedhur, aftësia sërish rritet, por vetëm me 1%.
-- Nëse një personazh Fumble ndonjë aftësi gjatë sesionit(eve) paraardhës - dmth., midis setit të fundit të Testeve të Përvojës dhe atij aktual - aftësia e Fumbled fiton një rritje falas prej 1%. Mësojmë më shumë nga gabimet tona sesa nga sukseset tona dhe kjo përfaqëson reflektimin që i nënshtrohet një personazh pas një dështimi katastrofik. Fumblet e shumta të së njëjtës aftësi nuk grumbullohen. Në rastin kur aftësia e Fumbled po rritet gjithashtu me një Test Përvoje, 1% nga Fumble aplikohet para se të bëhet testi për ta përmirësuar atë.
+- Nëse numri i hedhur është më i vogël se aftësia e zgjedhur, aftësia ende rritet, por vetëm me 1%.
+- Nëse një karakter ka dështuar (Fumbled) ndonjë aftësi gjatë seancës(ve) së mëparshme – d.m.th., midis grupit të fundit të Hedhjeve të Përvojës dhe këtij të tashmit – aftësia e dështuar fiton një rritje falas prej 1%. Ne mësojmë më shumë nga gabimet tona sesa nga sukseset tona dhe kjo përfaqëson reflektimin që një karakter përjeton pas një dështimi katastrofik. Dështimet e shumta të së njëjtës aftësi nuk grumbullohen. Në rastin kur aftësia e dështuar po rritet gjithashtu me një Hedhje Përvoje, 1% nga Dështimi aplikohet përpara se të bëhet hedhja për ta përmirësuar atë.
 
-E njëjta aftësi nuk mund të përfitojë nga më shumë se një Test Përvoje për sesion.
+E njëjta aftësi nuk mund të përfitojë nga më shumë se një Hedhje Përvoje për seancë.
 
-#### Rritja e Pasionet
+#### Rritja e Pasioneve
 
-Siç përshkruhet nën Pasione në seksionin [Pasione](0002_Characters.md?id=step-8-passions), vlera e një Pasioni mund të rritet me Teste Përvoje në të njëjtën mënyrë si një aftësi. Nëse mbështetet nga loja, Masteri i Lojërave mund të lejojë edhe uljen e një Pasioni duke përdorur një Test Përvoje.
+Siç përshkruhet te Pasionet në seksionin [Pasionet](0002_Characters.md?id=step-8-passions), vlera e një Pasioni mund të rritet me Hedhje Përvoje në të njëjtën mënyrë si një aftësi. Nëse mbështetet nga loja, Udhëheqësi i Lojës mund të lejojë madje që një Pasion të zvogëlohet duke përdorur një Hedhje Përvoje.
 
-_Për shembull, refuzimi i vazhdueshëm nga një dashuri e pakthyer mund të gërryejë përfundimisht Pasionin e edhe dashnorit më të zjarrtë, sidomos atij që dëshiron të ndjekë një marrëdhënie pa fantazmat e së shkuarës që e ndjekin._
+_Për shembull, refuzimi i vazhdueshëm nga një dashuri e parethyer mund të rraskapitë përfundimisht Pasionin edhe të dashnorit më të zjarrtë, veçanërisht atij që dëshiron të ndjekë një marrëdhënie pa fantazmat e së kaluarës që i ndjekin._
 
 #### Mësimi i Aftësive të Reja
 
-Disa personazhe mund të dëshirojnë të studiojnë Aftësi Profesionale të reja të cilat nuk patën kurrë mundësinë t'i mësonin nga kultura e tyre. Para se të fillojnë të investojnë Teste Përvoje, ata duhet të gjejnë së pari një burim njohurish nga i cili të mësojnë. Ky mund të jetë aq prozaik sa një tutor profesional si ata të ofruar nga urdhëra ose gilde. Ndryshe mund të jetë një burim më ekzotik edukimi si një pergamenë e lashtë dhe e shkatërruar trajnimi.
+Disa karaktere mund të dëshirojnë të studiojnë Aftësi të reja Profesionale të cilat nuk patën kurrë mundësi t'i mësonin nga kultura e tyre. Përpara se të fillojnë të investojnë Hedhje Përvoje, ata së pari duhet të gjejnë një burim njohurie nga i cili mund të mësojnë. Kjo mund të jetë aq prozaike sa një tutor profesional si ata të ofruar nga urdhrat ose guildat. Përndryshe, mund të jetë një burim arsimimi më ekzotik si një pergamenë stërvitjeje e lashtë dhe e shkatërruar.
 
-Pasi të gjendet një burim edukimi, personazhi duhet të shpenzojë një muaj të tërë studimi dhe praktike për të fituar një bazë themelore në atë aftësi (të mësojë në Nivelin Bazë). Kjo kushton 3 Teste Përvoje plus çdo kosto në lojë që kërkohet për të paguar mësuesin (nëse ekziston) dhe për të blerë (ose marrë me qira) çdo pajisje dhe vegla që mund të jenë të nevojshme.
+Pasi të gjendet një burim arsimimi, karakteri duhet të shpenzojë një muaj të tërë studimi dhe praktike për të grumbulluar një bazë themelore në atë aftësi (të mësojë në Nivelin Bazë). Kjo kushton 3 Hedhje Përvoje plus çfarëdo kostoje në lojë që kërkohet për t'i paguar mësuesit (nëse ekziston një i tillë) dhe për të blerë (ose marrë me qira) çfarëdo pajisje dhe mjeti që mund të nevojitet.
 
 ---
-## Sëmundjet dhe Helmet
+## Sëmundja dhe Helmi
 
-Disa nga gjërat më të frikshme që mund të ndikojnë personazhet janë sëmundjet dhe helmet e panumërta që infektojnë vendet e errëta dhe të rënda të botës. Nuk ka asgjë më shqetësuese se një plagë që godet qytetin e shtëpisë së personazhit, sidomos kur ata janë ende brenda mureve të tij. Po ashtu, gjetja e një gjarpri helmues në shtrat ose sulmi nga akrepa gjigantë mund të jenë momente drame të lartë.
+Disa nga gjërat më të frikshme që mund të prekin karakteret janë moria e sëmundjeve dhe helmeve që infektojnë vendet e errëta dhe të zymta të botës. Nuk ka asgjë më shqetësuese sesa një murtajë që godet qytetin e shtëpisë së karakterit, veçanërisht kur ata janë ende brenda portave të tij. Po kështu, gjetja e një gjarpri helmues në shtrat ose sulmi nga akrepat gjigantë mund të jenë momente të dramës së lartë.
 
 Sëmundjet dhe helmet janë pothuajse të pafundme në varietetet e tyre, por, për qëllime loje, trajtohen në të njëjtën mënyrë.
 
-#### Tiparet e Sëmundjeve dhe Helmeve
+#### Tiparet e Sëmundjes dhe Helmit
 
 Të gjitha sëmundjet dhe helmet shfaqin një numër tiparesh të rëndësishme për efektet e tyre.
 
-**Aplikimi:** Metoda se si sëmundja ose helmi futet në viktimë.
+**Aplikimi:** Metoda se si sëmundja ose helmi futet te viktima.
 
-- **Gëlltitje:** Efektet ndodhin përmes të ngrënit ose të pirët.
-- **Inhalim:** Efektet ndodhin përmes frymëmarrjes ose thithjes me hundë.
-- **Kontakt:** Efektet ndodhin përmes përthithjes nëpërmjet lëkurës.
+- **Gëlltitje:** Efektet ndodhin përmes ngrënies ose pirjes.
+- **Thithje (Inhalim):** Efektet ndodhin përmes frymëmarrjes ose thithjes nga hundët.
+- **Kontakt:** Efektet ndodhin përmes përthithjes nga lëkura.
 - **Injektim:** Efektet ndodhin kur substanca injektohet në trup përmes shpimit.
 
-**Fuqia:** Virulenca e sëmundjes ose helmit. Kjo vlerë vendoset kundër një aftësie të përshtatshme rezistuese (zakonisht Qëndrueshmëria ose Forca e Vullnetit) në një Test të Kundërt. Nëse personazhi fiton testin, ai i shmang efektet. Nëse ai humbet testin, atëherë ai vuan të gjitha Kushtet e sëmundjes ose helmit, secilën në kohën e duhur.
+**Potenca:** Virulenca e sëmundjes ose helmit. Kjo vlerë vendoset kundër një aftësie rezistuese të përshtatshme (zakonisht Qëndrueshmëri ose Vullnet) në një Hedhje të Kundërt. Nëse karakteri fiton hedhjen, ata i largojnë efektet e tij. Nëse humbasin hedhjen, atëherë ata vuajnë të gjitha Kushtet e sëmundjes ose helmit, secila në kohën e duhur.
 
-**Rezistenca:** Si rezistohet sëmundja ose helmi – zakonisht ose Qëndrueshmëria ose Forca e Vullnetit, por mund të ketë kërkesa më ekzotike rezistence. Rezistenca mund të testohet në momentin e ekspozimit ose të shtyhet deri në Kohën e Fillimit për të fshehur faktin se personazhi mund të jetë infektuar ose helmuar.
+**Rezistenca:** Si rezistohet ndaj sëmundjes ose helmit – zakonisht ose Qëndrueshmëri ose Vullnet, por mund të ketë kërkesa më ekzotike rezistence. Rezistenca mund të hidhet në kohën e ekspozimit ose të shtyhet deri në Kohën e Fillimit për të fshehur faktin se karakteri mund të jetë infektuar ose helmuar.
 
-**Koha e Fillimit:** Shumë sëmundje dhe helme nuk hyjnë menjëherë në fuqi. Vonesa quhet Koha e Fillimit, dhe kjo mund të jetë çështje sekondash, minutash, orësh, apo edhe më gjatë. Helmet ose sëmundjet që posedojnë efekte të shumta mund të kenë kohë fillimi të ndryshme për secilën prej tyre siç përshkruhet nën Kushtet.
+**Koha e Fillimit (Onset Time):** Shumë sëmundje dhe helme nuk kanë efekt të menjëhershëm. Vonesa quhet Koha e Fillimit, dhe kjo mund të jetë çështje sekondash, minutash, orësh ose edhe më gjatë. Helmet ose sëmundjet që zotërojnë efekte të shumta mund të kenë kohë fillimi të ndryshme për secilin siç përshkruhet nën Kushtet.
 
-**Kohëzgjatja:** Sa zgjasin Kushtet e një sëmundjeje ose helmi.
+**Kohëzgjatja:** Sa kohë zgjasin Kushtet e një sëmundjeje ose helmi.
 
-**Kushtet:** Çdo toksinë ka një ose më shumë Kushte. Këto kanë efekte specifike siç përshkruhen në tabelën e Kushteve, më poshtë, dhe nëse një viktimë nuk arrin të rezistojë, ai vuan të gjitha Kushtet e përshkruara.
+**Kushtet:** Çdo toksinë ka një ose më shumë Kushte. Këto kanë efekte specifike siç përshkruhet në tabelën e Kushteve, më poshtë, dhe nëse një viktimë dështon të rezistojë, ai vuan të gjitha Kushtet e përshkruara.
 
-**Antidota/Kura:** Nëse toksina mund të trajtohet, ajo do të shënohet këtu. Trajtimi i suksesshëm parandalon çdo kusht të mëtejshëm të ndodhë, megjithatë në disa rrethana mund të lërë viktimën të vuajë efekte të qëndrueshme që janë shkaktuar tashmë.
+**Antidoti/Kurimi:** Nëse toksina mund të trajtohet, kjo do të shënohet këtu. Trajtimi i suksesshëm parandalon shfaqjen e kushteve të mëtejshme, megjithatë në disa rrethana mund ta lërë viktimën duke vuajtur nga efekte të qëndrueshme që tashmë janë shkaktuar.
 
 ##### Tabela e Kushteve
 
 | Kushti | Efektet |
 | :-- | :-- |
-| Agoni | Viktima pengohet nga dhimbja intense. Qoftë në një vendndodhje apo në të gjithë trupin, çdo test aftësie që përfshin përdorimin e zonës së prekur duhet të jetë gjithashtu më i vogël ose i barabartë me Forcën e Vullnetit të personazhit, përndryshe përpjekja dështon, dhe ata lëshojnë rënkime ose bërtasin nga dhimbja. |
-| Asfiksimi | Viktima vuan nga asfiksimi – ai rrëzohet i paaftë, pa mundur të marrë frymë. Përdoren rregullat nga seksioni [Asfiksimi](0004_Game_System.md?id=asphyxiation). Asfiksimi mund të jetë astmatik, që do të thotë se viktima vuan vetëm nga gulçimi, ose dështim i plotë respirator që rezulton në vdekje. Në rastin e fundit, viktima mund të mbahet gjallë duke fituar një test të kundërt të aftësisë së Ndihmës së Parë kundër Fuqisë së sëmundjes ose helmit. |
-| Gjakderdhje | Viktima vuan nga gjakderdhje e brendshme ose hemorragji sipërfaqësore e cila çon në nivelet e Lodhjes dhe kohët e rikuperimit të përshkruara në seksionet [Lodhja](0004_Game_System.md?id=fatigue) dhe [Humbja e Gjakut](0004_Game_System.md?id=blood-loss) më poshtë. |
-| Ngjitës | Viktima mund të transmetojë helmin ose sëmundjen me prekje. |
-| Vdekja | Viktima rrëzohet i paaftë dhe vdes pas një numri raundesh të barabarta me karakteristikën e tij KON. |
-| Ethe | Temperatura e trupit të viktimës luhatet në mënyrë të çrregullt – nga i nxehtë në i ftohtë – dhe muskujt i dhembin. Të gjitha aftësitë pësojnë një gradë vështirësie të Vështirë. |
-| Mania | Viktima detyrohet të ndjekë një detyrim, si shmangia e ujit, paranoja, vetë-gjymtimi, etj. Mania e shkaktuar nga sëmundja ose helmi do të shënohet në përshkrimin e saj. |
-| Të përziera | Viktima nuk mund të hajë, dhe duhet të bëjë një test kundër Qëndrueshmërisë së tij çdo herë që kryen një veprim fizik stresues për të shmangur të vjellat fizikisht. Të vjellat zgjasin 1d3 raunde gjatë të cilave ai nuk mund të veprojë. Periudhat e gjata të të Përzierave mund të shkaktojnë uri. |
-| Paralizë | Viktima është fizikisht e paaftë të lëvizë. Zona e prekur, nëse është një vendndodhje, nuk mund të përdoret gjatë kohëzgjatjes. Nëse prek të gjithë trupin, personazhi nuk mund të lëvizë fare. |
+| Agonia | Viktima pengohet nga dhimbje intensive. Qoftë në një vendndodhje ose në të gjithë trupin, çdo hedhje aftësie që përfshin përdorimin e zonës së prekur duhet gjithashtu të jetë më e vogël ose e barabartë me Vullnetin e karakterit, përndryshe përpjekja dështon, dhe ata rënkojnë ose bërtasin nga dhimbja. |
+| Asfiksia | Viktima vuan nga asfiksia – ai rrëzohet i paaftë, i paaftë për të marrë frymë. Përdoren rregullat nga seksioni [Asfiksia](0004_Game_System.md?id=asphyxiation). Asfiksia mund të jetë astmatike në natyrë, që do të thotë se viktima vuan vetëm nga frymëmarrja e shkurtër, ose dështimi i plotë i frymëmarrjes që çon në vdekje. Në rastin e dytë, një viktimë mund të mbahet gjallë duke fituar një test të kundërt të aftësisë Ndihma e Parë kundër Potencës së sëmundjes ose helmit. |
+| Gjakderdhja | Viktima vuan ose nga gjakderdhje e brendshme ose hemorragji sipërfaqësore që çon në kohët e Lodhjes dhe rikuperimit të përshkruara nën seksionet [Lodhja](0004_Game_System.md?id=fatigue) dhe [Humbja e Gjakut](0004_Game_System.md?id=blood-loss) më poshtë. |
+| Ngjitëse | Viktima mund ta transferojë helmin ose sëmundjen me prekje. |
+| Vdekja | Viktima rrëzohet e paaftë dhe vdes pas një numri raundesh të barabartë me karakteristikën e tyre QEN (QEN). |
+| Ethet | Temperatura e trupit të viktimës luhatet egërsisht – nga nxehtë në ftohtë – dhe muskujt dhembin. Të gjitha aftësitë vuajnë një shkallë vështirësie të vështirë. |
+| Mania | Viktima nxitet të ndjekë ndonjë detyrim, si shmangia e ujit, paranoja, vetë-gjymtimi, e kështu me radhë. Mania e shkaktuar nga sëmundja ose helmi do të shënohet në përshkrimin e saj. |
+| Përzierja | Viktima nuk mund të hajë, dhe duhet të hedhë kundër Qëndrueshmërisë së tij sa herë që kryen një veprim fizik stresues për të shmangur të qenët fizikisht i sëmurë. Të vjellat zgjasin për 1d3 raunde gjatë të cilave ai nuk mund të veprojë. Kohëzgjatjet e gjata të Përzierjes mund të shkaktojnë uri. |
+| Paraliza | Viktima është fizikisht e paaftë për të lëvizur. Zona e prekur, nëse është një vendndodhje, nuk mund të përdoret për kohëzgjatjen. Nëse prek të gjithë trupin, karakteri nuk mund të lëvizë fare. |
 
-#### Shembull Sëmundjeje: Lija e Kuqe
+#### Sëmundja Shembull: Lija e Kuqe
 
-Lija e kuqe është një sëmundje e keqe që përhapet nga kontakti i lëkurës me një person tashmë të infektuar, ose me diçka që ata kanë prekur. Shansi për të marrë sëmundjen nga një objekt mbetet për 1d3 ditë pas kontaktit, duke e bërë mjaft të vështirë frenimin e sëmundjes sapo të ndodhë një shpërthim.
+Lija e kuqe është një sëmundje e keqe që përhapet nga kontakti i lëkurës me një person tashmë të infektuar, ose me diçka që ata e kanë prekur. Mundësia e marrjes së sëmundjes nga një objekt mbetet për 1d3 ditë pas kontaktit, duke e bërë mjaft të vështirë përmbajtjen e sëmundjes sapo të ndodhë një shpërthim.
 
-Viktimat fillimisht vuajnë nga një skuqje e lehtë, por brenda një dite i kap një ethe serioze që zakonisht i lë të shtrirë në shtrat për të gjithë kohëzgjatjen. Gjatë kësaj kohe, skuqja evoluon në pustula tmerrësisht të kruajtshme që shpërthejnë me lëvizjen më të vogël, duke lëshuar rrjedha të vogla gjaku – sidomos nga sqetullat dhe ijët. Kjo fazë mund të zgjasë deri në një javë ose më shumë, duke u treguar potencialisht fatale.
+Viktimat fillimisht vuajnë nga një skuqje e lehtë, por brenda një dite shfaqin ethe serioze që zakonisht i bën ata të shtrirë në shtrat për të gjithë kohëzgjatjen. Gjatë kësaj kohe, skuqja shndërrohet në puçrra tmerrësisht kruajtëse të cilat shpërthejnë me lëvizjen më të vogël, duke derdhur rrjedha të vogla gjaku – veçanërisht nga sqetullat dhe ijët. Kjo fazë mund të zgjasë deri në një javë ose më shumë, duke u provuar potencialisht fatale.
 
 - **Aplikimi:** Kontakt
-- **Fuqia:** 50
+- **Potenca:** 50
 - **Rezistenca:** Qëndrueshmëri
-- **Koha e Fillimit:** 1d6+6 orë
+- **Koha e fillimit:** 1d6+6 orë
 - **Kohëzgjatja:** 1d6+3 ditë
-- **Kushtet:** Sapo sëmundja të shfaqet, viktima bëhet Ngjitës. 1 ditë më pas fillojnë të vuajnë nga Ethet dhe Gjakderdhja. Çdo ditë që pustulat lëshojnë gjak, viktima humbet një nivel Lodhjeje, i cili nuk shërohet derisa të përfundojë kohëzgjatja e sëmundjes.
-- **Antidota/Kura:** Mund të shërohet me aftësinë Shërim.
+- **Kushtet:** Sapo sëmundja të shfaqet, viktima bëhet Ngjitëse. 1 ditë më vonë ata fillojnë të vuajnë nga Ethet dhe Gjakderdhja. Çdo ditë që puçrrat derdhin gjak, viktima humbet një nivel Lodhjeje, i cili nuk rikuperohet derisa të përfundojë kohëzgjatja e sëmundjes.
+- **Antidoti/Kurimi:** Mund të kurohet nga aftësia Shërim (Healing).
+
 
 ---
 ## Rënia
 
-Sasia e dëmit të pësuar nga një rënie varet nga distanca e rënies. Pikët e Forca e Mbrojtjes nuk e reduktojnë dëmin nga rënia, por Modifikatori i Dëmit i personazhit ose krijesës që bie aplikohet në dëmin e pësuar nga rënia.
+Sasia e dëmit të pësuar në një rënie varet nga distanca e rënies. Pikët e Armaturës (Armor Points) nuk e zvogëlojnë dëmin nga rënia, por Modifikuesi i Dëmit i karakterit ose krijesës që bie zbatohet për dëmin e pësuar nga rënia.
 
 ##### Tabela e Distancës së Rënies
 
 | Distanca e Rënë | Dëmi i Marrë |
 | :-- | :-- |
-| 1 metër ose më pak | Pa dëm. |
+| 1 metër ose më pak | Asnjë dëm. |
 | 2-5 metra | 1d6 pikë dëmi në një vendndodhje të rastësishme. |
 | 6-10 metra | 2d6 pikë dëmi në dy vendndodhje të rastësishme. |
 | 11-15 metra | 3d6 pikë dëmi në tre vendndodhje të rastësishme. |
 | 16-20 metra | 4d6 pikë dëmi në katër vendndodhje të rastësishme. |
 | Çdo +5 metra | +1d6 dëm. |
 
-#### Objektet që bien
+#### Objektet që Bien
 
-Një objekt që bie shkakton një sasi dëmi bazuar në SIZ-in e tij dhe distancën e rënies. Një objekt shkakton 1d6 dëm për çdo 6 pikë SIZ (ose fraksion të tij), plus një sasi dëmi të barabartë me kolonën Dëmi i Marrë të Tabelës së Distancës së Rënies – duke përfshirë çdo ulje për objekte me madhësi më të vogël.
+Një objekt që bie shkakton një sasi dëmi bazuar në MAD-in (MAD) e tij dhe distancën e rënies. Një objekt shkakton 1d6 dëm për çdo 6 pikë MAD (ose fraksion të tij), plus një sasi dëmi të barabartë me kolonën Dëmi i Marrë të Tabelës së Distancës së Rënies – duke përfshirë çdo reduktim për objekte me madhësi më të vogël.
 
 ---
 ## Lodhja
 
-Lodhja mat lodhjen dhe efektet e saj inkrementale. Përdoret për të gjurmuar shumë gjëra të ndryshme, nga aktiviteti i rëndë deri te efektet dobësuese të sëmundjeve.
+Lodhja mat lodhjen dhe efektet e saj shtesë. Përdoret për të gjurmuar shumë gjëra të ndryshme, nga aktiviteti i sforcuar deri te efektet dobësuese të sëmundjes.
 
-Mënyra kryesore e akumulimit të Lodhjes është angazhimi në një formë aktiviteti fizik. Sa më i vështirë të jetë ushtrimi ose puna, aq më shpejt e lodh personazhin. Sipas diskrecionit të Masterit të Lojërave, personazhet duhet të bëjnë një test aftësie të përshtatshme – ose Atletikë, Muskuj, ose Qëndrueshmëri – për t'i rezistuar fitimit të një niveli Lodhjeje.
+Mënyra kryesore për të grumbulluar Lodhje është duke u angazhuar në ndonjë formë aktiviteti fizik. Sa më e mundimshme të jetë ushtrimi ose puna, aq më shpejt e lodh atë karakterin. Sipas diskrecionit të Udhëheqësit të Lojës, karakteret duhet të bëjnë një hedhje aftësie të përshtatshme – ose Atletikë, Muskuj (Brawn), ose Qëndrueshmëri – për t'i rezistuar fitimit të një niveli Lodhjeje.
 
-Çdo test i Dështuar akumulon një nivel Lodhjeje. Çdo nivel Lodhjeje sjell penalitete për përdorimin e aftësive, lëvizjen, Iniciativën dhe Pikët e Veprimit. Asfiksimi, Humbja e Gjakut dhe efekte të tjera të varura nga mjedisi gjithashtu kontribuojnë në akumulimin e Lodhjes.
+Çdo hedhje e Dështuar grumbullon një nivel Lodhjeje. Çdo nivel Lodhjeje mbart dënime për përdorimin e aftësive, lëvizjen, Iniciativën dhe Pikët e Veprimit. Asfiksia, Humbja e Gjakut dhe efekte të tjera të varura nga mjedisi kontribuojnë gjithashtu në grumbullimin e Lodhjes.
 
-Për shumicën e personazheve, aktivitetet e çdo lloji bëhen pothuajse të pamundura kur arrihet niveli i Paaftësuar. Në këtë fazë, personazhi është ende i vetëdijshëm, por i paaftë për asgjë tjetër veç aktiviteteve më të dëshpëruara.
+Për shumicën e karaktereve, aktivitetet e çfarëdo lloji bëhen gati të pamundura kur arrihet niveli i I-paaftë (Incapacitated). Në këtë fazë, karakteri është ende i vetëdijshëm, por i paaftë për asgjë përveç aktiviteteve më dëshpëruese.
 
-Përtej Paaftësuar, personazhet nuk mund të veprojnë fare. Nivelet e Lodhjes – Gjysmë-i Vetëdijshëm, Në Koma dhe I Vdekur – zakonisht rezervohen për të matur efektet më ekstreme të mbytjes, sëmundjeve, humbjes së gjakut, urisë, ekspozimit, etj.
+Përtej të I-paaftit, karakteret nuk mund të veprojnë fare. Nivelet e Lodhjes – Gjysmë-I vetëdijshëm, Në koma dhe i Vdekur – janë përgjithësisht të rezervuara për matjen e efekteve më ekstreme të mbytjes, sëmundjes, humbjes së gjakut, urisë, ekspozimit, e kështu me radhë.
 
 #### Rikuperimi nga Lodhja
 
-Personazhet rikuperohen nga Lodhja në varësi të Ritmit të tyre të Shërimit. Sasia e pushimit të plotë të nevojshëm për t'u rikuperuar nga çdo nivel Lodhjeje i akumuluar është e barabartë me Periudhën e Rikuperimit të ndarë me Ritmin e Shërimit të personazhit.
+Karakteret rikuperohen nga Lodhja në varësi të Shkallës së tyre të Shërimit (Healing Rate). Sasia e pushimit të plotë të nevojshëm për t'u rikuperuar nga çdo nivel i Lodhjes së grumbulluar është e barabartë me Periudhën e Rikuperimit të pjesëtuar me Shkallën e Shërimit të karakterit.
 
-Vini re se tabela më poshtë paraqet rikuperimin e Lodhjes për lodhjen fizike. Rikuperimi nga Lodhja mund të jetë shumë më i shpejtë kur rikuperohet nga Asfiksimi ose më i ngadaltë nëse rikuperohet nga Humbja e Gjakut.
+Vini re se tabela e mëposhtme përfaqëson rikuperimin e Lodhjes për sforcim fizik. Rikuperimi i Lodhjes mund të jetë shumë më i shpejtë kur rikuperoheni nga Asfiksia ose më i ngadaltë nëse po rikuperoni nga Humbja e Gjakut.
 
 ##### Nivelet e Lodhjes
 
-| Niveli i Lodhjes | Grada e Aftësisë | Lëvizja | Iniciativa | Pikët e Veprimit | Periudha e Rikuperimit |
+| Niveli i Lodhjes | Shkalla e Aftësisë | Lëvizja | Iniciativa | Pikët e Veprimit | Periudha e Rikuperimit |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| I Freskët | – | – | Pa Penalitete | – | – |
-| Pa Frymë | E vështirë | Pa Penalitete | Pa Penalitete | Pa Penalitete | 15 minuta |
-| I Lodhur | E vështirë | -1 metër | Pa Penalitete | Pa Penalitete | 3 orë |
-| I Dobësuar | Formidabile | -2 metra | -2 | Pa Penalitete | 6 orë |
-| I Shteruar | Formidabile | Përgjysmuar | -4 | -1 | 12 orë |
-| I Debilituar | Herkulian | Përgjysmuar | -6 | -2 | 18 orë |
-| I Paaftësuar | Herkulian | I Palëvizshëm | -8 | -3 | 24 orë |
-| Gjysmë i Vetëdijshëm | Pa Shpresë | Asnjë Aktivitet i Mundshëm | Asnjë Aktivitet i Mundshëm | Asnjë Aktivitet i Mundshëm | 36 orë |
-| Në Koma | Asnjë Aktivitet i Mundshëm | Asnjë Aktivitet i Mundshëm | Asnjë Aktivitet i Mundshëm | Asnjë Aktivitet i Mundshëm | 48 orë |
-| I Vdekur | I Vdekur | – | – | – | Asnjëherë |
+| I Freskët | – | – | Pa Dënime | – | – |
+| Pa frymë | Vështirë | Pa Dënime | Pa Dënime | Pa Dënime | 15 minuta |
+| I lodhur | Vështirë | -1 metër | Pa Dënime | Pa Dënime | 3 orë |
+| I rraskapitur | Formidable | -2 metra | -2 | Pa Dënime | 6 orë |
+| I shteruar | Formidable | Përgjysmuar | -4 | -1 | 12 orë |
+| I dobësuar | Herculean | Përgjysmuar | -6 | -2 | 18 orë |
+| I paaftë | Herculean | I palëvizshëm | -8 | -3 | 24 orë |
+| Gjysmë-i vetëdijshëm | I pashpresë | Asnjë Veprim i Mundshëm | Asnjë Veprim i Mundshëm | Asnjë Veprim i Mundshëm | 36 orë |
+| Në koma | Asnjë Veprim i Mundshëm | Asnjë Veprim i Mundshëm | Asnjë Veprim i Mundshëm | Asnjë Veprim i Mundshëm | 48 orë |
+| I vdekur | I vdekur | – | – | – | Asnjëherë |
 
 ---
 ## Zjarret
 
-Zjarret janë gjithmonë një burim rreziku kur përdoren si armë ose dalin jashtë kontrollit. Tabela e Intesitetit të Zjarrit më poshtë jep pesë intensitete të ndryshme për dëmtimin nga nxehtësia, me disa shembuj. Dëmi i shkaktuar për Raund jepet në kolonën Dëmi. Duke qenë relativisht të vogla, burimet e Intesitetit 1 dhe 2 aplikojnë dëmin e tyre në një vendndodhje të vetme të Goditjes, zakonisht ajo që prek burimin. Burimet e Intesitetit 3 dhe 4 janë më të mëdha, duke aplikuar dëmin në 1d4+1 vendndodhjet më të afërta të Goditjes, duke treguar shkallën e nxehtësisë rrezatuese. Burimet e Intesitetit 5 prekin të gjitha vendndodhjet e Goditjes njëkohësisht.
+Zjarret janë gjithmonë një burim rreziku kur përdoren si armë ose kur shpërthejnë jashtë kontrollit. Tabela e Intensitetit të Zjarrit më poshtë jep pesë intensitete të ndryshme për dëmtimin nga nxehtësia, me disa shembuj. Dëmi i shkaktuar për Raund jepet në kolonën Dëmi. Duke qenë relativisht të vogla, burimet e Intensitetit 1 dhe 2 aplikojnë dëmin e tyre në një Vendndodhje të vetme Goditjeje, zakonisht atë që prek burimin. Burimet e Intensitetit 3 dhe 4 janë më të mëdha, duke aplikuar dëmin në 1d4+1 Vendndodhjet e Goditjes më të afërta, duke treguar shkallën e nxehtësisë rrezatuese. Burimet e Intensitetit 5 prekin të gjitha Vendndodhjet e Goditjes njëkohësisht.
 
-Zjarri mund të ndezë materiale të ndezshme. Nëse nuk shuhen menjëherë, materiale të tilla digjen brenda një numri Raundesh siç tregohet nga Intensiteti i zjarrit. Pasi ndizen, materialet e ndezshme digjen derisa të shuhen fizikisht. Dëmi aplikohet direkt në Pikët e Jetës të materialit, duke injoruar Pikët e Forca e Mbrojtjes, dhe në çdo mish poshtë tyre. Nëse lihet. i pakontrolluar, përhapet në një numër Vendndodhjesh Goditjesh, për Raund, i barabartë me Intensitetin e tij.
+Zjarri mund të ndezë materiale të ndezshme. Nëse nuk shuhen menjëherë, materiale të tilla digjen brenda një numri Raundesh siç tregohet nga Intensiteti i zjarrit. Sapo ndizen, materialet e ndezshme digjen derisa të shuhen fizikisht. Dëmi aplikohet drejtpërdrejt te Pikët e Goditjes (Hit Points) të materialit, duke injoruar Pikët e Armaturës, dhe te çdo mish poshtë tij. Nëse lihet jashtë kontrollit, ai përhapet në një numër Vendndodhjesh të Goditjes, për Raund, të barabartë me Intensitetin e tij.
 
 ##### Tabela e Intensitetit të Zjarrit
 
-| Intensiteti | Shembuj | Koha për t'u Ndezur | Dëmi |
+| Intensiteti | Shembuj | Koha për t'u ndezur | Dëmi |
 | :-: | :-- | :-: | :-: |
 | 1 | Qiri | 1d4 | 1d2 |
 | 2 | Pishtar | 1d3 | 1d4 |
-| 3 | Zjarr zogu | 1d2 | 1d6 |
-| 4 | Zjarr i madh që mbush dhomën | 1d2 | 2d6 |
-| 5 | Lavë vullkanike | I menjëhershëm | 3d6 |
+| 3 | Zjarri i kampit | 1d2 | 1d6 |
+| 4 | Përhapje zjarri që mbush dhomën | 1d2 | 2d6 |
+| 5 | Llava vullkanike | E menjëhershme | 3d6 |
 
-Sulmet me bazë zjarri zakonisht kanë një mundësi në përqindje për të ndezur materiale të ndezshme pasi ato zakonisht përfundojnë brenda një Raundi të vetëm. Nëse nuk shënohet ndryshe, kjo mundësi është dëmi i hedhur x5% për sulmet me bazë zjarri, dhe dëmi i hedhur x1% për sulmet elektrike. Pasi ndizen, materialet e ndezshme digjen për 1d3-1 dëm çdo Raund derisa të shuhen fizikisht. Aplikojeni këtë dëm direkt në Pikët e Jetës të materialit, duke injoruar Pikët e Forca e Mbrojtjes, dhe në çdo mish poshtë. Forca e Mbrojtjes natyrore e një krijese ofron mbrojtjen e saj normale, megjithatë. Viktima mund të përpiqet të shuajë flakët duke u hedhur përtokë dhe duke bërë një test të suksesshëm Atletike, i cili kërkon një Pikë Veprimi dhe mund të provohet çdo Kthesë. Nëse të tjerët ndihmojnë në shuajtjen e flakëve në ndonjë mënyrë, testi është një Gradë Vështirësie më i lehtë. Nëse testi i dëmit rezulton në zero dëm, zjarri është shuar vetë në atë një vendndodhje. Për çdo vendndodhje që ishte shuar vetë, testi për të shuajtur flakët është gjithashtu një Gradë Vështirësie më i lehtë.
+Sulmet e bazuara në zjarr zakonisht kanë një shans përqindjeje për të ndezur materiale të ndezshme pasi ato përgjithësisht përfundojnë në një Raund të vetëm. Përveç nëse shënohet ndryshe, ky shans është dëmi i hedhur x5% për sulmet e bazuara në zjarr, dhe dëmi i hedhur x1% për ato elektrike. Sapo ndizen, materialet e ndezshme digjen për 1d3-1 dëme çdo Raund derisa të shuhen fizikisht. Aplikoni këtë dëm drejtpërdrejt te Pikët e Goditjes të materialit, duke injoruar Pikët e Armaturës, dhe te çdo mish poshtë tij. Megjithatë, Armatura natyrore e një krijese ofron mbrojtjen e saj normale. Viktima mund të përpiqet t'i shuajë flakët duke u shtrirë përmbys dhe duke bërë një hedhje të suksesshme Atletike, e cila kërkon një Pikë Veprimi dhe mund të provohet çdo Turn. Nëse të tjerët ndihmojnë në shuarjen e flakëve në ndonjë mënyrë, hedhja është një Shkallë Vështirësie më e lehtë. Nëse hedhja e dëmit rezulton në zero dëme, zjarri është shuar vetvetiu në atë vendndodhje të vetme. Për çdo vendndodhje që ishte shuar vetvetiu, hedhja për shuarjen e flakëve është gjithashtu një Shkallë Vështirësie më e lehtë.
 
 ---
 ## Koha e Lojës
 
-Në _Mythras Imperative_, koha është një faktor i rëndësishëm, kryesisht për të përcaktuar se çfarë ndodh në çfarë rendi, në mënyrë që mekanizmat e lojës të aplikohen kur duhet. Mbani mend se koha brenda lojës zakonisht nuk është ekuivalente me kohën e shpenzuar duke luajtur. Ndonjëherë, Masteri i Lojërave mund të duhet të përmbledhë ngjarjet e shumë ditëve në një fjali të vetme, si 'Ju duhet një javë për të arritur Kështjellën Anthrax', ndërsa në raste të tjera, veçanërisht gjatë luftimeve, veprimet e vetëm pak sekondave mund të zgjasin disa minuta ose më shumë për t'u zgjidhur.
+Në _Mythras Imperative_, koha është një faktor i rëndësishëm, kryesisht për të përcaktuar se çfarë ndodh në çfarë rendi, në mënyrë që mekanikat e lojës të aplikohen kur duhet. Mbani mend se koha në lojë zakonisht nuk është e barabartë me kohën e shpenzuar duke luajtur. Ndonjëherë, Udhëheqësi i Lojës mund të ketë nevojë të përmbledhë ngjarjet e shumë ditëve në një fjali të vetme, si 'Ju duhet një javë për të arritur në Kalanë Anthrax,' ndërsa në raste të tjera, veçanërisht gjatë luftimit, veprimet e vetëm disa sekondave mund të marrin disa minuta ose më gjatë për t'u zgjidhur.
 
 Më poshtë janë dallimet e rëndësishme të kohës së lojës:
 
-#### Runde luftarake
+#### Raundet e Luftimit
 
-Një Raund Luftarak përfaqëson pesë sekonda kohë reale. Ato përdoren për të matur shpërthime të shkurtra dhe frenetike aktiviteti që zgjasin momente për t'u përfunduar ose për të matur aktivitete shumë të detajuara që kërkojnë një zgjidhje hap pas hapi. Për shembull, një ndjekje mes gjahtarit dhe preve ku çdo Raund përcakton kthesat e ndjekjes.
+Një Raund Luftimi përfaqëson pesë sekonda kohë reale. Ato përdoren për të matur shpërthime të shkurtra, frenetike të aktivitetit që marrin momente për t'u përfunduar ose për të matur aktivitete shumë të detajuara që kërkojnë një zgjidhje goditje pas goditjeje. Për shembull, një ndjekje midis gjahtarit dhe prees ku çdo Raund përcakton kthesat e ndjekjes.
 
 #### Koha e Aftësisë
 
-Koha e Aftësisë përfaqëson disa minuta deri në disa orë dhe përdoret për të matur aktivitetet që nuk kërkojnë vëmendjen e detajuar të një Raundi Luftarak, por kërkojnë një mendim specifik për përpjekje me një rezultat të caktuar. Hapja e një brave mund të zgjasë pesë minuta, ndërsa vëzhgimi i patrullave të bëra nga ekipet e rojeve rreth mureve të një kështjelle mund të kërkojë disa orë dhe të dyja janë shembuj të Kohës së Aftësisë.
+Koha e Aftësisë përfaqëson disa minuta deri në disa orë dhe përdoret për të matur aktivitete që nuk kërkojnë vëmendjen e detajuar të një Raundi Luftimi, por kërkojnë një shqyrtim specifik të përpjekjes me një rezultat të caktuar. Hapja e një brave mund të marrë pesë minuta, ndërsa vëzhgimi i patrullave të bëra nga skuadrat e rojeve përreth mureve të një kështjelle mund të kërkojë disa orë dhe janë të dyja shembuj të Kohës së Aftësisë.#### Koha Narrative
 
-#### Koha Narrative
+Kjo është sasia e kohës që merret kur Mjeshtri i Lojës po tregon historinë për lojtarët, ose kur lojtarët po diskutojnë. Përveç nëse ka një arsye specifike për këtë, pjesa më e madhe e lojës së roleve zhvillohet në kohë narrative. Kur luani role, koha narrative i ngjan kohës reale, ku një bisedë zgjat po aq sa koha që duhet për ta zhvilluar atë. Nëse një sesion loje përfshin udhëtime të gjata, ose periudha aktiviteti ku koha e saktë nuk është thelbësore, atëherë koha ngjeshet shumë në pak momente të kohës së lojës.
 
-Kjo është sasia e kohës së marrë kur Masteri i Lojërave po tregon për lojtarët, ose kur lojtarët po diskutojnë. Nëse nuk ka një arsye specifike, shumica e roleplaying-ut aktual zhvillohet në kohë narrative. Kur luhet roleplaying, koha narrative ngjan me kohën reale, ku një bisedë zgjat aq sa zgjat të luhet. Nëse një sesion loje përfshin udhëtime të gjata, ose periudha aktiviteti ku koha e saktë nuk është thelbësore, atëherë koha kompresohet shumë në pak momente të kohës së lojës.
 
 ---
-## Vendndodhjet e Goditjes
+## Vendndodhjet e Goditjeve
 
-Shumica e sulmeve të suksesshme (me armë) godasin në një Vendndodhje Goditjeje specifike. Kjo mund të përcaktohet rastësisht ose në disa rrethana të zgjidhet nga Efekte Speciale si Zgjedhja e Vendndodhjes. Për të llogaritur rastësisht se cila vendndodhje është goditur, hidh 1d20 dhe krahaso numrin e hedhur me tabelën e duhur të Vendndodhjeve të Goditjes për humanoidë ose krijesa.
+Shumica e sulmeve të suksesshme (me armë) godasin një Vendndodhje të caktuar të Goditjes. Kjo mund të përcaktohet rastësisht ose në disa rrethana të përzgjidhet nga Efektet Speciale si Zgjedhja e Vendndodhjes. Për të llogaritur rastësisht se cila vendndodhje goditet, hidhni 1d20 dhe krahasoni numrin e rënë me tabelën përkatëse të Vendndodhjeve të Goditjes për humanoidë ose krijesa.
 
-Kafshët dhe monstrat zakonisht kanë tabela paksa të ndryshme të Vendndodhjeve të Goditjes nga humanoidët për të reflektuar fiziologjinë e tyre unike. Këto janë të listuara si pjesë e përshkrimit të çdo qenieje dhe zakonisht janë të dobishme vetëm për Masterin e Lojërave.
+Kafshët dhe përbindëshat zakonisht kanë tabela të Vendndodhjeve të Goditjes paksa të ndryshme nga humanoidët për të pasqyruar fiziologjinë e tyre unike. Këto janë renditur si pjesë e përshkrimit të çdo qenieje dhe zakonisht janë të dobishme vetëm për Mjeshtrin e Lojës.
 
-Tabela e Vendndodhjeve të Goditjes së humanoidëve përsëritet këtu për lehtësi referimi.
+Tabela e Vendndodhjeve të Goditjes për humanoidët përsëritet këtu për lehtësi referimi.
 
-##### Vendndodhjet e Goditjes Humanoidale
+##### Vendndodhjet e Goditjeve të Humanoidëve
 
 | 1d20 | Vendndodhja e Goditjes |
 | :-: | :-- |
 | 1-3 | Këmba e Djathtë |
 | 4-6 | Këmba e Majtë |
-| 7-9 | Abdomeni |
-| 10-12 | Kraharori |
+| 7-9 | Barku |
+| 10-12 | Gjoksi |
 | 13-15 | Krahu i Djathtë |
 | 16-18 | Krahu i Majtë |
 | 19-20 | Koka |
 
-Vini re se disa sulme, sidomos ato magjike, teknologjike ose ato të prodhuara nga monstra të veçanta (fryma e zjarrtë e një dragoi ose një granatë shpërthyese për shembull), mund të godasin disa Vendndodhje Goditjesh njëkohësisht. Vendndodhjet individuale të Goditjes mund të jenë të armatosura, qoftë nga mbrojtja e veshur ose nga ashpërsia natyrore e sipërfaqes së jashtme të krijesës. Kjo është e rëndësishme kur merren parasysh Dëmi dhe Nivelet e Plagës më poshtë.
+Vini re se disa sulme, veçanërisht ato magjike, teknologjike ose ato të prodhuara nga përbindësha të veçantë (për shembull fryma e zjarrtë e një dragoi ose një granatë shpërthyese), mund të godasin disa Vendndodhje të Goditjes njëkohësisht. Vendndodhjet individuale të Goditjes mund të jenë të blinduara, qoftë nga mbrojtja e veshur ose nga qëndrueshmëria natyrale e sipërfaqes së jashtme të krijesës. Kjo është e rëndësishme kur merrni parasysh Dëmin dhe Nivelet e Plagëve më poshtë.
+
 
 ---
-## Dëmi dhe Nivelet e Plagës
+## Dëmi dhe Nivelet e Plagëve
 
-Nëse një sulm godet me sukses, ai shkakton dëm sipas vlerësimit të dëmit për armën. Një shpatë e shkurtër, për shembull, shkakton 1d6 dëm.
+Nëse një sulm godet me sukses, ai shkakton dëme sipas shkallës së dëmit për armën. Një shpatë e shkurtër, për shembull, shkakton 1d6 dëme.
 
-Dëmi i hedhur për armën ose sulmin modifikohet nga kushtet e caktuara në rendin specifik vijues:
+Dëmi i hedhur për armën ose sulmin modifikohet nga kushtet e caktuara në rendin e mëposhtëm specifik:
 
-1. Aplikoni Modifikatorin e Dëmit për personazhin që bën sulmin.
-2. Modifikoni dëmin nga çdo magji që rrit (ose redukton) armën.
-3. Nëse është paruar, reduktoni dëmin siç duhet sipas madhësive krahasuese të armëve.
-4. Nëse Vendndodhja e Goditjes është e blinduar, reduktoni dëmin me vlerën e Pikëve të Forca e Mbrojtjes.
+1. Aplikoni Modifikuesin e Dëmit për personazhin që kryen sulmin.
+2. Modifikoni dëmin nga çdo magji që rrit (ose zvogëlon) fuqinë e armës.
+3. Nëse parët, zvogëloni dëmin në mënyrë të përshtatshme sipas madhësive krahasuese të armëve.
+4. Nëse Vendndodhja e Goditjes është e blinduar, zvogëloni dëmin sipas vlerës së Pikëve të Armaturës.
 
-Nëse dëmi i shkaktuar nga sulmi është mbi zero, atëherë Vendndodhja e Goditjes pëson atë sasi dëmi, me totalin e dëmit që hiqet menjëherë nga Pikët e Jetës së vendndodhjes. Vini re sa Pikë Jete i kanë mbetur vendndodhjes dhe kategorinë e plagës që rezulton.
+Nëse dëmi i shkaktuar nga sulmi është mbi zero, atëherë Vendndodhja e Goditjes pëson atë sasi dëmi, ku totali i dëmit hiqet menjëherë nga Pikët e Goditjes të vendndodhjes. Shënoni sa Pikë Goditjeje i kanë mbetur vendndodhjes dhe kategorinë e plagës që rezulton.
 
-- **Plagë e Vogël:** Vendndodhja e Goditjes ka ende Pikë Jete pozitive
-- **Plagë Serioze:** Vendndodhja e Goditjes është reduktuar në zero Pikë Jete ose më poshtë.
-- **Plagë e Madhe:** Vendndodhja e Goditjes është reduktuar në një rezultat negativ të barabartë ose më të madh se Pikët e Jetës fillestare.
+- **Plagë e Lehtë:** Vendndodhja e Goditjes ka ende Pikë Goditjeje pozitive
+- **Plagë e Rëndë:** Vendndodhja e Goditjes është reduktuar në zero Pikë Goditjeje ose më poshtë.
+- **Plagë Madhore:** Vendndodhja e Goditjes është reduktuar në një rezultat negativ të barabartë ose më të madh se Pikët e saj fillestare të Goditjes
 
-Përdorni rregullat e mëposhtme nëse një vendndodhje merr një Plagë Serioze ose të Madhe. Vini re se plagët që kërkojnë teste Qëndrueshmërie i testojnë ato në një Test të Kundërt kundër vlerës së hedhjes origjinale të sulmit. Kjo reflekton aftësinë e luftëtarëve shumë të aftë për të bërë goditje më vdekjeprurëse. Testet e Qëndrueshmërisë nuk përsëriten nëse vendndodhja plagoset sërish.
+Përdorni rregullat e mëposhtme nëse një vendndodhje merr një Plagë të Rëndë ose Madhore. Vini re se plagët që kërkojnë kontrolle të Qenit i testojnë ato në një Hedhje të Kundërt kundrejt vlerës së hedhjes së sulmit origjinal. Kjo pasqyron aftësinë e luftëtarëve shumë të kualifikuar për të bërë goditje më vdekjeprurëse. Hedhjet e Qenit nuk përsëriten përveç nëse vendndodhja plagoset përsëri.
 
-### Plagë e Vogël
+### Plagë e Lehtë
 
-Plagët e vogla janë prerje, gërvishtje, mavijosje dhe ndrydhje. Ato dhemb, mund të rrjedhin gjak, por nuk janë aq domethënëse sa të ngadalësojnë ose pengojnë viktimën.
+Plagët e lehta janë prerje, gërvishtje, mavijosje dhe ndrydhje. Ato dhemb, mund të gjakosen, por nuk janë mjaft domethënëse për ta ngadalësuar ose penguar viktimën.
 
-### Plagë Serioze
+### Plagë e Rëndë
 
-Nëse një vendndodhje reduktohet në zero Pikë Jete ose më poshtë, viktima merr një Plagë Serioze. Vendndodhja është e plagosur përgjithmonë, dhe viktima nuk mund të sulmojë ose të fillojë të hedhë magji (por mund të bëjë ende Parim ose të Evitojë) për 1d3 Kthesa të ardhshme për shkak se është i trullosur ose i shpërqendruar nga dhimbja e plagës.
+Nëse një vendndodhje reduktohet në zero Pikë Goditjeje ose më poshtë, viktima merr një Plagë të Rëndë. Vendndodhja mbetet me shenjë përgjithmonë dhe viktima nuk mund të sulmojë ose të fillojë të hedhë magji (por mund të Parët ose të Shmanget) për 1d3 Kthesa të ardhshme për shkak të tronditjes ose shpërqendrimit nga dhimbja e plagës.
 
-Një personazh që vuan një Plagë Serioze në një gjymtyrë duhet menjëherë të bëjë një Test të Kundërt të Qëndrueshmërisë së tij kundër hedhjes së suksesshme të sulmit të armikut të tij. Dështimi rezulton në gjymtyrën e bërë të padobishme, derisa vendndodhja të kthehet në Pikë Jete pozitive. Nëse është një këmbë, viktima bie përtokë. Nëse është një krah, çfarëdo që mbahet bie, nëse objekti nuk është i lidhur (përdorni sensin e përbashkët këtu).
+Një personazh që vuan nga një Plagë e Rëndë në një gjymtyrë duhet menjëherë të bëjë një Hedhje të Kundërt të Qenit të tij kundrejt hedhjes së suksesshme të sulmit të armikut të tij. Mossuksesi rezulton në gjymtyrën që bëhet e padobishme, derisa vendndodhja të rikthehet në Pikë Goditjeje pozitive. Nëse është një këmbë, viktima bie përmbys. Nëse është një krah, çfarëdo që po mbahet bie, përveç nëse objekti është i lidhur (përdorni mendjen e shëndoshë këtu).
 
-Një personazh që vuan një Plagë Serioze në bark, kraharor ose kokë duhet menjëherë të bëjë një Test të Kundërt të Qëndrueshmërisë së tij kundër hedhjes së suksesshme të sulmit të armikut të tij. Dështimi rezulton në humbje të ndërgjegjes për një numër minutash të barabartë me sasinë e dëmit të pësuar në sulmin që shkaktoi Plagën Serioze. Aftësitë e Ndihmës së Parë ose Shërimit mund të përdoren për të ndihmuar një viktimë të paaftë të kthehet në ndërgjegje.
+Një personazh që vuan nga një Plagë e Rëndë në bark, gjoks ose kokë duhet menjëherë të bëjë një Hedhje të Kundërt të Qenit të tij kundrejt hedhjes së suksesshme të sulmit të armikut të tij. Mossuksesi rezulton në humbje të ndjenjave për një numër minutash të barabartë me sasinë e dëmit të shkaktuar në sulmin që shkaktoi Plagën e Rëndë. Aftësitë e Ndihmës së Parë ose Shërimit mund të përdoren për ta ndihmuar një viktimë pa ndjenja të kthehet në vetëdije.
 
-Sipas diskrecionit të Masterit të Lojërave, edhe nëse personazhi mbetet funksional, të gjitha detyrat që kërkojnë përdorimin e asaj Vendndodhjeje Goditjeje do të pësojnë një penalitet të vazhdueshëm të një Grade Vështirësie, derisa lëndimi të reduktohet në një Plagë të Vogël.
+Sipas gjykimit të Mjeshtrit të Lojës, edhe nëse personazhi mbetet funksional, të gjitha detyrat që kërkojnë përdorimin e asaj Vendndodhjeje të Goditjes do të vuajnë një penalitet të vazhdueshëm të një Shkalle Vështirësie, derisa dëmtimi të reduktohet në një Plagë të Lehtë.
 
-### Plagë e Madhe
+### Plagë Madhore
 
-Nëse një vendndodhje reduktohet në një rezultat negativ të barabartë ose më të madh se Pikët e Jetës fillestare, personazhi merr një Plagë të Madhe. Personazhi menjëherë paaftësohet, i paaftë për të vazhduar luftën. Një gjymtyrë shkëputet, shpohet, thyhet ose shqyehet nga një Plagë e Madhe. Personazhi bie përtokë, fizikisht i paaftë, dhe duhet menjëherë të bëjë një Test të Kundërt të Qëndrueshmërisë kundër hedhjes së suksesshme të sulmit të armikut të tij. Dështimi rezulton në humbje të ndërgjegjes nga agonia. Nëse një vendndodhje e shkëputur, e shpuar ose e shqyer nuk trajtohet brenda një numri minutash të barabartë me pesë herë Ritmin e tij të Shërimit, personazhi vdes nga humbja e gjakut dhe shoku.
+Nëse një vendndodhje reduktohet në një rezultat negativ të barabartë ose më të madh se Pikët e saj fillestare të Goditjes, personazhi merr një Plagë Madhore. Personazhi është menjëherë i Paaftë, i paaftë për të vazhduar luftimin. Një gjymtyrë pritet, shpohet, copëtohet ose shkëputet nga një Plagë Madhore. Personazhi bie përmbys, fizikisht i Paaftë, dhe duhet menjëherë të bëjë një Hedhje të Kundërt të Qenit kundrejt hedhjes së suksesshme të sulmit të armikut të tij. Mossuksesi rezulton në humbje të ndjenjave nga agonia. Nëse një vendndodhje e prerë, e shpuar ose e shkëputur nuk trajtohet brenda një numri minutash të barabartë me pesë herë Shkallën e tij të Shërimit, personazhi vdes nga humbja e gjakut dhe shoku.
 
-Viktima e një Plage të Madhe në bark, kraharor ose kokë bie pa ndjenja, tërësisht i Paaftësuar, dhe duhet menjëherë të bëjë një Test të Kundërt të Qëndrueshmërisë kundër hedhjes së suksesshme të sulmit të armikut të tij. Dështimi rezulton në një vdekje të menjëhershme dhe të tmerrshme (kokëprerje, prerje në dy pjesë, shpim përmes zemrës, copëtim, etj.). Nëse mbijetojnë, dhe vendndodhja nuk trajtohet brenda një numri Raundesh Luftarake të barabartë me dy herë Ritmin e Shërimit të personazhit, ata ende vdesin nga humbja e gjakut dhe shoku.
+Viktima e një Plage Madhore në bark, gjoks ose kokë bie pa ndjenja, totalisht e Paaftë, dhe duhet menjëherë të bëjë një Hedhje të Kundërt të Qenit kundrejt hedhjes së suksesshme të sulmit të armikut të tij. Mossuksesi rezulton në një vdekje të menjëhershme dhe të pamerituar (të prerë koka, të ndarë përgjysmë, të shpuar në zemër, të copëtuar, e kështu me radhë). Nëse ata mbijetojnë, dhe vendndodhja nuk trajtohet brenda një numri të Kthesave të Luftimit të barabartë me dyfishin e Shkallës së Shërimit të personazhit, ata përsëri vdesin nga humbja e gjakut dhe shoku.
 
-Meqenëse shumica e Plagëve të Mëdha kërkojnë një formë kirurgjie ose magjie të rëndësishme për t'u shëruar, vuajtësi ka pak gjasa të shërohet nga një Plagë e Madhe në kohë për t'u ribashkuar në luftë. Në varësi të trajtimit të disponueshëm, vendndodhja e plagosur do të jetë potencialisht e gjymtuar (shih [Shërimi nga Lëndimet](0004_Game_System.md?id=healing-from-injury) më poshtë).
+Meqenëse shumica e Plagëve Madhore kërkojnë ndonjë formë kirurgjie ose magji domethënëse për t'u shëruar, personi që vuan do të ketë shumë pak gjasa të rikuperohet nga një Plagë Madhore në kohë për t'u bashkuar me luftimin. Në varësi të trajtimit të disponueshëm, vendndodhja e plagosur do të jetë potencialisht e gjymtuar (shih [Shërimi nga Lëndimi](0004_Game_System.md?id=healing-from-injury) më poshtë).
 
 ### Humbja e Gjakut
 
-Humbja e Gjakut për shkak të plagëve të jashtme dhe të brendshme, zakonisht të pësuara në luftim, mund ta dobësojë një personazh shumë shpejt. Efektet e saj maten nga akumulimi i niveleve të Lodhjes, shumë si Asfiksimi. Humbja e Gjakut e pakufizuar zakonisht rezulton në vdekje pa ndonjë formë kujdesi mjekësor. Ndryshe nga Asfiksimi, efektet e Humbjes së Gjakut serioze në Lodhje janë të qëndrueshme. Një personazh rikuperon Lodhjen e humbur nga gjakderdhja me një ritëm prej një niveli në ditë, duke filluar ditën pas ndërprerjes së gjakderdhjeve.
+Humbja e Gjakut për shkak të plagëve të jashtme dhe të brendshme, zakonisht të pësuara në luftim, mund ta lodhë një personazh shumë shpejt. Efektet e saj maten me akumulimin e niveleve të Lodhjes, pak a shumë si Asfiksia. Humbja e Gjakut e pakontrolluar zakonisht rezulton në vdekje pa ndonjë formë të vëmendjes mjekësore. Për ndryshim nga Asfiksia, efektet e Humbjes serioze të Gjakut në Lodhje janë afatgjata. Një personazh rikuperon Lodhjen e humbur nga gjakderdhja me një shkallë prej një niveli në ditë, duke filluar nga dita pas ndërprerjes së eksanguinimit të tij.
 
-### Veprimet Heroike të Fundit
+### Veprimet e Fundit Heroike
 
-Në raste të veçanta ku personazhe kyçe marrin një Plagë të Madhe, Masteri i Lojërave mund të lejojë një veprim heroik të fundit – si nxjerrja e një magjie të fundit, përpjekja për të vrarë vrasësin e tyre, zvarritja për t'u fshehur, ose përpjekja për të bërë një fashë në plagën e tyre. Ata duhet të kenë gjymtyrë funksionale të zbatueshme për Veprimin dhe të shpenzojnë një Pikë Fat. Ata marrin një mundësi të vetme për të provuar Veprimin e tyre, dhe më pas menjëherë rrëzohen pa ndjenja, dhe vdekje e mundshme.
-
----
-## Shërimi nga Lëndimet
-
-Shërimi natyral nga plagët dhe lëndimet bazohet në Ritmin e Shërimit të personazhit. Ritmi i Shërimit dikton se sa Pikë Jete rikuperohen në një vendndodhje në varësi të natyrës së lëndimit:
-
-- **Plagë të vogla:** Ditë
-- **Plagë serioze:** Javë
-- **Plagë të mëdha:** Muaj
-
-Kështu, një personazh me një Ritëm Shërimi prej 3, i cili pëson dëm duke e çuar në –3 në një Vendndodhje Goditjeje, një Plagë Serioze, do të shërohet natyralisht me një ritëm prej 3 Pikë Jete në javë derisa plaga e tij të kalojë mbi zero, dhe më pas do të shërohet 3 Pikë Jete në ditë derisa të shërohet plotësisht.
-
-Ka kufizime të caktuara në shërimin natyral:
-
-- Personazhi shërues nuk mund të angazhohet në aktivitet të rëndë: përndryshe, Ritmi i Shërimit reduktohet me 1d3. Kështu, një personazh që shërohet edhe nga një Plagë e Vogël mund të gjejë progresin e tij të ndalur nëse vendos të angazhohet në ndonjë detyrë fizike që mund të përkeqësojë lëndimet.
-- Shërimi natyral nuk do të fillojë të shërojë një Plagë të Madhe derisa viktima të jetë trajtuar me një test të suksesshëm Shërimi, ose hedhjen e ndonjë forme magjie shërimi. Plagët e Mëdha jo-gjymtuese që nuk trajtohen brenda një numri ditësh të barabartë me njëzetën e aftësisë Shërim bëhen të gjymtuara, duke reduktuar përgjithmonë Pikët e Jetës së vendndodhjes.
+Në raste të veçanta ku personazhet kryesorë marrin një Plagë Madhore, Mjeshtri i Lojës mund të lejojë një veprim të fundit heroik – si p.sh. hedhja e një magjie të fundit, përpjekja për të rrëzuar vrasësin e tyre, zvarritja larg për t'u fshehur, ose përpjekja për t'i vendosur një turniketë plagës së tyre. Ata duhet të kenë gjymtyrë funksionale të zbatueshme për Veprimin dhe të shpenzojnë një Pikë Fati. Ata marrin një mundësi të vetme për të tentuar Veprimin e tyre dhe më pas kolapsojnë menjëherë në humbje të ndjenjave dhe vdekje të mundshme.
 
 ---
-## Objektet e Pajetë
+## Shërimi nga Lëndimi
 
-Të gjitha objektet e pajetë posedojnë Pikë Forca e Mbrojtjes dhe Pikë Jete, të cilat përdoren për të përcaktuar rezistencën ndaj dëmtimit dhe shkatërrimit. Pikët e Forca e Mbrojtjes reduktojnë dëmin para se të ndikohen Pikët e Jetës. Pasi Pikët e Jetës së një objekti janë reduktuar në zero, ai është i padobishëm.
+Shërimi natyror nga plagët dhe lëndimet bazohet në Shkallën e Shërimit të personazhit. Shkalla e Shërimit dikton se sa Pikë Goditjeje rikuperohen në një vendndodhje në varësi të natyrës së lëndimit:
 
-Përpjekjet për thyerje kërkojnë që një personazh të bëjë një test Muskujsh, Pa Armë ose Stili Luftarak, sipas rastit, për të shkaktuar dëm. Një sukses shkakton dëm në send.
+- **Plagë të Lehta:** Ditë
+- **Plagë të Rënda:** Javë
+- **Plagë Madhore:** Muaj
 
-#### Armët kundër Objekteve të Pajetë
+Kështu, një personazh me një Shkallë Shërimi prej 3 që pëson dëme duke e çuar atë në –3 në një Vendndodhje të Goditjes, një Plagë e Rëndë, do të shërohet natyrshëm me një shkallë prej 3 Pikësh Goditjeje në javë derisa plagët e tij të shkojnë mbi zero, dhe më pas do të shërohet me 3 Pikë Goditjeje në ditë derisa të rikuperohet plotësisht.
 
-Përdorimi i një arme kundër një objekti të pajetë me Pikë Forca e Mbrojtjes të barabarta ose më të mëdha se ato të armës shkakton dëm si në objekt ashtu edhe në armë. Për shembull, përdorimi i një sëpate në një derë hekuri mund të dëmtojë derën, por sëpata vetë do të shkatërrohet shumë para derës së hekurt. Masteri i Lojërave duhet të ushtrojë diskrecion mbi cilat armë ose mjete mund të ndikojnë cilat objekte. Një daltë, për shembull, është e projektuar shprehimisht për të gdhendur dru ose gur ndërsa një shpatë, megjithëse e mprehtë, nuk është. Prandaj, dalta nuk do të pësonte dëm nga diçka që po përpiqet të gdhendë, ndërsa një shpatë me shumë mundësi po.
+Ka disa kufizime në shërimin natyror:
 
-##### Tabela e Objekteve të Pajetë
+- Personazhi që po shërohet nuk mund të angazhohet në aktivitet rraskapitës: përndryshe, Shkalla e Shërimit zvogëlohet me 1d3. Kështu, një personazh që po rikuperohet edhe nga një Plagë e Lehtë mund të shohë progresin e tij të ndalur nëse vendos të angazhohet në ndonjë detyrë fizike që mund t'i përkeqësojë lëndimet.
+- Shërimi natyror nuk do të fillojë të shërojë një Plagë Madhore derisa viktima të jetë trajtuar me një hedhje të suksesshme të Shërimit, ose hedhjen e ndonjë forme magjie shëruese. Plagët Madhore jo-gjymtuese të cilat nuk trajtohen brenda një numri ditësh të barabartë me një të njëzetën e aftësisë së Shërimit bëhen të gjymtuara, duke reduktuar përgjithmonë Pikët e Goditjes të vendndodhjes.
 
-| Objekti | Forca e Mbrojtjes / Pikë Jete |
+---
+## Objekte të Gjalla
+
+Të gjitha objektet e pajetë zotërojnë Pikë Armature dhe Pikë Goditjeje të cilat përdoren për të përcaktuar rezistencën ndaj dëmtimit dhe shkatërrimit. Pikët e Armaturës zvogëlojnë dëmin përpara se të preken Pikët e Goditjes. Pasi Pikët e Goditjes së një objekti të jenë reduktuar në zero, ai është i padobishëm.
+
+Përpjekjet për thyerje kërkojnë që një personazh të bëjë një hedhje të Brawn, Paarmatosur ose Stilit të Luftimit, sipas rastit, për të shkaktuar dëme. Një sukses i shkakton dëme sendit.
+
+#### Armët kundrejt Objekteve të Gjalla
+
+Përdorimi i një arme kundër një objekti të pajetë me Pikë Armature të barabarta ose më të mëdha se ato të armës shkakton dëme si në objekt ashtu edhe në armë. Për shembull, përdorimi i një sëpate mbi një derë hekuri mund ta dëmtojë derën, por vetë sëpata do të shkatërrohet shumë kohë përpara se të shkatërrohet dera e hekurt. Mjeshtri i Lojës duhet të ushtrojë gjykim për atë se cilat armë ose mjete mund të ndikojnë në cilat objekte. Një dalto, për shembull, është dizajnuar në mënyrë eksplicite për të gdhendur dru ose gur, ndërsa një shpatë, megjithëse e mprehtë, nuk është. Prandaj, dalto nuk do të merrte dëme nga diçka që po përpiqet të gdhendë, ndërsa një shpatë me shumë mundësi do të merrte.
+
+##### Tabela e Objekteve të Gjalla
+
+| Objekti | Armatura / Pikët e Goditjes |
 | :-- | :-: |
-| Porta e Kështjellës | 8/150 |
-| Muri i Kështjellës | 10/500 |
+| Porta e Kalasë | 8/150 |
+| Muri i Kalasë | 10/500 |
 | Zinxhiri/Prangat | 8/8 |
-| Shtyllë Hekuri | 8/15 |
-| Dritare Xhami | 1/4 |
-| Derë Hekuri | 12/30 |
-| Litar | 6/3 |
-| Karrige Druri | 4/15 |
-| Mur Tullash | 6/30 |
-| Mur Betoni | 8/40 |
-| Automjet | 6/30 |
-| Xham Antiplumb | 8/25 |
-| Tra Çeliku | 12/50 |
-| Transportues Personeli të Blinduar | 10/50 |
-| Tank Beteje | 15/100 |
-| Kamion/Ekskavator | 8/40 |
-| Trung Druri | 6/50 |
+| Shtylla e Hekurt | 8/15 |
+| Dritarja e Qelqtë | 1/4 |
+| Dera e Hekurt | 12/30 |
+| Litari | 6/3 |
+| Karrigia e Drurit | 4/15 |
+| Muri i Tullave | 6/30 |
+| Muri i Betonit | 8/40 |
+| Automobili | 6/30 |
+| Qelqi i Papërshkueshëm nga Plumbat | 8/25 |
+| Trari i Çelikut | 12/50 |
+| Transportuesi i Blinduar i Personelit | 10/50 |
+| Tanku i Betejës | 15/100 |
+| Kamioni/Ekskavatori | 8/40 |
+| Trungu i Pemës | 6/50 |
 
 ---
 ## Pikët e Fatit
 
-Pikët e Fatit ndihmojnë në diferencimin e heronjve nga radhët e zakonshme. Ato përfaqësojnë aftësinë e një personazhi për të kthyer dështimin në sukses dhe madje për të mashtruar vdekjen.
+Pikët e Fatit ndihmojnë në dallimin e heronjve nga radhët e zakonshme. Ato përfaqësojnë aftësinë e një personazhi për të kthyer potencialisht dështimin në sukses dhe madje për të mashtruar vdekjen.
 
 Pikët e Fatit mund të përdoren gjatë lojës dhe, në fillim të sesionit tjetër, rimbushen në vlerën e tyre të zakonshme.
 
 #### Përdorimi i Pikëve të Fatit
 
-Pikët e Fatit mund të përdoren në një sërë mënyrash. Vetëm një Pikë Fati mund të përdoret në mbështetje të një Veprimi të caktuar. Pikët e Fatit nuk mund të shpenzohen për Teste Përvoje ose Trajnimi. Secila prej opsioneve të mëposhtme kushton një Pikë Fati të vetme.
+Pikët e fatit mund të përdoren në mënyra të ndryshme. Vetëm një Pikë Fati mund të përdoret në mbështetje të një Veprimi të veçantë. Pikët e Fatit nuk mund të shpenzohen për hedhje të Përvojës ose Trajnimit. Secili nga opsionet e mëposhtme kushton një Pikë Fati të vetme.
 
-#### Mashtro Fatit
+#### Mashtro Fatin
 
-Personazhet mund të përdorin një Pikë Fati për të rimbushur ose ndërruar (një 75 do të bëhej një 57 për shembull) çdo hedhje zare që bëjnë. Kjo mund të jetë një test aftësie, test dëmi, ose çdo gjë tjetër që ka ndonjë efekt. Personazhet madje mund ta detyrojnë një kundërshtar të rimbushë një sulm ose test dëmi të bërë kundër tyre.
+Personazhet mund të përdorin një Pikë Fati për të ri-hedhur ose këmbyer (një 75 do të bëhej 57 për shembull) çdo hedhje zare që bëjnë. Kjo mund të jetë një hedhje aftësie, hedhje dëmi, ose çdo gjë tjetër që ka ndonjë efekt. Personazhet mund madje ta detyrojnë një kundërshtar të ri-hedhë një hedhje sulmi ose dëmi të bërë kundër tyre.
 
 #### Përpjekje e Dëshpëruar
 
-Nëse një personazh ka shpenzuar të gjitha Pikët e Veprimit të tij gjatë një luftimi dhe ka nevojë të gjejë atë shpërthim të fundit energjie të dëshpëruar për të shmangur ndoshta një fund të çrregullt, ai mund të shpenzojë një Pikë Fati për të fituar një Pikë Veprimi shtesë.
+Nëse një personazh i ka shteruar Pikët e Veprimit të tij gjatë një lufte dhe duhet të gjejë atë shpërthim të fundit të energjisë së dëshpëruar për ndoshta të shmangë një vdekje të shëmtuar, ata mund të shpenzojnë një Pikë Fati për të fituar një Pikë Veprimi shtesë.
 
-#### Zvogëlo Dëmin
+#### Zbut Dëmin
 
-Një personazh që pëson një Plagë të Madhe mund të shpenzojë një Pikë Fati për të ulur nivelin e lëndimit në një Plagë Serioze. Kjo redukton dëmin e marrë në një Pikë Jete më pak se sa do të kërkohej për të shkaktuar një Plagë të Madhe.
+Një personazh që vuan nga një Plagë Madhore mund të shpenzojë një Pikë Fati për ta ulur lëndimin në një Plagë të Rëndë. Kjo zvogëlon dëmin e marrë në një Pikë Goditjeje më pak se ajo që do të kërkohej për të shkaktuar një Plagë Madhore.

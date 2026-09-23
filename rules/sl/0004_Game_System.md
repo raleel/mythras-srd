@@ -1,227 +1,226 @@
-# Sistem igre
+# Igralni sistem
 
-Med igro _Mythras Imperative_ se lahko zgodi veliko različnih stvari. Nekatere se rešujejo z uporabo spretnosti ali enega od glavnih igralnih mehanik, kot sta boj ali magija; druge zahtevajo lastna pravila za razsojanje. To poglavje ponuja pravila in smernice za različne scenarije, s katerimi se bodo igralci srečali med igranjem igre.
+V igri _Mythras Imperative_ se lahko pripeti marsikaj. Nekatere stvari se razrešijo z uporabo veščin ali z enim od glavnih igralnih mehanizmov, kot sta boj ali magija; druge zahtevajo lastna pravila za presojo. To poglavje podaja pravila in smernice za vrsto različnih scenarijev, s katerimi se bodo igralci srečali med igranjem.
 
-Seznam ni izčrpen, vendar naj bi predstavljal najpogostejše situacije. Če Mojstri igre ugotovijo, da obstajajo druge situacije, ki zahtevajo določeno obliko razsojanja igralnega sistema, in da se te situacije pojavljajo pogosto, jih spodbujamo, da razvijejo lastna pravila za te posebne okoliščine, pri čemer uporabijo tista v tem poglavju kot osnovo za replikacijo ali razvoj.
+Seznam ni izčrpen, vendar bi moral predstavljati najpogostejše situacije. Če vodje igre (Games Masters) ugotovijo, da obstajajo druge situacije, ki zahtevajo neko obliko presoje igralnega sistema, in se zdi, da se te situacije pogosto pojavljajo, se jih spodbuja, da razvijejo lastna pravila za obravnavo teh posebnih okoliščin, pri čemer naj uporabijo tista, podana v tem poglavju, kot osnovo za posnemanje ali razvoj.
 
 ---
-## Zadušitev
+## Asfiksija (zadušitev)
 
-Liki lahko zadržijo dih za število sekund, enako njihovi spretnosti Vzdržljivost. Vendar mora biti lik pripravljen (pljuča napolnjena z največjo možno količino zraka); v nasprotnem primeru se obdobje prepolovi, če je bil lik v pasivni situaciji, ali zmanjša na petino, če je bil lik vpleten v naporno aktivnost.
+Osebe lahko zadržijo dih za število sekund, ki je enako njihovi veščini Vzdržljivost (Endurance). Vendar mora biti oseba pripravljena (pljuča napolniti s čim več zraka); če ni, se obdobje prepolovi, če je bila oseba v pasivni situaciji, ali zmanjša na petino, če se je oseba ukvarjala z napornimi dejavnostmi.
 
-Ko je obdobje zadrževanja diha končano, morajo liki opraviti met Vzdržljivosti:
+Ko je obdobje zadrževanja diha mimo, morajo osebe opraviti met za Vzdržljivost:
 
-- Če je met Kritičen uspeh, ne pride do nadaljnjega poslabšanja.
-- Če je met Uspešen, si lik nabere dodatno stopnjo Utrujenosti.
-- Če met Spodleti, si lik v tem krogu nabere 1k2 dodatnih stopenj Utrujenosti.
-- Če je met Neuspeh, si lik v tem krogu nabere 1k3 dodatnih stopenj Utrujenosti.
+- Če je met kritičen uspeh, do nadaljnjega poslabšanja ne pride.
+- Če je met uspešen, oseba pridobi dodatno stopnjo Utrujenosti.
+- Če met ne uspe, oseba tisti krog utrpi 1d2 dodatnih stopenj Utrujenosti.
+- Če pri metu pride do nerodnosti (Fumble), oseba tisti krog utrpi 1d3 dodatnih stopenj Utrujenosti.
 
-Brez pomoči je smrt zaradi zadušitve običajno hitra. Če zadušitev preneha, preden lik umre, si razširjene ravni Utrujenosti, izgubljene zaradi zadušitve, razmeroma hitro opomorejo, pri čemer si povrnejo eno raven na minuto.
+Brez pomoči je smrt zaradi asfiksije običajno hitra. Če se asfiksija konča, preden oseba umre, si dokaj hitro opomore od stopenj Utrujenosti, izgubljenih zaradi zadušitve, saj povrne eno stopnjo na minuto.
 
-Odvisno od metode zadušitve, lahko Mojster igre prepreči popolno okrevanje in naloži trajno raven Utrujenosti (glej razdelek o [Utrujenosti](0004_Game_System.md?id=fatigue)), da predstavlja poškodbe pljuč, povzročene z vdihavanjem dima ali vode.
+Glede na način asfiksije bo vodja igre morda želel preprečiti popolno okrevanje in vsiliti trajnejšo stopnjo Utrujenosti (glej razdelek o [Utrujenosti](0004_Game_System.md?id=fatigue)), da bi prikazal poškodbe pljuč zaradi vdihavanja dima ali vode.
 
 ---
 ## Izboljšanje lika
 
-Vsak lik v _Mythras Imperative_ se lahko izboljša s časom in izkušnjami. Izboljšave se lahko izvajajo na več področjih:
+Vsak lik v _Mythras Imperative_ se lahko s časom in izkušnjami izboljša. Izboljšanje se lahko izvede na več področjih:
 
-- Povečanje obstoječih spretnosti
-- Povečanje Strasti
-- Učenje novih spretnosti
-- Učenje novih Zmožnosti
+- Povečanje obstoječih veščin
+- Povečanje Strasti (Passions)
+- Učenje novih veščin
+- Učenje novih sposobnosti
 
-#### Meti izkušenj
+#### Meti za izkušnje
 
-Mehanizem za večino izboljšav likov je Met izkušenj. Mojstri igre dodelijo Mete izkušenj ob primernem času v kampanji: ob koncu vsakega uspešnega scenarija ali zgodbe; ali po morda dveh ali treh igralnih sejah, če je zgodba dolga in bo zahtevala čas za dokončanje. Pogostost je prepuščena presoji Mojstra igre. Visoka pogostost Metov izkušenj bo privedla do hitrejše rasti likov.
+Mehanizem za večino izboljšav lika je Met za izkušnje (Experience Roll). Vodje igre podelijo Mete za izkušnje na primerni točki v kampanji: ob koncu vsakega uspešnega scenarija ali zgodbe; ali morda po dveh ali treh sejah igranja, če je zgodba dolga in bo zahtevala čas za dokončanje. Pogostost je prepuščena presoji vodje igre. Visoka pogostost Metov za izkušnje bo vodila k hitrejšemu razvoju likov.
 
-Ni pravega ali napačnega časa za dodeljevanje Metov izkušenj, vendar naravni prelomi v zgodbi lahko nakazujejo primerne čase. Vendar pa je Mojster igre vedno tisti, ki odloča. Medtem ko igralci ne morejo zahtevati Metov izkušenj, imajo pravico, da jih pričakujejo v določenih točkah – saj se njihovi liki brez njih ne bodo mogli razvijati.
+Ni pravega ali napačnega časa za podelitev Metov za izkušnje, vendar lahko naravni premori v zgodbi nakazujejo primerne trenutke. Vodja igre pa je tukaj vedno tisti, ki sprejema odločitve. Čeprav igralci ne morejo zahtevati Metov za izkušnje, imajo pravico pričakovati jih na določenih točkah – saj se njihovi liki brez njih ne bodo mogli razvijati.
 
-Število dodeljenih Metov izkušenj določa tudi Mojster igre. Vendar je dobro pravilo 1-3 Meti izkušenj na sejo od zadnjega dodeljevanja.
+Število podeljenih Metov za izkušnje prav tako določi vodja igre. Vendar je dobro pravilo 1-3 Mety za izkušnje na sejo od zadnjega podeljevanja.
 
-#### Povečanje obstoječih spretnosti
+#### Povečanje obstoječih veščin
 
-Vsako spretnost na listi lika, Standardno ali Profesionalno, je mogoče povečati z uporabo enega Meta izkušenj. Igralci se lahko odločijo, da Metov izkušenj ne bodo porabili za povečanje spretnosti, ampak jih bodo namesto tega kopičili za povečanje drugih stvari – kot so sposobnosti Razreda (glej spodaj).
+Vsako veščino na listu lika, standardno ali poklicno, je mogoče povečati s porabo enega Meta za izkušnje. Igralci se lahko odločijo, da Metov za izkušnje ne porabijo za povečanje veščin, temveč si ustvarijo zalogo za uporabo pri povečevanju drugih stvari – kot so sposobnosti razreda (glej spodaj).
 
-Igralec vrže 1k100 in primerja rezultat s spretnostjo, ki jo povečuje. Inteligenca (INT) lika se prišteje k metu.
+Igralec vrže 1d100 in ga primerja z veščino, ki jo povečuje. K metu se prišteje INT lika.
 
-- Če je vrženo število enako ali večje od spretnosti, ki jo izboljšuje, se ta poveča za 1k4+1%.
-- Če je vrženo število manjše od izbrane spretnosti, se spretnost še vedno poveča, vendar le za 1%.
-- Če je lik v prejšnjih sejah – to je med zadnjim nizom Metov izkušenj in sedanjim – Neuspešno izvedel katero koli spretnost, Neuspešna spretnost pridobi brezplačno povečanje za 1%. Več se naučimo iz svojih napak kot iz svojih uspehov in to predstavlja razmišljanje, ki ga lik doživi po katastrofalnem neuspehu. Večkratni Neuspehi iste spretnosti se ne seštevajo. V primeru, ko se Neuspešna spretnost povečuje tudi z Metom izkušenj, se 1% od Neuspeha uporabi, preden se izvede met za izboljšanje.
+- Če je vrženo število enako ali večje od veščine, ki se izboljšuje, se ta poveča za 1d4+1 %.
+- Če je vrženo število manjše od izbrane veščine, se veščina še vedno poveča, vendar le za 1 %.
+- Če je lik med prejšnjo sejo (ali sejami) pri kateri koli veščini naredil nerodnost (Fumble) – tj. med zadnjim nizom Metov za izkušnje in trenutnim –, pridobi nerodna veščina brezplačno povečanje za 1 %. Več se naučimo iz napak kot iz uspehov, in to predstavlja razmislek, ki ga lik opravi po katastrofalnem neuspehu. Večkratne nerodnosti pri isti veščini se ne seštevajo. V primeru, ko se nerodna veščina dviguje tudi z Metom za izkušnje, se 1 % od nerodnosti uporabi, preden se izvede met za izboljšanje.
 
-Ista spretnost ne sme koristiti več kot enega Meta izkušenj na sejo.
+Ista veščina ne sme biti deležna več kot enega Meta za izkušnje na sejo.
 
-#### Povečanje strasti
+#### Povečanje Strasti
 
-Kot je opisano pod Strastmi v razdelku [Strasti](0002_Characters.md?id=step-8-passions), se lahko vrednost Strasti poveča z Meti izkušenj na enak način kot spretnost. Če je podprto z igro, lahko Mojster igre celo dovoli zmanjšanje Strasti z uporabo Meta izkušenj.
+Kot je opisano pod Strastmi v razdelku [Strasti](0002_Characters.md?id=step-8-passions), se vrednost Strasti lahko poveča z Meti za izkušnje na enak način kot veščina. Če igra to podpira, lahko vodja igre celo dovoli zmanjšanje Strasti z uporabo Meta za izkušnje.
 
-_Na primer, stalno zavračanje neuslišane ljubezni lahko sčasoma oslabi Strast celo najbolj vnetega ljubimca, še posebej tistega, ki si želi razmerja brez duhov preteklosti, ki bi ga preganjali._
+_Na primer, nenehno zavračanje neuslišane ljubezni lahko sčasoma izčrpa Strast tudi pri najbolj gorečem ljubimcu, zlasti pri tistem, ki želi nadaljevati razmerje brez duhov preteklosti, ki bi ga preganjali._
 
-#### Učenje novih spretnosti
+#### Učenje novih veščin
 
-Nekateri liki si morda želijo preučevati nove poklicne spretnosti, ki se jih niso imeli priložnosti naučiti iz svoje kulture. Preden lahko začnejo vlagati Mete izkušenj, morajo najprej najti vir znanja, iz katerega se bodo učili. To je lahko tako prozaično kot profesionalni mentor, kot so tisti, ki jih ponujajo redovi ali cehi. Lahko pa je tudi bolj eksotičen vir izobraževanja, kot je starodaven in propadajoč učni zvitek.
+Nekateri liki bodo morda želeli študirati nove poklicne veščine, ki jih niso imeli priložnosti pridobiti od svoje kulture. Preden lahko začnejo vlagati Mete za izkušnje, morajo najti vir znanja, iz katerega se lahko učijo. To je lahko tako prozaično, kot je poklicni mentor, kakršne nudijo redovi ali cehi. Lahko pa gre za bolj eksotičen vir izobraževanja, kot je starodaven in razpadajoč učni zvitek.
 
-Ko je vir izobraževanja najden, mora lik preživeti cel mesec študija in prakse, da si pridobi osnovno znanje o tej spretnosti (nauči se na osnovni ravni). To stane 3 Mete izkušenj plus vse stroške v igri, ki so potrebni za plačilo učitelja (če obstaja) in nakup (ali najem) morebitne opreme in orodja.
+Ko je vir izobraževanja najden, mora lik preživeti cel mesec študija in vaje, da pridobi osnovno podlago v tej veščini (učenje na osnovni ravni). To stane 3 Mete za izkušnje plus vse stroške v igri, ki so potrebni za plačilo učitelja (če obstaja) in nakup (ali najem) vse potrebne opreme in orodij.
 
 ---
-## Bolezni in strupi
+## Bolezen in strup
 
-Nekatere najbolj strašne stvari, ki lahko prizadenejo like, so neštete bolezni in strupi, ki prežijo v temnih in mračnih krajih sveta. Nič ni bolj vznemirjajočega kot kuga, ki prizadene domače mesto lika, še posebej, ko so še vedno znotraj njegovih vrat. Prav tako je lahko najdba strupenega gada v postelji ali napad orjaških škorpijonov trenutek visoke drame.
+Nekatere izmed najbolj strašljivih stvari, ki lahko prizadenejo like, so neštete bolezni in strupi, ki so nadloga temnih in mračnih krajev sveta. Nič ni bolj vznemirljivega kot kuga, ki udari v rojstnem mestu lika, še posebej, ko so še vedno znotraj njegovih zidov. Podobno so lahko trenutki visoke drame, ko v postelji najdete strupeno kačo ali vas napadejo velikanski škorpijoni.
 
-Bolezni in strupi so v svojih vrstah skoraj neskončni, vendar se za namene igre obravnavajo na enak način.
+Bolezni in strupi so skoraj neskončni v svoji raznolikosti, vendar se za namene igre obravnavajo na enak način.
 
-#### Značilnosti bolezni in strupov
+#### Lastnosti bolezni in strupa
 
-Vse bolezni in strupi imajo več značilnosti, ki so pomembne za njihove učinke.
+Vse bolezni in strupi izkazujejo številne lastnosti, ki so pomembne za njihove učinke.
 
-**Aplikacija:** Metoda, s katero se bolezen ali strup vnese v žrtev.
+**Uporaba:** Način, kako se bolezen ali strup vnese v žrtev.
 
-- **Zaužitje:** Učinki se pojavijo z jedjo ali pijačo.
-- **Vdihovanje:** Učinki se pojavijo z dihanjem ali smrkanjem.
+- **Zaužitje:** Učinki se pojavijo s prehranjevanjem ali pitjem.
+- **Vdihavanje:** Učinki se pojavijo z dihanjem ali smrkanjem.
 - **Stik:** Učinki se pojavijo z absorpcijo skozi kožo.
-- **Injekcija:** Učinki se pojavijo, ko se snov vbrizga v telo z vbodi.
+- **Injiciranje:** Učinki se pojavijo, ko se snov vbrizga v telo s prebadanjem.
 
-**Moč:** Virulenca bolezni ali strupa. Ta vrednost se določi proti ustrezni odporni spretnosti (običajno Vzdržljivost ali Moč volje) v Nasprotnem metu. Če lik zmaga v metu, se otreseta njenih učinkov. Če izgubi met, potem trpi vse Pogoje bolezni ali strupa, vsakega ob ustreznem času.
+**Potenca:** Virulenca bolezni ali strupa. Ta vrednost se postavi proti ustrezni odporni veščini (običajno Vzdržljivost ali Volja) v nasprotnem metu. Če lik zmaga v metu, se otrese njenih učinkov. Če izgubi met, utrpi vse pogoje bolezni ali strupa, vsakega ob ustreznem času.
 
-**Odpornost:** Kako se bolezen ali strup upira – običajno Vzdržljivost ali Moč volje, vendar lahko ima bolj eksotične zahteve po odpornosti. Odpornost se lahko vrže ob času izpostavljenosti ali odloži do Časa nastopa, da se prikrije dejstvo, da je lik morda bil okužen ali zastrupljen.
+**Odpornost:** Kako se bolezen ali strup upre – običajno Vzdržljivost ali Volja, vendar lahko obstajajo bolj eksotične zahteve za odpornost. Odpornost se lahko vrže v času izpostavljenosti ali pa se odloži do časa nastopa (Onset Time), da se prikrije dejstvo, da je bila oseba morda okužena ali zastrupljena.
 
-**Čas nastopa:** Številne bolezni in strupi ne učinkujejo takoj. Zamik se imenuje Čas nastopa in je lahko sekunde, minute, ure ali celo dlje. Strupi ali bolezni z več učinki imajo lahko različne čase nastopa za vsakega, kot je opisano pod Pogoji.
+**Čas nastopa:** Mnoge bolezni in strupi nimajo takojšnjega učinka. Zamuda se imenuje čas nastopa in to je lahko vprašanje sekund, minut, ur ali celo več. Strupi ali bolezni z več učinki imajo lahko različne čase nastopa za vsakega, kot je opisano pod Pogoji.
 
-**Trajanje:** Kako dolgo trajajo Pogoji bolezni ali strupa.
+**Trajanje:** Kako dolgo trajajo pogoji bolezni ali strupa.
 
-**Pogoji:** Vsak toksin ima enega ali več Pogojev. Ti imajo specifične učinke, kot je opisano v spodnji tabeli Pogojev, in če žrtev ne uspe upreti, trpi vse opisane Pogoje.
+**Pogoji:** Vsak toksin ima enega ali več pogojev. Ti imajo posebne učinke, kot so opisani v spodnji tabeli Pogojev, in če se žrtev ne upre, utrpi vse opisane pogoje.
 
-**Protistrup/Zdravilo:** Če se toksin lahko zdravi, bo to zabeleženo tukaj. Uspešno zdravljenje prepreči nastanek nadaljnjih pogojev, vendar lahko v nekaterih okoliščinah žrtvi pusti trajne učinke, ki so že bili povzročeni.
+**Protistrup/Zdravilo:** Če je mogoče toksin zdraviti, bo to tukaj navedeno. Uspešno zdravljenje prepreči nastanek nadaljnjih pogojev, vendar lahko v nekaterih okoliščinah pusti žrtev s trajnejšimi učinki, ki so bili že povzročeni.
 
 ##### Tabela pogojev
 
 | Pogoj | Učinki |
 | :-- | :-- |
-| Agonija | Žrtev ovira močna bolečina. Ne glede na to, ali je na določeni lokaciji ali v celotnem telesu, mora biti vsak met spretnosti, ki vključuje uporabo prizadetega območja, tudi manjši ali enak Moči volje lika, sicer poskus spodleti in stokajo ali kričijo od bolečine. |
-| Zadušitev | Žrtev trpi zaradi zadušitve – kolabira onesposobljena, ne more dihati. Uporabijo se pravila iz razdelka [Zadušitev](0004_Game_System.md?id=asphyxiation). Zadušitev je lahko astmatične narave, kar pomeni, da žrtev trpi le za kratko sapo, ali pa popolna odpoved dihanja, kar povzroči smrt. V slednjem primeru lahko žrtev ohranimo pri življenju z zmago v nasprotnem testu spretnosti Prva pomoč proti Potenci bolezni ali strupa. |
-| Krvavitev | Žrtev trpi zaradi notranje krvavitve ali površinske krvavitve, kar vodi do Utrujenosti in časov okrevanja, opisanih v razdelkih [Utrujenost](0004_Game_System.md?id=fatigue) in [Izguba krvi](0004_Game_System.md?id=blood-loss) spodaj. |
-| Nalezljivost | Žrtev lahko prenaša strup ali bolezen z dotikom. |
-| Smrt | Žrtev kolabira onesposobljena in umre po številu krogov, enakem njihovi značilnosti VZDR. |
-| Vročina | Telesna temperatura žrtve divje niha – od vročine do mraza – in mišice bolijo. Vse spretnosti trpijo težavnostno stopnjo Težko. |
-| Manija | Žrtev je prisiljena slediti neki prisili, kot je izogibanje vodi, paranoja, samopoškodovanje in tako naprej. Manija, ki jo povzroča bolezen ali strup, bo navedena v njenem opisu. |
-| Slabost | Žrtev ne more jesti in mora vreči proti svoji Vzdržljivosti vsakič, ko opravi stresno fizično dejanje, da bi se izognila fizični bolezni. Bruhanje traja 1k3 kroge, med katerimi ne more delovati. Dolgotrajna slabost lahko povzroči stradanje. |
-| Paraliza | Žrtev se fizično ne more premikati. Prizadeto območje, če je to lokacija, se ne more uporabljati za čas trajanja. Če prizadene celotno telo, se lik ne more premikati sploh. |
+| Agonija | Žrtev ovira huda bolečina. Ne glede na to, ali je na določeni lokaciji ali po celotnem telesu, mora biti vsak met za veščino, ki vključuje uporabo prizadetega območja, tudi manjši ali enak Volji lika, sicer poskus ne uspe, oni pa stokajo ali kričijo od bolečin. |
+| Asfiksija | Žrtev utrpi asfiksijo – sesede se onesposobljena, nezmožna dihati. Uporabijo se pravila iz razdelka [Asfiksija](0004_Game_System.md?id=asphyxiation). Asfiksija je lahko astmatične narave, kar pomeni, da žrtev trpi le zaradi pomanjkanja zraka, ali pa popolna respiratorna odpoved, ki povzroči smrt. V slednjem primeru se lahko žrtev ohrani pri življenju z zmago v nasprotnem testu veščine Prva pomoč proti Potenci bolezni ali strupa. |
+| Krvavitev | Žrtev trpi zaradi notranje krvavitve ali površinske hemoragije, kar vodi do Utrujenosti in časov okrevanja, opisanih v spodnjih razdelkih [Utrujenost](0004_Game_System.md?id=fatigue) in [Izguba krvi](0004_Game_System.md?id=blood-loss). |
+| Nalezljivost | Žrtev lahko prenese strup ali bolezen z dotikom. |
+| Smrt | Žrtev se zgrudi onesposobljena in umre po številu krogov, ki je enako njeni značilnosti VZD. |
+| Vročica | Telesna temperatura žrtve divje niha – od vroče do hladne – in mišice bolijo. Vse veščine trpijo zaradi težavnostne stopnje Težko. |
+| Manija | Žrtev je gnana k sledenju neki prisili, kot je izogibanje vodi, paranoja, samopoškodovanje in tako naprej. Manija, ki jo povzroči bolezen ali strup, bo navedena v njenem opisu. |
+| Slabost | Žrtev ne more jesti in mora ob vsakem stresnem fizičnem dejanju metati proti svoji Vzdržljivosti, da se izogne fizični slabosti. Bruhanje traja 1d3 krogov, med katerimi ne more delovati. Dolgotrajna Slabost lahko povzroči stradanje. |
+| Paraliza | Žrtev je fizično nezmožna premikanja. Prizadeto območje, če gre za lokacijo, se za čas trajanja ne more uporabljati. Če prizadene celo telo, se lik sploh ne more premikati. |
 
-#### Primer bolezni: Rdeče koze
+#### Primer bolezni: Rdeče ošpice (Red Pox)
 
-Rdeče koze so grda bolezen, ki se širi z neposrednim stikom z že okuženo osebo ali z nečim, česar se je dotaknila. Verjetnost okužbe z boleznijo prek predmeta ostaja 1k3 dni po stiku, zaradi česar je bolezen precej težko obvladati, ko pride do izbruha.
+Rdeče ošpice so huda bolezen, ki se širi s stikom kože z osebo, ki je že okužena, ali s stvarjo, ki se je dotaknila. Možnost okužbe z boleznijo prek predmeta ostane 1d3 dni po stiku, zaradi česar je bolezen precej težko zajeziti, ko enkrat pride do izbruha.
 
-Žrtve sprva trpijo za manjšim izpuščajem, vendar v enem dnevu zbolijo za hudo vročino, ki jih običajno priklene na posteljo za celotno trajanje. V tem času se izpuščaj razvije v grozljivo srbeče pustule, ki počijo ob najmanjšem gibu in izločajo majhne sledi krvi – zlasti iz pazduh in dimelj. Ta faza lahko traja do enega tedna ali več, kar lahko povzroči smrt.
+Žrtve sprva dobijo manjši izpuščaj, a v enem dnevu zbolijo za hudo vročico, ki jih običajno priklene na posteljo za celotno trajanje. V tem času se izpuščaj razvije v grozljivo srbeče gnojne mehurčke, ki ob najmanjšem gibu počijo in krvavijo v majhnih curkih – zlasti iz pazduh in dimelj. Ta stopnja lahko traja do teden dni ali več in je lahko usodna.
 
-- **Aplikacija:** Stik
-- **Moč:** 50
+- **Uporaba:** Stik
+- **Potenca:** 50
 - **Odpornost:** Vzdržljivost
-- **Čas nastopa:** 1k6+6 ur
-- **Trajanje:** 1k6+3 dni
-- **Pogoji:** Ko se bolezen manifestira, žrtev postane Nalezljiva. 1 dan kasneje začne trpeti za Vročino in Krvavitvijo. Vsak dan, ko pustule izločajo kri, žrtev izgubi eno stopnjo Utrujenosti, ki si ne opomore, dokler trajanje bolezni ne poteče.
-- **Protistrup/Zdravilo:** Lahko se pozdravi z veščino Zdravljenja.
+- **Čas nastopa:** 1d6+6 ur
+- **Trajanje:** 1d6+3 dni
+- **Pogoji:** Ko se bolezen manifestira, postane žrtev Nalezljiva. 1 dan pozneje začne trpeti zaradi Vročice in Krvavitve. Vsak dan, ko iz gnojnih mehurčkov teče kri, žrtev izgubi eno stopnjo Utrujenosti, ki si ne opomore, dokler se trajanje bolezni ne konča.
+- **Protistrup/Zdravilo:** Lahko se pozdravi z veščino Zdravljenje.
 
 ---
-## Padec
+## Padanje
 
-Količina poškodb, ki jih utrpimo pri padcu, je odvisna od razdalje padca. Točke oklepa ne zmanjšujejo poškodb zaradi padca, vendar se Modifikator poškodb padajočega lika ali bitja uporablja za poškodbe, ki jih utrpi zaradi padca.
+Količina škode, utrpene pri padcu, je odvisna od razdalje padca. Točke oklepa (Armor Points) ne zmanjšajo škode pri padcu, vendar se Modifikator škode lika ali bitja, ki pada, uporabi za škodo, utrpjeno zaradi padca.
 
 ##### Tabela razdalje padca
 
-| Razdalja padca | Nanesena škoda |
+| Razdalja padca | Utrpljena škoda |
 | :-- | :-- |
-| 1 meter ali manj | Brez poškodb. |
-| 2-5 metrov | 1k6 točk poškodb na eno naključno lokacijo. |
-| 6-10 metrov | 2k6 točk poškodb na dve naključni lokaciji. |
-| 11-15 metrov | 3k6 točk poškodb na tri naključne lokacije. |
-| 16-20 metrov | 4k6 točk poškodb na štiri naključne lokacije. |
-| Vsakih +5 metrov | +1k6 poškodb. |
+| 1 meter ali manj | Brez škode. |
+| 2–5 metrov | 1d6 točk škode na eno naključno lokacijo. |
+| 6–10 metrov | 2d6 točk škode na dve naključni lokaciji. |
+| 11–15 metrov | 3d6 točk škode na tri naključne lokacije. |
+| 16–20 metrov | 4d6 točk škode na štiri naključne lokacije. |
+| Vsakih +5 metrov | +1d6 škode. |
 
 #### Padajoči predmeti
 
-Padajoči predmet povzroči škodo, ki temelji na njegovi VELIKOSTI in razdalji padca. Predmet povzroči 1k6 škode za vsakih 6 točk VELIKOSTI (ali njen del), plus količino škode, enako stolpcu "Nanesena škoda" v Tabeli razdalje padca – vključno z morebitnimi zmanjšanji za predmete manjše velikosti.
+Padajoči predmet povzroči količino škode, ki temelji na njegovi VEL in razdalji padca. Predmet povzroči 1d6 škode za vsakih 6 točk VEL (ali del le-te), plus količino škode, enako stolpcu Utrpljena škoda v Tabeli razdalje padca – vključno z vsemi zmanjšanji za predmete manjše velikosti.
 
 ---
 ## Utrujenost
 
-Utrujenost meri utrujenost in njene postopne učinke. Uporablja se za sledenje številnim različnim stvarem, od naporne dejavnosti do izčrpavajočih učinkov bolezni.
+Utrujenost meri utrujenost in njene postopne učinke. Uporablja se za sledenje marsičemu, od napornih dejavnosti do slabšalnih učinkov bolezni.
 
-Glavni način nabiranja Utrujenosti je sodelovanje v nekakšni fizični aktivnosti. Bolj kot je vaja ali delo naporno, hitreje izčrpa lik. Po presoji Mojstra igre morajo liki opraviti ustrezen met spretnosti – bodisi Atletike, Moči ali Vzdržljivosti – da se uprejo pridobitvi ravni Utrujenosti.
+Glavni način za pridobivanje Utrujenosti je ukvarjanje z neko obliko fizične dejavnosti. Bolj kot je vaja ali delo naporno, hitreje utrudi lik. Po presoji vodje igre morajo liki opraviti ustrezen met za veščino – bodisi Atletika, Moč (Brawn) ali Vzdržljivost –, da se uprejo pridobitvi stopnje Utrujenosti.
 
-Vsak Neuspešen met nabere raven Utrujenosti. Vsaka raven Utrujenosti povzroča kazni za uporabo spretnosti, gibanje, Iniciativo in Akcijske točke. Zadušitev, Izguba krvi in drugi učinki, odvisni od okolja, prav tako prispevajo k nabiranju Utrujenosti.
+Vsak neuspešen met poveča stopnjo Utrujenosti. Vsaka stopnja Utrujenosti prinaša kazni za uporabo veščin, gibanje, Iniciativo in Akcijske točke. Asfiksija, Izguba krvi in drugi učinki, odvisni od okolja, prav tako prispevajo k kopičenju Utrujenosti.
 
-Za večino likov postanejo aktivnosti skoraj nemogoče, ko dosežejo raven Onemogočen. Na tej stopnji je lik še vedno pri zavesti, vendar ni sposoben ničesar razen najbolj obupnih aktivnosti.
+Za večino likov postanejo kakršne koli dejavnosti skoraj nemogoče, ko je dosežena stopnja Onesposobljen. Na tej stopnji je lik še vedno pri zavesti, vendar ni zmožen ničesar razen najbolj obupnih dejavnosti.
 
-Nad raven Onemogočen liki sploh ne morejo delovati. Ravni Utrujenosti – Polzavesten, Koma in Mrtva – so običajno rezervirane za merjenje najskrajnejših učinkov zadušitve, bolezni, izgube krvi, stradanja, izpostavljenosti in tako naprej.
+Onkraj Onesposobljen liki sploh ne morejo delovati. Stopnje Utrujenosti – Polzavesten, Komatozen in Mrtev – so na splošno rezervirane za merjenje najbolj ekstremnih učinkov zadušitve, bolezni, izgube krvi, stradanja, izpostavljenosti in tako naprej.
 
-#### Okrevanje od utrujenosti
+#### Okrevanje od Utrujenosti
 
-Liki si opomorejo od Utrujenosti glede na svojo Stopnjo celjenja. Količina popolnega počitka, potrebna za okrevanje od vsake ravni nabrane Utrujenosti, je enaka Obdobju okrevanja, deljenemu s Stopnjo celjenja lika.
+Liki si opomorejo od Utrujenosti glede na svojo Stopnjo zdravljenja (Healing Rate). Količina popolnega počitka, potrebnega za okrevanje od vsake stopnje nabrane Utrujenosti, je enaka Obdobju okrevanja, deljenemu s Stopnjo zdravljenja lika.
 
-Upoštevajte, da spodnja tabela prikazuje okrevanje od Utrujenosti zaradi fizičnega napora. Okrevanje od Utrujenosti je lahko veliko hitrejše pri okrevanju od Zadušitve ali počasnejše pri okrevanju od Izgube krvi.
+Upoštevajte, da spodnja tabela predstavlja okrevanje od Utrujenosti zaradi fizičnega napora. Okrevanje od Utrujenosti je lahko veliko hitrejše pri okrevanju od Asfiksije ali počasnejše pri okrevanju od Izgube krvi.
 
-##### Ravni utrujenosti
+##### Stopnje Utrujenosti
 
-| Raven utrujenosti | Ocena spretnosti | Gibanje | Iniciativa | Akcijske točke | Obdobje okrevanja |
+| Stopnja Utrujenosti | Stopnja veščine | Gibanje | Iniciativa | Akcijske točke | Obdobje okrevanja |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Svež | – | – | Brez kazni | – | – |
-| Zasopljen | Težko | Brez kazni | Brez kazni | Brez kazni | 15 minut |
+| Zasoplost | Težko | Brez kazni | Brez kazni | Brez kazni | 15 minut |
 | Utrujen | Težko | -1 meter | Brez kazni | Brez kazni | 3 ure |
-| Ičrpan | Izjemen | -2 metra | -2 | Brez kazni | 6 ur |
-| Zmožen | Izjemen | Razpolovljeno | -4 | -1 | 12 ur |
-| Onesposobljen | Herkules | Razpolovljeno | -6 | -2 | 18 ur |
-| Nepremičen | Herkules | Nepremičen | -8 | -3 | 24 ur |
-| Polzavesten | Brezupno | Dejavnosti niso mogoče | Dejavnosti niso mogoče | Dejavnosti niso mogoče | 36 ur |
-| V komi | Dejavnosti niso mogoče | Dejavnosti niso mogoče | Dejavnosti niso mogoče | Dejavnosti niso mogoče | 48 ur |
-| Mrtva | Mrtva | – | – | – | Nikoli |
+| Izčrpan | Strašljivo | -2 metra | -2 | Brez kazni | 6 ur |
+| Zgaran | Strašljivo | Prepolovljeno | -4 | -1 | 12 ur |
+| Oslabljeno | Herkulsko | Prepolovljeno | -6 | -2 | 18 ur |
+| Onesposobljen | Herkulsko | Nepremičen | -8 | -3 | 24 ur |
+| Polzavesten | Brezupno | Brez mogočih dejavnosti | Brez mogočih dejavnosti | Brez mogočih dejavnosti | 36 ur |
+| Komatozen | Brez mogočih dejavnosti | Brez mogočih dejavnosti | Brez mogočih dejavnosti | Brez mogočih dejavnosti | 48 ur |
+| Mrtev | Mrtev | – | – | – | Nikoli |
 
 ---
-## Požari
+## Ogenj
 
-Požari so vedno vir nevarnosti, kadar se uporabljajo kot orožje ali pa so ušli izpod nadzora. Spodnja tabela intenzivnosti ognja podaja pet različnih intenzivnosti za toplotne poškodbe, z nekaj primeri. Nanesena škoda na krog je podana v stolpcu Škoda. Ker so relativno majhni, viri intenzivnosti 1 in 2 povzročijo škodo na eno lokacijo zadetka, običajno tisto, ki se dotika vira. Viri intenzivnosti 3 in 4 so večji in povzročijo škodo na najbližjih 1k4+1 lokacijah zadetka, kar kaže na stopnjo sevalne toplote. Viri intenzivnosti 5 vplivajo na vse lokacije zadetkov hkrati.
+Ogenj je vedno vir nevarnosti, ko se uporablja kot orožje ali če uide izpod nadzora. Spodnja tabela Intenzivnosti ognja podaja pet različnih intenzivnosti za toplotno škodo z nekaj primeri. Škoda, povzročena na krog, je navedena v stolpcu Škoda. Ker so relativno majhni, viri intenzivnosti 1 in 2 uporabijo svojo škodo na eno lokacijo zadetka, običajno tisto, ki se dotika vira. Viri intenzivnosti 3 in 4 so večji in uporabijo škodo na najbližjih 1d4+1 lokacijah zadetka, kar kaže na stopnjo sevalne toplote. Viri intenzivnosti 5 vplivajo na vse lokacije zadetka hkrati.
 
-Ogenj lahko vname vnetljive materiale. Če ti materiali niso takoj pogaseni, se vnamejo v številu krogov, kot kaže intenzivnost ognja. Ko se vnamejo, vnetljivi materiali gorijo, dokler niso fizično pogaseni. Škoda se nanaša neposredno na življenjske točke materiala, ignorirajoč točke oklepa, in na vso kožo pod njim. Če ostane nenadzorovan, se širi na število lokacij zadetkov, na krog, enako njegovi intenzivnosti.
+Ogenj lahko vžge vnetljive materiale. Če niso takoj pogašeni, se takšni materiali vžgejo v številu krogov, kot je navedeno z intenzivnostjo ognja. Ko so vnetljivi materiali enkrat vžgani, gorijo, dokler niso fizično pogašeni. Škoda se uporabi neposredno na Življenjske točke (Hit Points) materiala, pri čemer se ignorirajo Točke oklepa, in na vso meso pod njim. Če ostane nenadzorovan, se na krog razširi na število lokacij zadetka, ki je enako njegovi intenzivnosti.
 
-##### Tabela intenzivnosti ognja
+##### Tabela Intenzivnosti ognja
 
 | Intenzivnost | Primeri | Čas do vžiga | Škoda |
 | :-: | :-- | :-: | :-: |
-| 1 | Sveča | 1k4 | 1k2 |
-| 2 | Bakla | 1k3 | 1k4 |
-| 3 | Kres | 1k2 | 1k6 |
-| 4 | Ogenj, ki polni sobo | 1k2 | 2k6 |
-| 5 | Vulkanska lava | Takoj | 3k6 |
+| 1 | Sveča | 1d4 | 1d2 |
+| 2 | Bakla | 1d3 | 1d4 |
+| 3 | Taboriščni ogenj | 1d2 | 1d6 |
+| 4 | Požar, ki napolni prostor | 1d2 | 2d6 |
+| 5 | Vulkanska lava | Takoj | 3d6 |
 
-Napadi na podlagi ognja imajo običajno odstotno možnost vžiga vnetljivih materialov, saj so običajno končani v enem krogu. Če ni drugače navedeno, je ta možnost za napade na podlagi ognja valjana škoda x5%, za električne pa valjana škoda x1%. Ko se vnamejo, gorijo vnetljivi materiali za 1k3-1 poškodbe vsak krog, dokler niso fizično pogaseni. To škodo nanesite neposredno na življenjske točke materiala, ignorirajoč točke oklepa, in na vso kožo pod njim. Naravni oklep bitja nudi normalno zaščito. Žrtev lahko poskusi zadušiti plamene tako, da se vrže na tla in uspešno vrže Atletiko, kar zahteva akcijsko točko in se lahko poskusi vsak krog. Če drugi pomagajo pri zadušitvi plamenov na kakršen koli način, je met za eno težavnostno stopnjo lažji. Če je met za škodo enak nič, je ogenj sam ugasnil na tej lokaciji. Za vsako lokacijo, ki je ugasnila sama, je met za zadušitev plamenov prav tako za eno težavnostno stopnjo lažji.
+Napadi, ki temeljijo na ognju, imajo običajno odstotno možnost vžiga vnetljivih materialov, saj se na splošno končajo v enem krogu. Če ni navedeno drugače, je ta možnost škoda (vrženo) x5 % za napade na podlagi ognja in škoda (vrženo) x1 % za električne. Ko so enkrat vžgani, vnetljivi materiali vsak krog gorijo za 1d3-1 škode, dokler niso fizično pogašeni. To škodo nanesite neposredno na Življenjske točke materiala, ignorirajte Točke oklepa, in na vso meso pod njim. Naravni oklep bitja pa nudi svojo običajno zaščito. Žrtev lahko poskuša pogasiti plamene tako, da se uleže in opravi uspešen met za Atletiko, kar zahteva Akcijsko točko in se lahko poskusi vsak obrat (Turn). Če drugi na kakršen koli način pomagajo pri gašenju plamenov, je met za eno težavnostno stopnjo lažji. Če met za škodo povzroči nič škode, je ogenj na tej lokaciji sam ugasnil. Za vsako lokacijo, ki je sama ugasnila, je met za gašenje plamenov prav tako za eno težavnostno stopnjo lažji.
 
 ---
 ## Igralni čas
 
-V igri _Mythras Imperative_ je čas pomemben dejavnik, predvsem za določanje, kaj se zgodi v kakšnem vrstnem redu, tako da se igralne mehanike uporabljajo takrat, ko bi se morale. Ne pozabite, da čas v igri običajno ni enakovreden času, porabljenemu za igranje. Včasih bo Mojster igre morda moral povzeti dogodke mnogih dni v enem samem stavku, kot je "Za teden dni boste dosegli grad Anthrax", medtem ko v drugih primerih, še posebej med bojem, lahko dejanja le nekaj sekund trajajo več minut ali dlje.
+V _Mythras Imperative_ je čas pomemben dejavnik, večinoma za določitev, kaj se zgodi v katerem vrstnem redu, tako da se igralni mehanizmi uporabijo, ko bi morali biti. Ne pozabite, da čas v igri običajno ni enak času, porabljenemu za igranje. Včasih bo vodja igre morda moral povzeti dogodke mnogih dni v enem stavku, kot je 'Potrebujete teden dni, da dosežete grad Anthrax', medtem ko lahko v drugih trenutkih, zlasti med bojem, razrešitev dejanj, ki trajajo le nekaj sekund, vzame več minut ali dlje.
 
 Sledijo pomembne razlike v igralnem času:
 
 #### Bojni krogi
 
-Bojni krog predstavlja pet sekund realnega časa. Uporabljajo se za merjenje kratkih, frenetičnih izbruhov aktivnosti, ki trajajo trenutke, ali za merjenje zelo podrobnih aktivnosti, ki zahtevajo rešitev udarca za udarcem. Na primer, zasledovanje med lovcem in plenom, kjer vsak krog določa zavoje in obračanja zasledovanja.
+Bojni krog predstavlja pet sekund realnega časa. Uporabljajo se za merjenje kratkih, frenetičnih izbruhov dejavnosti, ki jih je treba dokončati v trenutkih, ali za merjenje zelo podrobnih dejavnosti, ki zahtevajo rešitev udarec za udarcem. Na primer, lov med lovcem in plenom, kjer vsak krog določa zavoje in preobrate zasledovanja.
 
-#### Čas spretnosti
+#### Čas veščin
 
-Čas spretnosti predstavlja nekaj minut do nekaj ur in se uporablja za merjenje aktivnosti, ki ne zahtevajo podrobne pozornosti Bojnega kroga, vendar zahtevajo specifično premišljenost truda z določenim rezultatom. Razbijanje ključavnice lahko traja pet minut, medtem ko opazovanje patrulj stražarjev okoli grajskega obzidja lahko zahteva več ur, in oba sta primera Časa spretnosti.
+Čas veščin predstavlja od nekaj minut do nekaj ur in se uporablja za merjenje dejavnosti, ki ne zahtevajo podrobne pozornosti Bojnega kroga, vendar zahtevajo posebno preudarnost prizadevanj z določenim rezultatom. Odpiranje ključavnice lahko traja pet minut, medtem ko opazovanje patrulj, ki jih opravljajo skupine stražarjev okoli obzidja gradu, lahko zahteva več ur, in oba sta primera Časa veščin.#### Pripovedni čas
 
-#### Pripovedni čas
+To je čas, ki ga porabi mojster iger (Games Master) za pripovedovanje igralcem ali ko se igralci posvetujejo. Razen če za to ne obstaja poseben razlog, večina dejanskega igranja poteka v pripovednem času. Pri igranju vlog pripovedni čas spominja na realni čas, kjer pogovor traja toliko časa, kot ga je potrebno odigrati. Če igralna seja vključuje dolga potovanja ali obdobja dejavnosti, kjer točen čas ni bistvenega pomena, se čas močno skrajša na nekaj trenutkov igralnega časa.
 
-To je čas, ki ga Mojster igre porabi za pripovedovanje igralcem ali ko igralci razpravljajo. Razen če obstaja poseben razlog, se večina dejanskega igranja vlog odvija v pripovednem času. Med igranjem vlog je pripovedni čas podoben realnemu času, kjer pogovor traja tako dolgo, kot ga je potrebno odigrati. Če igralna seja vključuje dolga potovanja ali obdobja dejavnosti, kjer točen čas ni bistvenega pomena, se čas močno stisne na nekaj trenutkov igralnega časa.
 
 ---
-## Mesta zadetka
+## Lokacije zadetkov
 
-Večina uspešnih (orožnih) napadov pristane na določeni lokaciji zadetka. To se lahko določi naključno ali pa se v nekaterih okoliščinah izbere s Posebnimi učinki, kot je Izbira lokacije. Za naključno izračunavanje, katera lokacija je bila zadeta, vrzite 1k20 in primerjajte vrženo številko z ustrezno tabelo lokacij zadetkov humanoidov ali bitij.
+Večina uspešnih napadov (z orožjem) zadane določeno lokacijo zadetka. To se lahko določi naključno ali pa se v nekaterih okoliščinah izbere s posebnimi učinki, kot je Izbira lokacije. Za naključni izračun, katera lokacija je zadeta, vrzite 1k20 in primerjajte dobljeno številko z ustrezno tabelo lokacij zadetkov za humanoida ali bitje.
 
-Živali in pošasti imajo običajno nekoliko drugačne tabele lokacij zadetkov kot humanoida, da odražajo njihovo edinstveno fiziologijo. Te so navedene kot del opisa vsakega bitja in so običajno uporabne le za Mojstra igre.
+Živali in pošasti imajo običajno nekoliko drugačne tabele lokacij zadetkov kot humanoidi, kar odraža njihovo edinstveno fiziologijo. Te so navedene kot del opisa vsakega bitja in so običajno koristne le mojstru iger.
 
-Tabela lokacij zadetkov humanoidov je ponovljena tukaj za lažjo referenco.
+Tabela lokacij zadetkov za humanoida je tukaj ponovljena za lažjo uporabo.
 
-##### Lokacije zadetkov humanoidov
+##### Lokacije zadetkov za humanoida
 
 | 1k20 | Lokacija zadetka |
 | :-: | :-- |
@@ -233,27 +232,28 @@ Tabela lokacij zadetkov humanoidov je ponovljena tukaj za lažjo referenco.
 | 16-18 | Leva roka |
 | 19-20 | Glava |
 
-Upoštevajte, da nekateri napadi, še posebej magični, tehnološki ali tisti, ki jih povzročajo določene pošasti (na primer zmajev ognjeni dih ali eksplodirajoča granata), lahko zadenejo več lokacij zadetkov hkrati. Posamezne lokacije zadetkov so lahko oklepne, bodisi zaradi nošene zaščite bodisi naravne trdote zunanje površine bitja. To je pomembno pri upoštevanju škode in ravni ran spodaj.
+Upoštevajte, da lahko nekateri napadi, zlasti magični, tehnološki ali tisti, ki jih povzročijo določene pošasti (na primer zmajev ognjeni dih ali eksplodirajoča granata), zadenejo več lokacij zadetkov hkrati. Posamezne lokacije zadetkov so lahko oklepljene, bodisi zaradi nošene zaščite bodisi zaradi naravne čvrstosti zunanje površine bitja. To je pomembno pri obravnavi škode in ravni ran, navedenih spodaj.
+
 
 ---
-## Škoda in ravni rane
+## Škoda in ravni ran
 
-Če napad uspešno zadene, povzroči škodo glede na oceno škode za orožje. Kratek meč na primer povzroči 1k6 škode.
+Če je napad uspešen, povzroči škodo v skladu z oceno škode za orožje. Kratki meč na primer povzroči 1k6 škode.
 
-Valjana škoda za orožje ali napad se spremeni z določenimi pogoji v naslednjem vrstnem redu:
+Vržena škoda za orožje ali napad se spremeni pod določenimi pogoji v naslednjem vrstnem redu:
 
-1. Uporabite modifikator škode za lik, ki izvaja napad.
-2. Spremenite škodo zaradi kakršne koli magije, ki izboljšuje (ali zmanjšuje) orožje.
-3. Če je udarec odbit, zmanjšajte škodo ustrezno glede na primerjalne velikosti orožja.
-4. Če je lokacija zadetka oklepljena, zmanjšajte škodo za vrednost točk oklepa.
+1. Uporabite Modifikator škode za lik, ki izvaja napad.
+2. Spremenite škodo z morebitno magijo za povečanje (ali zmanjšanje) moči orožja.
+3. Če je napad pariran, zmanjšajte škodo v skladu s primerjalnimi velikostmi orožja.
+4. Če je lokacija zadetka oklepljena, zmanjšajte škodo za vrednost Točk oklepa.
 
-Če je škoda, ki jo je povzročil napad, večja od nič, potem lokacija zadetka utrpi to količino škode, pri čemer se skupna škoda takoj odšteje od življenjskih točk lokacije. Zabeležite, koliko življenjskih točk ima lokacija še, in kategorijo rane, ki je posledica.
+Če je škoda, povzročena z napadom, večja od nič, potem lokacija zadetka utrpi tolikšno količino škode, pri čemer se skupna škoda takoj odšteje od Hitnih točk lokacije. Zabeležite, koliko Hitnih točk je lokaciji ostalo, in določite kategorijo rane, ki iz tega izhaja.
 
-- **Manjša rana:** Lokacija zadetka ima še vedno pozitivne življenjske točke.
-- **Resna rana:** Lokacija zadetka je zmanjšana na nič življenjskih točk ali manj.
-- **Velika rana:** Lokacija zadetka je zmanjšana na negativno vrednost, enako ali večjo od njenih začetnih življenjskih točk.
+- **Manjša rana:** Lokacija zadetka ima še vedno pozitivne Hitne točke.
+- **Resna rana:** Lokacija zadetka je zmanjšana na nič Hitnih točk ali manj.
+- **Huda rana:** Lokacija zadetka je zmanjšana na negativno število, ki je enako ali večje od njenih začetnih Hitnih točk.
 
-Uporabite naslednja pravila, če lokacija prejme Resno ali Veliko rano. Upoštevajte, da rane, ki zahtevajo preverjanja Vzdržljivosti, te preverjajo v Nasprotnem metu proti vrednosti originalnega napadnega meta. To odraža sposobnost visoko usposobljenih bojevnikov, da zadenejo smrtonosnejše udarce. Meti Vzdržljivosti se ne ponavljajo, razen če je lokacija ponovno ranjena.
+Uporabite naslednja pravila, če lokacija prejme resno ali hudo rano. Upoštevajte, da rane, ki zahtevajo preverjanje VZD, testirate z nasprotnim metom glede na vrednost prvotnega meta za napad. To odraža sposobnost visoko usposobljenih bojevnikov, da izvedejo bolj smrtonosne udarce. Meti za VZD se ne ponavljajo, razen če je lokacija ponovno ranjena.
 
 ### Manjša rana
 
@@ -261,74 +261,74 @@ Manjše rane so ureznine, praske, modrice in zvini. Bolijo, lahko krvavijo, vend
 
 ### Resna rana
 
-Če se lokacija zmanjša na nič življenjskih točk ali manj, žrtev prejme Resno rano. Lokacija je trajno brazgotinasta, in žrtev ne more napasti ali začeti čarati (vendar lahko še vedno Odbije ali Se izogne) naslednjih 1k3 krogov zaradi omamljenosti ali motenosti zaradi bolečine rane.
+Če se lokacija zmanjša na nič Hitnih točk ali manj, žrtev prejme resno rano. Lokacija je trajno zabrazgotinjena, žrtev pa ne more napadati ali začeti čarati (vendar lahko še vedno parira ali se izmika) naslednjih 1k3 krogov zaradi omamljenosti ali odvračanja pozornosti zaradi bolečine rane.
 
-Lik, ki utrpi resno rano na udu, mora takoj izvesti nasprotni met svoje Vzdržljivosti proti uspešnemu napadnemu metu svojega sovražnika. Neuspeh povzroči, da ud postane neuporaben, dokler se lokacija ne povrne na pozitivne življenjske točke. Če gre za nogo, žrtev pade na tla. Če gre za roko, predmet, ki ga drži, pade, razen če je predmet pritrjen (tukaj uporabite zdrav razum).
+Lik, ki utrpi resno rano na okončini, mora takoj opraviti nasprotni met svoje VZD proti uspešnemu metu napada svojega sovražnika. Neuspeh povzroči, da okončina postane neuporabna, dokler se lokaciji ne povrnejo pozitivne Hitne točke. Če gre za nogo, žrtev pade na tla. Če gre za roko, izpusti karkoli je držala, razen če je predmet privezan (tukaj uporabite zdravo pamet).
 
-Lik, ki utrpi resno rano na trebuhu, prsih ali glavi, mora takoj izvesti nasprotni met svoje Vzdržljivosti proti uspešnemu napadnemu metu svojega sovražnika. Neuspeh povzroči nezavest za število minut, enako količini škode, ki jo je povzročil napad, ki je povzročil resno rano. S spretnostmi Prve pomoči ali Zdravljenja se lahko nezavestni žrtvi pomaga nazaj k zavesti.
+Lik, ki utrpi resno rano na trebuhu, prsih ali glavi, mora takoj opraviti nasprotni met svoje VZD proti uspešnemu metu napada svojega sovražnika. Neuspeh povzroči nezavest za toliko minut, kolikor je škode povzročene v napadu, ki je povzročil resno rano. Veščini Prva pomoč ali Zdravljenje se lahko uporabita za pomoč nezavestni žrtvi, da pride k zavesti.
 
-Po presoji Mojstra igre, tudi če lik ostane funkcionalen, bodo vse naloge, ki zahtevajo uporabo te lokacije zadetka, trpele stalno kazen ene težavnostne stopnje, dokler se poškodba ne zmanjša na Manjšo rano.
+Po presoji mojstra iger bo lik, tudi če ostane funkcionalen, pri vseh nalogah, ki zahtevajo uporabo te lokacije zadetka, utrpel stalno kazen ene stopnje težavnosti, dokler se poškodba ne zmanjša na manjšo rano.
 
-### Velika rana
+### Huda rana
 
-Če se lokacija zmanjša na negativni rezultat, enak ali večji od njenih začetnih življenjskih točk, lik prejme Veliko rano. Lik je takoj Onemogočen, nesposoben nadaljevati boj. Ud je odsekan, preboden, razbit ali odtrgan z Veliko rano. Lik pade na tla, fizično Onemogočen, in mora takoj izvesti Nasprotni met Vzdržljivosti proti uspešnemu napadnemu metu svojega sovražnika. Neuspeh povzroči nezavest od agonije. Če odsekano, prebodeno ali odtrgano lokacijo ne obravnavamo v številu minut, enakem petkratniku njegove stopnje celjenja, lik umre zaradi izgube krvi in šoka.
+Če se lokacija zmanjša na negativno število, ki je enako ali večje od njenih začetnih Hitnih točk, lik prejme hudo rano. Lik je takoj onesposobljen in ne more več nadaljevati boja. Okončina je s hudo rano odrezana, prebodena, zdrobljena ali odtrgana. Lik pade na tla, fizično onesposobljen, in mora takoj opraviti nasprotni met VZD proti uspešnemu metu napada svojega sovražnika. Neuspeh povzroči nezavest zaradi agonije. Če odrezana, prebodena ali odtrgana lokacija ni oskrbljena v nekaj minutah, ki so enake petkratniku njegove Stopnje zdravljenja, lik umre zaradi izgube krvi in šoka.
 
-Žrtev velike rane na trebuhu, prsih ali glavi pade v nezavest, popolnoma onesposobljena, in mora takoj izvesti nasprotni met svoje Vzdržljivosti proti uspešnemu napadnemu metu svojega sovražnika. Neuspeh povzroči takojšnjo in grozljivo smrt (obglavljen, preklan na pol, preboden skozi srce, raztrgan itd.). Če preživijo in lokacija ni obravnavana v številu bojnih krogov, enakem dvakratniku Stopnje celjenja lika, še vedno umrejo zaradi izgube krvi in šoka.
+Žrtev hude rane na trebuhu, prsih ali glavi pade v nezavest, popolnoma onesposobljena, in mora takoj opraviti nasprotni met VZD proti uspešnemu metu napada svojega sovražnika. Neuspeh povzroči takojšnjo in grozljivo smrt (obglavljenje, razsek na pol, prebod srca, raztrganje itd.). Če preživijo in lokacija ni oskrbljena v številu bojnih krogov, ki je enako dvakratniku Stopnje zdravljenja lika, še vedno umrejo zaradi izgube krvi in šoka.
 
-Ker večina Velikih ran zahteva neko obliko operacije ali pomembne magije za celjenje, je zelo malo verjetno, da si bo trpeči opomogel od Velike rane pravočasno, da se bo ponovno pridružil boju. Odvisno od razpoložljivega zdravljenja bo ranjena lokacija potencialno pohabljena (glej [Celjenje po poškodbah](0004_Game_System.md?id=healing-from-injury) spodaj).
+Ker večina hudih ran zahteva kirurški poseg ali močno magijo, je zelo malo verjetno, da si bo žrtev opomogla od hude rane pravočasno, da bi se ponovno pridružila boju. Odvisno od razpoložljivega zdravljenja bo ranjena lokacija potencialno pohabljena (glejte [Zdravljenje poškodb](0004_Game_System.md?id=healing-from-injury) spodaj).
 
 ### Izguba krvi
 
-Izguba krvi zaradi zunanjih in notranjih ran, običajno utrpelih v boju, lahko lik zelo hitro izčrpa. Njegovi učinki se merijo z nabiranjem ravni Utrujenosti, podobno kot pri Zadušitvi. Neomejena Izguba krvi običajno povzroči smrt brez neke oblike medicinske pomoči. Za razliko od Zadušitve so učinki resne Izgube krvi na Utrujenost trajni. Lik si opomore od Utrujenosti, izgubljene zaradi krvavitve, s hitrostjo ene ravni na dan, začenši dan po prenehanju eksanguinacije.
+Izguba krvi zaradi zunanjih in notranjih ran, ki se običajno zgodijo v boju, lahko lik zelo hitro izčrpa. Njeni učinki se merijo z nabiranjem stopenj utrujenosti, podobno kot zadušitev. Neobvladana izguba krvi običajno povzroči smrt brez kakršne koli zdravniške pomoči. Za razliko od zadušitve so učinki resne izgube krvi na utrujenost trajni. Lik si opomore od utrujenosti zaradi krvavitve s hitrostjo ene stopnje na dan, začenši dan po tem, ko se izkrvavitev konča.
 
-### Herojska zadnja dejanja
+### Junaška zadnja dejanja
 
-V posebnih primerih, ko ključni liki prejmejo Veliko rano, lahko Mojster igre dovoli junaško zadnje dejanje – kot je izpljunek zadnjega uroka, poskus zmanjšanja svojega morilca, plazenje v skrivališče ali poskus zaustavitve lastne rane. Morajo imeti delujoče ude, ki so uporabni za dejanje, in porabiti točko sreče. Imajo eno priložnost, da poskusijo svoje dejanje, nato pa takoj kolabirajo v nezavest in verjetno smrt.
+V posebnih primerih, ko ključni liki prejmejo hudo rano, lahko mojster iger dovoli junaško zadnje dejanje – na primer izpljunitev zadnjega uroč, poskus pokončanja svojega krvnika, plazenje v skrivališče ali poskus prevezave lastne rane. Imeti morajo delujoče okončine, ki so primerne za dejanje, in porabiti točko Sreče. Dobijo eno priložnost, da poskusijo svoje dejanje, nato pa takoj padejo v nezavest in verjetno smrt.
 
 ---
-## Celjenje po poškodbah
+## Zdravljenje poškodb
 
-Naravno celjenje ran in poškodb temelji na stopnji celjenja lika. Stopnja celjenja določa, koliko življenjskih točk se povrne na lokaciji, odvisno od narave poškodbe:
+Naravno celjenje ran in poškodb temelji na Stopnji zdravljenja lika. Stopnja zdravljenja določa, koliko Hitnih točk se povrne na lokaciji glede na naravo poškodbe:
 
 - **Manjše rane:** Dnevi
 - **Resne rane:** Tedni
-- **Velike rane:** Meseci
+- **Hude rane:** Meseci
 
-Tako se bo lik s stopnjo celjenja 3, ki utrpi škodo, ki ga pripelje do –3 na lokaciji zadetka, kar je resna rana, naravno celil s hitrostjo 3 življenjskih točk na teden, dokler njegova rana ne bo nad ničlo, nato pa se bo celil s hitrostjo 3 življenjskih točk na dan, dokler si popolnoma ne opomore.
+Tako se bo lik s Stopnjo zdravljenja 3, ki utrpi škodo, zaradi katere na lokaciji zadetka pristane na –3 (resna rana), naravno celil s hitrostjo 3 Hitne točke na teden, dokler rana ne preseže ničle, nato pa se bo celil s hitrostjo 3 Hitne točke na dan, dokler si popolnoma ne opomore.
 
-Obstajajo določene omejitve naravnega celjenja:
+Obstajajo določene omejitve pri naravnem celjenju:
 
-- Zdravstveni lik se ne sme ukvarjati z naporno dejavnostjo: sicer se stopnja celjenja zmanjša za 1k3. Tako lahko lik, ki si opomore celo od manjše rane, ugotovi, da je njegov napredek zaustavljen, če se odloči za kakršne koli fizične naloge, ki bi lahko poslabšale poškodbe.
-- Naravno celjenje ne bo začelo celiti velike rane, dokler žrtev ni bila zdravljena z uspešnim metom Zdravljenja ali s čarovanjem neke oblike zdravilne magije. Velike rane, ki ne povzročijo odtrganja, in ki niso zdravljene v številu dni, enakem eni dvajsetini veščine Zdravljenja, postanejo pohabljene, trajno zmanjšajo življenjske točke lokacije.
+- Lik, ki se celi, se ne sme ukvarjati z naporno dejavnostjo: v nasprotnem primeru se Stopnja zdravljenja zmanjša za 1k3. Tako bi se lahko lik, ki okreva celo od manjše rane, soočil z zastojem napredka, če se odloči za kakršne koli fizične naloge, ki bi lahko poslabšale poškodbe.
+- Naravno celjenje ne bo začelo celiti hude rane, dokler žrtev ni oskrbljena z uspešnim metom za Zdravljenje ali čaranjem kakršne koli oblike zdravilne magije. Hude rane, ki ne vključujejo amputacije in niso oskrbljene v številu dni, ki je enako eni dvajsetini veščine Zdravljenje, postanejo pohabljene, kar trajno zmanjša Hitne točke lokacije.
 
 ---
 ## Neživi predmeti
 
-Vsi neživi predmeti imajo točke oklepa in življenjske točke, ki se uporabljajo za določanje odpornosti proti poškodbam in uničenju. Točke oklepa zmanjšujejo poškodbe, preden so prizadete življenjske točke. Ko se življenjske točke predmeta zmanjšajo na nič, je neuporaben.
+Vsi neživi predmeti imajo Točke oklepa in Hitne točke, ki se uporabljajo za določanje odpornosti proti škodi in uničenju. Točke oklepa zmanjšajo škodo, preden so prizadete Hitne točke. Ko so Hitne točke predmeta zmanjšane na nič, je neuporaben.
 
-Poskusi loma zahtevajo, da lik vrže Brawn, Unarmed ali Combat Style, kot je primerno, da nanese škodo. Uspeh nanese škodo predmetu.
+Poskusi zloma zahtevajo, da lik opravi met za MOČ, Neoborožen boj ali Bojni slog, kot je primerno, za povzročitev škode. Uspeh povzroči škodo predmetu.
 
 #### Orožje proti neživim predmetom
 
-Uporaba orožja proti neživemu predmetu s točkami oklepa, ki so enake ali večje od točk oklepa orožja, povzroči škodo tako predmetu kot orožju. Na primer, uporaba sekire na železnih vratih lahko poškoduje vrata, vendar bo sekira sama uničena veliko prej kot železna vrata. Mojster igre naj po lastni presoji odloči, katero orožje ali orodje lahko vpliva na katere predmete. Dleto je na primer izrecno zasnovano za izrezovanje lesa ali kamna, medtem ko meč, čeprav oster, ni. Dleto zato ne bi utrpelo škode zaradi nečesa, kar poskuša izrezovati, medtem ko bi meč najverjetneje.
+Uporaba orožja proti neživemu predmetu s Točkami oklepa, ki so enake ali večje od tistih pri orožju, povzroči škodo tako predmetu kot orožju. Na primer, uporaba sekire na železnih vratih lahko poškoduje vrata, vendar bo sekira sama uničena veliko prej kot železna vrata. Mojster iger naj uporabi diskrecijo pri tem, katero orožje ali orodje lahko vpliva na katere predmete. Dleto je na primer izrecno zasnovano za rezbarjenje lesa ali kamna, medtem ko meč, čeprav oster, ni. Dleto torej ne bi utrpelo škode od nečesa, kar poskuša obdelovati, medtem ko bi jo meč najverjetneje utrpel.
 
 ##### Tabela neživih predmetov
 
-| Predmet | Oklep / Življenjske točke |
+| Predmet | Oklep / Hitne točke |
 | :-- | :-: |
 | Grajska vrata | 8/150 |
-| Grajsko obzidje | 10/500 |
-| Veriga/lisice | 8/8 |
-| Železni steber | 8/15 |
+| Grajski zid | 10/500 |
+| Veriga/Okov | 8/8 |
+| Železen drog | 8/15 |
 | Stekleno okno | 1/4 |
 | Železna vrata | 12/30 |
-| Vrvi | 6/3 |
+| Vrv | 6/3 |
 | Lesen stol | 4/15 |
 | Opečni zid | 6/30 |
 | Betonski zid | 8/40 |
 | Avtomobil | 6/30 |
 | Neprebojno steklo | 8/25 |
-| Jekleni nosilec | 12/50 |
+| Jeklen nosilec | 12/50 |
 | Oklepno vozilo | 10/50 |
 | Bojni tank | 15/100 |
 | Tovornjak/Bager | 8/40 |
@@ -337,22 +337,22 @@ Uporaba orožja proti neživemu predmetu s točkami oklepa, ki so enake ali več
 ---
 ## Točke sreče
 
-Točke sreče pomagajo razlikovati junake od navadnih vojakov. Predstavljajo sposobnost lika, da morebitni neuspeh spremeni v uspeh in celo prelisiči smrt.
+Točke sreče pomagajo razlikovati junake od običajnih ljudi. Predstavljajo sposobnost lika, da potencialno spremeni neuspeh v uspeh in celo preslepi smrt.
 
-Točke sreče se lahko uporabijo med igro in se na začetku naslednje seje dopolnijo do svoje običajne vrednosti.
+Točke sreče se lahko uporabljajo med igranjem in se na začetku naslednje seje obnovijo na svojo običajno vrednost.
 
 #### Uporaba točk sreče
 
-Točke sreče se lahko uporabljajo na različne načine. Za podporo določenemu dejanju se lahko uporabi samo ena točka sreče. Točk sreče ni mogoče porabiti za izkušnje ali vaje. Vsaka od naslednjih možnosti stane eno točko sreče.
+Točke sreče se lahko uporabljajo na različne načine. Za podporo določenemu dejanju se lahko uporabi le ena točka sreče. Točk sreče ni mogoče porabiti za mete izkušenj ali usposabljanja. Vsaka od naslednjih možnosti stane eno točko sreče.
 
-#### Prelisičiti usodo
+#### Prelisičenje usode
 
-Liki lahko uporabijo točko sreče, da ponovno vržejo ali zamenjajo (na primer 75 bi postala 57) kateri koli met kocke, ki ga izvedejo. To je lahko met spretnosti, met škode ali karkoli drugega, kar ima določen učinek. Liki lahko celo prisilijo nasprotnika, da ponovno vrže met napada ali škode, ki je bil narejen proti njim.
+Liki lahko uporabijo točko sreče za ponovni met ali zamenjavo (75 bi na primer postalo 57) katerega koli meta kock, ki ga opravijo. To je lahko met za veščino, met za škodo ali karkoli drugega, kar ima kakršen koli učinek. Liki lahko celo prisilijo nasprotnika k ponovnemu metu za napad ali škodo, narejen proti njim.
 
-#### Obupen napor
+#### Obupani napor
 
-Če je lik med bojem izčrpal svoje akcijske točke in mora najti zadnji izbruh obupne energije, da bi se morda izognil grdemu koncu, lahko porabi točko sreče, da pridobi dodatno akcijsko točko.
+Če je lik med bojem izčrpal svoje točke akcije in mora najti tisti zadnji sunek obupane energije, da se morda izogne grdemu koncu, lahko porabi točko sreče za pridobitev dodatne točke akcije.
 
-#### Zmanjšanje škode
+#### Ublažitev škode
 
-Lik, ki utrpi veliko rano, lahko porabi točko sreče, da zmanjša poškodbo na resno rano. To zmanjša prejeto škodo na eno življenjsko točko manj, kot bi bilo potrebno za povzročitev velike rane.
+Lik, ki utrpi hudo rano, lahko porabi točko sreče, da poškodbo zniža na resno rano. To zmanjša utrpljeno škodo na eno Hitno točko manj, kot bi bilo potrebno za povzročitev hude rane.

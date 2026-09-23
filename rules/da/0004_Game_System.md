@@ -1,231 +1,229 @@
 # Spilsystem
 
-Mange forskellige ting kan ske i løbet af et *Mythras Imperative*-spil. Nogle løses gennem brug af færdigheder eller en af de vigtigste spilmekanikker, såsom kamp eller magi; andre kræver deres egne regler for afgørelse. Dette kapitel indeholder regler og vejledning til en række forskellige scenarier, som spillere vil møde, mens de spiller spillet.
+Mange forskellige ting kan ske i løbet af et _Mythras Imperative_-spil. Nogle løses gennem brug af færdigheder eller en af de vigtigste spilmekanikker såsom kamp eller magi; andre kræver deres egne regler for afgørelse. Dette kapitel indeholder regler og vejledning til en række forskellige scenarier, som spillere vil støde på, mens de spiller spillet.
 
-Listen er ikke udtømmende, men bør repræsentere de mest almindelige situationer. Hvis spilledere finder, at der er andre situationer, der kræver en form for spilsystemmæssig afgørelse, og at disse situationer ser ud til at forekomme ofte, opfordres de til at udvikle deres egne regler til at dække disse særlige omstændigheder ved at bruge dem, der er givet i dette kapitel, som grundlag for replikering eller udvikling.
+Listen er ikke udtømmende, men bør repræsentere de mest almindelige situationer. Hvis spilledere finder ud af, at der er andre situationer, der kræver en form for spilsystem-afgørelse, og at disse situationer ser ud til at forekomme ofte, opfordres de til at udvikle deres egne regler til at dække disse særlige omstændigheder ved at bruge dem, der er givet i dette kapitel, som grundlag for kopiering eller udvikling.
 
 ---
 ## Kvælning
 
-Karakterer kan holde vejret i et antal sekunder svarende til deres Udholdenhed-færdighed. Karakteren skal dog være forberedt (fylde lungerne med så meget luft som muligt); hvis ikke, halveres perioden, hvis karakteren var i en passiv situation, eller reduceres til en femtedel, hvis karakteren var i gang med anstrengende aktivitet.
+Karakterer kan holde vejret i et antal sekunder svarende til deres UDH-færdighed. Karakteren skal dog være forberedt (fylde lungerne med så meget luft som muligt); hvis ikke, halveres perioden, hvis karakteren var i en passiv situation, eller reduceres til en femtedel, hvis karakteren var involveret i anstrengende aktivitet.
 
-Når perioden med at holde vejret er slut, skal karakterer foretage et Udholdenhed-rul:
+Når perioden med at holde vejret er forbi, skal karakterer foretage et UDH-kast:
 
-- Hvis rullet er en Kritisk succes, sker der ingen yderligere forringelse.
-- Hvis rullet er en Succes, pådrager karakteren sig et ekstra niveau af Træthed.
-- Hvis rullet fejler (Fail), pådrager karakteren sig 1d2 ekstra niveauer af Træthed i den runde.
-- Hvis rullet er en Forhastet fejl (Fumble), pådrager karakteren sig 1d3 ekstra niveauer af Træthed i den runde.
+- Hvis kastet er en kritisk succes, sker der ingen yderligere forringelse.
+- Hvis kastet er en succes, opnår karakteren et ekstra niveau af udmattelse.
+- Hvis kastet fejler, pådrager karakteren sig 1d2 ekstra niveauer af udmattelse den runde.
+- Hvis kastet er en fumler, pådrager karakteren sig 1d3 ekstra niveauer af udmattelse den runde.
 
-Uden hjælp er død ved kvælning normalt hurtig. Hvis kvælningen ophører, før karakteren dør, genvinder de relativt hurtigt de træthedsniveauer, der er gået tabt ved kvælning, og genvinder ét niveau pr. minut.
+Uden hjælp er død ved kvælning normalt hurtig. Hvis kvælningen ophører, før karakteren dør, genvinder de relativt hurtigt de udmattelsesniveauer, der er gået tabt ved kvælning, og genvinder ét niveau pr. minut.
 
-Afhængigt af kvælningsmetoden kan spillederen ønske at forhindre fuld genopretning ved at pålægge et vedvarende niveau af Træthed (se afsnittet om [Træthed](0004_Game_System.md?id=fatigue)) for at repræsentere skader på lungerne forårsaget af røg- eller vandindånding.
+Afhængigt af kvælningsmetoden kan spillederen ønske at forhindre fuld restitution ved at pålægge et vedvarende udmattelsesniveau (se afsnittet om [Udmattelse](0004_Game_System.md?id=fatigue)) for at repræsentere skade på lungerne forårsaget af indånding af røg eller vand.
 
 ---
-## Forbedring af karakterer
+## Karakterforbedring
 
-Enhver *Mythras Imperative*-karakter kan forbedres med tiden og erfaringen. Forbedringer kan foretages på flere områder:
+Enhver _Mythras Imperative_-karakter kan forbedres med tid og erfaring. Forbedring kan foretages på flere områder:
 
-- Forøgelse af eksisterende færdigheder
-- Forøgelse af lidenskaber (Passions)
-- Indlæring af nye færdigheder
-- Indlæring af nye evner
+- Øge eksisterende færdigheder
+- Øge passioner
+- Lære nye færdigheder
+- Lære nye evner
 
-#### Erfaringsrul
+#### Erfaringskast
 
-Mekanismen for de fleste karakterforbedringer er Erfaringsrullet. Spilledere uddeler erfaringsrul på et passende tidspunkt i kampagnen: ved slutningen af hvert vellykket scenarie eller historiebue; eller måske efter to eller tre spilsessioner, hvis historien er en lang en, der tager tid at gennemføre. Hyppigheden er op til spillederens skøn. En høj hyppighed af erfaringsrul vil føre til, at karaktererne udvikler sig hurtigere.
+Mekanismen for de fleste karakterforbedringer er erfaringskastet. Spilledere uddeler erfaringskast på et passende tidspunkt i kampagnen: ved afslutningen af hvert vellykket scenarie eller hver historie; eller måske efter to eller tre spilsessioner, hvis historien er lang og vil tage tid at fuldføre. Hyppigheden er op til spillederens skøn. En høj hyppighed af erfaringskast vil føre til, at karaktererne udvikler sig hurtigere.
 
-Der er ikke noget rigtigt eller forkert tidspunkt at give erfaringsrul på, men naturlige pauser i historien kan foreslå passende tidspunkter. Spillederen er dog altid beslutningstageren her. Selvom spillere ikke kan kræve erfaringsrul, har de ret til at forvente dem på visse punkter – da deres karakterer ikke vil kunne udvikle sig uden dem.
+Der er ikke noget rigtigt eller forkert tidspunkt at give erfaringskast på, men naturlige pauser i historien kan foreslå passende tidspunkter. Spillederen er dog altid beslutningstageren her. Selvom spillere ikke kan kræve erfaringskast, har de ret til at forvente dem på visse tidspunkter – da deres karakterer ikke vil kunne udvikle sig uden dem.
 
-Antallet af tildelte erfaringsrul bestemmes også af spillederen. En god tommelfingerregel er dog 1-3 erfaringsrul pr. session siden sidste gang, de blev tildelt.
+Antallet af tildelte erfaringskast bestemmes også af spillederen. En god tommelfingerregel er dog 1-3 erfaringskast pr. session siden sidst, de blev tildelt.
 
-#### Forøgelse af eksisterende færdigheder
+#### Øge eksisterende færdigheder
 
-Enhver færdighed på karakterarket, uanset om den er standard eller professionel, kan forøges ved at bruge ét erfaringsrul. Spillere kan vælge ikke at bruge erfaringsrul på at forøge færdigheder og i stedet opbygge et lager til brug for forøgelse af andre ting – såsom klasse-evner (se nedenfor).
+Enhver færdighed på karakterarket, standard eller professionel, kan øges ved at bruge ét erfaringskast. Spillere kan vælge ikke at bruge erfaringskast på at øge færdigheder, men i stedet opbygge et lager til brug for at øge andre ting – såsom klasseevner (se nedenfor).
 
-Spilleren ruller 1d100 og sammenligner det med den færdighed, der skal forøges. Karakterens INT lægges til rullet.
+Spilleren ruller 1d100 og sammenligner det med den færdighed, der skal øges. Karakterens INT lægges til kastet.
 
-- Hvis tallet, der rulles, er lig med eller højere end den færdighed, der forbedres, øges den med 1d4+1%.
-- Hvis tallet, der rulles, er lavere end den valgte færdighed, øges færdigheden stadig, men kun med 1%.
-- Hvis en karakter lavede en forhastet fejl (Fumble) i en færdighed under den/de foregående session(er) – dvs. mellem det sidste sæt erfaringsrul og det nuværende – får den fejlbehæftede færdighed en gratis forøgelse på 1%. Vi lærer mere af vores fejl end af vores succeser, og dette repræsenterer den refleksion, en karakter gennemgår efter en katastrofal fiasko. Flere fejl i den samme færdighed akkumuleres ikke. I et tilfælde, hvor den fejlbehæftede færdighed også hæves med et erfaringsrul, anvendes 1%-forøgelsen fra fejlen, før rullet foretages for at forbedre den.
+- Hvis det rullede tal er lig med eller større end den færdighed, der forbedres, stiger den med 1d4+1%.
+- Hvis det rullede tal er mindre end den valgte færdighed, stiger færdigheden stadig, men kun med 1%.
+- Hvis en karakter fumlede med en færdighed i løbet af de foregående session(er) – dvs. mellem det sidste sæt erfaringskast og det nuværende – opnår den fumlede færdighed en gratis stigning på 1%. Vi lærer mere af vores fejl end af vores succeser, og dette repræsenterer den refleksion, en karakter gennemgår efter en katastrofal fiasko. Flere fumler med den samme færdighed stables ikke. I et tilfælde, hvor den fumlede færdighed også bliver hævet med et erfaringskast, påføres den 1% fra fumleren, før kastet for at forbedre den foretages.
 
-Den samme færdighed kan ikke drage fordel af mere end ét erfaringsrul pr. session.
+Den samme færdighed må ikke modtage mere end ét erfaringskast pr. session.
 
-#### Forøgelse af lidenskaber
+#### Øge passioner
 
-Som beskrevet under Lidenskaber i afsnittet [Lidenskaber](0002_Characters.md?id=step-8-passions), kan værdien af en lidenskab forøges med erfaringsrul på samme måde som en færdighed. Hvis spillet støtter det, kan spillederen endda tillade, at en lidenskab reduceres ved hjælp af et erfaringsrul.
+Som beskrevet under passioner i [Passioner](0002_Characters.md?id=step-8-passions)-afsnittet, kan værdien af en passion øges med erfaringskast på samme måde som en færdighed. Hvis det understøttes af spillet, kan spillederen endda tillade, at en passion reduceres ved hjælp af et erfaringskast.
 
-*For eksempel kan konstant afvisning fra en ulykkelig kærlighed til sidst nedbryde lidenskaben hos selv den mest ivrige elsker, især en, der ønsker at forfølge et forhold uden fortidens spøgelser, der hjemsøger dem.*
+_For eksempel kan konstant afvisning fra en ulykkelig kærlighed til sidst slide på passionen hos selv den mest ivrige elsker, især en, der ønsker at forfølge et forhold uden fortidens spøgelser, der hjemsøger dem._
 
-#### Indlæring af nye færdigheder
+#### Lære nye færdigheder
 
-Nogle karakterer ønsker måske at studere nye professionelle færdigheder, som de aldrig har haft chancen for at lære i deres kultur. Før de kan begynde at investere erfaringsrul, skal de først finde en kilde til viden, som de kan lære fra. Dette kan være så prosaisk som en professionel vejleder, såsom dem, der tilbydes af ordener eller gilder. Alternativt kan det være en mere eksotisk kilde til uddannelse, såsom en gammel og smuldrende træningsrulle.
+Nogle karakterer ønsker måske at studere nye professionelle færdigheder, som de aldrig har haft chancen for at lære fra deres kultur. Før de kan begynde at investere erfaringskast, skal de først finde en kilde til viden, hvorfra de kan lære. Dette kan være så prosaisk som en professionel vejleder, såsom dem, der leveres af ordener eller gilder. Alternativt kan det være en mere eksotisk kilde til uddannelse, såsom en gammel og smuldrende træningsrulle.
 
-Når en kilde til uddannelse er fundet, skal karakteren bruge en hel måned på studier og praksis for at opnå et grundlæggende kendskab til den færdighed (lær på basisniveau). Dette koster 3 erfaringsrul plus de omkostninger i spillet, der kræves for at betale læreren (hvis en sådan findes) og købe (eller leje) det udstyr og de værktøjer, der måtte være nødvendige.
+Når en uddannelseskilde er fundet, skal karakteren bruge en hel måneds studier og øvelse for at opnå et grundlæggende kendskab til den færdighed (lær på basisniveau). Dette koster 3 erfaringskast plus eventuelle omkostninger i spillet, der kræves for at betale læreren (hvis en sådan findes) og købe (eller leje) det udstyr og værktøj, der måtte være nødvendigt.
 
 ---
 ## Sygdom og gift
 
-Nogle af de ting, man frygter mest, og som kan påvirke karakterer, er de myriader af sygdomme og gifte, der inficerer verdens mørke og dystre steder. Der er intet mere foruroligende end en pest, der rammer karakterens hjemby, især når de stadig er inden for dens porte. Ligeledes kan det at finde en giftig slange i sengen eller blive angrebet af kæmpeskorpioner være øjeblikke med høj dramatik.
+Nogle af de mest frygtede ting, der kan påvirke karakterer, er de utallige sygdomme og gifte, der inficerer verdens mørke og dystre steder. Der er ikke noget mere foruroligende end en pest, der rammer karakterens hjemby, især når de stadig befinder sig inden for dens porte. Ligeledes kan det at finde en giftig slange i sengen eller blive angrebet af gigantiske skorpioner være øjeblikke med høj dramatik.
 
-Sygdomme og gifte er næsten uendelige i deres variationer, men håndteres i spilsammenhæng på samme måde.
+Sygdomme og gifte er næsten uendelige i deres varianter, men håndteres i spilsammenhæng på samme måde.
 
 #### Træk ved sygdom og gift
 
-Alle sygdomme og gifte manifesterer en række træk, der er vigtige for deres effekter.
+Alle sygdomme og gifte manifesterer en række træk, der er vigtige for deres virkninger.
 
-**Anvendelse:** Metoden til, hvordan sygdommen eller giften føres ind i offeret.
+**Anvendelse:** Metoden til hvordan sygdommen eller giften indføres i offeret.
 
-- **Indtagelse:** Effekter opstår gennem enten at spise eller drikke.
-- **Indånding:** Effekter opstår gennem vejrtrækning eller indsnusning.
-- **Kontakt:** Effekter opstår gennem absorption gennem huden.
-- **Injektion:** Effekter opstår, når stoffet sprøjtes ind i kroppen gennem gennemtrængning.
+- **Indtagelse:** Effekter finder sted gennem enten at spise eller drikke.
+- **Indånding:** Effekter finder sted gennem vejrtrækning eller sniffning.
+- **Kontakt:** Effekter finder sted gennem absorption gennem huden.
+- **Injektion:** Effekter finder sted, når stoffet injiceres i kroppen gennem perforering.
 
-**Styrke (Potency):** Sygdommens eller giftens virulens. Denne værdi sættes op mod en passende modstandsdygtig færdighed (normalt Udholdenhed eller Viljestyrke) i et modsat rul. Hvis karakteren vinder rullet, afværger de dens virkninger. Hvis de taber rullet, lider de under alle sygdommens eller giftens tilstande, hver til den passende tid.
+**Potens:** Sygdommens eller giftens virulens. Denne værdi sættes op mod en passende modstandsdygtig færdighed (normalt UDH eller Viljestyrke) i et modsat kast. Hvis karakteren vinder kastet, ryster de dens virkninger af sig. Hvis de taber kastet, lider de under alle sygdoms- eller giftbetingelserne, hver på det passende tidspunkt.
 
-**Modstand:** Hvordan sygdommen eller giften modstås – normalt enten Udholdenhed eller Viljestyrke, men kan have mere eksotiske modstandskrav. Modstand kan rulles på eksponeringstidspunktet eller udskydes til Onset-tiden for at skjule det faktum, at karakteren kan være blevet inficeret eller forgiftet.
+**Modstand:** Hvordan sygdommen eller giften modstås – normalt enten UDH eller Viljestyrke, men kan have mere eksotiske modstandskrav. Modstand kan rulles på tidspunktet for eksponering eller udskydes til tidspunktet for debut for at skjule det faktum, at karakteren kan være blevet inficeret eller forgiftet.
 
-**Onset-tid:** Mange sygdomme og gifte har ikke øjeblikkelig effekt. Forsinkelsen kaldes Onset-tid, og dette kan være et spørgsmål om sekunder, minutter, timer eller endnu længere. Gifte eller sygdomme, der besidder flere effekter, kan have forskellige Onset-tider for hver enkelt, som beskrevet under Tilstande.
+**Tidspunkt for debut:** Mange sygdomme og gifte har ikke øjeblikkelig effekt. Forsinkelsen kaldes tidspunktet for debut, og dette kan være et spørgsmål om sekunder, minutter, timer eller endda længere. Gifte eller sygdomme, der besidder flere effekter, kan have forskellige debut-tider for hver af dem som beskrevet under Betingelser.
 
-**Varighed:** Hvor længe en sygdoms eller gifts tilstande varer.
+**Varighed:** Hvor længe en sygdoms eller gifts betingelser varer.
 
-**Tilstande:** Hver toksin har en eller flere tilstande. Disse har specifikke effekter som beskrevet i tabellen over tilstande nedenfor, og hvis et offer ikke formår at modstå, lider han af alle de beskrevne tilstande.
+**Betingelser:** Hvert toksin har en eller flere betingelser. Disse har specifikke effekter som beskrevet i betingelsestabellen nedenfor, og hvis et offer ikke formår at gøre modstand, lider han under alle de beskrevne betingelser.
 
-**Modgift/Kur:** Hvis toksinet kan behandles, vil det blive bemærket her. Vellykket behandling forhindrer yderligere tilstande i at opstå, men kan i visse omstændigheder efterlade offeret med vedvarende effekter, der allerede er blevet påført.
+**Modgift/Kur:** Hvis toksinet kan behandles, vil det blive noteret her. Vellykket behandling forhindrer yderligere betingelser i at opstå, men kan i visse tilfælde efterlade offeret med vedvarende effekter, der allerede er blevet påført.
 
-##### Tabel over tilstande
+##### Betingelsestabel
 
-| Tilstand | Effekter |
+| Betingelse | Effekter |
 | :-- | :-- |
-| Agoni | Offeret hindres af intens smerte. Uanset om det er på et sted eller i hele kroppen, skal ethvert færdighedsrul, der involverer brug af det berørte område, også være lig med eller mindre end karakterens Viljestyrke, ellers mislykkes forsøget, og de klynker eller skriger af smerte. |
-| Kvælning | Offeret lider af kvælning – han kollapser inhabil, ude af stand til at trække vejret. Reglerne fra afsnittet [Kvælning](0004_Game_System.md?id=asphyxiation) anvendes. Kvælning kan være af astmatisk karakter, hvilket betyder, at offeret kun lider af åndenød, eller fuldstændigt åndedrætssvigt, der resulterer i død. I sidstnævnte tilfælde kan et offer holdes i live ved at vinde en modsat test af Førstehjælp-færdigheden mod sygdommens eller giftens styrke. |
-| Blødning | Offeret lider enten af indre blødninger eller overfladiske blødninger, hvilket fører til de trætheds- og restitutions-tider, der er beskrevet under afsnittene [Træthed](0004_Game_System.md?id=fatigue) og [Blodtab](0004_Game_System.md?id=blood-loss) nedenfor. |
+| Smerte | Offeret er hindret af intens smerte. Uanset om det er på et sted eller hele kroppen, skal ethvert færdighedskast, der involverer brug af det berørte område, også være mindre end eller lig med karakterens Viljestyrke, ellers fejler forsøget, og de stønner eller skriger af smerte. |
+| Kvælning | Offeret lider af kvælning – han kollapser inhabil, ude af stand til at trække vejret. Reglerne fra afsnittet [Kvælning](0004_Game_System.md?id=asphyxiation) anvendes. Kvælning kan være astmatisk af natur, hvilket betyder, at offeret kun lider af åndenød eller totalt åndedrætssvigt, der resulterer i død. I sidstnævnte tilfælde kan et offer holdes i live ved at vinde en modsat test af førstehjælpsfærdigheden mod sygdommens eller giftens potens. |
+| Blødning | Offeret lider af enten indre blødninger eller overfladiske blødninger, hvilket fører til udmattelses- og restitutionstider beskrevet under afsnittene [Udmattelse](0004_Game_System.md?id=fatigue) og [Blodtab](0004_Game_System.md?id=blood-loss) nedenfor. |
 | Smitsom | Offeret kan overføre giften eller sygdommen ved berøring. |
-| Død | Offeret kollapser inhabil og dør efter et antal runder svarende til deres KON-karakteristik. |
-| Feber | Offerets kropstemperatur svinger vildt – fra varm til kold – og musklerne gør ondt. Alle færdigheder lider under en sværhedsgrad af Svær (Hard). |
-| Mani | Offeret drives til at følge en tvangstanke, såsom at undgå vand, paranoia, selvlemlæstelse og så videre. Den mani, der induceres af sygdommen eller giften, vil blive bemærket i dens beskrivelse. |
-| Kvalme | Offeret kan ikke spise og skal rulle mod sin Udholdenhed hver gang han udfører en stressende fysisk handling for at undgå at blive fysisk syg. Opkastning varer i 1d3 runder, hvorunder han ikke kan handle. Lange perioder med kvalme kan forårsage sult. |
+| Død | Offeret kollapser inhabil og dør efter et antal runder svarende til deres UDH-karakteristik. |
+| Feber | Offerets kropstemperatur svinger vildt – fra varmt til koldt – og musklerne gør ondt. Alle færdigheder lider under en sværhedsgrad af Svær. |
+| Mani | Offeret drives til at følge en tvang, såsom at undgå vand, paranoia, selvlemlæstelse og så videre. Den mani, der fremkaldes af sygdommen eller giften, vil blive noteret i dens beskrivelse. |
+| Kvalme | Offeret kan ikke spise og skal rulle mod sin UDH, hver gang han udfører en stressende fysisk handling for at undgå at blive fysisk syg. Opkastning varer i 1d3 runder, hvorunder han ikke kan handle. Lange varigheder af kvalme kan forårsage sult. |
 | Lammelse | Offeret er fysisk ude af stand til at bevæge sig. Det berørte område, hvis det er et sted, kan ikke bruges i varigheden. Hvis det påvirker hele kroppen, kan karakteren slet ikke bevæge sig. |
 
-#### Eksempel på sygdom: Røde kopper (Red Pox)
+#### Eksempel på sygdom: Rød kopper
 
-Røde kopper er en grim sygdom, der spredes ved hudkontakt med en person, der allerede er inficeret, eller med noget, de har rørt ved. Chancen for at få sygdommen fra en genstand forbliver i 1d3 dage efter kontakt, hvilket gør det ret svært at inddæmme sygdommen, når først et udbrud opstår.
+Rød kopper er en modbydelig sygdom, der spredes ved hudkontakt med en person, der allerede er smittet, eller med noget, de har rørt ved. Chancen for at få sygdommen fra en genstand forbliver i 1d3 dage efter kontakt, hvilket gør det ret svært at begrænse sygdommen, når et udbrud opstår.
 
-Ofre lider først af et mindre udslæt, men inden for en dag får de en alvorlig feber, som normalt gør dem sengeliggende i hele varigheden. I løbet af denne tid udvikler udslættet sig til grufuldt kløende pustler, der sprænger ved den mindste bevægelse og græder små strømme af blod – især fra armhuler og lysken. Dette stadium kan vare op til en uge eller mere, hvilket potentielt viser sig at være dødeligt.
+Ofre lider i starten af et mindre udslæt, men inden for en dag får de en alvorlig feber, som normalt gør dem sengeliggende i hele varigheden. I denne periode udvikler udslættet sig til grufuldt kløende pustler, der brister ved den mindste bevægelse og græder små dryp af blod – især fra armhulerne og lysken. Dette stadie kan vare op til en uge eller mere, hvilket potentielt kan vise sig dødeligt.
 
 - **Anvendelse:** Kontakt
-- **Styrke:** 50
-- **Modstand:** Udholdenhed
-- **Onset-tid:** 1d6+6 timer
+- **Potens:** 50
+- **Modstand:** UDH
+- **Tidspunkt for debut:** 1d6+6 timer
 - **Varighed:** 1d6+3 dage
-- **Tilstande:** Når sygdommen manifesterer sig, bliver offeret smitsom. 1 dag senere begynder de at lide af feber og blødning. Hver dag pustlerne græder blod, mister offeret ét niveau af træthed, som ikke genvindes, før sygdommens varighed er afsluttet.
-- **Modgift/Kur:** Kan helbredes med Heling-færdigheden.
+- **Betingelser:** Når sygdommen manifesterer sig, bliver offeret smitsomt. 1 dag senere begynder de at lide af feber og blødning. Hver dag pustlerne græder blod, mister offeret ét udmattelsesniveau, som ikke genvinder sig, før sygdommens varighed er fuldført.
+- **Modgift/Kur:** Kan helbredes med helbredelsesfærdigheden.
 
 
 ---
 ## Fald
 
-Mængden af skade, man lider ved et fald, afhænger af afstanden af faldet. Rustningspoint reducerer ikke faldskade, men den faldende karakters eller skabnings skadesmodifikator (Damage Modifier) gælder for den skade, der lider ved faldet.
+Mængden af skade, der lider ved et fald, afhænger af faldets afstand. Rustningspoint reducerer ikke faldskade, men den faldende karakters eller skabnings skadesmodifikator gælder for den skade, der lider ved faldet.
 
-##### Tabel over faldafstand
+##### Faldafstandstabel
 
 | Faldafstand | Skade taget |
 | :-- | :-- |
 | 1 meter eller mindre | Ingen skade. |
-| 2-5 meter | 1d6 point skade til ét tilfældigt sted. |
-| 6-10 meter | 2d6 point skade til to tilfældige steder. |
-| 11-15 meter | 3d6 point skade til tre tilfældige steder. |
-| 16-20 meter | 4d6 point skade til fire tilfældige steder. |
+| 2-5 meter | 1d6 point skade på ét tilfældigt sted. |
+| 6-10 meter | 2d6 point skade på to tilfældige steder. |
+| 11-15 meter | 3d6 point skade på tre tilfældige steder. |
+| 16-20 meter | 4d6 point skade på fire tilfældige steder. |
 | Hver +5 meter | +1d6 skade. |
 
 #### Faldende genstande
 
-En faldende genstand giver en mængde skade baseret på dens SIZ og faldets afstand. En genstand giver 1d6 skade for hver 6 point SIZ (eller brøkdel deraf), plus en mængde skade svarende til kolonnen "Skade taget" i tabellen over faldafstand – inklusive eventuelle reduktioner for genstande af mindre størrelse.
+En faldende genstand giver en mængde skade baseret på dens STØ og faldets afstand. En genstand giver 1d6 skade for hver 6 point STØ (eller brøkdel heraf), plus en mængde skade svarende til kolonnen for taget skade i faldafstandstabellen – inklusive eventuelle reduktioner for genstande af mindre størrelse.
 
 ---
-## Træthed
+## Udmattelse
 
-Træthed måler træthed og dens trinvise virkninger. Det bruges til at spore mange forskellige ting, fra anstrengende aktivitet til sygdommens invaliderende virkninger.
+Udmattelse måler træthed og dens trinvise virkninger. Den bruges til at spore mange forskellige ting, fra anstrengende aktivitet til de invaliderende virkninger af sygdom.
 
-Den primære måde at pådrage sig træthed på er ved at engagere sig i en form for fysisk aktivitet. Jo mere anstrengende øvelsen eller arbejdet er, jo hurtigere trætter det karakteren. Efter spillederens skøn skal karakterer foretage et passende færdighedsrul – enten Atletik, Styrke (Brawn) eller Udholdenhed – for at modstå at få et niveau af træthed.
+Den primære måde at opnå udmattelse på er ved at engagere sig i en form for fysisk aktivitet. Jo mere anstrengende øvelsen eller arbejdet er, jo hurtigere trætter det karakteren. Efter spillederens skøn skal karakterer foretage et passende færdighedskast – enten Atletik, Styrke eller UDH – for at modstå at opnå et udmattelsesniveau.
 
-Hvert fejlbehæftet rul akkumulerer et niveau af træthed. Hvert træthedsniveau medfører straffe for brug af færdigheder, bevægelse, initiativ og handlingspoint. Kvælning, blodtab og andre miljøafhængige effekter bidrager også til træthedsakkumulering.
+Hvert fejlet kast akkumulerer et udmattelsesniveau. Hvert niveau af udmattelse medfører straffe for brug af færdigheder, bevægelse, initiativ og handlingspoint. Kvælning, blodtab og andre indstillingsafhængige effekter bidrager også til akkumulering af udmattelse.
 
-For de fleste karakterer bliver aktiviteter af enhver art næsten umulige, når niveauet "Inhabil" (Incapacitated) nås. På dette stadium er karakteren stadig ved bevidsthed, men ude af stand til andet end de mest desperate aktiviteter.
+For de fleste karakterer bliver aktiviteter af enhver art næsten umulige, når niveauet Inhabil nås. På dette stadie er karakteren stadig ved bevidsthed, men ude af stand til andet end de mest desperate aktiviteter.
 
-Ud over inhabil kan karakterer slet ikke handle. Træthedsniveauerne – Halvbevidst, Komatøs og Død – er generelt reserveret til at måle de mest ekstreme virkninger af kvælning, sygdom, blodtab, sult, eksponering og så videre.
+Ud over inhabil kan karakterer slet ikke handle. Udmattelsesniveauerne – halvbevidst, komatøs og død – er generelt reserveret til at måle de mest ekstreme virkninger af kvælning, sygdom, blodtab, sult, eksponering og så videre.
 
-#### Restitution fra træthed
+#### Restitution efter udmattelse
 
-Karakterer restituerer fra træthed afhængigt af deres helingsrate (Healing Rate). Den mængde fuldstændige hvile, der kræves for at restituere fra hvert niveau af akkumuleret træthed, er lig med restitutionsperioden divideret med karakterens helingsrate.
+Karakterer restituerer efter udmattelse afhængigt af deres helbredelsesrate. Mængden af komplet hvile, der kræves for at restituere fra hvert niveau af akkumuleret udmattelse, er lig med restitutionsperioden divideret med karakterens helbredelsesrate.
 
-Bemærk, at nedenstående tabel repræsenterer træthedsrestitution ved fysisk anstrengelse. Træthedsrestitution kan være meget hurtigere ved restitution fra kvælning eller langsommere, hvis man restituerer fra blodtab.
+Bemærk, at tabellen nedenfor repræsenterer udmattelsesrestitution ved fysisk anstrengelse. Udmattelsesrestitution kan være meget hurtigere, når man restituerer efter kvælning, eller langsommere, hvis man kommer sig efter blodtab.
 
-##### Træthedsniveauer
+##### Udmattelsesniveauer
 
-| Træthedsniveau | Færdighedsgrad | Bevægelse | Initiativ | Handlingspoint | Restitutionsperiode |
+| Udmattelsesniveau | Færdighedsgrad | Bevægelse | Initiativ | Handlingspoint | Restitutionsperiode |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Frisk | – | – | Ingen straf | – | – |
-| Forpustet | Svær | Ingen straf | Ingen straf | Ingen straf | 15 minutter |
-| Træt | Svær | -1 meter | Ingen straf | Ingen straf | 3 timer |
-| Udslidt | Formidabel | -2 meter | -2 | Ingen straf | 6 timer |
+| Frisk | – | – | Ingen straffe | – | – |
+| Forpustet | Svær | Ingen straffe | Ingen straffe | Ingen straffe | 15 minutter |
+| Træt | Svær | -1 meter | Ingen straffe | Ingen straffe | 3 timer |
+| Udtrættet | Formidabel | -2 meter | -2 | Ingen straffe | 6 timer |
 | Udmattet | Formidabel | Halveret | -4 | -1 | 12 timer |
-| Invalideret | Herkulisk | Halveret | -6 | -2 | 18 timer |
-| Inhabil | Herkulisk | Immobil | -8 | -3 | 24 timer |
+| Svækket | Herkulesagtig | Halveret | -6 | -2 | 18 timer |
+| Inhabil | Herkulesagtig | Immobil | -8 | -3 | 24 timer |
 | Halvbevidst | Håbløs | Ingen aktiviteter mulige | Ingen aktiviteter mulige | Ingen aktiviteter mulige | 36 timer |
 | Komatøs | Ingen aktiviteter mulige | Ingen aktiviteter mulige | Ingen aktiviteter mulige | Ingen aktiviteter mulige | 48 timer |
 | Død | Død | – | – | – | Aldrig |
 
 ---
-## Ildebrande
+## Ilde
 
-Ildebrande er altid en kilde til fare, når de bruges som våben eller raser ude af kontrol. Tabellen over ildintensitet nedenfor angiver fem forskellige intensiteter for varmeskade med nogle eksempler. Den skade, der påføres pr. runde, er angivet i kolonnen "Skade". Da de er relativt små, påfører intensitet 1 og 2-kilder deres skade på et enkelt hitsted (Hit Location), normalt det, der rører kilden. Intensitet 3 og 4-kilder er større og påfører skade på de nærmeste 1d4+1 hitsteder, hvilket indikerer graden af strålingsvarme. Intensitet 5-kilder påvirker alle hitsteder samtidigt.
+Ilde er altid en kilde til fare, når de bruges som våben eller raser ud af kontrol. Brandintensitetstabellen nedenfor giver fem forskellige intensiteter for varmeskade med nogle eksempler. Den skade, der påføres pr. runde, er angivet i skadeskolonnen. Da de er relativt små, påfører intensitet 1 og 2-kilder deres skade på et enkelt hitsted, normalt det, der rører kilden. Intensitet 3 og 4-kilder er større og påfører skade på de nærmeste 1d4+1 hitsteder, hvilket indikerer graden af strålevarme. Intensitet 5-kilder påvirker alle hitsteder samtidigt.
 
-Ild kan antænde brandfarlige materialer. Hvis de ikke slukkes med det samme, forbrændes sådanne materialer inden for et antal runder som angivet af ildens intensitet. Når de først er antændt, brænder brandfarlige materialer, indtil de er fysisk slukket. Skade påføres direkte på materialets hitpoint, ignorerer rustningspoint og på alt kød nedenunder. Hvis den efterlades ukontrolleret, spreder den sig til et antal hitsteder pr. runde svarende til dens intensitet.
+Ild kan antænde brændbare materialer. Hvis de ikke slukkes med det samme, forbrændes sådanne materialer inden for et antal runder som angivet af brandens intensitet. Når de er antændt, brænder brændbare materialer, indtil de fysisk slukkes. Skade påføres direkte på materialets hitpoint, ignorerer rustningspoint og alt kød nedenunder. Hvis det efterlades ukontrolleret, spredes det til et antal hitsteder pr. runde svarende til dets intensitet.
 
-##### Tabel over ildintensitet
+##### Brandintensitetstabel
 
 | Intensitet | Eksempler | Tid til at antænde | Skade |
 | :-: | :-- | :-: | :-: |
 | 1 | Stearinlys | 1d4 | 1d2 |
 | 2 | Fakkel | 1d3 | 1d4 |
-| 3 | Lejrflamme | 1d2 | 1d6 |
-| 4 | Rum-fyldende brand | 1d2 | 2d6 |
-| 5 | Vulkansk lava | Øjeblikkelig | 3d6 |
+| 3 | Lejrbål | 1d2 | 1d6 |
+| 4 | Rumfyldende ild | 1d2 | 2d6 |
+| 5 | Vulkanisk lava | Øjeblikkelig | 3d6 |
 
-Ildbaserede angreb har typisk en procentvis chance for at antænde brandfarlige materialer, da de generelt er overstået på en enkelt runde. Medmindre andet er angivet, er denne chance skade rullet x5% for ildbaserede angreb og skade rullet x1% for elektriske. Når de først er antændt, brænder brandfarlige materialer for 1d3-1 skade hver runde, indtil de fysisk slukkes. Påfør denne skade direkte på materialets hitpoint, ignorer rustningspoint og alt kød nedenunder. En skabnings naturlige rustning tilbyder dog sin normale beskyttelse. Offeret kan forsøge at kvæle flammerne ved at lægge sig fladt ned og foretage et vellykket Atletik-rul, hvilket kræver et handlingspoint og kan forsøges hver tur. Hvis andre hjælper med at kvæle flammerne på en eller anden måde, er rullet én sværhedsgrad lettere. Hvis skadesrullet resulterer i nul skade, er ilden gået ud af sig selv på det ene sted. For hvert sted, der er gået ud af sig selv, er rullet for at kvæle flammerne også én sværhedsgrad lettere.
+Ildbaserede angreb har typisk en procentvis chance for at antænde brændbare materialer, da de generelt er overstået på en enkelt runde. Medmindre andet er angivet, er denne chance skade rullet x5% for ildbaserede angreb og skade rullet x1% for elektriske. Når de er antændt, brænder brændbare materialer for 1d3-1 skade hver runde, indtil de fysisk slukkes. Påfør denne skade direkte på materialets hitpoint, ignorer rustningspoint og alt kød nedenunder. En skabnings naturlige rustning tilbyder dog sin normale beskyttelse. Offeret kan forsøge at kvæle flammerne ved at falde ned og foretage et vellykket atletikkast, hvilket kræver et handlingspoint og kan forsøges hver tur. Hvis andre hjælper med at kvæle flammerne på en eller anden måde, er kastet én sværhedsgrad lettere. Hvis skadeskastet resulterer i nul skade, er ilden gået ud af sig selv på det ene sted. For hvert sted, der er gået ud af sig selv, er kastet for at kvæle flammerne også én sværhedsgrad lettere.
 
 ---
 ## Spiltid
 
-I *Mythras Imperative* er tid en vigtig faktor, mest for at bestemme, hvad der sker i hvilken rækkefølge, så spilmekanikker anvendes, når de skal. Husk, at spiltid normalt ikke svarer til tid brugt på at spille. Nogle gange kan spillederen have brug for at opsummere begivenhederne i mange dage i en enkelt sætning, såsom 'Det tager jer en uge at nå Castle Anthrax', mens andre gange, især under kamp, kan handlingerne i kun få sekunders tid tage flere minutter eller længere tid at løse.
+I _Mythras Imperative_ er tid en vigtig faktor, primært for at bestemme, hvad der sker i hvilken rækkefølge, så spilmekanikker anvendes, når de skal. Husk, at tid i spillet normalt ikke svarer til tid brugt på at spille. Nogle gange kan spillederen være nødt til at opsummere begivenhederne i mange dage i en enkelt sætning, såsom 'Det tager jer en uge at nå Castle Anthrax', mens det på andre tidspunkter, især under kamp, kan tage flere minutter eller længere tid at løse handlinger, der kun tager få sekunder.
 
-Følgende er de vigtige sondringer i spiltid:
+Følgende er de vigtige skelnen i spiltiden:
 
 #### Kamprunder
 
-En kamprunde repræsenterer fem sekunders virkelighedstid. De bruges til at måle korte, frenetiske udbrud af aktivitet, der tager øjeblikke at fuldføre, eller måling af meget detaljerede aktiviteter, der kræver en slag-for-slag-løsning. For eksempel en jagt mellem jæger og bytte, hvor hver runde bestemmer forfølgelsens drejninger.
+En kamprunde repræsenterer fem sekunders virkelighedstid. De bruges til at måle korte, hektiske aktivitetsudbrud, der tager øjeblikke at fuldføre, eller til at måle meget detaljerede aktiviteter, der kræver en slag-for-slag-løsning. For eksempel en jagt mellem jæger og bytte, hvor hver runde bestemmer jagtens drejninger.
 
 #### Færdighedstid
 
-Færdighedstid repræsenterer et par minutter til et par timer og bruges til at måle aktiviteter, der ikke kræver den detaljerede opmærksomhed fra en kamprunde, men kræver en specifik overvejelse af indsats med et defineret resultat. Det kan tage fem minutter at dirke en lås op, mens det at observere patruljer foretaget af hold af vagter omkring en borgs mure kan kræve flere timer, og begge er eksempler på færdighedstid.
+Færdighedstid repræsenterer et par minutter til et par timer og bruges til at måle aktiviteter, der ikke kræver den detaljerede opmærksomhed fra en kamprunde, men kræver en specifik overvejelse af indsats med et bestemt resultat. At dirke en lås op kan tage fem minutter, hvorimod observation af patruljerne foretaget af vagthold omkring en borgs mure kan kræve flere timer, og begge er eksempler på færdighedstid.#### Narrativ tid
 
-#### Narrativ tid
-
-Dette er den mængde tid, det tager, når spillederen fortæller spillerne noget, eller når spillerne diskuterer. Medmindre der er en specifik grund til det, foregår det meste egentlige rollespil i narrativ tid. Når man spiller rollespil, ligner narrativ tid virkelighedstid, hvor en samtale tager så lang tid at have, som det tager at spille den. Hvis en spilsession inkluderer langvarig rejse eller perioder med aktivitet, hvor nøjagtig tid ikke er afgørende, komprimeres tiden meget til et par øjeblikke af spiltid.
+Dette er den mængde tid, der går, når spillederen fortæller historien til spillerne, eller når spillerne diskuterer. Medmindre der er en specifik årsag til andet, foregår det meste egentlige rollespil i narrativ tid. Under rollespil minder narrativ tid om virkelighedens tid, hvor en samtale tager lige så lang tid at føre, som den tager at spille. Hvis en spilsession indeholder lange rejser eller perioder med aktivitet, hvor den præcise tid ikke er væsentlig, komprimeres tiden kraftigt til få øjeblikke af spiltid.
 
 
 ---
-## Hitsteder (Hit Locations)
+## Ramte områder (Hit Locations)
 
-De fleste vellykkede (våben)angreb lander på et specifikt hitsted. Dette kan bestemmes tilfældigt eller i visse omstændigheder vælges af specielle effekter såsom "Vælg sted". For tilfældigt at beregne, hvilket sted der bliver ramt, skal du rulle 1d20 og sammenligne det rullede tal med den relevante tabel for humanoider eller væsner.
+De fleste vellykkede (våben)angreb rammer et specifikt ramt område. Dette kan bestemmes tilfældigt eller i visse tilfælde vælges af specielle effekter såsom "Vælg område" (Choose Location). For at beregne tilfældigt, hvilket område der rammes, skal du rulle 1d20 og sammenligne det rullede tal med den relevante tabel for ramte områder for humanoider eller væsner.
 
-Dyr og monstre har normalt lidt andre tabeller over hitsteder end humanoider for at afspejle deres egen unikke fysiologi. Disse er anført som en del af hvert væsens beskrivelse og er typisk kun til nytte for spillederen.
+Dyr og monstre har normalt lidt andre tabeller for ramte områder end humanoider for at afspejle deres unikke fysiologi. Disse er angivet som en del af hvert væsens beskrivelse og er typisk kun til brug for spillederen.
 
-Tabellen over humanoide hitsteder er gentaget her for nem reference.
+Tabellen for humanoider ramte områder er gentaget her for nem reference.
 
-##### Humanoide hitsteder
+##### Ramte områder for humanoider
 
-| 1d20 | Hitsted |
+| 1d20 | Ramt område |
 | :-: | :-- |
 | 1-3 | Højre ben |
 | 4-6 | Venstre ben |
@@ -235,94 +233,94 @@ Tabellen over humanoide hitsteder er gentaget her for nem reference.
 | 16-18 | Venstre arm |
 | 19-20 | Hoved |
 
-Bemærk, at nogle angreb, især magiske, teknologiske eller dem produceret af bestemte monstre (en drages ildpust eller en eksploderende granat, for eksempel), kan ramme flere hitsteder samtidigt. Individuelle hitsteder kan være pansrede, enten fra båren beskyttelse eller skabningens ydre overflades naturlige sejhed. Dette er vigtigt, når man overvejer skade og sårniveauer nedenfor.
+Bemærk, at nogle angreb, især magiske, teknologiske eller dem forårsaget af specifikke monstre (for eksempel en drages ildpust eller en eksploderende granat), kan ramme flere områder samtidigt. Individuelle ramte områder kan være pansrede, enten fra båret beskyttelse eller væsnets ydre overflades naturlige hårdhed. Dette er vigtigt, når man overvejer skade og sårniveauer nedenfor.
 
 
 ---
 ## Skade og sårniveauer
 
-Hvis et angreb rammer succesfuldt, forårsager det skade i henhold til skadesvurderingen for våbnet. Et kortsværd, for eksempel, påfører 1d6 skade.
+Hvis et angreb rammer, forårsager det skade i henhold til våbnets skadesværdi. Et kortsværd giver for eksempel 1d6 i skade.
 
-Den rullede skade for våbnet eller angrebet modificeres af visse forhold i den specifikke følgende rækkefølge:
+Den rullede skade for våbnet eller angrebet modificeres af visse betingelser i følgende specifikke rækkefølge:
 
-1. Anvend skadesmodifikatoren for den karakter, der foretager angrebet.
+1. Anvend skadesmodifikatoren for karakteren, der udfører angrebet.
 2. Modificer skaden fra enhver våbenforstærkende (eller reducerende) magi.
-3. Hvis pareret, reducer skaden passende i henhold til de sammenlignelige våbenstørrelser.
-4. Hvis hitstedet er pansret, reducer skaden med rustningspoint-værdien.
+3. Hvis angrebet pareres, reduceres skaden passende i forhold til de sammenlignende våbenstørrelser.
+4. Hvis det ramte område er pansret, reduceres skaden med værdien af panserpointene.
 
-Hvis skaden, der påføres af angrebet, er over nul, opretholder hitstedet den mængde skade, hvor den samlede skade øjeblikkeligt fjernes fra stedets hitpoint. Bemærk, hvor mange hitpoint stedet har tilbage, og den sårkategori, der resulterer.
+Hvis skaden forårsaget af angrebet er over nul, pådrager det ramte område sig den mængde skade, hvor det samlede skadesbeløb øjeblikkeligt fjernes fra områdets Hit Points. Noter hvor mange Hit Points området har tilbage, og hvilken sårkategori det resulterer i.
 
-- **Mindre sår:** Hitstedet har stadig positive hitpoint.
-- **Alvorligt sår:** Hitstedet reduceres til nul hitpoint eller derunder.
-- **Stort sår:** Hitstedet reduceres til en negativ score, der er lig med eller større end dets start-hitpoint.
+- **Overfladisk sår:** Ramt område har stadig positive Hit Points.
+- **Alvorligt sår:** Ramt område er reduceret til nul Hit Points eller derunder.
+- **Kritisk sår:** Ramt område er reduceret til en negativ score svarende til eller større end dets start-Hit Points.
 
-Brug følgende regler, hvis et sted modtager et alvorligt eller stort sår. Bemærk, at sår, der kræver udholdenhedstjek, tester dem i et modsat rul mod værdien af det oprindelige angrebsrul. Dette afspejler evnen hos højt kvalificerede krigere til at lave mere dødbringende slag. Udholdenhedsrul gentages ikke, medmindre stedet bliver såret igen.
+Brug følgende regler, hvis et område modtager et alvorligt eller kritisk sår. Bemærk, at sår, der kræver Udholdenheds-tjek, testes i et modsat tjek mod værdien af det originale angrebsrul. Dette afspejler evnen hos højtuddannede krigere til at foretage mere dødelige angreb. Udholdenheds-tjek gentages ikke, medmindre området bliver såret igen.
 
-### Mindre sår
+### Overfladisk sår
 
-Mindre sår er snitsår, ridser, blå mærker og forstuvninger. De gør ondt, kan bløde, men er ikke betydelige nok til at bremse eller hæmme offeret.
+Overfladiske sår er snitsår, skrammer, blå mærker og forstuvninger. De gør ondt og kan bløde, men er ikke betydelige nok til at bremse eller hæmme offeret.
 
 ### Alvorligt sår
 
-Hvis et sted reduceres til nul hitpoint eller derunder, modtager offeret et alvorligt sår. Stedet er permanent arret, og offeret kan ikke angribe eller begynde at kaste besværgelser (men kan stadig parere eller undvige) i de næste 1d3 omgange på grund af at være bedøvet eller distraheret af smerten fra såret.
+Hvis et område reduceres til nul Hit Points eller derunder, får offeret et alvorligt sår. Området får et permanent ar, og offeret kan ikke angribe eller begynde at kaste besværgelser (men kan stadig parere eller undvige) i de næste 1d3 omgange grundet chok eller distraktion fra smerten fra såret.
 
-En karakter, der lider et alvorligt sår på en lem, skal øjeblikkeligt foretage et modsat rul af sin udholdenhed mod fjendens vellykkede angrebsrul. Fejl resulterer i, at lemmen bliver ubrugelig, indtil stedet er genoprettet til positive hitpoint. Hvis det er et ben, falder offeret fladt ned. Hvis det er en arm, tabes alt, hvad der holdes, medmindre genstanden er spændt fast (brug sund fornuft her).
+En karakter, der lider af et alvorligt sår i en legemsdel, skal øjeblikkeligt foretage et modsat tjek af sin Udholdenhed mod fjendens vellykkede angrebsrul. Fiasko resulterer i, at legemsdelen bliver ubrugelig, indtil området er genoprettet til positive Hit Points. Hvis det er et ben, falder offeret omkuld. Hvis det er en arm, tabes alt, hvad der holdes, medmindre genstanden er fastspændt (brug sund fornuft her).
 
-En karakter, der lider et alvorligt sår på underlivet, brystet eller hovedet, skal øjeblikkeligt foretage et modsat rul af sin udholdenhed mod fjendens vellykkede angrebsrul. Fejl resulterer i bevidstløshed i et antal minutter svarende til den mængde skade, der er lidt i angrebet, som forårsagede det alvorlige sår. Førstehjælp- eller helingsfærdigheder kan bruges til at hjælpe et bevidstløst offer tilbage til bevidsthed.
+En karakter, der lider af et alvorligt sår i underlivet, brystet eller hovedet, skal øjeblikkeligt foretage et modsat tjek af sin Udholdenhed mod fjendens vellykkede angrebsrul. Fiasko resulterer i bevidstløshed i et antal minutter svarende til mængden af skade pådraget i angrebet, der forårsagede det alvorlige sår. Førstehjælps- eller helingsfærdigheder kan bruges til at hjælpe et bevidstløst offer tilbage til bevidsthed.
 
-Efter spillederens skøn, selvom karakteren forbliver funktionel, vil alle opgaver, der kræver brug af det pågældende hitsted, lide under en løbende straf på én sværhedsgrad, indtil skaden er reduceret til et mindre sår.
+Efter spillederens skøn, selvom karakteren forbliver funktionel, vil alle opgaver, der kræver brug af det ramte område, lide under en løbende straf på én sværhedsgrad, indtil skaden er reduceret til et overfladisk sår.
 
-### Stort sår
+### Kritisk sår
 
-Hvis et sted reduceres til en negativ score, der er lig med eller større end dets start-hitpoint, modtager karakteren et stort sår. Karakteren er øjeblikkeligt inhabil og ude af stand til at fortsætte kampen. En lem bliver amputeret, gennemtrængt, knust eller revet af ved et stort sår. Karakteren falder fladt ned, fysisk inhabil, og skal øjeblikkeligt foretage et modsat rul af udholdenhed mod fjendens vellykkede angrebsrul. Fejl resulterer i bevidstløshed fra agonien. Hvis et amputeret, punkteret eller revet sted ikke behandles inden for et antal minutter svarende til fem gange hans helingsrate, dør karakteren af blodtab og chok.
+Hvis et område reduceres til en negativ score svarende til eller større end dets start-Hit Points, får karakteren et kritisk sår. Karakteren er øjeblikkeligt ukampdygtig og kan ikke fortsætte med at kæmpe. En legemsdel bliver amputeret, gennemtrængt, knust eller revet af ved et kritisk sår. Karakteren falder omkuld, er fysisk ukampdygtig og skal øjeblikkeligt foretage et modsat tjek af Udholdenhed mod fjendens vellykkede angrebsrul. Fiasko resulterer i bevidstløshed grundet smerten. Hvis en amputeret, gennemtrængt eller afrevet legemsdel ikke behandles inden for et antal minutter svarende til fem gange karakterens helingsrate, dør karakteren af blodtab og chok.
 
-Offeret for et stort sår på underlivet, brystet eller hovedet falder bevidstløs, totalt inhabil, og skal øjeblikkeligt foretage et modsat rul af udholdenhed mod fjendens vellykkede angrebsrul. Fejl resulterer i en øjeblikkelig og meningsløs død (halshugget, hakket i to, spiddet gennem hjertet, revet fra hinanden og så videre). Hvis de overlever, og stedet ikke behandles inden for et antal kamprunder svarende til to gange karakterens helingsrate, dør de stadig af blodtab og chok.
+Offeret for et kritisk sår i underlivet, brystet eller hovedet falder bevidstløs om, er totalt ukampdygtig og skal øjeblikkeligt foretage et modsat tjek af Udholdenhed mod fjendens vellykkede angrebsrul. Fiasko resulterer i en øjeblikkelig og grusom død (halshugning, at blive hugget midt over, gennemstukket gennem hjertet, flået fra hinanden og så videre). Hvis de overlever, og området ikke behandles inden for et antal kampomgange svarende til dobbelt så meget som karakterens helingsrate, dør de stadig af blodtab og chok.
 
-Da de fleste store sår kræver en form for kirurgi eller betydelig magi for at helbrede, vil den ramte være meget usandsynlig at komme sig efter et stort sår i tide til at genindtræde i kampen. Afhængigt af den tilgængelige behandling vil det sårede sted potentielt være lemlæstet (se [Heling fra skade](0004_Game_System.md?id=healing-from-injury) nedenfor).
+Da de fleste kritiske sår kræver en form for kirurgi eller betydelig magi for at hele, vil den ramte sandsynligvis ikke komme sig over et kritisk sår i tide til at genoptage kampen. Afhængigt af den tilgængelige behandling vil det sårede område potentielt forblive lemlæstet (se [Heling fra skade](0004_Game_System.md?id=healing-from-injury) nedenfor).
 
 ### Blodtab
 
-Blodtab på grund af ydre og indre sår, der normalt er lidt i kamp, kan slide en karakter meget hurtigt ned. Dets virkninger måles ved akkumulering af træthedsniveauer, ligesom kvælning. Uhindret blodtab resulterer typisk i død uden en form for lægehjælp. I modsætning til kvælning er virkningerne af alvorligt blodtab på træthed vedvarende. En karakter restituerer træthed tabt ved blødning med en hastighed på ét niveau pr. dag, startende dagen efter hans exsanguinationer ophører.
+Blodtab grundet eksterne og interne sår, der normalt pådrages i kamp, kan slide en karakter meget hurtigt ned. Dets effekter måles ved akkumulering af udmattelsesniveauer, meget lig kvælning. Ubehersket blodtab resulterer typisk i død uden en form for lægelig opmærksomhed. I modsætning til kvælning er effekterne af alvorligt blodtab på udmattelse vedvarende. En karakter genvinder udmattelse mistet ved blødning med en rate på ét niveau om dagen, startende dagen efter at blødningen er ophørt.
 
-### Heltemodige sidste handlinger
+### Heroiske sidste handlinger
 
-I særlige tilfælde, hvor nøglekarakterer modtager et stort sår, kan spillederen tillade en heltemodig sidste handling – såsom at spytte endnu en besværgelse ud, forsøge at nedkæmpe deres morder, kravle væk for at gemme sig eller forsøge at lægge en årepresse på deres eget sår. De skal have fungerende lemmer, der er relevante for handlingen, og bruge et lykkepoint. De får én mulighed for at forsøge deres handling og kollapser derefter øjeblikkeligt i bevidstløshed og sandsynlig død.
+I specielle tilfælde, hvor vigtige karakterer modtager et kritisk sår, kan spillederen tillade en heroisk sidste handling – såsom at affyre én sidste besværgelse, forsøge at fælde deres banemand, kravle væk for at gemme sig eller forsøge at lægge en årepresse på deres eget sår. De skal have fungerende lemmer, der er relevante for handlingen, og bruge et lykkepoint. De får én mulighed for at forsøge deres handling, hvorefter de øjeblikkeligt kollapser i bevidstløshed og sandsynligvis død.
 
 ---
 ## Heling fra skade
 
-Naturlig heling fra sår og skader er baseret på karakterens helingsrate. Helingsraten dikterer, hvor mange hitpoint der genvindes på et sted afhængigt af skadens art:
+Naturlig heling fra sår og skader er baseret på karakterens helingsrate. Helingsraten dikterer, hvor mange Hit Points der genvindes i et område afhængigt af skadens natur:
 
-- **Mindre sår:** Dage
+- **Overfladiske sår:** Dage
 - **Alvorlige sår:** Uger
-- **Store sår:** Måneder
+- **Kritiske sår:** Måneder
 
-Således vil en karakter med en helingsrate på 3, der lider skade, der bringer ham til –3 på et hitsted, et alvorligt sår, helbrede naturligt med en hastighed på 3 hitpoint om ugen, indtil hans sår går over nul, og derefter helbrede 3 hitpoint om dagen, indtil han er fuldstændig restitueret.
+Således vil en karakter med en helingsrate på 3, der lider skade, der bringer ham til –3 i et ramt område (et alvorligt sår), hele naturligt med en rate på 3 Hit Points om ugen, indtil hans sår er over nul, og derefter hele 3 Hit Points om dagen, indtil han er fuldt restitueret.
 
-Der er visse restriktioner på naturlig heling:
+Der er visse restriktioner for naturlig heling:
 
-- Den helbredende karakter kan ikke engagere sig i anstrengende aktivitet: ellers reduceres helingsraten med 1d3. Således kunne en karakter, der er ved at komme sig efter selv et mindre sår, få stoppet sine fremskridt, hvis de beslutter sig for at engagere sig i fysiske opgaver, der kan forværre skaderne.
-- Naturlig heling vil ikke begynde at helbrede et stort sår, før offeret er blevet behandlet med et vellykket helingsrul, eller kastet en form for helbredende magi. Ikke-lemlæstende store sår, der ikke behandles inden for et antal dage svarende til en tyvendedel af helingsfærdigheden, bliver lemlæstede, hvilket permanent reducerer hitpointene på stedet.
+- Den helende karakter kan ikke deltage i anstrengende aktivitet: Ellers reduceres helingsraten med 1d3. Således kan en karakter, der kommer sig efter selv et overfladisk sår, se sine fremskridt gå i stå, hvis de beslutter sig for at deltage i fysiske opgaver, der kan forværre skaderne.
+- Naturlig heling vil ikke begynde at hele et kritisk sår, før offeret er blevet behandlet med et vellykket helingstjek eller kastet en form for helingsmagi. Kritiske sår, der ikke medfører lemlæstelse, og som ikke behandles inden for et antal dage svarende til en tyvendedel af helingsfærdigheden, bliver permanente, hvilket reducerer områdets Hit Points permanent.
 
 ---
 ## Livløse genstande
 
-Alle livløse genstande besidder rustningspoint og hitpoint, som bruges til at bestemme modstand mod skade og ødelæggelse. Rustningspoint reducerer skade, før hitpoint påvirkes. Når en genstands hitpoint er blevet reduceret til nul, er den ubrugelig.
+Alle livløse genstande besidder panserpoint og Hit Points, som bruges til at bestemme modstand mod skade og ødelæggelse. Panserpoint reducerer skade, før Hit Points påvirkes. Når en genstands Hit Points er reduceret til nul, er den ubrugelig.
 
-Forsøg på at gå i stykker kræver, at en karakter foretager et rul for Styrke, Ubevæbnet eller Kampstil, alt efter hvad der er passende, for at påføre skade. En succes giver skade på genstanden.
+Forsøg på at ødelægge noget kræver, at en karakter foretager et Styrke-, Ubevæbnet- eller Kampstils-tjek, alt efter hvad der er passende, for at påføre skade. En succes giver skade på genstanden.
 
 #### Våben mod livløse genstande
 
-Brug af et våben mod en livløs genstand med rustningspoint, der er lig med eller større end våbnets, påfører skade på både genstanden og våbnet. For eksempel kan brug af en økse på en jerndør beskadige døren, men øksen selv vil blive ødelagt længe før jerndøren. Spillederen bør udvise skøn over, hvilke våben eller værktøjer der kan påvirke hvilke genstande. En mejsel er for eksempel eksplicit designet til at udskære træ eller sten, mens et sværd, selvom det er skarpt, ikke er det. Mejslen ville derfor ikke tage skade fra noget, den forsøger at udskære, hvorimod et sværd sandsynligvis ville.
+At bruge et våben mod en livløs genstand med panserpoint lig med eller større end våbnets giver skade på både genstanden og våbnet. For eksempel kan brug af en økse på en jerndør beskadige døren, men øksen selv vil blive ødelagt længe før jerndøren. Spillederen bør udvise skøn over, hvilke våben eller værktøjer der kan påvirke hvilke genstande. En mejsel er for eksempel specifikt designet til at skære i træ eller sten, mens et sværd, selvom det er skarpt, ikke er det. Mejslen ville derfor ikke tage skade fra noget, den forsøger at skære i, hvorimod et sværd sandsynligvis ville.
 
 ##### Tabel over livløse genstande
 
-| Genstand | Rustning / Hitpoint |
+| Genstand | Panser / Hit Points |
 | :-- | :-: |
 | Borgport | 8/150 |
 | Borgmur | 10/500 |
 | Kæde/lænke | 8/8 |
-| Jernpæl | 8/15 |
+| Jernstolpe | 8/15 |
 | Glasrude | 1/4 |
 | Jerndør | 12/30 |
 | Reb | 6/3 |
@@ -340,22 +338,22 @@ Brug af et våben mod en livløs genstand med rustningspoint, der er lig med ell
 ---
 ## Lykkepoint
 
-Lykkepoint hjælper med at adskille helte fra den jævne befolkning. De repræsenterer en karakters evne til potentielt at vende fiasko til succes og endda snyde døden.
+Lykkepoint hjælper med at adskille helte fra den menige mand. De repræsenterer en karakters evne til potentielt at vende fiasko til succes og endda snyde døden.
 
-Lykkepoint kan bruges under spil og genopfyldes til deres sædvanlige værdi ved starten af næste session.
+Lykkepoint kan bruges under spillet og genopfyldes til deres normale værdi ved starten af næste session.
 
 #### Brug af lykkepoint
 
-Lykkepoint kan bruges på mange forskellige måder. Kun ét lykkepoint kan bruges til støtte for en bestemt handling. Lykkepoint kan ikke bruges på erfarings- eller træningsrul. Hver af følgende muligheder koster et enkelt lykkepoint.
+Lykkepoint kan bruges på mange måder. Kun ét lykkepoint kan bruges til at støtte en specifik handling. Lykkepoint kan ikke bruges på erfarings- eller træningsrul. Hver af følgende muligheder koster ét lykkepoint.
 
 #### Snyd skæbnen
 
-Karakterer kan bruge et lykkepoint til at genrulle eller bytte (en 75'er kunne blive til en 57'er for eksempel) ethvert terningrul, de foretager. Dette kan være et færdighedsrul, skadesrul eller alt andet, der har en effekt. Karakterer kan endda tvinge en modstander til at genrulle et angrebs- eller skadesrul foretaget mod dem.
+Karakterer kan bruge et lykkepoint til at rulle om eller bytte rundt på (et 75 ville for eksempel blive til et 57) ethvert terningkast, de foretager. Dette kan være et færdighedsrul, skadesrul eller alt andet, der har en effekt. Karakterer kan endda tvinge en modstander til at rulle et angrebs- eller skadesrul om, som er foretaget mod dem.
 
 #### Desperat indsats
 
-Hvis en karakter har opbrugt sine handlingspoint under en kamp og har brug for at finde det sidste udbrud af desperat energi for måske at undgå en rodet undergang, kan de bruge et lykkepoint for at få et ekstra handlingspoint.
+Hvis en karakter har opbrugt sine handlingspoint under en kamp og har brug for at finde den sidste rest af desperat energi for måske at undgå en rodet død, kan de bruge et lykkepoint for at opnå et ekstra handlingspoint.
 
 #### Afbød skade
 
-En karakter, der lider et stort sår, kan bruge et lykkepoint til at nedgradere skaden til et alvorligt sår. Dette reducerer den tagne skade til ét hitpoint mindre end hvad der ville kræves for at påføre et stort sår.
+En karakter, der lider et kritisk sår, kan bruge et lykkepoint til at nedgradere skaden til et alvorligt sår. Dette reducerer den påførte skade til ét Hit Point mindre, end hvad der ville kræves for at forårsage et kritisk sår.
