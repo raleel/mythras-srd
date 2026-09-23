@@ -1,89 +1,89 @@
-# Nhân vật
+# Nhân Vật
 
-Mỗi người chơi trong _Mythras Imperative_ đều điều khiển một nhân vật. Nhân vật là hiện thân của người chơi, và thường rất khác biệt về thể chất lẫn tinh thần so với chính người chơi đó. Nhân vật có thể thuộc nhiều chủng tộc khác nhau, tùy theo bối cảnh của trò chơi; một bối cảnh lịch sử chỉ bao gồm con người, trong khi bối cảnh giả tưởng có thể bao gồm người lùn, tiên và thậm chí là người thằn lằn. Nhân vật cơ bản được định nghĩa bởi một loạt các yếu tố mô tả khả năng của nhân vật. Các yếu tố này là:
+Mỗi người chơi trong _Mythras Imperative_ đều điều khiển một Nhân Vật. Nhân Vật là cái tôi thay thế của người chơi, và thường rất khác biệt cả về thể chất lẫn tinh thần so với người chơi. Nhân Vật có thể đến từ nhiều chủng tộc khác nhau, tùy thuộc vào bối cảnh của trò chơi; một bối cảnh lịch sử sẽ chỉ có TC người, trong khi bối cảnh giả tưởng có thể bao gồm người lùn, yêu tinh và thậm chí là người thằn lằn. Nhân Vật cơ bản được xác định bởi một loạt các yếu tố khác nhau mô tả năng lực của Nhân Vật. Các yếu tố này bao gồm:
 
-- **Các chỉ số (Characteristics):** chẳng hạn như Sức mạnh (Strength) hoặc Sức hút (Charisma)
-- **Các thuộc tính (Attributes):** những thứ như Chiều cao (Height) hoặc Di chuyển (Movement)
-- **Kỹ năng (Skills):** sự tinh thông trong các khả năng cơ bản
+- **Chỉ Số:** như Sức Mạnh hoặc Sức Hút
+- **Thuộc Tính:** những thứ như Chiều Cao hoặc Tốc Độ Di Chuyển
+- **Kỹ Năng:** sự thành thạo trong các khả năng cơ bản
 
-Hầu hết các yếu tố này được mô tả bằng con số, và một số phụ thuộc hoặc được tính toán dựa trên các yếu tố khác. Ý nghĩa của từng yếu tố và cách xác định chúng được mô tả trong các phần sau.
-
----
-## Bước 1: Ý tưởng về nhân vật
-
-Một khởi đầu tốt là có ý tưởng về kiểu nhân vật bạn muốn nhập vai: có lẽ là một chiến binh xảo quyệt, hoặc một kẻ buôn lậu ranh mãnh. Có thể bạn thích một học giả chăm chỉ, hoặc một pháp sư thông thái. Ý tưởng về nhân vật của bạn không cần phải quá phức tạp ở giai đoạn này; chỉ cần một ý tưởng giúp định hướng cho một số lựa chọn như Văn hóa (Culture) và Nghề nghiệp (Career).
+Hầu hết các yếu tố này được mô tả dưới dạng TC số, và một số yếu tố phụ thuộc hoặc được tính toán dựa trên các yếu tố khác. Ý nghĩa của từng yếu tố và cách xác định chúng được mô tả trong các phần sau.
 
 ---
-## Bước 2: Các chỉ số
+## Bước 1: Ý Tưởng Nhân Vật
 
-Mỗi người được định nghĩa bởi bảy Chỉ số cho bạn biết điều gì đó về nhân vật của mình; họ khỏe hay nhanh đến mức nào; họ thông minh hay khỏe mạnh ra sao. Các Chỉ số là cốt lõi của mọi nhân vật trong _Mythras Imperative_ và tạo thành nền tảng cho hầu hết các yếu tố khác như Thuộc tính và Kỹ năng. Bảy Chỉ số đó là:
-
-- Sức mạnh (STR)
-- Thể chất (CON)
-- Kích thước (SIZ)
-- Sự nhanh nhẹn (DEX)
-- Trí tuệ (INT)
-- Sức mạnh tinh thần (POW)
-- Sức hút (CHA)
-
-Trước khi tính toán các Chỉ số, phần sau đây giải thích ý nghĩa của từng chỉ số.
-
-#### Sức mạnh (STR)
-
-STR đại diện cho sức mạnh thể chất: khả năng nâng vật nặng, lực đánh, v.v. STR là một thành phần của Bộ điều chỉnh sát thương (Damage Modifier). Nếu một nhân vật bị giảm STR xuống bằng không, họ sẽ mất khả năng di chuyển hoặc nâng vật thể.
-
-#### Thể chất (CON)
-
-CON là thước đo sức khỏe và sự dẻo dai. CON là một thành phần trong việc xác định Điểm máu (Hit Points) và Tốc độ hồi phục (Healing Rate). Nếu CON giảm xuống bằng không vì bất kỳ lý do gì, nhân vật sẽ chết.
-
-#### Kích thước (SIZ)
-
-SIZ đo lường khối lượng và giúp xác định Chiều cao và Cân nặng. SIZ được sử dụng để giúp tính toán Điểm máu, vì các sinh vật lớn hơn, nặng hơn thường có sức chịu đựng tốt hơn trước sát thương. SIZ cũng có thể được sử dụng để xác định Bộ điều chỉnh sát thương của nhân vật, vì khối lượng giúp tăng lực của một đòn đánh.
-
-#### Sự nhanh nhẹn (DEX)
-
-Sự linh hoạt, thăng bằng và phản xạ được đo bằng DEX. Đây là một khía cạnh quan trọng của Điểm hành động (Action Points) và Sáng kiến (Initiative). Nếu một nhân vật bị giảm DEX xuống bằng không, họ sẽ bị liệt chức năng.
-
-#### Trí tuệ (INT)
-
-INT là thước đo khả năng nhận thức. Những người có điểm INT thấp không nhất thiết là ngu ngốc, nhưng họ có khả năng bị hạn chế trong việc sử dụng trí thông minh của mình một cách sáng tạo. INT là một yếu tố trong việc tính toán Điểm hành động và Sáng kiến. Nếu INT giảm xuống bằng không, nhân vật trở nên hoàn toàn mất trí.
-
-#### Sức mạnh tinh thần (POW)
-
-POW là thước đo linh hồn, tinh thần, động lực bên trong hoặc khả năng phép thuật của nhân vật. POW chi phối Điểm phép thuật (Magic Points) và Điểm may mắn (Luck Points) của nhân vật. Nếu POW của nhân vật giảm xuống bằng không, họ sẽ mất hoàn toàn ý chí độc lập.
-
-#### Sức hút (CHA)
-
-Sức hút là thước đo sự hiện diện và tính cách, độc lập với ngoại hình. CHA ảnh hưởng đến Bộ điều chỉnh kinh nghiệm (Experience Modifier) của nhân vật. Nếu CHA giảm xuống bằng không, nhân vật không còn có thể tương tác xã hội với người khác, trở nên quá nhút nhát hoặc phản xã hội đến mức bị phớt lờ hoặc thậm chí bị xua đuổi.
+Một khởi đầu tốt là có ý tưởng về loại Nhân Vật bạn muốn nhập vai: có lẽ là một chiến binh xảo quyệt, hay một kẻ buôn lậu ranh mãnh. Có thể bạn thích một học giả chăm chỉ, hoặc một pháp sư thông thái. Ý tưởng Nhân Vật của bạn không cần phải quá công phu ở giai đoạn này; chỉ cần một ý tưởng sẽ giúp định hướng một số lựa chọn nhất định như Văn Hóa và Nghề Nghiệp.
 
 ---
-### Tính toán các Chỉ số
+## Bước 2: Chỉ Số
 
-Mỗi Chỉ số có một giá trị số để xác định mức độ hiệu quả của nó. Con số trong ngoặc đơn sau mỗi kết quả tung xúc xắc là mức trung bình của chủng tộc và được dùng làm thước đo để đánh giá kết quả của nhân vật so với các thành viên khác trong loài. Các gợi ý để xác định Chỉ số bao gồm:
+Mọi người được xác định bởi bảy Chỉ Số cho bạn biết điều gì đó về Nhân Vật của mình; họ mạnh hay nhanh thế nào; thông minh hay khỏe mạnh ra sao. Các Chỉ Số là cốt lõi của mọi Nhân Vật _Mythras Imperative_ và tạo thành cơ sở cho hầu hết các yếu tố khác như Thuộc Tính và Kỹ Năng. Bảy Chỉ Số đó là:
 
-- **Tung xúc xắc:** Tung xúc xắc cho STR, CON, SIZ, DEX, INT, POW và CHA, lấy điểm số thu được theo thứ tự. Vì kết quả có thể ngẫu nhiên, thường tốt hơn là quyết định ý tưởng nhân vật sau khi đã tung xúc xắc. Nếu không, các Chỉ số cuối cùng có thể không phù hợp với vai trò đã định trước. Tung 3d6 cho STR, CON, DEX, POW và CHA; sau đó là 2d6+6 cho SIZ và INT.
-- **Tung xúc xắc, Gán giá trị:** Như trên, ngoại trừ việc người chơi có thể trao đổi giá trị giữa các Chỉ số có cùng phạm vi xúc xắc. Ví dụ, khi tạo nhân vật người, người chơi có thể tráo đổi giá trị giữa STR, CON, DEX, POW và CHA vì chúng chia sẻ phạm vi 3d6, hoặc giữa SIZ và INT chia sẻ phạm vi 2d6+6 — nhưng chúng phải luôn nằm trong cùng một nhóm phạm vi; bạn không thể tráo đổi kết quả giữa các nhóm khác nhau.
-- **Tung xúc xắc, Lấy giá trị cao:** Tung thêm một viên xúc xắc như chỉ định cho STR, CON, SIZ, DEX, INT, POW và CHA, và loại bỏ kết quả thấp nhất từ mỗi chỉ số.
-- **Xây dựng bằng Điểm:** Người chơi phân bổ điểm Chỉ số từ một quỹ có sẵn gồm 80 điểm. Các chỉ số không được thấp hơn giá trị tối thiểu đã tung, cũng không được cao hơn giá trị tối đa.
+- Sức Mạnh (SM)
+- Thể Chất (TC)
+- Kích Thước (KT)
+- Khéo Léo (KL)
+- Thông Tin (TT)
+- Năng Lực (NL)
+- Sức Hút (SH)
+
+Trước khi tính toán các Chỉ Số, phần sau đây sẽ giải thích ý nghĩa của từng loại.
+
+#### Sức Mạnh (SM)
+
+SM đại diện cho sức mạnh thể chất: khả năng nâng vật nặng, lực đánh mạnh đến mức nào, v.v. SM là một thành phần của Hệ Số Sát Thương. Nếu một Nhân Vật bị giảm xuống mức SM bằng không, họ thiếu khả năng di chuyển hoặc nâng vật thể.
+
+#### Thể Chất (TC)
+
+TC là thước đo sức khỏe và sự dẻo dai. TC là một thành phần trong việc xác định Điểm Máu và Tốc Độ Hồi Phục. Nếu TC giảm xuống bằng không vì bất kỳ lý do gì, Nhân Vật đó sẽ Chết.
+
+#### Kích Thước (KT)
+
+KT đo lường khối lượng và giúp chỉ ra Chiều Cao và Cân Nặng. KT được sử dụng để giúp tính toán Điểm Máu, vì các sinh vật lớn hơn, nặng hơn thường có sức chịu đựng sát thương cao hơn. KT cũng có thể được sử dụng để xác định Hệ Số Sát Thương của Nhân Vật, vì khối lượng giúp tăng lực của một đòn đánh.
+
+#### Khéo Léo (KL)
+
+Sự linh hoạt, thăng bằng và phản xạ được đo bằng KL. Đây là một khía cạnh quan trọng của Điểm Hành Động và Tiên Cơ. Nếu một Nhân Vật bị giảm xuống mức KL bằng không, họ sẽ bị liệt chức năng.
+
+#### Thông Tin (TT)
+
+TT là thước đo khả năng nhận thức. Những người có điểm TT thấp không nhất thiết là ngu ngốc, nhưng họ có khả năng bị hạn chế trong cách họ có thể vận dụng trí thông minh của mình một cách sáng tạo. TT là một yếu tố trong việc tính toán Điểm Hành Động và Tiên Cơ. Nếu TT giảm xuống bằng không, Nhân Vật trở nên hoàn toàn mất trí.
+
+#### Năng Lực (NL)
+
+NL là thước đo linh hồn, tinh thần, động lực bên trong hoặc khả năng sử dụng phép thuật của Nhân Vật. NL quản lý Điểm Phép Thuật và Điểm May Mắn của Nhân Vật. Nếu NL của một Nhân Vật từng giảm xuống bằng không, họ mất đi mọi ý chí độc lập.
+
+#### Sức Hút (SH)
+
+Sức Hút là thước đo sự hiện diện và tính cách, không phụ thuộc vào ngoại hình. SH ảnh hưởng đến Hệ Số Kinh Nghiệm của Nhân Vật. Nếu SH từng giảm xuống bằng không, Nhân Vật đó không còn có thể tương tác xã hội với người khác, trở nên quá nhút nhát hoặc chống đối xã hội đến mức bị phớt lờ hoặc thậm chí bị xua đuổi.
 
 ---
-## Bước 3: Các thuộc tính
+### Tính Toán Các Chỉ Số
 
-Mỗi nhân vật cũng có một bộ thuộc tính. Đây là những khả năng bắt nguồn từ các Chỉ số hoặc được xác định bởi chúng, dùng để kiểm soát các yếu tố của trò chơi.
+Mỗi Chỉ Số có một giá trị số để xác định mức độ tiềm năng. TC số trong ngoặc đơn sau mỗi lần đổ xúc xắc là mức trung bình của chủng tộc và được dùng làm thước đo để đánh giá kết quả của Nhân Vật so với các thành viên khác cùng loài. Các gợi ý để xác định Chỉ Số bao gồm:
 
-#### Điểm hành động (Action Points)
+- **Đổ Xúc Xắc:** Đổ xúc xắc cho SM, TC, KT, KL, TT, NL và SH, lấy mỗi kết quả đổ được như vốn có. Vì kết quả của những lần đổ này có thể khá ngẫu nhiên, thường thì tốt hơn là nên quyết định ý tưởng Nhân Vật sau khi đã đổ xúc xắc. Nếu không, các Chỉ Số cuối cùng có thể ngăn cản một vai trò đã định sẵn. Đổ 3d6 cho SM, TC, KL, NL và SH; sau đó đổ 2d6+6 cho KT và TT.
+- **Đổ Xúc Xắc, Phân Bổ:** Như trên, ngoại trừ việc người chơi có thể trao đổi giá trị giữa các Chỉ Số có cùng phạm vi xúc xắc. Ví dụ, khi tạo nhân vật người, người chơi có thể tráo đổi giá trị giữa SM, TC, KL, NL và SH, vì chúng chia sẻ phạm vi 3d6, hoặc giữa KT và TT, vốn chia sẻ phạm vi 2d6+6 — nhưng chúng luôn phải thuộc cùng một nhóm phạm vi xúc xắc; bạn không thể tráo đổi kết quả đổ từ nhóm này sang nhóm khác.
+- **Đổ Xúc Xắc, Chọn Cao:** Đổ thêm một viên xúc xắc như được chỉ định cho SM, TC, KT, KL, TT, NL và SH, và loại bỏ kết quả thấp nhất từ mỗi loại.
+- **Xây Dựng Bằng Điểm:** Người chơi phân bổ điểm Chỉ Số từ một quỹ điểm định sẵn là 80 điểm. Các Chỉ Số không được thấp hơn giá trị tối thiểu đã đổ, cũng không cao hơn giá trị tối đa.
 
-Mức độ thường xuyên mà một nhân vật có thể hành động trong một Vòng chiến đấu được xác định bởi Điểm hành động. Tất cả các nhân vật _Mythras Imperative_ đều có 2 Điểm hành động.
+---
+## Bước 3: Thuộc Tính
 
-#### Bộ điều chỉnh sát thương (Damage Modifier)
+Mỗi Nhân Vật cũng có một tập hợp các thuộc tính. Đây là những khả năng được rút ra từ các Chỉ Số hoặc được xác định bởi chúng, dùng để quản lý các yếu tố nhất định trong quá trình chơi game.
 
-Các nhân vật và sinh vật lớn hơn và mạnh hơn có thể gây thêm sát thương trong một số tình huống; ngược lại, các nhân vật yếu hơn và nhỏ hơn có thể giảm sát thương gây ra. Bộ điều chỉnh sát thương thường được sử dụng trong các tình huống chiến đấu nhưng cũng có thể được sử dụng khi cố gắng phá hủy vật thể. Bộ điều chỉnh sát thương là một lần tung xúc xắc bổ sung được cộng vào hoặc trừ đi sát thương gây ra bởi vũ khí hoặc công cụ. Nếu Bộ điều chỉnh sát thương âm khiến sát thương của vũ khí xuống bằng không hoặc thấp hơn, thì không có sát thương nào được gây ra.
+#### Điểm Hành Động
 
-Cộng STR và SIZ lại với nhau và tham khảo bảng Bộ điều chỉnh sát thương bên dưới.
+Số lần một Nhân Vật có thể hành động trong một Vòng Chiến Đấu được xác định bởi Điểm Hành Động. Tất cả các Nhân Vật _Mythras Imperative_ đều có 2 Điểm Hành Động.
 
-##### Bảng Bộ điều chỉnh sát thương
+#### Hệ Số Sát Thương
 
-| STR+SIZ | Bộ điều chỉnh sát thương |
+Các Nhân Vật và sinh vật lớn hơn và mạnh hơn có thể nhận thêm sát thương trong một số tình huống nhất định; ngược lại, các Nhân Vật yếu hơn và nhỏ hơn có thể làm giảm sát thương mà họ gây ra. Hệ Số Sát Thương thường được sử dụng trong các tình huống chiến đấu nhưng cũng có thể được sử dụng khi cố gắng phá vỡ đồ vật. Hệ Số Sát Thương là một lần đổ xúc xắc bổ sung được cộng vào, hoặc trừ đi, từ sát thương gây ra bởi vũ khí hoặc công cụ. Nếu Hệ Số Sát Thương âm làm giảm sát thương của vũ khí xuống bằng không hoặc thấp hơn, thì hoàn toàn không có sát thương nào được gây ra.
+
+Cộng SM và KT lại với nhau và tham khảo bảng Hệ Số Sát Thương dưới đây.
+
+##### Bảng Hệ Số Sát Thương
+
+| SM+KT | Hệ Số Sát Thương |
 | :-: | :-:|
 | 5 hoặc ít hơn | –1d8 |
 | 6–10 | –1d6 |
@@ -102,267 +102,266 @@ Cộng STR và SIZ lại với nhau và tham khảo bảng Bộ điều chỉnh 
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Mỗi 10 điểm | Tiếp tục tiến trình |
+| Mỗi 10 điểm | Tiếp tục Tiến trình |
 
-#### Bộ điều chỉnh kinh nghiệm (Experience Modifier)
+#### Hệ Số Kinh Nghiệm
 
-Trong quá trình chơi, các nhân vật cải thiện kỹ năng và khả năng của mình. Điều này đạt được thông qua các Lần tung kinh nghiệm (Experience Rolls), được giải thích chi tiết hơn trong phần [Hệ thống trò chơi](0004_Game_System.md?id=experience-rolls).
+Trong quá trình chơi, các Nhân Vật cải thiện kỹ năng và khả năng của họ. Điều này đạt được bằng cách sử dụng các lần Đổ Xúc Xắc Kinh Nghiệm, được giải thích chi tiết hơn trong phần [Hệ Thống Trò Chơi](0004_Game_System.md?id=experience-rolls).
 
-Điểm CHA của nhân vật có thể điều chỉnh số lượng Lần tung kinh nghiệm mà nhân vật nhận được, phản ánh mối quan hệ của họ với đồng loại và danh tiếng trong cộng đồng. Với CHA cao, mọi người sẵn sàng giúp đỡ huấn luyện hoặc hỗ trợ nhân vật trong khi họ được đào tạo. Ngược lại, với CHA đặc biệt thấp, có thể khó khăn hơn để cải thiện khả năng mà không có sự hỗ trợ từ người khác; ví dụ như tìm người để tập luyện cùng.
+Điểm SH của Nhân Vật có thể điều chỉnh số lượng Đổ Xúc Xắc Kinh Nghiệm mà Nhân Vật nhận được, phản ánh mối quan hệ của họ với bạn bè và danh tiếng trong cộng đồng. Với SH cao, mọi người sẵn lòng giúp đỡ đào tạo hoặc hỗ trợ Nhân Vật khi họ trải qua quá trình học tập. Ngược lại, với SH đặc biệt thấp, có thể có một số khó khăn trong việc cải thiện khả năng của bản thân nếu không có sự hỗ trợ của người khác; ví dụ như việc tìm người để đấu tập.
 
-##### Bảng Bộ điều chỉnh kinh nghiệm
+##### Bảng Hệ Số Kinh Nghiệm
 
-| CHA | Bộ điều chỉnh Kinh nghiệm |
+| SH | Hệ Số Kinh Nghiệm |
 |:-:| :-:|
 | 6 hoặc ít hơn | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Mỗi 6 điểm | +1 |
 
-#### Tốc độ hồi phục (Healing Rate)
+#### Tốc Độ Hồi Phục
 
-Sau khi bị thương, nhân vật cần nghỉ ngơi. Tốc độ hồi phục xác định tốc độ phục hồi vết thương tự nhiên của họ. Tùy thuộc vào mức độ nghiêm trọng của chấn thương, Tốc độ hồi phục cho biết bao nhiêu Điểm máu được phục hồi mỗi ngày, tuần hoặc tháng.
+Sau khi bị thương, một Nhân Vật cần phải hồi phục. Tốc Độ Hồi Phục xác định tốc độ họ tự nhiên hồi phục vết thương. Tùy thuộc vào mức độ nghiêm trọng của vết thương, Tốc Độ Hồi Phục biểu thị số lượng Điểm Máu được hồi phục mỗi ngày, tuần hoặc tháng.
 
-##### Bảng Tốc độ hồi phục
+##### Bảng Tốc Độ Hồi Phục
 
-| CON | Tốc độ hồi phục |
+| TC | Tốc Độ Hồi Phục |
 | :-:| :-:|
 | 6 hoặc ít hơn | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Mỗi 6 điểm | +1 |
 
-#### Điểm máu (Hit Points)
+#### Điểm Máu
 
-Điểm máu đại diện cho mức độ sát thương mà một vùng cơ thể có thể chịu đựng trước khi trở nên vô dụng, có thể dẫn đến mất khả năng chiến đấu và cuối cùng là cái chết của nhân vật. Cơ thể của mỗi sinh vật được chia thành các vị trí riêng biệt – ví dụ: con người có bảy: đầu, ngực, bụng, hai tay và hai chân – mỗi vị trí có Điểm máu riêng.
+Điểm Máu thể hiện mức độ tổn thương mà một vùng cơ thể có thể chịu đựng trước khi trở nên vô dụng, có khả năng dẫn đến Mất Khả Năng Hành Động và cuối cùng là cái chết của Nhân Vật. Cơ thể của mỗi sinh vật được chia thành các Vị Trí riêng biệt – ví dụ, TC người có bảy: đầu, ngực, bụng, tay và chân – mỗi Vị Trí có Điểm Máu riêng.
 
-Một số sinh vật, như quái vật hoặc các loại động vật khác nhau, theo bản chất thường có cấu trúc cơ thể khác biệt hoàn toàn, nhưng mỗi vị trí chúng sở hữu vẫn có Điểm máu. Khi Điểm máu của một vị trí giảm xuống mức nhất định do bất kỳ loại sát thương nào, nhân vật sẽ phải chịu những hậu quả phản ánh mức độ nghiêm trọng của vết thương. Để biết thêm thông tin về vết thương, hãy xem phần [Sát thương và mức độ vết thương](0004_Game_System.md?id=damage-and-wound-levels).
+Một số sinh vật, chẳng hạn như quái vật hoặc các lớp động vật khác nhau, theo bản chất của chúng thường có cấu trúc cơ thể khác biệt hoàn toàn, tuy nhiên mỗi Vị Trí mà chúng sở hữu vẫn có Điểm Máu. Khi Điểm Máu của một Vị Trí bị giảm xuống mức nhất định thông qua sát thương dưới bất kỳ hình thức nào, thì Nhân Vật phải chịu những hậu quả nhất định phản ánh mức độ nghiêm trọng của vết thương. Để biết thêm thông tin liên quan đến vết thương, hãy xem phần [Sát Thương và Mức Độ Vết Thương](0004_Game_System.md?id=damage-and-wound-levels).
 
-Để tính Điểm máu của mỗi vị trí, cộng CON và SIZ lại với nhau và đối chiếu kết quả trên bảng Điểm máu ở trên.
+Để tính Điểm Máu của mỗi Vị Trí, hãy cộng TC và KT lại với nhau và đối chiếu kết quả trên bảng Điểm Máu ở trên.
 
-##### Điểm máu theo vị trí
+##### Điểm Máu theo Vị Trí
 
-| Vị trí | CON+SIZ | | | | | | | | |
+| Vị Trí | TC+KT | | | | | | | | |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 | | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Đầu | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Ngực | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Bụng | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Mỗi cánh tay | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Mỗi chân | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Mỗi Tay | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Mỗi Chân | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
-#### Sáng kiến (Initiative)
+#### Tiên Cơ
 
-Thời điểm mà một người phản ứng trong chiến đấu được kiểm soát bởi Sáng kiến. Sáng kiến đóng vai trò là công cụ sửa đổi cho các lần tung Sáng kiến; Sáng kiến càng cao, người đó càng phản ứng nhanh trong tình huống chiến đấu, xác định thời điểm bạn có thể hành động. Các yếu tố khác – ví dụ như áo giáp – sẽ sửa đổi nó. Chương [Chiến đấu](0005_Combat.md?id=combat-style) đi sâu hơn vào cách sử dụng Sáng kiến.
+Khoảnh khắc mà ai đó phản ứng trong chiến đấu được quản lý bởi Tiên Cơ. Tiên Cơ đóng vai trò là hệ số điều chỉnh cho các lần đổ Tiên Cơ; Tiên Cơ càng cao, phản ứng càng nhanh trong tình huống chiến đấu, xác định khi nào bạn có thể hành động. Các yếu tố khác – ví dụ như Giáp – sẽ điều chỉnh nó. Chương [Chiến Đấu](0005_Combat.md?id=combat-style) đi sâu hơn vào cách sử dụng Tiên Cơ.
 
-Sáng kiến là trung bình cộng của các chỉ số DEX và INT.
+Tiên Cơ là trung bình cộng của các Chỉ Số KL và TT.
 
-#### Điểm may mắn (Luck Points)
+#### Điểm May Mắn
 
-Điểm may mắn đại diện cho lực lượng kỳ lạ phân biệt các anh hùng phiêu lưu với người thường. Hãy gọi nó là định mệnh, nghiệp báo, hoặc đơn giản là vận may. Điểm may mắn có thể được sử dụng để:
+Điểm May Mắn đại diện cho sức mạnh kỳ lạ phân biệt các anh hùng phiêu lưu với những người bình thường. Hãy gọi đó là định mệnh, nghiệp quả, hay đơn giản là vận may. Điểm May Mắn có thể được sử dụng để:
 
-- Tung lại xúc xắc nếu kết quả không thuận lợi.
-- Giảm thiểu sát thương vật lý hoặc các tình huống bất lợi khác.
-- Tạo lợi thế trong thời điểm quan trọng khi chiến đấu.
+- Đổ lại xúc xắc nếu kết quả không thuận lợi.
+- Giảm thiểu sát thương vật lý hoặc các tình huống không may khác.
+- Giành lợi thế tại một thời điểm quan trọng trong chiến đấu.
 
-Chính xác cách chúng được sử dụng và khi nào, được mô tả trong phần [Hệ thống trò chơi](0004_Game_System.md?id=game-system). Khi một Điểm may mắn được tiêu tốn, quỹ điểm sẽ giảm; khi hết Điểm may mắn, sẽ không còn điểm nào để sử dụng – trừ khi Quản trò (Games Master) trao thưởng ngẫu hứng – cho đến phiên trò chơi tiếp theo khi chúng được nạp lại về giá trị bình thường.
+Cách sử dụng chúng như thế nào và khi nào, được mô tả trong phần [Hệ Thống Trò Chơi](0004_Game_System.md?id=game-system). Sau khi một Điểm May Mắn được tiêu thụ, quỹ điểm sẽ giảm xuống; khi hết Điểm May Mắn, sẽ không còn điểm nào để dùng – trừ khi Người Quản Trò đưa ra phần thưởng ngẫu hứng – cho đến phiên chơi tiếp theo khi chúng được hồi phục về giá trị bình thường.
 
-##### Bảng Điểm may mắn
+##### Bảng Điểm May Mắn
 
-| POW | Điểm may mắn |
+| NL | Điểm May Mắn |
 | :-- | :-: |
 | 6 hoặc ít hơn | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Mỗi 6 điểm | +1 |
 
-#### Điểm phép thuật (Magic Points)
+#### Điểm Phép Thuật
 
-Các khả năng huyền bí, sức mạnh và phép thuật được sử dụng trong _Mythras Imperative_ thường dựa vào Điểm phép thuật. Vì sự sẵn có của phép thuật có thể bị hạn chế bởi bối cảnh chiến dịch hoặc các ngành nghề phép thuật cụ thể, một số nhân vật sẽ thấy Thuộc tính này là thừa thãi.
+Khả năng, quyền năng thần bí và phép thuật được sử dụng trong _Mythras Imperative_ thường dựa vào Điểm Phép Thuật. Vì khả năng sử dụng phép thuật có thể bị giới hạn bởi bối cảnh chiến dịch hoặc các nghề nghiệp phép thuật cụ thể, một số Nhân Vật sẽ thấy Thuộc Tính này là thừa thãi.
 
-Đối với những người có thể sử dụng các sức mạnh này, Điểm phép thuật của nhân vật bằng với chỉ số POW của họ. Những điểm này được sử dụng để thi triển phép thuật, chi phí tùy thuộc vào loại phép thuật được sử dụng. Khi người thi triển hết Điểm phép thuật, họ đã cạn kiệt khả năng thi triển bất kỳ phép thuật nào cho đến khi Điểm phép thuật được phục hồi.
+Đối với những người có thể sử dụng các sức mạnh đó, Điểm Phép Thuật của Nhân Vật bằng với chỉ số NL của họ. Những điểm này được sử dụng để niệm chú, chi phí phụ thuộc vào loại phép thuật được sử dụng. Khi người niệm chú hết Điểm Phép Thuật, họ đã cạn kiệt khả năng niệm bất kỳ phép thuật nào cho đến khi Điểm Phép Thuật được hồi phục.
 
-#### Tốc độ di chuyển (Movement Rate)
+#### Tốc Độ Di Chuyển
 
-Mỗi sinh vật có một Tốc độ di chuyển – số mét có thể di chuyển trong một khoảng thời gian cụ thể. Di chuyển không được tính từ các Chỉ số mà là giá trị mặc định khác nhau tùy theo loài. Tốc độ di chuyển cơ bản cho con người là 6 mét.
+Mỗi sinh vật có một Tốc Độ Di Chuyển – số mét có thể di chuyển trong một khoảng thời gian nhất định. Di chuyển không được tính từ các Chỉ Số mà là một giá trị mặc định khác nhau tùy theo loài. Tốc Độ Di Chuyển cơ bản của TC người là 6 mét.
 
 Các dáng đi nhanh hơn Đi bộ áp dụng hệ số nhân cho chỉ số Di chuyển:
-- **Chạy (Run):** Di chuyển x3
-- **Chạy nước rút (Sprint):** Di chuyển x5
+- **Chạy:** Di chuyển x3  
+- **Nước Rút:** Di chuyển x5
 
 <details>
 
-<summary>* Đính chính từ cộng đồng</summary>
+<summary>* Errata Cộng Đồng</summary>
 
-_**Dáng đi: Đi bộ, Chạy, Chạy nước rút**_
+_**Dáng đi: Đi bộ, Chạy, Nước Rút**_
 
-_Phiên bản phát hành của _Mythras Imperative_ không có quy tắc rõ ràng cho việc di chuyển ở các Dáng đi khác nhau mặc dù chúng được đề cập trong sách quy tắc chính của Mythras. Các hệ số nhân Dáng đi ở trên đã được thêm vào như một phần của Đính chính từ cộng đồng._
+_Phiên bản Mythras Imperative đã xuất bản không có quy tắc rõ ràng nào cho việc di chuyển ở các Dáng đi khác nhau mặc dù chúng được đề cập trong sách quy tắc cốt lõi của Mythras. Các hệ số nhân Dáng đi ở trên đã được thêm vào như một phần của Errata Cộng Đồng._ 
 
-_Khi cần thiết, đủ để xử lý các Dáng đi như sau:_
+_Khi cần thiết, chỉ cần xử lý các Dáng đi như sau:_
 
-- _Các dáng đi nhanh hơn Đi bộ áp dụng hệ số nhân cho chỉ số Di chuyển: 3x cho Chạy, 5x cho Chạy nước rút._
-- _Trong khi ở Dáng đi Chạy hoặc Chạy nước rút, các nhân vật không thể cố gắng thực hiện hầu hết các hành động chủ động như tấn công hoặc thi triển phép thuật. Một số ngoại lệ bao gồm..._
-  - _Tấn công khi sử dụng quy tắc Xung phong (Charging)._
-  - _Bắn vũ khí tầm xa với đặc điểm Xạ kích (Skirmishing)._
-- _Theo quy tắc chung, mọi hành động được phép nên được coi là khó hơn một Bậc khi đang Chạy, và khó hơn hai Bậc khi đang Chạy nước rút._
+- _Các dáng đi nhanh hơn Đi bộ áp dụng hệ số nhân cho chỉ số Di chuyển: 3x cho Chạy, 5x cho Nước Rút._
+- _Khi ở Dáng đi Chạy hoặc Nước Rút, Nhân Vật không thể thực hiện hầu hết các hành động chủ động như tấn công hoặc niệm chú. Một số ngoại lệ bao gồm..._
+  - _Tấn công khi sử dụng quy tắc Xung phong._
+  - _Bắn vũ khí tầm xa với đặc điểm Du kích._ 
+- _Theo nguyên tắc chung, bất kỳ hành động nào được cho phép nên được xử lý khó hơn một Cấp độ khi Chạy, và hai Cấp độ khi Nước Rút._
+
 
 </details>
 
 ---
-## Bước 4: Kỹ năng
+## Bước 4: Kỹ Năng
 
-Kỹ năng chia thành hai loại. Mọi người đều có Kỹ năng tiêu chuẩn – những thứ như lén lút hoặc gây ảnh hưởng đến người khác. Ngược lại, Kỹ năng chuyên môn là những kỹ năng đòi hỏi sự đào tạo cụ thể trước khi có thể thử thực hiện – những thứ như theo dấu động vật hoang dã, lái tàu vũ trụ hoặc hiểu các ngôn ngữ cổ. Các nhân vật được cung cấp ba nhóm điểm để sử dụng cho việc học các kỹ năng; nhóm đầu tiên cho Văn hóa mà họ lớn lên, nhóm thứ hai cho Nghề nghiệp mà họ theo đuổi sau thời thơ ấu, và nhóm cuối cùng để làm phong phú thêm bộ kỹ năng của họ. Theo mặc định, các nhân vật mới gán 100 điểm cho nhóm kỹ năng Văn hóa, 100 cho nhóm kỹ năng Nghề nghiệp và 150 điểm Thưởng bổ sung để hoàn thiện. Mỗi Văn hóa và Nghề nghiệp có một phạm vi kỹ năng tiêu chuẩn và chuyên môn xác định mà các điểm kỹ năng đó có thể được phân bổ.
+Kỹ Năng thuộc hai nhóm. Mọi người đều có Kỹ Năng Tiêu Chuẩn – những thứ như lẻn đi hoặc gây ảnh hưởng đến người khác. Ngược lại, Kỹ Năng Chuyên Nghiệp là những kỹ năng đòi hỏi sự đào tạo cụ thể trước khi có thể thử thực hiện – những thứ như theo dõi động vật hoang dã, lái tàu vũ trụ, hoặc hiểu các ngôn ngữ cổ. Nhân Vật được cung cấp ba quỹ điểm để dành cho việc đạt được các kỹ năng; quỹ điểm đầu tiên cho Văn Hóa mà họ lớn lên, quỹ thứ hai cho Nghề Nghiệp mà họ chọn sau thời thơ ấu, và quỹ cuối cùng để làm phong phú thêm bộ kỹ năng của họ. Mặc định, Nhân Vật mới phân bổ 100 điểm vào quỹ Kỹ Năng Văn Hóa, 100 vào quỹ Kỹ Năng Nghề Nghiệp, và thêm 150 điểm Thưởng để làm tròn. Mỗi Văn Hóa và Nghề Nghiệp có một phạm vi xác định các Kỹ Năng Tiêu Chuẩn và Kỹ Năng Chuyên Nghiệp mà các điểm kỹ năng đó có thể được phân bổ.
 
-##### Phong cách chiến đấu (Combat Style)
+##### Phong Cách Chiến Đấu
 
-Phong cách chiến đấu được liệt kê trong các mô tả Văn hóa theo sau. Các Phong cách chiến đấu được giải thích đầy đủ hơn trong phần [Chiến đấu](0005_Combat.md?id=combat-style) và có Tỷ lệ cơ bản bằng STR+DEX.
+Phong Cách Chiến Đấu được liệt kê trong các mô tả Văn Hóa theo sau. Phong Cách Chiến Đấu được giải thích đầy đủ hơn trong phần [Chiến Đấu](0005_Combat.md?id=combat-style) và có Tỷ lệ Cơ bản bằng SM+KL.
 
-##### Kỹ năng tiêu chuẩn
+##### Kỹ Năng Tiêu Chuẩn
 
-| Kỹ năng | Tỷ lệ cơ bản |
+| Kỹ Năng | Tỷ Lệ Cơ Bản |
 | :-- | :-- |
-| Điền kinh (Athletics) | STR+DEX |
-| Chèo thuyền (Boating) | STR+CON |
-| Sức vóc (Brawn) | STR+SIZ |
-| Che giấu (Conceal) | DEX+POW |
-| Phong tục (Customs) | INT x2, +40\* |
-| Khiêu vũ (Dance) | DEX+CHA |
-| Lừa dối (Deceit) | INT+CHA |
-| Lái xe (Drive) | DEX+POW |
-| Sức bền (Endurance) | CON x2 |
-| Né tránh (Evade) | DEX x2 |
-| Sơ cứu (First Aid) | INT+DEX |
-| Ảnh hưởng (Influence) | CHA x2 |
-| Nhận thức sâu sắc (Insight) | INT+POW |
-| Thông thạo địa phương (Locale) | INT x2 |
-| Tiếng mẹ đẻ (Native Tongue) | INT+CHA, +40\* |
-| Nhận biết (Perception) | INT+POW |
-| Cưỡi ngựa (Ride) | DEX+POW |
-| Ca hát (Sing) | CHA+POW |
-| Lén lút (Stealth) | DEX+INT |
-| Bơi lội (Swim) | STR+CON |
-| Chiến đấu tay không (Unarmed) | STR+DEX |
-| Ý chí (Willpower) | POW x2 |
+| Điền Kinh | SM+KL |
+| Chèo Thuyền | SM+TC |
+| Cơ Bắp | SM+KT |
+| Che Giấu | KL+NL |
+| Phong Tục | TT x2, +40\* |
+| Khiêu Vũ | KL+SH |
+| Lừa Dối | TT+SH |
+| Lái Xe | KL+NL |
+| Sức Bền | TC x2 |
+| Né Tránh | KL x2 |
+| Sơ Cứu | TT+KL |
+| Ảnh Hưởng | SH x2 |
+| Trực Giác | TT+NL |
+| Khu Vực | TT x2 |
+| Tiếng Mẹ Đẻ | TT+SH, +40\* |
+| Nhận Thức | TT+NL |
+| Cưỡi | KL+NL |
+| Ca Hát | SH+NL |
+| Ẩn Nấp | KL+TT |
+| Bơi Lội | SM+TC |
+| Tay Không | SM+KL |
+| Ý Chí | NL x2 |
 
-_\* Bao gồm một phần thưởng tĩnh +40% cho cả Phong tục và Tiếng mẹ đẻ của nhân vật (Thông dụng đối với con người)._
-
----
-## Bước 5: Văn hóa
-
-Văn hóa xác định kiểu xã hội mà nhân vật được nuôi dưỡng, và do đó quy định những quan điểm và triết lý nhất định mà họ có thể có. Thực tế hơn, văn hóa giúp tăng cường các giá trị của nhiều kỹ năng khác nhau định hình khả năng tổng thể của nhân vật. Có bốn nền văn hóa người cơ bản: Man di (Barbarian), Văn minh (Civilized), Du mục (Nomadic) và Nguyên thủy (Primitive). Mỗi nền văn hóa liệt kê một loạt các kỹ năng Tiêu chuẩn phù hợp với nó và cho phép người chơi chọn tối đa ba trong số các kỹ năng Chuyên môn được trình bày: theo cách này, người chơi từ cùng một nền văn hóa có thể đảm bảo rằng các nhà thám hiểm của họ khác biệt trong các lĩnh vực họ đã phát triển. Phân bổ 100 điểm kỹ năng Văn hóa giữa các kỹ năng Tiêu chuẩn được liệt kê của nghề nghiệp và bất kỳ kỹ năng Chuyên môn nào đã được chọn, tăng mỗi kỹ năng thêm 1% cho mỗi điểm chi tiêu để cải thiện nó. Quản trò có thể muốn áp dụng giới hạn về số điểm kỹ năng có thể được áp dụng cho bất kỳ kỹ năng cụ thể nào.
-
-### Man di (Barbarian)
-
-Mang tính bộ lạc, người man di có xu hướng xa lánh văn minh, coi những người sống ở thị trấn và thành phố lớn là yếu đuối và đồi bại. Mặc dù các khu định cư của chính họ cũng là định cư, nhưng chúng thường nhỏ hơn nhiều và gần gũi với thiên nhiên hơn. Các bộ lạc man di chiếm giữ các vùng lãnh thổ riêng biệt, thường là vùng hoang dã một nửa thuần hóa, mà họ coi là của riêng mình để săn bắn, chăn thả và canh tác. Hầu hết đều thông thạo việc sử dụng vũ khí vì họ phải vượt qua nhiều nguy hiểm trong suốt cuộc đời – đối mặt với các sinh vật hoang dã hoặc tập hợp để bảo vệ vùng đất của mình chống lại các bộ lạc đối địch. Vì họ sống trong các cộng đồng nhỏ nên mối quan hệ huyết thống và gia tộc là những yếu tố mạnh mẽ trong xã hội của họ.
-
-#### Kỹ năng
-
-- **Kỹ năng tiêu chuẩn:** Điền kinh, Sức vóc, Sức bền, Sơ cứu, Thông thạo địa phương, Nhận biết; và hoặc Chèo thuyền hoặc Cưỡi ngựa. Ngoài ra, người chơi cũng có thể chọn một Phong cách chiến đấu văn hóa.
-- **Kỹ năng chuyên môn:** Thủ công (bất kỳ), Chữa bệnh, Truyền thuyết (bất kỳ), Nhạc thuật, Hàng hải, Hàng hải (Seamanship), Sinh tồn, Theo dấu.
-
-### Văn minh (Civilized)
-
-Nền văn hóa Văn minh được thể hiện bằng sự xuất hiện của luật pháp và trật tự, được củng cố bởi các bộ quy tắc xã hội phức tạp và được hỗ trợ bởi bộ máy quan liêu. Người văn minh tin rằng họ vượt trội hơn tất cả các nền văn hóa khác vì những thành tựu của họ có xu hướng bền vững: các thành phố rộng lớn, những ngôi đền hùng vĩ, tượng đài kỷ niệm, và việc ghi lại lịch sử và các sự kiện trong sách, bia mộ và cuộn giấy. Tất nhiên, đây chỉ là một lớp vỏ mỏng. Các thành phố Văn minh nhất có thể vô luật pháp hơn bất kỳ khu định cư biên giới Man di nào; và các quy tắc xã hội có thể thô sơ hơn các nghi lễ hiếu khách của dân du mục. Nhưng nền văn hóa Văn minh tự hào về thành tựu, cơ sở hạ tầng, các nghệ nhân chuyên nghiệp và khả năng dễ dàng mở rộng tầm với của mình đến bất cứ nơi nào họ muốn.
-
-#### Kỹ năng
-
-- **Kỹ năng tiêu chuẩn:** Che giấu, Lừa dối, Lái xe, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Ý chí. Ngoài ra, người chơi cũng có thể chọn một Phong cách chiến đấu văn hóa.
-- **Kỹ năng chuyên môn:** Nghệ thuật (bất kỳ), Thương mại, Thủ công (bất kỳ), Lịch sự, Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Nhạc thuật, Am hiểu đường phố.
-
-### Du mục (Nomadic)
-
-Người du mục liên tục di chuyển, không có nhà cửa hay tổ ấm nào để gọi là của riêng mình. Họ có thể lang thang không mục đích hoặc có thể có một vài khu trại mà họ di chuyển đến và đi trong suốt cả năm. Họ trồng rất ít cây trồng và thay vào đó đi theo sự di cư của động vật hoặc cá, có thể thậm chí chăn thả gia súc thuần hóa của riêng mình. Người du mục rất giỏi trong việc tồn tại dựa vào những gì họ có thể nhanh chóng và dễ dàng nhặt nhạnh được từ môi trường xung quanh, không để lãng phí thứ gì. Các kỹ năng của văn hóa du mục nên được điều chỉnh theo môi trường của họ. Một số đi những quãng đường dài bằng cách đi bộ, những người khác sống trong các đoàn lữ hành hoặc cưỡi trên những sinh vật kỳ lạ, và một số trôi dạt trên đại dương trên những chiếc bè nổi lớn.
-
-#### Kỹ năng
-
-- **Kỹ năng tiêu chuẩn:** Sức bền, Sơ cứu, Thông thạo địa phương, Nhận biết, Lén lút; và hai trong số các kỹ năng sau: Điền kinh, Chèo thuyền, Bơi lội, Lái xe hoặc Cưỡi ngựa tùy thuộc vào phương thức di chuyển chính. Ngoài ra, người chơi cũng có thể chọn một Phong cách chiến đấu văn hóa.
-- **Kỹ năng chuyên môn:** Thủ công (bất kỳ), Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Nhạc thuật, Hàng hải, Sinh tồn, Theo dấu.
-
-### Nguyên thủy (Primitive)
-
-Trong tất cả các dân tộc, những người nguyên thủy là những người sống gần gũi nhất với thiên nhiên, hòa hợp với những bí mật ẩn giấu của nó. Sống trong các nhóm gia đình mở rộng, các nền văn hóa nguyên thủy tập trung xung quanh những nơi trú ẩn rất đơn giản có thể từ hang động và các khu vực có mái che tự nhiên cho đến các túp lều tạm hoặc túp lều rất cơ bản. Người nguyên thủy thường là những người săn bắn hái lượm với rất ít hoặc các hệ thống canh tác và chăn nuôi kém phát triển.
-
-Tuy nhiên, một số niềm tin văn hóa, thường dựa trên sự mê tín, có thể được xác định rất rõ ràng. Ít nền văn hóa nguyên thủy nào phát triển được thứ gì đó gần giống như ngôn ngữ viết mặc dù tranh vẽ và các biểu tượng hình ảnh khác đóng vai trò là phương tiện giao tiếp.
-
-#### Kỹ năng
-
-- **Kỹ năng tiêu chuẩn:** Sức vóc, Sức bền, Né tránh, Thông thạo địa phương, Nhận biết, Lén lút; và một trong các kỹ năng sau: Điền kinh, Chèo thuyền hoặc Bơi lội. Ngoài ra, người chơi cũng có thể chọn một Phong cách chiến đấu văn hóa.
-- **Kỹ năng chuyên môn:** Thủ công (bất kỳ), Chữa bệnh, Truyền thuyết (bất kỳ), Nhạc thuật, Hàng hải, Sinh tồn, Theo dấu.
+_\* Bao gồm một phần thưởng tĩnh +40% cho cả Phong Tục và Tiếng Mẹ Đẻ của Nhân Vật (Thông dụng cho TC người)._
 
 ---
-## Bước 6: Nghề nghiệp
+## Bước 5: Văn Hóa
 
-Mỗi nhân vật bắt đầu trò chơi sau khi đã được đào tạo trong một nghề nghiệp. Nghề nghiệp được chọn không nhất thiết phải là nghề nghiệp mà nhân vật tiếp tục theo đuổi khi bắt đầu cuộc sống phiêu lưu, nhưng đó là nghề nghiệp đã bắt đầu như một phần của quá trình chuyển đổi sang tuổi trưởng thành và nó xác định thêm sự phát triển kỹ năng. Mỗi nghề nghiệp trình bày một loạt các kỹ năng Tiêu chuẩn phù hợp với nó và cho phép người chơi chọn tối đa ba trong số các kỹ năng Chuyên môn được liệt kê. Phân bổ 100 điểm Kỹ năng nghề nghiệp giữa các kỹ năng Tiêu chuẩn được liệt kê của nghề nghiệp và bất kỳ kỹ năng Chuyên môn nào đã được chọn, tăng mỗi kỹ năng thêm 1% cho mỗi điểm chi tiêu để cải thiện nó. Như với các nền văn hóa, Quản trò có thể áp dụng giới hạn về số điểm kỹ năng có thể được áp dụng cho bất kỳ kỹ năng cụ thể nào.
+Văn Hóa xác định loại xã hội mà Nhân Vật được nuôi dưỡng, và do đó quy định các quan điểm và triết lý nhất định mà họ có thể có. Thực tế hơn, văn hóa giúp tăng cường giá trị của các kỹ năng khác nhau định hình năng lực tổng thể của Nhân Vật. Có bốn nền văn hóa nhân loại cơ bản: Dã Man, Văn Minh, Du Mục và Nguyên Thủy. Mỗi nền tảng văn hóa liệt kê một loạt các Kỹ Năng Tiêu Chuẩn phù hợp với nó và mời người chơi chọn tối đa ba Kỹ Năng Chuyên Nghiệp được trình bày: theo cách này, người chơi từ cùng một nền tảng văn hóa có thể đảm bảo rằng các nhà thám hiểm của họ khác biệt ở những lĩnh vực mà họ đã phát triển. Phân bổ 100 điểm kỹ năng Văn Hóa cho các Kỹ Năng Tiêu Chuẩn được liệt kê của nghề nghiệp và bất kỳ Kỹ Năng Chuyên Nghiệp nào đã được chọn, tăng mỗi kỹ năng thêm 1% cho mỗi điểm chi tiêu để cải thiện nó. Người Quản Trò có thể muốn áp dụng giới hạn cho số điểm kỹ năng có thể được áp dụng cho bất kỳ kỹ năng cụ thể nào.
 
-Các kỹ năng Chuyên môn cụ thể, như Phi công, khó có thể tìm thấy trong thế giới giả tưởng. Kỹ năng được thảo luận đầy đủ hơn trong chương [Kỹ năng](0002_Characters.md?id=step-4-skills).
+### Dã Man
 
-#### Bảng Nghề nghiệp
+Mang bản chất bộ lạc, người dã man có xu hướng xa lánh văn minh, coi những người sống ở các thị trấn và thành phố lớn là yếu đuối và đồi bại. Mặc dù các khu định cư của chính họ cũng ổn định, nhưng chúng thường nhỏ hơn nhiều và gần gũi với thiên nhiên hơn. Các bộ lạc dã man chiếm giữ những vùng lãnh thổ riêng biệt, thường là vùng hoang dã bán thuần hóa, mà họ coi là của riêng mình để săn bắn, chăn thả và canh tác. Hầu hết đều thành thạo việc sử dụng vũ khí vì họ phải vượt qua nhiều nguy hiểm trong suốt cuộc đời – đối mặt với các sinh vật hoang dã hoặc tập hợp để bảo vệ vùng đất của mình trước các bộ lạc đối thủ. Vì họ sống trong các cộng đồng nhỏ nên mối quan hệ huyết thống và gia tộc là những yếu tố mạnh mẽ trong xã hội của họ.
 
-| Tên Nghề nghiệp | Kỹ năng Tiêu chuẩn | Kỹ năng Chuyên môn |
+#### Kỹ Năng
+
+- **Kỹ Năng Tiêu Chuẩn:** Điền Kinh, Cơ Bắp, Sức Bền, Sơ Cứu, Khu Vực, Nhận Thức; và một trong hai Chèo Thuyền hoặc Cưỡi. Ngoài ra, người chơi cũng có thể chọn một Phong Cách Chiến Đấu văn hóa.
+- **Kỹ Năng Chuyên Nghiệp:** Nghề Thủ Công (bất kỳ), Chữa Bệnh, Kiến Thức (bất kỳ), Nhạc Cụ, Định Hướng, Đi Biển, Sinh Tồn, Theo Dấu.
+
+### Văn Minh
+
+Văn hóa Văn Minh được thể hiện bởi vẻ bề ngoài của luật pháp và trật tự, được củng cố bởi các quy tắc xã hội phức tạp, và được hỗ trợ bởi một bộ máy quan liêu. Người Văn Minh tin rằng mình ưu việt hơn tất cả các nền văn hóa khác vì những thành tựu của họ có xu hướng bền vững: những thành phố rộng lớn, những ngôi đền ấn tượng, những tượng đài kỷ niệm, và việc ghi chép lịch sử và các sự kiện vào sách, bia mộ, và cuộn giấy. Tất nhiên, đây chỉ là một lớp vỏ mỏng. Những thành phố Văn Minh nhất cũng có thể vô luật pháp hơn bất kỳ khu định cư biên giới Dã Man nào; và các quy tắc xã hội có thể thô sơ hơn các nghi lễ hiếu khách của người du mục. Nhưng nền văn hóa Văn Minh tự hào về những thành tựu, cơ sở hạ tầng, các nghệ nhân chuyên nghiệp và khả năng dễ dàng mở rộng tầm với của mình đến bất cứ nơi nào họ muốn.
+
+#### Kỹ Năng
+
+- **Kỹ Năng Tiêu Chuẩn:** Che Giấu, Lừa Dối, Lái Xe, Ảnh Hưởng, Trực Giác, Khu Vực, Ý Chí. Ngoài ra, người chơi cũng có thể chọn một Phong Cách Chiến Đấu văn hóa.
+- **Kỹ Năng Chuyên Nghiệp:** Nghệ Thuật (bất kỳ), Thương Mại, Nghề Thủ Công (bất kỳ), Lịch Thiệp, Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Nhạc Cụ, Hiểu Biết Đường Phố.
+
+### Du Mục
+
+Người Du Mục luôn di chuyển, không có nhà và nơi ở để gọi là của riêng mình. Họ có thể lang thang vô định hoặc có thể có một vài khu trại mà họ di chuyển đến và đi trong suốt cả năm. Họ canh tác ít và thay vào đó là theo đuổi sự di cư của động vật hoặc cá, thậm chí có thể chăn dắt các loài thú thuần hóa của riêng họ. Người du mục rất giỏi trong việc tồn tại dựa vào những gì họ có thể nhặt nhạnh nhanh chóng và dễ dàng từ môi trường xung quanh, không để lãng phí bất cứ thứ gì. Các kỹ năng của văn hóa du mục nên được điều chỉnh phù hợp với môi trường của họ. Một số người đi bộ những quãng đường dài, những người khác sống trong các đoàn lữ hành hoặc cưỡi trên các sinh vật lạ, và một số trôi dạt khắp đại dương trên những chiếc bè nổi lớn.
+
+#### Kỹ Năng
+
+- **Kỹ Năng Tiêu Chuẩn:** Sức Bền, Sơ Cứu, Khu Vực, Nhận Thức, Ẩn Nấp; và hai trong số các kỹ năng sau: Điền Kinh, Chèo Thuyền, Bơi Lội, Lái Xe hoặc Cưỡi tùy thuộc vào phương thức di chuyển chính. Ngoài ra, người chơi cũng có thể chọn một Phong Cách Chiến Đấu văn hóa.
+- **Kỹ Năng Chuyên Nghiệp:** Nghề Thủ Công (bất kỳ), Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Nhạc Cụ, Định Hướng, Sinh Tồn, Theo Dấu.
+
+### Nguyên Thủy
+
+Trong tất cả các dân tộc, người nguyên thủy là những người sống gần gũi nhất với thiên nhiên, hòa hợp với những bí mật ẩn giấu của nó. Sống trong các nhóm gia đình mở rộng, văn hóa nguyên thủy tập hợp xung quanh những nơi ở rất đơn giản, có thể bao gồm từ hang động và các khu vực trú ẩn tự nhiên cho đến các túp lều tạm bợ hoặc những túp lều rất cơ bản. Người nguyên thủy thường là những người săn bắt hái lượm với rất ít hoặc các hệ thống canh tác và chăn nuôi kém phát triển.
+
+Tuy nhiên, một số niềm tin văn hóa nhất định, thường dựa trên sự mê tín, có thể được xác định rất rõ ràng. Rất ít nền văn hóa nguyên thủy phát triển bất cứ thứ gì gần giống với ngôn ngữ viết mặc dù các bức tranh và các biểu tượng hình ảnh khác đóng vai trò là phương tiện giao tiếp.#### Kỹ Năng
+
+- **Kỹ Năng Tiêu Chuẩn:** Cơ Bắp, Sức Bền, Né Tránh, Khu Vực, Nhận Thức, Ẩn Nấp; và một trong các kỹ năng Điền Kinh, Chèo Thuyền hoặc Bơi Lội. Ngoài ra, người chơi có thể chọn một Phong Cách Chiến Đấu văn hóa.
+- **Kỹ Năng Chuyên Nghiệp:** Thủ Công (bất kỳ), Hồi Phục, Kiến Thức (bất kỳ), Nhạc Cụ, Dẫn Đường, Sinh Tồn, Truy Dấu.
+
+---
+## Bước 6: Sự Nghiệp
+
+Mọi Nhân Vật đều bắt đầu trò chơi với việc đã được đào tạo trong một sự nghiệp. Nghề nghiệp được chọn không nhất thiết phải là nghề mà Nhân Vật tiếp tục theo đuổi khi bắt đầu cuộc sống phiêu lưu, nhưng đó là sự nghiệp đã khởi đầu trong quá trình chuyển sang tuổi trưởng thành và nó định hình sâu hơn sự phát triển kỹ năng. Mỗi sự nghiệp cung cấp một loạt các Kỹ Năng Tiêu Chuẩn phù hợp và cho phép người chơi chọn tối đa ba Kỹ Năng Chuyên Nghiệp trong danh sách. Phân bổ 100 Điểm Kỹ Năng Sự Nghiệp cho các Kỹ Năng Tiêu Chuẩn được liệt kê của sự nghiệp và bất kỳ Kỹ Năng Chuyên Nghiệp nào đã được chọn, tăng mỗi kỹ năng thêm 1% cho mỗi điểm chi tiêu để cải thiện nó. Cũng như văn hóa, Quản Trò có thể áp dụng mức trần cho số điểm kỹ năng có thể áp dụng cho bất kỳ kỹ năng cụ thể nào.
+
+Các Kỹ Năng Chuyên Nghiệp cụ thể, như Phi Công, ít có khả năng xuất hiện trong thế giới giả tưởng. Các kỹ năng được thảo luận đầy đủ hơn trong chương [Kỹ Năng](0002_Characters.md?id=step-4-skills).
+
+#### Bảng Sự Nghiệp
+
+| Tên Sự Nghiệp | Kỹ Năng Tiêu Chuẩn | Kỹ Năng Chuyên Nghiệp |
 | :-- | :-- | :-- |
-| Đặc vụ (Người kích động, Sát thủ, Thám tử, Người cung cấp thông tin, Gián điệp…) | Che giấu, Lừa dối, Né tránh, Nhận thức sâu sắc, Nhận biết, Lén lút; Phong cách chiến đấu (Đặc vụ cụ thể hoặc Phong cách văn hóa) | Văn hóa (bất kỳ), Ngụy trang, Ngôn ngữ (bất kỳ), Ảo thuật (Sleight), Am hiểu đường phố, Sinh tồn, Theo dấu |
-| Người xử lý thú (Người nhân giống động vật, Người thuần hóa thú, Người giữ vườn thú…) | Lái xe, Sức bền, Sơ cứu, Ảnh hưởng, Thông thạo địa phương, Cưỡi ngựa, Ý chí | Thủ công (Chăn nuôi), Thương mại, Chữa bệnh (Loài cụ thể), Truyền thuyết (Loài cụ thể), Sinh tồn, Dạy học (Loài cụ thể), Theo dấu |
-| Thợ săn tiền thưởng (Nhân viên thực thi bảo lãnh, Kẻ giết người săn tiền thưởng, Kẻ săn da đầu, Người truy tìm nợ…) | Điền kinh, Sức bền, Né tránh, Nhận thức sâu sắc, Nhận biết, Lén lút; Phong cách chiến đấu (bất kỳ) | Quan liêu, Thương mại, Văn hóa (bất kỳ), Ngôn ngữ học, Am hiểu đường phố, Sinh tồn (bất kỳ), Theo dấu |
-| Kỹ nữ (Tỳ thiếp, Người hộ tống, Cô gái hậu cung, Người tình…) | Phong tục, Khiêu vũ, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Nhận biết, Ca hát | Nghệ thuật (bất kỳ), Lịch sự, Văn hóa (bất kỳ), Đánh bạc, Ngôn ngữ (bất kỳ), Nhạc thuật, Quyến rũ |
-| Thợ thủ công (Người chế tạo, Nghệ nhân…) | Sức vóc, Lái xe, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Nhận biết, Ý chí | Nghệ thuật (bất kỳ), Thương mại, Thủ công (Chính), Thủ công (Phụ), Kỹ thuật, Cơ khí, Am hiểu đường phố |
-| Thám tử (Cảnh sát, Thám tử tư, Người điều tra…) | Phong tục, Né tránh, Ảnh hưởng, Nhận thức sâu sắc, Nhận biết, Lén lút; Phong cách chiến đấu (Phong cách tay không hoặc vũ khí phụ) | Quan liêu, Văn hóa (bất kỳ), Ngụy trang, Ngôn ngữ học, Truyền thuyết (bất kỳ), Nghiên cứu, Ảo thuật, Am hiểu đường phố |
-| Nghệ sĩ giải trí (Nhào lộn, Người hát rong, Vũ công, Người chơi, Nhà thơ…) | Điền kinh, Sức vóc, Khiêu vũ, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Ca hát | Nhào lộn, Diễn xuất, Hùng biện, Nhạc thuật, Quyến rũ, Ảo thuật, Am hiểu đường phố |
-| Nông dân (Chủ đất, Người làm vườn, Người cày ruộng…) | Điền kinh, Sức vóc, Lái xe, Sức bền, Thông thạo địa phương, Nhận biết, Cưỡi ngựa | Thương mại, Thủ công (bất kỳ), Truyền thuyết (Nông nghiệp), Truyền thuyết (Chăn nuôi), Hàng hải, Sinh tồn, Theo dấu |
-| Ngư dân (Người nhặt bãi biển, Người trông lưới, Người lặn tìm ngọc trai, Thợ săn cá voi…) | Điền kinh, Chèo thuyền, Sức bền, Thông thạo địa phương, Nhận biết, Lén lút, Bơi lội | Thương mại, Thủ công (bất kỳ), Truyền thuyết (Đánh bắt chính), Truyền thuyết (Đánh bắt phụ), Hàng hải, Hàng hải (Seamanship), Sinh tồn |
-| Con bạc (Người ghi sổ, Kẻ lừa đảo bài bạc, Người kiếm chác…) | Điền kinh, Sức vóc, Sức bền, Thông thạo địa phương, Nhận biết, Ý chí; và hoặc Lái xe hoặc Cưỡi ngựa | Diễn xuất, Quan liêu, Thương mại, Lịch sự, Đánh bạc, Nghiên cứu, Ảo thuật, Am hiểu đường phố |
-| Người chăn gia súc (Người nhân giống, Người chăn cừu, Người chăn ngỗng thiêng…) | Sức bền, Sơ cứu, Nhận thức sâu sắc, Thông thạo địa phương, Nhận biết, Cưỡi ngựa; Phong cách chiến đấu (Phong cách chăn gia súc cụ thể hoặc văn hóa) | Thương mại, Thủ công (Chăn nuôi), Chữa bệnh (Loài cụ thể), Hàng hải, Nhạc thuật, Sinh tồn, Theo dấu |
-| Thợ săn (Người kiểm lâm, Kẻ săn trộm, Người nhặt rác, Kẻ theo dõi, Người đặt bẫy…) | Điền kinh, Sức bền, Thông thạo địa phương, Nhận biết, Cưỡi ngựa, Lén lút; Phong cách chiến đấu (Phong cách săn bắn cụ thể hoặc văn hóa) | Thương mại, Thủ công (Liên quan đến săn bắn), Truyền thuyết (Vùng hoặc loài cụ thể), Cơ khí, Hàng hải, Sinh tồn, Theo dấu |
-| Nhà báo (Nhà bình luận, Người viết thuê, Phóng viên…) | Phong tục, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Tiếng mẹ đẻ, Nhận biết | Quan liêu, Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Hùng biện, Chính trị, Am hiểu đường phố |
-| Pháp sư (Pháp sư, Phù thủy, Thầy cúng…) | Phong tục, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Nhận biết, Ý chí | Văn hóa, Phép thuật, Biết chữ, Truyền thuyết x2, Hùng biện, Ảo thuật |
-| Thợ máy (Kỹ sư, Thợ sửa xe…) | Sức vóc, Văn hóa, Lái xe, Sức bền, Ảnh hưởng, Thông thạo địa phương, Ý chí | Thương mại, Thủ công (chính), Thủ công (phụ), Điện tử, Đánh bạc, Cơ khí, Am hiểu đường phố |
-| Thương nhân (Nhà môi giới, Người bán hàng rong, Người cho vay tiền, Kẻ buôn lậu…) | Chèo thuyền, Lái xe, Lừa dối, Nhận thức sâu sắc, Ảnh hưởng, Thông thạo địa phương, Cưỡi ngựa | Thương mại, Lịch sự, Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Hàng hải, Hàng hải (Seamanship), Am hiểu đường phố |
-| Thợ mỏ (Người thăm dò, Người làm đá, Kẻ đào hầm…) | Điền kinh, Sức vóc, Sức bền, Thông thạo địa phương, Nhận biết, Ca hát, Ý chí | Thương mại, Thủ công (Khai thác mỏ), Kỹ thuật, Truyền thuyết (Khoáng sản), Cơ khí, Hàng hải (Dưới lòng đất), Sinh tồn |
-| Quan chức (Bộ trưởng, Giám thị, Quản gia, Người thu thuế…) | Phong tục, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Nhận biết, Ý chí | Quan liêu, Thương mại, Lịch sự, Ngôn ngữ (bất kỳ), Biết chữ, Truyền thuyết (bất kỳ), Hùng biện |
-| Bác sĩ (Healer, Thầy thuốc, Kẻ tra tấn…) | Khiêu vũ, Sơ cứu, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Ca hát, Ý chí | Thương mại, Thủ công (Chuyên môn sinh lý cụ thể), Chữa bệnh, Ngôn ngữ (bất kỳ), Biết chữ (bất kỳ), Truyền thuyết (bất kỳ), Am hiểu đường phố |
-| Phi công (Nhà hàng không, Phi hành gia, Phi công biểu diễn, Phi công thử nghiệm…) | Sức vóc, Lái xe, Sức bền, Né tránh, Thông thạo địa phương, Nhận biết, Ý chí | Phong tục (bất kỳ), Điện tử, Cơ khí, Hàng hải, Phi công, Cảm biến, Am hiểu đường phố |
-| Chính trị gia (Công chức, Bộ trưởng, Giám thị, Quản gia…) | Phong tục, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Tiếng mẹ đẻ, Nhận biết | Quan liêu, Lịch sự, Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Hùng biện, Chính trị |
-| Tu sĩ (Trọng tài, Thành viên giáo phái, Druid, Khất sĩ, Nhà tiên tri…) | Phong tục, Khiêu vũ, Lừa dối, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Ý chí | Quan liêu, Lịch sự, Phong tục, Biết chữ (bất kỳ), Truyền thuyết (bất kỳ), Hùng biện, Chính trị |
-| Thủy thủ (Thuyền trưởng, Nô lệ chèo thuyền, Lính thủy, Cướp biển, Người đi bè…) | Điền kinh, Chèo thuyền, Sức vóc, Sức bền, Thông thạo địa phương, Bơi lội; Phong cách chiến đấu (Phong cách thủy thủ cụ thể hoặc văn hóa) | Thủ công (Chuyên môn tàu cụ thể), Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Hàng hải, Hàng hải (Seamanship), Sinh tồn |
-| Học giả (Người ghi chép, Thủ thư, Triết gia, Skald…) | Phong tục, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Tiếng mẹ đẻ, Nhận biết, Ý chí | Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Biết chữ (bất kỳ), Truyền thuyết (Chính), Truyền thuyết (Phụ), Hùng biện, Dạy học |
-| Nhà khoa học (Người lưu trữ, Thủ thư, Triết gia…) | Phong tục, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Tiếng mẹ đẻ, Nhận biết, Ý chí | Văn hóa (bất kỳ), Kỹ thuật, Ngôn ngữ (bất kỳ), Hùng biện, Nghiên cứu, Khoa học (bất kỳ), Dạy học |
-| Hướng đạo (Thợ săn tiền thưởng, Nhà thám hiểm, Người tiên phong, Kiểm lâm…) | Điền kinh, Sức bền, Sơ cứu, Nhận biết, Lén lút, Bơi lội; Phong cách chiến đấu (Phong cách săn bắn cụ thể hoặc văn hóa) | Văn hóa (bất kỳ), Chữa bệnh, Ngôn ngữ (bất kỳ), Truyền thuyết (bất kỳ), Hàng hải, Sinh tồn, Theo dấu |
-| Người hầu (Người hỗ trợ, Quản gia, Tài xế, Người giúp việc, Bảo mẫu, Quản lý…) | Phong tục, Lừa dối, Lái xe, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương, Nhận biết | Quan liêu, Lịch sự, Thủ công (liên quan đến dịch vụ), Văn hóa (bất kỳ), Ngôn ngữ (bất kỳ), Chính trị, Am hiểu đường phố |
-| Kẻ buôn lậu (Kẻ bán hàng lậu, Người buôn rượu, Người chạy súng…) | Che giấu, Phong tục, Lừa dối, Lái xe, Ảnh hưởng, Nhận thức sâu sắc, Thông thạo địa phương | Quan liêu, Thương mại, Phong tục (bất kỳ), Ngôn ngữ (bất kỳ), Hàng hải, Am hiểu đường phố; và hoặc Thiên văn hàng hải hoặc Hàng hải (Seamanship) |
-| Kỹ thuật viên (Thợ điện, Trợ lý phòng thí nghiệm…) | Sức vóc, Lái xe, Sức bền, Ảnh hưởng, Thông thạo địa phương, Nhận biết, Ý chí | Thông tin liên lạc, Thủ công (bất kỳ), Điện tử, Đánh bạc, Cơ khí, Khoa học (bất kỳ), Cảm biến |
-| Kẻ trộm (Kẻ đột nhập, Kẻ lừa đảo, Người tiêu thụ đồ ăn cắp, Kẻ trấn lột, Kẻ đào mộ…) | Điền kinh, Lừa dối, Né tránh, Nhận thức sâu sắc, Nhận biết, Lén lút; Phong cách chiến đấu (Phong cách kẻ trộm cụ thể hoặc văn hóa) | Diễn xuất, Thương mại, Ngụy trang, Mở khóa, Cơ khí, Ảo thuật, Am hiểu đường phố |
-| Chiến binh (Vệ sĩ, Lính đánh thuê, Võ sĩ, Người lính…) | Điền kinh, Sức vóc, Sức bền, Né tránh, Tay không; Phong cách chiến đấu (Phong cách quân sự), Phong cách chiến đấu (Phong cách văn hóa) | Thủ công (bất kỳ), Kỹ thuật, Đánh bạc, Truyền thuyết (Lịch sử quân sự), Truyền thuyết (Chiến lược và chiến thuật), Hùng biện, Sinh tồn |
+| Đặc Vụ (Kẻ kích động, Sát thủ, Thám tử, Người chỉ điểm, Gián điệp…) | Che Giấu, Lừa Dối, Né Tránh, Trực Giác, Nhận Thức, Ẩn Nấp; Phong Cách Chiến Đấu (Đặc vụ cụ thể hoặc Phong cách văn hóa) | Văn Hóa (bất kỳ), Cải Trang, Ngôn Ngữ (bất kỳ), Thủ Thuật, Am Hiểu Đường Phố, Sinh Tồn, Truy Dấu |
+| Người Chăm Sóc Thú (Nhà nhân giống động vật, Người thuần hóa thú, Người trông coi vườn thú…) | Lái Xe, Sức Bền, Sơ Cứu, Ảnh Hưởng, Khu Vực, Cưỡi, Ý Chí | Thủ Công (Chăn nuôi), Thương Mại, Hồi Phục (Loài cụ thể), Kiến Thức (Loài cụ thể), Sinh Tồn, Dạy Học (Loài cụ thể), Truy Dấu |
+| Thợ Săn Tiền Thưởng (Đặc vụ thi hành bảo lãnh, Kẻ săn tiền thưởng, Kẻ săn đầu người, Người truy lùng tội phạm…) | Điền Kinh, Sức Bền, Né Tránh, Trực Giác, Nhận Thức, Ẩn Nấp; Phong Cách Chiến Đấu (bất kỳ) | Quan Liêu, Thương Mại, Văn Hóa (bất kỳ), Ngôn Ngữ Học, Am Hiểu Đường Phố, Sinh Tồn (bất kỳ), Truy Dấu |
+| Kỹ Nữ (Thiếp, Người hộ tống, Nữ tì trong hậu cung, Nàng tiên, Nhân tình…) | Phong Tục, Khiêu Vũ, Lừa Dối, Ảnh Hưởng, Trực Giác, Nhận Thức, Ca Hát | Nghệ Thuật (bất kỳ), Lịch Sự, Văn Hóa (bất kỳ), Cờ Bạc, Ngôn Ngữ (bất kỳ), Nhạc Cụ, Quyến Rũ |
+| Thợ Thủ Công (Người chế tác, Nghệ nhân…) | Cơ Bắp, Lái Xe, Ảnh Hưởng, Trực Giác, Khu Vực, Nhận Thức, Ý Chí | Nghệ Thuật (bất kỳ), Thương Mại, Thủ Công (Chính), Thủ Công (Phụ), Kỹ Thuật, Cơ Khí, Am Hiểu Đường Phố |
+| Thám Tử (Thám tử tư, Cảnh sát, Điều tra viên…) | Phong Tục, Né Tránh, Ảnh Hưởng, Trực Giác, Nhận Thức, Ẩn Nấp; Phong Cách Chiến Đấu (Tay không hoặc Vũ khí cầm tay) | Quan Liêu, Văn Hóa (bất kỳ), Cải Trang, Ngôn Ngữ Học, Kiến Thức (bất kỳ), Nghiên Cứu, Thủ Thuật, Am Hiểu Đường Phố |
+| Nghệ Sĩ Giải Trí (Nhào lộn, Bard, Vũ công, Diễn viên, Nhà thơ…) | Điền Kinh, Cơ Bắp, Khiêu Vũ, Lừa Dối, Ảnh Hưởng, Trực Giác, Ca Hát | Nhào Lộn, Diễn Xuất, Hùng Biện, Nhạc Cụ, Quyến Rũ, Thủ Thuật, Am Hiểu Đường Phố |
+| Nông Dân (Chủ điền trang, Người làm vườn, Người cày ruộng…) | Điền Kinh, Cơ Bắp, Lái Xe, Sức Bền, Khu Vực, Nhận Thức, Cưỡi | Thương Mại, Thủ Công (bất kỳ), Kiến Thức (Nông nghiệp), Kiến Thức (Chăn nuôi), Dẫn Đường, Sinh Tồn, Truy Dấu |
+| Ngư Dân (Người nhặt rác bờ biển, Người trông lưới, Thợ lặn ngọc trai, Thợ săn cá voi…) | Điền Kinh, Chèo Thuyền, Sức Bền, Khu Vực, Nhận Thức, Ẩn Nấp, Bơi Lội | Thương Mại, Thủ Công (bất kỳ), Kiến Thức (Cá bắt chính), Kiến Thức (Cá bắt phụ), Dẫn Đường, Hàng Hải, Sinh Tồn |
+| TC Bạc (Người ghi số, Kẻ bịp bài, Kẻ lừa đảo…) | Điền Kinh, Cơ Bắp, Sức Bền, Khu Vực, Nhận Thức, Ý Chí; và Lái Xe hoặc Cưỡi | Diễn Xuất, Quan Liêu, Thương Mại, Lịch Sự, Cờ Bạc, Nghiên Cứu, Thủ Thuật, Am Hiểu Đường Phố |
+| Người Chăn Gia Súc (Nhà nhân giống, Người chăn thả, Người trông ngỗng thiêng, Người quản lý…) | Sức Bền, Sơ Cứu, Trực Giác, Khu Vực, Nhận Thức, Cưỡi; Phong Cách Chiến Đấu (Chăn thả cụ thể hoặc Phong cách văn hóa) | Thương Mại, Thủ Công (Chăn nuôi), Hồi Phục (Loài cụ thể), Dẫn Đường, Nhạc Cụ, Sinh Tồn, Truy Dấu |
+| Thợ Săn (Người trông rừng, Kẻ săn trộm, Người nhặt rác, Kẻ bám đuôi, Người đặt bẫy…) | Điền Kinh, Sức Bền, Khu Vực, Nhận Thức, Cưỡi, Ẩn Nấp; Phong Cách Chiến Đấu (Săn bắn cụ thể hoặc Phong cách văn hóa) | Thương Mại, Thủ Công (Liên quan săn bắn), Kiến Thức (Khu vực hoặc Loài cụ thể), Cơ Khí, Dẫn Đường, Sinh Tồn, Truy Dấu |
+| Nhà Báo (Người bình luận, Người viết thuê, Phóng viên, Thợ in…) | Phong Tục, Lừa Dối, Ảnh Hưởng, Trực Giác, Khu Vực, Tiếng Mẹ Đẻ, Nhận Thức | Quan Liêu, Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Hùng Biện, Chính Trị, Am Hiểu Đường Phố |
+| Pháp Sư (Phù thủy, Thầy pháp, Thầy cúng, Pháp sư…) | Phong Tục, Lừa Dối, Ảnh Hưởng, Trực Giác, Khu Vực, Nhận Thức, Ý Chí | Văn Hóa, Phép Thuật, Biết Đọc Viết, Kiến Thức x2, Hùng Biện, Thủ Thuật |
+| Thợ Máy (Kỹ sư, Thợ sửa xe…) | Cơ Bắp, Văn Hóa, Lái Xe, Sức Bền, Ảnh Hưởng, Khu Vực, Ý Chí | Thương Mại, Thủ Công (Chính), Thủ Công (Phụ), Điện Tử, Cờ Bạc, Cơ Khí, Am Hiểu Đường Phố |
+| Thương Nhân (Người môi giới, Người bán hàng rong, Người cho vay nặng lãi, Người buôn lậu, Người giao dịch…) | Chèo Thuyền, Lái Xe, Lừa Dối, Trực Giác, Ảnh Hưởng, Khu Vực, Cưỡi | Thương Mại, Lịch Sự, Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Dẫn Đường, Hàng Hải, Am Hiểu Đường Phố |
+| Thợ Mỏ (Người thăm dò, Thợ đá, Công binh, Người đào giếng…) | Điền Kinh, Cơ Bắp, Sức Bền, Khu Vực, Nhận Thức, Ca Hát, Ý Chí | Thương Mại, Thủ Công (Khai thác mỏ), Kỹ Thuật, Kiến Thức (Khoáng sản), Cơ Khí, Dẫn Đường (Dưới lòng đất), Sinh Tồn |
+| Quan Chức (Bộ trưởng, Giám thị, Quản gia, Người thu thuế…) | Phong Tục, Lừa Dối, Ảnh Hưởng, Trực Giác, Khu Vực, Nhận Thức, Ý Chí | Quan Liêu, Thương Mại, Lịch Sự, Ngôn Ngữ (bất kỳ), Biết Đọc Viết, Kiến Thức (bất kỳ), Hùng Biện |
+| Bác Sĩ (Thầy thuốc, Người chữa bệnh, Thầy lang, Kẻ tra tấn, Người giải phẫu…) | Khiêu Vũ, Sơ Cứu, Ảnh Hưởng, Trực Giác, Khu Vực, Ca Hát, Ý Chí | Thương Mại, Thủ Công (Chuyên khoa sinh lý cụ thể), Hồi Phục, Ngôn Ngữ (bất kỳ), Biết Đọc Viết (bất kỳ), Kiến Thức (bất kỳ), Am Hiểu Đường Phố |
+| Phi Công (Người lái khí cầu, Phi hành gia, Phi công biểu diễn, Phi công lái máy bay, Phi công thử nghiệm…) | Cơ Bắp, Lái Xe, Sức Bền, Né Tránh, Khu Vực, Nhận Thức, Ý Chí | Phong Tục (bất kỳ), Điện Tử, Cơ Khí, Dẫn Đường, Lái Máy Bay, Cảm Biến, Am Hiểu Đường Phố |
+| Chính Trị Gia (Công chức, Quan lại, Bộ trưởng, Giám thị, Quản gia…) | Phong Tục, Lừa Dối, Ảnh Hưởng, Trực Giác, Khu Vực, Tiếng Mẹ Đẻ, Nhận Thức | Quan Liêu, Lịch Sự, Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Hùng Biện, Chính Trị |
+| Linh Mục (Người phân xử, Tín đồ, Druid, Người khất thực, Nhà tiên tri…) | Phong Tục, Khiêu Vũ, Lừa Dối, Ảnh Hưởng, Trực Giác, Khu Vực, Ý Chí | Quan Liêu, Lịch Sự, Phong Tục, Biết Đọc Viết (bất kỳ), Kiến Thức (bất kỳ), Hùng Biện, Chính Trị |
+| Thủy Thủ (Thuyền trưởng, Nô lệ chèo thuyền, Lính thủy, Cướp biển, Người đi bè…) | Điền Kinh, Chèo Thuyền, Cơ Bắp, Sức Bền, Khu Vực, Bơi Lội; Phong Cách Chiến Đấu (Thủy thủ cụ thể hoặc Phong cách văn hóa) | Thủ Công (Chuyên khoa tàu cụ thể), Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Dẫn Đường, Hàng Hải, Sinh Tồn |
+| Học Giả (Nhà chép sử, Thủ thư, Triết gia, Skald, Người sao chép…) | Phong Tục, Ảnh Hưởng, Trực Giác, Khu Vực, Tiếng Mẹ Đẻ, Nhận Thức, Ý Chí | Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Biết Đọc Viết (bất kỳ), Kiến Thức (Chính), Kiến Thức (Phụ), Hùng Biện, Dạy Học |
+| Nhà Khoa Học (Người lưu trữ, Thủ thư, Triết gia…) | Phong Tục, Ảnh Hưởng, Trực Giác, Khu Vực, Tiếng Mẹ Đẻ, Nhận Thức, Ý Chí | Văn Hóa (bất kỳ), Kỹ Thuật, Ngôn Ngữ (bất kỳ), Hùng Biện, Nghiên Cứu, Khoa Học (bất kỳ), Dạy Học |
+| Trinh Sát (Thợ săn tiền thưởng, Nhà thám hiểm, Người tiên phong, Người dẫn đường, Khách lữ hành…) | Điền Kinh, Sức Bền, Sơ Cứu, Nhận Thức, Ẩn Nấp, Bơi Lội; Phong Cách Chiến Đấu (Săn bắn cụ thể hoặc Phong cách văn hóa) | Văn Hóa (bất kỳ), Hồi Phục, Ngôn Ngữ (bất kỳ), Kiến Thức (bất kỳ), Dẫn Đường, Sinh Tồn, Truy Dấu |
+| Người Hầu (Phụ tá, Quản gia, Tài xế, Người hầu gái, Bảo mẫu, Quản lý gia đình, Người hầu nam, Trợ lý cá nhân, Thư ký…) | Phong Tục, Lừa Dối, Lái Xe, Ảnh Hưởng, Trực Giác, Khu Vực, Nhận Thức | Quan Liêu, Lịch Sự, Thủ Công (Liên quan dịch vụ), Văn Hóa (bất kỳ), Ngôn Ngữ (bất kỳ), Chính Trị, Am Hiểu Đường Phố |
+| Kẻ Buôn Lậu (Kẻ bán chợ đen, Kẻ nấu rượu lậu, Kẻ buôn lậu vũ khí…) | Che Giấu, Phong Tục, Lừa Dối, Lái Xe, Ảnh Hưởng, Trực Giác, Khu Vực | Quan Liêu, Thương Mại, Phong Tục (bất kỳ), Ngôn Ngữ (bất kỳ), Dẫn Đường, Am Hiểu Đường Phố; và Thiên Văn Học hoặc Hàng Hải |
+| Kỹ Thuật Viên (Thợ điện, Trợ lý phòng thí nghiệm…) | Cơ Bắp, Lái Xe, Sức Bền, Ảnh Hưởng, Khu Vực, Nhận Thức, Ý Chí | Viễn Thông, Thủ Công (bất kỳ), Điện Tử, Cờ Bạc, Cơ Khí, Khoa Học (bất kỳ), Cảm Biến |
+| Kẻ Trộm (Kẻ đột nhập, Kẻ lừa đảo, Kẻ tiêu thụ đồ gian, Kẻ cướp giật, Kẻ đào mộ…) | Điền Kinh, Lừa Dối, Né Tránh, Trực Giác, Nhận Thức, Ẩn Nấp; Phong Cách Chiến Đấu (Kẻ trộm cụ thể hoặc Phong cách văn hóa) | Diễn Xuất, Thương Mại, Cải Trang, Mở Khóa, Cơ Khí, Thủ Thuật, Am Hiểu Đường Phố |
+| Chiến Binh (Vệ sĩ, Lính đánh thuê, Võ sĩ lôi đài, Binh sĩ…) | Điền Kinh, Cơ Bắp, Sức Bền, Né Tránh, Tay Không; Phong Cách Chiến Đấu (Phong cách quân đội), Phong Cách Chiến Đấu (Phong cách văn hóa) | Thủ Công (bất kỳ), Kỹ Thuật, Cờ Bạc, Kiến Thức (Lịch sử quân sự), Kiến Thức (Chiến lược và chiến thuật), Hùng Biện, Sinh Tồn |
 
 ---
-## Bước 7: Điểm kỹ năng thưởng
+## Bước 7: Điểm Kỹ Năng Thưởng
 
-Như một bước cuối cùng, nhóm 150 điểm kỹ năng cuối cùng được phân bổ để hoàn thiện nhân vật. Những điểm này có thể được áp dụng cho bất kỳ kỹ năng Tiêu chuẩn nào, hoặc các kỹ năng Chuyên môn đã có được như một phần của Văn hóa hoặc Nghề nghiệp. Một lần nữa, Quản trò có thể áp dụng giới hạn về số điểm kỹ năng có thể được áp dụng cho bất kỳ kỹ năng cụ thể nào.
+Là bước cuối cùng, một quỹ điểm kỹ năng cuối cùng gồm 150 điểm được phân bổ để hoàn thiện Nhân Vật. Những điểm này có thể được áp dụng cho bất kỳ Kỹ Năng Tiêu Chuẩn nào, hoặc các Kỹ Năng Chuyên Nghiệp đạt được như một phần của Văn Hóa hoặc Sự Nghiệp. Một lần nữa, Quản Trò có thể áp dụng mức trần cho số lượng điểm kỹ năng có thể được áp dụng cho bất kỳ kỹ năng cụ thể nào.
 
-### Tạo nhân vật có kinh nghiệm
+### Tạo Nhân Vật Có Kinh Nghiệm
 
-Khuyến khích các nhân vật bắt đầu mới, với ít hoặc không có kinh nghiệm thực tế. Tất nhiên, cấp độ của các nhân vật sẽ phụ thuộc rất nhiều vào bối cảnh và liệu trò chơi sẽ là một cuộc phiêu lưu ngắn hay một chiến dịch dài hơi. Cũng thường thấy người chơi tạo một nhân vật có kinh nghiệm hơn nếu thay thế một nhân vật đã chết trong quá trình chơi hoặc khi tham gia một chiến dịch hiện có.
+Khuyến khích các nhân vật bắt đầu mới, với ít hoặc không có kinh nghiệm thực tế. Tất nhiên, cấp độ của các nhân vật sẽ phụ thuộc rất nhiều vào bối cảnh và liệu trò chơi sẽ là một cuộc phiêu lưu ngắn lẻ hay một chiến dịch dài hơi. Việc người chơi tạo một nhân vật có kinh nghiệm hơn nếu thay thế một người đã chết trong trò chơi hoặc khi tham gia một chiến dịch hiện có cũng là điều phổ biến.
 
-Một bảng được cung cấp, chia kinh nghiệm thành các Danh mục độ tuổi. Kinh nghiệm của một nhân vật có mối tương quan trực tiếp với tuổi tác và năng lực kỹ năng; các nhân vật có kinh nghiệm hơn tự nhiên có nhiều kinh nghiệm sống hơn so với các đồng đội trẻ tuổi hơn của họ. Tuy nhiên, Phần thưởng độ tuổi được ghi chú nên được coi là gần đúng, vì các chiến dịch tiến triển với tốc độ khác nhau — một số chiến dịch có nhiều thời gian trò chơi trôi qua giữa các cuộc phiêu lưu trong khi những chiến dịch khác là một chuỗi các cuộc phiêu lưu không gián đoạn. Khi chuyển đổi một nhân vật hiện có, chỉ cần thay thế tuổi thực tế cho tuổi được ghi trên bảng.
+Một bảng được cung cấp, chia kinh nghiệm thành các Phân Loại Tuổi. Kinh nghiệm của một nhân vật có mối tương quan trực tiếp với tuổi tác và năng lực kỹ năng; các nhân vật có kinh nghiệm hơn tự nhiên có nhiều trải nghiệm sống hơn những người trẻ tuổi hơn. Tuy nhiên, Phụ Cấp Tuổi được ghi chú nên được coi là gần đúng, vì các chiến dịch tiến triển ở các tốc độ khác nhau — một số chiến dịch có nhiều thời gian trò chơi trôi qua giữa các cuộc phiêu lưu trong khi những chiến dịch khác là một chuỗi dài các cuộc phiêu lưu không gián đoạn. Khi chuyển đổi một nhân vật hiện có, chỉ cần thay thế tuổi thực tế bằng tuổi được ghi trên bảng.
 
-#### Bảng kinh nghiệm
+#### Bảng Kinh Nghiệm
 
-| Danh mục | Tuổi | Điểm kỹ năng thưởng | Tăng kỹ năng tối đa |
+| Phân Loại | Tuổi | Điểm Kỹ Năng Thưởng | Tăng Kỹ Năng Tối Đa |
 | :-- | :-: | :-: | :-: |
 | Trẻ | 10+1d6 | 100 | +10 |
-| Trưởng thành | 15+2d6 | 150 | +15 |
-| Trung niên | 25+3d6 | 200 | +20 |
-| Cao cấp | 40+4d6 | 250 | +25 |
+| Người Lớn | 15+2d6 | 150 | +15 |
+| Trung Niên | 25+3d6 | 200 | +20 |
+| Cao Niên | 40+4d6 | 250 | +25 |
 | Già | 60+5d6 | 300 | +30 |
 
-#### Ghi chú bảng kinh nghiệm
+#### Ghi Chú Bảng Kinh Nghiệm
 
-- Điểm kỹ năng thưởng xác định số điểm nhân vật phải chi để phát triển kỹ năng.
-- Tăng kỹ năng tối đa giới hạn bao nhiêu Điểm thưởng có thể được áp dụng cho một kỹ năng duy nhất.
+- Điểm Kỹ Năng Thưởng xác định số điểm nhân vật phải chi để phát triển kỹ năng.
+- Tăng Kỹ Năng Tối Đa giới hạn số lượng Điểm Thưởng có thể áp dụng cho bất kỳ Kỹ Năng nào.
 
-### Kim tự tháp kỹ năng
+### Kim Tự Tháp Kỹ Năng
 
-Quy trình phân bổ điểm kỹ năng của _Mythras Imperative_ lấy 350 điểm từ ba nguồn: Văn hóa (100), Nghề nghiệp (100) và Điểm kỹ năng thưởng (150). Việc phân bổ những điểm này có thể tốn thời gian, và chắc chắn có những lúc việc xác định Văn hóa của một nhân vật không quá quan trọng, hoặc người chơi có một Nghề nghiệp cụ thể trong tâm trí mà không được các mẫu trong quy tắc cốt lõi phục vụ. Một hệ thống thay thế để phân bổ điểm kỹ năng, khi thời gian eo hẹp hoặc khi người chơi đang háo hức, được trình bày ở đây.
+Quy trình phân bổ điểm kỹ năng của _Mythras Imperative_ lấy 350 điểm từ ba nguồn: Văn Hóa (100), Sự Nghiệp (100) và Điểm Kỹ Năng Thưởng (150). Việc phân bổ những điểm này có thể tốn thời gian, và chắc chắn có những lúc việc xác định Văn Hóa của một nhân vật không quá quan trọng, hoặc người chơi có một Nghề Nghiệp cụ thể trong đầu không được phục vụ sẵn bởi các khuôn mẫu trong các quy tắc cốt lõi. Một hệ thống thay thế để phân bổ điểm kỹ năng, cho khi thời gian gấp rút hoặc khi người chơi háo hức, được trình bày ở đây.
 
-Thay vì phân bổ điểm từ các nhóm kỹ năng Văn hóa, Nghề nghiệp và Điểm kỹ năng thưởng, Kim tự tháp Kỹ năng được sử dụng thay thế. Điều này chia 350 điểm thành năm khối điểm cố định, như sau:
+Thay vì phân bổ điểm từ các quỹ Văn Hóa, Sự Nghiệp và Điểm Kỹ Năng Thưởng, Kim Tự Tháp Kỹ Năng được sử dụng thay thế. Điều này chia 350 điểm thành năm khối điểm cố định, như sau:
 
 1 kỹ năng ở mức 50%, 2 kỹ năng ở mức 40%, 3 kỹ năng ở mức 30%, 4 kỹ năng ở mức 20%, 5 kỹ năng ở mức 10%.
 
@@ -380,140 +379,138 @@ Tạo thành một kim tự tháp tiện dụng. Chỉ cần gạch bỏ từng 
 10 10 10 10 10
 ```
 
-#### Một vài quy tắc đơn giản
+#### Một Vài Quy Tắc Đơn Giản
 
-- Tất cả điểm từ kim tự tháp phải được phân bổ.
+- Tất cả các điểm từ kim tự tháp phải được phân bổ.
 - Không kỹ năng nào có thể có nhiều hơn một phân bổ từ kim tự tháp.
-- Cả Phong tục và Tiếng mẹ đẻ đều được cộng +40, theo quy tắc cốt lõi, và cộng thêm vào bất kỳ phân bổ nào được thực hiện từ kim tự tháp.
-- Đam mê (Passions) nhận được các giá trị được ghi chú trong phần [Đam mê](0002_Characters.md?id=step-8-passions), và cộng thêm vào bất kỳ phân bổ nào được thực hiện từ kim tự tháp.
-- Không kỹ năng nào có thể vượt quá 80% từ kết quả của một phân bổ. Vì vậy, nếu một nhân vật có STR 16 và DEX 17, cho cơ sở 33%, người chơi không thể phân bổ giá trị 50 điểm cho một Phong cách chiến đấu.
-- Sáu trong số các giá trị phải được phân bổ cho các Kỹ năng chuyên môn.
-- Nhân vật vẫn có thể chọn một Văn hóa và Nghề nghiệp, và sử dụng các kỹ năng được liệt kê trong mô tả phù hợp làm hướng dẫn cho các phân bổ của họ, hoặc các phân bổ có thể hoàn toàn tự do.
-- Khuyến khích ít nhất một trong các giá trị được phân bổ cho một Phong cách chiến đấu, nhưng điều này không bắt buộc.
-- Quản trò luôn có tiếng nói cuối cùng.
+- Phong Tục và Tiếng Mẹ Đẻ đều nhận được +40, theo các quy tắc cốt lõi, và bổ sung cho bất kỳ phân bổ nào được thực hiện từ kim tự tháp.
+- Đam Mê nhận được các giá trị được ghi chú trong phần [Đam Mê](0002_Characters.md?id=step-8-passions), và bổ sung cho bất kỳ phân bổ nào được thực hiện từ kim tự tháp.
+- Không kỹ năng nào có thể vượt quá 80% từ kết quả của một phân bổ. Vì vậy, nếu một nhân vật có SM 16 và KL 17, cho mức cơ bản là 33%, người chơi không thể phân bổ giá trị 50 điểm cho Phong Cách Chiến Đấu.
+- Sáu trong số các giá trị phải được phân bổ cho Kỹ Năng Chuyên Nghiệp.
+- Nhân vật vẫn có thể chọn một Văn Hóa và Nghề Nghiệp, và sử dụng các kỹ năng được liệt kê trong mô tả phù hợp như một hướng dẫn cho các phân bổ của họ, hoặc các phân bổ có thể hoàn toàn tự do.
+- Khuyến khích ít nhất một trong các giá trị được phân bổ cho Phong Cách Chiến Đấu, nhưng điều này không bắt buộc.
+- Quản Trò luôn có tiếng nói cuối cùng.
 
-### Anh hùng phi thường
+### Sự Hào Hùng Vượt Bậc
 
-_Mythras Imperative_ chủ yếu đề cập đến những con người bình thường, nhưng thỉnh thoảng một chiến dịch đòi hỏi thứ gì đó khác, đặc biệt nếu nó đòi hỏi những sự anh hùng đặc biệt, hoặc diễn ra trong bối cảnh Hành động giật gân (Pulp Action), nơi các anh hùng và nhân vật phản diện thường lớn hơn thực tế.
+_Mythras Imperative_ chủ yếu giải quyết những TC người bình thường, nhưng đôi khi một chiến dịch đòi hỏi điều gì đó khác, đặc biệt nếu nó đòi hỏi sự hào hùng đặc biệt, hoặc diễn ra trong bối cảnh Pulp Action, nơi các anh hùng và phản diện thường vượt xa người thường.
 
-Những anh hùng như vậy có thể không nhất thiết phải có siêu năng lực (mặc dù nếu muốn, có thể sử dụng chương Phép thuật và Sức mạnh), nhưng họ mạnh hơn một chút, nhanh hơn một chút, kiên cường hơn một chút và thường có ý chí mạnh mẽ hơn nhiều. Hãy nghĩ về một chiến binh man di nhất định từ Cimmeria; một đặc vụ đặc biệt có giấy phép giết người; một người đàn ông bằng đồng; một kẻ cảnh giác đeo mặt nạ, người cũng là một tay chơi tỷ phú – hoặc bất kỳ nhân vật anh hùng nổi tiếng nào. Họ thường xuyên đối mặt với những tình huống mà một người bình thường sẽ suy sụp; nhưng là anh hùng, họ có thể chịu đựng bất cứ điều gì mà cốt truyện ném vào họ, và sống sót để tham gia vào cuộc phiêu lưu tiếp theo (tương đối) nguyên vẹn.
+Những anh hùng như vậy có thể không nhất thiết phải có siêu năng lực (mặc dù nếu muốn, chương Phép Thuật và Năng Lực có thể được sử dụng), nhưng họ mạnh hơn một chút, nhanh hơn một chút, bền bỉ hơn một chút và thường có ý chí mạnh mẽ hơn nhiều. Hãy nghĩ về một chiến binh man di nào đó từ Cimmeria; một đặc vụ được cấp phép giết người; một người đàn ông bằng đồng; một người cảnh giác đeo mặt nạ cũng là một tỷ phú ăn chơi – hoặc bất kỳ số lượng nhân vật anh hùng nổi tiếng nào. Họ thường xuyên đối mặt với những tình huống mà một người bình thường sẽ gục ngã; nhưng với tư cách là những anh hùng, họ có thể chịu đựng bất cứ điều gì mà cốt truyện ném vào họ, và sống để tham gia vào cuộc phiêu lưu tiếp theo mà (tương đối) không hề hấn gì.
 
-Nếu bạn dự định giới thiệu các kiểu nhân vật này vào trò chơi của mình, hãy đảm bảo rằng tất cả người chơi đều có nhân vật ở cùng cấp độ. Các kiểu nhân vật này được thiết kế để dẫn dắt hành động; các nhân vật trần tục (trừ khi họ có lợi ích của phép thuật, hoặc một số lợi thế khác) có thể bị lu mờ.
+Nếu bạn định giới thiệu những kiểu nhân vật này vào trò chơi của mình, hãy đảm bảo rằng tất cả người chơi đều có nhân vật ở cùng cấp độ. Những kiểu nhân vật này được thiết kế để khuấy động phong trào và thúc đẩy hành động; những nhân vật bình thường (trừ khi họ có lợi thế của phép thuật, hoặc một số lợi thế khác) có thể sẽ bị lép vế.
 
-### Nhân vật Anh hùng giật gân (Pulp Hero)
+### Nhân Vật Anh Hùng Pulp
 
-Đây là những Anh hùng giật gân truyền thống. Họ không phải là siêu anh hùng hay á thần, và một phát đạn shotgun trúng đích vẫn sẽ kết thúc cuộc đời họ, nhưng họ dẻo dai hơn, thông minh hơn, có khả năng hơn và nhìn chung, hơn người thường một hoặc hai bậc. Ngoài ra, cuộc sống của họ có xu hướng đầy rẫy sự phiêu lưu. Trong khi một nhân vật Anh hùng có thể chọn cố gắng ổn định cuộc sống và sống một cuộc đời không có biến cố, thường thì rắc rối hoặc ai đó cần giúp đỡ sẽ tìm đến cửa nhà nhân vật.
+Đây là những Anh Hùng Pulp truyền thống. Họ không phải là siêu anh hùng hay á thần, và một phát đạn shotgun trúng đích vẫn sẽ kết thúc cuộc đời họ, nhưng họ dẻo dai hơn, thông minh hơn, có khả năng hơn, và nhìn chung, hơn người thường một hoặc hai bậc. Ngoài ra, cuộc sống của họ thường tràn ngập phiêu lưu. Trong khi một nhân vật Anh Hùng có thể chọn cố gắng ổn định và sống một cuộc đời bình lặng, thường thì rắc rối hoặc ai đó cần giúp đỡ sẽ tìm đến cửa nhà nhân vật.
 
-#### Chỉ số
+#### Chỉ Số
 
-Khi tạo nhân vật Anh hùng giật gân, hãy sử dụng phương pháp Gán giá trị bằng Tung xúc xắc trong phần [Nhân vật](0002_Characters.md?id=calculating-characteristics). Tung 4d6 và loại bỏ viên xúc xắc thấp nhất, năm lần, sau đó gán kết quả cho STR, CON, DEX, POW và CHA. Tiếp theo, tung 3d6+6 và loại bỏ viên xúc xắc thấp nhất hai lần rồi gán các con số này cho SIZ và INT. Nếu sử dụng phương pháp Xây dựng bằng Điểm, người chơi xây dựng nhân vật của mình từ một quỹ điểm định sẵn gồm 90 điểm.
+Khi tạo các nhân vật Anh Hùng Pulp, hãy sử dụng phương pháp Đổ Xúc Xắc Phân Bổ trong phần [Nhân Vật](0002_Characters.md?id=calculating-characteristics). Đổ 4d6 và loại bỏ TC xúc xắc thấp nhất, năm lần, và sau đó gán kết quả cho SM, TC, KL, NL và SH. Tiếp theo, đổ 3d6+6 và loại bỏ TC xúc xắc thấp nhất hai lần và gán những TC số này cho KT và TT. Nếu sử dụng phương pháp Xây Dựng Bằng Điểm, người chơi xây dựng nhân vật của họ từ một quỹ điểm đặt trước là 90 điểm.
 
-#### Thuộc tính
+#### Thuộc Tính
 
-Các thuộc tính này được tính toán như bình thường, ngoại trừ việc các nhân vật Anh hùng giật gân nhận được hai Lợi thế được chọn từ những điều sau (lưu ý rằng các lợi thế không thể cộng dồn):
+Những chỉ số này được tính toán như bình thường, ngoại trừ các nhân vật Anh Hùng Pulp nhận được hai Lợi Thế được chọn từ các mục sau (lưu ý rằng các lợi thế không thể cộng dồn):
 
-- +1 Điểm hành động
-- +1 Điểm may mắn
-- +1 Điểm máu cho mỗi Vị trí cơ thể
-- Các lần tung Sức bền dễ hơn một Bậc
-- Các lần tung Lén lút dễ hơn một Bậc
-- Các lần tung Ý chí dễ hơn một Bậc
+- +1 Điểm Hành Động
+- +1 Điểm May Mắn
+- +1 Điểm Máu cho mỗi Vị Trí Trúng Đòn
+- Các lần đổ Sức Bền dễ hơn một Cấp Độ
+- Các lần đổ Ẩn Nấp dễ hơn một Cấp Độ
+- Các lần đổ Ý Chí dễ hơn một Cấp Độ
 
-Tất cả các nhân vật Anh hùng giật gân tăng gấp đôi Tốc độ hồi phục khi bị Vết thương nhẹ hoặc Nghiêm trọng, mặc dù Vết thương nặng được xử lý theo Tốc độ hồi phục tiêu chuẩn của nhân vật.
+Tất cả các nhân vật Anh Hùng Pulp nhân đôi Tốc Độ Hồi Phục của họ khi bị Vết Thương Nhẹ hoặc Nghiêm Trọng, mặc dù các Vết Thương Nặng được xử lý theo Tốc Độ Hồi Phục tiêu chuẩn của nhân vật.
 
-#### Kỹ năng
+#### Kỹ Năng
 
-Các nhân vật Anh hùng giật gân nhận thêm 50 Điểm kỹ năng thưởng để phân bổ khi cần thiết.
+Các nhân vật Anh Hùng Pulp nhận thêm 50 Điểm Kỹ Năng Thưởng để phân bổ khi cần.
 
-### Nhân vật Kiệt xuất (Paragon)
+### Nhân Vật Kiệt Xuất
 
-Các nhân vật Kiệt xuất là biểu tượng của sự xuất sắc. Trong khi một nhà khảo cổ học cầm roi da nhất định và một siêu gián điệp có giấy phép giết người là các nhân vật Anh hùng giật gân, thì chiến binh Cimmeria, Người đàn ông bằng đồng, Thám tử hiệp sĩ bóng đêm và Sherlock Holmes là các nhân vật Kiệt xuất. Các nhân vật Kiệt xuất không chỉ có năng lực tối cao trong một lĩnh vực chuyên môn: họ thường xuất sắc ở nhiều lĩnh vực. Một nhà phát minh và vật lý học lỗi lạc cũng là một anh hùng chiến tranh, là một ví dụ tuyệt vời về nhân vật Kiệt xuất; Một tay chơi tỷ phú chiến đấu tội phạm, người đã học tập với những trí óc thám tử giỏi nhất thế giới là một ví dụ khác. Các nhân vật Kiệt xuất có thể có nhiều bằng đại học, tài sản độc lập, những người bảo trợ bí ẩn, cũng như nhiều hình thức kinh nghiệm khác.
+Nhân vật Kiệt Xuất là biểu tượng của sự xuất sắc. Trong khi một nhà khảo cổ học sử dụng roi da và một siêu gián điệp được cấp phép giết người là những nhân vật Anh Hùng Pulp, thì chiến binh Cimmerian, Người Đàn Ông Bằng Đồng, Kẻ Thám Tử Hiệp Sĩ Bóng Đêm và Sherlock Holmes là những nhân vật Kiệt Xuất. Nhân vật Kiệt Xuất không chỉ đơn thuần là cực kỳ năng lực trong một lĩnh vực chuyên môn: họ thường xuất sắc ở một vài lĩnh vực. Một nhà phát minh và vật lý thiên tài cũng là một anh hùng chiến tranh thiện xạ, là một ví dụ tuyệt vời về một nhân vật Kiệt Xuất; Một tỷ phú ăn chơi chiến đấu chống tội phạm, người đã học tập với những trí óc thám tử giỏi nhất thế giới là một ví dụ khác. Nhân vật Kiệt Xuất có thể có nhiều bằng đại học, sự giàu có độc lập, những người bảo trợ bí ẩn, cũng như nhiều hình thức kinh nghiệm khác.
 
-Kết quả là, các nhân vật Kiệt xuất sẽ không dành cho tất cả mọi người, nhưng nếu một bối cảnh cần những nhân vật có thể thay đổi số phận của toàn bộ hệ mặt trời, hoặc thực hiện bất kỳ thử thách nào, thì một chiến dịch cấp độ Kiệt xuất là phù hợp. Trong khi cả hai chiến dịch Bình thường và Anh hùng đôi khi liên quan đến những rủi ro cực kỳ cao như số phận của các quốc gia hoặc thậm chí các hành tinh, các chiến dịch Kiệt xuất nên thường xuyên làm như vậy.
+Kết quả là, các nhân vật Kiệt Xuất sẽ không dành cho tất cả mọi người, nhưng nếu một bối cảnh cần những nhân vật có thể thay đổi vận mệnh của toàn bộ hệ mặt trời, hoặc đảm nhận bất kỳ thử thách nào, thì một chiến dịch cấp độ Kiệt Xuất là phù hợp. Trong khi cả các chiến dịch Thông Thường và Anh Hùng đôi khi liên quan đến những rủi ro cực kỳ cao như số phận của các quốc gia hoặc thậm chí các hành tinh, các chiến dịch Kiệt Xuất nên thường xuyên làm như vậy.
 
-#### Chỉ số
+#### Chỉ Số
 
-Khi tạo nhân vật bằng phương pháp Gán giá trị bằng Tung xúc xắc trong phần [Nhân vật](0002_Characters.md?id=calculating-characteristics). Tung 4d6, loại bỏ viên xúc xắc thấp nhất sáu lần, sau đó gán năm kết quả mà bạn chọn (thường là năm kết quả cao nhất) cho STR, CON, DEX, POW và CHA. Tiếp theo, tung 3d6+6, loại bỏ viên xúc xắc thấp nhất ba lần và gán hai kết quả bạn chọn (thường là hai kết quả cao nhất) cho SIZ và INT. Nếu sử dụng phương pháp Xây dựng bằng Điểm, người chơi xây dựng nhân vật từ một quỹ điểm định sẵn gồm 100 điểm.
+Khi tạo nhân vật bằng phương pháp Đổ Xúc Xắc Phân Bổ trong phần [Nhân Vật](0002_Characters.md?id=calculating-characteristics). Đổ 4d6, loại bỏ TC xúc xắc thấp nhất sáu lần, sau đó gán năm kết quả mà bạn chọn (thường là năm kết quả cao nhất) cho SM, TC, KL, NL và SH. Tiếp theo, đổ 3d6+6, loại bỏ TC xúc xắc thấp nhất ba lần và gán hai kết quả mà bạn chọn (thường là hai kết quả cao nhất) cho KT và TT. Nếu sử dụng phương pháp Xây Dựng Bằng Điểm, người chơi xây dựng nhân vật của họ từ một quỹ điểm đặt trước là 100 điểm.
 
-#### Thuộc tính
+#### Thuộc Tính
 
-Các thuộc tính này được tính toán như bình thường, ngoại trừ việc các Nhân vật Kiệt xuất nhận được ba Lợi thế được chọn từ những điều sau (lưu ý rằng các lợi thế không thể cộng dồn):
+Những chỉ số này được tính toán như bình thường, ngoại trừ các Nhân Vật Kiệt Xuất nhận được ba Lợi Thế được chọn từ các mục sau (lưu ý rằng các lợi thế không thể cộng dồn):
 
-- +1 Điểm hành động
-- +2 Điểm may mắn
-- +2 Điểm máu cho mỗi Vị trí cơ thể
-- Các lần tung Sức bền dễ hơn một Bậc
-- Các lần tung Lén lút dễ hơn một Bậc
-- Các lần tung Ý chí dễ hơn một Bậc
+- +1 Điểm Hành Động
+- +2 Điểm May Mắn
+- +2 Điểm Máu cho mỗi Vị Trí Trúng Đòn
+- Các lần đổ Sức Bền dễ hơn một Cấp Độ
+- Các lần đổ Ẩn Nấp dễ hơn một Cấp Độ
+- Các lần đổ Ý Chí dễ hơn một Cấp Độ
 
-Tất cả các nhân vật Kiệt xuất tăng gấp đôi Tốc độ hồi phục khi bị Vết thương nhẹ hoặc Nghiêm trọng, mặc dù Vết thương nặng được xử lý theo Tốc độ hồi phục tiêu chuẩn của nhân vật.
+Tất cả các nhân vật Kiệt Xuất nhân đôi Tốc Độ Hồi Phục của họ khi bị Vết Thương Nhẹ hoặc Nghiêm Trọng, mặc dù các Vết Thương Nặng được xử lý theo Tốc Độ Hồi Phục tiêu chuẩn của nhân vật.
 
-#### Kỹ năng
+#### Kỹ Năng
 
-Các nhân vật Anh hùng Kiệt xuất nhận thêm 100 Điểm kỹ năng thưởng để phân bổ khi cần thiết.
+Các nhân vật Anh Hùng Kiệt Xuất nhận thêm 100 Điểm Kỹ Năng Thưởng để phân bổ khi cần.
 
 ---
-## Bước 8: Đam mê (Passions)
+## Bước 8: Đam Mê
 
-Đam mê được sử dụng để hỗ trợ người chơi và Quản trò trong việc làm sâu sắc hơn bản chất của nhân vật, giới thiệu các tình tiết cốt truyện dựa trên mong muốn hoặc định kiến của nhân vật, và giúp người chơi hiểu nhân vật của mình là ai, điều gì thúc đẩy họ, v.v.
+Đam Mê được sử dụng để hỗ trợ người chơi và Quản Trò trong việc làm sâu sắc hơn bản chất của nhân vật, giới thiệu các móc câu cốt truyện dựa trên mong muốn hoặc định kiến của nhân vật, và giúp người chơi hiểu nhân vật của mình là ai, điều gì thúc đẩy anh ta, v.v.
 
-Một Đam mê có thể là bất cứ điều gì – một người, một tổ chức, một lý tưởng, thậm chí là một vật thể. Đam mê thường được mô tả bằng một động từ như: Khao khát (Desire), Khinh thường (Despise), Phá hủy (Destroy), Ủng hộ (Espouse), Sợ hãi (Fear), Chạy trốn (Flee), Từ bỏ (Forswear), Ghét (Hate), Yêu (Love), Trung thành với (Loyalty to), Bảo vệ (Protect), Phản bác (Repudiate), Tôn trọng (Respect), Tìm kiếm (Seek), Lật đổ (Subvert), Hành hạ (Torment), hoặc Duy trì (Uphold).
+Một Đam Mê có thể là bất cứ thứ gì – một người, một tổ chức, một lý tưởng, thậm chí là một đồ vật. Đam Mê thường được mô tả bởi một động từ như: Khao khát, Khinh miệt, Phá hủy, Ủng hộ, Sợ hãi, Chạy trốn, Từ bỏ, Căm thù, Yêu, Lòng trung thành với, Bảo vệ, Phủ nhận, Tôn trọng, Tìm kiếm, Lật đổ, Hành hạ, hoặc Duy trì.
 
-Đam mê được đo lường giống như kỹ năng; chúng được xếp hạng từ 1 đến 100 (hoặc cao hơn). Một Đam mê có thể được cải thiện giống như một kỹ năng, hoặc nó có thể được tăng hoặc giảm bởi trọng tài tùy thuộc vào hoàn cảnh.
+Đam Mê được đo lường theo cùng cách với kỹ năng; chúng được xếp hạng từ 1 đến 100 (hoặc cao hơn). Một Đam Mê có thể được cải thiện theo cùng cách với kỹ năng, hoặc nó có thể được tăng lên hoặc giảm xuống bởi người điều hành tùy thuộc vào hoàn cảnh.
 
-Các nhân vật bắt đầu có thể có tối đa ba Đam mê, mỗi Đam mê dựa trên hai Chỉ số, với phần thưởng là +40 cho Đam mê thứ nhất, +30 cho thứ hai và +20 cho thứ ba – người chơi quyết định thứ tự ưu tiên. Những điều này có thể gắn liền với văn hóa, nghề nghiệp hoặc những thói quen cá nhân của họ. Ví dụ, trong một chiến dịch Kiếm & Phép thuật, nhân vật có thể chọn: Ghét (người Stygian), Không tin tưởng (Pháp sư) và Khao khát (Rượu); trong khi trong một trò chơi Khoa học viễn tưởng đen tối, nhân vật có thể chọn Trung thành (Tổng thống), Phá hủy (Người ngoài hành tinh) và Duy trì (Luật pháp).
+Các nhân vật bắt đầu có thể bắt đầu với tối đa ba Đam Mê, mỗi cái dựa trên hai Chỉ Số, với phần thưởng +40 cho cái thứ nhất, +30 cho cái thứ hai và +20 cho cái thứ ba – người chơi quyết định thứ tự quan trọng. Những cái này có thể được gắn với văn hóa, nghề nghiệp hoặc những tật xấu cá nhân của anh ta. Ví dụ, trong một chiến dịch Kiếm & Phép Thuật, nhân vật có thể chọn: Căm thù (Người Stygian), Không tin tưởng (Pháp sư), và Khao khát (Rượu); trong khi trong một trò chơi Khoa Học Viễn Tưởng Phản Địa Đàng, nhân vật có thể chọn Lòng trung thành (Tổng thống), Phá hủy (Người ngoài hành tinh), và Duy trì (Luật pháp) thay thế.#### Bảng Đam Mê
 
-#### Bảng Đam mê
-
-| Đối tượng của Đam mê | Tỷ lệ bắt đầu |
+| Đối tượng Đam Mê | Phần trăm khởi đầu |
 | :-- | :-- |
-| Một người, trong bối cảnh lãng mạn hoặc gia đình | POW+CHA |
-| Một tổ chức hoặc nhóm người | POW+INT |
-| Một chủng tộc hoặc loài | POW x2 của nhân vật |
-| Một địa điểm | POW+INT của nhân vật |
-| Một vật thể hoặc chất | POW x2 của nhân vật |
-| Một đặc điểm tính cách | POW+CHA của nhân vật |
+| Một người, trong ngữ cảnh lãng mạn hoặc gia đình | NL+SH |
+| Một tổ chức hoặc nhóm người | NL+TT |
+| Một chủng tộc hoặc loài | NL của Nhân Vật x2 |
+| Một địa điểm | NL+TT của Nhân Vật |
+| Một vật thể hoặc chất liệu | NL của Nhân Vật x2 |
+| Một nét tính cách | NL+SH của Nhân Vật |
 
-### Sử dụng Đam mê
+### Sử dụng Đam Mê
 
-Đam mê là bất kỳ cam kết sâu sắc nào có khả năng ảnh hưởng đến các sự kiện trong khi chơi. Mặc dù chúng có thể được sử dụng như các Khả năng độc lập (gọi chúng là kỹ năng là làm giảm giá trị của chúng), Đam mê được mở rộng chi tiết hơn dưới đây để giải thích cách chúng hoạt động và cách chúng có thể ảnh hưởng đến các nhân vật trong _Mythras Imperative_ và các chiến dịch.
+Đam Mê là bất kỳ cam kết sâu sắc nào có khả năng ảnh hưởng đến các sự kiện trong khi chơi. Mặc dù chúng có thể được sử dụng như các Năng Lực độc lập (gọi chúng là kỹ năng là hạ thấp giá trị của chúng), Đam Mê được mở rộng chi tiết dưới đây để giải thích rõ hơn về cách thức hoạt động và cách chúng có thể ảnh hưởng đến các Nhân Vật và chiến dịch trong _Mythras_ _Imperative_.
 
-Tóm lại, Đam mê có thể được sử dụng như sau:
+Tóm lại, Đam Mê có thể được sử dụng như sau:
 
-- Để tăng cường cho một kỹ năng khác, phản ánh chiều sâu cảm xúc và cách nó thúc đẩy hành động. Khi được sử dụng theo cách này, Đam mê cộng 20% giá trị của nó vào kỹ năng đang được sử dụng, nếu sự tăng cường này quan trọng về mặt chủ đề và kịch tính.
-- Như một Khả năng để thúc đẩy lựa chọn, mong muốn và các hành động cũng như phản ứng cảm xúc. Khi được sử dụng theo cách này, một lần tung xúc xắc tiêu chuẩn được thực hiện so với Đam mê để xác định nhân vật suy nghĩ và cảm nhận mạnh mẽ đến mức nào về điều gì đó. Nếu kết quả là Thành công, thì nhân vật hành động theo những gì Đam mê quy định. Nếu tung xúc xắc Thất bại, thì nhân vật có thể hành động tự do mà không cảm thấy bị gò bó bởi những thúc đẩy của Đam mê.
-- Để chống lại các Đam mê khác – ngay cả những Đam mê do chính nhân vật đó nắm giữ. Điều này thường được sử dụng khi hai Đam mê xung đột. Ví dụ, tình yêu cá nhân có thể ra lệnh cho một hành động trái ngược với một Lời thề hoặc lòng Trung thành. Ở đây, hãy sử dụng một Lần tung đối kháng (Opposed Roll) giữa hai Đam mê, với kết quả thành công hơn sẽ xác định cách nhân vật hành động.
-- Như một thước đo chung về chiều sâu cam kết, niềm tin và lòng trung thành với một lý tưởng. Giá trị Đam mê càng cao, nhân vật càng cam kết mạnh mẽ. Các nhân vật có Đam mê tương tự có thể so sánh xếp hạng của họ để xác định ai thể hiện sự cam kết sâu sắc hơn.
-- Để chống lại một số hình thức thao túng tâm lý hoặc thống trị bằng phép thuật. Trong một số trường hợp, nhân vật bị buộc phải thực hiện một hành động trái ngược với Đam mê của mình, họ có thể thay thế Đam mê cho Ý chí trong Lần tung đối kháng.
+- Để tăng cường cho một kỹ năng khác, phản ánh chiều sâu cảm xúc của một người và cách nó thúc đẩy hành động. Khi được sử dụng theo cách này, Đam Mê cộng thêm 20% giá trị của nó vào kỹ năng đang được sử dụng, nếu việc tăng cường đó có ý nghĩa quan trọng về mặt chủ đề và kịch tính.
+- Như một Năng Lực để thúc đẩy các lựa chọn, mong muốn và các hành động cũng như phản ứng cảm xúc. Khi được sử dụng theo cách này, một lần đổ xúc xắc Tiêu Chuẩn được thực hiện đối với Đam Mê để xác định mức độ mạnh mẽ mà nhân vật suy nghĩ và cảm nhận về điều gì đó. Nếu kết quả là Thành Công, thì nhân vật hành động theo những gì Đam Mê đó chỉ định. Nếu kết quả Thất Bại, thì nhân vật có thể hành động tự do mà không cảm thấy bị gò bó bởi sự thúc đẩy của Đam Mê.
+- Để đối lập với các Đam Mê khác – ngay cả những Đam Mê của cùng một nhân vật. Điều này thường được sử dụng khi hai Đam Mê xung đột với nhau. Ví dụ, tình yêu cá nhân có thể ra lệnh cho một hành động trái ngược với Lời Thề hoặc Lòng Trung Thành. Ở đây, hãy sử dụng Đổ Xúc Xắc Đối Kháng giữa hai Đam Mê, với kết quả thành công hơn sẽ quyết định cách nhân vật hành động.
+- Như một thước đo chung về mức độ cam kết, niềm tin và lòng trung thành với một lý tưởng. Giá trị Đam Mê càng cao, nhân vật càng cam kết mạnh mẽ. Các nhân vật có Đam Mê tương tự có thể so sánh xếp hạng của họ để xác định ai thể hiện cam kết sâu sắc hơn.
+- Để chống lại một số hình thức thao túng tâm lý hoặc thống trị ma thuật. Trong một số trường hợp, khi một nhân vật bị buộc phải thực hiện một hành động trái ngược với Đam Mê của họ, họ có thể thay thế bằng Ý Chí trong Đổ Xúc Xắc Đối Kháng.
 
-Các Đam mê mới có thể được phát triển bất cứ lúc nào trong một phiên trò chơi nếu hoàn cảnh đảm bảo điều đó. Một người có thể ngay lập tức phát triển 'Ghét X' khi người khác làm điều gì đó khơi dậy sự thù hận mạnh mẽ. Một lãnh chúa hoặc tộc trưởng kêu gọi một Lời thề sẽ ngay lập tức thiết lập một Đam mê 'Trung thành với X' ngay khi Lời thề đó được thực hiện hoặc tuyên thệ.
+Đam Mê mới có thể được phát triển vào bất kỳ thời điểm nào trong phiên chơi nếu hoàn cảnh cho phép. Một người có thể ngay lập tức phát triển 'Ghét X' khi ai đó làm điều gì đó khơi dậy lòng căm thù mạnh mẽ. Một lãnh chúa hoặc thủ lĩnh yêu cầu một Lời Thề sẽ ngay lập tức thiết lập Đam Mê 'Lòng Trung Thành với X' ngay khi Lời Thề đó được thực hiện hoặc tuyên thệ.
 
-Các Đam mê mới được phát triển trong quá trình chơi theo cách này không tốn Lần tung kinh nghiệm và được thiết lập ngay tại đó. Tất nhiên, nhân vật cũng có thể chọn thiết lập một Đam mê trong quá trình cải thiện, với chi phí là một Lần tung kinh nghiệm để đạt được một Đam mê ở Giá trị cơ bản của nó.
+Các Đam Mê mới được phát triển trong quá trình chơi theo cách này không tốn Điểm Kinh Nghiệm và được thiết lập ngay tại đó. Tất nhiên, nhân vật cũng có thể chọn thiết lập một Đam Mê trong quá trình cải thiện, với cái giá là một Điểm Kinh Nghiệm để có được một Đam Mê ở Giá Trị Cơ Bản.
 
-### Làm sâu sắc và Suy giảm
+### Làm Sâu Sắc và Suy Giảm
 
-Đam mê có thể tăng trong một trò chơi độc lập với các Lần tung kinh nghiệm, dựa trên sức mạnh của bất cứ điều gì xảy ra để kích hoạt sự gia tăng. Ngoài ra, chúng có thể, và thực sự là, suy giảm. Một niềm tin sâu sắc có thể bị lung lay bởi nhiều thứ, dẫn đến việc Đam mê đó bị giảm bớt hoặc, trong những trường hợp cực đoan hơn, bị đảo ngược hoàn toàn.
+Đam Mê có thể tăng lên trong trò chơi độc lập với Điểm Kinh Nghiệm, dựa trên mức độ mạnh mẽ của bất cứ điều gì đã xảy ra để kích hoạt sự gia tăng. Ngoài ra, chúng có thể, và thực sự sẽ, suy giảm. Một niềm tin mạnh mẽ có thể bị lung lay bởi nhiều điều, dẫn đến việc Đam Mê đó bị giảm bớt hoặc, trong những trường hợp cực đoan hơn, bị đảo ngược hoàn toàn.
 
-Ví dụ, một nhân vật có 'Tin tưởng tộc trưởng' có thể, nếu tộc trưởng của mình hành động phản bội, hoặc giảm Đam mê đó hoặc chuyển thành 'Không tin tưởng tộc trưởng' ở cùng tỷ lệ phần trăm. Quản trò cần xác định xem Đam mê giảm hay đảo ngược. Nếu nó giảm, thì nó giảm theo sức mạnh của nguồn gốc sự thay đổi.
+Ví dụ, một nhân vật có 'Tin tưởng Tộc trưởng' có thể, nếu tộc trưởng của anh ta hành động phản trắc, hoặc sẽ giảm Đam Mê của mình hoặc biến thành 'Không tin Tộc trưởng' với cùng tỷ lệ phần trăm. Người Quản Trò cần xác định xem một Đam Mê giảm bớt hay đảo ngược. Nếu nó giảm bớt, thì nó sẽ giảm theo mức độ mạnh mẽ của nguồn gốc thay đổi đó.
 
-Bảng Làm sâu sắc và Suy giảm cho thấy Đam mê thay đổi bao nhiêu.
+Bảng Làm Sâu Sắc và Suy Giảm cho thấy Đam Mê thay đổi bao nhiêu.
 
-#### Bảng Làm sâu sắc và Suy giảm
+#### Bảng Làm Sâu Sắc và Suy Giảm
 
-| Độ sâu của sự thay đổi | Đam mê được sửa đổi bởi |
+| Mức độ thay đổi | Đam Mê được sửa đổi bởi |
 | --- | --- |
 | Yếu | 1d10 |
 | Trung bình | 1d10+5 |
 | Mạnh | 1d10+10 |
 
 ---
-## Bước 9: Thiết bị
+## Bước 9: Trang bị
 
-Bây giờ nhân vật gần như đã hoàn thành, anh ta hoặc cô ta cần một số thiết bị. Điều này có thể bao gồm vũ khí, áo giáp hoặc các vật dụng quan trọng khác được sử dụng cho một nghề nghiệp cụ thể. Trong quá trình phiêu lưu có nhiều cơ hội để có thêm thiết bị, nhưng mỗi nhân vật bắt đầu đều có trong tay những vật dụng sau:
+Bây giờ khi nhân vật gần như đã hoàn thành, anh ấy hoặc cô ấy cần một số thiết bị. Điều này có thể bao gồm vũ khí, Giáp hoặc các vật dụng quan trọng khác được sử dụng cho một ngành nghề cụ thể. Trong cuộc phiêu lưu có nhiều cơ hội để nhận thêm trang bị, nhưng mỗi nhân vật bắt đầu đều có sẵn những thứ sau đây:
 
-- Một bộ quần áo phù hợp với nghề nghiệp và bối cảnh của nhân vật.
+- Một bộ quần áo phù hợp với ngành nghề và bối cảnh của nhân vật.
 - Một số tiền tiêu vặt; đủ để tồn tại một thời gian mà không gặp khó khăn.
-- Một vật gia truyền cá nhân, kỷ vật hoặc một món đồ trang sức có giá trị tương đối thấp.
-- Bất kỳ công cụ thương mại hoặc thiết bị có thể vận chuyển phù hợp với nghề nghiệp của nhân vật, nếu thích hợp.
-- Bất kỳ vũ khí cá nhân nào cho Phong cách chiến đấu của nhân vật.
-- Các vật phẩm khác phù hợp với bối cảnh và tùy thuộc vào sự chấp thuận của Quản trò.
+- Một vật gia truyền cá nhân, vật kỷ niệm, hoặc một món đồ trang sức có giá trị tương đối thấp.
+- Bất kỳ công cụ thương mại hoặc thiết bị có thể vận chuyển nào phù hợp với ngành nghề của nhân vật, nếu thích hợp.
+- Bất kỳ vũ khí cá nhân nào cho Phong Cách Chiến Đấu của nhân vật.
+- Các vật phẩm khác phù hợp với bối cảnh, và tùy thuộc vào sự chấp thuận của GM.
