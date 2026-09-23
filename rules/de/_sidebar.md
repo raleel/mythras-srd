@@ -1,4 +1,4 @@
-- [Einführung](README.md)
+- [Einleitung](README.md)
 - [Charaktere](0002_Characters.md)
 - [Fertigkeiten](0003_Skills.md)
 - [Spielsystem](0004_Game_System.md)
@@ -7,9 +7,9 @@
 - [Magie und Kräfte](0007_Magic.md)
 - [Kreaturen](0008_Creatures.md)
 ---
-- [Imperativer Zufalls-Charaktergenerator](https://srd.mythras.net/imperative-char-gen.html)
+- [Imperativer Zufallsgenerator für Charaktere](https://srd.mythras.net/imperative-char-gen.html)
 - [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD alternativ](https://bruge.us/rules/srd/)
+- [BRP UGE SRD Alternative](https://brpugesrd.xyz)
 - [Fatman's Factotum - Mythras Tools!](https://factotum.mythras.net)
-- [Notes From Pavis, Hannu's Amazing tools!](https://notesfrompavis.blog/)
+- [Notizen From Pavis, Hannu's Amazing tools!](https://notesfrompavis.blog/)
