@@ -1,74 +1,74 @@
 # Fahrzeuge
 
-Fahrzeuge in _Mythras Imperative_ werden in einer semi-abstrakten Weise behandelt. Im Wesentlichen sind sie Hilfsmittel im Hintergrund, die dazu dienen, Charaktere von A nach B zu bringen, ohne dass eine detaillierte Beschreibung oder Statistik erforderlich wäre. Gelegentlich benötigen Spielleiter jedoch Details zu Fahrzeugen, wenn diese in Verfolgungsjagden oder Kampfsituationen dargestellt werden müssen.
+Fahrzeuge in _Mythras Imperative_ werden semi-abstrakt behandelt. Im Grunde sind sie Hintergrundwerkzeuge, die dazu dienen, Charaktere von A nach B zu bringen, ohne dass eine detaillierte Beschreibung oder Statistik erforderlich wäre. Gelegentlich benötigen Spielleiter jedoch Details für Fahrzeuge, wenn es notwendig ist, sie in Verfolgungsjagden oder Kampfsituationen darzustellen.
 
-Die Regeln in diesem Abschnitt ermöglichen die Darstellung der meisten Fahrzeugarten, jedoch auf eine abstrahierte Weise, die Flexibilität bieten und das Erzählen von Geschichten verbessern soll. Raumschiffe und Weltraumfahrzeuge unterscheiden sich ein wenig, basieren jedoch auf ähnlichen Prinzipien.
+Die Regeln in diesem Abschnitt ermöglichen die Darstellung der meisten Fahrzeugarten, jedoch auf eine abstrakte Weise, die Flexibilität bieten und das Geschichtenerzählen verbessern soll. Raumschiffe sind etwas anders, obwohl sie auf ähnlichen Prinzipien basieren.
 
 ---
-## Statistiken
+## Statistik
 
-Alle Fahrzeuge werden anhand ihrer Struktur, Hülle, Geschwindigkeit, Systeme, Merkmale und Schilde (falls in der Spielwelt vorhanden) beschrieben.
+Alle Fahrzeuge werden in Bezug auf ihre Struktur, ihren Rüstungstyp, ihre Geschwindigkeit, ihre Systeme, ihre Merkmale und ihre Schilde (falls in der Spielwelt vorhanden) beschrieben.
 
-- **[Größe](0006_Vehicles.md?id=vehicle-size-table):** Alle Fahrzeuge haben eine von sechs Größenstufen, die den Wert oder Bereich der übrigen Merkmale bestimmt. Aufgrund ihrer größeren intrinsischen Größe und der lebensfeindlichen Umgebung des Weltraums haben Raumschiffe ihren eigenen Wertebereich.
-- **[Hülle](0006_Vehicles.md?id=terrestrial-hulls):** Stellt Rüstungspunkte dar.
-- **[Struktur](0006_Vehicles.md?id=terrestrial-hulls):** Stellt die Trefferpunkte eines Fahrzeugs dar.
-- **[Schilde](0006_Vehicles.md?id=shields):** In Spielwelten mit fortschrittlicher Technologie zur Energiemanipulation können Schilde vorhanden sein, die das Fahrzeug schützen, aber unter anhaltendem Beschuss abgetragen werden können.
-- **[Systeme](0006_Vehicles.md?id=systems):** Repräsentieren lebenswichtige Komponenten des Fahrzeugs, einschließlich des Antriebs, des Mannschaftsbereichs usw.
+- **[Statur](0006_Vehicles.md?id=vehicle-size-table):** Alle Fahrzeuge haben eine von sechs Statur-Einstufungen, die den Wert oder Bereich der übrigen Eigenschaften bestimmt. Aufgrund ihrer größeren intrinsischen Größe und der feindseligen Umgebung des Weltraums haben Raumschiffe ihre eigene Werteskala.
+- **[Rüstungstyp](0006_Vehicles.md?id=terrestrial-hulls):** Repräsentiert Rüstungspunkte.
+- **[Struktur](0006_Vehicles.md?id=terrestrial-hulls):** Repräsentiert die Trefferpunkte eines Fahrzeugs.
+- **[Schilde](0006_Vehicles.md?id=shields):** In Spielwelten mit fortschrittlicher Technologie zur Energiemanipulation kann es Schilde geben, die das Fahrzeug schützen, die jedoch bei anhaltendem Beschuss abgetragen werden können.
+- **[Systeme](0006_Vehicles.md?id=systems):** Repräsentieren lebenswichtige Komponenten des Fahrzeugs, einschließlich des Antriebs, der Crewsektion und so weiter.
 - **[Geschwindigkeit](0006_Vehicles.md?id=speed):** Jedes Fahrzeug hat einen grundlegenden Geschwindigkeitswert.
-- **[Merkmale](0006_Vehicles.md?id=traits):** Ein Fahrzeug kann auch ein oder mehrere Merkmale besitzen. Merkmale, ähnlich den Fähigkeiten, die Kreaturen in den _Mythras Imperative_-Regeln zugewiesen werden, oder Kampfstil-Merkmale, bieten eine zusätzliche spielerische Beschreibung und Vorteile, die die Natur des Fahrzeugs widerspiegeln.
-- **[Waffen](0006_Vehicles.md?id=weapons):** Ähnlich wie Merkmale kann ein Fahrzeug mit Waffen ausgestattet sein, sofern die Spielwelt dies zulässt. Einige vorgeschlagene Beispiele und Werte sind unten aufgeführt.
+- **[Merkmale](0006_Vehicles.md?id=traits):** Ein Fahrzeug kann auch ein oder mehrere Merkmale besitzen. Merkmale bieten, wie die Fähigkeiten, die Kreaturen in den _Mythras Imperative_-Regeln zugewiesen werden, oder Kampfstil-Merkmale, eine zusätzliche spieltechnische Beschreibung und einen Vorteil, der die Natur des Fahrzeugs widerspiegelt.
+- **[Waffen](0006_Vehicles.md?id=weapons):** Ähnlich wie Merkmale kann ein Fahrzeug je nach Spielwelt mit Waffen ausgestattet sein. Einige vorgeschlagene Beispiele und Werte sind unten aufgeführt.
 
 
 ---
-### Hüllengröße, Typ und Struktur
+### Rüstungstyp, Statur und Struktur
 
-Die Größe und der Zweck eines Fahrzeugs beeinflussen die Dicke seiner Hülle und die Widerstandsfähigkeit seiner internen Struktur. Ein Motorrad zum Beispiel hat eine minimale Hülle, da es auf Geschwindigkeit und Wendigkeit ausgelegt ist. Ein Land-Panzerschiff (ein massiver, auf Ketten oder Rädern fahrender, gepanzerter Gigant, der von Dampf- oder Dieselmotoren angetrieben wird) ist ein viel größeres Fahrzeug, das für das Schlachtfeld konzipiert wurde und eine wesentlich größere Hülle besitzt. Die vergleichbaren Größen von Hüllen (und wie viele Treffer durch Waffen sie typischerweise aushalten können) sind in den untenstehenden Tabellen für Fahrzeuggröße und Hülle zusammengefasst.
+Die Statur und der Zweck eines Fahrzeugs beeinflussen die Dicke seiner Hülle und die Widerstandsfähigkeit seiner inneren Struktur. Ein Motorrad zum Beispiel hat eine minimale Hülle, da es auf Geschwindigkeit und Wendigkeit ausgelegt ist. Ein Landpanzer (ein massiver, ketten- oder radgetriebener, gepanzerter Koloss, der von Dampf- oder Dieselmotoren angetrieben wird), der ein viel größeres Fahrzeug für das Schlachtfeld darstellt, hat eine viel stärkere Hülle. Die relativen Größen der Hüllen (und wie viele Treffer von Waffen sie typischerweise aushalten können) sind in den Tabellen für Fahrzeugstatur und Rüstungstyp unten zusammengefasst.
 
-Wenn ein Fahrzeug Schaden erleidet, wird der eingehende Schaden um seinen Hüllenwert reduziert. Jeder verbleibende Schaden wird von den Strukturpunkten des Fahrzeugs abgezogen und hat eine prozentuale Chance, die dem durchdringenden Schaden entspricht, ein System zu beeinträchtigen. Wenn die Struktur eines Fahrzeugs jemals auf Null reduziert wird, ist es entweder völlig zerstört oder so schwer beschädigt, dass es verschrottet werden muss.
+Wann immer ein Fahrzeug Schaden erleidet, wird der eingehende Schaden um seinen Rüstungswert reduziert. Jeder verbleibende Schaden wird von den Strukturpunkten des Fahrzeugs abgezogen und hat eine prozentuale Chance, die dem durchdringenden Schaden entspricht, ein System zu beeinträchtigen. Wenn das Fahrzeug jemals auf null Struktur reduziert wird, ist es entweder völlig zerstört oder so schwer beschädigt, dass es verschrottet werden muss.
 
-##### Terrestrische Hüllen 
+##### Terrestrische Rüstungstypen
 
-| Größe | Struktur | Ziviler Hüllenwert | Militärischer Hüllenwert | Beispiel |
+| Statur | Struktur | Ziviler Rüstungswert | Militärischer Rüstungswert | Beispiel |
 | :-- | :-: | :-: | :-: | :-- |
 | Klein | 1-20 | 1-3 | 4-6 | Motorrad, Motorrad mit Beiwagen, Kompakt- oder Kleinstwagen, Kanu, Kajak, Ruderboot |
-| Mittel | 21-40 | 1-6 | 7-9 | Limousine, Lieferwagen, Pick-up, Luxusauto, Sportwagen, Muscle-Car, Stretchlimousine, Rettungsboot, Schnellboot, Hängegleiter, Tragschrauber |
-| Groß | 41-60 | 4-9 | 10-12 | LKW, Stretchlimousine, SUV, Bus, Van, Privatflugzeug, Segelflugzeug, Vergnügungsschiff, Panzer, Hubschrauber, U-Boot |
-| Riesig | 61-80 | 7-12 | 13-15 | Sattelschlepper, Verkehrsflugzeug, Jet, Küstenwacheschiff, Yacht |
+| Mittel | 21-40 | 1-6 | 7-9 | Limousine, Lieferwagen, Pickup, Luxusauto, Sportwagen, Muscle-Car, Stretch-Limousine, Rettungsboot, Schnellboot, Hängegleiter, Tragschrauber |
+| Groß | 41-60 | 4-9 | 10-12 | LKW, Geländewagen (SUV), Bus, Großraumlimousine, Privatflugzeug, Segelflugzeug, Vergnügungskreuzer, Panzer, Hubschrauber, U-Boot |
+| Riesig | 61-80 | 7-12 | 13-15 | Sattelschlepper, Verkehrsflugzeug, Jet, Küstenwache-Schiff, Yacht |
 | Enorm | 81-100 | 10-15 | 16-18 | Zug, Kreuzfahrtschiff, Marineschiff |
 
-##### Raumschiff-Hüllen 
+##### Raumschiff-Rüstungstypen
 
-| Größe | Struktur | Ziviler Hüllenwert | Militärischer Hüllenwert | Beispiel |
+| Statur | Struktur | Ziviler Rüstungswert | Militärischer Rüstungswert | Beispiel |
 | :-- | :-: | :-: | :-: | :-- |
 | Klein | 10-50 | 4-9 | 10-12 | Einsitziger Jäger |
 | Mittel | 51-150 | 7-12 | 13-15 | Leichter Frachter, Shuttle |
 | Groß | 151-450 | 10-15 | 16-18 | Schwerer Frachter, Kreuzer |
-| Riesig | 451-1350 | 13-18 | 19-21 | Begleitfregatte, Leichter Schlachtkreuzer |
+| Riesig | 451-1350 | 13-18 | 19-21 | Eskort-Fregatte, Leichter Schlachtkreuzer |
 | Enorm | 1351-4050 | 16-21 | 21-24 | Generationenschiff, Schwerer Schlachtkreuzer |
-| Kolossal | 4050-12110 | 19-24 | 24-30 | Orbitalhabitat, Planetenzerstörende Kampfstation |
+| Kolossal | 4050-12110 | 19-24 | 24-30 | Orbitalhabitat, Planetenzerstörer-Kampfstation |
 
 
 ---
 ### Schilde
 
-Deflektorschilde bieten eine zusätzliche Schutzschicht für Fahrzeuge, die mit ihnen ausgestattet werden können. Schilde funktionieren aufgrund ihrer ablativen Natur etwas anders als die Hülle. Wenn eingehender Schaden gleich oder geringer als der Schildwert ist, wird er vollständig abgeblockt. Übersteigt der Schaden den Schildwert, reduziert jeder überschüssige Punkt die Stärke des Schildes um diesen Betrag.
+Deflektorschilde bieten eine zusätzliche Schutzschicht für Fahrzeuge, die mit ihnen ausgestattet werden können. Schilde funktionieren aufgrund ihrer ablativen Natur etwas anders als die Hülle. Wenn der eingehende Schaden gleich oder geringer als der Wert der Schilde ist, wird er vollständig blockiert. Wenn der Schaden den Schildwert übersteigt, reduziert der überschüssige Betrag die Schildstärke um diesen Betrag.
 
-_Beispiel: Ein Truppentransporter hat eine Energieschildstärke von 12 Punkten. Wenn der Transporter von einem Laser mit 11 Schadenspunkten getroffen wird, dringt dieser nicht durch und hat keine weiteren Auswirkungen. Wird der Transporter hingegen von einer Explosion mit 15 Schadenspunkten getroffen, würden die überschüssigen drei Punkte die Schildstärke auf 9 reduzieren._
+_Zum Beispiel hat ein Truppentransporter eine Energieschildstärke von 12 Punkten. Wenn der Transporter von einem Laser mit 11 Schadenspunkten getroffen wird, dringt dieser nicht durch und hat keinen weiteren Effekt. Wenn der Transporter hingegen von einer Explosion getroffen wird, die 15 Schadenspunkte verursacht, würden die überschüssigen drei Punkte die Schildstärke auf 9 senken._
 
-Sobald die Stärke eines Deflektorschildes auf Null gesunken ist, bricht er zusammen. Jeder verbleibende Schaden wirkt sich auf die Hülle aus.
+Sobald die Stärke eines Deflektorschildes auf null gefallen ist, kollabiert er. Jeder verbleibende Schaden überträgt sich auf die Hülle.
 
 ---
 ### Systeme
 
-Jedes Mal, wenn ein Fahrzeug Schaden erleidet, der seine Hülle durchdringt, besteht eine Chance, die dem durchdringenden Schaden entspricht, dass ein lebenswichtiges System beeinträchtigt wurde.
+Jedes Mal, wenn ein Fahrzeug Schaden erleidet, der seine Hülle durchdringt, besteht die Chance, dass ein lebenswichtiges System beeinträchtigt wurde; die Wahrscheinlichkeit entspricht dem durchdringenden Schaden.
 
-_Beispiel: 10 Schadenspunkte treffen ein Schnellboot – ein Fahrzeug mit 3 Hüllen- und 24 Strukturpunkten. Die Hülle zählt als Rüstung und reduziert den Schaden auf 7. Dies wird von den 24 Strukturpunkten abgezogen, und es besteht eine Chance von 7 %, eines der Systeme des Fahrzeugs zu beschädigen._
+_Zum Beispiel erleidet ein Schnellboot – ein Fahrzeug mit 3 Rüstung und 24 Struktur – 10 Schadenspunkte. Die Hülle zählt als Rüstung und reduziert den Schaden auf 7. Diese 7 Schadenspunkte werden von den 24 Strukturpunkten abgezogen, und es besteht eine Chance von 7%, dass eines der Systeme des Fahrzeugs beschädigt wird._
 
-Der Schaden, den ein System erleiden kann, basiert rein auf der Größe des Fahrzeugs. Dies wird durch die Anzahl der Treffer modelliert, die ein System einstecken kann, anstatt durch die tatsächliche Schadensmenge. Ein einzelner Systemtreffer bei einem kleinen Fahrzeug zerstört dieses System sofort. Es sind zwei Treffer erforderlich, um die Systeme eines mittelgroßen Fahrzeugs zu zerstören, drei bei einem großen Fahrzeug und so weiter. Siehe die [Systemschaden-Tabelle](0006_Vehicles.md?id=system-damage-table) unten.
+Der Schaden, den ein System aushalten kann, basiert rein auf der Statur des Fahrzeugs. Dies wird nicht durch die tatsächliche Schadensmenge modelliert, sondern durch die Anzahl der Treffer, die ein System einstecken kann. Ein einzelner Systemtreffer bei einem kleinen Fahrzeug zerstört dieses System sofort. Es sind zwei Treffer erforderlich, um die Systeme eines mittelgroßen Fahrzeugs zu zerstören, drei bei einem großen Fahrzeug und so weiter. Siehe die [Systemschadentabelle](0006_Vehicles.md?id=system-damage-table) unten.
 
-Systeme, die beschädigt, aber noch nicht zerstört sind, erleiden einen Funktionsverlust proportional zur Anzahl der erhaltenen Treffer – entweder als prozentuale Reduzierung oder als Malus in Schwierigkeitsgraden bei Systemaufgaben. Die spezifische Auswirkung hängt davon ab, was das Teilsystem steuert, wie in der [Systemkomponenten-Schadenstabelle](0006_Vehicles.md?id=system-component-damage-table) unten detailliert beschrieben. Je nachdem, welches System getroffen wird, können die Auswirkungen katastrophal sein.
+Systeme, die beschädigt, aber noch nicht zerstört sind, erleiden einen Funktionsverlust im Verhältnis zur Anzahl der erhaltenen Treffer – entweder eine prozentuale Reduzierung oder einen Grad-Abzug auf Systemaufgaben. Der spezifische Effekt basiert darauf, was das Subsystem steuert, wie in der [Systemkomponenten-Schadentabelle](0006_Vehicles.md?id=system-component-damage-table) unten detailliert beschrieben. Je nachdem, welches System getroffen wird, können die Auswirkungen katastrophal sein.
 
-_Beispiel: Ein Land-Panzerschiff – ein enormes Fahrzeug mit 5 Systemtreffern –, das zweimal im Antrieb getroffen wurde, würde 40 % seiner Leistung verlieren und seine Langsame Geschwindigkeit um zwei Stufen auf „Behäbig“ reduzieren. Ebenso würde ein großer Frachter – mit 3 Systemtreffern –, der zwei Treffer im Motor/Kraftstoff-System einsteckt, einen Malus von zwei Stufen auf die Geschwindigkeit sowie auf die Nutzung elektronischer Systeme erhalten. Ein dritter Treffer würde das Motor/Kraftstoff-System und damit das Schiff zerstören._
+_Zum Beispiel würde ein Landpanzer – ein Enormes Fahrzeug mit 5 Systemtreffern –, der zweimal im Antrieb getroffen wurde, 40% seiner Leistung verlieren und seine langsame Geschwindigkeit um zwei Grad auf „Behäbig“ reduzieren. Ebenso hätte ein großer Frachter – mit 3 Systemtreffern –, der zwei Treffer am Motor/Kraftstoffsystem einsteckt, einen Abzug von zwei Graden auf die Geschwindigkeit sowie auf die Nutzung elektronischer Systeme. Ein dritter Treffer würde das Motor/Kraftstoffsystem und damit das Schiff zerstören._
 
 
 <details>
@@ -80,27 +80,27 @@ _Beispiel: Ein Land-Panzerschiff – ein enormes Fahrzeug mit 5 Systemtreffern �
 #### Schaden
 
 
-_Der ursprüngliche Text hier stand ursprünglich weiter weg. Direkt nach dem System-Abschnitt platziert, wiederholt er unnötigerweise den vorherigen Absatz._
+_Der ursprüngliche Text stand hier an einer anderen Stelle. Direkt nach dem Systemabschnitt platziert, wiederholt er unnötigerweise den vorangegangenen Absatz._
 
-- _"Schaden, der die Hülle übersteigt, durchdringt das Fahrzeug, beschädigt die Struktur und beeinträchtigt möglicherweise ein oder mehrere Systeme. Abhängig von der Größe des Fahrzeugs kann der Schaden gering oder katastrophal sein._
-- _Beispiel: Ein großes Fahrzeug kann bis zu drei Treffer bei einem System wie dem Antrieb einstecken. Der vierte Treffer zerstört das System funktional. Jedes Mal, wenn das System einen Treffer erleidet, verliert es entweder einen Prozentsatz seiner Funktion, wie in der Spalte „Verlust pro Treffer“ der Systemschaden-Tabelle unten beschrieben, oder eine Kernfunktion (wie Antrieb, Pilot, Kommunikation usw.) wird pro erhaltenem Treffer um einen Schwierigkeitsgrad schwerer."_
+- _"Schaden, der die Hülle übersteigt, durchdringt das Fahrzeug, beschädigt die Struktur und beeinträchtigt möglicherweise eines oder mehrere Systeme. Abhängig von der Statur des Fahrzeugs kann der Schaden geringfügig oder katastrophal sein._
+- _Zum Beispiel kann ein großes Fahrzeug bis zu zwei Treffer an einem System wie seinem Antrieb einstecken. Der dritte Treffer zerstört das System funktional. Jedes Mal, wenn das System einen Treffer erhält, verliert es entweder einen Prozentsatz seiner Funktion, wie in der Spalte „Verlust pro Treffer“ der untenstehenden Systemschadentabelle beschrieben, oder eine Kernfunktion (wie Antrieb, Pilot, Kommunikation usw.) wird um einen Schwierigkeitsgrad schwieriger pro erlittenem Treffer."_
 
-_Die obigen Absätze wurden entfernt und durch eine gekürzte Bearbeitung ersetzt, die ein weiteres Beispiel für Systemeffekte nennt._
+_Die oben genannten Absätze wurden entfernt und durch eine gekürzte Bearbeitung ersetzt, die auf einen anderen Beispiel-Systemeffekt hinweist._
 
 ---
 
 </details>
 
-##### Systemschaden-Tabelle 
+##### Systemschadentabelle
 
-| Größe | Systemtreffer | Verlust pro Treffer |
+| Statur | Systemtreffer | Verlust pro Treffer |
 | :-- | :-: | :-- |
-| Klein | 1 | 100 % - Zerstört |
-| Mittel | 2 | 1 Stufe oder 50 % |
-| Groß | 3 | 1 Stufe oder 33 % |
-| Riesig | 4 | 1 Stufe oder 25 % |
-| Enorm | 5 | 1 Stufe oder 20 % |
-| Kolossal | 6 | 1 Stufe oder 16 % |
+| Klein | 1 | 100% - Zerstört |
+| Mittel | 2 | 1 Grad oder 50% |
+| Groß | 3 | 1 Grad oder 33% |
+| Riesig | 4 | 1 Grad oder 25% |
+| Enorm | 5 | 1 Grad oder 20% |
+| Kolossal | 6 | 1 Grad oder 16% |
 
 
 <details>
@@ -109,20 +109,20 @@ _Die obigen Absätze wurden entfernt und durch eine gekürzte Bearbeitung ersetz
 
 ---
 
-##### Systemschaden-Tabelle (Original) 
+##### Systemschadentabelle (Original)
 
-| Größe | Systemtreffer | Verlust pro Treffer |
+| Statur | Systemtreffer | Verlust pro Treffer |
 | :-- | :-: | :-- |
-| Klein | 1 | 1 Stufe oder 50 % |
-| Mittel | 2 | 1 Stufe oder 33 % |
-| Groß | 3 | 1 Stufe oder 25 % |
-| Riesig | 4 | 1 Stufe oder 20 % |
-| Enorm | 5 | 1 Stufe oder 16 % |
-| Kolossal | 6 | 1 Stufe oder 10 % |
+| Klein | 1 | 1 Grad oder 50% |
+| Mittel | 2 | 1 Grad oder 33% |
+| Groß | 3 | 1 Grad oder 25% |
+| Riesig | 4 | 1 Grad oder 20% |
+| Enorm | 5 | 1 Grad oder 16% |
+| Kolossal | 6 | 1 Grad oder 10% |
 
-##### Fahrzeuggrößen-Tabelle (aus [Hüllengröße, Typ und Struktur](0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Fahrzeugstatur-Tabelle (aus [Rüstungstyp, Statur und Struktur](0006_Vehicles.md?id=hull-size-type-and-structure))
 
-| Größe | Systemtreffer |
+| Statur | Systemtreffer |
 | :-- | :-: |
 | Klein | 1 |
 | Mittel | 2 |
@@ -132,32 +132,32 @@ _Die obigen Absätze wurden entfernt und durch eine gekürzte Bearbeitung ersetz
 | Kolossal | 6 |
 
 _Die ursprünglichen Regeln und Beispiele sind inkonsistent:_
-- _„Systeme, die beschädigt, aber noch nicht zerstört sind, erleiden einen Funktionsverlust. Dieser ist proportional zum Anteil der aktuellen Treffer an ihrer Gesamtkapazität. Daher würde ein enormes Fahrzeug, das zweimal im Antrieb getroffen wurde, 40 % seiner Leistung verlieren (2 Treffer von maximal 5)“._ 
-   - _Dies deutet darauf hin, dass das enorme Fahrzeug mit 5 Systemtreffern mit jedem Treffer 20 % verlieren sollte – die Tabelle sagt jedoch 16 %._
-- _„Beispiel: Ein großes Fahrzeug kann bis zu drei Treffer bei einem System wie dem Antrieb einstecken. Der vierte Treffer zerstört das System funktional“._ 
-  - _„Dies deutet – ebenso wie die Tabelle – auf 25 % Schaden pro Systemtreffer hin, aber große Fahrzeuge können laut derselben Tabelle nur 3 Systemtreffer einstecken._
-- _Obwohl nicht inkonsistent, war die Fahrzeuggrößen-Tabelle redundant; sie erschien nur wenige Zeilen später erneut in vollständigerer Form (mit der Spalte „Verlust pro Treffer“)._
+- _„Systeme, die beschädigt, aber noch nicht zerstört sind, erleiden einen Funktionsverlust. Dieser entspricht dem Verhältnis der aktuellen Treffer zur Gesamtkapazität. Ein Enormes Fahrzeug, das zweimal im Antrieb getroffen wurde, würde also 40% seiner Leistung verlieren (2 Treffer von maximal 5)“._
+   - _Dies deutet darauf hin, dass das Enorme Fahrzeug mit 5 Systemtreffern 20% pro Treffer verlieren sollte – aber die Tabelle sagt 16%._
+- _„Zum Beispiel kann ein großes Fahrzeug bis zu drei Treffer an einem System wie seinem Antrieb einstecken. Der vierte Treffer zerstört das System funktional.“_
+  - _„Dies deutet – ebenso wie die Tabelle – auf 25% Schaden pro Systemtreffer hin, aber laut derselben Tabelle können große Fahrzeuge nur 3 Systemtreffer einstecken._
+- _Obwohl nicht inkonsistent, war die Fahrzeugstatur-Tabelle redundant; sie erschien nur wenige Zeilen später in vollständigerer Form (mit der Spalte „Verlust pro Treffer“) erneut._
 
-_Dies macht es schwierig, eine konsistente Regel zu haben. Um diese Probleme zu beheben, wurden die Werte und Beispiele angepasst, um sie in Einklang zu bringen, und die Fahrzeuggrößen-Tabelle wurde entfernt._
+_Dies macht es schwierig, eine konsistente Regel zu haben. Um diese Probleme anzugehen, wurden die Werte und Beispiele angepasst, damit sie übereinstimmen, und die Fahrzeugstatur-Tabelle wurde entfernt._
 
 ---
 
 </details>
 
 
-##### Systemkomponenten-Schadenstabelle 
+##### Systemkomponenten-Schadentabelle
 
-| 1d10 | System | Beschädigtes Ergebnis | Zerstörtes Ergebnis |
+| 1w10 | System | Ergebnis beschädigt | Ergebnis zerstört |
 | :-: | :-- | :-- | :-- |
-| 1 | Fracht | Eine dem Schaden proportionale Menge an Besitztümern oder Ausrüstung im Frachtraum wird zerstört. | Die gesamte Fracht wird zerstört. |
-| 2 | Kommunikation | Kommunikationswürfe werden bei jeder Beschädigung um einen zusätzlichen Schwierigkeitsgrad schwerer. | Das Fahrzeug kann nicht mehr kommunizieren oder gegnerische Sensoren täuschen. |
-| 3 | Steuerung | Boots-, Fahr- oder Pilotenwürfe werden bei jeder Beschädigung um einen zusätzlichen Schwierigkeitsgrad schwerer; sofortiger Kontrollwurf erforderlich. | Das Fahrzeug kann nicht mehr gesteuert oder der Kurs geändert werden. |
-| 4 | Antrieb | Geschwindigkeit um einen zum Schaden proportionalen Betrag reduziert. | Fahrzeug bleibt sofort stehen; Flugzeuge stürzen ab. |
-| 5 | Besatzung | Eine dem Schaden proportionale Anzahl von Passagieren wird zu Opfern. Betroffene erleiden eine schwere Wunde und müssen einen Ausdauerwurf bestehen oder sterben sofort. | Insassen sterben. |
-| 6 | Motor / Kraftstoff | Geschwindigkeit um einen zum Schaden proportionalen Betrag reduziert. Elektronische Systeme sind um einen Schwierigkeitsgrad schwerer zu nutzen. | Fahrzeug wird in einer katastrophalen Explosion zerstört. |
-| 7 | Sensoren | Sensor-, Navigations- und Waffenangriffswürfe werden bei jeder Beschädigung um einen zusätzlichen Schwierigkeitsgrad schwerer. | Das Fahrzeug wird blind. |
-| 8 | Waffen | Eine dem Schaden proportionale Anzahl von Waffensystemen wird funktionsunfähig. | Fahrzeug kann keine Waffen mehr abfeuern. |
-| 9-0 | Keine | Keine Systeme getroffen; nur Strukturschaden. | N/V |
+| 1 | Fracht | Eine Menge an Besitztümern oder Ausrüstung im Laderaum, proportional zum Schaden, wird zerstört. | Die gesamte Fracht ist zerstört. |
+| 2 | Kommunikation | Kommunikationswürfe werden bei jedem Schaden um einen zusätzlichen Schwierigkeitsgrad erschwert. | Fahrzeug kann nicht mehr kommunizieren oder gegnerische Sensoren täuschen. |
+| 3 | Steuerung | Bootfahren, Fahren oder Pilot-Würfe werden bei jedem Schaden um einen zusätzlichen Schwierigkeitsgrad erschwert; sofortiger Kontrollwurf erforderlich. | Fahrzeug kann nicht mehr gelenkt werden oder den Kurs ändern. |
+| 4 | Antrieb | Geschwindigkeit um einen Betrag reduziert, der proportional zum Schaden ist. | Fahrzeug bleibt stehen; Flugzeuge stürzen ab. |
+| 5 | Crew | Eine Anzahl von Passagieren proportional zum Schaden wird zu Opfern. Betroffene erleiden eine schwere Wunde und müssen einen Konstitutionswurf bestehen, sonst sterben sie sofort. | Fahrzeuginsassen sterben. |
+| 6 | Motor / Kraftstoff | Geschwindigkeit um einen Betrag reduziert, der proportional zum Schaden ist. Elektronische Systeme um einen Schwierigkeitsgrad schwieriger zu verwenden. | Fahrzeug wird in einer katastrophalen Explosion zerstört. |
+| 7 | Sensoren | Sensor-, Navigations- und Waffenangriffswürfe werden bei jedem Schaden um einen zusätzlichen Schwierigkeitsgrad erschwert. | Fahrzeug ist blind. |
+| 8 | Waffen | Eine Anzahl von Waffensystemen proportional zum Schaden wird funktionsunfähig. | Fahrzeug kann keine Waffen mehr abfeuern. |
+| 9-0 | Keine | Keine Systeme getroffen; nur Strukturschaden. | N/A |
 
 <details>
 
@@ -165,11 +165,11 @@ _Dies macht es schwierig, eine konsistente Regel zu haben. Um diese Probleme zu 
 
 ---
 
-##### Systemkomponenten-Schadenstabelle (Motor/Kraftstoff)
+##### Systemkomponenten-Schadentabelle (Motor/Kraftstoff)
 
-_Das ursprüngliche Ergebnis lautete: „Die Höchstgeschwindigkeit wird halbiert...“ Dies widerspricht der allgemeinen Regel von Schadensmalussen proportional zum Systemschaden: 25 % Schaden = 25 % Malus. Außerdem erwähnen die vollständigen Regeln im Mythras Companion diese Halbierung der Geschwindigkeit nicht._
+_Das ursprüngliche Ergebnis lautete wie folgt: „Die Höchstgeschwindigkeit wird halbiert...“. Dies widerspricht der allgemeinen Regel der Schadensabzüge im Verhältnis zum Systemschaden: 25% Schaden = 25% Abzug. Außerdem erwähnen die vollständigen Regeln im Mythras Companion diese Halbierung der Geschwindigkeit nicht._
 
-_Infolgedessen wird der Text durch denselben Eintrag aus den Antriebssystemen ersetzt: „Geschwindigkeit um einen zum Schaden proportionalen Betrag reduziert.“_
+_Daher wurde der Text durch denselben Eintrag wie bei Antriebssystemen ersetzt: „Geschwindigkeit um einen Betrag reduziert, der proportional zum Schaden ist.“_
 
 ---
 
@@ -179,24 +179,24 @@ _Infolgedessen wird der Text durch denselben Eintrag aus den Antriebssystemen er
 ---
 ### Geschwindigkeit
 
-Da die physikalischen Gesetze von Geschwindigkeit, Beschleunigung, Widerstand und Trägheit komplexe Themen sind, ist eine gewisse Vereinfachung erforderlich, weshalb Fahrzeuge einen abstrakten Geschwindigkeitswert erhalten. Das Geschwindigkeitsmerkmal sollte nur verwendet werden, um grob zu beurteilen, ob ein Fahrzeug ein anderes überholen oder einholen kann.
+Da die Physik von Geschwindigkeit, Beschleunigung, Luftwiderstand und Trägheit komplexe Themen sind, ist eine Vereinfachung erforderlich, daher erhalten Fahrzeuge einen abstrakten Geschwindigkeitswert. Die Eigenschaft „Geschwindigkeit“ sollte nur verwendet werden, um grob zu beurteilen, ob ein Fahrzeug ein anderes überholen oder einholen kann.
 
-Der Geschwindigkeitswert stellt die nominale Betriebsrate eines Fahrzeugs dar. In Notfällen kann diese Leistung um eine Stufe gesteigert werden, auf Kosten von Verschleiß oder Schäden an den Motoren. Obwohl für alle Fahrzeugtypen dieselbe Tabelle verwendet wird, sollte der gesunde Menschenverstand angewandt werden, sodass nur Fahrzeuge derselben Klasse verglichen werden. Wenn beispielsweise ein Raumschiff und ein Sportwagen beide die gleiche Beschleunigungsrate „Rasant“ haben, sollte es offensichtlich sein, dass das Raumschiff vergleichsweise schneller ist.
+Der Geschwindigkeitswert stellt die nominale Betriebsgeschwindigkeit eines Fahrzeugs dar. In Notfällen kann diese Leistung um eine Stufe gesteigert werden, auf Kosten von Verschleiß oder Schäden an den Motoren. Obwohl für alle Fahrzeugtypen dieselbe Tabelle verwendet wird, sollte der gesunde Menschenverstand angewendet werden, sodass nur Fahrzeuge derselben Klasse verglichen werden. Wenn zum Beispiel ein Raumschiff und ein Sportwagen beide die gleiche Beschleunigungsrate „Rasant“ haben, sollte offensichtlich sein, dass das Raumschiff vergleichsweise schneller ist.
 
-Das Steigern der Geschwindigkeit eines Fahrzeugs über seinen Standardwert hinaus ist mit einem erfolgreichen Fahrwurf möglich. Normalerweise ist diese zusätzliche Geschwindigkeit nur für einen kurzen Zeitraum nachhaltig – nicht länger als 1d6 Minuten, bevor das Fahrzeug auf seine Standardgeschwindigkeit zurückfallen muss oder Schäden am Antrieb riskieren muss. Ein kritischer Fahrwurf erlaubt es, den Zeitraum der höheren Geschwindigkeit auf 1d12 Minuten zu erhöhen.
+Die Steigerung der Geschwindigkeit eines Fahrzeugs über seinen Standardwert hinaus ist bei einem erfolgreichen Fahren-Wurf möglich. Normalerweise ist diese zusätzliche Geschwindigkeit nur für einen kurzen Zeitraum nachhaltig – nicht länger als 1w6 Minuten, bevor das Fahrzeug auf seine Standardgeschwindigkeit zurückfallen muss oder Schäden an seinem Antrieb riskiert. Ein kritischer Fahren-Wurf erlaubt es, die Dauer der höheren Geschwindigkeit auf 1w12 Minuten zu erhöhen.
 
-Ein Fahrer kann versuchen, die Geschwindigkeit eines Fahrzeugs um 2 Stufen zu steigern, dies erfordert jedoch einen Herkules-Fahrwurf, und das Maximum, das das Fahrzeug diese Geschwindigkeit beibehalten kann, beträgt 1d3 Minuten: Ein kritischer Erfolg verlängert die Dauer der erhöhten Geschwindigkeit nicht.
+Ein Fahrer kann versuchen, die Geschwindigkeit eines Fahrzeugs um 2 Stufen zu steigern, dies erfordert jedoch einen herkulischen Fahren-Wurf und das Maximum, das das Fahrzeug diese Geschwindigkeit halten kann, beträgt 1w3 Minuten: Ein kritischer Erfolg verlängert die Dauer der erhöhten Geschwindigkeit nicht.
 
-##### Geschwindigkeitswert-Tabelle 
+##### Geschwindigkeitswert-Tabelle
 
 | Geschwindigkeitswert | Max. Geschwindigkeit für |
 | :-- | :-: |
 | Behäbig | Enorm |
-| Schwerfällig | |
+| Träge | |
 | Langsam | Riesig |
 | Mittelmäßig | |
-| Gemächlich | Groß |
-| Mäßig | |
+| Sanft | Groß |
+| Moderat | |
 | Rasant | Mittel |
 | Schnell | |
 | Flott | Klein |
@@ -205,15 +205,15 @@ Ein Fahrer kann versuchen, die Geschwindigkeit eines Fahrzeugs um 2 Stufen zu st
 ---
 ### Merkmale
 
-Die maximale Anzahl an Merkmalen, die ein Fahrzeug haben kann, hängt von der Hüllengröße und dem Typ ab.
+Die maximale Anzahl an Merkmalen, die ein Fahrzeug haben kann, hängt von Hüllengröße und -typ ab.
 
-Jedes Fahrzeug hat ein inhärentes Merkmal: den Fortbewegungsmodus, für den es primär konstruiert wurde. Daher besitzen Flugzeuge inhärent das Merkmal „Flugfähig“, Boote „Seetüchtig“ und so weiter. Dieses inhärente Merkmal zählt nicht zur verfügbaren Anzahl der Merkmale. Sollte ein Fahrzeug jedoch einen zweiten Fortbewegungsmodus enthalten – ein fliegendes U-Boot zum Beispiel –, dann müsste das Merkmal „Flugfähig“ als eines der verfügbaren Merkmale gewählt werden.
+Jedes Fahrzeug hat ein inhärentes Merkmal: den Fortbewegungsmodus, für den es ursprünglich konzipiert wurde. Daher besitzen Flugzeuge inhärent das Merkmal „Luftgestützt“, Boote das Merkmal „Seegebunden“ und so weiter. Dieses inhärente Merkmal zählt nicht zur verfügbaren Anzahl von Merkmalen. Sollte ein Fahrzeug jedoch einen zweiten Fortbewegungsmodus beinhalten – zum Beispiel ein fliegendes U-Boot –, müsste das Merkmal „Luftgestützt“ als eines seiner verfügbaren Merkmale gewählt werden.
 
-Einige Merkmale sind je nach Technologiestufe der Spielwelt möglicherweise nicht verfügbar; Spielleiter müssen ihre eigene Entscheidung treffen, welche Merkmale angewendet werden können.
+Einige Merkmale sind je nach Technologiestufe der Spielwelt möglicherweise nicht verfügbar; Spielleiter müssen ihre eigene Entscheidung darüber treffen, welche Merkmale angewendet werden können.
 
-##### Fahrzeug-Merkmalszuweisungstabelle 
+##### Tabelle zur Zuteilung von Fahrzeugmerkmalen
 
-| Größe | Max. Merkmale |
+| Statur | Max. Merkmale |
 | :-- | :-: |
 | Klein | 1 |
 | Mittel | 2 |
@@ -222,37 +222,37 @@ Einige Merkmale sind je nach Technologiestufe der Spielwelt möglicherweise nich
 | Enorm | 5 |
 | Kolossal | 6 |
 
-#### Flugfähig
+#### Luftgestützt
 
-Das Fahrzeug ist zu atmosphärischem Flug fähig.
+Das Fahrzeug ist zum atmosphärischen Flug fähig.
 
 #### Geländegängig
 
-Dieses Merkmal muss bei Bodenfahrzeugen verwendet werden. Das Fahrzeug kann unwirtliches, schwieriges und steiles Gelände durchqueren, indem es entweder Ketten, eine fortschrittliche Aufhängung und Antriebssysteme oder leistungsstarke Antriebsdifferenziale nutzt.
+Dieses Merkmal muss mit Bodenfahrzeugen verwendet werden. Das Fahrzeug kann unwirtliches, schwieriges und steiles Gelände durchqueren, indem es entweder Ketten, eine fortschrittliche Aufhängung und Antriebssysteme oder leistungsstarke Antriebsdifferenziale nutzt.
 
-#### Grabend
+#### Graben
 
-Das Fahrzeug ist darauf ausgelegt, sich durch den Boden zu graben und zu tunneln. Es kann eine maximale Tiefe erreichen, die seinem Hüllenwert x 5 Metern entspricht.
+Das Fahrzeug ist darauf ausgelegt, sich durch den Boden zu graben und zu tunneln. Es kann eine maximale Tiefe erreichen, die seinem Rüstungswert x5 Metern entspricht.
 
 #### Getarnt
 
-Das Fahrzeug besitzt entweder Tarnfarbe oder mimetische Sensoren, die es ihm ermöglichen, mit seiner Umgebung zu verschmelzen. Versuche, das Fahrzeug visuell zu entdecken, sind um einen Grad schwieriger.
+Das Fahrzeug besitzt entweder Tarnfarben oder mimetische Sensoren, die es ihm ermöglichen, sich mit seiner Umgebung zu vermischen. Versuche, das Fahrzeug visuell zu entdecken, sind um einen Grad schwieriger.
 
 #### Fracht
 
-Das Fahrzeug ist speziell darauf ausgelegt, Fracht statt Passagiere zu befördern. Passagierabteile werden auf ein Minimum reduziert, wobei der Rest des nutzbaren Raums des Fahrzeugs der Frachtaufbewahrung gewidmet ist, mit entsprechenden Bereichen, Werkzeugen und sogar Klimatisierung (wie Kühlbereiche für den Transport von verderblichen Waren). Wenn das Fahrzeug mit Fracht beladen ist, ist seine Geschwindigkeit zwei Stufen niedriger, als seine Hüllengröße normalerweise erlauben würde.
+Das Fahrzeug ist speziell dafür ausgelegt, Fracht statt Passagiere zu befördern. Passagierabteile werden auf ein Minimum reduziert, wobei der übrige nutzbare Raum des Fahrzeugs der Frachtaufnahme gewidmet ist, mit entsprechenden Sektionen, Werkzeugen und sogar Klimatisierung (wie Gefrierabteile für den Transport leicht verderblicher Waren). Wenn das Fahrzeug mit Fracht beladen ist, ist seine Geschwindigkeit zwei Stufen niedriger, als seine Statur normalerweise zulassen würde.
 
 #### Träger
 
-Das Fahrzeug ist speziell darauf ausgelegt, kleinere, leicht bemannte oder möglicherweise ferngesteuerte Fahrzeuge ziviler oder militärischer Natur zu transportieren. Jedes Fahrzeug, das dieses Merkmal besitzt, muss mindestens „Enorm“ sein. Die Anzahl der transportierten kleinen Fahrzeuge kann je nach Missionstyp und Zweck variieren, kann aber nur 10 oder bis zu so vielen wie der Strukturwert des Fahrzeugs betragen.
+Das Fahrzeug ist speziell darauf ausgelegt, kleinere, leicht bemannte oder möglicherweise ferngesteuerte Fahrzeuge ziviler oder militärischer Natur zu transportieren. Jedes Fahrzeug, das dieses Merkmal besitzt, muss mindestens Enorm sein. Die Anzahl der transportierten kleinen Einheiten kann je nach Missionstyp und Zweck variieren, kann aber zwischen nur 10 und bis zu so vielen liegen, wie der Strukturwert des Fahrzeugs angibt.
 
-#### Konstruktion
+#### Bau
 
-Das Fahrzeug ist für schwere Bauarbeiten ausgerüstet. Alle Fahrzeuge mit diesem Merkmal haben auch das Merkmal „Geländegängig“, aber die Geschwindigkeit ist um zwei Stufen niedriger, als ihre Hüllengröße normalerweise erlauben würde. Das Fahrzeug ist mit aufgabenrelevanten Werkzeugen wie Kranarmen, Baggerschaufeln, Muldenkippern usw. ausgestattet.
+Das Fahrzeug ist für schwere Bauarbeiten ausgerüstet. Alle Fahrzeuge mit diesem Merkmal besitzen auch das Merkmal „Geländegängig“, aber die Geschwindigkeit ist zwei Stufen niedriger, als ihre Statur normalerweise zulassen würde. Das Fahrzeug ist mit aufgabenrelevanten Werkzeugen wie Kranarmen, Baggerschaufeln, Muldenkippern usw. ausgestattet.
 
 #### EMP-Resistent
 
-Das Fahrzeug ist gegen elektromagnetische Impulsangriffe abgeschirmt.
+Das Fahrzeug ist gegen Angriffe mit elektromagnetischen Impulsen abgeschirmt.
 
 #### Verbesserte Leistung
 
@@ -260,186 +260,189 @@ Der Geschwindigkeitswert des Fahrzeugs ist eine Stufe höher als das Maximum fü
 
 #### Schleudersitz
 
-Im Notfall katapultiert ein Schleudersitz die Insassen mehrere hundert Meter in die Luft und entfaltet dann einen Fallschirm für eine sichere Landung. Der Fallschirm ist optional. Nicht für Hubschrauber empfohlen (wobei die Kamow Ka-52 Alligator eine bemerkenswerte Ausnahme ist).
+Im Notfall katapultiert ein Schleudersitz die Insassen mehrere hundert Meter in die Luft und entfaltet dann einen Fallschirm für eine sichere Landung. Fallschirm ist optional. Nicht empfohlen für Hubschrauber (mit Ausnahme der Kamow Ka-52 Alligator).
 
 #### FTL
 
-Nur Raumfahrzeuge. Das Fahrzeug ist mit einem Überlichtgeschwindigkeitsantrieb ausgestattet (sei es ein Hyperantrieb, Warpantrieb, Wurmlochgenerator oder ähnliches). Der FTL-Antrieb hat einen separaten Geschwindigkeitswert, der im Wesentlichen misst, mit welcher Rate ein Raumschiff einen einzelnen Parsec (3,26 Lichtjahre, oder 31 Billionen Kilometer oder 19 Billionen Meilen) durchqueren kann:
+Nur Raumschiffe. Das Fahrzeug ist mit einem Überlichtgeschwindigkeitsantrieb ausgestattet (sei dies ein Hyperantrieb, Warpantrieb, Wurmlochgenerator oder ähnliches). Der FTL-Antrieb hat einen separaten Geschwindigkeitswert, der im Wesentlichen die Geschwindigkeit misst, mit der ein Raumschiff einen Parsec (3,26 Lichtjahre oder 31 Billionen Kilometer oder 19 Billionen Meilen) zurücklegen kann, wie folgt:
 
-##### FTL-Geschwindigkeitswert-Tabelle 
+##### FTL-Geschwindigkeitswert-Tabelle
 
-| Geschwindigkeitswert | Faktor für die Durchquerung von 1 Parsec |
+| Geschwindigkeitswert | Faktor zur Durchquerung von 1 Parsec |
 | :-- | :-: |
 | Behäbig | 10 |
-| Schwerfällig | 8 |
+| Träge | 8 |
 | Langsam | 7 |
 | Mittelmäßig | 6 |
-| Gemächlich | 5 |
-| Mäßig | 4 |
+| Sanft | 5 |
+| Moderat | 4 |
 | Rasant | 3 |
 | Schnell | 2 |
 | Flott | 1 |
 
-Der Zeitfaktor liegt im Ermessen des Spielleiters, je nachdem, wie fortgeschritten die FTL-Entwicklung der Spielwelt ist. Beispielsweise könnte der Basisfaktor 1 Tag betragen, was bedeutet, dass ein Schiff mit einem behäbigen FTL-Antrieb 10 Tage für die Reise benötigt, während ein Schiff mit einem flotten FTL-Antrieb die Reise an einem Tag abschließt. Andernorts, wo die FTL-Technologie deutlich weniger effizient ist, könnte der Zeitfaktor eher in Monaten als in Tagen gemessen werden.
+Die Zeit des Faktors muss vom Spielleiter festgelegt werden, je nachdem, wie fortgeschritten die FTL-Entwicklung der Spielwelt ist. Zum Beispiel könnte der Basisfaktor 1 Tag betragen, was bedeutet, dass ein Schiff mit einem behäbigen FTL-Antrieb 10 Tage für die Reise benötigt, während ein Schiff mit einem flotten FTL-Antrieb die Reise an 1 Tag abschließt. Anderswo, wo die FTL-Technologie deutlich weniger effizient ist, könnte die Zeit des Faktors eher in Monaten als in Tagen gemessen werden.
 
-Es wird angenommen, dass das Schiff über Treibstoffreserven für eine Rückreise oder eine Möglichkeit zum Auftanken am Zielort verfügt.
+Es wird davon ausgegangen, dass das Schiff über Treibstoffreserven verfügt, um entweder eine Rückreise anzutreten oder am Zielort eine Möglichkeit zum Auftanken besteht.
 
 Es wird angenommen, dass jede Größe von Raumschiffen mit einem FTL-Antrieb ausgestattet werden kann, obwohl dies, wie gesagt, von der Spielwelt abhängt.
 
-FTL-Antriebe können nicht innerhalb von 1,5 Astronomischen Einheiten eines Sterns (etwa 225 Millionen Kilometer oder 270 Millionen Meilen) aktiviert werden. Das bedeutet, dass Schiffe einen Unterlichtantrieb nutzen müssen, um sich etwa bis auf die Entfernung des Mars zu bewegen, bevor sie das FTL-System aktivieren.
+FTL-Antriebe können nicht innerhalb von 1,5 Astronomischen Einheiten eines Sterns aktiviert werden (ca. 225 Millionen Kilometer oder 270 Millionen Meilen). Das bedeutet, dass Schiffe einen Unterlichtantrieb nutzen müssen, um sich etwa bis auf die Entfernung des Mars zu bewegen, bevor sie das FTL-System aktivieren.
 
 #### Bodenfahrzeug
 
 Das Fahrzeug ist zur Fortbewegung am Boden fähig.
 
-#### Schweber
+#### Schweben
 
-Das Fahrzeug schwebt über dem Boden, entweder mithilfe eines Luftkissens oder eines Antigravitations-Repulsors.
+Das Fahrzeug schwebt über dem Boden, entweder mittels Luftkissen oder Anti-Schwerkraft-Repulsoren.
 
 #### Luxuriös
 
-Das Fahrzeug ist speziell darauf ausgelegt, Passagiere auf einem gewissen Luxusniveau zu befördern. Zusätzlicher Frachtraum wird für luxuriöse Passagierunterkünfte, Swimmingpools, Whirlpools, zusätzliches Personal, um sich um die Launen der Passagiere zu kümmern, usw. verwendet.
+Das Fahrzeug ist speziell darauf ausgelegt, Passagiere mit einem gewissen Luxus zu befördern. Überschüssiger Frachtraum wird für luxuriöse Passagierunterkünfte, Swimmingpools, Whirlpools, zusätzliches Personal, um die Wünsche der Passagiere zu erfüllen, usw. genutzt.
 
-#### Schiene
+#### Schienen
 
-Das Fahrzeug ist auf ein Schienensystem angewiesen. Fahrzeuge mit diesem Merkmal können von Natur aus einen Geschwindigkeitswert erreichen, der drei Stufen höher ist, als ihre Hüllengröße normalerweise erlauben würde, sind aber offensichtlich auf die Bewegung auf dem Schienensystem beschränkt.
+Das Fahrzeug ist auf ein Schienensystem angewiesen. Fahrzeuge mit diesem Merkmal können von Natur aus einen Geschwindigkeitswert erreichen, der drei Stufen höher liegt, als es ihre Statur normalerweise zulassen würde, sind aber offensichtlich auf die Bewegung innerhalb des Schienensystems beschränkt.
 
 #### Resilient
 
-Alle Systeme können einen Treffer mehr aushalten als normalerweise durch die Größe bestimmt. Dieses Merkmal kann gestapelt werden – Resilient 2 bedeutet also, dass Systeme 2 Treffer mehr als gewöhnlich aushalten können, auf Kosten von zwei Merkmals-Punkten.
+Alle Systeme können einen Treffer mehr aushalten, als durch die Statur bestimmt wird. Dieses Merkmal ist stapelbar – „Resilient 2“ bedeutet also, dass Systeme 2 Treffer mehr als üblich aushalten können, auf Kosten von zwei Merkmalspunkten.
 
-#### Seetüchtig
+#### Seegebunden
 
-Das Fahrzeug ist schwimmfähig auf Wasser.
+Das Fahrzeug ist auftriebsfähig im Wasser.
 
-#### Raumfahrzeug
+#### Raumschiff
 
-Das Fahrzeug ist gegen Vakuum abgedichtet, gegen kosmische Strahlung abgeschirmt und kann je nach Konstruktion in der Lage sein, die Atmosphäre zu verlassen und wieder einzutreten sowie den Flug innerhalb einer Atmosphäre aufrechtzuerhalten.
+Das Fahrzeug ist gegen Vakuum abgedichtet und gegen kosmische Strahlung abgeschirmt; je nach Design ist es möglicherweise in der Lage, die Atmosphäre zu verlassen und wieder einzutreten sowie den Flug innerhalb einer Atmosphäre aufrechtzuerhalten.
 
-#### Stealth
+#### Heimlichkeit
 
-Nur Flugzeuge. Das Fahrzeug ist so konstruiert, dass es von Radar- und anderen Langstreckensensorsystemen nicht erkannt wird. Versuche, das Fahrzeug mit elektronischen Sensoren zu entdecken, sind um einen Grad schwieriger.
+Nur Luftfahrzeuge. Das Fahrzeug ist darauf ausgelegt, die Entdeckung durch Radar und andere Langstrecken-Sensorsysteme zu vermeiden. Versuche, das Fahrzeug mit elektronischen Sensoren zu entdecken, sind um einen Grad schwieriger.
 
 #### Tauchfähig
 
-Das Fahrzeug ist in der Lage, unter die Oberfläche eines Ozeans bis zu einer Betriebstiefe von seinem Hüllenwert x 10 Metern einzutauchen. Die Kollaps-Tiefe – das absolute Maximum, das das Tauchfahrzeug erreichen kann, ohne zerquetscht zu werden – beträgt das 1,5-fache seiner Betriebstiefe.
+Das Fahrzeug ist in der Lage, unter die Meeresoberfläche zu tauchen, bis zu einer Betriebstiefe seines Rüstungswerts x10 Metern. Die Kollaps-Tiefe – das absolute Maximum, das das Tauchfahrzeug erreichen kann, ohne zerquetscht zu werden – beträgt das 1,5-fache seiner Betriebstiefe.
 
-#### Überlegene Handhabung
+#### Überlegenes Handling
 
-Die Handhabung des Fahrzeugs wird als „Einfach“ bewertet.
+Das Handling des Fahrzeugs wird als „Leicht“ eingestuft.
 
-#### Überwachungspaket
+#### Überwachungssuite
 
-Das Fahrzeug verfügt über einen Bordcomputer, eine Kommunikationsbasisstation, einen Empfänger für Abhörsignale und Geräte, um nahegelegene Smartphone-Signale innerhalb von 100 Metern abzufangen.#### Robust
+Das Fahrzeug verfügt über einen Bordcomputer, eine Kommunikations-Basisstation, einen Empfänger für Abhörsignale sowie Apparaturen, um in der Nähe befindliche Smartphone-Signale innerhalb von 100 Metern abzufangen.#### Robust
 
-Ein ziviles Fahrzeug mit dieser Eigenschaft bezieht seine Rumpfwerte aus der Militär-Spalte und besitzt automatisch die maximale Struktur. Ein Militärfahrzeug mit dieser Eigenschaft bezieht Rumpf und Struktur aus der jeweils nächstunteren Zeile.
+Ein ziviles Fahrzeug mit dieser Eigenschaft bezieht seine Rumpfwerte aus der Militär-Spalte und verfügt automatisch über die maximale Statur. Ein militärisches Fahrzeug mit dieser Eigenschaft bezieht seine Rumpf- und Staturwerte aus der jeweils nächstunteren Zeile.
 
 #### Traktorstrahl
 
-Nur Raumschiffe. Das Schiff ist mit einem Traktorstrahl ausgestattet, der Fahrzeuge mit einer Rumpfgröße von bis zu zwei Stufen unter der eigenen einfangen und heranziehen kann. So könnte ein riesiges (Huge) Raumschiff ein Fahrzeug bis zur Größe Mittel (Medium) anziehen und festhalten.
+Nur Raumschiffe. Das Schiff ist mit einem Traktorstrahl ausgestattet, der Fahrzeuge mit einer Rumpf-Bewertung von bis zu zwei Stufen unter der eigenen einfangen und heranziehen kann. So könnte ein riesiges Raumschiff einen Rumpf der Größe Mittel anziehen und festhalten.
 
 #### VTOL
 
-Senkrechtstart/-landung. Diese Eigenschaft ist inhärent für Hubschrauber und ähnliche Fahrzeuge, die eine Kombination von Rotoren verwenden, um Auftrieb zu erzeugen. Bei Starrflügelflugzeugen weist dies auf die Verwendung fester oder ausrichtbarer Triebwerke zur Steuerung von Fluglage, Aufstieg und Abstieg hin.
+Vertikaler Start/Landung. Diese Eigenschaft ist inhärent für Hubschrauber und ähnliche Fahrzeuge, die eine Kombination von Rotoren zur Auftriebserzeugung nutzen. Bei Starrflügelflugzeugen weist sie auf den Einsatz fester oder ausrichtbarer Triebwerke hin, um Fluglage, Aufstieg und Abstieg zu steuern.
 
-#### Walker
+#### Wasserfahrzeug
 
-Das Fahrzeug bewegt sich mithilfe von gelenkigen Beinen fort. Walker-Fahrzeuge sind unabhängig von ihrer Größe auf eine Geschwindigkeit von Sanft (Gentle) begrenzt. Walker können jedoch in Höhen gebaut werden, die für Fahrzeuge mit anderen Fortbewegungsmitteln schlicht instabil wären.
+Das Fahrzeug bewegt sich mithilfe von Gelenkbeinen fort. Läufer-Fahrzeuge sind, unabhängig von ihrer Statur, auf die Geschwindigkeit Sanft begrenzt. Läufer können jedoch in Höhen gebaut werden, die für Fahrzeuge mit anderen Fortbewegungsarten schlicht instabil wären.
 
-Dieses Fahrzeug ist zur Unterwasserbewegung fähig.
+Dieses Fahrzeug ist zur Bewegung unter Wasser fähig.
 
 #### Bewaffnet
 
-Das Fahrzeug wurde angepasst, um Bewaffnung aufzunehmen. Waffensysteme werden weiter unten im Abschnitt [Waffen](0006_Vehicles.md?id=weapons) besprochen.
+Das Fahrzeug wurde so angepasst, dass es Waffen aufnehmen kann. Waffensysteme werden unten im Abschnitt [Waffen](0006_Vehicles.md?id=weapons) besprochen.
+
 
 ---
 ## Waffen
 
-Normalerweise sind nur Militärrümpfe darauf ausgelegt, Bewaffnung aufzunehmen (Aufhängungspunkte, Munitionslagerung, Steuerungssysteme). Die Eigenschaft „Bewaffnet“ kann für zivile Fahrzeuge gewählt werden, die möglicherweise Waffenanforderungen haben.
+Normalerweise sind nur militärische Rümpfe darauf ausgelegt, Waffen aufzunehmen (Aufhängungspunkte, Munitionslagerung, Steuerungssysteme). Die Eigenschaft „Bewaffnet“ kann für zivile Fahrzeuge gewählt werden, die möglicherweise Waffenanforderungen haben.
 
-Die maximale Anzahl an Waffensystemen, die ein Fahrzeug unterstützen kann, entspricht einem Zehntel seiner Strukturpunkte (ein Fahrzeug mit 40 Struktur könnte also 4 Waffensysteme unterstützen, sofern es sich um ein Militärfahrzeug oder ein „bewaffnetes“ ziviles Fahrzeug handelt).
+Die maximale Anzahl an Waffensystemen, die ein Fahrzeug unterstützen kann, entspricht einem Zehntel seiner Staturpunkte (ein Fahrzeug mit 40 Statur könnte also 4 Waffensysteme unterstützen, sofern es ein Militärfahrzeug oder ein bewaffnetes ziviles Fahrzeug ist).
 
-Waffensysteme hängen von der Größe des Fahrzeugs ab. Die maximalen Typen von Waffensystemen für verschiedene Größen sind in den nachstehenden Tabellen aufgeführt.
+Waffensysteme hängen von der Statur des Fahrzeugs ab. Die maximalen Typen von Waffensystemen für verschiedene Staturen sind in den Tabellen unten aufgeführt.
 
-##### Tabelle: Waffen nach Größe
 
-| Größe | Landfahrzeuge | Raumschiffe |
+##### Tabelle: Waffen nach Statur
+
+| Statur | Terrestrisch | Raumschiff |
 | :-- | :-- | :-- |
 | Klein | Leichte Waffe (z. B. Sturmgewehr) | Mittlere Waffe (z. B. Maschinengewehr, Raketenwerfer) |
-| Mittel | Mittlere Waffe (z. B. Maschinengewehr, Raketenwerfer) | Turm-/Schwere Waffe (z. B. schwere gekoppelte Maschinengewehre, Mini-Guns) |
-| Groß | Turm-/Schwere Waffe (z. B. schwere gekoppelte Maschinengewehre, Mini-Guns) | Waffenbatterie (z. B. Feldartillerie) |
-| Riesig | Waffenbatterie (z. B. Feldartillerie) | Fortgeschrittene Waffen (z. B. Raketensysteme) |
-| Enorm | Fortgeschrittene Waffen (z. B. Raketensysteme) | Spantenmontierte Waffen (nur eine) |
-| Kolossal | NA | Spantenmontierte Waffen (bis zu 3) |
+| Mittel | Mittlere Waffe (z. B. Maschinengewehr, Raketenwerfer) | Turm-/Schwere Waffe (z. B. Schwere gekoppelte Maschinengewehre, Mini-Guns) |
+| Groß | Turm-/Schwere Waffe (z. B. Schwere gekoppelte Maschinengewehre, Mini-Guns) | Waffenbatterie (z. B. Schlachtfeld-Artillerie) |
+| Riesig | Waffenbatterie (z. B. Schlachtfeld-Artillerie) | Fortschrittliche Waffen (z. B. Raketensysteme) |
+| Enorm | Fortschrittliche Waffen (z. B. Raketensysteme) | Rumpfmontierte Waffen (nur eine) |
+| Kolossal | k. A. | Rumpfmontierte Waffen (bis zu 3) |
 
-##### Beispiel: Waffenwerte
-
-| Waffe | Schaden | Reichweite | Feuerrate | Munition/Laden |
+##### Beispiel für Waffenstatistiken
+ 
+| Waffe | Schaden | Reichweite | Feuerrate | Munition/Ladung |
 | :-- | :-: | :-: | :-: | :-: |
-| 50-Zoll-Kanone | 3w6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
-| Mini-Gun/Gatling-Geschütz | 3w6 | 300/1000/2000 | -/20/100 | 200/4 |
-| Rakete | 5w6 | 5000/20km/60km | 1 | 1/5 |
-| Mittlere Rakete/Torpedo | 6w10 | Max. 200km | 1 | 1/5 |
-| Große/Marschflugkörper | 6w10+10 | Max. 1000km | 1 | 1/10 |
-| Laser/Plasmakanone | 4w6 | 300/1000/2000 | -/5/25 | 500/5 |
-| Schwere Laser/Plasmakanone | 5w6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Artilleriebatterie | 5w6+6 | Max. 50km | 1 | 1/5 |
-| Spantenmontierte Batterie | 10w6+6 | Max. 20000km | 1 | 1/10 |
+| 50-Zoll-Kanone | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
+| Mini-Gun/Gatling-Gun | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
+| Rakete | 5d6 | 5000/20km/60km | 1 | 1/5 |
+| Mittlere Rakete/Torpedo | 6d10 | Max. Reichweite 200km | 1 | 1/5 |
+| Große/Marschflugkörper | 6d10+10 | Max. Reichweite 1000km | 1 | 1/10 |
+| Laser/Plasmakanone | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
+| Schwere Laser/Plasmakanone | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
+| Artilleriebatterie | 5d6+6 | Max. Reichweite 50km | 1 | 1/5 |
+| Rumpfmontierte Batterie | 10d6+6 | Max. Reichweite 20000km | 1 | 1/10 |
 
 _Reichweiten sind in Metern und Kilometern angegeben._
 
 _Feuerraten gelten für Einzelschuss, Halbautomatik und Vollautomatik._
 
-_Munition ist die Schusskapazität vor dem Nachladen. Laden ist die Nachladezeit in Kampfrunden, vorausgesetzt, eine vollständige Crew ist verfügbar._
+_Munition ist die Feuerkapazität, bevor nachgeladen werden muss. Ladung ist die Nachladezeit in Kampfrunden, unter der Annahme, dass eine vollständige Besatzung verfügbar ist._
 
 ---
 ## Handhabung und Manöver
 
-Ausweichmanöver oder plötzliche Manöver erfordern einen erfolgreichen Fahren/Pilotieren-Wurf, um sicherzustellen, dass der Fahrer oder Pilot die Kontrolle über das Fahrzeug behält. Die meisten Fahrzeuge sind darauf ausgelegt und gebaut, gelegentlichen Belastungen standzuhalten, aber der Spielleiter kann festlegen, dass ein bestimmtes Manöver einen Wurf mit einem höheren Schwierigkeitsgrad erfordert, je nachdem, wie ambitioniert es ist. Ein Fehlschlag bedeutet, dass die Kontrolle über das Fahrzeug verloren geht: Würfle auf der Tabelle für Kontrollverlust.
+Ausweichmanöver oder plötzliche Manöver erfordern einen erfolgreichen Fahren/Pilotieren-Wurf, um sicherzustellen, dass der Fahrer oder Pilot die Kontrolle über das Fahrzeug behält. Die meisten Fahrzeuge sind so konstruiert und gebaut, dass sie gelegentlichen Belastungen standhalten, aber der Spielleiter kann entscheiden, dass ein bestimmtes Manöver je nach Anspruch einen Wurf mit einem höheren Schwierigkeitsgrad erfordert. Ein Scheitern bedeutet, dass die Kontrolle über das Fahrzeug verloren geht: Würfle auf der Tabelle für Kontrollverlust.
 
-Beachte, dass die Tabelle für Kontrollverlust nur für Landfahrzeuge gilt. Ähnliche Auswirkungen können auf Luft- und Raumfahrzeuge angewendet werden, aber der Spielleiter muss die Begründung für den spezifischen Effekt anpassen. Ein Flugzeug könnte zum Beispiel in einen Trudelzustand geraten, anstatt zu schlittern.
+Beachte, dass die Tabelle für Kontrollverlust nur für terrestrische Fahrzeuge gilt. Ähnliche Effekte können auf Flug- und Raumfahrzeuge angewendet werden, aber Spielleiter müssen die Begründung für den spezifischen Effekt anpassen. Ein Flugzeug könnte zum Beispiel ins Trudeln geraten, anstatt zu schlittern.
 
-Zudem kann das inhärente Handling eines Fahrzeugs einen zusätzlichen Einfluss auf den Fahren-Wurf haben. Das Handling ist entweder Einfach, Standard, Schwer, Formidabel oder Herkulisch und bestimmt den Ausgangspunkt für den Fahren-Wurf bei der Ausführung eines Manövers. Der Schwierigkeitsgrad für das Manöver wird dann auf das Handling angewendet, um die endgültige Schwierigkeit zu bestimmen.
+Zudem kann die inhärente Handhabung eines Fahrzeugs einen zusätzlichen Einfluss auf den Fahren-Wurf haben. Die Handhabung ist entweder Leicht, Standard, Schwer, Gewaltig oder Herkulisch und bestimmt den Ausgangspunkt für den Fahren-Wurf bei der Ausführung eines Manövers. Der Schwierigkeitsgrad für das Manöver wird dann auf die Handhabung angewendet, um die endgültige Schwierigkeit zu bestimmen.
 
-Beispiel: Ein Hochleistungsmotorrad verfügt über eingebaute Gyrostabilisatoren, was ihm ein Handling von Einfach verleiht. Der Fahrer möchte eine 180-Grad-Schleuderwende durchführen, um einem Verfolger auszuweichen – ein Manöver, das der Spielleiter mit einem zusätzlichen Schwierigkeitsgrad bewertet. Der Fahrer muss seinen Fahren-Wurf daher auf Standard statt auf Einfach ablegen. Hätte er dasselbe Manöver mit einem nicht stabilisierten Motorrad versucht, wäre der Fahren-Wurf auf Schwer gewesen.
+Zum Beispiel hat ein Hochleistungs-Motorrad eingebaute Gyrostabilisatoren, was ihm eine Handhabung von Leicht verleiht. Der Fahrer möchte eine 180-Grad-Schleuderkurve ausführen, um einem Verfolger zu entkommen – ein Manöver, das der Spielleiter als einen zusätzlichen Schwierigkeitsgrad bewertet. Der Fahrer muss daher seinen Fahren-Wurf mit dem Schwierigkeitsgrad Standard statt Leicht durchführen. Hätte er dasselbe Manöver mit einem nicht stabilisierten Motorrad versucht, wäre der Fahren-Wurf auf Schwer gewesen.
 
-Überlegenes Handling ist eine Eigenschaft. Wenn ein Fahrzeug die Eigenschaft nicht in seiner Beschreibung hat, ist Standard-Handling der Standard für jedes Fahrzeug der Größe Groß und darunter. Riesige und Enorme Fahrzeuge haben inhärent das Handling-Attribut Formidabel bzw. Herkulisch, und es steht dem Spielleiter frei zu entscheiden, dass bestimmte Manöver aufgrund der Größe des Fahrzeugs schlicht unmöglich sind.
+Überlegene Handhabung ist eine Eigenschaft. Wenn ein Fahrzeug die Eigenschaft nicht als Teil seiner Beschreibung hat, dann ist die Standardvorgabe für jedes Fahrzeug der Statur Groß und darunter die Handhabung Standard. Fahrzeuge der Statur Riesig und Enorm besitzen inhärent die Eigenschaft Handhabung Gewaltig bzw. Herkulisch, und der Spielleiter hat die Freiheit zu entscheiden, dass bestimmte Manöver aufgrund der Größe des Fahrzeugs schlicht unmöglich sind.
 
-##### Tabelle: Kontrollverlust
+##### Tabelle für Kontrollverlust
 
-| 1w100 | Ergebnis |
+| 1d100 | Ergebnis |
 | :-: | :-- |
-| 01-25 | Schlenker. Der Kontrollverlust ist vorübergehend. Fahrzeug reduziert seine Geschwindigkeit für 5 Sekunden um 1 Stufe. |
-| 26-40 | Rutschen. Der Fahrer muss kämpfen, um das Fahrzeug unter Kontrolle zu halten. Fahrzeug reduziert seine Geschwindigkeit für 10 Sekunden um 2 Stufen. |
-| 41-50 | Heftiges Rutschen. Fahrzeug landet in der falschen Richtung und bleibt für 15 Sekunden stehen. |
-| 51-60 | Überschlag. Fahrzeug rutscht und überschlägt sich, wobei es 3w10 Schaden an seiner Struktur erleidet. Insassen müssen erfolgreiche Ausdauerwürfe ablegen oder 1w10 Schaden an 1w3 Trefferorten erleiden. |
-| 61-70 | Schwerer Überschlag. Wie oben, aber das Fahrzeug erleidet 3w10+10 Schaden und die Insassen erhalten 1w10 Schaden, selbst wenn der Ausdauerwurf gelingt, und 2w10 bei einem Fehlschlag. |
-| 71-80 | Totalschaden. Wie oben, aber das Fahrzeug wird auf 0 Struktur reduziert. Insassen erleiden denselben Schaden wie bei einem schweren Überschlag. |
-| 81-90 | Explosion. Wie oben, aber das Treibstoffsystem des Fahrzeugs entzündet sich und explodiert innerhalb von 1w20+10 Sekunden. Wenn sie nicht entkommen können, erleiden die Insassen zusätzlich 1w6 Brandschaden an 1w6 Orten. |
+| 01-25 | Schwenken. Der Kontrollverlust ist vorübergehend. Fahrzeug reduziert seine Geschwindigkeit für 5 Sekunden um 1 Stufe. |
+| 26-40 | Schlingern. Fahrer muss darum kämpfen, das Fahrzeug unter Kontrolle zu halten. Fahrzeug reduziert seine Geschwindigkeit für 10 Sekunden um 2 Stufen. |
+| 41-50 | Schweres Schlingern. Fahrzeug endet in der falschen Richtung und kommt für 15 Sekunden zum Stillstand. |
+| 51-60 | Überschlag. Fahrzeug schlingert und überschlägt sich, wobei es 3d10 Schaden an seiner Statur erleidet. Insassen müssen erfolgreiche Ausdauer-Würfe ablegen oder erleiden 1d10 Schaden an 1d3 Trefferzonen. |
+| 61-70 | Schwerer Überschlag. Wie oben, aber das Fahrzeug erleidet 3d10+10 Schaden und Insassen erhalten 1d10 Schaden, selbst wenn der Ausdauer-Wurf gelingt, und 2d10, wenn er misslingt. |
+| 71-80 | Totalschaden. Wie oben, aber das Fahrzeug wird auf 0 Statur reduziert. Insassen erleiden denselben Schaden wie bei einem Schweren Überschlag. |
+| 81-90 | Explosion. Wie oben, aber das Treibstoffsystem des Fahrzeugs entzündet sich und explodiert innerhalb von 1d20+10 Sekunden. Wenn sie sich nicht in Sicherheit bringen können, erleiden die Insassen weiteren 1d6 Verbrennungsschaden an 1d6 Trefferzonen. |
 | 91-98 | Sofortige Explosion. Wie oben, aber die Explosion erfolgt sofort. |
-| 99-00 | Katastrophaler Absturz. Insassen müssen erfolgreich auf Ausdauer würfeln oder sind sofort tot. Schaden wie bei Totalschaden wird unabhängig davon erlitten. |
+| 99-00 | Katastrophaler Absturz. Insassen müssen erfolgreich Ausdauer würfeln oder sind sofort tot. Der Schaden entspricht dem eines Totalschadens. |
+
 
 ---
-## Beispiel-Fahrzeuge
+## Beispielfahrzeuge
 
 ---
 
-### Landfahrzeuge
+### Bodenfahrzeuge
 
-#### Abfangjäger (Interceptor)
+#### Abfangjäger
 
-Ein aufgemotzter Luxuswagen, Sportwagen oder ähnliches. Dieses Auto ist darauf gebaut, schnell zu sein und im Kampf genauso gut auszuteilen, wie es einstecken kann. Dies ist die Art von Fahrzeug, an die Leute denken, wenn jemand "Spionageauto" sagt.
+Dieses aufgemotzte Luxusauto, Sportwagen oder Ähnliches ist dafür gebaut, schnell zu fahren und im Kampf ordentlich auszuteilen. Dies ist die Art von Fahrzeug, an die Leute denken, wenn jemand "Spionageauto" sagt.
 
 | Abfangjäger | |
 | :- | :- |
-| **Größe / Typ** | Mittel Militärisch |
+| **Statur / Typ** | Mittel Militär |
 | **Rumpf** | 6 |
-| **Struktur** | 40 |
+| **Statur** | 40 |
 | **Systeme** | 2 |
 | **Geschwindigkeit** | Schnell |
-| **Handling** | Einfach |
-| **Eigenschaften** | [Schleudersitz](0006_Vehicles.md?id=ejector-seat), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Überlegenes Handling](0006_Vehicles.md?id=superior-handling), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
-| **Waffen** | Ölspur-Spender, Rauchspender, gekoppelte mittlere Maschinengewehre (2w6+3) |
+| **Handhabung** | Leicht |
+| **Eigenschaften** | [Schleudersitz](0006_Vehicles.md?id=ejector-seat), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Überlegene Handhabung](0006_Vehicles.md?id=superior-handling), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
+| **Waffen** | Ölspur-Spender, Rauchspender, Zweifach-gekoppelte mittlere Maschinengewehre (2d6+3) |
 
 <br>
 
@@ -447,18 +450,18 @@ Ein aufgemotzter Luxuswagen, Sportwagen oder ähnliches. Dieses Auto ist darauf 
 
 #### Verfolgungs-Motorrad
 
-Ein leichtes, schnelles Motorrad für schnelle Verfolgungsjagden. Das Verfolgungs-Motorrad trägt eine Überraschung – entweder ein Paar gekoppelter Maschinengewehre oder zwei Raketen.
+Ein leichtes, schnelles Motorrad für rasante Verfolgungsjagden. Das Verfolgungs-Motorrad führt eine Überraschung mit sich – entweder ein Paar gekoppelte Maschinengewehre oder zwei Raketen.
 
 | Verfolgungs-Motorrad | |
 | :- | :- |
-| **Größe / Typ** | Klein Zivil |
+| **Statur / Typ** | Klein Zivil |
 | **Rumpf** | 2 |
-| **Struktur** | 12 |
+| **Statur** | 12 |
 | **Systeme** | 1 |
 | **Geschwindigkeit** | Schnell |
-| **Handling** | Einfach |
-| **Eigenschaften** | [Überlegenes Handling](0006_Vehicles.md?id=superior-handling), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
-| **Waffen** | Zwei Raketen (4w6) oder gekoppelte leichte Maschinengewehre (2w6) |
+| **Handhabung** | Leicht |
+| **Eigenschaften** | [Überlegene Handhabung](0006_Vehicles.md?id=superior-handling), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
+| **Waffen** | Zwei Raketen (4d6) oder Zweifach-gekoppelte leichte Maschinengewehre (2d6) |
 
 <br>
 
@@ -466,16 +469,16 @@ Ein leichtes, schnelles Motorrad für schnelle Verfolgungsjagden. Das Verfolgung
 
 #### Limousine
 
-Eine Standard-4-Türer-Limousine mit genug Platz für einen Fahrer und drei Passagiere. Opfert Laderaum für die Integration einer Überwachungsausrüstung.
+Eine Standard-4-Türer-Limousine mit genug Platz, um bequem einen Fahrer und drei Passagiere unterzubringen. Opfert Frachtraum, um eine Überwachungsausrüstung zu integrieren.
 
 | Limousine | |
 | :- | :- |
-| **Größe / Typ** | Mittel Zivil |
+| **Statur / Typ** | Mittel Zivil |
 | **Rumpf** | 4 |
-| **Struktur** | 25 |
+| **Statur** | 25 |
 | **Systeme** | 2 |
-| **Geschwindigkeit** | Rasch |
-| **Handling** | Standard |
+| **Geschwindigkeit** | Zügig |
+| **Handhabung** | Standard |
 | **Eigenschaften** | [Unauffällig](0006_Vehicles.md?id=unobtrusive), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite) |
 | **Waffen** | Keine |
 
@@ -485,35 +488,35 @@ Eine Standard-4-Türer-Limousine mit genug Platz für einen Fahrer und drei Pass
 
 #### Tauchfähiges Auto
 
-Ein Zweisitzer, der in den Wasser- oder Tauchmodus wechseln kann, um auf oder unter Wasser zu reisen. Kommt mit einem frontmontierten Torpedo und einer oben montierten Boden-Luft-Rakete.
+Ein Auto für zwei Personen, das in den Wasser- oder Unterwassermodus schalten kann, um an oder unter der Wasseroberfläche zu reisen. Kommt mit einem frontmontierten Torpedo und einer oben montierten Boden-Luft-Rakete.
 
 | Tauchfähiges Auto | |
 | :- | :- |
-| **Größe / Typ** | Mittel Zivil |
+| **Statur / Typ** | Mittel Zivil |
 | **Rumpf** | 6 |
-| **Struktur** | 25 |
+| **Statur** | 25 |
 | **Systeme** | 2 |
 | **Geschwindigkeit** | Schnell |
-| **Handling** | Standard |
+| **Handhabung** | Standard |
 | **Eigenschaften** | [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Tauchfähig](0006_Vehicles.md?id=submersible), [Wasserfahrzeug](0006_Vehicles.md?id=waterborne), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
-| **Waffen** | Rakete (5w6), Torpedo (4w10) |
+| **Waffen** | Rakete (5d6), Torpedo (4d10) |
 
 <br>
 
 ---
 
-#### Überwachungswagen (Van)
+#### Überwachungs-Van
 
-Ein schlichter, unmarkierter Van, der ein Team von Agenten und eine Suite von audiovisuellen Aufzeichnungsgeräten beherbergt.
+Ein schlichter, unmarkierter Van, der ein Team von Agenten und eine Ausrüstung für audiovisuelle Aufnahmen beherbergt.
 
-| Überwachungswagen | |
+| Überwachungs-Van | |
 | :- | :- |
-| **Größe / Typ** | Groß Zivil |
+| **Statur / Typ** | Groß Zivil |
 | **Rumpf** | 9 |
-| **Struktur** | 60 |
+| **Statur** | 60 |
 | **Systeme** | 3 |
 | **Geschwindigkeit** | Sanft |
-| **Handling** | Standard |
+| **Handhabung** | Standard |
 | **Eigenschaften** | [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [Robust](0006_Vehicles.md?id=tough) |
 | **Waffen** | Keine |
 
@@ -523,18 +526,19 @@ Ein schlichter, unmarkierter Van, der ein Team von Agenten und eine Suite von au
 
 #### Taktisches Unterstützungsfahrzeug
 
-Ein Pickup oder Jeep mit Platz für eine zweiköpfige Crew in der Kabine und einem Schützen, der auf der Ladefläche ein schwenkbares mittleres Maschinengewehr bedient.
+Ein Pickup oder Jeep mit Platz für eine zweiköpfige Besatzung in der Kabine und einem Schützen, der auf der Ladefläche steht und ein auf einem Schwenkarm montiertes mittleres Maschinengewehr bedient.
 
 | Taktisches Unterstützungsfahrzeug | |
 | :- | :- |
-| **Größe / Typ** | Mittel Zivil |
+| **Statur / Typ** | Mittel Zivil |
 | **Rumpf** | 6 |
-| **Struktur** | 30 |
+| **Statur** | 30 |
 | **Systeme** | 2 |
-| **Geschwindigkeit** | Rasch |
-| **Handling** | Standard |
+| **Geschwindigkeit** | Zügig |
+| **Handhabung** | Standard |
 | **Eigenschaften** | [Geländegängig](0006_Vehicles.md?id=all-terrain), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
-| **Waffen** | Montiertes mittleres Maschinengewehr (2w6) |
+| **Waffen** | Montiertes mittleres Maschinengewehr (2d6) |
+
 
 <br>
 
@@ -544,18 +548,18 @@ Ein Pickup oder Jeep mit Platz für eine zweiköpfige Crew in der Kabine und ein
 
 #### Schnellboot
 
-Ein typisches Schnellboot, bewaffnet mit einem am Heck montierten Minenspender.
+Ein typisches Schnellboot, bewaffnet mit einem am Heck montierten Minenwerfer.
 
 | Schnellboot | |
 | :- | :- |
-| **Größe / Typ** | Mittel Zivil |
+| **Statur / Typ** | Mittel Zivil |
 | **Rumpf** | 3 |
-| **Struktur** | 24 |
+| **Statur** | 24 |
 | **Systeme** | 2 |
 | **Geschwindigkeit** | Schnell |
-| **Handling** | Standard |
+| **Handhabung** | Standard |
 | **Eigenschaften** | [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Wasserfahrzeug](0006_Vehicles.md?id=waterborne), [Bewaffnet](0006_Vehicles.md?id=weaponized) |
-| **Waffen** | Minenspender (5w6) |
+| **Waffen** | Minenwerfer (5d6) |
 
 <br>
 
@@ -563,38 +567,39 @@ Ein typisches Schnellboot, bewaffnet mit einem am Heck montierten Minenspender.
 
 #### Yacht
 
-Die Art von Luxusyacht, die ein Oligarch besitzen könnte. Wahrscheinlich mit einer Überwachungsausrüstung ausgestattet, um sich vor Feinden zu schützen, die Böses im Schilde führen.
+Die Art von Luxusyacht, die ein Oligarch besitzen könnte. Wahrscheinlich mit einer Überwachungsausrüstung ausgestattet, um sich gegen Feinde zu schützen, die Böses im Schilde führen.
 
 | Yacht | |
 | :- | :- |
-| **Größe / Typ** | Riesig Zivil |
+| **Statur / Typ** | Riesig Zivil |
 | **Rumpf** | 10 |
-| **Struktur** | 75 |
+| **Statur** | 75 |
 | **Systeme** | 4 |
 | **Geschwindigkeit** | Langsam |
-| **Handling** | Formidabel |
+| **Handhabung** | Gewaltig |
 | **Eigenschaften** | [Luxuriös](0006_Vehicles.md?id=luxurious), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [Wasserfahrzeug](0006_Vehicles.md?id=waterborne) |
 | **Waffen** | Keine |
+
 
 <br>
 
 ---
 
-### Luft-/Raumfahrzeuge
+### Flugzeuge/Raumschiffe
 
-#### Luftschiff (Ziviles Passagierluftschiff)
+#### Luftschiff (Ziviles Passagier-Luftschiff)
 
-Ähnlich wie die Hindenburg ist diese Klasse von transkontinentalen Luftschiffen 245 Meter lang und erfordert eine Besatzung von 40 bis 61 Personen. Es kann typischerweise 50 bis 72 Passagiere in luxuriöser Ausstattung befördern.
+Ähnlich wie die Hindenburg ist diese Klasse von transkontinentalen Luftschiffen (und andere ihrer Klasse) 245 Meter lang und benötigt eine Besatzung von 40 bis 61 Personen. Es kann normalerweise eine Gruppe von 50 bis 72 Passagieren in luxuriösen Unterkünften befördern.
 
 | Luftschiff | |
 | :- | :- |
-| **Größe / Typ** | Enorm Zivil |
+| **Statur / Typ** | Enorm Zivil |
 | **Rumpf** | 10 |
-| **Struktur** | 85 |
+| **Statur** | 85 |
 | **Systeme** | 5 |
 | **Geschwindigkeit** | Schwerfällig |
-| **Handling** | Herkulisch |
-| **Eigenschaften** | [Luftfahrzeug](0006_Vehicles.md?id=airborne), [Luxuriös](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Handhabung** | Herkulisch |
+| **Eigenschaften** | [Flugfähig](0006_Vehicles.md?id=airborne), [Luxuriös](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Schilde** | Keine |
 | **Waffen** | Keine |
 
@@ -604,39 +609,39 @@ Die Art von Luxusyacht, die ein Oligarch besitzen könnte. Wahrscheinlich mit ei
 
 #### Kampfhubschrauber
 
-Der traditionelle Kampfhubschrauber nutzt seine fortschrittliche Überwachungstechnologie, um Telefon- und kabellose Internetsignale abzufangen und Personen sowie Fahrzeuge selbst im Dunkeln mittels FLIR zu verfolgen. Versuche, dem Tracker durch Heimlichkeit (Stealth) zu entgehen, sind Formidabel.
+Der traditionelle Kampfhubschrauber nutzt seine fortschrittliche Überwachungstechnologie, um Telefon- und drahtlose Internetsignale abzufangen und Personen sowie Fahrzeuge selbst im Dunkeln mittels Wärmebildkameras (FLIR) zu verfolgen. Versuche, dem Verfolger durch Heimlichkeit zu entkommen, sind Gewaltig.
 
 | Kampfhubschrauber | |
 | :- | :- |
-| **Größe / Typ** | Groß Militärisch |
+| **Statur / Typ** | Groß Militär |
 | **Rumpf** | 11 |
-| **Struktur** | 50 |
+| **Statur** | 50 |
 | **Systeme** | 3 |
 | **Geschwindigkeit** | Moderat |
-| **Handling** | Einfach |
-| **Eigenschaften** | [Luftfahrzeug](0006_Vehicles.md?id=airborne), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Heimlichkeit](0006_Vehicles.md?id=stealth), [Überlegenes Handling](0006_Vehicles.md?id=superior-handling), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Handhabung** | Leicht |
+| **Eigenschaften** | [Flugfähig](0006_Vehicles.md?id=airborne), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance), [Heimlichkeit](0006_Vehicles.md?id=stealth), [Überlegene Handhabung](0006_Vehicles.md?id=superior-handling), [Überwachungsausrüstung](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Schilde** | Keine |
-| **Waffen** | 1 Gatling-Geschütz (3w6), 4 Raketen (5w6) |
+| **Waffen** | 1 Gatling-Gun (3d6), 4 Raketen (5d6) |
 
 <br>
 
 ---
 
-#### Mehrzweckjäger
+#### Mehrzweck-Jäger
 
-Dieser zweisitzige landgestützte Jäger (ähnlich wie die De Havilland Mosquito) ist bekannt für seine Leistung und Vielseitigkeit. Sein Bombenschacht kann entweder zwei 250-Pfund-Bomben (behandle als mittlere Raketen mit Reichweite 0) oder einen einzelnen Torpedo tragen.
+Dieser zweisitzige, landgestützte Jäger (ähnlich in der Art wie die De Havilland Mosquito) ist bekannt für seine Leistung und Vielseitigkeit. Sein Bombenschacht ist in der Lage, entweder zwei 250-Pfund-Bomben (wie mittlere Raketen mit Reichweite 0 behandeln) oder einen einzelnen Torpedo zu tragen.
 
-| Mehrzweckjäger | |
+| Mehrzweck-Jäger | |
 | :- | :- |
-| **Größe / Typ** | Groß Militärisch |
+| **Statur / Typ** | Groß Militär |
 | **Rumpf** | 10 |
-| **Struktur** | 45 |
+| **Statur** | 45 |
 | **Systeme** | 3 |
 | **Geschwindigkeit** | Moderat |
-| **Handling** | Standard |
-| **Eigenschaften** | [Luftfahrzeug](0006_Vehicles.md?id=airborne), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance) |
+| **Handhabung** | Standard |
+| **Eigenschaften** | [Flugfähig](0006_Vehicles.md?id=airborne), [Verbesserte Leistung](0006_Vehicles.md?id=enhanced-performance) |
 | **Schilde** | Keine |
-| **Waffen** | 4 in der Nase montierte Gatling-Geschütze (4w6+3), 1 Bombenschacht (6w10 – siehe Beschreibung) |
+| **Waffen** | 4 nabenmontierte Gatling-Guns (4d6+3), 1 Bombenschacht (6d10 - siehe Beschreibung) |
 
 <br>
 
@@ -644,37 +649,38 @@ Dieser zweisitzige landgestützte Jäger (ähnlich wie die De Havilland Mosquito
 
 #### Interstellarer Frachter (Leichter High-Tech-Transporter)
 
-Dieser leichte Transporter benötigt eine Mindestbesatzung von nur zwei Personen, mit Platz für bis zu vier zusätzliche Passagiere. Die Standardversion ist hier notiert, jedoch werden viele Besitzer ihre eigenen „Spezialmodifikationen“ anbringen, wie verborgenen Laderaum, verbesserte Leistung, überlegenes Handling, EMP-Resistenz, Heimlichkeit usw.
+Dieser leichte Transporter erfordert eine Mindestbesatzung von nur zwei Personen, mit Platz für bis zu vier zusätzliche Passagiere. Die Standardversion ist hier notiert, jedoch werden viele Besitzer ihre eigenen „Spezialmodifikationen“ anwenden, wie verborgenen Frachtraum, verbesserte Leistung, überlegene Handhabung, EMP-Resistenz, Heimlichkeit und so weiter.
 
 | Interstellarer Frachter | |
 | :- | :- |
-| **Größe / Typ** | Mittel Ziviles Raumschiff |
+| **Statur / Typ** | Mittel Ziviles Raumschiff |
 | **Rumpf** | 10 |
-| **Struktur** | 80 |
+| **Statur** | 80 |
 | **Systeme** | 2 |
-| **Geschwindigkeit** | Rasch (Parsec-Faktor 3) |
-| **Handling** | Standard |
-| **Eigenschaften** | [Luftfahrzeug](0006_Vehicles.md?id=airborne), [Fracht](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Raumschiff](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Geschwindigkeit** | Zügig (Parsec-Faktor 3) |
+| **Handhabung** | Standard |
+| **Eigenschaften** | [Flugfähig](0006_Vehicles.md?id=airborne), [Fracht](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Raumschiff](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Schilde** | 8 |
-| **Waffen** | 2x Vierfach-Laserkanonentürme (5w6) |
+| **Waffen** | 2x Vierfach-montierte Laserkanonen-Türme (5d6) |
+
 
 <br>
 
 ---
 
-#### General Contact Unit (Ultra-High-Tech-Raumschiff)
+#### Allgemeine Kontakteinheit (Ultra High-Tech Raumschiff)
 
-Dieses extrem hochentwickelte Raumschiff ist die physische Repräsentation eines hochkomplexen künstlichen Geistes (Mind), der die Form einer zwei Kilometer langen Reihe feldverbundener Module annimmt. Die Module sind individuell zweckbestimmt und umfassen Habitate, Baueinrichtungen, Frachtbereiche, Lebensmittelverarbeitung, Freizeitkomplexe, Hangarbuchten und sogar einige geheimnisvolle Einheiten, die die Intelligenz des Schiffes selten oder nie erwähnt. Es benötigt keine menschliche Crew, kann aber problemlos eine Passagierpopulation von bis zu 100.000 unterstützen. Viele Passagiere werden an Bord der Contact Unit geboren und sterben dort: viele sind nur vorübergehend anwesend und kommen und gehen, wie sie möchten.
+Dieses extrem hochtechnologische Sternenschiff ist die physische Darstellung eines hochmodernen künstlichen Geistes, der die Form einer zwei Kilometer langen Reihe von feldverbundenen Modulen annimmt. Die Module haben jeweils spezifische Aufgaben und umfassen Habitate, Baueinrichtungen, Frachtbereiche, Lebensmittelverarbeitung, Freizeitkomplexe, Hangarbuchten und sogar einige geheime Einheiten, über die die Schiffsintelligenz selten, wenn überhaupt, spricht. Es benötigt keine menschliche Besatzung, kann aber problemlos eine Passagierpopulation von bis zu 100.000 unterstützen. Viele Passagiere werden an Bord der Kontakteinheit geboren und sterben dort: Viele sind nur auf der Durchreise und kommen und gehen, wie es ihnen beliebt.
 
-| General Contact Unit | |
+| Allgemeine Kontakteinheit | |
 | :- | :- |
-| **Größe / Typ** | Kolossal Ziviles Raumschiff |
+| **Statur / Typ** | Kolossal Ziviles Raumschiff |
 | **Rumpf** | 20 |
-| **Struktur** | 10.000 |
+| **Statur** | 10.000 |
 | **Systeme** | 6 |
 | **Geschwindigkeit** | Moderat (Parsec-Faktor 4. Auf diesem Techniklevel entspricht ein Faktor 1 Stunde) |
-| **Handling** | Formidabel |
-| **Eigenschaften** | [Luftfahrzeug](0006_Vehicles.md?id=airborne), [Fracht](0006_Vehicles.md?id=cargo), [Träger](0006_Vehicles.md?id=carrier), [Konstruktion](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxuriös](0006_Vehicles.md?id=luxurious), [Raumschiff](0006_Vehicles.md?id=space-craft), [Überlegenes Handling](0006_Vehicles.md?id=superior-handling), [Traktorstrahl](0006_Vehicles.md?id=tractor-beam) |
+| **Handhabung** | Gewaltig |
+| **Eigenschaften** | [Flugfähig](0006_Vehicles.md?id=airborne), [Fracht](0006_Vehicles.md?id=cargo), [Träger](0006_Vehicles.md?id=carrier), [Bauwesen](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxuriös](0006_Vehicles.md?id=luxurious), [Raumschiff](0006_Vehicles.md?id=space-craft), [Überlegene Handhabung](0006_Vehicles.md?id=superior-handling), [Traktorstrahl](0006_Vehicles.md?id=tractor-beam) |
 | **Schilde** | 30 |
 | **Waffen** | Keine, über die es sprechen möchte |
 
