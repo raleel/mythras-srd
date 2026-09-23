@@ -5,12 +5,12 @@
 
 ### Funktionen
 
-- Fontawesome-Plugin für kostenlose Symbole hinzugefügt
-- Material Icons-Plugin für kostenlose Symbole hinzugefügt
+- Fontawesome-Plugin für kostenlose Icons hinzugefügt
+- Material Icons-Plugin für kostenlose Icons hinzugefügt
 
 ### Fehlerbehebungen
 
-- Entfällt
+- N/A
 
 ---
 
@@ -19,12 +19,12 @@
 ### Funktionen
 
 - Flexible Alerts-Plugin hinzugefügt
-- Sample.md mit neuen Formatierungsoptionen aus Flexible Alerts aktualisiert
-- Anweisungen zum Ändern der Überschriften- und Website-Schriftarten in **Anleitung** hinzugefügt
+- Sample.md mit neuen Formatierungsoptionen der Flexible Alerts aktualisiert
+- Anweisungen zum Ändern der Überschriften- & Website-Schriftarten in **Anleitung** hinzugefügt
 
 ### Fehlerbehebungen
 
-- Entfällt
+- N/A
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### Funktionen
 
-- Schritt (8) in den Anweisungen zur Sicherstellung der Erstellung der ".nojekyll"-Datei hinzugefügt.
+- Schritt (8) in den Anweisungen hinzugefügt, um sicherzustellen, dass die Datei ".nojekyll" erstellt wird.
 
 ### Fehlerbehebungen
 
-- Entfällt
+- N/A
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Funktionen
 
-- "Anleitungen" hinzugefügt
+- "Anleitung" hinzugefügt
 
 ### Fehlerbehebungen
 
-- Entfällt
+- N/A
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funktionen
 
-- Umschaltfunktion für Hell-/Dunkelmodus hinzugefügt (von )
-- Verbesserte Navigation: Hamburger-Menü oben links auf dem Bildschirm verschoben (von unten links)
-- Verbesserte Lesbarkeit: Open Sans & Orbitron Schriftarten hinzugefügt
+- Umschaltfunktion für Hell-/Dunkelmodus hinzugefügt (Von )
+- Navigation verbessert: Hamburger-Menü oben links auf dem Bildschirm verschoben (von unten links)
+- Lesbarkeit verbessert: Open Sans & Orbitron Schriftarten hinzugefügt
 
 ### Fehlerbehebungen
 
-- Entfällt
+- N/A

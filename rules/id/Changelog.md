@@ -1,7 +1,7 @@
 # Changelog
 
 ## V0.3.0
-*26 Okt 23*
+*26 Oktober 23*
 
 ### Fitur
 
@@ -10,26 +10,26 @@
 
 ### Perbaikan Bug
 
-- T/A
+- N/A
 
 ---
 
-*23 Okt 23*
+*23 Oktober 23*
 
 ### Fitur
 
 - Menambahkan Plugin Flexible Alerts
 - Memperbarui Sample.md dengan opsi pemformatan baru dari Flexible Alerts
-- Menambahkan instruksi untuk mengubah font Heading & Situs di **Cara Penggunaan**
+- Menambahkan instruksi untuk mengubah font Heading & Situs di **Cara**
 
 ### Perbaikan Bug
 
-- T/A
+- N/A
 
 ---
 
 ## V0.1.2
-*20 Okt 23*
+*20 Oktober 23*
 
 ### Fitur
 
@@ -37,7 +37,7 @@
 
 ### Perbaikan Bug
 
-- T/A
+- N/A
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Fitur
 
-- Menambahkan "Instruksi Cara Penggunaan"
+- Menambahkan "Instruksi Cara"
 
 ### Perbaikan Bug
 
-- T/A
+- N/A
 
 ---
 
@@ -63,4 +63,4 @@
 
 ### Perbaikan Bug
 
-- T/A
+- N/A

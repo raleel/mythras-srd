@@ -1,7 +1,7 @@
 # Journal des modifications
 
 ## V0.3.0
-*26 octobre 23*
+*26 oct. 23*
 
 ### Fonctionnalités
 
@@ -14,13 +14,13 @@
 
 ---
 
-*23 octobre 23*
+*23 oct. 23*
 
 ### Fonctionnalités
 
 - Ajout du plugin Flexible Alerts
-- Mise à jour de Sample.md avec les nouvelles options de formatage de Flexible Alerts
-- Ajout d'instructions pour modifier les polices des titres et du site dans **Comment faire**
+- Mise à jour de Sample.md avec les nouvelles options de formatage issues de Flexible Alerts
+- Ajout d'instructions pour changer les polices des titres et du site dans **Comment faire**
 
 ### Corrections de bugs
 
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*20 octobre 23*
+*20 oct. 23*
 
 ### Fonctionnalités
 
-- Ajout de l'étape (8) dans les instructions pour s'assurer que le fichier ".nojekyll" est créé.
+- Ajout de l'étape (8) dans les instructions pour garantir la création du fichier ".nojekyll".
 
 ### Corrections de bugs
 
@@ -45,7 +45,7 @@
 
 ### Fonctionnalités
 
-- Ajout des "Instructions comment faire"
+- Ajout des "Instructions Comment faire"
 
 ### Corrections de bugs
 
@@ -58,8 +58,8 @@
 ### Fonctionnalités
 
 - Ajout de la fonctionnalité de bascule mode Clair/Sombre (Depuis )
-- Amélioration de la navigation : le menu hamburger a été déplacé en haut à gauche de l'écran (au lieu de bas gauche)
-- Amélioration de la lisibilité : ajout des polices Open Sans et Orbitron
+- Navigation améliorée : Le menu hamburger a été déplacé en haut à gauche de l'écran (au lieu de bas gauche)
+- Lisibilité améliorée : Ajout des polices Open Sans et Orbitron
 
 ### Corrections de bugs
 
