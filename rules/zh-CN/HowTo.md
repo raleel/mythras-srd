@@ -1,70 +1,70 @@
 # 先决条件
 
-1. 对 [Markdown 语言](https://www.markdownguide.org/basic-syntax/) 有基本的了解。
+1. 对 [markdown 语言](https://www.markdownguide.org/basic-syntax/) 有基本了解。
 
-2. 如果你还没有 [GitHub](https://github.com/) 账户，你需要创建一个免费账户。建议你使用你的 RPG 名称作为用户名，因为这将成为人们访问你的 SRD 时所用 URL 的一部分。
+2. 如果你还没有账户，需要创建一个免费的 [github](https://github.com/) 账户。建议你使用你的 RPG 名称，因为它将成为人们访问你的 SRD 时所用 URL 的一部分。
 
-3. 你无需了解 Git，仅通过浏览器即可完成整个过程。尽管学习使用 GitHub Desktop 将允许你在向全世界发布更改之前，先在本地测试任何更改。
+3. 你可以在浏览器中完成整个流程，而无需学习 git。尽管学习 GitHub Desktop 可以让你在将更改发布到线上供全世界查看之前，先在本地测试更改。
 
-> 如果你注册了一个域名，你可以将其与此流程结合使用，从而创建像我这样的 SRD：https://srd.7thextinctionrpg.com
+> 如果你注册了域名，你可以将其与此流程结合使用，从而创建像我这样的 SRD：https://srd.7thextinctionrpg.com
 
 # 流程
 
-## 在 GitHub 上创建仓库
+## 在 Github 上创建存储库
 
-1. 登录 GitHub
+1. 登录 Github
 
-2. 导航至公共模板 https://github.com/7thExtinctionrpg/RPG_SRD_Template
+2. 导航至公共模板：https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
-3. 点击 “Use this template”（使用此模板）
+3. 点击“Use this template”（使用此模板）
 
 ![Step3](/_media/Step3.png)
 
-4. 选择 “Create a new repository”（创建新仓库）
+4. 选择“Create a new repository”（创建新存储库）
 
-5. 输入仓库名称
+5. 输入存储库名称
 
 ![Step5](/_media/Step5.png)
 
-6. 选择 “Private”（私有）
+6. 选择“Private”（私有）
 
-7. 选择 “Create repository”（创建仓库）
+7. 选择“Create repository”（创建存储库）
 
-复制模板大约需要 5-30 秒，之后你将拥有自己的副本。
+复制模板需要 5-30 秒，之后你将拥有自己的副本。
 
-8. 确保你拥有 “.nojekyll” 文件，这是一个在 GitHub 上托管网站时所需的文件，否则 SRD 将无法正确显示。（它告知 GitHub Pages 不要通过 Jekyll 处理已发布的文件）。
+8. 确保你拥有文件“.nojekyll”，这是一个在 Github 上托管网站时所需的文件，否则 SRD 将无法正常显示。（告知 GitHub Pages 不要通过 Jekyll 运行已发布的文件）。
 
 
 ## 添加你的内容
 
 ### *.md 文件
 
-.md 文件是 Markdown 文件。Markdown 是一种轻量级标记语言，你可以使用它为纯文本文件添加格式元素。根据内容的大小，你可以将所有游戏信息放在一个 *.md 文件中，或者像我在 [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) 上所做的那样，为每一章创建单独的文件。“sample.md” 提供了一些格式示例。
+.md 文件是 markdown 文件，Markdown 是一种轻量级标记语言，你可以用它为纯文本文档添加格式化元素。根据内容的大小，你可以将游戏的所有信息放在一个 *.md 文件中，或者像我在 [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) 那样，为每一章创建单独的文件。“sample.md”提供了一些格式示例。
 
-Markdown 语言非常容易学习，请使用上述“先决条件”中第 2 点提供的链接获取完整的语法列表。
+Markdown 语言非常容易学习，请使用上述“先决条件”第 2 点中提供的链接获取完整的语法列表。
 
 ### _Sidebar.md
 
-这是你的菜单，即网站左侧的导航窗格。一旦你在仓库中添加了 Markdown 文件，你需要将其添加到此处，以便将其内容包含在内。遵循现有的格式即可。
+这是你的菜单，即网站左侧的导航窗格。将 markdown 文件添加到存储库后，你需要在此处添加该文件，以便将其内容包含在内。遵循现有的格式。
 
 
-## 启用 GitHub Pages 将仓库转换为网站
+## 启用 Github Pages 将存储库转换为网站
 
-1. 在你的仓库中点击 “Settings”（设置）
+1. 在你的存储库中点击“Settings”（设置）
 
 ![Website-Step1](/_media/Website-Step1.png)
 
-2. 在左侧菜单中选择 “Pages”（页面）
+2. 在左侧菜单中选择“Pages”（页面）
 
 ![Website-Step2](/_media/Website-Step2.png)
 
-3. 如果你还没有将仓库设为 “public”（公开），你有两个选择：
-    a. 将仓库设为公开，这将允许你使用 GitHub Pages 免费托管你的 SRD 网站。
-    b. 升级你的 GitHub 账户（在撰写本文时，费用为每月 4 美元或每年 48 美元）。
+3. 如果你还没有将存储库设为“public”（公共），你有两个选择：
+    a. 将存储库设为公共，这样你就可以使用 Github Pages 免费托管你的 SRD 网站
+    b. 升级你的 Github 账户（在撰写本文时，费用为每月 4 美元或每年 48 美元）
 
-4. 在 “Branch”（分支）下选择 “main” 并点击保存。
+4. 在“Branch”（分支）下选择“main”并点击保存
 
-5. 等待 10-20 秒，然后刷新页面。
+5. 等待 10-20 秒，然后刷新页面
 
 6. 你现在将看到你的 URL，例如 https://coweater.github.io/mysrd/
 
@@ -73,11 +73,11 @@ Markdown 语言非常容易学习，请使用上述“先决条件”中第 2 �
 
 ## 更改字体
 
-1. 编辑 /_assets/style.css 文件。
+1. 编辑 /_assets/风格.css 文件
 
-2. 在 “body” 部分下，你将找到 siteFont 和 headingFont。
+2. 在“body section”（正文部分）下，你会找到 siteFont 和 headingFont
 
-3. 将其更改为你想要使用的字体。
+3. 将它们更改为你想要使用的字体
 
 
 ## 使用 Fontawesome 和/或 Material Icons 插件在你的 SRD 中显示免费图标
@@ -86,15 +86,15 @@ Markdown 语言非常容易学习，请使用上述“先决条件”中第 2 �
 
 使用 Fontawesome 获取免费图标和动画图标。订阅用户可以使用 Pro 图标。
 
-1. 在 [Fontawesome](https://fontawesome.com/icons) 上找到图标。
-2. 选择该图标。
-3. 在弹出窗口中，在 HTML 选项卡下复制引号 “ ” 之间的所有内容。
+1. 在 [Fontawesome](https://fontawesome.com/icons) 上找到图标
+2. 选择图标
+3. 在弹出窗口的 HTML 选项卡下，复制 " " 之间的所有内容
 
 ```EXAMPLE
-<i class="fa-solid fa-dice-d20"></i>
+<i 职业="fa-solid fa-dice-d20"></i>
 ```
 
-4. 将复制的文本放置在 `:` 之间，不要留空格。
+4. 将复制的文本放置在 `:` 之间，不要有空格
 
 ```EXAMPLE
 fa-solid fa-dice-d20
@@ -102,11 +102,11 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-使用 Material Icons 获取更多免费图标。
+使用 Material Icons 获取更多免费图标
 
-1. 在 [Material Icons](https://fonts.google.com/icons) 上找到图标。
-2. 直接将 Web span 链接复制并插入到你的 Markdown 文件中。
+1. 在 [Material Icons](https://fonts.google.com/icons) 上找到图标
+2. 复制 Web span 链接并直接插入到你的 markdown 文件中
 
 ```markup
-<span class="material-icons">face</span>
+<span 职业="material-icons">face</span>
 ```
