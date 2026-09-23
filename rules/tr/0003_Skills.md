@@ -1,40 +1,40 @@
 # Beceriler
 
-Beceriler iki kategoriye ayrılır: Standart ve Mesleki. Tüm karakterler aynı Standart Beceri setine sahiptir. Mesleki Beceriler ise karakterler arasında farklılık gösterir ve bir kariyer dahilinde geliştirilen uzmanlığı ve belirli bir ölçüde karakterin kültürünü yansıtır. Bu ayrımlara rağmen, Standart ve Mesleki Beceriler aynı şekilde çalışır.
+Beceriler iki kategoriye ayrılır: Standart ve Profesyonel. Tüm karakterler aynı Standart Beceri setine sahiptir. Profesyonel Beceriler karakterler arasında farklılık gösterir ve bir kariyer içinde geliştirilen uzmanlığı ve belirli bir ölçüde kültürlerini yansıtır. Bu ayrımlara rağmen, Standart ve Profesyonel Beceriler aynı şekilde çalışır.
 
 ---
 ## Beceriler Nasıl Çalışır
 
-Bir beceri, iki Özellik üzerine inşa edilmiş veya bir özelliğin ikiyle çarpılmasıyla elde edilen bir Temel Değere sahiptir. Bir becerinin değerinde üst sınır yoktur; 100'ü aşabilir ve oyun sırasında karakterlerin becerilerinin bu seviyelere ulaştığını görmeleri beklenebilir.
+Bir beceri, iki Karakteristik üzerine kurulu veya bir Karakteristiğin iki ile çarpılmasıyla elde edilen bir Temel Değere sahiptir. Bir becerinin değerinin üst sınırı yoktur; 100'ü aşabilir ve oyun sırasında karakterler becerilerinin bu seviyelere ulaştığını görebilirler.
 
-Bir karakterden herhangi bir test, meydan okuma veya mesleki yeteneği çözmesi istendiğinde, 1d100 atılır ve becerinin değeriyle karşılaştırılır:
+Bir karakterin herhangi bir test, meydan okuma veya profesyonel yetenek çözmesi gerektiğinde, 1d100 atılır ve beceri değeriyle karşılaştırılır:
 
-- Beceri değerine eşit veya daha düşük olması Başarıyı ifade eder
-- Beceri değerinden büyük olması Başarısızlığı ifade eder
+- Beceri değerine eşit veya daha düşük olması Başarıyı gösterir
+- Beceri değerinden büyük olması Başarısızlığı gösterir
 
 Başarı ve Başarısızlık ile ilgili dikkat edilmesi gereken bazı özel durumlar vardır.
 
-- 01-05 arasındaki herhangi bir zar atışı her zaman Başarıdır
-- 96-00 arasındaki herhangi bir zar atışı, becerinin değeri ne kadar yüksek olursa olsun her zaman Başarısızlıktır
+- 01-05 arasındaki herhangi bir zar sonucu her zaman Başarıdır
+- 96-00 arasındaki herhangi bir zar sonucu, beceri değeri ne kadar yüksek olursa olsun her zaman Başarısızlık olarak kabul edilir
 
-#### Kritikler ve Topallamalar (Fumble)
+#### Kritik Başarılar ve Fiyaskolar
 
-Kritikler ve Topallamalar, muhteşem başarıları ve başarısızlıkları; yani karakterin ya denemesinde mükemmelleştiği ya da acınacak halde ve tamamen başarısız olduğu durumları temsil eder.
+Kritik Başarılar ve Fiyaskolar, muhteşem başarıları ve başarısızlıkları temsil eder; karakterin denemesinde ya üstünlük sağladığı ya da sefil ve tamamen başarısız olduğu durumlardır.
 
-- Kritik Başarı, beceri değerinin onda birine eşittir (bu, değiştirici alan becerileri de içerir – dolayısıyla değiştirilmiş beceriler, Kritik sonuç için daha büyük veya daha küçük bir şansa sahip olabilir). Kritik Başarı aralığını hesaplarken kesirleri yukarı yuvarlayın. Örneğin, bir beceri normal değerinin iki katına çıkarılırsa – diyelim ki %33'ten %66'ya – o zaman Kritik aralığı 07 veya daha düşük bir zar atışı olur.
-- Topallama (Fumble), 99 veya 00 atışıdır. %100'den fazla değere sahip beceriler sadece 00 zarında Topallar.
+- Kritik Başarı, beceri değerinin onda birine eşittir (ve bu, değiştirici alan becerileri de içerir – yani değiştirilmiş beceriler, Kritik sonuç için daha büyük veya daha küçük bir şansa sahip olabilir). Bir Kritik Başarı aralığını hesaplarken kesirleri yukarı yuvarlayın. Örneğin, bir beceri normal değerinin iki katına – diyelim ki %33'ten %66'ya – çıkarılırsa, Kritik aralığı 07 veya daha düşük bir zar sonucu olur.
+- Fiyasko, 99 veya 00 atılmasıdır. Değeri %100'den fazla olan becerilerde Fiyasko sadece 00 atıldığında gerçekleşir.
 
-Kritik veya Topallama sonucunun kesin doğası, Oyun Yöneticisinin takdirine bırakılmıştır. Sonuçlar duruma bağlı olarak harika veya korkunç olabilir.
+Kritik veya Fiyasko sonucunun kesin doğasının belirlenmesi Oyun Yöneticisine bırakılmıştır. Sonuçlar koşullara bağlı olarak harika veya vahim olabilir.
 
 #### Otomatik Başarılar
 
-Belirli bir beceriye karşı zar atmanın gerekli olmadığı bazı durumlar olacaktır – çünkü yapılan iş kolayca tamamlanabilir veya yeterli zaman ve odaklanma ile başarı garantidir. Bir atı açık bir çayırda hafif bir tırısla sürmek, Otomatik Başarıya bir örnektir; burada aktivitede yetenekli olmak, basit eylemlerin çözülmesi için herhangi bir beceri zarı gerektirmediği anlamına gelir. Bir zanaatkarın bir parça odunu sandalye ayağı olacak şekilde oyması, beceri zarının gerekli olmadığı başka bir örnektir; tamamlanması zaman alır ancak zanaatkar işin nasıl yapılacağını bilir ve acele etmezse başarı garantidir. Kilit açma takımı olan rahatsız edilmemiş bir hırsız, yeterli zaman verilirse bir hazine sandığının basit kilidini başarıyla açabilir.
+Bazı durumlarda, belirli bir beceriye karşı zar atmak gerekli olmayacaktır – ya eldeki görev kolayca tamamlanabildiği için ya da yeterli zaman ve odaklanma ile başarı garantilendiği için. Açık bir çayırda atı hafif bir tırısla sürmek, Otomatik Başarının bir örneğidir; burada sadece faaliyetin becerisine sahip olmak, basit eylemlerin çözülmesi için herhangi bir beceri zarı gerektirmediği anlamına gelir. Bir zanaatkarın bir parça ahşabı sandalye ayağına yontması, beceri zarının gerekli olmadığı bir başka örnektir; tamamlanması zaman alır, ancak zanaatkar işin nasıl yapılacağını bilir ve eğer acele etmiyorsa başarı kesindir. Bir haydut, rahatsız edilmediği takdirde, bir set maymuncukla, yeterli zaman verildiğinde bir hazine sandığının basit kilidini başarıyla açabilir.
 
 #### Becerileri Değiştirme
 
-Beceri zarının gerekli olduğu ancak başarı şansının mevcut koşulları yansıtacak şekilde ayarlanması gereken bazı durumlar vardır. Örneğin, kaçan haydutlar bir Atletizm zarı gerektirebilir. Ancak karakter karanlıkta veya tehlikeli çalıların arasında kaçıyorsa ne olur? Böyle bir durumda Oyun Yöneticisi, koşulları yansıtmak için karakterin becerisini değiştirmekte ısrar edebilir.
+Bazı durumlarda bir beceri zarı gereklidir, ancak başarı şansının mevcut koşulları yansıtacak şekilde ayarlanması gerekir. Örneğin, kaçan haydutlar bir Atletizm zarı gerektirebilir. Peki ya karakter karanlıkta veya tehlikeli çalıların arasından kaçıyorsa? Böyle bir durumda Oyun Yöneticisi, koşulları yansıtmak için karakterin becerisini değiştirmekte ısrar edebilir.
 
-_Mythras Imperative_, bir becerinin nasıl değiştirileceğini belirlemek için bir dizi derece kullanır. Bunlar şu şekildedir. İki tür değiştirici sağlandığını unutmayın: birincisi varsayılan yöntemdir, biraz matematik içerir ancak özellikle daha yüksek beceri yüzdeleri söz konusu olduğunda ölçeklendirme için daha iyi simülasyon sunar. Basitleştirilmiş Beceri Değiştirici ise basit bir toplama veya çıkarma işlemidir ve uygulaması daha kolaydır. Hangi yöntemin oyuna en uygun olduğunu seçin ancak aynı değiştirme sisteminin tutarlı bir şekilde uygulandığından emin olun.
+_Mythras Imperative_, bir becerinin nasıl değiştirileceğini belirlemek için bir dizi derece kullanır. Bunlar şöyledir. İki tür değiştirici sağlandığına dikkat edin: ilki varsayılan yöntemdir ve biraz matematik içerir, ancak özellikle daha yüksek beceri yüzdeleri söz konusu olduğunda ölçekleme için daha iyi simülasyon sunar. Basitleştirilmiş Beceri Değiştirici, basit bir toplama veya çıkarma işlemidir ve uygulanması daha kolaydır. Hangi yöntemin oyuna en uygun olduğunu seçin, ancak aynı değiştirme sisteminin tutarlı bir şekilde uygulandığından emin olun.
 
 ##### Zorluk Derecesi Tablosu
 
@@ -46,351 +46,349 @@ _Mythras Imperative_, bir becerinin nasıl değiştirileceğini belirlemek için
 | Standart | Ayarlama yok | Yok |
 | Zor | Beceri değerini üçte bir oranında azalt | -%20 |
 | Çetin | Beceri değerini yarıya indir | -%40 |
-| Herkülvari | Beceri değerini beşte bire indir | -%80 |
-| Umutsuz | Hiçbir deneme yapılamaz | Hiçbir deneme yapılamaz |
+| Herkül | Beceri değerini beşte bire indir | -%80 |
+| Umutsuz | Deneme yapılamaz | Deneme yapılamaz |
 
-Bir karakter halihazırda diğer koşullardan kaynaklanan bir ceza çekiyorsa, en zor Zorluk Derecesi önceliklidir.
+Bir karakterin diğer koşullardan dolayı zaten bir ceza çektiği durumlarda, en zor Zorluk Derecesi önceliklidir.
 
-Savaş dışında, _Mythras Imperative_ beceri değişikliklerine yol açabilecek durumların ve zorlukların kesin bir listesini sunmaz. Belirli bir beceri veya bağlam için ne tür bir değişikliğin gerekli olduğu, tamamen karakterlerin yeteneklerine, Oyun Yöneticisinin durumun zorluğuna dair algısına ve o andaki dramatik gerilime bağlı olarak Oyun Yöneticisinin kararına bırakılmıştır.
+Savaş dışında, _Mythras_ _Imperative_ beceri değişikliklerine yol açabilecek durumların ve meydan okumaların kesin bir listesini sunmaz. Belirli bir beceri veya bağlam için ne tür bir değişiklik gerektiğine, karakterlerin yeteneklerine, durumun zorluğuna dair algısına ve o andaki dramatik gerilime göre nihayetinde Oyun Yöneticisi karar verir.
 
 ---
 ## Standart Beceriler
 
-#### Atletizm (STR+DEX)
+#### Atletizm (GÜÇ+ÇEV)
 
-Atletizm; tırmanma, atlama, fırlatma ve koşma dahil olmak üzere bir dizi fiziksel aktiviteyi kapsar. Bu aktivitelerin herhangi biri için beceri zarları, Atletizm becerisine karşı tek bir zarla gerçekleştirilir. Tırmanma, atlama ve koşma hakkında daha fazla bilgi için bkz. [Hareket](0005_Combat.md?id=situational-movement-rates).
+Atletizm; tırmanma, atlama, fırlatma ve koşma dahil olmak üzere bir dizi fiziksel aktiviteyi kapsar. Bu aktivitelerin herhangi biri için beceri zarları, Atletizm becerisine karşı tek bir zar atılarak ele alınır. Tırmanma, atlama ve koşma hakkında daha fazla bilgi için [Hareket](0005_Combat.md?id=situational-movement-rates) bölümüne bakın.
 
-#### Teknecilik (STR+CON)
+#### Teknecilik (GÜÇ+DAY)
 
-Teknecilik becerisi, nehirlerde, göllerde ve kıyıya yakın yerlerde küçük yüzen araçların işletilmesini kapsar. Uygun araçlar genellikle kısa mesafeler kat eden ve açık denizin zorluklarına uygun olmayan tekneler, kanolar veya sallardır. Çoğu kürek, palet, sığ su direği veya basit yelkenler kullanılarak hareket ettirilir; hatta hayvanlar tarafından çekilebilirler. Geniş mürettebatı olan veya uzun, denizaşırı yolculuklar için tasarlanmış gemiler, Denizcilik Mesleki Becerisi kapsamındadır.
+Teknecilik becerisi, nehirlerde, göllerde ve kıyıya yakın yerlerde küçük yüzen araçların işletilmesini kapsar. Uygun araçlar genellikle kısa mesafelerde seyahat eden ve açık denizin zorluklarına uygun olmayan tekneler, kanolar veya sallardır. Çoğu kürek, yelken veya basit yelkenler kullanılarak hareket ettirilir; hatta hayvanlar tarafından çekilebilirler. Geniş mürettebatlı veya uzun, denizaşırı yolculuklar için tasarlanmış gemiler, Denizcilik Profesyonel Becerisi kapsamındadır.
 
-#### Güç (STR+SIZ)
+#### Güç Gösterisi (GÜÇ+BOY)
 
-Güç, ham fiziksel kuvvet uygularken tekniğin verimli bir şekilde kullanılmasıdır. Beceri; kaldırma, kapıları kırma ve güç yarışmaları dahil olmak üzere uygulanan kuvvet eylemlerini kapsar.
+Güç Gösterisi, saf fiziksel kuvvet uygularken tekniğin verimli bir şekilde kullanılmasıdır. Beceri, kaldırma, kapıları kırma ve güç yarışmaları dahil olmak üzere uygulanan kuvvet eylemlerini kapsar.
 
-#### Savaş Stili (STR+DEX)
+#### Savaş Stili (GÜÇ+ÇEV)
 
-Her Savaş Stili, ortamdaki bir kariyer veya kültürde beklenen silahları kullanma becerisidir. Çoğu dövüş geleneği, birden fazla silahta eğitim almayı ve bunların hepsini tek başlarına veya kombinasyon halinde etkili bir şekilde kullanmak için gereken teknikleri kapsar. Ayrıca, genellikle yakın düzen piyade olarak veya at sırtında dövüşmek gibi durumsal bir unsur varsayarlar. Savaş Stilleri, örneğin Gladyatör Dövüşü'nden Uzay Piyadesi Mobil Piyadesi'ne kadar çok çeşitli olabilir.
+Her Savaş Stili, ortamdaki bir kariyerin veya kültürün beklenen silahlarını kullanma becerisidir. Çoğu dövüş geleneği, ister tek başına ister kombinasyon halinde olsun, hepsini etkili bir şekilde kullanmak için gereken tekniklerle birlikte birden fazla silahın eğitimini kapsar. Ayrıca, yakın düzen piyade olarak savaşmak veya at sırtında olmak gibi durumsal bir unsur varsayarlar. Savaş Stilleri, örneğin Gladyatör Dövüşünden Uzay Piyadesi Mobil Piyadesine kadar çok çeşitli olabilir.
 
-#### Gizleme (DEX+POW)
+#### Gizleme (ÇEV+RUH)
 
-Gizleme, Gizlilik'in karşı noktasıdır; karakterin kendisinden ziyade büyük nesnelerin gizlenmesidir. Örneğin, Gizleme bir savaş arabasını bazı kayaların arkasına saklamak veya bıraktığı tekerlek izlerini süpürmek için kullanılabilir, böylece yolu takip edilemez. Beceri uygulamada çok yönlüdür; bir kütüphanede bir parşömeni saklamaktan bir tuzak veya gizli geçidin varlığını gizlemeye kadar her şey olabilir.
+Gizleme, karakterin kendisinden ziyade büyük nesnelerin gizlenmesi olan Gizlilik'in karşıtıdır. Örneğin, gizleme bir savaş arabasını bazı kayaların arkasına saklamak veya bıraktığı tekerlek izlerini süpürerek yolunun takip edilmesini engellemek için kullanılabilir. Beceri çok yönlüdür; bir kütüphanede bir parşömeni saklamaktan bir tuzağın veya gizli geçidin varlığını gizlemeye kadar her şeyde kullanılabilir.
 
-#### Gelenekler (INT x2 +40)
+#### Gelenekler (ZEK x2 +40)
 
-Gelenekler, karakterin kendi topluluğuna dair bilgisini temsil eder: sosyal kodları, ayinleri, ritüelleri, tabuları vb. Beceri, sosyal açıdan önemli herhangi bir geleneği doğru bir şekilde yorumlamak veya gerçekleştirmek ya da belirli bir şekilde davranmak zorunlu olduğunda kullanılır.
+Gelenekler, karakterin kendi toplumu hakkındaki bilgisini temsil eder: sosyal kodları, ayinleri, ritüelleri, tabuları vb. Beceri, sosyal açıdan önemli herhangi bir geleneği doğru bir şekilde yorumlamak veya gerçekleştirmek ya da belirli bir şekilde davranmak için gerekli olduğunda kullanılır.
 
-#### Dans (DEX+CHA)
+#### Dans (ÇEV+KAR)
 
-Hemen hemen her kültür dansı bir şekilde kullanır – ya eğlence olarak ya da önemli ritüellerin bir parçası olarak. Bir saray dansı, savaş dansı veya bir dua veya törensel ilahiye eşlik eden basit bir hareket dizisi olabilir. Dans becerisi, istendiğinde ritmik ve (makul bir dereceye kadar) doğru bir şekilde hareket etme yeteneğini ölçer.
+Hemen hemen her kültür dansı bir şekilde kullanır – ya eğlence olarak ya da önemli ritüellerin bir parçası olarak. Bu bir saray dansı, bir savaş dansı veya bir dua veya tören ilahisine eşlik eden basit bir dizi hareket olabilir. Dans becerisi, karakterin çağrıldığında ritmik ve (makul bir dereceye kadar) doğru bir şekilde hareket etme yeteneğini ölçer.
 
-#### Hile (INT+CHA)
+#### Hile (ZEK+KAR)
 
-Hile, bir karakterin gerçeği maskelemeye ve bir tür aldatmaca sunmaya çalıştığı tüm durumları kapsar: düpedüz yalan söyleme, bir muhafızı yanıltma veya hatta bir kart oyunu sırasında blöf yapma (veya hile yapma). Beceri ayrıca gerçek duyguları veya güdüleri gizlemenin gerekli olduğu durumları da kapsar (belki acı bir hayal kırıklığı içindeyken memnunmuş gibi yapma veya tam tersi olduğu halde misafirperver ve açık görünmeye çalışma). Hile, İçgörü becerisinin bir karşılığını oluşturur ve başkaları gerçeği veya niyeti anlamaya çalıştığında İçgörü zarlarına karşı kullanılabilir.
+Hile, bir karakterin gerçeği maskelemeye ve bir tür aldatmaca sunmaya çalıştığı tüm durumları kapsar: açıkça yalan söylemek, bir muhafızı yanıltmak veya hatta bir kart oyunu sırasında blöf yapmak (veya hile yapmak). Beceri ayrıca gerçek duyguları veya niyetleri gizlemenin gerekli olduğu durumları da kapsar (belki acı bir hayal kırıklığına uğradığında memnunmuş gibi davranmak veya tam tersi olduğunda sıcak ve açık görünmeye çalışmak). Hile, İçgörü becerisinin bir karşılığını oluşturur ve başkaları gerçeği veya niyeti ayırt etmeye çalıştığında İçgörü zarlarına karşı koymak için kullanılabilir.
 
-#### Sürüş (DEX+POW)
+#### Sürüş (ÇEV+RUH)
 
-Sürüş, ister bir veya daha fazla yük hayvanı tarafından çekilsin ister savaş arabaları, kızaklar, yelkenli arabalar ve hatta benzinli arabalar gibi daha ezoterik yollarla çalıştırılsın, tekerlekli veya çekilen araçların kontrolünü kapsar. Sürücünün alışkın olduğundan farklı bir yolla çekilen veya çalıştırılan bir araç sürülüyorsa (örneğin öküz yerine at veya hayvan yerine motor) bir zar da gereklidir.
+Sürüş, ister bir veya daha fazla yük hayvanı tarafından çekilsin, ister savaş arabaları, kızaklar, yelkenli arabalar ve hatta benzinli arabalar gibi daha ezoterik araçlarla çalıştırılsın, tekerlekli veya çekilen araçların kontrolünü kapsar. Sürülen araç, sürücünün alışkın olduğundan farklı bir yolla (örneğin öküz yerine at veya hayvan yerine motor gibi) çekiliyorsa veya güç alıyorsa da bir zar gereklidir.
 
-#### Dayanıklılık (CON x2)
+#### Dayanıklılık (DAY x2)
 
-Dayanıklılık, bir karakterin fiziksel strese, acıya ve yorgunluğa dayanma kapasitesidir. Vücudun potansiyel olarak zarar verici veya zayıflatıcı koşullarla başa çıkma yeteneğini ölçer ve genel bir esneklik, kondisyon ve metabolizma göstergesidir. Dayanıklılık, tıpkı muadili İrade Gücü gibi, pek çok şekilde kullanılır, ancak en spesifik olarak yaralanmaların, zararlı zehirlerin ve hastalıkların olası etkilerine direnmek için kullanılır.
+Dayanıklılık, bir karakterin fiziksel strese, acıya ve yorgunluğa dayanma kapasitesidir. Vücudun potansiyel olarak zarar verici veya zayıflatıcı koşullarla başa çıkma yeteneğini ölçer ve direnç, kondisyon ve metabolizmanın genel bir göstergesidir. Dayanıklılık, karşılığı olan İrade Gücü gibi, birçok şekilde kullanılır, ancak en özel olarak yaralanmaların, zararlı zehirlerin ve hastalıkların olası etkilerine direnmek için kullanılır.
 
-#### Kaçınma (DEX x2)
+#### Kaçınma (ÇEV x2)
 
-Kaçınma, gözlemlenen, yaklaşan tehlikelerden kurtulmak için kullanılır ve Menzilli Silahlara karşı (örneğin siper alarak), tuzaklardan kaçınmak, çatışmada çatışma mesafesini değiştirmek ve genel olarak olası bir fiziksel tehlikeden uzaklaşmak için kullanılabilir. Bazı büyü türleri için direnç zarı olarak da kullanılabilir. Kaçınmayı kullanmak genellikle karakteri yüzüstü bırakır. Gözüpek Savaş Stili Özelliğine sahip olanlar, Kaçınma'yı yakın dövüş saldırısından yüzüstü düşmeden kaçınmak için kullanabilirler ve menzilli bir saldırıya karşı sadece zarı başaramazlarsa yüzüstü düşerler.
+Kaçınma, gözlemlenen yaklaşan tehlikeden kaçmak için kullanılır ve Menzilli Silahlara karşı (örneğin siper alarak dalış yaparak), tuzaklardan kaçınmak, savaşta çatışma mesafesini değiştirmek ve genel olarak potansiyel bir fiziksel tehlikeden uzaklaşmak için kullanılabilir. Bazı büyü türleri için bir direnç zarı olarak da kullanılabilir. Kaçınma kullanmak genellikle karakteri yere serer. Gözüpek Savaş Stili Özelliğine sahip olanlar, Kaçınma'yı bir yakın dövüş saldırısından yere düşmeden kaçınmak için kullanabilirler ve menzilli bir saldırıya karşı, sadece zarı başarısız olurlarsa yere düşerler.
 
-#### İlk Yardım (DEX+INT)
+#### İlk Yardım (ÇEV+ZEK)
 
-İlk Yardım becerisi, bir karakterin küçük yaralanmaları tedavi etme ve daha ciddi olanları stabilize etme yeteneğini ölçer. İlk Yardım, her spesifik yaralanma için yalnızca bir kez uygulanabilir ve 1d3 puanlık hasarı iyileştirir.
+İlk Yardım becerisi, bir karakterin küçük yaralanmaları tedavi etme ve daha ciddi olanları stabilize etme yeteneğini ölçer. İlk Yardım belirli bir yaralanma başına yalnızca bir kez uygulanabilir ve 1d3 hasar puanı iyileştirir.
 
-#### Etki (CHA x2)
+#### Etki (KAR x2)
 
-Bu, bir karakterin kişisel karizması yoluyla başkalarını istenen bir davranış biçimine ikna etme yeteneğinin bir ölçüsüdür. Birinin fikrini değiştirmekten bir yetkiliye veya muhafıza rüşvet vermeye kadar çok çeşitli durumlarda kullanılır. Etki zarları genellikle koşullara bağlı olarak Algı, İrade Gücü veya başka bir Etki becerisi tarafından karşılanır ve bir karakterin davranışı ne kadar etkilemeye çalıştığına göre değiştirilir. Yakın bir arkadaşı atını ödünç vermeye ikna etmeye çalışmak nispeten kolay olabilir. Rüşvet kabul etmeyen bir bürokratı rüşvet almaya ikna etmek daha zordur.
+Bu, bir karakterin kişisel karizması yoluyla başkalarını istenen bir davranış biçimine ikna etme yeteneğinin bir ölçüsüdür. Birinin fikrini değiştirmekten bir yetkiliye veya muhafıza rüşvet vermeye kadar çok çeşitli durumlarda kullanılır. Etki zarları tipik olarak koşullara bağlı olarak Algı, İrade Gücü veya başka bir Etki becerisi tarafından karşılanır ve bir karakterin davranışı ne kadar etkilemeye çalıştığına göre değiştirilir. Yakın bir arkadaşı atını ödünç vermesi için ikna etmeye çalışmak nispeten kolay olabilir. Genellikle rüşvet kabul etmeyen bir bürokratın rüşvet almasını sağlamak daha zordur.
 
-#### İçgörü (INT+POW)
+#### İçgörü (ZEK+RUH)
 
-İçgörü, başkalarının güdülerini ve zihin durumunu belirlemek için sözlü ve sözlü olmayan davranışlarını (vücut dili veya konuşma tarzı gibi) okuma veya sezgisel olarak tanımlama yeteneğidir. İçgörü, birinin yalan söyleyip söylemediğini belirlemek (ve bu, diğer kişinin Hile becerisiyle karşılanabilir) veya birinin belirli bir durum hakkında ne hissettiğini tahmin etmek için kullanılır. İçgörü, diğer insanlar kadar belirli durumlara da uygulanabilir: o meyhane bir sorun yuvası mı? Haydutlar yakınlardaki tepelerde bir pusu kurmayı planlıyor olabilir mi?
+İçgörü, başkalarının niyetlerini ve ruh halini belirlemek için sözlü ve sözsüz davranışlarını (vücut dili veya konuşma tarzı gibi) okuma veya sezgisel olarak tanımlama yeteneğidir. İçgörü, birinin yalan söyleyip söylemediğini belirlemek (ve karşı tarafın Hile becerisiyle karşılanabilir) veya birinin belirli bir durum hakkında ne hissettiğini tahmin etmek için kullanılır. İçgörü, diğer insanlar kadar belirli durumlara da uygulanabilir: o han bela için bir sığınak mı? Haydutlar yakındaki tepelerde bir pusu planlıyor olabilir mi?
 
-#### Bölge (INT x2)
+#### Yerel Bilgi (ZEK x2)
 
-Bölge, karakterin hayatının büyük bir kısmını geçirdiği, genellikle kendi topluluğu içindeki bölgedeki yerel bitki örtüsü, fauna, arazi ve hava durumu anlayışını ölçer. Karakter yaygın bitkileri, ağaçları ve hayvanları, bunların özelliklerini ve davranışlarını bilir: en iyi balığın nerede bulunabileceği; av hayvanlarının hareketleri; nerede barınak bulunacağı; mevsim için muhtemel hava durumu ve en yaygın bölgesel tehlikeler. Komşu ancak tanıdık olmayan yerlerde Bölge bir veya daha fazla derece zorlaştırılmalıdır.
+Yerel Bilgi, karakterin hayatının büyük bir kısmını geçirdiği, genellikle kendi topluluğu içinde, bölgedeki yerel flora, fauna, arazi ve hava durumu hakkındaki anlayışını ölçer. Karakter yaygın bitkileri, ağaçları ve hayvanları, bunların özelliklerini ve davranışlarını bilir: en iyi balığın nerede bulunabileceği; av hayvanlarının hareketleri; sığınak bulunacak yerler; mevsim için olası hava durumu ve en yaygın bölgesel tehlikeler. Komşu ancak tanıdık olmayan yerlerde Yerel Bilgi bir veya daha fazla derece daha zor hale getirilmelidir.
 
-#### Ana Dil (INT+CHA +40)
+#### Anadil (ZEK+KAR +40)
 
-Ana Dil, kişinin kendi kültüründe büyürken öğrendiği dili konuşma ve okuma yeteneğidir. Ana Dil; artikülasyonu, hitabeti ve konuşmacının kelime dağarcığının derinliğini ölçer.
+Anadil, kişinin kendi kültüründe büyürken öğrendiği kendi dilini konuşma ve okuma yeteneğidir. Anadil, artikülasyonu, belagati ve konuşmacının kelime dağarcığının derinliğini ölçer.
 
-Diğer becerilerin aksine, Ana Dil doğrudan zar atılarak kullanılmaz. Bunun yerine, konuşma etkileşimi seviyesini sınırlayan genel akıcılığın statik bir temsili olarak ele alınır. Bu, Dil becerisi altında daha ayrıntılı olarak açıklanmıştır, ancak başlangıç karakterleri genellikle oyuna ana dillerinde tam akıcı olarak başlarlar.
+Diğer becerilerin aksine, Anadil doğrudan zarlarla test edilmez. Bunun yerine, konuşma etkileşimi düzeyini sınırlayan genel akıcılığın statik bir temsili olarak ele alınır. Bu, Dil becerisi altında daha ayrıntılı olarak açıklanmıştır, ancak başlangıç karakterleri oyuna genellikle ana dillerinde tam akıcı olarak başlarlar.
 
-#### Algı (INT+POW)
+#### Algı (ZEK+RUH)
 
-Algı hem pasif gözlem hem de odaklanmış tespit için kullanılır; ister belirli bir şey için avlanmak, ister bir alanın genel taraması olsun, ister çevrelerinin basit farkındalığı olsun. Belirli koşullar – örneğin karanlık – kullanılan temel duyulara bağlı olarak beceri zarının Zorluk Derecesini etkileyebilir. Güçlü kokular bir koku alma Algı zarını Standart yerine Kolay hale getirebilirken, kalabalık ve gürültülü bir meyhanede bir konuşmaya kulak misafiri olmaya çalışmak zarı Zor hale getirirdi.
+Algı, hem pasif gözlem hem de odaklanmış tespit için kullanılır; ister belirli bir şey için avlanmak, ister bir alanın genel taraması veya çevrelerine karşı basit bir farkındalık olsun. Belirli koşullar – örneğin karanlık – kullanılan birincil duyulara bağlı olarak beceri zarının Zorluk Derecesini etkileyebilir. Güçlü kokular, koku alma duyusuna dayalı bir Algı zarını Standart yerine Kolay hale getirebilir, oysa kalabalık ve gürültülü bir handa bir konuşmaya kulak misafiri olmaya çalışmak zarı Zor hale getirebilir.
 
-#### Binicilik (DEX+POW)
+#### Binicilik (ÇEV+RUH)
 
-Binicilik, binilmek üzere eğitilmiş yaratıkları kontrol etme ve üzerinde kalma yeteneğini kapsar. Beceri, katırlardan fillere kadar çok çeşitli hayvanlara; hatta dev kartallar veya yunuslar gibi uçan veya yüzen yaratıklara bile uygulanabilir. Tanıdık olmayan bir türü sürmek her zaman bir Zorluk Derecesi daha zordur; farklı bir ortamdaki bir türü sürmek (örneğin bir at binicisinin ejderha sürmesi) iki derece daha zordur. Vahşi, evcilleştirilmemiş yaratıklar, kırılıp binek hayvanı olarak eğitilene kadar yapıcı bir şekilde sürülemezler.
+Binicilik, binilmek üzere eğitilmiş yaratıkları kontrol etme ve üzerinde kalma yeteneğini kapsar. Beceri, katırlardan fillere kadar çok çeşitli canavarlara; hatta dev kartallar veya yunuslar gibi uçan veya yüzen yaratıklara uygulanabilir. Tanıdık olmayan bir türe binmek her zaman bir Zorluk Derecesi daha zordur; farklı bir ortamdaki (örneğin bir ejderhaya binen bir at binicisi) bir türe binmek ise iki derece daha zordur. Vahşi, evcilleştirilmemiş yaratıklar, kırılıp binek hayvanı olarak eğitilmedikçe yapıcı bir şekilde binilemezler.
 
-#### Şarkı Söyleme (POW+CHA)
+#### Şarkı Söyleme (RUH+KAR)
 
-Bir ezgiyi tutturmak, monoton ilahilerden karmaşık aryalara kadar Şarkı Söyleme kapsamına girer. Şarkı söylemek çoğu kültürün ayrılmaz bir parçasıdır, birincil eğlence kaynağıdır ve belki de ritüellerinde kullanılır. Önemli şarkılar kur yapmak, askerlere savaş öncesi ilham vermek veya sadece tarihi bir başarıyı anlatmak için kullanılabilir. Beceri, kullanıcının ritmi koruma, tonda kalma ve doğru kelimeleri hatırlama yeteneğini yansıtır.
+Tekdüze ilahilerden karmaşık aryalara kadar her şey Şarkı Söyleme kapsamındadır. Şarkı söylemek çoğu kültürün ayrılmaz bir parçasıdır, temel bir eğlence kaynağıdır ve belki ritüellerinde kullanılır. Önemli şarkılar kur yapmak, askerlere savaş öncesi ilham vermek veya sadece tarihi bir eylemi anlatmak için kullanılabilir. Beceri, kullanıcının ritmi koruma, tonda kalma ve doğru kelimeleri hatırlama yeteneğini yansıtır.
 
-#### Gizlilik (DEX+INT)
+#### Gizlilik (ÇEV+ZEK)
 
-Görünür yerden saklanmak veya minimum sesle hareket etmek Gizlilik becerisinin kapsamındadır. Siper ve karanlık veya yüksek arka plan gürültüsü gibi koşullar, ortamın özelliklerine göre becerinin derecesini iyileştirir. Benzer şekilde, siper eksikliği veya sessiz bir gece gibi olumsuz koşullar becerinin derecesini düşürecektir. Koşullar da denemenin zorluğunu etkiler. Örneğin, ağır zırh giyen bir savaşçı, hareketsiz durdukları veya çok yavaş hareket ettikleri sürece bir duvarın arkasına kolayca gizlenebilir, oysa hızlı hareket etmek zırhlarının şıngırdamasına neden olabilir.
+Görünürde saklanmak veya minimum sesle hareket etmek Gizlilik becerisi kapsamındadır. Siper ve karanlık veya yüksek arka plan gürültüsü gibi koşullar, çevrenin özelliklerine göre becerinin derecesini iyileştirir. Benzer şekilde, siper eksikliği veya sessiz bir gece gibi olumsuz koşullar becerinin derecesini düşürecektir. Koşullar da denemenin zorluğunu etkiler. Örneğin, ağır zırh giyen bir savaşçı, sadece hareketsiz durur veya çok yavaş hareket ederse bir duvarın arkasına kolayca gizlenebilir, oysa hızlı hareket etmek zırhının şıngırdamasına neden olabilir.
 
-#### Yüzme (STR+CON)
+#### Yüzme (GÜÇ+DAY)
 
-Geliştirilmeden, yüzme yeteneği kısa bir süre için çırpınmak ve başını suyun üzerinde tutabilmekle sınırlıdır. Daha yüksek Yüzme yüzdeleri, daha derin ve daha güçlü sularda boğulma riski daha az olacak şekilde hareket edebilmeyi gösterir. Bu nedenle bir Yüzme zarı atmak tamamen koşullara bağlıdır. Sert denizler, güçlü akıntılar, beyaz sular ve rip akıntıları, karakterin suya olan ilgisi ne olursa olsun becerinin derecesini düşürür. Yüzme hızlarını hesaplamak dahil yüzme hakkında daha fazla bilgi için bkz. [Hareket](0005_Combat.md?id=situational-movement-rates).
+Geliştirilmediği sürece, yüzme yeteneği suyun üzerinde çırpınmak ve başını kısa bir süre suyun üzerinde tutabilmekle sınırlıdır. Daha yüksek Yüzme yüzdeleri, daha derin ve daha güçlü sularda boğulma riski daha az olacak şekilde hareket edebilme yeteneğini gösterir. Bu nedenle bir Yüzme zarı yapmak tamamen koşullara bağlıdır. Dalgalı denizler, güçlü akıntılar, beyaz sular ve rip akıntıları, karakterin suya olan ilgisi ne olursa olsun becerinin derecesini düşürür. Yüzme hızlarını hesaplamak dahil yüzme hakkında daha fazla bilgi için [Hareket](0005_Combat.md?id=situational-movement-rates) bölümüne bakın.
 
-#### Silahsız (STR+DEX)
+#### Silahsız (GÜÇ+ÇEV)
 
-Silahsız, tüm karakterler için ortak olan evrensel bir Savaş Becerisidir ve silah yardımı olmadan kendini savunma yeteneğini ölçer. Silahsız becerisi, o kültürün bildiği arbede ve güreş tekniklerini kapsar.
+Silahsız, tüm karakterler için ortak olan evrensel bir Savaş Becerisidir ve silah yardımı olmadan kendini savunma yeteneğini ölçer. Silahsız becerisi, o kültür tarafından bilinen kavga ve güreş tekniklerini kapsar.
 
-Silahsız bir Savaş Becerisi olduğundan, Kritik ve Topallama etkileri [Savaş](0005_Combat.md) bölümünde detaylandırıldığı gibi savaş kuralları kapsamındadır.
+Silahsız bir Savaş Becerisi olduğundan, Kritik ve Fiyasko etkileri [Savaş](0005_Combat.md) bölümünde detaylandırıldığı gibi savaş kuralları kapsamındadır.
 
-#### İrade Gücü (POW x2)
+#### İrade Gücü (RUH x2)
 
-İrade Gücü, bir karakterin konsantre olma, irade gücünü belirli bir yöne yönlendirme veya zihnini olası zihinsel şoklara karşı sertleştirme yeteneğinin bir ölçüsüdür. Aynı zamanda kişisel kararlılığın bir ölçüsüdür. Beceri, zihinsel dayanıklılığın gerekli olduğu her türlü durumda kullanılır ve buna büyüye karşı direnç de dahildir. Akıl sağlığının bir ölçüsü olmasa da, en sağlıklı, istikrarlı zihni bile sarsacak travmatik olaylara dayanmak için kullanılabilir. İrade Gücü, Dayanıklılığın zihinsel karşılığıdır.
+İrade Gücü, bir karakterin odaklanma, irade gücünü belirli bir yöne kanalize etme veya zihnini olası zihinsel şoklara karşı sertleştirme yeteneğinin bir ölçüsüdür. Aynı zamanda kişisel kararlılığın da bir ölçüsüdür. Beceri, zihinsel dayanıklılığın gerekli olduğu her türlü durumda kullanılır ve buna büyüye direnme de dahildir. Akıl sağlığının bir ölçüsü olmasa da, en sağlıklı, istikrarlı zihni bile sarsacak travmatik olaylara dayanmak için kullanılabilir. İrade Gücü, Dayanıklılığın zihinsel karşılığıdır.
 
-Yine, Dayanıklılık ve Kaçınma gibi, İrade Gücü en çok Karşıt Zarlarda kullanılır. Standart bir test olarak kullanıldığında, Kritik bir İrade Gücü zarı, karakterin zihnini ve ruhunu onu etkilemeye veya kararlılığını sarsmaya yönelik başka hiçbir girişimin işe yaramayacağı ölçüde sertleştirdiğini gösterir. Büyüye direnme durumunda, Kritik Başarı, rakibin yaptığı başka hiçbir zihinsel sıkıntı veren büyünün karakter üzerinde o karşılaşmanın geri kalanı boyunca bir etkisi olmadığı anlamına gelir.
+Yine, Dayanıklılık ve Kaçınma gibi, İrade Gücü de en çok Karşıt Zarlarda kullanılır. Standart bir test olarak kullanıldığında, Kritik bir İrade Gücü zarı, karakterin zihnini ve ruhunu, onu etkileme veya kararlılığını sarsma yönündeki başka hiçbir girişimin işe yaramayacağı ölçüde sertleştirdiğini gösterir. Büyüye direnme durumunda, Kritik Başarı, rakip tarafından yapılan başka hiçbir zihinsel sıkıntı verici büyünün karakter üzerinde o karşılaşmanın geri kalanı boyunca bir etkisi olmadığı anlamına gelir.
 
 ---
-## Mesleki Beceriler
+## Profesyonel Beceriler
 
-Mesleki Beceriler karakterler arasında farklılık gösterir ve daha uzmanlaşmış eğitim ve deneyim biçimlerini temsil eder. Bazı Mesleki Beceriler, isminden de anlaşılacağı gibi, kültürel geçmiş ve karakterin Kariyeri yoluyla edinilir. Karakterler arasında farklılık gösterseler de Standart Becerilerle aynı şekilde çalışırlar.
+Profesyonel Beceriler karakterler arasında farklılık gösterir ve daha uzmanlaşmış eğitim ve deneyim biçimlerini temsil eder. Bazı Profesyonel Beceriler, adından da anlaşılacağı gibi, kültürel geçmiş ve karakterin Kariyeri aracılığıyla toplanır. Karakterler arasında farklılık gösterseler de Standart Becerilerle aynı şekilde çalışırlar.
 
-#### Oyunculuk (CHA x2)
+#### Oyunculuk (KAR x2)
 
-Oyunculuk, ister sahnelenmiş bir performansta ister sosyal bir durumda olsun, tamamen farklı bir karakteri taklit etme ve aktarma sanatını yönetir. Oyuncu, kendi kişiliğinden farklı bir kişiliği ve tavırları ikna edici bir şekilde canlandırır. Kılık Değiştirme ve Hile becerileriyle birleştiğinde, bu tamamen başka biri olmanın güçlü bir yoludur.
+Oyunculuk, ister sahnelenen bir performansta ister sosyal bir durumda olsun, tamamen farklı bir karakteri taklit etme ve aktarma sanatını yönetir. Oyuncu, kendi kişiliğinden ve tavırlarından farklı bir kişiliği ikna edici bir şekilde canlandırır. Kılık Değiştirme ve Hile becerileriyle birleştiğinde, bu tamamen başka biri olmanın güçlü bir yoludur.
 
-#### Akrobasi (STR+DEX)
+#### Akrobasi (GÜÇ+ÇEV)
 
-Akrobasi; denge, jimnastik, jonglörlük ve takla atma eylemlerini kapsar. Beceri bir izleyiciyi etkilemek için kullanılabilir, ancak aynı zamanda düşüşlerden kaynaklanan hasarı hafifletmeye yardımcı olmak için de kullanılabilir. Başarılı bir zarla, karakter kararsız veya dar bir yüzey üzerinde tam hızla ve emin adımlarla hareket edebilir. Beklenmedik bir düşüşten kaynaklanan hasarı hafifletmeye çalışıyorsa, başarılı bir Akrobasi zarı, alınan hasarı yarıya indirir. Ayrıca, zar başarılı olursa ve karakter düşüş nedeniyle Ciddi veya Büyük bir Yara almazsa, karakter nispeten güvenli bir şekilde yere iner ve yüzüstü düşmez.
+Akrobasi denge, jimnastik, jonglörlük ve takla atma eylemlerini kapsar. Beceri bir izleyiciyi etkilemek için kullanılabilir, ancak aynı zamanda düşmelerden kaynaklanan hasarı azaltmaya yardımcı olmak için de kullanılabilir. Başarılı bir zarla, bir karakter dengesiz veya dar bir yüzeyde tam hızda ve emin adımlarla hareket edebilir. Beklenmedik bir düşüşten kaynaklanan hasarı azaltmaya çalışılıyorsa, başarılı bir Akrobasi zarı, alınan her türlü hasarı yarıya indirir. Ayrıca, zar başarılı olursa ve karakter düşüş nedeniyle Ciddi veya Büyük Bir Yara almazsa, karakter nispeten güvenli bir şekilde yere iner ve yere serilmez.
 
-Durum gerektiriyorsa Akrobasi, Kaçınma yerine kullanılabilir. Bunun faydası, karakterin yüzüstü düşmek yerine otomatik olarak ayağa kalkmasıdır.
+Durum gerektiriyorsa, Akrobasi, Kaçınma yerine kullanılabilir. Bunun faydası, karakterin yere serilmek yerine otomatik olarak ayaklarının üzerinde kalmasıdır.
 
-#### Yıldız Seyrüseferi (INT x2)
+#### Astrogasyon (ZEK x2)
 
-Yıldız Seyrüseferi, yıldız gemisi pilotlarının yıldızlar arası ve yıldızlar arası mesafelerde bir rota belirlemesini sağlaması dışında Seyrüsefer'e eşdeğerdir.
+Astrogasyon, yıldız gemisi pilotlarının yıldızlar arası ve yıldızlar arası mesafelerde rota çizmelerini sağlaması dışında Navigasyon ile eşdeğerdir.
 
-#### Sanat (POW+CHA)
+#### Sanat (RUH+KAR)
 
-Birçok spesifik sanat formu vardır. Resimden Şiire; Edebiyattan Heykele. Bir karakter bu beceriyi alırken bir Sanat uzmanlığı seçer. Takip eden Sanat formları ayrı ayrı ilerletilir. Bir karakterin sanatsal aracıyla etkilemesi veya ikna etmesi gerektiğinde bir zar atılır.
+Pek çok özel sanat formu vardır. Resimden Şiire; Edebiyattan Heykele. Bir karakter bu beceriyi alırken bir Sanat uzmanlığı seçer. Takip eden Sanat formları ayrı ayrı geliştirilir. Bir karakter, sanatsal aracıyla etkilemek veya ikna etmek zorunda kaldığında bir zar atılır.
 
-#### Bürokrasi (INT x2)
+#### Bürokrasi (ZEK x2)
 
-İdari prosedürleri, kayıtları ve söylenmemiş kuralları anlamak Bürokrasi becerisi kapsamındadır. Yetkililerle etkileşime geçmek veya ilgili sivil bilgileri keşfetmek için kullanılır. Kültürlerinin karmaşıklığına bağlı olarak, bürokratların okuryazar olması gerekmez. Bürokrasinin veya idari manzaraların yönetilmesi gerektiğinde bir Bürokrasi zarı gereklidir.
+İdari prosedürleri, kayıtları ve ifade edilmemiş sözleşmeleri anlamak Bürokrasi becerisi kapsamındadır. Yetkililerle etkileşime girmek veya ilgili sivil bilgileri keşfetmek için kullanılır. Kültürlerinin gelişmişliğine bağlı olarak, bürokratların okuryazar olması gerekmez. Kırmızı bantlar veya idari manzaralar arasında gezinilmesi gerektiğinde, bir Bürokrasi zarı gereklidir.
 
-#### Ticaret (INT+CHA)
+#### Ticaret (ZEK+KAR)
 
-Ticaret, mal ve emtiaların değerini değerlendirmek ve bunları mümkün olan en iyi fiyata takas etmek için kullanılır. Ayrıca, kâr sağlamanın yanı sıra iş işlemlerinin inceliklerini anlamak için de kullanılır. Bir başka kullanım, çalınan ve yasa dışı malları elden çıkarmanın en iyi yolunu bulmaktır – yine mümkün olan en iyi fiyata. Ticaret açıkça ticaret yaparken kullanılır ve karşı tarafın anlaşmayı kendi lehine ilerletme girişimlerini yansıtan rakibin Ticaret becerisi veya İrade Gücü ile karşılanabilir. Ayrıca malların piyasa değerini yargılamak, fiyat hakkında bir fikir edinmek ve nerede en iyi şekilde takas edileceğini belirlemek için kullanılır.
+Ticaret, malların ve emtiaların değerini değerlendirmek ve onları mümkün olan en iyi fiyata takas etmek için kullanılır. Ayrıca, kâr sağlamanın yanı sıra iş işlemlerinin inceliklerini anlamak için de kullanılır. Bir diğer kullanımı, çalıntı ve yasa dışı malları elden çıkarmanın en iyi yolunu bulmaktır – yine mümkün olan en iyi fiyata. Ticaret açıkça ticaret yaparken kullanılır ve karşı tarafın anlaşmayı kendi lehine ilerletme girişimlerini yansıtarak rakibin Ticaret becerisi veya İrade Gücü ile karşılanabilir. Ayrıca, malların piyasa değerini yargılamak, fiyat hakkında bir fikir edinmek ve nerede en iyi şekilde takas edileceğini belirlemek için de kullanılır.
 
-#### İletişim (INT x2)
+#### İletişim (ZEK x2)
 
-Bu beceri, iletişimi tespit etmek, gizlemek veya engellemek için iletişim ekipmanını kullanma yeteneği sağlar. Ayrıca (kullanıcının bir kod çözücüye erişimi olması şartıyla) şifreli mesajları kırma şansı verir.
+Bu beceri, iletişim trafiğini tespit etmek, gizlemek veya engellemek için iletişim ekipmanı kullanma yeteneği sağlar. Ayrıca, şifreli mesajları kırma şansı verir (kullanıcının bir kod kırıcıya erişimi olması şartıyla).
 
-#### Bilgisayarlar (INT x2)
+#### Bilgisayarlar (ZEK x2)
 
-Bilgisayarlar, karakterin bilgisayar sistemlerini kullanarak (programlama kodu, belirli bir yazılımın ayrıntılı kullanımı, hackleme ve hatta yazılım ve donanım sorunlarını teşhis etme/onarma yoluyla) karmaşık sorunları çözme veya karmaşık bilgileri çıkarma yeteneğini yansıtır. Bilgisayarların genel kullanımı genellikle zar gerektirmez.
+Bilgisayarlar, karakterin bilgisayar sistemlerini kullanarak karmaşık problemleri çözme veya karmaşık bilgileri çıkarma yeteneğini yansıtır – ister programlama kodu, ister belirli bir yazılım parçasının ayrıntılı kullanımı, hackleme ve hatta yazılım ve donanım sorunlarını teşhis etme/onarma yoluyla olsun. Bilgisayarların genel kullanımı genellikle bir zar gerektirmez.#### Nezaket (ZEK+KAR)
 
-#### Nezaket (INT+CHA)
+Bu beceri, sosyal veya resmi durumlarda nasıl uygun hareket edileceğini anlamayı kapsar: hitap şekilleri, ritüeller, davranış kuralları vb. Kime ve ne zaman eğileceğinizden ne kadar eğileceğinize; ne zaman özel bir unvan kullanacağınızdan ne zaman gayriresmi davranmanın uygun olduğuna kadar her şeyi içerir.
 
-Bu beceri, sosyal veya resmi bir durumda nasıl uygun davranılacağını anlamayı kapsar: hitap biçimleri, ritüeller, davranış kuralları vb. Kime ve ne zaman eğileceğinden, ne kadar eğileceğine; belirli bir unvanın ne zaman kullanılacağından ne zaman resmi olmayan bir şekilde davranılmasının uygun olduğuna kadar her şeyi içerir.
+#### Zanaat (ÇEV+ZEK)
 
-#### Zanaat (DEX+INT)
+Her Zanaat uzmanlaşmış bir biçimdir ve bunlar için meslekler kadar çok zanaat dalı bulunur. Sanat gibi Zanaat de konu olan öğeyi yaratmak için kullanılır. Ne kadar süreceği tamamen ürünün doğasına bağlıdır: örneğin bir halı dokumak bir çömlek yapmaktan daha uzun sürer, ancak zaman mutlaka en önemli faktör değildir: önemli olan zanaatkarın becerisi, kaynakların kalitesi ve ayrıntılara gösterilen özendir.
 
-Her Zanaat uzmanlaşmış bir biçimdir ve onlar kadar meslek olduğu kadar zanaat da vardır. Sanat gibi, Zanaat da konu öğeyi oluşturmak için kullanılır. Ne kadar sürdüğü tamamen ürünün doğasına bağlıdır: örneğin bir kilim dokumak bir çömlek yapmaktan daha uzun sürer, ancak zaman mutlaka en önemli faktör değildir: önemli olan zanaatkarın becerisi, kaynakların kalitesi ve detaylara gösterilen özendir.
+#### Kültür (ZEK x2)
 
-#### Kültür (INT x2)
+Kültür, Standart Beceri olan Gelenekler'in daha özel bir biçimidir ve karakterin kendi toplumundan ziyade yabancı toplumlara ilişkindir. Her Kültür becerisine, uygulandığı belirli bir ulus veya toplum atanmalıdır. Mekanik olarak Gelenekler becerisi ile aynı şekilde çalışır.
 
-Kültür, Standart Gelenekler Becerisinin daha spesifik biçimidir ve bunun yerine karakterin kendisininkinden yabancı toplumlara ilişkindir. Her Kültür becerisine, uygulandığı belirli bir ulus veya toplum verilmelidir. Mekanik olarak Gelenekler becerisiyle aynı şekilde çalışır.
+#### Yıkım (ZEK+RUH)
 
-#### Yıkım (INT+POW)
+Bu beceri, karakterin patlayıcı maddeleri hem kurarken hem de etkisiz hale getirirken güvenli bir şekilde kullanmasına olanak tanır.
 
-Bu beceri, bir karakterin patlayıcı malzemeleri güvenli bir şekilde kullanmasına ve yararlanmasına, ister kurarken ister etkisiz hale getirirken izin verir.
+#### Kılık Değiştirme (ZEK+KAR)
 
-#### Kılık Değiştirme (INT+CHA)
+Uygun malzemeler (kostümler, kozmetikler, peruklar veya takma saçlar) kullanarak ikna edici bir kılık değiştirme sağlamak, Kılık Değiştirme becerisi ile kapsanır. Kılık değiştirmeyi yaratmak; zaman, ayrıntılara dikkat ve bunu ikna edici kılmak için doğru malzemelere erişim gerektirir. Eğer bu unsurlardan bazıları veya tamamı mevcut değilse, Kılık Değiştirme zarının Zorluk Derecesi bir veya daha fazla basamak zorlaştırılır.
 
-Uygun malzemeler (kostümler, kozmetikler, peruklar veya saç parçaları) kullanarak ikna edici bir kılık değiştirmeyi gerçekleştirmek, Kılık Değiştirme becerisi kapsamındadır. Kılık değiştirmeyi yaratmak, zaman ve detaylara dikkat etmenin yanı sıra onu ikna edici kılmak için doğru malzemelere erişim gerektirir. Bu unsurlardan bazıları veya tamamı mevcut değilse, Kılık Değiştirme zarının Zorluk Derecesi bir veya daha fazla adım zorlaştırılır.
+Kılık Değiştirme, bir aldatmacanın genel etkisini artırmak için Oyunculuk ile desteklenebilir (performans sergilerken de tam tersi geçerlidir) ve bu nedenle iki beceri birbirini tamamlayıcı niteliktedir.
 
-Kılık Değiştirme, bir aldatmacanın genel etkisini artırmak için Oyunculuk ile desteklenebilir (performans sergilerken tam tersi) ve bu nedenle iki beceri birbirini tamamlayıcıdır.
+#### Elektronik (ÇEV+ZEK)
 
-#### Elektronik (DEX+INT)
+Bu beceri kullanıcının elektronik cihazlarla uğraşmasına, onları baypas etmesine veya onarmasına olanak tanır. Birçok uygulaması vardır, en yaygın olarak hasarlı ekipmanı geçici olarak yamamak veya bozuk devreleri yedekleriyle değiştirmek için kullanılır.
 
-Bu beceri, kullanıcının elektronik cihazlarla uğraşmasına, bunları atlamasına veya onarmasına olanak tanır. Hasarlı ekipmanı geçici olarak yamamak veya bozuk devreleri yedek parçalarla değiştirmek gibi en sık kullanılan birçok uygulaması vardır.
+#### Mühendislik (ZEK x2)
 
-#### Mühendislik (INT x2)
+Evlerden köprülere, kapılardan kuşatma motorlarına kadar büyük ölçekli yapıların tasarımı ve inşası Mühendislik becerisinin görev alanındadır. Büyük ölçekli projeler planlanırken doğru inşaatı sağlamak için zarlar gereklidir ancak bir mühendis herhangi bir nedenle (örneğin onarım durumu veya zayıf noktalar) bir yapının bütünlüğünü değerlendirmek istediğinde de zar atılır.
 
-Evlerden köprülere, kapılardan kuşatma makinelerine kadar büyük ölçekli yapıların tasarımı ve inşası Mühendislik becerisinin kapsamındadır. Doğru inşaatı sağlamak için büyük ölçekli projeler planlanırken zarlar gereklidir, ancak aynı zamanda bir mühendis bir yapının bütünlüğünü herhangi bir nedenle (örneğin onarım durumu veya zayıf noktalar) değerlendirmek istediğinde de yapılır.
+#### Sahtecilik (ÇEV+ZEK)
 
-#### Sahtecilik (DEX+INT)
+Sahtecilik becerisi, resmi belgelerin oluşturulmasına veya tahrif edilmesine olanak tanır.
 
-Sahtecilik becerisi, resmi belgelerin oluşturulmasına veya tahrif edilmesine izin verir.
+#### Kumar (ZEK+RUH)
 
-#### Kumar (INT+POW)
+Kumar becerisi, karakterin şans oyunlarındaki yetkinliğini ve özellikle sonuç üzerine paranın yatırıldığı durumlardaki becerisini ölçer. Başarı veya başarısızlık ihtimallerini değerlendirmek veya birinin hile yaptığını tespit etmek için kullanılır. Beceri, duruma bağlı olarak karşı karşıya veya karşı karşıya olmayan bir şekilde kullanılabilir. İsimsiz bir kumarhanede bir gece geçirmek sadece düz bir test gerektirebilirken, önemli şahsiyetlerin dahil olduğu yüksek bahisli bir zar oyunu bunun yerine birkaç Tur Karşı Karşıya Zar atılmasını gerektirebilir.
 
-Kumar becerisi, bir karakterin şans oyunlarındaki yetkinliğini ve özellikle sonucuna para yatırıldığında ölçer. Başarı veya başarısızlık olasılıklarını değerlendirmek veya birinin hile yaptığını fark etmek için kullanılır. Beceri, duruma bağlı olarak karşıt veya karşıt olmayan bir şekilde kullanılabilir. Yüzsüz bir kumarhanede geceyi geçirmek sadece düz bir test gerektirebilirken, önemli kişileri içeren yüksek bahisli bir zar oyunu bunun yerine birkaç Tur Karşıt Zar gerektirebilir.
+#### İyileştirme (ZEK+RUH)
 
-#### Şifa (INT+POW)
+İyileştirme, tıbbi prosedürlerin derinlemesine bilgisidir, kültürel uygulamalara dayanır ve daha ciddi yaralanmaları (genellikle Vuruş Puanlarının sıfır veya altında olduğu durumları) tedavi etmek için kullanılır. Örneğin İlkel veya Barbar bir kültürde iyileştirme; şifalı bitkiler ve doğal kürler hakkındaki bilgilere dayanacaktır. Medeni bir kültürde ise ilaçlar ve daha gelişmiş tedaviler daha yaygın olacaktır. Tüm kültürlerde İyileştirme; kemikleri yerine oturtma, yaraları dikme vb. yeteneği içerir. Açıkçası İyileştirme uygulamak uygun kaynaklar gerektirir ve çoğu çalışan şifacının el altında bu tür şeyleri (dikiş için iğneler, bağırsak veya iplik, lapa için şifalı bitkiler vb. veya modern ortamlar için bir tıbbi çanta) bulunacaktır.
 
-Şifa, kültürel uygulamalara dayalı tıbbi prosedürlerin derinlemesine bilgisidir ve daha ciddi yaralanmaları (tipik olarak İsabet Puanlarının sıfır veya altında olduğu durumlar) tedavi etmek için kullanılır. Örneğin, İlkel veya Barbar bir kültürde şifa, bitkiler ve doğal kürler bilgisine dayanacaktır. Medeni bir kültürde ilaçlar ve daha gelişmiş tedaviler daha yaygın olacaktır. Tüm kültürlerde Şifa; kemikleri yerine oturtma, yaraları dikme vb. yeteneğini içerir. Açıkçası Şifa uygulamak uygun kaynaklar gerektirir ve çoğu çalışan şifacının elinin altında böyle şeyler (iğneler, dikiş için bağırsak veya iplik, lapa için bitkiler vb. veya modern ortamlar için bir tıbbi kit) olacaktır.
+#### Dil (ZEK+KAR)
 
-#### Dil (INT+CHA)
+Bu beceri, karakterin kendi dili dışındaki bir dilin konuşulmasını ve kavranmasını kapsar. Beceri, genel akıcılığın statik bir temsili olarak ele alınır. %1-25 birkaç temel kelime, %26-50 basit cümleler, %51-75 genel sohbet için akıcı, %76+ güzel ve etkili konuşabilme. Değeri, oyuncular oyundaki kişiliklerle sohbet ederken Oyun Yöneticisi tarafından sözlü etkileşim seviyesini sınırlamak için kullanılır. Ayrıca, Dilin kısıtlayıcı bir faktör olabileceği diğer bazı beceriler (Bürokrasi gibi) için bir üst sınır olarak kullanılabilir. Bu durumda, Bürokrasi gibi bir beceri, kullanılan Dilin beceri değerini aşamaz.
 
-Bu beceri, karakterinkinden başka bir dili konuşmayı ve anlamayı kapsar. Beceri, genel akıcılığın statik bir temsili olarak ele alınır. %1-25 birkaç temel kelime, %26-50 basit cümleler, %51-75 genel konuşma için akıcı, %76+ etkileyici bir şekilde konuşabilir. Değeri, oyuncular oyundaki kişiliklerle konuştuğunda sözlü etkileşim seviyesini sınırlamak için Oyun Yöneticisi tarafından kullanılır. Ayrıca, Dil'in sınırlayıcı bir faktör olabileceği diğer bazı beceriler (Bürokrasi gibi) için bir tavan olarak kullanılabilir. Böyle bir durumda, Bürokrasi gibi bir beceri, kullanılan Dil'in beceri değerini aşamaz.
+#### Okuryazarlık (Belirli Dil) (ZEK x2)
 
-#### Okuryazarlık (Belirli Dil) (INT x2)
+Bir dili akıcı bir şekilde konuşmak, onu okuyup yazabileceğiniz anlamına gelmez. Okuryazarlık özel bir beceridir ve farklı toplumlar buna yönelik farklı seviyeler ve yaklaşımlar sergiler. Bazılarında okuryazarlık soylulara, bürokratik veya dini sınıflara ayrılmıştır. Diğerlerinde ise sözlü gelenekler hakimdir ve okuryazarlık bilinmez. Modern veya fütüristik toplumlarda okuryazarlık varsayılan olarak öğrenilir ve ayrı bir beceri gerektirmez.
 
-Bir dili akıcı konuşmak, onu okuyup yazabileceğiniz anlamına gelmez. Okuryazarlık spesifik bir beceridir ve farklı toplumlar buna yönelik farklı seviyeler ve yaklaşımlar sergiler. Bazılarında okuryazarlık soylulara, bürokratik veya dini sınıflara ayrılmıştır. Diğerlerinde ise sözlü geleneklerin hakim olması nedeniyle bilinmemektedir. Modern veya fütüristik toplumlarda okuryazarlık varsayılan olarak öğrenilir ve ayrı bir beceri gerektirmez.
+#### Kilit Açma (ÇEV x2)
 
-#### Kilit Açma (DEX x2)
+Kilit Açma, bir anahtar veya kilit için özel olarak yapılmış başka bir cihaz yardımı olmadan mekanik bir kilit sistemini açma yeteneğidir. Cıvatalı veya sürgülü kapı ve pencereleri hasar vermeden levye ile açma tekniklerini içerir. Kilit Açma, anahtarın mevcut olmadığı durumlarda kapı, sandık vb. yerleri kilitlemek için de kullanılabilir.
 
-Kilit Açma, bir anahtar veya kilit için özel olarak yapılmış başka bir cihaz yardımı olmadan mekanik bir kilitleme sistemini açma yeteneğidir. Cıvatalı veya parmaklıklı kapı ve pencereleri hasar vermeden levye ile açma tekniklerini içerir. Kilit Açma, anahtar bulunmadığında bir kapıyı, sandığı vb. kilitlemek için de kullanılabilir.
+#### Bilgi (ZEK x2)
 
-#### Bilgi (INT x2)
+Bilgi, beceri ilk öğrenildiğinde seçilmesi gereken belirli bir bilgi birikimini kapsar. Simya, Astroloji, Astronomi, Coğrafya, Heraldik, Tarih, Ebelik, Mineraller, Canavarlar, Siyaset, Din, Strateji ve Taktikler: bunların hepsi Bilgi becerilerinin tipik örnekleridir. Bir Bilgi dalındaki beceri, karakterin onun temellerini anladığı, acil zorluklara ve sorunlara nasıl uygulanabileceği ve faydalı bilgileri hatırlamak için Bilgiyi kullanabileceği anlamına gelir.
 
-Bilgi, beceri ilk öğrenildiğinde seçilmesi gereken belirli bir bilgi alanını kapsar. Simya, Astroloji, Astronomi, Coğrafya, Heraldik, Tarih, Ebelik, Mineral, Canavarlar, Politika, Din, Strateji ve Taktikler: bunların hepsi Bilgi becerilerinin tipik örnekleridir. Bir Bilgi alanındaki beceri, karakterin onun temellerini anladığı, acil zorluklara ve sorunlara nasıl uygulanabileceği ve yararlı bilgileri hatırlamak için Bilgiyi kullanabileceği anlamına gelir.
+#### Büyü (RUH+KAR)
 
-#### Büyü (POW+CHA)
+Büyü becerisi, [Büyü ve Güçler](0007_Magic.md) bölümünde açıklanan büyüleri yapmak için kullanılır. Bir büyünün işlemesi için başarılı bir zar gereklidir, ancak büyü yine de İrade Gücü gibi karşı bir beceri tarafından engellenebilir.
 
-Büyü becerisi, [Büyü ve Güçler](0007_Magic.md) bölümünde açıklanan büyüleri yapmak için kullanılır. Bir büyünün çalışması için başarılı bir zar gerekir, ancak büyü yine de İrade Gücü gibi karşıt bir beceri tarafından direnilebilir.
+#### Mekanizmalar (ÇEV+ZEK)
 
-#### Mekanizmalar (DEX+INT)
+Mekanizmalar; tuzaklar gibi mekanik cihazları monte etme ve sökme bilgi ve becerisini temsil eder. Mekanizmalar becerisi genellikle büyük yapıları ele alan Mühendislik'in aksine, küçük çalışan parçalara sahip hassas düzeneklerin yaratılmasını içerir. Kilit Açma'dan farklı bir disiplindir ve bu beceri ile değiştirilemez.
 
-Mekanizmalar, tuzaklar gibi mekanik cihazları monte etme ve sökme bilgi ve becerisini temsil eder. Mekanizmalar becerisi genellikle büyük inşaatlarla uğraşan Mühendisliğin aksine, küçük çalışan parçalara sahip hassas mekanizmaların yaratılmasını içerir. Kilit Açma'dan ayrı bir disiplindir ve bu beceriyle değiştirilemez.
+#### Müzisyenlik (ÇEV+KAR)
 
-#### Müzisyenlik (DEX+CHA)
+Müzisyenlik, müzik aletlerinin çalınmasını kapsar; basit bir kamış düdükten arp gibi karmaşık telli bir çalgıya kadar ve Müzisyenliğin her yinelemesi benzer enstrümanlardan oluşan bir gruba uygulanır. Kamış düdük çalabilen bir müzisyen; flüt, pan flüt veya kaydedici de çalabilir çünkü temeller aynıdır. Ancak arp veya ud çalamazlar.
 
-Müzisyenlik, basit bir kamış düdüğünden arp gibi karmaşık telli bir çalgıya kadar müzik aletleri çalmayı kapsar ve Müzisyenliğin her yinelemesi benzer bir alet grubuna uygulanır. Kamış düdük çalabilen bir müzisyen flüt, pan flüt veya kaydedici de çalabilir çünkü temeller aynıdır. Ancak bir arp veya ud çalamazlar.
+#### Navigasyon (ZEK+RUH)
 
-#### Seyrüsefer (INT+POW)
+Belirgin yer işaretlerini, yıldızları veya deniz suyunun değişen tadını kullanmak olsun, seyahati doğru bir şekilde yönlendirme yeteneği Navigasyon becerisi ile kapsanır. Her Navigasyon becerisi, Açık Denizler veya Yeraltı gibi belirli bir bölgeyi veya ortamı kapsar. Olağandışı yolculuklar sırasında veya tamamen yabancı bir bölgedeyken yapılmalıdır.
 
-İster belirgin simge yapılar, ister yıldızlar, ister deniz suyunun değişen tadı kullanılsın, seyahati doğru bir şekilde yönlendirme yeteneği Seyrüsefer becerisi kapsamındadır. Her Seyrüsefer becerisi, Açık Denizler veya Yeraltı gibi belirli bir bölgeyi veya ortamı kapsar. Sıra dışı yolculuklar sırasında veya tamamen tanıdık olmayan bir bölgedeyken yapılmalıdır.
+#### Hitabet (RUH+KAR)
 
-#### Hitabet (POW+CHA)
+Hitabet, bir görüşü aktarmak veya etkilemek amacıyla büyük bir insan grubuna konuşma yapma sanatıdır. Siyasetçiler tarafından bir politikayı benimsetmek için sıklıkla kullanılan bir beceridir, ancak aynı zamanda komutanlar tarafından birliklere ilham vermek ve savaş alanında disiplin sağlamak için de kullanılır. Kitle iknasının gerekli olduğu her yerde, Etki yerine Hitabet kullanılır.
 
-Hitabet, bir bakış açısını aktarmak veya etkilemek amacıyla büyük bir insan grubuna konuşma yapma sanatıdır. Politikacılar tarafından bir politikayı eve götürmek için sıkça kullanılan bir beceridir, ancak aynı zamanda komutanlar tarafından askerlere ilham vermek ve savaş alanında disiplin sağlamak için de kullanılır. Kitlesel iknanın gerekli olduğu her yerde, Etki yerine Hitabet kullanılır.
+#### Pilotluk (ÇEV+ZEK)
 
-#### Pilot (DEX+INT)
+Pilotluk becerisi, belirli bir sınıftaki (planörler, pervane tahrikli uçaklar, jet motorları vb.) uçan araçların kontrolüne izin verir.
 
-Pilot becerisi, uçan araçların belirli bir sınıfının (planörler, pervane tahrikli uçaklar, jet motorları vb.) kontrolüne izin verir.
+#### Siyaset (ZEK+KAR)
 
-#### Politika (INT+CHA)
+Siyaset becerisine sahip karakterler, yerel ve ulusal düzeylerde hükümet koridorlarında nasıl gezineceklerini ve müzakere edeceklerini anlarlar.
 
-Politika becerisine sahip karakterler, yerel ve ulusal düzeylerde hükümet koridorlarını nasıl yöneteceklerini ve müzakere edeceklerini anlarlar.
-
-#### Araştırma (INT+POW)
+#### Araştırma (ZEK+RUH)
 
 Araştırma, istenen bilgi parçalarını keşfetmek için çeşitli kaynakları (kütüphane, gazete arşivi, bilgisayar ağı vb.) kullanır.
 
-#### Bilim (INT x2)
+#### Bilim (ZEK x2)
 
 Düzinelerce bilimsel disiplin vardır ve birden fazla kez alınabilen Bilim becerisi her zaman bir disiplinle ilişkilidir: örneğin Bilim (Biyoloji) veya Bilim (Kimya). Bilim, modern ve fütüristik ortamlarda Bilgi becerisinin yerini alır.
 
-#### Denizcilik (INT+CON)
+#### Denizcilik (ZEK+DAY)
 
-Bu beceri Teknecilik ile aynı şekilde kullanılır ancak yelken veya kürek bankalarıyla çalışan büyük su taşıtlarına uygulanır. Ayrıca bir geminin bakımını ve idamesini kapsar: onarımların ne zaman gerekli olduğunu, nerede demirlemenin güvenli olduğunu, şiddetli hava koşullarının tehlikelerini vb. değerlendirmek.
+Bu beceri Bot Kullanımı ile aynı şekilde kullanılır ancak yelken veya kürek bankalarıyla çalışan büyük su taşıtlarına uygulanır. Ayrıca bir geminin bakımını ve idamesini de kapsar: onarımların ne zaman gerekli olduğunun değerlendirilmesi, demirlemenin nerede güvenli olduğu, şiddetli hava koşullarının tehlikeleri vb.
 
-#### Baştan Çıkarma (INT+CHA)
+#### Baştan Çıkarma (ZEK+KAR)
 
-Baştan Çıkarma, başka bir kişinin romantik veya cinsel iknasıdır, Etki'den çok farklı bir beceridir. Cinsel açıdan olumlu bir yanıt almak için açık sinyaller – sözlü ve sözlü olmayan – kullanır. Ayrıca önemli miktarda zaman alır: başarılı Baştan Çıkarma, her zaman İrade Gücü ile Baştan Çıkarmaya direnmeye çalışabilecek hedefin ahlakına bağlı olarak saatler, günler veya haftalar sürebilir.
+Baştan Çıkarma, başka bir kişinin romantik veya cinsel iknasıdır; Etki'den çok farklı bir beceridir. Cinsel olarak olumlu bir tepki almak için açık sinyaller – sözlü ve sözsüz – kullanır. Ayrıca önemli miktarda zaman alır: başarılı bir Baştan Çıkarma; hedef kişinin ahlaki değerlerine bağlı olarak saatler, günler veya haftalar sürebilir; hedef kişi her zaman İrade Gücü ile Baştan Çıkarmaya direnmeye çalışabilir.
 
-#### Sensörler (INT+POW)
+#### Sensörler (ZEK+RUH)
 
 Bu beceri, kimyasal koklayıcılardan askeri uzun menzilli tarayıcılara kadar sensör cihazlarının doğru kullanımına ve analizine olanak tanır.
 
-#### El Çabukluğu (DEX+CHA)
+#### El Çabukluğu (ÇEV+KAR)
 
-El Çabukluğu, küçük nesneleri avuç içine alma veya gizleme (el çabukluğu ve hokkabazlık) girişimlerini kapsar ve cepleri boşaltma, cüzdan kesme veya görsel bir dikkat dağınıklığı yaratma girişimlerini içerir. Doğal olarak, temel bir hırsız becerisidir.
+El Çabukluğu; küçük nesneleri avuç içine alma veya gizleme (el çabukluğu ve hokkabazlık) girişimlerini kapsar ve cepçilik yapma, cüzdan kesme veya görsel dikkat dağıtma girişimlerini içerir. Doğal olarak, temel bir hırsızlık becerisidir.
 
-#### Sokak Bilgisi (POW+CHA)
+#### Sokak Bilgisi (RUH+KAR)
 
-Sokak Bilgisi, bir yerleşim yerindeki yerler ve sosyal bağlantılar hakkındaki bilgiyi temsil eder. Potansiyel olarak tehlikeli mahalleleri tanımlamaktan yasal veya yasa dışı yerel hizmetleri bulmaya kadar her şeyi kapsar. Sokak Bilgisi denemesinin ne kadar sürdüğü neyin arandığına bağlıdır. İyi bir han bulmak, çalınan mallar için bir alıcı veya sahte bir ticaret izni bulmaktan daha az zaman alacaktır.
+Sokak Bilgisi, bir yerleşim yerindeki yerler ve sosyal bağlantılar hakkındaki bilgiyi temsil eder. Potansiyel olarak tehlikeli mahalleleri tanımlamaktan, yasal veya yasadışı yerel hizmetleri bulmaya kadar her şeyi kapsar. Bir Sokak Bilgisi girişiminin ne kadar süreceği, neyin arandığına bağlıdır. İyi bir han bulmak, çalıntı mallar için bir alıcı veya sahte bir ticaret izni bulmaktan daha az zaman alacaktır.
 
-#### Hayatta Kalma (CON+POW)
+#### Hayatta Kalma (DAY+RUH)
 
-Bu beceri, medeniyetin nimetlerinin bulunmadığı kırsal veya vahşi bir ortamda hayatta kalmayı kapsar: yiyecek arama, ateş yakma, barınak veya uyumak için güvenli bir yer bulma. Uygun şekilde donatıldığında, karakter bir çadır, yiyecek malzemeleri vb. taşıyor olabileceğinden zarlar genellikle gereksizdir. Sadece ekipmanlarından ayrıldığında veya çevresel koşullar kötüleştiğinde bu beceriyi kullanmak zorunlu hale gelir. Bu tür koşullarda genellikle günde bir kez zar atılır.
+Bu beceri, medeniyetin nimetlerinin olmadığı kırsal veya vahşi bir ortamda hayatta kalmayı kapsar: yiyecek arama, ateş yakma, barınak veya uyumak için güvenli bir yer bulma. Uygun şekilde donatıldığında, karakter muhtemelen bir çadır, yiyecek malzemeleri vb. taşıyacağı için zarlar genellikle gereksizdir. Sadece ekipmanlarından ayrıldığında veya çevresel koşullar kötüleştiğinde bu beceriyi kullanmak gerekli hale gelir. Bu gibi koşullarda zar genellikle günde bir kez atılır.
 
-#### Öğretme (INT+CHA)
+#### Öğretme (ZEK+KAR)
 
-Öğretme, kullanıcının bilgi ve tekniklerini kolay anlaşılır ve yapıcı bir şekilde aktarmasına olanak tanır. Bu beceri olmadan en yetenekli ustalar bile başkalarına öğretme konusunda sorunlar yaşayacaktır.
+Öğretme, kullanıcının bilgi ve tekniklerini anlaşılması kolay ve yapıcı bir şekilde aktarmasını sağlar. Bu beceri olmadan, en yetenekli ustalar bile başkalarına eğitim verirken sorunlar yaşayacaktır.
 
-#### İz Sürme (INT+CON)
+#### İz Sürme (ZEK+DAY)
 
-İz Sürme becerisi, her türlü avın veya hedefin izini sürmek için kullanılır. Ayak izleri, ezilmiş yapraklar, dağılmış polenler, yerinden edilmiş kayalar vb. dahil olmak üzere, yetenekli olmayanlar için görünmez olan küçük, ele verici işaretler dahil, avın izinde kalmak için hem belirgin hem de belirsiz geçiş işaretlerini kullanır. İz Sürme zarlarının periyodik olarak atılması gerekir, özellikle koşullar aniden değişirse (örneğin bir sağanak yağmur belirli işaretleri bozacaktır). Ne sıklıkla atılacağı, avın ne kadar kurnaz olduğuna bağlıdır. Gizleme zarları bir İz Sürme zarına karşı kullanılabilir.
+İz Sürme becerisi, her türlü avı veya hedefi takip etmek için kullanılır. Ayak izleri, ezilmiş yapraklar, saçılmış polenler, yerinden oynamış kayalar vb. dahil olmak üzere, hedefinin izinde kalmak için geçişin hem belirgin hem de belirsiz işaretlerini kullanır; beceriksiz olanlar için görünmez olan küçük, ele verici işaretler. İz Sürme zarları periyodik olarak atılmalıdır, özellikle koşullar aniden değişirse (örneğin, bir sağanak yağış bazı işaretleri bozacaktır). Sıklık, hedefin ne kadar kurnaz olduğuna bağlıdır. Gizlenme zarları, bir İz Sürme zarına karşı koymak için kullanılabilir.
 
 ---
 ## Farklı Koşullar ve Durumlar İçin Beceri Kuralları
 
-_Mythras Imperative_'de becerileri kullanmanın temel kuralları çok basit olsa da, oyun sırasında becerilerin biraz farklı bir şekilde ele alınmasını gerektiren çok sayıda farklı durum ortaya çıkar. Aşağıdaki bölümler bu koşullara ve durumlara bakmakta ve bunların nasıl ele alınacağını göstermektedir.
+*Mythras Imperative*'de becerileri kullanmaya yönelik temel kurallar çok basit olsa da, oyun sırasında becerilerin biraz farklı bir şekilde ele alınmasını gerektiren çok sayıda farklı durum ortaya çıkar. Aşağıdaki bölümler bu koşul ve durumları ele almakta ve bunların nasıl yönetileceğini göstermektedir.
 
 ### Becerileri Yeniden Deneme
 
-Bazı durumlarda, bir karakter bir beceri denemesinde Başarısız olur ancak potansiyel olarak tekrar deneyebileceği bir durumda kalır. Örnek durumlar bir kilidi açmak veya dik bir duvara tırmanmaya çalışmak olabilir. Sadece herhangi bir başka denemeyi reddetmek yerine, nazik Oyun Yöneticileri son bir çare denemesine izin verebilir. Ancak karakter, beceri zarının Zorluk Derecesini bir artıran bir endişe veya kendine güvensizlik yaşayacaktır.
+Bazı durumlarda, bir karakter bir beceri girişiminde Başarısız olur ancak potansiyel olarak tekrar deneyebileceği bir durumda kalır. Örnek vakalar kilit açmak veya sarp bir duvara tırmanmaya çalışmak olabilir. Başka hiçbir girişimi reddetmek yerine, nazik Oyun Yöneticileri bir takip eden, son çare girişime izin verebilir. Ancak karakter, beceri zarının Zorluk Derecesini bir artıracak bir endişe veya özgüven eksikliği yaşayacaktır.
 
-Eğer bu ikinci çaba da başarısızlıkla sonuçlanırsa, karakterin 'elinden gelenin en iyisini yaptığı' varsayılır ve öngörülebilir gelecek için başka deneme yapamaz.
+Eğer bu ikinci çaba da başarısızlıkla sonuçlanırsa, karakterin 'elinden gelenin en iyisini' yaptığı varsayılır ve öngörülebilir bir gelecekte başka bir girişimde bulunamaz.
 
-### Karşıt Zarlar
+### Karşı Karşıya Zarlar
 
-Beceriler sıklıkla diğer becerilere karşı yarışır – bir hırsız bir soylunun cüzdanını kesmeye çalıştığında Gizlilik ve Algı; veya aynı hırsız yakalandığında denemeyi inkar etmeye çalıştığında Hile ve İçgörü, becerilerin birbirine karşı eşleştirildiği zamanların iyi örnekleridir. Bunlar Karşıt Zarlar olarak bilinir ve bir zorluğun kazanma veya kaybetme, geçme veya kalma ile sonuçlanacağı durumlarda kullanılır.
+Beceriler sıklıkla diğer becerilere karşı getirilir – bir hırsız bir soylunun cüzdanını kesmeye çalıştığında Gizlilik'e karşı Algı; veya aynı hırsız yakalandığında girişimi inkar etmeye çalıştığında Hile'ye karşı Sezgi gibi – bunlar becerilerin birbirleriyle eşleştirildiği zamanlara iyi örneklerdir. Bunlar Karşı Karşıya Zarlar olarak bilinir ve bir mücadelenin ya kazan ya kaybet, geç veya kal ile sonuçlanacağı durumlarda kullanılır.
 
-- Bir Karşıt Zar şu şekilde belirlenir: her iki katılımcı da kendi becerilerini atar. Kazanan, daha iyi bir Başarı Seviyesi elde edendir. Katılımcılar aynı Başarı Seviyesini (her biri bir Standart Başarı veya her biri bir Kritik) elde ederse, kazanan becerinin başarı aralığı dahilinde hala en yüksek zar atışına sahip olandır.
+- Bir Karşı Karşıya Zar şu şekilde belirlenir: her iki katılımcı da kendi becerileri için zar atar. Kazanan, daha iyi bir Başarı Seviyesi elde edendir. Katılımcılar aynı Başarı Seviyesini (her biri bir Standart Başarı veya her biri bir Kritik Başarı) alırsa, kazanan becerinin başarı aralığında kalan en yüksek zar sonucuna sahip olandır.
 
-Bir Karşıt Zarda her iki katılımcı da Başarısız olursa, ya:
+Eğer her iki katılımcı da Karşı Karşıya Zar atmada Başarısız olursa, ya:
 
-- Durumu, her iki tarafı da dramatik gerilim içinde bırakacak şekilde tanımlayın, ardından bir kazanan belirlemek için yarışmayı tekrar atın.
-- Oyun Yöneticisi, başarısızlığın doğasına uygun bir açıklama veya koşul üretmelidir.
+- Durumu, her iki tarafı da dramatik bir gerilim içinde bırakarak tanımlayın, ardından bir kazanan belirlemek için yarışmayı tekrar zar atarak başlatın.
+- Oyun Yöneticisi, başarısızlığın doğasına uygun bir açıklama veya durum üretmelidir.
 
-Karşıt Zarlar, yaralanmaların etkilerinin üstesinden gelmek veya bir savaş Özel Etkisine karşı koymak için belirli savaş durumlarında sıklıkla kullanılır. Ayrıca zehirlere ve hastalıklara direnmek veya uğursuz büyünün etkilerinden kurtulmak için de kullanılırlar.
+Karşı Karşıya Zarlar, yaraların etkilerinin üstesinden gelmek veya bir savaş Özel Etkisi'ne karşı koymak için belirli savaş durumlarında sıklıkla kullanılır. Ayrıca zehirlere ve hastalıklara karşı direnmek veya uğursuz büyünün etkilerini silkmek için de kullanılırlar.
 
-##### Karşıt Zar Örnekleri
+##### Karşı Karşıya Zar Örnekleri
 
-| Aktivite | Karşıt Beceri Örnekleri |
+| Aktivite | Karşı Karşıya Beceri Örnekleri |
 | :-- | :-- |
-| Pazarlık/Pazarlık Etme | Ticaret vs. Ticaret, Etki vs. Ticaret |
+| Pazarlık/Sıkı Pazarlık | Ticaret vs. Ticaret, Etki vs. Ticaret |
 | Kovalamaca/Yarış | Atletizm vs. Atletizm, Atletizm vs. Dayanıklılık, Binicilik vs. Binicilik |
-| Aldatma veya Yalan Söyleme | Hile vs. İçgörü, El Çabukluğu vs. Algı |
-| Sadakat Gösterme | Tutku vs. Tutku, Tutku vs. İçgörü, Tutku vs. Etki |
-| Yolundan Çekilme | Kaçınma vs. Atletizm, Kaçınma vs. Mekanizmalar, Kaçınma vs. Binicilik |
-| Saklanma veya Sinsice Hareket Etme | Gizlilik vs. Algı; Gizlilik vs. İz Sürme |
-| Rütbe Çekme | Etki vs. İrade Gücü, Hile vs. İrade Gücü |
+| Aldatma veya Yalan Söyleme | Hile vs. Sezgi, El Çabukluğu vs. Algı |
+| Sadakat Gösterme | Tutku vs. Tutku, Tutku vs. Sezgi, Tutku vs. Etki |
+| Yoldan Çekilme | Kaçınma vs. Atletizm, Kaçınma vs. Mekanizmalar, Kaçınma vs. Binicilik |
+| Saklanma veya Gizlice Sokulma | Gizlilik vs. Algı; Gizlilik vs. İz Sürme |
+| Rütbe Kullanma | Etki vs. İrade Gücü, Hile vs. İrade Gücü |
 | Rotada Kalma | Dayanıklılık vs. Dayanıklılık, Dayanıklılık vs. Güç |
-| Kalabalığı Etkileme | Hitabet vs. İrade Gücü |
+| Bir Kalabalığı Etkileme | Hitabet vs. İrade Gücü |
 | Güç Testi | Güç vs. Güç, Güç vs. Dayanıklılık |
 | İrade Testi | İrade Gücü vs. İrade Gücü, Baştan Çıkarma vs. İrade Gücü |
 
 ### Diferansiyel Zarlar
 
-Diferansiyel Zarlar, basit bir kazanma veya kaybetme sonucu yerine Başarı Seviyeleri arasındaki farkın hesaplanması dışında Karşıt Zarlara benzer. Öncelikle savaşın çözümü için kullanılan Diferansiyel Zarlar, Oyun Yöneticisinin bir yarışmanın ayrıntılı sonuçlarını artırmak istediği diğer durumlarda da kullanılabilir.
+Diferansiyel Zarlar, basit bir kazanma veya kaybetme sonucu yerine Başarı Seviyeleri arasındaki farkın hesaplanması dışında Karşı Karşıya Zarlara benzer. Öncelikle savaşın çözümü için kullanılan Diferansiyel Zarlar, Oyun Yöneticisinin bir yarışmanın ayrıntılı sonuçlarını artırmak istediği diğer durumlarda da kullanılabilir.
 
-Bir Diferansiyel Zar şu şekilde belirlenir: Her iki katılımcı da kendi becerilerine karşı zar atar ve zar sonuçlarının etkilerine, sanki izole bir şekilde test edilmiş gibi katlanır. Kendiliğinden bir 'kazanan' yoktur, ancak (en az bir katılımcının Standart bir başarı veya daha iyisini elde ettiği varsayılarak) kim daha yüksek Başarı Seviyesi elde ettiyse, aralarındaki başarı seviyeleri farkına eşit bir avantaj kazanır. Her iki katılımcı da aynı Başarı Seviyesini (her biri bir Standart başarı veya her biri bir Kritik) elde ederse, ek bir etki olmaz.
+Bir Diferansiyel Zar şu şekilde belirlenir: Her iki katılımcı da kendi becerilerine karşı zar atar ve zarlarının sonuçlarına sanki tek başlarına test edilmiş gibi katlanırlar. Ortada kesin bir 'kazanan' yoktur, ancak daha yüksek Başarı Seviyesi elde eden kimse, aralarındaki başarı seviyeleri farkına eşit bir avantaj kazanır (bir katılımcının en az bir Standart başarı veya daha iyisini elde ettiği varsayılarak). Eğer her iki katılımcı da aynı Başarı Seviyesini (her biri bir Standart başarı veya her biri bir Kritik) alırsa, ek bir etki olmaz.
 
 ##### Diferansiyel Zar Sonuçları
 
-| Zarların Sonucu | Antagonist Kritik | Antagonist Başarı | Antagonist Başarısızlık | Antagonist Topallama |
+| Zar Sonuçları | Antagonist Kritik | Antagonist Başarı | Antagonist Başarısızlık | Antagonist Fumble |
 | :-- | :-: | :-: | :-: | :-: |
 | Protagonist Kritik | Avantaj Yok | Protagonist 1 Başarı Seviyesi Kazanır | Protagonist 2 Başarı Seviyesi Kazanır | Protagonist 3 Başarı Seviyesi Kazanır |
 | Protagonist Başarı | Antagonist 1 Başarı Seviyesi Kazanır | Avantaj Yok | Protagonist 1 Başarı Seviyesi Kazanır | Protagonist 2 Başarı Seviyesi Kazanır |
 | Protagonist Başarısızlık | Antagonist 2 Başarı Seviyesi Kazanır | Antagonist 1 Başarı Seviyesi Kazanır | Avantaj Yok | Avantaj Yok |
-| Protagonist Topallama | Antagonist 3 Başarı Seviyesi Kazanır | Antagonist 2 Başarı Seviyesi Kazanır | Avantaj Yok | Avantaj Yok |
+| Protagonist Fumble | Antagonist 3 Başarı Seviyesi Kazanır | Antagonist 2 Başarı Seviyesi Kazanır | Avantaj Yok | Avantaj Yok |
 
-### %100'ün Üzerindeki Karşıt Beceriler
+### %100 Üzerindeki Karşı Karşıya Beceriler
 
-Karşıt veya Diferansiyel Zardaki en yüksek becerili katılımcı %100'den fazla beceriye sahipse, bu katılımcı 100 ile beceri değeri arasındaki farkı, kendisi de dahil olmak üzere yarışmadaki herkesin becerisinden çıkarır. Bu, rakiplerin beceri değerini düşürür ancak kendisinin avantajını korumasını sağlar.
+Karşı Karşıya veya Diferansiyel Zar atışındaki en yüksek becerili katılımcı %100'den fazla bir beceriye sahipse, o katılımcı 100 ile kendi beceri değeri arasındaki farkı, kendisi dahil yarışmadaki herkesin becerisinden çıkarır. Bu, rakiplerin beceri değerini azaltır ancak kendisinin avantajını korumasını sağlar.
 
-Kimde en yüksek becerinin olduğunun tespiti, koşullar için diğer tüm değiştiriciler uygulandıktan sonra hesaplanmalıdır.
+Kimde en yüksek becerinin olduğu, koşullar için diğer tüm değiştiriciler uygulandıktan sonra hesaplanmalıdır.
 
 ### Peki, Ne Kadar İyisiniz?
 
-Hem Oyun Yöneticileri hem de Oyuncular için, bir becerinin değerinin karşılaştırılabilir bir yetkinlik seviyesi olarak neye karşılık geldiğine dair ortak bir referans çerçevesine sahip olmak çok yararlı olabilir. Zanaat Ahşap %48 olan bir zanaatkar iyi bir marangoz mudur yoksa sadece yetkin midir? Yetkinlik Seviyesi Tablosu, bir becerideki derecelendirmenin temsil etmesinin beklenebileceği farklı yetkinlik seviyelerini özetlemeye yardımcı olur; ayrıca Oyun Yöneticileri için Oyuncu Olmayan Karakterler ve rakipler için becerilere genel değerler atarken kullanışlı bir referanstır. Bir Oyuncu Olmayan Karakter becerisi için rastgele bir değer gerekirse, Rastgele Değer sütunu arzu edilen bir Yetkinlik Seviyesi içinde bir değer elde etmek için zar kodunu verir.
+Hem Oyun Yöneticileri hem de Oyuncular için bir beceri değerinin karşılaştırılabilir bir yetkinlik seviyesi olarak ne anlama geldiğine dair ortak bir referans çerçevesine sahip olmak çok yararlı olabilir. Zanaat Ahşap %48 olan bir zanaatkar iyi bir marangoz mu yoksa sadece yetkin bir marangoz mu? Yetkinlik Seviyesi Tablosu, bir becerideki derecelendirmeden beklenebilecek farklı yetkinlik seviyelerini özetlemeye yardımcı olur; aynı zamanda Oyun Yöneticileri için Oyuncu Olmayan Karakterler ve rakipler için becerilere genel değerler atarken kullanışlı bir referanstır. Bir Oyuncu Olmayan Karakter becerisi için rastgele bir değer gerekirse, Rastgele Değer sütunu arzu edilen bir Yetkinlik Seviyesi dahilinde bir değer elde etmek için zar kodunu verir.
 
 ##### Yetkinlik Seviyesi Tablosu
 
-| Beceri Derecelendirmesi | Rastgele Değer | Yetkinlik Seviyesi | Askeri Eşdeğer | Açıklama |
+| Beceri Derecesi | Rastgele Değer | Yetkinlik Seviyesi | Askeri Eşdeğer | Açıklama |
 | :-- | :-: | :-: | :-: | :-- |
-| %1-30 | 1d20+10 | Acemi | Top Yemi | Niteliksiz ve temelleri öğreniyor |
-| %31-50 | 1d20+30 | Yetkin | Yeşil | Dikkatli olmak için zaman ayırırsa kolay görevleri yerine getirebilir |
-| %51-70 | 1d20+50 | Uzman | Deneyimli | İstihdam edilebilir bir yetkinlik seviyesine ulaştı |
-| %71-90 | 1d20+70 | Üstat | Kıdemli | Alanda profesyonel veya konu uzmanı olarak tanınır |
-| %91-110 | 1d20+90 | Usta | Seçkin | İşin en iyilerinden biri olarak kabul edilir |
-| >%110 | 1d20+110 | Örnek | Kahramanlık | Kusursuz becerileriyle dört bir yanda tanınır |
+| 1-30% | 1d20+10 | Acemi | Top Yemi | Niteliksiz ve temelleri öğreniyor |
+| 31-50% | 1d20+30 | Yetkin | Yeşil | Dikkatli olmak için zaman ayırırsa kolay görevleri yerine getirebilir |
+| 51-70% | 1d20+50 | Uzman | Deneyimli | İstihdam edilebilir bir yetkinlik seviyesine ulaşmıştır |
+| 71-90% | 1d20+70 | Usta | Emektar | Alanda profesyonel veya konu uzmanı olarak tanınır |
+| 91-110% | 1d20+90 | Üstat | Seçkin | İşinin en iyilerinden biri olarak kabul edilir |
+| \>110% | 1d20+110 | Örnek | Kahramanca | Üstün becerileriyle dört bir yanda nam salmıştır |

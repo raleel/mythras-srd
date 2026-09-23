@@ -1,396 +1,394 @@
 # Oskused
 
-Oskused jagunevad kahte kategooriasse: tavaoskused ja kutseoskused. Kõigil tegelastel on sama komplekt tavaoskusi. Kutseoskused erinevad tegelaste lõikes ja peegeldavad karjääri jooksul ning teatud määral kultuuritausta põhjal omandatud asjatundlikkust. Vaatamata nendele eristustele toimivad tava- ja kutseoskused ühtemoodi.
+Oskused jagunevad kahte kategooriasse: tavaoskused ja kutseoskused. Kõigil tegelastel on sama komplekt tavaoskusi. Kutseoskused erinevad tegelaste lõikes ja peegeldavad karjääri jooksul ning teatud määral ka kultuuritausta põhjal arendatud asjatundlikkust. Hoolimata nendest erinevustest toimivad tava- ja kutseoskused ühtemoodi.
 
 ---
 ## Kuidas oskused toimivad
 
-Oskusel on baasväärtus, mis tuleneb kahest karakteristikust või ühest karakteristikust korrutatuna kahega. Oskuse väärtusel puudub ülempiir; see võib ületada 100 ja mängu käigus võivad tegelaste oskused selliste kõrgusteni küündida.
+Oskusel on baasväärtus, mis põhineb kahel karakteristikul või ühel karakteristikul korrutatuna kahega. Oskuse väärtusel ei ole ülempiiri; see võib ületada 100 ja mängus võivad tegelased näha oma oskusi sellistesse kõrgustesse küündimas.
 
-Alati, kui tegelane peab lahendama mingi testi, väljakutse või kutseoskust nõudva olukorra, veeretatakse 1d100 ja võrreldakse tulemust oskuse väärtusega:
+Alati, kui tegelaselt nõutakse mingit laadi testi, väljakutse või kutsealase võime lahendamist, heidetakse 1d100 ja võrreldakse seda oskuse väärtusega:
 
-- Võrdne või väiksem kui oskuse väärtus tähendab õnnestumist (Success).
-- Suurem kui oskuse väärtus tähendab ebaõnnestumist (Failure).
+- Võrdne või väiksem kui oskuse väärtus tähistab õnnestumist
+- Suurem kui oskuse väärtus tähistab ebaõnnestumist
 
-On mõned erijuhud õnnestumiste ja ebaõnnestumiste kohta, mida tuleks tähele panna:
+On teatud erijuhtumeid, mida seoses õnnestumise ja ebaõnnestumisega tuleks silmas pidada.
 
-- Iga täringuveeretuse tulemus 01-05 on alati õnnestumine.
-- Iga täringuveeretuse tulemus 96-00 on alati ebaõnnestumine, sõltumata sellest, kui kõrge on oskuse väärtus.
+- Iga heide vahemikus 01-05 on alati õnnestumine
+- Iga heide vahemikus 96-00 on alati ebaõnnestumine, sõltumata sellest, kui kõrge on oskuse väärtus
 
 #### Kriitilised õnnestumised ja äpardused
 
-Kriitilised õnnestumised (Criticals) ja äpardused (Fumbles) esindavad silmapaistvaid õnnestumisi ja ebaõnnestumisi; juhtumeid, kus tegelane on oma katses kas suurepäraselt hakkama saanud või on totaalselt ja lootusetult ebaõnnestunud.
+Kriitilised õnnestumised ja äpardused esindavad suurejoonelisi õnnestumisi ja ebaõnnestumisi; neid juhtumeid, kus tegelane on oma katsumuses kas hiilanud või haledalt ja täielikult läbi kukkunud.
 
-- Kriitiline õnnestumine on võrdne ühe kümnendikuga oskuse väärtusest (see hõlmab ka oskusi, millele on rakendatud modifikaator – seega võib muudetud oskustel olla suurem või väiksem võimalus kriitiliseks tulemuseks). Kriitilise õnnestumise vahemiku arvutamisel ümardage murrud ülespoole. Näiteks kui oskuse väärtust on suurendatud kaks korda – oletame, et 33%-lt 66%-le –, siis oleks kriitilise õnnestumise vahemik 07 või vähem.
-- Äpardus on täringuveeretuse tulemus 99 või 00. Oskused, mille väärtus on üle 100%, äparduvad ainult 00 puhul.
+- Kriitiline õnnestumine on võrdne ühe kümnendikuga oskuse väärtusest (see hõlmab ka oskusi, millele rakendub modifikaator – seega võib muudetud oskustel olla suurem või väiksem šanss kriitiliseks tulemuseks). Ümarda murrud kriitilise õnnestumise vahemiku arvutamisel ülespoole. Näiteks kui oskust on muudetud kaks korda suuremaks – näiteks 33%-lt 66%-le, siis oleks selle kriitiline vahemik heide 07 või vähem.
+- Äpardus on heide 99 või 00. Oskused, mille väärtus on üle 100%, äparduvad ainult heitega 00.
 
-Kriitilise tulemuse või äparduse täpne olemus jääb mängujuhi otsustada. Tagajärjed võivad oludest sõltuvalt olla imelised või katastroofilised.
+Kriitilise või äparduse täpse olemuse määrab mängujuht. Tagajärjed võivad olla sõltuvalt olukorrast imelised või katastroofilised.
 
 #### Automaatsed õnnestumised
 
-On olukordi, kus täringuveeretamine konkreetse oskuse puhul pole lihtsalt vajalik – kas seetõttu, et ülesanne on kergesti teostatav või kuna piisava aja ja keskendumise korral on edu garanteeritud. Hobusega rahulikus tempos üle avatud aasa ratsutamine on näide automaatsest õnnestumisest, kus pelgalt tegevuses osav olemine tähendab, et lihtsad toimingud ei nõua lahendamiseks oskuste kontrollimist. Käsitööline, kes nikerdab puidust toolijalga, on teine näide, kus oskuste kontroll ei ole vajalik; selle tegemine võtab aega, kuid meister teab, kuidas tööd teha, ja kui ta ei kiirusta, on edu kindlustatud. Segamatult tegutsev varas, kellel on lukumuukide komplekt, suudab piisava aja jooksul aardekirstu lihtsa luku edukalt avada.
+On olukordi, kus heide konkreetse oskuse vastu ei ole lihtsalt vajalik – kas seetõttu, et käsilolev ülesanne on kergesti teostatav või kuna piisava aja ja keskendumisega on õnnestumine garanteeritud. Hobusega õrnas traavis üle avatud niidu sõitmine on näide automaatsest õnnestumisest, kus ainuüksi tegevuses osav olemine tähendab, et lihtsad toimingud ei nõua nende lahendamiseks mingeid oskuse heiteid. Käsitööline, kes nikerdab puutükist toolijalga, on teine näide, kus oskuse heide ei ole vajalik; selle saavutamine võtab aega, kuid meister teab, kuidas tööd teha, ja kui ta ei kiirusta, on edu garanteeritud. Segamatult tegutsev varas, kel on kaasas muukraudade komplekt, suudab piisava aja olemasolul aardekirstu lihtsa luku edukalt avada.
 
 #### Oskuste muutmine
 
-On olukordi, kus oskuse kontroll on vajalik, kuid õnnestumise tõenäosust tuleb kohandada, et võtta arvesse olemasolevaid tingimusi. Näiteks bandiitide eest põgenemine võib nõuda kergejõustiku (Athletics) kontrolli. Aga mis siis, kui tegelane põgeneb pimeduses või läbi ohtliku võsa? Sellisel juhul võib mängujuht nõuda tegelase oskuse muutmist, et olukorda peegeldada.
+On olukordi, kus oskuse heide on vajalik, kuid õnnestumise šansse tuleb kohandada, et peegeldada olemasolevaid tingimusi. Põgenevad bandiidid võivad näiteks nõuda Kergejõustiku (Athletics) heidet. Aga mis siis, kui tegelane põgeneb läbi pimeduse või petliku alusmetsa? Sellisel juhul võib mängujuht nõuda tegelase oskuse muutmist, et peegeldada olukorda.
 
-*Mythras Imperative* kasutab oskuse muutmiseks teatud raskusastmeid. Need on järgmised. Pange tähele, et on antud kahte tüüpi modifikaatoreid: esimene on vaikimisi meetod, mis nõuab veidi matemaatikat, kuid pakub paremat simulatsiooni skaleerimiseks, eriti kõrgete oskusprotsentide puhul. Lihtsustatud oskuse modifikaator on lihtne liitmine või lahutamine ja seda on kergem rakendada. Valige meetod, mis teie mänguga kõige paremini sobib, kuid veenduge, et sama modifitseerimissüsteemi rakendatakse järjepidevalt.
+_Mythras Imperative_ kasutab oskuste muutmiseks raskusastmeid. Need on järgmised. Pane tähele, et esitatud on kahte tüüpi modifikaatoreid: esimene on vaikimisi meetod, mis nõuab veidi matemaatikat, kuid pakub paremat simulatsiooni skaleerimiseks, eriti juhul, kui tegemist on kõrgemate oskusprotsentidega. Lihtsustatud oskuse modifikaator on lihtne liitmine või lahutamine ja seda on kergem rakendada. Vali meetod, mis mänguga kõige paremini sobib, kuid veendu, et sama modifitseerimissüsteemi rakendatakse järjepidevalt.
 
 ##### Raskusastmete tabel
 
-| Raskusaste | Oskuse modifikaator | Lihtsustatud modifikaator |
+| Raskusaste | Oskuse modifikaator | Lihtsustatud oskuse modifikaator |
 | :-- | :-- | :-: |
-| Automaatne | Pole vaja veeretada | Pole vaja veeretada |
+| Automaatne | Pole vaja heita | Pole vaja heita |
 | Väga kerge | Kahekordista oskuse väärtus | +40% |
-| Kerge | Lisa oskuse väärtusele pool juurde | +20% |
-| Standardne | Kohandust pole | Puudub |
-| Raske | Vähenda väärtust ühe kolmandiku võrra | -20% |
-| Hirmutav | Vähenda väärtust poole võrra | -40% |
-| Herakleslik | Vähenda väärtust ühe viiendikuni | -80% |
-| Lootusetu | Katset ei saa teha | Katset ei saa teha |
+| Kerge | Lisa pool oskuse väärtusest juurde | +20% |
+| Standardne | Kohandusi pole | Puudub |
+| Raske | Vähenda oskuse väärtust kolmandiku võrra | -20% |
+| Vormidatav | Vähenda oskuse väärtust poole võrra | -40% |
+| Herakleslik | Vähenda oskuse väärtus viiendikuni | -80% |
+| Lootusetu | Katset teha ei saa | Katset teha ei saa |
 
-Kui tegelane kannatab juba muudest asjaoludest tingitud karistuse all, on ülimuslik raskeim raskusaste.
+Juhul, kui tegelane kannatab juba muudest asjaoludest tuleneva karistuse all, on ülimuslik raskeim raskusaste.
 
-Väljaspool võitlust ei paku *Mythras Imperative* lõplikku nimekirja olukordadest ja väljakutsetest, mis võivad kaasa tuua oskuste muutmise. Milline modifikatsioon on vajaliku konkreetse oskuse või konteksti jaoks, on lõppkokkuvõttes mängujuhi otsustada, lähtudes tegelaste võimetest, tema tajust olukorra raskusastme kohta ja dramaatilisest pingest antud hetkel.
+Väljaspool võitlust ei paku _Mythras_ _Imperative_ lõplikku nimekirja olukordadest ja väljakutsetest, mis võivad kaasa tuua oskuste modifitseerimise. Millist modifikatsiooni ühe või teise oskuse või konteksti puhul nõutakse, sõltub lõppkokkuvõttes mängujuhist, vastavalt tegelaste võimetele, tema tajule olukorra raskusest ja dramaatilisest pingest antud hetkel.
 
 ---
 ## Tavaoskused
 
-#### Kergejõustik (Athletics) (STR+DEX)
+#### Kergejõustik (JÕU+OSA)
 
-Kergejõustik hõlmab mitmesuguseid füüsilisi tegevusi, sealhulgas ronimist, hüppamist, viskamist ja jooksmist. Nende tegevuste oskuste kontrollid lahendatakse üheainsa kergejõustiku oskuse kontrolliga. Lisateavet ronimise, hüppamise ja jooksmise kohta leiate jaotisest [Liikumine](0005_Combat.md?id=situational-movement-rates).
+Kergejõustik hõlmab mitmesuguseid füüsilisi tegevusi, sealhulgas ronimist, hüppamist, viskamist ja jooksmist. Nende tegevuste oskuse heited lahendatakse üheainsa Kergejõustiku oskuse heitega. Lisateavet ronimise, hüppamise ja jooksmise kohta vaata [liikumisest](0005_Combat.md?id=situational-movement-rates).
 
-#### Paadisõit (Boating) (STR+CON)
+#### Paadisõit (JÕU+VAS)
 
-Paadisõidu oskus hõlmab väikeste ujuvate aluste juhtimist jõgedel, järvedel ja kalda lähedal. Sobivad alused on üldiselt paadid, kanuud või parved, mis sõidavad lühikesi vahemaid ja ei sobi avamere raskustega toimetulemiseks. Enamikku neist liigutatakse aerude, mõlade, ritvade või lihtsate purjedega; või saab neid isegi loomadega vedada. Suure meeskonnaga või pikkadeks ülemerereisideks mõeldud laevad kuuluvad kutseoskuse Merendus (Seamanship) alla.
+Paadisõidu oskus hõlmab väikeste ujuvvahendite juhtimist jõgedel, järvedel ja ranniku lähedal. Sobivateks veesõidukiteks on üldiselt paadid, kanuud või parved, mis liiguvad lühikesi vahemaid ega sobi avamere karmidesse tingimustesse. Enamikku juhitakse aerude, mõlade, teivaste või lihtsate purjedega; või saab neid vedada loomadega. Suurte meeskondadega või pikkadeks merereisideks mõeldud laevade juhtimine kuulub kutseoskuse Merendus (Seamanship) alla.
 
-#### Jõud (Brawn) (STR+SIZ)
+#### Jõud (JÕU+SUU)
 
-Jõud on tehnika tõhus rakendamine toore füüsilise jõu kasutamisel. Oskus hõlmab jõupingutusi, sealhulgas tõstmist, uste mahalõhkumist ja jõukatsumisi.
+Jõud on tehnika tõhus rakendamine toore füüsilise jõu kasutamisel. See oskus hõlmab jõulisi toiminguid, sealhulgas tõstmist, uste mahamurdmist ja jõukatsumisi.
 
-#### Võitlusstiil (Combat Style) (STR+DEX)
+#### Võitlusstiil (JÕU+OSA)
 
-Iga võitlusstiil on oskus kasutada relvi, mida antud keskkonna karjääris või kultuuris oodatakse. Enamik võitlustraditsioone hõlmab treeningut mitme relvaga, koos nendega tõhusaks kasutamiseks vajalike tehnikatega, olgu need siis ühekaupa või kombineeritult. Lisaks eeldavad need sageli situatsioonilist elementi, nagu võitlemine jalaväelasena tihedas rivis või ratsa. Võitlusstiilid võivad olla väga mitmekesised, ulatudes näiteks gladiaatorivõitlusest kuni kosmosejalaväeni.
+Iga võitlusstiil on oskus kasutada relvi, mida antud karjääri või kultuuri juures eeldatakse. Enamik võitlustraditsioone hõlmab treeningut mitme relvaga koos tehnikatega, mida on vaja nende kõigi tõhusaks kasutamiseks, olgu üksikult või kombineeritult. Lisaks eeldatakse neis sageli situatsioonilist elementi, nagu võitlemine tihedas jalaväe rivis või ratsa. Võitlusstiilid võivad olla väga erinevad, ulatudes näiteks gladiaatorite võitlusest kuni kosmosejalaväe mobiilse jalaväeni.
 
-#### Varjamine (Conceal) (DEX+POW)
+#### Varjamine (OSA+VÄG)
 
-Varjamine on Hiilimise (Stealth) vastand, olles suurte objektide peitmine, mitte tegelase enda peitmine. Näiteks saab varjamist kasutada vankri peitmiseks kivide taha või selle rattaroobaste pühkimiseks, et selle teekonda ei saaks jälgida. Oskus on mitmekülgne, ulatudes kerakuju peitmisest raamatukogus kuni lõksu või salakäigu varjamiseni.
+Varjamine on Hiilimise (Stealth) vastand, olles suurte objektide, mitte tegelase enda peitmine. Näiteks saab varjamist kasutada kaariku peitmiseks kivide taha või selle rataste jäetud jälgede pühkimiseks, et selle teed ei saaks jälgida. Oskus on rakenduses mitmekülgne, ulatudes kerakvi peitmisest raamatukogus kuni püünise või salakäigu varjamiseni.
 
-#### Tavad (Customs) (INT x2 +40)
+#### Kombed (INT x2 +40)
 
-Tavad esindavad tegelase teadmisi oma kogukonnast: selle sotsiaalsed koodid, riitused, rituaalid, tabud ja muu selline. Oskust kasutatakse siis, kui on oluline sotsiaalselt tähtsat tava täpselt tõlgendada või järgida või käituda teatud viisil.
+Kombed esindavad tegelase teadmisi oma kogukonnast: selle sotsiaalsetest koodidest, riitustest, rituaalidest, tabudest ja muust. Oskust kasutatakse siis, kui on oluline täpselt tõlgendada või läbi viia mõnda sotsiaalselt tähtsat kommet või käituda kindlal viisil.
 
-#### Tants (Dance) (DEX+CHA)
+#### Tants (OSA+KAR)
 
-Peaaegu iga kultuur kasutab tantsu mingil moel – kas meelelahutusena või oluliste rituaalide osana. See võib olla õukonnatants, sõjatants või lihtsad liigutused, mis saadavad palvet või tseremoniaalset laulu. Tantsuoskus mõõdab tegelase võimet liikuda rütmiliselt ja (mõistlikul määral) täpselt, kui seda nõutakse.
+Peaaegu iga kultuur kasutab tantsu mingil viisil – kas meelelahutusena või osana tähtsatest rituaalidest. See võib olla õukonnatants, sõjatants või lihtsad liigutused, mis saadavad palvet või tseremoniaalset laulu. Tantsuoskus mõõdab tegelase võimet liikuda rütmiliselt ja täpselt (mõistlikkuse piires), kui seda nõutakse.
 
-#### Pettus (Deceit) (INT+CHA)
+#### Pettus (INT+KAR)
 
-Pettus hõlmab kõiki juhtumeid, kus tegelane püüab varjata tõde ja pakkuda mingit tüüpi pettust: häbematut valetamist, valvuri eksitamist või isegi bluffimist (või petmist) kaardimängu ajal. Oskus hõlmab ka juhtumeid, kus on vajalik varjata tõelisi tundeid või motiive (näiteks rõõmu teeskimine, kui ollakse kibedalt pettunud, või püüd tunduda tervitava ja avatuna, kui vastupidine on tõsi). Pettus on Intuitsiooni (Insight) oskuse vastand ja seda saab kasutada intuitsiooni kontrollidele vastu seismiseks, kui teised püüavad tõde või motiive tuvastada.
+Pettus hõlmab kõiki juhtumeid, kus tegelane üritab varjata tõde ja pakkuda mingit laadi petmist: häbematut valetamist, valvuri eksitamist või isegi bluffimist (või petmist) kaardimängu ajal. Oskus hõlmab ka juhtumeid, kus on vaja varjata tõelisi tundeid või motiive (näiteks teeselda rõõmu, kui ollakse kibedalt pettunud, või üritada tunduda külalislahke ja avatud, kui tegelikkus on vastupidine). Pettus on Intuitsiooni (Insight) oskuse vastand ja seda saab kasutada Intuitsiooni heidete vastustamiseks, kui teised üritavad tabada tõde või motiive.
 
-#### Sõidukijuhtimine (Drive) (DEX+POW)
+#### Sõiduki juhtimine (OSA+VÄG)
 
-Sõidukijuhtimine hõlmab ratastel või veetavate sõidukite juhtimist, olgu need veoloomade poolt või keerukamate vahenditega, nagu vankrid, kelgud, purjekärud või isegi bensiinimootoriga autod. Kontroll on vajalik ka siis, kui juhitav sõiduk on veetav või juhitav teistmoodi, kui juht on harjunud (näiteks hobused härgade asemel või mootor loomade asemel).
+Sõiduki juhtimine hõlmab ratastel või veetavate sõidukite kontrollimist, olgu need veetavad ühe või enama koormaloomaga või käitatavad esoteerilisemate vahenditega, nagu kaarikud, kelgud, purjekärud või isegi bensiinimootoriga autod. Heide on vajalik ka siis, kui juhitav sõiduk on veetav või käitatav muul viisil, kui juht harjunud on (näiteks hobused härgade asemel või mootor loomade asemel).
 
-#### Vastupidavus (Endurance) (CON x2)
+#### Vastupidavus (VAS x2)
 
-Vastupidavus on tegelase suutlikkus taluda füüsilist stressi, valu ja väsimust. See mõõdab keha võimet tulla toime potentsiaalselt kahjustavate või kurnavate tingimustega ning on üldine vastupidavuse, stamiini ja ainevahetuse näitaja. Vastupidavust, nagu selle vastandit Tahtejõudu (Willpower), kasutatakse mitmel moel, kuid kõige spetsiifilisemalt vigastuste, sealhulgas kahjulike mürkide ja haiguste võimalike mõjude tõrjumiseks.
+Vastupidavus on tegelase suutlikkus taluda füüsilist stressi, valu ja väsimust. See mõõdab keha võimet toime tulla potentsiaalselt kahjustavate või kurnavate tingimustega ning on üldine vastupidavuse, stamiini ja ainevahetuse näitaja. Vastupidavust, sarnaselt selle vastandi Tahtejõuga (Willpower), kasutatakse paljudel viisidel, kuid kõige spetsiifilisemalt vigastuste, sealhulgas kahjulike mürkide ja haiguste võimalike mõjude vastu seismiseks.
 
-#### Kõrvalepõige (Evade) (DEX x2)
+#### Kõrvale põikamine (OSA x2)
 
-Kõrvalepõiget kasutatakse vaadeldavast, ähvardavast ohust pääsemiseks ja seda saab kasutada kaugrelvade vastu (näiteks varju hüpates), lõksude vältimiseks, võitluses vahemaa muutmiseks ja üldiselt potentsiaalsest füüsilisest ohust eemale saamiseks. Seda saab kasutada ka vastupanu kontrollina teatud tüüpi maagia vastu. Kõrvalepõikamine jätab tegelase tavaliselt kõhuli. Need, kellel on *Daredevil* võitlusstiili omadus, võivad kasutada kõrvalepõiget lähivõitlusrünnaku vältimiseks ilma kõhuli kukkumata ja kaugrelvarünnaku korral kukuvad nad kõhuli vaid juhul, kui kontroll ebaõnnestub.
+Kõrvale põikamist kasutatakse vaadeldavast, peatsest ohust pääsemiseks ja seda saab kasutada Kaugvõitlusrelvade vastu (näiteks varju hüpates), lõksude vältimiseks, võitluses distantsi muutmiseks ja üldiselt potentsiaalsest füüsilisest ohust eemale saamiseks. Seda saab kasutada ka vastupanuheidetena teatud tüüpi maagia vastu. Kõrvale põikamise kasutamine jätab tegelase tavaliselt pikali. Need, kellel on võitlusstiili tunnus "Daredevil", võivad kasutada Kõrvale põikamist lähivõitlusrünnaku vältimiseks ilma pikali kukkumata ning kaugvõitlusrünnaku vastu satuvad nad pikali vaid siis, kui heide ebaõnnestub.
 
-#### Esmaabi (First Aid) (DEX+INT)
+#### Esmaabi (OSA+INT)
 
-Esmaabi oskus mõõdab tegelase võimet ravida kergeid vigastusi ja stabiliseerida raskemaid. Esmaabi võib konkreetse vigastuse korral rakendada ainult üks kord ja see ravib 1d3 kahjustuspunkti.
+Esmaabi oskus mõõdab tegelase võimet ravida väiksemaid vigastusi ja stabiliseerida tõsisemaid. Esmaabi võib rakendada ainult üks kord konkreetse vigastuse kohta ja see ravib 1d3 punkti kahju.
 
-#### Mõjutamine (Influence) (CHA x2)
+#### Mõjutamine (KAR x2)
 
-See on tegelase võime veenda teisi isikliku karisma kaudu soovitud viisil käituma. Seda kasutatakse väga paljudes olukordades; alates kellegi meelemuutusest kuni ametniku või valvuri altkäemaksu andmiseni. Mõjutamise kontrolle vastustatakse tavaliselt taju (Perception), tahtejõu (Willpower) või muu mõjutamise oskusega, sõltuvalt asjaoludest, ja neid muudetakse vastavalt sellele, kui palju tegelane üritab käitumist mõjutada. Lähedase sõbra veenmine oma hobust laenama võib olla suhteliselt lihtne. Üldiselt korrumpeerumatu bürokraadi veenmine altkäemaksu vastu võtma on raskem.
+See on tegelase võime veenda teisi isikliku karisma kaudu käituma soovitud viisil. Seda kasutatakse väga paljudes olukordades; alates kellegi meelemuutusest kuni ametniku või valvuri äraostmiseni. Mõjutamise heiteid vastustavad tavaliselt Tajumine (Perception), Tahtejõud või teine Mõjutamise oskus, sõltuvalt asjaoludest, ja neid muudetakse vastavalt sellele, kui palju tegelane üritab käitumist mõjutada. Lähedase sõbra veenmine, et ta laenaks sulle oma hobust, võib olla suhteliselt lihtne. Tavaliselt korrumpeerumatu bürokraadi altkäemaksu võtma panemine on raskem.
 
-#### Intuitsioon (Insight) (INT+POW)
+#### Intuitsioon (INT+VÄG)
 
-Intuitsioon on võime lugeda või intuitiivselt määratleda teise verbaalset ja mitteverbaalset käitumist (näiteks kehakeelt või kõneviisi), et teha kindlaks nende motiivid ja meeleseisund. Intuitsiooni kasutatakse selle kindlakstegemiseks, kas keegi valetab (ja seda saab vastustada teise isiku Pettuse oskusega), või ennustamiseks, kuidas keegi teatud olukorda suhtub. Intuitsiooni saab võrdselt rakendada nii konkreetsetele olukordadele kui ka teistele inimestele: kas see kõrts on probleemide pelgupaik? Kas bandiidid plaanivad lähedal asuvates küngastes varitsust?
+Intuitsioon on võime lugeda või intuitiivselt määratleda teise verbaalset ja mitteverbaalset käitumist (näiteks kehakeelt või kõneviisi), et teha kindlaks nende motiive ja meeleseisundit. Intuitsiooni kasutatakse selleks, et teha kindlaks, kas keegi valetab (ja seda saab vastustada teise isiku Pettuse oskusega), või ennustada, kuidas keegi teatud olukorda suhtub. Intuitsiooni saab võrdselt rakendada nii konkreetsetele olukordadele kui ka teistele inimestele: kas see kõrts on hädade varjupaik? Kas bandiidid plaanivad lähedalasuval künkal varitsust?
 
-#### Kohalikud olud (Locale) (INT x2)
+#### Kohalikutundmine (INT x2)
 
-Kohalikud olud mõõdavad tegelase arusaamist kohalikust floorast, faunast, maastikust ja ilmast piirkonnas, kus ta on veetnud suurema osa oma elust, tavaliselt oma kogukonnas. Tegelane tunneb tavalisi taimi, puid ja loomi, nende omadusi ja käitumist: kus leidub parimaid kalu; ulukite liikumist; kust leida varjupaika; aastaajale vastavat ilma ja kõige levinumaid piirkondlikke ohte. Naaberpiirkondades, mis on võõrad, peaks muutma kohalike olude kontrolli ühe või mitme astme võrra raskemaks.
+Kohalikutundmine mõõdab tegelase arusaamist kohalikust taimestikust, loomastikust, maastikust ja ilmast piirkonnas, kus ta on veetnud suurema osa oma elust, tavaliselt oma kogukonna piires. Tegelane teab tavalisi taimi, puid ja loomi, nende omadusi ja käitumist: kust leida parimat kala; ulukite liikumist; kust leida varjupaika; aastaajale omast tõenäolist ilma ja kõige tavalisemaid piirkondlikke ohte. Naaberpiirkondades, mis on siiski võõrad, peaks Kohalikutundmist muutma ühe või mitme raskusastme võrra raskemaks.
 
-#### Emakeel (Native Tongue) (INT+CHA +40)
+#### Emakeel (INT+KAR +40)
 
-Emakeel on võime rääkida ja lugeda oma keelt, mis on omandatud kodukultuuris üles kasvades. Emakeel mõõdab artikulatsiooni, kõneosavust ja sõnavara sügavust.
+Emakeel on võime rääkida ja lugeda oma keelt – seda, mida õpiti lapsepõlves oma koduühiskonnas. Emakeel mõõdab artikulatsiooni, kõneosavust ja sõnavara sügavust.
 
-Erinevalt teistest oskustest ei veeretata Emakeele puhul otse. Selle asemel käsitletakse seda kui üldise soravuse staatilist esitust, mis piirab vestlusliku suhtluse taset. Seda kirjeldatakse üksikasjalikumalt Keele (Language) oskuse all, kuid alustavad tegelased on mängu alguses tavaliselt oma emakeeles täiesti soravad.
+Erinevalt teistest oskustest ei heideta Emakeele puhul otse. Selle asemel koheldakse seda kui üldise soravuse staatilist esitust, mis piirab vestlusliku suhtluse taset. Seda kirjeldatakse üksikasjalikumalt Keelte oskuse all, kuid alustavad tegelased on tavaliselt mängu alguses oma emakeeles täielikult soravad.
 
-#### Taju (Perception) (INT+POW)
+#### Tajumine (INT+VÄG)
 
-Taju kasutatakse nii passiivseks vaatluseks kui ka keskendunud tuvastamiseks; olgu selleks millegi konkreetse otsimine, ala üldine skaneerimine või lihtne teadlikkus ümbritsevast. Konkreetsed tingimused – näiteks pimedus – võivad mõjutada oskuse kontrolli raskusastet sõltuvalt kasutatavatest peamistest meeltest. Tugevad lõhnad võivad muuta haistmismeele taju kontrolli standardse asemel kergeks, samas kui rahvarohkes ja lärmakas kõrtsis vestluse pealtkuulamine muudaks kontrolli raskeks.
+Tajumist kasutatakse nii passiivseks vaatluseks kui ka sihipäraseks avastamiseks; olgu selleks millegi konkreetse otsimine, piirkonna üldine skaneerimine või lihtsalt ümbruse teadvustamine. Spetsiifilised tingimused – näiteks pimedus – võivad mõjutada oskuse heite raskusastet sõltuvalt kasutatavatest esmastest meeltest. Tugevad lõhnad võivad muuta haistmisel põhineva Tajumise heite Standardse asemel Kergeks, samas kui rahvarohkes ja lärmakas kõrtsis vestluse pealtkuulamine muudaks heite Raskeks.
 
-#### Ratsutamine (Ride) (DEX+POW)
+#### Ratsutamine (OSA+VÄG)
 
-Ratsutamine hõlmab võimet kontrollida ja püsida seljas neil olendeil, kes on treenitud ratsutamiseks. Oskust saab rakendada mitmesugustele elukatele, kõike alates muuladest kuni elevantideni; isegi lendavatele või ujuvatele olenditele, nagu hiiglaakotkad või delfiinid. Võõral liigil ratsutamine on alati ühe raskusastme võrra raskem; teises keskkonnas elava liigiga ratsutamine (näiteks hobuse ratsutaja, kes ratsutab draakoniga) on kaks astet raskem. Metsikuid, taltsutamata elukaid ei saa konstruktiivselt ratsutada, enne kui nad on murtud ja ratsuloomadeks treenitud.
+Ratsutamine hõlmab võimet kontrollida ja püsida seljas neil olenditel, kes on välja õpetatud ratsutamiseks. Oskust saab rakendada mitmekesisele hulgale loomadele, alates muuladest kuni elevantideni; isegi lendavatele või ujuvatele olenditele, nagu hiidkotkad või delfiinid. Võõra liigiga ratsutamine on alati ühe raskusastme võrra raskem; erineva keskkonna liigiga ratsutamine (näiteks hoburatsutaja draakonil) on kaks raskusastet raskem. Metsikuid, taltsutamata olendeid ei saa ratsutamiseks konstruktiivselt kasutada enne, kui nad on murtud ja ratsuloomadeks treenitud.
 
-#### Laul (Sing) (POW+CHA)
+#### Laulmine (VÄG+KAR)
 
-Viisi hoidmine kuulub laulu alla, alates monotoonsetest lauludest kuni keeruliste aariateni. Laulmine on enamiku kultuuride lahutamatu osa, peamine meelelahutusallikas ja võib-olla kasutatav rituaalides. Tähtsaid laule võib kasutada kosimiseks, sõdurite inspireerimiseks enne lahingut või lihtsalt ajaloolise teo meenutamiseks. Oskus peegeldab kasutaja võimet säilitada rütmi, püsida helistikus ja meeles pidada õigeid sõnu.
+Viisi pidamist hõlmab Laulmine, ulatudes monotoonsetest lauludest kuni keeruliste aariateni. Laulmine on enamiku kultuuride olemuslik osa, esmane meelelahutuse allikas ja võib-olla kasutatud ka selle rituaalides. Tähtsaid laule võib kasutada kurameerimiseks, sõdurite inspireerimiseks enne lahingut või lihtsalt ajaloolise teo jutustamiseks. Oskus peegeldab kasutaja võimet hoida rütmi, püsida helistikus ja mäletada õigeid sõnu.
 
-#### Hiilimine (Stealth) (DEX+INT)
+#### Hiilimine (OSA+INT)
 
-Avaliku vaate eest varjumine või minimaalse heliga liikumine kuuluvad hiilimise oskuse alla. Kate ja tingimused, nagu pimedus või vali taustamüra, parandavad oskuse astet vastavalt keskkonna eripäradele. Samamoodi vähendavad oskuse astet ebasoodsad tingimused, nagu katte puudumine või vaikne öö. Asjaolud mõjutavad ka katse raskust. Näiteks võib rasket soomust kandev sõdalane end kergesti müüri taha varjata, kui nad seisavad paigal või liiguvad väga aeglaselt, samas kui kiire liikumine võib põhjustada soomuse kõlinat.
+Nähtavusest eemal peitmist või minimaalse heliga liikumist hõlmab Hiilimise oskus. Katted ja tingimused, nagu pimedus või vali taustamüra, parandavad oskuse astet vastavalt keskkonna eripäradele. Samamoodi vähendavad oskuse astet ebasoodsad tingimused, nagu katte puudumine või vaikne öö. Asjaolud mõjutavad samuti katse raskust. Näiteks võib raskes soomuses sõdalane end kergesti müüri taha peita, eeldusel et ta seisab paigal või liigub väga aeglaselt, samas kui kiire liikumine võib põhjustada soomuse kõlinat.
 
-#### Ujumine (Swim) (STR+CON)
+#### Ujumine (JÕU+VAS)
 
-Ilma arendamiseta piirdub ujumisoskus vees rabelemise ja pea vee peal hoidmisega lühikest aega. Kõrgemad ujumisprotsendid näitavad suutlikkust toime tulla sügavama ja tugevama veega, väiksema uppumisriskiga. Ujumise kontrolli tegemine sõltub seega täielikult tingimustest. Karm meri, tugevad hoovused, kärestikud ja tagasivoolud vähendavad oskuse astet, olenemata tegelase ujumisefinitusest. Lisateavet ujumise ja ujumiskiiruse arvutamise kohta leiate jaotisest [Liikumine](0005_Combat.md?id=situational-movement-rates).
+Ilma arendamiseta piirdub ujumisoskus vees rabelemise ja pea lühikeseks ajaks vee peal hoidmisega. Kõrgemad ujumisprotsendid näitavad suutlikkust toime tulla sügavamate ja tugevamate vetega, väiksema uppumisohuga. Ujumise heite tegemine sõltub seega täielikult tingimustest. Käredad mered, tugevad hoovused, kärestikud ja reovoolud vähendavad oskuse astet, olenemata tegelase afiinsusest veega. Lisateavet ujumise kohta, sealhulgas ujumiskiiruste arvutamist, vaata [liikumisest](0005_Combat.md?id=situational-movement-rates).
 
-#### Relvitu võitlus (Unarmed) (STR+DEX)
+#### Võitlus relvadeta (JÕU+OSA)
 
-Relvitu võitlus on universaalne võitlusoskus, mis on omane kõigile tegelastele, mõõtes võimet end ilma relvade abita kaitsta. Relvitu võitluse oskus hõlmab antud kultuuris tuntud kaklus- ja maadlustehnikaid.
+Võitlus relvadeta on universaalne võitlusoskus, mis on ühine kõigile tegelastele, mõõtes võimet end ilma relvade abita kaitsta. Võitlus relvadeta hõlmab selle kultuuri tuntud kaklemis- ja maadlustehnikaid.
 
-Kuna relvitu võitlus on võitlusoskus, hõlmavad selle kriitilise õnnestumise ja äparduse efekte võitluse reeglid, nagu on üksikasjalikult kirjeldatud [võitluse](0005_Combat.md) peatükis.
+Kuna Võitlus relvadeta on võitlusoskus, on selle kriitilised ja äparduse efektid kaetud võitluse reeglitega, nagu on üksikasjalikult kirjeldatud [võitluse](0005_Combat.md) peatükis.
 
-#### Tahtejõud (Willpower) (POW x2)
+#### Tahtejõud (VÄG x2)
 
-Tahtejõud on tegelase võime keskenduda, suunata oma tahtejõudu teatud suunas või karastada oma psüühikat võimaliku vaimse šoki vastu. See on ka isikliku meelekindluse mõõdupuu. Oskust kasutatakse igasugustes olukordades, kus on vajalik vaimne vastupidavus, ja see hõlmab ka maagiale vastupanu. Kuigi see ei ole mõistuse tervise mõõdupuu, saab seda kasutada traumaatiliste sündmuste talumiseks, mis vapustaksid isegi kõige tervemat ja stabiilsemat meelt. Tahtejõud on Vastupidavuse vaimne vastand.
+Tahtejõud on tegelase suutlikkuse mõõdupuu keskenduda, suunata oma tahet kindlas suunas või karastada oma psüühikat võimaliku vaimse šoki vastu. See on ka isikliku otsusekindluse mõõdupuu. Oskust kasutatakse igasugustes olukordades, kus on vaja vaimset vastupidavust, ja see hõlmab maagiale vastuseismist. Kuigi see ei ole vaimse tervise mõõdupuu, saab seda kasutada traumaatiliste sündmuste talumiseks, mis vapustaksid isegi kõige tervemat ja stabiilsemat vaimu. Tahtejõud on Vastupidavuse vaimne vastand.
 
-Jällegi, nagu Vastupidavuse ja Kõrvalepõike puhul, kasutatakse Tahtejõudu kõige sagedamini vastandatud kontrollides (Opposed Rolls). Kui seda kasutatakse tava-testina, näitab kriitiline tahtejõu kontroll, et tegelane on oma meele ja vaimu nii karastanud, et edasised katsed teda mõjutada või tema meelekindlust vapustada ei toimi. Maagiale vastupanu korral tähendab kriitiline õnnestumine seda, et vastase loitsitud vaimsed loitsud ei avalda tegelasele ülejäänud kohtumise jooksul mingit mõju.
+Jällegi, sarnaselt Vastupidavuse ja Kõrvale põikamisega, kasutatakse Tahtejõudu kõige sagedamini vastandatud heidetes. Kui seda kasutatakse standardsena testina, tähendab kriitiline Tahtejõu heide, et tegelane on oma vaimu ja hinge niivõrd karastanud, et edasised katsed teda mõjutada või tema otsusekindlust kõigutada ei toimi. Maagiale vastuseismise korral tähendab kriitiline õnnestumine, et vastase heidetud vaimselt vaevavad loitsud ei avalda tegelasele ülejäänud kohtumise jooksul mingit mõju.
 
 ---
 ## Kutseoskused
 
-Kutseoskused erinevad tegelaste lõikes ja esindavad spetsialiseeritumaid treening- ja kogemusvorme. Mõned kutseoskused kogutakse kultuuritausta ja tegelase karjääri kaudu, nagu nimigi ütleb. Kuigi need tegelaste vahel erinevad, toimivad need samamoodi nagu tavaoskused.
+Kutseoskused erinevad tegelaste lõikes ja esindavad spetsialiseeritumaid treeningu- ja kogemuse vorme. Mõned kutseoskused kogutakse kultuuritausta ja tegelase karjääri kaudu, nagu nimigi ütleb. Kuigi need tegelaste lõikes erinevad, toimivad need samamoodi nagu tavaoskused.
 
-#### Näitlemine (Acting) (CHA x2)
+#### Näitlemine (KAR x2)
 
-Näitlemine reguleerib kunsti suuta kehastada ja edasi anda täiesti teistsugust tegelast, olgu lavalises esituses või sotsiaalses olukorras. Näitleja kujutab isiksust ja maneere, mis erinevad tema enda omadest, veenval viisil. Koos Maskeerimise (Disguise) ja Pettuse oskustega on see võimas viis saada kellekski teiseks.
+Näitlemine reguleerib kunsti suuta kehastada ja edastada täiesti erinevat tegelast, olgu lavastatud etenduses või sotsiaalses olukorras. Näitleja kujutab isiksust ja maneere, mis erinevad tema enda omadest, veenval viisil. Koos Maskeerimise (Disguise) ja Pettuse oskustega on see võimas viis saada kellekski teiseks.
 
-#### Akrobaatika (Acrobatics) (STR+DEX)
+#### Akrobaatika (JÕU+OSA)
 
-Akrobaatika hõlmab tasakaalu-, võimlemis-, žongleerimis- ja kukerpalliharjutusi. Oskust saab kasutada publiku muljetamiseks, aga ka kukkumistest tuleneva kahju leevendamiseks. Eduka kontrolliga saab tegelane liikuda täiskiirusel ja kindlalt üle ebastabiilse või kitsa pinna. Kui püütakse ootamatust kukkumisest tulenevat kahju leevendada, vähendab edukas akrobaatika kontroll poole võrra saadud kahju. Lisaks, kui kontroll on edukas ja tegelane ei saa kukkumise tõttu rasket või tõsist haava, maandub tegelane suhteliselt ohutult ega ole kõhuli.
+Akrobaatika hõlmab tasakaalu-, võimlemis-, žongleerimis- ja kukerpalliharjutusi. Oskust saab kasutada publikule mulje avaldamiseks, aga ka kukkumistest tuleneva kahju leevendamiseks. Eduka heitega saab tegelane liikuda täiskiirusel ja kindlalt üle ebastabiilse või kitsa pinna. Kui üritatakse ootamatust kukkumisest tulenevat kahju leevendada, poolitab edukas Akrobaatika heide kõik saadud kahjud. Lisaks, kui heide on edukas ja tegelane ei saa kukkumise tõttu tõsist või rasket haava, maandub tegelane suhteliselt ohutult ega jää pikali.
 
-Akrobaatikat saab kasutada Kõrvalepõike (Evade) asemel, kui olukord seda nõuab. Selle kasu on see, et tegelane taastab automaatselt oma jalad, selle asemel et kukkuda kõhuli.
+Akrobaatikat saab kasutada Kõrvale põikamise asendajana, kui olukord seda õigustab. Selle eeliseks on see, et tegelane taastab automaatselt oma jalgealuse, selle asemel et pikali jääda.
 
-#### Astrogatsioon (Astrogation) (INT x2)
+#### Astrogatsioon (INT x2)
 
-Astrogatsioon on võrdväärne navigeerimisega, välja arvatud see, et see võimaldab tähelaeva pilootidel määrata kurssi tähtede ja tähtedevahelistel distantsidel.
+Astrogatsioon on võrdväärne Navigeerimisega, välja arvatud see, et see võimaldab tähelaevade pilootidel koostada kurssi tähtede ja tähtedevahelistel distantsidel.
 
-#### Kunst (Art) (POW+CHA)
+#### Kunst (VÄG+KAR)
 
-On palju konkreetseid kunstivorme. Maalimisest luuleni; kirjandusest skulptuurini. Tegelane valib selle oskuse omandamisel kunstilise eriala. Järgnevaid kunstivorme arendatakse eraldi. Kontroll tehakse alati, kui tegelane peab oma kunstilise meediumi kaudu muljet avaldama või veenma.
+On palju spetsiifilisi kunstivorme. Maalimisest luuleni; kirjandusest skulptuurini. Tegelane valib selle oskuse võtmisel kunsti spetsialiseerumise. Järgnevad kunstivormid arendatakse eraldi. Heide tehakse alati, kui tegelane peab oma kunstilise meediumi kaudu muljet avaldama või veenma.
 
-#### Bürokraatia (Bureaucracy) (INT x2)
+#### Bürokraatia (INT x2)
 
-Haldusprotseduuride, dokumentide ja väljaütlemata kokkulepete mõistmine kuulub bürokraatia oskuse alla. Seda kasutatakse ametnikega suhtlemiseks või olulise kodanikuinfo avastamiseks. Sõltuvalt nende kultuuri keerukusest ei pea bürokraadid tingimata kirjaoskajad olema. Alati, kui on vaja navigeerida punase lindi või haldusmaastike vahel, on bürokraatia kontroll vajalik.
+Haldusprotseduuride, registrite ja ütlemata konventsioonide mõistmist hõlmab Bürokraatia oskus. Seda kasutatakse ametnikega suhtlemiseks või asjakohase tsiviilinfo leidmiseks. Sõltuvalt nende kultuuri keerukusest ei pea bürokraadid tingimata kirjaoskajad olema. Alati, kui on vaja navigeerida punase lindi või haldusmaastike vahel, on vajalik Bürokraatia heide.
 
-#### Kaubandus (Commerce) (INT+CHA)
+#### Kaubandus (INT+KAR)
 
-Kaubandust kasutatakse kaupade ja toorainete väärtuse hindamiseks ja nende parima võimaliku hinnaga vahetamiseks. Seda kasutatakse ka äritehingute keerukuse mõistmiseks lisaks kasumi kindlustamisele. Veelgi enam, seda kasutatakse parima võimaliku viisi leidmiseks varastatud ja ebaseaduslike kaupade vabanemiseks – jällegi parima võimaliku hinnaga. Kaubandust kasutatakse ilmselgelt kauplemisel ja seda saab vastustada kas vastase kaubanduse oskuse või tahtejõuga, peegeldades vastaspoole katseid tehingut enda kasuks pöörata. Seda kasutatakse ka kaupade turuväärtuse hindamiseks, et saada aimu hinnast ja sellest, kus on kõige parem kaubelda.
+Kaubandust kasutatakse kaupade ja tooraine väärtuse hindamiseks ning nende vahetamiseks parima võimaliku hinnaga. Seda kasutatakse ka äritehingute keerukuse mõistmiseks lisaks kasumi kindlustamisele. Edasine kasutus on parima viisi leidmine varastatud ja keelatud kaupadest vabanemiseks – jällegi parima võimaliku hinnaga. Kaubandust kasutatakse ilmselgelt kauplemisel ja seda saab vastustada kas vastase Kaubanduse oskuse või Tahtejõuga, peegeldades vastaspoole katseid tehingut oma kasuks kallutada. Seda kasutatakse ka kaupade turuväärtuse hindamiseks, et saada aimu hinnast ja sellest, kus oleks kõige parem nendega kaubelda.
 
-#### Side (Comms) (INT x2)
+#### Side (INT x2)
 
-See oskus annab võimaluse kasutada sideseadmeid side liikluse tuvastamiseks, varjamiseks või blokeerimiseks. See annab ka võimaluse krüpteeritud sõnumite lahtimuukimiseks (eeldusel, et kasutajal on juurdepääs koodimurdjale).
+See oskus annab võime kasutada sideseadmeid sidetrafiku avastamiseks, varjamiseks või blokeerimiseks. See annab ka võimaluse krüpteeritud sõnumeid lahti murda (eeldusel, et kasutajal on ligipääs koodimurdjale).
 
-#### Arvutid (Computers) (INT x2)
+#### Arvutid (INT x2)
 
-Arvutid peegeldavad tegelase võimet lahendada keerulisi probleeme või eraldada keerulist teavet arvutisüsteemide abil – olgu see siis programmeerimiskoodi, konkreetse tarkvara detailse kasutamise, häkkimise või isegi tarkvara- ja riistvaraprobleemide diagnoosimise/parandamise kaudu. Arvutite üldine kasutamine ei vaja tavaliselt kontrolli.
+Arvutid peegeldab tegelase võimet lahendada keerulisi probleeme või eraldada keerulist teavet, kasutades arvutisüsteeme – olgu see siis programmeerimiskoodi, konkreetse tarkvara detailse kasutamise, häkkimise või isegi tarkvara- ja riistvaraprobleemide diagnoosimise/parandamise kaudu. Arvutite üldine kasutamine ei nõua tavaliselt heidet.#### Viisakus (INT+KAR)
 
-#### Viisakus (Courtesy) (INT+CHA)
+See oskus hõlmab arusaamist sellest, kuidas sotsiaalses või ametlikus olukorras sobivalt käituda: kõnetamisviise, rituaale, käitumiskonventsioone ja nii edasi. See hõlmab kõike alates sellest, kellele kummardada ja millal, kuni selleni, kui madalalt; alates sellest, millal kasutada kindlat tiitlit, kuni selleni, millal on asjakohane käituda mitteametlikult.
 
-See oskus hõlmab arusaamist, kuidas sotsiaalses või ametlikus olukorras asjakohaselt käituda: pöördumisvormid, rituaalid ja käitumiskonventsioonid jne. See hõlmab kõike alates sellest, kellele kummardada ja millal, kui madalalt; sellest, millal kasutada konkreetset tiitlit, kuni selleni, millal on asjakohane käituda mitteametlikult.
+#### Käsitöö (OSA+INT)
 
-#### Käsitöö (Craft) (DEX+INT)
+Iga Käsitöö on spetsialiseerunud vorm ja käsitööalasid on sama palju kui nendega seotud elukutseid. Sarnaselt Kunstile kasutatakse Käsitööd vastava eseme loomiseks. See, kui kaua see aega võtab, sõltub täielikult toote olemusest: näiteks vaiba kudumine võtab kauem aega kui poti voolimine, kuid aeg ei ole tingimata kõige olulisem tegur: see on käsitöölise oskus, ressursside kvaliteet ja tähelepanu detailidele.
 
-Iga käsitöö on spetsialiseerunud vorm ja käsitööalasid on sama palju kui ameteid nende jaoks. Nagu kunst, kasutatakse käsitööd eseme loomiseks. Kui kaua see aega võtab, sõltub täielikult toote olemusest: vaiba kudumine võtab kauem aega kui poti valmistamine, kuid aeg ei ole tingimata kõige olulisem tegur: see on käsitöölise oskus, ressursside kvaliteet ja tähelepanu detailidele.
+#### Kultuur (INT x2)
 
-#### Kultuur (Culture) (INT x2)
+Kultuur on Tavade üldoskuse spetsiifilisem vorm, mis on seotud tegelase enda omast erinevate ühiskondadega. Iga Kultuurioskuse puhul tuleb määrata konkreetne rahvus või ühiskond, mille kohta see kehtib. Mehhaaniliselt toimib see samamoodi nagu Tavade oskus.
 
-Kultuur on tavaoskuse Tavad spetsiifilisem vorm, mis on seotud tegelase enda kultuurist erinevate ühiskondadega. Iga kultuuri oskus peab olema antud konkreetse riigi või ühiskonna kohta, millele see kehtib. Mehaaniliselt toimib see samamoodi nagu Tavad oskus.
+#### Lõhkeained (INT+VÄG)
 
-#### Lammutamine (Demolitions) (INT+POW)
+See oskus võimaldab tegelasel ohutult käsitseda ja kasutada lõhkeaineid, olgu nende paigaldamisel või kahjutuks tegemisel.
 
-See oskus lubab tegelasel ohutult käsitseda ja kasutada lõhkeaineid, olgu nende paigaldamisel või kahjutuks tegemisel.
+#### Maskeering (INT+KAR)
 
-#### Maskeerimine (Disguise) (INT+CHA)
+Veenva maskeeringu tegemist, kasutades sobivaid materjale (kostüümid, kosmeetika, parukad või juuksekaunistused), katab Maskeeringu oskus. Maskeeringu loomine nõuab aega ja tähelepanu detailidele, samuti juurdepääsu õigetele materjalidele, et muuta see veenvaks. Kui mõni või kõik neist elementidest puuduvad, muutub Maskeeringu heite raskusaste ühe või enama sammu võrra raskemaks.
 
-Veenva maskeeringu tegemine, kasutades sobivaid materjale (kostüümid, kosmeetika, parukad või juuksekaunistused), kuulub maskeerimise oskuse alla. Maskeeringu loomine nõuab aega ja tähelepanu detailidele, samuti juurdepääsu õigetele materjalidele, et muuta see veenvaks. Kui mõned või kõik need elemendid puuduvad, muudetakse maskeerimise kontrolli raskusastet ühe või mitme astme võrra raskemaks.
+Maskeeringut saab täiendada Näitlemisega, et suurendada pettuse üldist mõju (ja vastupidi esinemise ajal), mistõttu need kaks oskust on teineteist täiendavad.
 
-Maskeerimist saab täiendada näitlemisega, et suurendada pettuse üldist mõju (ja vastupidi esinemisel), mistõttu on need kaks oskust üksteist täiendavad.
+#### Elektroonika (OSA+INT)
 
-#### Elektroonika (Electronics) (DEX+INT)
+See oskus võimaldab kasutajal elektroonikaseadmetega nokitseda, neid mööda minna või parandada. Sellel on palju rakendusi, kõige sagedamini kahjustatud seadmete ajutiseks lappimiseks või katkiste vooluringide asendamiseks varuosadega.
 
-See oskus võimaldab kasutajal elektroonikaseadmetega nokitseda, neist mööda hiilida või neid parandada. Sellel on palju rakendusi, kõige sagedamini kahjustatud seadmete ajutiseks parandamiseks või katkiste vooluringide asendamiseks varuosadega.
+#### Inseneriteadus (INT x2)
 
-#### Inseneriteadus (Engineering) (INT x2)
+Suuremahuliste ehitiste, alates majadest kuni sildade, väravate ja piiramismasinateni, projekteerimine ja ehitamine kuulub Inseneriteaduse oskuse alla. Heited on vajalikud suuremahuliste projektide kavandamisel, et tagada õige ehitus, kuid neid tehakse ka siis, kui insener soovib mingil põhjusel hinnata ehitise terviklikkust (näiteks seisukorda või nõrku kohti).
 
-Suuremahuliste struktuuride disain ja ehitamine, alates majadest kuni sildadeni, väravatest kuni piiramismasinatega, on inseneriteaduse oskuse pädevuses. Kontrollid on vajalikud suurprojektide planeerimisel, et tagada korrektne ehitus, kuid neid tehakse ka siis, kui insener soovib hinnata struktuuri terviklikkust mis tahes põhjusel (näiteks seisukord või nõrgad kohad).
+#### Võltsimine (OSA+INT)
 
-#### Võltsimine (Forgery) (DEX+INT)
+Võltsimise oskus võimaldab luua või võltsida ametlikke dokumente.
 
-Võltsimise oskus lubab ametlike dokumentide loomist või võltsimist.
+#### Hasartmängud (INT+VÄG)
 
-#### Hasartmängud (Gambling) (INT+POW)
+Hasartmängude oskus mõõdab tegelase pädevust õnnemängudes ja eriti seal, kus tulemusele pannakse panus rahaga. Seda kasutatakse edukuse või ebaedu tõenäosuse hindamiseks või märkamiseks, kui keegi petab. Oskust saab kasutada vastasseisus või ilma vastasseisuta, olenevalt olukorrast. Nähtamatus hasartmänguurkas öö veetmine võib nõuda vaid tavalist testi, samas kui kõrgete panustega täringumäng, milles osalevad märkimisväärsed isikud, võib nõuda mitut vooru vastasseisuheiteid.
 
-Hasartmängude oskus mõõdab tegelase kompetentsust õnnemängudes ja eriti seal, kus tulemusele pannakse panuseid. Seda kasutatakse edu või ebaõnnestumise tõenäosuse hindamiseks või märkamiseks, kui keegi petab. Oskust saab kasutada vastandatult või mitte-vastandatult, sõltuvalt olukorrast. Öö veetmine näotuses hasartmänguurkas võib nõuda vaid lihtsat testi, samas kui kõrgete panustega täringumäng, mis hõlmab märkimisväärseid isikuid, võib selle asemel nõuda mitut vooru vastandatud kontrolle.
+#### Tervendamine (INT+VÄG)
 
-#### Ravimine (Healing) (INT+POW)
+Tervendamine on põhjalikud teadmised meditsiinilistest protseduuridest, mis põhinevad kultuurilistel tavadel, ja seda kasutatakse tõsisemate vigastuste (tavaliselt nende, kus Elupunktid on nullis või vähem) raviks. Näiteks ürg- või barbaarses kultuuris põhineb tervendamine teadmistel ürtidest ja looduslikest ravimitest. Tsiviliseeritud kultuuris on ravimid ja täiustatumad ravimeetodid tavalisemad. Kõigis kultuurides hõlmab Tervendamine luude lahastamist, haavade õmblemist ja nii edasi. Ilmselgelt nõuab Tervendamise rakendamine sobivaid ressursse ja enamikul praktiseerivatel tervendajatel on sellised asjad käepärast (nõelad, soolestik või niit õmblemiseks, ürdid kompresside jaoks jne, või tänapäevastes oludes meditsiinikomplekt).
 
-Ravimine on süvitsiminev meditsiiniliste protseduuride tundmine, mis põhineb kultuurilistel tavadel ja mida kasutatakse raskemate vigastuste raviks (tavaliselt need, kus elupunkte on null või vähem). Näiteks primitiivses või barbaarses kultuuris põhineb ravimine ürtide ja looduslike ravimite tundmisel. Tsiviliseeritud kultuuris on ravimid ja arenenumad ravimeetodid tavalisemad. Kõigis kultuurides hõlmab ravimine võimet luid seada, haavu õmmelda jne. Ilmselgelt nõuab ravimine sobivaid ressursse ja enamikul praktiseerivatel ravitsejatel on sellised asjad käepärast (nõelad, soolestik või niit õmbluste jaoks, ürdid kompresside jaoks jne, või meditsiinikomplekt moodsate keskkondade jaoks).
+#### Keel (INT+KAR)
 
-#### Keel (Language) (INT+CHA)
+See oskus hõlmab tegelase emakeelest erineva keele rääkimist ja mõistmist. Oskust käsitletakse kui üldise ladususe staatilist esitust. 1-25% mõned põhisõnad, 26-50% lihtsad laused, 51-75% ladus üldvestluseks, 76+% suuteline kõnelema kõnekalt. Selle väärtust kasutab Mängujuht, et piirata suulise suhtluse taset, kui mängijad vestlevad mängus olevate isiksustega. Seda saab kasutada ka teatud teiste oskuste (nt Bürokraatia) ülempiirina, kus Keel võib olla piirav tegur. Sellisel juhul ei tohi näiteks Bürokraatia ületada kasutatava Keele oskuse väärtust.
 
-See oskus hõlmab tegelase emakeelest erineva keele rääkimist ja mõistmist. Oskust käsitletakse kui üldise soravuse staatilist esitust. 1-25% paar põhisõna, 26-50% lihtsad laused, 51-75% sorav üldvestlusteks, 76+% võimeline kõnekalt vestlema. Selle väärtust kasutab mängujuht räägitud suhtluse taseme piiramiseks, kui mängijad vestlevad mängus olevate isikutega. Seda saab kasutada ka teatud muude oskuste (nt bürokraatia) ülemmäärana, kus keel võib olla piirav tegur. Sellisel juhul ei tohi oskus nagu bürokraatia ületada kasutatava keele oskuse väärtust.
+#### Kirjaoskus (Konkreetne keel) (INT x2)
 
-#### Kirjaoskus (Literacy) (konkreetne keel) (INT x2)
+Keele ladus rääkimine ei tähenda, et seda saab lugeda ja kirjutada. Kirjaoskus on spetsiifiline oskus ja erinevad ühiskonnad kuvavad selle suhtes erinevaid tasemeid ja lähenemisviise. Mõnes on kirjaoskus reserveeritud aadli-, bürokraatia- või usuklassidele. Teistes on see tundmatu ja ülekaalus on suulised traditsioonid. Tänapäeva või futuristlikes ühiskondades õpitakse kirjaoskus vaikimisi ja see ei nõua eraldi oskust.
 
-Keelt soravalt rääkimine ei tähenda, et seda saab lugeda ja kirjutada. Kirjaoskus on konkreetne oskus ja erinevad ühiskonnad kuvavad selle suhtes erinevaid tasemeid ja lähenemisviise. Mõnes on kirjaoskus reserveeritud aadlile, bürokraatlikele või usuklassidele. Teistes on see tundmatu, valitsedes hoopis suulised traditsioonid. Moodsates või futuristlikes ühiskondades õpitakse kirjaoskust vaikimisi ja see ei nõua eraldi oskust.
+#### Luku avamine (OSA x2)
 
-#### Lukumuukimine (Lockpicking) (DEX x2)
+Luku avamine on võime avada mehaanilist lukustussüsteemi ilma võtme või muu spetsiaalselt luku jaoks valmistatud seadmeta. See hõlmab poltidega või riividega uste ja akende kangiga avamise tehnikaid ilma kahjustusi tekitamata. Luku avamist saab kasutada ka ukse, kirstu jne lukustamiseks, kui võtit pole saadaval.
 
-Lukumuukimine on võime avada mehaanilist lukustussüsteemi ilma võtme või muu spetsiaalselt luku jaoks tehtud seadme abita. See hõlmab tehnikat poltidega või trellitatud uste ja akende avamiseks ilma kahjustusi tekitamata. Lukumuukimist võib kasutada ka ukse, kirstu jne lukustamiseks, kui võtit pole saadaval.
+#### Teadmised (INT x2)
 
-#### Teadmised (Lore) (INT x2)
+Teadmised hõlmavad konkreetset teadmiste kogumit, mis tuleb oskuse esmakordsel õppimisel valida. Alkeemia, astroloogia, astronoomia, geograafia, heraldika, ajalugu, ämmaemandus, mineraalid, koletised, poliitika, religioon, strateegia ja taktika: need on kõik Teadmiste oskuste tüüpilised näited. Teadmiste oskus tähendab, et tegelane mõistab selle põhialuseid, kuidas seda saab rakendada vahetute väljakutsete ja probleemide korral ning saab kasutada Teadmisi kasuliku teabe meenutamiseks.
 
-Teadmised hõlmavad konkreetset teadmiste kogumit, mis tuleb valida oskuse esmakordsel õppimisel. Alkeemia, astroloogia, astronoomia, geograafia, heraldika, ajalugu, ämmaemandus, mineraalid, koletised, poliitika, religioon, strateegia ja taktika: need kõik on tüüpilised teadmiste oskuste näited. Teadmiste oskus tähendab, et tegelane mõistab selle aluseid, kuidas seda saab rakendada kohestes väljakutsetes ja probleemides, ja saab kasutada teadmisi kasuliku info meenutamiseks.
+#### Maagia (VÄG+KAR)
 
-#### Maagia (Magic) (POW+CHA)
+Maagia oskust kasutatakse jaotises [Maagia ja võimed](0007_Magic.md) kirjeldatud loitsude esitamiseks. Edukaks loitsu toimimiseks on vaja õnnestunud heidet, kuigi vastanduv oskus, nagu Tahtejõud, võib loitsule siiski vastu seista.
 
-Maagia oskust kasutatakse [Maagia ja võimete](0007_Magic.md) jaotises kirjeldatud loitsude loitsimiseks. Edukaks loitsimiseks on vaja edukat kontrolli, kuigi loitsule võib siiski vastu seista vastanduv oskus nagu tahtejõud.
+#### Mehhanismid (OSA+INT)
 
-#### Mehhanismid (Mechanisms) (DEX+INT)
+Mehhanismid tähistavad teadmisi ja oskusi mehaaniliste seadmete, näiteks lõksude, kokkupanemiseks ja lahtivõtmiseks. Mehhanismide oskus hõlmab üldiselt õrnade, väikeste töötavate osadega seadeldiste loomist, vastandina Inseneriteadusele, mis tegeleb massiivsete konstruktsioonidega. See on Luku avamisest erinev distsipliin ja seda ei saa selle oskusega asendada.
 
-Mehhanismid esindavad teadmisi ja oskust monteerida ja demonteerida mehaanilisi seadmeid, nagu lõkse. Mehhanismide oskus hõlmab üldiselt õrnade väikeosadega seadmete loomist, erinevalt inseneriteadusest, mis tegeleb massiivsete ehitistega. See on eraldiseisev distsipliin lukumuukimisest ja seda ei saa selle oskusega vahetada.
+#### Muusikaline võimekus (OSA+KAR)
 
-#### Muusikalisus (Musicianship) (DEX+CHA)
+Muusikaline võimekus hõlmab muusikariistade mängimist; alates lihtsast pilliroost flöödist kuni keeruka keelpillini, nagu harf, ja iga Muusikalise võimekuse iteratsiooni rakendatakse sarnaste instrumentide rühma suhtes. Muusik, kes oskab mängida pilliroost flööti, oskab mängida ka flööti, paaniflööti või plokkflööti, sest põhialused on samad. Ta ei oskaks aga mängida harfi või lautot.
 
-Muusikalisus hõlmab muusikariistade mängimist; lihtsast pilliroost flöödist kuni keerulise keelpilli, näiteks harfini, ja iga muusikalisuse iteratsiooni rakendatakse sarnaste pillide rühma suhtes. Muusik, kes oskab mängida pilliroost flööti, oskab mängida ka flööti, paaniflööti või plokkflööti, sest alused on samad. Nad ei suudaks aga mängida harfi või lautot.
+#### Navigeerimine (INT+VÄG)
 
-#### Navigeerimine (Navigation) (INT+POW)
+Ükskõik kas kasutades silmapaistvaid maamärke, tähti või merevee muutuvat maitset, navigeerimisoskus katab võime täpselt suunata reisimist. Iga Navigeerimise oskus katab konkreetse piirkonna või keskkonna, näiteks Avamere või Maa-aluse. Seda tuleks teha ebatavaliste reiside ajal või täiesti võõras piirkonnas viibides.
 
-Kasutades silmapaistvaid maamärke, tähti või merevee maitse muutumist, kuulub täpse liikumise juhtimise võime navigeerimise oskuse alla. Iga navigeerimise oskus hõlmab konkreetset piirkonda või keskkonda, näiteks avamerd või maa-alust. Seda peaks tegema ebatavaliste reiside ajal või täiesti võõral territooriumil.
+#### Oratoorium (VÄG+KAR)
 
-#### Kõnekunst (Oratory) (POW+CHA)
+Oratoorium on suurele inimrühmale kõne pidamise kunst, mille eesmärk on edastada või kõigutada vaatenurka. See on poliitikute poolt sageli kasutatav oskus poliitika juurutamiseks, kuid seda kasutavad ka komandörid vägede innustamiseks ja lahinguväljal distsipliini kehtestamiseks. Kõikjal, kus on vaja massilist veenmist, kasutatakse Mõjutamise asemel Oratooriumi.
 
-Kõnekunst on kunst pidada kõnet suurele hulgale inimestele eesmärgiga edastada või kallutada vaatenurka. See on oskus, mida poliitikud sageli kasutavad poliitika elluviimiseks, kuid mida kasutavad ka komandörid vägede inspireerimiseks ja distsipliini kehtestamiseks lahinguväljal. Alati, kui on vaja masside veenmist, kasutatakse mõjutamise asemel kõnekunsti.
+#### Piloot (OSA+INT)
 
-#### Piloot (Pilot) (DEX+INT)
+Piloodi oskus võimaldab juhtida kindlat klassi (näiteks purilennukid, propellerlennukid, reaktiivmootorid jne) lennuaparaate.
 
-Piloodi oskus lubab juhtida määratletud klassi (näiteks purilennukid, propellerlennukid, reaktiivmootorid jne) lendavaid sõidukeid.
+#### Poliitika (INT+KAR)
 
-#### Poliitika (Politics) (INT+CHA)
+Tegelased, kes valdavad Poliitika oskust, mõistavad, kuidas navigeerida ja läbirääkida valitsuse koridorides kohalikul ja riiklikul tasandil.
 
-Tegelased, kes valdavad poliitika oskust, mõistavad, kuidas navigeerida ja pidada läbirääkimisi valitsuse koridorides kohalikul ja riiklikul tasandil.
+#### Uurimistöö (INT+VÄG)
 
-#### Uurimistöö (Research) (INT+POW)
+Uurimistöö kasutab soovitud teabetükkide avastamiseks erinevaid ressursse (näiteks raamatukogu, ajalehtede arhiiv, arvutivõrk jne).
 
-Uurimistöö kasutab erinevaid ressursse (nagu raamatukogu, ajalehearhiiv, arvutivõrk jne), et avastada soovitud teavet.
+#### Teadus (INT x2)
 
-#### Teadus (Science) (INT x2)
+Teadusvaldkondi on kümneid ja Teaduse oskus, mida saab võtta mitu korda, on alati seotud teatud distsipliiniga: näiteks Teadus (bioloogia) või Teadus (keemia). Teadus asendab tänapäevastes ja futuristlikes oludes Teadmiste oskuse.
 
-On kümneid teaduslikke distsipliine ja teaduse oskus, mida saab võtta mitu korda, on alati seotud distsipliiniga: näiteks Teadus (Bioloogia) või Teadus (Keemia). Teadus asendab moodsates ja futuristlikes keskkondades teadmiste oskust.
+#### Meresõit (INT+VAS)
 
-#### Merendus (Seamanship) (INT+CON)
+Seda oskust kasutatakse samamoodi nagu Paadisõitu, kuid seda rakendatakse suurte purjede või aerupankadega veesõidukite puhul. See hõlmab ka laeva hooldust ja korrashoidu: remondivajaduse hindamist, ohutute ankrukohtade leidmist, tormise ilma ohtusid ja nii edasi.
 
-Seda oskust kasutatakse samamoodi nagu paadisõitu, kuid seda rakendatakse suurte veesõidukite puhul, mida liigutavad purjed või aerupangad. See hõlmab ka laeva hooldust ja korrashoidu: hinnates, millal on remonti vaja, kus on ohutu ankrusse jääda, tormise ilma ohte jne.
+#### Võrgutamine (INT+KAR)
 
-#### Võrgutamine (Seduction) (INT+CHA)
+Võrgutamine on teise inimese romantiline või seksuaalne veenmine, Mõjutamisest väga erinev oskus. See kasutab selgesõnalisi signaale – verbaalseid ja mitteverbaalseid – seksuaalselt positiivse vastuse esilekutsumiseks. See võtab ka märkimisväärselt aega: edukas Võrgutamine võib olenevalt sihtmärgi moraalist, kes saab alati üritada Võrgutamisele Tahtejõuga vastu seista, kesta tunde, päevi või nädalaid.
 
-Võrgutamine on teise inimese romantiline või seksuaalne veenmine, oskus, mis on mõjutamisest väga erinev. See kasutab selgesõnalisi signaale – verbaalseid ja mitteverbaalseid –, et esile kutsuda seksuaalselt positiivset vastust. See võtab ka märkimisväärse aja: edukas võrgutamine võib võtta tunde, päevi või nädalaid, sõltuvalt sihtmärgi moraalist, kes saab alati üritada võrgutamisele tahtejõuga vastu seista.
+#### Sensorid (INT+VÄG)
 
-#### Sensorid (Sensors) (INT+POW)
+See oskus võimaldab sensorseadmete täpset kasutamist ja analüüsi alates keemilistest nuuskuritest kuni sõjaväeliste kaugmaa skanneriteni.
 
-See oskus võimaldab sensorseadmete täpset kasutamist ja analüüsimist, alates keemilistest nuhkijatest kuni sõjaliste kaugskanneriteni.
+#### Näpuosavus (OSA+KAR)
 
-#### Osavus (Sleight) (DEX+CHA)
+Näpuosavus katab väikesed katsed objekte peita (kõrvaltegevus ja nõidus) ning hõlmab katseid taskuid tühjendada, rahakotte lõigata või visuaalset tähelepanu hajutada. Loomulikult on see oluline varaste oskus.
 
-Osavus hõlmab katseid väikseid objekte peita (mustkunst ja osavkäed) ja sisaldab katseid taskuid tühjendada, rahakotte lõigata või visuaalset segadust tekitada. Loomulikult on see varaste oluline oskus.
+#### Tänavatarkus (VÄG+KAR)
 
-#### Tänavatarkus (Streetwise) (POW+CHA)
+Tänavatarkus esindab teadmisi asula kohtadest ja sotsiaalsetest kontaktidest. See hõlmab kõike alates potentsiaalselt ohtlike naabruskondade tuvastamisest kuni kohalike teenuste – legaalsete või illegaalsete – leidmiseni. See, kui kaua Tänavatarkuse katse aega võtab, sõltub sellest, mida otsitakse. Hea võõrastemaja leidmine võtab vähem aega kui varastatud kauba ostja või võltsitud kauplemisloa leidmine.
 
-Tänavatarkus esindab teadmisi asula kohtadest ja sotsiaalsetest kontaktidest. See hõlmab kõike alates potentsiaalselt ohtlike linnaosade tuvastamisest kuni kohalike teenuste – seaduslike või ebaseaduslike – leidmiseni. See, kui kaua tänavatarkuse katse aega võtab, sõltub sellest, mida otsitakse. Hea kõrtsi leidmine võtab vähem aega kui varastatud kauba ostja või võltsitud kauplemisloa leidmine.
+#### Ellujäämine (VAS+VÄG)
 
-#### Ellujäämine (Survival) (CON+POW)
+See oskus katab maal või metsikus looduses ellujäämise, kus tsivilisatsiooni hüved puuduvad: toidu otsimine, lõkke tegemine, peavarju või ohutu magamiskoha leidmine. Nõuetekohase varustuse korral on heited tavaliselt tarbetud, kuna tegelasel võib kaasas olla telk, toiduvarud jne. Alles siis, kui ta on varustusest eraldatud või kui keskkonnatingimused muutuvad halvaks, muutub selle oskuse kasutamine hädavajalikuks. Sellistes tingimustes tehakse heide tavaliselt kord päevas.
 
-See oskus hõlmab maal või kõnnumaal ellujäämist, kus tsivilisatsiooni hüved puuduvad: toidu otsimine, lõkke tegemine, varjupaiga või ohutu magamiskoha leidmine. Nõuetekohase varustusega on kontrollid tavaliselt tarbetud, kuna tegelasel võib kaasas olla telk, toiduvarud jne. Alles siis, kui nad on varustusest eraldatud või keskkonnatingimused muutuvad halvaks, muutub selle oskuse kasutamine hädavajalikuks. Sellistes tingimustes tehakse kontroll tavaliselt kord päevas.
+#### Õpetamine (INT+KAR)
 
-#### Õpetamine (Teach) (INT+CHA)
+Õpetamine võimaldab kasutajal edasi anda oma teadmisi ja tehnikaid lihtsalt mõistetaval ja konstruktiivsel viisil. Ilma selle oskuseta tekivad isegi kõige võimekamal meistril teiste juhendamisel probleemid.
 
-Õpetamine võimaldab kasutajal edasi anda oma teadmisi ja tehnikaid kergesti arusaadaval ja konstruktiivsel viisil. Ilma selle oskuseta tekivad isegi kõige võimekamal meistril raskused teiste juhendamisel.
+#### Jälitamine (INT+VAS)
 
-#### Jälitamine (Track) (INT+CON)
-
-Jälitamise oskust kasutatakse mis tahes uluki või saagi jälgimiseks. See kasutab nii ilmseid kui ka ebaselgeid möödumismärke, et jääda saagi jälgedele, sealhulgas jalajäljed, muljutud lehed, laialipillatud õietolm, nihutatud kivid jne; väikesed, reedavad märgid, mis on oskamatutele nähtamatud. Jälitamise kontrolle tuleb teha perioodiliselt, eriti kui tingimused järsult muutuvad (näiteks vihmavaling häirib teatud märke). See, kui sageli, sõltub sellest, kui kaval saak on olnud. Varjamise kontrolle saab kasutada jälitamise kontrolli vastustamiseks.
+Jälitamise oskust kasutatakse mis tahes ulukite või saagi jälitamiseks. See kasutab saagi jälgedel püsimiseks nii ilmseid kui ka ebamääraseid märke, sealhulgas jalajälgi, muljutud lehti, laialipaisatud õietolmu, paigast nihutatud kive jne; väikesed, reetlikud märgid, mis on oskuseta inimesele nähtamatud. Jälitamise heiteid tuleb teha perioodiliselt, eriti kui tingimused järsult muutuvad (vihmahoog võib näiteks teatud märke häirida). Sagedus sõltub sellest, kui kaval saak on olnud. Jälitamise heite vastandamiseks saab kasutada Varjamise heiteid.
 
 ---
-## Oskuste reeglid erinevates olukordades
+## Oskuste reeglid erinevateks asjaoludeks ja olukordadeks
 
-Kuigi *Mythras Imperative*'is on oskuste kasutamise põhireeglid väga lihtsad, tekib mängu ajal hulgaliselt erinevaid olukordi, mis nõuavad oskuste käsitlemist veidi teistmoodi. Järgmised jaotised vaatlevad neid asjaolusid ja olukordi ning näitavad, kuidas nendega toime tulla.
+Kuigi oskuste kasutamise põhireeglid _Mythras Imperative’is_ on väga lihtsad, tekib mängu ajal palju erinevaid asjaolusid, mis nõuavad oskuste käsitlemist veidi teistmoodi. Järgmised jaotised vaatlevad neid asjaolusid ja olukordi ning näitavad, kuidas nendega toime tulla.
 
-### Oskuste kordamine
+### Oskuste uuesti proovimine
 
-Mõnes olukorras tegelane ebaõnnestub oskuse katses, kuid jääb olukorda, kus ta võiks potentsiaalselt uuesti proovida. Näited võivad olla luku muukimine või järsu seina ronimine. Selle asemel, et lihtsalt edasisi katseid keelata, võivad lahked mängujuhid lubada viimase hetke katse. Kuid tegelane kannatab teatava ärevuse või enesekindluse puudumise all, mis suurendab oskuse kontrolli raskusastet ühe võrra.
+Mõnes olukorras tegelane ebaõnnestub oskuse katses, kuid jääb olukorda, kus ta võiks potentsiaalselt uuesti proovida. Näideteks võivad olla luku avamine või püstloodis seina ronimine. Selle asemel, et lihtsalt edasisi katseid keelata, võivad lahked Mängujuhid lubada jätkuküsimuse, viimase võimaluse katse. Kuid tegelane kannatab teatava ärevuse või enesekindluse puudumise all, mis suurendab oskuse heite raskusastet ühe võrra.
 
-Kui ka see teine pingutus lõpeb ebaõnnestumisega, loetakse, et tegelane on andnud oma "parima lasu" ja ei saa edaspidi rohkem katseid teha.
+Kui ka see teine pingutus lõpeb ebaõnnestumisega, loetakse, et tegelane on andnud oma "parima" ja ei saa edaspidi lähitulevikus rohkem katseid teha.
 
-### Vastandatud kontrollid (Opposed Rolls)
+### Vastasseisuheited
 
-Oskusi seatakse sageli üksteise vastu – näiteks hiilimine versus taju, kui varas üritab aadliku rahakotti lõigata; või pettus versus intuitsioon, kui sama varas üritab katset eitada, kui ta vahele jääb – on head näited kordadest, kus oskusi võrreldakse. Neid nimetatakse vastandatud kontrollideks ja neid kasutatakse seal, kus väljakutse tulemuseks on kas võit või kaotus, õnnestumine või ebaõnnestumine.
+Oskused pannakse sageli proovile teiste oskuste vastu – näiteks vargus vs. taju, kui kelm üritab aadliku rahakotti lõigata; või pettus vs. taipamine, kui sama kelm üritab katset eitada, kui ta vahele jääb – on head näited kordadest, kus oskused vastandatakse üksteisele. Neid nimetatakse vastasseisuheideteks ja neid kasutatakse siis, kui väljakutse tulemuseks on kas võit või kaotus, läbimine või läbikukkumine.
 
-- Vastandatud kontroll määratakse nii: mõlemad osalejad veeretavad oma oskusi. Võitja on see, kes saavutab parema õnnestumise taseme. Kui osalejad saavad sama õnnestumise taseme (mõlemal standardne õnnestumine või mõlemal kriitiline), on võitja see, kellel on kõrgeim täringutulemus, mis jääb endiselt oskuse õnnestumise vahemikku.
+- Vastasseisuheide määratakse järgmiselt: mõlemad osalejad heidavad oma vastavaid oskusi. Võitja on see, kes saavutab parema edukuse taseme. Kui osalejad saavutavad sama edukuse taseme (mõlemal tavasuurem või mõlemal kriitiline edu), siis võitja on see, kellel on kõrgeim täringuväärtus, mis jääb endiselt oskuse edukuse vahemikku.
 
-Kui mõlemad osalejad vastandatud kontrollis ebaõnnestuvad, siis kas:
+Kui mõlemad osalejad vastasseisuheitel ebaõnnestuvad, siis kas:
 
-- Kirjeldage olukorda, jättes mõlemad pooled dramaatilisse pingesse, seejärel veeretage võistlus uuesti, et selgitada välja võitja.
-- Mängujuht peaks esitama selgituse või olud, mis sobivad ebaõnnestumise olemusega.
+- Kirjeldage olukorda, jättes mõlemad pooled dramaatilisse pingesse, seejärel heitke võitja selgitamiseks uuesti.
+- Mängujuht peaks esitama mingi selgituse või asjaolud, mis sobivad ebaõnnestumise olemusega.
 
-Vastandatud kontrolle kasutatakse sageli teatud lahingusituatsioonides, et ületada vigastuste mõjusid või vastustada võitluse eriefekte. Neid kasutatakse ka mürkidele ja haigustele vastuseismiseks või kahjuliku maagia mõjude maha raputamiseks.
+Vastasseisuheiteid kasutatakse sageli teatud lahinguolukordades, et ületada haavade mõju või seista vastu lahingu eriefektile. Neid kasutatakse ka mürkidele ja haigustele vastupanu osutamiseks või kahjuliku maagia mõjude tõrjumiseks.
 
-##### Vastandatud kontrollide näited
+##### Vastasseisuheitete näited
 
-| Tegevus | Vastandatud oskuste näited |
+| Tegevus | Vastasseisuoskuste näited |
 | :-- | :-- |
 | Kauplemine/tingimine | Kaubandus vs. Kaubandus, Mõjutamine vs. Kaubandus |
-| Jälitamine/võidusõit | Kergejõustik vs. Kergejõustik, Kergejõustik vs. Vastupidavus, Ratsutamine vs. Ratsutamine |
-| Petmine või valetamine | Pettus vs. Intuitsioon, Osavus vs. Taju |
-| Lojaalsuse näitamine | Kirg vs. Kirg, Kirg vs. Intuitsioon, Kirg vs. Mõjutamine |
-| Eest ära saamine | Kõrvalepõige vs. Kergejõustik, Kõrvalepõige vs. Mehhanismid, Kõrvalepõige vs. Ratsutamine |
-| Varjumine või hiilimine | Hiilimine vs. Taju; Hiilimine vs. Jälitamine |
-| Rankide tõmbamine | Mõjutamine vs. Tahtejõud, Pettus vs. Tahtejõud |
-| Kursil püsimine | Vastupidavus vs. Vastupidavus, Vastupidavus vs. Jõud |
-| Rahvahulga mõjutamine | Kõnekunst vs. Tahtejõud |
-| Jõukatsumine | Jõud vs. Jõud, Jõud vs. Vastupidavus |
+| Tagaajamine/võidusõit | Kergejõustik vs. Kergejõustik, Kergejõustik vs. Vastupidavus, Ratsutamine vs. Ratsutamine |
+| Petmine või valetamine | Pettus vs. Taipamine, Näpuosavus vs. Taju |
+| Lojaalsuse näitamine | Kirg vs. Kirg, Kirg vs. Taipamine, Kirg vs. Mõjutamine |
+| Teelt kõrvale astumine | Kõrvalepõige vs. Kergejõustik, Kõrvalepõige vs. Mehhanismid, Kõrvalepõige vs. Ratsutamine |
+| Peitmine või hiilimine | Varjumine vs. Taju; Varjumine vs. Jälitamine |
+| Auastme kasutamine | Mõjutamine vs. Tahtejõud, Pettus vs. Tahtejõud |
+| Kursil püsimine | Vastupidavus vs. Vastupidavus, Vastupidavus vs. Jõu |
+| Rahvahulga kõigutamine | Oratoorium vs. Tahtejõud |
+| Jõukatsumine | Jõu vs. Jõu, Jõu vs. Vastupidavus |
 | Tahtejõu katsumine | Tahtejõud vs. Tahtejõud, Võrgutamine vs. Tahtejõud |
 
-### Diferentsiaalkontrollid
+### Diferentsiaalsed heited
 
-Diferentsiaalkontrollid on sarnased vastandatud kontrollidega, välja arvatud see, et lihtsa võidu või kaotuse tulemuse asemel arvutatakse õnnestumise tasemete erinevus. Peamiselt võitluse lahendamiseks kasutatavaid diferentsiaalkontrolle saab kasutada ka muudes olukordades, kus mängujuht soovib võistluse tulemusi üksikasjalikumalt suurendada.
+Diferentsiaalsed heited on sarnased vastasseisuheietega, välja arvatud see, et lihtsa võidu või kaotuse tulemuse asemel arvutatakse välja edukuse tasemete erinevus. Peamiselt lahingute lahendamiseks kasutatavaid diferentsiaalseid heiteid saab kasutada ka muudes olukordades, kus Mängujuht soovib võistluse üksikasjalikke tulemusi suurendada.
 
-Diferentsiaalkontroll määratakse järgmisel viisil: mõlemad osalejad veeretavad oma oskuste vastu ja kannatavad oma veeretuse tulemusi, nagu oleksid nad testitud isoleeritult. Puudub otsene "võitja", kuid see, kes saavutas kõrgema õnnestumise taseme, saab eelise, mis võrdub nende õnnestumise tasemete vahega (eeldades, et vähemalt üks osaleja saavutab standardse õnnestumise või parema). Kui mõlemad osalejad saavutavad sama õnnestumise taseme (mõlemal standardne õnnestumine või mõlemal kriitiline), siis lisamõju puudub.
+Diferentsiaalne heide määratakse järgmiselt: mõlemad osalejad heidavad oma vastavate oskuste vastu ja kannatavad oma heite tulemusi nii, nagu neid testitaks eraldi. Otsest "võitjat" kui sellist pole, kuid see, kes saavutas kõrgema edukuse taseme, saab eelise, mis on võrdne edukuse tasemete erinevusega nende vahel (eeldades, et üks osaleja saavutab vähemalt tavasuure või parema tulemuse). Kui mõlemad osalejad saavutavad sama edukuse taseme (mõlemal tavasuure või mõlemal kriitiline edu), siis täiendavat mõju ei ole.
 
-##### Diferentsiaalkontrollide tulemused
+##### Diferentsiaalsete heidete tulemused
 
-| Veeretuste tulemus | Antagonisti kriitiline | Antagonisti edu | Antagonisti ebaedu | Antagonisti äpardus |
+| Heite tulemus | Antagonist kriitiline | Antagonist edu | Antagonist ebaedu | Antagonist äpardus |
 | :-- | :-: | :-: | :-: | :-: |
-| Protagonisti kriitiline | Kasu puudub | Protagonist võidab 1 taseme | Protagonist võidab 2 taset | Protagonist võidab 3 taset |
-| Protagonisti edu | Antagonist võidab 1 taseme | Kasu puudub | Protagonist võidab 1 taseme | Protagonist võidab 2 taset |
-| Protagonisti ebaedu | Antagonist võidab 2 taset | Antagonist võidab 1 taseme | Kasu puudub | Kasu puudub |
-| Protagonisti äpardus | Antagonist võidab 3 taset | Antagonist võidab 2 taset | Kasu puudub | Kasu puudub |
+| Protagonist kriitiline | Eelis puudub | Protagonist võidab 1 edukuse taseme | Protagonist võidab 2 edukuse tasemet | Protagonist võidab 3 edukuse tasemet |
+| Protagonist edu | Antagonist võidab 1 edukuse taseme | Eelis puudub | Protagonist võidab 1 edukuse taseme | Protagonist võidab 2 edukuse tasemet |
+| Protagonist ebaedu | Antagonist võidab 2 edukuse tasemet | Antagonist võidab 1 edukuse taseme | Eelis puudub | Eelis puudub |
+| Protagonist äpardus | Antagonist võidab 3 edukuse tasemet | Antagonist võidab 2 edukuse tasemet | Eelis puudub | Eelis puudub |
 
-### Vastandatud oskused üle 100%
+### Vastanduvad oskused üle 100%
 
-Kui vastandatud või diferentsiaalkontrolli kõrgeima oskusega osalejal on oskus üle 100%, lahutab see osaleja 100 ja oma oskuse väärtuse vahe iga võistluses osaleja, sealhulgas iseenda, oskusest. See vähendab vastaste oskuse väärtust, kuid jätab talle eelise.
+Kui vastasseisu- või diferentsiaalses heites on kõige kõrgema oskusega osalejal oskus üle 100%, lahutab see osaleja 100 ja oma oskuse väärtuse vahe kõigi võistlusel osalejate, sealhulgas enda oskusest. See vähendab vastaste oskuste väärtust, kuid jätab talle eelise alles.
 
-Kõrgeima oskusega osaleja tuvastamine tuleb arvutada pärast kõigi muude asjaolude modifikaatorite rakendamist.
+Selle tuvastamine, kellel on kõrgeim oskus, tuleb välja arvutada pärast mis tahes muude asjaolude jaoks mõeldud modifikaatorite rakendamist.
 
 ### Niisiis, kui hea sa oled?
 
-Nii mängujuhtidele kui ka mängijatele võib olla väga kasulik omada ühist võrdlusraami selle kohta, mida oskuse väärtus tähendab võrreldava kompetentsuse tasemena. Kas käsitööline, kelle Puidutöö on 48%, on hea tisler või lihtsalt pädev? Kompetentsuse taseme tabel aitab kokku võtta erinevaid tasemeid, mida oskuse reiting võib esindada; see on ka mugav viis mängujuhtidele, kui nad määravad mitte-mängijategelastele ja vastastele üldisi väärtusi. Kui mitte-mängijategelase oskuse juhuslik väärtus on vajalik, annab juhusliku väärtuse veerg täringukoodi soovitud kompetentsuse taseme väärtuse saamiseks.
+Nii Mängujuhtide kui ka mängijate jaoks võib olla väga kasulik omada ühist võrdlusraamistikku selle kohta, mida oskuse väärtus võrreldava pädevustasemena tähendab. Kas käsitööline, kelle Puidutöö on 48%, on hea puusepp või vaid pädev? Pädevustaseme tabel aitab kokku võtta erinevad pädevustasemed, mida võib oodata oskuse reitingult; see on ka mugav viis Mängujuhtidele mitte-mängijatest tegelastele ja vastastele oskuste üldiste väärtuste määramisel. Kui mitte-mängijast tegelase oskuse jaoks on vaja juhuslikku väärtust, annab juhusliku väärtuse veerg täringukoodi, et saada soovitud pädevustaseme piires väärtus.
 
-##### Kompetentsuse taseme tabel
+##### Pädevustaseme tabel
 
-| Oskuse reiting | Juhuslik väärtus | Kompetentsuse tase | Sõjaväeline ekvivalent | Kirjeldus |
+| Oskuse reiting | Juhuslik väärtus | Pädevustase | Sõjaväeline vaste | Kirjeldus |
 | :-- | :-: | :-: | :-: | :-- |
 | 1-30% | 1d20+10 | Algaja | Kahuriliha | Kvalifitseerimata ja õpib põhitõdesid |
-| 31-50% | 1d20+30 | Pädev | Roheline | Saab teha lihtsaid ülesandeid, kui võtab aega ettevaatlik olemiseks |
-| 51-70% | 1d20+50 | Oskuslik | Kogenud | On saavutanud tööalase kompetentsuse taseme |
-| 71-90% | 1d20+70 | Ekspert | Veteran | Tunnustatud professionaal või teemakohane ekspert |
-| 91-110% | 1d20+90 | Meister | Eliit | Peetakse üheks valdkonna parimaks |
-| \>110% | 1d20+110 | Eeskuju | Kangelaslik | Tuntud kaugele ja laialt oma meisterlikkuse poolest |
+| 31-50% | 1d20+30 | Pädev | Roheline | Suudab teha lihtsaid ülesandeid, kui võtab aega olla ettevaatlik |
+| 51-70% | 1d20+50 | Võimekas | Kogenud | On saavutanud tööalase pädevuse taseme |
+| 71-90% | 1d20+70 | Ekspert | Veteran | Tunnustatud kui professionaal või valdkonna ekspert |
+| 91-110% | 1d20+90 | Meister | Eliit | Peetakse üheks oma ala parimaks |
+| >110% | 1d20+110 | Eeskuju | Kangelaslik | Kaugele ja laialt tuntud oma täiusliku oskuse poolest |

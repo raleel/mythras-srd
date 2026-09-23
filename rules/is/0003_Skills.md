@@ -1,396 +1,394 @@
-# Færni
+# Hæfni
 
-Færni skiptist í tvo flokka: Almenn færni og Sérhæfð færni. Allar persónur hafa sama sett af almennri færni. Sérhæfð færni er mismunandi eftir persónum og endurspeglar sérþekkingu sem þróast hefur innan starfsferils og, að vissu marki, menningar þeirra. Þrátt fyrir þennan mun virka almenn og sérhæfð færni á sama hátt.
+Hæfni skiptist í tvo flokka: Almenn hæfni og Fagleg hæfni. Allar persónur hafa sama safn almennra hæfniþátta. Fagleg hæfni er mismunandi eftir persónum og endurspeglar sérfræðiþekkingu sem þróast hefur í starfi og, að vissu marki, í menningu þeirra. Þrátt fyrir þennan mun virka almenn og fagleg hæfni á sama hátt.
 
 ---
-## Hvernig færni virkar
+## Hvernig hæfni virkar
 
-Færni hefur grunnvildi sem byggist á tveimur eiginleikum (Characteristics); eða einum eiginleika margfölduðum með tveimur. Það eru engin efri mörk á gildi færni; hún getur farið yfir 100 og í leik geta persónur átt von á því að sjá færni sína ná slíkum hæðum.
+Hæfni hefur grunnvísi sem byggist á tveimur eiginleikum; eða einum eiginleika margfölduðum með tveimur. Það eru engin efri mörk á gildi hæfni; það getur farið yfir 100 og í spilinu geta persónur átt von á því að sjá hæfni sína ná slíkum hæðum.
 
-Hvenær sem persóna er beðin um að leysa úr prófi, áskorun eða starfstengdri getu, er kastað 1d100 og niðurstaðan borin saman við gildi færninnar:
+Hvenær sem persóna er beðin um að leysa einhvers konar próf, áskorun eða faglega getu, er kastað 1d100 og borið saman við gildi hæfninnar:
 
-- Jafnt eða lægra en færnigildið gefur til kynna árangur (Success)
-- Hærra en færnigildið gefur til kynna mistök (Failure)
+- Jafnt eða minna en hæfnin gefur til kynna árangur (Success)
+- Hærra en gildi hæfninnar gefur til kynna mistök (Failure)
 
-Það eru nokkur sérstök tilvik varðandi árangur og mistök sem ber að hafa í huga:
+Það eru ákveðin sérstök tilvik varðandi árangur og mistök sem vert er að taka eftir.
 
-- Öll köst á bilinu 01-05 eru alltaf árangur
-- Öll köst á bilinu 96-00 eru alltaf mistök, óháð því hversu há færnin er
+- Sérhvert kast upp á 01-05 er alltaf árangur
+- Sérhvert kast upp á 96-00 er alltaf mistök, óháð því hversu hátt gildi hæfninnar er
 
-#### Úrvalsárangur (Criticals) og Klaufaskapur (Fumbles)
+#### Gagnrýndur árangur og klúður (Criticals and Fumbles)
 
-Úrvalsárangur og klaufaskapur tákna stórkostlegan árangur eða mistök; þau tilvik þar sem persóna hefur annaðhvort skarað fram úr í tilraun sinni eða mistekist gjörsamlega.
+Gagnrýndur árangur og klúður tákna stórkostlegan árangur og algjör mistök; þau tilvik þar sem persóna hefur annaðhvort skarað fram úr í tilraun sinni eða mistekist gjörsamlega.
 
-- Úrvalsárangur er jafn einum tíunda af færnigildi (og þetta nær yfir færni sem fær breytistærð – svo breytt færni gæti haft meiri eða minni líkur á úrvalsárangri). Rúnnið brot upp þegar reiknað er út bil fyrir úrvalsárangur. Til dæmis, ef færni er breytt í tvöfalt sitt venjulega gildi – úr 33% í 66% til dæmis – þá væri bil fyrir úrvalsárangur 07 eða lægra.
-- Klaufaskapur er kast upp á 99 eða 00. Færni með gildi yfir 100% verður aðeins fyrir klaufaskap á kasti upp á 00.
+- Gagnrýndur árangur er jafn einum tíunda af gildi hæfninnar (og þetta nær til hæfni sem fær breyti – svo breytt hæfni getur haft meiri eða minni möguleika á gagnrýndum árangri). Nafnbætur skal rúnna upp þegar reiknað er út svið gagnrýnds árangurs. Til dæmis, ef hæfni er breytt í tvöfalt venjulegt gildi sitt – úr 33% í 66% svo dæmi sé tekið, þá væri svið gagnrýnds árangurs kast upp á 07 eða minna.
+- Klúður er kast upp á 99 eða 00. Hæfni með gildi yfir 100% klúðrast aðeins við kast upp á 00.
 
-Nákvæmt eðli úrvalsárangurs eða klaufaskaps er undir leikstjóra (Games Master) komið. Afleiðingarnar gætu verið stórkostlegar eða skelfilegar, eftir aðstæðum.
+Nákvæmt eðli gagnrýnds árangurs eða klúðurs er látið spilastjóra (Games Master) eftir að ákvarða. Afleiðingarnar geta verið undraverðar eða skelfilegar, allt eftir aðstæðum.
 
 #### Sjálfvirkur árangur
 
-Það verða tilvik þar sem kast gegn tiltekinni færni er einfaldlega ekki nauðsynlegt – annaðhvort vegna þess að verkefnið er auðvelt, eða vegna þess að með nægum tíma og einbeitingu er árangur tryggður. Að ríða hesti á rólegu stökki yfir opna engi er dæmi um sjálfvirkan árangur þar sem það að vera fær í athöfninni þýðir að einfaldar aðgerðir krefjast ekki færnikasta. Iðnaðarmaður sem sker trébút í stólsfót er annað dæmi þar sem færnikast er ekki nauðsynlegt; það tekur tíma að ljúka verkinu, en iðnaðarmaðurinn veit hvernig á að vinna verkið og, ef hann flýtir sér ekki, er árangur tryggður. Þjófur, ótruflaður, með lásasett, getur tekist að opna einfaldan lás á fjársjóðskistu ef hann hefur nægan tíma.
+Það koma tilvik þar sem kast gegn tiltekinni hæfni er einfaldlega ekki nauðsynlegt – annaðhvort vegna þess að verkefnið er auðvelt í framkvæmd, eða vegna þess að með nægum tíma og einbeitingu er árangur tryggður. Að ríða hesti á rólegu brokki yfir opinn engi er dæmi um sjálfvirkan árangur þar sem það að vera hæfur í iðninni þýðir að einfaldar aðgerðir krefjast ekki neinna hæfniskasta til að leysa þær. Iðnaðarmaður sem sker trébút í stólsfót er annað dæmi þar sem hæfniskast er ekki nauðsynlegt; það tekur tíma að framkvæma það, en iðnaðarmaðurinn veit hvernig á að vinna verkið og, ef hann flýtir sér ekki, er árangur tryggður. Þjófur, óáreittur, með sett af lásatólum, getur tekist að opna einfaldan lás á fjársjóðskistu ef hann hefur nægan tíma til þess.
 
-#### Breytingar á færni (Modifying Skills)
+#### Breyting á hæfni (Modifying Skills)
 
-Það eru tilvik þar sem færnikast er nauðsynlegt, en líkur á árangri þarf að aðlaga til að endurspegla núverandi aðstæður. Að flýja undan ræningjum gæti til dæmis krafist íþróttakasts (Athletics). En hvað ef persónan flýr í myrkri eða gegnum erfiðan kjarr? Í slíku tilviki getur leikstjórinn krafist þess að færni persónunnar sé breytt til að endurspegla aðstæðurnar.
+Það eru tilvik þar sem hæfniskast er krafist, en líkurnar á árangri þurfa að vera stilltar til að endurspegla núverandi aðstæður. Flótti frá ræningjum gæti til dæmis krafist frjálsíþróttakasts (Athletics). En hvað ef persónan er að flýja í myrkri eða í gegnum torfæran undirgróður? Í slíku tilviki getur spilastjóri krafist þess að breyta hæfni persónunnar til að endurspegla aðstæðurnar.
 
-_Mythras Imperative_ notar röð stigvaxandi erfiðleikastiga til að ákvarða hvernig færni er breytt. Þeir eru sem hér segir. Athugaðu að tvær tegundir af breytum eru í boði: sú fyrsta er sjálfgefna aðferðin, sem felur í sér smá stærðfræði, en býður upp á betri hermun, sérstaklega þar sem hærri færnihlutföll eiga í hlut. Einfölduð færnibreyting er einföld samlagning eða frádráttur, og auðveldari í útfærslu. Veldu þá aðferð sem hentar leiknum best en tryggðu að sama kerfi sé notað í gegn.
+_Mythras Imperative_ notar röð stiga til að ákvarða hvernig hæfni er breytt. Þau eru sem hér segir. Athugaðu að tvær tegundir af breytum eru í boði: sú fyrsta er sjálfgefna aðferðin, sem felur í sér smá stærðfræði, en býður upp á betri hermun fyrir skölun, sérstaklega þar sem hærri hæfnihlutfall eiga í hlut. Einfölduð hæfnibreyting (Simplified Skill Modifier) er einföld samlagning eða frádráttur, og auðveldari í framkvæmd. Veldu hvaða aðferð hentar leiknum best en tryggðu að sama breytingakerfi sé beitt stöðugt.
 
 ##### Tafla yfir erfiðleikastig
 
-| Erfiðleikastig | Færnibreyting | Einfölduð færnibreyting |
+| Erfiðleikastig | Hæfnibreyting | Einfölduð hæfnibreyting |
 | :-- | :-- | :-: |
 | Sjálfvirkt | Engin þörf á kasti | Engin þörf á kasti |
-| Mjög auðvelt | Tvöfalda færnigildi | +40% |
-| Auðvelt | Bæta við helmingi færnigildis | +20% |
-| Venjulegt | Engin breyting | Ekkert |
-| Erfitt | Minnka færnigildi um þriðjung | -20% |
-| Ógnvekjandi | Minnka færnigildi um helming | -40% |
-| Herkúlesískt | Minnka færnigildi í einn fimmta | -80% |
+| Mjög auðvelt | Tvöfalda hæfnigildið | +40% |
+| Auðvelt | Bæta helmingi ofan á hæfnigildið | +20% |
+| Staðlað | Engin aðlögun | Ekkert |
+| Erfitt | Minnka hæfnigildið um þriðjung | -20% |
+| Ógnvænlegt | Minnka hæfnigildið um helming | -40% |
+| Herkúlesarlegt | Minnka hæfnigildið í fimmtung | -80% |
 | Vonlaust | Engin tilraun möguleg | Engin tilraun möguleg |
 
-Þar sem persóna þjáist nú þegar af refsistigi vegna annarra aðstæðna, hefur erfiðasta stigið forgang.
+Þar sem persóna þjáist þegar af refsingu vegna annarra aðstæðna, hefur erfiðasta erfiðleikastigið forgang.
 
-Utan bardaga veitir _Mythras Imperative_ ekki tæmandi lista yfir aðstæður og áskoranir sem geta leitt til færnibreytinga. Hvers konar breytinga er þörf fyrir hverja færni eða samhengi er að lokum ákvörðun leikstjórans, miðað við getu persónanna, skynjun hans á erfiðleika aðstæðna og spennuna á hverjum tíma.
-
----
-## Almenn færni (Standard Skills)
-
-#### Íþróttir (Athletics) (STR+DEX)
-
-Íþróttir ná yfir ýmsar líkamlegar athafnir, þar á meðal klifur, stökk, köst og hlaup. Færniköst fyrir einhverja af þessum athöfnum eru afgreidd með einu kasti gegn Íþróttum. Sjá [Hreyfing](0005_Combat.md?id=situational-movement-rates) fyrir frekari upplýsingar um klifur, stökk og hlaup.
-
-#### Bátaferðir (Boating) (STR+CON)
-
-Bátaferðir ná yfir notkun lítilla fljótandi farartækja á ám, vötnum og nærri ströndum. Viðeigandi farartæki eru almennt bátar, kanóar eða flekar sem ferðast stuttar vegalengdir og henta ekki fyrir erfiðleika úthafsins. Flestum er ýtt áfram með árum, árstöngum, puntum eða einföldum seglum; eða jafnvel dregin af dýrum. Skip með stórum áhöfnum eða hönnuð fyrir langar ferðir yfir höf falla undir sérhæfðu færnina Sjómennsku.
-
-#### Líkamlegt afl (Brawn) (STR+SIZ)
-
-Líkamlegt afl er skilvirk beiting tækni þegar beitt er hráu líkamlegu afli. Færnin nær yfir athafnir þar sem beitt er styrk, þar á meðal að lyfta, brjóta upp hurðir og styrktarkeppnir.
-
-#### Bardagastíll (Combat Style) (STR+DEX)
-
-Hver Bardagastíll er færnin til að nota þau vopn sem búast má við í starfi eða menningu í umhverfinu. Flestar bardagahefðir fela í sér þjálfun í mörgum vopnum, ásamt þeirri tækni sem þarf til að nota þau öll á áhrifaríkan hátt, hvort sem er stök eða í samsetningu. Að auki gera þær oft ráð fyrir aðstæðubundnum þætti, svo sem að berjast í lokuðum hópum eða á hestbaki. Bardagastílar geta verið mjög fjölbreyttir, allt frá til dæmis Skylmingum upp í geimhermennsku.
-
-#### Fela hluti (Conceal) (DEX+POW)
-
-Fela hluti er andstæðan við Laumuspil, þar sem hún felur stóra hluti frekar en persónuna sjálfa. Til dæmis mætti nota hana til að fela stríðsvagn á bak við grjót, eða sópa burt hjólförum þannig að ekki sé hægt að rekja slóðina. Færnin er fjölhæf í notkun, allt frá því að fela bókrollu í bókasafni til þess að dylja tilvist gildru eða leynigangs.
-
-#### Venjur (Customs) (INT x2 +40)
-
-Venjur tákna þekkingu persónunnar á eigin samfélagi: félagslegum reglum þess, helgisiðum, bannhelgi o.s.frv. Færnin er notuð þegar mikilvægt er að túlka eða framkvæma félagslega mikilvæga venju nákvæmlega eða haga sér á tiltekinn hátt.
-
-#### Dans (Dance) (DEX+CHA)
-
-Næstum öll menning notar dans á einhvern hátt – annaðhvort til skemmtunar eða sem hluta af mikilvægum helgisiðum. Það gæti verið hirðdans, stríðsdans eða einföld hreyfing sem fylgir bæn eða hátíðlegum söng. Dansfærni mælir getu persónu til að hreyfa sig taktfast og nákvæmlega (að sanngjörnu marki) þegar þess er krafist.
-
-#### Blekking (Deceit) (INT+CHA)
-
-Blekking nær yfir öll tilvik þar sem persóna reynir að dylja sannleikann og bjóða upp á einhvers konar blekkingu: hreinar lygar, að villa um fyrir verði, eða jafnvel að blöffa (eða svindla) í kortaspili. Færnin nær einnig yfir tilvik þar sem nauðsynlegt er að fela sannar tilfinningar eða hvatir (kannski að þykjast vera ánægður þegar maður er biturlega fyrir vonbrigðum, eða reyna að virðast velkominn og opinn þegar hið gagnstæða er satt). Blekking er andstæðan við Innsæi og hægt er að nota hana til að mæta Innsæisköstum þegar aðrir eru að reyna að greina sannleika eða hvatir.
-
-#### Akstur (Drive) (DEX+POW)
-
-Akstur nær yfir stjórn á hjólandi eða dregnum ökutækjum, hvort sem er af einu eða fleiri burðardýrum eða knúin af dularfyllri hætti, svo sem stríðsvagnar, sleðar, seglvagnar eða jafnvel bensínbílar. Kast er einnig nauðsynlegt ef ökutækið sem ekið er er dregið eða knúið með öðrum hætti en ökumaðurinn er vanur (hestar í stað uxa, eða mótor í stað dýra til dæmis).
-
-#### Þol (Endurance) (CON x2)
-
-Þol er geta persónu til að þola líkamlegt álag, sársauka og þreytu. Það mælir getu líkamans til að takast á við hugsanlegar skaðlegar eða veikjandi aðstæður og er almennur mælikvarði á seiglu, úthald og efnaskipti. Þol, eins og andstæða þess Viljaþrek, er notað á margvíslegan hátt, en sérstaklega til að standast hugsanleg áhrif meiðsla, þar með talið skaðlegra eiturefna og sjúkdóma.
-
-#### Undankoma (Evade) (DEX x2)
-
-Undankoma er notuð til að flýja vofandi hættu og hægt er að nota hana gegn langdrægum vopnum (til dæmis með því að kasta sér í skjól), forðast gildrur, breyta fjarlægð í bardaga og almennt koma sér undan hugsanlegri líkamlegri hættu. Hægt er að nota hana sem varnarkast gegn ákveðnum tegundum galdra. Notkun Undankomu skilur persónuna yfirleitt eftir liggjandi. Þeir sem hafa bardagastíleiginleikann „Daredevil“ mega nota Undankomu til að forðast návígisárás án þess að falla niður, og gegn langdrægri árás enda þeir aðeins liggjandi ef þeir mistakast með kastið.
-
-#### Skyndihjálp (First Aid) (DEX+INT)
-
-Skyndihjálp mælir getu persónu til að meðhöndla minniháttar meiðsli og stöðugleikasetja alvarlegri meiðsli. Skyndihjálp má aðeins beita einu sinni á hvert tiltekið meiðsl og græðir 1d3 punkta af skaða.
-
-#### Áhrifavaldur (Influence) (CHA x2)
-
-Þetta er mælikvarði á getu persónu til að sannfæra aðra, í gegnum persónutöfra, til að haga sér á tiltekinn hátt. Hún er notuð í fjölmörgum aðstæðum; allt frá því að breyta skoðun einhvers, til þess að múta embættismanni eða verði. Áhrifaköst eru venjulega andstæð Skynjun, Viljaþreki eða annarri Áhrifafærni, eftir aðstæðum, og þeim er breytt eftir því hversu mikið persónan er að reyna að hafa áhrif á hegðun. Að reyna að sannfæra náinn vin um að lána þér hestinn sinn gæti verið tiltölulega auðvelt. Að fá embættismann sem venjulega er óspilltur til að taka við mútum er erfiðara.
-
-#### Innsæi (Insight) (INT+POW)
-
-Innsæi er getan til að lesa eða innsæislega skilgreina munnlega og ómunnlega hegðun annarra (svo sem líkamsmál eða talvenjur) til að ákvarða hvatir þeirra og hugarástand. Innsæi er notað til að ákvarða hvort einhver sé að ljúga (og hægt er að mæta því með Blekkingarfærni hins aðilans), eða til að spá fyrir um hvernig einhverjum líður varðandi tilteknar aðstæður. Einnig er hægt að beita Innsæi á ákveðnar aðstæður sem og annað fólk: er þessi krá hættuleg? Gætu ræningjarnir verið að skipuleggja fyrirsát í nálægum hæðum?
-
-#### Staðþekking (Locale) (INT x2)
-
-Staðþekking mælir skilning persónu á gróðri, dýralífi, landslagi og veðri á svæðinu þar sem viðkomandi hefur eytt mestum hluta ævi sinnar, venjulega innan síns samfélags. Persónan þekkir algengar plöntur, tré og dýr, eiginleika þeirra og hegðun: hvar bestu fiskana er að finna; ferðir villidýra; hvar hægt er að finna skjól; líklegt veður fyrir árstíðina og algengustu hætturnar á svæðinu. Á nágrannasvæðum, sem þó eru ókunnug, ætti Staðþekking að vera einu eða fleiri stigum erfiðari.
-
-#### Móðurmál (Native Tongue) (INT+CHA +40)
-
-Móðurmál er getan til að tala og lesa eigið tungumál, það sem lært var í æsku í heimamenningunni. Móðurmál mælir skýrleika, mælsku og dýpt orðaforða.
-
-Ólíkt annarri færni er ekki kastað beint gegn Móðurmáli. Í staðinn er það meðhöndlað sem stöðug framsetning á heildar málkunnáttu, sem takmarkar stig samræðna. Þetta er lýst nánar undir Tungumálafærni, en upphafsstafir persóna byrja venjulega leikinn fullkomlega fljótandi á móðurmálinu.
-
-#### Skynjun (Perception) (INT+POW)
-
-Skynjun er notuð bæði fyrir óbeina athugun og einbeitta leit; hvort sem það er að veiða eitthvað sérstakt, almenn skönnun á svæði eða einföld meðvitund um umhverfið. Tilteknar aðstæður – myrkur, til dæmis – geta haft áhrif á erfiðleikastig færnikastsins eftir því hvaða skilningarvit eru notuð. Sterk lykt gæti gert lyktarskynjunarpróf auðvelt frekar en venjulegt, en að reyna að hlera samtal í troðfullri og háværri krá myndi gera kastið erfitt.
-
-#### Reiðmennska (Ride) (DEX+POW)
-
-Reiðmennska nær yfir getu til að stjórna og haldast á baki þeim verum sem eru þjálfaðar til að vera riðnar. Færnina má beita á fjölbreytt úrval dýra, allt frá múldýrum til fíla; jafnvel fljúgandi eða syndandi verur eins og risaerni eða höfrunga. Að ríða ókunnugri tegund er alltaf einu erfiðleikastigi erfiðara; á meðan það að ríða tegund af öðrum miðli (hestamaður á dreka, til dæmis) er tveimur stigum erfiðara. Villtar, ótamdar verur geta ekki verið riðnar á uppbyggilegan hátt fyrr en þær hafa verið taminar og þjálfaðar sem reiðdýr.
-
-#### Söngur (Sing) (POW+CHA)
-
-Að halda lagi er undir Söng, allt frá einhæfum söngvum til flókinna aría. Söngur er innbyggður hluti flestrar menningar, aðaluppspretta afþreyingar og kannski notaður í helgisiðum. Mikilvæg lög gætu verið notuð við kurtvísileit, til að hvetja hermenn fyrir bardaga eða einfaldlega til að segja frá sögulegum verkum. Færnin endurspeglar getu notandans til að halda takti, halda tónhæð og muna réttu orðin.
-
-#### Laumuspil (Stealth) (DEX+INT)
-
-Að fela sig eða hreyfa sig með lágmarks hljóði er undir Laumuspili. Skjól og aðstæður, svo sem myrkur eða hávær bakgrunnshljóð, bæta stig færninnar eftir sérkennum umhverfisins. Á sama hátt munu erfiðar aðstæður, svo sem skortur á skjóli eða kyrrlát nótt, minnka stig færninnar. Aðstæður hafa einnig áhrif á erfiðleika tilraunarinnar. Til dæmis getur stríðsmaður í þungri brynju auðveldlega falið sig á bak við vegg, að því gefnu að hann standi kyrr eða hreyfi sig mjög hægt, á meðan hröð hreyfing gæti valdið því að brynjan klíri.
-
-#### Sund (Swim) (STR+CON)
-
-Án þjálfunar takmarkast sundgeta við að geta spriklað og haldið höfðinu fyrir ofan vatnið í stuttan tíma. Hærra sundhlutfall gefur til kynna getu til að takast á við dýpra og straumharðara vatn, með minni hættu á drukknun. Að gera sundkast fer því algjörlega eftir aðstæðum. Sjór, sterkir straumar, hvítvatn og undiraldur minnka allt stig færninnar, sama hver tengsl persónunnar við vatn kunna að vera. Sjá [Hreyfing](0005_Combat.md?id=situational-movement-rates) fyrir frekari upplýsingar um sund, þar með talið útreikning á sundhraða.
-
-#### Óvopnaður bardagi (Unarmed) (STR+DEX)
-
-Óvopnaður bardagi er alhliða bardagafærni sem er algeng öllum persónum, sem mælir getu til að verja sig án aðstoðar vopna. Óvopnaður bardagi nær yfir bardaga- og glímutækni sem þekkt er í þeirri menningu.
-
-Þar sem Óvopnaður bardagi er bardagafærni, er fjallað um áhrif úrvalsárangurs og klaufaskaps í reglum um bardaga, eins og útskýrt er í [Bardaga](0005_Combat.md) kaflanum.
-
-#### Viljaþrek (Willpower) (POW x2)
-
-Viljaþrek er mælikvarði á getu persónu til að einbeita sér, beina viljakrafti sínum í ákveðna átt, eða herða sál sína gegn hugsanlegu andlegu áfalli. Það er einnig mælikvarði á persónulega ákveðni. Færnin er notuð í alls kyns aðstæðum þar sem andleg seigla er nauðsynleg, og þetta felur í sér að standast galdra. Þótt þetta sé ekki mælikvarði á geðheilsu má nota hana til að þola áföll sem myndu hrista jafnvel heilbrigðustu og stöðugustu sálir. Viljaþrek er andlega andstæðan við Þol.
-
-Aftur, eins og Þol og Undankoma, er Viljaþrek oftast notað í andstæðum köstum. Þegar það er notað sem staðlað próf gefur úrvalsárangur í Viljaþreki til kynna að persónan hafi hert hug sinn og sál að því marki að engar frekari tilraunir til að hafa áhrif á hann, eða hrista ákveðni hans, munu virka. Ef um er að ræða að standast galdra þýðir úrvalsárangur að engir frekari andlegir galdrar frá andstæðingnum hafa nein áhrif á persónuna það sem eftir lifir viðureignarinnar.
+Fyrir utan bardaga veitir _Mythras Imperative_ ekki endanlegan lista yfir aðstæður og áskoranir sem geta valdið hæfnibreytingum. Hvers konar breytinga er krafist fyrir tiltekna hæfni eða samhengi er að lokum undir spilastjóra komið að ákveða, í samræmi við getu persónanna, skynjun hans á erfiðleika aðstæðna og dramatískri spennu á því augnabliki.
 
 ---
-## Sérhæfð færni (Professional Skills)
+## Almenn hæfni
 
-Sérhæfð færni er mismunandi eftir persónum og táknar sérhæfðari þjálfun og reynslu. Sum sérhæfð færni er fengin í gegnum menningarbakgrunn og starfsferil persónunnar, eins og nafnið gefur til kynna. Þótt hún sé mismunandi eftir persónum virkar hún á sama hátt og almenn færni.
+#### Íþróttir (STY+LIP)
 
-#### Leiklist (Acting) (CHA x2)
+Íþróttir ná yfir ýmis konar líkamsrækt, þar með talið klifur, stökk, köst og hlaup. Hæfniskast fyrir einhverja af þessum athöfnum er meðhöndlað með einu kasti gegn Íþróttahæfni. Sjá [Hreyfingu](0005_Combat.md?id=situational-movement-rates) fyrir frekari upplýsingar um klifur, stökk og hlaup.
 
-Leiklist stjórnar þeirri list að geta hermt eftir og komið á framfæri algjörlega ólíkri persónu, hvort sem er í sviðsflutningi eða í félagslegum aðstæðum. Leikarinn sýnir persónuleika og látbragð sem er frábrugðið hans eigin á sannfærandi hátt. Ásamt dulargervi- og blekkingarfærni er þetta öflug leið til að verða einhver annar í heild sinni.
+#### Bátastjórn (STY+ÞOL)
 
-#### Leikfimi (Acrobatics) (STR+DEX)
+Bátastjórnarhæfni nær yfir rekstur lítilla fljótandi farartækja á ám, vötnum og nálægt ströndum. Viðeigandi farartæki eru almennt bátar, kanóar eða flekar sem ferðast stuttar vegalengdir og henta ekki fyrir hörku úthafsins. Flest eru knúin áfram með árum, árstöngum, stjaka eða einföldum seglum; eða geta jafnvel verið dregin af dýrum. Skip með stórum áhöfnum eða hönnuð fyrir langar utanlandsferðir falla undir faglega hæfni í Sjómennsku.
 
-Leikfimi nær yfir jafnvægislistir, fimleika, jögl og kollhnísa. Færnina má nota til að heilla áhorfendur, en einnig til að hjálpa til við að draga úr skaða af falli. Með árangursríku kasti getur persóna hreyft sig á fullum hraða og með öruggum fótum yfir óstöðugt eða þröngt yfirborð. Ef reynt er að draga úr skaða af óvæntu falli, helmingar árangursríkt leikfimi-kast hvern þann skaða sem hlýst. Að auki, ef kastið er árangursríkt og persónan verður ekki fyrir alvarlegu sári vegna fallsins, lendir persónan tiltölulega örugglega og er ekki liggjandi.
+#### Líkamlegur styrkur (STY+STÆ)
 
-Leikfimi má nota í stað Undankomu ef aðstæður réttlæta það. Kosturinn við þetta er að persónan endurheimtir sjálfkrafa jafnvægið í stað þess að falla.
+Líkamlegur styrkur er skilvirk beiting tækni þegar beitt er hreinum líkamlegum krafti. Hæfnin nær yfir athafnir sem krefjast beitts afls, þar á meðal að lyfta, brjóta niður hurðir og styrktarkeppnir.
 
-#### Stjörnurötun (Astrogation) (INT x2)
+#### Bardagastíll (STY+LIP)
 
-Stjörnurötun er jafngildi siglingafræði, nema hún gerir geimskipstjórum kleift að skipuleggja námskeið á stjörnu- og millistjörnufjarlægðum.
+Sérhver bardagastíll er hæfni til að nota þau vopn sem búist er við af starfi eða menningu í umhverfinu. Flestar bardagahefðir fela í sér þjálfun í mörgum vopnum, ásamt þeim tækni sem krafist er til að nota þau öll á áhrifaríkan hátt, hvort sem er stök eða í samsetningu. Að auki gera þær oft ráð fyrir aðstæðubundnum þætti, svo sem að berjast sem fótgöngulið í þéttri röð eða á hestbaki. Bardagastílar geta verið mjög fjölbreyttir, allt frá til dæmis skylmingum í gladiator-stíl upp í fótgönguliða í geimher.
 
-#### List (Art) (POW+CHA)
+#### Fela hluti (LIP+MÁT)
 
-Það eru margar sérstakar listgreinar. Málverk til ljóða; bókmenntir til höggmyndagerðar. Persóna velur listgrein þegar hún lærir þessa færni. Eftirfarandi listgreinar eru framhaldsnám fyrir sig. Kast er gert þegar persóna verður að heilla eða sannfæra með sínum listræna miðli.
+Fela er mótvægi við laumuspil, þar sem hulið er stórum hlutum frekar en persónunni sjálfri. Til dæmis mætti nota Fela til að fela stríðsvagn á bak við kletta, eða sópa burt hjólförunum sem hann skildi eftir svo ekki sé hægt að rekja slóð hans. Hæfnin er fjölhæf í beitingu, allt frá því að fela bókrollu í bókasafni til þess að dylja nærveru gildru eða leynigangs.
 
-#### Skrifræði (Bureaucracy) (INT x2)
+#### Siðvenjur (GRE x2 +40)
 
-Skilningur á stjórnsýsluferlum, skrám og ósögðum venjum er undir skrifræðisfærni. Hún er notuð til að eiga samskipti við embættismenn eða uppgötva viðeigandi borgaralegar upplýsingar. Eftir því hversu háþróuð menning þeirra er, þurfa skrifstofumenn ekki endilega að vera læsir. Hvenær sem þarf að sigla gegnum skrifræði eða stjórnsýslulandslag er skrifræðiskast nauðsynlegt.
+Siðvenjur tákna þekkingu persónunnar á eigin samfélagi: félagslegum kóðum þess, helgisiðum, trúarathöfnum, bannhelgum og svo framvegis. Hæfnin er notuð þegar mikilvægt er að túlka nákvæmlega eða framkvæma einhverja félagslega mikilvæga siðvenju eða haga sér á ákveðinn hátt.
 
-#### Viðskipti (Commerce) (INT+CHA)
+#### Dans (LIP+KAR)
 
-Viðskipti eru notuð til að meta verðmæti vöru og hrávöru og til að versla með þær á sem bestu verði. Hún er einnig notuð til að skilja flækjur viðskiptasamninga auk þess að tryggja hagnað. Frekari notkun er við að finna bestu leiðina til að losa sig við stolna og ólöglega hluti – aftur á besta verði. Viðskipti eru augljóslega notuð við verslun og hægt er að mæta henni með annaðhvort viðskiptafærni andstæðingsins eða Viljaþreki, sem endurspeglar tilraunir hins aðilans til að hnika samningnum sér í hag. Hún er einnig notuð til að dæma markaðsvirði vöru, fá hugmynd um verð, og hvar það verður best verslað.
+Næstum öll menning notar dans á einhvern hátt – annaðhvort sem afþreyingu eða sem hluta af mikilvægum helgisiðum. Það gæti verið hirðdans, stríðsdans eða einföld röð hreyfinga sem fylgja bæn eða hátíðlegum söng. Danshæfni mælir getu persónu til að hreyfa sig rytmískt og nákvæmlega (að sanngjörnu marki) þegar þess er krafist.
 
-#### Samskipti (Comms) (INT x2)
+#### Svik (GRE+KAR)
 
-Þessi færni gefur getu til að nota samskiptabúnað til að greina, fela eða loka fyrir samskiptastraum. Hún gefur einnig tækifæri til að brjóta dulkóðuð skilaboð (að því gefnu að notandinn hafi aðgang að kóðabrjóti).
+Svik ná yfir öll tilvik þar sem persóna reynir að hylja sannleikann og bjóða upp á blekkingu af einhverju tagi: skammarlausar lygar, að villa um fyrir verði, eða jafnvel að bluffa (eða svindla) í kortaspili. Hæfnin nær einnig yfir tilvik þar sem nauðsynlegt er að fela sannar tilfinningar eða hvatir (kannski að þykjast vera ánægður þegar maður er biturlega fyrir vonbrigðum, eða reyna að virðast velkominn og opinn þegar hið gagnstæða er satt). Svik mynda mótvægi við Innsæishæfni og hægt er að nota þau til að andmæla Innsæisköstum þegar aðrir eru að reyna að greina annaðhvort sannleika eða hvatir.
 
-#### Tölvur (Computers) (INT x2)
+#### Akstur (LIP+MÁT)
 
-Tölvur endurspegla getu persónunnar til að leysa flókin vandamál eða draga út flóknar upplýsingar með því að nota tölvukerfi – hvort sem það er með forritunarkóða, ítarlegri notkun á tilteknum hugbúnaði, hakkun, eða jafnvel að greina/gera við hugbúnaðar- og vélbúnaðarvandamál. Almenn notkun tölva krefst venjulega ekki kasts.
+Akstur nær yfir stjórn á hjólandi eða dregnum farartækjum, hvort sem er af einu eða fleiri burðardýrum eða knúin áfram með dularfyllri hætti, svo sem stríðsvögnum, sleðum, seglvögnum eða jafnvel bensínbílum. Kast er einnig nauðsynlegt ef farartækið sem ekið er er dregið eða knúið á annan hátt en ökumaðurinn er vanur (til dæmis hestar í stað uxna, eða mótor í stað dýra).
 
-#### Kurteisi (Courtesy) (INT+CHA)
+#### Þol (ÞOL x2)
 
-Þessi færni nær yfir skilning á því hvernig á að haga sér viðeigandi í félagslegum eða formlegum aðstæðum: ávarpsform, helgisiðir og hegðunarvenjur o.s.frv. Það felur í sér allt frá því hverjum á að hneigja sig fyrir og hvenær, til þess hversu lágt; frá því hvenær á að nota tiltekinn titil til þess hvenær viðeigandi er að vera óformlegur.
+Þol er geta persónu til að þola líkamlegt álag, sársauka og þreytu. Það mælir getu líkamans til að takast á við hugsanlega skaðlegar eða veikjandi aðstæður og er almennur mælikvarði á seiglu, úthald og efnaskipti. Þol, eins og mótvægi þess, Viljastyrkur, er notað á marga vegu, en sérstaklega til að standast hugsanleg áhrif meiðsla, þar með talið skaðlegra eiturefna og sjúkdóma.
 
-#### Iðn (Craft) (DEX+INT)
+#### Undankoma (LIP x2)
 
-Hver iðn er sérhæfð tegund, og það eru eins margar iðngreinar og það eru starfsgreinar fyrir þær. Eins og list, er iðn notuð til að búa til viðkomandi hlut. Hversu langan tíma það tekur fer algjörlega eftir eðli vörunnar: að vefa mottu tekur lengri tíma en að búa til pott, til dæmis, en tími er ekki endilega mikilvægasti þátturinn: það er færni iðnaðarmannsins, gæði auðlinda og athygli á smáatriðum.
+Undankoma er notuð til að flýja úr sjáanlegri, yfirvofandi hættu og hægt er að nota hana gegn langdrægum vopnum (til dæmis með því að kasta sér í skjól), forðast gildrur, breyta fjarlægð í bardaga og almennt komast út úr vegi hugsanlegrar líkamlegrar hættu. Hægt er að nota hana sem mótstöðukast fyrir ákveðnar tegundir galdra. Að nota Undankomu skilur persónuna yfirleitt eftir liggjandi. Þeir sem hafa bardagastílsþáttinn "Dirfskuförur" (Daredevil) geta notað Undankomu til að forðast návígisárás án þess að falla niður, og gegn langdrægri árás enda þeir aðeins liggjandi ef þeir mistakast við kastið.
 
-#### Menning (Culture) (INT x2)
+#### Skyndihjálp (LIP+GRE)
 
-Menning er sértækari útgáfa af almennri færni Venja, sem tengist frekar samfélögum sem eru framandi fyrir persónuna sjálfa. Hverri menningarfærni verður að gefa tiltekið land eða samfélag sem hún á við um. Vélrænt virkar hún á sama hátt og Venjufærnin.
+Skyndihjálparhæfni mælir getu persónu til að meðhöndla minniháttar meiðsli og koma á stöðugleika hjá alvarlegri meiðslum. Skyndihjálp má aðeins beita einu sinni á hvert tiltekið meiðsli og læknar 1d3 skaðapunkta.
 
-#### Sprengjuvísindi (Demolitions) (INT+POW)
+#### Áhrif (KAR x2)
 
-Þessi færni leyfir persónu að meðhöndla og nýta sprengiefni á öruggan hátt, hvort sem er að setja þau upp eða afvopna þau.
+Þetta er mælikvarði á getu persónu til að sannfæra aðra, með persónulegum sjarma, um að haga sér á æskilegan hátt. Það er notað í fjölbreyttum aðstæðum; frá því að skipta um skoðun á einhverjum, til þess að múta embættismanni eða verði. Áhrifaköstum er yfirleitt andmælt af Skynjun, Viljastyrk eða annarri Áhrifahæfni, allt eftir aðstæðum, og þeim er breytt eftir því hversu mikið persóna reynir að hafa áhrif á hegðun. Að reyna að sannfæra náinn vin um að lána þér hestinn sinn gæti verið tiltölulega auðvelt. Að fá almennt óspilltan embættismann til að þiggja mútur er erfiðara.
 
-#### Dulargervi (Disguise) (INT+CHA)
+#### Innsæi (GRE+MÁT)
 
-Að gera sannfærandi dulargervi, með viðeigandi efni (búningar, snyrtivörur, hárkollur eða hárkollur), er undir Dulargervisfærni. Að búa til dulargervið krefst tíma og athygli á smáatriðum, auk aðgangs að réttu efnunum til að gera það sannfærandi. Ef einhver, eða allir, af þessum þáttum eru ekki til staðar, þá er erfiðleikastig Dulargerviskastsins gert eitt eða fleiri stig erfiðara.
+Innsæi er geta til að lesa eða skilgreina á innsæis-legan hátt munnlega og ómunnlega hegðun annarra (svo sem líkamstjáningu eða framkomu) til að komast að hvötum þeirra og hugarástandi. Innsæi er notað til að ákvarða hvort einhver sé að ljúga (og hægt er að andmæla því með Svikahæfni þess sem á í hlut), eða til að spá fyrir um hvernig einhverjum líður varðandi ákveðnar aðstæður. Einnig er hægt að beita Innsæi á ákveðnar aðstæður jafnt sem annað fólk: er kráin griðastaður fyrir vandræði? Gætu ræningjarnir verið að skipuleggja fyrirsát í nálægum hæðum?
 
-Hægt er að bæta dulargervi með Leiklist til að auka heildaráhrif blekkingar (og öfugt við flutning) og því eru þessar tvær færnir til fyllingar.
+#### Svæðisþekking (GRE x2)
 
-#### Rafeindatækni (Electronics) (DEX+INT)
+Svæðisþekking mælir skilning persónu á gróðri, dýralífi, landslagi og veðri á því svæði þar sem hann eða hún hefur eytt mestum hluta ævinnar, yfirleitt innan samfélags síns. Persónan þekkir algengar plöntur, tré og dýr, eiginleika þeirra og hegðun: hvar bestu fiskana er að finna; hreyfingar villibráðar; hvar megi finna skjól; líklegt veður fyrir árstíðina og algengustu svæðisbundnu hætturnar. Á nágrannasvæðum, en ókunnugum stöðum, ætti að gera Svæðisþekkingu erfiðari um eitt eða fleiri stig.
 
-Þessi færni gerir notandanum kleift að fikta í, komast fram hjá eða gera við rafeindatæki. Hún hefur marga notkunarmöguleika, oftast til að bæta tímabundið skemmdan búnað eða skipta út brotnum hringrásum fyrir varahluti.
+#### Móðurmál (GRE+KAR +40)
 
-#### Verkfræði (Engineering) (INT x2)
+Móðurmál er geta til að tala og lesa eigið tungumál, það sem lærist í uppvextinum í eigin menningu. Móðurmál mælir framburð, mælsku og dýpt orðaforða mælandans.
 
-Hönnun og smíði stórra mannvirkja, frá húsum til brúa, hliða til umsátursvéla, er á verksviði verkfræðifærninnar. Köst eru nauðsynleg þegar skipulagt er stórframkvæmdir til að tryggja rétta smíði en eru einnig gerð þegar verkfræðingur vill meta heilleika mannvirkis af einhverjum ástæðum (viðhaldsástand eða veikir punktar, til dæmis).
+Ólíkt annarri hæfni er ekki kastað beint gegn Móðurmáli. Þess í stað er það meðhöndlað sem kyrrstæð framsetning á heildar reiprennandi færni, sem takmarkar stig samræðna. Þetta er lýst nánar undir tungumálahæfni, en byrjendapersónur byrja yfirleitt leikinn fullkomlega reiprennandi á móðurmáli sínu.
 
-#### Fölsun (Forgery) (DEX+INT)
+#### Skynjun (GRE+MÁT)
 
-Fölsunarfærnin leyfir sköpun eða fölsun á opinberum skjölum.
+Skynjun er notuð bæði fyrir óbeina athugun og einbeitta uppgötvun; hvort sem er að leita að einhverju sérstöku, almenn athugun á svæði, eða einföld vitund um umhverfi sitt. Sérstakar aðstæður – myrkur, til dæmis – geta haft áhrif á erfiðleikastig hæfnikastsins eftir því hvaða aðalskynfæri er verið að nota. Sterk lykt gæti gert lyktarskynjunar-kast auðvelt frekar en staðlað, á meðan að reyna að hlusta á samtal á troðfullri og háværri krá myndi gera kastið erfitt.
 
-#### Fjárhættuspil (Gambling) (INT+POW)
+#### Reiðmennska (LIP+MÁT)
 
-Fjárhættuspil mælir getu persónu í tækifærisleikjum og sérstaklega þar sem peningar eru lagðir undir. Hún er notuð til að meta líkur á árangri eða mistökum eða sjá hvenær einhver er að svindla. Færnina má nota á andstæðan eða óandstæðan hátt, eftir aðstæðum. Að eyða nóttinni í óþekktum fjárhættuspilastað gæti aðeins krafist beins prófs, á meðan háttsettir teningaspil leikir með áberandi persónum gætu þess í stað krafist nokkurra umferða af andstæðum köstum.
+Reiðmennska nær yfir getu til að stjórna og haldast á baki þeirra veru sem eru þjálfaðar til að ríða á. Hæfninni er hægt að beita á fjölbreytt úrval dýra, allt frá múldýrum til fíla; jafnvel fljúgandi eða syndandi verur svo sem risaerni eða höfrunga. Að ríða ókunnugri tegund er alltaf einu erfiðleikastigi erfiðara; á meðan að ríða tegund af öðrum miðli (hestamaður að ríða dreka, til dæmis) er tveimur stigum erfiðara. Ekki er hægt að ríða villtum, ótemdum verum á uppbyggilegan hátt fyrr en þær hafa verið tamin og þjálfuð til að vera reiðdýr.
 
-#### Lækningar (Healing) (INT+POW)
+#### Söngur (MÁT+KAR)
 
-Lækningar eru ítarleg þekking á læknisaðgerðum, byggð á menningarlegum venjum og er notuð til að meðhöndla alvarlegri meiðsli (venjulega þau þar sem heilsu-punktar eru núll eða lægri). Í frumstæðri eða barbara-menningu til dæmis, munu lækningar byggjast á þekkingu á jurtum og náttúrulegum lækningum. Í siðmenntuðu samfélagi munu lyf og háþróaðri meðferðir vera algengari. Í öllum menningarheimum fela lækningar í sér getu til að setja bein, sauma sár o.s.frv. Augljóslega krefst lækning viðeigandi auðlinda, og flestir læknar munu hafa slíkt við höndina (nálar, þráð fyrir saumaskap, jurtir fyrir bakstra o.s.frv., eða læknatösku fyrir nútímasamfélög).
+Að halda lagi er undir Söng komið, allt frá einhæfum söngvum til flókinna aría. Söngur er óaðskiljanlegur hluti flestra menningarheima, aðal uppspretta afþreyingar og kannski notaður í helgisiðum. Mikilvæg lög gætu verið notuð við kurtvísileit, til að hvetja hermenn fyrir bardaga, eða einfaldlega til að segja frá sögulegum verkum. Hæfnin endurspeglar getu notandans til að halda takti, halda lagi og muna réttu orðin.
 
-#### Tungumál (Language) (INT+CHA)
+#### Laumuspil (LIP+GRE)
 
-Þessi færni nær yfir tal og skilning á öðru tungumáli en eigin tungumáli persónunnar. Færnin er meðhöndluð sem stöðug framsetning á heildar málkunnáttu. 1-25% fáein grundvallarorð, 26-50% einfaldar setningar, 51-75% fljótandi fyrir almenn samtöl, 76+% fær um að tala mælskulega. Gildi hennar er notað af leikstjóra til að takmarka stig talaðra samskipta þegar leikmenn tala við persónur í leiknum. Hægt er að nota hana sem hámark fyrir ákveðna aðra færni (svo sem skrifræði), þar sem tungumál gæti verið takmarkandi þáttur. Í slíku tilviki getur færni eins og skrifræði ekki farið yfir færnigildi þess tungumáls sem notað er.
+Að fela sig utan sjónmáls, eða hreyfa sig með lágmarks hávaða fellur undir Laumuspilahæfni. Skjól og aðstæður, svo sem myrkur eða hár bakgrunnshávaði, bæta stig hæfninnar í samræmi við sérkenni umhverfisins. Á sama hátt munu óhagstæðar aðstæður, svo sem skortur á skjóli eða kyrrlát nótt, lækka stig hæfninnar. Aðstæður hafa einnig áhrif á erfiðleika tilraunarinnar. Til dæmis getur stríðsmaður í þungri brynju auðveldlega falið sig á bak við vegg, að því tilskildu að hann standi kyrr eða hreyfi sig mjög hægt, á meðan að hreyfa sig hratt gæti valdið því að brynjan hans hringli.
 
-#### Læsi (Sérstakt tungumál) (Literacy) (INT x2)
+#### Sund (STY+ÞOL)
 
-Að tala tungumál fljótandi þýðir ekki að maður geti lesið og skrifað það. Læsi er sérstök færni og mismunandi samfélög sýna mismunandi stig og nálganir gagnvart því. Í sumum er læsi frátekið fyrir aðalsstéttina, skrifræðis- eða trúarstéttirnar. Í öðrum er það óþekkt þar sem munnleg hefð ræður ríkjum í staðinn. Í nútíma eða framtíðarsamfélögum er læsi lært sjálfgefið og krefst ekki sérstakrar færni.
+Án þjálfunar takmarkast geta til að synda við að geta spriklað og haldið höfðinu yfir vatninu í stuttan tíma. Hærra sundhlutfall gefur til kynna getu til að takast á við dýpra og straumharðara vatn, með minni hættu á drukknun. Að kasta fyrir Sundi fer því algjörlega eftir aðstæðum. Sjólag, sterkir straumar, hvítfyssandi vatn og sogholur minnka allt stig hæfninnar óháð því hvaða tilhneigingu persónan hefur til vatns. Sjá [Hreyfingu](0005_Combat.md?id=situational-movement-rates) fyrir frekari upplýsingar um sund, þar á meðal útreikning á sundhraða.
 
-#### Lásaplokk (Lockpicking) (DEX x2)
+#### Óvopnaður bardagi (STY+LIP)
 
-Lásaplokk er getan til að opna vélrænt lásakerfi án aðstoðar lykils eða annars tækis sem búið er til sérstaklega fyrir lásinn. Það felur í sér tækni við að brjóta upp boltaðar eða læstar hurðir og glugga án þess að valda skaða. Lásaplokk má einnig nota til að læsa hurð, kistu, o.s.frv., þegar enginn lykill er til staðar.
+Óvopnaður bardagi er algeng bardagahæfni fyrir allar persónur, sem mælir getu til að verja sig án hjálpar vopna. Óvopnaður bardagi nær yfir slagsmála- og glímutækni sem sú menning þekkir.
 
-#### Fræði (Lore) (INT x2)
+Þar sem Óvopnaður bardagi er bardagahæfni eru áhrif gagnrýnds árangurs og klúðurs undir reglum um bardaga, eins og lýst er í [Bardaga](0005_Combat.md) kaflanum.
 
-Fræði nær yfir tiltekinn þekkingarhluta sem verður að velja þegar færnin er fyrst lærð. Gullgerðarlist, stjörnuspeki, stjörnufræði, landafræði, skjaldarmerki, saga, ljósmóðurfræði, steinefni, skrímsli, stjórnmál, trúarbrögð, stefnumótun og tækni: þetta eru öll dæmi um fræðifærni. Færni í fræðum þýðir að persónan skilur grundvallaratriði þess, hvernig hægt er að beita því á tafarlausar áskoranir og vandamál, og getur notað fræðin til að rifja upp gagnlegar upplýsingar.
+#### Viljastyrkur (MÁT x2)
 
-#### Galdrar (Magic) (POW+CHA)
+Viljastyrkur er mælikvarði á getu persónu til að einbeita sér, beina viljakrafti sínum í ákveðna átt, eða herða sál sína gegn hugsanlegu andlegu áfalli. Hann er einnig mælikvarði á persónulega ákveðni. Hæfnin er notuð í alls kyns aðstæðum þar sem andlegrar seiglu er krafist, og þetta felur í sér að standast galdra. Þótt það sé ekki mælikvarði á geðheilsu er hægt að nota það til að þola áföll sem myndu hrista jafnvel heilbrigðasta og stöðugasta huga. Viljastyrkur er andlegt mótvægi við Þol.
 
-Galdrafærni er notuð til að kasta þeim göldrum sem lýst er í [Galdrar og kraftar](0007_Magic.md) hlutanum. Árangursríkt kast er nauðsynlegt til að galdur virki, þó að enn sé hægt að standast galdurinn með andstæðri færni eins og Viljaþreki.
-
-#### Vélbúnaður (Mechanisms) (DEX+INT)
-
-Vélbúnaður táknar þekkingu og færni til að setja saman og taka í sundur vélræn tæki, svo sem gildrur. Færni í vélbúnaði felur almennt í sér sköpun á viðkvæmum tækjum með litlum hlutum, öfugt við verkfræði, sem fjallar um stór mannvirki. Þetta er sérstök grein frá lásaplokki og ekki hægt að skipta henni út fyrir þá færni.
-
-#### Tónlistarhæfileikar (Musicianship) (DEX+CHA)
-
-Tónlistarhæfileikar ná yfir spilun á hljóðfærum; frá einfaldri reyrpípu til flókins strengjahljóðfæris eins og hörpu, og hver útgáfa af tónlistarhæfileikum er beitt á hóp af svipuðum hljóðfærum. Tónlistarmaður sem getur spilað á reyrpípu getur líka spilað á flautu, pönpípur eða upptökuflautu því grundvallaratriðin eru þau sömu. Þeir gætu þó ekki spilað á hörpu eða lútu.
-
-#### Siglingafræði (Navigation) (INT+POW)
-
-Hvort sem notaðir eru áberandi kennileiti, stjörnurnar eða mismunandi bragð af sjóvatni, þá er getan til að stýra ferðalagi nákvæmlega undir siglingafræði. Hver siglingafærni nær yfir tiltekið svæði eða umhverfi, svo sem úthaf eða neðanjarðar til dæmis. Hún ætti að fara fram í óvenjulegum ferðum eða þegar verið er á algjörlega ókunnugu svæði.
-
-#### Mælskulist (Oratory) (POW+CHA)
-
-Mælskulist er listin að flytja ræðu fyrir stóran hóp fólks með það að markmiði að koma á framfæri eða hnika skoðunum. Þetta er færni sem stjórnmálamenn nota oft til að koma stefnu á framfæri, en hún er einnig notuð af yfirmönnum til að hvetja hermenn og koma á aga á vígvellinum. Hvar sem þörf er á fjöldasannfæringu er Mælskulist, frekar en Áhrifavaldur, notuð.
-
-#### Flugstjórn (Pilot) (DEX+INT)
-
-Flugstjórn leyfir stjórn á tiltekinni flokki (svo sem svifflugum, skrúfuflugvélum, þotuhreyflum o.s.frv.) fljúgandi ökutækja.
-
-#### Stjórnmál (Politics) (INT+CHA)
-
-Persónur sem búa yfir stjórnmálahæfileikum skilja hvernig á að sigla og semja við stjórnvöld á staðbundnum og landsvísu.
-
-#### Rannsóknir (Research) (INT+POW)
-
-Rannsóknir nota ýmis úrræði (svo sem bókasafn, blaðasafn, tölvunet o.s.frv.) til að uppgötva æskilegar upplýsingar.
-
-#### Vísindi (Science) (INT x2)
-
-Það eru tugir vísindagreina og vísindafærnin, sem hægt er að taka mörgum sinnum, er alltaf tengd grein: Vísindi (Líffræði) eða Vísindi (Efnafræði), til dæmis. Vísindi koma í stað fræðifærninnar í nútíma og framtíðarsamfélögum.
-
-#### Sjómennska (Seamanship) (INT+CON)
-
-Þessi færni er notuð á sama hátt og Bátaferðir en er í staðinn beitt á stór vatnsfarartæki knúin af seglum eða árabönkum. Hún nær einnig yfir viðhald og umhirðu skips: að meta hvenær viðgerða er þörf, hvar óhætt er að akkeri, hættur af ofsaveðri o.s.frv.
-
-#### Sæling (Seduction) (INT+CHA)
-
-Sæling er rómantísk eða kynferðisleg sannfæring annarrar manneskju, færni sem er mjög frábrugðin áhrifavali. Hún notar skýr merki – munnleg og ómunnleg – til að kalla fram kynferðislega jákvæð viðbrögð. Hún tekur einnig verulegan tíma: árangursrík sæling getur tekið klukkustundir, daga eða vikur að ná fram eftir siðferði skotmarksins, sem getur alltaf reynt að standast sælingu með Viljaþreki.
-
-#### Skynjarar (Sensors) (INT+POW)
-
-Þessi færni gerir nákvæma notkun og greiningu á skynjaratækjum kleift, frá efnaþefurum upp í langdræga hernaðarskanna.
-
-#### Fingrafimi (Sleight) (DEX+CHA)
-
-Fingrafimi nær yfir tilraunir til að fela litla hluti (töfrabrögð og fimleikar) og felur í sér tilraunir til að stela úr vösum, skera á veski, eða valda sjónrænni truflun. Að sjálfsögðu er þetta ómissandi þjófafærni.
-
-#### Götuvísindi (Streetwise) (POW+CHA)
-
-Götuvísindi tákna þekkingu á stöðum og félagslegum tengslum innan byggðar. Hún nær yfir allt frá því að bera kennsl á hugsanleg hættuleg hverfi, til þess að finna staðbundna þjónustu – löglega eða ólöglega. Hversu langan tíma götuvísindatilraun tekur fer eftir því hvað er leitað. Að finna góða krá tekur skemmri tíma en að finna kaupanda fyrir stolna hluti eða falsað viðskiptaleyfi.
-
-#### Lifun (Survival) (CON+POW)
-
-Þessi færni nær yfir að lifa af í dreifbýli eða óbyggðum þar sem ávinningur siðmenningarinnar er fjarverandi: fæðuleit, að kveikja eld, finna skjól eða öruggan stað til að sofa. Þegar réttur búnaður er til staðar eru köst venjulega óþörf þar sem persónan gæti verið með tjald, matvæli o.s.frv. Aðeins þegar persónan er aðskilin frá búnaði sínum eða þegar umhverfisaðstæður versna verður nauðsynlegt að nota þessa færni. Kast er venjulega gert einu sinni á dag við slíkar aðstæður.
-
-#### Kennsla (Teach) (INT+CHA)
-
-Kennsla leyfir notandanum að miðla þekkingu sinni og tækni á auðskiljanlegan og uppbyggilegan hátt. Án þessarar færni mun jafnvel færasti meistari lenda í vandræðum með að kenna öðrum.
-
-#### Rekja slóð (Track) (INT+CON)
-
-Rekja slóð er notuð til að rekja hvers kyns bráð eða villidýr. Hún notar bæði augljós og óljós merki um yfirferð til að halda sér á slóð bráðarinnar, þar á meðal fótspor, marið lauf, dreift frjókorn, færð steinvölur o.s.frv.; lítil, einkennandi merki sem eru ósýnileg þeim ófærari. Rekja slóð-köst þarf að gera reglulega, sérstaklega ef aðstæður breytast skyndilega (regnskúr, til dæmis, mun trufla ákveðin merki). Hversu oft fer eftir því hversu slæg bráðin hefur verið. Fela hluti-köst má nota til að mæta rekja slóð-kasti.
+Aftur, eins og Þol og Undankoma, er Viljastyrkur oftast notaður í andstæðum köstum. Þegar hann er notaður sem staðlað próf gefur gagnrýnt Viljastyrkskast til kynna að persónan hafi hert huga sinn og anda að því marki að engar frekari tilraunir til að hafa áhrif á hann, eða hrista ákveðni hans, munu virka. Í tilfelli þess að standast galdra þýðir gagnrýndur árangur að engir frekari andlegir galdrar sem andstæðingurinn kastar hafa nein áhrif á persónuna það sem eftir lifir þeirra átaka.
 
 ---
-## Færnireglur fyrir mismunandi aðstæður
+## Fagleg hæfni
 
-Þótt grundvallarreglur um notkun færni í _Mythras Imperative_ séu mjög einfaldar, þá koma upp margvíslegar aðstæður í leik sem krefjast þess að færni sé meðhöndluð á aðeins annan hátt. Eftirfarandi hlutar líta á þessar aðstæður og sýna hvernig á að bregðast við þeim.
+Fagleg hæfni er mismunandi eftir persónum og táknar sérhæfðari gerðir af þjálfun og reynslu. Sum fagleg hæfni er aflað í gegnum menningarbakgrunn og starfsferil persónunnar, eins og nafnið bendir til. Þótt þau séu mismunandi eftir persónum virka þau á sama hátt og almenn hæfni.
 
-### Endurtekning færni
+#### Leiklist (KAR x2)
 
-Í sumum aðstæðum mun persóna mistakast með færnitilraun en sitja uppi með stöðu þar sem hún gæti hugsanlega reynt aftur. Dæmi um þetta gætu verið að opna lás eða reyna að klifra upp brattan vegg. Í stað þess að neita einfaldlega frekari tilraunum, gætu vinsamlegir leikstjórar leyft eftirfylgni, síðustu tilraun. Hins vegar mun persónan þjást af smá óöryggi eða skorti á sjálfstrausti sem eykur erfiðleikastig færnikastsins um eitt.
+Leiklist stýrir listinni að geta líkt eftir og miðlað gjörólíkri persónu, hvort sem er í sviðsframkomu eða í félagslegum aðstæðum. Leikarinn túlkar persónuleika og látbragð sem er frábrugðið hans eigin á sannfærandi hátt. Í samsettri meðgerð með dulargervi- og svikahæfni er þetta öflug leið til að verða einhver annar gjörsamlega.
 
-Ef þessi önnur tilraun endar einnig með mistökum er gert ráð fyrir að persónan hafi gefið sitt „besta“ og getur ekki gert frekari tilraunir í fyrirsjáanlegri framtíð.
+#### Loftfimleikar (STY+LIP)
 
-### Andstæð köst (Opposed Rolls)
+Loftfimleikar ná yfir athafnir sem krefjast jafnvægis, fimleika, jögls og valtara. Hæfnina er hægt að nota til að heilla áhorfendur, en einnig til að hjálpa til við að draga úr skaða af falli. Með árangursríku kasti getur persóna hreyft sig á fullum hraða og örugglega yfir óstöðugt eða þröngt yfirborð. Ef reynt er að draga úr skaða af óvæntu falli, helmingar árangursríkt Loftfimleikakast allan skaða sem hlýst af. Að auki, ef kastið heppnast og persónan verður ekki fyrir alvarlegu eða stóru sári vegna fallsins, lendir persónan tiltölulega örugglega og er ekki liggjandi.
 
-Færni er oft stillt gegn annarri færni – Laumuspil gegn Skynjun þegar þjófur reynir að stela veski aðalsmanns, til dæmis; eða Blekking gegn Innsæi þegar sami þjófur reynir að neita fyrir tilraunina þegar hún er gripin – eru góð dæmi um tíma þar sem færni er stillt upp gegn annarri. Þetta eru kölluð andstæð köst og eru notuð þar sem áskorun mun leiða til annaðhvort sigurs eða taps, árangurs eða mistaka.
+Loftfimleikum er hægt að skipta út fyrir Undankomu ef aðstæður réttlæta það. Ávinningurinn af þessu er að persónan nær sjálfkrafa fótunum aftur í stað þess að verða liggjandi.
 
-- Andstætt kast er ákvarðað þannig: báðir þátttakendur kasta fyrir sína færni. Sigurvegarinn er sá sem fær betra stig árangurs. Ef þátttakendur fá sama stig árangurs (venjulegur árangur báðir, eða úrvalsárangur báðir), þá er sigurvegarinn sá sem er með hærra teningakast sem samt er innan árangursbils færninnar.
+#### Stjörnuflakk (GRE x2)
 
-Ef báðir þátttakendur mistakast í andstæðu kasti, þá annaðhvort:
+Stjörnuflakk er sambærilegt við siglingafræði, nema það gerir stjörnuskippustjórnendum kleift að leggja leið sína yfir stjörnu- og millistjörnuvegalengdir.
 
-- Lýstu aðstæðunum, skildu báðar hliðar eftir í dramtískri spennu, kastaðu svo aftur til að ákvarða sigurvegara.
-- Leikstjórinn ætti að framleiða einhverja skýringu eða aðstæður sem hæfa eðli mistakanna.
+#### List (MÁT+KAR)
 
-Andstæð köst eru oft notuð í ákveðnum bardagaaðstæðum til að yfirvinna áhrif sára eða andmæla bardagasérstökum áhrifum. Þau eru einnig notuð til að standast eiturefni og sjúkdóma eða hrista af sér áhrif illgjarnra galdra.
+Það eru mörg sérstök listform. Málverk til ljóðlistar; bókmenntir til höggmyndalistar. Persóna velur listgrein þegar hún tekur þessa hæfni. Eftirfarandi listform eru framþróuð sérstaklega. Kast er gert þegar persóna verður að heilla eða sannfæra í gegnum listrænan miðil sinn.
+
+#### Skrifræði (GRE x2)
+
+Skilningur á stjórnsýsluferlum, skrám og ósögðum venjum er undir skrifræðishæfni komið. Hún er notuð til að hafa samskipti við embættismenn eða uppgötva viðeigandi borgaralegar upplýsingar. Það fer eftir þróunarstigi menningar þeirra, skriffinnar þurfa ekki endilega að vera læsir. Hvenær sem þarf að sigla í gegnum pappírsvinnu eða stjórnsýslulandslag er skrifræðiskast nauðsynlegt.
+
+#### Viðskipti (GRE+KAR)
+
+Viðskipti eru notuð til að meta verðmæti vöru og hráefna og til að versla með þau á besta mögulega verði. Hún er einnig notuð til að skilja flækjur viðskiptafærslna auk þess að tryggja hagnað. Frekari notkun er að finna bestu leiðina til að losa sig við stolin og ólögleg vörur – aftur á besta mögulega verði. Viðskipti eru augljóslega notuð þegar verslað er og þeim er hægt að andmæla af annaðhvort Viðskiptahæfni andstæðings eða Viljastyrk, sem endurspeglar tilraunir andstæðingsins til að ýta viðskiptunum í sína þágu. Þau eru einnig notuð til að dæma markaðsvirði vöru, fá hugmynd um verð, og hvar best verður að versla með hana.
+
+#### Samskipti (GRE x2)
+
+Þessi hæfni veitir getu til að nota samskiptabúnað til að uppgötva, fela eða loka á samskiptaumferð. Hún veitir einnig möguleika á að brjóta dulkóðuð skilaboð (að því tilskildu að notandinn hafi aðgang að kóðabrjóti).
+
+#### Tölvur (GRE x2)
+
+Tölvur endurspegla getu persónunnar til að leysa flókin vandamál eða draga út flóknar upplýsingar, með því að nota tölvukerfi – hvort sem er í gegnum forritunarkóða, ítarlega notkun á tilteknum hugbúnaði, hakk, og jafnvel að greina/gera við hugbúnaðar- og vélbúnaðarvandamál. Almenn notkun tölva krefst yfirleitt ekki kasts.#### Kurteisi (GRE+KAR)
+
+Þessi hæfni nær yfir skilning á því hvernig á að haga sér viðeigandi í félagslegum eða formlegum aðstæðum: ávarpsform, helgisiðir, hegðunarvenjur og þess háttar. Hún nær yfir allt frá því hverjum á að hneigja sig fyrir og hvenær, til þess hversu djúpt; frá því hvenær á að nota ákveðna titla til þess hvenær viðeigandi er að vera óformlegur.
+
+#### Handverk (LIP+GRE)
+
+Hvert handverk er sérhæfð útfærsla og það eru til jafn margar handverksgreinar og það eru starfsstéttir fyrir þær. Eins og List, er Handverk notað til að búa til viðkomandi hlut. Hversu langan tíma það tekur veltur algjörlega á eðli vörunnar: að vefa teppi tekur til dæmis lengri tíma en að móta leirker, en tími er ekki endilega mikilvægasti þátturinn: það er færni handverksmannsins, gæði hráefna og athygli á smáatriðum.
+
+#### Menning (GRE x2)
+
+Menning er sérhæfðari útgáfa af almennu hæfninni Siðir, sem tengist frekar samfélögum sem eru framandi fyrir persónuna. Hverri Menningarhæfni verður að tengja við ákveðna þjóð eða samfélag sem hún á við. Vélrænt virkar hún á sama hátt og Siðahæfnin.
+
+#### Sprengiefni (GRE+MÁT)
+
+Þessi hæfni gerir persónu kleift að meðhöndla og nota sprengiefni á öruggan hátt, hvort sem hún er að setja þau upp eða gera þau óvirk.
+
+#### Dulargervi (GRE+KAR)
+
+Að búa til sannfærandi dulargervi, með því að nota viðeigandi efni (búninga, snyrtivörur, hárkollur eða hárkolluhluta), fellur undir Dulargervishæfnina. Að búa til dulargervið krefst tíma og athygli á smáatriðum, sem og aðgangs að réttu efni til að gera það sannfærandi. Ef sumir, eða allir, af þessum þáttum eru ekki til staðar, verður erfiðleikastig Dulargervisrollsins einu eða fleiri skrefum erfiðara.
+
+Dulargervi má bæta með Leiklist til að auka heildaráhrif blekkingarinnar (og öfugt við leiklist) og því eru hæfnirnar tvær gagnkvæmar.
+
+#### Rafeindatækni (LIP+GRE)
+
+Þessi hæfni gerir notandanum kleift að fikta við, framhjáhlaupa eða gera við rafeindatæki. Hún hefur margvísleg notkunarsvið, oftast til að gera við skemmdan búnað til bráðabirgða eða skipta út brotnum hringrásum fyrir varahluti.
+
+#### Verkfræði (GRE x2)
+
+Hönnun og bygging mannvirkja í stórum stíl, frá húsum til brúa, hliða til umsátursvéla, fellur undir verksvið Verkfræðihæfninnar. Köst eru nauðsynleg þegar skipulögð eru verkefni í stórum stíl til að tryggja rétta byggingu, en þau eru einnig gerð þegar verkfræðingur vill meta burðarþol mannvirkis af einhverjum ástæðum (t.d. viðhaldsástand eða veika punkta).
+
+#### Fölsun (LIP+GRE)
+
+Fölsunarhæfnin leyfir sköpun eða fölsun á opinberum skjölum.
+
+#### Fjármál/Veðmál (GRE+MÁT)
+
+Fjármálahæfnin mælir hæfni persónu í leikjum sem byggjast á tilviljunum og sérstaklega þar sem peningar eru undir. Hún er notuð til að meta líkur á árangri eða mistökum eða sjá hvenær einhver svindlar. Hæfnina er hægt að nota í átt að öðrum eða óháð öðrum, eftir aðstæðum. Að eyða kvöldinu í nafnlausum spilasal gæti aðeins krafist beins prófs, á meðan hástokks teningaspil sem felur í sér merka einstaklinga gæti í staðinn krafist nokkurra umferða af andstæðum köstum.
+
+#### Lækning (GRE+MÁT)
+
+Lækning er djúpstæð þekking á læknisfræðilegum aðgerðum, byggð á menningarlegum venjum og er notuð til að meðhöndla alvarlegri meiðsli (venjulega þau þar sem lífspunktar eru núll eða minna). Í frumstæðri eða barbara-menningu, til dæmis, mun lækning byggjast á þekkingu á jurtum og náttúrulyfjum. Í siðmenntuðu samfélagi verða lyf og ítarlegri meðferðir algengari. Í öllum menningarheimum felur Lækning í sér getu til að græða beinbrot, sauma sár og þess háttar. Augljóslega krefst lækning viðeigandi úrræða og flestir læknar munu hafa slíkt við höndina (nál, saumþráð, jurtir fyrir bakstra, og þess háttar, eða sjúkrakassa fyrir nútíma aðstæður).
+
+#### Tungumál (GRE+KAR)
+
+Þessi hæfni nær yfir tal og skilning á öðru tungumáli en móðurmáli persónunnar. Hæfnin er meðhöndluð sem kyrrstæð framsetning á heildar reiprennandi færni. 1-25% nokkur grunnóð, 26-50% einfaldar setningar, 51-75% reiprennandi fyrir almennt samtal, 76+% fær um að ræða reiprennandi og glæsilega. Gildi hennar er notað af leikstjórnanda til að takmarka stig talaðra samskipta þegar leikmenn ræða við persónur í leiknum. Hægt er að nota hana sem þak fyrir ákveðnar aðrar hæfnir (svo sem Stjórnsýslu), þar sem Tungumál getur verið takmarkandi þáttur. Í slíku tilviki má hæfni eins og Stjórnsýsla ekki fara yfir hæfnigildi þess tungumáls sem verið er að nota.
+
+#### Læsi (Sérstakt tungumál) (GRE x2)
+
+Að tala tungumál reiprennandi þýðir ekki að maður geti lesið og skrifað það. Læsi er sérstök hæfni og mismunandi samfélög sýna mismunandi stig og nálganir gagnvart því. Í sumum er læsi frátekið fyrir aðalinn, stjórnsýslu- eða trúarstéttirnar. Í öðrum er það óþekkt og munnlegar hefðir ráða ríkjum í staðinn. Í nútíma eða framúrstefnulegum samfélögum er læsi lært sjálfkrafa og krefst ekki sérstakrar hæfni.
+
+#### Lásaplokk (LIP x2)
+
+Lásaplokk er hæfileikinn til að opna vélrænt læsingarkerfi án hjálpar lykils eða annars tækis sem búið er til sérstaklega fyrir lásinn. Hún felur í sér tækni við að brjóta upp boltaðar eða slagbrúnar hurðir og glugga án þess að valda skemmdum. Lásaplokk má einnig nota til að læsa hurð, kistu og svo framvegis, þegar enginn lykill er tiltækur.
+
+#### Fræði (GRE x2)
+
+Fræði nær yfir sérstakan þekkingarbrunn sem verður að velja þegar hæfnin er lærð í fyrsta skipti. Alkemía, Stjörnuspeki, Stjörnufræði, Landafræði, Skjaldarmerki, Saga, Ljósmóðurfræði, Steinefni, Skrímsli, Stjórnmál, Trúarbrögð, Stefnumótun og Tækni: þetta eru öll dæmigerð dæmi um Fræðihæfni. Hæfni í Fræðum þýðir að persónan skilur grundvallaratriði þess, hvernig hægt er að beita henni á bráðar áskoranir og vandamál, og getur notað Fræðin til að rifja upp gagnlegar upplýsingar.
+
+#### Galdrar (MÁT+KAR)
+
+Galdrahæfnin er notuð til að kasta galdra sem lýst er í [Galdrar og Kraftar](0007_Magic.md) kaflanum. Vel heppnað kast er nauðsynlegt til að galdur virki, þótt galdrinum megi samt andæfa með andstæðri hæfni eins og Viljaþreki.
+
+#### Vélbúnaður (LIP+GRE)
+
+Vélbúnaður táknar þekkingu og færni til að setja saman og taka í sundur vélræna hluti, svo sem gildrur. Hæfni í Vélbúnaði felur almennt í sér sköpun viðkvæmra tækja með smáum vinnuhlutum, öfugt við Verkfræði, sem fjallar um stórfelldar byggingar. Þetta er sérstök grein frá Lásaplokki og ekki er hægt að skipta henni út fyrir þá hæfni.
+
+#### Tónlistarhæfni (LIP+KAR)
+
+Tónlistarhæfni nær yfir leik á hljóðfæri; frá einfaldri reyrpípu til flókins strengjahljóðfæris eins og hörpu, og hver útfærsla Tónlistarhæfni er beitt á hóp svipaðra hljóðfæra. Tónlistarmaður sem getur spilað á reyrpípu getur líka spilað á flautu, panflautu eða blokkflautu vegna þess að grundvallaratriðin eru þau sömu. Þeir gætu hins vegar ekki spilað á hörpu eða lútu.
+
+#### Siglingafræði (GRE+MÁT)
+
+Hvort sem notaðir eru áberandi kennileiti, stjörnurnar eða mismunandi bragð af sjóvatni, er geta til að beina ferðalögum nákvæmlega fjallað um í Siglingafræðihæfni. Hver Siglingafræðihæfni nær yfir ákveðið svæði eða umhverfi, svo sem Úthaf eða Neðanjarðar til dæmis. Hún ætti að vera framkvæmd á óvenjulegum ferðalögum eða þegar verið er á algjörlega ókunnugu svæði.
+
+#### Ræðumennska (MÁT+KAR)
+
+Ræðumennska er listin að flytja ræðu fyrir stóran hóp fólks með það að markmiði að miðla eða sveigja skoðun. Hún er hæfni sem stjórnmálamenn nota oft til að koma stefnu á framfæri, en hún er einnig notuð af yfirmönnum til að hvetja hermenn og halda aga á vígvellinum. Hvar sem þörf er á fjöldabindingu er Ræðumennska, frekar en Áhrif, notuð.
+
+#### Flugstjórn (LIP+GRE)
+
+Flugstjórnarhæfnin leyfir stjórn á tilteknum flokki (svo sem svifflugum, skrúfuflugvélum, þotuhreyflum o.s.frv.) flugvéla.
+
+#### Stjórnmál (GRE+KAR)
+
+Persónur sem búa yfir Stjórnmálahæfni skilja hvernig á að sigla og semja í stjórnsýslugöngum á sveitarstjórnar- og landsvísu.
+
+#### Rannsóknir (GRE+MÁT)
+
+Rannsóknir nota ýmis úrræði (svo sem bókasafn, blaðasafn, tölvunet o.s.frv.) til að finna æskilegar upplýsingar.
+
+#### Vísindi (GRE x2)
+
+Það eru tugir vísindagreina og Vísindahæfnin, sem hægt er að taka margsinnis, er alltaf tengd við grein: Vísindi (Líffræði) eða Vísindi (Efnafræði), til dæmis. Vísindi koma í stað Fræðihæfninnar í nútíma og framúrstefnulegum leikjum.
+
+#### Sjómennska (GRE+ÞOL)
+
+Þessi hæfni er notuð á sama hátt og Bátastjórn en er í staðinn beitt á stór vatnsfar sem knúin eru áfram af seglum eða áraþrældóm. Hún nær einnig yfir viðhald og umhirðu skips: að meta hvenær viðgerða er þörf, hvar það er öruggt að varpa akkerum, hættur ofsaveðurs og þess háttar.
+
+#### Særing (GRE+KAR)
+
+Særing er rómantísk eða kynferðisleg sannfæring annarrar manneskju, hæfni sem er mjög frábrugðin Áhrifum. Hún notar skýr merki – munnleg og ómunnleg – til að kalla fram kynferðislega jákvæð viðbrögð. Það tekur einnig verulegan tíma: vel heppnuð Særing getur tekið klukkustundir, daga eða vikur að ná fram eftir siðferði skotmarksins, sem getur alltaf reynt að standast Særingu með Viljaþreki.
+
+#### Skynjarar (GRE+MÁT)
+
+Þessi hæfni leyfir nákvæma notkun og greiningu á skynjarabúnaði allt frá efnaþefjara upp í langdræga hernaðarskanna.
+
+#### Fingrafimi (LIP+KAR)
+
+Fingrafimi nær yfir tilraunir til að fela smáhluti (töfrabrögð og fingrafimi) og felur í sér tilraunir til að stela úr vösum, skera upp buddur eða valda sjónrænni truflun. Að sjálfsögðu er hún nauðsynleg hæfni þjófa.
+
+#### Götuvísindi (MÁT+KAR)
+
+Götuvísindi tákna þekkingu á stöðum og félagslegum tengiliðum innan byggðar. Hún nær yfir allt frá því að bera kennsl á hugsanlega hættuleg hverfi, til þess að finna staðbundna þjónustu – löglega eða ólöglega. Hversu langan tíma Götuvísindatilraun tekur veltur á því hvað er leitað. Að finna góða krá tekur minni tíma en að finna vörumóttakanda fyrir stolna hluti eða falsað viðskiptaleyfi.
+
+#### Lifun (ÞOL+MÁT)
+
+Þessi hæfni nær yfir lifun í sveita- eða óbyggðarumhverfi þar sem kostir siðmenningarinnar eru fjarverandi: fæðuleit, að byggja eld, finna skjól eða öruggan stað til að sofa. Þegar viðeigandi búnaður er til staðar eru köst venjulega óþörf þar sem persónan gæti verið með tjald, matvælabirgðir o.s.frv. Aðeins þegar hún aðskilst frá búnaði sínum eða þegar umhverfisskilyrði versna verður nauðsynlegt að nota þessa hæfni. Kast er venjulega gert einu sinni á dag við slíkar aðstæður.
+
+#### Kennsla (GRE+KAR)
+
+Kennsla gerir notandanum kleift að miðla þekkingu sinni og tækni á auðskiljanlegan og uppbyggilegan hátt. Án þessarar hæfni munu jafnvel hæfustu meistarar lenda í vandræðum með að leiðbeina öðrum.
+
+#### Sporrekja (GRE+ÞOL)
+
+Sporrekjuhæfnin er notuð til að rekja hvers kyns bráð. Hún notar bæði augljós og óljós merki um yfirferð til að halda sig á slóð bráðarinnar, þar á meðal fótspor, marið lauf, dreifð frjókorn, færðir steinar, o.s.frv.; lítil, vísbendingar sem eru ósýnilegar þeim óhæfu. Sporrekjuköst þarf að gera með reglulegu millibili, sérstaklega ef skilyrði breytast skyndilega (regnskúr, til dæmis, mun raska ákveðnum merkjum). Hversu oft fer eftir því hversu lævís bráðin hefur verið. Feluköst má nota til að andmæla Sporrekjukasti.
+
+---
+## Hæfnireglur fyrir mismunandi aðstæður og kringumstæður
+
+Þótt grunnreglur um notkun hæfna í _Mythras Imperative_ séu mjög einfaldar, er fjöldinn allur af mismunandi kringumstæðum sem koma upp í leik sem krefjast þess að hæfnir séu meðhöndlaðar á aðeins annan hátt. Eftirfarandi kaflar líta á þessar kringumstæður og aðstæður og sýna hvernig á að höndla þær.
+
+### Endurtekning á hæfnum
+
+Í sumum aðstæðum mun persóna mistakast í hæfnitilraun en sitja eftir í aðstæðum þar sem hún gæti hugsanlega reynt aftur. Dæmi um slíkt gæti verið að plokka lás eða reyna að klifra upp brattann vegg. Í stað þess að neita einfaldlega frekari tilraunum, geta góðir leikstjórnendur leyft eftirfylgni, síðasta tækifæri. Hins vegar mun persónan þjást af smá kvíða eða skorti á sjálfstrausti sem eykur erfiðleikastig hæfnikastsins um eitt.
+
+Ef þessi önnur viðleitni endar einnig í mistökum, er gert ráð fyrir að persónan hafi lagt sig alla fram og getur ekki gert frekari tilraunir í fyrirsjáanlegri framtíð.
+
+### Andstæð köst
+
+Hæfnir eru oft settar upp á móti öðrum hæfnum – Læðast á móti Skynjun þegar þjófur reynir að skera buddu af aðalsmanni, segjum við; eða Blekking á móti Innsæi þegar sami þjófur reynir að neita tilrauninni þegar hann er gripinn – eru góð dæmi um tíma þar sem hæfnir eru bornar saman. Þessi köst eru kölluð Andstæð köst og eru notuð þar sem áskorun mun leiða til annaðhvort sigurs eða taps, árangurs eða mistaka.
+
+- Andstætt kast er ákvarðað þannig: báðir þátttakendur kasta fyrir sínar hæfnir. Sigurvegarinn er sá sem fær betra velgengnistig. Ef þátttakendur fá sama velgengnistig (eitt staðlað velgengnistig eða eitt gagnrýnið velgengnistig hvor), þá er sigurvegarinn sá sem fékk hæsta teningakastið innan velgengnisbils hæfninnar.
+
+Ef báðir þátttakendur mistakast í Andstæðu kasti, þá annaðhvort:
+
+- Lýstu aðstæðunum, skildu báðar hliðar eftir í dramatískri spennu, kastaðu síðan aftur til að ákveða sigurvegara.
+- Leikstjórnandinn ætti að gefa einhverja skýringu eða kringumstæður sem hæfa eðli mistakanna.
+
+Andstæð köst eru oft notuð í ákveðnum bardagaaðstæðum til að sigrast á áhrifum sára eða andmæla bardaga-sérstökum áhrifum. Þau eru einnig notuð til að standast eitur og sjúkdóma eða hrista af sér áhrif bölvaðra galdra.
 
 ##### Dæmi um andstæð köst
 
-| Athöfn | Dæmi um andstæða færni |
+| Virkni | Dæmi um andstæðar hæfnir |
 | :-- | :-- |
-| Kaupmennska/Prútt | Viðskipti vs. Viðskipti, Áhrifavaldur vs. Viðskipti |
-| Eltileikur/Keppni | Íþróttir vs. Íþróttir, Íþróttir vs. Þol, Reiðmennska vs. Reiðmennska |
-| Blekking eða lygar | Blekking vs. Innsæi, Fingrafimi vs. Skynjun |
-| Sýna hollustu | Ástríða vs. Ástríða, Ástríða vs. Innsæi, Ástríða vs. Áhrifavaldur |
-| Að komast undan | Undankoma vs. Íþróttir, Undankoma vs. Vélbúnaður, Undankoma vs. Reiðmennska |
-| Að fela sig eða læðast | Laumuspil vs. Skynjun; Laumuspil vs. Rekja slóð |
-| Að draga upp röð | Áhrifavaldur vs. Viljaþrek, Blekking vs. Viljaþrek |
-| Að halda leið | Þol vs. Þol, Þol vs. Líkamlegt afl |
-| Að hnika fjöldanum | Mælskulist vs. Viljaþrek |
-| Styrktarpróf | Líkamlegt afl vs. Líkamlegt afl, Líkamlegt afl vs. Þol |
-| Viljastyrkspróf | Viljaþrek vs. Viljaþrek, Sæling vs. Viljaþrek |
+| Kaupmennska/Prútt | Viðskipti vs. Viðskipti, Áhrif vs. Viðskipti |
+| Eltileikur/Kappakstur | Frjálsíþrótt vs. Frjálsíþrótt, Frjálsíþrótt vs. Úthald, Ríða vs. Ríða |
+| Blekking eða Lyg | Blekking vs. Innsæi, Fingrafimi vs. Skynjun |
+| Sýna hollustu | Ástríða vs. Ástríða, Ástríða vs. Innsæi, Ástríða vs. Áhrif |
+| Að komast í burtu | Undanbrögð vs. Frjálsíþrótt, Undanbrögð vs. Vélbúnaður, Undanbrögð vs. Ríða |
+| Feluleikur eða Læðast | Læðast vs. Skynjun; Læðast vs. Sporrekja |
+| Að nota stöðu sína | Áhrif vs. Viljaþrek, Blekking vs. Viljaþrek |
+| Að halda sínu | Úthald vs. Úthald, Úthald vs. Burðarþol |
+| Að sveigja mannfjölda | Ræðumennska vs. Viljaþrek |
+| Prófraun á styrk | Burðarþol vs. Burðarþol, Burðarþol vs. Úthald |
+| Viljastyrkur | Viljaþrek vs. Viljaþrek, Særing vs. Viljaþrek |
 
-### Mismunaköst (Differential Rolls)
+### Mismunandi köst
 
-Mismunaköst eru svipuð andstæðum köstum nema að í stað einfaldrar niðurstöðu um sigur eða tap er mismunur á árangursstigum reiknaður út. Mismunaköst eru aðallega notuð til úrlausnar bardaga, en einnig er hægt að nota þau í öðrum aðstæðum þar sem leikstjórinn vill auka nákvæmni niðurstaðna keppni.
+Mismunandi köst eru svipuð Andstæðum köstum nema að í stað einfaldrar niðurstöðu um sigur eða tap, er reiknaður út munurinn á velgengnistigum. Aðallega notuð til úrlausnar bardaga, Mismunandi köst er einnig hægt að nota í öðrum aðstæðum þar sem leikstjórnandinn vill auka ítarlega niðurstöður keppni.
 
-Mismunakast er ákvarðað á eftirfarandi hátt: Báðir þátttakendur kasta gegn sinni færni og þola niðurstöður kastsins eins og ef prófað væri í einangrun. Það er enginn beinn „sigurvegari“ per se, en hver sá sem fékk hærra stig árangurs fær kost sem jafngildir mismuninum á árangursstigum þeirra á milli (að því gefnu að einn þátttakandi fái að minnsta kosti venjulegan árangur eða betri). Ef báðir þátttakendur fá sama stig árangurs (venjulegur árangur báðir, eða úrvalsárangur báðir), þá eru engin frekari áhrif.
+Mismunandi kast er ákvarðað á eftirfarandi hátt: Báðir þátttakendur kasta á móti sínum hæfnum og þjást af niðurstöðum kastsins eins og ef prófað væri í einangrun. Það er enginn beinn 'sigurvegari' svo sem, en sá sem fékk hærra velgengnistig vinnur kost sem jafngildir muninum á velgengnistigum milli þeirra (að því gefnu að einn þátttakandi fái að minnsta kosti staðlaða velgengni eða betri). Ef báðir þátttakendur fá sama velgengnistig (eitt staðlað velgengnistig eða eitt gagnrýnið velgengnistig hvor), þá er engin frekari áhrif.
 
-##### Niðurstöður mismunakasta
+##### Niðurstöður mismunandi kasta
 
-| Niðurstaða kasta | Andstæðingur Úrvalsárangur | Andstæðingur Árangur | Andstæðingur Mistök | Andstæðingur Klaufaskapur |
+| Niðurstaða kasta | Andstæðingur Gagnrýnið | Andstæðingur Velgengni | Andstæðingur Mistök | Andstæðingur Klúður |
 | :-- | :-: | :-: | :-: | :-: |
-| Aðalpersóna Úrvalsárangur | Enginn ávinningur | Aðalpersóna vinnur 1 stig | Aðalpersóna vinnur 2 stig | Aðalpersóna vinnur 3 stig |
-| Aðalpersóna Árangur | Andstæðingur vinnur 1 stig | Enginn ávinningur | Aðalpersóna vinnur 1 stig | Aðalpersóna vinnur 2 stig |
-| Aðalpersóna Mistök | Andstæðingur vinnur 2 stig | Andstæðingur vinnur 1 stig | Enginn ávinningur | Enginn ávinningur |
-| Aðalpersóna Klaufaskapur | Andstæðingur vinnur 3 stig | Andstæðingur vinnur 2 stig | Enginn ávinningur | Enginn ávinningur |
+| Aðalpersóna Gagnrýnið | Enginn ávinningur | Aðalpersóna vinnur 1 velgengnistig | Aðalpersóna vinnur 2 velgengnistig | Aðalpersóna vinnur 3 velgengnistig |
+| Aðalpersóna Velgengni | Andstæðingur vinnur 1 velgengnistig | Enginn ávinningur | Aðalpersóna vinnur 1 velgengnistig | Aðalpersóna vinnur 2 velgengnistig |
+| Aðalpersóna Mistök | Andstæðingur vinnur 2 velgengnistig | Andstæðingur vinnur 1 velgengnistig | Enginn ávinningur | Enginn ávinningur |
+| Aðalpersóna Klúður | Andstæðingur vinnur 3 velgengnistig | Andstæðingur vinnur 2 velgengnistig | Enginn ávinningur | Enginn ávinningur |
 
-### Andstæð færni yfir 100%
+### Andstæðar hæfnir yfir 100%
 
-Ef þátttakandinn með hæstu færnina í andstæðu kasti eða mismunakasti hefur færni yfir 100%, dregur sá þátttakandi mismuninn á 100 og færnigildi sínu frá færni allra í keppninni, þar með talið sjálfs sín. Þetta minnkar færnigildi andstæðinganna en skilur hann eftir með forskotið.
+Ef þátttakandinn með hæstu hæfni í Andstæðu eða Mismunandi kasti er með hæfni yfir 100%, dregur sá þátttakandi muninn á 100 og hæfnigildi sínu frá hæfni allra í keppninni, þar á meðal sjálfs sín. Þetta dregur úr hæfnigildi andstæðinganna en skilur hann eftir með forskotið.
 
-Auðkenning á því hver hefur hæstu færnina verður að reiknast út eftir að öllum öðrum breytistærðum vegna aðstæðna hefur verið beitt.
+Auðkenning á því hver er með hæstu hæfni verður að reiknast út eftir að allar aðrar breytingar fyrir kringumstæður hafa verið beittar.
 
-### Svo, hversu góður ertu?
+### Svo, hversu góður ertu eiginlega?
 
-Það getur verið mjög gagnlegt fyrir bæði leikstjóra og leikmenn að hafa sameiginlegan viðmiðunarramma um hvað færnigildi þýðir sem sambærilegt stig færni. Er iðnaðarmaður með Iðn (Viður) 48% góður trésmiður eða bara hæfur? Tafla yfir færnistig hjálpar til við að draga saman mismunandi stig færni sem búast má við að einkunn í færni tákni; hún er einnig handhæg tilvísun fyrir leikstjóra þegar þeir úthluta almennum gildum fyrir persónur sem ekki eru leikmenn (NPCs) og andstæðinga. Ef þörf er á tilviljunarkenndu gildi fyrir færni NPC, þá gefur dálkurinn fyrir tilviljunarkennt gildi teningakóðann til að fá gildi innan viðkomandi færnistigs.
+Það getur verið mjög gagnlegt fyrir bæði leikstjórnendur og leikmenn að hafa sameiginlegan viðmiðunarramma fyrir því í hverju gildi hæfni breytist sem sambærilegt hæfnisstig. Er handverksmaður með Trésmíði 48% góður smiður eða bara hæfur? Hæfnisstigataflan hjálpar til við að draga saman mismunandi stig hæfni sem búast má við að einkunn í hæfni tákni; hún er einnig handhæg tilvísun fyrir leikstjórnendur þegar þeir úthluta almennum gildum á hæfni fyrir persónur sem ekki eru spilaðar af leikmönnum og óvini. Ef þörf er á handahófskenndu gildi fyrir hæfni persónu sem ekki er spiluð af leikmanni, þá gefur dálkurinn Handahófskennt gildi teningakóðann til að fá gildi innan æskilegs hæfnisstigs.
 
-##### Tafla yfir færnistig
+##### Hæfnisstigatafla
 
-| Færnieinkunn | Tilviljunarkennt gildi | Færnistig | Hernaðarígildi | Lýsing |
+| Hæfniseinkunn | Handahófskennt gildi | Hæfnisstig | Hernaðarígildi | Lýsing |
 | :-- | :-: | :-: | :-: | :-- |
-| 1-30% | 1d20+10 | Byrjandi | Kanónufóður | Óhæfur og að læra grunnatriði |
-| 31-50% | 1d20+30 | Hæfur | Grænjaxl | Getur framkvæmt auðveld verkefni ef hann tekur tíma til að vera varkár |
-| 51-70% | 1d20+50 | Leikinn | Vanur | Hefur náð atvinnuhæfu stigi |
-| 71-90% | 1d20+70 | Sérfræðingur | Öldungur | Viðurkenndur sem fagmanneskja eða sérfræðingur á sviðinu |
-| 91-110% | 1d20+90 | Meistari | Elíta | Talinn einn af þeim bestu í bransanum |
-| \>110% | 1d20+110 | Fyrirmynd | Hetjulegur | Þekktur víða fyrir óviðjafnanlega færni |
+| 1-30% | 1d20+10 | Byrjandi | Kanónufóður | Óhæfur og að læra undirstöðurnar |
+| 31-50% | 1d20+30 | Hæfur | Grænjaxl | Getur framkvæmt auðveld verkefni ef gefinn er tími til að fara varlega |
+| 51-70% | 1d20+50 | Leikinn | Reyndur | Hefur náð atvinnuhæfu stigi færni |
+| 71-90% | 1d20+70 | Sérfræðingur | Veteran | Viðurkenndur sem fagmaður eða sérfræðingur á sínu sviði |
+| 91-110% | 1d20+90 | Meistari | Elíta | Talinn einn af þeim bestu í faginu |
+| \>110% | 1d20+110 | Fyrirmynd | Hetjulegur | Þekktur víða og um allt fyrir fullkomna færni sína |

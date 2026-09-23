@@ -1,396 +1,394 @@
 # Vještine
 
-Vještine su podijeljene u dvije kategorije: Standardne i Profesionalne. Svi likovi imaju jednak skup Standardnih vještina. Profesionalne vještine razlikuju se od lika do lika i odražavaju stručnost razvijenu unutar karijere te, do određene mjere, njihove kulture. Unatoč tim razlikama, Standardne i Profesionalne vještine funkcioniraju na isti način.
+Vještine su podijeljene u dvije kategorije: standardne i profesionalne. Svi likovi imaju isti skup standardnih vještina. Profesionalne vještine razlikuju se od lika do lika i odražavaju stručnost razvijenu tijekom karijere te, u određenoj mjeri, njihove kulture. Unatoč tim razlikama, standardne i profesionalne vještine funkcioniraju na isti način.
 
 ---
 ## Kako vještine funkcioniraju
 
-Vještina ima Osnovnu vrijednost temeljenu na dvije Karakteristike; ili na jednoj karakteristici pomnoženoj s dva. Ne postoji gornja granica vrijednosti vještine; ona može premašiti 100 i, tijekom igre, likovi mogu očekivati da će njihove vještine dosegnuti takve visine.
+Vještina ima osnovnu vrijednost izgrađenu na dvije karakteristike ili jednoj karakteristici pomnoženoj s dva. Ne postoji gornja granica vrijednosti vještine; ona može premašiti 100 i, u igri, igrači mogu očekivati da će njihovi likovi doseći takve visine.
 
-Kad god se od lika traži da riješi neki oblik testa, izazova ili profesionalne sposobnosti, baca se 1d100 i uspoređuje s vrijednošću vještine:
+Kad god se od lika traži rješavanje nekog oblika testa, izazova ili profesionalne sposobnosti, baca se 1d100 i uspoređuje s vrijednošću vještine:
 
-- Rezultat jednak ili manji od vrijednosti vještine označava Uspjeh
-- Rezultat veći od vrijednosti vještine označava Neuspjeh
+- Rezultat jednak ili manji od vrijednosti vještine označava uspjeh
+- Rezultat veći od vrijednosti vještine označava neuspjeh
 
-Postoje određeni posebni slučajevi vezani uz Uspjeh i Neuspjeh koje treba imati na umu.
+Postoje određeni posebni slučajevi vezani uz uspjeh i neuspjeh koje treba zabilježiti.
 
-- Svako bacanje od 01-05 uvijek je Uspjeh
-- Svako bacanje od 96-00 uvijek je Neuspjeh, bez obzira na to koliko je visoka vrijednost vještine
+- Bilo koje bacanje od 01-05 uvijek je uspjeh
+- Bilo koje bacanje od 96-00 uvijek je neuspjeh, bez obzira na to koliko je visoka vrijednost vještine
 
-#### Kritični uspjesi i Potpuni promašaji (Fumble)
+#### Kritični uspjesi i padovi (Fumble)
 
-Kritični uspjesi i Potpuni promašaji predstavljaju spektakularne uspjehe i neuspjehe; one slučajeve u kojima se lik ili istaknuo u svom pokušaju ili je pogriješio na bijedan i potpun način.
+Kritični uspjesi i padovi predstavljaju spektakularne uspjehe i neuspjehe; one slučajeve u kojima se lik ili iskazao u svom pokušaju ili pogriješio na bijedan i potpun način.
 
-- Kritični uspjeh jednak je jednoj desetini vrijednosti vještine (a to uključuje i vještine koje primaju modifikator – pa modificirane vještine mogu imati veću ili manju šansu za kritični ishod). Zaokružite razlomke prema gore pri izračunu raspona kritičnog uspjeha. Na primjer, ako je vještina modificirana na dvostruku vrijednost – recimo s 33% na 66%, tada bi njen kritični raspon bio bacanje od 07 ili manje.
-- Potpuni promašaj (Fumble) je bacanje 99 ili 00. Vještine s vrijednošću većom od 100% imaju Potpuni promašaj samo na bacanju 00.
+- Kritični uspjeh jednak je jednoj desetini vrijednosti vještine (a to uključuje vještine koje dobivaju modifikator – tako da modificirane vještine mogu imati veću ili manju šansu za kritični ishod). Zaokružite razlomke prema gore pri izračunavanju raspona kritičnog uspjeha. Na primjer, ako se vještina modificira na dvostruku normalnu vrijednost – recimo s 33% na 66%, tada bi raspon kritičnog uspjeha bio bacanje od 07 ili manje.
+- Pad (Fumble) je bacanje 99 ili 00. Vještine s vrijednošću većom od 100% padaju samo na bacanju 00.
 
-Precizna priroda rezultata Kritičnog uspjeha ili Potpunog promašaja prepuštena je Voditelju igre (Games Master). Posljedice mogu biti čudesne ili strašne, ovisno o okolnostima.
+Precizna priroda kritičnog uspjeha ili pada prepuštena je na odlučivanje voditelju igre (Games Master). Posljedice mogu biti čudesne ili strašne, ovisno o okolnostima.
 
 #### Automatski uspjesi
 
-Postojat će prilike kada bacanje protiv određene vještine jednostavno nije potrebno – bilo zato što je zadatak lako ostvariv, ili zato što je, uz dovoljno vremena i usredotočenosti, uspjeh zajamčen. Jahanje konja u laganom kasu preko otvorene livade primjer je automatskog uspjeha gdje samo postojanje vještine u toj aktivnosti znači da jednostavne radnje ne zahtijevaju bacanje kockica za njihovo rješavanje. Obrtnik koji rezbari komad drveta u nogu stolice još je jedan primjer gdje bacanje vještine nije potrebno; potrebno je vrijeme da se to postigne, ali obrtnik zna kako obaviti posao i, ako ne žuri, uspjeh je zajamčen. Provalnik, neometan, sa setom alata za obijanje brava, može uspješno otvoriti jednostavnu bravu škrinje s blagom ako ima dovoljno vremena.
+Bit će situacija u kojima bacanje za određenu vještinu jednostavno nije potrebno – bilo zato što se zadatak lako izvršava ili zato što je uz dovoljno vremena i fokusa uspjeh zajamčen. Jahanje konja u laganom kasu preko otvorene livade primjer je automatskog uspjeha gdje samo posjedovanje vještine u toj aktivnosti znači da jednostavne radnje ne zahtijevaju bacanje vještina za njihovo rješavanje. Obrtnik koji rezbari komad drveta u nogu stolice još je jedan primjer gdje bacanje vještine nije potrebno; potrebno je vrijeme da se to postigne, ali obrtnik zna kako obaviti posao i, ako ne žuri, uspjeh je zajamčen. Kradljivac, bez ometanja i s kompletom alata za obijanje, može uspješno otvoriti jednostavnu bravu škrinje s blagom ako ima dovoljno vremena.
 
 #### Modificiranje vještina
 
-Postoje prilike kada je potrebno bacanje vještine, ali šanse za uspjeh treba prilagoditi kako bi odražavale postojeće uvjete. Bijeg od razbojnika, na primjer, može zahtijevati bacanje Atletike. Ali što ako lik bježi kroz tamu ili kroz opasno šipražje? U takvom slučaju Voditelj igre može inzistirati na modificiranju vještine lika kako bi se odrazile okolnosti.
+Postoje situacije kada je potrebno bacanje vještine, ali šanse za uspjeh treba prilagoditi kako bi odražavale postojeće uvjete. Bježanje od bandita, na primjer, može zahtijevati bacanje Atletske sposobnosti. Ali što ako lik bježi kroz mrak ili kroz opasno šipražje? U takvom slučaju voditelj igre može inzistirati na modificiranju vještine lika kako bi se odrazile okolnosti.
 
-_Mythras Imperative_ koristi niz stupnjeva za određivanje načina na koji se vještina modificira. Oni su sljedeći. Imajte na umu da su osigurane dvije vrste modifikatora: prva je zadana metoda koja uključuje malo matematike, ali nudi bolju simulaciju za skaliranje, posebno tamo gdje su uključeni viši postoci vještina. Pojednostavljeni modifikator vještine je jednostavno zbrajanje ili oduzimanje i lakše ga je implementirati. Odaberite metodu koja najbolje odgovara igri, ali osigurajte da se isti sustav modifikacije primjenjuje dosljedno.
+_Mythras Imperative_ koristi niz stupnjeva za određivanje kako se vještina modificira. Oni su sljedeći. Napomena: pružene su dvije vrste modifikatora: prva je zadana metoda koja uključuje malo matematike, ali nudi bolju simulaciju za skaliranje, posebno tamo gdje su u pitanju viši postoci vještina. Pojednostavljeni modifikator vještine je jednostavno zbrajanje ili oduzimanje i lakši je za primjenu. Odaberite metodu koja najbolje odgovara igri, ali osigurajte da se isti sustav modifikacije primjenjuje dosljedno.
 
 ##### Tablica stupnjeva težine
 
 | Stupanj težine | Modifikator vještine | Pojednostavljeni modifikator vještine |
-| :-- | :-- | :-: |
+| :-- | :-- | :--: |
 | Automatski | Nema potrebe za bacanjem | Nema potrebe za bacanjem |
-| Vrlo lagano | Udvostruči vrijednost vještine | +40% |
-| Lagano | Dodaj polovicu vrijednosti vještine | +20% |
+| Vrlo lagano | Udvostručite vrijednost vještine | +40% |
+| Lagano | Dodajte polovicu na vrijednost vještine | +20% |
 | Standardno | Bez prilagodbe | Nema |
-| Teško | Smanji vrijednost vještine za jednu trećinu | -20% |
-| Zastrašujuće | Smanji vrijednost vještine za polovicu | -40% |
-| Herkulsko | Smanji vrijednost vještine na jednu petinu | -80% |
-| Beznadno | Nije moguće pokušati | Nije moguće pokušati |
+| Teško | Smanjite vrijednost vještine za jednu trećinu | -20% |
+| Strašno | Smanjite vrijednost vještine za polovicu | -40% |
+| Herkulsko | Smanjite vrijednost vještine na jednu petinu | -80% |
+| Beznadno | Pokušaj nije moguć | Pokušaj nije moguć |
 
-Tamo gdje lik već trpi kaznu zbog drugih okolnosti, prednost ima najteži Stupanj težine.
+Tamo gdje lik već trpi kaznu zbog drugih okolnosti, prednost ima najteži stupanj težine.
 
-Izvan borbe, _Mythras Imperative_ ne nudi konačan popis situacija i izazova koji mogu uzrokovati modifikacije vještina. Kakva je modifikacija potrebna za bilo koju određenu vještinu ili kontekst, na kraju odlučuje Voditelj igre, prema sposobnostima likova, njegovoj percepciji težine situacije i dramskoj napetosti u tom trenutku.
+Izvan borbe, _Mythras Imperative_ ne pruža konačan popis situacija i izazova koji mogu rezultirati modifikacijama vještina. Kakva je modifikacija potrebna za bilo koju određenu vještinu ili kontekst u konačnici ovisi o odluci voditelja igre, prema sposobnostima likova, njegovoj percepciji težine situacije i dramskoj napetosti u tom trenutku.
 
 ---
 ## Standardne vještine
 
-#### Atletika (STR+DEX)
+#### Atletika (SNA+SPR)
 
-Atletika pokriva niz tjelesnih aktivnosti, uključujući penjanje, skakanje, bacanje i trčanje. Bacanja vještina za bilo koju od ovih aktivnosti rješavaju se jednim bacanjem protiv vještine Atletike. Više informacija o penjanju, skakanju i trčanju potražite u odjeljku [Kretanje](0005_Combat.md?id=situational-movement-rates).
+Atletika pokriva niz fizičkih aktivnosti, uključujući penjanje, skakanje, bacanje i trčanje. Bacanja vještina za bilo koju od ovih aktivnosti rješavaju se jednim bacanjem protiv vještine Atletike. Vidi [Kretanje](0005_Combat.md?id=situational-movement-rates) za više informacija o penjanju, skakanju i trčanju.
 
-#### Čamci (STR+CON)
+#### Čamčarenje (SNA+KON)
 
-Vještina Čamci pokriva upravljanje malim plovilima na rijekama, jezerima i blizu obale. Prikladna plovila su općenito čamci, kanui ili splavi koji putuju na kraće udaljenosti i nisu prikladni za surovost otvorenog mora. Većina se pokreće veslima, lopaticama, motkama ili jednostavnim jedrima; ili ih čak mogu vući životinje. Brodovi s velikim posadama ili dizajnirani za duga putovanja preko oceana pokriveni su Profesionalnom vještinom Pomorstvo.
+Vještina Čamčarenja pokriva upravljanje malim plovilima na rijekama, jezerima i u blizini obale. Prikladna plovila su općenito čamci, kanui ili splavi koji putuju na kratke udaljenosti i nisu prikladni za surovost otvorenog mora. Većina se pokreće pomoću vesala, poluga ili jednostavnih jedara; ili se mogu vući životinjama. Brodovi s velikom posadom ili dizajnirani za duga, prekooceanska putovanja pokriveni su profesionalnom vještinom Pomorstvo.
 
-#### Snaga (STR+SIZ)
+#### Snaga (SNA+VEL)
 
-Snaga je učinkovita primjena tehnike pri uporabi sirove fizičke sile. Vještina pokriva radnje primijenjene moći, uključujući dizanje tereta, provaljivanje vrata i natjecanja u snazi.
+Snaga je učinkovita primjena tehnike pri korištenju sirove fizičke sile. Vještina pokriva radnje primijenjene moći, uključujući podizanje, razbijanje vrata i natjecanja u snazi.
 
-#### Borilački stil (STR+DEX)
+#### Borbeni stil (SNA+SPR)
 
-Svaki Borilački stil je vještina korištenja oružja koje se očekuje od karijere ili kulture u okruženju. Većina borilačkih tradicija obuhvaća obuku za više oružja, zajedno s tehnikama potrebnim za njihovu učinkovitu uporabu, bilo pojedinačno ili u kombinaciji. Osim toga, često pretpostavljaju situacijski element, kao što je borba u pješačkom stroju ili jahanje. Borilački stilovi mogu biti vrlo raznoliki, od, na primjer, gladijatorske borbe do mobilnog pješaštva svemirskih marinaca.
+Svaki Borbeni stil je vještina korištenja oružja koje se očekuje od karijere ili kulture u okruženju. Većina borbenih tradicija obuhvaća obuku u više oružja, zajedno s tehnikama potrebnima za učinkovito korištenje svih njih, bilo pojedinačno ili u kombinaciji. Osim toga, često pretpostavljaju situacijski element, kao što je borba u pješačkom stroju ili tijekom jahanja. Borbeni stilovi mogu biti vrlo raznoliki, od, na primjer, gladijatorske borbe pa sve do mobilnog pješaštva svemirskih marinaca.
 
-#### Prikrivanje (DEX+POW)
+#### Prikrivanje (SPR+MOĆ)
 
-Prikrivanje je protuteža Šuljanju, a odnosi se na skrivanje velikih predmeta, a ne samog lika. Na primjer, Prikrivanje se može koristiti za skrivanje kočije iza stijena ili brisanje tragova kotača kako bi se sakrio smjer kretanja. Vještina je svestrana u primjeni, od skrivanja svitka u knjižnici do maskiranja prisutnosti zamke ili tajnog prolaza.
+Prikrivanje je suprotnost vještini Prikradanje, jer se radi o skrivanju velikih objekata, a ne samog lika. Na primjer, Prikrivanje se može koristiti za skrivanje kočije iza stijena ili za brisanje tragova kotača kako se ne bi moglo pratiti njezinu putanju. Vještina je svestrana u primjeni, od skrivanja svitka u knjižnici do prikrivanja prisutnosti zamke ili tajnog prolaza.
 
 #### Običaji (INT x2 +40)
 
-Običaji predstavljaju znanje lika o vlastitoj zajednici: njene društvene kodove, obrede, rituale, tabue i tako dalje. Vještina se koristi kada je bitno točno protumačiti ili izvesti bilo koji društveno važan običaj ili se ponašati na određeni način.
+Običaji predstavljaju likovo poznavanje vlastite zajednice: njezinih društvenih kodova, obreda, rituala, tabua i tako dalje. Vještina se koristi kada je ključno točno interpretirati ili izvesti bilo koji društveno važan običaj ili se ponašati na određeni način.
 
-#### Ples (DEX+CHA)
+#### Ples (SPR+KAR)
 
-Gotovo svaka kultura koristi ples na neki način – bilo kao rekreaciju ili kao dio važnih rituala. To može biti dvorski ples, ratni ples ili jednostavan set pokreta koji prati molitvu ili svečani napjev. Vještina Ples mjeri sposobnost lika da se kreće ritmično i točno (u razumnoj mjeri) kada se od njega to traži.
+Gotovo svaka kultura na neki način koristi ples – bilo kao rekreaciju ili kao dio važnih rituala. To može biti dvorski ples, ratni ples ili jednostavan skup pokreta koji prati molitvu ili ceremonijalni napjev. Vještina Ples mjeri sposobnost lika da se kreće ritmično i točno (u razumnoj mjeri) kada se od njega to traži.
 
-#### Obmana (INT+CHA)
+#### Obmana (INT+KAR)
 
-Obmana pokriva sve slučajeve u kojima lik pokušava prikriti istinu i ponuditi prijevaru bilo koje vrste: bezobzirno laganje, obmanjivanje stražara ili čak blefiranje (ili varanje) tijekom kartaške igre. Vještina također pokriva slučajeve u kojima je potrebno sakriti prave emocije ili motive (možda pretvaranje zadovoljstva kada je netko gorko razočaran, ili pokušaj da se čini gostoljubivim i otvorenim kada je istina suprotna). Obmana čini protutežu vještini Uvid i može se koristiti za suprotstavljanje bacanjima Uvida kada drugi pokušavaju razaznati istinu ili motiv.
+Obmana pokriva sve situacije u kojima lik pokušava prikriti istinu i ponuditi prijevaru bilo koje vrste: bezobrazno laganje, dovođenje stražara u zabludu ili čak blefiranje (ili varanje) tijekom kartaške igre. Vještina također pokriva situacije u kojima je potrebno sakriti prave osjećaje ili motive (možda pretvaranje zadovoljstva kada je netko gorko razočaran ili pokušaj da se čini gostoljubivim i otvorenim kada je istina suprotna). Obmana čini pandan vještini Uvid i može se koristiti za suprotstavljanje bacanjima Uvida kada drugi pokušavaju razaznati istinu ili motiv.
 
-#### Vožnja (DEX+POW)
+#### Vožnja (SPR+MOĆ)
 
-Vožnja pokriva upravljanje vozilima na kotačima ili vučenim vozilima, bilo da ih vuče jedna ili više teglećih životinja ili se pokreću ezoteričnijim sredstvima, poput kočija, saonica, jedrenjaka na kotačima ili čak automobila na benzin. Bacanje je također potrebno ako vozilo koje se vozi vuče ili pokreće sredstvo na koje vozač nije navikao (na primjer, konji umjesto volova, ili motor umjesto životinja).
+Vožnja pokriva kontrolu vozila na kotačima ili vučnih vozila, bilo da ih pokreće jedna ili više tovarnih životinja ili su pokretana ezoteričnijim sredstvima, kao što su kočije, sanjke, kolica na jedra ili čak automobili. Bacanje je također potrebno ako se vozilo vuče ili pokreće sredstvom na koje vozač nije navikao (na primjer, konji umjesto volova ili motor umjesto životinja).
 
-#### Izdržljivost (CON x2)
+#### Izdržljivost (KON x2)
 
-Izdržljivost je sposobnost lika da podnese fizički stres, bol i umor. Mjeri sposobnost tijela da se nosi s potencijalno štetnim ili iscrpljujućim uvjetima i opća je mjera otpornosti, kondicije i metabolizma. Izdržljivost, poput svoje mentalne protuteže Volje, koristi se na mnogo načina, ali najviše za otpor mogućim učincima ozljeda, uključujući štetne otrove i bolesti.
+Izdržljivost je sposobnost lika da podnese fizički stres, bol i umor. Mjeri sposobnost tijela da se nosi s potencijalno štetnim ili iscrpljujućim uvjetima i opća je mjera otpornosti, kondicije i metabolizma. Izdržljivost, poput svog pandana Snage volje, koristi se na mnogo načina, ali najspecifičnije za odupiranje mogućim učincima ozljeda, uključujući štetne otrove i bolesti.
 
-#### Izbjegavanje (DEX x2)
+#### Izmicanje (SPR x2)
 
-Izbjegavanje se koristi za bijeg od uočene, nadolazeće opasnosti i može se koristiti protiv oružja na daljinu (na primjer, bacanjem u zaklon), izbjegavanjem zamki, mijenjanjem udaljenosti sukoba u borbi i općenito sklanjanjem s puta potencijalnoj fizičkoj opasnosti. Također se može koristiti kao test otpora za određene vrste magije. Korištenje Izbjegavanja obično ostavlja lika u ležećem položaju (prone). Oni s osobinom Borilačkog stila „Odvažnik“ mogu koristiti Izbjegavanje za izbjegavanje napada prsa o prsa bez padanja na tlo, a protiv napada na daljinu završit će na tlu samo ako ne uspiju u bacanju.
+Izmicanje se koristi za bijeg od uočene, prijeteće opasnosti i može se koristiti protiv oružja na daljinu (na primjer, bacanjem u zaklon), izbjegavanjem zamki, promjenom udaljenosti borbe i općenito sklanjanjem s puta potencijalne fizičke opasnosti. Također se može koristiti kao bacanje otpora za određene vrste magije. Korištenje Izmicanja obično ostavlja lik u ležećem položaju. Oni s osobinom borbenog stila Odvažnik mogu koristiti Izmicanje kako bi izbjegli napad u bliskoj borbi bez pada u ležeći položaj, a protiv napada na daljinu završit će u ležećem položaju samo ako ne uspiju u bacanju.
 
-#### Prva pomoć (DEX+INT)
+#### Prva pomoć (SPR+INT)
 
 Vještina Prve pomoći mjeri sposobnost lika da liječi lakše ozljede i stabilizira one teže. Prva pomoć se može primijeniti samo jednom po specifičnoj ozljedi i liječi 1d3 boda štete.
 
-#### Utjecaj (CHA x2)
+#### Utjecaj (KAR x2)
 
-Ovo je mjerenje sposobnosti lika da uvjeri druge, kroz osobnu karizmu, u željeni način ponašanja. Koristi se u širokom rasponu situacija; od mijenjanja nečijeg mišljenja do podmićivanja službenika ili stražara. Bacanjima Utjecaja obično se suprotstavljaju Percepcija, Volja ili druga vještina Utjecaja, ovisno o okolnostima, a modificiraju se prema tome koliko lik pokušava utjecati na ponašanje. Pokušaj uvjeravanja bliskog prijatelja da vam posudi svog konja može biti relativno jednostavan. Navesti inače nepodmitljivog birokrata da prihvati mito je teže.
+Ovo je mjerenje sposobnosti lika da uvjeri druge, kroz osobnu karizmu, u željeni način ponašanja. Koristi se u raznim situacijama; od promjene nečijeg mišljenja do podmićivanja službenika ili stražara. Bacanjima utjecaja obično se suprotstavljaju Percepcija, Snaga volje ili druga vještina Utjecaja, ovisno o okolnostima, i modificiraju se prema tome koliko lik pokušava utjecati na ponašanje. Pokušaj nagovaranja bliskog prijatelja da vam posudi konja može biti relativno jednostavan. Navesti obično nepotkupljivog birokrata da prihvati mito je teže.
 
-#### Uvid (INT+POW)
+#### Uvid (INT+MOĆ)
 
-Uvid je sposobnost čitanja ili intuitivnog definiranja tuđeg verbalnog i neverbalnog ponašanja (kao što je govor tijela ili način govora) kako bi se utvrdili njihovi motivi i stanje uma. Uvid se koristi za utvrđivanje govori li netko laž (a može mu se suprotstaviti vještinom Obmane druge osobe), ili za predviđanje kako se netko osjeća u određenoj situaciji. Uvid se jednako može primijeniti na određene situacije kao i na druge ljude: je li ta krčma utočište nevolja? Planiraju li razbojnici zasjedu u obližnjim brdima?
+Uvid je sposobnost čitanja ili intuitivnog definiranja tuđeg verbalnog i neverbalnog ponašanja (kao što je govor tijela ili način govora) kako bi se utvrdili njihovi motivi i stanje uma. Uvid se koristi za utvrđivanje govori li netko laž (i može se suprotstaviti vještini Obmane druge osobe) ili za predviđanje kako se netko osjeća u vezi s određenom situacijom. Uvid se jednako može primijeniti na određene situacije kao i na druge ljude: je li ta krčma utočište nevolja? Mogu li banditi planirati zasjedu u obližnjim brdima?
 
 #### Lokalno znanje (INT x2)
 
-Lokalno znanje mjeri razumijevanje lokalne flore, faune, terena i vremena u području gdje je lik proveo veći dio svog života, obično unutar svoje zajednice. Lik poznaje uobičajene biljke, drveće i životinje, njihova svojstva i ponašanje: gdje se mogu naći najbolje ribe; kretanje divljači; gdje naći zaklon; vjerojatno vrijeme za godišnje doba i najčešće regionalne opasnosti. U susjednim, ali nepoznatim lokacijama, Lokalno znanje treba učiniti jednim ili više stupnjeva težim.
+Lokalno znanje mjeri likovo razumijevanje lokalne flore, faune, terena i vremena u području gdje je proveo veći dio svog života, obično unutar svoje zajednice. Lik poznaje uobičajene biljke, drveće i životinje, njihova svojstva i ponašanje: gdje se može naći najbolja riba; kretanje divljači; gdje naći sklonište; kakvo vrijeme očekivati za sezonu i najčešće regionalne opasnosti. U susjednim, ali nepoznatim lokacijama Lokalno znanje trebalo bi učiniti jednim ili više stupnjeva težim.
 
-#### Maternji jezik (INT+CHA +40)
+#### Maternji jezik (INT+KAR +40)
 
-Maternji jezik je sposobnost govora i čitanja vlastitog jezika, onog naučenog tijekom odrastanja u vlastitoj kulturi. Maternji jezik mjeri artikulaciju, rječitost i dubinu vokabulara govornika.
+Maternji jezik je sposobnost govora i čitanja vlastitog jezika, onog naučenog tijekom odrastanja u vlastitoj kulturi. Maternji jezik mjeri artikulaciju, elokvenciju i dubinu govornikovog vokabulara.
 
-Za razliku od drugih vještina, Maternji jezik se ne baca izravno. Umjesto toga, tretira se kao statičan prikaz ukupne tečnosti, ograničavajući razinu konverzacijske interakcije. To je detaljnije opisano pod vještinom Jezik, ali početni likovi obično započinju igru potpuno tečni u svom materinjem jeziku.
+Za razliku od drugih vještina, Maternji jezik se ne baca izravno. Umjesto toga, tretira se kao statički prikaz opće tečnosti, ograničavajući razinu konverzacijske interakcije. To je detaljnije opisano pod vještinom Jezik, ali likovi na početku igre obično počinju potpuno tečno govoreći svoj maternji jezik.
 
-#### Percepcija (INT+POW)
+#### Percepcija (INT+MOĆ)
 
-Percepcija se koristi za pasivno promatranje i fokusirano otkrivanje; bilo da se traži nešto specifično, vrši opće skeniranje područja ili jednostavna svjesnost o okolini. Specifični uvjeti – na primjer tama – mogu utjecati na stupanj težine bacanja vještine ovisno o primarnim osjetilima koja se koriste. Jaki mirisi mogli bi olakšati bacanje njušne Percepcije umjesto Standardnog, dok bi pokušaj prisluškivanja razgovora u prepunoj i bučnoj krčmi učinio bacanje Teškim.
+Percepcija se koristi i za pasivno promatranje i za fokusirano otkrivanje; bilo da lovite nešto specifično, općenito skenirate područje ili jednostavno osvještavate okolinu. Određeni uvjeti – mrak, na primjer – mogu utjecati na stupanj težine bacanja vještine ovisno o primarnim osjetilima koja se koriste. Jaki mirisi mogli bi učiniti bacanje olfaktorne percepcije laganim umjesto standardnim, dok bi pokušaj prisluškivanja razgovora u prepunoj i bučnoj krčmi učinio bacanje teškim.
 
-#### Jahanje (DEX+POW)
+#### Jahanje (SPR+MOĆ)
 
-Jahanje pokriva sposobnost upravljanja i ostanka na onim stvorenjima koja su uvježbana za jahanje. Vještina se može primijeniti na raznolik raspon zvijeri, od mazgi do slonova; čak i letećih ili plivajućih stvorenja poput divovskih orlova ili dupina. Jahanje nepoznate vrste uvijek je za jedan stupanj težine teže; dok je jahanje vrste iz drugog medija (jahač konja koji jaše zmaja, na primjer) dva stupnja teže. Divlja, neukroćena stvorenja ne mogu se jahati na konstruktivan način dok se ne slome i istreniraju kao jahaće zvijeri.
+Jahanje pokriva sposobnost kontrole i ostajanja na stvorenjima koja su istrenirana za jahanje. Vještina se može primijeniti na razne zvijeri, od mazgi do slonova; čak i leteća ili plivajuća stvorenja poput divovskih orlova ili dupina. Jahanje nepoznate vrste je uvijek jedan stupanj težine teže; dok je jahanje vrste iz drugog medija (jahač konja koji jaše zmaja, na primjer) dva stupnja teže. Divlja, neukroćena stvorenja ne mogu se jahati na konstruktivan način dok se ne pripitome i istreniraju kao jahaće životinje.
 
-#### Pjevanje (POW+CHA)
+#### Pjevanje (MOĆ+KAR)
 
-Pjevanje pokriva sve, od monotonih napjeva do složenih arija. Pjevanje je sastavni dio većine kultura, glavni izvor zabave, a možda se koristi i u ritualima. Važne pjesme mogu se koristiti za udvaranje, nadahnjivanje vojnika prije bitke ili jednostavno prepričavanje povijesnog djela. Vještina odražava korisnikovu sposobnost održavanja ritma, držanja tonaliteta i pamćenja točnih riječi.
+Pjevanje pokriva sve, od monotonih napjeva do složenih arija. Pjevanje je sastavni dio većine kultura, glavni izvor zabave, a možda se koristi i u ritualima. Važne pjesme mogu se koristiti za udvaranje, nadahnjivanje vojnika prije bitke ili jednostavno prepričavanje povijesnog događaja. Vještina odražava sposobnost korisnika da zadrži ritam, održi tonalitet i zapamti točne riječi.
 
-#### Šuljanje (DEX+INT)
+#### Prikradanje (SPR+INT)
 
-Skrivanje izvan vidokruga ili kretanje uz minimalnu buku pokriveno je vještinom Šuljanja. Zaklon i uvjeti, kao što su tama ili glasna pozadinska buka, poboljšavaju stupanj vještine prema specifičnostima okoliša. Slično tome, nepovoljni uvjeti, kao što su nedostatak zaklona ili tiha noć, smanjit će stupanj vještine. Okolnosti također utječu na težinu pokušaja. Na primjer, ratnik u teškom oklopu može se lako sakriti iza zida, pod uvjetom da stoji mirno ili se kreće vrlo polako, dok bi brzo kretanje moglo uzrokovati zveckanje njegovog oklopa.
+Skrivanje izvan vidokruga ili kretanje s minimalnom bukom pokriveni su vještinom Prikradanje. Zaklon i uvjeti, kao što su mrak ili glasna pozadinska buka, poboljšavaju stupanj vještine prema specifičnostima okoliša. Slično tome, nepovoljni uvjeti, kao što je nedostatak zaklona ili tiha noć, smanjit će stupanj vještine. Okolnosti također utječu na težinu pokušaja. Na primjer, ratnik u teškom oklopu može se lako sakriti iza zida, pod uvjetom da stoji mirno ili se kreće vrlo sporo, dok bi brzo kretanje moglo uzrokovati zveckanje oklopa.
 
-#### Plivanje (STR+CON)
+#### Plivanje (SNA+KON)
 
-Bez razvijanja, sposobnost plivanja ograničena je na mlataranje i držanje glave iznad vode na kratko vrijeme. Veći postoci plivanja ukazuju na sposobnost savladavanja dubljih i jačih voda, uz manji rizik od utapanja. Bacanje vještine Plivanja stoga ovisi u potpunosti o uvjetima. Uzburkano more, jake struje, bijela voda i povratne struje smanjuju stupanj vještine bez obzira na afinitet lika prema vodi. Više informacija o plivanju, uključujući izračun brzine plivanja, potražite u odjeljku [Kretanje](0005_Combat.md?id=situational-movement-rates).
+Bez usavršavanja, sposobnost plivanja ograničena je na mlataranje i držanje glave iznad vode na kratko vrijeme. Viši postoci Plivanja ukazuju na sposobnost snalaženja u dubljim i jačim vodama, uz manji rizik od utapanja. Dakle, bacanje Plivanja u potpunosti ovisi o uvjetima. Uzburkano more, jake struje i plime smanjuju stupanj vještine bez obzira na to koliki je likov afinitet prema vodi. Vidi [Kretanje](0005_Combat.md?id=situational-movement-rates) za više informacija o plivanju, uključujući izračunavanje brzine plivanja.
 
-#### Nenadmašna borba (STR+DEX)
+#### Nenaoružana borba (SNA+SPR)
 
-Nenadmašna borba je univerzalna borbena vještina zajednička svim likovima, mjereći sposobnost obrane bez pomoći oružja. Vještina Nenadmašne borbe pokriva tehnike tučnjave i hrvanja poznate toj kulturi.
+Nenaoružana borba je univerzalna borbena vještina zajednička svim likovima, mjereći sposobnost obrane bez pomoći oružja. Vještina Nenaoružane borbe pokriva tehnike tučnjave i hrvanja poznate toj kulturi.
 
-Budući da je Nenadmašna borba borbena vještina, njeni učinci Kritičnog uspjeha i Potpunog promašaja pokriveni su pravilima za borbu, kao što je detaljno opisano u poglavlju [Borba](0005_Combat.md).
+Budući da je Nenaoružana borba borbena vještina, njezini učinci kritičnog uspjeha i pada pokriveni su pravilima za borbu, kako je detaljno opisano u poglavlju [Borba](0005_Combat.md).
 
-#### Volja (POW x2)
+#### Snaga volje (MOĆ x2)
 
-Volja je mjera sposobnosti lika da se koncentrira, usmjeri svoju snagu volje u određenom smjeru ili očvrsne svoju psihu protiv mogućeg mentalnog šoka. To je također mjera osobne odlučnosti. Vještina se koristi u svim vrstama situacija u kojima je potrebna mentalna otpornost, a to uključuje i otpor magiji. Iako nije mjera zdravog razuma, može se koristiti za izdržavanje traumatičnih događaja koji bi potresli i najzdraviji, stabilan um. Volja je mentalna protuteža Izdržljivosti.
+Snaga volje je mjera sposobnosti lika da se koncentrira, usmjeri svoju snagu volje u određenom smjeru ili očvrsne svoju psihu protiv mogućeg mentalnog šoka. To je također mjera osobne odlučnosti. Vještina se koristi u svim vrstama situacija u kojima je potrebna mentalna otpornost, a to uključuje odupiranje magiji. Iako nije mjera razuma, može se koristiti za izdržavanje traumatičnih događaja koji bi uzdrmali čak i najrazumniji, stabilan um. Snaga volje je mentalni pandan Izdržljivosti.
 
-Ponovno, poput Izdržljivosti i Izbjegavanja, Volja se najčešće koristi u Suprotstavljenim bacanjima. Kada se koristi kao Standardni test, bacanje Kritične volje ukazuje na to da je lik očvrsnuo svoj um i duh do te mjere da nikakvi daljnji pokušaji utjecaja na njega, ili poljuljanja njegove odlučnosti, neće uspjeti. U slučaju otpora magiji, Kritični uspjeh znači da nikakve daljnje mentalno štetne čarolije koje protivnik baci nemaju nikakvog učinka na lika do kraja tog susreta.
+Opet, kao i Izdržljivost i Izmicanje, Snaga volje se najčešće koristi u suprotstavljenim bacanjima. Kada se koristi kao standardni test, kritično bacanje Snage volje ukazuje na to da je lik očvrsnuo svoj um i duh do te mjere da daljnji pokušaji utjecaja na njega ili poljuljavanja njegove odlučnosti neće uspjeti. U slučaju odupiranja magiji, kritičan uspjeh znači da nijedna daljnja mentalno štetna čarolija bačena od strane protivnika nema učinka na lika do kraja tog susreta.
 
 ---
 ## Profesionalne vještine
 
-Profesionalne vještine razlikuju se između likova i predstavljaju specijaliziranije oblike obuke i iskustva. Neke profesionalne vještine stječu se kroz kulturno podrijetlo i karijeru lika, kao što ime sugerira. Iako se razlikuju među likovima, funkcioniraju na isti način kao i Standardne vještine.
+Profesionalne vještine razlikuju se od lika do lika i predstavljaju specijaliziranije oblike obuke i iskustva. Neke profesionalne vještine prikupljaju se kroz kulturnu pozadinu i karijeru lika, kao što samo ime sugerira. Iako se razlikuju među likovima, funkcioniraju na isti način kao i standardne vještine.
 
-#### Gluma (CHA x2)
+#### Gluma (KAR x2)
 
-Gluma upravlja umijećem imitiranja i prenošenja potpuno drugačijeg lika, bilo u scenskoj izvedbi ili u društvenoj situaciji. Glumac prikazuje osobnost i manire drugačije od vlastitih na uvjerljiv način. U kombinaciji s vještinama Prerušavanja i Obmane, ovo je moćan način da postanete netko posve drugi.
+Gluma upravlja umjetnošću imitiranja i prenošenja potpuno drugačijeg lika, bilo u scenskoj izvedbi ili u društvenoj situaciji. Glumac na uvjerljiv način prikazuje osobnost i manire drugačije od svojih. U kombinaciji s vještinama Prerušavanja i Obmane, ovo je moćan način da se postane netko drugi.
 
-#### Akrobacija (STR+DEX)
+#### Akrobatika (SNA+SPR)
 
-Akrobacija pokriva radnje ravnoteže, gimnastike, žongliranja i premeta. Vještina se može koristiti za impresioniranje publike, ali i za smanjenje štete od padova. Uz uspješno bacanje, lik se može kretati punom brzinom i sigurno preko nestabilne ili uske površine. Ako pokušavate ublažiti štetu od neočekivanog pada, uspješno bacanje Akrobacije prepolovljuje pretrpljenu štetu. Osim toga, ako je bacanje uspješno i lik ne pretrpi Ozbiljnu ili Veliku ranu zbog pada, lik se dočekuje relativno sigurno i nije u ležećem položaju.
+Akrobatika pokriva radnje ravnoteže, gimnastike, žongliranja i akrobacija. Vještina se može koristiti za impresioniranje publike, ali i za smanjenje štete od padova. Uz uspješno bacanje, lik se može kretati punom brzinom i sigurno preko nestabilne ili uske površine. Ako pokušavate ublažiti štetu od neočekivanog pada, uspješno bacanje Akrobatike prepolovljuje svaku pretrpljenu štetu. Osim toga, ako je bacanje uspješno i lik ne pretrpi ozbiljnu ili tešku ranu zbog pada, lik doskače relativno sigurno i ne ostaje u ležećem položaju.
 
-Akrobacija se može zamijeniti za Izbjegavanje ako situacija to opravdava. Prednost ovoga je što lik automatski vraća ravnotežu umjesto da završi na tlu.
+Akrobatika se može zamijeniti za Izmicanje ako situacija to opravdava. Prednost ovoga je što lik automatski vraća ravnotežu umjesto da završi u ležećem položaju.
 
 #### Astrogacija (INT x2)
 
-Astrogacija je ekvivalent navigaciji, osim što omogućuje pilotima svemirskih brodova da ucrtaju kurs na zvjezdanim i međuzvjezdanim udaljenostima.
+Astrogacija je ekvivalent navigaciji, s tom razlikom što omogućuje pilotima svemirskih brodova da zacrtaju kurs na zvjezdanim i međuzvjezdanim udaljenostima.
 
-#### Umjetnost (POW+CHA)
+#### Umjetnost (MOĆ+KAR)
 
-Postoje mnogi specifični oblici umjetnosti. Od slikarstva do poezije; književnosti do kiparstva. Lik bira specijalizaciju Umjetnosti kada uzima ovu vještinu. Kasniji oblici umjetnosti napreduju zasebno. Bacanje se vrši kad god lik mora impresionirati ili uvjeriti kroz svoj umjetnički medij.
+Postoje mnogi specifični oblici umjetnosti. Od slikarstva do poezije; od književnosti do kiparstva. Lik bira specijalizaciju umjetnosti kada uzima ovu vještinu. Naknadni oblici umjetnosti unaprjeđuju se zasebno. Bacanje se vrši kad god lik mora impresionirati ili uvjeriti kroz svoj umjetnički medij.
 
 #### Birokracija (INT x2)
 
-Razumijevanje administrativnih postupaka, zapisa i nepisanih konvencija pokriveno je vještinom Birokracije. Koristi se za interakciju sa službenicima ili otkrivanje važnih građanskih informacija. Ovisno o sofisticiranosti njihove kulture, birokrati ne moraju nužno biti pismeni. Kad god treba proći kroz birokraciju ili administrativne krajolike, potrebno je bacanje Birokracije.
+Razumijevanje administrativnih postupaka, evidencija i neizgovorenih konvencija pokriveno je vještinom Birokracije. Koristi se za interakciju sa službenicima ili otkrivanje relevantnih građanskih informacija. Ovisno o sofisticiranosti njihove kulture, birokrati ne moraju nužno biti pismeni. Kad god treba navigirati kroz crvenu traku ili administrativne krajolike, potrebno je bacanje Birokracije.
 
-#### Trgovina (INT+CHA)
+#### Trgovina (INT+KAR)
 
-Trgovina se koristi za procjenu vrijednosti robe i proizvoda te za njihovu razmjenu po najboljoj mogućoj cijeni. Također se koristi za razumijevanje zamršenosti poslovnih transakcija uz osiguravanje profita. Daljnja primjena je u pronalaženju najboljeg načina za rješavanje ukradene i ilegalne robe – opet po najboljoj mogućoj cijeni. Trgovina se očito koristi pri trgovanju, a njoj se može suprotstaviti vještina Trgovine ili Volje protivnika, odražavajući pokušaje suprotne strane da potakne posao u svoju korist. Također se koristi za procjenu tržišne vrijednosti robe, stjecanje predodžbe o cijeni i gdje će se najbolje trgovati.
+Trgovina se koristi za procjenu vrijednosti robe i sirovina te za trgovanje njima po najboljoj mogućoj cijeni. Također se koristi za razumijevanje zamršenosti poslovnih transakcija uz osiguravanje profita. Daljnja upotreba je pronalaženje najboljeg načina za rješavanje ukradene i nedopuštene robe – opet po najboljoj mogućoj cijeni. Trgovina se očito koristi pri trgovanju i može joj se suprotstaviti protivnička vještina Trgovine ili Snaga volje, odražavajući pokušaje suprotne strane da posao usmjeri u svoju korist. Također se koristi za procjenu tržišne vrijednosti robe, stjecanje ideje o cijeni i gdje će se najbolje trgovati.
 
 #### Komunikacije (INT x2)
 
-Ova vještina daje sposobnost korištenja komunikacijske opreme za otkrivanje, skrivanje ili blokiranje komunikacijskog prometa. Također daje šansu za probijanje šifriranih poruka (pod uvjetom da korisnik ima pristup uređaju za razbijanje kodova).
+Ova vještina daje sposobnost korištenja komunikacijske opreme za otkrivanje, prikrivanje ili blokiranje komunikacijskog prometa. Također daje priliku za probijanje šifriranih poruka (pod uvjetom da korisnik ima pristup uređaju za razbijanje kodova).
 
 #### Računala (INT x2)
 
-Računala odražavaju sposobnost lika da rješava složene probleme ili izvlači složene informacije koristeći računalne sustave – bilo kroz programski kod, detaljnu upotrebu određenog softvera, hakiranje, pa čak i dijagnosticiranje/popravak softverskih i hardverskih problema. Općenito korištenje računala obično ne zahtijeva bacanje.
+Računala odražavaju sposobnost lika da rješava složene probleme ili izvlači složene informacije pomoću računalnih sustava – bilo kroz programski kod, detaljnu upotrebu određenog softvera, hakiranje ili čak dijagnosticiranje/popravak problema sa softverom i hardverom. Općenita upotreba računala obično ne zahtijeva bacanje.#### Uljudnost (INT+KAR)
 
-#### Učtivost (INT+CHA)
+Ova vještina obuhvaća razumijevanje prikladnog ponašanja u društvenim ili formalnim situacijama: načine oslovljavanja, rituale, konvencije ponašanja i slično. Uključuje sve, od toga kome se nakloniti i kada, do toga koliko nisko; od toga kada koristiti određenu titulu do toga kada je prikladno ponašati se neformalno.
 
-Ova vještina pokriva razumijevanje kako se primjereno ponašati u društvenoj ili formalnoj situaciji: načini obraćanja, rituali i konvencije ponašanja, itd. Uključuje sve, od toga kome se pokloniti i kada, do toga koliko nisko; od toga kada koristiti određenu titulu do toga kada je prikladno djelovati neformalno.
+#### Zanat (SPR+INT)
 
-#### Zanat (DEX+INT)
-
-Svaki Zanat je specijalizirani oblik, a postoji onoliko zanata koliko i profesija za njih. Poput Umjetnosti, Zanat se koristi za stvaranje predmetnog proizvoda. Koliko dugo traje ovisi isključivo o prirodi proizvoda: tkanje tepiha traje duže nego oblikovanje lonca, na primjer, ali vrijeme nije nužno najvažniji čimbenik: to je vještina obrtnika, kvaliteta resursa i posvećenost detaljima.
+Svaki Zanat je specijalizirani oblik, a postoji onoliko zanata koliko ima profesija za njih. Poput Umjetnosti, Zanat se koristi za izradu predmetnog artikla. Koliko vremena je potrebno ovisi u potpunosti o prirodi proizvoda: pletenje tepiha traje duže nego oblikovanje lonca, na primjer, ali vrijeme nije nužno najvažniji faktor: to su vještina zanatlije, kvaliteta resursa i pozornost na detalje.
 
 #### Kultura (INT x2)
 
-Kultura je specifičniji oblik Standardne vještine Običaji, koja se odnosi na društva strana liku. Svaka vještina Kulture mora biti dodijeljena određenoj naciji ili društvu na koje se odnosi. Mehanički funkcionira na isti način kao i vještina Običaji.
+Kultura je specifičniji oblik Osnovne vještine Običaji, koja se umjesto toga odnosi na društva strana karakterovom vlastitom. Svakoj vještini Kultura mora se dodijeliti određena nacija ili društvo na koje se primjenjuje. Mehanički funkcionira na isti način kao i vještina Običaji.
 
-#### Demoliranje (INT+POW)
+#### Rušenje (INT+MOĆ)
 
 Ova vještina omogućuje liku sigurno rukovanje i korištenje eksplozivnih materijala, bilo da ih postavlja ili deaktivira.
 
-#### Prerušavanje (INT+CHA)
+#### Prerušavanje (INT+KAR)
 
-Izvođenje uvjerljivog prerušavanja, korištenjem odgovarajućih materijala (kostimi, kozmetika, perike ili umeci za kosu), pokriveno je vještinom Prerušavanja. Stvaranje prerušavanja zahtijeva vrijeme i posvećenost detaljima, kao i pristup pravim materijalima kako bi bilo uvjerljivo. Ako neki ili svi ti elementi nisu prisutni, tada se Stupanj težine bacanja Prerušavanja čini jednim ili više stupnjeva težim.
+Izvedba uvjerljivog prerušavanja, uz korištenje odgovarajućih materijala (kostimi, kozmetika, perike ili umeci za kosu), obuhvaćena je vještinom Prerušavanje. Stvaranje prerušbe zahtijeva vrijeme i pozornost na detalje, kao i pristup pravim materijalima kako bi bila uvjerljiva. Ako neki ili svi ti elementi nedostaju, Razred težine bacanja za Prerušavanje postaje jedan ili više stupnjeva teži.
 
-Prerušavanje se može nadopuniti Glumom kako bi se poboljšao ukupni učinak obmane (i obrnuto pri izvedbi), pa su te dvije vještine komplementarne.
+Prerušavanje se može nadopuniti Glumom kako bi se pojačao ukupni učinak obmane (i obrnuto pri nastupu), pa su te dvije vještine komplementarne.
 
-#### Elektronika (DEX+INT)
+#### Elektronika (SPR+INT)
 
-Ova vještina omogućuje korisniku da popravlja, zaobilazi ili servisira elektroničke uređaje. Ima mnogo primjena, najčešće za privremeno krpanje oštećene opreme ili zamjenu pokvarenih strujnih krugova rezervnim dijelovima.
+Ova vještina omogućuje korisniku da prčka po elektroničkim uređajima, zaobilazi ih ili popravlja. Ima mnoge primjene, najčešće za privremeno krpanje oštećene opreme ili zamjenu pokvarenih strujnih krugova rezervnim dijelovima.
 
 #### Inženjerstvo (INT x2)
 
-Dizajniranje i izgradnja velikih struktura, od kuća do mostova, vrata do opsadnih strojeva, u domeni je vještine Inženjerstva. Bacanja su neophodna pri planiranju projekata velikih razmjera kako bi se osigurala pravilna konstrukcija, ali se također provode kada inženjer želi procijeniti cjelovitost strukture iz bilo kojeg razloga (stanje popravka ili slabe točke, na primjer).
+Dizajniranje i gradnja struktura velikih razmjera, od kuća do mostova, vrata do opsadnih strojeva, u nadležnosti je vještine Inženjerstvo. Bacanja su potrebna pri planiranju projekata velikih razmjera kako bi se osigurala ispravna konstrukcija, ali se također izvode kada inženjer želi procijeniti integritet strukture iz bilo kojeg razloga (stanje popravka ili slabe točke, na primjer).
 
-#### Krivotvorenje (DEX+INT)
+#### Krivotvorenje (SPR+INT)
 
-Vještina Krivotvorenja omogućuje stvaranje ili falsificiranje službene dokumentacije.
+Vještina Krivotvorenje omogućuje izradu ili falsificiranje službene dokumentacije.
 
-#### Kockanje (INT+POW)
+#### Kockanje (INT+MOĆ)
 
-Vještina Kockanja mjeri kompetenciju lika u igrama na sreću, a posebno gdje se novac stavlja na ishod. Koristi se za procjenu šansi za uspjeh ili neuspjeh ili uočavanje kada netko vara. Vještina se može koristiti na suprotstavljen ili nesuprotstavljen način, ovisno o situaciji. Provedba noći u bezličnoj kockarnici može zahtijevati samo izravan test, dok igra kockica s visokim ulozima koja uključuje poznate osobe može zahtijevati nekoliko Rundi suprotstavljenih bacanja.
+Vještina Kockanje mjeri kompetenciju lika u igrama na sreću, posebno tamo gdje se novac ulaže na ishod. Koristi se za procjenu izgleda za uspjeh ili neuspjeh ili za primjećivanje kada netko vara. Vještina se može koristiti na suprotstavljen ili nesuprotstavljen način, ovisno o situaciji. Provođenje noći u bezličnoj kockarnici moglo bi zahtijevati samo izravni test, dok igra s visokim ulozima koja uključuje poznate osobe može zahtijevati nekoliko Rundi Suprotstavljenih bacanja.
 
-#### Iscjeljivanje (INT+POW)
+#### Iscjeljivanje (INT+MOĆ)
 
-Iscjeljivanje je dubinsko poznavanje medicinskih postupaka, temeljeno na kulturnim praksama, i koristi se za liječenje ozbiljnijih ozljeda (obično onih gdje su Bodovi zdravlja na nuli ili manje). U primitivnoj ili barbarskoj kulturi, na primjer, iscjeljivanje će se temeljiti na poznavanju ljekovitog bilja i prirodnih lijekova. U civiliziranoj kulturi, lijekovi i napredniji tretmani bit će češći. U svim kulturama Iscjeljivanje uključuje sposobnost namještanja kostiju, šivanja rana i tako dalje. Očito je da primjena Iscjeljivanja zahtijeva odgovarajuće resurse, a većina prakticirajućih iscjelitelja imat će takve stvari pri ruci (igle, konac za šivanje, bilje za obloge, itd., ili medicinski komplet za moderno okruženje).
+Iscjeljivanje je dubinsko znanje o medicinskim postupcima, temeljeno na kulturnim praksama, i koristi se za liječenje ozbiljnijih ozljeda (obično onih gdje su Hit Points na nuli ili manje). U primitivnoj ili barbarskoj kulturi, na primjer, iscjeljivanje će se temeljiti na poznavanju biljaka i prirodnih lijekova. U civiliziranoj kulturi, lijekovi i napredniji tretmani bit će češći. U svim kulturama Iscjeljivanje uključuje sposobnost namještanja kostiju, šivanja rana i slično. Očito, primjena Iscjeljivanja zahtijeva odgovarajuće resurse, a većina iscjelitelja će imati takve stvari pri ruci (igle, konac za šavove, bilje za obloge i slično, ili medicinski komplet za moderna okruženja).
 
-#### Jezik (INT+CHA)
+#### Jezik (INT+KAR)
 
-Ova vještina pokriva govorenje i razumijevanje jezika koji nije vlastiti. Vještina se tretira kao statičan prikaz ukupne tečnosti. 1-25% nekoliko osnovnih riječi, 26-50% jednostavne rečenice, 51-75% tečno za opći razgovor, 76+% sposobnost rječitog razgovora. Njezinu vrijednost koristi Voditelj igre kako bi ograničio razinu govorne interakcije kada igrači razgovaraju s osobnostima u igri. Također se može koristiti kao gornja granica za neke druge vještine (kao što je Birokracija), gdje Jezik može biti ograničavajući čimbenik. U takvom slučaju, vještina poput Birokracije ne može premašiti vrijednost vještine Jezika koji se koristi.
+Ova vještina obuhvaća govorenje i razumijevanje jezika koji nije karakterov materinji. Vještina se tretira kao statični prikaz ukupne tečnosti. 1-25% nekoliko osnovnih riječi, 26-50% jednostavne rečenice, 51-75% tečno za opći razgovor, 76+% sposobnost elokventnog razgovora. Njezinu vrijednost koristi Voditelj igre kako bi ograničio razinu usmene interakcije kada igrači razgovaraju s ličnostima u igri. Također se može koristiti kao gornja granica za određene druge vještine (poput Birokracije), gdje Jezik može biti ograničavajući faktor. U takvom slučaju, vještina poput Birokracije ne može premašiti vrijednost vještine Jezika koji se koristi.
 
 #### Pismenost (Specifični jezik) (INT x2)
 
-Tečno govorenje jezika ne znači da ga se može čitati i pisati. Pismenost je specifična vještina i različita društva pokazuju različite razine i pristupe prema njoj. U nekima je pismenost rezervirana za plemstvo, birokratske ili vjerske klase. U drugima je nepoznata, umjesto čega prevladavaju usmene tradicije. U modernim ili futurističkim društvima pismenost se uči po zadanom i ne zahtijeva posebnu vještinu.
+Tečno govorenje jezika ne znači da ga osoba zna čitati i pisati. Pismenost je specifična vještina i različita društva pokazuju različite razine i pristupe prema njoj. U nekima je pismenost rezervirana za plemstvo, birokratske ili vjerske klase. U drugima je nepoznata, a prevladavaju usmene tradicije. U modernim ili futurističkim društvima pismenost se uči po zadanim postavkama i ne zahtijeva zasebnu vještinu.
 
-#### Obijanje brava (DEX x2)
+#### Obaranje brava (SPR x2)
 
-Obijanje brava je sposobnost otvaranja mehaničkog sustava zaključavanja bez pomoći ključa ili drugog uređaja napravljenog posebno za tu bravu. Uključuje tehnike polužnog otvaranja zasuna ili prečki na vratima i prozorima bez nanošenja štete. Obijanje brava može se koristiti i za zaključavanje vrata, škrinje i slično, kada ključ nije dostupan.
+Obaranje brava je sposobnost otvaranja mehaničkog sustava zaključavanja bez pomoći ključa ili drugog uređaja napravljenog posebno za tu bravu. Uključuje tehnike poluge za otvaranje zasunjenih vrata i prozora bez izazivanja štete. Obaranje brava također se može koristiti za zaključavanje vrata, škrinje i slično, kada ključ nije dostupan.
 
-#### Znanje (Lore) (INT x2)
+#### Znanje (INT x2)
 
-Znanje pokriva određeno područje znanja koje se mora odabrati kada se vještina prvi put uči. Alkemija, Astrologija, Astronomija, Geografija, Heraldika, Povijest, Porodništvo, Mineralogija, Čudovišta, Politika, Religija, Strategija i taktika: ovo su svi tipični primjeri vještina Znanja. Vještina u Znanju znači da lik razumije njegove osnove, kako se može primijeniti na trenutne izazove i probleme, te može koristiti Znanje za prisjećanje korisnih informacija.
+Znanje obuhvaća određeno tijelo znanja koje se mora odabrati kada se vještina prvi put uči. Alkemija, Astrologija, Astronomija, Geografija, Heraldika, Povijest, Babica, Minerali, Čudovišta, Politika, Religija, Strategija i taktika: sve su to tipični primjeri vještina Znanja. Vještina u Znanju znači da lik razumije njezine osnove, kako se može primijeniti na neposredne izazove i probleme, te može koristiti Znanje za prisjećanje korisnih informacija.
 
-#### Magija (POW+CHA)
+#### Magija (MOĆ+KAR)
 
-Vještina Magije koristi se za bacanje čarolija opisanih u odjeljku [Magija i moći](0007_Magic.md). Za rad čarolije potrebno je uspješno bacanje, iako čaroliji se i dalje može oduprijeti suprotstavljenom vještinom kao što je Volja.
+Vještina Magija koristi se za bacanje čarolija opisanih u odjeljku [Magija i moći](0007_Magic.md). Uspješno bacanje je potrebno da bi čarolija uspjela, iako se čaroliji još uvijek može oduprijeti suprotstavljenom vještinom kao što je Snaga volje.
 
-#### Mehanizmi (DEX+INT)
+#### Mehanizmi (SPR+INT)
 
-Mehanizmi predstavljaju znanje i vještinu sastavljanja i rastavljanja mehaničkih uređaja, kao što su zamke. Vještina Mehanizama općenito uključuje stvaranje delikatnih naprava s malim radnim dijelovima, za razliku od Inženjerstva koje se bavi masivnim konstrukcijama. To je zasebna disciplina od Obijanja brava i ne može se zamijeniti s tom vještinom.
+Mehanizmi predstavljaju znanje i vještinu sastavljanja i rastavljanja mehaničkih uređaja, kao što su zamke. Vještina Mehanizmi općenito uključuje stvaranje osjetljivih naprava s malim radnim dijelovima, za razliku od Inženjerstva, koje se bavi masivnim konstrukcijama. To je disciplina različita od Obaranja brava i ne može se zamijeniti s tom vještinom.
 
-#### Glazbeno umijeće (DEX+CHA)
+#### Glazbeno umijeće (SPR+KAR)
 
-Glazbeno umijeće pokriva sviranje glazbenih instrumenata; od jednostavne trske do složenog žičanog instrumenta kao što je harfa, a svaka iteracija Glazbenog umijeća primjenjuje se na skup sličnih instrumenata. Glazbenik koji zna svirati trsku također može svirati flautu, panovu frulu ili blok-flautu jer su osnove iste. Međutim, ne bi mogao svirati harfu ili lutnju.
+Glazbeno umijeće obuhvaća sviranje glazbenih instrumenata; od jednostavne trske do složenog žičanog instrumenta kao što je harfa, a svaka iteracija Glazbenog umijeća primjenjuje se na skupinu sličnih instrumenata. Glazbenik koji zna svirati trsku također može svirati flautu, panovu frulu ili kljunastu flautu jer su osnove iste. Međutim, ne bi mogao svirati harfu ili lutnju.
 
-#### Navigacija (INT+POW)
+#### Navigacija (INT+MOĆ)
 
-Bilo da se koriste istaknute znamenitosti, zvijezde ili promjenjiv okus morske vode, sposobnost preciznog usmjeravanja putovanja pokrivena je vještinom Navigacije. Svaka vještina Navigacije pokriva određenu regiju ili okoliš, kao što su otvorena mora ili podzemlje, na primjer. Treba je koristiti tijekom neobičnih putovanja ili kada ste na potpuno nepoznatom teritoriju.
+Bilo da se koriste istaknute znamenitosti, zvijezde ili promjenjivi okus morske vode, sposobnost točnog usmjeravanja putovanja obuhvaćena je vještinom Navigacija. Svaka vještina Navigacije pokriva određenu regiju ili okruženje, kao što su Otvoreno more ili Podzemlje, na primjer. Treba je izvoditi tijekom neuobičajenih putovanja ili kada ste u potpuno nepoznatom teritoriju.
 
-#### Govorništvo (POW+CHA)
+#### Oratorstvo (MOĆ+KAR)
 
-Govorništvo je umijeće održavanja govora velikoj skupini ljudi s ciljem prenošenja ili pridobivanja gledišta. To je vještina koju političari često koriste za provođenje politike, ali je koriste i zapovjednici kako bi nadahnuli trupe i nametnuli disciplinu na bojnom polju. Gdje god je potrebno masovno uvjeravanje, koristi se Govorništvo, a ne Utjecaj.
+Oratorstvo je umjetnost držanja govora velikoj skupini ljudi s ciljem prenošenja ili pridobivanja gledišta. To je vještina koju političari često koriste kako bi učvrstili politiku, ali je također koriste zapovjednici kako bi inspirirali trupe i uveli disciplinu na bojnom polju. Tamo gdje je potrebno masovno uvjeravanje, koristi se Oratorstvo, a ne Utjecaj.
 
-#### Pilotiranje (DEX+INT)
+#### Pilotiranje (SPR+INT)
 
-Vještina Pilotiranja omogućuje kontrolu određene klase (kao što su jedrilice, avioni na propeler, mlazni motori, itd.) letećih vozila.
+Vještina Pilotiranje omogućuje upravljanje određenom klasom (kao što su jedrilice, avioni s propelerom, mlazni motori i tako dalje) letećih vozila.
 
-#### Politika (INT+CHA)
+#### Politika (INT+KAR)
 
-Likovi koji posjeduju vještinu Politike razumiju kako se kretati i pregovarati hodnicima vlasti na lokalnoj i nacionalnoj razini.
+Likovi koji posjeduju vještinu Politika razumiju kako se kretati i pregovarati u hodnicima vlasti na lokalnoj i nacionalnoj razini.
 
-#### Istraživanje (INT+POW)
+#### Istraživanje (INT+MOĆ)
 
-Istraživanje koristi različite resurse (kao što su knjižnica, novinska arhiva, računalna mreža itd.) za otkrivanje željenih informacija.
+Istraživanje koristi razne resurse (kao što su knjižnica, arhiva novina, računalna mreža i tako dalje), za otkrivanje željenih dijelova informacija.
 
 #### Znanost (INT x2)
 
-Postoje deseci znanstvenih disciplina, a vještina Znanost, koja se može uzeti više puta, uvijek je povezana s disciplinom: Znanost (Biologija) ili Znanost (Kemija), na primjer. Znanost zamjenjuje vještinu Znanje u modernim i futurističkim okruženjima.
+Postoje desetine znanstvenih disciplina, a vještina Znanost, koja se može uzeti više puta, uvijek je povezana s disciplinom: Znanost (Biologija) ili Znanost (Kemija), na primjer. Znanost zamjenjuje vještinu Znanje u modernim i futurističkim okruženjima.
 
-#### Pomorstvo (INT+CON)
+#### Pomorstvo (INT+KON)
 
-Ova se vještina koristi na isti način kao i Čamci, ali se primjenjuje na velika plovila na vodi koja se pokreću jedrima ili veslima. Također pokriva održavanje i njegu broda: procjenjivanje kada su potrebni popravci, gdje je sigurno usidriti, opasnosti nasilnog vremena i tako dalje.
+Ova se vještina koristi na isti način kao i Čamčenje, ali se umjesto toga primjenjuje na velika plovila pokretana jedrima ili redovima vesala. Također pokriva održavanje i njegu broda: procjenjivanje kada su potrebni popravci, gdje je sigurno usidriti se, opasnosti nasilnog vremena i tako dalje.
 
-#### Zavodljivost (INT+CHA)
+#### Zavodljivost (INT+KAR)
 
-Zavodljivost je romantično ili seksualno uvjeravanje druge osobe, vještina vrlo različita od Utjecaja. Koristi eksplicitne signale – verbalne i neverbalne – kako bi izazvala seksualno pozitivan odgovor. Također zahtijeva značajnu količinu vremena: uspješna Zavodljivost može trajati satima, danima ili tjednima, ovisno o moralu mete, koja se uvijek može pokušati oduprijeti Zavodljivosti pomoću Volje.
+Zavodljivost je romantično ili seksualno uvjeravanje druge osobe, vještina vrlo različita od Utjecaja. Koristi eksplicitne signale – verbalne i neverbalne – kako bi izazvala seksualno pozitivan odgovor. Također oduzima značajnu količinu vremena: uspješna Zavodljivost može potrajati satima, danima ili tjednima ovisno o moralu mete, koja uvijek može pokušati odoljeti Zavodljivosti pomoću Snage volje.
 
-#### Senzori (INT+POW)
+#### Senzori (INT+MOĆ)
 
-Ova vještina omogućuje preciznu upotrebu i analizu senzorskih uređaja, od kemijskih njuškala do vojnih skenera dugog dometa.
+Ova vještina omogućuje točnu upotrebu i analizu senzorskih uređaja, od kemijskih njuškala do vojnih skenera dugog dometa.
 
-#### Spretni prsti (DEX+CHA)
+#### Spretni prsti (SPR+KAR)
 
-Spretni prsti pokrivaju pokušaje skrivanja malih predmeta (trikovi rukom i prestidigitacija) i uključuju pokušaje džeparenja, rezanja torbica ili vizualnog odvraćanja pažnje. Naravno, to je bitna vještina lopova.
+Spretni prsti pokriva pokušaje skrivanja malih predmeta (trikovi rukom i prestidigitacija) i uključuje pokušaje krađe džepova, rezanja torbica ili vizualnog odvraćanja pažnje. Naravno, to je bitna lopovska vještina.
 
-#### Snalažljivost na ulici (POW+CHA)
+#### Snalaženje na ulici (MOĆ+KAR)
 
-Snalažljivost na ulici predstavlja poznavanje mjesta i društvenih kontakata unutar naselja. Pokriva sve, od identificiranja potencijalno opasnih četvrti, do pronalaženja lokalnih usluga – legalnih ili ilegalnih. Koliko dugo traje pokušaj Snalažljivosti na ulici ovisi o tome što se traži. Pronalaženje dobre krčme trajat će kraće od lociranja preprodavača ukradene robe ili lažne trgovačke dozvole.
+Snalaženje na ulici predstavlja poznavanje mjesta i društvenih kontakata unutar naselja. Obuhvaća sve, od identificiranja potencijalno opasnih četvrti do pronalaženja lokalnih usluga – legalnih ili ilegalnih. Koliko dugo pokušaj Snalaženja na ulici traje ovisi o tome što se traži. Pronalaženje dobrog svratišta trajat će manje vremena nego lociranje primatelja ukradene robe ili lažne trgovačke dozvole.
 
-#### Preživljavanje (CON+POW)
+#### Preživljavanje (KON+MOĆ)
 
-Ova vještina pokriva preživljavanje u ruralnom ili divljem okruženju gdje blagodati civilizacije izostaju: sakupljanje hrane, paljenje vatre, pronalaženje zaklona ili sigurnog mjesta za spavanje. Kada su pravilno opremljeni, bacanja obično nisu potrebna jer lik možda nosi šator, zalihe hrane itd. Tek kada se odvoje od svoje opreme ili kada uvjeti u okolišu postanu loši, postaje bitno koristiti ovu vještinu. Bacanje se obično radi jednom dnevno u takvim uvjetima.
+Ova vještina obuhvaća preživljavanje u ruralnom ili divljem okruženju gdje blagodati civilizacije izostaju: skupljanje hrane, paljenje vatre, pronalaženje skloništa ili sigurnog mjesta za spavanje. Kada su pravilno opremljeni, bacanja obično nisu potrebna jer lik može nositi šator, zalihe hrane i tako dalje. Tek kada se odvoji od svoje opreme ili kada uvjeti okoline postanu loši, postaje neophodno koristiti ovu vještinu. Bacanje se obično radi jednom dnevno u takvim uvjetima.
 
-#### Podučavanje (INT+CHA)
+#### Podučavanje (INT+KAR)
 
-Podučavanje omogućuje korisniku da prenese svoje znanje i tehnike na jednostavan i konstruktivan način. Bez ove vještine čak će i najsposobniji majstori imati problema s poučavanjem drugih.
+Podučavanje omogućuje korisniku da prenese svoje znanje i tehnike na način koji je lako razumljiv i konstruktivan. Bez ove vještine, čak će i najsposobniji majstori imati problema s podučavanjem drugih.
 
-#### Praćenje (INT+CON)
+#### Praćenje (INT+KON)
 
-Vještina Praćenja koristi se za praćenje bilo kojeg oblika divljači ili plijena. Koristi očite i dvosmislene znakove prolaska kako bi ostala na tragu plijena, uključujući otiske stopala, zgnječeno lišće, razbacani pelud, pomaknuto kamenje i tako dalje; mali, odajući znakovi koji su nevidljivi onima koji nisu vješti. Bacanja Praćenja moraju se raditi povremeno, osobito ako se uvjeti naglo promijene (pljusak, na primjer, poremetit će određene znakove). Koliko često ovisi o tome koliko je plijen bio lukav. Bacanja Prikrivanja mogu se koristiti za suprotstavljanje bacanju Praćenja.
+Vještina Praćenje koristi se za praćenje bilo kojeg oblika divljači ili plijena. Koristi i očite i dvosmislene znakove prolaska kako bi ostala na tragu plijena, uključujući otiske stopala, nagnječeno lišće, razbacani pelud, pomaknuto kamenje i tako dalje; mali, odajući znakovi koji su nevidljivi onima bez vještine. Bacanja za Praćenje potrebno je izvoditi povremeno, osobito ako se uvjeti naglo promijene (pljusak, na primjer, poremetit će određene znakove). Koliko često ovisi o tome koliko je plijen bio lukav. Bacanja za Skrivanje mogu se koristiti za suprotstavljanje bacanju za Praćenje.
 
 ---
 ## Pravila vještina za različite okolnosti i situacije
 
-Iako su osnovna pravila za korištenje vještina u _Mythras Imperative_ vrlo jednostavna, tijekom igre se pojavljuju mnoge različite okolnosti koje zahtijevaju da se vještine koriste na nešto drugačiji način. Sljedeći odjeljci razmatraju te okolnosti i situacije i pokazuju kako se nositi s njima.
+Iako su osnovna pravila za korištenje vještina u _Mythras Imperative_ vrlo jednostavna, postoji mnoštvo različitih okolnosti koje se javljaju tijekom igre koje zahtijevaju da se vještine koriste na malo drugačiji način. Sljedeći odjeljci razmatraju ove okolnosti i situacije te pokazuju kako se s njima nositi.
 
 ### Ponovni pokušaji vještina
 
-U nekim situacijama, lik neće uspjeti u pokušaju vještine, ali će biti ostavljen u situaciji u kojoj bi potencijalno mogao pokušati ponovno. Primjeri mogu biti obijanje brave ili pokušaj penjanja uz okomiti zid. Umjesto jednostavnog odbijanja bilo kakvih daljnjih pokušaja, ljubazni Voditelji igre mogu dopustiti naknadni, posljednji pokušaj. Međutim, lik će pretrpjeti određenu strepnju ili nedostatak samopouzdanja što povećava Stupanj težine bacanja vještine za jedan.
+U nekim situacijama lik neće uspjeti u pokušaju vještine, ali će ostati u situaciji u kojoj bi potencijalno mogao pokušati ponovno. Primjeri mogu biti obijanje brave ili pokušaj penjanja uz strm zid. Umjesto jednostavnog odbijanja daljnjih pokušaja, ljubazni Voditelji igre mogu dopustiti naknadni, očajnički pokušaj. Međutim, lik će patiti od određene strepnje ili nedostatka samopouzdanja što povećava Razred težine bacanja vještine za jedan.
 
-Ako i ovaj drugi napor završi neuspjehom, pretpostavlja se da je lik dao sve od sebe i ne može raditi nikakve daljnje pokušaje u doglednoj budućnosti.
+Ako i ovaj drugi napor završi neuspjehom, pretpostavlja se da je lik dao sve od sebe i ne može poduzeti daljnje pokušaje u doglednoj budućnosti.
 
 ### Suprotstavljena bacanja
 
-Vještine se često sukobljavaju s drugim vještinama – Šuljanje protiv Percepcije kada provalnik pokuša prerezati torbicu plemića, recimo; ili Obmana protiv Uvida kada ista provalnica pokuša poreći pokušaj kada je uhvaćena – dobri su primjeri vremena kada se vještine međusobno uspoređuju. Oni su poznati kao Suprotstavljena bacanja i koriste se tamo gdje će izazov rezultirati pobjedom ili porazom, prolaskom ili padom.
+Vještine se često suprotstavljaju drugim vještinama – Prikrivanje naspram Percepcije kada lopov pokuša odrezati torbicu plemića; ili Obmana naspram Uvida kada isti lopov pokuša poreći pokušaj kad je uhvaćen – dobri su primjeri trenutaka kada se vještine međusobno uspoređuju. To su takozvana Suprotstavljena bacanja i koriste se tamo gdje će izazov rezultirati pobjedom ili porazom, prolazom ili neuspjehom.
 
-- Suprotstavljeno bacanje određuje se ovako: oba sudionika bacaju svoje vještine. Pobjednik je onaj koji postigne bolju Razinu uspjeha. Ako sudionici postignu istu Razinu uspjeha (Standardni uspjeh svaki, ili Kritični svaki), tada je pobjednik onaj koji ima najviše bacanje kockica, a da je i dalje unutar raspona uspjeha vještine.
+- Suprotstavljeno bacanje određuje se ovako: oba sudionika bacaju svoje odgovarajuće vještine. Pobjednik je onaj koji postigne bolju Razinu uspjeha. Ako sudionici postignu istu Razinu uspjeha (Standardni uspjeh svaki, ili Kritični svaki), tada je pobjednik onaj koji ima najviši rezultat bacanja kocke koji je još uvijek unutar raspona uspjeha vještine.
 
 Ako oba sudionika ne uspiju u Suprotstavljenom bacanju, tada ili:
 
-- Opišite situaciju, ostavljajući obje strane u dramskoj napetosti, a zatim ponovno bacite natjecanje kako biste utvrdili pobjednika.
-- Voditelj igre trebao bi proizvesti neko objašnjenje ili okolnosti koje odgovaraju prirodi neuspjeha.
+- Opišite situaciju, ostavljajući obje strane u dramatičnoj napetosti, a zatim ponovno bacite natjecanje kako biste utvrdili pobjednika.
+- Voditelj igre treba ponuditi neko objašnjenje ili okolnosti koje odgovaraju prirodi neuspjeha.
 
-Suprotstavljena bacanja često se koriste u određenim borbenim situacijama za prevladavanje učinaka rana ili suprotstavljanje borbenom Posebnom učinku. Također se koriste za otpor otrovima i bolestima ili za odbacivanje učinaka zlokobne magije.
+Suprotstavljena bacanja često se koriste u određenim borbenim situacijama kako bi se prevladali učinci rana ili suprotstavilo borbenom Posebnom efektu. Također se koriste za otpor otrovima i bolestima ili za otresanje učinaka pogubne magije.
 
 ##### Primjeri suprotstavljenih bacanja
 
 | Aktivnost | Primjeri suprotstavljenih vještina |
 | :-- | :-- |
-| Cjenkanje | Trgovina vs. Trgovina, Utjecaj vs. Trgovina |
+| Cjenkanje/Pogađanje | Trgovina vs. Trgovina, Utjecaj vs. Trgovina |
 | Potjera/Utrka | Atletika vs. Atletika, Atletika vs. Izdržljivost, Jahanje vs. Jahanje |
 | Obmanjivanje ili laganje | Obmana vs. Uvid, Spretni prsti vs. Percepcija |
-| Pokazivanje odanosti | Strast vs. Strast, Strast vs. Uvid, Strast vs. Utjecaj |
-| Sklanjanje s puta | Izbjegavanje vs. Atletika, Izbjegavanje vs. Mehanizmi, Izbjegavanje vs. Jahanje |
-| Skrivanje ili šuljanje | Šuljanje vs. Percepcija; Šuljanje vs. Praćenje |
-| Nametanje autoriteta | Utjecaj vs. Volja, Obmana vs. Volja |
-| Ustrajnost | Izdržljivost vs. Izdržljivost, Izdržljivost vs. Snaga |
-| Pridobivanje mase | Govorništvo vs. Volja |
+| Pokazivanje lojalnosti | Strast vs. Strast, Strast vs. Uvid, Strast vs. Utjecaj |
+| Izmicanje | Izmicanje vs. Atletika, Izmicanje vs. Mehanizmi, Izmicanje vs. Jahanje |
+| Skrivanje ili šuljanje | Prikrivanje vs. Percepcija; Prikrivanje vs. Praćenje |
+| Pozivanje na rang | Utjecaj vs. Snaga volje, Obmana vs. Snaga volje |
+| Održavanje kursa | Izdržljivost vs. Izdržljivost, Izdržljivost vs. Snaga |
+| Pridobivanje mase | Oratorstvo vs. Snaga volje |
 | Test snage | Snaga vs. Snaga, Snaga vs. Izdržljivost |
-| Test volje | Volja vs. Volja, Zavodljivost vs. Volja |
+| Test volje | Snaga volje vs. Snaga volje, Zavodljivost vs. Snaga volje |
 
 ### Diferencijalna bacanja
 
-Diferencijalna bacanja slična su Suprotstavljenim bacanjima, osim što se umjesto jednostavnog rezultata pobjede ili poraza, izračunava razlika u Razini uspjeha. Primarno se koriste za rješavanje borbe, Diferencijalna bacanja se također mogu koristiti u drugim situacijama gdje Voditelj igre želi povećati detaljne rezultate natjecanja.
+Diferencijalna bacanja su slična Suprotstavljenim bacanjima, osim što se umjesto jednostavnog rezultata pobjede ili poraza, izračunava razlika u Razinama uspjeha. Prvenstveno se koriste za rješavanje borbe, Diferencijalna bacanja se također mogu koristiti u drugim situacijama gdje Voditelj igre želi povećati detaljne rezultate natjecanja.
 
-Diferencijalno bacanje određuje se na sljedeći način: Oba sudionika bacaju protiv svojih odgovarajućih vještina i trpe rezultate svog bacanja kao da su testirani izolirano. Nema izravnog "pobjednika" samog po sebi, ali tko god je postigao višu Razinu uspjeha dobiva prednost jednaku razlici u razinama uspjeha između njih (pod pretpostavkom da jedan sudionik postigne barem Standardni uspjeh ili bolji). Ako oba sudionika postignu istu Razinu uspjeha (Standardni uspjeh svaki, ili Kritični svaki), tada nema dodatnog učinka.
+Diferencijalno bacanje se određuje na sljedeći način: oba sudionika bacaju protiv svojih vještina i snose rezultate svog bacanja kao da su testirani izolirano. Nema izravnog 'pobjednika' samog po sebi, ali tko god je postigao višu Razinu uspjeha ostvaruje prednost jednaku razlici u razinama uspjeha između njih (pod pretpostavkom da jedan sudionik postigne barem Standardni uspjeh ili bolje). Ako oba sudionika postignu istu Razinu uspjeha (Standardni uspjeh svaki, ili Kritični svaki), tada nema dodatnog učinka.
 
 ##### Rezultati diferencijalnog bacanja
 
-| Rezultat bacanja | Antagonist Kritični | Antagonist Uspjeh | Antagonist Neuspjeh | Antagonist Fumble |
+| Rezultat bacanja | Antagonist Kritični | Antagonist Uspjeh | Antagonist Neuspjeh | Antagonist Greška |
 | :-- | :-: | :-: | :-: | :-: |
 | Protagonist Kritični | Nema koristi | Protagonist dobiva 1 Razinu uspjeha | Protagonist dobiva 2 Razine uspjeha | Protagonist dobiva 3 Razine uspjeha |
 | Protagonist Uspjeh | Antagonist dobiva 1 Razinu uspjeha | Nema koristi | Protagonist dobiva 1 Razinu uspjeha | Protagonist dobiva 2 Razine uspjeha |
 | Protagonist Neuspjeh | Antagonist dobiva 2 Razine uspjeha | Antagonist dobiva 1 Razinu uspjeha | Nema koristi | Nema koristi |
-| Protagonist Fumble | Antagonist dobiva 3 Razine uspjeha | Antagonist dobiva 2 Razine uspjeha | Nema koristi | Nema koristi |
+| Protagonist Greška | Antagonist dobiva 3 Razine uspjeha | Antagonist dobiva 2 Razine uspjeha | Nema koristi | Nema koristi |
 
 ### Suprotstavljene vještine iznad 100%
 
-Ako najvještiji sudionik u Suprotstavljenom ili Diferencijalnom bacanju ima vještinu veću od 100%, taj sudionik oduzima razliku između 100 i vrijednosti svoje vještine od vještine svakoga u natjecanju, uključujući sebe. To smanjuje vrijednost vještine protivnika, ali njemu ostavlja prednost.
+Ako najvještiji sudionik u Suprotstavljenom ili Diferencijalnom bacanju ima vještinu veću od 100%, taj sudionik oduzima razliku između 100 i svoje vrijednosti vještine od vještine svakoga u natjecanju, uključujući sebe. Ovo smanjuje vrijednost vještine protivnika, ali on zadržava prednost.
 
 Identifikacija tko ima najvišu vještinu mora se izračunati nakon što se primijene svi drugi modifikatori za okolnosti.
 
-### Dakle, koliko ste dobri?
+### Dakle, koliko ste zapravo dobri?
 
-Može biti vrlo korisno i za Voditelje igre i za igrače imati zajednički okvir za ono što vrijednost vještine znači kao usporediva razina kompetencije. Je li obrtnik sa Zanatom (Drvo) 48% dobar stolar ili samo kompetentan? Tablica razine kompetencije pomaže sažeti različite razine kompetencije koje se može očekivati da predstavlja ocjena vještine; također je praktična referenca za Voditelje igre pri dodjeli općih vrijednosti vještinama za ne-igrače likove i protivnike. Ako je potrebna nasumična vrijednost za vještinu ne-igrača lika, tada stupac Nasumična vrijednost daje kod kockica za dobivanje vrijednosti unutar željene Razine kompetencije.
+Može biti vrlo korisno i Voditeljima igre i Igračima imati zajednički okvir za ono u što se vrijednost vještine prevodi kao usporediva razina kompetencije. Je li majstor s vještinom Zanat drvo 48% dobar stolar ili samo kompetentan? Tablica razina kompetencije pomaže sažeti različite razine kompetencije koje se mogu očekivati od ocjene u vještini; također je praktična referenca za Voditelje igre pri dodjeljivanju općih vrijednosti vještinama za ne-igrače (NPC) i protivnike. Ako je potrebna nasumična vrijednost za vještinu ne-igrača, tada stupac Nasumična vrijednost daje kod kocke za dobivanje vrijednosti unutar željene Razine kompetencije.
 
-##### Tablica razine kompetencije
+##### Tablica razina kompetencije
 
 | Ocjena vještine | Nasumična vrijednost | Razina kompetencije | Vojni ekvivalent | Opis |
 | :-- | :-: | :-: | :-: | :-- |
-| 1-30% | 1d20+10 | Početnik | Topovska hrana | Nekvalificiran i uči osnove |
-| 31-50% | 1d20+30 | Kompetentan | Zelen | Može obavljati lagane zadatke ako odvoji vrijeme za oprez |
-| 51-70% | 1d20+50 | Proficijentan | Prekaljen | Dosegnuo razinu kompetencije za zapošljavanje |
-| 71-90% | 1d20+70 | Stručnjak | Veteran | Prepoznat kao profesionalac ili predmetni stručnjak u polju |
+| 1-30% | 1d20+10 | Početnik | Topovsko meso | Nekvalificiran i uči osnove |
+| 31-50% | 1d20+30 | Kompetentan | Zelen | Može obavljati lake zadatke ako uzme vremena da bude oprezan |
+| 51-70% | 1d20+50 | Vješt | Prekaljen | Dosegnuo razinu kompetencije za zapošljavanje |
+| 71-90% | 1d20+70 | Stručnjak | Veteran | Priznat kao profesionalac ili stručnjak za predmetno područje |
 | 91-110% | 1d20+90 | Majstor | Elita | Smatra se jednim od najboljih u poslu |
-| \>110% | 1d20+110 | Uzor | Herojski | Poznat nadaleko po svojoj vrhunskoj vještini |
+| >110% | 1d20+110 | Uzor | Herojski | Poznat nadaleko po svojoj vrhunskoj vještini |

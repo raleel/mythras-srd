@@ -1,396 +1,394 @@
 # Įgūdžiai
 
-Įgūdžiai skirstomi į dvi kategorijas: Standartinius ir Profesinius. Visi veikėjai turi tą patį Standartinių įgūdžių rinkinį. Profesiniai įgūdžiai skiriasi priklausomai nuo veikėjo ir atspindi jo karjeros bei, tam tikru mastu, kultūros metu įgytą patirtį. Nepaisant šių skirtumų, Standartiniai ir Profesiniai įgūdžiai veikia vienodai.
+Įgūdžiai skirstomi į dvi kategorijas: standartinius ir profesinius. Visi veikėjai turi tą patį standartinių įgūdžių rinkinį. Profesiniai įgūdžiai skiriasi priklausomai nuo veikėjo ir atspindi per karjerą bei tam tikru mastu per kultūrinę aplinką įgytą patirtį. Nepaisant šių skirtumų, standartiniai ir profesiniai įgūdžiai veikia vienodai.
 
 ---
 ## Kaip veikia įgūdžiai
 
-Įgūdis turi bazinę vertę, sudarytą iš dviejų Charakteristikų arba vienos Charakteristikos padaugintos iš dviejų. Įgūdžio vertei nėra viršutinės ribos; ji gali viršyti 100 ir žaidimo metu veikėjai gali pasiekti tokias aukštumas.
+Įgūdis turi bazinę vertę, sudarytą iš dviejų charakteristikų sumos arba vienos charakteristikos, padaugintos iš dviejų. Įgūdžio vertei nėra viršutinės ribos; ji gali viršyti 100 ir žaidimo metu veikėjai gali pasiekti tokias aukštumas.
 
-Kai veikėjo prašoma išspręsti kokį nors patikrinimą, iššūkį ar profesinį veiksmą, metamas 1d100 ir lyginamas su įgūdžio verte:
+Kai veikėjas turi išspręsti kokį nors bandymą, iššūkį ar panaudoti profesinį gebėjimą, metamas 1d100 ir lyginamas su įgūdžio verte:
 
-- Lygu arba mažiau už įgūdžio vertę reiškia Sėkmę.
-- Daugiau už įgūdžio vertę reiškia Nesėkmę.
+- Rezultatas, lygus įgūdžio vertei arba mažesnis už ją, reiškia sėkmę.
+- Rezultatas, didesnis už įgūdžio vertę, reiškia nesėkmę.
 
-Yra keletas specialių atvejų, susijusių su Sėkme ir Nesėkme, kuriuos reikėtų įsidėmėti:
+Yra tam tikrų ypatingų atvejų, susijusių su sėkme ir nesėkme, kuriuos reikėtų įsidėmėti.
 
-- Bet koks metimas nuo 01 iki 05 visada yra Sėkmė.
-- Bet koks metimas nuo 96 iki 00 visada yra Nesėkmė, nepriklausomai nuo to, kokia aukšta įgūdžio vertė.
+- Bet koks metimas nuo 01 iki 05 visada yra sėkmė.
+- Bet koks metimas nuo 96 iki 00 visada yra nesėkmė, nepriklausomai nuo to, kokia aukšta yra įgūdžio vertė.
 
-#### Kritiniai rezultatai ir "Fumble" (nesėkmės)
+#### Kritinės sėkmės ir nesėkmės (Fumble)
 
-Kritiniai rezultatai ir "Fumble" atspindi įspūdingas sėkmes ir nesėkmes; tuos atvejus, kai veikėjas arba pasirodė itin gerai, arba patyrė visišką fiasko.
+Kritinės sėkmės ir nesėkmės (fumble) atspindi ypatingas sėkmes arba nesėkmes; tai atvejai, kai veikėjui arba puikiai pasisekė bandymas, arba jis visiškai ir graudžiai susimovė.
 
-- Kritinė sėkmė lygi vienai dešimtajai įgūdžio vertės (tai apima ir įgūdžius, kurie turi modifikatorių – todėl modifikuoti įgūdžiai gali turėti didesnę arba mažesnę Kritinės sėkmės tikimybę). Skaičiuodami Kritinės sėkmės ribą, trupmenas apvalinkite į viršų. Pavyzdžiui, jei įgūdis modifikuotas iki dvigubai didesnės nei įprasta vertės – tarkime, nuo 33% iki 66% – tada jo Kritinė sėkmė būtų 07 arba mažiau.
-- "Fumble" yra metimas 99 arba 00. Įgūdžiai, kurių vertė didesnė nei 100%, "Fumble" patiria tik išmetus 00.
+- Kritinė sėkmė yra lygi vienai dešimtajai įgūdžio vertės (tai apima ir įgūdžius, kurie gauna modifikatorių – tad modifikuoti įgūdžiai gali turėti didesnę arba mažesnę kritinės sėkmės tikimybę). Skaičiuodami kritinės sėkmės diapazoną, trupmenas apvalinkite į viršų. Pavyzdžiui, jei įgūdis modifikuotas iki dvigubai didesnės nei įprasta vertės – tarkime, nuo 33% iki 66%, tuomet kritinės sėkmės diapazonas būtų metimas 07 arba mažiau.
+- Nesėkmė (fumble) yra 99 arba 00 metimas. Įgūdžiai, kurių vertė didesnė nei 100%, nesėkmę patiria tik metant 00.
 
-Tikslų Kritinio rezultato ar "Fumble" pobūdį nustato Žaidimo meistras (GM). Pasekmės gali būti nuostabios arba siaubingos, priklausomai nuo aplinkybių.
+Tikslų kritinės sėkmės arba nesėkmės rezultato pobūdį nustato žaidimo vedėjas. Pasekmės gali būti nuostabios arba baisios, priklausomai nuo aplinkybių.
 
 #### Automatinės sėkmės
 
-Bus atvejų, kai metimas prieš tam tikrą įgūdį tiesiog nėra būtinas – arba todėl, kad atliekama užduotis yra lengvai įveikiama, arba todėl, kad skyrus pakankamai laiko ir dėmesio, sėkmė yra garantuota. Jojimas arkliu lengvu risčia per atvirą pievą yra Automatinės sėkmės pavyzdys, kai tiesioginis įgūdis veikloje reiškia, kad paprastiems veiksmams nereikia jokių įgūdžių metimų. Meistras, drožiantis kėdės koją iš medžio, yra kitas pavyzdys, kai įgūdžio metimas nėra būtinas; tam reikia laiko, bet meistras žino, kaip atlikti darbą, ir jei neskuba, sėkmė garantuota. Vagis, netrukdomas, turėdamas spynų atrakinimo rinkinį, gali sėkmingai atrakinti paprastą lobių skrynios spyną, jei tik turi tam pakankamai laiko.
+Bus atvejų, kai metimas konkrečiam įgūdžiui tiesiog nėra būtinas – arba todėl, kad užduotį lengva atlikti, arba todėl, kad turint pakankamai laiko ir susikaupimo, sėkmė yra garantuota. Jojimas arkliu lengva risčia per atvirą pievą yra automatinės sėkmės pavyzdys, kai pats faktas, kad veikėjas įgudęs šioje veikloje, reiškia, jog paprastiems veiksmams nereikia įgūdžių metimų. Meistras, drožiantis medžio gabalą į kėdės koją, yra dar vienas pavyzdys, kai įgūdžio metimas nėra būtinas; tam reikia laiko, bet meistras žino, kaip atlikti darbą, ir jei neskuba, sėkmė užtikrinta. Nėrukdomas vagis, turintis spynų atrakinimo įrankių rinkinį, gali sėkmingai atrakinti paprastą lobių skrynios spyną, jei turi tam pakankamai laiko.
 
 #### Įgūdžių modifikavimas
 
-Kartais prireikia įgūdžio metimo, tačiau sėkmės tikimybę reikia pakoreguoti, kad ji atspindėtų esamas sąlygas. Pavyzdžiui, bėgimui nuo banditų gali prireikti Atletikos metimo. Bet ką daryti, jei veikėjas bėga tamsoje arba per klastingus brūzgynus? Tokiu atveju Žaidimo meistras gali primygtinai reikalauti modifikuoti veikėjo įgūdį, kad jis atspindėtų aplinkybes.
+Yra atvejų, kai įgūdžio metimas yra būtinas, tačiau sėkmės tikimybę reikia pakoreguoti, kad ji atspindėtų esamas sąlygas. Pavyzdžiui, bėgimas nuo banditų gali reikalauti Atletikos metimo. Bet ką daryti, jei veikėjas bėga tamsoje arba per klastingus brūzgynus? Tokiu atveju žaidimo vedėjas gali reikalauti modifikuoti veikėjo įgūdį, kad jis atspindėtų aplinkybes.
 
-*Mythras Imperative* naudoja laipsnių seriją įgūdžių modifikavimui. Jie pateikti žemiau. Atkreipkite dėmesį, kad pateikti dviejų tipų modifikatoriai: pirmasis yra numatytasis metodas, reikalaujantis šiek tiek matematikos, bet geriau imituojantis mastelio keitimą, ypač kai įgūdžiai yra dideli. Supaprastintas įgūdžių modifikatorius yra paprastas sudėjimas arba atimtis, jį lengviau įgyvendinti. Pasirinkite metodą, kuris geriausiai tinka jūsų žaidimui, tačiau įsitikinkite, kad taikote tą pačią modifikavimo sistemą nuosekliai.
+_Mythras Imperative_ naudoja laipsnių seriją įgūdžio modifikavimui nustatyti. Jie yra tokie. Atkreipkite dėmesį, kad pateikti dviejų tipų modifikatoriai: pirmasis yra numatytasis metodas, reikalaujantis šiek tiek matematikos, bet siūlantis geresnį modeliavimą mastelio keitimui, ypač kai kalbama apie didesnius įgūdžių procentus. Supaprastintas įgūdžio modifikatorius yra paprastas sudėjimas arba atimtis, jį lengviau įgyvendinti. Pasirinkite metodą, kuris geriausiai tinka žaidimui, bet įsitikinkite, kad ta pati modifikavimo sistema taikoma nuosekliai.
 
 ##### Sunkumo laipsnių lentelė
 
-| Sunkumo laipsnis | Įgūdžio modifikatorius | Supaprastintas modifikatorius |
-| :-- | :-- | :--: |
+| Sunkumo laipsnis | Įgūdžio modifikatorius | Supaprastintas įgūdžio modifikatorius |
+| :-- | :-- | :-: |
 | Automatinis | Nereikia mesti | Nereikia mesti |
-| Labai lengvas | Dvigubinti įgūdžio vertę | +40% |
-| Lengvas | Pridėti pusę įgūdžio vertės | +20% |
-| Standartinis | Be pakeitimų | Nėra |
-| Sunkus | Sumažinti įgūdžio vertę viena trečiąja | -20% |
-| Formidabilus | Sumažinti įgūdžio vertę per pusę | -40% |
-| Herkuliškas | Sumažinti įgūdžio vertę iki vienos penktosios | -80% |
-| Beviltiškas | Bandyti neįmanoma | Bandyti neįmanoma |
+| Labai lengva | Padvigubinkite įgūdžio vertę | +40% |
+| Lengva | Pridėkite pusę įgūdžio vertės | +20% |
+| Standartinis | Jokių korekcijų | Nėra |
+| Sunku | Sumažinkite įgūdžio vertę trečdaliu | -20% |
+| Formiduojama | Sumažinkite įgūdžio vertę perpus | -40% |
+| Herakliškas | Sumažinkite įgūdžio vertę iki vienos penktosios | -80% |
+| Beviltiška | Bandyti negalima | Bandyti negalima |
 
-Kai veikėjas jau patiria baudą dėl kitų aplinkybių, prioritetas teikiamas sunkiausiam Sunkumo laipsniui.
+Kai veikėjas jau patiria baudą dėl kitų aplinkybių, pirmenybė teikiama sunkiausiam Sunkumo laipsniui.
 
-Už kovos ribų *Mythras Imperative* nepateikia galutinio situacijų ir iššūkių sąrašo, dėl kurių gali tekti modifikuoti įgūdžius. Kokia modifikacija reikalinga tam tikram įgūdžiui ar kontekstui, galiausiai sprendžia Žaidimo meistras, atsižvelgdamas į veikėjų galimybes, savo situacijos sudėtingumo suvokimą ir draminę įtampą tą akimirką.
+Už kovos ribų _Mythras Imperative_ nepateikia galutinio situacijų ir iššūkių sąrašo, dėl kurių gali tekti modifikuoti įgūdžius. Kokio modifikavimo reikia konkrečiam įgūdžiui ar kontekstui, galiausiai sprendžia žaidimo vedėjas, atsižvelgdamas į veikėjų galimybes, savo sunkumo suvokimą ir dramatišką įtampą tą akimirką.
 
 ---
 ## Standartiniai įgūdžiai
 
-#### Atletika (STR+DEX)
+#### Atletika (JĖG+VIK)
 
-Atletika apima fizinę veiklą, įskaitant laipiojimą, šokinėjimą, metimą ir bėgimą. Bet kurios iš šių veiklų metimai atliekami vienu metimu prieš Atletikos įgūdį. Daugiau informacijos apie laipiojimą, šokinėjimą ir bėgimą rasite [Judėjimas](0005_Combat.md?id=situational-movement-rates).
+Atletika apima įvairią fizinę veiklą, įskaitant laipiojimą, šokinėjimą, mėtymą ir bėgimą. Įgūdžių metimai bet kuriai iš šių veiklų atliekami vienu metimu prieš Atletikos įgūdį. Daugiau informacijos apie laipiojimą, šokinėjimą ir bėgimą rasite skyriuje [Judėjimas](0005_Combat.md?id=situational-movement-rates).
 
-#### Plaukiojimas valtimi (STR+CON)
+#### Plaukiojimas (JĖG+IŠT)
 
-Šis įgūdis apima mažų plaukiojančių priemonių valdymą upėse, ežeruose ir netoli kranto. Tinkami laivai paprastai yra valtys, kanojos ar plaustai, kurie keliauja trumpus atstumus ir netinka atviros jūros iššūkiams. Dauguma jų varomi irklais, mentėmis, poliais arba paprastomis burėmis; kartais gali būti velkami gyvūnų. Laivai su didele įgula ar skirti ilgoms kelionėms per jūras priskiriami profesiniam Jūrininkystės įgūdžiui.
+Plaukiojimo įgūdis apima mažų plaukiojančių priemonių valdymą upėse, ežeruose ir netoli kranto. Tinkami laivai paprastai yra valtys, kanojos arba plaustai, kurie keliauja trumpus atstumus ir nėra pritaikyti atviros jūros pavojams. Dauguma varomi irklais, mentelėmis, stumdomi kartimis arba paprastomis burėmis; juos taip pat gali tempti gyvūnai. Laivai su didelėmis įgulomis ar skirti ilgoms kelionėms per jūrą priskiriami profesiniam Jūrininkystės įgūdžiui.
 
-#### Jėga (STR+SIZ)
+#### Jėga (JĖG+DYD)
 
-Jėga yra efektyvus technikos pritaikymas naudojant žalią fizinę jėgą. Įgūdis apima jėgos panaudojimo veiksmus, įskaitant kėlimą, durų išlaužimą ir jėgos varžybas.
+Jėga yra efektyvus technikos pritaikymas naudojant gryną fizinę jėgą. Įgūdis apima taikomosios galios veiksmus, įskaitant kėlimą, durų išlaužimą ir jėgos varžybas.
 
-#### Kovos stilius (STR+DEX)
+#### Kovos stilius (JĖG+VIK)
 
-Kiekvienas Kovos stilius yra įgūdis naudoti ginklus, būdingus veikėjo karjerai ar kultūrai. Dauguma kovos tradicijų apima treniruotes su keliais ginklais bei technikas, reikalingas efektyviai jais naudotis pavieniui arba kartu. Be to, jie dažnai apima situacinius elementus, pavyzdžiui, kovą pėstininkų rikiuotėje arba jojant. Kovos stiliai gali būti labai įvairūs – nuo Gladiatorių kovų iki Kosmoso desantininkų mobiliosios pėstininkų taktikos.
+Kiekvienas Kovos stilius yra įgūdis naudoti ginklus, būdingus karjerai ar kultūrai žaidimo pasaulyje. Dauguma kovos tradicijų apima treniruotes su keliais ginklais kartu su technikomis, reikalingomis efektyviai jais visais naudotis – atskirai ar derinant tarpusavyje. Be to, jie dažnai numato situacinį elementą, pavyzdžiui, kovą kaip rikiuotės pėstininkas arba raitas. Kovos stiliai gali būti labai įvairūs, pradedant, pavyzdžiui, gladiatorių kova ir baigiant kosmoso jūrų pėstininkų mobiliaisiais daliniais.
 
-#### Slėpimas (DEX+POW)
+#### Slėpimas (VIK+GAL)
 
-Slėpimas yra Sėlinimo priešprieša – tai didelių objektų, o ne paties veikėjo paslėpimas. Pavyzdžiui, Slėpimas gali būti naudojamas paslėpti vežimą už uolų arba nušluoti ratų vėžes, kad kelio neįmanoma būtų sekti. Įgūdis yra universalus – nuo knygos paslėpimo bibliotekoje iki spąstų ar slaptų praėjimų maskavimo.
+Slėpimas yra Sėlinimo priešingybė – tai didelių objektų paslėpimas, o ne paties veikėjo. Pavyzdžiui, Slėpimas gali būti naudojamas paslėpti vežimą už uolų arba nušluoti jo paliktas vėžes, kad jo kelio nebūtų galima atsekti. Įgūdis yra universalus – nuo pergamento paslėpimo bibliotekoje iki spąstų ar slaptos landos užmaskavimo.
 
 #### Papročiai (INT x2 +40)
 
-Papročiai atspindi veikėjo žinias apie savo bendruomenę: socialinius kodus, apeigas, ritualus, tabu ir t.t. Įgūdis naudojamas, kai būtina tiksliai suprasti ar atlikti socialiai svarbų paprotį arba elgtis tam tikru būdu.
+Papročiai atspindi veikėjo žinias apie savo bendruomenę: jos socialinius kodeksus, rites, ritualus, tabu ir t.t. Įgūdis naudojamas, kai būtina tiksliai interpretuoti ar atlikti bet kokį socialiai svarbų paprotį arba elgtis tam tikru būdu.
 
-#### Šokis (DEX+CHA)
+#### Šokis (VIK+CHA)
 
-Beveik kiekviena kultūra vienaip ar kitaip naudoja šokį – pramogai arba kaip svarbių ritualų dalį. Tai gali būti dvaro šokis, karo šokis arba paprasta judesių seka, lydinti maldą ar ceremoninį giedojimą. Šokio įgūdis matuoja veikėjo gebėjimą ritmiškai ir tiksliai (iki tam tikro laipsnio) judėti, kai to reikalaujama.
+Beveik kiekviena kultūra vienaip ar kitaip naudoja šokį – kaip pramogą arba kaip svarbių ritualų dalį. Tai gali būti dvaro šokis, karo šokis arba paprasti judesiai, lydintys maldą ar ceremoninį giedojimą. Šokio įgūdis matuoja veikėjo gebėjimą ritmiškai ir tiksliai (iki tam tikro lygio) judėti, kai to reikalaujama.
 
 #### Apgaulė (INT+CHA)
 
-Apgaulė apima visus atvejus, kai veikėjas bando nuslėpti tiesą ir pateikti kažkokią apgaulę: tiesmukas melas, sargybinio klaidinimas ar net blefavimas (ar sukčiavimas) kortų žaidimo metu. Įgūdis taip pat apima atvejus, kai būtina slėpti tikrus jausmus ar motyvus (pavyzdžiui, apsimesti patenkintu, kai esi nusivylęs, arba bandyti atrodyti svetingam, kai yra atvirkščiai). Apgaulė yra Įžvalgumo įgūdžio priešprieša ir gali būti naudojama priešintis Įžvalgumo metimams, kai kiti bando atpažinti tiesą ar motyvus.
+Apgaulė apima visus atvejus, kai veikėjas bando nuslėpti tiesą ir pasiūlyti kokią nors apgaulę: akiplėšišką melą, sargybinio klaidinimą ar net blefavimą (ar sukčiavimą) žaidžiant kortomis. Įgūdis taip pat apima atvejus, kai reikia paslėpti tikrus jausmus ar motyvus (pavyzdžiui, apsimesti patenkintu, kai esi labai nusivylęs, arba bandyti atrodyti svetingam ir atviram, kai yra priešingai). Apgaulė yra Įžvalgos įgūdžio priešingybė ir gali būti naudojama priešintis Įžvalgos metimams, kai kiti bando nustatyti tiesą ar motyvus.
 
-#### Vairavimas (DEX+POW)
+#### Vairavimas (VIK+GAL)
 
-Vairavimas apima ratinių ar traukiamų transporto priemonių valdymą, nesvarbu, ar jas traukia vienas ar daugiau darbinių gyvūnų, ar jos varomos egzotiškesnėmis priemonėmis, tokiomis kaip kovos vežimai, rogės, buriniai vežimėliai ar net automobiliai. Metimas taip pat būtinas, jei transporto priemonė varoma ar traukiama būdu, prie kurio vairuotojas nėra pratęs (pvz., arkliai vietoj jaučių arba variklis vietoj gyvūnų).
+Vairavimas apima ratinių ar tempiamų transporto priemonių valdymą, nesvarbu, ar jas traukia vienas ar daugiau darbinių gyvūnų, ar jos varomos ezoterinėmis priemonėmis, pavyzdžiui, vežimai, rogės, buriniai vežimėliai ar net benzininiai automobiliai. Metimas taip pat būtinas, jei vairuojama transporto priemonė traukiama ar varoma kitokiomis priemonėmis, nei vairuotojas yra įpratęs (pavyzdžiui, arkliai vietoj jaučių, arba variklis vietoj gyvūnų).
 
-#### Ištvermė (CON x2)
+#### Ištvermė (IŠT x2)
 
-Ištvermė yra veikėjo gebėjimas pakelti fizinį stresą, skausmą ir nuovargį. Tai kūno gebėjimo susidoroti su potencialiai žalingomis ar sekinančiomis sąlygomis matas, bendras atsparumo, ištvermės ir metabolizmo rodiklis. Ištvermė, kaip ir jos priešprieša Valia, naudojama įvairiais būdais, bet ypač pasipriešinimui traumų pasekmėms, įskaitant nuodus ir ligas.
+Ištvermė yra veikėjo gebėjimas pakelti fizinį stresą, skausmą ir nuovargį. Tai matuoja kūno gebėjimą dorotis su potencialiai žalingomis ar sekinančiomis sąlygomis ir yra bendras atsparumo, ištvermės bei metabolizmo rodiklis. Ištvermė, kaip ir jos priešingybė Valia, naudojama įvairiais būdais, bet ypač norint pasipriešinti galimoms sužalojimų, įskaitant nuodingas medžiagas ir ligas, pasekmėms.
 
-#### Išvengimas (DEX x2)
+#### Išsisukimas (VIK x2)
 
-Išvengimas naudojamas siekiant pabėgti nuo stebimo, gresiančio pavojaus ir gali būti naudojamas prieš Nuotolinius ginklus (pvz., neriant į priedangą), vengiant spąstų, keičiant kovos atstumą ir apskritai pasitraukiant iš galimo fizinio pavojaus kelio. Jis taip pat gali būti naudojamas kaip pasipriešinimo metimas tam tikrų rūšių magijai. Naudojant Išvengimą, veikėjas paprastai atsiduria gulomis. Tie, kurie turi "Drąsuolio" Kovos stiliaus bruožą, gali naudoti Išvengimą atakai artimoje kovoje išvengti neatsiguldami, o prieš nuotolinę ataką jie atsiduria gulomis tik tuo atveju, jei metimas nesėkmingas.
+Išsisukimas naudojamas pabėgti nuo matomo, gresiančio pavojaus ir gali būti naudojamas prieš tolimojo nuotolio ginklus (pavyzdžiui, neriant į priedangą), vengiant spąstų, keičiant kovos atstumą ir apskritai pasitraukiant iš galimo fizinio pavojaus zonos. Jis taip pat gali būti naudojamas kaip pasipriešinimo metimas tam tikrų tipų magijai. Naudojant Išsisukimą, veikėjas dažniausiai atsiduria kniūbsčias. Tie, kurie turi "Daredevil" Kovos stiliaus savybę, gali naudoti Išsisukimą, kad išvengtų artimos kovos atakos be griuvimo, o prieš tolimojo nuotolio ataką jie atsiduria kniūbsčiomis tik tada, jei metimas nepavyksta.
 
-#### Pirmoji pagalba (DEX+INT)
+#### Pirmoji pagalba (VIK+INT)
 
-Pirmosios pagalbos įgūdis matuoja veikėjo gebėjimą gydyti nesunkias traumas ir stabilizuoti sunkesnes. Pirmoji pagalba gali būti suteikta tik vieną kartą konkrečiai traumai ir išgydo 1d3 žalos taškų.
+Pirmosios pagalbos įgūdis matuoja veikėjo gebėjimą gydyti nesunkius sužalojimus ir stabilizuoti sunkesnius. Pirmoji pagalba konkrečiam sužalojimui gali būti suteikta tik vieną kartą ir išgydo 1d3 žalos taškus.
 
 #### Įtaka (CHA x2)
 
-Tai veikėjo gebėjimo įtikinti kitus per asmeninę charizmą elgtis norimu būdu matas. Jis naudojamas įvairiausiose situacijose: nuo kito žmogaus nuomonės pakeitimo iki pareigūno ar sargybinio papirkimo. Įtakos metimai paprastai yra opoziciniai prieš Suvokimą, Valią ar kitą Įtakos įgūdį, priklausomai nuo aplinkybių, ir yra modifikuojami pagal tai, kaip stipriai veikėjas bando paveikti elgesį. Bandymas įtikinti artimą draugą paskolinti arklį gali būti palyginti lengvas. Priversti paprastai nepapirkinamą biurokratą priimti kyšį yra sunkiau.
+Tai veikėjo gebėjimo įtikinti kitus per asmeninę charizmą elgtis pageidaujamu būdu matas. Jis naudojamas įvairiose situacijose: nuo kito nuomonės pakeitimo iki valdininko ar sargybinio papirkimo. Įtakos metimams paprastai priešinasi Suvokimas, Valia arba kitas Įtakos įgūdis, priklausomai nuo aplinkybių, ir jie yra modifikuojami atsižvelgiant į tai, kiek veikėjas bando paveikti elgesį. Įtikinti artimą draugą paskolinti arklį gali būti palyginti lengva. Priversti nepaperkamą biurokratą priimti kyšį yra sunkiau.
 
-#### Įžvalgumas (INT+POW)
+#### Įžvalga (INT+GAL)
 
-Įžvalgumas yra gebėjimas suprasti arba intuityviai apibrėžti kito žmogaus žodinį ir nežodinį elgesį (pvz., kūno kalbą ar kalbėjimo manierą), siekiant nustatyti jų motyvus ir proto būseną. Įžvalgumas naudojamas nustatyti, ar kas nors meluoja (ir tai gali būti opozicijoje prieš kito asmens Apgaulės įgūdį), arba nuspėti, kaip kas nors jaučiasi konkrečioje situacijoje. Įžvalgumas gali būti lygiai taip pat taikomas konkrečioms situacijoms, kaip ir kitiems žmonėms: ar ta smuklė yra bėdų vieta? Ar banditai neplanuoja pasalos netoliese esančiose kalvose?
+Įžvalga yra gebėjimas perskaityti arba intuityviai apibrėžti kito asmens žodinį ir nežodinį elgesį (pavyzdžiui, kūno kalbą ar kalbėjimo manierą), kad būtų nustatyti jų motyvai ir būsena. Įžvalga naudojama nustatyti, ar kas nors meluoja (tam gali pasipriešinti kito asmens Apgaulės įgūdžiu), arba nuspėti, kaip kas nors jaučiasi konkrečioje situacijoje. Įžvalgą taip pat galima taikyti konkrečioms situacijoms, o ne tik kitiems žmonėms: ar ta smuklė yra bėdų vieta? Ar banditai neplanuoja pasalos netoliese esančiose kalvose?
 
-#### Vietovė (INT x2)
+#### Vietovės pažinimas (INT x2)
 
-Vietovė matuoja veikėjo supratimą apie vietinę florą, fauną, reljefą ir orus srityje, kurioje jis praleido didžiąją savo gyvenimo dalį, paprastai savo bendruomenėje. Veikėjas žino įprastus augalus, medžius ir gyvūnus, jų savybes ir elgesį: kur galima rasti geriausių žuvų; žvėrių judėjimą; kur rasti pastogę; tikėtinus sezono orus ir dažniausius regioninius pavojus. Kaimyninėse, tačiau nepažįstamose vietose, Vietovės įgūdį reikėtų daryti vienu ar daugiau laipsnių sunkesnį.
+Vietovės pažinimas matuoja veikėjo supratimą apie vietinę florą, fauną, reljefą ir orus srityje, kurioje jis praleido didžiąją savo gyvenimo dalį, dažniausiai savo bendruomenėje. Veikėjas pažįsta įprastus augalus, medžius ir gyvūnus, jų savybes ir elgesį: kur galima rasti geriausią žuvį; laukinių gyvūnų judėjimą; kur rasti prieglobstį; tikėtinus sezono orus ir dažniausius regioninius pavojus. Kaimyninėse, bet nepažįstamose vietose Vietovės pažinimo metimas turėtų būti vienu ar keliais laipsniais sunkesnis.
 
 #### Gimtoji kalba (INT+CHA +40)
 
-Gimtoji kalba yra gebėjimas kalbėti ir skaityti savo paties kalba, išmokta augant namų kultūroje. Gimtoji kalba matuoja artikuliaciją, iškalbą ir žodyno gylį.
+Gimtoji kalba yra gebėjimas kalbėti ir skaityti savo kalba, išmokta augant savo kultūroje. Gimtoji kalba matuoja artikuliaciją, iškalbą ir kalbėtojo žodyno gylį.
 
-Skirtingai nei kiti įgūdžiai, Gimtoji kalba nėra metama tiesiogiai. Vietoj to, ji traktuojama kaip statinis bendro sklandumo atvaizdavimas, ribojantis pokalbio sąveikos lygį. Tai išsamiau aprašyta prie Kalbos įgūdžio, tačiau pradedantys veikėjai paprastai pradeda žaidimą visiškai laisvai kalbėdami gimtąja kalba.
+Skirtingai nei kiti įgūdžiai, Gimtoji kalba nėra metama tiesiogiai. Vietoj to, ji traktuojama kaip statinis bendro sklandumo rodiklis, ribojantis pokalbio sąveikos lygį. Tai išsamiau aprašyta prie Kalbos įgūdžio, tačiau pradedantys veikėjai žaidimą paprastai pradeda visiškai sklandžiai kalbėdami savo gimtąja kalba.
 
-#### Suvokimas (INT+POW)
+#### Suvokimas (INT+GAL)
 
-Suvokimas naudojamas tiek pasyviam stebėjimui, tiek tikslingam aptikimui; nesvarbu, ar ieškoma kažko konkretaus, ar atliekama bendra vietovės apžiūra, ar tiesiog esama aplinkos suvokimo. Konkrečios sąlygos – pavyzdžiui, tamsa – gali turėti įtakos įgūdžio metimo Sunkumo laipsniui, priklausomai nuo naudojamų pagrindinių pojūčių. Stiprūs kvapai gali padaryti uoslės Suvokimo metimą Lengvu, o bandymas pasiklausyti pokalbio perpildytoje ir triukšmingoje smuklėje padarytų metimą Sunkų.
+Suvokimas naudojamas tiek pasyviam stebėjimui, tiek fokusuotam aptikimui; nesvarbu, ar ieškoma ko nors konkretaus, ar atliekamas bendras teritorijos skenavimas, ar tiesiog suvokiama aplinka. Specifinės sąlygos – pavyzdžiui, tamsa – gali paveikti įgūdžio metimo sunkumo laipsnį priklausomai nuo naudojamų pagrindinių jutimų. Stiprūs kvapai gali padaryti uoslės Suvokimo metimą Lengvą, o ne Standartinį, tuo tarpu bandymas pasiklausyti pokalbio sausakimšoje ir triukšmingoje smuklėje padarytų metimą Sunkų.
 
-#### Jojimas (DEX+POW)
+#### Jojimas (VIK+GAL)
 
-Jojimas apima gebėjimą valdyti ir išlikti ant tų būtybių, kurios yra dresuotos jodinėjimui. Įgūdis gali būti taikomas įvairiems gyvūnams, viskam nuo mulų iki dramblių; net skraidančioms ar plaukiojančioms būtybėms, tokioms kaip milžiniški ereliai ar delfinai. Jojimas nepažįstama rūšimi visada yra vienu Sunkumo laipsniu sunkesnis; jojimas kitos terpės rūšimi (pvz., raitelis, jojantis drakonu) yra dviem laipsniais sunkesnis. Laukinės, neįveiktos būtybės negali būti naudojamos jodinėjimui, kol nėra prijaukintos ir dresuotos.
+Jojimas apima gebėjimą valdyti ir išlikti balne ant tų padarų, kurie yra dresuojami jojimui. Įgūdis gali būti taikomas įvairiems žvėrims – nuo mulų iki dramblių; net skraidantiems ar plaukiantiems padarams, pavyzdžiui, milžiniškiems ereliams ar delfinams. Jojimas nepažįstama rūšimi visada yra vienu sunkumo laipsniu sunkesnis; o jojimas kitos terpės rūšimi (pavyzdžiui, raitelis ant drakono) yra dviem laipsniais sunkesnis. Laukinių, neprijaukintų padarų negalima produktyviai joti, kol jie nėra sudaužyti ir dresuoti kaip jojamieji gyvūnai.
 
-#### Dainavimas (POW+CHA)
+#### Dainavimas (GAL+CHA)
 
-Melodijos išlaikymas apimamas Dainavimo įgūdžiu, viskas nuo monotoniškų giedojimų iki sudėtingų arijų. Dainavimas yra neatsiejama daugumos kultūrų dalis, pagrindinis pramogų šaltinis ir galbūt naudojamas ritualuose. Svarbios dainos gali būti naudojamos piršlyboms, karių įkvėpimui prieš mūšį arba tiesiog istoriniams įvykiams pasakoti. Įgūdis atspindi vartotojo gebėjimą išlaikyti ritmą, tonaciją ir prisiminti teisingus žodžius.
+Dainavimas apima viską – nuo monotoniškų giedojimų iki sudėtingų arijų. Dainavimas yra neatsiejama daugumos kultūrų dalis, pagrindinis pramogų šaltinis, galbūt naudojamas ir ritualuose. Svarbios dainos gali būti naudojamos meilinimuisi, karių įkvėpimui prieš mūšį arba tiesiog istoriniams žygdarbiams pasakoti. Įgūdis atspindi vartotojo gebėjimą išlaikyti ritmą, dainuoti tonacijoje ir prisiminti teisingus žodžius.
 
-#### Sėlinimas (DEX+INT)
+#### Sėlinimas (VIK+INT)
 
-Slėpimasis iš akių arba judėjimas skleidžiant minimalų garsą apimami Sėlinimo įgūdžiu. Priedanga ir sąlygos, tokios kaip tamsa ar garsus aplinkos triukšmas, pagerina įgūdžio laipsnį pagal aplinkos specifiką. Panašiai, nepalankios sąlygos, tokios kaip priedangos trūkumas ar tyli naktis, sumažins įgūdžio laipsnį. Aplinkybės taip pat veikia bandymo sunkumą. Pavyzdžiui, karys, dėvintis sunkius šarvus, gali lengvai pasislėpti už sienos, jei stovi vietoje arba juda labai lėtai, o greitas judėjimas gali sukelti šarvų žvangesį.
+Slėpimasis iš akių arba judėjimas skleidžiant minimalų garsą apima Sėlinimo įgūdį. Priedanga ir sąlygos, tokios kaip tamsa arba garsus foninis triukšmas, pagerina įgūdžio laipsnį atsižvelgiant į aplinkos ypatumus. Panašiai, nepalankios sąlygos, pavyzdžiui, priedangos trūkumas ar tyli naktis, pablogins įgūdžio laipsnį. Aplinkybės taip pat veikia bandymo sunkumą. Pavyzdžiui, karys su sunkiais šarvais gali lengvai pasislėpti už sienos, su sąlyga, kad jis stovi vietoje arba juda labai lėtai, o greitas judėjimas gali sukelti šarvų žvangėjimą.
 
-#### Plaukimas (STR+CON)
+#### Plaukimas (JĖG+IŠT)
 
-Be lavinimo, gebėjimas plaukti apsiriboja blaškymusi ir galvos išlaikymu virš vandens trumpą laiką. Aukštesni Plaukimo procentai rodo gebėjimą įveikti gilesnius ir stipresnius vandenis, mažesnė rizika nuskęsti. Plaukimo metimas priklauso nuo sąlygų. Audringa jūra, stiprios srovės, sraunūs vandenys ir potvynio tėkmės mažina įgūdžio laipsnį, nesvarbu, koks veikėjo polinkis į vandenį. Daugiau informacijos apie plaukimą, įskaitant greičio skaičiavimą, rasite [Judėjimas](0005_Combat.md?id=situational-movement-rates).
+Be lavinimo, gebėjimas plaukti ribojasi su gebėjimu mosikuoti rankomis ir trumpą laiką išlaikyti galvą virš vandens. Aukštesni plaukimo procentai rodo gebėjimą įveikti gilesnius ir sraunesnius vandenis su mažesne skendimo rizika. Taigi, plaukimo metimas visiškai priklauso nuo sąlygų. Audringa jūra, stiprios srovės, sraunūs vandenys ir potvynių srovės – viskas sumažina įgūdžio laipsnį, nepaisant veikėjo polinkio vandeniui. Daugiau informacijos apie plaukimą, įskaitant plaukimo greičio skaičiavimą, rasite skyriuje [Judėjimas](0005_Combat.md?id=situational-movement-rates).
 
-#### Kovos be ginklo (STR+DEX)
+#### Kovos be ginklų (JĖG+VIK)
 
-Kova be ginklo yra universalus Kovos įgūdis, bendras visiems veikėjams, matuojantis gebėjimą apsiginti be ginklų pagalbos. Šis įgūdis apima muštynių ir imtynių technikas, žinomas toje kultūroje.
+Kovos be ginklų yra universalus kovos įgūdis, būdingas visiems veikėjams, matuojantis gebėjimą apsiginti be ginklų pagalbos. Kovos be ginklų įgūdis apima tos kultūros žinomas muštynių ir imtynių technikas.
 
-Kadangi Kova be ginklo yra Kovos įgūdis, jo Kritiniai rezultatai ir "Fumble" yra aprašyti kovos taisyklėse, kaip detaliai aprašyta [Kovos](0005_Combat.md) skyriuje.
+Kadangi Kovos be ginklų yra kovos įgūdis, jo kritinės sėkmės ir nesėkmės efektai yra aprašyti kovos taisyklėse, kaip detaliai nurodyta [Kovos](0005_Combat.md) skyriuje.
 
-#### Valia (POW x2)
+#### Valia (GAL x2)
 
-Valia yra veikėjo gebėjimo susikaupti, nukreipti savo valios jėgą tam tikra kryptimi arba užgrūdinti savo psichiką galimam protiniam sukrėtimui matas. Tai taip pat asmeninio ryžtingumo matas. Įgūdis naudojamas visais atvejais, kai reikalingas protinis atsparumas, ir tai apima pasipriešinimą magijai. Nors tai nėra sveiko proto matas, jis gali būti naudojamas ištverti trauminius įvykius, kurie supurtytų net sveikiausią, stabiliausią protą. Valia yra Ištvermės protinė priešprieša.
+Valia yra veikėjo gebėjimo susikaupti, nukreipti savo valios jėgą tam tikra kryptimi arba užgrūdinti savo psichiką galimam mentaliniam šokui matas. Tai taip pat asmeninės ryžto matas. Įgūdis naudojamas visais atvejais, kai reikalingas mentalinis atsparumas, ir tai apima pasipriešinimą magijai. Nors tai nėra sveiko proto matas, jis gali būti naudojamas ištverti trauminius įvykius, kurie sukrėstų net patį sveikiausią, stabiliausią protą. Valia yra Ištvermės mentalinė priešingybė.
 
-Vėlgi, kaip ir Ištvermė bei Išvengimas, Valia dažniausiai naudojama Opoziciniuose metimuose. Kai naudojama kaip Standartinis patikrinimas, Kritinis Valios metimas rodo, kad veikėjas užgrūdino savo protą ir dvasią tiek, kad jokie tolesni bandymai jį paveikti ar supurtyti jo ryžtą neveiks. Pasipriešinimo magijai atveju, Kritinė sėkmė reiškia, kad jokie kiti oponento užkerėti protiškai veikiantys burtai neturi jokio poveikio veikėjui iki to susidūrimo pabaigos.
+Vėlgi, kaip ir Ištvermė bei Išsisukimas, Valia dažniausiai naudojama priešpriešiniuose metimuose. Kai naudojama kaip standartinis bandymas, kritinė Valios sėkmė rodo, kad veikėjas užgrūdino savo protą ir dvasią tiek, kad jokie tolesni bandymai jį paveikti ar palaužti jo ryžtą neveiks. Priešinimosi magijai atveju, kritinė sėkmė reiškia, kad jokie tolesni oponento kerai, veikiantys protą, neturi jokio poveikio veikėjui likusioje susitikimo dalyje.
 
 ---
 ## Profesiniai įgūdžiai
 
-Profesiniai įgūdžiai skiriasi tarp veikėjų ir atspindi labiau specializuotas treniruotes bei patirtį. Kai kurie Profesiniai įgūdžiai įgyjami per kultūrinį foną ir veikėjo Karjerą, kaip rodo pavadinimas. Nors jie skiriasi tarp veikėjų, jie veikia taip pat, kaip ir Standartiniai įgūdžiai.
+Profesiniai įgūdžiai skiriasi tarp veikėjų ir atspindi labiau specializuotas treniruočių ir patirties formas. Kai kurie profesiniai įgūdžiai yra įgyjami per kultūrinį foną ir veikėjo Karjerą, kaip rodo pavadinimas. Nors jie skiriasi tarp veikėjų, jie veikia lygiai taip pat, kaip standartiniai įgūdžiai.
 
 #### Vaidyba (CHA x2)
 
-Vaidyba valdo meną gebėti įsikūnyti ir perteikti visiškai kitokį veikėją, tiek sceniniame pasirodyme, tiek socialinėje situacijoje. Aktorius vaizduoja asmenybę ir manieras, besiskiriančias nuo jo paties, įtikinamu būdu. Kartu su Maskavimosi ir Apgaulės įgūdžiais tai galingas būdas tapti visiškai kitu žmogumi.
+Vaidyba apima meną sugebėti įkūnyti ir perteikti visiškai kitokį veikėją, nesvarbu, ar tai būtų sceninis pasirodymas, ar socialinė situacija. Aktorius vaizduoja asmenybę ir manieras, besiskiriančias nuo jo paties, įtikinamu būdu. Kartu su Maskavimosi ir Apgaulės įgūdžiais tai galingas būdas tapti visiškai kitu žmogumi.
 
-#### Akrobatika (STR+DEX)
+#### Akrobatika (JĖG+VIK)
 
-Akrobatika apima pusiausvyros, gimnastikos, žongliravimo ir kūlversčių veiksmus. Įgūdis gali būti naudojamas daryti įspūdį auditorijai, bet taip pat padėti sumažinti žalą nuo kritimų. Sėkmingu metimu veikėjas gali judėti visu greičiu ir užtikrintai per nestabilų ar siaurą paviršių. Jei bandoma sumažinti žalą nuo netikėto kritimo, sėkmingas Akrobatikos metimas perpus sumažina bet kokią patirtą žalą. Be to, jei metimas sėkmingas ir veikėjas nepatiria Rimtos ar Didelės žaizdos dėl kritimo, veikėjas nusileidžia palyginti saugiai ir nėra gulomis.
+Akrobatika apima pusiausvyros, gimnastikos, žongliravimo ir kūlversčių veiksmus. Įgūdis gali būti naudojamas norint padaryti įspūdį auditorijai, bet taip pat padeda sušvelninti žalą po kritimo. Sėkmingai atlikus metimą, veikėjas gali judėti visu greičiu ir užtikrintai per nestabilų ar siaurą paviršių. Jei bandoma sušvelninti žalą po netikėto kritimo, sėkmingas Akrobatikos metimas perpus sumažina patirtą žalą. Be to, jei metimas sėkmingas ir veikėjas nepatiria rimto ar sunkaus sužeidimo dėl kritimo, jis nusileidžia palyginti saugiai ir neatsiduria kniūbsčias.
 
-Akrobatika gali būti naudojama vietoj Išvengimo, jei situacija to reikalauja. Nauda ta, kad veikėjas automatiškai atsistoja ant kojų, o ne lieka gulėti.
+Akrobatiką galima pakeisti Išsisukimu, jei situacija to reikalauja. To privalumas yra tas, kad veikėjas automatiškai atgauna pusiausvyrą, o ne atsiduria kniūbsčias.
 
-#### Astrogavimas (INT x2)
+#### Astrogacija (INT x2)
 
-Astrogavimas yra lygiavertis Navigacijai, išskyrus tai, kad jis leidžia žvaigždėlaivių pilotams nubrėžti kursą žvaigždžių ir tarpplanetiniais atstumais.
+Astrogacija yra lygiavertė Navigacijai, išskyrus tai, kad ji leidžia erdvėlaivių pilotams nubraižyti kursą žvaigždžių ir tarpžvaigždžiuose atstumuose.
 
-#### Menas (POW+CHA)
+#### Menas (GAL+CHA)
 
-Yra daug specifinių meno formų. Nuo tapybos iki poezijos; nuo literatūros iki skulptūros. Veikėjas pasirenka Meno specializaciją, imdamas šį įgūdį. Vėlesnės Meno formos tobulinamos atskirai. Metimas atliekamas, kai veikėjas privalo padaryti įspūdį ar įtikinti per savo meninę mediją.
+Yra daug specifinių meno formų. Nuo tapybos iki poezijos; literatūros iki skulptūros. Veikėjas pasirenka Meno specializaciją, kai įgyja šį įgūdį. Vėlesnės meno formos tobulinamos atskirai. Metimas atliekamas kiekvieną kartą, kai veikėjas turi padaryti įspūdį ar įtikinti per savo meninę mediją.
 
 #### Biurokratija (INT x2)
 
-Supratimas apie administracines procedūras, įrašus ir nerašytas konvencijas apimamas Biurokratijos įgūdžiu. Jis naudojamas bendraujant su pareigūnais arba norint sužinoti svarbią pilietinę informaciją. Priklausomai nuo jų kultūros sudėtingumo, biurokratams nebūtinai reikia būti raštingiems. Kiekvieną kartą, kai reikia naršyti biurokratiniuose labirintuose, būtinas Biurokratijos metimas.
+Administracinių procedūrų, įrašų ir neaptartų konvencijų supratimas yra apimtas Biurokratijos įgūdžio. Jis naudojamas bendrauti su pareigūnais arba atrasti svarbią civilinę informaciją. Priklausomai nuo jų kultūros sudėtingumo, biurokratams nebūtina būti raštingiems. Kiekvieną kartą, kai reikia naršyti per raudonąją juostą ar administracinius kraštovaizdžius, būtinas Biurokratijos metimas.
 
 #### Prekyba (INT+CHA)
 
-Prekyba naudojama įvertinti prekių ir žaliavų vertę bei jomis prekiauti už geriausią įmanomą kainą. Ji taip pat naudojama suprasti verslo sandorių subtilybes, be to, užsitikrinti pelną. Tolesnis panaudojimas yra geriausio būdo atsikratyti pavogtų ir neteisėtų prekių radimas – vėlgi už geriausią įmanomą kainą. Prekyba akivaizdžiai naudojama prekiaujant ir ji gali būti opozicijoje prieš oponento Prekybos įgūdį arba Valią, atspindint kitos pusės bandymus pasukti sandorį savo naudai. Ji taip pat naudojama įvertinti prekių rinkos vertę, gaunant kainos idėją ir kur ji bus geriausiai parduodama.
+Prekyba naudojama įvertinti prekių ir žaliavų vertę bei parduoti jas už geriausią įmanomą kainą. Ji taip pat naudojama suprasti verslo sandorių subtilybes, be to, užtikrinti pelną. Tolesnis panaudojimas yra geriausio būdo atsikratyti pavogtų ir nelegalių prekių paieška – vėlgi už geriausią įmanomą kainą. Prekyba akivaizdžiai naudojama prekiaujant ir jai gali priešintis oponento Prekybos įgūdis arba Valia, atspindintys priešingos pusės bandymus pasukti sandorį savo naudai. Ji taip pat naudojama vertinti prekių rinkos vertę, gaunant supratimą apie kainą ir kur jas geriausia parduoti.
 
-#### Komunikacija (INT x2)
+#### Ryšiai (INT x2)
 
-Šis įgūdis suteikia gebėjimą naudoti ryšio įrangą aptikti, paslėpti arba blokuoti ryšių srautą. Jis taip pat suteikia galimybę nulaužti užšifruotus pranešimus (su sąlyga, kad vartotojas turi prieigą prie kodo laužytuvo).
+Šis įgūdis suteikia galimybę naudoti ryšio įrangą aptikti, paslėpti arba blokuoti ryšio srautą. Jis taip pat suteikia šansą nulaužti užšifruotus pranešimus (su sąlyga, kad vartotojas turi prieigą prie kodo laužymo įrankio).
 
 #### Kompiuteriai (INT x2)
 
-Kompiuteriai atspindi veikėjo gebėjimą spręsti sudėtingas problemas arba išgauti sudėtingą informaciją, naudojant kompiuterines sistemas – ar tai būtų programavimo kodas, detali tam tikros programinės įrangos naudojimo dalis, įsilaužimas, ar net diagnostika/programinės ir techninės įrangos problemų taisymas. Bendras kompiuterių naudojimas paprastai nereikalauja metimo.
+Kompiuteriai atspindi veikėjo gebėjimą spręsti sudėtingas problemas arba išgauti sudėtingą informaciją naudojant kompiuterių sistemas – nesvarbu, ar tai būtų programinis kodas, detalus konkrečios programinės įrangos naudojimas, įsilaužimas, ar net programinės ir techninės įrangos problemų diagnozavimas/taisymas. Bendram kompiuterių naudojimui metimas paprastai nereikalingas.#### Mandagumas (INT+CHA)
 
-#### Mandagumas (INT+CHA)
+Šis įgūdis apima supratimą, kaip deramai elgtis socialinėse ar oficialiose situacijose: kreipimosi formas, ritualus, elgesio konvencijas ir panašiai. Tai apima viską: kam ir kada nusilenkti, kaip žemai tai daryti; kada naudoti tam tikrą titulą, o kada dera elgtis neformaliai.
 
-Šis įgūdis apima supratimą, kaip tinkamai elgtis socialinėje ar formalioje situacijoje: kreipimosi būdai, ritualai ir elgesio konvencijos ir t.t. Jis apima viską nuo to, kam nusilenkti ir kada, iki to, kaip žemai; nuo to, kada naudoti tam tikrą titulą iki to, kada tinkama elgtis neformaliai.
+#### Amatas (VIK+INT)
 
-#### Amatas (DEX+INT)
-
-Kiekvienas Amatas yra specializuota forma, ir yra tiek amatų, kiek yra jiems skirtų profesijų. Kaip ir Menas, Amatas naudojamas sukurti konkretų daiktą. Kiek laiko tai užtrunka, visiškai priklauso nuo produkto pobūdžio: pavyzdžiui, kilimo audimas užtrunka ilgiau nei puodo lipdymas, tačiau laikas nebūtinai yra svarbiausias veiksnys: svarbiausia yra amatininko įgūdis, resursų kokybė ir dėmesys detalėms.
+Kiekvienas Amatas yra specializuota forma, ir amatų yra tiek pat, kiek ir juos atitinkančių profesijų. Kaip ir Menas, Amatas naudojamas sukurti tam tikrą objektą. Kiek laiko tai užtrunka, visiškai priklauso nuo gaminio pobūdžio: pavyzdžiui, kilimo audimas užtrunka ilgiau nei puodo žiedimas, tačiau laikas nebūtinai yra svarbiausias veiksnys: svarbiausia yra amatininko įgūdžiai, išteklių kokybė ir dėmesys detalėms.
 
 #### Kultūra (INT x2)
 
-Kultūra yra specifinė Standartinio Papročių įgūdžio forma, susijusi su visuomenėmis, svetimomis veikėjo kultūrai. Kiekvienas Kultūros įgūdis turi būti susietas su konkrečia tauta ar visuomene, kuriai jis taikomas. Mechaniškai jis veikia taip pat, kaip Papročių įgūdis.
+Kultūra yra specifinė standartinio Papročių įgūdžio forma, susijusi su veikėjo gimtajai aplinkai svetimomis visuomenėmis. Kiekvienam Kultūros įgūdžiui turi būti priskirta konkreti tauta ar visuomenė, kuriai jis taikomas. Mechaniškai jis veikia taip pat, kaip ir Papročių įgūdis.
 
-#### Sprogdinimas (INT+POW)
+#### Sprogdinimas (INT+GAL)
 
-Šis įgūdis leidžia veikėjui saugiai tvarkytis ir naudoti sprogstamąsias medžiagas, ar jas nustatant, ar išminuojant.
+Šis įgūdis leidžia veikėjui saugiai elgtis su sprogstamosiomis medžiagomis ir jas naudoti, tiek jas įrengiant, tiek nukenksminant.
 
-#### Maskavimasis (INT+CHA)
+#### Maskuotė (INT+CHA)
 
-Įtikinamo maskavimosi efektas, naudojant tinkamas medžiagas (kostiumus, kosmetiką, perukus ar plaukų priedus), apimamas Maskavimosi įgūdžiu. Maskuotės kūrimas reikalauja laiko ir dėmesio detalėms, taip pat prieigos prie tinkamų medžiagų, kad ji būtų įtikinama. Jei kai kurių ar visų šių elementų trūksta, Maskavimosi metimo Sunkumo laipsnis tampa vienu ar daugiau laipsnių sunkesnis.
+Įtikinamos maskuotės sukūrimas naudojant tinkamas priemones (kostiumus, kosmetiką, perukus ar plaukų priedus) patenka į Maskuotės įgūdžio sritį. Maskuotės kūrimui reikia laiko ir dėmesio detalėms, taip pat prieigos prie tinkamų medžiagų, kad ji būtų įtikinama. Jei kai kurių ar visų šių elementų trūksta, Maskuotės metimo sunkumo lygis tampa vienu ar daugiau žingsnių sunkesnis.
 
-Maskavimąsi galima papildyti Vaidyba, kad būtų sustiprintas bendras apgaulės efektas (ir atvirkščiai), todėl šie du įgūdžiai yra vienas kitą papildantys.
+Maskuotę galima sustiprinti Vaidyba, kad būtų sustiprintas bendras apgaulės efektas (ir atvirkščiai vaidinant), todėl šie du įgūdžiai yra vienas kitą papildantys.
 
-#### Elektronika (DEX+INT)
+#### Elektronika (VIK+INT)
 
-Šis įgūdis leidžia vartotojui taisyti, apeiti arba remontuoti elektroninius prietaisus. Jis turi daug pritaikymų, dažniausiai laikinai pataisyti sugadintą įrangą arba pakeisti sugedusias grandines atsarginėmis.
+Šis įgūdis leidžia vartotojui ardyti, apeiti ar taisyti elektroninius prietaisus. Jis turi daug pritaikymo būdų, dažniausiai laikinai pataisyti pažeistą įrangą arba pakeisti sugedusias grandines atsarginėmis dalimis.
 
 #### Inžinerija (INT x2)
 
-Didelio masto statinių – nuo namų iki tiltų, vartų iki apgulties mašinų – projektavimas ir statyba priklauso Inžinerijos įgūdžiui. Metimai būtini planuojant didelio masto projektus, siekiant užtikrinti teisingą konstrukciją, bet taip pat atliekami, kai inžinierius nori įvertinti statinio vientisumą dėl bet kokios priežasties (pvz., remonto būklė arba silpnosios vietos).
+Didelio masto statinių, nuo namų iki tiltų, vartų ar apgulties mašinų projektavimas ir statyba priklauso Inžinerijos įgūdžiui. Metimai reikalingi planuojant didelio masto projektus, siekiant užtikrinti teisingą konstrukciją, bet taip pat atliekami, kai inžinierius nori įvertinti statinio vientisumą dėl kokių nors priežasčių (pavyzdžiui, remonto būklės ar silpnų vietų).
 
-#### Klastojimas (DEX+INT)
+#### Klastojimas (VIK+INT)
 
-Klastojimo įgūdis leidžia sukurti arba suklastoti oficialią dokumentaciją.
+Klastojimo įgūdis leidžia kurti ar falsifikuoti oficialius dokumentus.
 
-#### Azartiniai lošimai (INT+POW)
+#### Azartiniai lošimai (INT+GAL)
 
-Azartinių lošimų įgūdis matuoja veikėjo kompetenciją atsitiktinumo žaidimuose ir ypač ten, kur statomi pinigai. Jis naudojamas įvertinti sėkmės ar nesėkmės šansus arba pastebėti, kada kas nors sukčiauja. Įgūdis gali būti naudojamas opoziciniu arba neopoziciniu būdu, priklausomai nuo situacijos. Nakties praleidimas anoniminėje lošimų landynėje gali reikalauti tik tiesioginio patikrinimo, o didelių statymų kauliukų žaidimas, kuriame dalyvauja žymūs asmenys, gali reikalauti kelių Opozicinių metimų raundų.
+Azartinių lošimų įgūdis matuoja veikėjo kompetenciją azartiniuose žaidimuose, ypač kai pastatomi pinigai. Jis naudojamas sėkmės ar nesėkmės tikimybei įvertinti arba pastebėti, kada kas nors sukčiauja. Įgūdis gali būti naudojamas priešpriešiniu arba nepriešpriešiniu būdu, priklausomai nuo situacijos. Naktis bevardėje lošimo landynėje gali reikalauti tik paprasto patikrinimo, o didelių statymų kauliukų žaidimas, kuriame dalyvauja žymūs asmenys, gali reikalauti kelių priešpriešinių metimų raundų.
 
-#### Gydymas (INT+POW)
+#### Gydymas (INT+GAL)
 
-Gydymas yra gilus medicininių procedūrų išmanymas, pagrįstas kultūrine praktika, ir naudojamas gydyti rimtesnes traumas (dažniausiai tas, kurių metu Gyvybės taškai yra nulis arba mažiau). Pavyzdžiui, primityvioje ar barbariškoje kultūroje gydymas bus pagrįstas žolelių ir natūralių vaistų žinojimu. Civilizuotoje kultūroje vaistai ir pažangesnis gydymas bus dažnesni. Visose kultūrose Gydymas apima gebėjimą atstatyti kaulus, siūti žaizdas ir t.t. Akivaizdu, kad Gydymo taikymui reikia tinkamų resursų, ir dauguma praktikuojančių gydytojų turės tokius dalykus po ranka (adatos, siūlai siuvimui, žolelės, arba medicininis krepšys šiuolaikinėse aplinkose).
+Gydymas – tai gilus medicininių procedūrų išmanymas, pagrįstas kultūrine praktika, naudojamas rimtesniems sužalojimams gydyti (paprastai tiems, kai gyvybės taškai yra lygūs nuliui arba mažiau). Pavyzdžiui, primityvioje ar barbariškoje kultūroje gydymas bus pagrįstas žolelių ir natūralių gydymo priemonių žiniomis. Civilizuotoje kultūroje dažniau bus naudojami vaistai ir pažangesnis gydymas. Visose kultūrose Gydymas apima gebėjimą atstatyti kaulus, siūti žaizdas ir t. t. Akivaizdu, kad Gydymui taikyti reikia atitinkamų išteklių, ir dauguma praktikuojančių gydytojų turi tokius dalykus po ranka (adatas, gyslas ar siūlus siūlėms, žoleles kompresams ir t. t., arba medicininį rinkinį šiuolaikinėje aplinkoje).
 
 #### Kalba (INT+CHA)
 
-Šis įgūdis apima kalbėjimo ir supratimo gebėjimą kalba, kuri nėra paties veikėjo gimtoji. Įgūdis traktuojamas kaip statinis bendro sklandumo atvaizdavimas. 1-25% – keletas pagrindinių žodžių, 26-50% – paprasti sakiniai, 51-75% – sklandus bendras pokalbis, 76+% – gebėjimas kalbėti iškalbingai. Jo vertę naudoja Žaidimo meistras riboti žodinės sąveikos lygį, kai žaidėjai bendrauja su asmenybėmis žaidime. Jis taip pat gali būti naudojamas kaip riba kitiems įgūdžiams (pvz., Biurokratijai), kur Kalba gali būti ribojantis veiksnys. Tokiu atveju įgūdis, pavyzdžiui, Biurokratija, negali viršyti naudojamos Kalbos įgūdžio vertės.
+Šis įgūdis apima kitos, ne veikėjo gimtosios, kalbos kalbėjimą ir supratimą. Įgūdis traktuojamas kaip bendros laisvos kalbos statinis atvaizdavimas. 1–25 % – keletas pagrindinių žodžių, 26–50 % – paprasti sakiniai, 51–75 % – laisvai bendraujama, 76+ % – gebėjimas iškalbingai diskutuoti. Jo vertę žaidimo meistras naudoja tam, kad apribotų žodinės sąveikos lygį, kai žaidėjai kalbasi su žaidimo asmenybėmis. Jis taip pat gali būti naudojamas kaip viršutinė riba tam tikriems kitiems įgūdžiams (pvz., Biurokratijai), kur Kalba gali būti ribojantis veiksnys. Tokiu atveju įgūdis, pvz., Biurokratija, negali viršyti naudojamos Kalbos įgūdžio vertės.
 
 #### Raštingumas (Specifinė kalba) (INT x2)
 
-Laisvas kalbėjimas kalba nereiškia, kad žmogus gali ja skaityti ir rašyti. Raštingumas yra specifinis įgūdis, ir skirtingos visuomenės rodo skirtingus lygius ir požiūrius į jį. Kai kuriose raštingumas skirtas tik bajorijai, biurokratinėms ar religinėms klasėms. Kitose jis nežinomas, vyraujant žodinėms tradicijoms. Šiuolaikinėse ar futuristinėse visuomenėse raštingumas išmokstamas numatytai ir nereikalauja atskiro įgūdžio.
+Laisvas kalbėjimas kalba dar nereiškia, kad žmogus moka ja skaityti ir rašyti. Raštingumas yra specifinis įgūdis, ir skirtingos visuomenės rodo skirtingą požiūrį į jį. Kai kuriose visuomenėse raštingumas skirtas tik bajorijai, biurokratiniams ar religiniams sluoksniams. Kitose jis nežinomas, o vyrauja žodinės tradicijos. Šiuolaikinėse ar futuristinėse visuomenėse raštingumas išmokstamas numatytuoju būdu ir nereikalauja atskiro įgūdžio.
 
-#### Spynų atrakinimas (DEX x2)
+#### Rakinimas (VIK x2)
 
-Spynų atrakinimas yra gebėjimas atidaryti mechaninę užrakinimo sistemą be rakto ar kito įrenginio, pagaminto specialiai tai spynai. Jis apima techniką atidaryti užsklęstas duris ir langus be žalos. Spynų atrakinimas taip pat gali būti naudojamas užrakinti duris, skrynią ir t.t., kai nėra rakto.
+Rakinimas – tai gebėjimas atidaryti mechaninę užrakinimo sistemą be rakto ar kito įrenginio, pagaminto specialiai tai spynai. Tai apima technikas, skirtas atidaryti užsklęstas duris ir langus jų nepažeidžiant. Rakinimas taip pat gali būti naudojamas durims, skrynioms ir panašiai užrakinti, kai nėra rakto.
 
 #### Žinios (INT x2)
 
-Žinios apima specifinę žinių sritį, kurią reikia pasirinkti pirmą kartą mokantis įgūdžio. Alchemija, Astrologija, Astronomija, Geografija, Heraldika, Istorija, Akušerija, Mineralogija, Monstrai, Politika, Religija, Strategija ir Taktika: tai visi tipiški Žinių įgūdžių pavyzdžiai. Žinios šiame įgūdyje reiškia, kad veikėjas supranta jo pagrindus, kaip tai galima pritaikyti tiesioginiams iššūkiams ir problemoms, ir gali naudoti Žinias naudingai informacijai prisiminti.
+Žinios apima specifinę žinių sritį, kurią reikia pasirinkti pirmą kartą mokantis įgūdžio. Alchemija, astrologija, astronomija, geografija, heraldika, istorija, akušerija, mineralogija, pabaisos, politika, religija, strategija ir taktika – tai tipiški Žinių įgūdžių pavyzdžiai. Žinių įgūdis reiškia, kad veikėjas supranta jo pagrindus, kaip juos galima pritaikyti tiesioginiams iššūkiams ir problemoms, ir gali naudoti Žinias naudingai informacijai prisiminti.
 
-#### Magija (POW+CHA)
+#### Magija (GAL+CHA)
 
-Magijos įgūdis naudojamas buriant [Magijos ir galių](0007_Magic.md) skyriuje aprašytus burtus. Sėkmingas metimas reikalingas, kad burtas suveiktų, nors burtui vis tiek gali pasipriešinti opozicinis įgūdis, toks kaip Valia.
+Magijos įgūdis naudojamas burti burtus, aprašytus skyriuje [Magija ir galios](0007_Magic.md). Kad burtas veiktų, reikalingas sėkmingas metimas, nors burtui vis tiek gali pasipriešinti priešingas įgūdis, pavyzdžiui, Valia.
 
-#### Mechanizmai (DEX+INT)
+#### Mechanizmai (VIK+INT)
 
-Mechanizmai atspindi žinias ir įgūdį surinkti bei išardyti mechaninius prietaisus, tokius kaip spąstai. Mechanizmų įgūdis paprastai apima smulkių mechanizmų su mažomis veikiančiomis dalimis kūrimą, priešingai nei Inžinerija, kuri dirba su masyviomis konstrukcijomis. Tai atskira disciplina nuo Spynų atrakinimo ir negali būti keičiama tuo įgūdžiu.
+Mechanizmai atspindi žinias ir įgūdžius surinkti bei išardyti mechaninius įrenginius, pavyzdžiui, spąstus. Mechanizmų įgūdis paprastai apima subtilių įtaisų su mažomis veikiančiomis dalimis kūrimą, priešingai nei Inžinerija, kuri susijusi su masyviomis konstrukcijomis. Tai atskira disciplina, besiskirianti nuo Rakinimo, ir negali būti su ja keičiama.
 
-#### Muzikavimas (DEX+CHA)
+#### Muzikalumas (VIK+CHA)
 
-Muzikavimas apima muzikinių instrumentų grojimą; nuo paprasto nendrinio vamzdelio iki sudėtingo stygini instrumento, tokio kaip arfa, ir kiekviena Muzikavimo iteracija taikoma panašių instrumentų grupei. Muzikantas, galintis groti nendriniu vamzdeliu, taip pat gali groti fleita, panfleita ar dūdele, nes pagrindai tie patys. Tačiau jis negalėtų groti arfa ar liutnia.
+Muzikalumas apima grojimą muzikos instrumentais: nuo paprasto nendrinio vamzdelio iki sudėtingo styginių instrumento, pavyzdžiui, arfos, ir kiekviena Muzikalumo iteracija taikoma panašių instrumentų grupei. Muzikantas, galintis groti nendriniu vamzdeliu, taip pat gali groti fleita, panfleita ar dūdele, nes pagrindai yra tie patys. Tačiau jis negalėtų groti arfa ar liutnia.
 
-#### Navigacija (INT+POW)
+#### Navigacija (INT+GAL)
 
-Nesvarbu, ar naudojami ryškūs orientyrai, žvaigždės ar besikeičiantis jūros vandens skonis, gebėjimas tiksliai nukreipti kelionę apimamas Navigacijos įgūdžiu. Kiekvienas Navigacijos įgūdis apima specifinį regioną ar aplinką, pavyzdžiui, Atvira jūra ar Požemiai. Metimas turėtų būti atliekamas neįprastų kelionių metu arba būnant visiškai nepažįstamoje teritorijoje.
+Navigacijos įgūdis apima gebėjimą tiksliai nustatyti kelionės kryptį, naudojant žymius orientyrus, žvaigždes ar kintantį jūros vandens skonį. Kiekvienas Navigacijos įgūdis apima specifinį regioną ar aplinką, pavyzdžiui, atviras jūras arba požemius. Jis turėtų būti naudojamas neįprastų kelionių metu arba būnant visiškai nepažįstamoje teritorijoje.
 
-#### Iškalba (POW+CHA)
+#### Oratorystė (GAL+CHA)
 
-Iškalba yra menas sakyti kalbą didelei žmonių grupei siekiant perteikti ar pakreipti požiūrį. Tai įgūdis, kurį politikai dažnai naudoja savo politikai įtvirtinti, bet jį taip pat naudoja vadai kariams įkvėpti ir disciplinai mūšio lauke įvesti. Visur, kur reikalingas masinis įtikinėjimas, naudojama Iškalba, o ne Įtaka.
+Oratorystė yra menas sakyti kalbą didelei žmonių grupei, siekiant perduoti ar pakreipti požiūrį. Tai įgūdis, kurį politikai dažnai naudoja savo politikai įtvirtinti, tačiau jį taip pat naudoja vadai, siekdami įkvėpti karius ir įvesti drausmę mūšio lauke. Visur, kur reikalingas masinis įtikinėjimas, naudojama Oratorystė, o ne Įtaka.
 
-#### Pilotavimas (DEX+INT)
+#### Pilotavimas (VIK+INT)
 
-Pilotavimo įgūdis leidžia valdyti nurodytos klasės (pvz., sklandytuvai, lėktuvai su propeleriais, reaktyviniai varikliai ir t.t.) skraidančius aparatus.
+Pilotavimo įgūdis leidžia valdyti tam tikros klasės (sklandytuvus, sraigtinius lėktuvus, reaktyvinius variklius ir t. t.) skraidančius aparatus.
 
 #### Politika (INT+CHA)
 
-Veikėjai, turintys Politikos įgūdį, supranta, kaip naršyti ir derėtis vyriausybės koridoriuose vietos ir nacionaliniu lygiu.
+Veikėjai, turintys Politikos įgūdį, supranta, kaip naršyti ir derėtis valdžios koridoriuose vietos ir nacionaliniu lygmenimis.
 
-#### Tyrimas (INT+POW)
+#### Tyrimai (INT+GAL)
 
-Tyrimas naudoja įvairius resursus (pvz., biblioteką, laikraščių archyvą, kompiuterių tinklą ir t.t.), norint atrasti norimus informacijos vienetus.
+Tyrimai naudoja įvairius išteklius (pvz., biblioteką, laikraščių archyvą, kompiuterių tinklą ir kt.), norint atrasti norimus informacijos vienetus.
 
 #### Mokslas (INT x2)
 
-Yra dešimtys mokslo disciplinų, ir Mokslas, kurį galima imti kelis kartus, visada susietas su disciplina: pavyzdžiui, Mokslas (Biologija) arba Mokslas (Chemija). Mokslas pakeičia Žinių įgūdį šiuolaikinėse ir futuristinėse aplinkose.
+Yra daugybė mokslo disciplinų, ir Mokslo įgūdis, kurį galima įgyti kelis kartus, visada siejamas su disciplina: pavyzdžiui, Mokslas (Biologija) arba Mokslas (Chemija). Šiuolaikinėse ir futuristinėse aplinkose Mokslas pakeičia Žinių įgūdį.
 
-#### Jūrininkystė (INT+CON)
+#### Jūreivystė (INT+IŠT)
 
-Šis įgūdis naudojamas taip pat, kaip Plaukiojimas valtimi, bet taikomas dideliems vandens laivams, varomiems burių ar irklų bankų. Jis taip pat apima laivo priežiūrą ir išlaikymą: vertinimą, kada reikalingas remontas, kur saugu išmesti inkarą, smarkių orų pavojus ir t.t.
+Šis įgūdis naudojamas taip pat, kaip Laivininkystė, tačiau taikomas dideliems vandens laivams, varomiems burių arba irklų bankų. Jis taip pat apima laivo techninę priežiūrą: vertinimą, kada reikia remonto, kur saugu išmesti inkarą, smurtingų orų pavojus ir t. t.
 
 #### Gundymas (INT+CHA)
 
-Gundymas yra romantiškas arba seksualinis kito asmens įtikinėjimas, įgūdis, labai besiskiriantis nuo Įtakos. Jis naudoja aiškius signalus – žodinius ir nežodinius – seksualiai teigiamam atsakui išgauti. Tai taip pat užima daug laiko: sėkmingas Gundymas gali užtrukti valandas, dienas ar savaites, priklausomai nuo taikinio moralės, kuris visada gali bandyti pasipriešinti Gundymui Valia.
+Gundymas – tai romantiškas ar seksualinis kito asmens įtikinėjimas, įgūdis, labai besiskiriantis nuo Įtakos. Jis naudoja aiškius signalus – verbalinius ir neverbalinius – seksualiai teigiamam atsakui išgauti. Tai taip pat užima daug laiko: sėkmingas Gundymas gali užtrukti valandas, dienas ar savaites, priklausomai nuo taikinio moralės, kuris visada gali bandyti pasipriešinti Gundymui naudodamas Valią.
 
-#### Jutikliai (INT+POW)
+#### Jutikliai (INT+GAL)
 
-Šis įgūdis leidžia tiksliai naudoti ir analizuoti jutiklių įrenginius, nuo cheminių uostiklių iki karinių tolimojo nuotolio skaitytuvų.
+Šis įgūdis leidžia tiksliai naudoti ir analizuoti jutiklių prietaisus – nuo cheminių uostiklių iki karinių tolimojo nuotolio skaitytuvų.
 
-#### Vikrumas (DEX+CHA)
+#### Vikrumas (VIK+CHA)
 
-Vikrumas apima bandymus paslėpti delne ar nuslėpti mažus objektus (rankų miklumas ir prestižinė magija) ir apima bandymus ištraukti kišenes, nupjauti pinigines ar sukelti vizualinį išsiblaškymą. Natūralu, kad tai esminis vagių įgūdis.
+Vikrumas apima bandymus paslėpti nedidelius objektus (prestižacija) ir apima bandymus apvogti kišenes, nupjauti pinigines ar sukelti vizualų dėmesio atitraukimą. Natūralu, kad tai yra esminis vagies įgūdis.
 
-#### Gatvės išmintis (POW+CHA)
+#### Gatvių išmanymas (GAL+CHA)
 
-Gatvės išmintis atspindi vietų ir socialinių kontaktų žinojimą gyvenvietėje. Ji apima viską nuo potencialiai pavojingų rajonų identifikavimo iki vietinių paslaugų – teisėtų ar neteisėtų – radimo. Kiek laiko užtrunka Gatvės išminties bandymas, priklauso nuo to, ko ieškoma. Geros smuklės radimas užtruks mažiau laiko nei vagių turto supirkėjo ar padirbto prekybos leidimo paieška.
+Gatvių išmanymas atspindi žinias apie vietas ir socialinius kontaktus gyvenvietėje. Jis apima viską: nuo potencialiai pavojingų rajonų atpažinimo iki vietinių paslaugų – legalių ar nelegalių – suradimo. Kiek laiko užtrunka bandymas pasinaudoti Gatvių išmanymu, priklauso nuo to, ko ieškoma. Geros užeigos paieška užtruks mažiau laiko nei vogtų prekių supirktuvės ar padirbto prekybos leidimo paieška.
 
-#### Išgyvenimas (CON+POW)
+#### Išgyvenimas (IŠT+GAL)
 
-Šis įgūdis apima išgyvenimą kaimo ar laukinės gamtos aplinkoje, kur nėra civilizacijos privalumų: maisto rinkimas, laužo kūrimas, pastogės ar saugios miego vietos radimas. Kai tinkamai įrengtas, metimai paprastai nereikalingi, nes veikėjas gali turėti palapinę, maisto atsargas ir t.t. Tik kai atskiriamas nuo savo įrangos arba kai aplinkos sąlygos tampa blogos, tampa būtina naudoti šį įgūdį. Metimas tokiomis sąlygomis paprastai atliekamas kartą per dieną.
+Šis įgūdis apima išgyvenimą kaimo ar dykumos aplinkoje, kur nėra civilizacijos teikiamų privalumų: maisto paieška, laužo kūrimas, pastogės ar saugios vietos miegoti radimas. Tinkamai aprūpinus, metimai paprastai nėra būtini, nes veikėjas gali turėti palapinę, maisto atsargų ir t. t. Tik tada, kai atskiriamas nuo savo įrangos arba kai aplinkos sąlygos tampa blogos, tampa būtina naudoti šį įgūdį. Tokiomis sąlygomis metimas paprastai atliekamas kartą per dieną.
 
 #### Mokymas (INT+CHA)
 
-Mokymas leidžia vartotojui perduoti savo žinias ir technikas lengvai suprantamu ir konstruktyviu būdu. Be šio įgūdžio net ir patys pajėgiausi meistrai susidurs su problemomis mokydami kitus.
+Mokymas leidžia vartotojui perduoti savo žinias ir technikas lengvai suprantamu bei konstruktyviu būdu. Be šio įgūdžio net patys pajėgiausi meistrai patirs problemų mokydami kitus.
 
-#### Sekimas (INT+CON)
+#### Sekimas (INT+IŠT)
 
-Sekimo įgūdis naudojamas sekti bet kokią žvėrių formą ar grobį. Jis naudoja tiek akivaizdžius, tiek dviprasmiškus praėjimo ženklus, kad išliktų ant grobio pėdsakų, įskaitant pėdsakus, apdaužytus lapus, išbarstytas žiedadulkes, perkeltas uolas ir t.t.; mažus, išduodančius ženklus, kurie nematomi neįgudusiajam. Sekimo metimus reikia daryti periodiškai, ypač jei sąlygos staiga pasikeičia (pavyzdžiui, liūtis sutrikdys tam tikrus ženklus). Kaip dažnai – priklauso nuo to, koks gudrus buvo grobis. Slėpimo metimai gali būti naudojami opozicijoje prieš Sekimo metimą.
+Sekimo įgūdis naudojamas sekant bet kokį žvėrį ar grobį. Jis naudoja tiek akivaizdžius, tiek neaiškius praėjimo ženklus, kad išliktų ant grobio pėdsakų, įskaitant pėdsakus, apdaužytus lapus, išbarstytas žiedadulkes, pajudintus akmenis ir t. t.; mažus, išduodančius ženklus, kurie nematomi nemokantiems. Sekimo metimai turi būti atliekami periodiškai, ypač jei sąlygos staiga pasikeičia (pavyzdžiui, liūtis sujauks tam tikrus ženklus). Tai, kaip dažnai, priklauso nuo to, koks gudrus buvo grobis. Paslėpimo metimai gali būti naudojami pasipriešinti Sekimo metimui.
 
 ---
-## Įgūdžių taisyklės skirtingoms aplinkybėms ir situacijoms
+## Įgūdžių taisyklės skirtingomis aplinkybėmis ir situacijomis
 
-Nors pagrindinės įgūdžių naudojimo taisyklės *Mythras Imperative* yra labai tiesmukos, žaidimo metu kyla gausybė skirtingų aplinkybių, kurios reikalauja įgūdžius tvarkyti šiek tiek kitaip. Šie skyriai nagrinėja šias aplinkybes ir situacijas bei rodo, kaip jas tvarkyti.
+Nors pagrindinės įgūdžių naudojimo taisyklės _Mythras Imperative_ yra labai paprastos, žaidimo metu kyla daugybė skirtingų aplinkybių, kurios reikalauja, kad su įgūdžiais būtų elgiamasi šiek tiek kitaip. Tolesniuose skyriuose nagrinėjamos šios aplinkybės ir situacijos bei parodyta, kaip su jomis elgtis.
 
-### Įgūdžių pakartojimas
+### Įgūdžių bandymas iš naujo
 
-Kai kuriose situacijose veikėjas neįvykdys įgūdžio bandymo, bet liks situacijoje, kurioje galėtų potencialiai bandyti dar kartą. Pavyzdiniai atvejai galėtų būti spynos atrakinimas arba bandymas užlipti į stačią sieną. Vietoj to, kad tiesiog neleistumėte jokių tolesnių bandymų, malonūs Žaidimo meistrai gali leisti paskutinį, desperatišką bandymą. Tačiau veikėjas patirs tam tikrą nerimą arba pasitikėjimo trūkumą, kas padidins įgūdžio metimo Sunkumo laipsnį vienu vienetu.
+Kai kuriose situacijose veikėjui nepavyks atlikti įgūdžio bandymo, tačiau jis liks situacijoje, kurioje galėtų bandyti dar kartą. Pavyzdžiai gali būti spynos atrakinimas ar bandymas įkopti į stačią sieną. Užuot tiesiog atsisakę tolesnių bandymų, geranoriški žaidimo meistrai gali leisti papildomą, paskutinės vilties bandymą. Tačiau veikėjas patirs tam tikrą nerimą ar pasitikėjimo trūkumą, kuris padidina įgūdžio metimo sunkumo lygį vienu laipsniu.
 
-Jei ir šios pastangos baigiasi nesėkme, laikoma, kad veikėjas atidavė viską, ką galėjo, ir negali atlikti jokių tolesnių bandymų numatomoje ateityje.
+Jei ir šios pastangos baigiasi nesėkme, laikoma, kad veikėjas atidavė visas jėgas ir daugiau jokių bandymų artimiausiu metu daryti negali.
 
-### Opoziciniai metimai
+### Priešpriešiniai metimai
 
-Įgūdžiai dažnai susiduria su kitais įgūdžiais – pavyzdžiui, Sėlinimas prieš Suvokimą, kai vagis bando nupjauti bajoro piniginę; arba Apgaulė prieš Įžvalgumą, kai tas pats vagis bando neigti bandymą, kai yra pagautas – tai geri pavyzdžiai kartų, kai įgūdžiai yra lyginami vienas su kitu. Tai žinoma kaip Opoziciniai metimai ir naudojami, kai iššūkis baigsis arba laimėjimu, arba pralaimėjimu, sėkme arba nesėkme.
+Įgūdžiai dažnai supriešinami su kitais įgūdžiais – pavyzdžiui, Slaptumas prieš Suvokimą, kai niekšas bando nupjauti bajoro piniginę; arba Apgaulė prieš Įžvalgą, kai tas pats niekšas bando neigti bandymą, kai yra sugaunamas – tai puikūs pavyzdžiai, kai įgūdžiai derinami vienas su kitu. Tai žinoma kaip Priešpriešiniai metimai ir naudojami ten, kur iššūkis baigsis laimėjimu ar pralaimėjimu, sėkme ar nesėkme.
 
-- Opozicinis metimas nustatomas taip: abu dalyviai meta savo atitinkamus įgūdžius. Laimėtojas yra tas, kuris pasiekia geresnį Sėkmės lygį. Jei dalyviai pasiekia tą patį Sėkmės lygį (Standartinė sėkmė kiekvienas, arba Kritinė kiekvienas), tada laimėtojas yra tas, kurio kauliukų metimas vis dar patenka į sėkmės ribą.
+- Priešpriešinis metimas nustatomas taip: abu dalyviai meta savo atitinkamus įgūdžius. Nugalėtojas yra tas, kuris gauna geresnį sėkmės lygį. Jei dalyviai pasiekia tą patį sėkmės lygį (abu standartinę sėkmę arba abu kritinį), tada nugalėtojas yra tas, kuris išrideno didžiausią skaičių, vis dar patenkantį į įgūdžio sėkmės diapazoną.
 
-Jei abu dalyviai Opoziciniame metime patiria Nesėkmę, tada arba:
+Jei abu dalyviai Priešpriešiniame metime patiria nesėkmę, tada:
 
-- Apibūdinkite situaciją, palikdami abi puses dramatiškoje įtampoje, tada permeskite kovą nustatyti nugalėtoją.
-- Žaidimo meistras turėtų pateikti paaiškinimą arba aplinkybes, kurios atitinka nesėkmės pobūdį.
+- Aprašykite situaciją, palikdami abi puses įtemptos dramos būsenoje, tada iš naujo išrinkite varžybų nugalėtoją.
+- Žaidimo meistras turėtų pateikti paaiškinimą ar aplinkybes, kurios atitinka nesėkmės pobūdį.
 
-Opoziciniai metimai dažnai naudojami tam tikrose kovos situacijose įveikti žaizdų pasekmes arba pasipriešinti koviniam Specialiajam efektui. Jie taip pat naudojami pasipriešinti nuodams ir ligoms arba atsikratyti pražūtingos magijos poveikio.
+Priešpriešiniai metimai dažnai naudojami tam tikrose kovinėse situacijose, norint įveikti žaizdų poveikį ar pasipriešinti kovos specialiajam efektui. Jie taip pat naudojami atsispirti nuodams ir ligoms arba nusikratyti pražūtingos magijos poveikio.
 
-##### Opozicinių metimų pavyzdžiai
+##### Priešpriešinių metimų pavyzdžiai
 
-| Veikla | Opozicinių įgūdžių pavyzdžiai |
+| Veikla | Priešpriešinio įgūdžio pavyzdžiai |
 | :-- | :-- |
-| Derėjimasis/Siderėjimas | Prekyba prieš Prekybą, Įtaka prieš Prekybą |
+| Derėjimasis/Pirkimasis | Komercija prieš Komerciją, Įtaka prieš Komerciją |
 | Vykdymas/Lenktynės | Atletika prieš Atletiką, Atletika prieš Ištvermę, Jojimas prieš Jojimą |
-| Apgavystė ar melas | Apgaulė prieš Įžvalgumą, Vikrumas prieš Suvokimą |
-| Lojalumo demonstravimas | Aistra prieš Aistrą, Aistra prieš Įžvalgumą, Aistra prieš Įtaką |
-| Pasitraukimas iš kelio | Išvengimas prieš Atletiką, Išvengimas prieš Mechanizmus, Išvengimas prieš Jojimą |
-| Slėpimasis ar sėlinimas | Sėlinimas prieš Suvokimą; Sėlinimas prieš Sekimą |
-| Rangos išnaudojimas | Įtaka prieš Valią, Apgaulė prieš Valią |
-| Kursu išlikimas | Ištvermė prieš Ištvermę, Ištvermė prieš Jėgą |
-| Minios sužavėjimas | Iškalba prieš Valią |
+| Apgaudinėjimas ar melavimas | Apgaulė prieš Įžvalgą, Vikrumas prieš Suvokimą |
+| Lojalumo rodymas | Aistra prieš Aistrą, Aistra prieš Įžvalgą, Aistra prieš Įtaką |
+| Pasitraukimas iš kelio | Išsisukimas prieš Atletiką, Išsisukimas prieš Mechanizmus, Išsisukimas prieš Jojimą |
+| Slėpimasis ar slinkimasis | Slaptumas prieš Suvokimą; Slaptumas prieš Sekimą |
+| Rangos demonstravimas | Įtaka prieš Valią, Apgaulė prieš Valią |
+| Kurso laikymasis | Ištvermė prieš Ištvermę, Ištvermė prieš Jėgą |
+| Minios pakreipimas | Oratorystė prieš Valią |
 | Jėgos išbandymas | Jėga prieš Jėgą, Jėga prieš Ištvermę |
 | Valios išbandymas | Valia prieš Valią, Gundymas prieš Valią |
 
-### Diferencialiniai metimai
+### Diferenciniai metimai
 
-Diferencialiniai metimai yra panašūs į Opozicinius metimus, išskyrus tai, kad vietoj paprasto laimėjimo ar pralaimėjimo rezultato apskaičiuojamas Sėkmės lygių skirtumas. Pirmiausia naudojami kovos rezoliucijai, Diferencialiniai metimai gali būti naudojami ir kitose situacijose, kur Žaidimo meistras nori padidinti kovos rezultatų detalumą.
+Diferenciniai metimai yra panašūs į Priešpriešinius metimus, išskyrus tai, kad vietoj paprasto laimėjimo ar pralaimėjimo skaičiuojamas sėkmės lygių skirtumas. Pirmiausia naudojami kovos rezoliucijai, Diferenciniai metimai taip pat gali būti naudojami kitose situacijose, kai žaidimo meistras nori padidinti detalius varžybų rezultatus.
 
-Diferencialinis metimas nustatomas tokiu būdu: abu dalyviai meta prieš savo atitinkamus įgūdžius ir patiria metimo rezultatus taip, lyg būtų tikrinami izoliuotai. Nėra jokio tiesioginio "nugalėtojo", bet tas, kuris gavo aukštesnį Sėkmės lygį, gauna pranašumą, lygų Sėkmės lygių skirtumui tarp jų (daroma prielaida, kad vienas dalyvis gauna bent Standartinę sėkmę arba geresnę). Jei abu dalyviai pasiekia tą patį Sėkmės lygį (Standartinė sėkmė kiekvienas, arba Kritinė kiekvienas), tada papildomo efekto nėra.
+Diferencinis metimas nustatomas tokiu būdu: abu dalyviai meta prieš savo atitinkamus įgūdžius ir patiria metimo rezultatus taip, tarsi būtų tikrinami izoliuotai. Nėra jokio tiesioginio „nugalėtojo“, bet tas, kuris įgijo aukštesnį sėkmės lygį, gauna pranašumą, lygų sėkmės lygių skirtumui tarp jų (darant prielaidą, kad vienas dalyvis įgyja bent standartinę sėkmę ar geriau). Jei abu dalyviai pasiekia tą patį sėkmės lygį (abu standartinę sėkmę arba abu kritinį), papildomo efekto nėra.
 
-##### Diferencialinių metimų rezultatai
+##### Diferencinių metimų rezultatai
 
-| Metimų rezultatas | Antagonisto Kritinis | Antagonisto Sėkmė | Antagonisto Nesėkmė | Antagonisto Fumble |
-| :-- | :--: | :--: | :--: | :--: |
-| Protagonisto Kritinis | Nėra naudos | Protagonistas laimi 1 Sėkmės lygį | Protagonistas laimi 2 Sėkmės lygius | Protagonistas laimi 3 Sėkmės lygius |
-| Protagonisto Sėkmė | Antagonistas laimi 1 Sėkmės lygį | Nėra naudos | Protagonistas laimi 1 Sėkmės lygį | Protagonistas laimi 2 Sėkmės lygius |
-| Protagonisto Nesėkmė | Antagonistas laimi 2 Sėkmės lygius | Antagonistas laimi 1 Sėkmės lygį | Nėra naudos | Nėra naudos |
-| Protagonisto Fumble | Antagonistas laimi 3 Sėkmės lygius | Antagonistas laimi 2 Sėkmės lygius | Nėra naudos | Nėra naudos |
+| Metimų rezultatas | Antagonistas Kritinis | Antagonistas Sėkmė | Antagonistas Nesėkmė | Antagonistas Klaida |
+| :-- | :-: | :-: | :-: | :-: |
+| Protagonistas Kritinis | Nėra naudos | Protagonistas laimi 1 sėkmės lygį | Protagonistas laimi 2 sėkmės lygius | Protagonistas laimi 3 sėkmės lygius |
+| Protagonistas Sėkmė | Antagonistas laimi 1 sėkmės lygį | Nėra naudos | Protagonistas laimi 1 sėkmės lygį | Protagonistas laimi 2 sėkmės lygius |
+| Protagonistas Nesėkmė | Antagonistas laimi 2 sėkmės lygius | Antagonistas laimi 1 sėkmės lygį | Nėra naudos | Nėra naudos |
+| Protagonistas Klaida | Antagonistas laimi 3 sėkmės lygius | Antagonistas laimi 2 sėkmės lygius | Nėra naudos | Nėra naudos |
 
-### Opoziciniai įgūdžiai virš 100%
+### Priešpriešiniai įgūdžiai virš 100 %
 
-Jei aukščiausio įgūdžio dalyvis Opoziciniame ar Diferencialiniame metime turi įgūdį virš 100%, tas dalyvis atima skirtumą tarp 100 ir savo įgūdžio vertės iš visų dalyvių, įskaitant save. Tai sumažina oponentų įgūdžio vertę, bet jam pačiam išlaiko pranašumą.
+Jei aukščiausio įgūdžio dalyvis Priešpriešiniame ar Diferenciniame metime turi įgūdį, didesnį nei 100 %, tas dalyvis atima skirtumą tarp 100 ir savo įgūdžio vertės iš kiekvieno varžybų dalyvio įgūdžio, įskaitant save. Tai sumažina oponentų įgūdžio vertę, bet jam išlieka pranašumas.
 
-Identifikavimas, kas turi aukščiausią įgūdį, turi būti apskaičiuotas po to, kai buvo pritaikyti visi kiti modifikatoriai dėl aplinkybių.
+Identifikavimas, kas turi aukščiausią įgūdį, turi būti apskaičiuotas pritaikius bet kokius kitus modifikatorius dėl aplinkybių.
 
-### Tai, koks geras tu esi?
+### Tai koks gi tu geras?
 
-Žaidimo meistrams ir žaidėjams gali būti labai naudinga turėti bendrą atskaitos tašką, į kokį palyginamą kompetencijos lygį išsiverčia įgūdžio vertė. Ar amatininkas su Medžio amatu 48% yra geras dailidė, ar tik kompetentingas? Kompetencijos lygio lentelė padeda apibendrinti skirtingus kompetencijos lygius, kuriuos galima tikėtis atstovauti įgūdžio reitingu; tai taip pat patogi nuoroda Žaidimo meistrams, kai priskiriami bendri įgūdžių vertinimai Nežaidėjų Veikėjams ir priešininkams. Jei reikalinga atsitiktinė vertė Nežaidėjo Veikėjo įgūdžiui, tada Atsitiktinės vertės stulpelis pateikia kauliukų kodą norimam Kompetencijos lygiui pasiekti.
+Tiek žaidimo meistrams, tiek žaidėjams gali būti labai naudinga turėti bendrą atskaitos tašką, į ką išverčiama įgūdžio vertė kaip panašus kompetencijos lygis. Ar amatininkas su Medžio amatu 48 % yra geras stalius, ar tik kompetentingas? Kompetencijos lygio lentelė padeda apibendrinti skirtingus kompetencijos lygius, kurių galima tikėtis iš įgūdžio įvertinimo; tai taip pat patogi nuoroda žaidimo meistrams, priskiriantiems bendras įgūdžių vertes ne žaidėjų veikėjams ir priešininkams. Jei reikalinga atsitiktinė vertė ne žaidėjo veikėjo įgūdžiui, stulpelis „Atsitiktinė vertė“ pateikia kauliukų kodą, kad būtų gauta vertė pagal norimą kompetencijos lygį.
 
 ##### Kompetencijos lygio lentelė
 
 | Įgūdžio reitingas | Atsitiktinė vertė | Kompetencijos lygis | Karinis ekvivalentas | Aprašymas |
-| :-- | :--: | :--: | :--: | :-- |
-| 1-30% | 1d20+10 | Naujokas | Patrankų mėsa | Nekvalifikuotas ir besimokantis pagrindų |
-| 31-50% | 1d20+30 | Kompetentingas | Žalias | Gali atlikti lengvas užduotis, jei skiria laiko atsargumui |
-| 51-70% | 1d20+50 | Proficientas | Patyręs | Pasiekė įdarbinimo lygio kompetenciją |
-| 71-90% | 1d20+70 | Ekspertas | Veteranas | Pripažintas kaip profesionalas ar temos ekspertas šioje srityje |
-| 91-110% | 1d20+90 | Meistras | Elitas | Laikomas vienu geriausių versle |
-| >110% | 1d20+110 | Egzempliorius | Herojiškas | Žinomas plačiai ir toli dėl savo tobulo įgūdžio |
+| :-- | :-: | :-: | :-: | :-- |
+| 1-30 % | 1d20+10 | Naujokas | Patrankų mėsa | Nekvalifikuotas ir besimokantis pagrindų |
+| 31-50 % | 1d20+30 | Kompetentingas | Žalias | Gali atlikti lengvas užduotis, jei skiria laiko atsargumui |
+| 51-70 % | 1d20+50 | Įgudęs | Patyręs | Pasiekė įsidarbinimo lygio kompetenciją |
+| 71-90 % | 1d20+70 | Ekspertas | Veteranas | Pripažintas kaip profesionalas arba srities ekspertas |
+| 91-110 % | 1d20+90 | Meistras | Elitas | Laikomas vienu geriausių versle |
+| >110 % | 1d20+110 | Pavyzdinis | Herojiškas | Plačiai garsėjantis savo tobulu įgūdžiu |
