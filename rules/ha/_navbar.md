@@ -1,4 +1,0 @@
-- [Gida](/)
-- [Yadda Ake Yi](HowTo.md)
-- [Canjin Bayanai](Changelog.md)
-- [GitHub](https://github.com/raleel/mythras-srd)
