@@ -410,3 +410,5 @@ The character has a persistent limiting condition, such as blindness, permanent 
 #### Vulnerability
 
 The character takes double damage from a specific form of attack. Alternately the character must make Hard Endurance checks each turn when 5 metres of a specific substance or suffers a level of Fatigue.
+
+<!-- retranslate-trigger -->

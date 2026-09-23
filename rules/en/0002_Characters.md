@@ -518,3 +518,5 @@ Now that the character is almost finished, he or she needs some gear. This can i
 - Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
 - Any personal weapon for the character's Combat Style.
 - Other items as appropriate for the setting, and subject to the GM's approval.
+
+<!-- retranslate-trigger -->

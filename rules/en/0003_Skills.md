@@ -394,3 +394,5 @@ It can be very useful for both Games Masters and Players to have a common frame 
 | 71-90% | 1d20+70 | Expert | Veteran | Recognized as a professional or subject matter expert in the field |
 | 91-110% | 1d20+90 | Master | Elite | Considered one of the best in the business |
 | \>110% | 1d20+110 | Exemplar | Heroic | Renowned far and wide for their consummate skill |
+
+<!-- retranslate-trigger -->
