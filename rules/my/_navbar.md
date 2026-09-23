@@ -1,4 +1,0 @@
-- [หน้าหลัก](/)
-- [วิธีการใช้งาน](HowTo.md)
-- [บันทึกการเปลี่ยนแปลง](Changelog.md)
-- [GitHub](https://github.com/raleel/mythras-srd)
