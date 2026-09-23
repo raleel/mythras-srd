@@ -1,111 +1,111 @@
-# Tiêu đề Hướng dẫn Phong cách (h1)
+# Hướng Dẫn Phong Cách
 
 Sử dụng tiêu đề h1 (`# Heading Title`) cho tiêu đề chương chính. Tất cả các tiêu đề hx sẽ xuất hiện trong thanh bên dưới dạng dấu trang.
 
-Nếu tiêu đề không phải là tiêu đề h1, thanh bên sẽ có lỗi trùng lặp hiển thị trang và sau đó là tiêu đề h2 'tiêu đề'.
+Nếu tiêu đề không phải là tiêu đề h1, thanh bên sẽ gặp lỗi trùng lặp hiển thị trang và sau đó là tiêu đề h2 'title'.
 
 ---
-## Tiêu đề phần (h2)
+## Các tiêu đề phần (h2)
 
-Sử dụng tiêu đề h2 (`## Section Heading`) đứng trước bởi một đường phân cách (`---`) cho mỗi phần chính mới.
+Sử dụng tiêu đề h2 (`## Section Heading`) đứng trước bởi một đường kẻ (`---`) cho mỗi phần chính mới.
 
-### Tiêu đề tiểu mục tăng cấp h lên 1
+### Các tiêu đề phần phụ tăng cấp h lên 1
 
-Sử dụng tiêu đề h3 (`### Subsection Heading`) cho mỗi Tiểu mục mới, và tiêu đề h4 (`#### Sub-Subsection Heading`) cho mỗi tiểu-tiểu mục mới.
+Sử dụng tiêu đề h3 (`### Subsection Heading`) cho mỗi Phần phụ mới, và tiêu đề h4 (`#### Sub-Subsection Heading`) cho mỗi tiểu mục TC mới.
 
-### Tiến trình h của tiểu mục: 2 > 3 > 4
+### Tiến trình h phần phụ: 2 > 3 > 4
 
-Các tiêu đề phụ bị lẫn lộn trong thanh bên nếu tiến trình h không được xử lý chính xác.
+Các tiêu đề phụ bị xáo trộn trong thanh bên nếu tiến trình h không được xử lý chính xác.
 
-Dấu hiệu tiêu đề nên tăng lên một hoặc không tăng.
+Đánh dấu tiêu đề nên tăng lên một hoặc không tăng.
 
-h2 theo sau bởi h2 hoặc h3 là tốt. h3 theo sau bởi h3 hoặc h4 cũng tốt.
+h2 theo sau bởi h2 hoặc h3 là ổn. h3 theo sau bởi h3 hoặc h4 cũng ổn.
 
-### Lỗi tiểu mục
+### Lỗi phần phụ
 h2 theo sau bởi h4 gây ra vấn đề. Thanh bên đặt tiêu đề phụ ở đâu đó phía trên tiêu đề trong mục lục.
 
 ### Giảm cấp h
 
-Điều này dường như không phải là vấn đề. ví dụ: h4 thành h3 hoặc h2 là tốt.
+Điều này dường như không phải là vấn đề. ví dụ: h4 xuống h3 hoặc h2 là ổn.
 
 ---
-## Quy ước định dạng
+## Các quy ước định dạng
 
-Các kiểu sau là chuẩn cho các SRD _Imperative_ này ở định dạng Markdown.
+Các phong cách sau đây là tiêu chuẩn cho các SRD _Imperative_ này ở định dạng Markdown.
 
-### In đậm, In nghiêng và Đường phân cách
+### Đậm, Nghiêng và Đường kẻ
 
-- Sử dụng hai dấu hoa thị (`**Bold**`) cho văn bản **In đậm**.
-- Sử dụng dấu gạch dưới (`_Italic_`) cho văn bản _In nghiêng_.
-  - _nb: Tránh sử dụng một dấu hoa thị cho In nghiêng!_
-- Sử dụng dấu gạch chéo ngược (`\_`) để 'thoát' một ký tự: \_Không In nghiêng\_.
-- Sử dụng dấu ngoặc nhọn (``` `code` ```) để tạo `code blocks`.
-- Sử dụng ba dấu gạch ngang (`---`) để chèn một đường phân cách ngang.
+- Sử dụng dấu sao kép (`**Bold**`) cho văn bản **Đậm**.
+- Sử dụng dấu gạch dưới (`_Italic_`) cho văn bản _Nghiêng_.
+  - _lưu ý: Tránh sử dụng dấu sao đơn cho chữ Nghiêng!_
+- Sử dụng dấu gạch chéo ngược (`\_`) để 'loại trừ' một ký tự: \_Không Nghiêng\_.
+- Sử dụng dấu ngoặc nhọn góc (``` `code` ```) để tạo `code blocks`.
+- Sử dụng ba dấu gạch nối (`---`) để chèn một đường kẻ ngang.
 
-### Quy ước cho In đậm & In nghiêng
+### Các quy ước cho Đậm & Nghiêng
 
-Hãy cố gắng tuân thủ các mẫu sau...
+Hãy cố gắng tuân thủ các kiểu sau...
 
-#### Tiêu đề in đậm
+#### Tiêu đề đậm
 
-Sử dụng tiêu đề in đậm khi mô tả phép thuật, hiệu ứng, v.v.
+Sử dụng tiêu đề đậm khi mô tả các phép thuật, hiệu ứng, v.v.
 - **Tiêu đề Phép thuật:** Mô tả.
 
-#### Tiêu đề in nghiêng
+#### Tiêu đề nghiêng
 
-Sử dụng tiêu đề in nghiêng cho 'danh sách con' của các biến thể phép thuật, v.v.
+Sử dụng tiêu đề nghiêng cho các 'danh sách phụ' của các phép thuật biến thể, v.v.
 - **Phép thuật:** Mô tả.
-  - **_Biến thể Phép thuật-A:_** Mô tả.
-  - **_Biến thể Phép thuật-B:_** Mô tả.
+  - **_Biến thể Phép thuật A:_** Mô tả.
+  - **_Biến thể Phép thuật B:_** Mô tả.
 
-#### Tham chiếu Tiêu đề In nghiêng
+#### Tài liệu tham khảo Tiêu đề Nghiêng
 
-Sử dụng tiêu đề in nghiêng khi tham chiếu một cuốn sách như _Mythras Imperative_ hoặc sách quy tắc cốt lõi _Mythras_.
+Sử dụng tiêu đề nghiêng khi tham chiếu đến một cuốn sách như _Mythras Imperative_ hoặc bộ quy tắc cốt lõi _Mythras_.
 
 ---
 ## Định dạng danh sách
 
-### Danh sách không có thứ tự / Dấu đầu dòng
+### Danh sách không thứ tự / Các dấu đầu dòng
 
-- Danh sách không có thứ tự được tạo bằng dấu gạch ngang.
-- Danh sách không có thứ tự được tạo bằng dấu gạch ngang.
-  - Tăng mức thụt lề bằng 2 dấu cách hoặc một tab.
+- Danh sách không thứ tự được tạo bằng dấu gạch nối.
+- Danh sách không thứ tự được tạo bằng dấu gạch nối.
+  - Tăng mức thụt đầu dòng với 2 dấu cách hoặc một tab.
 
-### Danh sách có thứ tự / Dấu số
+### Danh sách có thứ tự / Các điểm được đánh số
 
-1. Danh sách được đánh số được tạo bằng chữ số và dấu chấm/dấu chấm câu.
-2. Danh sách được đánh số được tạo bằng chữ số và dấu chấm/dấu chấm câu.
+1. Danh sách được đánh số được tạo bằng chữ số và dấu chấm.
+2. Danh sách được đánh số được tạo bằng chữ số và dấu chấm.
 - Trộn lẫn với dấu đầu dòng
-	- Và thụt lề
-3. Trộn lẫn số trở lại
+	- Và thụt đầu dòng
+3. Trộn số trở lại
    - Và dấu đầu dòng
 
 ### Danh sách có tiêu đề
 
-Đối với danh sách các tiêu đề phụ liên quan, in đậm tiêu đề và dấu hai chấm.
+Đối với danh sách các tiêu đề phụ liên quan, hãy làm đậm tiêu đề và dấu hai chấm.
 - **Ví dụ 1:** Bla, bla, bla...
 - **Ví dụ 2:** Bla, bla, bla...
 
-### Danh sách có tiêu đề in nghiêng
+### Danh sách tiêu đề nghiêng
 
-Đối với danh sách các tiêu đề phụ liên quan, in đậm & in nghiêng tiêu đề và dấu hai chấm.
+Đối với danh sách các tiêu đề phụ liên quan, hãy làm đậm và nghiêng tiêu đề và dấu hai chấm.
 - **_Ví dụ 1:_** Bla, bla, bla...
 - **_Ví dụ 2:_** Bla, bla, bla...
 
 ---
 ## Bảng
 
-Đặt cho các bảng một tiêu đề phụ để chúng xuất hiện dưới dạng dấu trang trong thanh bên, thụt lề một cấp so với phần cha của chúng.
+Cung cấp cho bảng một tiêu đề phụ để chúng xuất hiện dưới dạng dấu trang trong thanh bên, thụt vào một cấp so với phần SH của chúng.
 
-~Đặt hàng tiêu đề là văn bản in đậm.~
-Việc in đậm hàng tiêu đề thực sự hiển thị nó dưới dạng văn bản bình thường. CSS mặc định đã in đậm hàng đó.
+~Làm cho hàng tiêu đề thành văn bản đậm.~
+Việc làm cho hàng tiêu đề đậm thực tế sẽ hiển thị nó ở văn bản bình thường. CSS mặc định đã làm đậm hàng đó.
 
-### Căn chỉnh văn bản trong bảng
+### Căn chỉnh văn bản bảng
 
 Sử dụng hàng 2 để căn chỉnh nội dung: `:--`, `:-:`, hoặc `--:`.
 Điều này sẽ ảnh hưởng đến toàn bộ cột.
 
-#### Bố cục cơ bản của bảng
+#### Bố cục cơ bản của Bảng
 
 | **Cột 1** | **Cột 2** |
 | :-: | :-- |
@@ -113,12 +113,12 @@ Sử dụng hàng 2 để căn chỉnh nội dung: `:--`, `:-:`, hoặc `--:`.
 | 2 | beta |
 | 3 | gamma |
 
-### Quy ước căn chỉnh văn bản
+### Các quy ước căn chỉnh văn bản
 
-- Sử dụng căn giữa cho số hoặc danh sách giá trị tương tự.
+- Sử dụng căn giữa cho số hoặc các danh sách giá trị tương tự.
 - Sử dụng căn trái cho các câu văn bản.
 
-#### Bảng ví dụ căn chỉnh
+#### Bảng Ví dụ Căn chỉnh
 
 | **Số** | **Mô tả** |
 | :-: | :-- |
@@ -126,68 +126,68 @@ Sử dụng hàng 2 để căn chỉnh nội dung: `:--`, `:-:`, hoặc `--:`.
 | 2 | Văn bản mô tả |
 | 3 | Văn bản mô tả |
 
-#### Ví dụ: Bảng cường độ lửa
+#### Ví dụ: Bảng Cường độ Lửa
 
-| **Cường độ** | **Ví dụ** | **Thời gian bốc cháy** | **Sát thương** |
+| **Cường độ** | **Ví dụ** | **Thời gian Bắt cháy** | **Sát Thương** |
 | :-: | :-- | :-: | :-: |
 | 1 | Nến | 1d4 | 1d2 |
 | 2 | Đuốc | 1d3 | 1d4 |
 | 3 | Lửa trại | 1d2 | 1d6 |
-| 4 | Đám cháy lớn lan khắp phòng | 1d2 | 2d6 |
-| 5 | Dung nham núi lửa | Tức thì | 3d6 |
+| 4 | Đám cháy đầy phòng | 1d2 | 2d6 |
+| 5 | Dung nham núi lửa | Ngay lập tức | 3d6 |
 
 ---
 ## Liên kết
 
-Có nhiều cách sử dụng liên kết trong SRD và chỉ một vài trường hợp chính được đề cập ở đây.
+Có nhiều mục đích sử dụng liên kết trong SRD và chỉ một vài trường hợp chính được đề cập ở đây.
 
-### Định dạng liên kết
+### Định dạng Liên kết
 
-Định dạng một liên kết được thực hiện bằng văn bản trong dấu ngoặc. Sử dụng dấu ngoặc vuông cho văn bản liên kết hiển thị, và dấu ngoặc cong cho URL đích: `[Link Text](URL)`.
+Định dạng một liên kết được thực hiện bằng văn bản trong ngoặc. Sử dụng dấu ngoặc vuông cho văn bản liên kết hiển thị, và dấu ngoặc nhọn cho URL đích: `[Link Text](URL)`.
 
-Trong các tài liệu này, liên kết ngoài được sử dụng phổ biến nhất sẽ là [Công cụ tạo trận chiến Mythras](https://mythras.skoll.xyz).
+Trong các tài liệu này, liên kết ngoài được sử dụng phổ biến nhất sẽ là [Mythras Encounter Generator](https://mythras.skoll.xyz).
 ```
 [Mythras Encounter Generator](https://mythras.skoll.xyz)
 ```
 
-### Liên kết ngoài và nội bộ
+### Liên kết ngoài so với liên kết nội bộ
 
-Liên kết ngoài dẫn đến các trang khác thông qua internet và sẽ cần một URL `http://example.com` và, theo mặc định, chúng sẽ _luôn_ mở trong một tab trình duyệt mới.
+Các liên kết ngoài đi đến các trang khác thông qua internet và sẽ cần một URL `http://example.com` và, theo mặc định, chúng sẽ _luôn luôn_ mở trong một tab trình duyệt mới.
 
-Để tránh có nhiều tab làm lộn xộn tài liệu đang đọc, các liên kết nội bộ và dấu trang được hình thành với các URL tương đối tham chiếu đến các tệp markdown hiển thị trong kho lưu trữ GitHub. Thay vì một tab mới, các liên kết nội bộ này sẽ nhanh chóng cuộn đến phần được liên kết.
+Để tránh việc có nhiều tab làm lộn xộn tài liệu đang đọc, các liên kết nội bộ và dấu trang được hình thành bằng các URL tương đối tham chiếu đến các tệp markdown hiển thị trong kho lưu trữ GitHub. Thay vì một tab mới, các liên kết nội bộ này sẽ nhanh chóng cuộn đến phần được liên kết.
 
-#### Ví dụ liên kết nội bộ
+#### Ví dụ về liên kết nội bộ
 
-- **Liên kết chương:** Những liên kết này trỏ đến đầu một phần chính (h1). ví dụ: chương [Chiến đấu](0005_Combat.md).
+- **Liên kết chương:** Chúng trỏ đến phần bắt đầu của một phần chính (h1). ví dụ: chương [Chiến Đấu](0005_Combat.md).
 
   - Định dạng liên kết: `[Combat](0005_Combat.md)`
 
-- **Liên kết tiểu mục:** Những liên kết này trỏ đến một tiêu đề trong một chương tham chiếu tài liệu như trên nhưng nối thêm `?id=` ngay sau đó là tiêu đề đích. ví dụ: [Tấn công nhảy vọt](0005_Combat.md?id=leaping-attacks)
+- **Liên kết phần phụ:** Chúng trỏ đến một tiêu đề trong một chương tham chiếu tài liệu như trên nhưng thêm vào `?id=` ngay sau đó là tiêu đề đích. ví dụ: [Tấn Công Nhảy](0005_Combat.md?id=leaping-attacks)
 
   - Định dạng liên kết: `[Leaping Attacks](0005_Combat.md?id=leaping-attacks)`
 
-#### Liên kết ngoài đến các tiểu mục
+#### Liên kết ngoài đến các phần phụ
 
-Có thể có trường hợp cần tham chiếu đến một phần đã biết của một tài liệu bên ngoài, ví dụ, một bảng cụ thể trong một SRD khác. Định dạng giống như với liên kết tiểu mục, ở trên, chỉ sử dụng URL HTTP bên ngoài.
+Có thể có trường hợp cần tham chiếu đến một phần đã biết của tài liệu bên ngoài, ví dụ, một bảng cụ thể trong một SRD khác. Định dạng giống như các liên kết phần phụ, ở trên, chỉ sử dụng URL HTTP bên ngoài.
 
-Ví dụ, đây là [bảng chuyển đổi hệ đo lường Anh sang hệ mét](https://cfi-srd.mythras.net/#/Appendix_B_Conversion_Tables?id=imperial-weights-and-measures-to-metric-conversion) từ [SRD Classic Fantasy Imperative](https://cfi-srd.mythras.net/).
+Ví dụ, đây là [Bảng chuyển đổi Imperial sang Metric](https://cfi-srd.mythras.net/#/Appendix_B_Conversion_Tables?id=imperial-weights-and-measures-to-metric-conversion) từ [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net/).
 
 ```
 [Imperial to Metric conversions table](https://cfi-srd.mythras.net/#/Appendix_B_Conversion_Tables?id=imperial-weights-and-measures-to-metric-conversion)
 ```
 
 ---
-## Danh sách phép thuật và sức mạnh
+## Danh sách Phép thuật và Năng lực
 
-Bắt đầu một phần 'sạch' với tiêu đề h2 cho danh sách các phép thuật, sức mạnh, v.v.; sau đó h3 cho mỗi mục danh sách.
+Bắt đầu một phần 'sạch' với tiêu đề h2 cho danh sách các phép thuật, năng lực khả dụng, v.v.; sau đó là h3 cho mỗi mục danh sách.
 
-Phép thuật và sức mạnh thường được trình bày trong một danh sách phẳng duy nhất theo loại phép thuật (Phép thuật Dân gian, Thần học, v.v.) nhưng nếu danh sách yêu cầu các tiểu mục riêng, như chuyên môn trường phái hoặc giáo phái, hãy tăng cấp tiêu đề một cách thích hợp. Ví dụ, h2 cho Danh sách phép màu Thần học, h3 cho Giáo phái: Mithras, và h4 cho mỗi phép màu của giáo phái Mithras.
+Các phép thuật và năng lực thường được trình bày trong một danh sách phẳng duy nhất theo loại phép thuật (Phép thuật Dân gian, Thần học, v.v.) nhưng nếu danh sách yêu cầu các phần phụ riêng, như trường phái hoặc chuyên môn giáo phái, hãy tăng cấp tiêu đề cho phù hợp. Ví dụ, h2 cho Danh sách Phép màu Thần học, h3 cho Giáo phái: Mithras, và h4 cho mỗi phép màu giáo phái Mithras.
 
-Đặc biệt trong trường hợp phép thuật, nhưng trong bất kỳ mô tả nào sử dụng thuộc tính từ khóa, hãy liệt kê chúng bằng văn bản in nghiêng.
+Đặc biệt trong trường hợp các phép thuật, nhưng trong bất kỳ mô tả nào sử dụng các thuộc tính từ khóa, hãy liệt kê chúng bằng văn bản nghiêng.
 
 Văn bản mô tả và các quy tắc đặc biệt sử dụng văn bản bình thường.
 
-### Định dạng danh sách phép thuật
+### Định dạng Danh sách Phép thuật
 
 ```
 ## h2 List name
@@ -201,25 +201,25 @@ Description text.
 
 <details>
 
-<summary>Ví dụ: danh sách phép thuật được định dạng (trích dẫn khối) </summary>
+<summary>Ví dụ: danh sách phép thuật đã định dạng (được trích dẫn khối) </summary>
 
 ---
 > ## Mô tả phép thuật
 >
-> ### Ngăn chặn
+> ### Ngăn Chặn
 > _Tức thì, Tầm xa_
 >
-> Ngăn chặn được sử dụng để hóa giải một phép thuật khác trong tầm. Ngăn chặn có thể được niệm phản ứng để vô hiệu hóa các phép thuật tấn công, bằng cách sử dụng Hành động Phản ứng Phản phép.
+> Ngăn Chặn được sử dụng để bác bỏ một phép thuật khác trong tầm xa. Ngăn Chặn có thể được niệm theo phản ứng để vô hiệu hóa các phép thuật tấn công, bằng cách sử dụng Hành Động Phản Ứng Phản Phép.
 
 </details>
 
 ---
-## Khối chỉ số phương tiện
-Bắt đầu một phần 'sạch' với tiêu đề h2 cho danh sách, sau đó tăng cấp h như thường lệ cho các danh mục và các mục danh sách.
+## Các khối chỉ số phương tiện
+Bắt đầu một phần 'sạch' với tiêu đề h2 cho các danh sách, sau đó tăng cấp h như thường lệ cho các danh mục và mục danh sách.
 
-Mỗi ví dụ được liệt kê có các chỉ số và mô tả được trình bày dưới dạng danh sách dấu đầu dòng với tiêu đề điểm in đậm.
+Mỗi ví dụ được liệt kê có các chỉ số và mô tả được trình bày dưới dạng danh sách dấu đầu dòng với các tiêu đề mục được in đậm.
 
-### Định dạng khối chỉ số phương tiện
+### Định dạng Khối chỉ số Phương tiện
 
 ```
 ## h2 List name
@@ -237,46 +237,46 @@ Mỗi ví dụ được liệt kê có các chỉ số và mô tả được tr�
 
 <details>
 
-<summary>Ví dụ: khối chỉ số phương tiện được định dạng (trích dẫn khối) </summary>
+<summary>Ví dụ: khối chỉ số phương tiện đã định dạng (được trích dẫn khối) </summary>
 
 ---
 > ## Phương tiện mẫu
 >
-> ### Phương tiện trên mặt đất
+> ### Phương tiện Mặt đất
 >
-> #### Xe chặn
+> #### Xe đánh chặn
 >
-> - **Vỏ bọc:** 6 (Quân sự hạng trung), Cấu trúc 40
+> - **Thân tàu:** 6 (Quân sự Trung bình), 40 Cấu trúc
 >
 > - **Tốc độ:** Nhanh
 >
 > - **Hệ thống:** 3
 >
-> - **Đặc điểm:** Ghế phóng, Hiệu suất nâng cao, Xử lý vượt trội, Bộ giám sát, Bền bỉ, Vũ trang
+> - **Đặc điểm:** Ghế phóng, Hiệu suất Tăng cường, Khả năng xử lý ưu việt, Bộ giám sát, Bền bỉ, Có vũ trang
 >
-> - **Vũ khí:** Thiết bị rải dầu trơn, thiết bị rải khói, súng máy hạng trung liên kết đôi
+> - **Vũ khí:** Bộ xả vệt dầu, bộ xả khói, súng máy trung bình liên kết đôi
 >
-> - **Mô tả:** Một chiếc xe sang trọng, xe thể thao hoặc tương tự đã được nâng cấp, chiếc xe này được chế tạo để chạy nhanh và phản công tốt trong trận chiến. Đây là loại phương tiện mà mọi người nghĩ đến khi ai đó nói "xe gián điệp".
+> - **Mô tả:** Một chiếc xe hơi sang trọng, xe thể thao hoặc tương tự đã được độ lại, chiếc xe này được chế tạo để đi nhanh và chiến đấu ngang ngửa. Đây là loại phương tiện mà mọi người nghĩ đến khi ai đó nói, "xe gián điệp."
 
 </details>
 
 ---
-## Khối chỉ số sinh vật
-Bắt đầu một phần 'sạch' với tiêu đề h2 cho danh sách. Khối chỉ số sinh vật sử dụng bảng và phức tạp hơn về định dạng và yêu cầu không gian. Để rõ ràng, tránh các tiểu mục và thêm đường phân cách giữa các mục danh sách.
+## Các khối chỉ số sinh vật
+Bắt đầu một phần 'sạch' với tiêu đề h2 cho các danh sách. Các khối chỉ số sinh vật sử dụng các bảng và phức tạp hơn về mặt định dạng và yêu cầu không gian. Để rõ ràng, hãy tránh các phần phụ và thêm các đường kẻ giữa các mục danh sách.
 
-Mỗi ví dụ được liệt kê nên có những điều sau...
+Mỗi ví dụ được liệt kê phải có những thông tin sau...
 
-- **Tiêu đề sinh vật:** Một đường phân cách theo sau bởi tiêu đề h3 cho tên sinh vật.
+- **Tiêu đề sinh vật:** Một đường kẻ theo sau bởi tiêu đề h3 cho tên sinh vật.
 
-- **Mục nhập MEG:** Một liên kết ngoài đến sinh vật được chỉ định trên [Công cụ tạo trận chiến Mythras](https://mythras.skoll.xyz/).
+- **Mục MEG:** Một liên kết ngoài đến sinh vật được chỉ định trên [Mythras Encounter Generator](https://mythras.skoll.xyz/).
 
-- **Chi tiết cốt lõi:** Tên/loại sinh vật, thuộc tính, kỹ năng và bất kỳ mô tả đặc biệt hoặc ghi chú nhân vật nào theo yêu cầu.
+- **Chi tiết cốt lõi:** Tên/loại sinh vật, thuộc tính, kỹ năng và bất kỳ mô tả đặc biệt hoặc ghi chú nhân vật nào khi cần thiết.
 
-- **Chi tiết vũ khí:** Mô tả rút gọn với các cột cho tên vũ khí và các thuộc tính sau: Kích thước (bao gồm Lực ở đây), Tầm với (bao gồm Tầm xa ở đây), Sát thương, AP/HP, và bất kỳ quy tắc đặc biệt nào.
+- **Chi tiết Vũ khí:** Các mô tả tóm tắt với các cột cho tên vũ khí và các thuộc tính sau: Kích thước (bao gồm Kích thước (Siêu Năng Lực) ở đây), Tầm với (bao gồm Tầm bắn ở đây), Sát thương, AP/HP, và bất kỳ quy tắc đặc biệt nào.
 
-- **Vị trí bị đánh & Giáp:** Bảng vị trí sẽ thay đổi tùy theo giải phẫu sinh vật khác nhau nhưng nên được bao gồm ngay cả đối với người hình người truyền thống như một phương tiện để theo dõi giáp và sát thương.
+- **Vị Trí Trúng Đòn & Giáp:** Các bảng vị trí sẽ thay đổi dựa trên giải phẫu sinh vật khác nhau nhưng nên được đưa vào ngay cả đối với các hình nhân truyền thống như một phương tiện để theo dõi giáp và sát thương.
 
-### Định dạng khối chỉ số sinh vật
+### Định dạng Khối chỉ số Sinh vật
 
 ```
 ## Bestiary/List Name
@@ -289,70 +289,70 @@ Descriptive text.
 
 | Creature Name | Example Creature  |
 | :-- | :-- |
-| Key Attributes | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
-| Other notes | Values and details | 
+| Key Thuộc Tính | SM 11, TC 14, KT 11, KL 11, TT 11, NL 11, SH 7 |
+| Other Ghi Chú | Values and details | 
 ```
 
 <details>
 
-<summary>Ví dụ: bảng khối chỉ số sinh vật được định dạng (trích dẫn khối) </summary>
+<summary>Ví dụ: các bảng khối chỉ số sinh vật đã định dạng (được trích dẫn khối) </summary>
 
 > ---
 > ### Goblin/Orc
-> [Mục nhập MEG](https://mythras.skoll.xyz/enemy_template/10891/)
+> [Mục MEG](https://mythras.skoll.xyz/enemy_template/10891/)
 >
-> | Tên sinh vật | Goblin/Orc |
+> | Tên Sinh Vật | Goblin/Orc |
 > | :-- | :-- |
-> | Thuộc tính chính | STR 11, CON 14, SIZ 11, DEX 11, INT 11, POW 11, CHA 7 |
-> | Điểm Hành động | 2 |
-> | Bộ điều chỉnh sát thương | - |
-> | Sáng kiến | +11 |
+> | Thuộc tính Chính | SM 11, TC 14, KT 11, KL 11, TT 11, NL 11, SH 7 |
+> | Điểm Hành Động | 2 |
+> | Hệ Số Sát Thương | - |
+> | Tiên Cơ | +11 |
 > | Di chuyển | 6m |
-> | Khả năng | Thị giác ban đêm |
-> | Kỹ năng | Điền kinh 52%, Sức mạnh cơ bắp 42%, Lừa dối 57%, Sức bền 48%, Né tránh 62%, Nhận thức 61%, Không vũ khí 52%, Ý chí 42% |
-> | Phong cách chiến đấu | Chiến binh (Kiếm ngắn, Khiên, Giáo, Nỏ) 62% |
+> | Khả năng | Tầm Nhìn Ban Đêm |
+> | Kỹ năng | Điền Kinh 52%, Cơ Bắp 42%, Lừa Dối 57%, Sức Bền 48%, Né Tránh 62%, Nhận Thức 61%, Tay Không 52%, Ý Chí 42% |
+> | Phong Cách Chiến Đấu | Chiến binh (Kiếm ngắn, Khiên, Giáo, Nỏ) 62% |
 >
-> #### Chi tiết vũ khí
+> #### Chi tiết Vũ khí
 >
-> | Vũ khí | Kích thước | Tầm với | Sát thương | AP/HP | Đặc biệt |
+> | Vũ khí | Kích Thước | Tầm Với | Sát Thương | AP/HP | Đặc biệt |
 > | :-- | :-: | :--: | :--: | :--: | :-- |
 > | Kiếm ngắn | M | M | 1d6 | 6/8 | |
 > | Giáo | M | L | 1d8+1 | 4/5 | |
 > | Nỏ | L | 10/150/300 | 1d8 | 1/2 | |
-> | Khiên | L | S | 1d4 | 4/9 | Bảo vệ 3 vị trí cho Chặn/Phòng thủ Thụ động |
+> | Khiên | L | S | 1d4 | 4/9 | Bảo vệ 3 vị trí cho Chặn/Đỡ bị động |
 >
-> #### Vị trí bị đánh & Giáp
+> #### Vị Trí Trúng Đòn & Giáp
 >
-> | **1d20** | **Vị trí** | **AP/HP** |
+> | **1d20** | **Vị Trí** | **AP/HP** |
 > | :-: | :-- | :-: |
-> | 1-3 | Chân phải | 1/5 |
-> | 4-6 | Chân trái | 1/5 |
+> | 1-3 | Chân Phải | 1/5 |
+> | 4-6 | Chân Trái | 1/5 |
 > | 7-9 | Bụng | 1/6 |
 > | 10-12 | Ngực | 1/7 |
-> | 13-15 | Tay phải | 1/4 |
-> | 16-18 | Tay trái | 1/4 |
+> | 13-15 | Tay Phải | 1/4 |
+> | 16-18 | Tay Trái | 1/4 |
 > | 19-20 | Đầu | 1/5 |
 
 </details>
 
 ---
-## Chỉnh sửa của cộng đồng
+## Đính chính Cộng đồng
 
-### Lỗi chính tả và nhầm lẫn
+### Lỗi đánh máy và nhầm lẫn
 
-Các chỉnh sửa để 'làm sạch' văn bản của tác giả nên được giữ ở mức tối thiểu nhưng các lỗi chính tả và các lỗi khác chỉ nên được thay đổi trực tiếp mà không cần báo hiệu.
+Các chỉnh sửa để 'dọn dẹp' văn bản của tác giả nên được giữ ở mức tối thiểu nhưng lỗi đánh máy và các sai sót khác nên được thay đổi trực tiếp mà không cần đánh dấu.
 
-### Bảng thông tin chỉnh sửa
+### Bảng thông tin Đính chính
 
-Trong trường hợp một quy tắc nào đó quá mơ hồ, không đầy đủ hoặc đơn giản là sai, hãy thêm ghi chú Chỉnh sửa Cộng đồng có thể thu gọn.
+Khi một quy tắc nhất định quá mơ hồ, không đầy đủ hoặc đơn giản là sai, hãy thêm ghi chú Đính chính Cộng đồng có thể thu gọn.
 
-Giải thích vấn đề bằng chữ in nghiêng chỉ sử dụng chữ in đậm nghiêng cho tiêu đề của vấn đề - _không có tiêu đề h(x)!_ - để không tạo ra các mục thanh bên gây nhầm lẫn.
+Giải thích vấn đề bằng chữ nghiêng chỉ sử dụng chữ đậm nghiêng cho tiêu đề của vấn đề - _không có tiêu đề h(x)!_ - để không tạo ra các mục thanh bên gây nhầm lẫn.
 
-Nếu văn bản thay thế được thêm vào, hãy đặt nó trong dấu ngoặc kép bằng chữ in đậm nghiêng, đứng trước bởi "_Chỉnh sửa Cộng đồng:_" bằng chữ in nghiêng trọng lượng bình thường.
+Nếu văn bản thay thế được thêm vào, hãy đặt nó trong dấu ngoặc kép bằng chữ đậm nghiêng, phía trước là "_Đính chính Cộng đồng:_" bằng chữ nghiêng trọng lượng bình thường.
 
 Các quy tắc bổ sung, nếu cần, nên được trình bày bằng văn bản trọng lượng bình thường.
 
-#### Mẫu định dạng chỉnh sửa
+#### Mẫu định dạng Đính chính
 
 ```
 <details>
@@ -369,53 +369,51 @@ _Explanation text stating how the rule as written causes problems._
 </details>
 ```
 
-#### Ví dụ chỉnh sửa
+#### Ví dụ Đính chính
 
 <details>
 
-<summary>* Chỉnh sửa Cộng đồng</summary>
+<summary>* Đính chính Cộng đồng</summary>
 
 _**Leo trèo**_
 
-_Chỉnh sửa Cộng đồng:_
-_**"Giáp mặc cản trở người leo trèo một lượng bằng mức trung bình của Điểm giáp đã mặc. Tìm điều này bằng cách tổng hợp điểm giáp đã mặc của mọi vị trí và chia con số đó cho số lượng vị trí."**_
+_Đính chính Cộng đồng:_
+_**"Giáp mặc cản trở người leo trèo một lượng bằng trung bình của Điểm Giáp được mặc. Tìm điều này bằng cách tổng hợp điểm giáp được mặc ở mọi vị trí và chia số đó cho số lượng vị trí."**_
 
-_Quy tắc như được viết nhanh chóng gây ra vấn đề. Mặc một mảnh giáp 6AP sẽ giảm Tốc độ di chuyển của một người xuống 0, có nghĩa là một người chỉ đội mũ sắt mà không mặc gì khác sẽ quá nặng để leo trèo. Điều này có vẻ hạn chế một cách vô lý, do đó phiên bản đã chỉnh sửa được đề xuất ở trên. Điều này sẽ được cập nhật nếu các tác giả gốc sửa đổi quy tắc như đã viết._
+_Quy tắc được viết như vậy nhanh chóng gây ra vấn đề. Mặc một mảnh giáp 6AP duy nhất sẽ giảm TC người xuống Tốc độ 0 nghĩa là một người mặc mũ bảo hiểm thép và không có gì khác sẽ quá tải để leo trèo. Điều này có vẻ hạn chế quá mức do đó phiên bản chỉnh sửa được đề xuất ở trên. Điều này sẽ được cập nhật nếu các tác giả gốc sửa đổi quy tắc như đã viết._
 
 </details>
 
 <details>
 
-<summary>* Chỉnh sửa Cộng đồng</summary>
+<summary>* Đính chính Cộng đồng</summary>
 
-_**Tốc độ di chuyển: Đi bộ, Chạy, Nước rút**_
+_**Nhịp điệu: Đi bộ, Chạy, Nước rút**_
 
-_Phiên bản đã xuất bản của _Mythras Imperative_ không có quy tắc rõ ràng cho việc di chuyển ở các Tốc độ di chuyển khác nhau mặc dù chúng được đề cập trong sách quy tắc cốt lõi của Mythras._
+_Phiên bản xuất bản của _Mythras Imperative_ không có quy tắc rõ ràng cho việc di chuyển ở các Nhịp điệu khác nhau mặc dù chúng được đề cập trong sách quy tắc cốt lõi Mythras. Các hệ số Nhịp điệu ở trên đã được thêm vào như một phần của Đính chính Cộng đồng._
 
-_Các hệ số Tốc độ di chuyển ở trên đã được thêm vào như một phần của Chỉnh sửa Cộng đồng._
+_Khi cần thiết, nên coi các Nhịp điệu như sau:_
 
-_Khi cần thiết, nên coi Tốc độ di chuyển như sau: _
+- _Các Nhịp điệu nhanh hơn Đi bộ áp dụng hệ số nhân cho chỉ số Di chuyển: 3x cho Chạy, 5x cho Nước rút._
 
-- _Các Tốc độ di chuyển nhanh hơn Đi bộ áp dụng một hệ số nhân cho xếp hạng Di chuyển: 3x cho Chạy, 5x cho Nước rút._
-
-- _Khi ở Tốc độ di chuyển Chạy hoặc Nước rút, nhân vật không thể thực hiện hầu hết các hành động chủ động như tấn công hoặc niệm phép. Một số ngoại lệ bao gồm..._
-  - _Các đòn tấn công khi sử dụng quy tắc Tấn công lao vào._
-  - _Bắn vũ khí tầm xa với đặc điểm Tấn công quấy rối._
-- _Theo quy tắc chung, bất kỳ hành động nào được phép nên được coi là khó thực hiện hơn một Cấp khi Chạy, và khó hơn hai Cấp khi Nước rút._
+- _Trong khi ở Nhịp điệu Chạy hoặc Nước rút, nhân vật không thể thử hầu hết các hành động chủ động như tấn công hoặc niệm phép. Một số ngoại lệ bao gồm..._
+  - _Tấn công khi sử dụng các quy tắc Xung phong._
+  - _Bắn vũ khí tầm xa với đặc điểm Giao tranh._
+- _Theo quy tắc chung, bất kỳ hành động được phép nào cũng nên được coi là khó hơn một Cấp độ để thực hiện khi ở Nhịp điệu Chạy, và khó hơn hai Cấp độ khi ở Nhịp điệu Nước rút._
 
 </details>
 
 ---
 ## Các cảnh báo khác
 
-### Dòng trống / Ký tự xuống dòng
+### Dòng trống / Xuống dòng
 
-Để một dòng trống giữa các loại mục khác nhau. Tiêu đề, đường phân cách, bảng, v.v. Những điều này sẽ không hiển thị trong chế độ đọc nhưng việc thiếu chúng có thể gây ra lỗi định dạng.
+Để lại một dòng trống giữa các loại mục nhập khác nhau. Tiêu đề, đường kẻ, bảng v.v. Những thứ này sẽ không hiển thị ở chế độ đọc nhưng sự vắng mặt của chúng có thể gây ra các vấn đề về định dạng.
 
-### Văn bản nhiều đoạn in đậm hoặc in nghiêng
+### Văn bản đậm hoặc nghiêng nhiều đoạn
 
-Mỗi đoạn văn phải được đánh dấu là văn bản in đậm hoặc in nghiêng. Dòng mới giữa các đoạn văn sẽ làm hỏng định dạng, để lại các dấu định dạng không còn tác dụng.
+Mỗi đoạn phải được đánh dấu là văn bản đậm hoặc nghiêng. Dòng mới giữa các đoạn sẽ phá vỡ định dạng để lại các dấu định dạng bị mất kết nối.
 
-### Chính tả quốc tế
+### Cách viết quốc tế
 
-Các thế lực lạc hậu và đáng chê trách đã quyết định xóa bỏ tất cả các cách viết tiếng Anh-Anh để ủng hộ các phiên bản tiếng Anh-Mỹ yếu hơn một cách khách quan. Hãy chú ý đến các từ tiếng Anh-Anh kết thúc bằng -OUR: _armour_ (giáp), _favour_ (ủng hộ), v.v.
+Các thế lực thụt lùi và đáng trách đã thấy phù hợp để xóa bỏ tất cả các cách viết của Anh để ủng hộ các phiên bản Mỹ kém hơn một cách khách quan. Hãy chú ý đến các từ -OUR của Anh: _armour_, _favour_, v.v.
