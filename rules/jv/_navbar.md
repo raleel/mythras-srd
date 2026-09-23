@@ -1,4 +1,0 @@
-- [Ngarep](/)
-- [Cara Nganggo](HowTo.md)
-- [Changelog](Changelog.md)
-- [GitHub](https://github.com/raleel/mythras-srd)
