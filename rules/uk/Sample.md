@@ -12,43 +12,43 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 ###### Заголовок 6
 
-**ЖИРНИЙ ТЕКСТ**
+**ЖИРНИЙ**
 
 *Курсив*
 
-## Зразок таблиці
+## Зразок Таблиці
 
-| Колонку 1 | Колонку 2 |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
 | 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Гнучкі сповіщення
+## Гнучкі Сповіщення
 
 > [!Note]
-> Стиль примітки
+> Зразок Стилю Нотатки
 
 > [!Tip]
-> Стиль підказки
+> Зразок Стилю Поради
 
 > [!Warning]
-> Стиль попередження
+> Зразок Стилю Попередження
 
 > [!Attention]
-> Стиль уваги
+> Зразок Стилю Уваги
 
-> [!Note|style:flat]
-> Стиль примітки (плаский)
+> [!Note|Стиль:flat]
+> Зразок Стилю Нотатки (Плаский)
 
-> [!Tip|style:flat]
-> Стиль підказки (плаский)
+> [!Tip|Стиль:flat]
+> Зразок Стилю Поради (Плаский)
 
-> [!Warning|style:flat]
-> Стиль попередження (плаский)
+> [!Warning|Стиль:flat]
+> Зразок Стилю Попередження (Плаский)
 
-> [!Attention|style:flat]
-> Стиль уваги (плаский)
+> [!Attention|Стиль:flat]
+> Зразок Стилю Уваги (Плаский)
 
 ## Значки Fontawesome 
 
@@ -58,9 +58,9 @@ D20 Статичний :fa-solid fa-dice-d20 fa-lg:
 
 D20 Анімований :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Значки Material Icons
+## Значки Material
 
-<span class="material-icons">face</span>
+<span Клас="material-icons">face</span>
 
 
 

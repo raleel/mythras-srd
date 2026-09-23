@@ -1,66 +1,68 @@
-# العنوان النموذجي 1
+# عنوان تجريبي 1
 
-لوريم إيبسوم دولور سيت أميت، كونسبكتيتور أديبيسكينج إليت. كويسك إيد فيوجيات ماسا. إن سيت أميت نيكوي أنتي. برايسينت نيك نولا ياكوليس، فرينجيلا ديام فيتاي، بورتيتور توربيس. كورابيتور نيك إكس إن دوي أورناري كونسبكتيتور. نولا بريتيوم، دولور سيد لاسينيا إمبيرديت، نيسي نيسل إفيسيتور أوديو، فاريتر تيمبور فيليس كوام كيس أوجي. إن إيرات ديام، موليستي فيل كومودو فيل، كونفاليس إيد مي. بيلينتيسكي بريتيوم تورتور كيس إفيسيتور جرافيدا.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
-## العنوان 2
+## عنوان 2
 
-### العنوان 3
+### عنوان 3
 
-#### العنوان 4
+#### عنوان 4
 
-##### العنوان 5
+##### عنوان 5
 
-###### العنوان 6
+###### عنوان 6
 
 **عريض**
 
 *مائل*
 
-## جدول نموذجي
+## جدول تجريبي
 
 | العمود 1 | العمود 2 |
 | ----------- | ----------- |
-| 1 | لوريم إيبسوم دولور سيت أميت |
-| 2 | موربي أوكتور، كوام كيس فينيبوس كومودو |
-| 3 | كويسك إفيسيتور لاكوس موليستي ديام سوداليس فوسيبوس |
+| 1 | Lorem ipsum dolor sit amet |
+| 2 | Morbi auctor, quam quis finibus commodo |
+| 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## التنبيهات المرنة
+## تنبيهات مرنة
 
 > [!Note]
-> نمط ملاحظة نموذجي
+> نمط صندوق الملاحظات التجريبي
 
 > [!Tip]
-> نمط تلميح نموذجي
+> نمط صندوق النصيحة التجريبي
 
 > [!Warning]
-> نمط تحذير نموذجي
+> نمط صندوق التحذير التجريبي
 
 > [!Attention]
-> نمط انتباه نموذجي
+> نمط صندوق الانتباه التجريبي
 
-> [!Note|style:flat]
-> نمط ملاحظة مسطح نموذجي
+> [!Note|الأسلوب:flat]
+> نمط صندوق الملاحظات المسطح التجريبي
 
-> [!Tip|style:flat]
-> نمط تلميح مسطح نموذجي
+> [!Tip|الأسلوب:flat]
+> نمط صندوق النصيحة المسطح التجريبي
 
-> [!Warning|style:flat]
-> نمط تحذير مسطح نموذجي
+> [!Warning|الأسلوب:flat]
+> نمط صندوق التحذير المسطح التجريبي
 
-> [!Attention|style:flat]
-> نمط انتباه مسطح نموذجي
+> [!Attention|الأسلوب:flat]
+> نمط صندوق الانتباه المسطح التجريبي
 
-## أيقونات Fontawesome
+## أيقونات Fontawesome 
 
-D6 :fa-solid fa-dice fa-xl:
+D6  :fa-solid fa-dice fa-xl:
 
-D20 ثابت :fa-solid fa-dice-d20 fa-lg:
+D20 ثابت :fa-solid fa-dice-d20 fa-lg:  
 
-D20 متحرك :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
+D20 متحرك :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
 ## أيقونات Material
 
-<span class="material-icons">face</span>
+<span الفئة="material-icons">face</span>
+
+
 
 <!-- batch-api live test nudge 2 -->
 

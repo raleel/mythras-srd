@@ -27,28 +27,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 ## フレキシブルアラート
 
 > [!Note]
-> サンプルノート（Note）のコールアウトスタイル
+> サンプルノート Callout スタイル
 
 > [!Tip]
-> サンプルヒント（Tip）のコールアウトスタイル
+> サンプルヒント Callout スタイル
 
 > [!Warning]
-> サンプル警告（Warning）のコールアウトスタイル
+> サンプル警告 Callout スタイル
 
 > [!Attention]
-> サンプル注意（Attention）のコールアウトスタイル
+> サンプル注意 Callout スタイル
 
-> [!Note|style:flat]
-> サンプルノート（Note）のフラットスタイル
+> [!Note|スタイル:flat]
+> サンプルノート Flat スタイル
 
-> [!Tip|style:flat]
-> サンプルヒント（Tip）のフラットスタイル
+> [!Tip|スタイル:flat]
+> サンプルヒント Flat スタイル
 
-> [!Warning|style:flat]
-> サンプル警告（Warning）のフラットスタイル
+> [!Warning|スタイル:flat]
+> サンプル警告 Flat スタイル
 
-> [!Attention|style:flat]
-> サンプル注意（Attention）のフラットスタイル
+> [!Attention|スタイル:flat]
+> サンプル注意 Flat スタイル
 
 ## Fontawesome アイコン 
 
@@ -60,7 +60,7 @@ D20 アニメーション :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## マテリアルアイコン
 
-<span class="material-icons">face</span>
+<span クラス="material-icons">face</span>
 
 
 

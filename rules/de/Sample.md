@@ -24,33 +24,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
-## Flexible Warnhinweise
+## Flexible Warnmeldungen
 
 > [!Note]
-> Beispiel für Hinweis-Callout-Stil
+> Beispiel-Hinweis-Stil
 
 > [!Tip]
-> Beispiel für Tipp-Callout-Stil
+> Beispiel-Tipp-Stil
 
 > [!Warning]
-> Beispiel für Warnungs-Callout-Stil
+> Beispiel-Warnung-Stil
 
 > [!Attention]
-> Beispiel für Aufmerksamkeits-Callout-Stil
+> Beispiel-Aufmerksamkeit-Stil
 
-> [!Note|style:flat]
-> Beispiel für flachen Hinweis-Stil
+> [!Note|Stil:flat]
+> Beispiel-Hinweis-Stil (flach)
 
-> [!Tip|style:flat]
-> Beispiel für flachen Tipp-Stil
+> [!Tip|Stil:flat]
+> Beispiel-Tipp-Stil (flach)
 
-> [!Warning|style:flat]
-> Beispiel für flachen Warnungs-Stil
+> [!Warning|Stil:flat]
+> Beispiel-Warnung-Stil (flach)
 
-> [!Attention|style:flat]
-> Beispiel für flachen Aufmerksamkeits-Stil
+> [!Attention|Stil:flat]
+> Beispiel-Aufmerksamkeit-Stil (flach)
 
-## Fontawesome-Icons 
+## Fontawesome-Symbole 
 
 W6  :fa-solid fa-dice fa-xl:
 
@@ -58,9 +58,9 @@ W20 Statisch :fa-solid fa-dice-d20 fa-lg:
 
 W20 Animiert :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
 
-## Material Icons
+## Material-Symbole
 
-<span class="material-icons">face</span>
+<span Klasse="material-icons">face</span>
 
 
 

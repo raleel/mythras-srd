@@ -27,27 +27,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 ## התראות גמישות
 
 > [!Note]
-> סגנון קריאת הערה לדוגמה
+> סגנון הערה לדוגמה
 
 > [!Tip]
-> סגנון קריאת טיפ לדוגמה
+> סגנון טיפ לדוגמה
 
 > [!Warning]
-> סגנון קריאת אזהרה לדוגמה
+> סגנון אזהרה לדוגמה
 
 > [!Attention]
-> סגנון קריאת תשומת לב לדוגמה
+> סגנון תשומת לב לדוגמה
 
-> [!Note|style:flat]
+> [!Note|סגנון:flat]
 > סגנון הערה שטוח לדוגמה
 
-> [!Tip|style:flat]
+> [!Tip|סגנון:flat]
 > סגנון טיפ שטוח לדוגמה
 
-> [!Warning|style:flat]
+> [!Warning|סגנון:flat]
 > סגנון אזהרה שטוח לדוגמה
 
-> [!Attention|style:flat]
+> [!Attention|סגנון:flat]
 > סגנון תשומת לב שטוח לדוגמה
 
 ## סמלי Fontawesome 
@@ -60,7 +60,7 @@ D20 מונפש :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## סמלי Material
 
-<span class="material-icons">face</span>
+<span מעמד="material-icons">face</span>
 
 
 
