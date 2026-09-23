@@ -217,7 +217,7 @@ This is the amount of time taken when the Games Master is narrating to the playe
 ---
 ## Hit Locations
 
-Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location is been hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
+Most successful (weapon) attacks land on a specific Hit Location. This can be determined randomly or in some circumstances be selected by Special Effects such as Choose Location. To randomly calculate which location is hit, roll 1d20 and compare the number rolled with the relevant humanoid or creature Hit Location table.
 
 Animals and monsters usually have slightly different Hit Location tables than humanoids to reflect their own unique physiology. These are listed as part of each being's description and is typically only of use to the Games Master.
 
@@ -282,7 +282,7 @@ Since most Major Wounds require some form of surgery or significant magic to hea
 
 ### Blood Loss
 
-Blood Loss due to external and internal wounds, usually sustained in combat, can wear a character down very quickly. Its effects are measured by the accumulation of Fatigue levels, much like Asphyxiation. Unrestrained Blood Loss typically results in death without some form of medical attention. Unlike Asphyxiation, the effects of serious Blood Loss on Fatigue are enduring. A character recovers Fatigue lost to bleeding at a rate of one level per day, starting the day after his exsanguinations cease.
+Blood Loss due to external and internal wounds, usually sustained in combat, can wear a character down very quickly. Its effects are measured by the accumulation of Fatigue levels, much like Asphyxiation. Unrestrained Blood Loss typically results in death without some form of medical attention. Unlike Asphyxiation, the effects of serious Blood Loss on Fatigue are enduring. A character recovers Fatigue lost to bleeding at a rate of one level per day, starting the day after his exsanguination ceases.
 
 ### Heroic Last Actions
 

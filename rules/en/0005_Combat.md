@@ -392,7 +392,6 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 | [Blind Opponent](0005_Combat.md?id=blind-opponent) | | X | | Defender Criticals | |
 | [Bypass Armor](0005_Combat.md?id=bypass-armor) | X | | | Attacker Criticals | X |
 | [Choose Location](0005_Combat.md?id=choose-location) | X | | | See Description | |
-| [Circumvent Cover](0005_Combat.md?id=circumvent-cover) | X | | High Tech Firearms Only | | |
 | [Circumvent Parry](0005_Combat.md?id=circumvent-parry) | X | | | Attacker Criticals | |
 | [Damage Weapon](0005_Combat.md?id=damage-weapon) | X | X | | | |
 | [Disarm Opponent](0005_Combat.md?id=disarm-opponent) | X | X | | | |
@@ -405,7 +404,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 | [Impale](0005_Combat.md?id=impale) | X | | Impaling Weapons | | |
 | [Marksman](0005_Combat.md?id=marksman) | X | | Ranged Weapons | | |
 | [Maximize Damage](0005_Combat.md?id=maximize-damage) | X | | | Attacker Criticals | X |
-| [Overpenetration](0005_Combat.md?id=overpenetration) | X | | Firearms Only | Attacker Criticals | |
+| [Over-penetration](0005_Combat.md?id=over-penetration) | X | | Firearms Only | Attacker Criticals | |
 | [Pin Down](0005_Combat.md?id=pin-down) | X | | Firearms Only | | X |
 | [Prepare Counter](0005_Combat.md?id=prepare-counter) | | X | | | X |
 | [Rapid Reload](0005_Combat.md?id=rapid-reload) | X | | | | X |

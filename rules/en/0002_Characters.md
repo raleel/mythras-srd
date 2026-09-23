@@ -153,7 +153,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 #### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0005_Combat.md?id=combat-style) chapter goes into more detail on how Initiative is used.
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0005_Combat.md?id=combat-styles) chapter goes into more detail on how Initiative is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -216,7 +216,7 @@ Skills fall into two classes. Everyone has Standard skills – things such as sn
 
 ##### Combat Style
 
-Combat Style is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-style) section and have a Basic Percentage equal to STR+DEX.
+Combat Style is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the [Combat](0005_Combat.md?id=combat-styles) section and have a Basic Percentage equal to STR+DEX.
 
 ##### Standard Skills
 

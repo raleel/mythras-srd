@@ -52,7 +52,7 @@ A core power can be exchanged for two Boosts that can be applied to any core pow
 ---
 ## Magic
 
-Whenever a character wishes to use a spell, they make a roll against their Magic skill. Casting takes a single turn, but the amount of Magic Points used and whether the spell is successful depends on the result of the roll..
+Whenever a character wishes to use a spell, they make a roll against their Magic skill. Casting takes a single turn, but the amount of Magic Points used and whether the spell is successful depends on the result of the roll.
 
 If the Magic roll is a...
 

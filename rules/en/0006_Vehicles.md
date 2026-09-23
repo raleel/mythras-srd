@@ -661,7 +661,7 @@ This light transport requires a minimum crew of only two, with room for up to fo
 | **Systems** | 2 |
 | **Speed** | Rapid (Parsec Factor of 3) |
 | **Handling** | Standard |
-| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Space Craft](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Spacecraft](0006_Vehicles.md?id=spacecraft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Shields** | 8 |
 | **Weapons** | 2x Quad-mounted Laser Cannon Turrets (5d6) |
 
@@ -682,7 +682,7 @@ This extremely high-tech starship is the physical representation of a highly adv
 | **Systems** | 6 |
 | **Speed** | Moderate (Parsec Factor of 4. At this tech level, a Factor equals 1 hour) |
 | **Handling** | Formidable |
-| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Space Craft](0006_Vehicles.md?id=space-craft),[Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
+| **Traits** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Spacecraft](0006_Vehicles.md?id=spacecraft), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
 | **Shields** | 30 |
 | **Weapons** | None that it cares to discuss |
 
