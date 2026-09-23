@@ -1,89 +1,89 @@
 # Karakterek
 
-A _Mythras Imperative_ minden játékosa irányít egy karaktert. A karakter a játékos alteregója, és rendszerint fizikailag és szellemileg is nagyon eltér a játékostól. A karakterek különféle fajokból származhatnak, a játék világának megfelelően; egy történelmi környezetben csak emberek szerepelnek, míg egy fantasy környezetben törpök, elfek, sőt még gyíkemberek is előfordulhatnak. Az alapvető karaktert számos különböző elem határozza meg, amelyek leírják a karakter képességeit. Ezek az elemek a következők:
+A _Mythras Imperative_ minden játékosa irányít egy karaktert. A karakter a játékos alteregója, és általában mind fizikailag, mind mentálisan nagyon különbözik a játékostól. A karakterek különféle fajokból származhatnak, a játék környezetétől függően; egy történelmi környezetben csak emberek szerepelnek, míg egy fantasy környezetben törpök, elfek, sőt még gyíkemberek is előfordulhatnak. Az alapkaraktert különböző elemek sora határozza meg, amelyek leírják a karakter képességeit. Ezek az elemek a következők:
 
-- **Tulajdonságok (Characteristics):** mint például az Erő vagy a Karizma
+- **Jellemzők (Characteristics):** mint például az Erő vagy a Karizma
 - **Attribútumok (Attributes):** olyan dolgok, mint a Magasság vagy a Mozgás
-- **Képzettségek (Skills):** alapvető készségekben való jártasság
+- **Képességek (Skills):** az alapvető jártasságok terén szerzett szakértelem
 
-Ezeknek az elemeknek a többségét számok írják le, és némelyikük másoktól függ, vagy mások alapján kerül kiszámításra. Hogy mit jelent az egyes elem, és hogyan határozható meg, azt az alábbi fejezetek írják le.
+Ezeknek az elemeknek a többsége számokkal van leírva, és némelyik függ másoktól, vagy azok alapján kerül kiszámításra. Hogy mit jelent az egyes elem, és hogyan határozandók meg, az a következő szakaszokban kerül kifejtésre.
 
 ---
 ## 1. lépés: Karakterkoncepció
 
-Jó kiindulópont, ha van elképzelésed arról, milyen karaktert szeretnél játszani: mondjuk egy ravasz harcost vagy egy dörzsölt csempészt. Talán egy tanulékony tudóst vagy egy bölcs varázslót részesítesz előnyben. A karakterkoncepciódnak ebben a szakaszban nem kell kidolgozottnak lennie; elég egy ötlet, amely segít eligazodni bizonyos választásokban, mint például a Kultúra és a Karrier.
+Jó kiindulópont, ha van elképzelésed arról, milyen karakterrel szeretnél játszani: talán egy ravasz harcossal vagy egy dörzsölt csempésszel. Esetleg egy tanulékony tudóst vagy egy bölcs varázslót részesítesz előnyben. A karakterkoncepciódnak ebben a szakaszban még nem kell kidolgozottnak lennie; elég egy ötlet, amely segít eligazodni bizonyos választásokban, mint például a Kultúra és a Karrier.
 
 ---
-## 2. lépés: Tulajdonságok
+## 2. lépés: Jellemzők
 
-Mindenkit hét Tulajdonság határoz meg, amelyek elárulnak valamit a karakteredről; milyen erős vagy gyors; milyen okos vagy egészséges. A Tulajdonságok minden _Mythras_ _Imperative_ karakter magját képezik, és a legtöbb más elem, például az Attribútumok és Képzettségek alapjául szolgálnak. A hét Tulajdonság:
+Mindenkit hét Jellemző határoz meg, amelyek elárulnak valamit a karakteredről; milyen erős vagy gyors; mennyire okos vagy egészséges. A Jellemzők minden _Mythras Imperative_ karakter magját képezik, és a legtöbb egyéb elem, mint például az Attribútumok és a Képességek alapját adják. A hét Jellemző a következő:
 
-- Erő (STR)
-- Alkat (CON)
-- Méret (SIZ)
-- Ügyesség (DEX)
+- Erő (ERŐ)
+- Állóképesség (ÁLL)
+- Méret (MÉR)
+- Ügyesség (ÜGY)
 - Intelligencia (INT)
-- Erőfeszítés (POW)
-- Karizma (CHA)
+- Hatalom (HAT)
+- Karizma (KAR)
 
-A Tulajdonságok kiszámítása előtt az alábbi szakasz elmagyarázza, mit képvisel az egyes érték.
+A Jellemzők kiszámítása előtt az alábbi szakasz elmagyarázza, mit képvisel az egyes érték.
 
-#### Erő (STR)
+#### Erő (ERŐ)
 
-Az STR a fizikai erőt jelképezi: mennyit tud valaki emelni, milyen nagyot tud ütni, és így tovább. Az STR a Sebzésmódosító egyik összetevője. Ha egy karakter STR-je nullára csökken, képtelen mozogni vagy tárgyakat emelni.
+Az ERŐ a fizikai erőt képviseli: mennyit tud valaki emelni, milyen nagyot tud ütni, és így tovább. Az ERŐ a Sebzésmódosító egyik összetevője. Ha egy karakter ERŐ-je nullára csökken, képtelen mozogni vagy tárgyakat felemelni.
 
-#### Alkat (CON)
+#### Állóképesség (ÁLL)
 
-A CON az egészség és a szívósság mértéke. A CON az Életerő (Hit Points) és a Gyógyulási Ráta meghatározásának egyik összetevője. Ha a CON bármely okból nullára esik, a karakter meghal.
+Az ÁLL az egészség és a szívósság mértéke. Az ÁLL az Életerő és a Gyógyulási ráta meghatározásának egyik összetevője. Ha az ÁLL bármilyen okból nullára esik, a karakter meghal.
 
-#### Méret (SIZ)
+#### Méret (MÉR)
 
-A SIZ a tömeget méri, és segít meghatározni a magasságot és a súlyt. A SIZ-t az Életerő kiszámításánál használják, mivel a nagyobb, nehezebb lények általában jobban bírják a sérüléseket. A SIZ a karakter Sebzésmódosítójának meghatározására is használható, mivel a tömeg segít növelni az ütés erejét.
+A MÉR a tömeget méri, és segít meghatározni a Magasságot és a Súlyt. A MÉR az Életerő kiszámításánál segít, mivel a nagyobb, nehezebb lények általában nagyobb tűrőképességgel rendelkeznek a sérülésekkel szemben. A MÉR szintén használható a karakter Sebzésmódosítójának meghatározására, mivel a tömeg segít növelni az ütés erejét.
 
-#### Ügyesség (DEX)
+#### Ügyesség (ÜGY)
 
-Az agilitást, az egyensúlyt és a reflexeket a DEX méri. Fontos szempont az Akciópontok és a Kezdeményezés tekintetében. Ha egy karakter DEX-e nullára csökken, funkcionális bénulást szenved.
+Az agilitást, az egyensúlyt és a reflexeket az ÜGY méri. Fontos szempont az Akciópontok és a Kezdeményezés esetében. Ha egy karakter ÜGY-e nullára csökken, funkcionális bénulást szenved.
 
 #### Intelligencia (INT)
 
-Az INT a kognitív képességek mértéke. Azok, akiknek alacsonyabb az INT pontszámuk, nem feltétlenül buták, de valószínűleg korlátozottabbak abban, mennyire kreatívan tudják használni az eszüket. Az INT tényező az Akciópontok és a Kezdeményezés kiszámításakor. Ha az INT nullára csökken, a karakter teljesen esztelenné válik.
+Az INT a kognitív képességek mértéke. Az alacsonyabb INT-szinttel rendelkezők nem feltétlenül buták, de valószínűleg korlátozottak abban, milyen kreatívan használják az eszüket. Az INT az Akciópontok és a Kezdeményezés kiszámításának egyik tényezője. Ha az INT nullára csökken, a karakter teljesen elmélyültté, öntudatlanná válik.
 
-#### Erőfeszítés (POW)
+#### Hatalom (HAT)
 
-A POW a karakter lelkének, szellemiségének, belső hajtóerejének vagy a mágia iránti képességének mértéke. A POW határozza meg a karakter Mágia-pontjait és Szerencse-pontjait. Ha a karakter POW-ja valaha nullára esik, elveszíti minden független akaratát.
+A HAT a karakter lelkének, szellemiségének, belső hajtóerejének vagy mágikus kapacitásának mértéke. A HAT határozza meg a karakter Varázspontjait és Szerencsepontjait. Ha egy karakter HAT-ja valaha nullára csökken, elveszíti minden önálló akaratát.
 
-#### Karizma (CHA)
+#### Karizma (KAR)
 
-A Karizma a jelenlét és a személyiség mértéke, független a fizikai megjelenéstől. A CHA befolyásolja a karakter Tapasztalati Módosítóját. Ha a CHA valaha nullára esik, a karakter már nem képes társadalmilag érintkezni másokkal, annyira félénkké vagy antiszociálissá válik, hogy figyelmen kívül hagyják vagy elüldözik.
+A Karizma a jelenlét és a személyiség mértéke, és független a fizikai megjelenéstől. A KAR befolyásolja a karakter Tapasztalati módosítóját. Ha a KAR valaha nullára esik, a karakter már nem képes társas kapcsolatokat létesíteni másokkal, olyan kínosan félénkké vagy antiszociálissá válik, hogy figyelmen kívül hagyják, vagy elkergetik.
 
 ---
-### Tulajdonságok kiszámítása
+### Jellemzők kiszámítása
 
-Minden Tulajdonságnak van egy numerikus értéke, amely meghatározza a hatékonyságát. Az egyes kockadobások után zárójelben lévő szám a faji átlag, amely mércéül szolgál a karaktered eredményeinek értékeléséhez a fajtársaihoz képest. A Tulajdonságok meghatározására vonatkozó javaslatok a következők:
+Minden Jellemzőnek van egy numerikus értéke, amely meghatározza a hatékonyságát. Az egyes dobásokat követő zárójelben lévő szám a faji átlag, amely mércéül szolgál a karaktered eredményeinek értékeléséhez, amikor összehasonlítod fajának más tagjaival. A Jellemzők meghatározására vonatkozó javaslatok a következők:
 
-- **Kockadobás:** Dobj kockával az STR, CON, SIZ, DEX, INT, POW és CHA értékekre, és fogadd el a kapott pontszámokat. Mivel ezeknek a dobásoknak az eredménye némileg véletlenszerű, gyakran jobb a karakterkoncepciót a dobások után eldönteni. Ellenkező esetben a végső Tulajdonságok kizárhatják az előre eltervezett szerepet. Dobj 3d6-ot az STR, CON, DEX, POW és CHA értékekre; majd 2d6+6-ot a SIZ és INT értékekre.
-- **Kockadobás, kiosztás:** Mint fentebb, azzal a különbséggel, hogy a játékos kicserélheti az értékeket az azonos kockatartományba eső Tulajdonságok között. Például, ember generálásakor a játékos felcserélheti az értékeket STR, CON, DEX, POW és CHA között, mivel ezek osztoznak a 3d6-os tartományon, vagy a SIZ és INT között, amelyek osztoznak a 2d6+6-os tartományon – de mindig azonos kockatartomány csoportból kell származniuk; nem cserélhetsz dobásokat egyik csoportból a másikba.
-- **Kockadobás, magasabb érték:** Dobj egy extra kockával az STR, CON, SIZ, DEX, INT, POW és CHA értékek mindegyikére, és mindegyikből dobd el a legalacsonyabb eredményt.
-- **Pontelosztás:** A játékosok egy előre meghatározott, 80 pontos készletből osztják el a Tulajdonságok pontszámait. A Tulajdonságok nem lehetnek alacsonyabbak a minimális dobott értéknél, és nem lehetnek magasabbak a maximálisnál.
+- **Kockadobás:** Dobj kockákkal az ERŐ, ÁLL, MÉR, ÜGY, INT, HAT és KAR értékekre, és fogadd el a dobott értékeket úgy, ahogy kijöttek. Mivel ezeknek a dobásoknak az eredménye némileg véletlenszerű lehet, gyakran jobb a kockadobás után dönteni a karakterkoncepcióról. Ellenkező esetben a végső Jellemzők kizárhatnak egy előre elgondolt szerepet. Dobj 3d6-tal az ERŐ, ÁLL, ÜGY, HAT és KAR esetében; majd 2d6+6-tal a MÉR és az INT esetében.
+- **Kockadobás, kijelölés:** Ahogy fentebb, azzal a kivétellel, hogy a játékos kicserélheti az értékeket az azonos kockatartományú Jellemzők között. Például, ember karakter létrehozásakor a játékos felcserélheti az értékeket az ERŐ, ÁLL, ÜGY, HAT és KAR között, mivel mindegyik 3d6-os tartományba esik, vagy a MÉR és az INT között, amelyek a 2d6+6-os tartományba esnek – de mindig azonos kockacsoportból kell származniuk; nem cserélhetsz dobásokat az egyik csoportból a másikba.
+- **Kockadobás, magas:** Dobj egy extra kockával a megjelölt módon az ERŐ, ÁLL, MÉR, ÜGY, INT, HAT és KAR esetében, és dobd el a legalacsonyabb eredményt mindegyiknél.
+- **Pontelosztás:** A játékosok egy előre meghatározott 80 pontos készletből osztják el a Jellemzők pontszámait. A Jellemzők nem lehetnek alacsonyabbak a minimális dobott értéknél, és magasabbak a maximumnál.
 
 ---
 ## 3. lépés: Attribútumok
 
-Minden karakternek van egy sor attribútuma is. Ezek a Tulajdonságokból származtatott vagy azok által meghatározott képességek, amelyek bizonyos játékmeneti tényezőket szabályoznak.
+Minden karakter rendelkezik attribútumok készletével is. Ezek a Jellemzőkből származtatott vagy azok által meghatározott képességek, amelyek a játék bizonyos tényezőinek irányítására szolgálnak.
 
 #### Akciópontok
 
-Hogy egy karakter milyen gyakran cselekedhet egy Harci Körben, azt az Akciópontok határozzák meg. Minden _Mythras_ _Imperative_ karakternek 2 Akciópontja van.
+Azt, hogy egy karakter milyen gyakran cselekedhet egy Harci Körben, az Akciópontok határozzák meg. Minden _Mythras Imperative_ karakter 2 Akcióponttal rendelkezik.
 
 #### Sebzésmódosító
 
-A nagyobb és erősebb karakterek és lények bizonyos helyzetekben extra sebzést okozhatnak; ezzel szemben a gyengébb és kisebb karakterek csökkenthetik az általuk okozott sebzést. A Sebzésmódosítót általában harci helyzetekben használják, de tárgyak összetörésekor is alkalmazható. A Sebzésmódosító egy extra kockadobás, amelyet vagy hozzáadnak a fegyver vagy eszköz által okozott sebzéshez, vagy levonnak belőle. Ha egy negatív Sebzésmódosító a fegyver sebzését nullára vagy az alá csökkenti, akkor a fegyver semmilyen sebzést nem okozott.
+A nagyobb és erősebb karakterek és lények bizonyos helyzetekben extra sebzésre tehetnek szert; ezzel szemben a gyengébb és kisebb karakterek csökkenthetik az általuk okozott sebzést. A Sebzésmódosítót általában harci helyzetekben használják, de akkor is alkalmazható, amikor tárgyak feltörésére teszel kísérletet. A Sebzésmódosító egy extra kockadobás, amelyet vagy hozzáadnak a fegyver vagy eszköz által okozott sebzéshez, vagy levonnak belőle. Ha egy negatív Sebzésmódosító a fegyver sebzését nullára vagy az alá csökkenti, akkor egyáltalán nem történt sebzés.
 
-Add össze az STR és SIZ értékét, és keresd ki az alábbi Sebzésmódosító táblázatból az eredményt.
+Add össze az ERŐ-t és a MÉR-et, és tekintsd meg az alábbi Sebzésmódosító táblázatot.
 
 ##### Sebzésmódosító táblázat
 
-| STR+SIZ | Sebzésmódosító |
+| ERŐ+MÉR | Sebzésmódosító |
 | :-: | :-:|
 | 5 vagy kevesebb | –1d8 |
 | 6–10 | –1d6 |
@@ -102,91 +102,91 @@ Add össze az STR és SIZ értékét, és keresd ki az alábbi Sebzésmódosít�
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Minden 10 pont | Folytasd a sort |
+| Minden 10 pont | Folytasd a progressziót |
 
-#### Tapasztalati Módosító
+#### Tapasztalati módosító
 
-A játék során a karakterek fejlesztik képzettségeiket és képességeiket. Ezt a Tapasztalati Dobások segítségével érik el, amelyeket a [Játékrendszer](0004_Game_System.md?id=experience-rolls) szakaszban írunk le részletesebben.
+A játék során a karakterek fejlesztik képességeiket és jártasságaikat. Ezt Tapasztalati dobásokkal érik el, amelyeket részletesebben a [Játékrendszer](0004_Game_System.md?id=experience-rolls) szakasz ismertet.
 
-A karakter CHA pontszáma módosíthatja a karakter által kapott Tapasztalati Dobások számát, tükrözve a társaival való kapcsolatát és a közösségben kivívott hírnevét. Magas CHA esetén az emberek szívesebben segítenek a karakter edzésében vagy támogatásában, miközben ő képzésben részesül. Ezzel szemben különösen alacsony CHA esetén nehézséget okozhat a képességek fejlesztése mások segítsége nélkül; például nehéz lehet edzőpartnert találni.
+Egy karakter KAR-értéke módosíthatja a karakter által kapott Tapasztalati dobások számát, tükrözve a társaival való kapcsolatát és a közösségben kivívott hírnevét. Magas KAR mellett az emberek szívesen tesznek erőfeszítéseket, hogy segítsenek képezni vagy támogatni a karaktert, miközben oktatásban részesül. Ezzel szemben, különösen alacsony KAR mellett, nehézségekbe ütközhet a képességek fejlesztése mások segítsége nélkül; például sparringpartner találása esetén.
 
-##### Tapasztalati Módosító táblázat
+##### Tapasztalati módosító táblázat
 
-| CHA | Tap. Módosító |
+| KAR | Tap. Módosító |
 |:-:| :-:|
 | 6 vagy kevesebb | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Minden 6 pont | +1 |
 
-#### Gyógyulási Ráta
+#### Gyógyulási ráta
 
-Sérülések után a karakternek fel kell épülnie. A Gyógyulási Ráta határozza meg, milyen gyorsan gyógyulnak természetes úton a sebei. A sérülés súlyosságától függően a Gyógyulási Ráta jelzi, hogy naponta, hetente vagy havonta hány Életerő (Hit Points) áll helyre.
+A sérülések elszenvedése után a karakternek regenerálódnia kell. A Gyógyulási ráta határozza meg, milyen gyorsan épül fel természetes úton a sebekből. A sérülés súlyosságától függően a Gyógyulási ráta jelzi, hány Életerő pont gyógyul naponta, hetente vagy havonta.
 
-##### Gyógyulási Ráta táblázat
+##### Gyógyulási ráta táblázat
 
-| CON | Gyógyulási Ráta |
+| ÁLL | Gyógyulási ráta |
 | :-:| :-:|
 | 6 vagy kevesebb | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Minden 6 pont | +1 |
 
-#### Életerő (Hit Points)
+#### Életerő
 
-Az Életerő azt mutatja meg, mennyi sérülést képes elviselni egy testrész, mielőtt használhatatlanná válik, ami esetleg cselekvőképtelenséghez és végső soron a karakter halálához vezethet. Minden lény teste különálló testtájakra oszlik – az embereknek például hét van: a fej, a mellkas, a has, a karok és a lábak –, mindegyik testtájnak saját Életereje van.
+Az Életerő azt mutatja meg, mennyi sérülést képes elviselni a test egy adott része, mielőtt használhatatlanná válna, ami esetleg cselekvőképtelenséghez és végső soron a karakter halálához vezethet. Minden élőlény teste különálló testtájakra oszlik – az embereknek például hét van: a fej, a mellkas, a has, a karok és a lábak –, és minden testtájnak saját Életereje van.
 
-Egyes lényeknek, mint például a szörnyeknek vagy a különböző állatfajoknak, természetüknél fogva gyakran gyökeresen eltérő a testszerkezetük, mégis minden testtájnak van Életereje. Amikor egy testtáj Életereje bármilyen sebzés következtében egy bizonyos szintre csökken, a karakter bizonyos következményeket szenved el, amelyek tükrözik a sérülés súlyosságát. A sebekkel kapcsolatos további információkért lásd a [Sebzés és Sebzési Szintek](0004_Game_System.md?id=damage-and-wound-levels) szakaszt.
+Egyes lények, például szörnyek vagy különböző állatfajok, természetüknél fogva gyakran gyökeresen eltérő testfelépítéssel rendelkeznek, mégis minden testtájuknak van Életereje. Amikor egy testtáj Életereje a sérülések hatására egy bizonyos szintre csökken, a karakter bizonyos következményeket szenved el, amelyek tükrözik a sérülés súlyosságát. A sebekkel kapcsolatos további információkért lásd a [Sebzés és Sebszintek](0004_Game_System.md?id=damage-and-wound-levels) szakaszt.
 
-Az egyes testtájak Életerejének kiszámításához add össze a CON és SIZ értékeket, és keresd ki az eredményt az alábbi Életerő táblázatban.
+Az egyes testtájak Életerejének kiszámításához add össze az ÁLL-t és a MÉR-et, majd keresd ki az eredményt a fenti Életerő táblázatban.
 
 ##### Életerő testtájanként
 
-| Testtáj | CON+SIZ | | | | | | | | |
+| Testtáj | ÁLL+MÉR | | | | | | | | |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 | | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Fej | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Mellkas | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Has | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Karok (egyenként) | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Lábak (egyenként) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Mindkét Kar | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Mindkét Láb | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 #### Kezdeményezés
 
-Azt a pillanatot, amikor valaki reagál a harcban, a Kezdeményezés szabályozza. A Kezdeményezés módosítóként hat a Kezdeményezés dobásokra; minél magasabb a Kezdeményezés, annál gyorsabban válaszolsz egy harci helyzetben, meghatározva, mikor cselekedhetsz. További tényezők – például a páncél – módosítják ezt. A [Harci](0005_Combat.md?id=combat-style) fejezet részletesebben tárgyalja, hogyan használják a Kezdeményezést.
+Azt a pillanatot, amikor valaki reagál a harcban, a Kezdeményezés határozza meg. A Kezdeményezés a kezdeményezés-dobások módosítójaként működik; minél magasabb a Kezdeményezés, annál gyorsabban válaszol valaki egy harci helyzetben, meghatározva, mikor cselekedhet. További tényezők – például a páncél – módosítják ezt. A [Harc](0005_Combat.md?id=combat-styles) fejezet részletesebben foglalkozik a Kezdeményezés használatával.
 
-A Kezdeményezés a DEX és INT Tulajdonságok átlaga.
+A Kezdeményezés az ÜGY és az INT Jellemzők átlaga.
 
-#### Szerencse-pontok
+#### Szerencsepontok
 
-A Szerencse-pontok azt a különös erőt képviselik, amely megkülönbözteti a kalandozó hősöket a hétköznapi emberektől. Hívd sorsnak, karmának vagy egyszerű szerencsének. A Szerencse-pontok a következőkre használhatók:
+A Szerencsepontok azt a különös erőt képviselik, amely megkülönbözteti a kalandozó hősöket a hétköznapi emberektől. Nevezhetjük sorsnak, karmának vagy egyszerű szerencsének. A Szerencsepontok a következőkre használhatók:
 
-- Újradobni a kockákat, ha az eredmény kedvezőtlen.
-- Enyhíteni a fizikai sérüléseket vagy más szerencsétlen körülményeket.
-- Előnyhöz jutni a harc egy kritikus pillanatában.
+- Újradobni a kockákat, ha azok kedvezőtlenek.
+- Enyhíteni a fizikai sérülést vagy egyéb szerencsétlen körülményeket.
+- Előnyhöz jutni a harc kulcsfontosságú pillanatában.
 
-Pontosan hogyan és mikor használhatók, azt a [Játékrendszer](0004_Game_System.md?id=game-system) szakasz írja le. Miután egy Szerencse-pontot elköltöttek, a készlet csökken; amikor valaki kifogy a Szerencse-pontokból, több nem áll rendelkezésre – hacsak a Játékmester nem ad egy rögtönzött jutalmat –, egészen a következő játékülésig, amikor visszaállnak a normál értékre.
+Hogy pontosan hogyan és mikor használják őket, az a [Játékrendszer](0004_Game_System.md?id=game-system) szakaszban van leírva. Miután egy Szerencsepontot elköltöttek, a készlet csökken; amikor valakinek elfogynak a Szerencsepontjai, több nem áll rendelkezésre – hacsak a Játékmester nem ad egy rögtönzött jutalmat –, egészen a következő játékülésig, amikor azok visszaállnak a normál értékükre.
 
-##### Szerencse-pontok táblázat
+##### Szerencsepontok táblázat
 
-| POW | Szerencse-pontok |
+| HAT | Szerencsepontok |
 | :-- | :-: |
 | 6 vagy kevesebb | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Minden 6 pont | +1 |
 
-#### Mágia-pontok
+#### Varázspontok
 
-A _Mythras_ _Imperative_-ben használt misztikus képességek, erők és varázslatok általában Mágia-pontokra támaszkodnak. Mivel a mágia elérhetőségét korlátozhatja a kampány világa vagy specifikus mágikus hivatások, egyes karakterek számára ez az Attribútum felesleges lehet.
+A _Mythras Imperative_-ban használt misztikus képességek, erők és varázslatok általában Varázspontokra támaszkodnak. Mivel a mágia elérhetőségét korlátozhatja egy kampánykörnyezet vagy bizonyos mágikus szakmák, egyes karakterek számára ez az Attribútum felesleges lehet.
 
-Azok számára, akik képesek ilyen erők használatára, a karakter Mágia-pontjai megegyeznek a POW értékével. Ezeket a pontokat varázslatok elsütésére használják, amelyek költsége a felhasznált mágia típusától függ. Amikor a varázsló kifogy a Mágia-pontokból, kimerítette azon képességét, hogy bármilyen varázslatot elvégezzen, amíg a Mágia-pontok vissza nem töltődnek.
+Azok számára, akik képesek ilyen erőket használni, a karakter Varázspontjai megegyeznek a HAT-jával. Ezeket a pontokat varázslatok elsütésére használják, amelyek költsége a használt mágia típusától függ. Amikor a varázslóknak elfogynak a Varázspontjaik, kimerítették a képességüket bármilyen varázslat elsütésére, amíg a Varázspontok újra nem töltődnek.
 
-#### Mozgási Sebesség
+#### Mozgási ráta
 
-Minden lénynek van egy Mozgási Sebessége – a méterek száma, amelyet egy bizonyos idő alatt megtehet. A mozgás nem a Tulajdonságokból számítható, hanem egy alapértelmezett érték, amely fajról fajra változik. Az emberek alap Mozgási Sebessége 6 méter.
+Minden lénynek van Mozgási rátája – méterben kifejezett távolság, amelyet egy adott időszak alatt megtehet. A mozgás nem a Jellemzőkből számítódik, hanem egy alapértelmezett érték, amely fajonként változik. Az emberek alap Mozgási rátája 6 méter.
 
-A Gyaloglásnál gyorsabb mozgásmódok szorzót alkalmaznak a Mozgási értékre:
+A Sétánál gyorsabb mozgásnemek szorzót alkalmaznak a Mozgás értékére:
 - **Futás:** Mozgás x3
 - **Sprint:** Mozgás x5
 
@@ -194,157 +194,157 @@ A Gyaloglásnál gyorsabb mozgásmódok szorzót alkalmaznak a Mozgási értékr
 
 <summary>* Közösségi Errata</summary>
 
-_**Mozgásmódok: Gyaloglás, Futás, Sprint**_
+_**Mozgásnemek: Séta, Futás, Sprint**_
 
-_A _Mythras Imperative_ publikált verziója nem tartalmaz explicit szabályokat a különböző mozgásmódokra vonatkozóan, bár a Mythras alapkönyv tárgyalja őket. A fenti szorzók a közösségi Errata részeként kerültek hozzáadásra._
+_A _Mythras Imperative_ publikált verziója nem tartalmaz kifejezett szabályokat a különböző mozgásnemekre, bár ezeket a Mythras alapkönyv lefedi. A fenti mozgásnem-szorzók a Közösségi Errata részeként kerültek hozzáadásra._
 
-_Ahol szükséges, elegendő a mozgásmódokat a következőképpen kezelni:_
+_Ahol szükséges, elég a mozgásnemeket a következőképpen kezelni:_
 
-- _A Gyaloglásnál gyorsabb mozgásmódok szorzót alkalmaznak a Mozgási értékre: 3x Futáshoz, 5x Sprintezéshez._
-- _Futás vagy Sprint közben a karakterek nem kísérelhetnek meg legtöbb proaktív cselekvést, például támadást vagy varázslást. Néhány kivétel:_
-  - _Támadások a Roham szabályok használatakor._
-  - _Távolsági fegyverek használata a Csetepaté (Skirmishing) vonással._
+- _A Sétánál gyorsabb mozgásnemek szorzót alkalmaznak a Mozgás értékére: 3x Futásnál, 5x Sprintnél._
+- _Futás vagy Sprint mozgásnem közben a karakterek nem próbálkozhatnak legtöbb proaktív cselekvéssel, mint például támadás vagy varázslás. Néhány kivétel közé tartozik..._
+  - _Támadások Roham szabályok használata esetén._
+  - _Távolsági fegyverek használata Csetepaté (Skirmishing) tulajdonsággal._
 - _Általános szabályként minden megengedett cselekvést egy fokozattal nehezebbnek kell tekinteni Futásnál, és két fokozattal nehezebbnek Sprintnél._
+
 
 </details>
 
 ---
-## 4. lépés: Képzettségek
+## 4. lépés: Képességek
 
-A képzettségek két osztályba sorolhatók. Mindenkinek vannak Standard képzettségei – olyan dolgok, mint a lopakodás vagy mások befolyásolása. A Szakmai képzettségek ezzel szemben olyanok, amelyekhez speciális képzés szükséges, mielőtt megkísérelhetőek lennének – olyanok, mint a vadállatok nyomon követése, űrhajó vezetése vagy ősi nyelvek ismerete. A karakterek három pontkészletet kapnak, amelyeket a képzettségek megszerzésére költhetnek; az első készlet a Kultúrára, amelyben felnőttek, a második a Karrierre, amelyet gyermekkoruk után választanak, az utolsó pedig a képzettségeik további kerekítésére. Alapértelmezés szerint az új karakterek 100 pontot osztanak ki a Kulturális képzettségi készletbe, 100-at a Karrier készletbe, és további 150 Bónusz pontot a kerekítésre. Minden Kultúrának és Karriernek meghatározott Standard és Szakmai képzettségei vannak, amelyekre ezek a képzettségpontok kioszthatók.
+A képességek két osztályba sorolhatók. Mindenkinek vannak Általános képességei – olyan dolgok, mint a lopakodás vagy mások befolyásolása. A Szakmai képességek viszont olyanok, amelyek speciális képzést igényelnek, mielőtt megkísérelhetők lennének – például vadállatok nyomon követése, űrhajó vezetése vagy ősi nyelvek megértése. A karakterek három pontkészletet kapnak a képességek megszerzésére; az első készlet a Kultúra számára, amelyben felnőttek, a második a Karrier számára, amelyet gyermekkor után választanak, és az utolsó a képességkészletük további kerekítésére. Alapértelmezés szerint az új karakterek 100 pontot rendelnek a Kultúra képességkészletéhez, 100-at a Karrier képességkészletéhez, és további 150 Bónusz pontot a kerekítéshez. Minden Kultúra és Karrier meghatározott általános és szakmai képesség-tartománnyal rendelkezik, amelyekhez ezek a képességpontok hozzárendelhetők.
 
 ##### Harci Stílus
 
-A Harci Stílus szerepel az alábbi Kulturális leírásokban. A Harci Stílusokat részletesebben a [Harci](0005_Combat.md?id=combat-style) szakasz ismerteti, és az Alap Százalékuk megegyezik az STR+DEX értékével.
+A Harci Stílus az alábbi Kulturális leírásokban szerepel. A Harci Stílusokat a [Harc](0005_Combat.md?id=combat-styles) szakasz részletesebben ismerteti, és az Alapszázalékuk megegyezik az ERŐ+ÜGY értékével.
 
-##### Standard Képzettségek
+##### Általános képességek
 
-| Képzettség | Alap Százalék |
+| Képesség | Alapszázalék |
 | :-- | :-- |
-| Atlétika | STR+DEX |
-| Csónakázás | STR+CON |
-| Erőnlét | STR+SIZ |
-| Rejtőzés | DEX+POW |
+| Atlétika | ERŐ+ÜGY |
+| Csónakázás | ERŐ+ÁLL |
+| Erőnlét | ERŐ+MÉR |
+| Rejtőzés | ÜGY+HAT |
 | Szokások | INT x2, +40\* |
-| Tánc | DEX+CHA |
-| Megtévesztés | INT+CHA |
-| Járművezetés | DEX+POW |
-| Állóképesség | CON x2 |
-| Kitérés | DEX x2 |
-| Elsősegély | INT+DEX |
-| Befolyásolás | CHA x2 |
-| Belátás | INT+POW |
+| Tánc | ÜGY+KAR |
+| Csalás | INT+KAR |
+| Vezetés | ÜGY+HAT |
+| Kitartás | ÁLL x2 |
+| Kitérés | ÜGY x2 |
+| Elsősegély | INT+ÜGY |
+| Befolyásolás | KAR x2 |
+| Belátás | INT+HAT |
 | Helyismeret | INT x2 |
-| Anyanyelv | INT+CHA, +40\* |
-| Észlelés | INT+POW |
-| Lovaglás | DEX+POW |
-| Éneklés | CHA+POW |
-| Lopakodás | DEX+INT |
-| Úszás | STR+CON |
-| Fegyvertelen | STR+DEX |
-| Akaraterő | POW x2 |
+| Anyanyelv | INT+KAR, +40\* |
+| Észlelés | INT+HAT |
+| Lovaglás | ÜGY+HAT |
+| Éneklés | KAR+HAT |
+| Lopakodás | ÜGY+INT |
+| Úszás | ERŐ+ÁLL |
+| Fegyvertelen | ERŐ+ÜGY |
+| Akaraterő | HAT x2 |
 
-_\* Magában foglal egy +40%-os statikus bónuszt mind a Szokások, mind a karakter Anyanyelve esetében (embereknél Közös)._
+_\* Tartalmaz egy +40%-os statikus bónuszt mind a Szokások, mind a karakter Anyanyelve (emberek számára Közös) esetében._
 
 ---
 ## 5. lépés: Kultúra
 
-A Kultúra meghatározza azt a társadalmat, amelyben a karakter felnőtt, és így előír bizonyos nézeteket és filozófiákat, amelyekkel rendelkezhet. Gyakorlatiasabban nézve, a kultúra segít növelni azoknak a képzettségeknek az értékeit, amelyek alakítják a karakter általános képességeit. Négy alapvető emberi kultúra létezik: Barbár, Civilizált, Nomád és Primitív. Mindegyik kulturális háttér felsorolja a hozzá illő Standard képzettségeket, és felkéri a játékost, hogy válasszon legfeljebb hármat a bemutatott Szakmai képzettségek közül: így a játékosok ugyanabból a kulturális háttérből biztosíthatják, hogy kalandoraik különbözőek legyenek az általuk fejlesztett területeken. Oszd el a 100 Kulturális képzettségpontot a karrier felsorolt Standard képzettségei és a választott Szakmai képzettségek között, minden egyes képzettséget 1%-kal növelve minden ráfordított pontért. A Játékmesterek korlátozhatják, hogy hány képzettségpont alkalmazható egy adott képzettségre.
+A Kultúra meghatározza azt a társadalmat, amelyben a karakter felnőtt, és így előír bizonyos szemléletmódokat és filozófiákat, amelyekkel rendelkezhet. Gyakorlatibb módon a kultúra segít növelni azoknak a különböző képességeknek az értékét, amelyek meghatározzák a karaktered általános képességeit. Négy alapvető emberi kultúra létezik: Barbár, Civilizált, Nomád és Primitív. Minden kulturális háttér felsorolja a számára megfelelő Általános képességeket, és felkéri a játékost, hogy válasszon legfeljebb hármat a bemutatott Szakmai képességek közül: így az azonos kulturális háttérrel rendelkező játékosok biztosíthatják, hogy kalandozóik különbözőek legyenek a fejlesztett területeken. Oszd el a 100 Kulturális képességpontot a karrier felsorolt Általános képességei és a kiválasztott Szakmai képességek között, minden képességet 1%-kal növelve minden egyes ráköltött ponttal. A Játékmesterek esetleg korlátozni szeretnék, hogy egy adott képességre mennyi képességpont alkalmazható.
 
 ### Barbár
 
-Törzsi természetüknél fogva a barbárok hajlamosak kerülni a civilizációt, a nagyvárosokban élőket gyengének és romlottnak tekintik. Bár saját településeik is állandóak, hajlamosak sokkal kisebbek és közelebbiek lenni a természethez. A barbár törzsek meghatározott területeket foglalnak el, gyakran félig megszelídített vadont, amelyet sajátjuknak tekintenek vadászat, legeltetés és gazdálkodás céljából. Legtöbbjük jártas a fegyverhasználatban, mivel életük során sok veszélyt kell leküzdeniük – szembeszállni a vadon lényeivel vagy összefogni földjeik megvédése érdekében a rivális törzsekkel szemben. Mivel kis közösségekben élnek, a rokonsági és klánkapcsolatok társadalmuk erős elemei.
+Törzsi természetűek, a barbárok hajlamosak elkerülni a civilizációt, gyengének és romlottnak tekintve azokat, akik nagyvárosokban élnek. Bár saját településeik is állandóak, hajlamosak sokkal kisebbek és közelebbiek lenni a természethez. A barbár törzsek különálló területeket foglalnak el, gyakran félig megszelídített vadont, amelyet sajátjuknak tekintenek vadászati, legeltetési és földművelési célokra. A legtöbben jártasak a fegyverhasználatban, mivel életük során sok veszélyt kell leküzdeniük – szembeszállnak a vadon lényeivel, vagy összegyűlnek, hogy megvédjék földjeiket a rivális törzsekkel szemben. Mivel kis közösségekben élnek, a rokonsági és klánkapcsolatok társadalmuk erős elemei.
 
-#### Képzettségek
+#### Képességek
 
-- **Standard Képzettségek:** Atlétika, Erőnlét, Állóképesség, Elsősegély, Helyismeret, Észlelés; valamint Csónakázás vagy Lovaglás. Emellett a játékos választhat egy kulturális Harci Stílust is.
-- **Szakmai Képzettségek:** Mesterség (bármely), Gyógyítás, Tudás (bármely), Zenélés, Navigáció, Tengerészet, Túlélés, Nyomkövetés.
+- **Általános képességek:** Atlétika, Erőnlét, Kitartás, Elsősegély, Helyismeret, Észlelés; és vagy Csónakázás vagy Lovaglás. Ezenkívül a játékos választhat kulturális Harci Stílust is.
+- **Szakmai képességek:** Kézművesség (bármely), Gyógyítás, Tudás (bármely), Zenélés, Navigáció, Hajózás, Túlélés, Nyomkövetés.
 
 ### Civilizált
 
-A Civilizált kultúrát a törvény és rend látszata jellemzi, amelyet összetett társadalmi kódexek támasztanak alá, és bürokrácia támogat. A civilizált emberek felsőbbrendűnek tartják magukat minden más kultúránál, mivel eredményeik a tartósság felé hajlanak: terjeszkedő városok, lenyűgöző templomok, ünnepi emlékművek, valamint a történelem és események rögzítése könyvekben, sírkövekben és tekercseken. Természetesen ez csak egy vékony máz. A legcivilizáltabb városok is lehetnek törvénytelenebbek bármely barbár határmenti településnél; és a társadalmi kódexek lehetnek nyersebbek, mint a nomádok vendéglátási rituáléi. De a Civilizált kultúra büszke eredményeire, infrastruktúrájára, hivatásos kézműveseire és arra a képességére, hogy könnyen kiterjessze hatókörét bárhová, ahová csak akar.
+A Civilizált kultúrát a törvény és rend látszata jellemzi, amelyet komplex társadalmi kódexek támasztanak alá és bürokrácia támogat. A civilizált emberek felsőbbrendűnek tartják magukat minden más kultúránál, mert vívmányaik a tartósság felé hajlanak: burjánzó városok, impozáns templomok, ünnepi emlékművek, valamint a történelem és események rögzítése könyvekben, sírköveken és tekercseken. Természetesen ez egy vékony máz. A legcivilizáltabb városok is lehetnek törvénytelenebbek, mint bármely barbár határ menti település; és a társadalmi kódexek lehetnek durvábbak, mint a nomádok vendégszeretet-rituáléi. De a Civilizált kultúra büszke eredményeire, infrastruktúrájára, hivatásos kézműveseire és arra a képességére, hogy könnyen kiterjessze hatókörét bárhová, ahová csak menni akar.
 
-#### Képzettségek
+#### Képességek
 
-- **Standard Képzettségek:** Rejtőzés, Megtévesztés, Járművezetés, Befolyásolás, Belátás, Helyismeret, Akaraterő. Emellett a játékos választhat egy kulturális Harci Stílust is.
-- **Szakmai Képzettségek:** Művészet (bármely), Kereskedelem, Mesterség (bármely), Udvariasság, Nyelv (bármely), Tudás (bármely), Zenélés, Utcai jártasság.
+- **Általános képességek:** Rejtőzés, Csalás, Vezetés, Befolyásolás, Belátás, Helyismeret, Akaraterő. Ezenkívül a játékos választhat kulturális Harci Stílust is.
+- **Szakmai képességek:** Művészet (bármely), Kereskedelem, Kézművesség (bármely), Udvariasság, Nyelv (bármely), Tudás (bármely), Zenélés, Utcai bölcsesség.
 
 ### Nomád
 
-A nomád emberek állandó mozgásban vannak, nincs otthonuk és tűzhelyük, amelyet magukénak nevezhetnének. Lehet, hogy céltalanul vándorolnak, vagy több táboruk is lehet, amelyek között mozognak az év során. Kevés terményt termesztenek, ehelyett állatok vagy halak vándorlását követik, esetleg saját háziasított állataikat terelik. A nomádok ügyesen élnek meg abból, amit gyorsan és könnyen begyűjthetnek környezetükből, semmit sem hagyva kárba veszni. A nomád kultúra képzettségeit környezetükhöz kell igazítani. Vannak, akik hatalmas távolságokat tesznek meg gyalog, mások karavánokban élnek vagy különös lényeken lovagolnak, és vannak, akik nagy lebegő tutajokon sodródnak az óceánokon.
+A nomád népek folyamatosan úton vannak, nincs otthonuk és tűzhelyük, amelyet sajátjuknak nevezhetnének. Cél nélkül vándorolhatnak, vagy lehet több táboruk, amelyekbe egész évben költöznek. Kevés terményt termesztenek, ehelyett állatok vagy halak vándorlását követik, esetleg saját háziasított állataikat terelik. A nomádok jártasak abban, hogy abból éljenek meg, amit gyorsan és könnyen begyűjthetnek környezetükből, semmit sem pazarolva el. A nomád kultúra képességeit a környezetükhöz kell igazítani. Egyesek hatalmas távolságokat tesznek meg gyalog, mások karavánokban élnek vagy különös lényeket lovagolnak meg, és vannak, akik hatalmas úszó tutajokon sodródnak az óceánokon.
 
-#### Képzettségek
+#### Képességek
 
-- **Standard Képzettségek:** Állóképesség, Elsősegély, Helyismeret, Észlelés, Lopakodás; valamint kettő a következőkből: Atlétika, Csónakázás, Úszás, Járművezetés vagy Lovaglás, az elsődleges utazási módtól függően. Emellett a játékos választhat egy kulturális Harci Stílust is.
-- **Szakmai Képzettségek:** Mesterség (bármely), Kultúra (bármely), Nyelv (bármely), Tudás (bármely), Zenélés, Navigáció, Túlélés, Nyomkövetés.
+- **Általános képességek:** Kitartás, Elsősegély, Helyismeret, Észlelés, Lopakodás; és kettő a következőkből: Atlétika, Csónakázás, Úszás, Vezetés vagy Lovaglás, az elsődleges utazási módtól függően. Ezenkívül a játékos választhat kulturális Harci Stílust is.
+- **Szakmai képességek:** Kézművesség (bármely), Kultúra (bármely), Nyelv (bármely), Tudás (bármely), Zenélés, Navigáció, Túlélés, Nyomkövetés.
 
 ### Primitív
 
-Minden nép közül a primitívek élnek legközelebb a földhöz, összhangban annak rejtett titkaival. Kiterjedt családi csoportokban élve a primitív kultúrák nagyon egyszerű lakhelyek köré gyűlnek, amelyek a barlangoktól és természetes menedékhelyektől kezdve a tákolmányokig vagy nagyon egyszerű kunyhókig terjedhetnek. A primitívek általában vadászó-gyűjtögetők, kevés vagy rosszul fejlett gazdálkodási és állattartási rendszerekkel.
+Minden nép közül a primitívek élnek a legközelebb a földhöz, összhangban annak rejtett titkaival. Kiterjedt családi csoportokban élve a primitív kultúrák nagyon egyszerű lakhelyek köré gyűlnek, amelyek a barlangoktól és a természetes menedékhelyektől kezdve a tákolmányokig vagy nagyon alapvető kunyhókig terjedhetnek. A primitívek jellemzően vadászó-gyűjtögetők, kevés vagy rosszul fejlett földművelési és állattenyésztési rendszerrel.
 
-Azonban bizonyos kulturális hiedelmek, amelyek gyakran babonákon alapulnak, nagyon jól meghatározottak lehetnek. Kevés primitív kultúra fejlesztett ki írott nyelvet, bár festmények és egyéb képi szimbólumok szolgálnak kommunikációs eszközként.
+Azonban bizonyos kulturális hiedelmek, amelyek gyakran babonákon alapulnak, nagyon jól meghatározottak lehetnek. Kevés primitív kultúra fejlesztett ki írott nyelvhez közelítőt, bár a festmények és más képi szimbólumok kommunikációs eszközként szolgálnak.#### Képességek
 
-#### Képzettségek
-
-- **Standard Képzettségek:** Erőnlét, Állóképesség, Kitérés, Helyismeret, Észlelés, Lopakodás; valamint egy az Atlétika, Csónakázás vagy Úszás közül. Emellett a játékos választhat egy kulturális Harci Stílust is.
-- **Szakmai Képzettségek:** Mesterség (bármely), Gyógyítás, Tudás (bármely), Zenélés, Navigáció, Túlélés, Nyomkövetés.
+- **Általános képességek:** Erőnlét, Kitartás, Kitérés, Helyismeret, Észlelés, Lopakodás; valamint az Atlétika, Csónakázás vagy Úszás közül az egyik. Ezen felül a játékos választhat egy kulturális Harci stílust is.
+- **Szakmai képességek:** Kézművesség (bármilyen), Gyógyítás, Tudás (bármilyen), Zenélés, Navigáció, Túlélés, Nyomkövetés.
 
 ---
 ## 6. lépés: Karrier
 
-Minden karakter úgy kezdi a játékot, hogy kiképezték egy karrierre. A választott foglalkozás nem feltétlenül az, amelyet a karakter a kalandozó élet kezdete után is folytat, de ez az a karrier, amelybe a felnőtté válás részeként kezdett, és ez tovább határozza meg a képzettségfejlesztést. Minden karrier felsorolja a hozzá illő Standard képzettségeket, és lehetővé teszi a játékosnak, hogy válasszon legfeljebb hármat a felsorolt Szakmai képzettségek közül. Oszd el a 100 Karrier képzettségpontot a karrier felsorolt Standard képzettségei és a választott Szakmai képzettségek között, minden egyes képzettséget 1%-kal növelve minden ráfordított pontért. Ahogy a kultúráknál, a Játékmester itt is korlátozhatja, hogy hány képzettségpont alkalmazható egy adott képzettségre.
+Minden karakter úgy kezdi a játékot, hogy kiképezték egy karrierre. A választott foglalkozás nem feltétlenül az, amelyet a karakter a kalandozó élet kezdetén folytat, de ez az a karrier, amelyre a felnőttkorba lépés részeként lépett, és ez határozza meg tovább a képességek fejlesztését. Minden karrier felsorolja az ahhoz illő Általános képességeket, és lehetővé teszi a játékosnak, hogy legfeljebb hármat válasszon a felsorolt Szakmai képességek közül. Ossz el 100 Karrier-képességpontot a karrier felsorolt Általános képességei és a kiválasztott Szakmai képességek között, minden egyes képességet 1%-kal növelve minden rá költött ponttal. A kultúrákhoz hasonlóan a Játékmester korlátozhatja, hogy egy adott képességre mennyi képességpont alkalmazható.
 
-Specifikus Szakmai képzettségek, mint például a Pilóta, valószínűtlen, hogy megtalálhatóak egy fantasy világban. A képzettségeket részletesebben a [Képzettségek](0002_Characters.md?id=step-4-skills) fejezet tárgyalja.
+Egyes konkrét Szakmai képességek, mint például a Pilóta, valószínűtlen, hogy megtalálhatóak lennének egy fantasy világban. A képességeket részletesebben a [Képességek](0002_Characters.md?id=step-4-skills) fejezet tárgyalja.
 
-#### Karrier táblázat
+#### Karrier-táblázat
 
-| Karrier neve | Standard Képzettségek | Szakmai Képzettségek |
+| Karrier neve | Általános képességek | Szakmai képességek |
 | :-- | :-- | :-- |
-| Ügynök (Kagitátor, Bérgyilkos, Detektív, Besúgó, Kém…) | Rejtőzés, Megtévesztés, Kitérés, Belátás, Észlelés, Lopakodás; Harci Stílus (Specifikus ügynök vagy Kulturális) | Kultúra (bármely), Álcázás, Nyelv (bármely), Ügyesség, Utcai jártasság, Túlélés, Nyomkövetés |
-| Állatidomár (Állattenyésztő, Állatszelídítő, Menazséria-őr…) | Járművezetés, Állóképesség, Elsősegély, Befolyásolás, Helyismeret, Lovaglás, Akaraterő | Mesterség (Állattenyésztés), Kereskedelem, Gyógyítás (Specifikus faj), Tudás (Specifikus faj), Túlélés, Tanítás (Specifikus faj), Nyomkövetés |
-| Fejvadász (Behajtó, Fejvadász, Skalpvadasz…) | Atlétika, Állóképesség, Kitérés, Belátás, Észlelés, Lopakodás; Harci Stílus (bármely) | Bürokrácia, Kereskedelem, Kultúra (bármely), Nyelvészet, Utcai jártasság, Túlélés (bármely), Nyomkövetés |
-| Kurtizán (Ágyas, Kísérő, Háremhölgy, Paramour…) | Szokások, Tánc, Megtévesztés, Befolyásolás, Belátás, Észlelés, Éneklés | Művészet (bármely), Udvariasság, Kultúra (bármely), Szerencsejáték, Nyelv (bármely), Zenélés, Csábítás |
-| Kézműves (Mesterember…) | Erőnlét, Járművezetés, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Művészet (bármely), Kereskedelem, Mesterség (Elsődleges), Mesterség (Másodlagos), Mérnöki ismeretek, Mechanizmusok, Utcai jártasság |
-| Detektív (Rendőr, Magánnyomozó…) | Szokások, Kitérés, Befolyásolás, Belátás, Észlelés, Lopakodás; Harci Stílus (Fegyvertelen vagy Oldalfegyver stílus) | Bürokrácia, Kultúra (bármely), Álcázás, Nyelvészet, Tudás (bármely), Kutatás, Ügyesség, Utcai jártasság |
-| Szórakoztató (Akrobata, Bárd, Táncos, Költő…) | Atlétika, Erőnlét, Tánc, Megtévesztés, Befolyásolás, Belátás, Éneklés | Akrobatika, Színészet, Szónoklás, Zenélés, Csábítás, Ügyesség, Utcai jártasság |
-| Gazdálkodó (Birtokos, Kertész, Szántóvető…) | Atlétika, Erőnlét, Járművezetés, Állóképesség, Helyismeret, Észlelés, Lovaglás | Kereskedelem, Mesterség (bármely), Tudás (Mezőgazdaság), Tudás (Állattenyésztés), Navigáció, Túlélés, Nyomkövetés |
-| Halász (Hálós, Gyöngyhalász, Bálnavadász…) | Atlétika, Csónakázás, Állóképesség, Helyismeret, Észlelés, Lopakodás, Úszás | Kereskedelem, Mesterség (Bármely), Tudás (Elsődleges fogás), Tudás (Másodlagos fogás), Navigáció, Tengerészet, Túlélés |
-| Szerencsejátékos (Könyvelő, Kártyás, Hustler…) | Atlétika, Erőnlét, Állóképesség, Helyismeret, Észlelés, Akaraterő; és Járművezetés vagy Lovaglás | Színészet, Bürokrácia, Kereskedelem, Udvariasság, Szerencsejáték, Kutatás, Ügyesség, Utcai jártasság |
-| Pásztor (Tenyésztő, Gulyás, Lúdpásztor…) | Állóképesség, Elsősegély, Belátás, Helyismeret, Észlelés, Lovaglás; Harci Stílus (Specifikus pásztor vagy Kulturális) | Kereskedelem, Mesterség (Állattenyésztés), Gyógyítás (Specifikus faj), Navigáció, Zenélés, Túlélés, Nyomkövetés |
-| Vadász (Erdész, Orr-vadász, Csapdaállító…) | Atlétika, Állóképesség, Helyismeret, Észlelés, Lovaglás, Lopakodás; Harci Stílus (Specifikus vadász vagy Kulturális) | Kereskedelem, Mesterség (Vadászattal kapcsolatos), Tudás (Regionális vagy specifikus faj), Mechanizmusok, Navigáció, Túlélés, Nyomkövetés |
-| Újságíró (Kommentátor, Pressman…) | Szokások, Megtévesztés, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés | Bürokrácia, Kultúra (bármely), Nyelv (bármely), Tudás (bármely), Szónoklás, Politika, Utcai jártasság |
-| Mágus (Varázsló, Sorcerer, Witch, Wizard…) | Szokások, Megtévesztés, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Kultúra, Mágia, Írástudás, Tudás x2, Szónoklás, Ügyesség |
-| Szerelő (Mérnök…) | Erőnlét, Kultúra, Járművezetés, Állóképesség, Befolyásolás, Helyismeret, Akaraterő | Kereskedelem, Mesterség (elsődleges), Mesterség (másodlagos), Elektronika, Szerencsejáték, Mechanizmusok, Utcai jártasság |
-| Kereskedő (Bróker, Árus, Csempész…) | Csónakázás, Járművezetés, Megtévesztés, Belátás, Befolyásolás, Helyismeret, Lovaglás | Kereskedelem, Udvariasság, Kultúra (bármely), Nyelv (bármely), Navigáció, Tengerészet, Utcai jártasság |
-| Bányász (Prospektor, Kőfejtő, Aknász…) | Atlétika, Erőnlét, Állóképesség, Helyismeret, Észlelés, Éneklés, Akaraterő | Kereskedelem, Mesterség (Bányászat), Mérnöki ismeretek, Tudás (Ásványok), Mechanizmusok, Navigáció (Földalatti), Túlélés |
-| Tisztviselő (Miniszter, Felügyelő, Adószedő…) | Szokások, Megtévesztés, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Bürokrácia, Kereskedelem, Udvariasság, Nyelv (bármely), Írástudás, Tudás (bármely), Szónoklás |
-| Orvos (Gyógyító, Medicine Man, Sebész…) | Tánc, Elsősegély, Befolyásolás, Belátás, Helyismeret, Éneklés, Akaraterő | Kereskedelem, Mesterség (Specifikus fiziológiai szakterület), Gyógyítás, Nyelv (bármely), Írástudás (bármely), Tudás (bármely), Utcai jártasság |
-| Pilóta (Aeronauta, Űrhajós, Tesztpilóta…) | Erőnlét, Járművezetés, Állóképesség, Kitérés, Helyismeret, Észlelés, Akaraterő | Szokások (bármely), Elektronika, Mechanizmusok, Navigáció, Pilóta, Érzékelők, Utcai jártasság |
-| Politikus (Közszolga, Miniszter…) | Szokások, Megtévesztés, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés | Bürokrácia, Udvariasság, Kultúra (bármely), Nyelv (bármely), Tudás (bármely), Szónoklás, Politika |
-| Pap (Arbiter, Kultista, Druida, Próféta…) | Szokások, Tánc, Megtévesztés, Befolyásolás, Belátás, Helyismeret, Akaraterő | Bürokrácia, Udvariasság, Szokások, Írástudás (bármely), Tudás (bármely), Szónoklás, Politika |
-| Tengerész (Kapitány, Gályarab, Kalóz…) | Atlétika, Csónakázás, Erőnlét, Állóképesség, Helyismeret, Úszás; Harci Stílus (Specifikus tengerész vagy Kulturális) | Mesterség (Specifikus hajózási szakterület), Kultúra (bármely), Nyelv (bármely), Tudás (bármely), Navigáció, Tengerészet, Túlélés |
-| Tudós (Annalista, Könyvtáros, Filozófus…) | Szokások, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés, Akaraterő | Kultúra (bármely), Nyelv (bármely), Írástudás (bármely), Tudás (Elsődleges), Tudás (Másodlagos), Szónoklás, Tanítás |
-| Felfedező (Fejvadász, Utazó…) | Atlétika, Állóképesség, Elsősegély, Észlelés, Lopakodás, Úszás; Harci Stílus (Specifikus vadász vagy Kulturális) | Kultúra (bármely), Gyógyítás, Nyelv (bármely), Tudás (bármely), Navigáció, Túlélés, Nyomkövetés |
-| Szolga (Komornyik, Komornyik, Személyi asszisztens…) | Szokások, Megtévesztés, Járművezetés, Befolyásolás, Belátás, Helyismeret, Észlelés | Bürokrácia, Udvariasság, Mesterség (szolgálattal kapcsolatos), Kultúra (bármely), Nyelv (bármely), Politika, Utcai jártasság |
-| Csempész (Feketepiaci árus, Bootlegger…) | Rejtőzés, Szokások, Megtévesztés, Járművezetés, Befolyásolás, Belátás, Helyismeret | Bürokrácia, Kereskedelem, Szokások (bármely), Nyelv (bármely), Navigáció, Utcai jártasság; és Asztrogáció vagy Tengerészet |
-| Technikus (Elektroműszerész…) | Erőnlét, Kultúra, Járművezetés, Állóképesség, Befolyásolás, Helyismeret, Akaraterő | Comms, Mesterség (bármely), Elektronika, Szerencsejáték, Mechanizmusok, Tudomány (bármely), Érzékelők |
-| Tolvaj (Betörő, Csaló, Mugger…) | Atlétika, Megtévesztés, Kitérés, Belátás, Észlelés, Lopakodás; Harci Stílus (Specifikus tolvaj vagy Kulturális) | Színészet, Kereskedelem, Álcázás, Zárak feltörése, Mechanizmusok, Ügyesség, Utcai jártasság |
-| Harcos (Testőr, Zsoldos, Katona…) | Atlétika, Erőnlét, Állóképesség, Kitérés, Fegyvertelen; Harci Stílus (Katonai), Harci Stílus (Kulturális) | Mesterség (bármely), Mérnöki ismeretek, Szerencsejáték, Tudás (Katonai történelem), Tudás (Stratégia és taktikák), Szónoklás, Túlélés |
+| Ügynök (Lázító, Bérgyilkos, Detektív, Besúgó, Kém…) | Eltusolás, Csalás, Kitérés, Belátás, Észlelés, Lopakodás; Harci stílus (Konkrét ügynöki vagy kulturális stílus) | Kultúra (bármilyen), Álcázás, Nyelv (bármilyen), Ügyesség, Utcai ismeretek, Túlélés, Nyomkövetés |
+| Állatidomár (Állattenyésztő, Fenevadidomár, Állatkerti gondozó…) | Járművezetés, Kitartás, Elsősegély, Befolyásolás, Helyismeret, Lovaglás, Akaraterő | Kézművesség (Állattenyésztés), Kereskedelem, Gyógyítás (Konkrét faj), Tudás (Konkrét faj), Túlélés, Tanítás (Konkrét faj), Nyomkövetés |
+| Fejvadász (Végrehajtó, Fejvadász, Skalpvadász, Eltűnt személyek felkutatója…) | Atlétika, Kitartás, Kitérés, Belátás, Észlelés, Lopakodás; Harci stílus (bármilyen) | Bürokrácia, Kereskedelem, Kultúra (bármilyen), Nyelvészet, Utcai ismeretek, Túlélés (bármilyen), Nyomkövetés |
+| Kurtizán (Ágyas, Kísérő, Háremhölgy, Houri, Kedves…) | Szokások, Tánc, Csalás, Befolyásolás, Belátás, Észlelés, Éneklés | Művészet (bármilyen), Udvariasság, Kultúra (bármilyen), Szerencsejáték, Nyelv (bármilyen), Zenélés, Csábítás |
+| Kézműves (Mesterember, Iparos…) | ERŐ, Járművezetés, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Művészet (bármilyen), Kereskedelem, Kézművesség (Elsődleges), Kézművesség (Másodlagos), Mérnöki tudomány, Mechanika, Utcai ismeretek |
+| Detektív (Magánnyomozó, Rendőr, Zsaru, Nyomozó…) | Szokások, Kitérés, Befolyásolás, Belátás, Észlelés, Lopakodás; Harci stílus (Fegyvertelen vagy Oldalfegyver stílus) | Bürokrácia, Kultúra (bármilyen), Álcázás, Nyelvészet, Tudás (bármilyen), Kutatás, Ügyesség, Utcai ismeretek |
+| Szórakoztató (Akrobata, Bárd, Táncos, Zenész, Költő…) | Atlétika, ERŐ, Tánc, Csalás, Befolyásolás, Belátás, Éneklés | Akrobatika, Színészet, Szónoklás, Zenélés, Csábítás, Ügyesség, Utcai ismeretek |
+| Gazdálkodó (Birtokos, Kertész, Szántóvető…) | Atlétika, ERŐ, Járművezetés, Kitartás, Helyismeret, Észlelés, Lovaglás | Kereskedelem, Kézművesség (bármilyen), Tudás (Mezőgazdaság), Tudás (Állattenyésztés), Navigáció, Túlélés, Nyomkövetés |
+| Halász (Parti halász, Hálós, Gyöngyhalász, Bálnavadász…) | Atlétika, Csónakázás, Kitartás, Helyismeret, Észlelés, Lopakodás, Úszás | Kereskedelem, Kézművesség (bármilyen), Tudás (Elsődleges zsákmány), Tudás (Másodlagos zsákmány), Navigáció, Hajózás, Túlélés |
+| Szerencsejátékos (Fogadóirodás, Kártyajátékos, Szélhámos…) | Atlétika, ERŐ, Kitartás, Helyismeret, Észlelés, Akaraterő; valamint Járművezetés vagy Lovaglás | Színészet, Bürokrácia, Kereskedelem, Udvariasság, Szerencsejáték, Kutatás, Ügyesség, Utcai ismeretek |
+| Pásztor (Tenyésztő, Gulyás, Szent lúdgondozó, Terelő…) | Kitartás, Elsősegély, Belátás, Helyismeret, Észlelés, Lovaglás; Harci stílus (Konkrét terelő vagy kulturális stílus) | Kereskedelem, Kézművesség (Állattenyésztés), Gyógyítás (Konkrét faj), Navigáció, Zenélés, Túlélés, Nyomkövetés |
+| Vadász (Erdész, Orvvadász, Gyűjtögető, Nyomkövető, Csapdázó…) | Atlétika, Kitartás, Helyismeret, Észlelés, Lovaglás, Lopakodás; Harci stílus (Konkrét vadászati vagy kulturális stílus) | Kereskedelem, Kézművesség (Vadászattal kapcsolatos), Tudás (Regionális vagy konkrét faj), Mechanika, Navigáció, Túlélés, Nyomkövetés |
+| Újságíró (Kommentátor, Cikkíró, Riporter, Nyomdász…) | Szokások, Csalás, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés | Bürokrácia, Kultúra (bármilyen), Nyelv (bármilyen), Tudás (bármilyen), Szónoklás, Politika, Utcai ismeretek |
+| Mágus (Varázsló, Boszorkány, Varázstudó…) | Szokások, Csalás, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Kultúra, Mágia, Írás-olvasás, Tudás x2, Szónoklás, Ügyesség |
+| Szerelő (Mérnök, Szerelőmester…) | ERŐ, Kultúra, Járművezetés, Kitartás, Befolyásolás, Helyismeret, Akaraterő | Kereskedelem, Kézművesség (elsődleges), Kézművesség (másodlagos), Elektronika, Szerencsejáték, Mechanika, Utcai ismeretek |
+| Kereskedő (Bróker, Árus, Pénzkölcsönző, Csempész, Kereskedő…) | Csónakázás, Járművezetés, Csalás, Belátás, Befolyásolás, Helyismeret, Lovaglás | Kereskedelem, Udvariasság, Kultúra (bármilyen), Nyelv (bármilyen), Navigáció, Hajózás, Utcai ismeretek |
+| Bányász (Aranyásó, Kőbányász, Aknász, Kútásó…) | Atlétika, ERŐ, Kitartás, Helyismeret, Észlelés, Éneklés, Akaraterő | Kereskedelem, Kézművesség (Bányászat), Mérnöki tudomány, Tudás (Ásványok), Mechanika, Navigáció (Földalatti), Túlélés |
+| Tisztviselő (Miniszter, Felügyelő, Sáfár, Adószedő…) | Szokások, Csalás, Befolyásolás, Belátás, Helyismeret, Észlelés, Akaraterő | Bürokrácia, Kereskedelem, Udvariasság, Nyelv (bármilyen), Írás-olvasás, Tudás (bármilyen), Szónoklás |
+| Orvos (Doktor, Gyógyító, Főorvos, Kínzó, Boncmester…) | Tánc, Elsősegély, Befolyásolás, Belátás, Helyismeret, Éneklés, Akaraterő | Kereskedelem, Kézművesség (Konkrét fiziológiai szakirány), Gyógyítás, Nyelv (bármilyen), Írás-olvasás (bármilyen), Tudás (bármilyen), Utcai ismeretek |
+| Pilóta (Repülős, Asztronauta, Légibemutató pilóta, Próbapilóta…) | ERŐ, Járművezetés, Kitartás, Kitérés, Helyismeret, Észlelés, Akaraterő | Szokások (bármilyen), Elektronika, Mechanika, Navigáció, Pilóta, Szenzorok, Utcai ismeretek |
+| Politikus (Köztisztviselő, Mandarín, Miniszter, Felügyelő…) | Szokások, Csalás, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés | Bürokrácia, Udvariasság, Kultúra (bármilyen), Nyelv (bármilyen), Tudás (bármilyen), Szónoklás, Politika |
+| Pap (Döntőbíró, Kultista, Druida, Koldulóbarát, Próféta…) | Szokások, Tánc, Csalás, Befolyásolás, Belátás, Helyismeret, Akaraterő | Bürokrácia, Udvariasság, Szokások, Írás-olvasás (bármilyen), Tudás (bármilyen), Szónoklás, Politika |
+| Tengerész (Kapitány, Gályarab, Tengerészgyalogos, Kalóz, Tutajos…) | Atlétika, Csónakázás, ERŐ, Kitartás, Helyismeret, Úszás; Harci stílus (Konkrét tengerész vagy kulturális stílus) | Kézművesség (Konkrét hajózási szakirány), Kultúra (bármilyen), Nyelv (bármilyen), Tudás (bármilyen), Navigáció, Hajózás, Túlélés |
+| Tudós (Annalista, Könyvtáros, Filozófus, Skald, Írnok…) | Szokások, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés, Akaraterő | Kultúra (bármilyen), Nyelv (bármilyen), Írás-olvasás (bármilyen), Tudás (Elsődleges), Tudás (Másodlagos), Szónoklás, Tanítás |
+| Tudós (Archivista, Könyvtáros, Filozófus…) | Szokások, Befolyásolás, Belátás, Helyismeret, Anyanyelv, Észlelés, Akaraterő | Kultúra (bármilyen), Mérnöki tudomány, Nyelv (bármilyen), Szónoklás, Kutatás, Tudomány (bármilyen), Tanítás |
+| Felderítő (Fejvadász, Felfedező, Úttörő, Erdőkerülő, Vándor…) | Atlétika, Kitartás, Elsősegély, Észlelés, Lopakodás, Úszás; Harci stílus (Konkrét vadászati vagy kulturális stílus) | Kultúra (bármilyen), Gyógyítás, Nyelv (bármilyen), Tudás (bármilyen), Navigáció, Túlélés, Nyomkövetés |
+| Szolga (Segéd, Komornyik, Sofőr, Szobalány, Nevelőnő, Udvarmester, Komornyik, Személyi asszisztens, Titkár…) | Szokások, Csalás, Járművezetés, Befolyásolás, Belátás, Helyismeret, Észlelés | Bürokrácia, Udvariasság, Kézművesség (szolgálati), Kultúra (bármilyen), Nyelv (bármilyen), Politika, Utcai ismeretek |
+| Csempész (Feketepiaci árus, Szeszcsempész, Fegyvercsempész…) | Eltusolás, Szokások, Csalás, Járművezetés, Befolyásolás, Belátás, Helyismeret | Bürokrácia, Kereskedelem, Szokások (bármilyen), Nyelv (bármilyen), Navigáció, Utcai ismeretek; valamint Asztrogáció vagy Hajózás |
+| Technikus (Villanyszerelő, Laborasszisztens…) | ERŐ, Járművezetés, Kitartás, Befolyásolás, Helyismeret, Észlelés, Akaraterő | Kommunikáció, Kézművesség (bármilyen), Elektronika, Szerencsejáték, Mechanika, Tudomány (bármilyen), Szenzorok |
+| Tolvaj (Betörő, Szélhámos, Orgazda, Útonálló, Sírkifosztó…) | Atlétika, Csalás, Kitérés, Belátás, Észlelés, Lopakodás; Harci stílus (Konkrét tolvaj vagy kulturális stílus) | Színészet, Kereskedelem, Álcázás, Zárnyitás, Mechanika, Ügyesség, Utcai ismeretek |
+| Harcos (Testőr, Zsoldos, Arénaharcos, Katona…) | Atlétika, ERŐ, Kitartás, Kitérés, Fegyvertelen; Harci stílus (Katonai stílus), Harci stílus (Kulturális stílus) | Kézművesség (bármilyen), Mérnöki tudomány, Szerencsejáték, Tudás (Katonai történelem), Tudás (Stratégia és taktika), Szónoklás, Túlélés |
 
 ---
-## 7. lépés: Bónusz Képzettségpontok
+## 7. lépés: Bónusz képességpontok
 
-Utolsó lépésként egy utolsó, 150 képzettségpontból álló készletet kell elosztani a karakter kerekítése érdekében. Ezek bármely Standard képzettségre, vagy a Kultúra vagy Karrier részeként megszerzett Szakmai képzettségekre alkalmazhatók. Ismétlem, a Játékmester korlátozhatja, hogy hány képzettségpont alkalmazható egy adott képzettségre.
+Utolsó lépésként egy 150 képességpontos utolsó készletet kell elosztani a karakter kerekítése érdekében. Ezek bármely Általános képességre, vagy a Kultúra vagy Karrier részeként megszerzett Szakmai képességekre alkalmazhatók. Ismétlem, a Játékmester korlátozhatja, hogy egy adott képességre mennyi képességpont alkalmazható.
 
-### Tapasztalt Karakterek Létrehozása
+### Tapasztalt karakterek létrehozása
 
-Ajánlott, hogy a kezdő karakterek frissen induljanak, kevés vagy semmilyen gyakorlati tapasztalattal. Természetesen a karakterek szintje nagyban függ a környezettől és attól, hogy a játék egy rövid egyszeri kaland vagy egy hosszú, folyamatos kampány lesz-e. Gyakran előfordul, hogy a játékos tapasztaltabb karaktert hoz létre, ha egy játék közben meghalt karaktert kell helyettesítenie, vagy egy meglévő kampányhoz csatlakozik.
+Ajánlott, hogy a kezdő karakterek frissen, kevés vagy semmilyen gyakorlati tapasztalattal induljanak. Természetesen a karakterek szintje nagymértékben függ a környezettől, és attól, hogy a játék egy rövid, egyszeri kaland, vagy egy hosszú távú kampány lesz-e. Gyakori az is, hogy a játékos tapasztaltabb karaktert hoz létre, ha egy játék közben elhunyt karaktert cserél le, vagy amikor egy meglévő kampányhoz csatlakozik.
 
-Egy táblázat áll rendelkezésre, amely a tapasztalatot Korcsoportokra bontja. A karakter tapasztalata közvetlen összefüggésben áll az életkorral és a képzettségi kompetenciával; a tapasztaltabb karakterek természetesen több élettapasztalattal rendelkeznek, mint fiatalabb társaik. Azonban a megjelölt Életkori Bónuszt hozzávetőlegesnek kell tekinteni, mivel a kampányok különböző ütemben haladnak – egyes kampányokban sok játékidő telik el a kalandok között, míg mások egyetlen hosszú, folyamatos kalandsorozat. Egy meglévő karakter konvertálásakor egyszerűen helyettesítsd a tényleges életkort a táblázaton feltüntettel.
+Egy táblázat biztosítja a tapasztalat korcsoportokra bontását. A karakter tapasztalata közvetlen összefüggésben áll az életkorral és a képzettséggel; a tapasztaltabb karakterek természetesen több élettapasztalattal rendelkeznek, mint fiatalabb társaik. A feltüntetett életkori bónuszt azonban hozzávetőlegesnek kell tekinteni, mivel a kampányok különböző ütemben haladnak – egyes kampányokban sok játékon belüli idő telik el a kalandok között, míg mások egy hosszú, megszakítás nélküli kalandsorozatot jelentenek. Meglévő karakter konvertálásakor egyszerűen helyettesítsd be a táblázatban szereplő életkort a tényleges életkorral.
 
 #### Tapasztalati táblázat
 
-| Kategória | Életkor | Bónusz Képzettségpontok | Maximális Képzettségnövekedés |
+| Kategória | Életkor | Bónusz képességpontok | Maximális képességnövelés |
 | :-- | :-: | :-: | :-: |
 | Fiatal | 10+1d6 | 100 | +10 |
 | Felnőtt | 15+2d6 | 150 | +15 |
@@ -354,18 +354,18 @@ Egy táblázat áll rendelkezésre, amely a tapasztalatot Korcsoportokra bontja.
 
 #### Tapasztalati táblázat megjegyzései
 
-- A Bónusz Képzettségpontok határozzák meg, hány pontot kell a karakternek a képzettségek fejlesztésére költenie.
-- A Maximális Képzettségnövekedés korlátozza, hogy a Bónusz Pontokból mennyit lehet egyetlen képzettségre alkalmazni.
+- A Bónusz képességpontok határozzák meg, hány pontot kell a karakternek a képességek fejlesztésére költenie.
+- A Maximális képességnövelés korlátozza, hogy a bónuszpontok közül mennyit lehet egyetlen képességre alkalmazni.
 
-### A Képzettségi Piramis
+### A Képességpiramis
 
-A _Mythras Imperative_ képzettségpont-elosztási folyamata 350 pontot származtat három forrásból: Kultúra (100), Karrier (100) és Bónusz Képzettségpontok (150). Ezeknek a pontoknak az elosztása időigényes lehet, és kétségtelenül vannak esetek, amikor a karakter Kultúrájának meghatározása nem olyan fontos, vagy a játékosnak olyan foglalkozása van, amelyet az alapkönyv sablonjai nem szolgálnak ki megfelelően. Itt bemutatunk egy alternatív rendszert a képzettségpontok kiosztására, amikor az idő sürget, vagy a játékosok türelmetlenek.
+A *Mythras Imperative* képességpont-elosztási folyamata 350 pontot származtat három forrásból: Kultúra (100), Karrier (100) és Bónusz képességpontok (150). Ezen pontok elosztása időigényes lehet, és kétségtelenül vannak esetek, amikor egy karakter Kultúrájának meghatározása nem annyira fontos, vagy a játékosnak olyan konkrét foglalkozás jár a fejében, amelyet az alapkönyv sablonjai nem szolgálnak ki könnyen. Itt egy alternatív rendszer kerül bemutatásra a képességpontok elosztására, amikor szorít az idő, vagy a játékosok türelmetlenek.
 
-A Kulturális, Karrier és Bónusz Képzettségpont készletek helyett a Képzettségi Piramist használják. Ez 350 pontot oszt fel öt fix pontos blokkra, az alábbiak szerint:
+Ahelyett, hogy a Kultúra, Karrier és Bónusz képességpontok készleteiből osztanánk el a pontokat, a Képességpiramist használjuk. Ez 350 pontot oszt öt fix értékű blokkra, az alábbiak szerint:
 
-1 képzettség 50%-on, 2 képzettség 40%-on, 3 képzettség 30%-on, 4 képzettség 20%-on, 5 képzettség 10%-on.
+1 képesség 50%-on, 2 képesség 40%-on, 3 képesség 30%-on, 4 képesség 20%-on, 5 képesség 10%-on.
 
-Ez egy praktikus piramist alkot. Egyszerűen húzd ki az egyes értékeket, ahogy kiosztásra kerülnek.
+Ez egy praktikus piramist alkot. Egyszerűen húzd ki az egyes értékeket, ahogy elosztásra kerülnek.
 
 ```
     50
@@ -381,125 +381,123 @@ Ez egy praktikus piramist alkot. Egyszerűen húzd ki az egyes értékeket, ahog
 
 #### Néhány egyszerű szabály
 
-- A piramisból származó összes pontot ki kell osztani.
-- Egy képzettségre nem juthat több kiosztás a piramisból.
-- A Szokások és az Anyanyelv mindkettő +40-et kap, az alapkönyv szabályai szerint, és a piramisból történő kiosztásokon felül.
-- A Szenvedélyek, amelyek a [Szenvedélyek](0002_Characters.md?id=step-8-passions) szakaszban megjelölt értékeket kapják, a piramisból történő kiosztásokon felül értendők.
-- Egyetlen képzettség sem haladhatja meg a 80%-ot a kiosztás eredményeként. Tehát, ha egy karakternek 16 az STR és 17 a DEX, ami 33%-os alapot ad, a játékos nem oszthatja ki az 50 pontos értéket Harci Stílusra.
-- Hat értéket a Szakmai képzettségekre kell kiosztani.
-- A karakterek továbbra is választhatnak Kultúrát és Foglalkozást, és útmutatóként használhatják a megfelelő leírásban szereplő képzettségeket, vagy az elosztás teljesen szabad stílusú is lehet.
-- Javasolt, hogy legalább az egyik érték Harci Stílusra kerüljön, de ez nem kötelező.
+- A piramisból származó összes pontot el kell osztani.
+- Egyetlen képesség sem kaphat egynél több kiosztást a piramisból.
+- A Szokások és az Anyanyelv egyaránt +40-et kapnak, az alapkönyvi szabályok szerint, a piramisból származó kiosztásokon felül.
+- A Szenvedélyek, amelyek a [Szenvedélyek](0002_Characters.md?id=step-8-passions) részben megjelölt értékeket kapják, a piramisból származó kiosztásokon felül értendők.
+- Egyetlen képesség sem haladhatja meg a 80%-ot a kiosztás eredményeként. Tehát, ha egy karakternek 16 ERŐ-je és 17 ÜGY-e van, ami 33%-os alapot ad, a játékos nem oszthatja ki az 50 pontos értéket egy Harci stílusra.
+- A hat érték közül hatot Szakmai képességekre kell kiosztani.
+- A karakterek továbbra is választhatnak Kultúrát és Foglalkozást, és útmutatóként használhatják a megfelelő leírásban szereplő képességeket az elosztásukhoz, vagy a kiosztások teljesen szabad stílusúak is lehetnek.
+- Ajánlott, hogy legalább az egyik értéket egy Harci stílusra osszák ki, de ez nem kötelező.
 - A Játékmester szava mindig döntő.
 
-### Nagyobb, mint az élet Hőstettek
+### Heroikus feletti hősök
 
-A _Mythras Imperative_ elsősorban normális emberekkel foglalkozik, de alkalmanként egy kampány valami mást igényel, különösen, ha különleges hőstetteket követel meg, vagy Pulp Action környezetben játszódik, ahol a hősök és gonosztevők általában nagyobbak, mint az élet.
+A *Mythras Imperative* elsősorban normális emberekkel foglalkozik, de alkalmanként egy kampány mást igényel, különösen, ha különleges hősiességet követel, vagy egy Pulp Akció környezetben játszódik, ahol a hősök és gonosztevők általában nagyobbak, mint az élet.
 
-Az ilyen hősöknek nem feltétlenül vannak szuperképességeik (bár ha ezekre van igény, a Mágia és Erők fejezet használható), de egy kicsit erősebbek, egy kicsit gyorsabbak, egy kicsit ellenállóbbak és általában sokkal erősebb akaratúak. Gondolj a kimmériai barbárra; egy különleges ügynökre, akinek engedélye van ölni; egy bronz emberre; egy köpenyes igazságosztóra, aki egyben milliárdos playboy – vagy bármilyen más népszerű hős karakterre. Gyakran szembesülnek olyan helyzetekkel, amelyek egy normális embert összezúznának; de hősként képesek elviselni mindazt, amit a történet rájuk dob, és életben maradnak, hogy belevágjanak a következő kalandba (viszonylag) sértetlenül.
+Az ilyen hősöknek nem feltétlenül vannak szuperképességeik (bár ha ezekre van igény, a Mágia és Erők fejezet használható), de egy kicsit erősebbek, egy kicsit gyorsabbak, egy kicsit ellenállóbbak és általában sokkal erősebb akaratúak. Gondolj egy bizonyos kimmériai barbárra; egy speciális ügynökre, aki engedélyt kapott a gyilkolásra; egy bronzemberre; egy álarcos igazságosztóra, aki egyben milliárdos playboy is – vagy bármely más népszerű hős karakterre. Gyakran szembesülnek olyan helyzetekkel, ahol egy normális ember összeomlana; de hősként kibírják, amit a cselekmény eléjük vet, és élnek, hogy részt vegyenek a következő kalandban (viszonylag) sértetlenül.
 
-Ha ilyen karaktertípusokat kívánsz bevezetni a játékaidba, győződj meg arról, hogy minden játékos karaktere azonos szinten áll. Ezeket a karaktertípusokat úgy tervezték, hogy elvigyék a show-t és hajtsák az akciót; a hétköznapi karakterek (hacsak nem élvezik a mágia vagy más előny előnyeit) könnyen árnyékba szorulhatnak.
+Ha ilyen karaktertípusokat kívánsz bevezetni a játékaidba, győződj meg arról, hogy minden játékos karaktere azonos szinten van. Ezeket a karaktertípusokat arra tervezték, hogy elvigyék a show-t és hajtsák a cselekményt; a hétköznapi karakterek (hacsak nem rendelkeznek mágia előnyével, vagy más előnnyel) könnyen árnyékban maradhatnak.
 
-### Pulp Hős Karakterek
+### Pulp Hős karakterek
 
-Ezek hagyományos Pulp Hősök. Nem szuperhősök vagy félistenek, és egy jól irányzott sörétes puska még mindig véget vet az életüknek, de szívósabbak, okosabbak, képesebbek, és általában egy-két fokkal az átlagemberek felett állnak. Emellett az életük általában kalandokkal teli. Míg egy Hősies karakter dönthet úgy, hogy letelepszik és eseménytelen életet él, gyakran a baj vagy valaki, akinek segítségre van szüksége, megtalálja az utat a karakter ajtajához.
+Ezek hagyományos Pulp Hősök. Nem szuperhősök vagy félistenek, és egy jól elhelyezett sörétes lövés továbbra is véget vethet az életüknek, de keményebbek, okosabbak, képességesebbek, és általában egy-két lépéssel a hétköznapi emberek felett állnak. Emellett az életük általában tele van kalandokkal. Bár egy Heroikus karakter dönthet úgy, hogy megpróbál letelepedni és eseménytelen életet élni, a baj vagy valaki, akinek segítségre van szüksége, gyakran megtalálja az utat a karakter ajtajához.
 
-#### Tulajdonságok
+#### Jellemzők
 
-Pulp Hős karakterek generálásakor használd a Kockadobás Kiosztás módszert a [Karakterek](0002_Characters.md?id=calculating-characteristics) szakaszban. Dobj 4d6-ot és dobd el a legalacsonyabb kockát, ötször, majd oszd ki az eredményeket az STR, CON, DEX, POW és CHA értékekre. Ezután dobj 3d6+6-ot, dobd el a legalacsonyabb kockát kétszer, és oszd ki ezeket a számokat a SIZ és INT értékekre. Ha a Pontelosztás módszert használod, a játékosok 90 pontból építik fel a karakterüket.
-
-#### Attribútumok
-
-Ezek a szokásos módon számítandók, kivéve, hogy a Pulp Hős karakterek két Előnyt kapnak, amelyeket az alábbiak közül választhatnak (vedd figyelembe, hogy az előnyök nem halmozódnak):
-
-- +1 Akciópont
-- +1 Szerencse-pont
-- +1 Életerő (Hit Point) minden testtájra
-- Az Állóképesség dobások egy fokozattal könnyebbek
-- A Lopakodás dobások egy fokozattal könnyebbek
-- Az Akaraterő dobások egy fokozattal könnyebbek
-
-Minden Pulp Hős karakter megduplázza a Gyógyulási Rátáját, ha Kisebb vagy Komoly Sebzést szenved, bár a Súlyos Sebzéseket a karakter normál Gyógyulási Rátájával kell kezelni.
-
-#### Képzettségek
-
-A Pulp Hős karakterek további 50 Bónusz Képzettségpontot kapnak, amelyeket szükség szerint oszthatnak el.
-
-### Paragon Karakterek
-
-A Paragon karakterek a kiválóság mintaképei. Míg egy bizonyos ostorforgató régész és egy engedéllyel rendelkező szuperkém Pulp Hős karakterek, az a kimmériai, a Bronzember, a Sötét Lovag Detektív és Sherlock Holmes Paragon karakterek. A Paragon karakterek nem csupán egy szakterületen kiemelkedően kompetensek: rendszerint több területen is kiválóak. Egy zseniális feltaláló és fizikus, aki egyben kétököllel harcoló, mesterlövész háborús hős is, kiváló példa egy Paragon karakterre; egy milliárdos playboy bűnüldöző, aki a világ legkiválóbb nyomozói mellett tanult, egy másik. A Paragon karaktereknek lehet több főiskolai diplomájuk, független vagyonuk, titokzatos támogatóik, valamint számos egyéb tapasztalatuk.
-
-Ennek eredményeként a Paragon karakterek nem mindenkinek valók, de ha egy világ olyan karaktereket igényel, akik képesek megváltoztatni az egész naprendszer sorsát, vagy bármilyen kihívást felvállalni, akkor egy Paragon szintű kampány megfelelő választás. Bár mind a hétköznapi, mind a Hősies kampányok alkalmanként rendkívül nagy tétekkel járnak, mint például nemzetek vagy akár bolygók sorsa, a Paragon kampányoknak rendszeresen ezt kell tenniük.
+Pulp Heroikus karakterek generálásakor használd a Kockadobás és elosztás módszert a [Karakterek](0002_Characters.md?id=calculating-characteristics) részben. Dobj 4d6-tal és dobd el a legalacsonyabb kockát, ötször, majd az eredményeket oszd el az ERŐ, ÁLL, ÜGY, HAT és KAR tulajdonságok között. Ezután dobj 3d6+6-tal és dobd el a legalacsonyabb kockát kétszer, és ezeket a számokat oszd el a MÉR és INT tulajdonságok között. Ha a Pontépítés módszert használod, a játékosok egy előre beállított 90 pontos készletből építik fel karakterüket.
 
 #### Tulajdonságok
 
-Karakterek generálásakor használd a Kockadobás Kiosztás módszert a [Karakterek](0002_Characters.md?id=calculating-characteristics) szakaszban. Dobj 4d6-ot, dobd el a legalacsonyabb kockát hatszor, majd oszd ki az öt általad választott eredményt (általában a legmagasabb ötöt) az STR, CON, DEX, POW és CHA értékekre. Ezután dobj 3d6+6-ot, dobd el a legalacsonyabb kockát háromszor, és oszd ki a két általad választott eredményt (általában a legmagasabb kettőt) a SIZ és INT értékekre. Ha a Pontelosztás módszert használod, a játékosok 100 pontból építik fel a karakterüket.
-
-#### Attribútumok
-
-Ezek a szokásos módon számítandók, kivéve, hogy a Paragon Karakterek három Előnyt kapnak, amelyeket az alábbiak közül választhatnak (vedd figyelembe, hogy az előnyök nem halmozódnak):
+Ezeket a szokásos módon kell kiszámítani, azzal a kivétellel, hogy a Pulp Heroikus karakterek két Előnyt kapnak az alábbiak közül (figyeld meg, hogy az előnyök nem halmozhatók):
 
 - +1 Akciópont
-- +2 Szerencse-pont
-- +2 Életerő (Hit Point) minden testtájra
-- Az Állóképesség dobások egy fokozattal könnyebbek
+- +1 Szerencsepont
+- +1 Életerő minden Találati helyre
+- A Kitartás dobások egy fokozattal könnyebbek
 - A Lopakodás dobások egy fokozattal könnyebbek
 - Az Akaraterő dobások egy fokozattal könnyebbek
 
-Minden Paragon karakter megduplázza a Gyógyulási Rátáját, ha Kisebb vagy Komoly Sebzést szenved, bár a Súlyos Sebzéseket a karakter normál Gyógyulási Rátájával kell kezelni.
+Minden Pulp Heroikus karakter megduplázza a Gyógyulási sebességét, ha Kisebb vagy Súlyos sebeket szenved, bár a Fő sebeket a karakter normál Gyógyulási sebességével kezelik.
 
-#### Képzettségek
+#### Képességek
 
-A Paragon karakterek további 100 Bónusz Képzettségpontot kapnak, amelyeket szükség szerint oszthatnak el.
+A Pulp Heroikus karakterek további 50 Bónusz képességpontot kapnak, amelyet szükség szerint oszthatnak el.
+
+### Paragon karakterek
+
+A Paragon karakterek a kiválóság megtestesítői. Míg egy bizonyos ostoros régész és egy gyilkolásra feljogosított szuperkém Pulp Heroikus karakterek, az a kimmériai, a Bronzember, a Sötét Lovag Detektív és Sherlock Holmes Paragon karakterek. A Paragon karakterek nemcsak egy szakterületen rendkívül kompetensek: általában több területen is kiválóak. Egy zseniális feltaláló és fizikus, aki egyben egy két öklű, kiváló lövész háborús hős is, kiváló példája a Paragon karakternek; Egy milliárdos playboy bűnüldöző, aki a világ legkiválóbb detektív elméivel tanult, egy másik. A Paragon karaktereknek lehet több főiskolai diplomájuk, független vagyonuk, titokzatos jótevőik, valamint számos egyéb tapasztalatuk.
+
+Ennek eredményeként a Paragon karakterek nem valóak mindenkinek, de ha egy környezetnek olyan karakterekre van szüksége, akik megváltoztathatják az egész naprendszer sorsát, vagy bármilyen kihívást felvállalhatnak, akkor egy Paragon szintű kampány megfelelő. Míg a hétköznapi és a Heroikus kampányok alkalmanként rendkívül magas tétekkel járnak, mint például nemzetek vagy akár bolygók sorsa, a Paragon kampányoknak ezt rendszeresen meg kell tenniük.
+
+#### Jellemzők
+
+Karakterek generálásakor a Kockadobás és elosztás módszert használva a [Karakterek](0002_Characters.md?id=calculating-characteristics) részben: Dobj 4d6-tal, dobd el a legalacsonyabb kockát hatszor, majd az általad választott öt eredményt (általában a legmagasabb ötöt) oszd el az ERŐ, ÁLL, ÜGY, HAT és KAR tulajdonságok között. Ezután dobj 3d6+6-tal, dobd el a legalacsonyabb kockát háromszor, és a két általad választott eredményt (általában a legmagasabb kettőt) oszd el a MÉR és INT tulajdonságok között. Ha a Pontépítés módszert használod, a játékosok egy előre beállított 100 pontos készletből építik fel karakterüket.
+
+#### Tulajdonságok
+
+Ezeket a szokásos módon kell kiszámítani, azzal a kivétellel, hogy a Paragon karakterek három Előnyt kapnak az alábbiak közül (figyeld meg, hogy az előnyök nem halmozhatók):
+
+- +1 Akciópont
+- +2 Szerencsepont
+- +2 Életerő minden Találati helyre
+- A Kitartás dobások egy fokozattal könnyebbek
+- A Lopakodás dobások egy fokozattal könnyebbek
+- Az Akaraterő dobások egy fokozattal könnyebbek
+
+Minden Paragon karakter megduplázza a Gyógyulási sebességét, ha Kisebb vagy Súlyos sebeket szenved, bár a Fő sebeket a karakter normál Gyógyulási sebességével kezelik.
+
+#### Képességek
+
+A Paragon Heroikus karakterek további 100 Bónusz képességpontot kapnak, amelyet szükség szerint oszthatnak el.
 
 ---
 ## 8. lépés: Szenvedélyek
 
-A Szenvedélyeket a játékosok és a Játékmesterek segítésére használják a karakter természetének elmélyítésére, a karakter vágyain vagy előítéletein alapuló cselekményszálak bevezetésére, és segítik a játékost abban, hogy megértse, ki a karaktere, mi hajtja őt, és így tovább.
+A Szenvedélyek arra szolgálnak, hogy segítsék a játékosokat és a Játékmestereket a karakter természetének elmélyítésében, a karakter vágyain vagy előítéletein alapuló cselekményszálak bevezetésében, és segítik a játékost abban, hogy megértse, ki a karaktere, mi hajtja őt, és így tovább.
 
-Szenvedély bármi lehet – egy személy, egy szervezet, egy eszmény, akár egy tárgy is. A szenvedélyeket jellemzően igékkel írják le, mint például: Vágy, Megvetés, Elpusztítás, Pártolás, Félelem, Menekülés, Esküszegés, Gyűlölet, Szeretet, Hűség valakihez, Védelmezés, Megtagadás, Tisztelet, Keresés, Felforgatás, Kínzás vagy Fenntartás.
+Egy Szenvedély bármi iránt lehet – egy személy, egy szervezet, egy eszmény, akár egy tárgy iránt is. A Szenvedélyeket általában egy igével írják le, mint például: Vágy, Megvetés, Elpusztítás, Pártolás, Félelem, Menekülés, Megtagadás, Gyűlölet, Szeretet, Hűség, Védelmezés, Elutasítás, Tisztelet, Keresés, Felforgatás, Kínzás vagy Fenntartás.
 
-A szenvedélyeket ugyanúgy mérik, mint a képzettségeket; 1 és 100 (vagy magasabb) közötti értékkel értékelik őket. Egy szenvedély ugyanúgy fejleszthető, mint egy képzettség, vagy a játékvezető növelheti vagy csökkentheti a körülményektől függően.
+A Szenvedélyeket ugyanúgy mérik, mint a képességeket; 1 és 100 (vagy magasabb) közötti értékeléssel rendelkeznek. A Szenvedély ugyanúgy fejleszthető, mint egy képesség, vagy a játékvezető a körülményektől függően növelheti vagy csökkentheti azt.
 
-A kezdő karakterek legfeljebb három Szenvedéllyel indulhatnak, mindegyik két Tulajdonságon alapul, az elsőhöz +40, a másodikhoz +30, a harmadikhoz +20 bónusszal – a játékos dönti el a fontossági sorrendet. Ezek kötődhetnek a kultúrájához, hivatásához vagy személyes gyengeségeihez. Például egy Kard és Varázslat kampányban a karakter felveheti: Gyűlölet (Stygiaiak), Bizalmatlanság (Varázslók) és Vágy (Alkohol); míg egy Disztópikus Sci-Fi játékban a karakter választhat Hűség (Elnök), Elpusztítás (Idegenek) és Fenntartás (a Törvény) mellett.
+A kezdő karakterek legfeljebb három Szenvedéllyel indulhatnak, mindegyik két Jellemzőn alapul, az elsőnél +40, a másodiknál +30, a harmadiknál +20 bónusszal – a játékos dönti el a fontossági sorrendet. Ezek a kultúrájukhoz, szakmájukhoz vagy személyes gyengeségeikhez kötődhetnek. Például egy Kard és Varázslat kampányban a karakter a következőket választhatja: Gyűlölet (Stygiaiak), Bizalmatlanság (Varázslók) és Vágy (Alkohol); míg egy Disztópikus Sci-Fi játékban a karakter választhatja a Hűség (Elnök), Elpusztítás (Idegenek) és Fenntartás (a Törvény) lehetőségeket.#### Szenvedélytáblázat
 
-#### Szenvedély táblázat
-
-| A szenvedély tárgya | Kezdő Százalék |
+| Szenvedély tárgya | Kezdő százalékérték |
 | :-- | :-- |
-| Egy személy, romantikus vagy családi összefüggésben | POW+CHA |
-| Egy szervezet vagy embercsoport | POW+INT |
-| Egy faj vagy fajta | Karakter POW x2 |
-| Egy hely | Karakter POW+INT |
-| Egy tárgy vagy anyag | Karakter POW x2 |
-| Egy személyiségvonás | Karakter POW+CHA |
+| Személy, romantikus vagy családi kontextusban | HAT+KAR |
+| Szervezet vagy embercsoport | HAT+INT |
+| Faj vagy alfaj | Karakter HAT értéke x2 |
+| Helyszín | Karakter HAT+INT értéke |
+| Tárgy vagy anyag | Karakter HAT értéke x2 |
+| Személyiségjegy | HAT+KAR |
 
 ### Szenvedélyek használata
 
-A szenvedély minden olyan mélyen gyökerező elkötelezettség, amely képes befolyásolni az eseményeket a játék során. Bár önálló Képességekként is használhatók (képzettségnek nevezni őket sértés lenne), a Szenvedélyek az alábbiakban tovább bővülnek, hogy részletesebben elmagyarázzák, hogyan működnek, és hogyan befolyásolhatják a _Mythras_ _Imperative_ karaktereket és kampányokat.
+A szenvedély minden olyan mélyen gyökerező elkötelezettség, amely képes befolyásolni a játék eseményeit. Bár önálló képességként is használhatók (bár képességnek nevezni őket nem tesz igazságot nekik), a szenvedélyeket az alábbiakban részletesebben kifejtjük, hogy lássuk, hogyan működnek és miként befolyásolhatják a _Mythras_ _Imperative_ karaktereit és kampányait.
 
-Összefoglalva, a Szenvedélyek így használhatók:
+Összefoglalva, a szenvedélyek a következőképpen használhatók:
 
-- Más képzettségek kiegészítésére, tükrözve az érzések mélységét és azt, hogyan hajtja a cselekvést. Amikor ebben a minőségében használják, a Szenvedély értékének 20%-át hozzáadja a használt képzettséghez, ha a kiegészítés tematikusan és drámailag fontos.
-- Képességként, amely választásokat, vágyakat és érzelmi reakciókat hajt. Amikor így használják, Standard dobást hajtanak végre egy Szenvedéllyel szemben annak meghatározására, mennyire erősen gondolkodik és érez a karakter valamivel kapcsolatban. Ha a dobás Siker, akkor a karakter annak megfelelően cselekszik, amit a Szenvedély diktál. Ha a dobás Kudarc, akkor a karakter szabadon cselekedhet anélkül, hogy a Szenvedély hajtóerőitől korlátozva érezné magát.
-- Más Szenvedélyek ellensúlyozására – még az ugyanazon karakter által tartottak ellen is. Ezt jellemzően akkor használják, ha két Szenvedély ellentétes lenne. Például egy személyes szerelem olyan cselekvési irányt diktálhat, amely ellentétes lenne egy Esküvel vagy Hűséggel. Itt használj szembeállított dobást a két Szenvedély között, a sikeresebb határozza meg, hogyan cselekszik a karakter.
-- Az elkötelezettség, hit és hűség mélységének általános mértékeként egy ügy iránt. Minél magasabb a Szenvedély értéke, annál elkötelezettebb a karakter. A hasonló Szenvedélyekkel rendelkező karakterek összehasonlíthatják értékeiket annak meghatározására, ki mutat mélyebb elkötelezettséget.
-- Valamilyen pszichológiai manipuláció vagy mágikus dominancia ellenállására. Bizonyos esetekben, amikor egy karaktert a Szenvedélyeivel ellentétes cselekvésre kényszerítenek, helyettesíthetik azokat Akaraterővel a szembeállított dobásban.
+- Egy másik képesség megerősítésére (augmentálására), tükrözve az érzések mélységét és azt, hogy miként ösztönzik a cselekvést. Amikor ebben a minőségében használják, a szenvedély hozzáadja az értékének 20%-át a használt képességhez, amennyiben a megerősítés tematikailag és drámailag fontos.
+- Képességként döntések, vágyak, valamint érzelmi cselekedetek és válaszreakciók irányítására. Ilyen módon történő használatkor egy Normál dobást hajtanak végre a szenvedélyre, hogy meghatározzák, mennyire gondolja komolyan a karakter és mennyire érinti mélyen az adott dolog. Ha a dobás Siker, akkor a karakter a szenvedély által diktált módon cselekszik. Ha a dobás Kudarc, akkor a karakter szabadon cselekedhet, anélkül, hogy a szenvedély kényszere korlátozná.
+- Más szenvedélyekkel szembeni ellenállásra – még akkor is, ha ugyanaz a karakter birtokolja őket. Ezt jellemzően akkor használják, ha két szenvedély konfliktusba kerül. Például egy személyes szerelem olyan cselekvésre ösztönözhet, amely ellentétes egy Esküvel vagy Hűséggel. Itt alkalmazzunk Ellentétes Dobást a két szenvedély között; a sikeresebb határozza meg, hogyan cselekszik a karakter.
+- Az elkötelezettség, a hit és egy ügy iránti hűség mélységének általános mértékeként. Minél magasabb a szenvedély értéke, annál elkötelezettebb a karakter. A hasonló szenvedélyekkel rendelkező karakterek összehasonlíthatják értékeiket, hogy megállapítsák, ki mutat mélyebb elkötelezettséget.
+- Valamilyen pszichológiai manipuláció vagy mágikus befolyásolás elhárítására. Bizonyos esetekben, amikor a karaktert a szenvedélyeivel ellentétes cselekedetre kényszerítik, a szenvedélyt az Akaraterő helyettesítésére használhatják az Ellentétes Dobás során.
 
-Új Szenvedélyek a játékülés során bármikor kialakíthatók, ha a körülmények indokolják. Azonnal kialakulhat egy 'Gyűlölet X iránt', amikor valaki olyat tesz, ami erősen kiváltja a gyűlöletet. Egy úr vagy főnök, aki Esküt követel, azonnal megalapozná a 'Hűség X iránt' Szenvedélyt, amint az Eskü elhangzik vagy esküt tesznek.
+Új szenvedélyek a játékülés során bármikor kialakulhatnak, ha a körülmények indokolják. Az ember azonnal kifejlesztheti a „Gyűlölet X iránt” szenvedélyt, ha valaki más olyat tesz, ami erősen kiváltja a gyűlöletet. Egy úr vagy törzsfőnök, aki Esküt követel, azonnal megalapozza a „Hűség X iránt” szenvedélyt, amint az Eskü megszületik vagy kimondják.
 
-Az így, játék közben kialakult új Szenvedélyek nem kerülnek Tapasztalati Dobásba, és azonnal megalapozódnak. Természetesen a karakterek dönthetnek úgy is, hogy fejlesztés közben alakítanak ki Szenvedélyt, egy Tapasztalati Dobás árán, hogy a Szenvedélyt az Alapértékén szerezzék meg.
+Az így, játék közben kialakult új szenvedélyek nem kerülnek Tapasztalati Dobásba, és azonnal érvénybe lépnek. Természetesen a karakterek dönthetnek úgy is, hogy fejlesztés közben alapoznak meg egy szenvedélyt, egy Tapasztalati Dobás árán, amivel a szenvedélyt annak Alapértékén szerezhetik meg.
 
 ### Elmélyülés és Hanyatlás
 
-A Szenvedélyek a játék során a Tapasztalati Dobásoktól függetlenül növekedhetnek, az emelkedést kiváltó esemény erejétől függően. Emellett hanyatlanak is, és fognak is. Egy erősen tartott hitet sok minden megrendíthet, ami ahhoz vezethet, hogy az a Szenvedély vagy csökken, vagy szélsőségesebb esetekben teljesen megfordul.
+A szenvedélyek a Tapasztalati Dobásoktól függetlenül is növekedhetnek a játék során, attól függően, milyen esemény váltotta ki a növekedést. Ugyanakkor hanyatlhatnak is, és meg is teszik. Egy erősen hitt meggyőződést sok minden megingathat, ami a szenvedély csökkenéséhez, vagy szélsőségesebb esetekben teljes megfordulásához vezethet.
 
-Például egy karakter, akinek 'Bizalom a Vezetőben' Szenvedélye van, ha a vezetője áruló módon cselekszik, vagy csökkentheti a Szenvedélyét, vagy 'Bizalmatlanság a Vezetőben' Szenvedéllyé alakíthatja ugyanazon a százalékon. A Játékmesternek kell eldöntenie, hogy egy Szenvedély csökken vagy megfordul. Ha csökken, akkor a változás forrásának erejének megfelelően teszi.
+Például egy „Bízik a Törzsfőnökben” szenvedéllyel rendelkező karakter, ha a törzsfőnöke hitszegően viselkedik, csökkentheti a szenvedélyét, vagy átválthatja azt „Bizalmatlanság a Törzsfőnök iránt” szenvedélyre azonos százalékban. A Játékmesternek kell eldöntenie, hogy a szenvedély csökken-e vagy megfordul-e. Ha csökken, akkor az a változást kiváltó esemény erejének megfelelően történik.
 
-Az Elmélyülés és Hanyatlás táblázat megmutatja, mennyit változik a Szenvedély.
+Az Elmélyülés és Hanyatlás táblázat mutatja, mekkora mértékben változik a szenvedély.
 
 #### Elmélyülés és Hanyatlás táblázat
 
-| A változás mélysége | Szenvedély módosítva |
+| A változás mértéke | A szenvedély módosítása |
 | --- | --- |
 | Gyenge | 1d10 |
 | Mérsékelt | 1d10+5 |
@@ -508,11 +506,11 @@ Az Elmélyülés és Hanyatlás táblázat megmutatja, mennyit változik a Szenv
 ---
 ## 9. lépés: Felszerelés
 
-Most, hogy a karakter majdnem kész, szüksége van némi felszerelésre. Ez magában foglalhat fegyvereket, páncélt vagy más fontos eszközöket, amelyeket egy adott szakmához használnak. A kalandozás során sok esély van több felszerelés beszerzésére, de minden kezdő karakter azonnal rendelkezik a következőkkel:
+Most, hogy a karakter majdnem elkészült, szüksége van némi felszerelésre. Ez magában foglalhat fegyvereket, páncélzatot vagy más fontos, az adott hivatáshoz szükséges kellékeket. A kalandok során sok lehetőség nyílik több felszerelés beszerzésére, de minden kezdő karakter azonnal rendelkezik az alábbiakkal:
 
-- A karakter foglalkozásához és a környezethez illő ruházat.
-- Egy bizonyos mennyiségű költőpénz; elég ahhoz, hogy egy ideig nélkülözés nélkül éljen.
-- Egy személyes családi ereklye, emléktárgy vagy valami kis értékű csecsebecse.
-- Bármilyen kereskedelmi eszköz vagy szállítható felszerelés, amely megfelel a karakter foglalkozásának, ha indokolt.
+- A karakter hivatásának és a környezetnek megfelelő ruházat.
+- Zsebpénz; éppen elég ahhoz, hogy egy darabig nélkülözés nélkül éljen.
+- Egy személyes családi örökség, emlék vagy valamilyen csekély értékű csecsebecse.
+- Bármilyen kereskedelmi eszköz vagy szállítható felszerelés, amely megfelel a karakter hivatásának, ha indokolt.
 - Bármilyen személyes fegyver a karakter Harci Stílusához.
-- Egyéb tárgyak a környezetnek megfelelően, a Játékmester jóváhagyásától függően.
+- Egyéb, a környezetnek megfelelő tárgyak, a Játékmester jóváhagyásával.

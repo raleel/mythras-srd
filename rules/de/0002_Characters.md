@@ -1,22 +1,22 @@
 # Charaktere
 
-Jeder Spieler in _Mythras Imperative_ steuert einen Charakter. Ein Charakter ist das Alter Ego des Spielers und unterscheidet sich in der Regel körperlich und geistig stark vom Spieler. Charaktere können je nach Setting des Spiels verschiedenen Spezies angehören; ein historisches Setting würde nur Menschen enthalten, während ein Fantasy-Setting Zwerge, Elfen und sogar Echsenmenschen beinhalten könnte. Der grundlegende Charakter wird durch eine Reihe verschiedener Elemente definiert, die die Fähigkeiten des Charakters beschreiben. Diese Elemente sind:
+Jeder Spieler in *Mythras Imperative* steuert einen Charakter. Ein Charakter ist das Alter Ego des Spielers und unterscheidet sich physisch und geistig meist stark von diesem. Charaktere können verschiedenen Spezies angehören, je nach Setting des Spiels; in einem historischen Setting kommen nur Menschen vor, während in einem Fantasy-Setting Zwerge, Elfen und sogar Echsenmenschen vorkommen können. Der grundlegende Charakter wird durch eine Reihe verschiedener Elemente definiert, die seine Fähigkeiten beschreiben. Diese Elemente sind:
 
 - **Eigenschaften:** wie Stärke oder Charisma
 - **Attribute:** Dinge wie Körpergröße oder Bewegung
-- **Fertigkeiten:** Fachwissen in grundlegenden Fähigkeiten
+- **Fertigkeiten:** Fachkenntnis in grundlegenden Fähigkeiten
 
-Die meisten dieser Elemente werden durch Zahlen beschrieben, und einige sind von anderen abhängig oder werden aus ihnen berechnet. Was jedes Element bedeutet und wie es bestimmt wird, wird in den folgenden Abschnitten beschrieben.
+Die meisten dieser Elemente werden durch Zahlen beschrieben, und einige hängen von anderen ab oder werden aus diesen berechnet. Was jedes Element bedeutet und wie es bestimmt wird, wird in den folgenden Abschnitten beschrieben.
 
 ---
 ## Schritt 1: Charakterkonzept
 
-Ein guter Anfang ist es, eine Vorstellung davon zu haben, welche Art von Charakter man spielen möchte: vielleicht ein listiger Krieger oder ein gerissener Schmuggler. Vielleicht bevorzugst du einen gelehrten Akademiker oder einen weisen Magier. Dein Charakterkonzept muss in diesem Stadium nicht ausgefeilt sein; es genügt eine Idee, die hilft, bestimmte Entscheidungen wie Kultur und Karriere zu lenken.
+Ein guter Ausgangspunkt ist es, eine Vorstellung davon zu haben, welche Art von Charakter man spielen möchte: vielleicht einen gerissenen Krieger oder einen gewieften Schmuggler. Vielleicht bevorzugen Sie einen studierten Akademiker oder einen weisen Magier. Ihr Charakterkonzept muss in diesem Stadium noch nicht ausgefeilt sein; es genügt eine Idee, die hilft, bestimmte Entscheidungen wie Kultur und Karriere zu lenken.
 
 ---
 ## Schritt 2: Eigenschaften
 
-Jeder wird durch sieben Eigenschaften definiert, die dir etwas über deinen Charakter sagen; wie stark oder schnell er ist; wie klug oder gesund. Eigenschaften sind der Kern jedes _Mythras Imperative_-Charakters und bilden die Grundlage für die meisten anderen Elemente wie Attribute und Fertigkeiten. Die sieben Eigenschaften sind:
+Jeder wird durch sieben Eigenschaften definiert, die etwas über Ihren Charakter aussagen: wie stark oder schnell er ist, wie klug oder gesund. Eigenschaften sind der Kern jedes *Mythras Imperative*-Charakters und bilden die Grundlage für die meisten anderen Elemente wie Attribute und Fertigkeiten. Die sieben Eigenschaften sind:
 
 - Stärke (STÄ)
 - Konstitution (KON)
@@ -26,45 +26,45 @@ Jeder wird durch sieben Eigenschaften definiert, die dir etwas über deinen Char
 - Macht (MAC)
 - Charisma (CHA)
 
-Bevor die Eigenschaften berechnet werden, erklärt der folgende Abschnitt, was jede einzelne repräsentiert.
+Bevor die Eigenschaften berechnet werden, erklärt der folgende Abschnitt, wofür jede von ihnen steht.
 
 #### Stärke (STÄ)
 
-STÄ repräsentiert körperliche Stärke: wie viel man heben kann, wie hart man zuschlagen kann und so weiter. STÄ ist ein Bestandteil des Schad. Mod. Wenn ein Charakter auf STÄ null reduziert wird, fehlt ihm die Fähigkeit, sich zu bewegen oder Gegenstände zu heben.
+STÄ steht für körperliche Stärke: wie viel man heben kann, wie hart man zuschlagen kann usw. STÄ ist ein Bestandteil des Schad. Mod. Wenn ein Charakter auf STÄ 0 reduziert wird, fehlt ihm die Fähigkeit, sich zu bewegen oder Gegenstände zu heben.
 
 #### Konstitution (KON)
 
-KON ist ein Maß für Gesundheit und Härte. KON ist ein Bestandteil bei der Bestimmung von Trefferpunkten und Heilungsrate. Wenn KON aus irgendeinem Grund auf null fällt, stirbt der Charakter.
+KON ist ein Maß für Gesundheit und Widerstandsfähigkeit. KON ist ein Bestandteil bei der Bestimmung von Trefferpunkten und Heilungsrate. Wenn KON aus irgendeinem Grund auf 0 fällt, stirbt der Charakter.
 
 #### Statur (GRÖ)
 
-GRÖ misst die Masse und hilft, Körpergröße und Gewicht anzugeben. GRÖ wird verwendet, um Trefferpunkte zu ermitteln, da größere, schwerere Kreaturen tendenziell eine höhere Ausdauer gegen Schaden haben. GRÖ kann auch verwendet werden, um den Schad. Mod. eines Charakters zu bestimmen, da Masse hilft, die Wucht eines Schlags zu erhöhen.
+GRÖ misst die Masse und hilft dabei, Körpergröße und Gewicht anzugeben. GRÖ wird verwendet, um die Trefferpunkte zu ermitteln, da größere, schwerere Kreaturen tendenziell eine größere Ausdauer gegenüber Schaden haben. GRÖ kann auch verwendet werden, um den Schad. Mod. eines Charakters zu bestimmen, da Masse dazu beiträgt, die Wucht eines Schlags zu erhöhen.
 
 #### Geschicklichkeit (GES)
 
-Beweglichkeit, Gleichgewicht und Reflexe werden durch GES gemessen. Es ist ein wichtiger Aspekt von Aktionspunkten und Initiative. Wenn ein Charakter auf GES null reduziert wird, erleidet er eine funktionelle Lähmung.
+Beweglichkeit, Gleichgewicht und Reflexe werden durch GES gemessen. Es ist ein wichtiger Aspekt von Aktionspunkten und Initiative. Wenn ein Charakter auf GES 0 reduziert wird, erleidet er eine funktionelle Lähmung.
 
 #### Intelligenz (INT)
 
-INT ist ein Maß für die kognitive Fähigkeit. Wer einen niedrigeren INT-Wert hat, ist nicht unbedingt dumm, aber er ist wahrscheinlich eingeschränkt darin, wie kreativ er seinen Verstand einsetzen kann. INT ist ein Faktor bei der Berechnung von Aktionspunkten und Initiative. Wenn INT auf null reduziert wird, wird der Charakter völlig willenlos.
+INT ist ein Maß für die kognitive Leistungsfähigkeit. Diejenigen mit einem niedrigeren INT-Wert sind nicht unbedingt dumm, aber sie sind wahrscheinlich in ihrer Kreativität eingeschränkt, wie sie ihren Verstand einsetzen können. INT ist ein Faktor bei der Berechnung von Aktionspunkten und Initiative. Wenn INT auf 0 reduziert wird, wird der Charakter völlig bewusstlos.
 
 #### Macht (MAC)
 
-MAC ist ein Maß für die Seele, den Geist, den inneren Antrieb oder die Kapazität für Magie eines Charakters. MAC bestimmt die Magiepunkte und Glückspunkte eines Charakters. Wenn die MAC eines Charakters jemals auf null fällt, verliert er jeden unabhängigen Willen.
+MAC ist ein Maß für die Seele, den Geist, den inneren Antrieb oder die magische Kapazität eines Charakters. MAC bestimmt die Magiepunkte und Glückspunkte eines Charakters. Wenn die MAC eines Charakters jemals auf 0 fällt, verliert er jeden unabhängigen Willen.
 
 #### Charisma (CHA)
 
-Charisma ist ein Maß für Präsenz und Persönlichkeit und unabhängig vom äußeren Erscheinungsbild. CHA beeinflusst den Erf. Mod. eines Charakters. Wenn CHA jemals auf null fällt, kann der Charakter nicht mehr sozial mit anderen interagieren und wird so schmerzlich schüchtern oder asozial, dass er ignoriert oder sogar vertrieben wird.
+Charisma ist ein Maß für Ausstrahlung und Persönlichkeit und unabhängig vom äußeren Erscheinungsbild. CHA beeinflusst den Erf. Mod. eines Charakters. Wenn CHA jemals auf 0 fällt, kann der Charakter nicht mehr sozial mit anderen interagieren; er wird so schmerzlich schüchtern oder asozial, dass er ignoriert oder sogar vertrieben wird.
 
 ---
 ### Berechnung der Eigenschaften
 
-Jede Eigenschaft hat einen numerischen Wert, um ihre Potenz zu bestimmen. Die Zahl in Klammern nach jedem Würfelergebnis ist der Durchschnittswert der Spezies und dient als Maßstab, um die Ergebnisse deines Charakters im Vergleich zu anderen Mitgliedern seiner Spezies zu bewerten. Vorschläge zur Bestimmung deiner Eigenschaften umfassen:
+Jede Eigenschaft hat einen numerischen Wert, der ihre Stärke bestimmt. Die Zahl in Klammern hinter jedem Würfelwurf ist der Spezies-Durchschnitt und dient als Maßstab, um die Ergebnisse Ihres Charakters im Vergleich zu anderen Mitgliedern seiner Spezies zu bewerten. Vorschläge zur Bestimmung Ihrer Eigenschaften sind:
 
-- **Würfelwurf:** Würfle für STÄ, KON, GRÖ, GES, INT, MAC und CHA und nimm jedes gewürfelte Ergebnis so, wie es kommt. Da die Ergebnisse dieser Würfe etwas zufällig sein können, ist es oft besser, sich nach dem Würfeln für ein Charakterkonzept zu entscheiden. Andernfalls könnten die endgültigen Eigenschaften eine vorgefasste Rolle ausschließen. Würfle 3d6 für STÄ, KON, GES, MAC und CHA; dann 2d6+6 für GRÖ und INT.
-- **Würfelwurf, Zuweisung:** Wie oben, außer dass der Spieler Werte zwischen Eigenschaften mit demselben Würfelbereich austauschen darf. Zum Beispiel könnte der Spieler beim Erstellen eines Menschen Werte zwischen STÄ, KON, GES, MAC und CHA tauschen, da sie sich einen 3d6-Bereich teilen, oder zwischen GRÖ und INT, die sich den 2d6+6-Bereich teilen – aber sie müssen immer aus derselben Würfelbereichsgruppe stammen; du kannst keine Würfe von einer Gruppe in die andere verschieben.
-- **Würfelwurf, Hoch:** Würfle einen zusätzlichen Würfel wie für STÄ, KON, GRÖ, GES, INT, MAC und CHA angegeben und wirf das niedrigste Ergebnis von jedem weg.
-- **Punkte-Build:** Spieler weisen Eigenschaftswerte aus einem vorgegebenen Pool von 80 Punkten zu. Eigenschaften dürfen nicht niedriger als der minimale gewürfelte Wert und nicht höher als der maximale Wert sein.
+- **Würfelwurf:** Würfeln Sie für STÄ, KON, GRÖ, GES, INT, MAC und CHA und übernehmen Sie jedes gewürfelte Ergebnis, wie es kommt. Da die Ergebnisse dieser Würfe etwas zufällig sein können, ist es oft besser, sich nach dem Würfeln für ein Charakterkonzept zu entscheiden. Andernfalls könnten die endgültigen Eigenschaften eine vorgefasste Rolle ausschließen. Würfeln Sie 3W6 für STÄ, KON, GES, MAC und CHA; dann 2W6+6 für GRÖ und INT.
+- **Würfelwurf, Zuweisen:** Wie oben, außer dass der Spieler Werte zwischen Eigenschaften mit demselben Würfelbereich austauschen darf. Wenn man zum Beispiel einen Menschen erstellt, könnte der Spieler Werte zwischen STÄ, KON, GES, MAC und CHA tauschen, da sie sich den 3W6-Bereich teilen, oder zwischen GRÖ und INT, die sich den 2W6+6-Bereich teilen – aber sie müssen immer aus derselben Würfelbereichsgruppe stammen; Sie können Würfe nicht von einer Gruppe in die andere verschieben.
+- **Würfelwurf, Hoch:** Würfeln Sie einen zusätzlichen Würfel wie für STÄ, KON, GRÖ, GES, INT, MAC und CHA angegeben und streichen Sie das niedrigste Ergebnis von jedem.
+- **Punkte-System:** Spieler weisen Eigenschaftswerte aus einem vorgegebenen Pool von 80 Punkten zu. Eigenschaften dürfen nicht niedriger als der minimale gewürfelte Wert und nicht höher als der maximale Wert sein.
 
 ---
 ## Schritt 3: Attribute
@@ -73,42 +73,42 @@ Jeder Charakter hat auch eine Reihe von Attributen. Dies sind Fähigkeiten, die 
 
 #### Aktionspunkte
 
-Wie oft ein Charakter in einer Kampfrunde handeln kann, wird durch Aktionspunkte bestimmt. Alle _Mythras Imperative_-Charaktere haben 2 Aktionspunkte.
+Wie oft ein Charakter in einer Kampfrunde handeln kann, wird durch Aktionspunkte bestimmt. Alle *Mythras Imperative*-Charaktere haben 2 Aktionspunkte.
 
 #### Schad. Mod.
 
-Größere und stärkere Charaktere und Kreaturen können in bestimmten Situationen zusätzlichen Schaden verursachen; umgekehrt können schwächere und kleinere Charaktere den Schaden, den sie zufügen können, verringern. Der Schad. Mod. wird im Allgemeinen in Kampfsituationen verwendet, kann aber auch beim Versuch, Gegenstände zu zerbrechen, eingesetzt werden. Der Schad. Mod. ist ein zusätzlicher Würfelwurf, der zum Schaden, der durch die Waffe oder das Werkzeug verursacht wird, addiert oder davon subtrahiert wird. Wenn ein negativer Schad. Mod. den Waffenschaden auf null oder darunter senkt, wurde überhaupt kein Schaden verursacht.
+Größere und stärkere Charaktere und Kreaturen können in bestimmten Situationen zusätzlichen Schaden verursachen; umgekehrt können schwächere und kleinere Charaktere den Schaden, den sie verursachen können, reduzieren. Der Schad. Mod. wird im Allgemeinen in Kampfsituationen verwendet, kann aber auch beim Versuch verwendet werden, Gegenstände zu zerstören. Der Schad. Mod. ist ein zusätzlicher Würfelwurf, der zum Schaden der Waffe oder des Werkzeugs addiert oder von diesem subtrahiert wird. Wenn ein negativer Schad. Mod. den Schaden einer Waffe auf null oder weniger reduziert, wurde überhaupt kein Schaden verursacht.
 
-Addiere STÄ und GRÖ zusammen und ziehe die untenstehende Tabelle für den Schad. Mod. zu Rate.
+Addieren Sie STÄ und GRÖ zusammen und konsultieren Sie die untenstehende Tabelle für den Schad. Mod.
 
 ##### Tabelle für Schad. Mod.
 
 | STÄ+GRÖ | Schad. Mod. |
 | :-: | :-:|
-| 5 oder weniger | –1d8 |
-| 6–10 | –1d6 |
-| 11–15 | –1d4 |
-| 16–20 | –1d2 |
+| 5 oder weniger | –1W8 |
+| 6–10 | –1W6 |
+| 11–15 | –1W4 |
+| 16–20 | –1W2 |
 | 21–25 | +0 |
-| 26–30 | +1d2 |
-| 31–35 | +1d4 |
-| 36–40 | +1d6 |
-| 41–45 | +1d8 |
-| 46–50 | +1d10 |
-| 51–60 | +1d12 |
-| 61–70 | +2d6 |
-| 71–80 | +1d8+1d6 |
-| 81–90 | +2d8 |
-| 91–100 | +1d10+1d8 |
-| 101–110 | +2d10 |
-| 111–120 | +2d10+1d2 |
+| 26–30 | +1W2 |
+| 31–35 | +1W4 |
+| 36–40 | +1W6 |
+| 41–45 | +1W8 |
+| 46–50 | +1W10 |
+| 51–60 | +1W12 |
+| 61–70 | +2W6 |
+| 71–80 | +1W8+1W6 |
+| 81–90 | +2W8 |
+| 91–100 | +1W10+1W8 |
+| 101–110 | +2W10 |
+| 111–120 | +2W10+1W2 |
 | Jede 10 Punkte | Progression fortsetzen |
 
 #### Erf. Mod.
 
 Im Laufe des Spiels verbessern Charaktere ihre Fertigkeiten und Fähigkeiten. Dies wird durch Erfahrungswürfe erreicht, die im Abschnitt [Spielsystem](0004_Game_System.md?id=experience-rolls) näher erläutert werden.
 
-Der CHA-Wert eines Charakters kann die Anzahl der Erfahrungswürfe anpassen, die der Charakter erhält, was die Beziehung zu seinen Mitmenschen und seinen Ruf in der Gemeinschaft widerspiegelt. Bei hohem CHA sind die Leute bereit, sich einzusetzen, um den Charakter zu trainieren oder zu unterstützen, während er eine Ausbildung durchläuft. Umgekehrt kann es bei besonders niedrigem CHA schwierig sein, seine Fähigkeiten ohne die Hilfe anderer zu verbessern; zum Beispiel jemanden zum Sparring zu finden.
+Der CHA-Wert eines Charakters kann die Anzahl der Erfahrungswürfe anpassen, die der Charakter erhält, was die Beziehung zu seinen Mitmenschen und seinen Ruf in der Gemeinschaft widerspiegelt. Bei einem hohen CHA sind die Leute bereit, sich einzusetzen, um den Charakter bei seiner Ausbildung zu unterstützen oder ihn zu fördern, während er eine Ausbildung durchläuft. Umgekehrt kann es bei einem besonders niedrigen CHA schwierig sein, seine Fähigkeiten ohne die Unterstützung anderer zu verbessern; zum Beispiel jemanden zu finden, gegen den man trainieren kann.
 
 ##### Tabelle für Erf. Mod.
 
@@ -121,7 +121,7 @@ Der CHA-Wert eines Charakters kann die Anzahl der Erfahrungswürfe anpassen, die
 
 #### Heilungsrate
 
-Nachdem ein Charakter Verletzungen erlitten hat, muss er sich erholen. Die Heilungsrate bestimmt, wie schnell er sich auf natürliche Weise von Wunden erholt. Abhängig von der Schwere der Verletzung gibt die Heilungsrate an, wie viele Trefferpunkte pro Tag, Woche oder Monat wiederhergestellt werden.
+Nachdem ein Charakter Verletzungen erlitten hat, muss er sich erholen. Die Heilungsrate bestimmt, wie schnell er sich auf natürliche Weise von Wunden erholt. Je nach Schwere der Verletzung gibt die Heilungsrate an, wie viele Trefferpunkte pro Tag, Woche oder Monat wiederhergestellt werden.
 
 ##### Tabelle für Heilungsrate
 
@@ -134,15 +134,15 @@ Nachdem ein Charakter Verletzungen erlitten hat, muss er sich erholen. Die Heilu
 
 #### Trefferpunkte
 
-Trefferpunkte stellen dar, wie viel Verletzung ein Körperbereich aushalten kann, bevor er unbrauchbar wird, was möglicherweise zu Kampfunfähigkeit und letztendlich zum Tod des Charakters führt. Der Körper jeder Kreatur ist in verschiedene Zonen unterteilt – Menschen haben zum Beispiel sieben: Kopf, Brust, Unterleib, Arme und Beine –, wobei jede Zone ihre eigenen Trefferpunkte hat.
+Trefferpunkte stellen dar, wie viel Schaden ein Körperbereich aushalten kann, bevor er unbrauchbar wird, was möglicherweise zur Kampfunfähigkeit und schließlich zum Tod des Charakters führt. Der Körper jeder Kreatur ist in getrennte Zonen unterteilt – Menschen haben zum Beispiel sieben: Kopf, Brust, Unterleib, Arme und Beine –, wobei jede Zone ihre eigenen Trefferpunkte hat.
 
-Einige Kreaturen, wie Monster oder verschiedene Tierklassen, haben aufgrund ihrer Natur oft radikal unterschiedliche Körperstrukturen, dennoch hat jede Zone, die sie besitzen, Trefferpunkte. Wenn die Trefferpunkte einer Zone durch Schaden jeglicher Art auf ein bestimmtes Niveau reduziert werden, erleidet der Charakter bestimmte Konsequenzen, die die Schwere der Verletzung widerspiegeln. Weitere Informationen zu Wunden findest du im Abschnitt [Schaden und Wundniveaus](0004_Game_System.md?id=damage-and-wound-levels).
+Einige Kreaturen, wie Monster oder verschiedene Tierklassen, haben oft radikal andere Körperstrukturen, dennoch hat jede Zone, die sie besitzen, Trefferpunkte. Wenn die Trefferpunkte einer Zone durch irgendeine Art von Schaden auf ein bestimmtes Niveau reduziert werden, erleidet der Charakter bestimmte Konsequenzen, die den Schweregrad der Verletzung widerspiegeln. Weitere Informationen zu Wunden finden Sie im Abschnitt [Schaden und Wundgrade](0004_Game_System.md?id=damage-and-wound-levels).
 
-Um die Trefferpunkte jeder Zone zu berechnen, addiere KON und GRÖ zusammen und schlage das Ergebnis in der obigen Trefferpunkttabelle nach.
+Um die Trefferpunkte jeder Zone zu berechnen, addieren Sie KON und GRÖ zusammen und schlagen Sie das Ergebnis in der obigen Tabelle für Trefferpunkte nach.
 
-##### Trefferpunkte pro Zone
+##### Trefferpunkte pro Ort
 
-| Zone | KON+GRÖ |  |  |  |  |  |  |  |  |
+| Ort | KON+GRÖ |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Kopf | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
@@ -153,19 +153,19 @@ Um die Trefferpunkte jeder Zone zu berechnen, addiere KON und GRÖ zusammen und 
 
 #### Initiative
 
-Der Moment, in dem jemand im Kampf reagiert, wird durch die Initiative bestimmt. Initiative fungiert als Modifikator für Initiative-Würfe; je höher die Initiative, desto schneller reagiert man in einer Kampfsituation, was bestimmt, wann man handeln kann. Weitere Faktoren – zum Beispiel Rüstung – modifizieren sie. Das Kapitel [Kampf](0005_Combat.md?id=combat-style) geht näher darauf ein, wie die Initiative verwendet wird.
+Der Moment, in dem jemand im Kampf reagiert, wird durch die Initiative bestimmt. Initiative wirkt als Modifikator für Initiative-Würfe; je höher die Initiative, desto schneller reagiert man in einer Kampfsituation, was bestimmt, wann man handeln kann. Weitere Faktoren – zum Beispiel Rüstung – modifizieren sie. Das Kapitel [Kampf](0005_Combat.md?id=combat-styles) geht näher darauf ein, wie Initiative verwendet wird.
 
-Initiative ist der Durchschnitt der Eigenschaften GES und INT.
+Die Initiative ist der Durchschnitt aus den Eigenschaften GES und INT.
 
 #### Glückspunkte
 
-Glückspunkte repräsentieren jene seltsame Kraft, die abenteuerlustige Helden von alltäglichen Leuten unterscheidet. Nenne es Schicksal, Karma oder einfaches Glück. Glückspunkte können verwendet werden, um:
+Glückspunkte stellen jene seltsame Kraft dar, die Abenteurer von alltäglichen Leuten unterscheidet. Nennen Sie es Schicksal, Karma oder einfach gutes Glück. Glückspunkte können verwendet werden, um:
 
 - Die Würfel neu zu würfeln, wenn sie ungünstig sind.
 - Physischen Schaden oder andere unglückliche Umstände abzumildern.
-- In einem entscheidenden Moment im Kampf einen Vorteil zu erlangen.
+- Einen Vorteil in einem entscheidenden Moment im Kampf zu erlangen.
 
-Genau wie sie verwendet werden und wann, wird im Abschnitt [Spielsystem](0004_Game_System.md?id=game-system) beschrieben. Sobald ein Glückspunkt ausgegeben wurde, verringert sich der Vorrat; wenn man keine Glückspunkte mehr hat, sind keine mehr verfügbar – es sei denn, der Spielleiter gewährt sie spontan –, bis sie sich in der nächsten Spielsitzung wieder auf ihren Normalwert auffüllen.
+Wie sie genau verwendet werden und wann, wird im Abschnitt [Spielsystem](0004_Game_System.md?id=game-system) beschrieben. Sobald ein Glückspunkt ausgegeben wurde, verringert sich der Vorrat; wenn man keine Glückspunkte mehr hat, sind keine mehr verfügbar – es sei denn, der Spielleiter gewährt sie spontan –, bis sie sich in der nächsten Spielsitzung wieder auf ihren Normalwert regenerieren.
 
 ##### Tabelle für Glückspunkte
 
@@ -178,15 +178,15 @@ Genau wie sie verwendet werden und wann, wird im Abschnitt [Spielsystem](0004_Ga
 
 #### Magiepunkte
 
-Mystische Fähigkeiten, Kräfte und Zauber, die in _Mythras Imperative_ verwendet werden, verlassen sich normalerweise auf Magiepunkte. Da die Verfügbarkeit von Magie durch ein Kampagnensetting oder auf bestimmte magische Berufe beschränkt sein kann, werden einige Charaktere dieses Attribut als überflüssig empfinden.
+Mystische Fähigkeiten, Kräfte und Zauber in *Mythras Imperative* stützen sich normalerweise auf Magiepunkte. Da die Verfügbarkeit von Magie durch ein Kampagnen-Setting oder auf bestimmte magische Berufe beschränkt sein kann, werden manche Charaktere dieses Attribut als überflüssig empfinden.
 
-Für diejenigen, die solche Kräfte nutzen können, sind die Magiepunkte eines Charakters gleich seiner MAC. Diese Punkte werden verwendet, um Zauber zu wirken, deren Kosten von der Art der verwendeten Magie abhängen. Wenn Zauberer keine Magiepunkte mehr haben, haben sie ihre Fähigkeit erschöpft, Zauber zu wirken, bis die Magiepunkte wieder aufgefüllt sind.
+Für diejenigen, die solche Kräfte einsetzen können, entsprechen die Magiepunkte eines Charakters seiner MAC. Diese Punkte werden verwendet, um Zauber zu wirken, deren Kosten von der Art der verwendeten Magie abhängen. Wenn Zauberer keine Magiepunkte mehr haben, haben sie ihre Fähigkeit, Zauber zu wirken, erschöpft, bis die Magiepunkte wieder aufgefüllt sind.
 
 #### Bewegungsrate
 
-Jede Kreatur hat eine Bewegungsrate – eine Anzahl von Metern, die während eines bestimmten Zeitraums zurückgelegt werden kann. Die Bewegung wird nicht aus den Eigenschaften berechnet, sondern ist ein Standardwert, der sich von Spezies zu Spezies unterscheidet. Die grundlegende Bewegungsrate für Menschen beträgt 6 Meter.
+Jede Kreatur hat eine Bewegungsrate – eine Anzahl von Metern, die während eines bestimmten Zeitraums zurückgelegt werden kann. Die Bewegung wird nicht aus den Eigenschaften berechnet, sondern ist ein Standardwert, der sich von Spezies zu Spezies unterscheidet. Die Basis-Bewegungsrate für Menschen beträgt 6 Meter.
 
-Gangarten, die schneller als Gehen sind, wenden einen Multiplikator auf den Bewegungswert an:
+Gänge, die schneller als Gehen sind, wenden einen Multiplikator auf den Bewegungs-Wert an:
 - **Laufen:** Bewegung x3  
 - **Sprinten:** Bewegung x5
 
@@ -194,17 +194,17 @@ Gangarten, die schneller als Gehen sind, wenden einen Multiplikator auf den Bewe
 
 <summary>* Community Errata</summary>
 
-_**Gangarten: Gehen, Laufen, Sprinten**_
+_**Gänge: Gehen, Laufen, Sprinten**_
 
-_Die veröffentlichte Version von _Mythras Imperative_ hat keine expliziten Regeln für das Bewegen mit verschiedenen Gangarten, obwohl diese im Mythras-Grundregelwerk behandelt werden. Die oben genannten Gangarten-Multiplikatoren wurden als Teil der Community Errata hinzugefügt._ 
+_Die veröffentlichte Version von _Mythras Imperative_ enthält keine expliziten Regeln für die Fortbewegung in verschiedenen Gängen, obwohl diese im Mythras-Grundregelwerk behandelt werden. Die oben genannten Gang-Multiplikatoren wurden als Teil der Community Errata hinzugefügt._ 
 
-_Wo erforderlich, sollte es ausreichen, Gangarten wie folgt zu behandeln:_
+_Wo erforderlich, sollte es ausreichen, Gänge wie folgt zu behandeln:_
 
-- _Gangarten, die schneller als Gehen sind, wenden einen Multiplikator auf den Bewegungswert an: 3x für Laufen, 5x für Sprinten._
-- _Während einer Lauf- oder Sprint-Gangart können Charaktere nicht die meisten proaktiven Aktionen wie Angreifen oder Zauber wirken versuchen. Einige Ausnahmen umfassen..._
-  - _Angriffe bei Verwendung der Ansturm-Regeln._
-  - _Abfeuern von Fernkampfwaffen mit der Eigenschaft Geplänkel._ 
-- _Als allgemeine Regel sollte jede erlaubte Aktion so behandelt werden, dass sie beim Laufen um einen Grad schwerer und beim Sprinten um zwei Grad schwerer zu bewerkstelligen ist._
+- _Gänge, die schneller als Gehen sind, wenden einen Multiplikator auf den Bewegungs-Wert an: 3x für Laufen, 5x für Sprinten._
+- _Während eines Lauf- oder Sprintgangs können Charaktere keine proaktiven Aktionen wie Angreifen oder Zauber wirken versuchen. Einige Ausnahmen sind..._
+  - _Angriffe bei Verwendung der Regeln für den Sturmangriff._
+  - _Abfeuern von Fernkampfwaffen mit dem Merkmal Plänkeln._ 
+- _Als allgemeine Regel sollte jede erlaubte Aktion als einen Grad schwieriger beim Laufen und zwei Grad schwieriger beim Sprinten behandelt werden._
 
 
 </details>
@@ -212,15 +212,15 @@ _Wo erforderlich, sollte es ausreichen, Gangarten wie folgt zu behandeln:_
 ---
 ## Schritt 4: Fertigkeiten
 
-Fertigkeiten fallen in zwei Klassen. Jeder hat Standardfertigkeiten – Dinge wie Anschleichen oder Beeinflussen anderer. Berufsfertigkeiten hingegen sind solche, die spezifisches Training erfordern, bevor sie versucht werden können – Dinge wie das Verfolgen von Wildtieren, das Steuern von Raumschiffen oder das Verstehen alter Sprachen. Charaktere erhalten drei Punkte-Pools, die sie für den Erwerb von Fertigkeiten ausgeben können; den ersten Pool für die Kultur, in der sie aufgewachsen sind, den zweiten für die Karriere, die sie nach der Kindheit einschlagen, und den letzten, um ihr Fertigkeitenset weiter abzurunden. Standardmäßig weisen neue Charaktere dem Kultur-Fertigkeitenpool 100 Punkte, dem Karriere-Fertigkeitenpool 100 Punkte und weitere 150 Bonuspunkte zur Abrundung zu. Jede Kultur und Karriere hat einen definierten Bereich an Standard- und Berufsfertigkeiten, denen diese Fertigkeitspunkte zugewiesen werden können.
+Fertigkeiten fallen in zwei Klassen. Jeder hat Standardfertigkeiten – Dinge wie sich herumschleichen oder andere beeinflussen. Berufsfertigkeiten hingegen sind solche, die eine spezifische Ausbildung erfordern, bevor sie versucht werden können – Dinge wie das Aufspüren von Wildtieren, das Steuern von Raumschiffen oder das Verstehen alter Sprachen. Charaktere erhalten drei Punkte-Pools, die sie für den Erwerb von Fertigkeiten ausgeben können; den ersten Pool für die Kultur, in der sie aufgewachsen sind, den zweiten für die Karriere, die sie nach der Kindheit einschlagen, und den letzten, um ihr Fertigkeitenset abzurunden. Standardmäßig weisen neue Charaktere dem Kultur-Fertigkeitenpool 100 Punkte, dem Karriere-Fertigkeitenpool 100 Punkte und weitere 150 Bonuspunkte zur Abrundung zu. Jede Kultur und Karriere hat einen definierten Bereich an Standard- und Berufsfertigkeiten, auf die diese Fertigkeitspunkte verteilt werden können.
 
-##### Kampfstile
+##### Kampfstil
 
-Kampfstile sind in den folgenden kulturellen Beschreibungen aufgeführt. Kampfstile werden im Abschnitt [Kampf](0005_Combat.md?id=combat-style) ausführlicher erklärt und haben einen Basisprozentsatz gleich STÄ+GES.
+Der Kampfstil ist in den folgenden kulturellen Beschreibungen aufgeführt. Kampfstile werden im Abschnitt [Kampf](0005_Combat.md?id=combat-styles) ausführlicher erklärt und haben einen Basis-Prozentsatz von STÄ+GES.
 
 ##### Standardfertigkeiten
 
-| Fertigkeit | Basisprozentsatz |
+| Fertigkeit | Basis-Prozentsatz |
 | :-- | :-- |
 | Athletik | STÄ+GES |
 | Bootfahren | STÄ+KON |
@@ -245,102 +245,102 @@ Kampfstile sind in den folgenden kulturellen Beschreibungen aufgeführt. Kampfst
 | Unbewaffnet | STÄ+GES |
 | Willenskraft | MAC x2 |
 
-_\* Beinhaltet einen statischen Bonus von +40% für sowohl Bräuche als auch die Muttersprache des Charakters (Gemeinsprache für Menschen)._
+_\* Beinhaltet einen statischen Bonus von +40% für sowohl Bräuche als auch die Muttersprache des Charakters (für Menschen üblich)._
 
 ---
 ## Schritt 5: Kultur
 
-Die Kultur bestimmt die Art der Gesellschaft, in der der Charakter aufgewachsen ist, und schreibt daher bestimmte Ansichten und Philosophien vor, die er oder sie möglicherweise hat. Praktischer ausgedrückt hilft die Kultur dabei, die Werte der verschiedenen Fertigkeiten zu erhöhen, die die Gesamtfähigkeiten deines Charakters formen. Es gibt vier grundlegende menschliche Kulturen: Barbarisch, Zivilisiert, Nomadisch und Primitiv. Jeder kulturelle Hintergrund listet eine Reihe geeigneter Standardfertigkeiten auf und lädt den Spieler ein, bis zu drei der vorgestellten Berufsfertigkeiten auszuwählen: Auf diese Weise können Spieler mit demselben kulturellen Hintergrund sicherstellen, dass ihre Abenteurer sich in den Bereichen unterscheiden, die sie entwickelt haben. Verteile 100 Kultur-Fertigkeitspunkte auf die aufgeführten Standardfertigkeiten der Karriere und die gewählten Berufsfertigkeiten, wobei jede Fertigkeit um 1% für jeden dafür ausgegebenen Punkt erhöht wird. Spielleiter möchten möglicherweise eine Obergrenze festlegen, wie viele Fertigkeitspunkte auf eine bestimmte Fertigkeit angewendet werden können.
+Die Kultur bestimmt die Art der Gesellschaft, in der der Charakter aufgewachsen ist, und schreibt daher bestimmte Sichtweisen und Philosophien vor, die er oder sie haben könnte. Praktischer gesehen hilft die Kultur dabei, die Werte der verschiedenen Fertigkeiten zu erhöhen, die die allgemeinen Fähigkeiten Ihres Charakters formen. Es gibt vier grundlegende menschliche Kulturen: Barbarisch, Zivilisiert, Nomadisch und Primitiv. Jeder kulturelle Hintergrund listet eine Reihe geeigneter Standardfertigkeiten auf und lädt den Spieler ein, bis zu drei der vorgestellten Berufsfertigkeiten auszuwählen: Auf diese Weise können Spieler aus demselben kulturellen Hintergrund sicherstellen, dass ihre Abenteurer sich in den Bereichen unterscheiden, die sie entwickelt haben. Verteilen Sie 100 Kultur-Fertigkeitspunkte auf die aufgeführten Standardfertigkeiten der Karriere und die jeweils ausgewählten Berufsfertigkeiten, wobei jede Fertigkeit um 1% pro Punkt, der zu ihrer Verbesserung ausgegeben wird, erhöht wird. Spielleiter können nach Wunsch eine Obergrenze für die Anzahl der Punkte festlegen, die auf eine bestimmte Fertigkeit angewendet werden können.
 
 ### Barbarisch
 
-Barbaren sind von Natur aus stammesgebunden und neigen dazu, die Zivilisation zu meiden, da sie diejenigen, die in großen Städten und Gemeinden leben, als schwach und korrupt ansehen. Obwohl ihre eigenen Siedlungen ebenfalls sesshaft sind, sind sie tendenziell viel kleiner und naturverbundener. Barbarenstämme bewohnen unterschiedliche Gebiete, oft halb gezähmte Wildnis, die sie als ihr Eigentum für Jagd-, Weide- und Landwirtschaftszwecke betrachten. Die meisten sind im Umgang mit Waffen geübt, da sie ihr ganzes Leben lang viele Gefahren überwinden müssen – sie stellen sich Kreaturen der Wildnis oder sammeln sich, um ihr Land gegen rivalisierende Stämme zu verteidigen. Da sie in kleinen Gemeinschaften leben, sind die Bande der Verwandtschaft und des Clans starke Elemente ihrer Gesellschaft.
+Barbaren sind von tribalistischer Natur und neigen dazu, die Zivilisation zu meiden, indem sie diejenigen, die in großen Städten und Ballungszentren leben, als schwach und korrupt betrachten. Obwohl ihre eigenen Siedlungen ebenfalls sesshaft sind, sind sie meist viel kleiner und naturnäher. Barbarenstämme bewohnen abgegrenzte Gebiete, oft halb gezähmte Wildnis, die sie für Jagd-, Weide- und landwirtschaftliche Zwecke als ihr Eigen betrachten. Die meisten sind geübt im Umgang mit Waffen, da sie im Laufe ihres Lebens viele Gefahren überwinden müssen – sie begegnen den Kreaturen der Wildnis oder müssen sich versammeln, um ihr Land gegen rivalisierende Stämme zu verteidigen. Da sie in kleinen Gemeinschaften leben, sind die Bande der Verwandtschaft und des Clans starke Elemente ihrer Gesellschaft.
 
 #### Fertigkeiten
 
-- **Standardfertigkeiten:** Athletik, Muskelkraft, Ausdauer, Erste Hilfe, Örtlichkeit, Wahrnehmung; und entweder Bootfahren oder Reiten. Zusätzlich kann der Spieler einen kulturellen Kampfstil wählen.
+- **Standardfertigkeiten:** Athletik, Muskelkraft, Ausdauer, Erste Hilfe, Örtlichkeit, Wahrnehmung; und entweder Bootfahren oder Reiten. Zusätzlich darf der Spieler auch einen kulturellen Kampfstil wählen.
 - **Berufsfertigkeiten:** Handwerk (beliebig), Heilung, Wissen (beliebig), Musikalität, Navigation, Seemannschaft, Überleben, Spurenlesen.
 
 ### Zivilisiert
 
-Die zivilisierte Kultur wird durch einen Anschein von Recht und Ordnung verkörpert, der von komplexen sozialen Kodizes untermauert und von einer Bürokratie gestützt wird. Zivilisierte Menschen halten sich für allen anderen Kulturen überlegen, weil ihre Errungenschaften auf Beständigkeit ausgerichtet sind: ausgedehnte Städte, imposante Tempel, feierliche Denkmäler und die Aufzeichnung von Geschichte und Ereignissen in Büchern, Grabsteinen und Schriftrollen. Natürlich ist dies ein dünner Firnis. Die zivilisierteste Stadt kann gesetzloser sein als jede barbarische Grenzsiedlung; und die sozialen Kodizes können gröber sein als die Gastfreundschaftsrituale der Nomaden. Aber die zivilisierte Kultur ist stolz auf ihre Leistungen, ihre Infrastruktur, ihre professionellen Handwerker und ihre Fähigkeit, ihren Einfluss leicht dorthin auszudehnen, wo immer sie möchte.
+Die Zivilisierte Kultur wird durch den Anschein von Recht und Ordnung verkörpert, die durch komplexe soziale Kodizes untermauert und durch eine Bürokratie unterstützt werden. Zivilisierte Menschen halten sich für anderen Kulturen überlegen, weil ihre Errungenschaften auf Beständigkeit abzielen: ausufernde Städte, imposante Tempel, feierliche Denkmäler und die Aufzeichnung von Geschichte und Ereignissen in Büchern, Grabsteinen und Schriftrollen. Natürlich ist dies nur eine dünne Fassade. Die zivilisiertesten Städte können gesetzloser sein als jede barbarennahe Grenzland-Siedlung; und die sozialen Kodizes können gröber sein als die Gastfreundschaftsrituale von Nomaden. Aber die Zivilisierte Kultur ist stolz auf ihre Errungenschaften, ihre Infrastruktur, ihre professionellen Handwerker und ihre Fähigkeit, ihren Einfluss leicht dorthin auszudehnen, wohin sie will.
 
 #### Fertigkeiten
 
-- **Standardfertigkeiten:** Verbergen, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit, Willenskraft. Zusätzlich kann der Spieler einen kulturellen Kampfstil wählen.
-- **Berufsfertigkeiten:** Kunst (beliebig), Handel, Handwerk (beliebig), Höflichkeit, Sprache (beliebig), Wissen (beliebig), Musikalität, Gassenwissen.
+- **Standardfertigkeiten:** Verbergen, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit, Willenskraft. Zusätzlich darf der Spieler auch einen kulturellen Kampfstil wählen.
+- **Berufsfertigkeiten:** Kunst (beliebig), Handel, Handwerk (beliebig), Etikette, Sprache (beliebig), Wissen (beliebig), Musikalität, Straßenwissen.
 
 ### Nomadisch
 
-Nomadische Völker sind ständig in Bewegung, ohne ein eigenes Zuhause oder einen festen Herd. Sie mögen ziellos umherwandern oder mehrere Lager haben, zu denen sie das ganze Jahr über ziehen. Sie bauen wenig an, sondern folgen den Wanderungen von Tieren oder Fischen, vielleicht hüten sie sogar ihre eigenen domestizierten Bestien. Nomaden sind geübt darin, von dem zu leben, was sie schnell und einfach aus ihrer Umgebung zusammenkratzen können, ohne etwas zu verschwenden. Die Fertigkeiten der Nomadenkultur sollten an ihre Umgebung angepasst werden. Manche legen riesige Entfernungen zu Fuß zurück, andere leben in Karawanen oder reiten auf seltsamen Kreaturen, und manche treiben auf großen schwimmenden Flößen über die Ozeane.
+Nomaden sind ständig in Bewegung, ohne Heim und Herd, den sie ihr Eigen nennen können. Sie mögen ziellos umherwandern oder mehrere Lager haben, zu denen sie im Laufe des Jahres ziehen. Sie bauen kaum Feldfrüchte an und folgen stattdessen den Wanderungen von Tieren oder Fischen, vielleicht hüten sie sogar ihre eigenen domestizierten Herden. Nomaden sind geübt darin, von dem zu leben, was sie schnell und einfach aus ihrer Umgebung zusammenkratzen können, wobei sie nichts verkommen lassen. Die Fertigkeiten der Nomadenkultur sollten an ihre Umgebung angepasst sein. Einige legen riesige Entfernungen zu Fuß zurück, andere leben in Karawanen oder reiten auf seltsamen Kreaturen, und manche driften auf großen schwimmenden Flößen über die Ozeane.
 
 #### Fertigkeiten
 
-- **Standardfertigkeiten:** Ausdauer, Erste Hilfe, Örtlichkeit, Wahrnehmung, Heimlichkeit; und zwei der folgenden: Athletik, Bootfahren, Schwimmen, Fahren oder Reiten, je nach primärem Reisemodus. Zusätzlich kann der Spieler einen kulturellen Kampfstil wählen.
+- **Standardfertigkeiten:** Ausdauer, Erste Hilfe, Örtlichkeit, Wahrnehmung, Heimlichkeit; und zwei der folgenden: Athletik, Bootfahren, Schwimmen, Fahren oder Reiten, je nach primärer Fortbewegungsart. Zusätzlich darf der Spieler auch einen kulturellen Kampfstil wählen.
 - **Berufsfertigkeiten:** Handwerk (beliebig), Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Musikalität, Navigation, Überleben, Spurenlesen.
 
 ### Primitiv
 
-Von allen Völkern leben Primitive am engsten mit dem Land zusammen, im Einklang mit seinen verborgenen Geheimnissen. Die primitiven Kulturen leben in Großfamilien und versammeln sich um sehr einfache Behausungen, die von Höhlen und Gebieten mit natürlichem Schutz bis hin zu Unterständen oder sehr einfachen Hütten reichen können. Primitive sind typischerweise Jäger und Sammler mit wenigen oder schlecht entwickelten Systemen für Landwirtschaft und Viehzucht.
+Von allen Völkern leben die Primitiven am engsten mit dem Land zusammen, im Einklang mit dessen verborgenen Geheimnissen. Die Primitiven leben in Großfamilien und versammeln sich um sehr einfache Wohnstätten, die von Höhlen und Gebieten mit natürlichem Schutz bis hin zu Unterständen oder sehr einfachen Hütten reichen können. Primitiven sind typischerweise Jäger und Sammler mit entweder wenigen oder schlecht entwickelten Systemen für Landwirtschaft und Viehzucht.
 
-Bestimmte kulturelle Überzeugungen, die oft auf Aberglauben basieren, können jedoch sehr gut definiert sein. Nur wenige primitive Kulturen haben etwas entwickelt, das einer Schriftsprache nahekommt, obwohl Gemälde und andere bildliche Symbole als Kommunikationsmittel dienen.#### Fertigkeiten
+Bestimmte kulturelle Überzeugungen, die oft auf Aberglauben beruhen, können jedoch sehr gut definiert sein. Nur wenige primitive Kulturen haben etwas entwickelt, das einer Schriftsprache nahekommt, obwohl Gemälde und andere bildhafte Symbole als Kommunikationsmittel dienen.#### Fertigkeiten
 
 - **Standardfertigkeiten:** Muskelkraft, Ausdauer, Ausweichen, Örtlichkeit, Wahrnehmung, Heimlichkeit; und eine der folgenden: Athletik, Bootfahren oder Schwimmen. Zusätzlich kann der Spieler auch einen kulturellen Kampfstil wählen.
-- **Berufsfertigkeiten:** Handwerk (beliebig), Heilung, Wissen (beliebig), Musikalität, Navigation, Überleben, Fährtenlesen.
+- **Berufsfertigkeiten:** Handwerk (beliebig), Heilung, Wissen (beliebig), Musizieren, Navigation, Überleben, Spurenlesen.
 
 ---
-## Schritt 6: Karriere
+## Schritt 6: Laufbahn
 
-Jeder Charakter beginnt das Spiel mit einer Ausbildung in einer Karriere. Der gewählte Beruf muss nicht unbedingt derjenige sein, den der Charakter auch während seines Abenteurerlebens weiter ausübt, aber es ist die Karriere, die zu Beginn des Erwachsenenalters eingeschlagen wurde und die die Fertigkeitsentwicklung weiter definiert. Jede Karriere bietet eine Reihe von geeigneten Standardfertigkeiten und erlaubt es dem Spieler, bis zu drei der aufgeführten Berufsfertigkeiten zu wählen. Verteilen Sie 100 Karrierfertigkeitspunkte auf die aufgeführten Standardfertigkeiten der Karriere und die gewählten Berufsfertigkeiten, wobei jede Fertigkeit um 1% pro Punkt gesteigert wird. Wie bei den Kulturen kann ein Spielleiter ein Maximum für die Anzahl der Punkte festlegen, die auf eine bestimmte Fertigkeit angewendet werden dürfen.
+Jeder Charakter beginnt das Spiel mit einer Ausbildung in einer Laufbahn. Die gewählte Laufbahn muss nicht unbedingt die sein, die der Charakter auch während seines Abenteurerlebens weiterverfolgt, aber es ist die Laufbahn, die er als Teil des Übergangs zum Erwachsenenalter eingeschlagen hat, und sie definiert die Fertigkeitsentwicklung weiter. Jede Laufbahn bietet eine Reihe von Standardfertigkeiten, die für sie angemessen sind, und erlaubt dem Spieler, bis zu drei der aufgeführten Berufsfertigkeiten zu wählen. Verteile 100 Laufbahn-Fertigkeitspunkte auf die aufgeführten Standardfertigkeiten der Laufbahn und die gewählten Berufsfertigkeiten, wobei jede Fertigkeit um 1% für jeden Punkt erhöht wird, der in ihre Verbesserung investiert wird. Wie bei Kulturen kann ein Spielleiter eine Obergrenze dafür festlegen, wie viele Fertigkeitspunkte auf eine bestimmte Fertigkeit angewendet werden können.
 
-Spezifische Berufsfertigkeiten, wie etwa Pilot, sind in einer Fantasy-Welt eher selten zu finden. Fertigkeiten werden im Kapitel [Fertigkeiten](0002_Characters.md?id=step-4-skills) ausführlicher besprochen.
+Spezifische Berufsfertigkeiten, wie Pilot, sind in einer Fantasy-Welt unwahrscheinlich. Fertigkeiten werden ausführlicher im Kapitel [Fertigkeiten](0002_Characters.md?id=step-4-skills) besprochen.
 
-#### Karrieretabelle
+#### Laufbahntabelle
 
-| Karrierename | Standardfertigkeiten | Berufsfertigkeiten |
+| Laufbahnname | Standardfertigkeiten | Berufsfertigkeiten |
 | :-- | :-- | :-- |
-| Agent (Agitator, Attentäter, Detektiv, Informant, Spion...) | Verbergen, Täuschung, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Spezifischer Agenten- oder Kultur-Stil) | Kultur (beliebig), Verkleiden, Sprache (beliebig), Fingerfertigkeit, Straßenwissen, Überleben, Fährtenlesen |
-| Tierbändiger (Tierzüchter, Bestienbändiger, Menagerie-Wärter...) | Fahren, Ausdauer, Erste Hilfe, Einfluss, Örtlichkeit, Reiten, Willenskraft | Handwerk (Tierhaltung), Handel, Heilung (Spezifische Spezies), Wissen (Spezifische Spezies), Überleben, Lehren (Spezifische Spezies), Fährtenlesen |
-| Kopfgeldjäger (Kautionsjäger, Kopfgeldkiller, Skalpjäger, Skip Tracer...) | Athletik, Ausdauer, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (beliebig) | Bürokratie, Handel, Kultur (beliebig), Linguistik, Straßenwissen, Überleben (beliebig), Fährtenlesen |
-| Kurtisane (Konkubine, Begleitung, Haremsdame, Houri, Geliebte...) | Bräuche, Tanzen, Täuschung, Einfluss, Einsicht, Wahrnehmung, Singen | Kunst (beliebig), Höflichkeit, Kultur (beliebig), Glücksspiel, Sprache (beliebig), Musikalität, Verführung |
-| Handwerker (Kunsthandwerker, Schmied...) | Muskelkraft, Fahren, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Kunst (beliebig), Handel, Handwerk (Primär), Handwerk (Sekundär), Ingenieurswesen, Mechanismen, Straßenwissen |
-| Detektiv (Polizist, Privatdetektiv, Ermittler...) | Bräuche, Ausweichen, Einfluss, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Unbewaffnet oder Seitenwaffen-Stil) | Bürokratie, Kultur (beliebig), Verkleiden, Linguistik, Wissen (beliebig), Forschung, Fingerfertigkeit, Straßenwissen |
-| Unterhalter (Akrobat, Barde, Tänzer, Schauspieler, Dichter...) | Athletik, Muskelkraft, Tanzen, Täuschung, Einfluss, Einsicht, Singen | Akrobatik, Schauspielerei, Redekunst, Musikalität, Verführung, Fingerfertigkeit, Straßenwissen |
-| Landwirt (Gutsbesitzer, Gärtner, Pflüger...) | Athletik, Muskelkraft, Fahren, Ausdauer, Örtlichkeit, Wahrnehmung, Reiten | Handel, Handwerk (beliebig), Wissen (Landwirtschaft), Wissen (Tierhaltung), Navigation, Überleben, Fährtenlesen |
-| Fischer (Strandsucher, Netzwärter, Perlentaucher, Walfänger...) | Athletik, Bootfahren, Ausdauer, Örtlichkeit, Wahrnehmung, Heimlichkeit, Schwimmen | Handel, Handwerk (beliebig), Wissen (Hauptfang), Wissen (Nebenfang), Navigation, Seefahrt, Überleben |
-| Glücksspieler (Buchmacher, Falschspieler, Hustler...) | Athletik, Muskelkraft, Ausdauer, Örtlichkeit, Wahrnehmung, Willenskraft; sowie Fahren oder Reiten | Schauspielerei, Bürokratie, Handel, Höflichkeit, Glücksspiel, Forschung, Fingerfertigkeit, Straßenwissen |
-| Hirte (Züchter, Viehhirte, Heiliger Gänsehirt, Wrangler...) | Ausdauer, Erste Hilfe, Einsicht, Örtlichkeit, Wahrnehmung, Reiten; Kampfstil (Spezifischer Hirten- oder Kultur-Stil) | Handel, Handwerk (Tierhaltung), Heilung (Spezifische Spezies), Navigation, Musikalität, Überleben, Fährtenlesen |
-| Jäger (Förster, Wilderer, Aasfresser, Stalker, Fallensteller...) | Athletik, Ausdauer, Örtlichkeit, Wahrnehmung, Reiten, Heimlichkeit; Kampfstil (Spezifischer Jagd- oder Kultur-Stil) | Handel, Handwerk (Jagdbezogen), Wissen (Regional oder Spezifische Spezies), Mechanismen, Navigation, Überleben, Fährtenlesen |
-| Journalist (Kommentator, Schreiberling, Sensationsreporter...) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung | Bürokratie, Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Redekunst, Politik, Straßenwissen |
-| Magier (Zauberer, Hexer, Hexe...) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Kultur, Magie, Lesen/Schreiben, Wissen x2, Redekunst, Fingerfertigkeit |
-| Mechaniker (Ingenieur, Schrauber...) | Muskelkraft, Kultur, Fahren, Ausdauer, Einfluss, Örtlichkeit, Willenskraft | Handel, Handwerk (Primär), Handwerk (Sekundär), Elektronik, Glücksspiel, Mechanismen, Straßenwissen |
-| Händler (Makler, Hausierer, Geldverleiher, Schmuggler, Trader...) | Bootfahren, Fahren, Täuschung, Einsicht, Einfluss, Örtlichkeit, Reiten | Handel, Höflichkeit, Kultur (beliebig), Sprache (beliebig), Navigation, Seefahrt, Straßenwissen |
-| Bergarbeiter (Prospektor, Steinbrucharbeiter, Mineur...) | Athletik, Muskelkraft, Ausdauer, Örtlichkeit, Wahrnehmung, Singen, Willenskraft | Handel, Handwerk (Bergbau), Ingenieurswesen, Wissen (Mineralien), Mechanismen, Navigation (Untergrund), Überleben |
-| Beamter (Minister, Aufseher, Verwalter, Steuereintreiber...) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Bürokratie, Handel, Höflichkeit, Sprache (beliebig), Lesen/Schreiben, Wissen (beliebig), Redekunst |
-| Arzt (Heiler, Medizinmann, Folterer, Vivisektionist...) | Tanzen, Erste Hilfe, Einfluss, Einsicht, Örtlichkeit, Singen, Willenskraft | Handel, Handwerk (Spezifische physiologische Spezialität), Heilung, Sprache (beliebig), Lesen/Schreiben (beliebig), Wissen (beliebig), Straßenwissen |
-| Pilot (Aeronaut, Astronaut, Flugakrobat, Testpilot...) | Muskelkraft, Fahren, Ausdauer, Ausweichen, Örtlichkeit, Wahrnehmung, Willenskraft | Bräuche (beliebig), Elektronik, Mechanismen, Navigation, Pilot, Sensoren, Straßenwissen |
-| Politiker (Beamter, Minister, Aufseher, Verwalter...) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung | Bürokratie, Höflichkeit, Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Redekunst, Politik |
-| Priester (Schiedsrichter, Kultist, Druide, Bettelmönch, Prophet...) | Bräuche, Tanzen, Täuschung, Einfluss, Einsicht, Örtlichkeit, Willenskraft | Bürokratie, Höflichkeit, Bräuche, Lesen/Schreiben (beliebig), Wissen (beliebig), Redekunst, Politik |
-| Seemann (Kapitän, Galeerensklave, Marine, Pirat, Flößer...) | Athletik, Bootfahren, Muskelkraft, Ausdauer, Örtlichkeit, Schwimmen; Kampfstil (Spezifischer Seemanns- oder Kultur-Stil) | Handwerk (Spezifische Schiffsspezialität), Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Navigation, Seefahrt, Überleben |
-| Gelehrter (Annalist, Bibliothekar, Philosoph, Skalde, Schreiber...) | Bräuche, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung, Willenskraft | Kultur (beliebig), Sprache (beliebig), Lesen/Schreiben (beliebig), Wissen (Primär), Wissen (Sekundär), Redekunst, Lehren |
-| Wissenschaftler (Archivar, Bibliothekar, Philosoph...) | Bräuche, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung, Willenskraft | Kultur (beliebig), Ingenieurswesen, Sprache (beliebig), Redekunst, Forschung, Wissenschaft (beliebig), Lehren |
-| Späher (Kopfgeldjäger, Entdecker, Pionier, Waldläufer...) | Athletik, Ausdauer, Erste Hilfe, Wahrnehmung, Heimlichkeit, Schwimmen; Kampfstil (Spezifischer Jagd- oder Kultur-Stil) | Kultur (beliebig), Heilung, Sprache (beliebig), Wissen (beliebig), Navigation, Überleben, Fährtenlesen |
-| Diener (Assistent, Butler, Chauffeur, Hausmädchen, Gouvernante, Majordomus, Sekretär...) | Bräuche, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung | Bürokratie, Höflichkeit, Handwerk (Dienstleistungsbezogen), Kultur (beliebig), Sprache (beliebig), Politik, Straßenwissen |
-| Schmuggler (Schwarzmarkthändler, Alkoholschmuggler, Waffenschmuggler...) | Verbergen, Bräuche, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit | Bürokratie, Handel, Bräuche (beliebig), Sprache (beliebig), Navigation, Straßenwissen; und entweder Astrogation oder Seefahrt |
-| Techniker (Elektriker, Laborassistent...) | Muskelkraft, Fahren, Ausdauer, Einfluss, Örtlichkeit, Wahrnehmung, Willenskraft | Kommunikation, Handwerk (beliebig), Elektronik, Glücksspiel, Mechanismen, Wissenschaft (beliebig), Sensoren |
-| Dieb (Einbrecher, Trickbetrüger, Hehler, Wegelagerer, Grabräuber...) | Athletik, Täuschung, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Spezifischer Diebes- oder Kultur-Stil) | Schauspielerei, Handel, Verkleiden, Schlösserknacken, Mechanismen, Fingerfertigkeit, Straßenwissen |
-| Krieger (Leibwächter, Söldner, Käfigkämpfer, Soldat...) | Athletik, Muskelkraft, Ausdauer, Ausweichen, Unbewaffnet; Kampfstil (Militärischer Stil), Kampfstil (Kultur-Stil) | Handwerk (beliebig), Ingenieurswesen, Glücksspiel, Wissen (Militärgeschichte), Wissen (Strategie und Taktik), Redekunst, Überleben |
+| Agent (Agitator, Assassine, Detektiv, Informant, Spion…) | Verbergen, Täuschung, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Spezifischer Agenten- oder Kulturstil) | Kultur (beliebig), Verkleiden, Sprache (beliebig), Fingerfertigkeit, Straßenwissen, Überleben, Spurenlesen |
+| Tierbändiger (Tierzüchter, Bestienbändiger, Menagerie-Wärter…) | Fahren, Ausdauer, Erste Hilfe, Einfluss, Örtlichkeit, Reiten, Willenskraft | Handwerk (Tierhaltung), Handel, Heilung (Spezifische Spezies), Wissen (Spezifische Spezies), Überleben, Lehren (Spezifische Spezies), Spurenlesen |
+| Kopfgeldjäger (Kautionsagent, Kopfgeldjäger, Skalpjäger, Fluchtfahnder…) | Athletik, Ausdauer, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (beliebig) | Bürokratie, Handel, Kultur (beliebig), Linguistik, Straßenwissen, Überleben (beliebig), Spurenlesen |
+| Kurtisane (Konkubine, Begleiterin, Haremsdame, Huri, Geliebte…) | Bräuche, Tanzen, Täuschung, Einfluss, Einsicht, Wahrnehmung, Singen | Kunst (beliebig), Höflichkeit, Kultur (beliebig), Glücksspiel, Sprache (beliebig), Musizieren, Verführung |
+| Handwerker (Artifex, Kunsthandwerker…) | Muskelkraft, Fahren, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Kunst (beliebig), Handel, Handwerk (Primär), Handwerk (Sekundär), Ingenieurswesen, Mechanismen, Straßenwissen |
+| Detektiv (Schnüffler, Polizist, Privatdetektiv, Ermittler…) | Bräuche, Ausweichen, Einfluss, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Unbewaffnet oder Handfeuerwaffen-Stil) | Bürokratie, Kultur (beliebig), Verkleiden, Linguistik, Wissen (beliebig), Recherche, Fingerfertigkeit, Straßenwissen |
+| Unterhalter (Akrobat, Barde, Tänzer, Schauspieler, Poet…) | Athletik, Muskelkraft, Tanzen, Täuschung, Einfluss, Einsicht, Singen | Akrobatik, Schauspielerei, Redekunst, Musizieren, Verführung, Fingerfertigkeit, Straßenwissen |
+| Bauer (Gutsbesitzer, Gärtner, Pflüger…) | Athletik, Muskelkraft, Fahren, Ausdauer, Örtlichkeit, Wahrnehmung, Reiten | Handel, Handwerk (beliebig), Wissen (Landwirtschaft), Wissen (Tierhaltung), Navigation, Überleben, Spurenlesen |
+| Fischer (Strandsammler, Netzwärter, Perlentaucher, Walfänger…) | Athletik, Bootfahren, Ausdauer, Örtlichkeit, Wahrnehmung, Heimlichkeit, Schwimmen | Handel, Handwerk (beliebig), Wissen (Primärer Fang), Wissen (Sekundärer Fang), Navigation, Seemannschaft, Überleben |
+| Glücksspieler (Buchmacher, Kartenspieler, Trickbetrüger…) | Athletik, Muskelkraft, Ausdauer, Örtlichkeit, Wahrnehmung, Willenskraft; und entweder Fahren oder Reiten | Schauspielerei, Bürokratie, Handel, Höflichkeit, Glücksspiel, Recherche, Fingerfertigkeit, Straßenwissen |
+| Hirte (Züchter, Viehhirte, Heiliger Gänsehüter, Wrangler…) | Ausdauer, Erste Hilfe, Einsicht, Örtlichkeit, Wahrnehmung, Reiten; Kampfstil (Spezifischer Hirten- oder Kulturstil) | Handel, Handwerk (Tierhaltung), Heilung (Spezifische Spezies), Navigation, Musizieren, Überleben, Spurenlesen |
+| Jäger (Förster, Wilderer, Aasfresser, Stalker, Fallensteller…) | Athletik, Ausdauer, Örtlichkeit, Wahrnehmung, Reiten, Heimlichkeit; Kampfstil (Spezifischer Jagd- oder Kulturstil) | Handel, Handwerk (Jagdbezogen), Wissen (Regional oder Spezifische Spezies), Mechanismen, Navigation, Überleben, Spurenlesen |
+| Journalist (Kommentator, Schreiberling, Sensationsreporter, Pressereporter…) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung | Bürokratie, Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Redekunst, Politik, Straßenwissen |
+| Magier (Magier, Zauberer, Hexe, Hexer…) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Kultur, Magie, Lesen/Schreiben, Wissen x2, Redekunst, Fingerfertigkeit |
+| Mechaniker (Ingenieur, Schrauber…) | Muskelkraft, Kultur, Fahren, Ausdauer, Einfluss, Örtlichkeit, Willenskraft | Handel, Handwerk (primär), Handwerk (sekundär), Elektronik, Glücksspiel, Mechanismen, Straßenwissen |
+| Händler (Makler, Hausierer, Geldverleiher, Schmuggler, Handelskaufmann…) | Bootfahren, Fahren, Täuschung, Einsicht, Einfluss, Örtlichkeit, Reiten | Handel, Höflichkeit, Kultur (beliebig), Sprache (beliebig), Navigation, Seemannschaft, Straßenwissen |
+| Bergarbeiter (Prospektor, Steinbrucharbeiter, Sappeure, Brunnenbauer…) | Athletik, Muskelkraft, Ausdauer, Örtlichkeit, Wahrnehmung, Singen, Willenskraft | Handel, Handwerk (Bergbau), Ingenieurswesen, Wissen (Mineralien), Mechanismen, Navigation (Untergrund), Überleben |
+| Beamter (Minister, Aufseher, Verwalter, Steuereintreiber…) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung, Willenskraft | Bürokratie, Handel, Höflichkeit, Sprache (beliebig), Lesen/Schreiben, Wissen (beliebig), Redekunst |
+| Arzt (Doktor, Heiler, Medizinmann, Folterer, Vivisektionist…) | Tanzen, Erste Hilfe, Einfluss, Einsicht, Örtlichkeit, Singen, Willenskraft | Handel, Handwerk (Spezifische physiologische Spezialität), Heilung, Sprache (beliebig), Lesen/Schreiben (beliebig), Wissen (beliebig), Straßenwissen |
+| Pilot (Aeronaut, Astronaut, Stuntpilot, Flieger, Testpilot…) | Muskelkraft, Fahren, Ausdauer, Ausweichen, Örtlichkeit, Wahrnehmung, Willenskraft | Bräuche (beliebig), Elektronik, Mechanismen, Navigation, Pilot, Sensoren, Straßenwissen |
+| Politiker (Beamter, Mandarin, Minister, Aufseher, Verwalter…) | Bräuche, Täuschung, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung | Bürokratie, Höflichkeit, Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Redekunst, Politik |
+| Priester (Schiedsrichter, Kultist, Druide, Bettelmönch, Prophet…) | Bräuche, Tanzen, Täuschung, Einfluss, Einsicht, Örtlichkeit, Willenskraft | Bürokratie, Höflichkeit, Bräuche, Lesen/Schreiben (beliebig), Wissen (beliebig), Redekunst, Politik |
+| Seemann (Kapitän, Galeerensklave, Marineinfanterist, Pirat, Flößer…) | Athletik, Bootfahren, Muskelkraft, Ausdauer, Örtlichkeit, Schwimmen; Kampfstil (Spezifischer Seemanns- oder Kulturstil) | Handwerk (Spezifische Schiffsspezialität), Kultur (beliebig), Sprache (beliebig), Wissen (beliebig), Navigation, Seemannschaft, Überleben |
+| Gelehrter (Annalist, Bibliothekar, Philosoph, Skalde, Schreiber…) | Bräuche, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung, Willenskraft | Kultur (beliebig), Sprache (beliebig), Lesen/Schreiben (beliebig), Wissen (Primär), Wissen (Sekundär), Redekunst, Lehren |
+| Wissenschaftler (Archivar, Bibliothekar, Philosoph…) | Bräuche, Einfluss, Einsicht, Örtlichkeit, Muttersprache, Wahrnehmung, Willenskraft | Kultur (beliebig), Ingenieurswesen, Sprache (beliebig), Redekunst, Recherche, Wissenschaft (beliebig), Lehren |
+| Späher (Kopfgeldjäger, Entdecker, Pionier, Waldläufer, Reisender…) | Athletik, Ausdauer, Erste Hilfe, Wahrnehmung, Heimlichkeit, Schwimmen; Kampfstil (Spezifischer Jagd- oder Kulturstil) | Kultur (beliebig), Heilung, Sprache (beliebig), Wissen (beliebig), Navigation, Überleben, Spurenlesen |
+| Diener (Assistent, Butler, Chauffeur, Hausmädchen, Gouvernante, Majordomus, Bedienter, Persönlicher Assistent, Sekretär…) | Bräuche, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit, Wahrnehmung | Bürokratie, Höflichkeit, Handwerk (dienstleistungsbezogen), Kultur (beliebig), Sprache (beliebig), Politik, Straßenwissen |
+| Schmuggler (Schwarzmarkthändler, Alkoholschmuggler, Waffenschieber…) | Verbergen, Bräuche, Täuschung, Fahren, Einfluss, Einsicht, Örtlichkeit | Bürokratie, Handel, Bräuche (beliebig), Sprache (beliebig), Navigation, Straßenwissen; und entweder Astrogation oder Seemannschaft |
+| Techniker (Elektriker, Laborassistent…) | Muskelkraft, Fahren, Ausdauer, Einfluss, Örtlichkeit, Wahrnehmung, Willenskraft | Kommunikation, Handwerk (beliebig), Elektronik, Glücksspiel, Mechanismen, Wissenschaft (beliebig), Sensoren |
+| Dieb (Einbrecher, Trickbetrüger, Hehler, Straßenräuber, Grabräuber…) | Athletik, Täuschung, Ausweichen, Einsicht, Wahrnehmung, Heimlichkeit; Kampfstil (Spezifischer Diebes- oder Kulturstil) | Schauspielerei, Handel, Verkleiden, Schlösserknacken, Mechanismen, Fingerfertigkeit, Straßenwissen |
+| Krieger (Leibwächter, Söldner, Arena-Kämpfer, Soldat…) | Athletik, Muskelkraft, Ausdauer, Ausweichen, Unbewaffnet; Kampfstil (Militärischer Stil), Kampfstil (Kulturstil) | Handwerk (beliebig), Ingenieurswesen, Glücksspiel, Wissen (Militärgeschichte), Wissen (Strategie und Taktik), Redekunst, Überleben |
 
 ---
 ## Schritt 7: Bonus-Fertigkeitspunkte
 
-Als letzten Schritt wird ein letzter Pool von 150 Fertigkeitspunkten zugewiesen, um den Charakter abzurunden. Diese können auf jede Standardfertigkeit oder auf die Berufsfertigkeiten angewendet werden, die im Rahmen der Kultur oder Karriere erworben wurden. Auch hier kann der Spielleiter ein Maximum festlegen, wie viele Punkte auf eine bestimmte Fertigkeit verteilt werden dürfen.
+Als letzten Schritt wird ein restlicher Vorrat von 150 Fertigkeitspunkten zugewiesen, um den Charakter abzurunden. Diese können auf jede Standardfertigkeit oder auf solche Berufsfertigkeiten angewendet werden, die als Teil der Kultur oder Laufbahn erworben wurden. Auch hier kann ein Spielleiter eine Obergrenze dafür festlegen, wie viele Fertigkeitspunkte auf eine bestimmte Fertigkeit angewendet werden können.
 
 ### Erstellung erfahrener Charaktere
 
-Es wird empfohlen, dass beginnende Charaktere frisch starten, mit wenig oder keiner praktischen Erfahrung. Natürlich hängt die Stufe der Charaktere stark vom Setting ab und davon, ob das Spiel ein kurzes Einzelabenteuer oder eine lang andauernde Kampagne sein wird. Es ist auch üblich, dass ein Spieler einen erfahreneren Charakter erstellt, wenn er einen ersetzt, der im Spiel gestorben ist, oder wenn er einer bestehenden Kampagne beitritt.
+Es wird empfohlen, dass beginnende Charaktere frisch starten, mit wenig oder keiner praktischen Erfahrung. Natürlich hängt die Stufe der Charaktere stark vom Setting ab und davon, ob das Spiel ein kurzes Einzelabenteuer oder eine lang laufende Kampagne sein wird. Es ist auch üblich, dass ein Spieler einen erfahreneren Charakter erstellt, wenn er einen ersetzt, der im Spiel gestorben ist, oder wenn er in eine bestehende Kampagne einsteigt.
 
-Es wird eine Tabelle bereitgestellt, die die Erfahrung in Alterskategorien unterteilt. Die Erfahrung eines Charakters steht in direktem Zusammenhang mit dem Alter und der Fertigkeitskompetenz; erfahrenere Charaktere haben natürlich mehr Lebenserfahrung als ihre jüngeren Kameraden. Der angegebene Altersbonus sollte jedoch als ungefähr betrachtet werden, da Kampagnen unterschiedlich schnell voranschreiten – manche Kampagnen lassen viel Spielzeit zwischen Abenteuern vergehen, während andere eine lange Reihe ununterbrochener Abenteuer sind. Wenn Sie einen bestehenden Charakter konvertieren, ersetzen Sie einfach das tatsächliche Alter durch das in der Tabelle angegebene.
+Eine Tabelle wird bereitgestellt, die die Erfahrung in Alterskategorien unterteilt. Die Erfahrung eines Charakters steht in direktem Zusammenhang mit Alter und Fertigkeitskompetenz; erfahrenere Charaktere haben natürlich mehr Lebenserfahrung als ihre jüngeren Kameraden. Der angegebene Altersbonus sollte jedoch als annähernd betrachtet werden, da Kampagnen mit unterschiedlichen Geschwindigkeiten voranschreiten – manche Kampagnen lassen viel Spielzeit zwischen Abenteuern vergehen, während andere eine lange Aneinanderreihung ununterbrochener Abenteuer sind. Beim Umwandeln eines bestehenden Charakters ersetze einfach das tatsächliche Alter durch das in der Tabelle angegebene.
 
 #### Erfahrungstabelle
 
@@ -355,17 +355,17 @@ Es wird eine Tabelle bereitgestellt, die die Erfahrung in Alterskategorien unter
 #### Hinweise zur Erfahrungstabelle
 
 - Bonus-Fertigkeitspunkte bestimmen, wie viele Punkte der Charakter für die Entwicklung von Fertigkeiten ausgeben muss.
-- Der maximale Fertigkeitsanstieg begrenzt, wie viele der Bonuspunkte auf eine einzelne Fertigkeit angewendet werden können.
+- Maximaler Fertigkeitsanstieg begrenzt, wie viele der Bonuspunkte auf eine einzelne Fertigkeit angewendet werden können.
 
 ### Die Fertigkeitspyramide
 
-Der Fertigkeitspunkt-Zuweisungsprozess von *Mythras Imperative* leitet 350 Punkte aus drei Quellen ab: Kultur (100), Karriere (100) und Bonus-Fertigkeitspunkte (150). Die Zuweisung dieser Punkte kann zeitaufwendig sein, und es gibt zweifellos Zeiten, in denen die Bestimmung der Kultur eines Charakters nicht so wichtig ist oder der Spieler eine bestimmte Karriere im Sinn hat, die nicht ohne Weiteres durch die Vorlagen im Regelwerk abgedeckt wird. Ein alternatives System zur Zuweisung von Fertigkeitspunkten für den Fall, dass die Zeit drängt oder die Spieler ungeduldig sind, wird hier vorgestellt.
+Der Prozess der Fertigkeitspunktzuweisung von *Mythras Imperative* leitet 350 Punkte aus drei Quellen ab: Kultur (100), Laufbahn (100) und Bonus-Fertigkeitspunkte (150). Die Zuweisung dieser Punkte kann zeitaufwendig sein, und zweifellos gibt es Zeiten, in denen die Bestimmung der Kultur eines Charakters nicht so wichtig ist oder der Spieler eine bestimmte Laufbahn im Sinn hat, die nicht ohne weiteres durch die Vorlagen im Grundregelwerk abgedeckt wird. Ein alternatives System zur Zuweisung von Fertigkeitspunkten wird hier präsentiert, für Zeiten, in denen die Zeit drängt oder die Spieler ungeduldig sind.
 
-Anstatt Punkte aus den Pools für Kultur, Karriere und Bonus-Fertigkeitspunkte zuzuweisen, wird die Fertigkeitspyramide verwendet. Diese teilt 350 Punkte in fünf Blöcke mit festen Punkten auf:
+Anstatt Punkte aus den Pools für Kultur, Laufbahn und Bonus-Fertigkeitspunkte zuzuweisen, wird stattdessen die Fertigkeitspyramide verwendet. Dies teilt 350 Punkte in fünf Blöcke fester Punkte auf, wie folgt:
 
-1 Fertigkeit mit 50%, 2 Fertigkeiten mit 40%, 3 Fertigkeiten mit 30%, 4 Fertigkeiten mit 20%, 5 Fertigkeiten mit 10%.
+1 Fertigkeit auf 50%, 2 Fertigkeiten auf 40%, 3 Fertigkeiten auf 30%, 4 Fertigkeiten auf 20%, 5 Fertigkeiten auf 10%.
 
-Dies bildet eine praktische Pyramide. Streichen Sie einfach jeden Wert durch, während er zugewiesen wird.
+Dies bildet eine praktische Pyramide. Streiche einfach jeden Wert durch, sobald er zugewiesen wurde.
 
 ```
     50
@@ -382,120 +382,120 @@ Dies bildet eine praktische Pyramide. Streichen Sie einfach jeden Wert durch, w�
 #### Ein paar einfache Regeln
 
 - Alle Punkte aus der Pyramide müssen zugewiesen werden.
-- Keine Fertigkeit darf mehr als eine Zuweisung aus der Pyramide erhalten.
-- Bräuche und Muttersprache erhalten beide +40, gemäß den Kernregeln, zusätzlich zu allen Zuweisungen aus der Pyramide.
-- Leidenschaften erhalten die im Abschnitt [Leidenschaften](0002_Characters.md?id=step-8-passions) angegebenen Werte, zusätzlich zu allen Zuweisungen aus der Pyramide.
-- Keine Fertigkeit kann durch das Ergebnis einer Zuweisung 80% überschreiten. Wenn ein Charakter also STÄ 16 und GES 17 hat, was eine Basis von 33% ergibt, kann der Spieler nicht den 50-Punkte-Wert einem Kampfstil zuweisen.
+- Keine Fertigkeit kann mehr als eine Zuweisung aus der Pyramide erhalten.
+- Bräuche und Muttersprache erhalten beide +40, gemäß den Grundregeln und zusätzlich zu allen Zuweisungen aus der Pyramide.
+- Leidenschaften erhalten die Werte, die im Abschnitt [Leidenschaften](0002_Characters.md?id=step-8-passions) notiert sind, und zusätzlich zu allen Zuweisungen aus der Pyramide.
+- Keine Fertigkeit darf 80% aus dem Ergebnis einer Zuweisung überschreiten. Wenn ein Charakter also STÄ 16 und GES 17 hat, für eine Basis von 33%, kann der Spieler den 50-Punkte-Wert nicht einem Kampfstil zuweisen.
 - Sechs der Werte müssen Berufsfertigkeiten zugewiesen werden.
-- Charaktere können immer noch eine Kultur und einen Beruf wählen und die in der entsprechenden Beschreibung aufgeführten Fertigkeiten als Leitfaden für ihre Zuweisungen verwenden, oder die Zuweisungen können völlig frei erfolgen.
+- Charaktere können weiterhin eine Kultur und Laufbahn wählen und die in der entsprechenden Beschreibung aufgeführten Fertigkeiten als Leitfaden für ihre Zuweisungen verwenden, oder die Zuweisungen können völlig frei erfolgen.
 - Es wird empfohlen, mindestens einen der Werte einem Kampfstil zuzuweisen, dies ist jedoch nicht zwingend erforderlich.
 - Der Spielleiter hat immer das letzte Wort.
 
 ### Überlebensgroße Heldentaten
 
-*Mythras Imperative* befasst sich hauptsächlich mit normalen Menschen, aber gelegentlich erfordert eine Kampagne etwas anderes, insbesondere wenn sie spezielle Heldentaten verlangt oder in einem Pulp-Action-Setting stattfindet, in dem Helden und Bösewichte dazu neigen, überlebensgroß zu sein.
+*Mythras Imperative* befasst sich hauptsächlich mit normalen Menschen, aber gelegentlich erfordert eine Kampagne etwas anderes, besonders wenn sie besondere Heldentaten verlangt oder in einem Pulp-Action-Setting spielt, wo Helden und Schurken dazu neigen, überlebensgroß zu sein.
 
-Solche Helden haben vielleicht nicht unbedingt Superkräfte an sich (obwohl, falls diese gewünscht sind, das Kapitel über Magie und Kräfte verwendet werden kann), aber sie sind ein bisschen stärker, ein bisschen schneller, ein bisschen widerstandsfähiger und normalerweise viel willensstärker. Denken Sie an einen bestimmten Barbaren aus Cimmeria; einen Geheimagenten mit einer Lizenz zum Töten; einen Mann aus Bronze; einen maskierten Bürgerwehrmann, der auch ein milliardenschwerer Playboy ist – oder eine beliebige Anzahl beliebter Heldenfiguren. Sie stehen häufig Situationen gegenüber, in denen ein normaler Mensch zusammenbrechen würde; aber als Helden können sie allem standhalten, was die Handlung ihnen entgegenwirft, und leben, um das nächste Abenteuer (relativ) unbeschadet zu bestehen.
+Solche Helden haben nicht unbedingt Superkräfte an sich (obwohl, falls diese gewünscht sind, das Magie- und Kräfte-Kapitel verwendet werden kann), aber sie sind ein bisschen stärker, ein bisschen schneller, ein bisschen widerstandsfähiger und normalerweise viel willensstärker. Denke an einen gewissen Barbaren aus Cimmeria; einen Spezialagenten mit einer Lizenz zum Töten; einen Mann aus Bronze; einen maskierten Bürgerwehrmann, der auch ein milliardenschwerer Playboy ist – oder eine beliebige Anzahl beliebter Heldencharaktere. Sie sehen sich häufig Situationen gegenüber, in denen ein normaler Mensch zusammenbrechen würde; aber als Helden können sie allem widerstehen, was die Handlung ihnen entgegenwirft, und leben, um sich in das nächste Abenteuer zu stürzen, (relativ) unversehrt.
 
-Wenn Sie beabsichtigen, diese Charaktertypen in Ihre Spiele einzuführen, stellen Sie sicher, dass alle Spieler Charaktere auf demselben Niveau haben. Diese Charaktertypen sind darauf ausgelegt, die Szenerie zu beherrschen und die Handlung voranzutreiben; bodenständige Charaktere (sofern sie nicht über den Vorteil von Magie oder einen anderen Vorteil verfügen) könnten leicht in den Schatten gestellt werden.
+Wenn du beabsichtigst, diese Charaktertypen in deine Spiele einzuführen, dann stelle sicher, dass alle Spieler Charaktere auf der gleichen Stufe haben. Diese Charaktertypen sind darauf ausgelegt, die Szenerie zu beherrschen und die Action voranzutreiben; weltliche Charaktere (es sei denn, sie haben den Vorteil von Magie oder einen anderen Vorteil) könnten durchaus im Schatten gelassen werden.
 
 ### Pulp-Helden-Charaktere
 
-Dies sind traditionelle Pulp-Helden. Sie sind keine Superhelden oder Halbgötter, und eine gut platzierte Schrotladung beendet immer noch ihr Leben, aber sie sind härter, klüger, fähiger und im Allgemeinen eine Stufe oder zwei über normalen Menschen. Außerdem ist ihr Leben meist voller Abenteuer. Während ein heroischer Charakter sich entscheiden kann, zu versuchen, sesshaft zu werden und ein ereignisloses Leben zu führen, finden Ärger oder jemand in Not oft den Weg zur Tür des Charakters.
+Dies sind traditionelle Pulp-Helden. Sie sind keine Superhelden oder Halbgötter, und ein gut platzierter Schrotflintenschuss wird ihr Leben immer noch beenden, aber sie sind härter, klüger, fähiger und im Allgemeinen eine Stufe oder zwei über gewöhnlichen Menschen. Außerdem neigen ihre Leben dazu, voller Abenteuer zu sein. Während ein heldenhafter Charakter versuchen kann, sich niederzulassen und ein ereignisloses Leben zu führen, werden Ärger oder jemand in Not oft ihren Weg zur Tür des Charakters finden.
 
 #### Eigenschaften
 
-Verwenden Sie bei der Generierung von Pulp-Helden-Charakteren die Methode „Würfeln und Zuweisen“ im Abschnitt [Charaktere](0002_Characters.md?id=calculating-characteristics). Würfeln Sie 4d6 und verwerfen Sie den niedrigsten Würfel, fünfmal, und weisen Sie die Ergebnisse dann STÄ, KON, GES, MAC und CHA zu. Als nächstes würfeln Sie 3d6+6, verwerfen zweimal den niedrigsten Würfel und weisen diese Zahlen GRÖ und INT zu. Wenn Sie die Punkte-Kauf-Methode verwenden, bauen die Spieler ihren Charakter aus einem vorgegebenen Pool von 90 Punkten auf.
+Verwende beim Generieren von Pulp-Helden-Charakteren die Methode "Würfeln und Zuweisen" im Abschnitt [Charaktere](0002_Characters.md?id=calculating-characteristics). Würfle 4d6 und verwerfe den niedrigsten Würfel, fünfmal, und weise die Ergebnisse dann STÄ, KON, GES, MAC und CHA zu. Würfle als Nächstes 3d6+6 und verwerfe den niedrigsten Würfel zweimal und weise diese Zahlen GRÖ und INT zu. Wenn die Punkte-Build-Methode verwendet wird, bauen Spieler ihren Charakter aus einem voreingestellten Pool von 90 Punkten auf.
 
 #### Attribute
 
-Diese werden wie gewohnt berechnet, außer dass Pulp-Helden-Charaktere zwei Vorteile erhalten, die aus den folgenden gewählt werden (beachten Sie, dass Vorteile nicht gestapelt werden können):
+Diese werden wie gewohnt berechnet, außer dass Pulp-Helden-Charaktere zwei Vorteile erhalten, die aus den folgenden gewählt werden (beachte, dass Vorteile nicht gestapelt werden können):
 
 - +1 Aktionspunkt
 - +1 Glückspunkt
 - +1 Trefferpunkt auf jede Trefferzone
-- Ausdauerwürfe sind um einen Grad leichter
-- Heimlichkeitswürfe sind um einen Grad leichter
-- Willenskraftwürfe sind um einen Grad leichter
+- Ausdauerwürfe sind einen Grad einfacher
+- Heimlichkeitswürfe sind einen Grad einfacher
+- Willenskraftwürfe sind einen Grad einfacher
 
 Alle Pulp-Helden-Charaktere verdoppeln ihre Heilungsrate, wenn sie unter leichten oder schweren Wunden leiden, obwohl kritische Wunden mit der Standard-Heilungsrate des Charakters behandelt werden.
 
 #### Fertigkeiten
 
-Pulp-Helden-Charaktere erhalten zusätzlich 50 Bonus-Fertigkeitspunkte, die nach Bedarf zugewiesen werden können.
+Pulp-Helden-Charaktere erhalten zusätzliche 50 Bonus-Fertigkeitspunkte, die nach Bedarf zugewiesen werden können.
 
 ### Paragon-Charaktere
 
-Paragon-Charaktere sind Inbegriffe von Exzellenz. Während ein gewisser peitschenschwingender Archäologe und ein Super-Spion mit Lizenz zum Töten Pulp-Helden-Charaktere sind, sind dieser Cimmerier, der Mann aus Bronze, der Dunkle Ritter-Detektiv und Sherlock Holmes Paragon-Charaktere. Paragon-Charaktere sind nicht nur in einem Fachgebiet überaus kompetent: Sie übertreffen sich normalerweise in mehreren. Ein brillanter Erfinder und Physiker, der auch ein kampferprobter Kriegsheld ist, ist ein hervorragendes Beispiel für einen Paragon-Charakter; ein milliardenschwerer Playboy und Verbrechensbekämpfer, der bei den besten Detektivgeistern der Welt gelernt hat, ist ein weiterer. Paragon-Charaktere haben möglicherweise mehrere Hochschulabschlüsse, unabhängigen Reichtum, mysteriöse Gönner sowie zahlreiche andere Formen von Erfahrung.
+Paragon-Charaktere sind Inbegriffe von Exzellenz. Während ein gewisser peitschenschwingender Archäologe und ein Super-Spion mit Lizenz zum Töten Pulp-Helden-Charaktere sind, sind jener Cimmerier, der Mann aus Bronze, der Dunkle Ritter-Detektiv und Sherlock Holmes Paragon-Charaktere. Paragon-Charaktere sind nicht nur in einem Fachgebiet überragend kompetent: Sie glänzen normalerweise in mehreren. Ein brillanter Erfinder und Physiker, der auch ein schlagkräftiger, treffsicherer Kriegsheld ist, ist ein exzellentes Beispiel für einen Paragon-Charakter; ein milliardenschwerer Playboy und Verbrechensbekämpfer, der bei den besten Detektiv-Geistern der Welt gelernt hat, ist ein anderes. Paragon-Charaktere könnten durchaus mehrere Universitätsabschlüsse, unabhängigen Reichtum, mysteriöse Wohltäter sowie zahlreiche andere Formen von Erfahrung haben.
 
-Infolgedessen sind Paragon-Charaktere nicht jedermanns Sache, aber wenn ein Setting Charaktere benötigt, die das Schicksal des gesamten Sonnensystems verändern oder jede Herausforderung annehmen können, dann ist eine Kampagne auf Paragon-Niveau genau das Richtige. Während sowohl gewöhnliche als auch heroische Kampagnen gelegentlich extrem hohe Einsätze wie das Schicksal von Nationen oder sogar Planeten beinhalten, sollten Paragon-Kampagnen dies regelmäßig tun.
+Infolgedessen werden Paragon-Charaktere nicht für jeden etwas sein, aber wenn ein Setting Charaktere benötigt, die das Schicksal des gesamten Sonnensystems verändern oder jede Herausforderung annehmen können, dann passt eine Kampagne auf Paragon-Stufe perfekt. Während sowohl gewöhnliche als auch heldenhafte Kampagnen gelegentlich extrem hohe Einsätze wie das Schicksal von Nationen oder sogar Planeten beinhalten, sollten Paragon-Kampagnen dies regelmäßig tun.
 
 #### Eigenschaften
 
-Verwenden Sie bei der Generierung von Charakteren die Methode „Würfeln und Zuweisen“ im Abschnitt [Charaktere](0002_Characters.md?id=calculating-characteristics). Würfeln Sie 4d6, verwerfen Sie den niedrigsten Würfel sechsmal, weisen Sie dann die fünf Ergebnisse Ihrer Wahl (typischerweise die höchsten fünf) STÄ, KON, GES, MAC und CHA zu. Als nächstes würfeln Sie 3d6+6, verwerfen dreimal den niedrigsten Würfel und weisen die zwei Ergebnisse Ihrer Wahl (typischerweise die höchsten zwei) GRÖ und INT zu. Wenn Sie die Punkte-Kauf-Methode verwenden, bauen die Spieler ihren Charakter aus einem vorgegebenen Pool von 100 Punkten auf.
+Verwende beim Generieren von Charakteren die Methode "Würfeln und Zuweisen" im Abschnitt [Charaktere](0002_Characters.md?id=calculating-characteristics). Würfle 4d6, verwerfe den niedrigsten Würfel sechsmal, dann weise die fünf Ergebnisse deiner Wahl (typischerweise die höchsten fünf) STÄ, KON, GES, MAC und CHA zu. Würfle als Nächstes 3d6+6, verwerfe den niedrigsten Würfel dreimal und weise die zwei Ergebnisse deiner Wahl (typischerweise die höchsten zwei) GRÖ und INT zu. Wenn die Punkte-Build-Methode verwendet wird, bauen Spieler ihren Charakter aus einem voreingestellten Pool von 100 Punkten auf.
 
 #### Attribute
 
-Diese werden wie gewohnt berechnet, außer dass Paragon-Charaktere drei Vorteile erhalten, die aus den folgenden gewählt werden (beachten Sie, dass Vorteile nicht gestapelt werden können):
+Diese werden wie gewohnt berechnet, außer dass Paragon-Charaktere drei Vorteile erhalten, die aus den folgenden gewählt werden (beachte, dass Vorteile nicht gestapelt werden können):
 
 - +1 Aktionspunkt
 - +2 Glückspunkte
 - +2 Trefferpunkte auf jede Trefferzone
-- Ausdauerwürfe sind um einen Grad leichter
-- Heimlichkeitswürfe sind um einen Grad leichter
-- Willenskraftwürfe sind um einen Grad leichter
+- Ausdauerwürfe sind einen Grad einfacher
+- Heimlichkeitswürfe sind einen Grad einfacher
+- Willenskraftwürfe sind einen Grad einfacher
 
 Alle Paragon-Charaktere verdoppeln ihre Heilungsrate, wenn sie unter leichten oder schweren Wunden leiden, obwohl kritische Wunden mit der Standard-Heilungsrate des Charakters behandelt werden.
 
 #### Fertigkeiten
 
-Paragon-Helden-Charaktere erhalten zusätzlich 100 Bonus-Fertigkeitspunkte, die nach Bedarf zugewiesen werden können.
+Paragon-Helden-Charaktere erhalten zusätzliche 100 Bonus-Fertigkeitspunkte, die nach Bedarf zugewiesen werden können.
 
 ---
 ## Schritt 8: Leidenschaften
 
-Leidenschaften werden verwendet, um Spieler und Spielleiter dabei zu unterstützen, die Natur des Charakters zu vertiefen, Handlungsstränge einzuführen, die auf dem Verlangen oder den Vorurteilen eines Charakters basieren, und dem Spieler zu helfen zu verstehen, wer sein Charakter ist, was ihn antreibt, und so weiter.
+Leidenschaften werden verwendet, um Spieler und Spielleiter dabei zu unterstützen, die Natur des Charakters zu vertiefen, Handlungsstränge basierend auf dem Verlangen oder den Vorurteilen eines Charakters einzuführen und dem Spieler zu helfen zu verstehen, wer sein Charakter ist, was ihn antreibt und so weiter.
 
-Eine Leidenschaft kann für alles gelten – eine Person, eine Organisation, ein Ideal, sogar ein Objekt. Leidenschaften werden normalerweise durch ein Verb beschrieben, wie: Verlangen, Verachten, Zerstören, Vertreten, Fürchten, Fliehen, Abschwören, Hassen, Lieben, Loyalität zu, Beschützen, Ablehnen, Respektieren, Suchen, Untergraben, Quälen oder Hochhalten.
+Eine Leidenschaft kann sich auf alles beziehen – eine Person, eine Organisation, ein Ideal, sogar ein Objekt. Leidenschaften werden typischerweise durch ein Verb beschrieben wie: Verlangen, Verachten, Zerstören, Vertreten, Fürchten, Fliehen, Abschwören, Hassen, Lieben, Loyalität zu, Beschützen, Ablehnen, Respektieren, Suchen, Untergraben, Quälen oder Hochhalten.
 
-Leidenschaften werden auf die gleiche Weise wie Fertigkeiten gemessen; sie werden zwischen 1 und 100 (oder höher) bewertet. Eine Leidenschaft kann auf die gleiche Weise wie eine Fertigkeit verbessert oder vom Spielleiter je nach Umständen erhöht oder verringert werden.
+Leidenschaften werden auf die gleiche Weise wie Fertigkeiten gemessen; sie werden zwischen 1 und 100 (oder höher) bewertet. Eine Leidenschaft kann auf die gleiche Weise wie eine Fertigkeit verbessert werden, oder sie kann vom Schiedsrichter je nach Umständen erhöht oder verringert werden.
 
-Anfangende Charaktere können mit bis zu drei Leidenschaften beginnen, die jeweils auf zwei Eigenschaften basieren, mit einem Bonus von +40 auf die erste, +30 auf die zweite und +20 auf die dritte – wobei der Spieler die Reihenfolge der Wichtigkeit bestimmt. Diese können an die Kultur, den Beruf oder die persönlichen Eigenheiten des Charakters gebunden sein. Zum Beispiel könnte ein Charakter in einer Sword & Sorcery-Kampagne wählen: Hass (Stygier), Misstrauen (Zauberer) und Verlangen (Alkohol); während ein Charakter in einem dystopischen Sci-Fi-Spiel stattdessen Loyalität (Präsident), Zerstören (Aliens) und Hochhalten (das Gesetz) wählen könnte.#### Leidenschaften-Tabelle
+Beginnende Charaktere können mit bis zu drei Leidenschaften starten, die jeweils auf zwei Eigenschaften basieren, mit einem Bonus von +40 auf die erste, +30 auf die zweite und +20 auf die dritte – der Spieler entscheidet über die Reihenfolge der Wichtigkeit. Diese können an seine Kultur, seinen Beruf oder seine persönlichen Eigenheiten gebunden sein. Zum Beispiel könnte der Charakter in einer Sword & Sorcery-Kampagne wählen: Hassen (Stygier), Misstrauen (Zauberer) und Verlangen (Alkohol); während der Charakter in einem dystopischen Sci-Fi-Spiel stattdessen Loyalität (Präsident), Zerstören (Aliens) und Hochhalten (das Gesetz) wählen könnte.#### Leidenschaften-Tabelle
 
 | Objekt der Leidenschaft | Ausgangsprozentsatz |
 | :-- | :-- |
-| Eine Person, im romantischen oder familiären Kontext | MAC+CHA |
+| Eine Person im romantischen oder familiären Kontext | MAC+CHA |
 | Eine Organisation oder Personengruppe | MAC+INT |
 | Eine Spezies oder Rasse | MAC des Charakters x2 |
 | Ein Ort | MAC+INT des Charakters |
 | Ein Gegenstand oder eine Substanz | MAC des Charakters x2 |
 | Ein Persönlichkeitsmerkmal | MAC+CHA des Charakters |
 
-### Verwendung von Leidenschaften
+### Anwendung von Leidenschaften
 
-Eine Leidenschaft ist jedes tief verwurzelte Engagement, das die Fähigkeit besitzt, Ereignisse während des Spiels zu beeinflussen. Obwohl sie als eigenständige Fähigkeiten verwendet werden können (sie als bloße Fertigkeiten zu bezeichnen, würde ihnen nicht gerecht), werden Leidenschaften im Folgenden weiter erläutert, um detaillierter zu erklären, wie sie funktionieren und wie sie *Mythras Imperative*-Charaktere und Kampagnen beeinflussen können.
+Eine Leidenschaft ist jede tief verwurzelte Verpflichtung, die das Potenzial hat, Ereignisse während des Spiels zu beeinflussen. Obwohl sie als eigenständige Fähigkeiten verwendet werden können (sie als bloße Fertigkeiten zu bezeichnen, würde ihnen nicht gerecht werden), werden Leidenschaften im Folgenden weiter erläutert, um detaillierter zu erklären, wie sie funktionieren und wie sie *Mythras Imperative*-Charaktere und -Kampagnen beeinflussen können.
 
 Zusammenfassend können Leidenschaften wie folgt genutzt werden:
 
-- Um eine andere Fertigkeit zu ergänzen, was die Tiefe der eigenen Gefühle und deren Antrieb für Handlungen widerspiegelt. Wenn sie in dieser Hinsicht verwendet wird, fügt die Leidenschaft 20 % ihres Wertes zu einer Fertigkeit hinzu, die gerade eingesetzt wird, sofern die Ergänzung thematisch und dramatisch wichtig ist.
-- Als Fähigkeit, um Entscheidungen, Wünsche sowie emotionale Handlungen und Reaktionen zu steuern. Wenn sie auf diese Weise genutzt wird, wird ein Standardwurf gegen die Leidenschaft ausgeführt, um festzustellen, wie stark der Charakter über etwas denkt und fühlt. Wenn der Wurf ein Erfolg ist, handelt der Charakter im Einklang mit dem, was die Leidenschaft diktiert. Wenn der Wurf fehlschlägt, kann der Charakter frei handeln, ohne sich durch die Antriebe der Leidenschaft eingeschränkt zu fühlen.
-- Um anderen Leidenschaften entgegenzuwirken – selbst solchen, die derselbe Charakter hegt. Dies wird typischerweise verwendet, wenn zwei Leidenschaften in Konflikt stehen. Zum Beispiel könnte eine persönliche Liebe eine Vorgehensweise diktieren, die im Widerspruch zu einem Eid oder einer Loyalität steht. Hierbei wird ein Vergleichswurf zwischen den beiden Leidenschaften durchgeführt, wobei der erfolgreichere bestimmt, wie der Charakter handelt.
-- Als allgemeines Maß für die Tiefe des Engagements, des Glaubens und der Loyalität gegenüber einer Sache. Je höher der Wert der Leidenschaft, desto engagierter ist der Charakter. Charaktere mit ähnlichen Leidenschaften können ihre Werte vergleichen, um festzustellen, wer das tiefere Engagement aufweist.
-- Um sich einer Form psychologischer Manipulation oder magischer Beherrschung zu widersetzen. In bestimmten Fällen, in denen ein Charakter gezwungen wird, eine Handlung gegen seine Leidenschaften auszuführen, kann er diese beim Vergleichswurf durch Willenskraft ersetzen.
+- Zur Verstärkung einer anderen Fertigkeit, was die Tiefe der Gefühle widerspiegelt und das Handeln vorantreibt. In dieser Hinsicht fügt die Leidenschaft 20 % ihres Wertes zu einer verwendeten Fertigkeit hinzu, sofern die Verstärkung thematisch und dramatisch wichtig ist.
+- Als Fähigkeit, um Entscheidungen, Wünsche sowie emotionale Handlungen und Reaktionen zu steuern. Wenn sie auf diese Weise verwendet wird, wird ein Standardwurf gegen die Leidenschaft durchgeführt, um zu bestimmen, wie stark der Charakter über etwas denkt und fühlt. Ist der Wurf ein Erfolg, handelt der Charakter im Einklang mit dem, was die Leidenschaft vorgibt. Wenn der Wurf fehlschlägt, kann der Charakter frei handeln, ohne sich durch die Antriebe der Leidenschaft eingeschränkt zu fühlen.
+- Um anderen Leidenschaften entgegenzuwirken – selbst solchen, die derselbe Charakter hegt. Dies wird typischerweise verwendet, wenn zwei Leidenschaften miteinander in Konflikt geraten. Zum Beispiel könnte eine persönliche Liebe eine Vorgehensweise diktieren, die im Widerspruch zu einem Eid oder einer Loyalität steht. Hier wird ein Vergleichswurf zwischen den beiden Leidenschaften durchgeführt, wobei der erfolgreichere bestimmt, wie der Charakter handelt.
+- Als allgemeines Maß für die Tiefe der Verpflichtung, des Glaubens und der Loyalität gegenüber einer Sache. Je höher der Wert der Leidenschaft, desto engagierter ist der Charakter. Charaktere mit ähnlichen Leidenschaften können ihre Werte vergleichen, um festzustellen, wer das tiefere Engagement zeigt.
+- Um einer Form der psychologischen Manipulation oder magischen Beherrschung zu widerstehen. In bestimmten Fällen, in denen ein Charakter gezwungen wird, eine Handlung auszuführen, die seinen Leidenschaften widerspricht, kann er bei einem Vergleichswurf entweder diese oder Willenskraft verwenden.
 
-Neue Leidenschaften können zu jedem Zeitpunkt während einer Spielsitzung entwickelt werden, wenn die Umstände dies rechtfertigen. Jemand könnte sofort 'Hass auf X' entwickeln, wenn eine andere Person etwas tut, das stark genug ist, um Hass hervorzurufen. Ein Lehnsherr oder Anführer, der einen Eid fordert, würde sofort eine Leidenschaft 'Loyalität gegenüber X' etablieren, sobald dieser Eid geleistet oder geschworen wird.
+Neue Leidenschaften können zu jedem beliebigen Zeitpunkt während einer Spielsitzung entwickelt werden, wenn die Umstände dies rechtfertigen. Jemand könnte sofort „Hass auf X“ entwickeln, wenn eine andere Person etwas tut, das stark genug ist, um Hass hervorzurufen. Ein Herr oder Anführer, der einen Eid einfordert, etabliert sofort eine Leidenschaft wie „Loyalität gegenüber X“, sobald dieser Eid abgelegt oder geschworen wird.
 
-Neue Leidenschaften, die auf diese Weise während des Spiels entwickelt werden, kosten keine Erf. Mod. und werden direkt an Ort und Stelle etabliert. Natürlich können Charaktere auch wählen, eine Leidenschaft während der Verbesserung zu etablieren, wobei ein Erf. Mod. aufgewendet werden muss, um eine Leidenschaft auf ihrem Basiswert zu erhalten.
+Neue Leidenschaften, die während des Spiels auf diese Weise entwickelt werden, kosten keine Erfahrungswürfe und werden sofort etabliert. Natürlich können Charaktere auch wählen, eine Leidenschaft während der Verbesserung zu etablieren, wobei ein Erfahrungswurf aufgewendet wird, um eine Leidenschaft auf ihrem Basiswert zu erhalten.
 
-### Vertiefung und Schwinden
+### Vertiefung und Abschwächung
 
-Leidenschaften können während eines Spiels unabhängig von Erf. Mod. ansteigen, basierend auf der Stärke des Ereignisses, das den Anstieg ausgelöst hat. Sie können auch schwinden, was sie auch tun. Ein stark verankerter Glaube kann durch viele Dinge erschüttert werden, was dazu führt, dass diese Leidenschaft entweder reduziert wird oder, in extremeren Fällen, sich komplett umkehrt.
+Leidenschaften können während eines Spiels unabhängig von Erfahrungswürfen zunehmen, basierend auf der Stärke des Auslösers, der die Zunahme bewirkt hat. Ebenso können und werden sie abschwächen. Ein fest verankerter Glaube kann durch viele Dinge erschüttert werden, was dazu führt, dass diese Leidenschaft entweder reduziert oder, in extremeren Fällen, vollständig umgekehrt wird.
 
-Zum Beispiel könnte ein Charakter mit 'Vertrauen zum Anführer', wenn sein Anführer sich verräterisch verhält, seine Leidenschaft entweder reduzieren oder sie in 'Misstrauen zum Anführer' mit demselben Prozentsatz verwandeln. Der Spielleiter muss bestimmen, ob eine Leidenschaft sich reduziert oder umkehrt. Wenn sie sich reduziert, geschieht dies gemäß der Stärke des Auslösers für die Veränderung.
+Zum Beispiel könnte ein Charakter mit „Vertrauen zum Häuptling“, wenn sein Häuptling sich verräterisch verhält, seine Leidenschaft entweder verringern oder in „Misstrauen zum Häuptling“ mit demselben Prozentsatz umwandeln. Der Spielleiter muss festlegen, ob sich eine Leidenschaft verringert oder umkehrt. Wenn sie sich verringert, geschieht dies entsprechend der Stärke der Ursache für die Veränderung.
 
-Die Tabelle für Vertiefung und Schwinden zeigt, um wie viel sich die Leidenschaft ändert.
+Die Tabelle für Vertiefung und Abschwächung zeigt, um wie viel sich die Leidenschaft ändert.
 
-#### Tabelle für Vertiefung und Schwinden
+#### Tabelle für Vertiefung und Abschwächung
 
 | Grad der Veränderung | Modifikation der Leidenschaft |
 | --- | --- |
@@ -506,11 +506,11 @@ Die Tabelle für Vertiefung und Schwinden zeigt, um wie viel sich die Leidenscha
 ---
 ## Schritt 9: Ausrüstung
 
-Da der Charakter nun fast fertig ist, benötigt er oder sie einige Ausrüstungsgegenstände. Dies kann Waffen, Rüstung oder andere wichtige Utensilien umfassen, die für einen bestimmten Beruf verwendet werden. Während des Abenteuers gibt es viele Möglichkeiten, mehr Ausrüstung zu erhalten, aber jeder beginnende Charakter besitzt unmittelbar die folgenden Dinge:
+Da der Charakter nun fast fertiggestellt ist, benötigt er oder sie etwas Ausrüstung. Dies kann Waffen, Rüstung oder andere wichtige Utensilien umfassen, die für einen bestimmten Beruf verwendet werden. Während des Abenteuers gibt es viele Gelegenheiten, mehr Ausrüstung zu erhalten, aber jeder beginnende Charakter besitzt unmittelbar die folgenden Dinge:
 
 - Ein Set an Kleidung, das für den Beruf des Charakters und das Setting angemessen ist.
 - Einen Betrag an Taschengeld; genug, um eine Weile ohne Not über die Runden zu kommen.
-- Ein persönliches Erbstück, ein Andenken oder ein kleineres Schmuckstück von geringem relativem Wert.
-- Jegliche Handwerkszeuge oder transportable Ausrüstung, die für den Beruf des Charakters geeignet ist, falls zutreffend.
+- Ein persönliches Erbstück, ein Andenken oder ein kleiner Nippes von geringem relativen Wert.
+- Alle Handwerkswerkzeuge oder transportablen Geräte, die für den Beruf des Charakters geeignet sind, falls zutreffend.
 - Jede persönliche Waffe für den Kampfstil des Charakters.
-- Weitere Gegenstände, wie sie für das Setting angemessen sind und vorbehaltlich der Zustimmung des SL.
+- Andere Gegenstände, wie sie für das Setting angemessen und vorbehaltlich der Zustimmung des Spielleiters sind.

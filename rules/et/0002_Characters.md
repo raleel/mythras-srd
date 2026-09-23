@@ -1,89 +1,89 @@
 # Tegelased
 
-Iga mängija mängus _Mythras Imperative_ juhib ühte tegelast. Tegelane on mängija alter ego ja on tavaliselt mängijast nii füüsiliselt kui ka vaimselt üsna erinev. Tegelased võivad olla pärit erinevatest rassidest, sõltuvalt mängu toimumiskohast; ajalooline taust sisaldaks vaid inimesi, samas kui fantaasiamaailmas võib kohata päkapikke, elfe ja isegi sisalikmehi. Põhitegelast defineerib rida erinevaid elemente, mis kirjeldavad tegelase võimekust. Need elemendid on:
+Iga _Mythras Imperative'i_ mängija juhib ühte tegelast. Tegelane on mängija alter ego ja on tavaliselt mängijast nii füüsiliselt kui ka vaimselt üsna erinev. Tegelased võivad olla pärit erinevatest rassidest, sõltuvalt mängu keskkonnast; ajaloolises keskkonnas on vaid inimesed, samas kui fantaasiakeskkond võib sisaldada kääbuseid, päkapikke ja isegi sisalikmehi. Põhiline tegelane on määratletud mitmete erinevate elementide kaudu, mis kirjeldavad tegelase võimekust. Need elemendid on:
 
-- **Omadused (Characteristics):** nagu Tugevus või Karisma
-- **Atribuudid (Attributes):** asjad nagu Pikkus või Liikumine
-- **Oskused (Skills):** vilumus põhilistes võimetes
+- **Omadused:** nagu JÕU või KAR
+- **Atribuudid:** asjad nagu pikkus või liikumine
+- **Oskused:** asjatundlikkus põhilistes võimetes
 
-Enamikku neist elementidest kirjeldatakse arvudena ja mõned neist sõltuvad teistest või on nende põhjal välja arvutatud. See, mida iga element tähendab ja kuidas neid määratakse, on kirjeldatud järgmistes jaotistes.
+Enamikku neist elementidest kirjeldatakse numbritega ning mõned sõltuvad teistest või on nende põhjal arvutatud. Mida iga element tähendab ja kuidas neid määratakse, on kirjeldatud järgmistes jaotistes.
 
 ---
 ## 1. samm: Tegelase kontseptsioon
 
-Hea on alustada sellest, et sul on mingi ettekujutus, millist tegelast sa tahad mängida: võib-olla kavalat sõdalast või osavat salakaubavedajat. Võib-olla eelistad sa õpihimulist akadeemikut või tarka võlurit. Sinu tegelase kontseptsioon ei pea selles etapis olema keeruline; piisab ideest, mis aitab suunata teatud valikuid, nagu Kultuur ja Karjäär.
+Hea koht alustamiseks on omada ettekujutust, millist tüüpi tegelast soovid mängida: ehk kavalat sõdalast või nutikat salakaubavedajat. Võib-olla eelistad õpihimulist akadeemikut või tarka võlurit. Sinu tegelase kontseptsioon ei pea olema selles etapis keeruline; piisab ideest, mis aitab suunata teatud valikuid, nagu kultuur ja karjäär.
 
 ---
 ## 2. samm: Omadused
 
-Igaüht defineerib seitse omadust, mis räägivad sinu tegelase kohta midagi; kui tugev või kiire ta on; kui nutikas või terve. Omadused on iga _Mythras Imperative'_i tegelase tuumaks ja moodustavad aluse enamikule teistele elementidele, nagu Atribuudid ja Oskused. Need seitse omadust on:
+Igaüht määratleb seitse omadust, mis räägivad sinu tegelasest midagi: kui tugev või kiire ta on; kui nutikas või terve. Omadused on iga _Mythras Imperative'i_ tegelase tuumaks ja moodustavad aluse enamikule teistest elementidest, nagu atribuudid ja oskused. Seitse omadust on:
 
-- Tugevus (STR)
-- Konstitutsioon (CON)
-- Suurus (SIZ)
-- Osavus (DEX)
-- Intelligentsus (INT)
-- Võim (POW)
-- Karisma (CHA)
+- Jõud (JÕU)
+- Vastupidavus (VAS)
+- Suurus (SUU)
+- Osavus (OSA)
+- Intellekt (INT)
+- Vägi (VÄG)
+- Karisma (KAR)
 
-Enne omaduste arvutamist selgitab järgmine jaotis, mida igaüks neist tähistab.
+Enne omaduste arvutamist selgitab järgmine jaotis, mida igaüks neist esindab.
 
-#### Tugevus (STR)
+#### Jõud (JÕU)
 
-STR tähistab füüsilist jõudu: kui palju keegi suudab tõsta, kui kõvasti lüüa jne. STR on kahjumodifikaatori komponent. Kui tegelase STR langeb nullini, kaotab ta võime liikuda või esemeid tõsta.
+JÕU esindab füüsilist jõudu: kui palju keegi suudab tõsta, kui tugevalt lüüa ja nii edasi. JÕU on kahjumuunduri komponent. Kui tegelase JÕU langeb nullini, kaotab ta võime liikuda või objekte tõsta.
 
-#### Konstitutsioon (CON)
+#### Vastupidavus (VAS)
 
-CON on tervise ja vastupidavuse mõõdupuu. CON on komponent Tabamispunktide ja Paranemiskiiruse määramisel. Kui CON langeb mistahes põhjusel nullini, tegelane sureb.
+VAS on tervise ja sitkuse mõõdupuu. VAS on komponent löögipunktide ja tervenemiskiiruse määramisel. Kui VAS langeb mingil põhjusel nullini, tegelane sureb.
 
-#### Suurus (SIZ)
+#### Suurus (SUU)
 
-SIZ mõõdab massi ja aitab näidata Pikkust ja Kaalu. SIZ-i kasutatakse Tabamispunktide arvutamisel, kuna suurematel ja raskematel olenditel on tavaliselt suurem vastupidavus kahjustustele. SIZ-i võib kasutada ka tegelase Kahjumodifikaatori määramiseks, kuna mass aitab suurendada löögi jõudu.
+SUU mõõdab massi ja aitab näidata pikkust ja kaalu. SUU-d kasutatakse löögipunktide arvutamisel, kuna suurematel ja raskematel olenditel on tavaliselt suurem vastupidavus kahjustustele. SUU-d saab kasutada ka tegelase kahjumuunduri määramiseks, kuna mass aitab suurendada löögi jõudu.
 
-#### Osavus (DEX)
+#### Osavus (OSA)
 
-Agiilsust, tasakaalu ja reflekse mõõdab DEX. See on oluline Tegevuspunktide ja Initsiatiivi aspekt. Kui tegelase DEX langeb nullini, tabab teda funktsionaalne halvatus.
+Väledust, tasakaalu ja reflekse mõõdab OSA. See on tegevuspunktide ja initsiatiivi oluline aspekt. Kui tegelase OSA langeb nullini, tabab teda funktsionaalne halvatus.
 
-#### Intelligentsus (INT)
+#### Intellekt (INT)
 
-INT on kognitiivse võimekuse mõõdupuu. Madalama INT-skooriga tegelased ei ole tingimata rumalad, kuid nende loovus mõistuse kasutamisel on tõenäoliselt piiratud. INT on tegur Tegevuspunktide ja Initsiatiivi arvutamisel. Kui INT langeb nullini, muutub tegelane täiesti mõistusetuks.
+INT on kognitiivse võimekuse mõõdupuu. Madalama INT-skooriga inimesed ei ole tingimata rumalad, kuid nad on tõenäoliselt piiratud oma mõistuse looval kasutamisel. INT on tegur tegevuspunktide ja initsiatiivi arvutamisel. Kui INT langeb nullini, muutub tegelane täiesti mõistusevaeseks.
 
-#### Võim (POW)
+#### Vägi (VÄG)
 
-POW on tegelase hinge, vaimu, sisemise ajenduse või maagiavõimekuse mõõdupuu. POW määrab tegelase Maagiapunktid ja Õnne punktid. Kui tegelase POW langeb kunagi nullini, kaotab ta igasuguse iseseisva tahte.
+VÄG on tegelase hinge, vaimu, sisemise tõuke või maagiliste võimete mõõdupuu. VÄG juhib tegelase maagiapunkte ja õnnepunkte. Kui tegelase VÄG langeb kunagi nullini, kaotab ta igasuguse iseseisva tahte.
 
-#### Karisma (CHA)
+#### Karisma (KAR)
 
-Karisma on kohalolu ja isiksuse mõõt, mis on füüsilisest välimusest sõltumatu. CHA mõjutab tegelase Kogemusmodifikaatorit. Kui CHA langeb kunagi nullini, ei suuda tegelane enam teistega sotsiaalselt suhelda, muutudes nii piinlikult häbelikuks või asotsiaalseks, et teda ignoreeritakse või isegi tõrjutakse eemale.
+Karisma on kohaloleku ja isiksuse mõõdupuu ning see on sõltumatu füüsilisest välimusest. KAR mõjutab tegelase kogemusmuundurit. Kui KAR langeb kunagi nullini, ei suuda tegelane enam teistega sotsiaalselt suhelda, muutudes nii piinlikult häbelikuks või antisotsiaalseks, et teda ignoreeritakse või isegi tõrjutakse eemale.
 
 ---
 ### Omaduste arvutamine
 
-Igal omadusel on numbriline väärtus, mis määrab, kui tugev see on. Täringutulemuse järel sulgudes olev number on rassiline keskmine ja seda kasutatakse mõõdupuuna tegelase tulemuste hindamiseks võrreldes teiste liigikaaslastega. Soovitused omaduste määramiseks on järgmised:
+Igal omadusel on numbriline väärtus, mis määrab, kui tugev see on. Sulgudes olev arv pärast iga täringutulemust on rassi keskmine ja seda kasutatakse mõõdupuuna, et hinnata oma tegelase tulemusi võrreldes teiste liigikaaslastega. Soovitused omaduste määramiseks on järgmised:
 
-- **Täringuveeretamine:** Veereta täringuid STR, CON, SIZ, DEX, INT, POW ja CHA jaoks, võttes iga tulemuse nii, nagu see tuleb. Kuna nende täringute tulemused võivad olla üsna juhuslikud, on sageli parem otsustada tegelase kontseptsioon pärast täringute veeretamist. Vastasel juhul võivad lõplikud omadused eelnevalt kavandatud rolli välistada. Veereta 3d6 STR, CON, DEX, POW ja CHA jaoks; seejärel 2d6+6 SIZ ja INT jaoks.
-- **Täringuveeretamine, määramine:** Nagu ülalpool, välja arvatud see, et mängija võib vahetada väärtusi samade täringuvahemikega omaduste vahel. Näiteks inimese puhul võib mängija vahetada väärtusi STR, CON, DEX, POW ja CHA vahel, kuna nad jagavad 3d6 vahemikku, või SIZ ja INT vahel, mis jagavad 2d6+6 vahemikku – kuid need peavad alati olema samast täringuvahemiku grupist; sa ei saa vahetada tulemusi ühest grupist teise.
-- **Täringuveeretamine, kõrgeim:** Veereta üks lisa-täring vastavalt vajadusele iga omaduse jaoks ja viska igaühe puhul madalaim tulemus ära.
-- **Punktide jagamine:** Mängijad jaotavad omaduste skoore etteantud 80-punktilisest kogumist. Omadused ei tohi olla madalamad kui minimaalne veeretatav väärtus ega kõrgemad kui maksimaalne.
+- **Täringuviskamine:** Veere täringuid JÕU, VAS, SUU, OSA, INT, VÄG ja KAR jaoks, võttes iga veeretatud tulemuse nii, nagu see tuleb. Kuna nende visete tulemused võivad olla üsna juhuslikud, on sageli parem otsustada tegelase kontseptsioon pärast täringute veeretamist. Vastasel juhul võivad lõplikud omadused välistada eelnevalt kavandatud rolli. Veere 3d6 JÕU, VAS, OSA, VÄG ja KAR jaoks; seejärel 2d6+6 SUU ja INT jaoks.
+- **Täringuviskamine, määramine:** Nagu ülal, välja arvatud see, et mängija võib vahetada väärtusi samade täringuvahemikega omaduste vahel. Näiteks inimese loomisel võib mängija vahetada väärtusi JÕU, VAS, OSA, VÄG ja KAR vahel, kuna nad jagavad 3d6 vahemikku, või SUU ja INT vahel, mis jagavad 2d6+6 vahemikku – kuid need peavad alati pärinema samast täringuvahemiku grupist; te ei saa vahetada viskeid ühest grupist teise.
+- **Täringuviskamine, kõrgeim:** Veere üks lisatäring vastavalt JÕU, VAS, SUU, OSA, INT, VÄG ja KAR jaoks ning jäta igast tulemusest madalaim välja.
+- **Punktide ehitamine:** Mängijad määravad omaduste skoorid etteantud 80-punktilisest kogumist. Omadused ei tohi olla madalamad kui miinimumveeretuse väärtus ega kõrgemad kui maksimum.
 
 ---
 ## 3. samm: Atribuudid
 
-Igal tegelasel on ka rida atribuute. Need on omadustest tuletatud või nende poolt määratud võimekused, mida kasutatakse teatud mänguprotsesside reguleerimiseks.
+Igal tegelasel on ka rühm atribuute. Need on omadustest tuletatud või nende poolt määratud võimekused, mida kasutatakse teatud mängufaktorite reguleerimiseks.
 
 #### Tegevuspunktid
 
-See, kui tihti tegelane saab Võitlusvoorus tegutseda, määratakse Tegevuspunktidega. Kõigil _Mythras Imperative'_i tegelastel on 2 Tegevuspunkti.
+See, kui sageli saab tegelane võitlusvoorus tegutseda, määratakse tegevuspunktidega. Kõigil _Mythras Imperative'i_ tegelastel on 2 tegevuspunkti.
 
-#### Kahjumodifikaator
+#### Kahjumuundur
 
-Suuremad ja tugevamad tegelased ja olendid võivad teatud olukordades saada lisakahju; vastupidi, nõrgemad ja väiksemad tegelased võivad tekitatavat kahju vähendada. Kahjumodifikaatorit kasutatakse üldiselt võitlusolukordades, kuid seda saab kasutada ka esemete purustamisel. Kahjumodifikaator on täiendav täringuvise, mis kas lisatakse relva või tööriista tekitatud kahjule või lahutatakse sellest. Kui negatiivne Kahjumodifikaator viib relva kahju nullini või alla selle, siis kahju ei tekitata.
+Suuremad ja tugevamad tegelased ja olendid võivad teatud olukordades saada täiendavat kahju; vastupidi, nõrgemad ja väiksemad tegelased võivad vähendada kahju, mida nad suudavad tekitada. Kahjumuundurit kasutatakse üldiselt võitlusolukordades, kuid seda saab kasutada ka objektide purustamisel. Kahjumuundur on täiendav täringuviske, mis kas lisatakse relva või tööriista tekitatud kahjule või lahutatakse sellest. Kui negatiivne kahjumuundur viib relva kahju nulli või allapoole, siis kahju ei tekitata.
 
-Liida STR ja SIZ ning vaata allolevat Kahjumodifikaatori tabelit.
+Liida kokku JÕU ja SUU ning vaata allolevat kahjumuundurite tabelit.
 
-##### Kahjumodifikaatori tabel
+##### Kahjumuundurite tabel
 
-| STR+SIZ | Kahjumodifikaator |
+| JÕU+SUU | Kahjumuundur |
 | :-: | :-:|
 | 5 või vähem | –1d8 |
 | 6–10 | –1d6 |
@@ -102,74 +102,74 @@ Liida STR ja SIZ ning vaata allolevat Kahjumodifikaatori tabelit.
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Iga 10 punkti | Jätka progressiooni |
+| Iga 10 punkti | Jätka progresseerumist |
 
-#### Kogemusmodifikaator
+#### Kogemusmuundur
 
-Mängu jooksul tegelased parandavad oma oskusi ja võimekust. Seda saavutatakse Kogemusveeretuste abil, mida on detailsemalt selgitatud jaotises [Mängusüsteem](0004_Game_System.md?id=experience-rolls).
+Mängu käigus tegelased parandavad oma oskusi ja võimeid. See saavutatakse kogemusvisete abil, mida on üksikasjalikumalt selgitatud jaotises [Mängusüsteem](0004_Game_System.md?id=experience-rolls).
 
-Tegelase CHA-skoor võib kohandada Kogemusveeretuste arvu, mida tegelane saab, peegeldades tema suhteid kaaslastega ja mainet kogukonnas. Kõrge CHA puhul on inimesed valmis tegelast õpetamisel või toetamisel aitama. Vastupidi, eriti madala CHA puhul võib olla raske oma võimekust ilma teiste abita parandada; näiteks kellegi leidmine, kellega treenida.
+Tegelase KAR-skoor võib kohandada kogemusvisete arvu, mida tegelane saab, peegeldades nende suhet eakaaslastega ja nende mainet kogukonnas. Kõrge KAR-iga inimesed on valmis aitama tegelast õpetada või toetada, kui nad õpinguid läbivad. Vastupidi, eriti madala KAR-iga võib tekkida raskusi oma võimete parandamisel ilma teiste abita; näiteks kellegi leidmisel, kellega treenida.
 
-##### Kogemusmodifikaatori tabel
+##### Kogemusmuundurite tabel
 
-| CHA | Kog. modifikaator |
+| KAR | Kog. muundur |
 |:-:| :-:|
 | 6 või vähem | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Iga 6 punkti | +1 |
 
-#### Paranemiskiirus
+#### Tervenemiskiirus
 
-Pärast vigastuste saamist peab tegelane taastuma. Paranemiskiirus määrab, kui kiiresti ta loomulikult haavadest paraneb. Sõltuvalt vigastuse raskusastmest näitab Paranemiskiirus, mitu Tabamispunkti taastub päevas, nädalas või kuus.
+Pärast vigastuste saamist peab tegelane taastuma. Tervenemiskiirus määrab, kui kiiresti nad haavadest loomulikult paranevad. Sõltuvalt vigastuse raskusest näitab tervenemiskiirus, kui palju löögipunkte päevas, nädalas või kuus taastatakse.
 
-##### Paranemiskiiruse tabel
+##### Tervenemiskiiruse tabel
 
-| CON | Paranemiskiirus |
+| VAS | Tervenemiskiirus |
 | :-:| :-:|
 | 6 või vähem | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Iga 6 punkti | +1 |
 
-#### Tabamispunktid
+#### Löögipunktid
 
-Tabamispunktid tähistavad, kui palju vigastusi kehaosa suudab taluda, enne kui see muutub kasutuks, mis võib viia teovõimetuse ja lõpuks tegelase surmani. Iga olendi keha on jagatud eraldi tsoonideks – inimestel on näiteks seitse: pea, rind, kõht, käed ja jalad – igaühel neist on oma Tabamispunktid.
+Löögipunktid esindavad seda, kui palju vigastusi kehaosa suudab taluda enne, kui see muutub kasutuks, mis võib põhjustada töövõimetuse ja lõpuks tegelase surma. Iga olendi keha on jagatud eraldi kohtadesse – inimestel on näiteks seitse: pea, rind, kõht, käed ja jalad – igal kohal on oma löögipunktid.
 
-Mõnedel olenditel, nagu koletistel või teistel loomaliikidel, on sageli radikaalselt erinev kehaehitus, kuid iga nende tsoon omab ikkagi Tabamispunkte. Kui tsooni Tabamispunktid vähenevad kahju tagajärjel teatud tasemeni, kannatab tegelane teatud tagajärgede all, mis peegeldavad vigastuse raskust. Lisateavet haavade kohta vt jaotisest [Kahju ja haavatasemed](0004_Game_System.md?id=damage-and-wound-levels).
+Mõnedel olenditel, nagu koletised või erinevad loomaliigid, on oma olemuse tõttu sageli radikaalselt erinevad kehaehitused, kuid igal nende kehaosal on siiski löögipunktid. Kui kehaosa löögipunktid langevad mis tahes kahju tõttu teatud tasemeni, kannatab tegelane teatud tagajärgi, mis peegeldavad vigastuse raskust. Lisateavet haavade kohta leiate jaotisest [Kahju ja haavatasemed](0004_Game_System.md?id=damage-and-wound-levels).
 
-Iga tsooni Tabamispunktide arvutamiseks liida CON ja SIZ ning vaata ülaltoodud Tabamispunktide tabelit.
+Iga kehaosa löögipunktide arvutamiseks liida VAS ja SUU ning vaata ülaltoodud löögipunktide tabelit.
 
-##### Tabamispunktid tsooni kohta
+##### Löögipunktid asukoha järgi
 
-| Tsoon | CON+SIZ |  |  |  |  |  |  |  |  |
+| Asukoht | VAS+SUU |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Pea | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Rind | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Kõht | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Iga käsi | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Iga jalg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Mõlemad käed | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Mõlemad jalad | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 #### Initsiatiiv
 
-Hetk, mil keegi võitluses reageerib, on määratud Initsiatiiviga. Initsiatiiv toimib Initsiatiiviveeretuste modifikaatorina; mida kõrgem Initsiatiiv, seda kiiremini reageerite võitlusolukorras, määrates, millal saate tegutseda. Täiendavad tegurid – näiteks raudrüü – muudavad seda. Peatükk [Võitlus](0005_Combat.md?id=combat-style) kirjeldab täpsemalt, kuidas Initsiatiivi kasutatakse.
+Hetke, mil keegi võitluses reageerib, reguleerib initsiatiiv. Initsiatiiv toimib initsiatiivivisete muutjana; mida kõrgem on initsiatiiv, seda kiiremini reageerite võitlusolukorras, määrates, millal saate tegutseda. Edasised tegurid – näiteks soomus – muudavad seda. Peatükis [Võitlus](0005_Combat.md?id=combat-styles) on üksikasjalikumalt kirjeldatud, kuidas initsiatiivi kasutatakse.
 
-Initsiatiiv on DEX-i ja INT-i omaduste keskmine.
+Initsiatiiv on OSA ja INT omaduste keskmine.
 
-#### Õnne punktid
+#### Õnnepunktid
 
-Õnne punktid tähistavad seda kummalist jõudu, mis eristab seiklevaid kangelasi tavalistest inimestest. Nimeta seda saatuseks, karmaks või lihtsalt heaks õnneks. Õnne punkte saab kasutada:
+Õnnepunktid esindavad seda kummalist jõudu, mis eristab seiklevaid kangelasi tavalistest inimestest. Nimetage seda saatuseks, karmaks või lihtsalt heaks õnneks. Õnnepunkte saab kasutada:
 
-- Täringute uuesti veerendamiseks, kui tulemused on ebasoodsad.
+- Täringute uuesti veeretamiseks, kui need on ebasoodsad.
 - Füüsilise kahju või muude õnnetute asjaolude leevendamiseks.
-- Eelise saamiseks võitluse otsustaval hetkel.
+- Eelise saamiseks võitluse kriitilisel hetkel.
 
-Täpselt seda, kuidas ja millal neid kasutatakse, on kirjeldatud [Mängusüsteemi](0004_Game_System.md?id=game-system) jaotises. Kui Õnne punkt on kulutatud, väheneb punktide kogum; kui Õnne punktid on otsas, pole neid rohkem saadaval – välja arvatud juhul, kui Mängujuht teeb erakorralise auhinna – kuni järgmise mängukorrani, mil need taastuvad oma normaalse väärtuseni.
+Täpselt seda, kuidas ja millal neid kasutatakse, on kirjeldatud jaotises [Mängusüsteem](0004_Game_System.md?id=game-system). Kui õnnepunkt on kulutatud, siis kogum väheneb; kui õnnepunktid on otsas, pole neid rohkem saadaval – välja arvatud juhul, kui mängujuht teeb ootamatu preemia – kuni järgmise mänguseansini, mil need taastuvad tavapärase väärtuseni.
 
-##### Õnne punktide tabel
+##### Õnnepunktide tabel
 
-| POW | Õnne punktid |
+| VÄG | Õnnepunktid |
 | :-- | :-: |
 | 6 või vähem | 1 |
 | 7-12 | 2 |
@@ -178,191 +178,194 @@ Täpselt seda, kuidas ja millal neid kasutatakse, on kirjeldatud [Mängusüsteem
 
 #### Maagiapunktid
 
-Müstilised võimed, jõud ja loitsud, mida kasutatakse _Mythras Imperative'_is, tuginevad tavaliselt Maagiapunktidele. Kuna maagia kättesaadavus võib olla kampaania taustast või konkreetsetest maagilistest elukutsetest piiratud, võivad mõne tegelase jaoks need Atribuudid olla üleliigsed.
+Müstilised võimed, jõud ja loitsud, mida kasutatakse _Mythras Imperative'is_, toetuvad tavaliselt maagiapunktidele. Kuna maagia kättesaadavus võib olla kampaaniakeskkonna või konkreetsete maagiliste elukutsete poolt piiratud, leiavad mõned tegelased, et see atribuut on üleliigne.
 
-Nende jaoks, kes suudavad selliseid jõude kasutada, on tegelase Maagiapunktid võrdsed tema POW-iga. Neid punkte kasutatakse loitsude heitmiseks, mille maksumus sõltub kasutatava maagia tüübist. Kui heitjal saavad Maagiapunktid otsa, on ta oma võime loitse heita ammendanud, kuni Maagiapunktid on taastunud.
+Neile, kes suudavad selliseid võimeid kasutada, on tegelase maagiapunktid võrdsed tema VÄG-ga. Neid punkte kasutatakse loitsude heitmiseks, mille maksumus sõltub kasutatava maagia tüübist. Kui heitjad saavad maagiapunktid otsa, on nad ammendanud oma võime ühtegi loitsu heita, kuni maagiapunktid taastuvad.
 
 #### Liikumiskiirus
 
-Igal olendil on Liikumiskiirus – meetrite arv, mida saab läbida kindla aja jooksul. Liikumist ei arvutata Omadustest, vaid see on vaikimisi väärtus, mis erineb liigiti. Inimeste baasliikumiskiirus on 6 meetrit.
+Igal olendil on liikumiskiirus – meetrite arv, mida saab läbida teatud aja jooksul. Liikumist ei arvutata omaduste põhjal, vaid see on vaikimisi väärtus, mis erineb liigiti. Inimeste baasliikumiskiirus on 6 meetrit.
 
-Kõndimisest kiiremad tempod rakendavad Liikumise väärtusele kordajat:
+Kiiremad sammud kui kõndimine rakendavad liikumishinnangule kordajat:
 - **Jooks:** Liikumine x3
 - **Sprint:** Liikumine x5
 
 <details>
+
 <summary>* Kogukonna parandused</summary>
 
-_**Tempod: Kõnd, Jooks, Sprint**_
-_Avaldatud _Mythras Imperative'_i versioonis puuduvad selged reeglid erinevatel tempodel liikumiseks, kuigi need on kaetud Mythras'e põhireeglite raamatus. Ülaltoodud tempo kordajad on lisatud Kogukonna parandustena._
+_**Sammud: Kõndimine, Jooks, Sprint**_
 
-_Vajadusel peaks tempode kohtlemine olema järgmine:_
-- _Kõndimisest kiiremad tempod rakendavad Liikumise väärtusele kordajat: 3x Jooksu puhul, 5x Sprindi puhul._
-- _Jooksu või Sprindi ajal ei saa tegelased proovida enamikku ennetavaid tegevusi, nagu ründamine või loitsude heitmine. Mõned erandid hõlmavad..._
-  - _Rünnakud Rünnakureeglite (Charging) kasutamisel._
-  - _Kaugrelvadest laskmine Kähmluse (Skirmishing) omadusega._
-- _Üldise reeglina tuleks kõiki lubatud tegevusi kohelda Jooksu ajal ühe taseme võrra raskemana ja Sprindi ajal kahe taseme võrra raskemana._
+_Avaldatud _Mythras Imperative'i_ versioonis pole selgesõnalisi reegleid erinevate sammudega liikumiseks, kuigi need on kaetud _Mythras'_ põhireegliraamatus. Ülaltoodud sammukordajad on lisatud kogukonna parandustena._ 
+
+_Vajaduse korral peaks piisama sammude käsitlemisest järgmiselt:_
+
+- _Kõndimisest kiiremad sammud rakendavad liikumishinnangule kordajat: 3x jooksu puhul, 5x sprindi puhul._
+- _Jooksu- või sprindisammul ei saa tegelased proovida enamikku proaktiivseid tegevusi, nagu ründamine või loitsude heitmine. Mõned erandid hõlmavad..._
+  - _Rünnakud laadimisreeglite kasutamisel._
+  - _Kaugrelvadest tulistamine skirmisher-omadusega._ 
+- _Üldreeglina tuleks kõiki lubatud tegevusi käsitleda jooksu ajal ühe astme võrra raskemana ja sprindi ajal kahe astme võrra raskemana._
+
+
 </details>
 
 ---
 ## 4. samm: Oskused
 
-Oskused jagunevad kahte klassi. Igaühel on Standardoskused – asjad nagu hiilimine või teiste mõjutamine. Professionaalsed oskused nõuavad seevastu eriväljaõpet, enne kui neid saab proovida – asjad nagu metsloomade jälitamine, kosmoselaeva piloteerimine või iidsete keelte mõistmine. Tegelastele antakse kolm punktikogumit, mida kulutada oskuste omandamiseks; esimene kogum Kultuuri jaoks, milles nad üles kasvasid, teine Karjääri jaoks, mille nad pärast lapsepõlve valivad, ja viimane oskustekomplekti täiendamiseks. Vaikimisi jagavad uued tegelased 100 punkti Kultuuri oskuste kogumisse, 100 Karjääri oskuste kogumisse ja veel 150 boonuspunkti täiendamiseks. Igal Kultuuril ja Karjääril on määratletud Standard- ja Professionaalsete oskuste valik, kuhu need punktid võib jaotada.
+Oskused jagunevad kahte klassi. Kõigil on tavaoskused – asjad, nagu hiilimine või teiste mõjutamine. Professionaalsed oskused on aga need, mis nõuavad spetsiaalset väljaõpet enne, kui neid saab proovida – asjad, nagu metsloomade jälgimine, kosmoselaevade juhtimine või iidsete keelte mõistmine. Tegelastele antakse kolm punktikogumit oskuste omandamiseks kulutamiseks; esimene kogum kultuuri jaoks, milles nad üles kasvasid, teine karjääri jaoks, mille nad pärast lapsepõlve omaks võtavad, ja viimane, et oma oskuste komplekti veelgi täiendada. Vaikimisi määravad uued tegelased 100 punkti kultuuri oskuste kogumisse, 100 karjääri oskuste kogumisse ja veel 150 boonuspunkti täiendamiseks. Igal kultuuril ja karjääril on määratletud valik tava- ja professionaalseid oskusi, millele saab neid oskuspunkte määrata.
 
 ##### Võitlusstiil
 
-Võitlusstiil on loetletud järgnevates kultuurilistes kirjeldustes. Võitlusstiile selgitatakse põhjalikumalt jaotises [Võitlus](0005_Combat.md?id=combat-style) ja neil on baasprotsent võrdne STR+DEX.
+Võitlusstiil on loetletud järgnevates kultuurilistes kirjeldustes. Võitlusstiile selgitatakse põhjalikumalt jaotises [Võitlus](0005_Combat.md?id=combat-styles) ja nende baasprotsent on võrdne JÕU+OSA.
 
-##### Standardoskused
+##### Tavaoskused
 
 | Oskus | Baasprotsent |
 | :-- | :-- |
-| Kergejõustik | STR+DEX |
-| Paadijuhtimine | STR+CON |
-| Jõud | STR+SIZ |
-| Varjamine | DEX+POW |
-| Tavad | INT x2, +40* |
-| Tants | DEX+CHA |
-| Pettus | INT+CHA |
-| Sõidukijuhtimine | DEX+POW |
-| Vastupidavus | CON x2 |
-| Vältimine | DEX x2 |
-| Esmaabi | INT+DEX |
-| Mõjutamine | CHA x2 |
-| Läbinägelikkus | INT+POW |
-| Kohalikud teadmised | INT x2 |
-| Emakeel | INT+CHA, +40* |
-| Tajumine | INT+POW |
-| Ratsutamine | DEX+POW |
-| Laulmine | CHA+POW |
-| Hiilimine | DEX+INT |
-| Ujumine | STR+CON |
-| Võitlus relvadeta | STR+DEX |
-| Tahtejõud | POW x2 |
+| Kergejõustik | JÕU+OSA |
+| Paadisõit | JÕU+VAS |
+| Jõumeetodid | JÕU+SUU |
+| Varjamine | OSA+VÄG |
+| Kombed | INT x2, +40\* |
+| Tants | OSA+KAR |
+| Pettus | INT+KAR |
+| Sõitmine | OSA+VÄG |
+| Vastupidavus | VAS x2 |
+| Põiklemine | OSA x2 |
+| Esmaabi | INT+OSA |
+| Mõjutamine | KAR x2 |
+| Sisekaemus | INT+VÄG |
+| Paikkonnatundmine | INT x2 |
+| Emakeel | INT+KAR, +40\* |
+| Tajumine | INT+VÄG |
+| Ratsutamine | OSA+VÄG |
+| Laulmine | KAR+VÄG |
+| Hiilimine | OSA+INT |
+| Ujumine | JÕU+VAS |
+| Relvitu võitlus | JÕU+OSA |
+| Tahtejõud | VÄG x2 |
 
-_\* Sisaldab staatilist +40% boonust nii Tavadele kui ka tegelase Emakeelele (inimestele harilik)._
+_\* Sisaldab staatilist +40% boonust nii kommete kui ka tegelase emakeele (inimestele tavaline) jaoks._
 
 ---
 ## 5. samm: Kultuur
 
-Kultuur määrab, millises ühiskonnas tegelane üles kasvas, ja seega määrab teatud vaatenurgad ja filosoofiad, mis tal võivad olla. Praktilisemalt öeldes aitab kultuur täiendada erinevate oskuste väärtusi, mis kujundavad tegelase üldist võimekust. On neli peamist inimkultuuri: Barbaarne, Tsiviliseeritud, Nomaadlik ja Primitiivne. Iga kultuuriline taust loetleb sobivate Standardoskuste valiku ja kutsub mängijat valima kuni kolm esitatud Professionaalset oskust: sel viisil saavad sama kultuuritaustaga mängijad tagada, et nende seiklejad on erinevad arendatud valdkondade poolest. Jaota 100 Kultuuri oskuspunkti karjääri loetletud Standardoskuste ja valitud Professionaalsete oskuste vahel, suurendades iga oskust 1% võrra iga kulutatud punkti kohta. Mängujuhid võivad soovida rakendada piirangut sellele, kui palju oskuspunkte saab ühele konkreetsele oskusele rakendada.
+Kultuur määrab, millises ühiskonnas tegelane üles kasvas, ja määrab seega teatud vaated ja filosoofiad, mis tal võivad olla. Praktilisemalt aitab kultuur suurendada erinevate oskuste väärtusi, mis kujundavad teie tegelase üldist võimekust. Inimkultuure on neli põhilist: barbarid, tsiviliseeritud, rändurid ja primitiivsed. Iga kultuuriline taust loetleb sellele vastava valiku tavaoskusi ja kutsub mängijat üles valima kuni kolm esitatud professionaalset oskust: nii saavad sama kultuurilise taustaga mängijad tagada, et nende seiklejad on oma arendatud valdkondades erinevad. Jaotage 100 kultuuri oskuspunkti karjääri loetletud tavaoskuste ja valitud professionaalsete oskuste vahel, suurendades iga oskust 1% võrra iga selle parandamiseks kulutatud punkti eest. Mängujuhid võivad soovida rakendada piirangut sellele, kui palju oskuspunkte saab konkreetsele oskusele määrata.
 
-### Barbaarne
+### Barbar
 
-Hõimuloomult kipuvad barbarid tsivilisatsiooni vältima, vaadates suurlinnades elavaid inimesi kui nõrku ja rikutuid. Kuigi nende endi asulad on samuti püsivad, kipuvad need olema palju väiksemad ja loodusele lähemal. Barbarite hõimud hõivavad kindlaid territooriume, sageli pooltaltsutatud loodust, mida nad peavad oma jahipidamise, karjatamise ja põlluharimise jaoks. Enamik on vilunud relvade kasutamises, kuna nad peavad kogu elu jooksul ületama paljusid ohte – seistes silmitsi metsiku looduse olenditega või kogunedes oma maid rivaalitsevate hõimude eest kaitsma. Kuna nad elavad väikestes kogukondades, on sugulus- ja klannisuhted nende ühiskonna tugevad elemendid.
+Hõimulise olemusega barbarid kipuvad tsivilisatsiooni vältima, pidades neid, kes elavad suurtes linnades, nõrkadeks ja korrumpeerunuteks. Kuigi ka nende oma asulad on paiksed, on nad tavaliselt palju väiksemad ja looduslähedasemad. Barbarite hõimud hõivavad kindlaid territooriume, sageli pooltaltsutatud loodust, mida nad peavad oma jahipidamise, karjatamise ja põlluharimise eesmärgil endale kuuluvaks. Enamik on vilunud relvade kasutamises, kuna nad peavad oma elu jooksul ületama palju ohte – silmitsi seisma metsiku looduse olenditega või kogunema oma maad kaitsma rivaalitsevate hõimude eest. Kuna nad elavad väikestes kogukondades, on sugulussidemed ja klannitunne nende ühiskonna tugevad elemendid.
 
 #### Oskused
 
-- **Standardoskused:** Kergejõustik, Jõud, Vastupidavus, Esmaabi, Kohalikud teadmised, Tajumine; ja kas Paadijuhtimine või Ratsutamine. Lisaks võib mängija valida kultuurilise Võitlusstiili.
-- **Professionaalsed oskused:** Käsitöö (mistahes), Tervendamine, Pärimus (mistahes), Muusika, Navigeerimine, Merendus, Ellujäämine, Jälitamine.
+- **Tavaoskused:** Kergejõustik, Jõumeetodid, Vastupidavus, Esmaabi, Paikkonnatundmine, Tajumine; ja kas Paadisõit või Ratsutamine. Lisaks võib mängija valida ka kultuurilise võitlusstiili.
+- **Professionaalsed oskused:** Käsitöö (mis tahes), Tervendamine, Tarkus (mis tahes), Muusikaoskus, Navigeerimine, Meresõit, Ellujäämine, Jälitamine.
 
 ### Tsiviliseeritud
 
-Tsiviliseeritud kultuuri iseloomustab korra ja seaduse ilme, mida toetavad keerulised sotsiaalsed koodid ja bürokraatia. Tsiviliseeritud inimesed peavad end kõigist teistest kultuuridest paremaks, sest nende saavutused kipuvad olema püsivad: laialivalguvad linnad, imposantsed templid, pidulikud monumendid ning ajaloo ja sündmuste jäädvustamine raamatutesse, hauakividesse ja kirjarullidesse. Muidugi on see õhuke lakk. Kõige tsiviliseeritumad linnad võivad olla seadusetumad kui mistahes barbarite piiriasula; ja sotsiaalsed koodid võivad olla tooremad kui nomaadide külalislahkuse rituaalid. Kuid tsiviliseeritud kultuur on uhke oma saavutuste, infrastruktuuri, professionaalsete käsitööliste ja oma võime üle hõlpsasti laiendada oma haaret kõikjale, kuhu nad soovivad minna.
+Tsiviliseeritud kultuuri iseloomustab seaduse ja korra näivus, mida toetavad keerulised sotsiaalsed koodid ja bürokraatia. Tsiviliseeritud inimesed peavad end kõigist teistest kultuuridest paremaks, sest nende saavutused kipuvad olema püsivad: laialivalguvad linnad, imposantsed templid, pidulikud monumendid ning ajaloo ja sündmuste jäädvustamine raamatutesse, hauakividele ja kirjarullidele. Muidugi on see õhuke lakk. Kõige tsiviliseeritumad linnad võivad olla seadusetumad kui ükski barbarite piiriasula; ja sotsiaalsed koodid võivad olla tooremad kui rändurite külalislahkuse rituaalid. Kuid tsiviliseeritud kultuur on uhke oma saavutuste, infrastruktuuri, professionaalsete käsitööliste ja oma võime üle kergesti laiendada oma haaret sinna, kuhu soovib.
 
 #### Oskused
 
-- **Standardoskused:** Varjamine, Pettus, Sõidukijuhtimine, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tahtejõud. Lisaks võib mängija valida kultuurilise Võitlusstiili.
-- **Professionaalsed oskused:** Kunst (mistahes), Kaubandus, Käsitöö (mistahes), Viisakus, Keel (mistahes), Pärimus (mistahes), Muusika, Tänavatarkus.
+- **Tavaoskused:** Varjamine, Pettus, Sõitmine, Mõjutamine, Sisekaemus, Paikkonnatundmine, Tahtejõud. Lisaks võib mängija valida ka kultuurilise võitlusstiili.
+- **Professionaalsed oskused:** Kunst (mis tahes), Kaubandus, Käsitöö (mis tahes), Viisakus, Keel (mis tahes), Tarkus (mis tahes), Muusikaoskus, Tänavatarkus.
 
-### Nomaadlik
+### Rändur
 
-Nomaadlikud inimesed on pidevas liikumises, neil pole kodu ja kollet, mida omaks pidada. Nad võivad sihitult rännata või neil võib olla mitu laagrit, kuhu nad aasta jooksul liiguvad. Nad kasvatavad vähe põllukultuure ja järgivad selle asemel loomade või kalade rännet, võib-olla isegi karjatades oma kodustatud loomi. Nomaadid on vilunud elatuma sellest, mida nad saavad kiiresti ja hõlpsasti oma ümbrusest hankida, lastes mitte millelgi raisku minna. Nomaadide kultuuri oskused peaksid olema nende keskkonnale kohandatud. Mõned rändavad jalgsi tohutuid vahemaid, teised elavad karavanides või ratsutavad kummaliste olenditega ja mõned triivivad üle ookeanide suurte ujuvate parvedega.
+Rändurid on pidevalt liikvel, neil pole kodu ega kollet, mida endale omaks nimetada. Nad võivad sihitult ringi rännata või neil võib olla mitu laagrit, kuhu nad aasta jooksul liiguvad. Nad kasvatavad vähe põllukultuure ja järgivad selle asemel loomade või kalade rännet, võib-olla isegi karjatades oma kodustatud loomi. Rändurid on vilunud elatuma sellest, mida nad saavad kiiresti ja hõlpsalt oma ümbrusest korjata, lastes mitte millelgi raisku minna. Rändurikultuuri oskused peaksid olema kohandatud nende keskkonnale. Mõned rändavad jalgsi tohutuid vahemaid, teised elavad haagissuvilates või sõidavad kummaliste olenditega ja mõned triivivad ookeanidel suurtel ujuvatel parvedel.
 
 #### Oskused
 
-- **Standardoskused:** Vastupidavus, Esmaabi, Kohalikud teadmised, Tajumine, Hiilimine; ja kaks järgmistest: Kergejõustik, Paadijuhtimine, Ujumine, Sõidukijuhtimine või Ratsutamine sõltuvalt peamisest liikumisviisist. Lisaks võib mängija valida kultuurilise Võitlusstiili.
-- **Professionaalsed oskused:** Käsitöö (mistahes), Kultuur (mistahes), Keel (mistahes), Pärimus (mistahes), Muusika, Navigeerimine, Ellujäämine, Jälitamine.
+- **Tavaoskused:** Vastupidavus, Esmaabi, Paikkonnatundmine, Tajumine, Hiilimine; ja kaks järgmistest: Kergejõustik, Paadisõit, Ujumine, Sõitmine või Ratsutamine, sõltuvalt peamisest liikumisviisist. Lisaks võib mängija valida ka kultuurilise võitlusstiili.
+- **Professionaalsed oskused:** Käsitöö (mis tahes), Kultuur (mis tahes), Keel (mis tahes), Tarkus (mis tahes), Muusikaoskus, Navigeerimine, Ellujäämine, Jälitamine.
 
 ### Primitiivne
 
-Kõigist rahvastest elavad primitiivsed inimesed kõige lähemal maale, häälestatuna selle varjatud saladustele. Elades laiendatud perekondades, koonduvad primitiivsed kultuurid väga lihtsate elupaikade ümber, mis võivad ulatuda koobastest ja looduslikest varjupaikadest kuni lihtsate onnideni. Primitiivsed inimesed on tavaliselt korilased-kütid, kellel on vähe või halvasti arenenud põllumajanduse ja loomakasvatuse süsteemid.
+Kõigist rahvastest on primitiivsed need, kes elavad maaga kõige lähedasemalt, kooskõlas selle varjatud saladustega. Elades laiendatud pererühmades, koguneb primitiivne kultuur väga lihtsate eluruumide ümber, mis võivad ulatuda koobastest ja looduslikest varjupaikadest kuni onnide või väga algeliste hüttideni. Primitiivsed on tavaliselt kütid-korilased, kellel on kas vähe või halvasti arenenud süsteemid põllumajanduseks ja karjakasvatuseks.
 
-Siiski võivad teatud kultuurilised uskumused, mis põhinevad sageli ebausul, olla väga hästi määratletud. Vähesed primitiivsed kultuurid on arendanud midagi ligilähedast kirjutatud keelele, kuigi maalid ja muud piktograafilised sümbolid teenivad suhtlusvahenditena.
+Siiski võivad teatud kultuurilised tõekspidamised, mis põhinevad sageli ebausul, olla väga hästi määratletud. Vähestel primitiivsetel kultuuridel on välja kujunenud midagi kirjaliku keele sarnast, kuigi maalid ja muud piltlikud sümbolid teenivad suhtlusvahendina.#### Oskused
 
-#### Oskused
-
-- **Standardoskused:** Jõud, Vastupidavus, Vältimine, Kohalikud teadmised, Tajumine, Hiilimine; ja üks järgmistest: Kergejõustik, Paadijuhtimine või Ujumine. Lisaks võib mängija valida kultuurilise Võitlusstiili.
-- **Professionaalsed oskused:** Käsitöö (mistahes), Tervendamine, Pärimus (mistahes), Muusika, Navigeerimine, Ellujäämine, Jälitamine.
+- **Tavaoskused:** Jõuetus (Brawn), Vastupidavus (Endurance), Kõrvalepõige (Evade), Kohalikud teadmised (Locale), Tajumisvõime (Perception), Hiilimine (Stealth); ja üks järgmistest: Kergejõustik (Athletics), Paadisõit (Boating) või Ujumine (Swim). Lisaks võib mängija valida kultuurilise Võitlusstiili (Combat Style).
+- **Erialaoskused:** Käsitöö (Craft) (valikuline), Tervendamine (Healing), Tarkus (Lore) (valikuline), Muusikatalent (Musicianship), Navigeerimine (Navigation), Ellujäämine (Survival), Jälitamine (Track).
 
 ---
 ## 6. samm: Karjäär
 
-Iga tegelane alustab mängu pärast karjääriväljaõppe saamist. Valitud amet ei pruugi tingimata olla see, mida tegelane jätkab seikluselu alustades, kuid see on karjäär, mis algatati osana täiskasvanuikka jõudmisest ja see defineerib oskuste arengut veelgi. Iga karjäär esitab sobiva Standardoskuste valiku ja võimaldab mängijal valida kuni kolm loetletud Professionaalset oskust. Jaota 100 Karjääri oskuspunkti karjääri loetletud Standardoskuste ja valitud Professionaalsete oskuste vahel, suurendades iga oskust 1% võrra iga kulutatud punkti kohta. Nagu kultuuride puhul, võib Mängujuht rakendada piirangut sellele, kui palju oskuspunkte saab ühele konkreetsele oskusele rakendada.
+Iga tegelane alustab mängu läbinuna teatud karjääri. Valitud elukutse ei pruugi tingimata olla see, mida tegelane seiklejaelu alustades jätkab, kuid see on karjäär, millega astuti täiskasvanuikka ja mis kujundab oskuste arengut. Iga karjäär pakub valikut sellele vastavatest tavaoskustest ja lubab mängijal valida kuni kolm loetletud erialaoskust. Jaotage 100 karjäärioskuste punkti karjääri tavaoskuste ja valitud erialaoskuste vahel, tõstes iga oskust 1% võrra iga kulutatud punkti kohta. Sarnaselt kultuuridele võib mängujuht seada piirangu sellele, kui palju oskuspunkte tohib ühele konkreetsele oskusele rakendada.
 
-Spetsiifilisi Professionaalseid oskusi, nagu Pilot, fantaasiamaailmas tõenäoliselt ei leidu. Oskusi käsitletakse põhjalikumalt peatükis [Oskused](0002_Characters.md?id=step-4-skills).
+Konkreetsed erialaoskused, nagu Piloot, ei pruugi fantaasiamaailmas sageli esineda. Oskusi käsitletakse põhjalikumalt [Oskuste](0002_Characters.md?id=step-4-skills) peatükis.
 
 #### Karjääride tabel
 
-| Karjääri nimi | Standardoskused | Professionaalsed oskused |
+| Karjääri nimi | Tavaoskused | Erialaoskused |
 | :-- | :-- | :-- |
-| Agent (Agitaator, Palgamõrvar, Detektiiv, Informaator, Spioon...) | Varjamine, Pettus, Vältimine, Läbinägelikkus, Tajumine, Hiilimine; Võitlusstiil (spetsiifiline) | Kultuur (mistahes), Maskeering, Keel (mistahes), Osavnäpuoskus, Tänavatarkus, Ellujäämine, Jälitamine |
-| Loomatalitaja (Loomakasvataja, Loomataltsutaja, Loomaaia pidaja...) | Sõidukijuhtimine, Vastupidavus, Esmaabi, Mõjutamine, Kohalikud teadmised, Ratsutamine, Tahtejõud | Käsitöö (Loomakasvatus), Kaubandus, Tervendamine (spetsiifiline liik), Pärimus (spetsiifiline liik), Ellujäämine, Õpetamine (spetsiifiline liik), Jälitamine |
-| Pearahakütt (Bailiff, Pearahakütt, Jälitaja...) | Kergejõustik, Vastupidavus, Vältimine, Läbinägelikkus, Tajumine, Hiilimine; Võitlusstiil (mistahes) | Bürokraatia, Kaubandus, Kultuur (mistahes), Lingvistika, Tänavatarkus, Ellujäämine, Jälitamine |
-| Kuriisa (Konkubiin, Saatja, Harem, Paramour...) | Tavad, Tants, Pettus, Mõjutamine, Läbinägelikkus, Tajumine, Laulmine | Kunst (mistahes), Viisakus, Kultuur (mistahes), Hasartmängud, Keel (mistahes), Muusika, Võrgutamine |
-| Käsitööline (Artificer, Artisan...) | Jõud, Sõidukijuhtimine, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tajumine, Tahtejõud | Kunst (mistahes), Kaubandus, Käsitöö (esmane), Käsitöö (teisene), Inseneritöö, Mehhanismid, Tänavatarkus |
-| Detektiiv (Politseinik, Privaatuurija...) | Tavad, Vältimine, Mõjutamine, Läbinägelikkus, Tajumine, Hiilimine; Võitlusstiil (Relvadeta või Külmrelvad) | Bürokraatia, Kultuur (mistahes), Maskeering, Lingvistika, Pärimus (mistahes), Uurimine, Osavnäpuoskus, Tänavatarkus |
-| Meelelahutaja (Akrobaat, Bard, Tantsija, Luuletaja...) | Kergejõustik, Jõud, Tants, Pettus, Mõjutamine, Läbinägelikkus, Laulmine | Akrobaatika, Näitlemine, Oratoorium, Muusika, Võrgutamine, Osavnäpuoskus, Tänavatarkus |
-| Põllumees (Mõisnik, Aednik, Kündja...) | Kergejõustik, Jõud, Sõidukijuhtimine, Vastupidavus, Kohalikud teadmised, Tajumine, Ratsutamine | Kaubandus, Käsitöö (mistahes), Pärimus (Põllumajandus), Pärimus (Loomakasvatus), Navigeerimine, Ellujäämine, Jälitamine |
-| Kalur (Rannakalur, Võrgupüüdja, Pärlituuker, Vaalapüüdja...) | Kergejõustik, Paadijuhtimine, Vastupidavus, Kohalikud teadmised, Tajumine, Hiilimine, Ujumine | Kaubandus, Käsitöö (mistahes), Pärimus (püük), Navigeerimine, Merendus, Ellujäämine |
-| Hasartmängija (Kihlveokontor, Kaardimängija, Hustler...) | Kergejõustik, Jõud, Vastupidavus, Kohalikud teadmised, Tajumine, Tahtejõud; ja kas Sõidukijuhtimine või Ratsutamine | Näitlemine, Bürokraatia, Kaubandus, Viisakus, Hasartmängud, Uurimine, Osavnäpuoskus, Tänavatarkus |
-| Karjus (Kasvataja, Karjane, Wrangler...) | Vastupidavus, Esmaabi, Läbinägelikkus, Kohalikud teadmised, Tajumine, Ratsutamine; Võitlusstiil (spetsiifiline) | Kaubandus, Käsitöö (Loomakasvatus), Tervendamine (spetsiifiline liik), Navigeerimine, Muusika, Ellujäämine, Jälitamine |
-| Kütt (Metsavaht, Salakütt, Korilane, Jälitaja, Trapper...) | Kergejõustik, Vastupidavus, Kohalikud teadmised, Tajumine, Ratsutamine, Hiilimine; Võitlusstiil (spetsiifiline) | Kaubandus, Käsitöö (jahiga seotud), Pärimus (regionaalne), Mehhanismid, Navigeerimine, Ellujäämine, Jälitamine |
-| Ajakirjanik (Kommentaator, Pressimees...) | Tavad, Pettus, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Emakeel, Tajumine | Bürokraatia, Kultuur (mistahes), Keel (mistahes), Pärimus (mistahes), Oratoorium, Poliitika, Tänavatarkus |
-| Maag (Nõid, Sorcerer, Wizard...) | Tavad, Pettus, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tajumine, Tahtejõud | Kultuur, Maagia, Kirjaoskus, Pärimus (x2), Oratoorium, Osavnäpuoskus |
-| Mehhaanik (Insener...) | Jõud, Kultuur, Sõidukijuhtimine, Vastupidavus, Mõjutamine, Kohalikud teadmised, Tahtejõud | Kaubandus, Käsitöö (esmane), Käsitöö (teisene), Elektroonika, Hasartmängud, Mehhanismid, Tänavatarkus |
-| Kaupmees (Maakler, Smugeldaja, Trader...) | Paadijuhtimine, Sõidukijuhtimine, Pettus, Läbinägelikkus, Mõjutamine, Kohalikud teadmised, Ratsutamine | Kaubandus, Viisakus, Kultuur (mistahes), Keel (mistahes), Navigeerimine, Merendus, Tänavatarkus |
-| Kaevur (Kullakaevaja, Sapper...) | Kergejõustik, Jõud, Vastupidavus, Kohalikud teadmised, Tajumine, Laulmine, Tahtejõud | Kaubandus, Käsitöö (kaevandamine), Inseneritöö, Pärimus (mineraalid), Mehhanismid, Navigeerimine (maa-alune), Ellujäämine |
-| Ametnik (Minister, Ülevaataja, Maksukoguja...) | Tavad, Pettus, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tajumine, Tahtejõud | Bürokraatia, Kaubandus, Viisakus, Keel (mistahes), Kirjaoskus, Pärimus (mistahes), Oratoorium |
-| Arst (Tohter, Tervendaja, Meditsiinimees...) | Tants, Esmaabi, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Laulmine, Tahtejõud | Kaubandus, Käsitöö (füsioloogiline eriala), Tervendamine, Keel (mistahes), Kirjaoskus (mistahes), Pärimus (mistahes), Tänavatarkus |
-| Piloot (Aeronaut, Astronaut, Testpiloot...) | Jõud, Sõidukijuhtimine, Vastupidavus, Vältimine, Kohalikud teadmised, Tajumine, Tahtejõud | Tavad (mistahes), Elektroonika, Mehhanismid, Navigeerimine, Piloot, Sensorid, Tänavatarkus |
-| Poliitik (Minister, Ülevaataja...) | Tavad, Pettus, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Emakeel, Tajumine | Bürokraatia, Viisakus, Kultuur (mistahes), Keel (mistahes), Pärimus (mistahes), Oratoorium, Poliitika |
-| Preester (Kultist, Druiid, Prohvet...) | Tavad, Tants, Pettus, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tahtejõud | Bürokraatia, Viisakus, Tavad, Kirjaoskus (mistahes), Pärimus (mistahes), Oratoorium, Poliitika |
-| Meremees (Kapten, Piraat, Parvejuht...) | Kergejõustik, Paadijuhtimine, Jõud, Vastupidavus, Kohalikud teadmised, Ujumine; Võitlusstiil (spetsiifiline) | Käsitöö (laevatöö), Kultuur (mistahes), Keel (mistahes), Pärimus (mistahes), Navigeerimine, Merendus, Ellujäämine |
-| Õpetlane (Raamatukoguhoidja, Filosoof, Scribe...) | Tavad, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Emakeel, Tajumine, Tahtejõud | Kultuur (mistahes), Keel (mistahes), Kirjaoskus (mistahes), Pärimus (esmane), Pärimus (teisene), Oratoorium, Õpetamine |
-| Teadlane (Arhivaar, Filosoof...) | Tavad, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Emakeel, Tajumine, Tahtejõud | Kultuur (mistahes), Inseneritöö, Keel (mistahes), Oratoorium, Uurimine, Teadus (mistahes), Õpetamine |
-| Skaut (Avastaja, Ranger...) | Kergejõustik, Vastupidavus, Esmaabi, Tajumine, Hiilimine, Ujumine; Võitlusstiil (spetsiifiline) | Kultuur (mistahes), Tervendamine, Keel (mistahes), Pärimus (mistahes), Navigeerimine, Ellujäämine, Jälitamine |
-| Teenija (Majordoomus, Toatüdruk, Assistend...) | Tavad, Pettus, Sõidukijuhtimine, Mõjutamine, Läbinägelikkus, Kohalikud teadmised, Tajumine | Bürokraatia, Viisakus, Käsitöö (teenindus), Kultuur (mistahes), Keel (mistahes), Poliitika, Tänavatarkus |
-| Smugeldaja (Mustaturg, Salakaubavedaja...) | Varjamine, Tavad, Pettus, Sõidukijuhtimine, Mõjutamine, Läbinägelikkus, Kohalikud teadmised | Bürokraatia, Kaubandus, Tavad (mistahes), Keel (mistahes), Navigeerimine, Tänavatarkus; ja kas Astrogatsioon või Merendus |
-| Tehnik (Elektrik...) | Jõud, Sõidukijuhtimine, Vastupidavus, Mõjutamine, Kohalikud teadmised, Tajumine, Tahtejõud | Side, Käsitöö (mistahes), Elektroonika, Hasartmängud, Mehhanismid, Teadus (mistahes), Sensorid |
-| Varas (Murdvaras, Pettur, Taskuvaras...) | Kergejõustik, Pettus, Vältimine, Läbinägelikkus, Tajumine, Hiilimine; Võitlusstiil (spetsiifiline) | Näitlemine, Kaubandus, Maskeering, Luku muukimine, Mehhanismid, Osavnäpuoskus, Tänavatarkus |
-| Sõdalane (Ihukaitsja, Palgasõdur, Sõdur...) | Kergejõustik, Jõud, Vastupidavus, Vältimine, Võitlus relvadeta; Võitlusstiil (sõjaline), Võitlusstiil (kultuuriline) | Käsitöö (mistahes), Inseneritöö, Hasartmängud, Pärimus (Sõjaajalugu), Pärimus (Strateegia), Oratoorium, Ellujäämine |
+| Agent (Agitaator, Palgamõrvar, Detektiiv, Informaator, Spioon…) | Varjamine, Pettus, Kõrvalepõige, Vaist, Tajumisvõime, Hiilimine; Võitlusstiil (Konkreetne agendi- või kultuuristiil) | Kultuur (valikuline), Maskeering, Keel (valikuline), Osavus, Tänavatarkus, Ellujäämine, Jälitamine |
+| Elukataltsutaja (Loomakasvataja, Metsloomataltsutaja, Menžerii hoidja…) | Juhtimine, Vastupidavus, Esmaabi, Mõjutamine, Kohalikud teadmised, Ratsutamine, Tahtejõud | Käsitöö (Loomakasvatus), Kaubandus, Tervendamine (Konkreetne liik), Tarkus (Konkreetne liik), Ellujäämine, Õpetamine (Konkreetne liik), Jälitamine |
+| Pearahakütt (Kautsjoni täitja, Pearahakütt, Skalpi-kütt, Tagaotsitavate jälitaja…) | Kergejõustik, Vastupidavus, Kõrvalepõige, Vaist, Tajumisvõime, Hiilimine; Võitlusstiil (valikuline) | Bürokraatia, Kaubandus, Kultuur (valikuline), Lingvistika, Tänavatarkus, Ellujäämine (valikuline), Jälitamine |
+| Kuriis (Liignaine, Saatja, Haremineiu, Houri, Armuke…) | Kombed, Tants, Pettus, Mõjutamine, Vaist, Tajumisvõime, Laulmine | Kunst (valikuline), Viisakus, Kultuur (valikuline), Hasartmängud, Keel (valikuline), Muusikatalent, Võrgutamine |
+| Käsitööline (Artifeks, Artisann…) | Jõuetus, Juhtimine, Mõjutamine, Vaist, Kohalikud teadmised, Tajumisvõime, Tahtejõud | Kunst (valikuline), Kaubandus, Käsitöö (Esmane), Käsitöö (Teisene), Inseneritöö, Mehhanismid, Tänavatarkus |
+| Detektiiv (Nuhk, Politseinik, Erakasutuses detektiiv, Uurija…) | Kombed, Kõrvalepõige, Mõjutamine, Vaist, Tajumisvõime, Hiilimine; Võitlusstiil (Relvitu või Küljerelvade stiil) | Bürokraatia, Kultuur (valikuline), Maskeering, Lingvistika, Tarkus (valikuline), Uurimine, Osavus, Tänavatarkus |
+| Meelelahutaja (Akrobaat, Bard, Tantsija, Näitleja, Poeet…) | Kergejõustik, Jõuetus, Tants, Pettus, Mõjutamine, Vaist, Laulmine | Akrobaatika, Näitlemine, Oraatorlus, Muusikatalent, Võrgutamine, Osavus, Tänavatarkus |
+| Talunik (Mõisnik, Aednik, Kündja…) | Kergejõustik, Jõuetus, Juhtimine, Vastupidavus, Kohalikud teadmised, Tajumisvõime, Ratsutamine | Kaubandus, Käsitöö (valikuline), Tarkus (Põllumajandus), Tarkus (Loomakasvatus), Navigeerimine, Ellujäämine, Jälitamine |
+| Kalur (Rannakoluja, Võrgutaja, Pärlikütt, Vaalapüüdja…) | Kergejõustik, Paadisõit, Vastupidavus, Kohalikud teadmised, Tajumisvõime, Hiilimine, Ujumine | Kaubandus, Käsitöö (valikuline), Tarkus (Esmane saak), Tarkus (Teisene saak), Navigeerimine, Meremehetöö, Ellujäämine |
+| Hasartmängur (Kihlveokontori pidaja, Kaardikunstnik, Kelm…) | Kergejõustik, Jõuetus, Vastupidavus, Kohalikud teadmised, Tajumisvõime, Tahtejõud; ja kas Juhtimine või Ratsutamine | Näitlemine, Bürokraatia, Kaubandus, Viisakus, Hasartmängud, Uurimine, Osavus, Tänavatarkus |
+| Karjane (Kasvataja, Karjapoiss, Püha hane hoidja, Wrangler…) | Vastupidavus, Esmaabi, Vaist, Kohalikud teadmised, Tajumisvõime, Ratsutamine; Võitlusstiil (Konkreetne karjase- või kultuuristiil) | Kaubandus, Käsitöö (Loomakasvatus), Tervendamine (Konkreetne liik), Navigeerimine, Muusikatalent, Ellujäämine, Jälitamine |
+| Kütt (Metsnik, Salakütt, Korilane, Jälitaja, Püünise-seadja…) | Kergejõustik, Vastupidavus, Kohalikud teadmised, Tajumisvõime, Ratsutamine, Hiilimine; Võitlusstiil (Konkreetne jahi- või kultuuristiil) | Kaubandus, Käsitöö (Jahiga seotud), Tarkus (Piirkondlik või konkreetne liik), Mehhanismid, Navigeerimine, Ellujäämine, Jälitamine |
+| Ajakirjanik (Kommentaator, Sulesepp, Uudistekütt, Pressiesindaja…) | Kombed, Pettus, Mõjutamine, Vaist, Kohalikud teadmised, Emakeel, Tajumisvõime | Bürokraatia, Kultuur (valikuline), Keel (valikuline), Tarkus (valikuline), Oraatorlus, Poliitika, Tänavatarkus |
+| Maag (Mustkunstnik, Nõid, Teadja…) | Kombed, Pettus, Mõjutamine, Vaist, Kohalikud teadmised, Tajumisvõime, Tahtejõud | Kultuur, Maagia, Kirjaoskus, Tarkus x2, Oraatorlus, Osavus |
+| Mehhaanik (Insener, Remondimees…) | Jõuetus, Kultuur, Juhtimine, Vastupidavus, Mõjutamine, Kohalikud teadmised, Tahtejõud | Kaubandus, Käsitöö (esmane), Käsitöö (teisene), Elektroonika, Hasartmängud, Mehhanismid, Tänavatarkus |
+| Kaupmees (Maakler, Müügimees, Liigkasuvõtja, Salakaubavedaja, Ärimees…) | Paadisõit, Juhtimine, Pettus, Vaist, Mõjutamine, Kohalikud teadmised, Ratsutamine | Kaubandus, Viisakus, Kultuur (valikuline), Keel (valikuline), Navigeerimine, Meremehetöö, Tänavatarkus |
+| Kaevur (Maavarade otsija, Karjäärimees, Õõnestaja, Kaevaja…) | Kergejõustik, Jõuetus, Vastupidavus, Kohalikud teadmised, Tajumisvõime, Laulmine, Tahtejõud | Kaubandus, Käsitöö (Kaevandamine), Inseneritöö, Tarkus (Mineraalid), Mehhanismid, Navigeerimine (Maa-alune), Ellujäämine |
+| Ametnik (Minister, Ülevaataja, Korraldaja, Maksuametnik…) | Kombed, Pettus, Mõjutamine, Vaist, Kohalikud teadmised, Tajumisvõime, Tahtejõud | Bürokraatia, Kaubandus, Viisakus, Keel (valikuline), Kirjaoskus, Tarkus (valikuline), Oraatorlus |
+| Arst (Tohtri, Tervendaja, Ravimees, Piinaja, Vivisektsionist…) | Tants, Esmaabi, Mõjutamine, Vaist, Kohalikud teadmised, Laulmine, Tahtejõud | Kaubandus, Käsitöö (Konkreetne füsioloogiline eriala), Tervendamine, Keel (valikuline), Kirjaoskus (valikuline), Tarkus (valikuline), Tänavatarkus |
+| Piloot (Aeronaut, Astronaut, Lennukipiloot, Testpiloot…) | Jõuetus, Juhtimine, Vastupidavus, Kõrvalepõige, Kohalikud teadmised, Tajumisvõime, Tahtejõud | Kombed (valikuline), Elektroonika, Mehhanismid, Navigeerimine, Piloot, Sensorid, Tänavatarkus |
+| Poliitik (Riigiametnik, Mandariin, Minister, Ülevaataja, Korraldaja…) | Kombed, Pettus, Mõjutamine, Vaist, Kohalikud teadmised, Emakeel, Tajumisvõime | Bürokraatia, Viisakus, Kultuur (valikuline), Keel (valikuline), Tarkus (valikuline), Oraatorlus, Poliitika |
+| Preester (Vahekohtunik, Kultist, Druiid, Kerjusmunk, Prohvet…) | Kombed, Tants, Pettus, Mõjutamine, Vaist, Kohalikud teadmised, Tahtejõud | Bürokraatia, Viisakus, Kombed, Kirjaoskus (valikuline), Tarkus (valikuline), Oraatorlus, Poliitika |
+| Meremees (Kapten, Galeeri ori, Madrus, Piraat, Parvmees…) | Kergejõustik, Paadisõit, Jõuetus, Vastupidavus, Kohalikud teadmised, Ujumine; Võitlusstiil (Konkreetne meremehe- või kultuuristiil) | Käsitöö (Konkreetne laevaeriala), Kultuur (valikuline), Keel (valikuline), Tarkus (valikuline), Navigeerimine, Meremehetöö, Ellujäämine |
+| Õpetlane (Kroonik, Raamatukoguhoidja, Filosoof, Skald, Kirjutaja…) | Kombed, Mõjutamine, Vaist, Kohalikud teadmised, Emakeel, Tajumisvõime, Tahtejõud | Kultuur (valikuline), Keel (valikuline), Kirjaoskus (valikuline), Tarkus (Esmane), Tarkus (Teisene), Oraatorlus, Õpetamine |
+| Teadlane (Arhivist, Raamatukoguhoidja, Filosoof…) | Kombed, Mõjutamine, Vaist, Kohalikud teadmised, Emakeel, Tajumisvõime, Tahtejõud | Kultuur (valikuline), Inseneritöö, Keel (valikuline), Oraatorlus, Uurimine, Teadus (valikuline), Õpetamine |
+| Luuraja (Pearahakütt, Avastaja, Pioneer, Metsavaht, Rändur…) | Kergejõustik, Vastupidavus, Esmaabi, Tajumisvõime, Hiilimine, Ujumine; Võitlusstiil (Konkreetne jahi- või kultuuristiil) | Kultuur (valikuline), Tervendamine, Keel (valikuline), Tarkus (valikuline), Navigeerimine, Ellujäämine, Jälitamine |
+| Teenija (Abiline, Ülemteener, Autojuht, Majateenija, Koduõpetaja, Majordoomus, Toapoiss, Isiklik assistent, Sekretär…) | Kombed, Pettus, Juhtimine, Mõjutamine, Vaist, Kohalikud teadmised, Tajumisvõime | Bürokraatia, Viisakus, Käsitöö (teenindusega seotud), Kultuur (valikuline), Keel (valikuline), Poliitika, Tänavatarkus |
+| Salakaubavedaja (Musta turu tegija, Alkoholi smugeldaja, Relvaäri…) | Varjamine, Kombed, Pettus, Juhtimine, Mõjutamine, Vaist, Kohalikud teadmised | Bürokraatia, Kaubandus, Kombed (valikuline), Keel (valikuline), Navigeerimine, Tänavatarkus; ja kas Astro-navigatsioon või Meremehetöö |
+| Tehnik (Elektrik, Laboriassistent…) | Jõuetus, Juhtimine, Vastupidavus, Mõjutamine, Kohalikud teadmised, Tajumisvõime, Tahtejõud | Kommunikatsioon, Käsitöö (valikuline), Elektroonika, Hasartmängud, Mehhanismid, Teadus (valikuline), Sensorid |
+| Varas (Murdvaras, Kelm, Varastatud kauba ostja, Röövija, Hauaröövel…) | Kergejõustik, Pettus, Kõrvalepõige, Vaist, Tajumisvõime, Hiilimine; Võitlusstiil (Konkreetne varga- või kultuuristiil) | Näitlemine, Kaubandus, Maskeering, Lukuaugu muukimine, Mehhanismid, Osavus, Tänavatarkus |
+| Sõdalane (Ihukaitsja, Palgasõdur, Arenavõitleja, Sõdur…) | Kergejõustik, Jõuetus, Vastupidavus, Kõrvalepõige, Relvitu; Võitlusstiil (Sõjaväeline stiil), Võitlusstiil (Kultuuristiil) | Käsitöö (valikuline), Inseneritöö, Hasartmängud, Tarkus (Sõjaajalugu), Tarkus (Strateegia ja taktika), Oraatorlus, Ellujäämine |
 
 ---
-## 7. samm: Boonus-oskuspunktid
+## 7. samm: Täiendavad oskuspunktid
 
-Viimase sammuna määratakse 150 viimast oskuspunkti tegelase täiendamiseks. Neid võib rakendada mistahes Standardoskusele või nendele Professionaalsetele oskustele, mis saadi osana Kultuurist või Karjäärist. Jällegi võib Mängujuht rakendada piirangut sellele, kui palju oskuspunkte saab ühele konkreetsele oskusele rakendada.
+Viimase sammuna määratakse viimane 150 oskuspunkti, et tegelase oskustepagasit täiendada. Neid võib rakendada mistahes tavaoskusele või erialaoskustele, mis on saadud kultuuri või karjääri kaudu. Taas võib mängujuht seada piirangu sellele, kui palju oskuspunkte tohib ühele konkreetsele oskusele rakendada.
 
 ### Kogenud tegelaste loomine
 
-Soovitatav on, et algajad tegelased alustavad värskelt, vähese või olematu praktilise kogemusega. Muidugi sõltub tegelaste tase suuresti taustast ja sellest, kas mäng on lühike ühekordne seiklus või pikaajaline kampaania. Samuti on tavaline, et mängija loob kogenuma tegelase, kui asendab mängus hukkunut või liitub olemasoleva kampaaniaga.
+Soovitatav on, et algajad tegelased alustaksid värskelt, vähese või puuduva praktilise kogemusega. Loomulikult sõltub tegelaste tase suuresti mängukeskkonnast ja sellest, kas tegemist on lühikese ühekordse seikluse või pikema kampaaniaga. Samuti on tavaline, et mängija loob kogenuma tegelase, kui asendab mängus hukkunut või liitub olemasoleva kampaaniaga.
 
-Esitatud on tabel, mis jagab kogemuse vanusekategooriatesse. Tegelase kogemusel on otsene seos vanuse ja oskuste pädevusega; kogenumatel tegelastel on loomulikult rohkem elukogemust kui nende noorematel kaaslastel. Siiski tuleks märgitut Vanuseboonust käsitleda ligikaudsena, kuna kampaaniad edenevad erineva kiirusega – mõned kampaaniad lasevad seikluste vahel mööduda palju mänguaega, teised on üks pikk katkematu seiklusteahel. Olemasoleva tegelase teisendamisel asenda tabelis märgitud vanus lihtsalt tegeliku vanusega.
+Lisatud on tabel, mis jagab kogemuse vanusekategooriatesse. Tegelase kogemus on otseses seoses vanuse ja oskuste pädevusega; kogenumatel tegelastel on loomulikult rohkem elukogemust kui nende noorematel kaaslastel. Siiski tuleks toodud vanuseboonuseid käsitleda ligikaudsetena, kuna kampaaniad arenevad erineva kiirusega — mõnes kampaanias möödub seikluste vahel palju mänguaega, teised on aga üks katkematu seiklustejada. Olemasoleva tegelase teisendamisel asendage tabelis märgitud vanus lihtsalt tegeliku vanusega.
 
 #### Kogemuste tabel
 
-| Kategooria | Vanus | Boonus-oskuspunktid | Maksimaalne oskuste kasv |
+| Kategooria | Vanus | Täiendavad oskuspunktid | Maksimaalne oskuste tõus |
 | :-- | :-: | :-: | :-: |
 | Noor | 10+1d6 | 100 | +10 |
 | Täiskasvanu | 15+2d6 | 150 | +15 |
 | Keskealine | 25+3d6 | 200 | +20 |
-| Seenior | 40+4d6 | 250 | +25 |
+| Eakas | 40+4d6 | 250 | +25 |
 | Vana | 60+5d6 | 300 | +30 |
 
 #### Kogemuste tabeli märkused
 
-- Boonus-oskuspunktid määravad, kui palju punkte peab tegelane kulutama oskuste arendamisele.
-- Maksimaalne oskuste kasv piirab, kui palju boonuspunkte saab rakendada ühele oskusele.
+- Täiendavad oskuspunktid määravad, kui palju punkte peab tegelane kulutama oskuste arendamiseks.
+- Maksimaalne oskuste tõus piirab, kui palju täiendavatest punktidest võib ühele konkreetsele oskusele rakendada.
 
 ### Oskuste püramiid
 
-_Mythras Imperative'_i oskuspunktide jaotamise protsess tuletab 350 punkti kolmest allikast: Kultuur (100), Karjäär (100) ja Boonus-oskuspunktid (150). Nende punktide jaotamine võib olla aeganõudev ja kindlasti on aegu, mil tegelase Kultuuri määramine pole nii oluline, või mängijal on silmas kindel amet, mida põhireeglite mallid ei teeni hästi. Alternatiivne süsteem oskuspunktide jaotamiseks, kui aeg surub peale või mängijad on kärsitud, on esitatud siin.
+_Mythras Imperative_'i oskuspunktide jagamise protsess tuletab 350 punkti kolmest allikast: Kultuur (100), Karjäär (100) ja Täiendavad oskuspunktid (150). Nende punktide jaotamine võib olla aeganõudev ja kindlasti tuleb ette olukordi, kus tegelase kultuuri määramine pole nii oluline või mängijal on silme ees kindel elukutse, mida põhireeglite mallid ei toeta. Siin on esitatud alternatiivne süsteem oskuspunktide jaotamiseks juhuks, kui aeg surub peale või mängijad on kärsitud.
 
-Selle asemel, et jaotada punkte Kultuuri, Karjääri ja Boonuspunktide kogumitest, kasutatakse Oskuste püramiidi. See jagab 350 punkti viieks fikseeritud punktide plokiks, järgmiselt:
+Selle asemel, et jaotada punkte kultuuri-, karjääri- ja täiendavate punktide reservidest, kasutatakse oskuste püramiidi. See jagab 350 punkti viide fikseeritud punktidega plokki järgmiselt:
 
-1 oskus 50% peale, 2 oskust 40% peale, 3 oskust 30% peale, 4 oskust 20% peale, 5 oskust 10% peale.
+1 oskus 50%, 2 oskust 40%, 3 oskust 30%, 4 oskust 20%, 5 oskust 10%.
 
-See moodustab käepärase püramiidi. Lihtsalt kriipsuta iga väärtus maha, kui see on jaotatud.
+See moodustab mugava püramiidi. Lihtsalt kriipsutage iga väärtus maha, kui see on jaotatud.
 
 ```
     50
@@ -378,125 +381,123 @@ See moodustab käepärase püramiidi. Lihtsalt kriipsuta iga väärtus maha, kui
 
 #### Mõned lihtsad reeglid
 
-- Kõik püramiidi punktid tuleb jaotada.
-- Ühelgi oskusel ei tohi olla püramiidist rohkem kui üks jaotus.
-- Tavad ja Emakeel saavad mõlemad +40, vastavalt põhireeglitele, ja lisaks mistahes jaotustele, mis tehti püramiidist.
-- Kired, mis saavad jaotises [Kired](0002_Characters.md?id=step-8-passions) märgitud väärtused, lisaks mistahes jaotustele püramiidist.
-- Ükski oskus ei tohi ületada 80% jaotuse tulemusena. Seega, kui tegelasel on STR 16 ja DEX 17, baasiga 33%, ei saa mängija jaotada 50-punktilist väärtust Võitlusstiilile.
-- Kuus väärtustest tuleb jaotada Professionaalsetele oskustele.
-- Tegelased võivad siiski valida Kultuuri ja Ameti ning kasutada vastavas kirjelduses loetletud oskusi juhisena oma jaotuste jaoks, või jaotused võivad olla täiesti vabastiilis.
+- Kõik püramiidi punktid peavad olema jaotatud.
+- Ükski oskus ei tohi saada püramiidist rohkem kui ühe jaotuse.
+- Kombed ja Emakeel saavad mõlemad +40, vastavalt põhireeglitele, ja lisaks mistahes püramiidist tehtud jaotustele.
+- Kired saavad [Kirgede](0002_Characters.md?id=step-8-passions) peatükis märgitud väärtused lisaks püramiidist tehtud jaotustele.
+- Ükski oskus ei tohi jaotuse tulemusel ületada 80%. Seega, kui tegelasel on JÕU 16 ja OSA 17, baasiga 33%, ei saa mängija 50-punktilist väärtust Võitlusstiilile jaotada.
+- Kuus väärtust peavad olema jaotatud erialaoskustele.
+- Tegelased võivad siiski valida kultuuri ja elukutse ning kasutada vastavas kirjelduses loetletud oskusi oma jaotuste juhisena, või võivad jaotused olla täiesti vabad.
 - Soovitatav on, et vähemalt üks väärtustest jaotataks Võitlusstiilile, kuid see pole kohustuslik.
-- Mängujuhil on alati viimane sõna.
+- Mängujuhil on alati lõplik sõnaõigus.
 
-### Suurem kui elu kangelaslikkus
+### Kangelaslikkus, mis ületab tavaelu
 
-_Mythras Imperative_ tegeleb peamiselt tavaliste inimestega, kuid aeg-ajalt nõuab kampaania midagi muud, eriti kui see nõuab erilist kangelaslikkust või toimub Pulp Action taustal, kus kangelased ja kurikaelad kipuvad olema suuremad kui elu.
+_Mythras Imperative_ tegeleb peamiselt tavaliste inimestega, kuid aeg-ajalt nõuab kampaania midagi muud, eriti kui see nõuab erilist kangelaslikkust või leiab aset Pulp Action-stiilis maailmas, kus kangelased ja kurikaelad on tavainimestest võimekamad.
 
-Sellistel kangelastel ei pruugi tingimata olla supervõimeid (kuigi kui neid soovitakse, saab kasutada Maagia ja jõudude peatükki), kuid nad on pisut tugevamad, pisut kiiremad, pisut vastupidavamad ja tavaliselt palju tahtejõulisemad. Mõtle teatud barbarile Cimmeriast; erialagendile, kellel on tapmisluba; pronksmehele; maskiga valvurile, kes on ka miljardärist playboy – või paljudele populaarsetele kangelastegelastele. Nad satuvad sageli olukordadesse, kus tavaline inimene murduks; kuid kangelastena suudavad nad vastu pidada kõigele, mida süžee nende teele viskab, ja elada, et osaleda järgmises seikluses (suhteliselt) puutumatuna.
+Sellistel kangelastel ei pruugi tingimata olla üleloomulikke võimeid (kuigi kui neid soovitakse, võib kasutada Maagia ja Võimete peatükki), kuid nad on pisut tugevamad, kiiremad, vastupidavamad ja tavaliselt palju tugevama tahtega. Mõelge teatud barbaarsele kangelasele Kimmeeriast; erilahendusagendile, kellel on luba tappa; pronksmehele; maskis kättemaksjale, kes on ühtlasi miljardärist playboy – või paljudele teistele populaarsetele kangelastele. Nad seisavad sageli silmitsi olukordadega, kus tavaline inimene murduks; kuid kangelastena suudavad nad taluda kõike, mida süžee nende teele viskab, ja elada järgmise seikluseni (suhteliselt) puutumatuna.
 
-Kui kavatsete need tegelasetüübid oma mängudesse sisse tuua, siis veenduge, et kõigil mängijatel on samal tasemel tegelased. Need tegelasetüübid on loodud stseeni "närimiseks" ja tegevuse vedamiseks; maised tegelased (kui neil pole maagia või mõne muu eelise abi) võivad hästi jääda varju.
+Kui kavatsete need tegelastüübid oma mängudesse sisse tuua, veenduge, et kõik mängijad oleksid samal tasemel. Need tegelastüübid on loodud sündmustikku domineerima ja tegevust edasi viima; tavalised tegelased (kui neil pole maagia või mõne muu eelise abi) võivad kergesti varju jääda.
 
-### Pulp-kangelasest tegelased
+### Pulp-kangelased
 
-Need on traditsioonilised Pulp-kangelased. Nad pole superkangelased või pooljumalad ja hästi sihitud haavlipüssi lask lõpetab siiski nende elu, kuid nad on sitkemad, nutikamad, võimekamad ja üldiselt sammu või paar tavalistest inimestest eespool. Samuti kipub nende elu olema seiklustest tulvil. Kuigi Kangelaslik tegelane võib otsustada proovida end sisse seada ja elada sündmustevaest elu, leiavad mured või abivajajad sageli tee tegelase ukseni.
-
-#### Omadused
-
-Pulp-kangelasest tegelaste genereerimisel kasuta [Tegelaste](0002_Characters.md?id=calculating-characteristics) jaotises kirjeldatud "Täringuveeretamine, määramine" meetodit. Veereta 4d6 ja viska madalaim täring ära viis korda, seejärel määra tulemused STR, CON, DEX, POW ja CHA jaoks. Järgmisena veereta 3d6+6 ja viska madalaim täring kaks korda ära ning määra need numbrid SIZ ja INT jaoks. Kui kasutate Punktide jagamise meetodit, ehitavad mängijad oma tegelase etteantud 90-punktilisest kogumist.
-
-#### Atribuudid
-
-Need arvutatakse tavapäraselt, välja arvatud see, et Pulp-kangelasest tegelased saavad kaks eelist, mis on valitud järgmistest (pane tähele, et eeliseid ei saa kombineerida):
-
-- +1 Tegevuspunkt
-- +1 Õnne punkt
-- +1 Tabamispunkt igasse Tabamistsooni
-- Vastupidavuse veeretused on ühe taseme võrra lihtsamad
-- Hiilimise veeretused on ühe taseme võrra lihtsamad
-- Tahtejõu veeretused on ühe taseme võrra lihtsamad
-
-Kõik Pulp-kangelasest tegelased kahekordistavad oma Paranemiskiirust, kui nad kannatavad Kergete või Tõsiste haavade all, kuigi Raskete haavade puhul kasutatakse tegelase standardset Paranemiskiirust.
-
-#### Oskused
-
-Pulp-kangelasest tegelased saavad täiendavad 50 Boonus-oskuspunkti, mida vastavalt vajadusele jaotada.
-
-### Paragontüüpi tegelased
-
-Paragon-tegelased on tipptaseme kehastused. Kui teatud piitsaga vehkiv arheoloog ja tapmisloaga superagent on Pulp-kangelasest tegelased, siis Cimmerlane, Pronksmees, Pimeda Rüütli detektiiv ja Sherlock Holmes on Paragon-tegelased. Paragon-tegelased pole lihtsalt ülimas pädevuses ühes ekspertiisivaldkonnas: nad tavaliselt hiilgavad mitmes. Särav leiutaja ja füüsik, kes on ka kahe rusikaga märulimees ja suurepärane laskur, on suurepärane näide Paragon-tegelasest; miljardärist playboy kuritegevuse vastu võitleja, kes õppis maailma parimate detektiivide juures, on teine. Paragon-tegelastel võib hästi olla mitu kõrgkoolikraadi, iseseisev varandus, salapärased heategijad, samuti arvukalt muid kogemusi.
-
-Selle tulemusena ei pruugi Paragon-tegelased kõigile sobida, kuid kui taust vajab tegelasi, kes suudavad muuta kogu päikesesüsteemi saatust või astuda vastu mistahes väljakutsele, siis Paragon-taseme kampaania sobib ideaalselt. Kuigi nii Tavalised kui ka Kangelaslikud kampaaniad hõlmavad aeg-ajalt äärmiselt kõrgeid panuseid, nagu rahvaste või isegi planeetide saatus, peaksid Paragon-kampaaniad seda tegema regulaarselt.
+Need on traditsioonilised Pulp-kangelased. Nad ei ole superkangelased ega pooljumalad ja hästi sihitud haavlipüssilasud võivad nende elu siiski lõpetada, kuid nad on sitkemad, nutikamad, võimekamad ja üldiselt sammu või kaks tavalistest inimestest eespool. Samuti on nende elud tavaliselt seiklusi täis. Kuigi kangelaslik tegelane võib otsustada proovida rahuneda ja elada sündmustevaest elu, leiavad hädad või abivajajad sageli tee kangelase ukseni.
 
 #### Omadused
 
-Tegelaste genereerimisel kasutage [Tegelaste](0002_Characters.md?id=calculating-characteristics) jaotises kirjeldatud "Täringuveeretamine, määramine" meetodit. Veereta 4d6, visates madalaima täringu kuus korda ära, seejärel määra viis valitud tulemust (tavaliselt viis kõrgeimat) STR, CON, DEX, POW ja CHA jaoks. Järgmisena veereta 3d6+6, visates madalaima täringu kolm korda ära ja määra kaks valitud tulemust (tavaliselt kaks kõrgeimat) SIZ ja INT jaoks. Kui kasutate Punktide jagamise meetodit, ehitavad mängijad oma tegelase etteantud 100-punktilisest kogumist.
+Pulp-kangelaste tegelaste loomisel kasutage [Tegelaste](0002_Characters.md?id=calculating-characteristics) peatüki "Täringuvisete jaotamise meetodit". Veeretage 4d6 ja visake madalaim täring ära, tehke seda viis korda ja jaotage tulemused JÕU, VAS, OSA, VÄG ja KAR vahele. Seejärel veeretage 3d6+6 ja visake madalaim täring kaks korda ära ning jaotage need numbrid SUU ja INT vahele. Kui kasutate Punktide ehitamise meetodit, loovad mängijad oma tegelase 90-punktilisest eelmääratud reservist.
 
 #### Atribuudid
 
-Need arvutatakse tavapäraselt, välja arvatud see, et Paragon-tegelased saavad kolm eelist, mis on valitud järgmistest (pane tähele, et eeliseid ei saa kombineerida):
+Need arvutatakse tavapäraselt, välja arvatud see, et Pulp-kangelased saavad kaks eelist, mis valitakse järgmistest (märkus: eelised ei tohi kuhjuda):
 
 - +1 Tegevuspunkt
-- +2 Õnne punkti
-- +2 Tabamispunkti igasse Tabamistsooni
-- Vastupidavuse veeretused on ühe taseme võrra lihtsamad
-- Hiilimise veeretused on ühe taseme võrra lihtsamad
-- Tahtejõu veeretused on ühe taseme võrra lihtsamad
+- +1 Õnnepunkt
+- +1 Tabamispunkt igasse tabamiskohta
+- Vastupidavuse visked on ühe astme võrra lihtsamad
+- Hiilimise visked on ühe astme võrra lihtsamad
+- Tahtejõu visked on ühe astme võrra lihtsamad
 
-Kõik Paragon-tegelased kahekordistavad oma Paranemiskiirust, kui nad kannatavad Kergete või Tõsiste haavade all, kuigi Raskete haavade puhul kasutatakse tegelase standardset Paranemiskiirust.
+Kõik Pulp-kangelased kahekordistavad oma tervenemiskiirust, kui nad kannatavad väheste või tõsiste vigastuste all, kuigi raskete vigastuste puhul toimub ravi tegelase tavalise tervenemiskiirusega.
 
 #### Oskused
 
-Paragon-tegelased saavad täiendavad 100 Boonus-oskuspunkti, mida vastavalt vajadusele jaotada.
+Pulp-kangelased saavad 50 täiendavat oskuspunkti, mida vastavalt vajadusele jaotada.
+
+### Eeskujulikud kangelased (Paragon Characters)
+
+Eeskujulikud kangelased on tipptaseme kehastused. Kui piitsa viibutav arheoloog ja litsentseeritud super-spioon on Pulp-kangelased, siis see Kimmeeria barbar, Pronksmees, Pimeda Rüütli detektiiv ja Sherlock Holmes on Eeskujulikud kangelased. Eeskujulikud kangelased pole mitte ainult ülimõjukad ühes valdkonnas: nad paistavad tavaliselt silma mitmes. Särav leidur ja füüsik, kes on ühtlasi kahe rusikaga võitlev, täpne sõjakangelane, on suurepärane näide Eeskujulikust kangelasest; miljardärist playboy kuritegevuse vastu võitleja, kes on õppinud maailma parimate detektiivide juures, on teine. Eeskujulikel kangelastel võib olla mitu ülikoolikraadi, iseseisev varandus, salapärased rahastajad ning arvukalt muid kogemusi.
+
+Seetõttu pole Eeskujulikud kangelased kõigi jaoks, kuid kui mängukeskkond nõuab tegelasi, kes suudavad muuta kogu päikesesüsteemi saatust või võtta vastu mistahes väljakutse, siis Eeskujuliku taseme kampaania sobib suurepäraselt. Kuigi nii tavaliste kui ka kangelaslike kampaaniate puhul on aeg-ajalt mängus erakordselt kõrged panused, nagu rahvaste või isegi planeetide saatus, peaksid Eeskujulikud kampaaniad seda regulaarselt tegema.
+
+#### Omadused
+
+Tegelaste loomisel kasutage [Tegelaste](0002_Characters.md?id=calculating-characteristics) peatüki "Täringuvisete jaotamise meetodit". Veeretage 4d6, visates madalaim täring kuus korda ära, seejärel jaotage viis teie valitud tulemust (tavaliselt viis kõrgeimat) JÕU, VAS, OSA, VÄG ja KAR vahele. Seejärel veeretage 3d6+6, visates madalaim täring kolm korda ära ja jaotage kaks teie valitud tulemust (tavaliselt kaks kõrgeimat) SUU ja INT vahele. Kui kasutate Punktide ehitamise meetodit, loovad mängijad oma tegelase 100-punktilisest eelmääratud reservist.
+
+#### Atribuudid
+
+Need arvutatakse tavapäraselt, välja arvatud see, et Eeskujulikud kangelased saavad kolm eelist, mis valitakse järgmistest (märkus: eelised ei tohi kuhjuda):
+
+- +1 Tegevuspunkt
+- +2 Õnnepunkti
+- +2 Tabamispunkti igasse tabamiskohta
+- Vastupidavuse visked on ühe astme võrra lihtsamad
+- Hiilimise visked on ühe astme võrra lihtsamad
+- Tahtejõu visked on ühe astme võrra lihtsamad
+
+Kõik Eeskujulikud kangelased kahekordistavad oma tervenemiskiirust, kui nad kannatavad väheste või tõsiste vigastuste all, kuigi raskete vigastuste puhul toimub ravi tegelase tavalise tervenemiskiirusega.
+
+#### Oskused
+
+Eeskujulikud kangelased saavad 100 täiendavat oskuspunkti, mida vastavalt vajadusele jaotada.
 
 ---
 ## 8. samm: Kired
 
-Kiresid kasutatakse mängijate ja Mängujuhtide abistamiseks tegelase olemuse süvendamisel, tutvustades süžeekonksusid, mis põhinevad tegelase soovidel või eelarvamustel, ja aidates mängijal mõista, kes tema tegelane on, mis teda juhib jne.
+Kiresid kasutatakse mängijate ja mängujuhtide aitamiseks tegelase olemuse süvendamisel, süžeekonksude tutvustamiseks, mis põhinevad tegelase soovidel või eelarvamustel, ning aitamaks mängijal mõista, kes tema tegelane on, mis teda ajendab ja nii edasi.
 
-Kirg võib olla mistahes – inimene, organisatsioon, ideaal, isegi objekt. Kiresid kirjeldatakse tavaliselt tegusõnaga, nagu: Soov, Põlastus, Hävitamine, Toetamine, Hirm, Põgenemine, Loobumine, Viha, Armastus, Lojaalsus, Kaitse, Tagasilükkamine, Austus, Otsimine, Õõnestamine, Piinamine või Kinnipidamine.
+Kire objektiks võib olla mistahes – inimene, organisatsioon, ideaal või isegi ese. Kirgi kirjeldatakse tavaliselt tegusõnaga, näiteks: Soov, Põlgus, Hävitamine, Poolehoid, Hirm, Põgenemine, Äraütlemine, Vihkamine, Armastus, Lojaalsus, Kaitsmine, Repudieerimine, Austus, Otsimine, Õõnestamine, Piinamine või Toetamine.
 
-Kiresid mõõdetakse samamoodi nagu oskusi; need on hinnatud vahemikus 1 kuni 100 (või rohkem). Kirge saab parandada samamoodi nagu oskust, või saab seda kohtunik sõltuvalt asjaoludest suurendada või vähendada.
+Kiresid mõõdetakse samamoodi nagu oskusi; nende väärtus on 1 ja 100 (või kõrgem) vahel. Kire väärtust saab tõsta samamoodi nagu oskusi või saab kohtunik seda vastavalt asjaoludele suurendada või vähendada.
 
-Algajad tegelased võivad alustada kuni kolme Kirega, millest igaüks põhineb kahel Omadusel, boonusega +40 esimesele, +30 teisele ja +20 kolmandale – mängija otsustab tähtsuse järjekorra. Need võivad olla seotud tema kultuuri, ameti või isiklike veidrustega. Näiteks Sword & Sorcery kampaanias võib tegelane võtta: Viha (Stygians), Ummistus (Nõiad) ja Soov (Alkohol); samas kui düstoopilises Sci-Fi mängus võib tegelane valida selle asemel Lojaalsus (President), Hävitamine (Tulnukad) ja Kinnipidamine (seadusega).
-
-#### Kirgede tabel
+Algajad tegelased võivad alustada kuni kolme kirega, millest igaüks põhineb kahel omadusel, kusjuures esimesele lisandub +40, teisele +30 ja kolmandale +20 punkti – mängija otsustab tähtsuse järjekorra. Need võivad olla seotud tema kultuuri, elukutse või isiklike kiiksudega. Näiteks Sword & Sorcery kampaanias võib tegelane valida: Vihkamine (Stüygid), Umbusaldus (Maagid) ja Soov (Alkohol); samas düstoopilises ulmemängus võib tegelane valida hoopis Lojaalsus (President), Hävitamine (Tulnukad) ja Toetamine (Seadus).#### Kire tabel
 
 | Kire objekt | Algprotsent |
 | :-- | :-- |
-| Inimene romantilises või perekondlikus kontekstis | POW+CHA |
-| Organisatsioon või inimeste grupp | POW+INT |
-| Rass või liik | Tegelase POW x2 |
-| Koht | Tegelase POW+INT |
-| Objekt või aine | Tegelase POW x2 |
-| Isiksuseomadus | Tegelase POW+CHA |
+| Isik, romantilises või perekondlikus kontekstis | VÄG+KAR |
+| Organisatsioon või inimrühm | VÄG+INT |
+| Rass või liik | Tegelase VÄG x2 |
+| Koht | Tegelase VÄG+INT |
+| Ese või aine | Tegelase VÄG x2 |
+| Isikuomadus | Tegelase VÄG+KAR |
 
 ### Kirgede kasutamine
 
-Kirg on mistahes sügavalt juurdunud pühendumus, millel on võime mõjutada sündmusi mängu ajal. Kuigi neid saab kasutada eraldiseisvate Võimetena (nimetada neid oskusteks on neile ülekohus), on Kired allpool edasi laiendatud, et selgitada üksikasjalikumalt, kuidas nad töötavad ja kuidas nad saavad mõjutada _Mythras Imperative'_i tegelasi ja kampaaniaid.
+Kireks nimetatakse mis tahes sügavalt juurdunud pühendumust, mis suudab mängu jooksul sündmusi mõjutada. Kuigi neid saab kasutada eraldiseisvate võimetena (nende nimetamine oskusteks on neile teenimatult madal hinnang), on Kirgi allpool laiendatud, et selgitada üksikasjalikumalt, kuidas need toimivad ja kuidas need võivad mõjutada *Mythras* *Imperative'i* tegelasi ja kampaaniaid.
 
-Kokkuvõtteks võib Kiresid kasutada järgmiselt:
+Kokkuvõtteks saab Kirgi kasutada järgmiselt:
 
-- Teise oskuse täiendamiseks, peegeldades oma tunnete sügavust ja seda, kuidas see juhib tegevust. Kui seda kasutatakse selles kontekstis, lisab Kirg 20% oma väärtusest kasutatavale oskusele, kui täiendamine on temaatiliselt ja dramaatiliselt oluline.
-- Võimena valikute, soovide ning emotsionaalsete tegude ja reaktsioonide suunamiseks. Kui seda kasutatakse sel viisil, tehakse Standardveeretus Kire vastu, et teha kindlaks, kui tugevalt tegelane millestki mõtleb ja tunneb. Kui veeretus on Edukas, siis tegutseb tegelane vastavalt sellele, mida Kirg dikteeriks. Kui veeretus Ebaõnnestub, saab tegelane vabalt tegutseda, tundmata end Kire ajenditest piiratuna.
-- Teiste Kirgede vastustamiseks – isegi nende puhul, mida hoiab sama tegelane. Seda kasutatakse tavaliselt siis, kui kaks Kirge võivad vastuollu minna. Näiteks võib isiklik armastus dikteerida tegevuskäigu, mis oleks vastuolus Vande või Lojaalsusega. Siin kasutage Vastandatud veeremist kahe Kire vahel, kusjuures edukam määrab, kuidas tegelane tegutseb.
-- Pühendumuse, veendumuse ja lojaalsuse sügavuse üldmõõduna. Mida kõrgem on Kire väärtus, seda pühendunum tegelane on. Sarnaste Kirgedega tegelased saavad võrrelda oma hinnanguid, et teha kindlaks, kes väljendab sügavamat pühendumust.
-- Teatud tüüpi psühholoogilisele manipulatsioonile või maagilisele domineerimisele vastuseismiseks. Teatud juhtudel, kui tegelast sunnitakse tegema tegu, mis on vastuolus tema Kirgedega, võivad nad Vastandatud veeremises asendada Kire Tahtejõuga.
+- Teise oskuse võimendamiseks, peegeldades tunnete sügavust ja seda, kuidas need tegutsemist suunavad. Kui Kiret kasutatakse selles tähenduses, lisab see 20% oma väärtusest kasutatavale oskusele, kui võimendus on temaatiliselt ja dramaatiliselt oluline.
+- Võimena, mis suunab valikuid, soove ning emotsionaalseid toiminguid ja reaktsioone. Sel juhul tehakse Kire vastu standardne täringuheide, et määrata, kui tugevalt tegelane millestki arvab või mida tunneb. Kui heide on edukas, tegutseb tegelane kooskõlas sellega, mida Kire ette kirjutab. Kui heide ebaõnnestub, võib tegelane vabalt tegutseda, tundmata end Kire ajenditest piiratuna.
+- Teiste Kirede vastustamiseks – isegi nende, mida sama tegelane hoiab. Seda kasutatakse tavaliselt juhul, kui kaks Kiret on omavahel vastuolus. Näiteks võib isiklik armastus dikteerida tegevussuuna, mis on vastuolus Vande või Lojaalsusega. Siinkohal kasutatakse kahe Kire vahelist vastandatud heidet, kus edukam määrab, kuidas tegelane käitub.
+- Üldise pühendumuse, veendumuse ja truuduse mõõdupuuna mingile eesmärgile. Mida kõrgem on Kire väärtus, seda pühendunum tegelane on. Sarnaste Kirgedega tegelased saavad oma hinnanguid võrrelda, et teha kindlaks, kes väljendab sügavamat pühendumust.
+- Psühholoogilise manipulatsiooni või maagilise domineerimise vormidele vastupanu osutamiseks. Teatud juhtudel, kui tegelast sunnitakse tegema oma Kirgedega vastuolus olevaid tegusid, võib ta vastandatud heites asendada tahtejõu vastava Kirega.
 
-Uusi Kiresid saab arendada mistahes hetkel mänguseansi jooksul, kui asjaolud seda õigustavad. Võib hetkega arendada 'Viha X vastu', kus keegi teine teeb midagi, mis kutsuks esile tugeva viha. Isand või pealik, kes nõuab Vannet, kehtestaks kohe 'Lojaalsuse X vastu' Kire, niipea kui see Vanne on antud.
+Uusi Kirgi võib mängusessiooni ajal arendada igal ajal, kui asjaolud seda nõuavad. Keegi võib hetkega arendada "Vihkamine X vastu", kui keegi teine teeb midagi, mis kutsub esile tugeva vihatunde. Isand või pealik, kes nõuab Vannet, kehtestab kohe Kire "Lojaalsus X-ile", niipea kui see Vanne on antud või vannutud.
 
-Sellisel viisil mängu jooksul arendatud uued Kired ei maksa Kogemusveeretusi ja kehtestatakse sealsamas. Muidugi saavad tegelased valida ka Kire kehtestamise paranemise käigus, makstes Kogemusveeretuse, et saada Kirg selle baasväärtusega.
+Mängu ajal sel viisil arendatud uued Kired ei maksa kogemuspunkte ja need kehtestatakse sealsamas. Muidugi võivad tegelased valida Kire kehtestamise ka arendamise käigus, makstes kogemuspunkti, et saada Kire baasväärtusega.
 
 ### Süvenemine ja vaibumine
 
-Kired võivad mängu jooksul suureneda sõltumatult Kogemusveeretustest, tuginedes selle tugevusele, mis põhjustas suurenemise. Samuti võivad nad vaibuda ja teevadki seda. Sügavalt juurdunud veendumust võib kõigutada paljude asjadega, mis viib Kire kas vähenemiseni või äärmuslikematel juhtudel täieliku pöördumiseni.
+Kired võivad mängu jooksul suureneda sõltumata kogemuspunktidest, sõltuvalt selle põhjustanud sündmuse tugevusest. Samuti võivad need vaibuda ja teevad seda sageli. Tugevalt hoitud veendumust võivad kõigutada paljud asjad, mis viib Kire vähenemise või äärmuslikematel juhtudel täieliku vastupidiseks muutumiseni.
 
-Näiteks tegelane, kellel on 'Usaldus Pealiku vastu', võib, kui tema pealik käitub reetlikult, kas vähendada oma Kirge või muuta selle 'Ummistuseks Pealiku vastu' sama protsendimääraga. Mängujuht peab otsustama, kas Kirg väheneb või pöördub. Kui see väheneb, siis teeb ta seda vastavalt muutuse allika tugevusele.
+Näiteks võib tegelane, kellel on "Usaldus pealiku vastu", juhul kui tema pealik käitub reetlikult, kas oma Kiret vähendada või muuta selle "Uskumatus pealiku vastu" samal protsendil. Mängujuht peab otsustama, kas Kire väheneb või pöördub vastupidiseks. Kui see väheneb, siis teeb ta seda vastavalt muutuse allika tugevusele.
 
-Süvenemise ja vaibumise tabel näitab, kui palju Kirg muutub.
+Süvenemise ja vaibumise tabel näitab, kui palju Kire muutub.
 
 #### Süvenemise ja vaibumise tabel
 
-| Muutuse sügavus | Kirg muudetud... |
+| Muutuse sügavus | Kire muutmise määr |
 | --- | --- |
 | Nõrk | 1d10 |
 | Mõõdukas | 1d10+5 |
@@ -505,11 +506,11 @@ Süvenemise ja vaibumise tabel näitab, kui palju Kirg muutub.
 ---
 ## 9. samm: Varustus
 
-Nüüd, kui tegelane on peaaegu valmis, vajab ta mõningaid tööriistu. See võib sisaldada relvi, raudrüüd või muud olulist atribuutikat, mida kasutatakse kindla ameti puhul. Seikluse ajal on palju võimalusi varustuse juurde saamiseks, kuid igal alustaval tegelasel on koheselt valduses järgmine:
+Nüüd, kui tegelane on peaaegu valmis, vajab ta varustust. See võib sisaldada relvi, soomust või muid olulisi tööriistu, mida kasutatakse konkreetses elukutses. Seikluse ajal on palju võimalusi varustuse juurde saamiseks, kuid igal alustaval tegelasel on kohe olemas järgmine:
 
-- Tegelase ametile ja taustale sobiv riietus.
+- Tegelase elukutsele ja keskkonnale vastav riietuskomplekt.
 - Taskuraha summa; piisav, et elada mõnda aega ilma raskusteta.
-- Isiklik pärandvara, mälestusese või mõni tühise väärtusega vidin.
-- Kõik tegelase ametile sobivad tööriistad või transporditav varustus, kui see on asjakohane.
-- Iga isiklik relv tegelase Võitlusstiili jaoks.
-- Muud esemed, mis on asjakohased taustale ja alluvad GM-i heakskiidule.
+- Isiklik pärandese, mälestusese või mõni muu vähese suhtelise väärtusega vidin.
+- Kõik tegelase elukutsele sobivad tööriistad või transporditav varustus, kui see on asjakohane.
+- Iga isiklik relv tegelase võitlusstiili jaoks.
+- Muud esemed vastavalt keskkonnale ja mängujuhi heakskiidule.

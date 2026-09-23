@@ -1,91 +1,91 @@
 # Hahmot
 
-Jokainen _Mythras Imperative_ -pelin pelaaja ohjaa hahmoa. Hahmo on pelaajan alter ego, ja se on yleensä hyvin erilainen niin fyysisesti kuin henkisestikin kuin pelaaja itse. Hahmot voivat olla peräisin useista eri roduista, riippuen pelin asetelmasta; historiallisessa asetelmassa mukana on vain ihmisiä, kun taas fantasiamaailmassa voi olla kääpiöitä, haltioita tai jopa liskomiehiä. Perushahmo määritellään sarjalla eri elementtejä, jotka kuvaavat hahmon kykyjä. Nämä elementit ovat:
+Jokainen _Mythras Imperative_ -pelin pelaaja hallitsee hahmoa. Hahmo on pelaajan alter ego, ja se on yleensä hyvin erilainen niin fyysisesti kuin henkisestikin kuin pelaaja itse. Hahmot voivat olla peräisin useista eri roduista, riippuen pelin maailmasta; historiallinen ympäristö voisi sisältää vain ihmisiä, kun taas fantasiaympäristö voisi sisältää kääpiöitä, haltioita ja jopa liskoihmisiä. Perushahmo määritellään useilla eri elementeillä, jotka kuvaavat hahmon kyvykkyyksiä. Nämä elementit ovat:
 
-- **Ominaisuudet (Characteristics):** kuten Voima tai Karisma
+- **Ominaisuudet (Characteristics):** kuten VOI tai KAR
 - **Attribuutit (Attributes):** asioita kuten Pituus tai Liikkuminen
-- **Taidot (Skills):** asiantuntemus perustavanlaatuisissa kyvyissä
+- **Taidot (Skills):** peruskyvykkyyden taso
 
-Suurin osa näistä elementeistä kuvataan numeroina, ja jotkut ovat riippuvaisia muista tai muiden laskemia. Se, mitä kukin elementti tarkoittaa ja miten ne määritetään, kuvataan seuraavissa osioissa.
+Useimmat näistä elementeistä kuvataan numeroin, ja jotkut niistä ovat riippuvaisia muista tai muiden laskemia. Mitä kukin elementti tarkoittaa ja miten ne määritetään, kuvataan seuraavissa osioissa.
 
 ---
 ## Vaihe 1: Hahmon konsepti
 
-Hyvä tapa aloittaa on muodostaa jonkinlainen käsitys siitä, millaista hahmoa haluat pelata: kenties ovela soturi tai juonikas salakuljettaja. Ehkä suosit oppinutta akateemikkoa tai viisasta taikuria. Hahmokonseptisi ei tarvitse olla tässä vaiheessa monimutkainen; riittää idea, joka auttaa ohjaamaan tiettyjä valintoja, kuten kulttuuria ja uraa.
+Hyvä paikka aloittaa on jonkinlainen ajatus siitä, millaista hahmoa haluat pelata: kenties viekas soturi tai ovela salakuljettaja. Ehkä suosit opiskellutta akateemikkoa tai viisasta taikuria. Hahmon konseptin ei tarvitse olla monimutkainen tässä vaiheessa; pelkkä ajatus, joka auttaa ohjaamaan tiettyjä valintoja, kuten Kulttuuria ja Uraa, riittää.
 
 ---
 ## Vaihe 2: Ominaisuudet
 
-Jokainen määritellään seitsemän ominaisuuden avulla, jotka kertovat jotain hahmostasi; kuinka vahva tai nopea hän on; kuinka älykäs tai terve hän on. Ominaisuudet ovat jokaisen _Mythras Imperative_ -hahmon ytimessä ja muodostavat perustan useimmille muille elementeille, kuten attribuuteille ja taidoille. Seitsemän ominaisuutta ovat:
+Jokainen hahmo määritellään seitsemän Ominaisuuden kautta, jotka kertovat jotain hahmostasi; kuinka vahva tai nopea hän on; kuinka älykäs tai terve. Ominaisuudet ovat jokaisen _Mythras Imperative_ -hahmon ytimessä ja muodostavat perustan useimmille muille elementeille, kuten Attribuuteille ja Taidoille. Seitsemän Ominaisuutta ovat:
 
-- Voima (STR)
-- Kunto (CON)
-- Koko (SIZ)
-- Ketteryys (DEX)
-- Älykkyys (INT)
-- Voima (POW)
-- Karisma (CHA)
+- Voima (VOI)
+- Kestävyys (KES)
+- Koko (KOK)
+- Ketteryys (KET)
+- Älykkyys (ÄLY)
+- Mahti (MAH)
+- Karisma (KAR)
 
-Ennen ominaisuuksien laskemista seuraava osio selittää, mitä kukin niistä edustaa.
+Ennen Ominaisuuksien laskemista seuraava osio selittää, mitä kukin edustaa.
 
-#### Voima (STR)
+#### Voima (VOI)
 
-STR edustaa fyysistä voimaa: kuinka paljon hahmo voi nostaa, kuinka kovaa hän voi lyödä, ja niin edelleen. STR on vahinkomuokkaimen (Damage Modifier) osa. Jos hahmon STR laskee nollaan, hän menettää kykynsä liikkua tai nostaa esineitä.
+VOI edustaa fyysistä voimaa: kuinka paljon hahmo voi nostaa, kuinka kovaa hän voi lyödä, ja niin edelleen. VOI on osa Vahinkomuuttujaa. Jos hahmon VOI laskee nollaan, hän menettää kykynsä liikkua tai nostaa esineitä.
 
-#### Kunto (CON)
+#### Kestävyys (KES)
 
-CON on terveyden ja kestävyyden mitta. CON on osa osumapisteiden (Hit Points) ja parantumisnopeuden (Healing Rate) määrittämistä. Jos CON putoaa nollaan mistä tahansa syystä, hahmo kuolee.
+KES on terveyden ja sitkeyden mittari. KES on tekijä määritettäessä Osumapisteitä ja Parantumisnopeutta. Jos KES laskee nollaan mistä tahansa syystä, hahmo kuolee.
 
-#### Koko (SIZ)
+#### Koko (KOK)
 
-SIZ mittaa massaa ja auttaa osoittamaan pituuden ja painon. SIZia käytetään osumapisteiden laskemiseen, sillä suuremmilla ja painavammilla olennoilla on yleensä suurempi kestävyys vahinkoa vastaan. SIZia voidaan käyttää myös hahmon vahinkomuokkaimen määrittämiseen, sillä massa auttaa lisäämään iskun voimaa.
+KOK mittaa massaa ja auttaa osoittamaan Pituutta ja Painoa. KOKia käytetään auttamaan Osumapisteiden selvittämisessä, sillä suuremmilla ja painavammilla olennoilla on taipumus kestää vahinkoa paremmin. KOKia voidaan myös käyttää hahmon Vahinkomuuttujan määrittämiseen, koska massa auttaa lisäämään iskun voimaa.
 
-#### Ketteryys (DEX)
+#### Ketteryys (KET)
 
-Ketteryys, tasapaino ja refleksit mitataan DEXillä. Se on tärkeä osa toimintapisteitä (Action Points) ja aloitteellisuutta (Initiative). Jos hahmon DEX laskee nollaan, hän kärsii toiminnallisesta halvauksesta.
+Ketteryys, tasapaino ja refleksit mitataan KET-arvolla. Se on tärkeä osa Toimintapisteitä ja Aloitekykyä. Jos hahmon KET laskee nollaan, hän kärsii toiminnallisesta halvaantumisesta.
 
-#### Älykkyys (INT)
+#### Älykkyys (ÄLY)
 
-INT on kognitiivisen kyvyn mitta. Ne, joilla on alhaisempi INT-pistemäärä, eivät välttämättä ole tyhmiä, mutta heidän luovuutensa älyllisten haasteiden ratkaisemisessa on todennäköisesti rajoitetumpaa. INT on tekijä toimintapisteiden ja aloitteellisuuden laskennassa. Jos INT laskee nollaan, hahmosta tulee täysin mielitön.
+ÄLY on kognitiivisten kykyjen mittari. Ne, joilla on matalampi ÄLY-arvo, eivät välttämättä ole tyhmiä, mutta heidän luovuutensa älynsä käyttämisessä on todennäköisesti rajoitetumpaa. ÄLY on tekijä Toimintapisteiden ja Aloitekyvyn laskemisessa. Jos ÄLY laskee nollaan, hahmosta tulee täysin mieltön.
 
-#### Voima (POW)
+#### Mahti (MAH)
 
-POW on mitta hahmon sielulle, hengelle, sisäiselle ajovoimalle tai kyvylle käyttää taikuutta. POW hallitsee hahmon taikapisteitä (Magic Points) ja onnenpisteitä (Luck Points). Jos hahmon POW putoaa nollaan, hän menettää kaiken itsenäisen tahdon.
+MAH on hahmon sielun, hengen, sisäisen ajovoiman tai taikavoimien kapasiteetin mittari. MAH hallitsee hahmon Taikapisteitä ja Onnenpisteitä. Jos hahmon MAH laskee nollaan, hän menettää kaiken itsenäisen tahdon.
 
-#### Karisma (CHA)
+#### Karisma (KAR)
 
-Karisma on läsnäolon ja persoonallisuuden mitta, ja se on riippumaton ulkonäöstä. CHA vaikuttaa hahmon kokemusmuokkaimeen (Experience Modifier). Jos CHA putoaa nollaan, hahmo ei voi enää kommunikoida sosiaalisesti muiden kanssa, tullen niin tuskallisen ujoiksi tai antisosiaalisiksi, että heidät sivuutetaan tai jopa ajetaan pois.
+Karisma on läsnäolon ja persoonallisuuden mittari, ja se on riippumaton ulkoisesta olemuksesta. KAR vaikuttaa hahmon Kokemusmuuttujaan. Jos KAR laskee nollaan, hahmo ei voi enää olla sosiaalisessa vuorovaikutuksessa muiden kanssa, tullen niin tuskallisen ujoiksi tai antisosiaalisiksi, että heitä vältellään tai jopa karkotetaan.
 
 ---
 ### Ominaisuuksien laskeminen
 
-Jokaisella ominaisuudella on numeerinen arvo, joka määrittää sen tason. Suluissa oleva numero jokaisen nopanheiton jälkeen on rodun keskiarvo, jota käytetään mittarina arvioimaan hahmosi tuloksia verrattuna muihin lajinsa edustajiin. Ehdotuksia ominaisuuksien määrittämiseen ovat:
+Jokaisella Ominaisuudella on numeerinen arvo sen voimakkuuden määrittämiseksi. Suluissa oleva numero jokaisen nopanheiton jälkeen on rodullinen keskiarvo, jota käytetään mittarina hahmosi tulosten arvioimiseen verrattuna muihin lajinsa edustajiin. Ehdotuksia Ominaisuuksien määrittämiseksi ovat:
 
-- **Nopanheitto:** Heitä nopat STR:lle, CON:lle, SIZ:lle, DEX:lle, INT:lle, POW:lle ja CHA:lle ottamalla jokainen heitetty tulos sellaisenaan. Koska näiden heittojen tulokset voivat olla melko satunnaisia, on usein parempi päättää hahmon konseptista nopanheittojen jälkeen. Muuten lopulliset ominaisuudet voivat estää ennalta suunnitellun roolin. Heitä 3d6 STR:lle, CON:lle, DEX:lle, POW:lle ja CHA:lle; sitten 2d6+6 SIZ:lle ja INT:lle.
-- **Nopanheitto, sijoittelu:** Kuten yllä, paitsi että pelaaja voi vaihtaa arvoja sellaisten ominaisuuksien välillä, joilla on sama noppa-alue. Esimerkiksi ihmistä luotaessa pelaaja voi vaihtaa arvoja STR, CON, DEX, POW ja CHA välillä, koska ne jakavat 3d6-alueen, tai SIZ ja INT välillä, jotka jakavat 2d6+6-alueen — mutta niiden on aina oltava samasta noppa-alueen ryhmästä; et voi vaihtaa heittoja ryhmästä toiseen.
-- **Nopanheitto, korkein:** Heitä yksi ylimääräinen noppa kullekin ominaisuudelle ja poista alin tulos jokaisesta.
-- **Pisteiden jako:** Pelaajat jakavat ominaisuuspisteet ennalta määritetystä 80 pisteen poolista. Ominaisuudet eivät voi olla alhaisempia kuin minimiheittoarvo, eikä korkeampia kuin maksimi.
+- **Nopanheitto:** Heitä noppia VOI-, KES-, KOK-, KET-, ÄLY-, MAH- ja KAR-arvoille ottamalla jokainen tulos sellaisenaan. Koska näiden heittojen tulokset voivat olla melko satunnaisia, on usein parempi päättää hahmon konsepti vasta heittojen jälkeen. Muuten lopulliset Ominaisuudet voivat sulkea pois etukäteen suunnitellun roolin. Heitä 3d6 VOI-, KES-, KET-, MAH- ja KAR-arvoille; sitten 2d6+6 KOK- ja ÄLY-arvoille.
+- **Nopanheitto, sijoittelu:** Kuten yllä, paitsi että pelaaja voi vaihtaa arvoja samalla nopanheittoalueella olevien Ominaisuuksien kesken. Esimerkiksi ihmistä luotaessa pelaaja voi vaihtaa arvoja VOI-, KES-, KET-, MAH- ja KAR-arvojen välillä, koska ne jakavat 3d6-alueen, tai KOK- ja ÄLY-arvojen välillä, jotka jakavat 2d6+6-alueen – mutta niiden on aina oltava samasta nopanheittoalueen ryhmästä; heittoja ei voi siirtää ryhmästä toiseen.
+- **Nopanheitto, paras:** Heitä yksi ylimääräinen noppa kullekin VOI-, KES-, KOK-, KET-, ÄLY-, MAH- ja KAR-arvolle ja pudota jokaisesta alin tulos pois.
+- **Pisteiden jako:** Pelaajat jakavat Ominaisuusarvot ennalta määrätystä 80 pisteen poolista. Ominaisuudet eivät voi olla alhaisempia kuin minimiheiton arvo, eikä korkeampia kuin maksimiarvo.
 
 ---
 ## Vaihe 3: Attribuutit
 
-Jokaisella hahmolla on myös joukko attribuutteja. Nämä ovat ominaisuuksista johdettuja tai niiden määrittämiä kykyjä, joita käytetään hallitsemaan tiettyjä pelimekaniikan tekijöitä.
+Jokaisella hahmolla on myös joukko attribuutteja. Nämä ovat Ominaisuuksista johdettuja tai niiden määrittämiä kykyjä, joita käytetään hallitsemaan tiettyjä pelin osa-alueita.
 
-#### Toimintapisteet (Action Points)
+#### Toimintapisteet
 
-Se, kuinka usein hahmo voi toimia taistelukierroksella, määräytyy toimintapisteiden mukaan. Kaikilla _Mythras Imperative_ -hahmoilla on 2 toimintapistettä.
+Se, kuinka usein hahmo voi toimia Taistelukierroksen aikana, määräytyy Toimintapisteiden mukaan. Kaikilla _Mythras Imperative_ -hahmoilla on 2 Toimintapistettä.
 
-#### Vahinkomuokkain (Damage Modifier)
+#### Vahinkomuuttuja
 
-Suuremmat ja vahvemmat hahmot ja olennot voivat saada lisävahinkoa tietyissä tilanteissa; vastaavasti heikommat ja pienemmät hahmot voivat vähentää aiheuttamaansa vahinkoa. Vahinkomuokkainta käytetään yleensä taistelutilanteissa, mutta sitä voidaan käyttää myös esineiden rikkomiseen. Vahinkomuokkain on ylimääräinen nopanheitto, joka joko lisätään tai vähennetään aseen tai työkalun aiheuttamasta vahingosta. Jos negatiivinen vahinkomuokkain laskee aseen vahingon nollaan tai alle, vahinkoa ei aiheuteta lainkaan.
+Suuremmat ja vahvemmat hahmot ja olennot voivat saada lisävahinkoa tietyissä tilanteissa; toisaalta heikommat ja pienemmät hahmot saattavat vähentää aiheuttamaansa vahinkoa. Vahinkomuuttujaa käytetään yleensä taistelutilanteissa, mutta sitä voidaan käyttää myös yritettäessä rikkoa esineitä. Vahinkomuuttuja on ylimääräinen nopanheitto, joka joko lisätään tai vähennetään aseen tai työkalun aiheuttamasta vahingosta. Jos negatiivinen Vahinkomuuttuja vie aseen vahingon nollaan tai sen alle, vahinkoa ei aiheuteta lainkaan.
 
-Laske STR ja SIZ yhteen ja katso vahinkomuokkaintaulukosta alla.
+Laske yhteen VOI ja KOK ja katso Vahinkomuuttuja-taulukkoa alta.
 
-##### Vahinkomuokkaintaulukko
+##### Vahinkomuuttuja-taulukko
 
-| STR+SIZ | Vahinkomuokkain |
+| VOI+KOK | Vahinkomuuttuja |
 | :-: | :-:|
-| 5 tai alle | –1d8 |
+| 5 tai vähemmän | –1d8 |
 | 6–10 | –1d6 |
 | 11–15 | –1d4 |
 | 16–20 | –1d2 |
@@ -102,250 +102,248 @@ Laske STR ja SIZ yhteen ja katso vahinkomuokkaintaulukosta alla.
 | 91–100 | +1d10+1d8 |
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
-| Joka 10 pistettä | Jatka progressiota |
+| Joka 10 pistettä | Jatka edistymistä |
 
-#### Kokemusmuokkain (Experience Modifier)
+#### Kokemusmuuttuja
 
-Pelin aikana hahmot kehittävät taitojaan ja kykyjään. Tämä saavutetaan käyttämällä kokemusheittoja, jotka selitetään tarkemmin [Pelijärjestelmä](0004_Game_System.md?id=experience-rolls) -osiossa.
+Pelin kuluessa hahmot parantavat taitojaan ja kykyjään. Tämä saavutetaan käyttämällä Kokemusheittoja, jotka selitetään tarkemmin [Pelijärjestelmä](0004_Game_System.md?id=experience-rolls) -osiossa.
 
-Hahmon CHA-arvo voi säätää hahmon saamien kokemusheittojen määrää, heijastaen heidän suhdettaan ikätovereihinsa ja mainettaan yhteisössä. Korkealla CHA-arvolla ihmiset ovat halukkaita auttamaan hahmon kouluttamisessa tai tukemisessa. Vastaavasti erityisen alhaisella CHA-arvolla omien kykyjen kehittäminen ilman muiden apua voi olla vaikeaa; esimerkiksi sparrauskumppanin löytäminen.
+Hahmon KAR-arvo voi muuttaa hahmon saamien Kokemusheittojen määrää, heijastaen heidän suhdettaan ikätovereihinsa ja mainettaan yhteisössä. Korkealla KAR-arvolla ihmiset ovat halukkaita auttamaan hahmon koulutuksessa tai tukemaan häntä opetuksen aikana. Toisaalta, erityisen matalalla KAR-arvolla omien kykyjen parantaminen ilman muiden apua voi olla vaikeaa; esimerkiksi sparrausvastustajan löytäminen.
 
-##### Kokemusmuokkaintaulukko
+##### Kokemusmuuttuja-taulukko
 
-| CHA | Kok.muokkain |
+| KAR | Kokemusmuuttuja |
 |:-:| :-:|
-| 6 tai alle | -1 |
+| 6 tai vähemmän | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
 | Joka 6 pistettä | +1 |
 
-#### Parantumisnopeus (Healing Rate)
+#### Parantumisnopeus
 
-Loukkaantumisten jälkeen hahmon on toivuttava. Parantumisnopeus määrittää, kuinka nopeasti hän toipuu luonnollisesti haavoista. Vamman vakavuudesta riippuen parantumisnopeus osoittaa, kuinka monta osumapistettä palautuu päivässä, viikossa tai kuukaudessa.
+Saatuaan vammoja hahmon on toivuttava. Parantumisnopeus määrittää, kuinka nopeasti hän toipuu haavoista luonnollisesti. Riippuen vamman vakavuudesta, Parantumisnopeus osoittaa, kuinka monta Osumapistettä hahmo palauttaa päivässä, viikossa tai kuukaudessa.
 
-##### Parantumisnopeustaulukko
+##### Parantumisnopeus-taulukko
 
-| CON | Parantumisnopeus |
+| KES | Parantumisnopeus |
 | :-:| :-:|
-| 6 tai alle | 1 |
+| 6 tai vähemmän | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Joka 6 pistettä | +1 |
 
-#### Osumapisteet (Hit Points)
+#### Osumapisteet
 
-Osumapisteet edustavat sitä, kuinka paljon vauriota kehon alue voi kestää ennen kuin se muuttuu hyödyttömäksi, mikä voi johtaa toimintakyvyttömyyteen ja lopulta hahmon kuolemaan. Jokaisen olennon keho on jaettu erillisiin osiin – ihmisillä on esimerkiksi seitsemän: pää, rintakehä, vatsa, käsivarret ja jalat – joilla jokaisella on omat osumapisteet.
+Osumapisteet edustavat sitä, kuinka paljon vaurioita kehon alue kestää ennen kuin se tulee hyödyttömäksi, mikä saattaa johtaa toimintakyvyttömyyteen ja lopulta hahmon kuolemaan. Jokaisen olennon keho on jaettu erillisiin sijainteihin – ihmisillä on esimerkiksi seitsemän: pää, rintakehä, vatsa, kädet ja jalat – jokaisella sijainnilla on omat Osumapisteensä.
 
-Joillakin olennoilla, kuten hirviöillä tai muilla eläinlajeilla, on luonnostaan radikaalisti erilaiset kehon rakenteet, mutta silti jokaisella niiden kehonosalla on osumapisteet. Kun kehonosan osumapisteet laskevat tietylle tasolle vaurioiden vuoksi, hahmo kärsii tietyistä seurauksista, jotka heijastavat vamman vakavuutta. Lisätietoja haavoista on [Vahinko ja haavatason](0004_Game_System.md?id=damage-and-wound-levels) osiossa.
+Joillakin olennoilla, kuten hirviöillä tai muilla eläinluokilla, on luonnostaan radikaalisti erilaiset kehon rakenteet, mutta silti jokaisella niiden omistamalla sijainnilla on Osumapisteet. Kun sijainnin Osumapisteet laskevat tietylle tasolle minkä tahansa vaurion seurauksena, hahmo kärsii tietyistä seurauksista, jotka heijastavat vamman vakavuutta. Lisätietoja haavoista on [Vahinko ja haavatasot](0004_Game_System.md?id=damage-and-wound-levels) -osiossa.
 
-Laskeaksesi kunkin kehonosan osumapisteet, laske yhteen CON ja SIZ ja katso tulos osumapistetaulukosta yllä.
+Laskeaksesi kunkin sijainnin Osumapisteet, laske yhteen KES ja KOK ja katso tulos yllä olevasta Osumapisteet-taulukosta.
 
-##### Osumapisteet per kehonosa
+##### Osumapisteet sijainneittain
 
-| Kehonosa | CON+SIZ |  |  |  |  |  |  |  |  |
+| Sijainti | KES+KOK |  |  |  |  |  |  |  |  |
 | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:|
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Pää | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Rintakehä | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Vatsa | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Käsivarsi | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Jalka | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Kukin käsi | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Kukin jalka | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
-#### Aloitteellisuus (Initiative)
+#### Aloitekyky
 
-Hetki, jolloin joku reagoi taistelussa, määräytyy aloitteellisuuden mukaan. Aloitteellisuus toimii muokkaimena aloitteellisuusheittoihin; mitä korkeampi aloitteellisuus, sitä nopeammin hahmo reagoi taistelutilanteessa määrittäen, milloin voit toimia. Muut tekijät – kuten haarniska – muokkaavat sitä. [Taistelu](0005_Combat.md?id=combat-style) -luku käsittelee tarkemmin, miten aloitteellisuutta käytetään.
+Hetkeä, jolloin joku reagoi taistelussa, hallitsee Aloitekyky. Aloitekyky toimii muuttujana Aloiteheitoissa; mitä korkeampi Aloitekyky, sitä nopeammin hahmo vastaa taistelutilanteessa, määrittäen milloin voit toimia. Muut tekijät – kuten panssari – muokkaavat sitä. [Taistelu](0005_Combat.md?id=combat-styles) -luku käsittelee tarkemmin, miten Aloitekykyä käytetään.
 
-Aloitteellisuus on DEX- ja INT-ominaisuuksien keskiarvo.
+Aloitekyky on KET- ja ÄLY-ominaisuuksien keskiarvo.
 
-#### Onnenpisteet (Luck Points)
+#### Onnenpisteet
 
-Onnenpisteet edustavat sitä outoa voimaa, joka erottaa seikkailijasankarit tavallisista ihmisistä. Kutsu sitä kohtaloksi, karmaksi tai yksinkertaiseksi hyväksi onneksi. Onnenpisteitä voidaan käyttää:
+Onnenpisteet edustavat sitä kummallista voimaa, joka erottaa seikkailusankarit tavallisista ihmisistä. Kutsu sitä kohtaloksi, karmaksi tai yksinkertaisesti hyväksi onneksi. Onnenpisteitä voidaan käyttää:
 
 - Heittämään nopat uudelleen, jos tulos on epäsuotuisa.
-- Lieventämään fyysistä vahinkoa tai muita epäonnisia olosuhteita.
+- Lieventämään fyysisiä vaurioita tai muita epäonnisia olosuhteita.
 - Saamaan etulyöntiasema taistelun kriittisellä hetkellä.
 
-Tarkka tapa ja ajoitus niiden käyttöön kuvataan [Pelijärjestelmä](0004_Game_System.md?id=game-system) -osiossa. Kun onnenpiste on käytetty, pooli pienenee; kun onnenpisteet loppuvat, niitä ei ole saatavilla lisää – ellei pelinjohtaja tee improvisoitua palkintoa – ennen seuraavaa peli-istuntoa, jolloin ne palautuvat normaalille tasolleen.
+Tarkalleen miten niitä käytetään ja milloin, on kuvattu [Pelijärjestelmä](0004_Game_System.md?id=game-system) -osiossa. Kun Onnenpiste on käytetty, pooli pienenee; kun Onnenpisteet loppuvat, niitä ei ole käytettävissä – ellei Pelinjohtaja tee erityistä palkintoa – ennen seuraavaa peli-istuntoa, jolloin ne palautuvat normaalille tasolleen.
 
-##### Onnenpistetaulukko
+##### Onnenpisteet-taulukko
 
-| POW | Onnenpisteet |
+| MAH | Onnenpisteet |
 | :-- | :-: |
-| 6 tai alle | 1 |
+| 6 tai vähemmän | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | Joka 6 pistettä | +1 |
 
-#### Taikapisteet (Magic Points)
+#### Taikapisteet
 
-_Mythras Imperative_ -pelissä käytettävät mystiset kyvyt, voimat ja loitsut luottavat yleensä taikapisteisiin. Koska taikuuden saatavuus voi olla kampanja-asetelmassa rajoitettua tai sidottu tiettyihin taikuri-ammatteihin, joillekin hahmoille tämä attribuutti voi olla tarpeeton.
+Mystiset kyvyt, voimat ja loitsut, joita käytetään _Mythras Imperative_ -pelissä, perustuvat yleensä Taikapisteisiin. Koska taian saatavuutta voidaan rajoittaa kampanjaympäristön tai erityisten maagisten ammattien mukaan, jotkut hahmot saattavat pitää tätä Attribuuttia tarpeettomana.
 
-Niille, jotka voivat käyttää tällaisia voimia, hahmon taikapisteet ovat yhtä suuret kuin heidän POW-arvonsa. Näitä pisteitä käytetään loitsujen heittämiseen, joiden kustannus riippuu käytetyn taikuuden tyypistä. Kun loitsijalta loppuvat taikapisteet, hän on kuluttanut kykynsä heittää loitsuja, kunnes taikapisteet palautuvat.
+Niille, jotka voivat käyttää tällaisia voimia, hahmon Taikapisteet ovat yhtä suuret kuin heidän MAH-arvonsa. Näitä pisteitä käytetään loitsimiseen, jonka kustannus riippuu käytetyn taian tyypistä. Kun loitsijalta loppuvat Taikapisteet, he ovat kuluttaneet kykynsä loitsia, kunnes Taikapisteet palautuvat.
 
-#### Liikkumisnopeus (Movement Rate)
+#### Liikkumisnopeus
 
-Jokaisella olennolla on liikkumisnopeus – metrimäärä, joka voidaan kulkea tietyn ajan kuluessa. Liikkumista ei lasketa ominaisuuksista, vaan se on lajikohtainen oletusarvo. Ihmisten perusliikkumisnopeus on 6 metriä.
+Jokaisella olennolla on Liikkumisnopeus – määrä metrejä, jotka voidaan kulkea tietyn ajanjakson aikana. Liikkumista ei lasketa Ominaisuuksista, vaan se on oletusarvo, joka vaihtelee lajista toiseen. Ihmisten perusliikkumisnopeus on 6 metriä.
 
-Kävelyä nopeammat askellajit käyttävät kerrointa liikkumisnopeuteen:
-- **Juoksu:** Liikkuminen x3
-- **Sprintti:** Liikkuminen x5
+Kävelyä nopeammat askellajit käyttävät Liikkumisnopeuteen kerrointa:
+- **Juoksu:** Liike x3
+- **Sprintti:** Liike x5
 
 <details>
 
-<summary>* Yhteisön korjaukset (Community Errata)</summary>
+<summary>* Yhteisön korjaukset</summary>
 
 _**Askellajit: Kävely, Juoksu, Sprintti**_
 
-_Julkaistussa _Mythras Imperative_ -versiossa ei ole selkeitä sääntöjä eri askellajeilla liikkumiseen, vaikka ne on käsitelty Mythras-pääsääntökirjassa. Yllä olevat askellajikertoimet on lisätty osana yhteisön korjauksia._
+_Julkaistussa Mythras Imperative -versiossa ei ole selkeitä sääntöjä eri askellajeilla liikkumiseen, vaikka ne käsitellään Mythras-pääsääntökirjassa. Yllä olevat askellajien kertoimet on lisätty osana Yhteisön korjauksia._
 
 _Tarvittaessa askellajeja tulisi kohdella seuraavasti:_
 
-- _Kävelyä nopeammat askellajit käyttävät kerrointa liikkumisnopeuteen: 3x Juoksulle, 5x Sprintille._
-- _Juoksu- tai Sprintti-askellajin aikana hahmot eivät voi yrittää useimpia proaktiivisia toimintoja, kuten hyökkäämistä tai loitsujen heittämistä. Poikkeuksia ovat mm..._
-  - _Hyökkäykset rynnäkkösääntöjä käytettäessä._
-  - _Kaukotaisteluaseiden käyttö Skirmishing-piirteen avulla._
-- _Yleissääntönä kaikkia sallittuja toimintoja tulisi kohdella yhdellä asteella vaikeampina suorittaa Juoksussa ja kahdella asteella vaikeampina Sprintissä._
+- _Kävelyä nopeammat askellajit käyttävät Liikkumisnopeuteen kerrointa: 3x Juoksulle, 5x Sprintille._
+- _Juoksun tai Sprintin aikana hahmot eivät voi yrittää useimpia proaktiivisia toimintoja, kuten hyökkäämistä tai loitsimista. Joitakin poikkeuksia ovat..._
+  - _Hyökkäykset, kun käytetään Ryntäys-sääntöjä._
+  - _Etäaseiden ampuminen Skirmishing-piirteen avulla._
+- _Yleissääntönä kaikkien sallittujen toimintojen tulisi olla yhden asteen vaikeampia suorittaa Juoksussa ja kaksi astetta vaikeampia Sprintissä._
 
 </details>
 
 ---
 ## Vaihe 4: Taidot
 
-Taidot jaetaan kahteen luokkaan. Jokaisella on standarditaitoja – asioita kuten hiipiminen tai muihin vaikuttaminen. Ammattitaidot taas vaativat erityistä koulutusta ennen kuin niitä voi kokeilla – asioita kuten villieläinten jäljittäminen, avaruusaluksen ohjaaminen tai muinaisten kielten ymmärtäminen. Hahmoille annetaan kolme pistepoolia, joita käyttää taitojen hankkimiseen; ensimmäinen pooli kulttuurille, jossa he kasvoivat, toinen uralle, jonka he omaksuvat lapsuuden jälkeen, ja viimeinen taitovalikoiman täydentämiseen. Oletuksena uudet hahmot jakavat 100 pistettä kulttuurin taitopooliin, 100 uralle ja 150 bonuspistettä täydentämiseen. Jokaisella kulttuurilla ja uralla on määritelty valikoima standardi- ja ammattitaitoja, joihin nämä taitopisteet voidaan sijoittaa.
+Taidot jakautuvat kahteen luokkaan. Jokaisella on Perustaidot – asioita kuten hiipiminen tai muihin vaikuttaminen. Ammattitaidot taas vaativat erityistä koulutusta ennen kuin niitä voidaan yrittää – asioita kuten villieläinten jäljittäminen, avaruusalusten ohjaaminen tai muinaisten kielten ymmärtäminen. Hahmoille annetaan kolme pistepoolia, joita voi käyttää taitojen hankkimiseen; ensimmäinen pooli Kulttuurille, jossa he kasvoivat, toinen Uralle, jonka he omaksuvat lapsuuden jälkeen, ja viimeinen taitovalikoiman täydentämiseen. Oletuksena uudet hahmot sijoittavat 100 pistettä Kulttuurin taitopooliin, 100 Uran taitopooliin ja 150 Bonuspistettä täydentämiseen. Jokaisella Kulttuurilla ja Uralla on määritelty valikoima perus- ja ammattitaitoja, joihin nämä taitopisteet voidaan sijoittaa.
 
-##### Taistelutyyli (Combat Style)
+##### Taistelutyyli
 
-Taistelutyyli on listattu seuraavissa kulttuurikuvauksissa. Taistelutyylit on selitetty tarkemmin [Taistelu](0005_Combat.md?id=combat-style) -osiossa, ja niiden perusprosentti on STR+DEX.
+Taistelutyyli on listattu seuraavissa Kulttuurikuvauksissa. Taistelutyylit selitetään tarkemmin [Taistelu](0005_Combat.md?id=combat-styles) -osiossa, ja niiden Perusprosentti on VOI+KET.
 
-##### Standarditaidot
+##### Perustaidot
 
 | Taito | Perusprosentti |
 | :-- | :-- |
-| Yleisurheilu (Athletics) | STR+DEX |
-| Veneily (Boating) | STR+CON |
-| Voimailu (Brawn) | STR+SIZ |
-| Kätkeminen (Conceal) | DEX+POW |
-| Tavat (Customs) | INT x2, +40\* |
-| Tanssi (Dance) | DEX+CHA |
-| Petos (Deceit) | INT+CHA |
-| Ajo (Drive) | DEX+POW |
-| Kestävyys (Endurance) | CON x2 |
-| Väistäminen (Evade) | DEX x2 |
-| Ensiapu (First Aid) | INT+DEX |
-| Vaikuttaminen (Influence) | CHA x2 |
-| Insight | INT+POW |
-| Paikallistuntemus (Locale) | INT x2 |
-| Äidinkieli | INT+CHA, +40\* |
-| Havainnointi (Perception) | INT+POW |
-| Ratsastus (Ride) | DEX+POW |
-| Laulu (Sing) | CHA+POW |
-| Hiipiminen (Stealth) | DEX+INT |
-| Uinti (Swim) | STR+CON |
-| Aseeton taistelu (Unarmed) | STR+DEX |
-| Tahdonvoima (Willpower) | POW x2 |
+| Atletia | VOI+KET |
+| Veneily | VOI+KES |
+| Voimailu | VOI+KOK |
+| Kätkeminen | KET+MAH |
+| Tavat | ÄLY x2, +40* |
+| Tanssi | KET+KAR |
+| Petos | ÄLY+KAR |
+| Ajo | KET+MAH |
+| Kestävyys | KES x2 |
+| Väistö | KET x2 |
+| Ensiapu | ÄLY+KET |
+| Vaikuttaminen | KAR x2 |
+| Oivallus | ÄLY+MAH |
+| Paikallistuntemus | ÄLY x2 |
+| Äidinkieli | ÄLY+KAR, +40* |
+| Havainnointi | ÄLY+MAH |
+| Ratsastus | KET+MAH |
+| Laulu | KAR+MAH |
+| Hiipiminen | KET+ÄLY |
+| Uinti | VOI+KES |
+| Aseeton taistelu | VOI+KET |
+| Tahdonvoima | MAH x2 |
 
-_\* Sisältää staattisen +40 % bonuksen sekä Tavoille että hahmon äidinkielelle (ihmisille yleiskieli)._
+_* Sisältää staattisen +40 % bonuksen sekä Tavoille että hahmon Äidinkielelle (ihmisillä Yleiskieli)._
 
 ---
 ## Vaihe 5: Kulttuuri
 
-Kulttuuri määrittää yhteiskunnan, jossa hahmo on kasvanut, ja määrää siten tietyt näkemykset ja filosofiat, joita hänellä saattaa olla. Käytännöllisemmin kulttuuri auttaa parantamaan hahmon taitoja. On neljä perusihmiskulttuuria: barbaari, sivistynyt, paimentolainen ja primitiivinen. Jokainen kulttuuritausta listaa valikoiman sopivia standarditaitoja ja kutsuu pelaajaa valitsemaan jopa kolme esitetyistä ammattitaidoista: näin saman kulttuuritaustan omaavat pelaajat voivat varmistaa, että heidän seikkailijansa ovat erilaisia kehittämissään alueilla. Jaa 100 kulttuurin taitopistettä uran listattujen standarditaitojen ja valittujen ammattitaitojen kesken, kasvattaen kutakin taitoa 1 %:lla jokaista siihen käytettyä pistettä kohden. Pelinjohtajat voivat halutessaan asettaa katon sille, kuinka monta taitopistettä tiettyyn taitoon voidaan sijoittaa.
+Kulttuuri määrittää yhteiskunnan, jossa hahmo on kasvanut, ja siten määrää tietyt näkemykset ja filosofiat, joita hänellä saattaa olla. Käytännöllisemmin katsottuna kulttuuri auttaa kasvattamaan eri taitojen arvoja, jotka muovaavat hahmon yleisiä kyvykkyyksiä. Ihmisillä on neljä peruskulttuuria: Barbaari, Sivistynyt, Nomadi ja Primitiivinen. Jokainen kulttuuritausta listaa sille sopivat Perustaidot ja kutsuu pelaajaa valitsemaan jopa kolme esitellyistä Ammattitaidoista: näin saman kulttuuritaustan omaavat pelaajat voivat varmistaa, että heidän seikkailijansa ovat erilaisia kehittämillään osa-alueilla. Jaa 100 Kulttuurin taitopistettä Uran listattujen Perustaitojen ja valittujen Ammattitaitojen kesken, korottaen jokaista taitoa 1 % jokaisesta parantamiseen käytetystä pisteestä. Pelinjohtajat saattavat haluta asettaa rajan sille, kuinka monta taitopistettä yhteen tiettyyn taitoon voidaan soveltaa.
 
 ### Barbaari
 
-Heimoluonteiset barbaarit pyrkivät välttämään sivilisaatiota ja pitävät suurkaupungeissa asuvia heikkoina ja korruptoituneina. Vaikka heidän omat asutuksensa ovat myös pysyviä, ne ovat yleensä paljon pienempiä ja lähempänä luontoa. Barbaariheimot asuttavat selkeitä alueita, usein puoliksi kesytettyä erämaata, jota he pitävät omana metsästys-, laidun- ja viljelytarkoituksissaan. Useimmat ovat taitavia aseiden käytössä, sillä heidän on voitettava monia vaaroja elämänsä aikana – kohdattava erämaan olentoja tai kokoonnuttava puolustamaan maitaan kilpailevia heimoja vastaan. Koska he elävät pienissä yhteisöissä, sukulaisuuden ja klaanin siteet ovat yhteiskunnan vahvoja elementtejä.
+Luonteeltaan heimomaisia barbaareja taipumus vältellä sivilisaatiota, pitäen suurissa kaupungeissa asuvia heikkoina ja korruptoituneina. Vaikka heidän omat asutuksensa ovat myös paikallaan pysyviä, ne ovat yleensä paljon pienempiä ja lähempänä luontoa. Barbaariheimot hallitsevat selkeitä alueita, usein puoliksi kesytettyä erämaata, jota he pitävät omana metsästys-, laiduntamis- ja viljelyalueenaan. Useimmat ovat taitavia aseiden käytössä, sillä heidän on voitettava monia vaaroja elämänsä aikana – kohdattava erämaan petoja tai keräännyttävä puolustamaan maitaan kilpailevia heimoja vastaan. Koska he elävät pienissä yhteisöissä, sukulaisuuden ja klaanin siteet ovat yhteiskuntansa vahvoja elementtejä.
 
 #### Taidot
 
-- **Standarditaidot:** Yleisurheilu, Voimailu, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; ja joko Veneily tai Ratsastus. Lisäksi pelaaja voi valita kulttuurillisen taistelutyylin.
-- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Lore (mikä tahansa), Musisointi, Navigointi, Merenkulku, Selviytyminen, Jäljittäminen.
+- **Perustaidot:** Atletia, Voimailu, Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi; sekä joko Veneily tai Ratsastus. Lisäksi pelaaja voi valita kulttuurisen Taistelutyylin.
+- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Tieto (mikä tahansa), Muusikon taidot, Navigointi, Merenkulku, Selviytyminen, Jäljittäminen.
 
 ### Sivistynyt
 
-Sivistynyttä kulttuuria kuvastaa laki ja järjestys, monimutkaiset sosiaaliset koodit ja byrokratia. Sivistyneet ihmiset uskovat olevansa parempia kuin kaikki muut kulttuurit, koska heidän saavutuksensa pyrkivät kohti pysyvyyttä: rönsyilevät kaupungit, vaikuttavat temppelit, monumentit sekä historian ja tapahtumien tallentaminen kirjoihin, hautakiviin ja kääröihin. Tietysti tämä on ohut kerros. Sivistyneimmät kaupungit voivat olla laittomampia kuin mikään barbaarien raja-asutus; ja sosiaaliset koodit voivat olla karkeampia kuin paimentolaisten vieraanvaraisuusrituaalit. Mutta sivistynyt kulttuuri on ylpeä saavutuksistaan, infrastruktuuristaan, ammattitaitoisista käsityöläisistään ja kyvystään laajentaa vaikutuspiiriään minne haluaa.
+Sivistynyttä kulttuuria kuvastaa lain ja järjestyksen näennäisyys, jota tukevat monimutkaiset sosiaaliset koodit ja byrokratia. Sivistyneet ihmiset pitävät itseään parempina kuin kaikkia muita kulttuureja, koska heidän saavutuksensa pyrkivät pysyvyyteen: laajat kaupungit, vaikuttavat temppelit, juhlalliset monumentit sekä historian ja tapahtumien tallentaminen kirjoihin, hautakiviin ja kääröihin. Tietenkin tämä on ohut pinta. Sivistyneimmätkin kaupungit voivat olla laittomampia kuin mikään barbaarien raja-asutus; ja sosiaaliset koodit voivat olla karkeampia kuin nomadien vieraanvaraisuusrituaalit. Mutta Sivistynyt kulttuuri ylpeilee saavutuksistaan, infrastruktuuristaan, ammattimaisista käsityöläisistään ja kyvystään ulottaa ulottuvuutensa helposti minne haluaa.
 
 #### Taidot
 
-- **Standarditaidot:** Kätkeminen, Petos, Ajo, Vaikuttaminen, Insight, Paikallistuntemus, Tahdonvoima. Lisäksi pelaaja voi valita kulttuurillisen taistelutyylin.
-- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Käytöstavat, Kieli (mikä tahansa), Lore (mikä tahansa), Musisointi, Streetwise.
+- **Perustaidot:** Kätkeminen, Petos, Ajo, Vaikuttaminen, Oivallus, Paikallistuntemus, Tahdonvoima. Lisäksi pelaaja voi valita kulttuurisen Taistelutyylin.
+- **Ammattitaidot:** Taide (mikä tahansa), Kaupankäynti, Käsityö (mikä tahansa), Kohteliaisuus, Kieli (mikä tahansa), Tieto (mikä tahansa), Muusikon taidot, Katutieto.
 
-### Paimentolainen
+### Nomadi
 
-Paimentolaiset ovat jatkuvasti liikkeellä, vailla kotia ja tulisijaa. He saattavat vaeltaa päämäärättömästi tai heillä voi olla useita leirejä, joihin he siirtyvät vuoden aikana. He viljelevät vähän, vaan seuraavat eläinten tai kalojen vaelluksia, kenties paimentaen omia kotieläimiään. Paimentolaiset ovat taitavia selviytymään siitä, mitä he voivat nopeasti ja helposti kerätä ympäristöstään, tuhlaamatta mitään. Paimentolaiskulttuurin taidot tulisi räätälöidä ympäristöön. Jotkut matkaavat pitkiä matkoja jalan, toiset elävät karavaaneissa tai ratsastavat oudoilla olennoilla, ja jotkut ajelehtivat valtamerillä suurilla kelluvilla lautoilla.
+Nomadit ovat jatkuvassa liikkeessä, ilman kotia tai tulisijaa, jota kutsua omakseen. He saattavat vaeltaa päämäärättömästi tai heillä saattaa olla useita leirejä, joihin he liikkuvat vuoden ympäri. He viljelevät vähän, vaan seuraavat sen sijaan eläinten tai kalojen vaelluksia, kenties jopa paimentaen omia kesyjä eläimiään. Nomadit ovat taitavia elämään sillä, mitä he voivat nopeasti ja helposti kerätä ympäristöstään, antamatta minkään mennä hukkaan. Nomadikulttuurin taitojen tulisi olla räätälöityjä heidän ympäristöönsä. Jotkut kulkevat valtavia matkoja jalkaisin, toiset elävät karavaaneissa tai ratsastavat oudoilla olennoilla, ja jotkut ajelehtivat valtamerillä suurilla kelluvilla lautoilla.
 
 #### Taidot
 
-- **Standarditaidot:** Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi, Hiipiminen; ja kaksi seuraavista: Yleisurheilu, Veneily, Uinti, Ajo tai Ratsastus riippuen ensisijaisesta matkustusmuodosta. Lisäksi pelaaja voi valita kulttuurillisen taistelutyylin.
-- **Ammattitaidot:** Käsityö (mikä tahansa), Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Lore (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
+- **Perustaidot:** Kestävyys, Ensiapu, Paikallistuntemus, Havainnointi, Hiipiminen; sekä kaksi seuraavista: Atletia, Veneily, Uinti, Ajo tai Ratsastus riippuen ensisijaisesta kulkutavasta. Lisäksi pelaaja voi valita kulttuurisen Taistelutyylin.
+- **Ammattitaidot:** Käsityö (mikä tahansa), Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Tieto (mikä tahansa), Muusikon taidot, Navigointi, Selviytyminen, Jäljittäminen.
 
 ### Primitiivinen
 
-Kaikista kansoista primitiiviset elävät lähimpänä maata, virittyneenä sen piilotettuihin salaisuuksiin. Eläen laajennetuissa perheryhmissä, primitiiviset kulttuurit kokoontuvat hyvin yksinkertaisten asuntojen ympärille, jotka voivat vaihdella luolista ja luonnollisista suojapaikoista laavuun tai hyvin alkeellisiin majoihin. Primitiiviset ovat yleensä metsästäjä-keräilijöitä, joilla on vähän tai huonosti kehittyneitä viljely- ja karjanhoitojärjestelmiä.
+Kaikista kansoista primitiiviset ovat niitä, jotka elävät lähimpänä maata, virittyneinä sen kätkettyihin salaisuuksiin. Eläen laajennetuissa perheryhmissä, primitiiviset kulttuurit kerääntyvät hyvin yksinkertaisten asumusten ympärille, jotka voivat vaihdella luolista ja luonnollisista suojapaikoista aina katoksiin tai hyvin perusluonteisiin majoihin. Primitiiviset ovat tyypillisesti metsästäjä-keräilijöitä, joilla on joko vähän tai huonosti kehittyneet järjestelmät viljelyyn ja karjanhoitoon.
 
-Tietyt kulttuuriset uskomukset, jotka perustuvat usein taikauskoon, voivat kuitenkin olla hyvin määriteltyjä. Harvat primitiiviset kulttuurit ovat kehittäneet mitään kirjoitettua kieltä lähestyvää, vaikka maalaukset ja muut kuvalliset symbolit toimivat viestintävälineinä.
+Kuitenkin tietyt kulttuuriset uskomukset, jotka perustuvat usein taikauskoon, voivat olla erittäin selkeästi määriteltyjä. Harvat primitiiviset kulttuurit ovat kehittäneet mitään kirjoitetun kielen kaltaista, vaikka maalaukset ja muut kuvalliset symbolit toimivat viestinnän välineinä.#### Taidot
 
-#### Taidot
-
-- **Standarditaidot:** Voimailu, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Hiipiminen; ja yksi seuraavista: Yleisurheilu, Veneily tai Uinti. Lisäksi pelaaja voi valita kulttuurillisen taistelutyylin.
-- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Lore (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
+- **Perustaidot:** Ruumiinvoima, Kestävyys, Väistö, Paikallistuntemus, Havainnointi, Hiipiminen; ja yksi seuraavista: Yleisurheilu, Veneily tai Uinti. Lisäksi pelaaja voi valita kulttuuriinsa kuuluvan taistelutyylin.
+- **Ammattitaidot:** Käsityö (mikä tahansa), Parantaminen, Tieto (mikä tahansa), Musisointi, Navigointi, Selviytyminen, Jäljittäminen.
 
 ---
 ## Vaihe 6: Ura
 
-Jokainen hahmo aloittaa pelin koulutettuna johonkin uraan. Valittu ammatti ei välttämättä ole se, jota hahmo jatkaa seikkailuelämän alkaessa, mutta se on ura, johon lähdetään osana aikuistumista ja se määrittelee taitojen kehittymistä. Jokainen ura esittää valikoiman sopivia standarditaitoja ja antaa pelaajan valita jopa kolme listatuista ammattitaidoista. Jaa 100 uran taitopistettä uran listattujen standarditaitojen ja valittujen ammattitaitojen kesken, kasvattaen kutakin taitoa 1 %:lla jokaista siihen käytettyä pistettä kohden. Kuten kulttuurien kohdalla, pelinjohtaja voi asettaa katon sille, kuinka monta taitopistettä tiettyyn taitoon voidaan sijoittaa.
+Jokainen hahmo aloittaa pelin saatuaan koulutuksen johonkin uraan. Valittu ammatti ei välttämättä ole se, jota hahmo jatkaa seikkailuelämän alkaessa, mutta se on ura, johon hahmo on lähtenyt osana aikuistumistaan, ja se määrittää edelleen taitojen kehitystä. Jokainen ura esittelee valikoiman siihen sopivia perustaitoja ja sallii pelaajan valita enintään kolme listatuista ammattitaidoista. Jaa 100 urataitopistettä uran listattujen perustaitojen ja valittujen ammattitaitojen kesken, kasvattaen kutakin taitoa 1 % jokaisesta siihen käytetystä pisteestä. Kuten kulttuurien kohdalla, pelinjohtaja voi asettaa rajoituksen sille, kuinka monta taitopistettä tiettyyn taitoon voi käyttää.
 
-Erityiset ammattitaidot, kuten Pilotti, eivät todennäköisesti löydy fantasiamaailmasta. Taitot käsitellään tarkemmin [Taidot](0002_Characters.md?id=step-4-skills) -luvussa.
+Erityisiä ammattitaitoja, kuten Pilotti, tuskin löytyy fantasiamaailmasta. Taidosta keskustellaan tarkemmin [Taidot](0002_Characters.md?id=step-4-skills) -luvussa.
 
 #### Urataulukko
 
-| Uran nimi | Standarditaidot | Ammattitaidot |
+| Uran nimi | Perustaidot | Ammattitaidot |
 | :-- | :-- | :-- |
-| Agentti | Kätkeminen, Petos, Väistäminen, Insight, Havainnointi, Hiipiminen; Taistelutyyli | Kulttuuri, Naamioituminen, Kieli, Sorminäppäryys, Streetwise, Selviytyminen, Jäljittäminen |
-| Eläinten käsittelijä | Ajo, Kestävyys, Ensiapu, Vaikuttaminen, Paikallistuntemus, Ratsastus, Tahdonvoima | Käsityö (eläintenhoito), Kaupankäynti, Parantaminen, Lore, Selviytyminen, Opetus, Jäljittäminen |
-| Palkkionmetsästäjä | Yleisurheilu, Kestävyys, Väistäminen, Insight, Havainnointi, Hiipiminen; Taistelutyyli | Byrokratia, Kaupankäynti, Kulttuuri, Kielitiede, Streetwise, Selviytyminen, Jäljittäminen |
-| Courtesan | Tavat, Tanssi, Petos, Vaikuttaminen, Insight, Havainnointi, Laulu | Taide, Käytöstavat, Kulttuuri, Uhkapeli, Kieli, Musisointi, Viettely |
-| Käsityöläinen | Voimailu, Ajo, Vaikuttaminen, Insight, Paikallistuntemus, Havainnointi, Tahdonvoima | Taide, Kaupankäynti, Käsityö, Käsityö (toinen), Insinööritaito, Mekanismit, Streetwise |
-| Etsivä | Tavat, Väistäminen, Vaikuttaminen, Insight, Havainnointi, Hiipiminen; Taistelutyyli | Byrokratia, Kulttuuri, Naamioituminen, Kielitiede, Lore, Tutkimus, Sorminäppäryys, Streetwise |
-| Viihdyttäjä | Yleisurheilu, Voimailu, Tanssi, Petos, Vaikuttaminen, Insight, Laulu | Akrobatia, Näytteleminen, Oratorinen taito, Musisointi, Viettely, Sorminäppäryys, Streetwise |
-| Maanviljelijä | Yleisurheilu, Voimailu, Ajo, Kestävyys, Paikallistuntemus, Havainnointi, Ratsastus | Kaupankäynti, Käsityö, Lore (maatalous), Lore (eläintenhoito), Navigointi, Selviytyminen, Jäljittäminen |
-| Kalastaja | Yleisurheilu, Veneily, Kestävyys, Paikallistuntemus, Havainnointi, Hiipiminen, Uinti | Kaupankäynti, Käsityö, Lore (saalis), Lore (toinen saalis), Navigointi, Merenkulku, Selviytyminen |
-| Uhkapeluri | Yleisurheilu, Voimailu, Kestävyys, Paikallistuntemus, Havainnointi, Tahdonvoima; Ajo tai Ratsastus | Näytteleminen, Byrokratia, Kaupankäynti, Käytöstavat, Uhkapeli, Tutkimus, Sorminäppäryys, Streetwise |
-| Paimen | Kestävyys, Ensiapu, Insight, Paikallistuntemus, Havainnointi, Ratsastus; Taistelutyyli | Kaupankäynti, Käsityö (eläintenhoito), Parantaminen, Navigointi, Musisointi, Selviytyminen, Jäljittäminen |
-| Metsästäjä | Yleisurheilu, Kestävyys, Paikallistuntemus, Havainnointi, Ratsastus, Hiipiminen; Taistelutyyli | Kaupankäynti, Käsityö, Lore, Mekanismit, Navigointi, Selviytyminen, Jäljittäminen |
-| Toimittaja | Tavat, Petos, Vaikuttaminen, Insight, Paikallistuntemus, Äidinkieli, Havainnointi | Byrokratia, Kulttuuri, Kieli, Lore, Oratorinen taito, Politiikka, Streetwise |
-| Taikuri | Tavat, Petos, Vaikuttaminen, Insight, Paikallistuntemus, Havainnointi, Tahdonvoima | Kulttuuri, Taikuus, Lukutaito, Lore, Oratorinen taito, Sorminäppäryys |
-| Mekaanikko | Voimailu, Kulttuuri, Ajo, Kestävyys, Vaikuttaminen, Paikallistuntemus, Tahdonvoima | Kaupankäynti, Käsityö, Käsityö (toinen), Elektroniikka, Uhkapeli, Mekanismit, Streetwise |
-| Kauppias | Veneily, Ajo, Petos, Insight, Vaikuttaminen, Paikallistuntemus, Ratsastus | Kaupankäynti, Käytöstavat, Kulttuuri, Kieli, Navigointi, Merenkulku, Streetwise |
-| Kaivosmies | Yleisurheilu, Voimailu, Kestävyys, Paikallistuntemus, Havainnointi, Laulu, Tahdonvoima | Kaupankäynti, Käsityö (kaivostyö), Insinööritaito, Lore (mineraalit), Mekanismit, Navigointi, Selviytyminen |
-| Virkamies | Tavat, Petos, Vaikuttaminen, Insight, Paikallistuntemus, Havainnointi, Tahdonvoima | Byrokratia, Kaupankäynti, Käytöstavat, Kieli, Lukutaito, Lore, Oratorinen taito |
-| Lääkäri | Tanssi, Ensiapu, Vaikuttaminen, Insight, Paikallistuntemus, Laulu, Tahdonvoima | Kaupankäynti, Käsityö, Parantaminen, Kieli, Lukutaito, Lore, Streetwise |
-| Pilotti | Voimailu, Ajo, Kestävyys, Väistäminen, Paikallistuntemus, Havainnointi, Tahdonvoima | Tavat, Elektroniikka, Mekanismit, Navigointi, Pilotti, Sensorit, Streetwise |
-| Poliitikko | Tavat, Petos, Vaikuttaminen, Insight, Paikallistuntemus, Äidinkieli, Havainnointi | Byrokratia, Käytöstavat, Kulttuuri, Kieli, Lore, Oratorinen taito, Politiikka |
-| Pappi | Tavat, Tanssi, Petos, Vaikuttaminen, Insight, Paikallistuntemus, Tahdonvoima | Byrokratia, Käytöstavat, Tavat, Lukutaito, Lore, Oratorinen taito, Politiikka |
-| Merimies | Yleisurheilu, Veneily, Voimailu, Kestävyys, Paikallistuntemus, Uinti; Taistelutyyli | Käsityö, Kulttuuri, Kieli, Lore, Navigointi, Merenkulku, Selviytyminen |
-| Tutkija | Tavat, Vaikuttaminen, Insight, Paikallistuntemus, Äidinkieli, Havainnointi, Tahdonvoima | Kulttuuri, Kieli, Lukutaito, Lore, Lore (toinen), Oratorinen taito, Opetus |
-| Tiedemies | Tavat, Vaikuttaminen, Insight, Paikallistuntemus, Äidinkieli, Havainnointi, Tahdonvoima | Kulttuuri, Insinööritaito, Kieli, Oratorinen taito, Tutkimus, Tiede, Opetus |
-| Tiedustelija | Yleisurheilu, Kestävyys, Ensiapu, Havainnointi, Hiipiminen, Uinti; Taistelutyyli | Kulttuuri, Parantaminen, Kieli, Lore, Navigointi, Selviytyminen, Jäljittäminen |
-| Palvelija | Tavat, Petos, Ajo, Vaikuttaminen, Insight, Paikallistuntemus, Havainnointi | Byrokratia, Käytöstavat, Käsityö, Kulttuuri, Kieli, Politiikka, Streetwise |
-| Salakuljettaja | Kätkeminen, Tavat, Petos, Ajo, Vaikuttaminen, Insight, Paikallistuntemus | Byrokratia, Kaupankäynti, Tavat, Kieli, Navigointi, Streetwise; ja Astrografia tai Merenkulku |
-| Teknikko | Voimailu, Ajo, Kestävyys, Vaikuttaminen, Paikallistuntemus, Havainnointi, Tahdonvoima | Viestintä, Käsityö, Elektroniikka, Uhkapeli, Mekanismit, Tiede, Sensorit |
-| Varas | Yleisurheilu, Petos, Väistäminen, Insight, Havainnointi, Hiipiminen; Taistelutyyli | Näytteleminen, Kaupankäynti, Naamioituminen, Lukkojen tiirikoiminen, Mekanismit, Sorminäppäryys, Streetwise |
-| Soturi | Yleisurheilu, Voimailu, Kestävyys, Väistäminen, Aseeton taistelu; Taistelutyylit | Käsityö, Insinööritaito, Uhkapeli, Lore (sotahistoria), Lore (strategia), Oratorinen taito, Selviytyminen |
+| Agentti (Agitaattori, Salamurhaaja, Etsivä, Ilmiantaja, Vakooja…) | Kätkeminen, Petos, Väistö, Näkemys, Havainnointi, Hiipiminen; Taistelutyyli (Erityinen agentti- tai kulttuurityyli) | Kulttuuri (mikä tahansa), Naamioituminen, Kieli (mikä tahansa), Näppäryys, Katuviisaus, Selviytyminen, Jäljittäminen |
+| Pedonkäsittelijä (Eläinjalostaja, Pedonkesyttäjä, Menagerian hoitaja…) | Ajaminen, Kestävyys, Ensiapu, Vaikuttaminen, Paikallistuntemus, Ratsastus, Tahdonvoima | Käsityö (eläintenhoito), Kaupankäynti, Parantaminen (erityislaji), Tieto (erityislaji), Selviytyminen, Opettaminen (erityislaji), Jäljittäminen |
+| Palkkionmetsästäjä (Ulosottovirkailija, Palkkiotappaja, Päänahanmetsästäjä, Etsivä…) | Yleisurheilu, Kestävyys, Väistö, Näkemys, Havainnointi, Hiipiminen; Taistelutyyli (mikä tahansa) | Byrokratia, Kaupankäynti, Kulttuuri (mikä tahansa), Kielitiede, Katuviisaus, Selviytyminen (mikä tahansa), Jäljittäminen |
+| Kurtisaani (Jalkavaimo, Seuralainen, Harem-tyttö, Houri, Rakastajatar…) | Tavat, Tanssi, Petos, Vaikuttaminen, Näkemys, Havainnointi, Laulu | Taide (mikä tahansa), Kohteliaisuus, Kulttuuri (mikä tahansa), Uhkapeli, Kieli (mikä tahansa), Musisointi, Viettely |
+| Käsityöläinen (Artifeksi, Artisaani…) | Ruumiinvoima, Ajaminen, Vaikuttaminen, Näkemys, Paikallistuntemus, Havainnointi, Tahdonvoima | Taide (mikä tahansa), Kaupankäynti, Käsityö (ensisijainen), Käsityö (toissijainen), Insinööritaito, Mekanismit, Katuviisaus |
+| Etsivä (Poliisi, Yksityisetsivä, Nuuskija…) | Tavat, Väistö, Vaikuttaminen, Näkemys, Havainnointi, Hiipiminen; Taistelutyyli (aseeton tai sivuase-tyyli) | Byrokratia, Kulttuuri (mikä tahansa), Naamioituminen, Kielitiede, Tieto (mikä tahansa), Tutkimus, Näppäryys, Katuviisaus |
+| Viihdyttäjä (Akkrobaatti, Bardi, Tanssija, Näyttelijä, Runoilija…) | Yleisurheilu, Ruumiinvoima, Tanssi, Petos, Vaikuttaminen, Näkemys, Laulu | Akrobatia, Näytteleminen, Oratoria, Musisointi, Viettely, Näppäryys, Katuviisaus |
+| Maanviljelijä (Tilanomistaja, Puutarhuri, Kyntäjä…) | Yleisurheilu, Ruumiinvoima, Ajaminen, Kestävyys, Paikallistuntemus, Havainnointi, Ratsastus | Kaupankäynti, Käsityö (mikä tahansa), Tieto (maatalous), Tieto (eläintenhoito), Navigointi, Selviytyminen, Jäljittäminen |
+| Kalastaja (Rantojen haravoija, Verkonlaskija, Helmelsukeltaja, Valaanpyytäjä…) | Yleisurheilu, Veneily, Kestävyys, Paikallistuntemus, Havainnointi, Hiipiminen, Uinti | Kaupankäynti, Käsityö (mikä tahansa), Tieto (ensisijainen saalis), Tieto (toissijainen saalis), Navigointi, Merenkulku, Selviytyminen |
+| Uhkapeluri (Vedonvälittäjä, Korttihai, Huijari…) | Yleisurheilu, Ruumiinvoima, Kestävyys, Paikallistuntemus, Havainnointi, Tahdonvoima; sekä Ajaminen tai Ratsastus | Näytteleminen, Byrokratia, Kaupankäynti, Kohteliaisuus, Uhkapeli, Tutkimus, Näppäryys, Katuviisaus |
+| Paimen (Kasvattaja, Paimen, Pyhien hanhien hoitaja, Karjankäsittelijä…) | Kestävyys, Ensiapu, Näkemys, Paikallistuntemus, Havainnointi, Ratsastus; Taistelutyyli (erityinen paimen- tai kulttuurityyli) | Kaupankäynti, Käsityö (eläintenhoito), Parantaminen (erityislaji), Navigointi, Musisointi, Selviytyminen, Jäljittäminen |
+| Metsästäjä (Metsänvartija, Salametsästäjä, Haaskansyöjä, Jäljittäjä, Ansastaja…) | Yleisurheilu, Kestävyys, Paikallistuntemus, Havainnointi, Ratsastus, Hiipiminen; Taistelutyyli (erityinen metsästys- tai kulttuurityyli) | Kaupankäynti, Käsityö (metsästysaiheinen), Tieto (alueellinen tai erityislaji), Mekanismit, Navigointi, Selviytyminen, Jäljittäminen |
+| Toimittaja (Kommentaattori, Kirjoittaja, Lehtimies…) | Tavat, Petos, Vaikuttaminen, Näkemys, Paikallistuntemus, Äidinkieli, Havainnointi | Byrokratia, Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Tieto (mikä tahansa), Oratoria, Politiikka, Katuviisaus |
+| Taikuri (Maagi, Velho, Noita…) | Tavat, Petos, Vaikuttaminen, Näkemys, Paikallistuntemus, Havainnointi, Tahdonvoima | Kulttuuri, Taikuus, Lukutaito, Tieto x2, Oratoria, Näppäryys |
+| Mekaanikko (Insinööri, Rasvanäppi…) | Ruumiinvoima, Kulttuuri, Ajaminen, Kestävyys, Vaikuttaminen, Paikallistuntemus, Tahdonvoima | Kaupankäynti, Käsityö (ensisijainen), Käsityö (toissijainen), Elektroniikka, Uhkapeli, Mekanismit, Katuviisaus |
+| Kauppias (Välittäjä, Kaupustelija, Koronkiskuri, Salakuljettaja, Kauppias…) | Veneily, Ajaminen, Petos, Näkemys, Vaikuttaminen, Paikallistuntemus, Ratsastus | Kaupankäynti, Kohteliaisuus, Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Navigointi, Merenkulku, Katuviisaus |
+| Kaivosmies (Malminetsijä, Louhijat, Sappaaja, Kaivonkaivaja…) | Yleisurheilu, Ruumiinvoima, Kestävyys, Paikallistuntemus, Havainnointi, Laulu, Tahdonvoima | Kaupankäynti, Käsityö (kaivostoiminta), Insinööritaito, Tieto (mineraalit), Mekanismit, Navigointi (maanalainen), Selviytyminen |
+| Virkamies (Ministeri, Valvoja, Taloudenhoitaja, Veronkantaja…) | Tavat, Petos, Vaikuttaminen, Näkemys, Paikallistuntemus, Havainnointi, Tahdonvoima | Byrokratia, Kaupankäynti, Kohteliaisuus, Kieli (mikä tahansa), Lukutaito, Tieto (mikä tahansa), Oratoria |
+| Lääkäri (Tohtori, Parantaja, Poppamies, Kiduttaja, Vivisektioija…) | Tanssi, Ensiapu, Vaikuttaminen, Näkemys, Paikallistuntemus, Laulu, Tahdonvoima | Kaupankäynti, Käsityö (erityinen fysiologinen erikoisala), Parantaminen, Kieli (mikä tahansa), Lukutaito (mikä tahansa), Tieto (mikä tahansa), Katuviisaus |
+| Pilotti (Aeronautti, Astronautti, Lentäjä, Koelentäjä…) | Ruumiinvoima, Ajaminen, Kestävyys, Väistö, Paikallistuntemus, Havainnointi, Tahdonvoima | Tavat (mikä tahansa), Elektroniikka, Mekanismit, Navigointi, Pilotti, Sensorit, Katuviisaus |
+| Poliitikko (Virkamies, Mandariini, Ministeri, Valvoja, Taloudenhoitaja…) | Tavat, Petos, Vaikuttaminen, Näkemys, Paikallistuntemus, Äidinkieli, Havainnointi | Byrokratia, Kohteliaisuus, Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Tieto (mikä tahansa), Oratoria, Politiikka |
+| Pappi (Välimies, Kulttijäsen, Druidi, Kerjäläismunkki, Profeetta…) | Tavat, Tanssi, Petos, Vaikuttaminen, Näkemys, Paikallistuntemus, Tahdonvoima | Byrokratia, Kohteliaisuus, Tavat, Lukutaito (mikä tahansa), Tieto (mikä tahansa), Oratoria, Politiikka |
+| Merimies (Kapteeni, Sotalaivan orja, Merijalkaväki, Merirosvo, Lautturi…) | Yleisurheilu, Veneily, Ruumiinvoima, Kestävyys, Paikallistuntemus, Uinti; Taistelutyyli (erityinen merimies- tai kulttuurityyli) | Käsityö (erityinen laiva-alan erikoisala), Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Tieto (mikä tahansa), Navigointi, Merenkulku, Selviytyminen |
+| Oppinut (Aikakirjanpitäjä, Kirjastonhoitaja, Filosofi, Skaldi, Kirjuri…) | Tavat, Vaikuttaminen, Näkemys, Paikallistuntemus, Äidinkieli, Havainnointi, Tahdonvoima | Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Lukutaito (mikä tahansa), Tieto (ensisijainen), Tieto (toissijainen), Oratoria, Opettaminen |
+| Tiedemies (Arkistonhoitaja, Kirjastonhoitaja, Filosofi…) | Tavat, Vaikuttaminen, Näkemys, Paikallistuntemus, Äidinkieli, Havainnointi, Tahdonvoima | Kulttuuri (mikä tahansa), Insinööritaito, Kieli (mikä tahansa), Oratoria, Tutkimus, Tiede (mikä tahansa), Opettaminen |
+| Partiolainen (Palkkionmetsästäjä, Tutkimusmatkailija, Uudisasukas, Metsänkävijä…) | Yleisurheilu, Kestävyys, Ensiapu, Havainnointi, Hiipiminen, Uinti; Taistelutyyli (erityinen metsästys- tai kulttuurityyli) | Kulttuuri (mikä tahansa), Parantaminen, Kieli (mikä tahansa), Tieto (mikä tahansa), Navigointi, Selviytyminen, Jäljittäminen |
+| Palvelija (Avustaja, Hovimestari, Kuljettaja, Kotiapulainen, Kotiopettajatar, Taloudenhoitaja, Henkilökohtainen avustaja, Sihteeri…) | Tavat, Petos, Ajaminen, Vaikuttaminen, Näkemys, Paikallistuntemus, Havainnointi | Byrokratia, Kohteliaisuus, Käsityö (palvelualaan liittyvä), Kulttuuri (mikä tahansa), Kieli (mikä tahansa), Politiikka, Katuviisaus |
+| Salakuljettaja (Pimeän kaupan harjoittaja, Kieltolain rikkoja, Asekauppias…) | Kätkeminen, Tavat, Petos, Ajaminen, Vaikuttaminen, Näkemys, Paikallistuntemus | Byrokratia, Kaupankäynti, Tavat (mikä tahansa), Kieli (mikä tahansa), Navigointi, Katuviisaus; ja joko Astrogatio tai Merenkulku |
+| Teknikko (Sähköasentaja, Laboratorioapulainen…) | Ruumiinvoima, Ajaminen, Kestävyys, Vaikuttaminen, Paikallistuntemus, Havainnointi, Tahdonvoima | Viestintä, Käsityö (mikä tahansa), Elektroniikka, Uhkapeli, Mekanismit, Tiede (mikä tahansa), Sensorit |
+| Varas (Murtovaras, Huijari, Varastetun tavaran kauppias, Ryöstäjä, Haudanryöstäjä…) | Yleisurheilu, Petos, Väistö, Näkemys, Havainnointi, Hiipiminen; Taistelutyyli (erityinen varas- tai kulttuurityyli) | Näytteleminen, Kaupankäynti, Naamioituminen, Lukkojen tiirikoiminen, Mekanismit, Näppäryys, Katuviisaus |
+| Soturi (Henkivartija, Palkkasoturi, Areenaottelija, Sotilas…) | Yleisurheilu, Ruumiinvoima, Kestävyys, Väistö, Aseeton; Taistelutyyli (sotilastyyli), Taistelutyyli (kulttuurityyli) | Käsityö (mikä tahansa), Insinööritaito, Uhkapeli, Tieto (sotahistoria), Tieto (strategia ja taktiikka), Oratoria, Selviytyminen |
 
 ---
 ## Vaihe 7: Bonustaitopisteet
 
-Viimeisenä vaiheena viimeinen 150 taitopisteen pooli sijoitetaan hahmon täydentämiseen. Nämä voidaan käyttää mihin tahansa standarditaitoon tai niihin ammattitaitoihin, jotka on saatu osana kulttuuria tai uraa. Jälleen pelinjohtaja voi asettaa katon sille, kuinka monta taitopistettä tiettyyn taitoon voidaan sijoittaa.
+Viimeisenä vaiheena hahmon täydentämiseen käytetään 150 taitopisteen viimeistä pistepottia. Nämä voidaan käyttää mihin tahansa perustaitoon tai niihin ammattitaitoihin, jotka on saatu kulttuurin tai uran kautta. Jälleen kerran pelinjohtaja voi asettaa rajoituksen sille, kuinka monta taitopistettä tiettyyn taitoon voidaan käyttää.
 
 ### Kokeneiden hahmojen luominen
 
-On suositeltavaa, että aloitushahmot aloittavat puhtaalta pöydältä, vähäisellä tai olemattomalla kokemuksella. Tietenkin hahmojen taso riippuu paljon asetelmasta ja siitä, tuleeko peli olemaan lyhyt kertaseikkailu vai pitkä kampanja. On myös yleistä, että pelaaja luo kokeneemman hahmon korvatakseen pelissä kuolleen hahmon tai liittyessään olemassa olevaan kampanjaan.
+On suositeltavaa, että aloittelevat hahmot aloittavat puhtaalta pöydältä, vähäisellä tai olemattomalla käytännön kokemuksella. Hahmojen taso riippuu tietenkin suuresti ympäristöstä ja siitä, onko peli lyhyt kertaseikkailu vai pitkä kampanja. On myös yleistä, että pelaaja luo kokeneemman hahmon korvatakseen pelissä kuolleen hahmon tai liittyessään olemassa olevaan kampanjaan.
 
-Tarjolla on taulukko, joka jakaa kokemuksen ikäluokkiin. Hahmon kokemus korreloi suoraan iän ja taitokompetenssin kanssa; kokeneemmilla hahmoilla on luonnollisesti enemmän elämänkokemusta kuin nuoremmilla tovereillaan. Huomioitua ikäbonusta tulisi kuitenkin pitää suuntaa-antavana, sillä kampanjat etenevät eri tahtia — jotkut kampanjat kuluttavat paljon peliaikaa seikkailujen välillä, kun taas toiset ovat yksi pitkä katkeamaton seikkailujen sarja. Kun muunnat olemassa olevaa hahmoa, korvaa vain todellinen ikä taulukossa mainitulla.
+Saatavilla on taulukko, joka jakaa kokemuksen ikäluokkiin. Hahmon kokemuksella on suora yhteys ikään ja taitotasoon; kokeneemmilla hahmoilla on luonnollisesti enemmän elämänkokemusta kuin nuoremmilla tovereillaan. Huomioitua ikäbonusta tulee kuitenkin pitää likimääräisenä, sillä kampanjat etenevät eri tahtia – joissakin kampanjoissa seikkailujen välillä kuluu paljon peliaikaa, kun taas toiset ovat yksi pitkä, katkeamaton seikkailuketju. Kun muutat olemassa olevaa hahmoa, korvaa taulukossa mainittu ikä vain todellisella iällä.
 
 #### Kokemustaulukko
 
-| Luokka | Ikä | Bonustaitopisteet | Maksimitaitolisäys |
+| Luokka | Ikä | Bonustaitopisteet | Taitojen enimmäiskorotus |
 | :-- | :-: | :-: | :-: |
 | Nuori | 10+1d6 | 100 | +10 |
 | Aikuinen | 15+2d6 | 150 | +15 |
@@ -356,17 +354,17 @@ Tarjolla on taulukko, joka jakaa kokemuksen ikäluokkiin. Hahmon kokemus korrelo
 #### Kokemustaulukon huomautukset
 
 - Bonustaitopisteet määrittävät, kuinka monta pistettä hahmon on käytettävä taitojen kehittämiseen.
-- Maksimitaitolisäys rajoittaa, kuinka monta bonuspistettä voidaan käyttää yhteen taitoon.
+- Taitojen enimmäiskorotus rajoittaa, kuinka monta bonuspistettä voidaan käyttää yhteen tiettyyn taitoon.
 
 ### Taitopyramidi
 
-_Mythras Imperative_ -pelin taitopisteiden jakoprosessi tuottaa 350 pistettä kolmesta lähteestä: Kulttuuri (100), Ura (100) ja Bonustaitopisteet (150). Näiden pisteiden jakaminen voi viedä aikaa, ja on epäilemättä hetkiä, jolloin hahmon kulttuurin määrittäminen ei ole niin tärkeää, tai pelaajalla on tietty ammatti mielessä, jota pääsääntöjen mallit eivät palvele. Vaihtoehtoinen järjestelmä taitopisteiden jakamiseen on esitetty tässä.
+_Mythras Imperativen_ taitopisteiden jakoprosessi tuottaa 350 pistettä kolmesta lähteestä: Kulttuuri (100), Ura (100) ja Bonustaitopisteet (150). Näiden pisteiden jakaminen voi viedä aikaa, ja epäilemättä on tilanteita, joissa hahmon kulttuurin määrittäminen ei ole niin tärkeää, tai pelaajalla on mielessään tietty ammatti, jota perussääntöjen mallit eivät helposti palvele. Tässä esitellään vaihtoehtoinen järjestelmä taitopisteiden jakamiseen niitä hetkiä varten, kun aika on kortilla tai pelaajat ovat kärsimättömiä.
 
-Sen sijaan, että pisteitä jaettaisiin kulttuurin, uran ja bonustaitopisteiden pooleista, käytetään Taitopyramidia. Tämä jakaa 350 pistettä viiteen kiinteään pisteiden lohkoon, seuraavasti:
+Sen sijaan, että jaettaisiin pisteitä kulttuurin, uran ja bonustaitopisteiden potista, käytetään Taitopyramidia. Tämä jakaa 350 pistettä viiteen kiinteään pistelohkoon seuraavasti:
 
-1 taito 50 %, 2 taitoa 40 %, 3 taitoa 30 %, 4 taitoa 20 %, 5 taitoa 10 %.
+1 taito 50 %:iin, 2 taitoa 40 %:iin, 3 taitoa 30 %:iin, 4 taitoa 20 %:iin, 5 taitoa 10 %:iin.
 
-Tämä muodostaa kätevän pyramidin. Rasti vain jokainen arvo, kun se on jaettu.
+Tämä muodostaa kätevän pyramidin. Rasti vain jokainen arvo pois sitä mukaa kun se on jaettu.
 
 ```
     50
@@ -382,44 +380,44 @@ Tämä muodostaa kätevän pyramidin. Rasti vain jokainen arvo, kun se on jaettu
 
 #### Muutama yksinkertainen sääntö
 
-- Kaikki pyramidipisteet on jaettava.
-- Millään taidolla ei voi olla useampaa kuin yhtä varausta pyramidista.
-- Tavat ja äidinkieli saavat molemmat +40, pääsääntöjen mukaisesti, lisänä pyramidista tehtyihin jakoihin.
-- Intohimot, jotka saavat [Intohimot](0002_Characters.md?id=step-8-passions) -osiossa mainitut arvot, lisänä pyramidista tehtyihin jakoihin.
-- Mikään taito ei voi ylittää 80 % jakotuloksesta. Joten jos hahmolla on STR 16 ja DEX 17, jolloin perusta on 33 %, pelaaja ei voi varata 50 pisteen arvoa taistelutyyliin.
-- Kuusi arvoa on varattava ammattitaidoille.
-- Hahmot voivat edelleen valita kulttuurin ja ammatin, ja käyttää sopivassa kuvauksessa lueteltuja taitoja ohjeena jaoissaan, tai jaot voivat olla täysin vapaamuotoisia.
-- On suositeltavaa, että ainakin yksi arvoista varataan taistelutyylille, mutta tämä ei ole pakollista.
+- Kaikki pyramidin pisteet on jaettava.
+- Mikään taito ei voi saada enempää kuin yhden jaon pyramidista.
+- Sekä Tavat että Äidinkieli saavat molemmat +40 perussääntöjen mukaisesti, ja tämä tapahtuu pyramidin jaoista riippumatta.
+- Intohimot, jotka saavat [Intohimot](0002_Characters.md?id=step-8-passions) -osiossa mainitut arvot, tapahtuvat pyramidin jaoista riippumatta.
+- Mikään taito ei voi ylittää 80 % jakoarvon seurauksena. Joten jos hahmolla on VOI 16 ja KET 17, mikä tekee perusarvoksi 33 %, pelaaja ei voi kohdistaa 50 pisteen arvoa taistelutyyliin.
+- Kuusi arvoista on kohdistettava ammattitaitoihin.
+- Hahmot voivat edelleen valita kulttuurin ja ammatin, ja käyttää vastaavissa kuvauksissa lueteltuja taitoja ohjeena jaossaan, tai jaot voivat olla täysin vapaamuotoisia.
+- On suositeltavaa, että ainakin yksi arvoista kohdistetaan taistelutyyliin, mutta se ei ole pakollista.
 - Pelinjohtajalla on aina viimeinen sana.
 
-### Sankarillisuus suurempaa kuin elämä
+### Suurempia kuin elämä -sankariteot
 
-_Mythras Imperative_ käsittelee ensisijaisesti normaaleja ihmisiä, mutta toisinaan kampanja vaatii jotain muuta, varsinkin jos se vaatii erityistä sankarillisuutta tai sijoittuu Pulp Action -asetelmaan, jossa sankarit ja roistot ovat suurempia kuin elämä.
+_Mythras Imperative_ käsittelee ensisijaisesti tavallisia ihmisiä, mutta toisinaan kampanja vaatii jotain muuta, varsinkin jos se vaatii erityisiä sankaritekoja tai sijoittuu Pulp Action -ympäristöön, jossa sankarit ja roistot ovat yleensä suurempia kuin elämä itse.
 
-Tällaisilla sankareilla ei välttämättä ole supervoimia (vaikka jos niitä halutaan, Taikuus ja voimat -lukua voidaan käyttää), mutta he ovat hieman vahvempia, nopeampia, kestävämpiä ja yleensä paljon tahdokkaampia. Ajattele erästä barbaaria Cimmeriasta; erityisagenttia, jolla on lupa tappaa; pronssista miestä; viittasankaria, joka on myös miljardööri-playboy – tai mitä tahansa lukuisista suosituista sankarillisista hahmoista. He kohtaavat usein tilanteita, joissa normaali ihminen murtuisi; mutta sankareina he voivat kestää sen, mitä juoni heittää heidän tielleen, ja elää seuraavaan seikkailuun (suhteellisen) naarmuitta.
+Tällaisilla sankareilla ei välttämättä ole varsinaisia supervoimia (vaikka jos niitä halutaan, Taikuus ja Voimat -lukua voidaan käyttää), mutta he ovat hieman vahvempia, hieman nopeampia, hieman kestävämpiä ja yleensä paljon tahdonvoimaisempia. Ajattele tiettyä barbaaria Cimmeriasta; erikoisagenttia, jolla on lupa tappaa; pronssimiestä; viitattua kostajaa, joka on myös miljardööri-playboy – tai mitä tahansa useista suosituista sankarillisista hahmoista. He kohtaavat usein tilanteita, joissa tavallinen ihminen murtuisi; mutta sankareina he kestävät kaiken, mitä juoni heittää heidän tielleen, ja elävät jatkaakseen seuraavaan seikkailuun (suhteellisen) naarmuitta.
 
-Jos aiot esitellä näitä hahmotyyppejä peleissäsi, varmista, että kaikilla pelaajilla on hahmot samalla tasolla. Nämä hahmotyypit on suunniteltu viemään huomio ja ajamaan toimintaa; arkipäiväiset hahmot (ellei heillä ole taikuuden tai muun edun tuomaa etua) saattavat jäädä varjoon.
+Jos aiot esitellä näitä hahmotyyppejä peleissäsi, varmista, että kaikilla pelaajilla on hahmot samalla tasolla. Nämä hahmotyypit on suunniteltu viemään huomio ja ajamaan toimintaa eteenpäin; arkiset hahmot (ellei heillä ole taikuuden tai muun edun tuomaa hyötyä) saattavat hyvinkin jäädä varjoon.
 
 ### Pulp-sankarihahmot
 
-Nämä ovat perinteisiä Pulp-sankareita. He eivät ole supersankareita tai puolijumalia, ja hyvin suunnattu haulikon laukaus lopettaa edelleen heidän elämänsä, mutta he ovat sitkeämpiä, älykkäämpiä, kyvykkäämpiä ja yleisesti ottaen askeleen tai kaksi tavallisten ihmisten yläpuolella. Lisäksi heidän elämänsä on yleensä täynnä seikkailua. Vaikka sankarillinen hahmo voi valita yrittävänsä asettua aloilleen ja elää tapahtumaköyhää elämää, usein vaikeudet tai apua tarvitseva löytävät tiensä hahmon ovelle.
+Nämä ovat perinteisiä Pulp-sankareita. He eivät ole supersankareita tai puolijumalia, ja hyvin suunnattu haulikon laukaus lopettaa edelleen heidän elämänsä, mutta he ovat sitkeämpiä, älykkäämpiä, kykenevämpiä ja yleisesti ottaen askeleen tai kaksi tavallisia ihmisiä edellä. Heidän elämänsä ovat myös yleensä täynnä seikkailua. Vaikka sankarillinen hahmo voi päättää yrittää asettua aloilleen ja viettää tapahtumaköyhää elämää, usein vaikeudet tai apua tarvitseva löytävät tiensä hahmon ovelle.
 
 #### Ominaisuudet
 
-Luotaessa Pulp-sankarillisia hahmoja, käytä Nopanheitto-sijoittelumenetelmää [Hahmot](0002_Characters.md?id=calculating-characteristics) -osiossa. Heitä 4d6 ja hylkää alin noppa, viisi kertaa, ja sijoita tulokset STR, CON, DEX, POW ja CHA -ominaisuuksiin. Seuraavaksi heitä 3d6+6 ja hylkää alin noppa kahdesti, ja sijoita nämä numerot SIZ- ja INT-ominaisuuksiin. Jos käytät Pisteiden jako -menetelmää, pelaajat rakentavat hahmonsa 90 pisteen esiasetetusta poolista.
+Kun luot Pulp-sankarillisia hahmoja, käytä [Hahmot](0002_Characters.md?id=calculating-characteristics) -osion Nopanheiton jaon menetelmää. Heitä 4d6 ja hylkää pienin luku viisi kertaa, ja jaa tulokset VOI, KES, KET, MAH ja KAR -arvoille. Heitä seuraavaksi 3d6+6 ja hylkää pienin luku kahdesti, ja jaa nämä luvut KOK ja ÄLY -arvoille. Jos käytät Pisteiden rakentamisen menetelmää, pelaajat rakentavat hahmonsa 90 pisteen esiasetetusta potista.
 
 #### Attribuutit
 
-Nämä lasketaan normaalisti, paitsi että Pulp-sankarilliset hahmot saavat kaksi seuraavista eduista (huomaa, että etuja ei voi pinota):
+Nämä lasketaan kuten tavallisesti, paitsi että Pulp-sankarilliset hahmot saavat kaksi seuraavista eduista (huomaa, että etuja ei voi pinota):
 
-- +1 toimintapiste
-- +1 onnenpiste
-- +1 osumapiste jokaiseen kehonosaan
+- +1 Toimintapiste
+- +1 Onnenpiste
+- +1 Osumapiste jokaiseen osumakohtaan
 - Kestävyysheitot ovat yhden asteen helpompia
 - Hiipimisheitot ovat yhden asteen helpompia
 - Tahdonvoimaheitot ovat yhden asteen helpompia
 
-Kaikki Pulp-sankarilliset hahmot kaksinkertaistavat parantumisnopeutensa kärsiessään lievistä tai vakavista haavoista, vaikka suuria haavoja käsitellään hahmon normaalilla parantumisnopeudella.
+Kaikki Pulp-sankarilliset hahmot kaksinkertaistavat parantumisnopeutensa kärsiessään lievistä tai vakavista vammoista, vaikka päävammat käsitellään hahmon tavallisella parantumisnopeudella.
 
 #### Taidot
 
@@ -427,26 +425,26 @@ Pulp-sankarilliset hahmot saavat ylimääräiset 50 bonustaitopistettä jaettava
 
 ### Paragon-hahmot
 
-Paragon-hahmot ovat erinomaisuuden huippuja. Vaikka eräs ruoskaa heiluttava arkeologi ja lisensoitu supervakooja ovat Pulp-sankarillisia hahmoja, tuo Cimmerialainen, Pronssimies, Dark Knight -etsivä ja Sherlock Holmes ovat Paragon-hahmoja. Paragon-hahmot eivät ole vain äärimmäisen päteviä yhdellä osaamisalueella: he yleensä loistavat useilla. Loistava keksijä ja fyysikko, joka on myös nyrkkeilevä, tarkka ampuja -sotasankari, on erinomainen esimerkki Paragon-hahmosta; Miljardööri-playboy -rikostentorjuja, joka opiskeli maailman parhaiden etsivien kanssa, on toinen. Paragon-hahmoilla voi hyvinkin olla useita korkeakoulututkintoja, itsenäistä varallisuutta, salaperäisiä hyväntekijöitä sekä monia muita kokemuksen muotoja.
+Paragon-hahmot ovat erinomaisuuden huipentumia. Vaikka eräs ruoskaa heiluttava arkeologi ja luvalla tappava supervakooja ovat Pulp-sankarillisia hahmoja, tuo Cimmerialainen, Pronssimies, Dark Knight -etsivä ja Sherlock Holmes ovat Paragon-hahmoja. Paragon-hahmot eivät ole vain äärimmäisen päteviä yhdellä osa-alueella: he yleensä erottuvat useilla. Loistava keksijä ja fyysikko, joka on myös kovanyrkkinen, tarkkakätinen sotasankari, on erinomainen esimerkki Paragon-hahmosta; miljardööri-playboy-rikostorjuja, joka opiskeli maailman parhaiden etsivämielien kanssa, on toinen. Paragon-hahmoilla voi hyvinkin olla useita yliopistotutkintoja, itsenäistä varallisuutta, mystisiä hyväntekijöitä sekä lukuisia muita kokemuksia.
 
-Tämän seurauksena Paragon-hahmot eivät ole kaikille, mutta jos asetelma tarvitsee hahmoja, jotka voivat muuttaa koko aurinkokunnan kohtalon tai ottaa vastaan minkä tahansa haasteen, niin Paragon-tason kampanja sopii tarkoitukseen. Vaikka sekä tavallisiin että sankarillisiin kampanjoihin liittyy toisinaan erittäin suuria panoksia, kuten kansakuntien tai jopa planeettojen kohtalo, Paragon-kampanjoiden tulisi tehdä niin säännöllisesti.
+Tämän seurauksena Paragon-hahmot eivät välttämättä sovi kaikille, mutta jos ympäristö tarvitsee hahmoja, jotka voivat muuttaa koko aurinkokunnan kohtalon tai ottaa vastaan minkä tahansa haasteen, niin Paragon-tason kampanja sopii tarkoitukseen. Vaikka sekä tavallisiin että sankarillisiin kampanjoihin liittyy toisinaan erittäin korkeita panoksia, kuten kansakuntien tai jopa planeettojen kohtalo, Paragon-kampanjoiden tulisi tehdä niin säännöllisesti.
 
 #### Ominaisuudet
 
-Luotaessa hahmoja Nopanheitto-sijoittelumenetelmällä [Hahmot](0002_Characters.md?id=calculating-characteristics) -osiossa. Heitä 4d6, hylkää alin noppa kuusi kertaa, sitten sijoita valitsemasi viisi tulosta (yleensä korkeimmat viisi) STR, CON, DEX, POW ja CHA -ominaisuuksiin. Seuraavaksi heitä 3d6+6, hylkää alin noppa kolmesti ja sijoita valitsemasi kaksi tulosta (yleensä korkeimmat kaksi) SIZ- ja INT-ominaisuuksiin. Jos käytät Pisteiden jako -menetelmää, pelaajat rakentavat hahmonsa 100 pisteen esiasetetusta poolista.
+Kun luot hahmoja käyttäen [Hahmot](0002_Characters.md?id=calculating-characteristics) -osion Nopanheiton jaon menetelmää. Heitä 4d6, hyläten pienin luku kuusi kertaa, ja jaa viisi valitsemaasi tulosta (yleensä korkeimmat viisi) VOI, KES, KET, MAH ja KAR -arvoille. Seuraavaksi heitä 3d6+6, hyläten pienin luku kolme kertaa, ja jaa kaksi valitsemaasi tulosta (yleensä korkeimmat kaksi) KOK ja ÄLY -arvoille. Jos käytät Pisteiden rakentamisen menetelmää, pelaajat rakentavat hahmonsa 100 pisteen esiasetetusta potista.
 
 #### Attribuutit
 
-Nämä lasketaan normaalisti, paitsi että Paragon-hahmot saavat kolme seuraavista eduista (huomaa, että etuja ei voi pinota):
+Nämä lasketaan kuten tavallisesti, paitsi että Paragon-hahmot saavat kolme seuraavista eduista (huomaa, että etuja ei voi pinota):
 
-- +1 toimintapiste
-- +2 onnenpistettä
-- +2 osumapistettä jokaiseen kehonosaan
+- +1 Toimintapiste
+- +2 Onnenpistettä
+- +2 Osumapistettä jokaiseen osumakohtaan
 - Kestävyysheitot ovat yhden asteen helpompia
 - Hiipimisheitot ovat yhden asteen helpompia
 - Tahdonvoimaheitot ovat yhden asteen helpompia
 
-Kaikki Paragon-hahmot kaksinkertaistavat parantumisnopeutensa kärsiessään lievistä tai vakavista haavoista, vaikka suuria haavoja käsitellään hahmon normaalilla parantumisnopeudella.
+Kaikki Paragon-hahmot kaksinkertaistavat parantumisnopeutensa kärsiessään lievistä tai vakavista vammoista, vaikka päävammat käsitellään hahmon tavallisella parantumisnopeudella.
 
 #### Taidot
 
@@ -455,65 +453,63 @@ Paragon-sankarilliset hahmot saavat ylimääräiset 100 bonustaitopistettä jaet
 ---
 ## Vaihe 8: Intohimot
 
-Intohimoja käytetään auttamaan pelaajia ja pelinjohtajia syventämään hahmon luonnetta, esittelemään juonenkäänteitä hahmon halujen tai ennakkoluulojen perusteella ja auttamaan pelaajaa ymmärtämään, kuka hänen hahmonsa on, mikä häntä ajaa, ja niin edelleen.
+Intohimoja käytetään auttamaan pelaajia ja pelinjohtajia hahmon luonteen syventämisessä, esittelemään juonenkäänteitä, jotka perustuvat hahmon haluihin tai ennakkoluuloihin, sekä auttamaan pelaajaa ymmärtämään, kuka hänen hahmonsa on, mikä häntä ajaa, ja niin edelleen.
 
-Intohimo voi olla mitä tahansa – henkilö, organisaatio, ihanne, jopa esine. Intohimot kuvataan tyypillisesti verbin avulla, kuten: Haluta, halveksia, tuhota, kannattaa, pelätä, paeta, kieltää, vihata, rakastaa, lojaalisuus, suojella, hylätä, kunnioittaa, etsiä, kumota, kiduttaa tai vaalia.
+Intohimo voi liittyä mihin tahansa – henkilöön, organisaatioon, ideaaliin, jopa esineeseen. Intohimot kuvataan tyypillisesti verbin avulla, kuten: Haluta, Halveksua, Tuhota, Kannattaa, Pelätä, Paeta, Kieltää, Vihata, Rakastaa, Uskollisuus, Suojella, Hylätä, Kunnioittaa, Etsiä, Kumota, Piinata tai Puolustaa.
 
-Intohimoja mitataan samalla tavalla kuin taitoja; ne luokitellaan välille 1–100 (tai korkeammalle). Intohimoa voidaan parantaa samalla tavalla kuin taitoa, tai pelinjohtaja voi kasvattaa tai vähentää sitä olosuhteista riippuen.
+Intohimoja mitataan samalla tavalla kuin taitoja; ne on pisteytetty 1–100 (tai korkeammalle). Intohimoa voidaan parantaa samalla tavalla kuin taitoa, tai pelinjohtaja voi kasvattaa tai vähentää sitä olosuhteista riippuen.
 
-Aloitushahmot voivat aloittaa jopa kolmella intohimolla, joista jokainen perustuu kahteen ominaisuuteen, +40 bonuksella ensimmäiseen, +30 toiseen ja +20 kolmanteen – pelaajan päättäessä tärkeysjärjestyksen. Nämä voidaan sitoa kulttuuriin, ammattiin tai henkilökohtaisiin paheisiin. Esimerkiksi Sword & Sorcery -kampanjassa hahmo voisi ottaa: Viha (Stygialaiset), Epäluulo (Taikurit) ja Halun (Alkoholi); kun taas dystooppisessa scifi-pelissä hahmo voisi valita Lojaalisuus (Presidentti), Tuhota (Aliens) ja Vaalia (Lakia).
-
-#### Intohimotaulukko
+Aloittelevat hahmot voivat aloittaa enintään kolmella intohimolla, joista jokainen perustuu kahteen ominaisuuteen, bonuksena +40 ensimmäiseen, +30 toiseen ja +20 kolmanteen – pelaajan päättäessä tärkeysjärjestyksen. Nämä voidaan sitoa hänen kulttuuriinsa, ammattiinsa tai henkilökohtaisiin paheisiinsa. Esimerkiksi Sword & Sorcery -kampanjassa hahmo voi valita: Viha (Stygialaiset), Epäluottamus (Velhot) ja Halu (Alkoholi); kun taas dystooppisessa scifi-pelissä hahmo voi valita Uskollisuus (Presidentti), Tuhota (Aliens) ja Puolustaa (Lakia).#### Intohimotaulukko
 
 | Intohimon kohde | Aloitusprosentti |
 | :-- | :-- |
-| Henkilö, romanttisessa tai perhekontekstissa | POW+CHA |
-| Organisaatio tai ihmisryhmä | POW+INT |
-| Rotu tai laji | Hahmon POW x2 |
-| Paikka | Hahmon POW+INT |
-| Esine tai aine | Hahmon POW x2 |
-| Persoonallisuuden piirre | Hahmon POW+CHA |
+| Henkilö, romanttisessa tai perheen kontekstissa | MAH+KAR |
+| Organisaatio tai ihmisryhmä | MAH+ÄLY |
+| Rotu tai laji | Hahmon MAH x2 |
+| Paikka | Hahmon MAH+ÄLY |
+| Esine tai aine | Hahmon MAH x2 |
+| Persoonallisuuden piirre | Hahmon MAH+KAR |
 
 ### Intohimojen käyttäminen
 
-Intohimo on mikä tahansa syvälle juurtunut sitoutuminen, jolla on kyky vaikuttaa tapahtumiin pelin aikana. Vaikka niitä voidaan käyttää erillisinä kykyinä, intohimoja laajennetaan alla selittämään tarkemmin, miten ne toimivat ja miten ne voivat vaikuttaa _Mythras Imperative_ -hahmoihin ja kampanjoihin.
+Intohimo on mikä tahansa syvälle juurtunut sitoumus, jolla on kyky vaikuttaa tapahtumiin pelin aikana. Vaikka niitä voidaan käyttää itsenäisinä kykyinä (niiden kutsuminen taidoiksi tekee niille vääryyttä), intohimoja laajennetaan alla tarkemmin, jotta selitetään, miten ne toimivat ja miten ne voivat vaikuttaa _Mythras_ _Imperative_ -hahmoihin ja kampanjoihin.
 
-Yhteenvetona, intohimoja voidaan käyttää näin:
+Yhteenvetona intohimoja voidaan käyttää seuraavasti:
 
-- Toisen taidon täydentämiseen, heijastaen tunteiden syvyyttä ja sitä, miten se ajaa toimintaa. Kun niitä käytetään tässä suhteessa, intohimo lisää 20 % arvostaan käytettävään taitoon, jos täydennys on temaattisesti ja dramaattisesti tärkeä.
-- Kykynä ohjata valintoja, haluja ja emotionaalisia toimia ja vastauksia. Kun sitä käytetään tällä tavalla, tehdään standardiheito intohimoa vastaan määrittämään, kuinka voimakkaasti hahmo ajattelee ja tuntee jotain. Jos heitto on onnistunut, hahmo toimii intohimon sanelun mukaan. Jos heitto epäonnistuu, hahmo voi toimia vapaasti tuntematta itseään rajoitetuksi intohimon ajureista.
-- Muiden intohimojen vastustamiseen – jopa saman hahmon omien. Tätä käytetään tyypillisesti silloin, kun kaksi intohimoa on ristiriidassa. Esimerkiksi henkilökohtainen rakkaus voi määrätä toimintatavan, joka on ristiriidassa valan tai lojaalisuuden kanssa. Käytä tässä vastakkaista heittoa (Opposed Roll) kahden intohimon välillä, jolloin onnistuneempi määrittää, miten hahmo toimii.
-- Yleisenä mittarina sitoutumisen, uskon ja lojaalisuuden syvyydelle asiaa kohtaan. Mitä korkeampi intohimon arvo, sitä sitoutuneempi hahmo on. Hahmot, joilla on samanlaisia intohimoja, voivat verrata arvojaan määrittääkseen, kuka osoittaa syvempää sitoutumista.
-- Psykologisen manipulaation tai maagisen hallinnan vastustamiseen. Tietyissä tapauksissa, joissa hahmoa pakotetaan tekemään jotain intohimojensa vastaista, he voivat korvata tahdonvoiman (Willpower) vastakkaisessa heitossa.
+- Toisen taidon vahvistamiseen, heijastaen tunteiden syvyyttä ja sitä, miten ne ohjaavat toimintaa. Tässä yhteydessä intohimo lisää 20 % omasta arvostaan käytettävään taitoon, jos vahvistaminen on temaattisesti ja dramaattisesti tärkeää.
+- Kykynä ohjaamaan valintoja, haluja sekä emotionaalisia tekoja ja reaktioita. Kun niitä käytetään tällä tavoin, intohimoa vasten heitetään Standard-heitto sen määrittämiseksi, kuinka voimakkaasti hahmo ajattelee ja tuntee jostakin asiasta. Jos heitto on onnistunut, hahmo toimii intohimon sanelun mukaisesti. Jos heitto epäonnistuu, hahmo voi toimia vapaasti tuntematta itseään intohimon ohjaamaksi.
+- Muiden intohimojen vastustamiseen – jopa saman hahmon muiden intohimojen. Tätä käytetään tyypillisesti silloin, kun kaksi intohimoa ovat ristiriidassa keskenään. Esimerkiksi henkilökohtainen rakkaus voi sanella toimintatavan, joka on ristiriidassa valan tai uskollisuuden kanssa. Käytä tässä Vastakkaista heittoa kahden intohimon välillä, jolloin onnistuneempi määrittää, miten hahmo toimii.
+- Yleisenä mittarina sitoutumisen, uskon ja aatteen uskollisuuden syvyydelle. Mitä korkeampi intohimon arvo on, sitä sitoutuneempi hahmo on. Hahmot, joilla on samankaltaisia intohimoja, voivat verrata arvojaan määrittääkseen, kummalla on syvempi sitoutuminen.
+- Psykologisen manipuloinnin tai maagisen hallinnan vastustamiseen. Tietyissä tapauksissa, joissa hahmoa pakotetaan tekemään intohimojaan vastaan sotiva teko, hän voi korvata jommallakummalla niistä tahdonvoiman (Willpower) Vastakkaisessa heitossa.
 
-Uusia intohimoja voidaan kehittää milloin tahansa peli-istunnon aikana, jos olosuhteet sitä vaativat. Joku voi välittömästi kehittää 'Viha X:ää kohtaan', kun joku tekee jotain, mikä herättää voimakkaan vihan. Valtiaan tai päällikön vaatiessa valaa, 'Lojaalisuus X:ää kohtaan' syntyisi heti, kun vala on vannottu.
+Uusia intohimoja voi kehittää missä tahansa vaiheessa pelisession aikana, jos olosuhteet sitä vaativat. Joku voi kehittää välittömästi 'Viha X:ää kohtaan', kun joku toinen tekee jotain, mikä herättää voimakasta vihaa. Valtias tai päällikkö, joka vaatii valan, luo välittömästi 'Uskollisuus X:lle' -intohimon heti, kun kyseinen vala on vannottu.
 
-Uudet näin pelin aikana kehitetyt intohimot eivät maksa kokemusheittoja ja ne vahvistetaan siinä ja silloin. Tietysti hahmot voivat myös päättää luoda intohimon parantamisen aikana, kokemusheiton hinnalla saadakseen intohimon perusarvollaan.
+Pelin aikana tällä tavoin kehitetyt uudet intohimot eivät maksa kokemuspisteheittoja (Experience Rolls), ja ne vakiinnutetaan heti. Tietysti hahmot voivat myös valita intohimon kehittämisen parannusvaiheen aikana, jolloin kokemuspisteheiton kustannuksella saa intohimon sen Perusarvolla.
 
-### Syventyminen ja hiipuminen
+### Syveneminen ja hiipuminen
 
-Intohimot voivat kasvaa pelin aikana riippumatta kokemusheitosta, riippuen siitä, kuinka vahvasti kasvu laukaiseva tapahtuma oli. Myös ne voivat, ja tekevätkin, hiipua. Voimakkaasti pidettyä uskoa voi järkyttää moni asia, mikä johtaa intohimon vähenemiseen tai äärimmäisissä tapauksissa täydelliseen kääntymiseen.
+Intohimot voivat kasvaa pelin aikana riippumatta kokemuspisteheitosta, sen perusteella, kuinka voimakas kasvun aiheuttanut tapahtuma oli. Ne voivat myös, ja niin tapahtuukin, hiipua. Vahvaa uskomusta voivat horjuttaa monet asiat, mikä johtaa intohimon vähentymiseen tai äärimmäisissä tapauksissa täydelliseen kääntymiseen.
 
-Esimerkiksi hahmo, jolla on 'Luottamus päällikköön', saattaa päällikön toimiessa petollisesti joko vähentää intohimoaan tai muuttaa sen 'Epäluulo päällikköä kohtaan' -tilaan samalla prosenttimäärällä. Pelinjohtajan on päätettävä, väheneekö vai kääntyykö intohimo. Jos se vähenee, se tapahtuu muutoksen lähteen voiman mukaan.
+Esimerkiksi hahmo, jolla on 'Luottamus päällikköön', saattaa päällikkönsä petturuuden seurauksena joko vähentää intohimoaan tai muuttaa sen 'Epäluottamus päällikköön' -intohimoksi samalla prosenttiosuudella. Pelinjohtajan on määritettävä, väheneekö vai kääntyykö intohimo. Jos se vähenee, se tapahtuu muutoksen lähteen voimakkuuden mukaisesti.
 
-Syventymis- ja hiipumistaulukko näyttää, kuinka paljon intohimo muuttuu.
+Syvenemisen ja hiipumisen taulukko näyttää, kuinka paljon intohimo muuttuu.
 
-#### Syventymis- ja hiipumistaulukko
+#### Syvenemisen ja hiipumisen taulukko
 
-| Muutoksen syvyys | Intohimon muokkaus |
+| Muutoksen syvyys | Intohimon muutos |
 | --- | --- |
 | Heikko | 1d10 |
 | Kohtalainen | 1d10+5 |
-| Vahva | 1d10+10 |
+| Voimakas | 1d10+10 |
 
 ---
 ## Vaihe 9: Varusteet
 
-Nyt kun hahmo on lähes valmis, hän tarvitsee varusteita. Näitä voivat olla aseet, haarniskat tai muut tärkeät välineet, joita käytetään tietyssä ammatissa. Seikkailun aikana on monia tilaisuuksia saada lisää varusteita, mutta jokaisella aloitushahmolla on hallussaan seuraavat:
+Nyt kun hahmo on lähes valmis, hän tarvitsee varusteita. Näihin voi kuulua aseita, panssareita tai muita tärkeitä ammatin harjoittamiseen tarvittavia välineitä. Seikkailun aikana on monia mahdollisuuksia saada lisää varusteita, mutta jokaisella aloittavalla hahmolla on hallussaan välittömästi seuraavat:
 
-- Hahmon ammattiin ja asetelmaan sopiva vaatekerta.
-- Taskurahaa; tarpeeksi kestämään vähän aikaa ilman vaikeuksia.
-- Henkilökohtainen perintökalleus, muistoesine tai muu vähäarvoinen rihkama.
-- Kaikki ammattityökalut tai kuljetettavat laitteet, jotka sopivat hahmon ammattiin, jos tarpeen.
-- Henkilökohtainen ase hahmon taistelutyylille.
-- Muita asetelmaan sopivia esineitä, pelinjohtajan hyväksynnän alaisena.
+- Hahmon ammattiin ja ympäristöön sopivat vaatteet.
+- Määrä taskurahaa; tarpeeksi selviytyäkseen jonkin aikaa ilman puutetta.
+- Henkilökohtainen perintökalleus, muistoesine tai jokin vähäarvoinen pikkutavara.
+- Mahdolliset kaupankäynnin työkalut tai hahmon ammattiin sopivat liikuteltavat välineet, jos ne ovat aiheellisia.
+- Hahmon Taistelutyyliin sopiva henkilökohtainen ase.
+- Muut ympäristöön sopivat ja pelinjohtajan hyväksymät esineet.
