@@ -1,72 +1,75 @@
 # Veicoli
 
-I veicoli in _Mythras Imperative_ sono trattati in modo semi-astratto. Essenzialmente, sono strumenti di sfondo, usati per portare i personaggi da A a B, con poca necessità di descrizioni o statistiche dettagliate. All'occasione, tuttavia, i Games Master richiederanno dettagli per i veicoli quando è necessario rappresentarli in inseguimenti o situazioni di combattimento.
+I veicoli in _Mythras Imperative_ vengono trattati in modo semi-astratto. Essenzialmente, sono strumenti di sfondo, utilizzati per portare i personaggi da A a B, COS scarso bisogno di descrizioni dettagliate o statistiche. Tuttavia, in alcune occasioni, i Game Master necessiteranno di dettagli sui veicoli quando sarà necessario rappresentarli in inseguimenti o situazioni di combattimento.
 
-Le regole in questa sezione consentono la rappresentazione della maggior parte dei tipi di veicoli, ma in un modo astratto che intende permettere flessibilità e migliorare la narrazione. Le astronavi e i veicoli spaziali sono leggermente diversi, sebbene si basino su principi simili.
+Le regole in questa sezione consentono di rappresentare la maggior parte dei tipi di veicoli in modo astratto, pensato per permettere flessibilità e migliorare la narrazione. Le astronavi e i veicoli spaziali sono leggermente diversi, sebbene si basino su principi simili.
 
 ---
 ## Statistiche
 
 Tutti i veicoli sono descritti in termini di Struttura, Scafo, Velocità, Sistemi, Tratti e Scudi (se presenti nell'ambientazione).
 
-- **[Dimensione](0006_Vehicles.md?id=vehicle-size-table):** Tutti i veicoli hanno una delle sei classificazioni di Dimensione che determina il valore o l'intervallo delle altre caratteristiche. A causa delle loro dimensioni intrinseche maggiori e degli ambienti ostili dello spazio, le astronavi hanno un proprio intervallo di valori.
-- **[Scafo](0006_Vehicles.md?id=terrestrial-hulls):** Rappresenta i Punti Armatura
-- **[Struttura](0006_Vehicles.md?id=terrestrial-hulls):** Rappresenta i Punti Ferita di un veicolo
-- **[Scudi](0006_Vehicles.md?id=shields):** Nelle ambientazioni con tecnologia avanzata di manipolazione dell'energia, possono essere presenti scudi che proteggono il veicolo, ma che possono ablarsi sotto il fuoco sostenuto.
-- **[Sistemi](0006_Vehicles.md?id=systems):** Rappresentano i componenti vitali del veicolo, inclusa la centrale energetica, la sezione dell'equipaggio, e così via.
-- **[Velocità](0006_Vehicles.md?id=speed):** Ogni veicolo ha una valutazione base di Velocità
-- **[Tratti](0006_Vehicles.md?id=traits):** Un veicolo può anche avere uno o più Tratti. I Tratti, come le Abilità assegnate alle Creature nelle regole di _Mythras Imperative_, o i Tratti di Stile di Combattimento, offrono una descrizione e un vantaggio di gioco aggiuntivi, riflettendo la natura del veicolo.
-- **[Armi](0006_Vehicles.md?id=weapons):** Similmente ai Tratti, un veicolo può essere equipaggiato con armi come consentito dall'ambientazione. Di seguito sono dettagliati alcuni esempi e valori suggeriti.
+- **[Taglia](0006_Vehicles.md?id=vehicle-size-table):** Tutti i veicoli hanno uno dei sei gradi di Taglia, che determina il valore o l'intervallo del resto delle caratteristiche. A causa della loro maggiore dimensione intrinseca e degli ambienti ostili dello spazio, le astronavi hanno il proprio intervallo di valori.
+- **[Scafo](0006_Vehicles.md?id=terrestrial-hulls):** Rappresenta i Punti Armatura.
+- **[Struttura](0006_Vehicles.md?id=terrestrial-hulls):** Rappresenta i Punti Ferita di un veicolo.
+- **[Scudi](0006_Vehicles.md?id=shields):** Nelle ambientazioni COS tecnologia avanzata di manipolazione energetica, potrebbero essere presenti scudi che proteggono il veicolo, ma che possono degradarsi sotto fuoco prolungato.
+- **[Sistemi](0006_Vehicles.md?id=systems):** Rappresentano i componenti vitali del veicolo, inclusi l'impianto energetico, la sezione dell'equipaggio e così via.
+- **[Velocità](0006_Vehicles.md?id=speed):** Ogni veicolo ha un valore di Velocità base.
+- **[Tratti](0006_Vehicles.md?id=traits):** Un veicolo può anche avere uno o più Tratti. I Tratti, come le Abilità assegnate alle Creature nelle regole di _Mythras Imperative_ o i Tratti dello Stile di Combattimento, offrono una descrizione di gioco e un vantaggio aggiuntivo, che riflettono la natura del veicolo.
+- **[Armi](0006_Vehicles.md?id=weapons):** Proprio come i Tratti, un veicolo può essere equipaggiato COS armi, se l'ambientazione lo consente. Alcuni esempi suggeriti e valori sono dettagliati di seguito.
+
 
 ---
-### Dimensione, Tipo e Struttura dello Scafo
+### Taglia, Tipo e Struttura dello Scafo
 
-La dimensione e lo scopo di un veicolo influenzano lo spessore del suo scafo e la resistenza della sua struttura interna. Una motocicletta, per esempio, ha uno scafo minimale, costruita com'è per velocità e agilità. Una Corazzata Terrestre (un gigantesco colosso corazzato, cingolato o gommato, alimentato da motori a vapore o diesel), essendo un veicolo molto più grande progettato per il campo di battaglia, ha uno scafo molto più grande. Le dimensioni comparative degli scafi (e quanti colpi di armi possono tipicamente sopportare) sono riassunte nelle tabelle Dimensione e Scafo del Veicolo qui sotto.
+La taglia e lo scopo di un veicolo influenzano lo spessore del suo scafo e la resilienza della sua struttura interna. Una motocicletta, ad esempio, ha uno scafo minimo, costruito com'è per la velocità e l'agilità. Un Land Ironclad (un gigantesco colosso corazzato, cingolato o gommato, alimentato a vapore o motori diesel), essendo un veicolo molto più grande progettato per il campo di battaglia, ha uno scafo molto più grande. Le taglie comparative degli scafi (e quanti colpi da armi possono tipicamente sopportare) sono riassunte nelle tabelle Taglia Veicolo e Scafo qui sotto.
 
-Ogni volta che un veicolo subisce danni, il danno in entrata è ridotto dal valore del suo Scafo. Qualsiasi danno rimanente viene sottratto dai Punti Struttura del veicolo e ha una probabilità percentuale, pari al danno penetrante, di influenzare un Sistema. Se il veicolo viene ridotto a zero Struttura, è completamente distrutto, o così gravemente danneggiato da dover essere rottamato.
+Ogni volta che un veicolo subisce danni, il danno in arrivo viene ridotto dal valore del suo Scafo. Qualsiasi danno rimanente viene sottratto dai punti Struttura del veicolo e ha una probabilità percentuale, pari al danno penetrante, di influenzare un Sistema. Se il veicolo viene ridotto a zero Struttura, viene completamente distrutto o così gravemente danneggiato da dover essere demolito.
 
 ##### Scafi Terrestri
 
-| Dimensione | Struttura | Valore Scafo Civile | Valore Scafo Militare | Esempio |
+| Taglia | Struttura | Valore Scafo Civile | Valore Scafo Militare | Esempio |
 | :-- | :-: | :-: | :-: | :-- |
-| Piccolo | 1-20 | 1-3 | 4-6 | Motocicletta, motocicletta con sidecar, auto compatta o utilitaria, canoa, kayak, barca a remi |
-| Medio | 21-40 | 1-6 | 7-9 | Berlina, furgone, pickup, auto di lusso, auto sportiva di lusso, muscle car, limousine, scialuppa di salvataggio, motoscafo, deltaplano, autogiro |
-| Grande | 41-60 | 4-9 | 10-12 | Camion, limousine allungata, SUV, autobus, monovolume, aereo personale, aliante, yacht da diporto, carro armato, elicottero, sottomarino |
-| Enorme | 61-80 | 7-12 | 13-15 | Semirimorchio, aereo di linea, jet, nave della guardia costiera, yacht |
-| Colossale | 81-100 | 10-15 | 16-18 | Treno, nave da crociera, nave da guerra |
+| Piccola | 1-20 | 1-3 | 4-6 | Motocicletta, motocicletta COS sidecar, auto compatta o subcompatta, canoa, kayak, barca a remi |
+| Media | 21-40 | 1-6 | 7-9 | Berlina, furgone, pickup, auto di lusso, auto sportiva di lusso, muscle car, limousine, scialuppa di salvataggio, motoscafo, deltaplano, autogiro |
+| Grande | 41-60 | 4-9 | 10-12 | Camion, limousine allungata, SUV, autobus, monovolume, aereo personale, aliante, yacht da crociera, carro armato, elicottero, sottomarino |
+| Enorme | 61-80 | 7-12 | 13-15 | Autoarticolato, aereo di linea, jet, imbarcazione della guardia costiera, yacht |
+| Immensa | 81-100 | 10-15 | 16-18 | Treno, nave da crociera, nave navale |
 
 ##### Scafi di Astronavi
 
-| Dimensione | Struttura | Valore Scafo Civile | Valore Scafo Militare | Esempio |
+| Taglia | Struttura | Valore Scafo Civile | Valore Scafo Militare | Esempio |
 | :-- | :-: | :-: | :-: | :-- |
-| Piccolo | 10-50 | 4-9 | 10-12 | Caccia monoposto |
-| Medio | 51-150 | 7-12 | 13-15 | Cargo Leggero, Navetta |
-| Grande | 151-450 | 10-15 | 16-18 | Cargo Pesante, Incrociatore |
-| Enorme | 451-1350 | 13-18 | 19-21 | Fregata di Scorta, Incrociatore da Battaglia Leggero |
-| Colossale | 1351-4050 | 16-21 | 21-24 | Nave Generazionale, Incrociatore da Battaglia Pesante |
-| Mastodontico | 4050-12110 | 19-24 | 24-30 | Habitat Orbitale, Stazione da Battaglia Distruggi-Pianeti |
+| Piccola | 10-50 | 4-9 | 10-12 | Caccia monoposto |
+| Media | 51-150 | 7-12 | 13-15 | Mercantile leggero, navetta |
+| Grande | 151-450 | 10-15 | 16-18 | Mercantile pesante, incrociatore |
+| Enorme | 451-1350 | 13-18 | 19-21 | Fregata di scorta, incrociatore da battaglia leggero |
+| Immensa | 1351-4050 | 16-21 | 21-24 | Nave generazionale, incrociatore da battaglia pesante |
+| Colossale | 4050-12110 | 19-24 | 24-30 | Habitat orbitale, stazione da battaglia distruggi-pianeti |
+
 
 ---
 ### Scudi
 
-Gli scudi deflettori forniscono un ulteriore strato di protezione per quei veicoli che possono montarli. Gli scudi funzionano in modo leggermente diverso dallo Scafo, a causa della loro natura ablativa. Se il danno in entrata è uguale o inferiore al valore degli scudi, viene tutto bloccato. Se il danno supera il valore dello scudo, l'eccesso riduce la forza dello scudo di tale importo.
+Gli scudi deflettori forniscono un ulteriore livello di protezione per quei veicoli che possono montarli. Gli scudi funzionano in modo leggermente diverso dallo Scafo, a causa della loro natura ablativa. Se il danno in arrivo è uguale o inferiore al valore degli scudi, viene completamente bloccato. Se il danno supera il valore dello scudo, l'eccesso riduce la forza dello scudo di tale ammontare.
 
-_Per esempio, un trasporto truppe ha una forza dello scudo energetico di 12 punti. Se il trasporto fosse colpito da un laser per 11 danni, semplicemente non penetra e non ha alcun effetto aggiuntivo. D'altra parte, se il trasporto fosse colpito da un'esplosione che infligge 15 danni, i tre punti in eccesso ridurrebbero la forza dello scudo a 9._
+_Ad esempio, un trasporto truppe ha una forza dello scudo energetico di 12 punti. Se il trasporto venisse colpito da un laser per 11 danni, non penetrerebbe e non avrebbe alcun effetto aggiuntivo. D'altra parte, se il trasporto venisse colpito da un'esplosione che infligge 15 danni, i tre punti in eccesso ridurrebbero la forza dello scudo a 9._
 
-Una volta che la forza di uno scudo deflettore è scesa a zero, questo crolla. Qualsiasi danno rimanente si trasferisce sullo scafo.
+Una volta che la forza di uno scudo deflettore scende a zero, esso collassa. Qualsiasi danno rimanente si trasferisce sullo scafo.
 
 ---
 ### Sistemi
 
 Ogni volta che un veicolo subisce danni che penetrano il suo scafo, c'è una probabilità, pari al danno penetrante, che un Sistema vitale sia stato colpito.
 
-_Per esempio, 10 danni vengono applicati a un Motoscafo - un veicolo con 3 Scafo e 24 Struttura. Lo Scafo conta come armatura riducendo il danno a 7. Questo viene rimosso dai 24 punti Struttura e c'è una probabilità del 7% di danneggiare uno dei Sistemi del veicolo._
+_Ad esempio, 10 danni vengono applicati a un motoscafo - un veicolo COS 3 di Scafo e 24 di Struttura. Lo Scafo conta come armatura riducendo il danno a 7. Questo viene rimosso dai 24 punti Struttura e c'è una probabilità del 7% di danneggiare uno dei Sistemi del veicolo._
 
-Il danno che un Sistema può sostenere si basa puramente sulla dimensione del veicolo. Questo è modellato dal numero di colpi che un Sistema può subire, piuttosto che dall'effettivo ammontare del danno. Un singolo Colpo al Sistema su un veicolo Piccolo distruggerà istantaneamente quel Sistema. Sono necessari due colpi per demolire i Sistemi di un veicolo di dimensione Media, tre per un veicolo Grande, e così via. Vedi la [Tabella Danni ai Sistemi](0006_Vehicles.md?id=system-damage-table) qui sotto.
+Il danno che un Sistema può subire si basa puramente sulla taglia del veicolo. Questo è modellato dal numero di colpi che un Sistema può subire, piuttosto che dall'ammontare effettivo del danno. Un singolo Colpo al Sistema su un veicolo Piccolo distruggerà istantaneamente quel Sistema. Sono necessari due colpi per demolire i Sistemi di un veicolo di taglia Media, tre per un veicolo Grande, e così via. Vedi la [Tabella Danni ai Sistemi](0006_Vehicles.md?id=system-damage-table) qui sotto.
 
-I Sistemi che sono danneggiati, ma non ancora distrutti, subiscono una perdita di funzionalità proporzionata al numero di Colpi subiti - o una riduzione percentuale o una penalità di Grado ai compiti del Sistema. L'effetto specifico si basa su ciò che il sottosistema controlla, come dettagliato nella [Tabella Danni Componenti del Sistema](0006_Vehicles.md?id=system-component-damage-table) qui sotto. A seconda del Sistema colpito, gli effetti possono essere catastrofici.
+I Sistemi che sono danneggiati, ma non ancora distrutti, subiscono una perdita di funzionalità proporzionale al numero di Colpi subiti - o una riduzione percentuale o una penalità di Grado alle prove di Sistema. L'effetto specifico si basa su ciò che il sottosistema controlla, come dettagliato nella [Tabella Danni ai Componenti del Sistema](0006_Vehicles.md?id=system-component-damage-table) qui sotto. A seconda di quale Sistema viene colpito, gli effetti possono essere catastrofici.
 
-_Per esempio, una Corazzata Terrestre - un veicolo Enorme con 5 Colpi al Sistema - colpita due volte alla Propulsione perderebbe il 40% della sua potenza e ridurrebbe la sua Velocità Lenta di due Gradi a Macchinosa. Allo stesso modo, un cargo Grande - con 3 Colpi al Sistema - subendo due colpi al Sistema Motore/Carburante avrebbe una penalità di due Gradi alla Velocità e all'uso dei sistemi elettronici. Un terzo colpo distruggerebbe il Sistema Motore/Carburante e con esso la nave._
+_Ad esempio, un Land Ironclad - un veicolo Immenso COS 5 Colpi al Sistema - colpito due volte alla Propulsione perderebbe il 40% della sua potenza e ridurrebbe la sua Velocità Lenta di due Gradi portandola a Pesante. Allo stesso modo, un mercantile Grande - COS 3 Colpi al Sistema - che subisce due colpi al Sistema Motore/Carburante avrebbe una penalità di due Gradi alla Velocità oltre che all'uso dei sistemi elettronici. Un terzo colpo distruggerebbe il Sistema Motore/Carburante e COS esso la nave._
+
 
 <details>
 
@@ -74,14 +77,15 @@ _Per esempio, una Corazzata Terrestre - un veicolo Enorme con 5 Colpi al Sistema
 
 ---
 
-#### Danno
+#### Danni
 
-_Il testo originale qui era originariamente più distante. Posto direttamente dopo la sezione Sistemi, ripete inutilmente il paragrafo precedente._
 
-- _"Il danno che supera lo Scafo penetra il veicolo, danneggiando la Struttura e possibilmente impattando su uno o più sistemi. A seconda della dimensione del veicolo, il danno può essere minore o catastrofico._
-- _Per esempio, un veicolo Grande può subire fino a due colpi su un Sistema come la sua Propulsione. Il terzo colpo distrugge funzionalmente la Propulsione. Ogni volta che il sistema subisce un colpo, perde una percentuale della sua funzione come descritto nella colonna Perdita per Colpo della Tabella Danni ai Sistemi qui sotto o una funzione principale (come Propulsione, Pilota, Comunicazioni, e così via) diventa un Grado di Difficoltà più difficile per colpo subito."_
+_Il testo originale qui era originariamente più lontano. Posto direttamente dopo la sezione Sistemi, ripeteva inutilmente il paragrafo precedente._
 
-_I paragrafi precedenti sono stati rimossi e al loro posto è stata inserita una modifica abbreviata che richiama un altro esempio di effetto del Sistema._
+- _"Il danno che supera lo Scafo penetra nel veicolo, danneggiando la Struttura e possibilmente impattando su uno o più sistemi. A seconda della taglia del veicolo, il danno può essere minore o catastrofico._
+- _Ad esempio, un veicolo Grande può subire fino a due colpi su un Sistema come la sua Propulsione. Il terzo colpo distrugge funzionalmente la Propulsione. Ogni volta che il sistema subisce un colpo, perde una percentuale della sua funzionalità come descritto nella colonna Perdita per Colpo della Tabella Danni ai Sistemi qui sotto o una funzione principale (come Propulsione, Pilotaggio, Comunicazioni, e così via) diventa di un Grado di Difficoltà più difficile per ogni colpo subito."_
+
+_I paragrafi di cui sopra vengono rimossi e al loro posto viene inserita una modifica abbreviata che richiama un altro esempio di effetto di Sistema._
 
 ---
 
@@ -89,14 +93,15 @@ _I paragrafi precedenti sono stati rimossi e al loro posto è stata inserita una
 
 ##### Tabella Danni ai Sistemi
 
-| Dimensione | Colpi al Sistema | Perdita per Colpo |
+| Taglia | Colpi al Sistema | Perdita per Colpo |
 | :-- | :-: | :-- |
-| Piccolo | 1 | 100% - Distrutto |
-| Medio | 2 | 1 Grado o 50% |
+| Piccola | 1 | 100% - Distrutto |
+| Media | 2 | 1 Grado o 50% |
 | Grande | 3 | 1 Grado o 33% |
 | Enorme | 4 | 1 Grado o 25% |
-| Colossale | 5 | 1 Grado o 20% |
-| Mastodontico | 6 | 1 Grado o 16% |
+| Immensa | 5 | 1 Grado o 20% |
+| Colossale | 6 | 1 Grado o 16% |
+
 
 <details>
 
@@ -106,52 +111,53 @@ _I paragrafi precedenti sono stati rimossi e al loro posto è stata inserita una
 
 ##### Tabella Danni ai Sistemi (Originale)
 
-| Dimensione | Colpi al Sistema | Perdita per Colpo |
+| Taglia | Colpi al Sistema | Perdita per Colpo |
 | :-- | :-: | :-- |
-| Piccolo | 1 | 1 Grado o 50% |
-| Medio | 2 | 1 Grado o 33% |
+| Piccola | 1 | 1 Grado o 50% |
+| Media | 2 | 1 Grado o 33% |
 | Grande | 3 | 1 Grado o 25% |
 | Enorme | 4 | 1 Grado o 20% |
-| Colossale | 5 | 1 Grado o 16% |
-| Mastodontico | 6 | 1 Grado o 10% |
+| Immensa | 5 | 1 Grado o 16% |
+| Colossale | 6 | 1 Grado o 10% |
 
-##### Tabella Dimensioni Veicolo (da [Dimensione, Tipo e Struttura dello Scafo](0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Tabella Taglia Veicolo (da [Taglia, Tipo e Struttura dello Scafo](0006_Vehicles.md?id=hull-size-type-and-structure))
 
-| Dimensione | Colpi al Sistema |
+| Taglia | Colpi al Sistema |
 | :-- | :-: |
-| Piccolo | 1 |
-| Medio | 2 |
+| Piccola | 1 |
+| Media | 2 |
 | Grande | 3 |
 | Enorme | 4 |
-| Colossale | 5 |
-| Mastodontico | 6 |
+| Immensa | 5 |
+| Colossale | 6 |
 
 _Le regole e gli esempi originali sono incoerenti:_
-- _"I Sistemi che sono danneggiati, ma non ancora distrutti, subiscono una perdita di funzionalità. Questa è uguale alla proporzione dei colpi attuali rispetto alla sua capacità totale. Così, un veicolo Enorme colpito due volte alla Propulsione perderebbe il 40% della sua potenza (2 colpi su un massimo di 5)"._
-   - _Questo suggerisce che il veicolo Enorme mostrato con 5 Colpi al Sistema dovrebbe perdere il 20% con ogni colpo - ma la tabella dice 16%._
-- _"Per esempio, un veicolo Grande può subire fino a tre colpi su un sistema come la sua Propulsione. Il quarto colpo distrugge funzionalmente la Propulsione."_
-  - _Questo suggerisce - come anche la tabella - un danno del 25% per Colpo al Sistema, ma i Veicoli Grandi possono subire solo 3 Colpi al Sistema secondo la stessa tabella._
-- _Sebbene non incoerente, la Tabella Dimensioni Veicolo era ridondante; apparendo di nuovo in forma più completa (aggiungendo la colonna Perdita per Colpo) solo poche righe più avanti._
+- _"I Sistemi che sono danneggiati, ma non ancora distrutti, subiscono una perdita di funzionalità. Questa è uguale alla proporzione dei colpi attuali rispetto alla sua capacità totale. Pertanto, un veicolo Immenso colpito due volte alla Propulsione perderebbe il 40% della sua potenza (2 colpi su un massimo di 5)"._ 
+   - _Questo suggerisce che il veicolo Immenso mostrato COS 5 Colpi al Sistema dovrebbe perdere il 20% a ogni colpo - ma la tabella dice 16%._
+- _"Ad esempio, un veicolo Grande può subire fino a tre colpi su un sistema come la sua Propulsione. Il quarto colpo distrugge funzionalmente la Propulsione."_ 
+  - _"Questo suggerisce - come fa la tabella - il 25% di danno per Colpo al Sistema, ma i veicoli Grandi possono subire solo 3 Colpi al Sistema secondo la stessa tabella._
+- _Sebbene non incoerente, la Tabella Taglia Veicolo era ridondante; apparendo di nuovo in forma più completa (aggiungendo la colonna Perdita per Colpo) solo poche righe dopo._
 
-_Questo rende difficile avere una regola coerente. Per affrontare questi problemi, i valori e gli esempi sono stati modificati per corrispondere e la Tabella Dimensioni Veicolo è stata rimossa._
+_Questo rende difficile avere una regola coerente. Per risolvere questi problemi, i valori e gli esempi sono stati modificati per corrispondere e la Tabella Taglia Veicolo è stata rimossa._
 
 ---
 
 </details>
 
-##### Tabella Danni Componenti del Sistema
+
+##### Tabella Danni ai Componenti del Sistema
 
 | 1d10 | Sistema | Risultato Danneggiato | Risultato Distrutto |
 | :-: | :-- | :-- | :-- |
-| 1 | Carico | Una quantità di beni o equipaggiamento stoccata nella stiva, proporzionale al danno, è distrutta. | Tutto il carico è distrutto. |
-| 2 | Comunicazioni | I tiri per le Comunicazioni subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiate. | Il veicolo non può più comunicare o ingannare i sensori nemici. |
-| 3 | Controlli | I tiri di Navigazione, Guida o Pilotaggio subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiati; è richiesto un tiro di Controllo immediato. | Il veicolo non può più essere guidato o cambiare rotta. |
-| 4 | Propulsione | Velocità ridotta di un importo proporzionale al danno. | Il veicolo si ferma di colpo; gli aerei precipitano. |
-| 5 | Equipaggio | Un numero di passeggeri proporzionale al danno diventa vittima. I soggetti colpiti subiscono una Ferita Grave e devono superare un tiro di Resistenza o essere uccisi all'istante. | Gli occupanti del veicolo muoiono. |
-| 6 | Motore / Carburante | Velocità ridotta di un importo proporzionale al danno. I sistemi elettronici sono un Grado di Difficoltà più difficili da usare. | Il veicolo è distrutto in un'esplosione disastrosa. |
-| 7 | Sensori | I tiri per Sensori, Navigazione e Attacco con Armi subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiati. | Il veicolo è reso cieco. |
-| 8 | Armi | Un numero di sistemi d'arma proporzionale al danno diventa inoperativo. | Il veicolo non può più sparare con le armi. |
-| 9-0 | Nessuno | Nessun sistema colpito; solo danno alla Struttura. | N/D |
+| 1 | Carico | Una quantità di possedimenti o equipaggiamento stivati nella stiva, proporzionale al danno, viene distrutta. | Tutto il carico viene distrutto. |
+| 2 | Comms | Le prove di Comms subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiate. | Il veicolo non può più comunicare o ingannare i sensori nemici. |
+| 3 | Controlli | Le prove di Nautica, Guida o Pilotaggio subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiate; è richiesta una prova di Controllo immediata. | Il veicolo non può più essere sterzato o cambiare rotta. |
+| 4 | Propulsione | Velocità ridotta di una quantità proporzionale al danno. | Il veicolo si ferma di colpo; gli aerei precipitano. |
+| 5 | Equipaggio | Un numero di passeggeri proporzionale al danno diventa vittima. I colpiti subiscono una Ferita Grave e devono riuscire in una prova di Resistenza o morire istantaneamente. | Gli occupanti del veicolo muoiono. |
+| 6 | Motore / Carburante | Velocità ridotta di una quantità proporzionale al danno. I sistemi elettronici sono di un Grado di Difficoltà più difficili da usare. | Il veicolo viene distrutto in un'esplosione disastrosa. |
+| 7 | Sensori | Le prove di Sensori, Navigazione e attacco COS Armi subiscono un Grado di Difficoltà aggiuntivo ogni volta che vengono danneggiate. | Il veicolo viene reso cieco. |
+| 8 | Armi | Un numero di sistemi d'arma proporzionale al danno diventa inoperante. | Il veicolo non può più sparare COS le armi. |
+| 9-0 | Nessuno | Nessun sistema colpito; solo danni alla Struttura. | N/D |
 
 <details>
 
@@ -159,281 +165,284 @@ _Questo rende difficile avere una regola coerente. Per affrontare questi problem
 
 ---
 
-##### Tabella Danni Componenti del Sistema (Motore/Carburante)
+##### Tabella Danni ai Componenti del Sistema (Motore/Carburante)
 
-_Il risultato originale era il seguente: "La Velocità Massima è dimezzata..." Questo contraddice la regola generale delle penalità di danno in proporzione al danno del Sistema: 25% di danno = 25% di penalità. Inoltre, le regole complete nel Mythras Companion non menzionano questo dimezzamento della Velocità._
+_Il risultato originale era il seguente: "La Velocità massima viene dimezzata..." Questo contraddice la regola generale delle penalità ai danni in proporzione ai danni al Sistema: 25% di danno = 25% di penalità. Inoltre, le regole complete nel Mythras Companion non menzionano questo dimezzamento della Velocità._
 
-_Di conseguenza, il testo è sostituito con la stessa voce dei Sistemi di Propulsione: "Velocità ridotta di un importo proporzionale al danno."_
+_Di conseguenza il testo viene sostituito COS la stessa voce dei Sistemi di Propulsione: "Velocità ridotta di una quantità proporzionale al danno."_
 
 ---
 
 </details>
 
+
 ---
 ### Velocità
 
-Poiché la fisica della velocità, dell'accelerazione, della resistenza aerodinamica e dell'inerzia (per citarne solo alcuni) sono questioni complesse, è necessaria una certa semplificazione e quindi ai veicoli viene assegnata una valutazione di velocità astratta. La caratteristica Velocità dovrebbe essere usata solo per giudicare approssimativamente se un veicolo può superare o raggiungere un altro.
+Poiché la fisica della velocità, dell'accelerazione, della resistenza e dell'inerzia (per citarne solo alcune) sono questioni complesse, è necessaria una certa semplificazione, quindi ai veicoli viene assegnato un valore di velocità astratto. La caratteristica Velocità dovrebbe essere usata solo per giudicare approssimativamente se un veicolo può superare o raggiungere un altro.
 
-La valutazione della velocità rappresenta la velocità operativa nominale di un veicolo. In situazioni di emergenza questa prestazione può essere aumentata di un passo, a rischio di usura o danno ai motori. Sebbene la stessa tabella sia usata per tutti i tipi di veicoli, dovrebbe essere applicato il buon senso in modo che solo veicoli della stessa classe siano confrontati. Per esempio, se un'Astronave e un'auto sportiva hanno entrambe la stessa velocità di accelerazione Rapida, dovrebbe essere ovvio che l'astronave è comparativamente più veloce.
+Il valore di velocità rappresenta il tasso operativo nominale di un veicolo. In situazioni di emergenza, queste prestazioni possono essere aumentate di un passo, a rischio di usura o danni ai motori. Sebbene venga utilizzata la stessa tabella per tutti i tipi di veicoli, occorre applicare il buon senso in modo che vengano confrontati solo veicoli della stessa classe. Ad esempio, se un'Astronave e un'auto sportiva hanno entrambe lo stesso tasso di accelerazione Rapido, dovrebbe essere ovvio che l'astronave è comparativamente più veloce.
 
-Aumentare la Velocità di un veicolo oltre il suo valore standard è possibile con un tiro di Guida riuscito. Di solito, questa velocità extra è sostenibile solo per un breve periodo – non più di 1d6 minuti prima che il veicolo debba scendere alla sua velocità standard o rischiare danni alla sua centrale energetica. Un tiro di Guida critico consente di aumentare il periodo di velocità più elevata a 1d12 minuti.
+Aumentare la Velocità di un veicolo oltre il suo valore standard è possibile COS una prova di Guida riuscita. Solitamente, questa velocità extra è sostenibile solo per un breve periodo – non più di 1d6 minuti prima che il veicolo debba scendere alla sua velocità standard o rischiare danni all'impianto energetico. Una prova critica di Guida consente di aumentare il periodo di velocità più elevata a 1d12 minuti.
 
-Un conducente può tentare di spingere la velocità di un veicolo di 2 passi, ma questo richiede un tiro di Guida Ercoleo e il tempo massimo in cui il veicolo può sostenere questa velocità è di 1d3 minuti: un Successo Critico non estenderà la durata della velocità aumentata.
+Un guidatore può tentare di spingere la velocità di un veicolo di 2 passi, ma ciò richiede una prova Erculea di Guida e il massimo che il veicolo può sostenere a questa velocità è 1d3 minuti: un Successo Critico non estenderà la durata della velocità aumentata.
 
-##### Tabella Valutazione Velocità
+##### Tabella Gradi di Velocità
 
-| Valutazione Velocità | Velocità Massima Per |
+| Grado di Velocità | Velocità Max per |
 | :-- | :-: |
-| Macchinosa | Mastodontico |
-| Pigra | |
-| Lenta | Colossale |
+| Pesante | Immensa |
+| Lenta | |
+| Lenta | Enorme |
 | Mediocre | |
-| Lieve | Enorme |
+| Moderata | Grande |
 | Moderata | |
-| Rapida | Grande |
+| Rapida | Media |
 | Veloce | |
-| Fulminea | Medio |
+| Fulminea | Piccola |
+
 
 ---
 ### Tratti
 
-Il numero massimo di tratti che un veicolo può avere dipende dalla dimensione e dal tipo dello scafo.
+Il numero massimo di tratti che un veicolo può avere dipende dalla taglia e dal tipo di scafo.
 
-Ogni veicolo ha un tratto intrinseco: la modalità di viaggio per cui è stato principalmente progettato. Pertanto, gli aerei hanno intrinsecamente il tratto Aeromobile, le barche il tratto Navigante, e così via. Questo tratto intrinseco non conta ai fini del numero di tratti disponibili. Tuttavia, se un veicolo dovesse includere una seconda modalità di viaggio — un sottomarino volante per esempio, allora il tratto Aeromobile dovrebbe essere preso come uno dei suoi tratti disponibili.
+Ogni veicolo ha un tratto intrinseco: la modalità di viaggio per cui è stato progettato principalmente. Pertanto, gli aerei possiedono intrinsecamente il tratto Aviotrasportato, le barche quello Navigabile, e così via. Questo tratto intrinseco non conta ai fini del numero di tratti disponibili. Tuttavia, se un veicolo dovesse includere una seconda modalità di viaggio – un sottomarino volante per esempio, allora il tratto Aviotrasportato dovrebbe essere preso come uno dei suoi tratti disponibili.
 
-Alcuni tratti potrebbero non essere disponibili, a seconda del livello tecnologico dell'ambientazione; i Games Master devono fare i propri giudizi su quali tratti possono essere applicati.
+Alcuni tratti potrebbero non essere disponibili, a seconda del livello tecnologico dell'ambientazione; i Game Master devono prendere le proprie decisioni su quali tratti possono essere applicati.
 
 ##### Tabella Assegnazione Tratti Veicolo
 
-| Dimensione | Tratti Massimi |
+| Taglia | Tratti Max |
 | :-- | :-: |
-| Piccolo | 1 |
-| Medio | 2 |
+| Piccola | 1 |
+| Media | 2 |
 | Grande | 3 |
 | Enorme | 4 |
-| Colossale | 5 |
-| Mastodontico | 6 |
+| Immensa | 5 |
+| Colossale | 6 |
 
-#### Aeromobile
+#### Aviotrasportato
 
 Il veicolo è capace di volo atmosferico.
 
-#### Fuoristrada
+#### Ogni Terreno
 
-Questo Tratto deve essere usato con i veicoli Terrestri. Il veicolo può attraversare terreni inospitali, difficili e ripidi, utilizzando cingoli, sospensioni e sistemi di propulsione avanzati, o potenti differenziali di trazione.
+Questo Tratto deve essere usato COS veicoli Terrestri. Il veicolo può attraversare terreni inospitali, difficili e ripidi, utilizzando cingoli, sospensioni e sistemi di trazione avanzati, o potenti differenziali di trazione.
 
-#### Scavatore
+#### Scavo
 
-Il veicolo è progettato per scavare e creare tunnel nel terreno. Può raggiungere una profondità massima pari a Valutazione Scafo x5 metri.
+Il veicolo è progettato per scavare e creare tunnel attraverso il terreno. Può raggiungere una profondità massima pari al suo Grado di Scafo x 5 metri.
 
-#### Camuffato
+#### Mimetizzato
 
-Il veicolo possiede vernice mimetica o sensori mimetici che gli consentono di mimetizzarsi con il suo ambiente. I tentativi di individuare visivamente il veicolo sono un grado più difficili.
+Il veicolo possiede vernice mimetica o sensori mimetici che gli consentono di confondersi COS l'ambiente circostante. I tentativi di individuare visivamente il veicolo sono di un grado più difficili.
 
-#### Cargo
+#### Carico
 
-Il veicolo è progettato specificamente per trasportare merci piuttosto che passeggeri. I compartimenti passeggeri sono ridotti al minimo, con il resto dello spazio utilizzabile del veicolo dedicato al contenimento del carico con sezioni appropriate, strumenti e persino condizionamento ambientale (come sezioni refrigerate per il trasporto di merci deperibili). Quando carico di merci, la velocità del veicolo è due passi inferiore a quanto la sua dimensione dello scafo consentirebbe normalmente.
+Il veicolo è progettato specificamente per trasportare merci piuttosto che passeggeri. Gli scomparti passeggeri sono ridotti al minimo COS il resto dello spazio utile del veicolo dedicato al contenimento del carico COS sezioni appropriate, strumenti e persino condizionamento ambientale (come sezioni freezer per il trasporto di deperibili). Quando è carico di merci, la velocità del veicolo è inferiore di due passi rispetto a quanto la sua taglia di scafo consentirebbe normalmente.
 
 #### Trasportatore
 
-Il veicolo è progettato specificamente per trasportare veicoli più piccoli, con equipaggio ridotto o eventualmente controllati a distanza, di natura civile o militare. Qualsiasi veicolo che possieda questo tratto deve essere almeno Enorme. Il numero di piccoli mezzi trasportati può variare in base al tipo e allo scopo della missione, ma può essere da un minimo di 10 a un massimo pari al valore di Struttura del veicolo.
+Il veicolo è progettato specificamente per trasportare veicoli più piccoli, COS equipaggio leggero o possibilmente controllati a distanza, di natura civile o militare. Qualsiasi veicolo che possiede questo tratto deve essere almeno Immenso. Il numero di piccole imbarcazioni trasportate può variare in base al tipo di missione e allo scopo, ma può variare da 10 fino al valore di Struttura del veicolo.
 
 #### Costruzione
 
-Il veicolo è equipaggiato per lavori di costruzione pesanti. Tutti i veicoli con questo tratto hanno anche il tratto Fuoristrada, ma la velocità è due passi inferiore a quanto la loro dimensione dello scafo consentirebbe normalmente. Il veicolo è dotato di strumenti appropriati per il compito, come bracci di gru, pale escavatrici, carrelli di scarico e così via.
+Il veicolo è equipaggiato per pesanti lavori di costruzione. Tutti i veicoli COS questo tratto hanno anche il tratto Ogni Terreno, ma la velocità è inferiore di due passi rispetto a quanto la loro taglia di scafo consentirebbe normalmente. Il veicolo è dotato di strumenti appropriati al compito come bracci di gru, benne scavatrici, cassoni ribaltabili e così via.
 
-#### Resistente all'EMP
+#### Resistente agli EMP
 
-Il veicolo è schermato contro gli attacchi a impulso elettromagnetico.
+Il veicolo è schermato contro gli attacchi di impulso elettromagnetico.
 
 #### Prestazioni Migliorate
 
-La valutazione di Velocità del veicolo è un passo più alta del massimo per la sua dimensione.
+Il grado di Velocità del veicolo è superiore di un passo rispetto al massimo per la sua taglia.
 
-#### Sedile Eietttabile
+#### Seggiolino Eiettabile
 
-In caso di emergenza, un sedile eiettabile proietta gli occupanti per diverse centinaia di metri in aria, quindi dispiega un paracadute per consentire un atterraggio sicuro. Il paracadute è opzionale. Sconsigliato per gli elicotteri (il Kamov Ka-52 Alligator essendo un'eccezione notevole).
+In caso di emergenza, un seggiolino eiettabile proietta gli occupanti a diverse centinaia di metri in aria, quindi dispiega un paracadute per consentire un atterraggio sicuro. Il paracadute è opzionale. Non raccomandato per gli elicotteri (il Kamov Ka-52 Alligator è una notevole eccezione).
 
 #### FTL
 
-Solo Astronavi. Il mezzo è dotato di un motore più veloce della luce (che sia un'iperguida, curvatura spaziale, generatore di wormhole o simile). Il propulsore FTL ha una valutazione di Velocità separata che misura essenzialmente la velocità con cui un'astronave può attraversare un singolo parsec (3,26 anni luce, o 31 trilioni di chilometri o 19 trilioni di miglia), come segue:
+Solo Astronavi. Il veicolo è dotato di un motore più veloce della luce (che sia un iperguida, un motore a curvatura, un generatore di wormhole o simile). L'iperguida ha un grado di Velocità separato che misura essenzialmente il tasso al quale un'astronave può attraversare un singolo parsec (3,26 anni luce, o 31 trilioni di chilometri o 19 trilioni di miglia), come segue:
 
-##### Tabella Valutazione Velocità FTL
+##### Tabella Gradi di Velocità FTL
 
-| Valutazione Velocità | Fattore per Attraversare 1 Parsec |
+| Grado di Velocità | Fattore per Attraversare 1 Parsec |
 | :-- | :-: |
-| Macchinosa | 10 |
-| Pigra | 8 |
+| Pesante | 10 |
+| Lenta | 8 |
 | Lenta | 7 |
 | Mediocre | 6 |
-| Lieve | 5 |
+| Moderata | 5 |
 | Moderata | 4 |
 | Rapida | 3 |
 | Veloce | 2 |
 | Fulminea | 1 |
 
-Il tempo fattore spetta al Games Master deciderlo, a seconda di quanto è avanzato lo sviluppo FTL dell'ambientazione. Per esempio, il fattore base potrebbe essere 1 Giorno, il che significa che una nave con un propulsore FTL Macchinoso impiega 10 giorni per completare il viaggio, mentre un'imbarcazione con un propulsore FTL Fulminea completa il viaggio in 1 giorno. Altrove, dove la tecnologia FTL è significativamente meno efficiente, il tempo fattore potrebbe essere misurato in mesi, piuttosto che giorni.
+Il tempo del fattore spetta al Game Master deciderlo, a seconda di quanto è avanzato lo sviluppo dell'FTL dell'ambientazione. Ad esempio, il fattore base potrebbe essere 1 Giorno, il che significa che una nave COS un'iperguida Pesante impiega 10 giorni per completare il viaggio, mentre un'imbarcazione COS un'iperguida Fulminea completa il viaggio in 1 giorno. Altrove, dove la tecnologia FTL è significativamente meno efficiente, il tempo del fattore potrebbe essere misurato in mesi, piuttosto che in giorni.
 
-Si assume che la nave abbia riserve di carburante per fare un viaggio di ritorno, o un mezzo per rifornire nel punto di destinazione.
+Si presume che la nave abbia riserve di carburante per effettuare un viaggio di ritorno o un mezzo per rifornirsi nel punto di destinazione.
 
-Si assuma che qualsiasi dimensione di astronave possa essere equipaggiata con un propulsore FTL, sebbene, ancora una volta, questo dipenda dall'ambientazione.
+Si assume che qualsiasi taglia di astronave possa essere dotata di un'iperguida, sebbene, ancora una volta, ciò dipenda dall'ambientazione.
 
-I propulsori FTL non possono essere attivati entro 1,5 Unità Astronomiche da una stella (circa 225 milioni di chilometri, o 270 milioni di miglia). Questo significa che le navi devono usare un propulsore subluce per muoversi fino alla distanza di Marte prima di attivare il sistema FTL.
+Le iperguide non possono essere attivate entro 1,5 Unità Astronomiche da una stella (circa 225 milioni di chilometri, o 270 milioni di miglia). Ciò significa che le navi devono usare un motore subluce per spostarsi a circa la distanza di Marte prima di attivare il sistema FTL.
 
 #### Veicolo Terrestre
 
 Il veicolo è capace di viaggio terrestre.
 
-#### Librarsi
+#### Hover
 
-Il veicolo si libra sopra il terreno utilizzando un cuscino d'aria o un repulsore antigravità.
+Il veicolo si libra sopra il terreno utilizzando un cuscino d'aria o un repulsore antigravitazionale.
 
 #### Lussuoso
 
-Il veicolo è progettato specificamente per trasportare passeggeri con un certo livello di lusso. Lo spazio extra per il carico è dedicato a lussuose sistemazioni per i passeggeri, piscine, vasche idromassaggio, equipaggio aggiuntivo per soddisfare i capricci dei passeggeri, e così via.
+Il veicolo è progettato specificamente per trasportare passeggeri a un certo livello di lusso. Lo spazio di carico in eccesso è destinato ad alloggi passeggeri lussuosi, piscine, vasche idromassaggio, equipaggio extra per soddisfare i capricci dei passeggeri, e così via.
 
 #### Rotaie
 
-Il veicolo si basa su un sistema ferroviario. I veicoli con questo tratto possono naturalmente raggiungere una valutazione di Velocità tre passi più alta di quanto la loro dimensione dello scafo consentirebbe normalmente, ma sono ovviamente limitati al movimento solo sul sistema ferroviario.
+Il veicolo si affida a un sistema di binari. I veicoli COS questo tratto possono naturalmente raggiungere un grado di Velocità superiore di tre passi rispetto a quanto la loro taglia di scafo consentirebbe normalmente, ma sono ovviamente limitati al movimento solo sul sistema di binari.
 
 #### Resiliente
 
-Tutti i sistemi possono resistere a un colpo aggiuntivo rispetto a quanto normalmente determinato dalla Dimensione. Questo Tratto può essere cumulato — quindi Resiliente 2 indica che i sistemi possono resistere a 2 colpi in più del solito al costo di due punti Tratto.
+Tutti i sistemi possono resistere a un colpo aggiuntivo rispetto a quanto normalmente determinato dalla Taglia. Questo Tratto può essere cumulativo — quindi Resiliente 2 indica che i sistemi possono resistere a 2 colpi in più rispetto al solito al costo di due punti Tratto.
 
-#### Navigante
+#### Navigabile
 
 Il veicolo è galleggiante sull'acqua.
 
 #### Veicolo Spaziale
 
-Il veicolo è sigillato contro il vuoto e schermato contro le radiazioni cosmiche e può, a seconda del design, essere capace di lasciare e rientrare nell'atmosfera, e sostenere il volo all'interno di un'atmosfera.
+Il veicolo è sigillato contro il vuoto e schermato contro le radiazioni cosmiche e può, a seconda del design, essere in grado di lasciare e rientrare nell'atmosfera, e sostenere il volo all'interno di un'atmosfera.
 
-#### Furtivo
+#### Stealth
 
-Solo Aeromobili. Il veicolo è progettato per evitare il rilevamento da radar e altri sistemi di sensori a lungo raggio. I tentativi di individuare il veicolo utilizzando sensori elettronici sono un grado più difficili.
+Solo Aerei. Il veicolo è progettato per evitare il rilevamento da parte di radar e altri sistemi di sensori a lungo raggio. I tentativi di individuare il veicolo utilizzando sensori elettronici sono di un grado più difficili.
 
-#### Sommergibile
+#### Sommersibile
 
-Il veicolo è capace di immergersi sotto la superficie di un oceano fino a una profondità operativa pari a Valutazione Scafo x10 metri. La profondità di collasso — il massimo assoluto che il sommergibile può raggiungere senza essere schiacciato — è 1,5 volte la sua profondità operativa.
+Il veicolo è capace di immergersi sotto la superficie di un oceano fino a una profondità operativa pari al suo Grado di Scafo x 10 metri. La profondità di collasso — il massimo assoluto che il sommergibile può raggiungere senza essere schiacciato — è 1,5 volte la sua profondità operativa.
 
-#### Maneggevolezza Superiore
+#### Manovrabilità Superiore
 
-La maneggevolezza del veicolo è classificata come Facile.
+La manovrabilità del veicolo è classificata come Facile.
 
 #### Suite di Sorveglianza
 
-Il veicolo ha un computer di bordo, una stazione base di comunicazione, un ricevitore per segnali di dispositivi di ascolto e un apparato per intercettare i segnali degli smartphone vicini entro 100 metri.
+Il veicolo ha un computer di bordo, una stazione base per le comunicazioni, un ricevitore per i segnali dei dispositivi di ascolto e un apparato per intercettare i segnali degli smartphone vicini entro 100 metri.#### Resistente
 
-#### Robusto
-
-Un veicolo civile con questo tratto prende il suo Scafo dalla colonna Militare e ha automaticamente la Struttura massima. Un veicolo Militare con questo Tratto prende il suo Scafo e la sua Struttura dalla riga successiva.
+Un veicolo civile COS questo tratto deriva il suo Scafo dalla colonna Militare e ha automaticamente la Struttura massima. Un veicolo Militare COS questo Tratto deriva il suo Scafo e la sua Struttura dalla riga immediatamente successiva.
 
 #### Raggio Traente
 
-Solo Astronavi. La nave è dotata di un raggio traente che può intrappolare e attirare a sé veicoli con una valutazione dello scafo fino a due passi inferiore alla propria. Così, un'astronave Enorme potrebbe attrarre e trattenere uno scafo fino alla dimensione Media.
+Solo Astronavi. La nave è dotata di un raggio traente in grado di agganciare e attirare a sé veicoli COS un valore di scafo fino a due gradi inferiore al proprio. Pertanto, un'astronave Enorme potrebbe attrarre e trattenere uno scafo fino a una dimensione Media.
 
 #### VTOL
 
-Decollo/atterraggio verticale. Questo tratto è intrinseco per elicotteri e veicoli simili che utilizzano una combinazione di rotori per produrre portanza. Quando applicato ad aerei ad ala fissa, indica l'uso di propulsori fissi o orientabili per controllare l'assetto in volo, l'ascesa e la discesa.
+Decollo/atterraggio verticale. Questo tratto è intrinseco agli elicotteri e ai veicoli simili che utilizzano una combinazione di rotori per produrre portanza. Quando applicato ad aerei ad ala fissa, indica l'uso di propulsori fissi o orientabili per controllare l'assetto, la salita e la discesa in volo.
 
-#### Acquatico
+#### Nautico
 
-Il veicolo si propelle utilizzando gambe articolate. I veicoli Walker sono limitati a una Velocità Lieve, qualunque sia la loro Dimensione. Tuttavia, i Walker possono essere costruiti a altezze che sarebbero semplicemente instabili per veicoli dotati di altri mezzi di locomozione.
+Il veicolo si propelle utilizzando gambe articolate. I veicoli camminatori hanno una velocità massima di Lieve, indipendentemente dalla loro Dimensione. Tuttavia, i Camminatori possono essere costruiti COS altezze che risulterebbero semplicemente instabili per veicoli dotati di altri mezzi di locomozione.
 
-Questo veicolo è capace di movimento subacqueo.
+Questo veicolo è in grado di muoversi sott'acqua.
 
 #### Armato
 
-Il veicolo è stato adattato per ospitare armamenti. I sistemi d'arma sono discussi di seguito nella sezione [Armi](0006_Vehicles.md?id=weapons).
+Il veicolo è stato adattato per ospitare armamenti. I sistemi d'arma sono trattati di seguito nella sezione [Armi](0006_Vehicles.md?id=weapons).
+
 
 ---
 ## Armi
 
-Di solito, solo gli scafi militari sono progettati per ospitare armamenti (punti d'attacco, stoccaggio munizioni, sistemi di controllo). Il Tratto 'Armato' può essere preso per veicoli civili che potrebbero avere requisiti di armamento.
+Di solito, solo gli scafi militari sono progettati per ospitare armamenti (punti di aggancio, deposito munizioni, sistemi di controllo). Il Tratto "Armato" può essere scelto per veicoli civili che potrebbero avere esigenze belliche.
 
-Il numero massimo di sistemi d'arma che un veicolo può supportare è pari a 1/10 dei suoi Punti Struttura (quindi un veicolo con 40 Struttura potrebbe supportare 4 sistemi d'arma, se un veicolo militare, o un veicolo civile Armato).
+Il numero massimo di sistemi d'arma che un veicolo può supportare è pari a 1/10 dei suoi Punti Struttura (quindi un veicolo COS 40 Struttura potrebbe supportare 4 sistemi d'arma, se si tratta di un veicolo militare o di un veicolo civile Armato).
 
-I sistemi d'arma dipendono dalla Dimensione del veicolo. Il tipo massimo di sistema d'arma per diverse Dimensioni è mostrato nelle tabelle qui sotto.
+I sistemi d'arma dipendono dalla Dimensione del veicolo. Il tipo massimo di sistema d'arma per le diverse Dimensioni è mostrato nelle tabelle sottostanti.
 
-##### Tabella Armi per Dimensione
 
-| Dimensione | Terrestre | Astronavi |
+##### Tabella Armi per Dimensione 
+
+| Dimensione | Terrestre | Astronavale |
 | :-- | :-- | :-- |
 | Piccolo | Arma Leggera (es. Fucile d'Assalto) | Arma Media (es. Mitragliatrice, Lanciarazzi) |
-| Medio | Arma Media (es. Mitragliatrice, Lanciarazzi) | Arma a Torretta/Pesante (es. Mitragliatrici Pesanti Collegate, Mini-Gun) |
-| Grande | Arma a Torretta/Pesante (es. Mitragliatrici Pesanti Collegate, Mini-Gun) | Batteria d'Armi (es. Artiglieria da Campo di Battaglia) |
-| Enorme | Batteria d'Armi (es. Artiglieria da Campo di Battaglia) | Armi Avanzate (es. Sistemi Missilistici) |
-| Colossale | Armi Avanzate (es. Sistemi Missilistici) | Armi Montate Dorsalmente (una sola) |
-| Mastodontico | N/A | Armi Montate Dorsalmente (fino a 3) |
+| Medio | Arma Media (es. Mitragliatrice, Lanciarazzi) | Arma su Torretta/Pesante (es. Mitragliatrici Pesanti Accoppiate, Mini-Guns) |
+| Grande | Arma su Torretta/Pesante (es. Mitragliatrici Pesanti Accoppiate, Mini-Guns) | Batteria d'Armi (es. Artiglieria da Campo) |
+| Enorme | Batteria d'Armi (es. Artiglieria da Campo) | Armi Avanzate (es. Sistemi Missilistici) |
+| Immensamente Grande | Armi Avanzate (es. Sistemi Missilistici) | Armi Montate su Spina Dorsale (solo una) |
+| Colossale | ND | Armi Montate su Spina Dorsale (fino a 3) |
 
-##### Statistiche Armi di Esempio
-
-| Arma | Danno | Gittata | Cadenza di Fuoco | Munizioni/Carica |
+##### Tabella Statistiche Armi Campione 
+ 
+| Arma | Danni | Gittata | Cadenza di Fuoco | Munizioni/Caricamento |
 | :-- | :-: | :-: | :-: | :-: |
 | Cannone da 50 pollici | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
-| Mini-Gun/Mitragliatrice Gatling | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
+| Mini-Gun/Gatling | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
 | Razzo | 5d6 | 5000/20km/60km | 1 | 1/5 |
-| Missile/Siluro Medio | 6d10 | Gittata max 200km | 1 | 1/5 |
-| Missile Grande/Da Crociera | 6d10+10 | Gittata max 1000km | 1 | 1/10 |
-| Cannone Laser/Plasma | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
-| Cannone Laser/Plasma Pesante | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Batteria d'Artiglieria | 5d6+6 | Gittata max 50km | 1 | 1/5 |
-| Batteria a Montaggio Dorsale | 10d6+6 | Gittata max 20000km | 1 | 1/10 |
+| Missile Medio/Siluro | 6d10 | Gittata massima di 200km | 1 | 1/5 |
+| Missile Grande/Crociera | 6d10+10 | Gittata massima di 1000km | 1 | 1/10 |
+| Laser/Cannone al Plasma | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
+| Laser Pesante/Cannone al Plasma | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
+| Batteria di Artiglieria | 5d6+6 | Gittata massima di 50km | 1 | 1/5 |
+| Batteria su Spina Dorsale | 10d6+6 | Gittata massima di 20000km | 1 | 1/10 |
 
 _Le gittate sono espresse in metri e chilometri._
 
-_Le cadenze di fuoco sono per colpo singolo, semi-automatico e automatico._
+_Le cadenze di fuoco si riferiscono al colpo singolo, semiautomatico e automatico._
 
-_Le munizioni indicano la capacità di fuoco prima di dover essere ricaricate. La carica è il tempo di ricarica in Round di Combattimento, assumendo che sia disponibile un equipaggio completo._
+_Le munizioni rappresentano la capacità di fuoco prima di dover ricaricare. Il caricamento è il tempo di ricarica in Round di Combattimento, assumendo che sia disponibile un equipaggio completo._
 
 ---
-## Maneggevolezza e Manovre
+## Manovrabilità e Manovre
 
-Le manovre evasive o improvvise richiedono un tiro di Guida/Pilotaggio riuscito per garantire che il conducente o il pilota mantenga il controllo del veicolo. La maggior parte dei veicoli è progettata e costruita per resistere a stress e sollecitazioni occasionali, ma il Games Master può stabilire che una particolare manovra richieda un tiro a un grado di difficoltà più alto, a seconda di quanto sia ambiziosa. Il fallimento significa che il controllo del veicolo è perso: tira sulla tabella Perdita di Controllo.
+Le manovre evasive o improvvise richiedono un tiro di Guida/Pilotaggio riuscito per garantire che il conducente o il pilota mantenga il controllo del veicolo. La maggior parte dei veicoli è progettata e costruita per resistere a sollecitazioni e tensioni occasionali, ma il Master può stabilire che una particolare manovra richieda un tiro a un grado di difficoltà superiore, a seconda di quanto sia ambiziosa. Un fallimento significa che il controllo del veicolo è perso: tirare sulla tabella Perdita di Controllo.
 
-Si noti che la Tabella Perdita di Controllo si applica solo ai veicoli terrestri. Effetti simili possono essere applicati ai veicoli aerei e spaziali, ma i Games Master dovranno adattare la motivazione per l'effetto specifico. Per esempio, un aereo, invece di sbandare, potrebbe entrare in avvitamento.
+Si noti che la Tabella di Perdita di Controllo si applica solo ai veicoli terrestri. Effetti simili possono essere applicati ai veicoli aerei e spaziali, ma i Master dovranno adattare la motivazione per l'effetto specifico. Ad esempio, un aereo, invece di sbandare, potrebbe andare in vite.
 
-Inoltre, la maneggevolezza intrinseca di un veicolo può avere un impatto aggiuntivo sul tiro di Guida. La maneggevolezza è Facile, Standard, Difficile, Formidabile o Ercolea e determina il punto di partenza per il tiro di Guida quando si esegue una manovra. Il grado di difficoltà per la manovra viene quindi applicato alla maneggevolezza per determinare la difficoltà finale.
+Inoltre, la manovrabilità intrinseca di un veicolo può avere un impatto aggiuntivo sul tiro di Guida. La Manovrabilità può essere Facile, Standard, Difficile, Formidabile o Erculea e determina il punto di partenza per il tiro di Guida durante l'esecuzione di una manovra. Il grado di difficoltà della manovra viene quindi applicato alla manovrabilità per determinare la difficoltà finale.
 
-Per esempio, una motocicletta ad alte prestazioni ha girostabilizzatori incorporati che le conferiscono una Maneggevolezza Facile. Il conducente vuole eseguire un'inversione a U in derapata di 180 gradi per eludere un inseguitore, una manovra che il Games Master valuta come un grado aggiuntivo di difficoltà. Il motociclista deve quindi fare il suo tiro di Guida a Standard anziché Facile. Se avesse tentato la stessa manovra su una motocicletta non stabilizzata, il tiro di Guida sarebbe stato a Difficile.
+Ad esempio, una motocicletta ad alte prestazioni ha girostabilizzatori integrati che le conferiscono una Manovrabilità Facile. Il conducente vuole eseguire una derapata a 180 gradi per seminare un inseguitore, una manovra che il Master valuta come un grado di difficoltà aggiuntivo. Il pilota deve quindi effettuare il suo tiro di Guida a livello Standard invece che Facile. Se avesse tentato la stessa manovra su una motocicletta non stabilizzata, il tiro di Guida sarebbe stato Difficile.
 
-Maneggevolezza Superiore è un Tratto. Se un veicolo non ha il tratto come parte della sua descrizione, il valore predefinito è Maneggevolezza Standard per qualsiasi veicolo di dimensione Grande e inferiore. I veicoli Enormi e Colossali hanno intrinsecamente il tratto Maneggevolezza Formidabile ed Ercolea, rispettivamente, e il Games Master è libero di stabilire che certe manovre sono semplicemente impossibili da realizzare a causa della dimensione del veicolo.
+Manovrabilità Superiore è un Tratto. Se un veicolo non possiede questo tratto nella sua descrizione, la manovrabilità predefinita è Standard per qualsiasi veicolo di dimensione Grande e inferiore. I veicoli Enormi e Immensamente Grandi possiedono intrinsecamente il tratto di Manovrabilità Formidabile ed Erculea, rispettivamente, e il Master è libero di stabilire che alcune manovre siano semplicemente impossibili da eseguire a causa delle dimensioni del veicolo.
 
-##### Tabella Perdita di Controllo
+##### Tabella Perdita di Controllo 
 
 | 1d100 | Risultato |
 | :-: | :-- |
-| 01-25 | Sbandata. La perdita di controllo è temporanea. Il veicolo riduce la sua velocità di 1 passo per 5 secondi. |
-| 26-40 | Derapata. Il conducente deve lottare per mantenere il controllo del veicolo. Il veicolo riduce la sua velocità di 2 passi per 10 secondi. |
-| 41-50 | Derapata Grave. Il veicolo finisce nella direzione sbagliata e si ferma per 15 secondi. |
-| 51-60 | Ribaltamento. Il veicolo sbanda e si ribalta, subendo 3d10 danni alla sua Struttura. Gli occupanti devono superare tiri di Resistenza o subire 1d10 danni a 1d3 Località di Colpo. |
-| 61-70 | Ribaltamento Grave. Come sopra, ma il veicolo subisce 3d10+10 danni e gli Occupanti ricevono 1d10 danni anche se il tiro di Resistenza riesce, e 2d10 se fallisce. |
-| 71-80 | Rottamazione Totale. Come sopra ma il veicolo è ridotto a 0 Struttura. Gli Occupanti subiscono lo stesso danno del Ribaltamento Grave. |
-| 81-90 | Esplosione. Come sopra ma il sistema di carburante del veicolo si accende ed esplode entro 1d20+10 secondi. Se impossibilitati a mettersi in salvo, gli occupanti subiscono ulteriori 1d6 danni da ustione a 1d6 località. |
-| 91-98 | Esplosione Immediata. Come sopra ma l'esplosione è immediata. |
-| 99-00 | Schianto Catastrofico. Gli occupanti devono superare un tiro di Resistenza o essere uccisi all'istante. Il danno come per la Rottamazione Totale è subito comunque. |
+| 01-25 | Sbandata. La perdita di controllo è temporanea. Il veicolo riduce la sua velocità di 1 grado per 5 secondi. |
+| 26-40 | Derapata. Il pilota deve lottare per mantenere il controllo. Il veicolo riduce la sua velocità di 2 gradi per 10 secondi. |
+| 41-50 | Derapata Violenta. Il veicolo finisce rivolto nella direzione sbagliata e resta fermo per 15 secondi. |
+| 51-60 | Ribaltamento. Il veicolo sbanda e si ribalta, subendo 3d10 danni alla sua Struttura. Gli occupanti devono superare tiri di Costituzione o subire 1d10 danni a 1d3 Zone Corporee. |
+| 61-70 | Ribaltamento Violento. Come sopra, ma il veicolo subisce 3d10+10 danni e gli occupanti ricevono 1d10 danni anche se il tiro di Costituzione ha successo, e 2d10 se fallisce. |
+| 71-80 | Rottamato. Come sopra, ma il veicolo viene ridotto a 0 Struttura. Gli occupanti subiscono gli stessi danni del Ribaltamento Violento. |
+| 81-90 | Esplosione. Come sopra, ma il sistema di alimentazione del veicolo prende fuoco ed esplode entro 1d20+10 secondi. Se non riescono ad allontanarsi, gli occupanti subiscono ulteriori 1d6 danni da ustione a 1d6 zone. |
+| 91-98 | Esplosione Immediata. Come sopra, ma l'esplosione è immediata. |
+| 99-00 | Incidente Catastrofico. Gli occupanti devono superare un tiro di Costituzione o morire istantaneamente. I danni, come per la condizione Rottamato, vengono subiti a prescindere. |
+
 
 ---
-## Esempi di Veicoli
+## Veicoli Campione
 
 ---
 
 ### Veicoli Terrestri
 
-#### Intercettore
+#### Interceptor
 
-Un'auto di lusso potenziata, auto sportiva o simile, quest'auto è costruita per essere veloce e resistere in battaglia. Questo è il tipo di veicolo a cui si pensa quando qualcuno dice "auto spia".
+Un'auto di lusso truccata, un'auto sportiva o qualcosa di simile, quest'auto è costruita per andare veloce e rispondere colpo su colpo in battaglia. È il tipo di veicolo a cui la gente pensa quando qualcuno dice "auto spia".
 
-| Intercettore | |
+| Interceptor | |
 | :- | :- |
 | **Dimensione / Tipo** | Medio Militare |
 | **Scafo** | 6 |
 | **Struttura** | 40 |
 | **Sistemi** | 2 |
 | **Velocità** | Veloce |
-| **Maneggevolezza** | Facile |
-| **Tratti** | [Sedile Eietttabile](0006_Vehicles.md?id=ejector-seat), [Prestazioni Migliorate](0006_Vehicles.md?id=enhanced-performance), [Maneggevolezza Superiore](0006_Vehicles.md?id=superior-handling), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Armato](0006_Vehicles.md?id=weaponized) |
-| **Armi** | Dispenser di Macchia d'Olio, Dispenser di Fumo, Mitragliatrici Medie Binate (2d6+3) |
+| **Manovrabilità** | Facile |
+| **Tratti** | [Sedile Eiettabile](0006_Vehicles.md?id=ejector-seat), [Prestazioni Avanzate](0006_Vehicles.md?id=enhanced-performance), [Manovrabilità Superiore](0006_Vehicles.md?id=superior-handling), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Armato](0006_Vehicles.md?id=weaponized) |
+| **Armi** | Distributore di Macchie d'Olio, Distributore di Fumo, Mitragliatrici Medie Accoppiate (2d6+3) |
 
 <br>
 
@@ -441,7 +450,7 @@ Un'auto di lusso potenziata, auto sportiva o simile, quest'auto è costruita per
 
 #### Motocicletta da Inseguimento
 
-Una motocicletta leggera e veloce per inseguimenti rapidi, la Motocicletta da Inseguimento porta una sorpresa – una coppia di mitragliatrici collegate o due razzi.
+Leggera e veloce, progettata per inseguimenti ad alta velocità, la Motocicletta da Inseguimento porta COS sé una sorpresa: una coppia di mitragliatrici accoppiate o due razzi.
 
 | Motocicletta da Inseguimento | |
 | :- | :- |
@@ -450,9 +459,9 @@ Una motocicletta leggera e veloce per inseguimenti rapidi, la Motocicletta da In
 | **Struttura** | 12 |
 | **Sistemi** | 1 |
 | **Velocità** | Veloce |
-| **Maneggevolezza** | Facile |
-| **Tratti** | [Maneggevolezza Superiore](0006_Vehicles.md?id=superior-handling), [Armato](0006_Vehicles.md?id=weaponized) |
-| **Armi** | Due Razzi (4d6) o Mitragliatrici Leggere Binate (2d6) |
+| **Manovrabilità** | Facile |
+| **Tratti** | [Manovrabilità Superiore](0006_Vehicles.md?id=superior-handling), [Armato](0006_Vehicles.md?id=weaponized) |
+| **Armi** | Due Razzi (4d6) o Mitragliatrici Leggere Accoppiate (2d6) |
 
 <br>
 
@@ -460,7 +469,7 @@ Una motocicletta leggera e veloce per inseguimenti rapidi, la Motocicletta da In
 
 #### Berlina
 
-Una berlina standard a 4 porte con spazio sufficiente per ospitare comodamente un conducente e tre passeggeri. Sacrifica spazio di carico per incorporare una suite di sorveglianza.
+Una berlina standard a 4 porte dotata di spazio sufficiente per ospitare comodamente un guidatore e tre passeggeri. Sacrifica lo spazio di carico per incorporare una suite di sorveglianza.
 
 | Berlina | |
 | :- | :- |
@@ -469,7 +478,7 @@ Una berlina standard a 4 porte con spazio sufficiente per ospitare comodamente u
 | **Struttura** | 25 |
 | **Sistemi** | 2 |
 | **Velocità** | Rapida |
-| **Maneggevolezza** | Standard |
+| **Manovrabilità** | Standard |
 | **Tratti** | [Discreto](0006_Vehicles.md?id=unobtrusive), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite) |
 | **Armi** | Nessuna |
 
@@ -479,7 +488,7 @@ Una berlina standard a 4 porte con spazio sufficiente per ospitare comodamente u
 
 #### Auto Sommergibile
 
-Un'auto a due posti che può passare alla modalità acquatica o sommergibile per viaggiare sull'acqua o sott'acqua. Viene fornita con un siluro montato frontalmente e un missile terra-aria montato superiormente.
+Un'auto per due persone in grado di passare alla modalità nautica o sommergibile per viaggiare sull'acqua o sott'acqua. Dotata di un siluro frontale e di un missile superficie-aria montato sul tetto.
 
 | Auto Sommergibile | |
 | :- | :- |
@@ -488,8 +497,8 @@ Un'auto a due posti che può passare alla modalità acquatica o sommergibile per
 | **Struttura** | 25 |
 | **Sistemi** | 2 |
 | **Velocità** | Veloce |
-| **Maneggevolezza** | Standard |
-| **Tratti** | [Prestazioni Migliorate](0006_Vehicles.md?id=enhanced-performance), [Sommergibile](0006_Vehicles.md?id=submersible), [Acquatico](0006_Vehicles.md?id=waterborne), [Armato](0006_Vehicles.md?id=weaponized) |
+| **Manovrabilità** | Standard |
+| **Tratti** | [Prestazioni Avanzate](0006_Vehicles.md?id=enhanced-performance), [Sommergibile](0006_Vehicles.md?id=submersible), [Nautico](0006_Vehicles.md?id=waterborne), [Armato](0006_Vehicles.md?id=weaponized) |
 | **Armi** | Razzo (5d6), Siluro (4d10) |
 
 <br>
@@ -498,7 +507,7 @@ Un'auto a due posti che può passare alla modalità acquatica o sommergibile per
 
 #### Furgone di Sorveglianza
 
-Un furgone semplice, non contrassegnato, che ospita una squadra di agenti e una suite di apparecchiature di registrazione audio-visiva.
+Un furgone semplice e anonimo che ospita una squadra di agenti e una serie di apparecchiature di registrazione audio-visiva.
 
 | Furgone di Sorveglianza | |
 | :- | :- |
@@ -507,8 +516,8 @@ Un furgone semplice, non contrassegnato, che ospita una squadra di agenti e una 
 | **Struttura** | 60 |
 | **Sistemi** | 3 |
 | **Velocità** | Lieve |
-| **Maneggevolezza** | Standard |
-| **Tratti** | [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Robusto](0006_Vehicles.md?id=tough) |
+| **Manovrabilità** | Standard |
+| **Tratti** | [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Resistente](0006_Vehicles.md?id=tough) |
 | **Armi** | Nessuna |
 
 <br>
@@ -517,7 +526,7 @@ Un furgone semplice, non contrassegnato, che ospita una squadra di agenti e una 
 
 #### Veicolo di Supporto Tattico
 
-Un pickup o jeep con spazio per un equipaggio di due persone in cabina e un mitragliere in piedi nella sezione del pianale che aziona una Mitragliatrice Media a montaggio girevole.
+Un pickup o una jeep COS spazio per un equipaggio di due persone in cabina e un mitragliere nel cassone posteriore che aziona una Mitragliatrice Media montata su perno.
 
 | Veicolo di Supporto Tattico | |
 | :- | :- |
@@ -526,9 +535,10 @@ Un pickup o jeep con spazio per un equipaggio di due persone in cabina e un mitr
 | **Struttura** | 30 |
 | **Sistemi** | 2 |
 | **Velocità** | Rapida |
-| **Maneggevolezza** | Standard |
+| **Manovrabilità** | Standard |
 | **Tratti** | [Fuoristrada](0006_Vehicles.md?id=all-terrain), [Armato](0006_Vehicles.md?id=weaponized) |
 | **Armi** | Mitragliatrice Media Montata (2d6) |
+
 
 <br>
 
@@ -538,7 +548,7 @@ Un pickup o jeep con spazio per un equipaggio di due persone in cabina e un mitr
 
 #### Motoscafo
 
-Un motoscafo tipico, armato con un dispenser di mine montato posteriormente.
+Un tipico motoscafo, armato di un distributore di mine montato a poppa.
 
 | Motoscafo | |
 | :- | :- |
@@ -547,9 +557,9 @@ Un motoscafo tipico, armato con un dispenser di mine montato posteriormente.
 | **Struttura** | 24 |
 | **Sistemi** | 2 |
 | **Velocità** | Veloce |
-| **Maneggevolezza** | Standard |
-| **Tratti** | [Prestazioni Migliorate](0006_Vehicles.md?id=enhanced-performance), [Acquatico](0006_Vehicles.md?id=waterborne), [Armato](0006_Vehicles.md?id=weaponized) |
-| **Armi** | Dispenser di Mine (5d6) |
+| **Manovrabilità** | Standard |
+| **Tratti** | [Prestazioni Avanzate](0006_Vehicles.md?id=enhanced-performance), [Nautico](0006_Vehicles.md?id=waterborne), [Armato](0006_Vehicles.md?id=weaponized) |
+| **Armi** | Distributore di Mine (5d6) |
 
 <br>
 
@@ -557,7 +567,7 @@ Un motoscafo tipico, armato con un dispenser di mine montato posteriormente.
 
 #### Yacht
 
-Il tipo di yacht di lusso che un oligarca potrebbe possedere. Probabilmente equipaggiato con una suite di sorveglianza per proteggere da nemici che tentano di fare danni.
+Il tipo di yacht di lusso che un oligarca potrebbe possedere. Probabilmente equipaggiato COS una suite di sorveglianza per proteggersi dai nemici che tentano di tramare qualcosa di losco.
 
 | Yacht | |
 | :- | :- |
@@ -566,29 +576,30 @@ Il tipo di yacht di lusso che un oligarca potrebbe possedere. Probabilmente equi
 | **Struttura** | 75 |
 | **Sistemi** | 4 |
 | **Velocità** | Lenta |
-| **Maneggevolezza** | Formidabile |
-| **Tratti** | [Lussuoso](0006_Vehicles.md?id=luxurious), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Acquatico](0006_Vehicles.md?id=waterborne) |
+| **Manovrabilità** | Formidabile |
+| **Tratti** | [Lussuoso](0006_Vehicles.md?id=luxurious), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [Nautico](0006_Vehicles.md?id=waterborne) |
 | **Armi** | Nessuna |
+
 
 <br>
 
 ---
 
-### Aeromobili/Astronavi
+### Velivoli/Astronavi
 
-#### Dirigibile (Transatlantico Aereo Civile)
+#### Dirigibile (Transatlantico Civile)
 
-Simile all'Hindenburg, questa classe di dirigibili transcontinentali (e altri della sua classe) è lunga 245 metri e richiede un equipaggio da 40 a 61 persone. Può tipicamente trasportare un complemento da 50 a 72 passeggeri in sistemazioni di lusso.
+Simile all'Hindenburg, questa classe di dirigibili transcontinentali è lunga 245 metri e richiede un equipaggio da 40 a 61 persone. Può tipicamente trasportare un complemento di 50-72 passeggeri in sistemazioni di lusso.
 
 | Dirigibile | |
 | :- | :- |
-| **Dimensione / Tipo** | Colossale Civile |
+| **Dimensione / Tipo** | Immensamente Grande Civile |
 | **Scafo** | 10 |
 | **Struttura** | 85 |
 | **Sistemi** | 5 |
-| **Velocità** | Macchinosa |
-| **Maneggevolezza** | Ercolea |
-| **Tratti** | [Aeromobile](0006_Vehicles.md?id=airborne), [Lussuoso](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Velocità** | Pesante |
+| **Manovrabilità** | Erculea |
+| **Tratti** | [Aereo](0006_Vehicles.md?id=airborne), [Lussuoso](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Scudi** | Nessuno |
 | **Armi** | Nessuna |
 
@@ -598,7 +609,7 @@ Simile all'Hindenburg, questa classe di dirigibili transcontinentali (e altri de
 
 #### Elicottero d'Assalto
 
-Il tradizionale Elicottero d'Assalto utilizza la sua avanzata tecnologia di sorveglianza per intercettare segnali telefonici e internet wireless e tracciare individui e veicoli anche al buio, tramite FLIR. I tentativi di eludere il tracciatore tramite Furtività sono Formidabili.
+Il tradizionale Elicottero d'Assalto utilizza una tecnologia di sorveglianza avanzata per intercettare segnali telefonici e internet wireless, e per tracciare individui e veicoli anche al buio, tramite FLIR. I tentativi di eludere il tracciatore tramite Furtività sono Formidabili.
 
 | Elicottero d'Assalto | |
 | :- | :- |
@@ -607,69 +618,70 @@ Il tradizionale Elicottero d'Assalto utilizza la sua avanzata tecnologia di sorv
 | **Struttura** | 50 |
 | **Sistemi** | 3 |
 | **Velocità** | Moderata |
-| **Maneggevolezza** | Facile |
-| **Tratti** | [Aeromobile](0006_Vehicles.md?id=airborne), [Prestazioni Migliorate](0006_Vehicles.md?id=enhanced-performance), [Furtivo](0006_Vehicles.md?id=stealth), [Maneggevolezza Superiore](0006_Vehicles.md?id=superior-handling), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Manovrabilità** | Facile |
+| **Tratti** | [Aereo](0006_Vehicles.md?id=airborne), [Prestazioni Avanzate](0006_Vehicles.md?id=enhanced-performance), [Furtività](0006_Vehicles.md?id=stealth), [Manovrabilità Superiore](0006_Vehicles.md?id=superior-handling), [Suite di Sorveglianza](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Scudi** | Nessuno |
-| **Armi** | 1 Mitragliatrice Gatling (3d6), 4 Razzi (5d6) |
+| **Armi** | 1 Gatling (3d6), 4 Razzi (5d6) |
 
 <br>
 
 ---
 
-#### Caccia Multiruolo
+#### Caccia Multi-Ruolo
 
-Questo caccia biposto terrestre (simile al De Havilland Mosquito) è ben noto per le sue prestazioni e versatilità. La sua stiva bombe è in grado di trasportare due bombe da 250 libbre (trattare come missili medi con gittata 0) o un singolo siluro.
+Questo caccia bimposto a base terrestre (simile al De Havilland Mosquito) è noto per le sue prestazioni e versatilità. La sua stiva per le bombe è in grado di trasportare due bombe da 250 libbre (trattarle come missili medi COS gittata 0) o un singolo siluro.
 
-| Caccia Multiruolo | |
+| Caccia Multi-Ruolo | |
 | :- | :- |
 | **Dimensione / Tipo** | Grande Militare |
 | **Scafo** | 10 |
 | **Struttura** | 45 |
 | **Sistemi** | 3 |
 | **Velocità** | Moderata |
-| **Maneggevolezza** | Standard |
-| **Tratti** | [Aeromobile](0006_Vehicles.md?id=airborne), [Prestazioni Migliorate](0006_Vehicles.md?id=enhanced-performance) |
+| **Manovrabilità** | Standard |
+| **Tratti** | [Aereo](0006_Vehicles.md?id=airborne), [Prestazioni Avanzate](0006_Vehicles.md?id=enhanced-performance) |
 | **Scudi** | Nessuno |
-| **Armi** | 4 Mitragliatrici Gatling Montate sul Muso (4d6+3), 1 stiva bombe (6d10 - vedi descrizione) |
+| **Armi** | 4 Gatling montate sul muso (4d6+3), 1 stiva per bombe (6d10 - vedi descrizione) |
 
 <br>
 
 ---
 
-#### Cargo Interstellare (Trasporto Leggero ad Alta Tecnologia)
+#### Mercantile Interstellare (Trasporto Leggero Alta Tecnologia)
 
-Questo trasporto leggero richiede un equipaggio minimo di soli due membri, con spazio per un massimo di quattro passeggeri aggiuntivi. Viene qui presentata la versione standard di serie; tuttavia, molti proprietari applicheranno le proprie "modifiche speciali" come spazio di carico nascosto, Prestazioni Migliorate, Maneggevolezza Superiore, Resistenza all'EMP, Furtivo, e così via.
+Questo trasporto leggero richiede un equipaggio minimo di soli due membri, COS spazio per un massimo di altri quattro passeggeri. Qui viene riportata la versione di serie standard, tuttavia molti proprietari applicheranno le proprie "modifiche speciali" come spazio di carico occultato, Prestazioni Avanzate, Manovrabilità Superiore, Resistenza EMP, Furtività e così via.
 
-| Cargo Interstellare | |
+| Mercantile Interstellare | |
 | :- | :- |
-| **Dimensione / Tipo** | Medio Astronave Civile |
+| **Dimensione / Tipo** | Medio Civile Spaziale |
 | **Scafo** | 10 |
 | **Struttura** | 80 |
 | **Sistemi** | 2 |
 | **Velocità** | Rapida (Fattore Parsec di 3) |
-| **Maneggevolezza** | Standard |
-| **Tratti** | [Aeromobile](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Veicolo Spaziale](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Manovrabilità** | Standard |
+| **Tratti** | [Aereo](0006_Vehicles.md?id=airborne), [Carico](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Astronave](0006_Vehicles.md?id=spacecraft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Scudi** | 8 |
-| **Armi** | 2x Torrette Cannone Laser Quad-montate (5d6) |
+| **Armi** | 2x Torrette COS Cannoni Laser Quadrupli (5d6) |
+
 
 <br>
 
 ---
 
-#### Unità di Contatto Generale (Astronave Ultra Tecnologica)
+#### Unità di Contatto Generale (Astronave Ultra Alta Tecnologia)
 
-Questa astronave estremamente tecnologica è la rappresentazione fisica di una Mente artificiale altamente avanzata, che assume la forma di una serie di moduli collegati a campo, lunghi due chilometri. I moduli hanno scopi individuali e includono habitat, strutture di costruzione, aree cargo, elaborazione alimentare, complessi ricreativi, baie hangar e persino alcune unità segrete che l'intelligenza della nave raramente, se non mai, discute. Non ha bisogno di equipaggio umano, ma può supportare una popolazione di passeggeri fino a 100.000 con facilità. Molti passeggeri nascono e muoiono a bordo dell'Unità di Contatto: molti sono transitori, vanno e vengono a loro piacimento.
+Questa astronave estremamente tecnologica è la rappresentazione fisica di una Mente artificiale altamente avanzata, che assume la forma di una serie di moduli collegati dal campo, lunga due chilometri. I moduli hanno scopi individuali e includono habitat, impianti di costruzione, aree di carico, trasformazione alimentare, complessi per il tempo libero, hangar e persino alcune unità segrete di cui l'intelligenza della nave discute raramente, se non mai. Non ha bisogno di equipaggio umano, ma può supportare una popolazione di passeggeri fino a 100.000 persone COS facilità. Molti passeggeri nascono e muoiono a bordo dell'Unità di Contatto: molti sono transitori, andando e venendo a loro piacimento.
 
 | Unità di Contatto Generale | |
 | :- | :- |
-| **Dimensione / Tipo** | Mastodontico Astronave Civile |
+| **Dimensione / Tipo** | Colossale Civile Spaziale |
 | **Scafo** | 20 |
 | **Struttura** | 10.000 |
 | **Sistemi** | 6 |
 | **Velocità** | Moderata (Fattore Parsec di 4. A questo livello tecnologico, un Fattore equivale a 1 ora) |
-| **Maneggevolezza** | Formidabile |
-| **Tratti** | [Aeromobile](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Trasportatore](0006_Vehicles.md?id=carrier), [Costruzione](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Lussuoso](0006_Vehicles.md?id=luxurious), [Veicolo Spaziale](0006_Vehicles.md?id=space-craft),[Maneggevolezza Superiore](0006_Vehicles.md?id=superior-handling), [Raggio Traente](0006_Vehicles.md?id=tractor-beam) |
+| **Manovrabilità** | Formidabile |
+| **Tratti** | [Aereo](0006_Vehicles.md?id=airborne), [Carico](0006_Vehicles.md?id=cargo), [Portaerei](0006_Vehicles.md?id=carrier), [Costruzione](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Lussuoso](0006_Vehicles.md?id=luxurious), [Astronave](0006_Vehicles.md?id=spacecraft), [Manovrabilità Superiore](0006_Vehicles.md?id=superior-handling), [Raggio Traente](0006_Vehicles.md?id=tractor-beam) |
 | **Scudi** | 30 |
-| **Armi** | Nessuna che voglia discutere |
+| **Armi** | Nessuna di cui desideri discutere |
 
 <br>

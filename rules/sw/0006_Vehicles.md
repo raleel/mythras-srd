@@ -1,119 +1,124 @@
 # Magari
 
-Magari katika _Mythras Imperative_ yanachukuliwa kwa mtindo usiobayana sana. Kimsingi, ni zana za usaidizi, zinazotumika kuwapeleka wahusika kutoka A hadi B, bila hitaji kubwa la maelezo ya kina au takwimu. Hata hivyo, mara kwa mara, Mabwana wa Mchezo watahitaji maelezo ya magari wakati inavyohitajika kuyawakilisha katika mikimbizano au hali za mapigano.
+Magari katika _Mythras Imperative_ yanashughulikiwa kwa mtindo wa kidhahania. Kimsingi, ni zana za usuli, zinazotumiwa kusafirisha wahusika kutoka sehemu A hadi B, bila kuhitaji maelezo ya kina au takwimu. Hata hivyo, mara nyingine, Waongoza Michezo (Games Masters) watahitaji maelezo ya magari pale inapobidi kuyaonyesha katika harakati za kufukuza au hali za mapigano.
 
-Kanuni katika sehemu hii zinaruhusu uwakilishi wa aina nyingi za magari lakini kwa njia isiyo wazi inayokusudiwa kuruhusu kunyumbulika na kuboresha usimulizi wa hadithi. Vyombo vya anga na vyombo vya angani ni tofauti kidogo, ingawa vinatokana na kanuni zinazofanana.
+Kanuni katika sehemu hii zinaruhusu uwakilishi wa aina nyingi za magari lakini kwa njia ya kidhahania ambayo imekusudiwa kuruhusu unyumbufu na kuboresha usimulizi wa hadithi. Meli za angani (starships) na vyombo vya anga ni tofauti kidogo, ingawa vinazingatia kanuni zinazofanana.
 
 ---
 ## Takwimu
 
-Magari yote yanafafanuliwa kulingana na Muundo, Ganda, Kasi, Mifumo, Sifa, na Ngao zake (ikiwa zipo katika mazingira husika).
+Magari yote yanaelezwa kwa kutumia Muundo (Structure), Ganda (Hull), Kasi (Speed), Mifumo (Systems), Sifa (Traits), na Ngao (Shields) (ikiwa zipo katika mazingira ya mchezo).
 
-- **[Ukubwa](0006_Vehicles.md?id=vehicle-size-table):** Magari yote yana mojawapo ya viwango sita vya Ukubwa ambavyo huamua thamani au masafa ya sifa zingine. Kutokana na ukubwa wao asili na mazingira hatari ya angani, vyombo vya anga vina masafa yao ya thamani.
-- **[Ganda](0006_Vehicles.md?id=terrestrial-hulls):** Huwakilisha Pointi za Silaha
-- **[Muundo](0006_Vehicles.md?id=terrestrial-hulls):** Huwakilisha Pointi za Afya za gari
-- **[Ngao](0006_Vehicles.md?id=shields):** Katika mazingira yenye teknolojia ya juu ya kudhibiti nishati, ngao zinaweza kuwepo zinazolinda gari, lakini ambazo zinaweza kupungua chini ya mashambulizi endelevu.
-- **[Mifumo](0006_Vehicles.md?id=systems):** Huwakilisha vipengele muhimu vya gari, ikiwemo kituo cha nguvu, sehemu ya wafanyakazi, na kadhalika.
-- **[Kasi](0006_Vehicles.md?id=speed):** Kila gari lina kiwango cha msingi cha Kasi
-- **[Sifa](0006_Vehicles.md?id=traits):** Gari linaweza pia kuwa na Sifa moja au zaidi. Sifa, kama vile Uwezo uliotengewa Viumbe katika kanuni za _Mythras Imperative_, au Sifa za Mtindo wa Kupambana, hutoa maelezo ya ziada ya mchezo na faida, ikionyesha asili ya gari.
-- **[Silaha](0006_Vehicles.md?id=weapons):** Sawa na Sifa, gari linaweza kuwekewa silaha kadri mazingira yanavyoruhusu. Mifano iliyopendekezwa na thamani zimefafanuliwa hapa chini.
+- **[Ukubwa](0006_Vehicles.md?id=vehicle-size-table):** Magari yote yana mojawapo ya viwango sita vya Ukubwa ambavyo huamua thamani au safu ya sifa nyingine zilizobaki. Kutokana na ukubwa wao mkubwa wa asili na mazingira magumu ya anga, meli za angani zina safu zao za thamani.
+- **[Ganda](0006_Vehicles.md?id=terrestrial-hulls):** Inawakilisha Pointi za Silaha (Armor Points).
+- **[Muundo](0006_Vehicles.md?id=terrestrial-hulls):** Inawakilisha Pointi za Afya (Hit Points) za gari.
+- **[Ngao](0006_Vehicles.md?id=shields):** Katika mazingira yenye teknolojia ya hali ya juu ya kudhibiti nishati, ngao zinaweza kuwepo ili kulinda gari, lakini zinaweza kuchakaa chini ya mashambulizi ya mara kwa mara.
+- **[Mifumo](0006_Vehicles.md?id=systems):** Inawakilisha sehemu muhimu za gari, ikiwemo mtambo wa nishati, sehemu ya wafanyakazi, na kadhalika.
+- **[Kasi](0006_Vehicles.md?id=speed):** Kila gari lina kiwango MVU msingi MVU Kasi.
+- **[Sifa](0006_Vehicles.md?id=traits):** Gari linaweza pia kuwa na Sifa moja au zaidi. Sifa, kama vile Uwezo uliotengwa kwa Ajili ya Viumbe katika kanuni za _Mythras Imperative_, au Sifa za Mtindo wa Mapigano, hutoa maelezo ya ziada ya mchezo na faida, zikionyesha asili ya gari hilo.
+- **[Silaha](0006_Vehicles.md?id=weapons):** Kama ilivyo kwa Sifa, gari linaweza kuwa na silaha kama mazingira yanavyoruhusu. Baadhi ya mifano na thamani zilizopendekezwa zimeelezwa hapa chini.
+
 
 ---
 ### Ukubwa wa Ganda, Aina na Muundo
 
-Ukubwa na madhumuni ya gari huathiri unene wa ganda lake na ustahimilivu wa muundo wake wa ndani. Pikipiki, kwa mfano, ina ganda dogo, iliyojengwa kwa kasi na wepesi. Chuma cha Nchi Kavu (mnyama mkubwa, mwenye nyororo au magurudumu ya kivita, anayetumia injini za mvuke au dizeli), ikiwa ni gari kubwa zaidi lililoundwa kwa ajili ya uwanja wa vita, ina ganda kubwa zaidi. Ukubwa wa kulinganisha wa maganda (na ni pigo ngapi kutoka kwa silaha inaweza kustahimili kwa kawaida), imefupishwa kwenye jedwali za Ukubwa wa Gari na Ganda hapa chini.
+Ukubwa na madhumuni ya gari huathiri unene wa ganda lake na ustahimilivu wa muundo wake wa ndani. Pikipiki, kwa mfano, ina ganda dogo sana, kwa sababu imejengwa kwa ajili ya kasi na wepesi. Land Ironclad (jitu kubwa la kivita lenye magurudumu au nyimbo za kutambaa, linaloendeshwa kwa injini za mvuke au dizeli), ikiwa ni gari kubwa zaidi iliyoundwa kwa ajili ya uwanja wa vita, ina ganda kubwa zaidi. Ukubwa linganishi wa maganda (na ni mapigo mangapi kutoka kwa silaha wanayoweza kuhimili kwa kawaida), yamefupishwa kwenye majedwali ya Ukubwa wa Gari na Ganda hapa chini.
 
-Wakati wowote gari linapopata madhara, uharibifu unaoingia hupunguzwa na thamani ya Ganda lake. Uharibifu wowote uliobaki hupunguzwa kutoka pointi za Muundo wa gari na una asilimia ya nafasi, sawa na uharibifu wa kupenya, kuathiri Mfumo. Ikiwa gari litapunguzwa hadi Muundo sifuri, basi linaharibika kabisa, au limeharibika vibaya sana hivi kwamba lazima litupwe.
+Wakati wowote gari linapopata madhara, uharibifu unaoingia hupunguzwa na thamani ya Ganda lake. Uharibifu wowote uliobaki hutolewa kutoka kwa pointi za Muundo wa gari na una nafasi ya asilimia, sawa na uharibifu unaopenya, kuathiri Mfumo. Ikiwa gari litapunguzwa hadi kufikia sifuri ya Muundo, linaharibiwa kabisa, au linavunjika vibaya kiasi kwamba lazima lipelekwe kwenye taka.
 
-##### Maganda ya Nchi Kavu
-
-| Ukubwa | Muundo | Thamani ya Ganda la Kiraia | Thamani ya Ganda la Kijeshi | Mfano |
-| :-- | :-: | :-: | :-: | :-- |
-| Ndogo | 1-20 | 1-3 | 4-6 | Pikipiki, pikipiki yenye kigari cha pembeni, gari dogo au la kiuchumi, mtumbwi, kayak, mtumbwi wa makasia |
-| Kati | 21-40 | 1-6 | 7-9 | Sedan, gari la mizigo dogo, pickup, gari la kifahari, gari la michezo la kifahari, gari lenye nguvu, limousine, boti ya uokozi, boti ya kasi, hang glider, autogyro |
-| Kubwa | 41-60 | 4-9 | 10-12 | Lori/trela, stretch limo, SUV, basi, gari la abiria, ndege binafsi, glider, boti ya starehe, tanki, helikopta, nyambizi |
-| Kubwa Sana | 61-80 | 7-12 | 13-15 | Semi, ndege ya abiria, jet, chombo cha walinzi wa pwani, yacht |
-| Kubwa Ajabu | 81-100 | 10-15 | 16-18 | Treni, meli ya abiria, chombo cha majini |
-
-##### Maganda ya Vyombo vya Anga
+##### Maganda ya Nchi Kavu 
 
 | Ukubwa | Muundo | Thamani ya Ganda la Kiraia | Thamani ya Ganda la Kijeshi | Mfano |
 | :-- | :-: | :-: | :-: | :-- |
-| Ndogo | 10-50 | 4-9 | 10-12 | Ndege ya kivita ya kiti kimoja |
-| Kati | 51-150 | 7-12 | 13-15 | Ndege ya Mizigo Nyepesi, Ndege Ndogo |
-| Kubwa | 151-450 | 10-15 | 16-18 | Ndege ya Mizigo Nzito, Cruiser |
-| Kubwa Sana | 451-1350 | 13-18 | 19-21 | Escort Frigate, Light Battle Cruiser |
-| Kubwa Ajabu | 1351-4050 | 16-21 | 21-24 | Generation Ship, Heavy Battle Cruiser |
-| Kubwa Kufuru | 4050-12110 | 19-24 | 24-30 | Makazi ya Anga, Kituo cha Kupambana na Sayari |
+| Ndogo | 1-20 | 1-3 | 4-6 | Pikipiki, pikipiki yenye kigari MVU pembeni, gari dogo, mtumbwi, kayak, boti ya makasia |
+| Kati | 21-40 | 1-6 | 7-9 | Sedan, van ndogo, pickup, gari la kifahari, gari la michezo la kifahari, gari lenye nguvu, limousine, boti ya uokoaji, boti ya kasi, hang glider, autogyro |
+| Kubwa | 41-60 | 4-9 | 10-12 | Lori, stretch limo, SUV, basi, gari la abiria, ndege ya binafsi, glider, boti ya starehe, tanki, helikopta, manowari |
+| Kubwa Sana | 61-80 | 7-12 | 13-15 | Semi, ndege ya abiria, jet, chombo MVU walinzi wa pwani, yacht |
+| Hekalu | 81-100 | 10-15 | 16-18 | Treni, meli ya kusafiria (cruise liner), chombo MVU majini |
+
+##### Maganda ya Meli za Angani 
+
+| Ukubwa | Muundo | Thamani ya Ganda la Kiraia | Thamani ya Ganda la Kijeshi | Mfano |
+| :-- | :-: | :-: | :-: | :-- |
+| Ndogo | 10-50 | 4-9 | 10-12 | Mpiganaji wa kiti kimoja |
+| Kati | 51-150 | 7-12 | 13-15 | Meli ya mizigo ndogo, Chombo MVU usafiri (Shuttle) |
+| Kubwa | 151-450 | 10-15 | 16-18 | Meli ya mizigo mizito, Cruiser |
+| Kubwa Sana | 451-1350 | 13-18 | 19-21 | Escort Frigate, Meli ndogo ya kivita |
+| Hekalu | 1351-4050 | 16-21 | 21-24 | Meli ya kizazi, Meli nzito ya kivita |
+| Kolosali | 4050-12110 | 19-24 | 24-30 | Makazi ya anga, Kituo MVU kivita MVU kuharibu sayari |
+
 
 ---
 ### Ngao
 
-Ngao za ulinzi hutoa safu ya ziada ya ulinzi kwa magari hayo yanayoweza kuziweka. Ngao hufanya kazi tofauti kidogo na Ganda, kutokana na asili yao ya kupungua. Ikiwa uharibifu unaoingia ni sawa au chini ya thamani ya ngao, basi zote zimezuiwa. Ikiwa uharibifu unazidi thamani ya ngao, basi ziada yoyote hupunguza nguvu ya ngao kwa kiasi hicho.
+Ngao za kuzuia hutoa safu ya ziada ya ulinzi kwa magari yanayoweza kuziweka. Ngao hufanya kazi tofauti kidogo na Ganda, kutokana na asili yao ya kuchakaa. Ikiwa uharibifu unaoingia ni sawa au chini ya thamani ya ngao, basi yote huzuiwa. Ikiwa uharibifu unazidi thamani ya ngao, basi ziada yoyote hupunguza nguvu ya ngao kwa kiasi hicho.
 
-_Kwa mfano, gari la kubebea askari lina nguvu ya ngao ya nishati ya pointi 12. Ikiwa gari hilo lilipigwa na laser kwa uharibifu wa 11, halipenywi tu na halina athari ya ziada. Kwa upande mwingine, ikiwa gari hilo lilipigwa na mlipuko ulioharibu 15, pointi tatu za ziada zingepunguza nguvu ya ngao hadi 9._
+_Kwa mfano, gari la kubebea wanajeshi lina nguvu ya ngao ya nishati ya pointi 12. Ikiwa gari hilo litapigwa na leza kwa uharibifu wa 11, haipenyewi na haina athari ya ziada. Kwa upande mwingine, ikiwa gari litapigwa na mlipuko wa uharibifu 15, pointi tatu za ziada zitashusha nguvu ya ngao hadi 9._
 
-Mara nguvu ya ngao ya ulinzi imepungua hadi sifuri, inaporomoka. Uharibifu wowote uliobaki hubebwa kwenye ganda.
+Nguvu ya ngao ya kuzuia inaposhuka hadi sifuri, huanguka. Uharibifu wowote uliobaki huhamia kwenye ganda.
 
 ---
 ### Mifumo
 
-Kila mara gari linapopata uharibifu unaopenya ganda lake, kuna uwezekano, sawa na uharibifu wa kupenya, kwamba Mfumo muhimu umeathiriwa.
+Kila wakati gari linapopata uharibifu unaopenya ganda lake, kuna nafasi, sawa na uharibifu unaopenya, kwamba Mfumo muhimu umeathiriwa.
 
-_Kwa mfano, uharibifu wa 10 hutumika kwa Boti ya Kasi - gari lenye Ganda 3 na Muundo 24. Ganda linahesabika kama silaha kupunguza uharibifu hadi 7. Hii huondolewa kutoka kwa pointi za Muundo 24 na kuna nafasi ya 7% ya kuharibu mojawapo ya Mifumo ya gari._
+_Kwa mfano, uharibifu 10 unatumiwa kwa Boti ya Kasi - gari lenye Ganda 3 na Muundo 24. Ganda linahesabika kama silaha inayopunguza uharibifu hadi 7. Hii hutolewa kutoka kwa pointi 24 za Muundo na kuna nafasi ya 7% ya kuharibu mojawapo ya Mifumo ya gari._
 
-Uharibifu ambao Mfumo unaweza kustahimili unategemea tu ukubwa wa gari. Hii inawakilishwa na idadi ya mapigo ambayo Mfumo unaweza kupokea, badala ya kiasi halisi cha uharibifu. Pigo moja la Mfumo kwenye gari Ndogo litaangamiza Mfumo huo mara moja. Inachukua mapigo mawili kuharibu Mifumo ya gari la ukubwa wa Kati, matatu kwa gari Kubwa, na kadhalika. Tazama [Jedwali la Uharibifu wa Mfumo](0006_Vehicles.md?id=system-damage-table) hapa chini.
+Uharibifu ambao Mfumo unaweza kuhimili unategemea kabisa ukubwa wa gari. Hii inaigwa kwa idadi ya mapigo ambayo Mfumo unaweza kupata, badala ya kiasi halisi MVU uharibifu. Pigo moja la Mfumo kwenye gari Ndogo litaharibu Mfumo huo mara moja. Inachukua mapigo mawili kuharibu Mifumo ya gari la Ukubwa wa Kati, tatu kwa gari Kubwa, na kadhalika. Tazama [Jedwali la Uharibifu wa Mfumo](0006_Vehicles.md?id=system-damage-table) hapa chini.
 
-Mifumo iliyoharibika, lakini bado haijaharibiwa kabisa, hupata upotevu wa utendaji kulingana na idadi ya Mapigo yaliyopokelewa - ama upunguzaji wa asilimia au adhabu ya Daraja kwa kazi za Mfumo. Athari maalum inategemea kile mfumo mdogo unachodhibiti, kama ilivyoelezwa katika [Jedwali la Uharibifu wa Vipengele vya Mfumo](0006_Vehicles.md?id=system-component-damage-table) hapa chini. Kulingana na Mfumo gani umepigwa, athari zinaweza kuwa mbaya.
+Mifumo iliyoharibiwa, lakini ambayo haijaharibiwa kikamilifu, hupata upotevu wa utendaji kulingana na idadi ya Mapigo yaliyopokelewa - ama upunguzaji wa asilimia au adhabu ya Daraja (Grade) kwa kazi za Mfumo. Athari maalum inategemea kile ambacho mfumo mdogo hudhibiti, kama ilivyoainishwa katika [Jedwali la Uharibifu wa Sehemu ya Mfumo](0006_Vehicles.md?id=system-component-damage-table) hapa chini. Kulingana na Mfumo gani unapigwa, athari zinaweza kuwa mbaya.
 
-_Kwa mfano, Chuma cha Nchi Kavu - gari Kubwa Ajabu lenye Mapigo 5 ya Mfumo - lilipigwa mara mbili katika Kiendeshi lingepoteza 40% ya nguvu zake na lingepunguza Kasi yake Ndogo Daraja mbili hadi Ponderous. Vivyo hivyo, gari Kubwa la mizigo - lenye Mapigo 3 ya Mfumo - likipokea mapigo mawili kwenye Mfumo wa Injini/Mafuta lingekuwa na adhabu ya Daraja mbili kwa Kasi na pia kwa matumizi ya mifumo ya Elektroniki. Pigo la tatu lingeweza kuharibu Mfumo wa Injini/Mafuta na meli nzima._
+_Kwa mfano, Land Ironclad - gari la Hekalu lenye Mapigo 5 ya Mfumo - likipigwa mara mbili kwenye Injini (Drive) lingepoteza 40% ya nguvu yake na ingepunguza Kasi yake ya Polepole kwa Daraja mbili hadi kuwa nzito sana (Ponderous). Vivyo hivyo, meli kubwa ya mizigo - yenye Mapigo 3 ya Mfumo - ikipata mapigo mawili kwenye Mfumo wa Injini/Mafuta ingekuwa na adhabu ya Daraja mbili kwa Kasi na pia kwa matumizi ya mifumo ya kielektroniki. Pigo la tatu lingeharibu Mfumo wa Injini/Mafuta na meli yenyewe._
+
 
 <details>
 
-<summary>* Makosa ya Jumuiya Yaliyorekebishwa</summary>
+<summary>* Errata ya Jamii</summary>
 
 ---
 
 #### Uharibifu
 
-_Maandishi asili hapa yalikuwa mbali zaidi. Yalipowekwa moja kwa moja baada ya sehemu ya Mifumo, yanarudia aya iliyopita bila lazima._
 
-- _"Uharibifu unaozidi Ganda hupenya gari, kuharibu Muundo na labda kuathiri mfumo mmoja au zaidi. Kulingana na ukubwa wa gari, uharibifu unaweza kuwa mdogo au mkubwa._
-- _Kwa mfano, gari Kubwa linaweza kupokea hadi mapigo mawili kwenye Mfumo kama vile Kiendeshi chake. Pigo la tatu huangamiza kabisa Kiendeshi. Kila wakati mfumo unapopokea pigo, hupoteza asilimia ya utendaji wake kama ilivyoelezwa katika safu ya Hasara kwa Kila Pigo ya Jedwali la Uharibifu wa Mfumo hapa chini au kazi kuu (kama vile Kiendeshi, Rubani, Mawasiliano, na kadhalika) inakuwa Daraja moja la Ugumu zaidi kwa kila pigo lililopokelewa."_
+_Maandishi ya asili hapa yalikuwa mbali zaidi. Kuwekwa moja kwa moja baada ya sehemu ya Mifumo ni kurudia bila lazima aya iliyotangulia._
 
-_Aya zilizo hapo juu zimeondolewa na mabadiliko mafupi yamechukua nafasi yake yakitoa mfano mwingine wa athari ya Mfumo._
+- _"Uharibifu unaozidi Ganda hupenya gari, kuharibu Muundo na ikiwezekana kuathiri mfumo mmoja au zaidi. Kulingana na ukubwa wa gari, uharibifu unaweza kuwa mdogo au mbaya._
+- _Kwa mfano, gari Kubwa linaweza kupata hadi mapigo mawili kwenye Mfumo kama vile Injini yake. Pigo la tatu linaharibu Injini hiyo kiutendaji. Kila wakati mfumo unapopata pigo, ama hupoteza asilimia ya utendaji wake kama ilivyoelezwa kwenye safu ya Upotevu kwa Pigo ya Jedwali la Uharibifu wa Mfumo hapa chini au kazi kuu (kama vile Injini, Uendeshaji, Mawasiliano, na kadhalika) inakuwa ngumu zaidi kwa Daraja moja ya Ugumu kwa kila pigo lililostahimiliwa."_
+
+_Aya zilizo hapo juu zinaondolewa na tahariri iliyofupishwa inachukua nafasi yake ikitaja athari nyingine ya Mfumo wa mfano._
 
 ---
 
 </details>
 
-##### Jedwali la Uharibifu wa Mfumo
+##### Jedwali la Uharibifu wa Mfumo 
 
-| Ukubwa | Mapigo ya Mfumo | Hasara kwa Kila Pigo |
+| Ukubwa | Mapigo ya Mfumo | Upotevu kwa Pigo |
 | :-- | :-: | :-- |
 | Ndogo | 1 | 100% - Imeharibiwa |
 | Kati | 2 | Daraja 1 au 50% |
 | Kubwa | 3 | Daraja 1 au 33% |
 | Kubwa Sana | 4 | Daraja 1 au 25% |
-| Kubwa Ajabu | 5 | Daraja 1 au 20% |
-| Kubwa Kufuru | 6 | Daraja 1 au 16% |
+| Hekalu | 5 | Daraja 1 au 20% |
+| Kolosali | 6 | Daraja 1 au 16% |
+
 
 <details>
 
-<summary>* Makosa ya Jumuiya Yaliyorekebishwa</summary>
+<summary>* Errata ya Jamii</summary>
 
 ---
 
-##### Jedwali la Uharibifu wa Mfumo (Asili)
+##### Jedwali la Uharibifu wa Mfumo (Asili) 
 
-| Ukubwa | Mapigo ya Mfumo | Hasara kwa Kila Pigo |
+| Ukubwa | Mapigo ya Mfumo | Upotevu kwa Pigo |
 | :-- | :-: | :-- |
 | Ndogo | 1 | Daraja 1 au 50% |
 | Kati | 2 | Daraja 1 au 33% |
 | Kubwa | 3 | Daraja 1 au 25% |
 | Kubwa Sana | 4 | Daraja 1 au 20% |
-| Kubwa Ajabu | 5 | Daraja 1 au 16% |
-| Kubwa Kufuru | 6 | Daraja 1 au 10% |
+| Hekalu | 5 | Daraja 1 au 16% |
+| Kolosali | 6 | Daraja 1 au 10% |
 
 ##### Jedwali la Ukubwa wa Gari (kutoka [Ukubwa wa Ganda, Aina na Muundo](0006_Vehicles.md?id=hull-size-type-and-structure))
 
@@ -123,68 +128,70 @@ _Aya zilizo hapo juu zimeondolewa na mabadiliko mafupi yamechukua nafasi yake ya
 | Kati | 2 |
 | Kubwa | 3 |
 | Kubwa Sana | 4 |
-| Kubwa Ajabu | 5 |
-| Kubwa Kufuru | 6 |
+| Hekalu | 5 |
+| Kolosali | 6 |
 
-_Kanuni na mifano asili haziendani:_
-- _"Mifumo iliyoharibika, lakini bado haijaharibiwa kabisa, hupata upotevu wa utendaji. Hii ni sawa na uwiano wa mapigo ya sasa kwa uwezo wake wote. Hivyo, gari Kubwa Ajabu lililopigwa mara mbili katika Kiendeshi lingepoteza 40% ya nguvu zake (mapigo 2 kati ya kiwango cha juu cha 5)"._
-  - _Hii inaonyesha gari Kubwa Ajabu lililoonyeshwa na Mapigo 5 ya Mfumo linapaswa kupoteza 20% kwa kila pigo - lakini jedwali linasema 16%._
-- _"Kwa mfano, gari Kubwa linaweza kupokea hadi mapigo matatu kwenye mfumo kama vile Kiendeshi chake. Pigo la nne huangamiza kabisa Kiendeshi."_
-  - _"Hii inaonyesha - kama inavyoonyesha jedwali - uharibifu wa 25% kwa kila Pigo la Mfumo lakini Magari Kubwa yanaweza kupokea mapigo 3 tu ya Mfumo kulingana na jedwali hilo hilo._
-- _Ingawa si kinyume, Jedwali la Ukubwa wa Gari lilikuwa limejirudia; likionekana tena kwa fomu kamili (likiongeza safu ya Hasara kwa Kila Pigo) mistari michache baadaye._
+_Kanuni na mifano ya asili haviendani:_
+- _"Mifumo iliyoharibiwa, lakini ambayo haijaharibiwa kikamilifu, hupata upotevu wa utendaji. Hii ni sawa na uwiano wa mapigo ya sasa na uwezo wake wa jumla. Kwa hivyo, gari la Hekalu lililopigwa mara mbili kwenye Injini lingepoteza 40% ya nguvu yake (mapigo 2 kati ya kiwango MVU juu MVU 5)"._ 
+   - _Hii inaonyesha gari la Hekalu lililoonyeshwa na Mapigo 5 ya Mfumo linapaswa kupoteza 20% kwa kila pigo - lakini jedwali linasema 16%._
+- _"Kwa mfano, gari Kubwa linaweza kupata hadi mapigo matatu kwenye mfumo kama vile Injini yake. Pigo la nne linaharibu Injini hiyo kiutendaji."_ 
+  - _"Hii inaonyesha - kama jedwali linavyoonyesha - 25% uharibifu kwa Pigo la Mfumo lakini Magari Makubwa yanaweza kupata Mapigo 3 ya Mfumo pekee kulingana na jedwali hilo hilohilo._
+- _Ingawa si kutokubaliana, Jedwali la Ukubwa wa Gari lilikuwa limezidi; likionekana tena katika fomu kamili (kuongeza safu ya Upotevu kwa Pigo) mistari michache baadaye._
 
-_Hii inafanya iwe vigumu kuwa na kanuni thabiti. Ili kushughulikia masuala haya, thamani na mifano zimebadilishwa ili zilingane na Jedwali la Ukubwa wa Gari limeondolewa._
+_Hii inafanya kuwa vigumu kuwa na kanuni thabiti. Ili kushughulikia masuala haya, thamani na mifano imebadilishwa ili kuendana na Jedwali la Ukubwa wa Gari liliondolewa._
 
 ---
 
 </details>
 
-##### Jedwali la Uharibifu wa Vipengele vya Mfumo
 
-| 1d10 | Mfumo | Matokeo ya Uharibifu | Matokeo ya Kuharibika Kabisa |
+##### Jedwali la Uharibifu wa Sehemu ya Mfumo 
+
+| 1d10 | Mfumo | Matokeo ya Uharibifu | Matokeo ya Uharibifu wa Jumla |
 | :-: | :-- | :-- | :-- |
-| 1 | Mizigo | Kiasi cha mali au vifaa vilivyohifadhiwa kwenye ghala, kulingana na uharibifu, vinaharibika. | Mizigo yote imeharibiwa. |
-| 2 | Mawasiliano | Rolls za mawasiliano hupata Daraja moja la ziada la ugumu kila zinapoharibika. | Gari haliwezi tena kuwasiliana au kudanganya sensorer za adui. |
-| 3 | Vidhibiti | Rolls za Uendeshaji wa Boti, Uendeshaji wa Gari, au Urubani hupata Daraja moja la ziada la ugumu kila zinapoharibika; roll ya Udhibiti ya haraka inahitajika. | Gari haliwezi tena kuendeshwa au kubadili mwelekeo. |
-| 4 | Kiendeshi | Kasi imepunguzwa kwa kiasi kulingana na uharibifu. | Gari linasimama kabisa; ndege zinaanguka. |
-| 5 | Wafanyakazi | Idadi ya abiria kulingana na uharibifu wanakuwa majeruhi. Wale walioathirika hupata Jeraha Kubwa na lazima wafanikiwe katika roll ya Ustahimilivu au wauawa mara moja. | Abiria wa gari wanakufa. |
-| 6 | Injini / Mafuta | Kasi imepunguzwa kwa kiasi kulingana na uharibifu. Mifumo ya kielektroniki Daraja moja la ugumu zaidi kutumia. | Gari linaharibiwa katika mlipuko mbaya. |
-| 7 | Sensorer | Rolls za Sensorer, Urambazaji na Mashambulizi ya Silaha hupata Daraja moja la ziada la ugumu kila zinapoharibika. | Gari linafanywa kuwa kipofu. |
-| 8 | Silaha | Idadi ya mifumo ya silaha kulingana na uharibifu inafanya kazi. | Gari haliwezi tena kufyatua silaha. |
-| 9-0 | Hakuna | Hakuna mifumo iliyopigwa; uharibifu wa Muundo tu. | N/A |
+| 1 | Mizigo | Kiasi MVU mali au vifaa vilivyohifadhiwa, kulingana na uharibifu, vinaharibiwa. | Mizigo yote inaharibiwa. |
+| 2 | Mawasiliano | Roli za mawasiliano hupata Daraja moja zaidi la ugumu kila wakati zinapoharibiwa. | Gari haliwezi tena kuwasiliana au kudanganya vihisi vya adui. |
+| 3 | Vidhibiti | Roli za Uendeshaji (Boating, Drive, au Pilot) hupata Daraja moja zaidi la ugumu kila wakati zinapoharibiwa; rol ya Kudhibiti inahitajika mara moja. | Gari haliwezi tena kuendeshwa au kubadilisha mwelekeo. |
+| 4 | Injini (Drive) | Kasi imepunguzwa kwa kiasi kulingana na uharibifu. | Gari linasimama ghafla; ndege huanguka. |
+| 5 | Wafanyakazi | Idadi ya abiria kulingana na uharibifu wanakuwa wahanga. Wale walioathiriwa hupata Jeraha Kubwa na lazima wafanikiwe katika rol ya Ustahimilivu au kufa papo hapo. | Wakaaji wa gari wanakufa. |
+| 6 | Injini / Mafuta | Kasi imepunguzwa kwa kiasi kulingana na uharibifu. Mifumo ya kielektroniki inakuwa ngumu zaidi kwa Daraja moja kuitumia. | Gari linaharibiwa katika mlipuko mbaya. |
+| 7 | Vihisi | Roli za Vihisi, Urambazaji na shambulio la Silaha hupata Daraja moja zaidi la ugumu kila wakati zinapoharibiwa. | Gari linakuwa kipofu. |
+| 8 | Silaha | Idadi ya mifumo ya silaha kulingana na uharibifu inakuwa haifanyi kazi. | Gari haliwezi tena kufyatua silaha. |
+| 9-0 | Hakuna | Hakuna mifumo iliyopigwa; uharibifu wa Muundo pekee. | N/A |
 
 <details>
 
-<summary>* Makosa ya Jumuiya Yaliyorekebishwa</summary>
+<summary>* Errata ya Jamii</summary>
 
 ---
 
-##### Jedwali la Uharibifu wa Vipengele vya Mfumo (Injini/Mafuta)
+##### Jedwali la Uharibifu wa Sehemu ya Mfumo (Injini/Mafuta)
 
-_Matokeo asili yalikuwa kama ifuatavyo: "Kasi ya Juu imepunguzwa kwa nusu..." Hii inapingana na kanuni ya jumla ya adhabu za uharibifu kulingana na uharibifu wa Mfumo: uharibifu wa 25% = adhabu ya 25%. Zaidi ya hayo, kanuni kamili katika Mythras Companion hazitaji kupunguzwa huku kwa nusu kwa Kasi._
+_Matokeo ya asili yalikuwa kama ifuatavyo: "Kasi ya Juu imegawanywa kwa mbili..." Hii inakinzana na kanuni ya jumla ya adhabu za uharibifu kulingana na uharibifu wa Mfumo: 25% uharibifu = 25% adhabu. Zaidi ya hayo, kanuni kamili katika Mythras Companion haitaji kugawa kasi hii kwa mbili._
 
-_Kama matokeo, maandishi yamewekwa na kiingilio sawa kutoka kwa Mifumo ya Kiendeshi: "Kasi imepunguzwa kwa kiasi kulingana na uharibifu."_
+_Kama matokeo, maandishi yanabadilishwa na kuingizwa sawa kutoka kwa Mifumo ya Injini (Drive): "Kasi imepunguzwa kwa kiasi kulingana na uharibifu."_
 
 ---
 
 </details>
+
 
 ---
 ### Kasi
 
-Kwa kuwa fizikia ya kasi, kuongeza kasi, kizuizi na inashia (kutaja chache tu) ni masuala magumu, kurahisisha kunahitajika na hivyo magari hupewa kiwango cha kasi kisicho wazi. Tabia ya Kasi inapaswa kutumika tu kukadiria takribani kama gari moja linaweza kupita au kufikia lingine.
+Kwa kuwa fizikia ya kasi, mchapuko, msuguano na hali ya kutochochewa (kutaja machache tu) ni masuala changamano, kurahisisha kidogo kunahitajika na hivyo magari hupewa viwango vya kasi vya kidhahania. Sifa ya Kasi inapaswa kutumiwa tu kukadiria ikiwa gari moja linaweza kupita au kulifikia lingine.
 
-Kiwango cha kasi kinawakilisha kiwango cha kawaida cha uendeshaji wa gari. Katika hali za dharura utendaji huu unaweza kuongezwa kwa hatua moja, kwa hatari ya uchakavu au uharibifu wa injini. Ingawa jedwali lile lile linatumika kwa aina zote za magari, busara inapaswa kutumika ili magari ya darasa moja tu yalinganishwe. Kwa mfano, ikiwa Chombo cha Anga na gari la michezo yote yana kiwango sawa cha kuongeza kasi cha Rapid, basi inapaswa kuwa wazi kwamba chombo cha anga kina kasi zaidi kwa kulinganisha.
+Kiwango MVU kasi kinawakilisha kasi ya uendeshaji ya kawaida ya gari. Katika hali za dharura, utendaji huu unaweza kuongezwa kwa hatua moja, kwa hatari ya kuchakaa au kuharibika kwa injini. Ingawa jedwali lilelile linatumiwa kwa aina zote za magari, akili timamu inapaswa kutumika ili magari ya darasa moja pekee ndiyo yakilinganishwa. Kwa mfano, ikiwa Meli ya Angani na gari la michezo vyote vina kasi sawa ya Rapid, basi inapaswa kuwa wazi kuwa meli ya anga ni ya kasi zaidi kwa kulinganisha.
 
-Kuongeza Kasi ya gari zaidi ya thamani yake ya kawaida kunawezekana kwa kufaulu roll ya Uendeshaji. Kwa kawaida, kasi hii ya ziada inaweza kudumishwa kwa muda mfupi tu - si zaidi ya dakika 1d6 kabla ya gari kulazimika kushuka hadi kasi yake ya kawaida au kuhatarisha uharibifu wa kituo chake cha nguvu. Roll muhimu ya Uendeshaji inaruhusu kipindi cha kasi ya juu kuongezwa hadi dakika 1d12.
+Kuongeza Kasi ya gari zaidi ya thamani yake ya kawaida inawezekana kwa rol ya Uendeshaji (Drive) iliyofanikiwa. Kawaida, kasi hii ya ziada inaweza kudumishwa kwa muda mfupi tu - si zaidi ya 1d6 dakika kabla ya gari kulazimika kushuka hadi kasi yake ya kawaida au kuhatarisha uharibifu wa mtambo wake wa nishati. Rol muhimu (Critical) ya Uendeshaji inaruhusu muda wa kasi ya juu kuongezwa hadi 1d12 dakika.
 
-Dereva anaweza kujaribu kusukuma kasi ya gari kwa hatua 2, lakini hii inahitaji roll ya Herculean Drive na kiwango cha juu ambacho gari linaweza kudumisha kasi hii ni dakika 1d3: Kufaulu Muhimu hakutaongeza muda wa kasi iliyoongezeka.
+Dereva anaweza kujaribu kusukuma kasi ya gari kwa hatua 2, lakini hii inahitaji rol ya Herculean ya Uendeshaji na kiwango MVU juu ambacho gari linaweza kudumisha kasi hii ni 1d3 dakika: Mafanikio Muhimu (Critical Success) hayataongeza muda wa kasi hiyo iliyoongezwa.
 
-##### Jedwali la Kiwango cha Kasi
+##### Jedwali la Kiwango MVU Kasi 
 
-| Kiwango cha Kasi | Kasi ya Juu kwa |
+| Kiwango MVU Kasi | Kasi ya Juu Kwa |
 | :-- | :-: |
-| Ponderous | Kubwa Ajabu |
+| Ponderous | Hekalu |
 | Sluggish | |
 | Slow | Kubwa Sana |
 | Mediocre | |
@@ -194,16 +201,17 @@ Dereva anaweza kujaribu kusukuma kasi ya gari kwa hatua 2, lakini hii inahitaji 
 | Fast | |
 | Fleet | Ndogo |
 
+
 ---
 ### Sifa
 
-Idadi ya juu ya sifa ambazo gari linaweza kuwa nazo inategemea ukubwa na aina ya ganda.
+Idadi ya juu ya sifa ambazo gari linaweza kuwa nazo inategemea ukubwa wa ganda na aina.
 
-Kila gari lina sifa asili: hali ya usafiri ambayo liliundwa kimsingi. Kwa hiyo, ndege kwa asili zina sifa ya Hewani, boti zina sifa ya Baharini, na kadhalika. Sifa hii asili hahesabiwi kuelekea idadi inayopatikana ya sifa. Hata hivyo, ikiwa gari linapaswa kujumuisha hali ya pili ya usafiri - nyambizi inayoruka kwa mfano, basi sifa ya Hewani ingehitaji kuchukuliwa kama mojawapo ya sifa zake zinazopatikana.
+Kila gari lina sifa ya asili: njia ya usafiri ambayo iliundwa kimsingi. Kwa hivyo, ndege kwa asili wanashikilia sifa ya Airborne, boti sifa ya Seaborne, na kadhalika. Sifa hii ya asili haihesabiwi kuelekea idadi inayopatikana ya sifa. Hata hivyo, ikiwa gari linapaswa kujumuisha njia ya pili ya usafiri - kwa mfano manowari inayoruka, basi sifa ya Airborne ingehitaji kuchukuliwa kama moja ya sifa zake zinazopatikana.
 
-Baadhi ya sifa zinaweza zisiwe zinapatikana, kulingana na kiwango cha teknolojia ya mazingira; Mabwana wa Mchezo lazima wafanye maamuzi yao wenyewe juu ya sifa gani zinaweza kutumika.
+Baadhi ya sifa zinaweza zisipatikane, kulingana na kiwango MVU teknolojia MVU mazingira; Waongoza Michezo lazima wafanye maamuzi yao wenyewe kuhusu ni sifa gani zinaweza kutumika.
 
-##### Jedwali la Ugawaji wa Sifa za Gari
+##### Jedwali la Ugawaji wa Sifa za Gari 
 
 | Ukubwa | Sifa za Juu |
 | :-- | :-: |
@@ -211,56 +219,56 @@ Baadhi ya sifa zinaweza zisiwe zinapatikana, kulingana na kiwango cha teknolojia
 | Kati | 2 |
 | Kubwa | 3 |
 | Kubwa Sana | 4 |
-| Kubwa Ajabu | 5 |
-| Kubwa Kufuru | 6 |
+| Hekalu | 5 |
+| Kolosali | 6 |
 
-#### Hewani
+#### Airborne
 
 Gari lina uwezo wa kuruka angani.
 
 #### All Terrain
 
-Sifa hii lazima itumike na magari ya nchi kavu. Gari linaweza kuvuka ardhi isiyofaa, ngumu, na yenye miinuko, kwa kutumia nyororo, mifumo ya hali ya juu ya kusimamisha na kuendesha, au mifumo ya nguvu ya viendeshi tofauti.
+Sifa hii lazima itumiwe na magari ya Nchi Kavu. Gari linaweza kuvuka maeneo magumu, yenye changamoto, na ya mwinuko, kwa kutumia nyimbo, mfumo wa juu wa kusimamisha gari (suspension) na mifumo ya injini, au tofauti zenye nguvu za injini.
 
-#### Kujichimbia
+#### Burrowing
 
-Gari limeundwa kujichimbia na kuchimba mashimo ardhini. Linaweza kufikia kina cha juu sawa na Thamani ya Ganda lake x5 mita.
+Gari limeundwa kuchimba na kutengeneza njia chini ya ardhi. Linaweza kufikia kina MVU juu sawa na Ukadiriaji wa Ganda lake x5 mita.
 
-#### Kufichwa
+#### Camouflaged
 
-Gari lina rangi ya kuficha au sensorer zinazofanana zinazoruhusu kuchanganyika na mazingira yake. Majaribio ya kuona gari kwa macho ni daraja moja ngumu zaidi.
+Gari lina rangi ya kuficha au vihisi vya kuiga vinavyoruhusu kuchanganyika na mazingira yake. Majaribio ya kuliona gari hilo kwa macho yanakuwa magumu zaidi kwa daraja moja.
 
-#### Mizigo
+#### Cargo
 
-Gari limeundwa mahsusi kubeba mizigo badala ya abiria. Sehemu za abiria zimepunguzwa kwa kiwango cha chini na nafasi nyingine inayoweza kutumika ya gari imetumika kwa ajili ya kuhifadhi mizigo na sehemu zinazofaa, zana, na hata hali ya hewa (kama vile sehemu za friji kwa ajili ya kusafirisha bidhaa zinazoharibika). Linapobeba mizigo kasi ya gari ni hatua mbili chini kuliko ukubwa wa ganda lake ungeweza kuruhusu.
+Gari limeundwa mahsusi kubeba mizigo badala ya abiria. Sehemu za abiria huwekwa kwa kiwango MVU chini huku nafasi iliyobaki ya gari ikitumiwa kwa ajili ya kuhifadhi mizigo na sehemu zinazofaa, zana, na hata hali ya mazingira (kama vile sehemu za friji kwa ajili ya kusafirisha vitu vinavyoharibika). Wakati limebeba mizigo, kasi ya gari huwa chini kwa hatua mbili kuliko ukubwa wa ganda lake ungeruhusu kawaida.
 
-#### Mbeba
+#### Carrier
 
-Gari limeundwa mahsusi kubeba magari madogo, yenye wafanyakazi wachache, au labda magari yanayodhibitiwa kwa mbali ya asili ya kiraia au kijeshi. Gari lolote lenye sifa hii lazima liwe angalau Kubwa Ajabu. Idadi ya vyombo vidogo vinavyobebwa inaweza kutofautiana kulingana na aina na madhumuni ya misheni lakini inaweza kuwa chache kama 10 hadi nyingi kama kiwango cha Muundo wa gari.
+Gari limeundwa mahsusi kubeba magari madogo, yenye wafanyakazi wachache, au labda yanayoendeshwa kwa mbali ya aina ya kiraia au kijeshi. Gari lolote lenye sifa hii lazima liwe angalau la Hekalu (Enormous). Idadi ya vyombo vidogo vinavyobebwa inaweza kutofautiana kulingana na aina ya misheni na madhumuni lakini inaweza kuwa kidogo kama 10 hadi nyingi kama ukadiriaji wa Muundo wa gari hilo.
 
-#### Ujenzi
+#### Construction
 
-Gari lina vifaa vya kazi nzito za ujenzi. Magari yote yenye sifa hii yana sifa ya All Terrain pia, lakini kasi ni hatua mbili chini kuliko ukubwa wa ganda lake ungeweza kuruhusu. Gari lina vifaa vinavyofaa kazi kama vile mikono ya crane, majembe ya kuchimba, mikokoteni ya kutupa na kadhalika.
+Gari lina vifaa vya kazi nzito za ujenzi. Magari yote yenye sifa hii yana sifa ya All Terrain pia, lakini kasi ni chini kwa hatua mbili kuliko ukubwa wa ganda lake ungeruhusu kawaida. Gari lina zana zinazofaa kwa kazi kama vile mijeledi ya kreni, majembe ya kuchimbia, makokoteni ya kumwaga taka na kadhalika.
 
-#### Kinga ya EMP
+#### EMP Resistant
 
-Gari linalindwa dhidi ya mashambulizi ya msukumo wa kielektroniki.
+Gari limelindwa dhidi ya mashambulizi ya mapigo ya sumakuumeme (EMP).
 
-#### Utendaji Ulioimarishwa
+#### Enhanced Performance
 
-Kiwango cha Kasi cha gari ni hatua moja juu kuliko kiwango cha juu kwa ukubwa wake.
+Kiwango MVU Kasi MVU gari ni hatua moja zaidi ya kiwango MVU juu MVU ukubwa wake.
 
-#### Kiti cha Kutoroka
+#### Ejector Seat
 
-Katika hali ya dharura, kiti cha kutoroka huwarusha abiria mamia ya mita hewani, kisha hufungua mwavuli kuruhusu kutua salama. Mwavuli ni wa hiari. Haifai kwa helikopta (Kamov Ka-52 Alligator ikiwa ni ubaguzi mashuhuri).
+Katika hali ya dharura, kiti MVU kuruka kinawasukuma wakaaji mamia kadhaa ya mita angani, kisha kinatuma parachuti ili kuruhusu kutua salama. Parachuti ni ya hiari. Haipendekezwi kwa helikopta (Kamov Ka-52 Alligator ikiwa ubaguzi mashuhuri).
 
 #### FTL
 
-Chombo cha Anga Pekee. Chombo hicho kina injini ya kasi zaidi kuliko mwanga (iwe ni hyperdrive, warp drive, wormhole generator au sawa). Injini ya FTL ina kiwango tofauti cha Kasi ambacho kimsingi hupima kasi ambayo chombo cha anga kinaweza kuvuka parsec moja (kilomita trilioni 3.26 za nuru, au kilomita trilioni 31 au maili trilioni 19), kama ifuatavyo:
+Meli za Angani Pekee. Chombo kina injini ya kasi zaidi ya mwanga (iwe hyperdrive, warp drive, jenereta ya shimo la minyoo au inayofanana nayo). Injini ya FTL ina kiwango tofauti MVU Kasi ambacho kimsingi hupima kiwango ambacho meli ya angani inaweza kuvuka parsec moja (kilomita 31 trilioni au maili 19 trilioni), kama ifuatavyo:
 
-##### Jedwali la Kiwango cha Kasi cha FTL
+##### Jedwali la Kiwango MVU Kasi MVU FTL 
 
-| Kiwango cha Kasi | Sababu ya Kuvuka Parsec 1 |
+| Kiwango MVU Kasi | Kigezo MVU Kuvuka Parsec 1 |
 | :-- | :-: |
 | Ponderous | 10 |
 | Sluggish | 8 |
@@ -272,224 +280,222 @@ Chombo cha Anga Pekee. Chombo hicho kina injini ya kasi zaidi kuliko mwanga (iwe
 | Fast | 2 |
 | Fleet | 1 |
 
-Muda wa sababu ni kwa ajili ya Mwalimu wa Mchezo kuamua, kulingana na jinsi maendeleo ya FTL ya mazingira yalivyo ya hali ya juu. Kwa mfano, sababu ya msingi inaweza kuwa Siku 1, ikimaanisha kwamba meli yenye injini ya FTL ya Ponderous inachukua siku 10 kukamilisha safari, wakati chombo chenye injini ya FTL ya Fleet hukamilisha safari kwa siku 1. Mahali pengine, ambapo teknolojia ya FTL haina ufanisi mkubwa, basi muda wa sababu unaweza kupimwa kwa miezi, badala ya siku.
+Wakati wa kigezo ni kwa Mwongoza Mchezo kuamua, kulingana na jinsi maendeleo ya FTL ya mazingira yalivyo ya hali ya juu. Kwa mfano, kigezo MVU msingi kinaweza kuwa Siku 1, ikimaanisha kuwa meli yenye injini ya FTL ya Ponderous inachukua siku 10 kukamilisha safari, wakati chombo chenye injini ya FTL ya Fleet kinakamilisha safari hiyo kwa siku 1. Sehemu nyingine, ambapo teknolojia ya FTL haina ufanisi mkubwa, basi wakati wa kigezo unaweza kupimwa kwa miezi, badala ya siku.
 
-Inadhaniwa kuwa meli ina akiba ya mafuta ya kufanya safari ya kurudi, au njia ya kujaza mafuta katika mahali pa kufikia.
+Inadhaniwa kuwa meli ina akiba ya mafuta ya kufanya safari ya kurudi, au njia ya kuongeza mafuta kwenye kituo MVU mwisho.
 
-Kudhani kuwa ukubwa wowote wa chombo cha anga unaweza kuwekwa na injini ya FTL, ingawa, tena, hii inategemea mazingira.
+Inadhaniwa kuwa ukubwa wowote wa meli ya angani unaweza kuwekewa injini ya FTL, ingawa, tena, hii inategemea mazingira.
 
-Injini za FTL haziwezi kuwashwa ndani ya Astronomical Units 1.5 kutoka kwa nyota (karibu kilomita milioni 225, au maili milioni 270). Hii inamaanisha meli lazima zitumie injini ya sublight kusonga hadi umbali wa Mars kabla ya kuwasha mfumo wa FTL.
+Injini za FTL haziwezi kuwashwa ndani ya Vitengo 1.5 vya Astronomia (Astronomical Units) vya nyota (takriban kilomita milioni 225, au maili milioni 270). Hii inamaanisha meli lazima zitumie injini ya sublight kusonga hadi umbali wa Mirihi (Mars) kabla ya kuwasha mfumo wa FTL.
 
-#### Gari la Nchi Kavu
+#### Ground Vehicle
 
-Gari lina uwezo wa kusafiri nchi kavu.
+Gari lina uwezo wa kusafiri ardhini.
 
-#### Huelea
+#### Hover
 
-Gari huelea juu ya ardhi ama kwa kutumia mto wa hewa au kizuizi cha anti-gravity.
+Gari linaelea juu ya ardhi kwa kutumia mto wa hewa au kipinga-mvutano (anti-gravity repulsor).
 
-#### Kifahari
+#### Luxurious
 
-Gari limeundwa mahsusi kubeba abiria kwa kiwango fulani cha anasa. Nafasi ya ziada ya mizigo hupewa makazi ya kifahari ya abiria, mabwawa ya kuogelea, mabwawa ya maji moto, wafanyakazi wa ziada wa kukidhi matakwa ya abiria, na kadhalika.
+Gari limeundwa mahsusi kubeba abiria kwa kiwango fulani MVU anasa. Nafasi ya ziada ya mizigo hutolewa kwa ajili ya malazi ya kifahari ya abiria, mabwawa ya kuogelea, joto (hot tubs), wafanyakazi wa ziada ili kukidhi matakwa ya abiria, na kadhalika.
 
-#### Reli
+#### Rails
 
-Gari linategemea mfumo wa reli. Magari yenye sifa hii yanaweza kufikia kiwango cha Kasi cha hatua tatu juu kuliko ukubwa wa ganda lake ungeweza kuruhusu, lakini ni wazi yamezuiliwa kusafiri kwenye mfumo wa reli tu.
+Gari linategemea mfumo wa reli. Magari yenye sifa hii yanaweza kufikia kiwango MVU Kasi hatua tatu zaidi ya ukubwa wa ganda lao ungeruhusu kawaida, lakini kwa dhahiri yamezuiliwa kwa harakati kwenye mfumo wa reli pekee.
 
-#### Ustahimilivu
+#### Resilient
 
-Mifumo yote inaweza kustahimili pigo moja la ziada zaidi ya kawaida inayodhaminiwa na Ukubwa. Sifa hii inaweza kuongezwa - hivyo Ustahimilivu 2 unaonyesha kuwa mifumo inaweza kustahimili mapigo 2 zaidi ya kawaida kwa gharama ya pointi mbili za Sifa.
+Mifumo yote inaweza kuhimili pigo moja zaidi kuliko inavyoamuliwa kawaida na Ukubwa. Sifa hii inaweza kuunganishwa - kwa hivyo Resilient 2 inaonyesha kuwa mifumo inaweza kuhimili mapigo 2 zaidi ya kawaida kwa gharama ya pointi mbili za Sifa.
 
-#### Baharini
+#### Seaborne
 
-Gari linaelea juu ya maji.
+Gari linaweza kuelea juu ya maji.
 
-#### Chombo cha Anga
+#### Spacecraft
 
-Gari limefungwa dhidi ya ombwe na kulindwa dhidi ya mionzi ya ulimwengu na linaweza, kulingana na muundo, kuwa na uwezo wa kuondoka na kuingia tena anga, na kudumisha safari ndani ya anga.
+Gari limefungwa dhidi ya ombwe na kulindwa dhidi ya mionzi ya anga na linaweza, kulingana na muundo, kuwa na uwezo wa kuondoka na kuingia tena angahewa, na kudumisha safari ndani ya angahewa.
 
-#### Siri
+#### Stealth
 
-Ndege Pekee. Gari limeundwa kuepuka kugunduliwa na rada na mifumo mingine ya sensorer ya masafa marefu. Majaribio ya kuona gari kwa kutumia sensorer za kielektroniki ni daraja moja ngumu zaidi.
+Ndege Pekee. Gari limeundwa ili kuepuka kugunduliwa na rada na mifumo mingine ya vihisi vya masafa marefu. Majaribio ya kuliona gari hilo kwa kutumia vihisi vya kielektroniki ni magumu zaidi kwa daraja moja.
 
-#### Nyambizi
+#### Submersible
 
-Gari lina uwezo wa kuzama chini ya uso wa bahari hadi kina cha uendeshaji cha Thamani ya Ganda lake x10 mita. Kina cha kuporomoka - kiwango cha juu kabisa ambacho nyambizi inaweza kufikia bila kukandamizwa - ni mara 1.5 ya kina chake cha uendeshaji.
+Gari lina uwezo wa kuzama chini ya uso wa bahari hadi kina MVU uendeshaji MVU Ukadiriaji wa Ganda lake x10 mita. Kina MVU kuanguka (collapse depth) - kiwango MVU juu kabisa ambacho manowari inaweza kufikia bila kusagwa - ni mara 1.5 ya kina chake MVU uendeshaji.
 
-#### Uendeshaji Bora
+#### Superior Handling
 
-Uendeshaji wa gari umepewa alama ya Rahisi.
+Uendeshaji wa gari unakadiriwa kuwa Rahisi (Easy).
 
-#### Kifurushi cha Ufuatiliaji
+#### Surveillance Suite
 
-Gari lina kompyuta ya ndani, kituo cha mawasiliano cha msingi, kipokezi cha ishara za vifaa vya kusikiliza, na vifaa vya kuzuia ishara za simu mahiri za karibu ndani ya mita 100.
+Gari lina kompyuta ya ndani, kituo MVU msingi MVU mawasiliano, mpokeaji wa ishara za vifaa vya kusikilizia, na kifaa MVU kunasa ishara za simu za mkononi zilizo karibu ndani ya mita 100.#### Imara
 
-#### Imara
+Gari la kiraia lenye sifa hii huchota Hull yake kutoka safu ya Kijeshi na kiotomatiki huwa na Muundo wa juu zaidi. Gari la Kijeshi lenye sifa hii huchota Hull na Muundo wake kutoka safu inayofuata hapa chini.
 
-Gari la kiraia lenye sifa hii hupata Ganda lake kutoka safu ya Kijeshi na kiotomatiki lina Muundo wa juu zaidi. Gari la Kijeshi lenye Sifa hii hupata Ganda na Muundo wake kutoka safu inayofuata chini.
+#### Miale ya Kuvutia (Tractor Beam)
 
-#### Miale ya Kufunga
-
-Chombo cha Anga Pekee. Meli hiyo ina miale ya kufunga inayoweza kunasa na kuvuta magari yenye kiwango cha ganda hadi hatua mbili chini kuliko chake. Hivyo, chombo cha anga Kubwa Sana kinaweza kuvuta na kushikilia ganda la ukubwa wa Kati.
+Kwa Vyombo vya Anga Pekee. Meli imefungwa miale ya kuvutia inayoweza kunasa na kuvuta kuelekea kwake magari yenye kadirio la hull la hadi hatua mbili chini ya lake. Kwa hivyo, chombo kikubwa MVU anga (Huge) kinaweza kuvuta na kushikilia hull ya hadi ukubwa wa Wastani (Medium).
 
 #### VTOL
 
-Kupaa/kutua wima. Sifa hii ni ya asili kwa helikopta na magari yanayofanana yanayotumia mchanganyiko wa rota kutoa nguvu ya kupaa. Inapotumika kwa ndege zenye mabawa yasiyobadilika, inaonyesha matumizi ya viongoza vilivyobadilika au vinavyoweza kuendana kudhibiti mkao hewani, kupaa, na kushuka.
+Kupaa/kutua kwa wima. Sifa hii ni asili ya helikopta na magari yanayofanana nayo ambayo hutumia mchanganyiko wa rota kutoa mwinuko. Inapotumiwa kwa ndege zenye mabawa yasiyohamishika, inaashiria matumizi ya vifyatuzi (thrusters) vilivyosimama au vinavyoweza kurekebishwa ili kudhibiti mkao wa hewani, kupanda, na kushuka.
 
-#### Waterborne
+#### Vyombo vya Majini
 
-Gari hujisukuma kwa kutumia miguu inayoweza kunyumbulika. Magari yanayotembea yana kasi isiyozidi Gentle, bila kujali Ukubwa wake. Hata hivyo, Walkers yanaweza kujengwa kwa urefu ambao usingekuwa imara kwa magari yenye njia nyingine za usafiri.
+Gari hujisukuma lenyewe kwa kutumia miguu iliyounganishwa. Magari ya kutembea (Walkers) yana kikomo MVU Kasi ya Upole, bila kujali Ukubwa wake. Hata hivyo, Watembezaji wanaweza kujengwa kwa urefu ambao ungekuwa si thabiti kwa magari yenye njia nyingine za usafiri.
 
-Gari hili lina uwezo wa kusafiri chini ya maji.
+Gari hili lina uwezo wa kusonga chini ya maji.
 
-#### Yenye Silaha
+#### Silaha (Weaponized)
 
-Gari limebadilishwa ili kuweka silaha. Mifumo ya silaha inajadiliwa hapa chini katika sehemu ya [Silaha](0006_Vehicles.md?id=weapons).
+Gari limebadilishwa ili kuchukua silaha. Mifumo ya silaha inajadiliwa hapa chini katika sehemu ya [Silaha](0006_Vehicles.md?id=weapons).
 
 ---
 ## Silaha
 
-Kwa kawaida, maganda ya kijeshi pekee ndiyo yaliyoundwa kuwezesha matumizi ya silaha (vituo vya kutundikia silaha, hifadhi ya risasi, mifumo ya udhibiti). Sifa ya 'Yenye Silaha' inaweza kuchukuliwa kwa magari ya kiraia ambayo yanaweza kuwa na mahitaji ya silaha.
+Kwa kawaida, hull za kijeshi pekee ndizo zilizoundwa kuchukua silaha (pointi ngumu, hifadhi ya risasi, mifumo ya udhibiti). Sifa ya 'Silaha' inaweza kuchukuliwa kwa magari ya kiraia ambayo yanaweza kuwa na mahitaji ya silaha.
 
-Idadi ya juu ya mifumo ya silaha ambayo gari linaweza kuhimili ni sawa na 1/10 ya Pointi zake za Muundo (hivyo gari lenye Muundo 40 linaweza kuhimili mifumo 4 ya silaha, ikiwa ni gari la kijeshi, au gari la kiraia lenye Silaha).
+Idadi ya juu zaidi ya mifumo ya silaha ambayo gari linaweza kusaidia ni sawa na 1/10 ya Pointi zake za Muundo (kwa hivyo gari lenye Muundo 40 linaweza kusaidia mifumo 4 ya silaha, ikiwa ni gari la kijeshi, au gari la kiraia lenye Silaha).
 
-Mifumo ya silaha inategemea Ukubwa wa gari. Aina ya juu ya mfumo wa silaha kwa Ukubwa tofauti imeonyeshwa kwenye jedwali hapa chini.
+Mifumo ya silaha inategemea Ukubwa wa gari. Aina ya juu zaidi ya mfumo wa silaha kwa Ukubwa tofauti imeonyeshwa kwenye jedwali hapa chini.
 
-##### Jedwali la Silaha kwa Ukubwa
+##### Jedwali la Silaha kulingana na Ukubwa
 
-| Ukubwa | Nchi Kavu | Chombo cha Angani |
+| Ukubwa | Nchi Kavu | Chombo MVU Anga |
 | :-- | :-- | :-- |
-| Ndogo | Silaha Nyepesi (k.m. Rifli ya Kushambulia) | Silaha ya Kati (k.m. Bunduki ya Mashine, Kizindua Roketi) |
-| Kati | Silaha ya Kati (k.m. Bunduki ya Mashine, Kizindua Roketi) | Silaha ya Minara/Nzito (k.m. Bunduki za Mashine Nzito Zilizounganishwa, Mini-Guns) |
-| Kubwa | Silaha ya Minara/Nzito (k.m. Bunduki za Mashine Nzito Zilizounganishwa, Mini-Guns) | Batri ya Silaha (k.m. Artileri ya Uwanja wa Vita) |
-| Kubwa Sana | Batri ya Silaha (k.m. Artileri ya Uwanja wa Vita) | Silaha za Juu (k.m. Mifumo ya Kombora) |
-| Kubwa Ajabu | Silaha za Juu (k.m. Mifumo ya Kombora) | Silaha Zilizopachikwa Mgongoni (moja tu) |
-| Kubwa Kufuru | NA | Silaha Zilizopachikwa Mgongoni (hadi 3) |
+| Ndogo (Small) | Silaha Nyepesi (k.m. Bunduki ya Kushambulia) | Silaha ya Wastani (k.m. Bunduki ya Mashine, Kizindua Roketi) |
+| Wastani (Medium) | Silaha ya Wastani (k.m. Bunduki ya Mashine, Kizindua Roketi) | Silaha ya Turret/Nzito (k.m. Bunduki za Mashine za Heavy Linked, Mini-Guns) |
+| Kubwa (Large) | Silaha ya Turret/Nzito (k.m. Bunduki za Mashine za Heavy Linked, Mini-Guns) | Betri ya Silaha (k.m. Mzinga wa Uwanja wa Vita) |
+| Kubwa Sana (Huge) | Betri ya Silaha (k.m. Mzinga wa Uwanja wa Vita) | Silaha za Juu (k.m. Mifumo ya Kombora) |
+| Kubwa mno (Enormous) | Silaha za Juu (k.m. Mifumo ya Kombora) | Silaha Zilizopachikwa kwenye Uti wa Mgongo (moja tu) |
+| Kubwa ajabu (Colossal) | HAITUMIKI | Silaha Zilizopachikwa kwenye Uti wa Mgongo (hadi 3) |
 
-##### Takwimu za Silaha za Mfano
+##### Sampuli ya Takwimu za Silaha
 
-| Silaha | Uharibifu | Umbali | Kasi ya Kufyatua | Risasi/Mzigo |
+| Silaha | Uharibifu | Masafa | Kasi ya Kurusha | Risasi/Mzigo |
 | :-- | :-: | :-: | :-: | :-: |
-| Kanuni ya Inchi 50 | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
+| Mzinga wa inchi 50 | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
 | Mini-Gun/Gatling Gun | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
 | Roketi | 5d6 | 5000/20km/60km | 1 | 1/5 |
-| Kombora/Torpedo ya Kati | 6d10 | Umbali wa juu wa 200km | 1 | 1/5 |
-| Kombora Kubwa/Cruise | 6d10+10 | Umbali wa juu wa 1000km | 1 | 1/10 |
-| Laser/Plasma Cannon | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
-| Heavy Laser/Plasma Cannon | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Batri ya Artileri | 5d6+6 | Umbali wa juu wa 50km | 1 | 1/5 |
-| Batri ya Mgongoni | 10d6+6 | Umbali wa juu wa 20000km | 1 | 1/10 |
+| Kombora la Wastani/Torpedo | 6d10 | Masafa ya juu ya 200km | 1 | 1/5 |
+| Kombora Kubwa/Cruise | 6d10+10 | Masafa ya juu ya 1000km | 1 | 1/10 |
+| Laser/Mzinga wa Plasma | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
+| Laser Nzito/Mzinga wa Plasma | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
+| Betri ya Mizinga | 5d6+6 | Masafa ya juu ya 50km | 1 | 1/5 |
+| Betri ya Spinal Mount | 10d6+6 | Masafa ya juu ya 20000km | 1 | 1/10 |
 
-_Umbali umetolewa kwa mita na kilomita._
+_Masafa yamepewa katika mita na kilomita._
 
-_Kasi za kufyatua ni kwa pigo moja, semi-auto, na auto kamili._
+_Kasi ya kurusha ni kwa risasi moja, nusu-otomatiki, na otomatiki kamili._
 
-_Risasi ni uwezo wa kufyatua kabla ya kuhitaji kujazwa tena. Mzigo ni muda wa kujaza tena katika Mizunguko ya Mapigano, ukidhania wafanyakazi kamili wanapatikana._
+_Risasi ni uwezo wa kurusha kabla ya kuhitaji kuongezwa. Mzigo ni wakati wa kuongeza risasi katika Mizunguko ya Mapigano, ukizingatia wafanyakazi kamili wanapatikana._
 
 ---
-## Uendeshaji na Maneva
+## Ushughulikiaji na Mbinu
 
-Maneva za kuepuka au za ghafla zinahitaji kufaulu kwa roll ya Uendeshaji/Urubani ili kuhakikisha kwamba dereva au rubani anabaki na udhibiti wa gari. Magari mengi yameundwa na kujengwa kustahimili mikazo na misuko ya mara kwa mara, lakini Mwalimu wa Mchezo anaweza kutoa uamuzi kwamba maneva fulani inahitaji roll kwa daraja la juu la ugumu, kulingana na jinsi ilivyo na changamoto. Kushindwa kunamaanisha kuwa udhibiti wa gari umepotea: fanya roll kwenye jedwali la Upotevu wa Udhibiti.
+Mbinu za kukwepa au za ghafla zinahitaji kivingirisho MVU Kuendesha/Urubani kilichofanikiwa ili kuhakikisha kuwa dereva au rubani anadumisha udhibiti wa gari. Magari mengi yameundwa na kujengwa ili kustahimili msongo na mikazo ya mara kwa mara, lakini Mwalimu wa Mchezo (Games Master) anaweza kuamua kuwa mbinu fulani inahitaji kivingirisho katika kiwango MVU juu MVU ugumu, kulingana na jinsi ilivyo na changamoto. Kushindwa kunamaanisha kuwa udhibiti wa gari umepotea: viringisha kwenye jedwali la Kupoteza Udhibiti.
 
-Kumbuka kuwa Jedwali la Upotevu wa Udhibiti linatumika tu kwa magari ya nchi kavu. Athari zinazofanana zinaweza kutumika kwa magari ya hewani na angani, lakini Mabwana wa Mchezo watahitaji kurekebisha sababu ya athari maalum. Kwa mfano, ndege, badala ya kuteleza, inaweza kuingia kwenye mzunguko.
+Kumbuka kuwa Jedwali la Kupoteza Udhibiti linatumika tu kwa magari ya nchi kavu. Athari zinazofanana zinaweza kutumika kwa magari ya angani na ya anga, lakini Watawala wa Mchezo watalazimika kurekebisha hoja kwa athari maalum. Kwa mfano, ndege, badala ya kuteleza, inaweza kuingia kwenye mzunguko.
 
-Pia, uendeshaji wa asili wa gari unaweza kuwa na athari ya ziada kwenye roll ya Uendeshaji. Uendeshaji ni Rahisi, Kawaida, Ngumu, Kutisha au Herculean na huamua mahali pa kuanzia kwa roll ya Uendeshaji wakati wa kufanya maneva. Daraja la ugumu kwa maneva hiyo kisha hutumika kwenye uendeshaji ili kuamua ugumu wa mwisho.
+Pia, ushughulikiaji wa asili wa gari unaweza kuwa na athari ya ziada kwenye kivingirisho MVU Kuendesha. Ushughulikiaji ni Rahisi, Wastani, Ngumu, Ya Kutisha, au Ya Kishujaa na huamua mahali pa kuanzia kwa kivingirisho MVU Kuendesha wakati wa kutekeleza mbinu. Kiwango MVU ugumu wa mbinu kisha hutumika kwa ushughulikiaji ili kuamua ugumu wa mwisho.
 
-Kwa mfano, pikipiki yenye utendaji wa hali ya juu ina gyrostabilizers zilizojengewa ndani zinazoipa Uendeshaji wa Rahisi. Dereva anataka kufanya zamu ya 180-degree ya kuteleza ili kukwepa mfuatiliaji, maneva ambayo Mwalimu wa Mchezo anaipa daraja moja la ziada la ugumu. Kwa hivyo, mpanda farasi lazima afanye roll yake ya Uendeshaji kwa Kawaida badala ya Rahisi. Ikiwa angekuwa akijaribu maneva hiyo hiyo kwenye pikipiki isiyo na utulivu, roll ya Uendeshaji ingekuwa Ngumu.
+Kwa mfano, pikipiki ya utendaji wa juu ina gyrostabilizers zilizojengwa ndani zinazopa Ushughulikiaji wa Rahisi. Dereva anataka kufanya zamu ya kuteleza ya digrii 180 ili kukwepa mfuatiliaji, mbinu ambayo Mwalimu wa Mchezo anakadiria kuwa na kiwango kimoja MVU ziada MVU ugumu. Kwa hiyo, mpanda farasi lazima afanye kivingirisho chake MVU Kuendesha kwa kiwango MVU Wastani badala ya Rahisi. Ikiwa angekuwa akijaribu mbinu hiyo hiyo kwenye pikipiki isiyo na utulivu, kivingirisho MVU Kuendesha kingekuwa katika kiwango MVU Ngumu.
 
-Uendeshaji Bora ni Sifa. Ikiwa gari halina sifa hiyo kama sehemu ya maelezo yake, basi default ni uendeshaji Kawaida kwa gari lolote la ukubwa Kubwa na chini. Magari Kubwa Sana na Kubwa Ajabu kwa asili yana sifa ya Uendeshaji ya Kutisha na Herculean, mtawalia, na Mwalimu wa Mchezo yuko huru kuamua kuwa maneva fulani hayawezekani kabisa kufikia kutokana na ukubwa wa gari.
+Ushughulikiaji Bora ni Sifa. Ikiwa gari halina sifa hiyo kama sehemu ya maelezo yake, basi chaguo-msingi ni ushughulikiaji wa Wastani kwa gari lolote la ukubwa wa Kubwa na chini. Magari ya Ukubwa Sana na Kubwa mno kiasili yana sifa ya Ushughulikiaji ya Ya Kutisha na Ya Kishujaa, mtawalia, na Mwalimu wa Mchezo ana uhuru wa kuamua kuwa mbinu fulani haziwezekani kufikiwa kutokana na ukubwa wa gari.
 
-##### Jedwali la Upotevu wa Udhibiti
+##### Jedwali la Kupoteza Udhibiti
 
 | 1d100 | Matokeo |
 | :-: | :-- |
-| 01-25 | Kuteleza. Upotevu wa udhibiti ni wa muda. Gari hupunguza kasi yake kwa hatua 1 kwa sekunde 5. |
-| 26-40 | Kuteleza. Dereva lazima apambane kuweka gari chini ya udhibiti. Gari hupunguza kasi yake kwa hatua 2 kwa sekunde 10. |
-| 41-50 | Kuteleza Kubwa. Gari huishia kuelekea mwelekeo mbaya na kusimama kabisa kwa sekunde 15. |
-| 51-60 | Kunyumbulika. Gari huteleza na kunyumbulika, likipata uharibifu wa 3d10 kwenye Muundo wake. Abiria lazima wafanikiwe rolls za Ustahimilivu au wapate uharibifu wa 1d10 kwenye Maeneo ya Pigo 1d3. |
-| 61-70 | Kunyumbulika Kubwa. Kama hapo juu, lakini gari linapata uharibifu wa 3d10+10 na Abiria wanapokea uharibifu wa 1d10 hata kama roll ya Ustahimilivu inafaulu, na 2d10 ikishindwa. |
-| 71-80 | Kuandika Upya. Kama hapo juu lakini gari linapunguzwa hadi Muundo 0. Abiria wanapata uharibifu sawa na kwa Kunyumbulika Kubwa. |
-| 81-90 | Mlipuko. Kama hapo juu lakini mfumo wa mafuta wa gari huwaka na kulipuka ndani ya sekunde 1d20+10. Ikiwa hawawezi kujiondoa, abiria wanapata uharibifu zaidi wa 1d6 wa kuungua kwenye maeneo 1d6. |
-| 91-98 | Mlipuko wa Haraka. Kama hapo juu lakini mlipuko ni wa haraka. |
-| 99-00 | Ajali Mbaya Sana. Abiria lazima wafanikiwe roll ya Ustahimilivu au wauawa mara moja. Uharibifu kama wa Kuandika Upya unapatikana bila kujali. |
+| 01-25 | Pinda (Swerve). Kupoteza udhibiti ni kwa muda. Gari hupunguza kasi yake kwa hatua 1 kwa sekunde 5. |
+| 26-40 | Teleza (Skid). Dereva lazima apambane ili kudumisha udhibiti wa gari. Gari hupunguza kasi yake kwa hatua 2 kwa sekunde 10. |
+| 41-50 | Teleza Kali. Gari huishia kuelekea upande usio sahihi na kusimama tuli kwa sekunde 15. |
+| 51-60 | Viringika (Roll). Gari huteleza na kuviringika, likipata uharibifu wa 3d10 kwenye Muundo wake. Abiria lazima wafanye kivingirisho MVU Ustahimilivu (Endurance) waliofanikiwa au wapate uharibifu wa 1d10 kwa 1d3 Maeneo ya Kugongwa. |
+| 61-70 | Viringika Kali. Kama hapo juu, lakini gari hupata uharibifu wa 3d10+10 na Abiria hupokea uharibifu wa 1d10 hata kama kivingirisho MVU Ustahimilivu kimefanikiwa, na 2d10 ikiwa kitashindwa. |
+| 71-80 | Uharibifu Kamili (Write-Off). Kama hapo juu lakini gari hupunguzwa hadi 0 Muundo. Abiria hupata uharibifu sawa na kwa Viringika Kali. |
+| 81-90 | Mlipuko. Kama hapo juu lakini mfumo wa mafuta ya gari huwaka na kulipuka ndani ya sekunde 1d20+10. Ikiwa hawawezi kutoka, abiria hupata uharibifu zaidi wa kuungua wa 1d6 kwa maeneo 1d6. |
+| 91-98 | Mlipuko wa Papo Hapo. Kama hapo juu lakini mlipuko ni wa papo hapo. |
+| 99-00 | Ajali ya Maangamizi. Abiria lazima viringishe kwa mafanikio Ustahimilivu au wauawe mara moja. Uharibifu kama wa Uharibifu Kamili hupatikana bila kujali. |
 
 ---
-## Magari ya Mfano
+## Sampuli za Magari
 
 ---
 
 ### Magari ya Nchi Kavu
 
-#### Msukuma
+#### Interceptor
 
-Gari la kifahari lililoboreshwa, gari la michezo au sawa, gari hili limejengwa kwenda kasi na kutoa kile kinachostahili katika vita. Hili ndilo aina ya gari watu hufikiria wanaposema, "gari la jasusi."
+Gari la kifahari lililoboreshwa, gari la michezo au sawa na hayo, gari hili limejengwa kwenda kasi na kutoa mapambano mazuri. Hii ni aina ya gari ambalo watu hufikiria wakati mtu anaposema, "gari la kijasusi."
 
-| Msukuma | |
+| Interceptor | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Kijeshi |
-| **Ganda** | 6 |
+| **Ukubwa / Aina** | Wastani wa Kijeshi |
+| **Hull** | 6 |
 | **Muundo** | 40 |
 | **Mifumo** | 2 |
-| **Kasi** | Fast |
-| **Uendeshaji** | Easy |
-| **Sifa** | [Kiti cha Kutoroka](0006_Vehicles.md?id=ejector-seat), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Uendeshaji Bora](0006_Vehicles.md?id=superior-handling), [Kifurushi cha Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Yenye Silaha](0006_Vehicles.md?id=weaponized) |
-| **Silaha** | Dispenser ya Mafuta ya Kuteleza, Dispenser ya Moshi, Bunduki za Mashine za Kati Zilizounganishwa Mara Mbili (2d6+3) |
+| **Kasi** | Haraka |
+| **Ushughulikiaji** | Rahisi |
+| **Sifa** | [Kiti MVU Kurusha](0006_Vehicles.md?id=ejector-seat), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Ushughulikiaji Bora](0006_Vehicles.md?id=superior-handling), [Suite ya Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Silaha](0006_Vehicles.md?id=weaponized) |
+| **Silaha** | Kisambazaji MVU Mafuta, Kisambazaji MVU Moshi, Bunduki za Mashine za Wastani zilizounganishwa (2d6+3) |
 
 <br>
 
 ---
 
-#### Pikipiki ya Kufuatilia
+#### Pikipiki ya Ufuatiliaji
 
-Pikipiki nyepesi, ya kasi kwa harakati za haraka, Pikipiki ya Kufuatilia hubeba mshangao – ama jozi ya bunduki za mashine zilizounganishwa au roketi mbili.
+Pikipiki nyepesi, ya haraka kwa ajili ya ufuatiliaji wa kasi, Pikipiki ya Ufuatiliaji inabeba mshangao – ama jozi ya bunduki za mashine zilizounganishwa au roketi mbili.
 
-| Pikipiki ya Kufuatilia | |
+| Pikipiki ya Ufuatiliaji | |
 | :- | :- |
-| **Ukubwa / Aina** | Ndogo Kiraia |
-| **Ganda** | 2 |
+| **Ukubwa / Aina** | Ndogo ya Kiraia |
+| **Hull** | 2 |
 | **Muundo** | 12 |
 | **Mifumo** | 1 |
-| **Kasi** | Fast |
-| **Uendeshaji** | Easy |
-| **Sifa** | [Uendeshaji Bora](0006_Vehicles.md?id=superior-handling), [Yenye Silaha](0006_Vehicles.md?id=weaponized) |
-| **Silaha** | Roketi Mbili (4d6) au Bunduki za Mashine Nyepesi Zilizounganishwa Mara Mbili (2d6) |
+| **Kasi** | Haraka |
+| **Ushughulikiaji** | Rahisi |
+| **Sifa** | [Ushughulikiaji Bora](0006_Vehicles.md?id=superior-handling), [Silaha](0006_Vehicles.md?id=weaponized) |
+| **Silaha** | Roketi Mbili (4d6) au Bunduki za Mashine Nyepesi zilizounganishwa (2d6) |
 
 <br>
 
 ---
 
-#### Gari aina ya Sedan
+#### Gari la Sedan
 
-Gari la sedan la milango 4 lenye nafasi ya kutosha ya kumkalisha dereva na abiria watatu kwa starehe. Huacha nafasi ya mizigo ili kujumuisha kifurushi cha ufuatiliaji.
+Sedan ya kawaida ya milango 4 yenye nafasi ya kutosha kuketi kwa raha dereva na abiria watatu. Inatoa dhabihu nafasi ya mizigo ili kujumuisha suite ya ufuatiliaji.
 
-| Gari aina ya Sedan | |
+| Gari la Sedan | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Kiraia |
-| **Ganda** | 4 |
+| **Ukubwa / Aina** | Wastani wa Kiraia |
+| **Hull** | 4 |
 | **Muundo** | 25 |
 | **Mifumo** | 2 |
-| **Kasi** | Rapid |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Isiyoonekana](0006_Vehicles.md?id=unobtrusive), [Kifurushi cha Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite) |
+| **Kasi** | Kwa kasi |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Lisiloonekana](0006_Vehicles.md?id=unobtrusive), [Suite ya Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite) |
 | **Silaha** | Hakuna |
 
 <br>
 
 ---
 
-#### Gari la Nyambizi
+#### Gari la Majini (Submersible Car)
 
-Gari la watu wawili ambalo linaweza kubadili hali ya baharini au nyambizi kusafiri juu au chini ya maji. Linakuja na torpedo iliyopachikwa mbele na kombora la juu la ardhi-hewa.
+Gari la watu wawili linaloweza kubadili hali ya majini au chini ya maji ili kusafiri juu ya au chini ya maji. Linakuja na torpedo iliyowekwa mbele na kombora la juu la angani.
 
-| Gari la Nyambizi | |
+| Gari la Majini | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Kiraia |
-| **Ganda** | 6 |
+| **Ukubwa / Aina** | Wastani wa Kiraia |
+| **Hull** | 6 |
 | **Muundo** | 25 |
 | **Mifumo** | 2 |
-| **Kasi** | Fast |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Nyambizi](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Yenye Silaha](0006_Vehicles.md?id=weaponized) |
+| **Kasi** | Haraka |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Chini ya Maji](0006_Vehicles.md?id=submersible), [Vyombo vya Majini](0006_Vehicles.md?id=waterborne), [Silaha](0006_Vehicles.md?id=weaponized) |
 | **Silaha** | Roketi (5d6), Torpedo (4d10) |
 
 <br>
@@ -498,76 +504,76 @@ Gari la watu wawili ambalo linaweza kubadili hali ya baharini au nyambizi kusafi
 
 #### Van ya Ufuatiliaji
 
-Van rahisi, isiyo na alama maalum iliyoweka timu ya mawakala na vifaa vya kurekodi sauti na video.
+Van ya kawaida, isiyo na alama inayohifadhi timu ya mawakala na suite ya vifaa vya kurekodi sauti na picha.
 
 | Van ya Ufuatiliaji | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Kiraia |
-| **Ganda** | 9 |
+| **Ukubwa / Aina** | Kubwa ya Kiraia |
+| **Hull** | 9 |
 | **Muundo** | 60 |
 | **Mifumo** | 3 |
-| **Kasi** | Gentle |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Kifurushi cha Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Imara](0006_Vehicles.md?id=tough) |
+| **Kasi** | Upole |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Suite ya Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Imara](0006_Vehicles.md?id=tough) |
 | **Silaha** | Hakuna |
 
 <br>
 
 ---
 
-#### Gari la Msaada wa Kimbinu
+#### Gari la Usaidizi wa Tactical
 
-Gari la pickup au jipu lenye nafasi kwa wafanyakazi wawili kwenye kibanda na mpiga bunduki amesimama kwenye sehemu ya mizigo akitumia Bunduki ya Mashine ya Kati iliyowekwa kwenye mhimili.
+Pickup au jeep yenye nafasi ya wafanyakazi wawili kwenye kabati na mpiga risasi aliyesimama kwenye sehemu ya nyuma akiendesha Bunduki ya Mashine ya Wastani iliyowekwa kwenye swivel.
 
-| Gari la Msaada wa Kimbinu | |
+| Gari la Usaidizi wa Tactical | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Kiraia |
-| **Ganda** | 6 |
+| **Ukubwa / Aina** | Wastani wa Kiraia |
+| **Hull** | 6 |
 | **Muundo** | 30 |
 | **Mifumo** | 2 |
-| **Kasi** | Rapid |
-| **Uendeshaji** | Standard |
-| **Sifa** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Yenye Silaha](0006_Vehicles.md?id=weaponized) |
-| **Silaha** | Bunduki ya Mashine ya Kati Iliyopachikwa (2d6) |
+| **Kasi** | Kwa kasi |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Nchi Zote](0006_Vehicles.md?id=all-terrain), [Silaha](0006_Vehicles.md?id=weaponized) |
+| **Silaha** | Bunduki ya Mashine ya Wastani iliyowekwa (2d6) |
 
 <br>
 
 ---
 
-### Vyombo vya Maji
+### Vyombo vya Majini
 
-#### Boti ya Kasi
+#### Boti ya Kasi (Speedboat)
 
-Boti ya kasi ya kawaida, yenye kifaa cha kutupa mabomu ya baharini kilichopachikwa nyuma.
+Boti ya kawaida ya kasi, yenye silaha za kisambazaji MVU mgodi kilichowekwa nyuma.
 
 | Boti ya Kasi | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Kiraia |
-| **Ganda** | 3 |
+| **Ukubwa / Aina** | Wastani wa Kiraia |
+| **Hull** | 3 |
 | **Muundo** | 24 |
 | **Mifumo** | 2 |
-| **Kasi** | Fast |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Yenye Silaha](0006_Vehicles.md?id=weaponized) |
-| **Silaha** | Kifaa cha Kutupa Mabomu ya Baharini (5d6) |
+| **Kasi** | Haraka |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Vyombo vya Majini](0006_Vehicles.md?id=waterborne), [Silaha](0006_Vehicles.md?id=weaponized) |
+| **Silaha** | Kisambazaji MVU Mgodi (5d6) |
 
 <br>
 
 ---
 
-#### Boti ya Starehe
+#### Yacht
 
-Aina ya boti ya starehe ambayo oligarki anaweza kumiliki. Huenda ina vifaa vya ufuatiliaji ili kujilinda dhidi ya maadui wanaojaribu kufanya mambo mabaya.
+Aina ya yacht ya kifahari ambayo oligarch anaweza kumiliki. Huenda ikiwa na suite ya ufuatiliaji ili kujilinda dhidi ya maadui wanaojaribu kufanya mabaya.
 
-| Boti ya Starehe | |
+| Yacht | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Sana Kiraia |
-| **Ganda** | 10 |
+| **Ukubwa / Aina** | Kubwa Sana ya Kiraia |
+| **Hull** | 10 |
 | **Muundo** | 75 |
 | **Mifumo** | 4 |
-| **Kasi** | Slow |
-| **Uendeshaji** | Formidable |
-| **Sifa** | [Kifahari](0006_Vehicles.md?id=luxurious), [Kifurushi cha Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Waterborne](0006_Vehicles.md?id=waterborne) |
+| **Kasi** | Polepole |
+| **Ushughulikiaji** | Ya Kutisha |
+| **Sifa** | [Ya Kifahari](0006_Vehicles.md?id=luxurious), [Suite ya Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [Vyombo vya Majini](0006_Vehicles.md?id=waterborne) |
 | **Silaha** | Hakuna |
 
 <br>
@@ -576,19 +582,19 @@ Aina ya boti ya starehe ambayo oligarki anaweza kumiliki. Huenda ina vifaa vya u
 
 ### Ndege/Vyombo vya Anga
 
-#### Dirigible (Meli ya Anga ya Kiraia)
+#### Dirigible (Chombo MVU Anga MVU Kiraia)
 
-Sawa na Hindenburg, darasa hili la dirigible la mabara (na mengine ya darasa lake) lina urefu wa mita 245 na linahitaji wafanyakazi wa 40 hadi 61. Linaweza kubeba abiria 50 hadi 72 kwa anasa.
+Sawa na Hindenburg, darasa hili la dirigible ya kuvuka mabara (na wengine wa darasa lake) lina urefu wa mita 245 na linahitaji wafanyakazi 40 hadi 61. Kwa kawaida inaweza kubeba abiria 50 hadi 72 katika malazi ya kifahari.
 
 | Dirigible | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Ajabu Kiraia |
-| **Ganda** | 10 |
+| **Ukubwa / Aina** | Kubwa mno ya Kiraia |
+| **Hull** | 10 |
 | **Muundo** | 85 |
 | **Mifumo** | 5 |
-| **Kasi** | Ponderous |
-| **Uendeshaji** | Herculean |
-| **Sifa** | [Hewani](0006_Vehicles.md?id=airborne), [Kifahari](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Kasi** | Nzito |
+| **Ushughulikiaji** | Ya Kishujaa |
+| **Sifa** | [Angani](0006_Vehicles.md?id=airborne), [Ya Kifahari](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Ngao** | Hakuna |
 | **Silaha** | Hakuna |
 
@@ -596,80 +602,80 @@ Sawa na Hindenburg, darasa hili la dirigible la mabara (na mengine ya darasa lak
 
 ---
 
-#### Helikopta ya Kushambulia
+#### Helikopta ya Mashambulizi
 
-Helikopta ya Kushambulia ya jadi hutumia teknolojia yake ya hali ya juu ya ufuatiliaji kukatisha mawasiliano ya simu na intaneti isiyo na waya, na kufuatilia watu binafsi na magari hata gizani, kupitia FLIR. Majaribio ya kukwepa kifuatiliaji kupitia Siri ni Kutisha.
+Helikopta ya jadi ya Mashambulizi hutumia teknolojia yao ya kisasa ya ufuatiliaji kunasa mawimbi ya simu na intaneti isiyo na waya, na kufuatilia watu na magari hata gizani, kupitia FLIR. Majaribio ya kukwepa kifuatiliaji kupitia Usiri ni ya Kutisha.
 
-| Helikopta ya Kushambulia | |
+| Helikopta ya Mashambulizi | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Kijeshi |
-| **Ganda** | 11 |
+| **Ukubwa / Aina** | Kubwa ya Kijeshi |
+| **Hull** | 11 |
 | **Muundo** | 50 |
 | **Mifumo** | 3 |
-| **Kasi** | Moderate |
-| **Uendeshaji** | Easy |
-| **Sifa** | [Hewani](0006_Vehicles.md?id=airborne), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Siri](0006_Vehicles.md?id=stealth), [Uendeshaji Bora](0006_Vehicles.md?id=superior-handling), [Kifurushi cha Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Kasi** | Wastani |
+| **Ushughulikiaji** | Rahisi |
+| **Sifa** | [Angani](0006_Vehicles.md?id=airborne), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance), [Usiri](0006_Vehicles.md?id=stealth), [Ushughulikiaji Bora](0006_Vehicles.md?id=superior-handling), [Suite ya Ufuatiliaji](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Ngao** | Hakuna |
-| **Silaha** | Gatling Gun 1 (3d6), Roketi 4 (5d6) |
+| **Silaha** | 1 Gatling Gun (3d6), 4 Roketi (5d6) |
 
 <br>
 
 ---
 
-#### Ndege ya Kivita yenye Kazi Nyingi
+#### Mpiganaji wa Majukumu Mengi
 
-Ndege hii ya kivita ya viti viwili vya ardhini (sawa na aina ya De Havilland Mosquito) inajulikana sana kwa utendaji wake na utofauti. Sehemu yake ya mabomu inaweza kubeba mabomu mawili ya paundi 250 (chukulia kama makombora ya kati yenye umbali 0) au torpedo moja.
+Mpiganaji huyu wa viti viwili anayeegemea nchi kavu (sawa na aina ya De Havilland Mosquito) anajulikana kwa utendaji wake na utofauti. Sehemu yake ya mabomu ina uwezo wa kubeba mabomu mawili ya lb 250 (chukuliana na makombora ya wastani yenye masafa 0) au torpedo moja.
 
-| Ndege ya Kivita yenye Kazi Nyingi | |
+| Mpiganaji wa Majukumu Mengi | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Kijeshi |
-| **Ganda** | 10 |
+| **Ukubwa / Aina** | Kubwa ya Kijeshi |
+| **Hull** | 10 |
 | **Muundo** | 45 |
 | **Mifumo** | 3 |
-| **Kasi** | Moderate |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Hewani](0006_Vehicles.md?id=airborne), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance) |
+| **Kasi** | Wastani |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Angani](0006_Vehicles.md?id=airborne), [Utendaji Ulioimarishwa](0006_Vehicles.md?id=enhanced-performance) |
 | **Ngao** | Hakuna |
-| **Silaha** | Bunduki 4 za Gatling Zilizowekwa Pua (4d6+3), Sehemu ya mabomu 1 (6d10 - tazama maelezo) |
+| **Silaha** | 4 Gatling Guns zilizowekwa pua (4d6+3), 1 sehemu ya mabomu (6d10 - angalia maelezo) |
 
 <br>
 
 ---
 
-#### Meli ya Mizigo ya Angani (Usafiri Mwepesi wa Teknolojia ya Juu)
+#### Msafirishaji wa Interstellar (Usafiri wa Teknolojia ya Juu)
 
-Usafiri huu mwepesi unahitaji wafanyakazi wawili tu, na nafasi ya abiria wanne wa ziada. Toleo la kawaida la hisa limeorodheshwa hapa, hata hivyo wamiliki wengi wataweka "mabadiliko maalum" yao kama vile nafasi ya mizigo iliyofichwa, Utendaji Ulioimarishwa, Uendeshaji Bora, Kinga ya EMP, Siri, na kadhalika.
+Usafiri huu mwepesi unahitaji wafanyakazi wa chini wa wawili pekee, na nafasi ya hadi abiria wanne wa ziada. Toleo la kawaida la hisa limetajwa hapa, hata hivyo wamiliki wengi watatumia "marekebisho yao maalum" kama vile nafasi ya mizigo iliyofichwa, Utendaji Ulioimarishwa, Ushughulikiaji Bora, Ustahimilivu wa EMP, Usiri, na kadhalika.
 
-| Meli ya Mizigo ya Angani | |
+| Msafirishaji wa Interstellar | |
 | :- | :- |
-| **Ukubwa / Aina** | Kati Chombo cha Angani cha Kiraia |
-| **Ganda** | 10 |
+| **Ukubwa / Aina** | Wastani wa Chombo MVU Anga MVU Kiraia |
+| **Hull** | 10 |
 | **Muundo** | 80 |
 | **Mifumo** | 2 |
-| **Kasi** | Rapid (Sababu ya Parsec ya 3) |
-| **Uendeshaji** | Standard |
-| **Sifa** | [Hewani](0006_Vehicles.md?id=airborne), [Mizigo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Chombo cha Anga](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Kasi** | Kwa kasi (Parsec Factor ya 3) |
+| **Ushughulikiaji** | Wastani |
+| **Sifa** | [Angani](0006_Vehicles.md?id=airborne), [Mizigo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Chombo MVU Anga](0006_Vehicles.md?id=spacecraft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Ngao** | 8 |
-| **Silaha** | Turrets 2x za Laser Cannon Zilizopachikwa Mara Nne (5d6) |
+| **Silaha** | 2x Quad-mounted Laser Cannon Turrets (5d6) |
 
 <br>
 
 ---
 
-#### Kitengo cha Mawasiliano ya Jumla (Chombo cha Anga cha Teknolojia ya Juu Sana)
+#### Kitengo MVU Mawasiliano ya Jumla (Chombo MVU Anga MVU Teknolojia ya Juu Sana)
 
-Chombo hiki cha anga cha teknolojia ya juu sana ni uwakilishi halisi wa Akili bandia ya hali ya juu, ambayo inachukua fomu ya mfululizo wa moduli zilizounganishwa na uga, zenye urefu wa kilomita mbili. Moduli hizo zimetengewa madhumuni tofauti na zinajumuisha makazi, vituo vya ujenzi, maeneo ya mizigo, usindikaji wa chakula, maeneo ya burudani, bandari za hangar, na hata vitengo vingine vya siri ambavyo akili ya meli mara chache, kama si kamwe, hujadili. Haihitaji wafanyakazi wa kibinadamu, lakini inaweza kuhimili idadi ya abiria hadi 100,000 kwa urahisi. Abiria wengi huzaliwa na kufa kwenye Kitengo cha Mawasiliano: wengi ni wa mpito, wakija na kuondoka wanavyotaka.
+Chombo hiki MVU nyota MVU teknolojia ya juu sana ni uwakilishi wa kimwili wa Akili ya bandia ya juu sana, ambayo inachukua umbo la mfululizo wa moduli zilizounganishwa na uwanja wa urefu wa kilomita mbili. Moduli zimekusudiwa kibinafsi na ni pamoja na makazi, vifaa vya ujenzi, maeneo ya mizigo, usindikaji wa chakula, maeneo ya burudani, bay za hangar, na hata vitengo vingine vya siri ambavyo akili ya meli mara chache, ikiwa itawahi, inajadili. Haihitaji wafanyakazi wa kibinadamu, lakini inaweza kusaidia idadi ya abiria hadi 100,000 kwa urahisi. Abiria wengi huzaliwa na kufa ndani ya Kitengo MVU Mawasiliano: wengi ni wa muda, wakija na kuondoka kama wanavyotaka.
 
-| Kitengo cha Mawasiliano ya Jumla | |
+| Kitengo MVU Mawasiliano ya Jumla | |
 | :- | :- |
-| **Ukubwa / Aina** | Kubwa Kufuru Chombo cha Angani cha Kiraia |
-| **Ganda** | 20 |
+| **Ukubwa / Aina** | Kubwa ajabu ya Kiraia Chombo MVU Anga |
+| **Hull** | 20 |
 | **Muundo** | 10,000 |
 | **Mifumo** | 6 |
-| **Kasi** | Moderate (Sababu ya Parsec ya 4. Katika kiwango hiki cha teknolojia, Sababu ni sawa na saa 1) |
-| **Uendeshaji** | Formidable |
-| **Sifa** | [Hewani](0006_Vehicles.md?id=airborne), [Mizigo](0006_Vehicles.md?id=cargo), [Mbeba](0006_Vehicles.md?id=carrier), [Ujenzi](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Kifahari](0006_Vehicles.md?id=luxurious), [Chombo cha Anga](0006_Vehicles.md?id=space-craft),[Uendeshaji Bora](0006_Vehicles.md?id=superior-handling), [Miale ya Kufunga](0006_Vehicles.md?id=tractor-beam) |
+| **Kasi** | Wastani (Parsec Factor ya 4. Katika kiwango hiki MVU teknolojia, Factor ni sawa na saa 1) |
+| **Ushughulikiaji** | Ya Kutisha |
+| **Sifa** | [Angani](0006_Vehicles.md?id=airborne), [Mizigo](0006_Vehicles.md?id=cargo), [Mtoa huduma](0006_Vehicles.md?id=carrier), [Ujenzi](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Ya Kifahari](0006_Vehicles.md?id=luxurious), [Chombo MVU Anga](0006_Vehicles.md?id=spacecraft), [Ushughulikiaji Bora](0006_Vehicles.md?id=superior-handling), [Miale ya Kuvutia](0006_Vehicles.md?id=tractor-beam) |
 | **Ngao** | 30 |
-| **Silaha** | Hakuna ambazo inajali kuzijadili |
+| **Silaha** | Hakuna ambacho kinajali kujadili |
 
 <br>

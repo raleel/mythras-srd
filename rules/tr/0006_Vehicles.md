@@ -1,417 +1,428 @@
-# Araçlar
+# Taşıtlar
 
-_Mythras Imperative_'deki araçlar yarı soyut bir şekilde ele alınır. Esasen, karakterleri A noktasından B noktasına götürmek için kullanılan, ayrıntılı açıklama veya istatistiklere çok az ihtiyaç duyan arka plan araçlarıdır. Ancak zaman zaman, Takip veya çatışma durumlarında araçları temsil etmek gerektiğinde Oyun Yöneticileri araçlar için ayrıntılar isteyecektir.
+_Mythras Imperative_'deki taşıtlar yarı soyut bir şekilde ele alınır. Özünde bunlar, karakterleri A noktasından B noktasına götürmek için kullanılan, detaylı açıklamalara veya istatistiklere çok az ihtiyaç duyulan arka plan araçlarıdır. Ancak Oyun Yöneticilerinin, kovalamaca veya çatışma durumlarında taşıtları temsil etmeleri gerektiğinde, zaman zaman detaylara ihtiyaçları olacaktır.
 
-Bu bölümdeki kurallar, çoğu araç türünü soyut bir şekilde temsil etmeye olanak tanır ve bu, esneklik sağlamayı ve hikaye anlatımını geliştirmeyi amaçlar. Yıldız gemileri ve uzay araçları biraz farklıdır, ancak benzer ilkelere dayanır.
+Bu bölümdeki kurallar, çoğu taşıt türünün temsil edilmesine olanak tanır, ancak esnekliğe izin vermek ve hikaye anlatımını geliştirmek amacıyla soyutlanmış bir biçimde sunulmuştur. Yıldız gemileri ve uzay araçları, benzer ilkelere dayanmalarına rağmen biraz farklıdır.
 
 ---
 ## İstatistikler
 
-Tüm araçlar Yapı, Gövde, Hız, Sistemler, Özellikler ve Kalkanlar (ayarın içinde mevcutsa) açısından açıklanır.
+Tüm taşıtlar Yapı, Gövde, Hız, Sistemler, Özellikler ve (ayara bağlı olarak mevcutsa) Kalkanlar açısından tanımlanır.
 
-- **[Boyut](0006_Vehicles.md?id=vehicle-size-table):** Tüm araçlar, diğer özelliklerin değerini veya aralığını belirleyen altı Boyut derecesinden birine sahiptir. Daha büyük içsel boyutları ve uzayın düşmanca ortamları nedeniyle, yıldız gemilerinin kendi değer aralıkları vardır.
+- **[Boyut](0006_Vehicles.md?id=vehicle-size-table):** Tüm taşıtlar, diğer karakteristik özelliklerin değerini veya aralığını belirleyen altı Boyut derecesinden birine sahiptir. Doğal olarak daha büyük boyutları ve uzayın zorlu ortamları nedeniyle, yıldız gemilerinin kendi değer aralıkları vardır.
 - **[Gövde](0006_Vehicles.md?id=terrestrial-hulls):** Zırh Puanlarını temsil eder.
-- **[Yapı](0006_Vehicles.md?id=terrestrial-hulls):** Bir aracın Can Puanlarını temsil eder.
-- **[Kalkanlar](0006_Vehicles.md?id=shields):** Gelişmiş enerji manipülasyon teknolojisine sahip ayarlarda, aracı koruyan, ancak sürekli ateş altında aşınabilen kalkanlar bulunabilir.
-- **[Sistemler](0006_Vehicles.md?id=systems):** Araçtaki güç ünitesi, mürettebat bölümü ve benzerleri dahil olmak üzere hayati bileşenleri temsil eder.
-- **[Hız](0006_Vehicles.md?id=speed):** Her aracın temel bir Hız derecesi vardır.
-- **[Özellikler](0006_Vehicles.md?id=traits):** Bir aracın ayrıca bir veya daha fazla Özelliği olabilir. Özellikler, _Mythras Imperative_ kurallarındaki Yaratıklara atanan Yetenekler veya Savaş Tarzı Özellikleri gibi, aracın doğasını yansıtan ek bir oyun açıklaması ve avantajı sunar.
-- **[Silahlar](0006_Vehicles.md?id=weapons):** Özelliklere çok benzer şekilde, ayar izin verdiği ölçüde bir araç silahlarla donatılabilir. Bazı önerilen örnekler ve değerler aşağıda ayrıntılı olarak verilmiştir.
+- **[Yapı](0006_Vehicles.md?id=terrestrial-hulls):** Taşıtın Can Puanlarını temsil eder.
+- **[Kalkanlar](0006_Vehicles.md?id=shields):** Gelişmiş enerji manipülasyon teknolojisine sahip ayarlarda, taşıtı koruyan ancak sürekli ateş altında aşınabilen kalkanlar bulunabilir.
+- **[Sistemler](0006_Vehicles.md?id=systems):** Güç santrali, mürettebat bölümü vb. dahil olmak üzere taşıtın hayati bileşenlerini temsil eder.
+- **[Hız](0006_Vehicles.md?id=speed):** Her taşıtın temel bir Hız derecesi vardır.
+- **[Özellikler](0006_Vehicles.md?id=traits):** Bir taşıtın bir veya daha fazla Özelliği de olabilir. _Mythras Imperative_ kurallarındaki Yaratıklara atanan Yetenekler veya Savaş Tarzı Özellikleri gibi, Özellikler de taşıtın doğasını yansıtan ek bir oyun tanımı ve avantajı sunar.
+- **[Silahlar](0006_Vehicles.md?id=weapons):** Özelliklere benzer şekilde, bir taşıt ayarın izin verdiği ölçüde silahlarla donatılabilir. Bazı önerilen örnekler ve değerler aşağıda detaylandırılmıştır.
+
 
 ---
-### Gövde Boyutu, Tipi ve Yapısı
+### Gövde Boyutu, Türü ve Yapısı
 
-Bir aracın boyutu ve amacı, gövdesinin kalınlığını ve iç yapısının esnekliğini etkiler. Örneğin, bir motosiklet, hızı ve çevikliği için inşa edildiği için minimal bir gövdeye sahiptir. Bir Kara Zırhlısı (buhar veya dizel motorlarla çalışan devasa, paletli veya tekerlekli zırhlı bir canavar), savaş alanı için tasarlanmış çok daha büyük bir araç olduğu için çok daha büyük bir gövdeye sahiptir. Gövdelerin karşılaştırmalı boyutları (ve tipik olarak silahlardan kaç darbe dayanabilecekleri), aşağıdaki Araç Boyutu ve Gövde tablolarında özetlenmiştir.
+Taşıtın boyutu ve amacı, gövdesinin kalınlığını ve iç yapısının dayanıklılığını etkiler. Örneğin bir motosiklet, hız ve çeviklik için üretildiğinden minimum bir gövdeye sahiptir. Bir Land Ironclad (buhar veya dizel motorlarla çalışan, paletli veya tekerlekli, devasa bir zırhlı canavar) ise savaş alanı için tasarlanmış çok daha büyük bir taşıt olduğundan, çok daha büyük bir gövdeye sahiptir. Gövdelerin karşılaştırmalı boyutları (ve genellikle silahlardan gelen kaç vuruşa dayanabilecekleri), aşağıdaki Taşıt Boyutu ve Gövde tablolarında özetlenmiştir.
 
-Bir araç zarar gördüğünde, gelen hasar Gövde değeri tarafından azaltılır. Kalan hasar, aracın Yapı puanlarından çıkarılır ve nüfuz eden hasara eşit bir yüzde şansıyla bir Sistemi etkileme olasılığı vardır. Araç sıfır Yapı'ya düşerse, ya tamamen yok olur ya da o kadar kötü hurdaya ayrılır ki hurdaya çıkarılması gerekir.
+Bir taşıt hasar gördüğünde, gelen hasar Gövde değeri kadar azaltılır. Kalan hasar, taşıtın Yapı puanlarından çıkarılır ve nüfuz eden hasara eşit bir yüzde şansı ile bir Sistemi etkileme ihtimali vardır. Taşıtın Yapısı sıfıra düşerse ya tamamen yok olur ya da hurdaya çıkacak kadar ağır hasar alır.
 
-##### Kara Gövdeleri
+##### Karasal Gövdeler 
 
 | Boyut | Yapı | Sivil Gövde Değeri | Askeri Gövde Değeri | Örnek |
 | :-- | :-: | :-: | :-: | :-- |
-| Küçük | 1-20 | 1-3 | 4-6 | Motosiklet, sepetli motosiklet, kompakt veya küçük araba, kano, kayık, sandal |
-| Orta | 21-40 | 1-6 | 7-9 | Sedan, panelvan, pikap, lüks araba, lüks spor araba, kaslı araba, limuzin, cankurtaran botu, sürat teknesi, yelken kanat, otogyro |
-| Büyük | 41-60 | 4-9 | 10-12 | Kamyon/kamyonet, uzun limuzin, SUV, otobüs, minibüs, kişisel uçak, planör, gezi teknesi, tank, helikopter, denizaltı |
-| Çok Büyük | 61-80 | 7-12 | 13-15 | Tır, yolcu uçağı, jet, sahil güvenlik gemisi, yat |
-| Devasa | 81-100 | 10-15 | 16-18 | Tren, yolcu gemisi, savaş gemisi |
+| Küçük | 1-20 | 1-3 | 4-6 | Motosiklet, sepetli motosiklet, kompakt veya alt kompakt araba, kano, kayak, kayık |
+| Orta | 21-40 | 1-6 | 7-9 | Sedan, panelvan, kamyonet, lüks araba, lüks spor araba, güçlü araba, limuzin, cankurtaran filikası, sürat teknesi, yelken kanat, otopiro |
+| Büyük | 41-60 | 4-9 | 10-12 | Kamyon/Tır, streç limuzin, SUV, otobüs, binek aracı, kişisel uçak, planör, gezi teknesi, tank, helikopter, denizaltı |
+| Devasa | 61-80 | 7-12 | 13-15 | Yarı römorklu kamyon, yolcu uçağı, jet, sahil güvenlik gemisi, yat |
+| Muazzam | 81-100 | 10-15 | 16-18 | Tren, yolcu gemisi, savaş gemisi |
 
-##### Yıldız Gemisi Gövdeleri
+##### Yıldız Gemisi Gövdeleri 
 
 | Boyut | Yapı | Sivil Gövde Değeri | Askeri Gövde Değeri | Örnek |
 | :-- | :-: | :-: | :-: | :-- |
 | Küçük | 10-50 | 4-9 | 10-12 | Tek kişilik avcı uçağı |
-| Orta | 51-150 | 7-12 | 13-15 | Hafif Kargo Gemisi, Uzay Mekiği |
-| Büyük | 151-450 | 10-15 | 16-18 | Ağır Kargo Gemisi, Kruvazör |
-| Çok Büyük | 451-1350 | 13-18 | 19-21 | Eskort Firkateyni, Hafif Savaş Kruvazörü |
-| Devasa | 1351-4050 | 16-21 | 21-24 | Nesil Gemisi, Ağır Savaş Kruvazörü |
-| Muazzam | 4050-12110 | 19-24 | 24-30 | Yörünge Habitatı, Gezegen Yok Eden Savaş İstasyonu |
+| Orta | 51-150 | 7-12 | 13-15 | Hafif Yük Gemisi, Servis aracı |
+| Büyük | 151-450 | 10-15 | 16-18 | Ağır Yük Gemisi, Kruvazör |
+| Devasa | 451-1350 | 13-18 | 19-21 | Eskort Fırkateyni, Hafif Savaş Kruvazörü |
+| Muazzam | 1351-4050 | 16-21 | 21-24 | Nesil Gemisi, Ağır Savaş Kruvazörü |
+| Devasa (Kolosal) | 4050-12110 | 19-24 | 24-30 | Yörünge Habitatı, Gezegen Yıkan Savaş İstasyonu |
+
 
 ---
 ### Kalkanlar
 
-Deflektör kalkanları, bunları takabilen araçlar için ek bir koruma katmanı sağlar. Kalkanlar, aşındırıcı doğaları nedeniyle Gövde'den biraz farklı çalışır. Gelen hasar kalkanların değerine eşit veya daha az ise, hepsi engellenir. Hasar kalkan değerini aşarsa, fazlalık kalkan gücünü o miktar kadar azaltır.
+Saptırıcı kalkanlar, onları takabilen taşıtlar için ek bir koruma katmanı sağlar. Kalkanlar, aşındırıcı doğaları nedeniyle Gövdeden biraz farklı çalışırlar. Gelen hasar, kalkanların değerine eşit veya daha düşükse, tamamı engellenir. Hasar kalkan değerini aşarsa, aradaki fark kalkan gücünü o miktar kadar azaltır.
 
-_Örneğin, bir birlik taşıyıcının 12 puanlık bir enerji kalkan gücü vardır. Taşıyıcı 11 hasar veren bir lazerle vurulursa, basitçe nüfuz etmez ve ek bir etkisi olmaz. Öte yandan, taşıyıcı 15 hasar veren bir patlamayla vurulursa, fazla üç puan kalkan gücünü 9'a düşürür._
+_Örneğin, bir asker taşıyıcısının 12 puanlık enerji kalkanı gücü vardır. Taşıyıcı 11 hasar veren bir lazerle vurulursa, kalkanı geçemez ve ek bir etkisi olmaz. Öte yandan, taşıyıcı 15 hasar veren bir patlamayla vurulursa, artan üç puan kalkan gücünü 9'a düşürür._
 
-Bir deflektör kalkanının gücü sıfıra düştüğünde çöker. Kalan hasar gövdeye yansır.
+Bir saptırıcı kalkanın gücü sıfıra düştüğünde, çöker. Kalan tüm hasar gövdeye iletilir.
 
 ---
 ### Sistemler
 
-Bir araç gövdesini delen hasar aldığında, nüfuz eden hasara eşit bir şansla hayati bir Sistemin etkilenmiş olma olasılığı vardır.
+Bir taşıt gövdesini delen her hasar aldığında, nüfuz eden hasara eşit bir şansla hayati bir Sistemin etkilenme ihtimali vardır.
 
-_Örneğin, Hızı 3 Gövde ve 24 Yapıya sahip bir tekne olan Sürat Teknesi'ne 10 hasar uygulanır. Gövde, hasarı 7'ye düşüren zırh görevi görür. Bu, 24 Yapı puanından düşülür ve aracın Sistemlerinden birine zarar verme olasılığı %7'dir._
+_Örneğin, 3 Gövde ve 24 Yapı puanına sahip Sürat Teknesine 10 hasar uygulanır. Gövde, zırh olarak sayılarak hasarı 7'ye düşürür. Bu, 24 Yapı puanından düşülür ve taşıtın Sistemlerinden birine zarar verme şansı %7'dir._
 
-Bir Sistemin dayanabileceği hasar tamamen aracın boyutuna bağlıdır. Bu, gerçek hasar miktarı yerine bir Sistemin alabileceği vuruş sayısı ile modellenir. Küçük bir araçtaki tek bir Sistem Vuruşu, o Sistemi anında yok eder. Orta boyutlu bir aracın Sistemlerini yıkmak iki vuruş, Büyük bir araç için üç vuruş vb. gerektirir. Aşağıdaki [Sistem Hasar Tablosu](0006_Vehicles.md?id=system-damage-table)'na bakın.
+Bir Sistemin dayanabileceği hasar tamamen taşıtın boyutuna bağlıdır. Bu, gerçek hasar miktarı yerine bir Sistemin alabileceği vuruş sayısı ile modellenir. Küçük bir taşıta yapılan tek bir Sistem Vuruşu, o Sistemi anında yok eder. Orta büyüklükteki bir taşıtın Sistemlerini yıkmak için iki vuruş, Büyük bir taşıt için üç vuruş vb. gerekir. Aşağıdaki [Sistem Hasar Tablosuna](0006_Vehicles.md?id=system-damage-table) bakın.
 
-Hasarlı ancak henüz yok edilmemiş Sistemler, alınan Vuruş sayısıyla orantılı olarak işlev kaybına uğrar - ya yüzde olarak bir azalma ya da Sistem görevlerine bir Derece cezası. Belirli etki, alt sistemin neyi kontrol ettiğine bağlıdır, aşağıda [Sistem Bileşeni Hasar Tablosu](0006_Vehicles.md?id=system-component-damage-table)'nda ayrıntılı olarak açıklanmıştır. Hangi Sistemin vurulduğuna bağlı olarak, etkiler felaketle sonuçlanabilir.
+Hasar görmüş ancak henüz yok edilmemiş sistemler, alınan vuruş sayısıyla orantılı olarak bir işlev kaybına uğrar; bu ya bir yüzde azalması ya da Sistem görevlerinde bir Derece cezası şeklindedir. Spesifik etki, alt sistemin neyi kontrol ettiğine bağlıdır ve aşağıda [Sistem Bileşeni Hasar Tablosunda](0006_Vehicles.md?id=system-component-damage-table) detaylandırılmıştır. Hangi Sistemin vurulduğuna bağlı olarak etkiler felaket boyutunda olabilir.
 
-_Örneğin, Beş Sistem Vuruşlu Devasa bir araç olan Kara Zırhlısı, Sürücüde iki kez vurulursa gücünün %40'ını kaybeder ve Yavaş Hızını iki Derece düşürerek Yavaşlatılmış hale getirir. Benzer şekilde, Üç Sistem Vuruşlu Büyük bir kargo gemisi, Motor/Yakıt Sistemine iki vuruş alırsa, Hız ve Elektronik sistem kullanımlarında iki Derece cezası alır. Üçüncü bir vuruş Motor/Yakıt Sistemini ve onunla birlikte gemiyi yok eder._
+_Örneğin, 5 Sistem Vuruşuna sahip Muazzam bir taşıt olan Land Ironclad, Sürüş sisteminden iki kez vurulduğunda gücünün %40'ını kaybeder ve Yavaş Hızını iki Derece düşürerek Ağır aksak seviyesine iner. Benzer şekilde, 3 Sistem Vuruşuna sahip Büyük bir yük gemisi, Motor/Yakıt Sisteminden iki vuruş alırsa, Hızında ve Elektronik sistem kullanımında iki Derecelik bir ceza alır. Üçüncü bir vuruş Motor/Yakıt Sistemini ve dolayısıyla gemiyi yok eder._
+
 
 <details>
 
-<summary>* Topluluk Hata Düzeltmeleri</summary>
+<summary>* Topluluk Erratası</summary>
 
 ---
 
 #### Hasar
 
-_Buradaki orijinal metin başlangıçta daha uzaktaydı. Sistemler bölümünden hemen sonra yerleştirilmesi, önceki paragrafı gereksiz yere tekrar ediyordu._
 
-- _"Gövdeyi aşan hasar araca nüfuz eder, Yapı'ya zarar verir ve muhtemelen bir veya daha fazla sistemi etkiler. Aracın boyutuna bağlı olarak, hasar küçük veya felaketle sonuçlanan olabilir._
-- _Örneğin, Büyük bir araç Sürücü gibi bir Sisteme iki vuruş alabilir. Üçüncü vuruş Sürücü'yü işlevsel olarak yok eder. Sistem her darbe aldığında, aşağıdaki Sistem Hasar Tablosundaki Vuruş Başına Kayıp sütununda açıklandığı gibi işlevinin bir yüzdesini kaybeder veya bir çekirdek işlev (Sürücü, Pilot, İletişim vb. gibi) her alınan vuruş için bir Zorluk Derecesi daha zor hale gelir."_
+_Buradaki orijinal metin başlangıçta daha uzaktaydı. Sistemler bölümünden hemen sonraya yerleştirildiğinde, önceki paragrafı gereksiz yere tekrar etmektedir._
 
-_Yukarıdaki paragraflar kaldırılmış ve başka bir örnek Sistem etkisini belirten kısaltılmış bir düzenleme yerine geçmiştir._
+- _"Gövdeyi aşan hasar taşıta nüfuz eder, Yapıya zarar verir ve muhtemelen bir veya daha fazla sistemi etkiler. Taşıtın boyutuna bağlı olarak hasar küçük veya felaket boyutunda olabilir._
+- _Örneğin, Büyük bir taşıt Sürüş gibi bir Sistemden en fazla iki vuruş alabilir. Üçüncü vuruş Sürüş sistemini işlevsel olarak yok eder. Sistem her vuruş aldığında, aşağıdaki Sistem Hasar Tablosunun Vuruş Başına Kayıp sütununda tanımlanan işlevinin bir yüzdesini kaybeder ya da temel bir işlev (Sürüş, Pilot, İletişim vb.) alınan her vuruşta bir Zorluk Derecesi daha zor hale gelir."_
+
+_Yukarıdaki paragraflar kaldırılmış ve yerine başka bir örnek Sistem etkisine değinen kısaltılmış bir düzenleme getirilmiştir._
 
 ---
 
 </details>
 
-##### Sistem Hasar Tablosu
+##### Sistem Hasar Tablosu 
 
 | Boyut | Sistem Vuruşları | Vuruş Başına Kayıp |
 | :-- | :-: | :-- |
 | Küçük | 1 | %100 - Yok Edildi |
 | Orta | 2 | 1 Derece veya %50 |
 | Büyük | 3 | 1 Derece veya %33 |
-| Çok Büyük | 4 | 1 Derece veya %25 |
-| Devasa | 5 | 1 Derece veya %20 |
-| Muazzam | 6 | 1 Derece veya %16 |
+| Devasa | 4 | 1 Derece veya %25 |
+| Muazzam | 5 | 1 Derece veya %20 |
+| Devasa (Kolosal) | 6 | 1 Derece veya %16 |
+
 
 <details>
 
-<summary>* Topluluk Hata Düzeltmeleri</summary>
+<summary>* Topluluk Erratası</summary>
 
 ---
 
-##### Sistem Hasar Tablosu (Orijinal)
+##### Sistem Hasar Tablosu (Orijinal) 
 
 | Boyut | Sistem Vuruşları | Vuruş Başına Kayıp |
 | :-- | :-: | :-- |
 | Küçük | 1 | 1 Derece veya %50 |
 | Orta | 2 | 1 Derece veya %33 |
 | Büyük | 3 | 1 Derece veya %25 |
-| Çok Büyük | 4 | 1 Derece veya %20 |
-| Devasa | 5 | 1 Derece veya %16 |
-| Muazzam | 6 | 1 Derece veya %10 |
+| Devasa | 4 | 1 Derece veya %20 |
+| Muazzam | 5 | 1 Derece veya %16 |
+| Devasa (Kolosal) | 6 | 1 Derece veya %10 |
 
-##### Araç Boyut Tablosu ([Gövde Boyutu, Tipi ve Yapısı](0006_Vehicles.md?id=hull-size-type-and-structure) bölümünden)
+##### Taşıt Boyutu Tablosu ([Gövde Boyutu, Türü ve Yapısı](0006_Vehicles.md?id=hull-size-type-and-structure) bölümünden)
 
 | Boyut | Sistem Vuruşları |
 | :-- | :-: |
 | Küçük | 1 |
 | Orta | 2 |
 | Büyük | 3 |
-| Çok Büyük | 4 |
-| Devasa | 5 |
-| Muazzam | 6 |
+| Devasa | 4 |
+| Muazzam | 5 |
+| Devasa (Kolosal) | 6 |
 
 _Orijinal kurallar ve örnekler tutarsızdır:_
-- _"Hasar görmüş, ancak henüz yok edilmemiş sistemler, işlevsellik kaybına uğrar. Bu, mevcut vuruşların toplam kapasitesine oranına eşittir. Bu nedenle, Sürücüde iki kez vurulan Devasa bir araç, gücünün %40'ını kaybeder (maksimum 5 vuruştan 2'si)"._
-  - _Bu, 5 Sistem Vuruşu ile gösterilen Devasa aracın her vuruşta %20 kaybetmesi gerektiğini düşündürür - ancak tabloda %16 diyor._
-- _"Örneğin, Büyük bir araç Sürücü gibi bir sisteme üç vuruş alabilir. Dördüncü vuruş Sürücü'yü işlevsel olarak yok eder."_
-  - _Bu, tablonun da belirttiği gibi, Sistem Vuruşu başına %25 hasar anlamına gelir, ancak aynı tabloya göre Büyük Araçlar sadece 3 Sistem Vuruşu alabilir._
-- _Tutarsız olmasa da, Araç Boyut Tablosu gereksizdi; birkaç satır sonra daha eksiksiz bir şekilde (Vuruş Başına Kayıp sütunu eklenerek) tekrar görünüyordu._
+- _"Hasar gören ancak henüz yok edilmeyen sistemler, işlevsellik kaybına uğrar. Bu, mevcut vuruşların toplam kapasiteye oranına eşittir. Bu nedenle, Sürüş sisteminden iki kez vurulan Muazzam bir taşıt gücünün %40'ını kaybeder (5 üzerinden 2 vuruş)."_ 
+   - _Bu, 5 Sistem Vuruşu gösterilen Muazzam taşıtın her vuruşta %20 kaybetmesi gerektiğini önerir - ancak tablo %16 diyor._
+- _"Örneğin, Büyük bir taşıt Sürüş gibi bir sistemden üç vuruş alabilir. Dördüncü vuruş Sürüş sistemini işlevsel olarak yok eder."_ 
+  - _"Bu, tablo gibi Sistem Vuruşu başına %25 hasarı önerir ancak Büyük Taşıtlar aynı tabloya göre sadece 3 Sistem Vuruşu alabilir._
+- _Tutarsız olmasa da, Taşıt Boyutu Tablosu gereksizdi; sadece birkaç satır sonra daha tam haliyle (Vuruş Başına Kayıp sütunu eklenerek) tekrar ortaya çıkıyor._
 
-_Bu, tutarlı bir kurala sahip olmayı zorlaştırır. Bu sorunları çözmek için, değerler ve örnekler eşleşecek şekilde değiştirildi ve Araç Boyut Tablosu kaldırıldı._
+_Bu, tutarlı bir kurala sahip olmayı zorlaştırıyor. Bu sorunları gidermek için değerler ve örnekler eşleştirildi ve Taşıt Boyutu Tablosu kaldırıldı._
 
 ---
 
 </details>
 
-##### Sistem Bileşeni Hasar Tablosu
+
+##### Sistem Bileşeni Hasar Tablosu 
 
 | 1d10 | Sistem | Hasarlı Sonuç | Yok Edilmiş Sonuç |
 | :-: | :-- | :-- | :-- |
-| 1 | Kargo | Ambarında depolanan, hasara orantılı miktarda eşya veya ekipman yok edilir. | Tüm kargo yok edilir. |
-| 2 | İletişim | İletişim zarları her hasar aldıklarında bir ek Zorluk Derecesi zorluk çekerler. | Araç artık iletişim kuramaz veya düşman sensörlerini yanıltamaz. |
-| 3 | Kontroller | Teknecilik, Sürüş veya Pilotaj zarları her hasar aldıklarında bir ek Zorluk Derecesi zorluk çekerler; anında Kontrol zarı gereklidir. | Araç artık yönlendirilemez veya rota değiştiremez. |
-| 4 | Sürüş | Hız, hasara orantılı olarak azalır. | Araç aniden durur; uçaklar düşer. |
-| 5 | Mürettebat | Hasara orantılı sayıda yolcu kayıp verir. Etkilenenler Ağır Yaralanma alır ve bir Dayanıklılık zarı başarısız olursa anında ölür. | Araçtaki yolcular ölür. |
-| 6 | Motor / Yakıt | Hız, hasara orantılı olarak azalır. Elektronik sistemlerin kullanımı bir Zorluk Derecesi daha zor hale gelir. | Araç felaketle sonuçlanan bir patlamada yok olur. |
-| 7 | Sensörler | Sensör, Navigasyon ve Silah saldırı zarları her hasar aldıklarında bir ek Zorluk Derecesi zorluk çekerler. | Araç kör hale gelir. |
-| 8 | Silahlar | Hasara orantılı sayıda silah sistemi devre dışı kalır. | Araç artık silah ateşleyemez. |
+| 1 | Kargo | Ambarında depolanan hasarla orantılı miktarda eşya veya ekipman yok olur. | Tüm kargo yok olur. |
+| 2 | İletişim | İletişim zarları, her hasar gördüklerinde bir ilave Zorluk Derecesi kadar zorlaşır. | Taşıt artık iletişim kuramaz veya düşman sensörlerini yanıltamaz. |
+| 3 | Kontroller | Tekne, Sürüş veya Pilot zarları her hasar gördüklerinde bir ilave Zorluk Derecesi zorluk çeker; derhal Kontrol zarı gereklidir. | Taşıt artık yönlendirilemez veya rota değiştiremez. |
+| 4 | Sürüş | Hız, hasarla orantılı miktarda azalır. | Taşıt aniden durur; uçaklar düşer. |
+| 5 | Mürettebat | Hasarla orantılı sayıda yolcu zayiat verir. Etkilenenler bir Büyük Yara alır ve Dayanıklılık (DAY) zarı atmalıdır, aksi takdirde anında ölürler. | Taşıt içindekiler ölür. |
+| 6 | Motor / Yakıt | Hız, hasarla orantılı miktarda azalır. Elektronik sistemleri kullanmak bir Zorluk Derecesi daha zorlaşır. | Taşıt feci bir patlamayla yok olur. |
+| 7 | Sensörler | Sensör, Navigasyon ve Silah saldırı zarları her hasar gördüklerinde bir ilave Zorluk Derecesi zorluk çeker. | Taşıt kör olur. |
+| 8 | Silahlar | Hasarla orantılı sayıda silah sistemi devre dışı kalır. | Taşıt artık ateş edemez. |
 | 9-0 | Yok | Hiçbir sistem vurulmadı; sadece Yapı hasarı. | N/A |
 
 <details>
 
-<summary>* Topluluk Hata Düzeltmeleri</summary>
+<summary>* Topluluk Erratası</summary>
 
 ---
 
 ##### Sistem Bileşeni Hasar Tablosu (Motor/Yakıt)
 
-_Orijinal sonuç şöyleydi: "Maksimum Hız yarıya iner..." Bu, Sistem hasarına orantılı hasar cezaları genel kuralıyla çelişiyor: %25 hasar = %25 ceza. Ayrıca, Mythras Companion'daki tam kurallar bu Hızın yarıya inmesinden bahsetmiyor._
+_Orijinal sonuç şu şekildeydi: "Maksimum Hız yarıya iner..." Bu, Sistem hasarıyla orantılı hasar cezalarının genel kuralı ile çelişmektedir: %25 hasar = %25 ceza. Ayrıca, Mythras Companion'daki tam kurallar hızın bu yarıya indirilmesinden bahsetmez._
 
-_Sonuç olarak metin, Sürüş Sistemlerindeki aynı girişle değiştirildi: "Hız, hasara orantılı olarak azalır."_
+_Sonuç olarak, metin Sürüş Sistemleri'ndeki aynı girdi ile değiştirilmiştir: "Hız, hasarla orantılı miktarda azalır."_
 
 ---
 
 </details>
 
+
 ---
 ### Hız
 
-Hız, ivme, sürüklenme ve atalet (birkaçı sayılabilir) fiziği karmaşık konular olduğundan, bazı basitleştirmeler gereklidir ve bu nedenle araçlara soyut bir hız derecesi verilir. Hız özelliği, yalnızca bir aracın diğerini geçip geçemeyeceğini veya yakalayıp yakalayamayacağını kabaca değerlendirmek için kullanılmalıdır.
+Hız, ivme, sürtünme ve eylemsizlik fiziği karmaşık konular olduğundan, bazı basitleştirmelere ihtiyaç duyulur ve bu nedenle taşıtlara soyut bir hız derecesi verilir. Hız karakteristik özelliği, yalnızca bir taşıtın diğerini geçip geçemeyeceğini kabaca değerlendirmek için kullanılmalıdır.
 
-Hız derecesi, bir aracın nominal çalışma oranını temsil eder. Acil durumlarda bu performans bir adım artırılabilir, ancak motorlarda aşınma veya hasar riski vardır. Tüm araç türleri için aynı tablo kullanılsa da, yalnızca aynı sınıftaki araçlar karşılaştırılacak şekilde sağduyu uygulanmalıdır. Örneğin, bir Yıldız Gemisi ve bir spor araba aynı Hızlı ivme oranına sahipse, uzay gemisinin karşılaştırmalı olarak daha hızlı olduğu açık olmalıdır.
+Hız derecesi, taşıtın nominal operasyonel oranını temsil eder. Acil durumlarda bu performans, motorlarda aşınma veya hasar riski göze alınarak bir kademe artırılabilir. Tüm taşıt türleri için aynı tablo kullanılsa da, sadece aynı sınıftaki taşıtların karşılaştırılması için sağduyu kullanılmalıdır. Örneğin, bir Yıldız Gemisi ve bir spor araba aynı Hızlı hızlanma oranına sahipse, uzay gemisinin karşılaştırmalı olarak daha hızlı olduğu barizdir.
 
-Bir aracın Hızını standart değerinin ötesine çıkarmak, başarılı bir Sürüş zarıyla mümkündür. Genellikle, bu ekstra hız sadece kısa bir süre sürdürülebilir – araç standart hızına düşmek veya güç ünitesine zarar verme riskiyle karşı karşıya kalmadan 1d6 dakikadan fazla değil. Kritik bir Sürüş zarı, yüksek hız süresinin 1d12 dakikaya çıkarılmasına izin verir.
+Bir taşıtın Hızını standart değerinin üzerine çıkarmak, başarılı bir Sürüş zarı ile mümkündür. Genellikle bu ekstra hız, yalnızca kısa bir süreliğine sürdürülebilirdir; taşıt standart hızına düşmeli veya motoruna zarar verme riskiyle karşılaşmalıdır (en fazla 1d6 dakika). Kritik bir Sürüş zarı, daha yüksek hız süresinin 1d12 dakikaya çıkarılmasına olanak tanır.
 
-Bir sürücü, aracın hızını 2 adım artırmaya çalışabilir, ancak bu, Herkülvarı bir Sürüş zarı gerektirir ve aracın bu hızı sürdürebileceği maksimum süre 1d3 dakikadır: Kritik Başarı, artan hızın süresini uzatmaz.
+Bir sürücü, taşıtın hızını 2 kademe artırmayı deneyebilir, ancak bu Herkül vari bir Sürüş zarı gerektirir ve taşıtın bu hızı sürdürebileceği maksimum süre 1d3 dakikadır: Kritik Başarı, artırılmış hız süresini uzatmayacaktır.
 
-##### Hız Derecesi Tablosu
+##### Hız Derecesi Tablosu 
 
-| Hız Derecesi | Maksimum Hız İçin |
+| Hız Derecesi | İçin Maksimum Hız |
 | :-- | :-: |
-| Yavaşlatılmış | Devasa |
-| Ağırdan Alan | |
-| Yavaş | Çok Büyük |
-| Ortalama | |
-| Sakin | Büyük |
+| Ağır aksak | Muazzam |
+| Hantal | |
+| Yavaş | Devasa |
 | Orta | |
+| Hafif | Büyük |
+| İdare eder | |
 | Hızlı | Orta |
 | Çabuk | |
-| Filo | Küçük |
+| Çok hızlı | Küçük |
+
 
 ---
 ### Özellikler
 
-Bir aracın sahip olabileceği maksimum özellik sayısı gövde boyutuna ve türüne bağlıdır.
+Bir taşıtın sahip olabileceği maksimum özellik sayısı, gövde boyutuna ve türüne bağlıdır.
 
-Her aracın doğasında bir özellik vardır: öncelikli olarak tasarlandığı seyahat modu. Bu nedenle, uçaklar doğal olarak Havada özelliğine, tekneler Denizde özelliğine vb. sahiptir. Bu doğal özellik, mevcut özellik sayısına dahil edilmez. Ancak, bir araç ikinci bir seyahat modunu içeriyorsa — örneğin uçan bir denizaltı — o zaman Havada özelliğinin mevcut özelliklerinden biri olarak alınması gerekir.
+Her taşıtın doğuştan gelen bir özelliği vardır: esas olarak tasarlandığı seyahat modu. Bu nedenle, uçaklar doğuştan Havadan özelliğine, tekneler Denizden özelliğine sahiptir vb. Bu doğal özellik, mevcut özellik sayısına dahil edilmez. Ancak, bir taşıt ikinci bir seyahat modu içeriyorsa (örneğin uçan bir denizaltı), Havadan özelliği mevcut özelliklerinden biri olarak alınmalıdır.
 
-Bazı özellikler, ayarın teknoloji seviyesine bağlı olarak mevcut olmayabilir; Oyun Yöneticileri, hangi özelliklerin uygulanabileceği konusunda kendi kararlarını vermelidir.
+Bazı özellikler, ayarın teknoloji seviyesine bağlı olarak mevcut olmayabilir; Oyun Yöneticileri hangi özelliklerin uygulanabileceğine dair kendi değerlendirmelerini yapmalıdır.
 
-##### Araç Özellik Tahsis Tablosu
+##### Taşıt Özellik Tahsis Tablosu 
 
 | Boyut | Maksimum Özellik |
 | :-- | :-: |
 | Küçük | 1 |
 | Orta | 2 |
 | Büyük | 3 |
-| Çok Büyük | 4 |
-| Devasa | 5 |
-| Muazzam | 6 |
+| Devasa | 4 |
+| Muazzam | 5 |
+| Devasa (Kolosal) | 6 |
 
-#### Havada
+#### Havadan
 
-Araç atmosferik uçuş yapabilir.
+Taşıt atmosferik uçuş yapabilir.
 
 #### Tüm Arazi
 
-Bu Özellik, Kara araçlarıyla birlikte kullanılmalıdır. Araç, paletler, gelişmiş süspansiyon ve tahrik sistemleri veya güçlü tahrik diferansiyelleri kullanarak elverişsiz, zorlu ve dik arazileri geçebilir.
+Bu Özellik Kara taşıtları ile kullanılmalıdır. Taşıt; paletler, gelişmiş süspansiyon ve sürüş sistemleri veya güçlü diferansiyeller kullanarak misafirperver olmayan, zorlu ve dik arazileri geçebilir.
 
-#### Tünel Kazan
+#### Kazıcı
 
-Araç, yer altında tünel kazmak ve ilerlemek için tasarlanmıştır. Gövde Derecesi x5 metreye eşit maksimum derinliğe ulaşabilir.
+Taşıt, zeminde kazı yapmak ve tünel açmak için tasarlanmıştır. Gövde Derecesi x 5 metreye eşit maksimum derinliğe ulaşabilir.
 
-#### Kamufle Edilmiş
+#### Kamufle
 
-Araç, ortamıyla bütünleşmesini sağlayan kamuflaj boyasına veya mimik sensörlere sahiptir. Aracı görsel olarak tespit etme girişimleri bir derece daha zordur.
+Taşıt, çevresiyle uyum sağlamasına olanak tanıyan kamuflaj boyasına veya taklitçi sensörlere sahiptir. Taşıtı görsel olarak fark etme girişimleri bir derece daha zordur.
 
 #### Kargo
 
-Araç, yolcu yerine kargo taşımak için özel olarak tasarlanmıştır. Yolcu bölmeleri minimumda tutulurken, aracın kullanılabilir alanının geri kalanı uygun bölümler, araçlar ve hatta çevresel koşullandırma (bozulabilir maddeleri taşımak için dondurucu bölümler gibi) ile kargo depolamaya ayrılmıştır. Kargo yüklüyken aracın hızı, gövde boyutunun normalde izin vereceğinden iki adım daha düşüktür.
+Taşıt, yolculardan ziyade özellikle kargo taşımak için tasarlanmıştır. Yolcu bölmeleri minimumda tutulur ve taşıtın geri kalan kullanılabilir alanı; uygun bölümler, araçlar ve hatta çevresel iklimlendirme (bozulabilir ürünleri taşımak için dondurucu bölümler gibi) ile kargo muhafazasına ayrılır. Kargo yüklüyken taşıtın hızı, gövde boyutunun normalde izin vereceğinden iki kademe daha düşüktür.
 
 #### Taşıyıcı
 
-Araç, sivil veya askeri nitelikte daha küçük, az mürettebatlı veya muhtemelen uzaktan kumandalı araçları taşımak için özel olarak tasarlanmıştır. Bu özelliğe sahip herhangi bir aracın en az Devasa olması gerekir. Taşınan küçük araçların sayısı görev tipine ve amacına göre değişebilir, ancak 10'dan aracın Yapı derecesi kadar olabilir.
+Taşıt, sivil veya askeri nitelikte daha küçük, hafif mürettebatlı veya muhtemelen uzaktan kumandalı taşıtları taşımak için özel olarak tasarlanmıştır. Bu özelliğe sahip herhangi bir taşıt en az Muazzam boyutunda olmalıdır. Taşınan küçük araçların sayısı görev türüne ve amacına göre değişebilir, ancak 10'dan taşıtın Yapı puanı kadar bir sayıya kadar çıkabilir.
 
 #### İnşaat
 
-Araç, ağır inşaat işleri için donatılmıştır. Bu özelliğe sahip tüm araçlar, Tüm Arazi özelliğine de sahiptir, ancak hızları gövde boyutlarının normalde izin vereceğinden iki adım daha düşüktür. Araç, vinç bomları, kazıcı kürekler, damperli kamyonlar vb. gibi göreve uygun araçlarla donatılmıştır.
+Taşıt, ağır inşaat işleri için donatılmıştır. Bu özelliğe sahip tüm taşıtlar aynı zamanda Tüm Arazi özelliğine de sahiptir, ancak hızları gövde boyutlarının normalde izin vereceğinden iki kademe daha düşüktür. Taşıt; vinç bomları, kepçe kürekler, damperli arabalar vb. gibi göreve uygun araçlarla donatılmıştır.
 
 #### EMP Dirençli
 
-Araç, elektromanyetik darbe saldırılarına karşı korunmuştur.
+Taşıt, elektromanyetik darbe saldırılarına karşı korunmalıdır.
 
 #### Geliştirilmiş Performans
 
-Aracın Hız derecesi, boyutu için maksimumdan bir adım daha yüksektir.
+Taşıtın Hız derecesi, boyutu için maksimum değerden bir kademe yüksektir.
 
 #### Fırlatma Koltuğu
 
-Acil bir durumda, bir fırlatma koltuğu yolcuları birkaç yüz metre havaya fırlatır, ardından güvenli bir iniş için bir paraşüt açar. Paraşüt isteğe bağlıdır. Helikopterler için önerilmez (Kamov Ka-52 Alligator dikkat çekici bir istisnadır).
+Acil bir durumda, fırlatma koltuğu yolcuları havada birkaç yüz metre ileri fırlatır, ardından güvenli bir iniş için bir paraşüt açılır. Paraşüt isteğe bağlıdır. Helikopterler için önerilmez (Kamov Ka-52 Alligator kayda değer bir istisnadır).
 
-#### Işık Hızından Hızlı (FTL)
+#### IHY (Işık Hızı Üstü)
 
-Sadece Uzay Aracı. Gemi, ışık hızından hızlı bir motorla donatılmıştır (bu bir hiper sürücü, warp sürücü, solucan deliği jeneratörü veya benzeri olabilir). FTL sürücüsünün, bir yıldız gemisinin tek bir parseği (3.26 ışık yılı veya 31 trilyon kilometre veya 19 trilyon mil) geçme oranını esasen ölçen ayrı bir Hız derecesi vardır:
+Sadece Uzay Aracı. Araç, ışıktan hızlı bir motora (hiper sürücü, warp sürücüsü, solucan deliği jeneratörü veya benzeri) sahiptir. IHY sürücüsü, bir yıldız gemisinin tek bir parseki (3,26 ışık yılı veya 31 trilyon kilometre veya 19 trilyon mil) geçme hızını ölçen ayrı bir Hız derecesine sahiptir:
 
-##### FTL Hız Derecesi Tablosu
+##### IHY Hız Derecesi Tablosu 
 
 | Hız Derecesi | 1 Parseki Geçme Faktörü |
 | :-- | :-: |
-| Yavaşlatılmış | 10 |
-| Ağırdan Alan | 8 |
+| Ağır aksak | 10 |
+| Hantal | 8 |
 | Yavaş | 7 |
-| Ortalama | 6 |
-| Sakin | 5 |
-| Orta | 4 |
+| Orta | 6 |
+| Hafif | 5 |
+| İdare eder | 4 |
 | Hızlı | 3 |
 | Çabuk | 2 |
-| Filo | 1 |
+| Çok hızlı | 1 |
 
-Faktör süresi, ayarın FTL gelişiminin ne kadar gelişmiş olduğuna bağlı olarak Oyun Yöneticisi tarafından belirlenir. Örneğin, temel faktör 1 Gün olabilir, bu da Yavaşlatılmış bir FTL sürücüsüne sahip bir geminin yolculuğu tamamlaması 10 gün sürerken, Filo FTL sürücüsüne sahip bir geminin yolculuğu 1 günde tamamladığı anlamına gelir. Başka yerlerde, FTL teknolojisinin önemli ölçüde daha az verimli olduğu durumlarda, faktör süresi günler yerine aylarla ölçülebilir.
+Faktör süresi, ayarın IHY gelişiminin ne kadar ileri olduğuna bağlı olarak Oyun Yöneticisinin karar vereceği bir konudur. Örneğin, temel faktör 1 Gün olabilir; bu, Ağır aksak IHY sürücüsüne sahip bir geminin yolculuğu tamamlamasının 10 gün sürdüğü, Çok hızlı IHY sürücüsüne sahip bir geminin ise yolculuğu 1 günde tamamladığı anlamına gelir. IHY teknolojisinin önemli ölçüde daha az verimli olduğu başka yerlerde, faktör süresi günler yerine aylar olarak ölçülebilir.
 
-Geminin ya dönüş yolculuğu yapacak yakıt rezervlerine sahip olduğu ya da hedef noktada yakıt ikmali yapacak bir araca sahip olduğu varsayılır.
+Geminin ya bir dönüş yolculuğu yapacak yakıt rezervine ya da varış noktasında yakıt ikmali yapacak bir araca sahip olduğu varsayılır.
 
-Yıldız gemisinin herhangi bir boyutunun bir FTL sürücüsü ile donatılabilir olduğu varsayılır, ancak bu yine ayara bağlıdır.
+Ayara bağlı olmakla birlikte, herhangi bir boyuttaki yıldız gemisine IHY sürücüsü takılabileceği varsayılır.
 
-FTL sürücüleri, bir yıldızdan 1.5 Astronomik Birim (yaklaşık 225 milyon kilometre veya 270 milyon mil) içinde etkinleştirilemez. Bu, gemilerin FTL sistemini etkinleştirmeden önce yaklaşık Mars mesafesine kadar hareket etmek için alt ışık sürücüsünü kullanması gerektiği anlamına gelir.
+IHY sürücüleri bir yıldızın 1,5 Astronomik Birim (yaklaşık 225 milyon kilometre veya 270 milyon mil) yakınında etkinleştirilemez. Bu, gemilerin IHY sistemini etkinleştirmeden önce Mars mesafesine kadar hareket etmek için ışık hızı altı bir sürücü kullanmaları gerektiği anlamına gelir.
 
-#### Kara Aracı
+#### Kara Taşıtı
 
-Araç karada seyahat edebilir.
+Taşıt kara yolculuğuna uygundur.
 
-#### Havada Asılı
+#### Havada Asılı Kalma
 
-Araç, ya bir hava yastığı ya da bir yerçekimi önleyici itici kullanarak yerden havada asılı durur.
+Taşıt, hava yastığı veya yerçekimi karşıtı bir itici kullanarak yerden havada asılı kalır.
 
 #### Lüks
 
-Araç, yolcuları belirli bir lüks seviyesinde taşımak için özel olarak tasarlanmıştır. Fazla kargo alanı, lüks yolcu konaklama yerlerine, yüzme havuzlarına, jakuzilere, yolcuların isteklerini yerine getirmek için ekstra mürettebata vb. ayrılmıştır.
+Taşıt, yolcuları belirli bir lüks seviyesinde taşımak için özel olarak tasarlanmıştır. Fazla kargo alanı; lüks yolcu konaklama birimlerine, yüzme havuzlarına, jakuzilere, yolcuların kaprislerini karşılayacak ekstra mürettebata vb. ayrılır.
 
 #### Raylı
 
-Araç, bir ray sistemine dayanır. Bu özelliğe sahip araçlar, doğal olarak gövde boyutlarının normalde izin vereceğinden üç adım daha yüksek bir Hız derecesine ulaşabilir, ancak açıkça yalnızca ray sistemi üzerinde hareketle kısıtlıdır.
-
-#### Dirençli
-
-Tüm sistemler, Boyut tarafından normalde belirlenenin bir vuruş fazlasına dayanabilir. Bu Özellik üst üste eklenebilir — yani Dirençli 2, sistemlerin normalden 2 vuruş daha fazlasına dayanabileceğini, iki Özellik puanı maliyetiyle gösterir.
-
-#### Denizde
-
-Araç su üzerinde yüzer.
-
-#### Uzay Aracı
-
-Araç, vakuma karşı yalıtılmış ve kozmik radyasyona karşı korunmuştur ve tasarıma bağlı olarak atmosferden ayrılıp tekrar girebilir ve atmosfer içinde uçuşu sürdürebilir.
-
-#### Gizlilik
-
-Sadece Uçak. Araç, radar ve diğer uzun menzilli sensör sistemleri tarafından tespit edilmekten kaçınmak için tasarlanmıştır. Elektronik sensörler kullanarak aracı tespit etme girişimleri bir derece daha zordur.
-
-#### Denizaltı
-
-Araç, bir okyanusun yüzeyinin altına, Gövde Derecesi x10 metre çalışma derinliğine kadar dalabilir. Çökme derinliği — denizaltının ezilmeden ulaşabileceği mutlak maksimum — çalışma derinliğinin 1.5 katıdır.
-
-#### Üstün Kullanım
-
-Aracın kullanımı Kolay olarak derecelendirilir.
-
-#### Gözetleme Süiti
-
-Araçta yerleşik bir bilgisayar, iletişim ana istasyonu, dinleme cihazı sinyalleri için bir alıcı ve 100 metre içindeki yakındaki akıllı telefon sinyallerini yakalama aparatı bulunur.
+Taşıt bir ray sistemine dayanır. Bu özelliğe sahip taşıtlar, gövde boyutlarının normalde izin vereceğinden doğal olarak üç kademe daha yüksek bir Hız derecesine ulaşabilirler, ancak bariz bir şekilde sadece ray sistemindeki hareketle sınırlıdırlar.
 
 #### Dayanıklı
 
-Bu özelliğe sahip bir sivil araç, Gövdesini Askeri sütundan alır ve otomatik olarak maksimum Yapı'ya sahiptir. Bu özelliğe sahip bir Askeri araç, Gövdesini ve Yapısını bir sonraki sıradan alır.
+Tüm sistemler Boyut tarafından belirlenenden bir vuruş daha fazla dayanabilir. Bu Özellik istiflenebilir; bu nedenle Dayanıklı 2, sistemlerin iki Özellik puanı karşılığında normalden 2 vuruş daha fazlasına dayanabileceğini gösterir.
 
-#### Traktör Işını
+#### Denizden
 
-Sadece Uzay Aracı. Gemi, kendi gövde derecesinden iki adıma kadar daha küçük gövde derecesine sahip araçları yakalayabilen ve kendine çekebilen bir traktör ışını ile donatılmıştır. Böylece, Çok Büyük bir yıldız gemisi Orta boyuta kadar bir gövdeyi çekip tutabilir.
+Taşıt su üzerinde yüzebilir.
 
-#### VTOL
+#### Uzay Aracı
 
-Dikey kalkış/iniş. Bu özellik, kaldırma kuvveti üretmek için rotor kombinasyonunu kullanan helikopterler ve benzeri araçlar için doğaldır. Sabit kanatlı uçaklara uygulandığında, havada tutum, yükselme ve alçalmayı kontrol etmek için sabit veya hizalanabilir iticilerin kullanımını gösterir.
+Taşıt vakuma karşı sızdırmazdır ve kozmik radyasyona karşı korunmuştur; tasarıma bağlı olarak atmosferi terk edip tekrar girebilir ve atmosfer içinde uçuşu sürdürebilir.
 
-#### Su Aracı
+#### Gizlilik (Stealth)
 
-Araç, mafsallı bacaklar kullanarak kendini hareket ettirir. Yürüteç araçlar, boyutlarına bakılmaksızın Sakin Hızında sınırlıdır. Ancak, Yürüteçler, diğer hareket araçlarıyla donatılmış araçlar için basitçe dengesiz olacak yüksekliklerde inşa edilebilir.
+Sadece Uçak. Taşıt radar ve diğer uzun menzilli sensör sistemleri tarafından tespit edilmekten kaçınacak şekilde tasarlanmıştır. Taşıtı elektronik sensörler kullanarak fark etme girişimleri bir derece daha zordur.
 
-Bu araç, su altı hareketi yapabilir.
+#### Dalgıç
 
-#### Silahlı
+Taşıt, Gövde Derecesi x 10 metre çalışma derinliğine kadar okyanus yüzeyinin altına dalabilir. Çökme derinliği (dalgıcın ezilmeden ulaşabileceği mutlak maksimum) çalışma derinliğinin 1,5 katıdır.
 
-Araç, silahları barındıracak şekilde uyarlanmıştır. Silah sistemleri aşağıda [Silahlar](0006_Vehicles.md?id=weapons) bölümünde tartışılmaktadır.
+#### Üstün Kullanım
+
+Taşıtın kullanımı Kolay olarak derecelendirilir.
+
+#### Gözetim Paketi
+
+Taşıt; yerleşik bir bilgisayara, iletişim baz istasyonuna, dinleme cihazı sinyalleri için bir alıcıya ve 100 metre içindeki yakındaki akıllı telefon sinyallerini yakalayacak bir düzeneğe sahiptir.#### Dayanıklı (Tough)
+
+Bu özelliğe sahip bir sivil araç, Gövde puanını Askeri sütundan alır ve otomatik olarak maksimum Yapıya sahip olur. Bu özelliğe sahip bir Askeri araç ise, Gövde ve Yapı puanlarını bir alt satırdan alır.
+
+#### Çekici Işın (Tractor Beam)
+
+Sadece Uzay Araçları için. Gemi, kendi gövde derecesinden en fazla iki basamak daha düşük olan araçları yakalayıp kendine çekebilen bir çekici ışınla donatılmıştır. Dolayısıyla, Devasa (Huge) bir yıldız gemisi, Orta (Medium) boyuta kadar bir gövdeyi çekebilir ve tutabilir.
+
+#### Dikey İniş/Kalkış (VTOL)
+
+Dikey iniş/kalkış. Bu özellik, kaldırma kuvveti üretmek için rotorların bir kombinasyonunu kullanan helikopterler ve benzeri araçlar için doğaldır. Sabit kanatlı uçaklara uygulandığında, uçuş sırasındaki tavır, tırmanış ve alçalışı kontrol etmek için sabit veya hizalanabilir iticilerin kullanımını belirtir.
+
+#### Yürüyücü (Walker)
+
+Araç, mafsallı bacaklar kullanarak kendini hareket ettirir. Yürüyücü araçların Hızı, Boyutları ne olursa olsun Hafif (Gentle) hızla sınırlıdır. Ancak Yürüyücüler, diğer hareket araçlarıyla donatılmış taşıtlar için dengesiz olacak yüksekliklerde inşa edilebilirler.
+
+#### Sualtı (Waterborne)
+
+Bu araç sualtı hareketine kabiliyetlidir.
+
+#### Silahlandırılmış (Weaponized)
+
+Araç, silah donanımına uyum sağlayacak şekilde uyarlanmıştır. Silah sistemleri aşağıda [Silahlar](0006_Vehicles.md?id=weapons) bölümünde ele alınmıştır.
+
 
 ---
 ## Silahlar
 
-Genellikle, sadece askeri gövdeler silahları barındıracak şekilde tasarlanmıştır (bağlantı noktaları, mühimmat depolama, kontrol sistemleri). "Silahlı" Özelliği, silah gereksinimleri olabilecek sivil araçlar için alınabilir.
+Genellikle sadece askeri gövdeler silah donanımına (sert noktalar, mühimmat depolama, kontrol sistemleri) uyum sağlayacak şekilde tasarlanır. 'Silahlandırılmış' Özelliği, silah gereksinimleri olabilecek sivil araçlar için alınabilir.
 
-Bir aracın destekleyebileceği maksimum silah sistemi sayısı, Yapı Puanlarının 1/10'una eşittir (yani 40 Yapıya sahip bir araç, askeri bir araçsa veya Silahlı bir sivil araçsa 4 silah sistemi destekleyebilir).
+Bir aracın destekleyebileceği maksimum silah sistemi sayısı, Yapı Puanlarının 1/10'una eşittir (yani 40 Yapıya sahip bir araç, eğer askeri bir araçsa veya Silahlandırılmış bir sivil araçsa, 4 silah sistemini destekleyebilir).
 
 Silah sistemleri aracın Boyutuna bağlıdır. Farklı Boyutlar için maksimum silah sistemi türleri aşağıdaki tablolarda gösterilmiştir.
 
-##### Boyuta Göre Silahlar Tablosu
 
-| Boyut | Kara | Uzay Aracı |
+##### Boyuta Göre Silahlar Tablosu 
+
+| Boyut | Karasal | Uzay Aracı |
 | :-- | :-- | :-- |
-| Küçük | Hafif Silah (örn. Saldırı Tüfeği) | Orta Silah (örn. Makineli Tüfek, Roket Atar) |
-| Orta | Orta Silah (örn. Makineli Tüfek, Roket Atar) | Kuleli/Ağır Silah (örn. Ağır Bağlı Makineli Tüfekler, Minigunlar) |
-| Büyük | Kuleli/Ağır Silah (örn. Ağır Bağlı Makineli Tüfekler, Minigunlar) | Silah Bataryası (örn. Savaş Alanı Topçusu) |
-| Çok Büyük | Silah Bataryası (örn. Savaş Alanı Topçusu) | Gelişmiş Silahlar (örn. Füze Sistemleri) |
-| Devasa | Gelişmiş Silahlar (örn. Füze Sistemleri) | Omurga Monteli Silahlar (sadece bir tane) |
-| Muazzam | N/A | Omurga Monteli Silahlar (en fazla 3) |
+| Küçük | Hafif Silah (ör. Piyade Tüfeği) | Orta Silah (ör. Makineli Tüfek, Roketatar) |
+| Orta | Orta Silah (ör. Makineli Tüfek, Roketatar) | Taretli/Ağır Silah (ör. Ağır Bağlantılı Makineli Tüfekler, Mini-Gun) |
+| Büyük | Taretli/Ağır Silah (ör. Ağır Bağlantılı Makineli Tüfekler, Mini-Gun) | Silah Bataryası (ör. Saha Topçusu) |
+| Devasa | Silah Bataryası (ör. Saha Topçusu) | Gelişmiş Silahlar (ör. Füze Sistemleri) |
+| Kocaman | Gelişmiş Silahlar (ör. Füze Sistemleri) | Omurga Montajlı Silahlar (yalnızca bir adet) |
+| Muazzam | NA | Omurga Montajlı Silahlar (en fazla 3 adet) |
 
-##### Örnek Silah İstatistikleri
-
-| Silah | Hasar | Menzil | Atış Hızı | Mühimmat/Yükleme |
+##### Örnek Silah İstatistikleri 
+ 
+| Silah | Hasar | Menzil | Atış Hızı | Mühimmat/Yük |
 | :-- | :-: | :-: | :-: | :-: |
 | 50 inç Top | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
-| Mini-Gun/Gatling Gun | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
+| Mini-Gun/Gatling Silahı | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
 | Roket | 5d6 | 5000/20km/60km | 1 | 1/5 |
-| Orta Füze/Torpid | 6d10 | Maks menzil 200km | 1 | 1/5 |
-| Büyük/Seyir Füzesi | 6d10+10 | Maks menzil 1000km | 1 | 1/10 |
+| Orta Füze/Torpido | 6d10 | 200km maksimum menzil | 1 | 1/5 |
+| Büyük/Seyir Füzesi | 6d10+10 | 1000km maksimum menzil | 1 | 1/10 |
 | Lazer/Plazma Topu | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
 | Ağır Lazer/Plazma Topu | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Topçu Bataryası | 5d6+6 | Maks menzil 50km | 1 | 1/5 |
-| Omurga Monteli Batarya | 10d6+6 | Maks menzil 20000km | 1 | 1/10 |
+| Topçu Bataryası | 5d6+6 | 50km maksimum menzil | 1 | 1/5 |
+| Omurga Montaj Bataryası | 10d6+6 | 20000km maksimum menzil | 1 | 1/10 |
 
-_Menziller metre ve kilometre olarak verilmiştir._
+_Menziller metre ve kilometre cinsinden verilmiştir._
 
 _Atış hızları tek atış, yarı otomatik ve tam otomatik içindir._
 
-_Mühimmat, yeniden yüklenmesi gerekmeden önceki atış kapasitesidir. Yükleme, tam mürettebatın mevcut olduğu varsayıldığında Savaş Turları cinsinden yeniden yükleme süresidir._
+_Mühimmat, yeniden doldurulması gerekmeden önceki ateşleme kapasitesidir. Yük, tam bir mürettebatın mevcut olduğu varsayılarak Çatışma Turu cinsinden yeniden doldurma süresidir._
 
 ---
-## Kullanım ve Manevralar
+## Kontrol ve Manevralar
 
-Kaçış veya ani manevralar, sürücü veya pilotun aracın kontrolünü sağlamasını temin etmek için başarılı bir Sürüş/Pilotaj zarı gerektirir. Çoğu araç, ara sıra stres ve gerilime dayanacak şekilde tasarlanmış ve üretilmiştir, ancak Oyun Yöneticisi, manevranın ne kadar iddialı olduğuna bağlı olarak belirli bir manevranın daha yüksek bir zorluk derecesinde bir zar gerektirdiğine karar verebilir. Başarısızlık, aracın kontrolünün kaybedilmesi anlamına gelir: Kontrol Kaybı tablosuna bakın.
+Kaçınma veya ani manevralar, sürücü veya pilotun aracın kontrolünü elinde tutmasını sağlamak için başarılı bir Sürüş/Pilotaj zarı gerektirir. Çoğu araç ara sıra oluşan gerilmelere ve zorlanmalara dayanacak şekilde tasarlanıp inşa edilmiştir, ancak Oyun Yöneticisi, ne kadar iddialı olduğuna bağlı olarak belirli bir manevranın daha yüksek zorluk derecesinde bir zar gerektirdiğine karar verebilir. Başarısızlık, aracın kontrolünün kaybedilmesi anlamına gelir: Kontrol Kaybı tablosunda zar atın.
 
-Kontrol Kaybı Tablosunun sadece kara araçları için geçerli olduğunu unutmayın. Benzer etkiler hava ve uzay araçları için de uygulanabilir, ancak Oyun Yöneticilerinin belirli etki için gerekçeyi ayarlamaları gerekecektir. Örneğin, bir uçak, kaymak yerine spin atabilir.
+Kontrol Kaybı Tablosunun sadece karasal araçlar için geçerli olduğunu unutmayın. Benzer etkiler hava ve uzay araçlarına da uygulanabilir, ancak Oyun Yöneticilerinin belirli bir etki için mantığı ayarlaması gerekecektir. Örneğin, bir hava aracı kaymak yerine spin (burgu) hareketine girebilir.
 
-Ayrıca, bir aracın doğal kullanımının Sürüş zarı üzerinde ek bir etkisi olabilir. Kullanım ya Kolay, Standart, Zor, Müthiş veya Herkülvarı'dır ve bir manevra gerçekleştirirken Sürüş zarı için başlangıç noktasını belirler. Manevra için zorluk derecesi daha sonra nihai zorluğu belirlemek için kullanıma uygulanır.
+Ayrıca, bir aracın doğal kontrol kabiliyeti, Sürüş zarı üzerinde ek bir etkiye sahip olabilir. Kontrol kabiliyeti Kolay, Standart, Zor, Müthiş veya Herkülvari şeklindedir ve bir manevra gerçekleştirilirken Sürüş zarı için başlangıç noktasını belirler. Manevranın zorluk derecesi daha sonra nihai zorluğu belirlemek için kontrol kabiliyetine uygulanır.
 
-Örneğin, yüksek performanslı bir motosiklet, Kolay kullanım sağlayan yerleşik jiroskop dengeleyicilere sahiptir. Sürücü, bir takipçiden kaçmak için 180 derecelik bir kayma dönüşü yapmak istiyor, Oyun Yöneticisi bu manevrayı bir ek zorluk derecesinde derecelendiriyor. Bu nedenle sürücünün Sürüş zarını Kolay yerine Standart olarak yapması gerekir. Aynı manevrayı stabilize edilmemiş bir motosiklette yapmaya çalışsaydı, Sürüş zarı Zor olurdu.
+Örneğin, yüksek performanslı bir motosiklet, ona Kolay bir Kontrol Kabiliyeti veren yerleşik jiroskopik dengeleyicilere sahiptir. Sürücü, bir takipçiden kaçmak için 180 derecelik bir yan kayma dönüşü yapmak ister; bu, Oyun Yöneticisinin bir zorluk derecesi daha yüksek olarak derecelendirdiği bir manevradır. Bu nedenle sürücü, Sürüş zarını Kolay yerine Standart seviyede yapmalıdır. Eğer aynı manevrayı dengelenmemiş bir motosiklette deneseydi, Sürüş zarı Zor seviyede olurdu.
 
-Üstün Kullanım bir Özelliktir. Bir araç, açıklamasının bir parçası olarak bu özelliğe sahip değilse, Büyük ve altındaki herhangi bir araç için varsayılan Standart kullanımdır. Çok Büyük ve Devasa araçlar doğal olarak Müthiş ve Herkülvarı Kullanım özelliğine sahiptir ve Oyun Yöneticisi, aracın boyutu nedeniyle belirli manevraların basitçe imkansız olduğuna karar verme özgürlüğüne sahiptir.
+Üstün Kontrol Kabiliyeti bir Özelliktir. Bir araç, açıklamasının bir parçası olarak bu özelliğe sahip değilse, Büyük ve altındaki boyuttaki tüm araçlar için varsayılan, Standart kontrol kabiliyetidir. Devasa ve Kocaman araçlar doğal olarak sırasıyla Müthiş ve Herkülvari Kontrol Kabiliyeti özelliğine sahiptir ve Oyun Yöneticisi, aracın boyutu nedeniyle bazı manevraların gerçekleştirilmesinin imkansız olduğuna karar vermekte özgürdür.
 
-##### Kontrol Kaybı Tablosu
+##### Kontrol Kaybı Tablosu 
 
 | 1d100 | Sonuç |
 | :-: | :-- |
-| 01-25 | Savrulma. Kontrol kaybı geçicidir. Araç hızı 5 saniye boyunca 1 adım düşer. |
-| 26-40 | Kayma. Sürücü aracı kontrol altında tutmak için savaşmalıdır. Araç hızı 10 saniye boyunca 2 adım düşer. |
-| 41-50 | Şiddetli Kayma. Araç yanlış yöne döner ve 15 saniye boyunca durur. |
-| 51-60 | Yuvarlanma. Araç kayar ve yuvarlanır, Yapı'sına 3d10 hasar verir. Yolcular başarılı Dayanıklılık zarları yapmalı veya 1d3 Vurulan Yerlerine 1d10 hasar almalıdır. |
-| 61-70 | Şiddetli Yuvarlanma. Yukarıdaki gibi, ancak araç 3d10+10 hasar alır ve Yolcular Dayanıklılık zarı başarılı olsa bile 1d10 hasar, başarısız olursa 2d10 hasar alır. |
-| 71-80 | Hurdaya Çıkma. Yukarıdaki gibi, ancak araç 0 Yapı'ya düşer. Yolcular Şiddetli Yuvarlanma ile aynı hasarı alır. |
-| 81-90 | Patlama. Yukarıdaki gibi, ancak aracın yakıt sistemi 1d20+10 saniye içinde alev alır ve patlar. Uzaklaşamazlarsa, yolcular 1d6 yerlerine ek 1d6 yanık hasarı alır. |
-| 91-98 | Anında Patlama. Yukarıdaki gibi, ancak patlama anında gerçekleşir. |
-| 99-00 | Felaketle Sonuçlanan Kaza. Yolcular başarılı Dayanıklılık zarı yapmalı veya anında ölmelidir. Hurdaya Çıkma ile aynı hasar alınır. |
+| 01-25 | Savrulma. Kontrol kaybı geçicidir. Araç hızını 5 saniyeliğine 1 kademe düşürür. |
+| 26-40 | Kayma. Sürücü aracı kontrol altında tutmak için çabalamalıdır. Araç hızını 10 saniyeliğine 2 kademe düşürür. |
+| 41-50 | Şiddetli Kayma. Araç yanlış yöne bakacak şekilde 15 saniyeliğine durur. |
+| 51-60 | Takla. Araç kayar ve takla atar, Yapısına 3d10 hasar verir. İçindekiler başarılı bir Dayanıklılık (DAY) zarı atmalıdır, aksi takdirde 1d3 İsabet Bölgesine 1d10 hasar alırlar. |
+| 61-70 | Şiddetli Takla. Yukarıdaki gibi, ancak araç 3d10+10 hasar alır ve içindekiler Dayanıklılık zarı başarılı olsa bile 1d10, başarısız olursa 2d10 hasar alır. |
+| 71-80 | Pert. Yukarıdaki gibi ancak araç 0 Yapıya düşer. İçindekiler Şiddetli Takla ile aynı hasarı alır. |
+| 81-90 | Patlama. Yukarıdaki gibi ancak aracın yakıt sistemi tutuşur ve 1d20+10 saniye içinde patlar. Eğer araçtan uzaklaşamazlarsa, içindekiler 1d6 bölgeye fazladan 1d6 yanma hasarı alır. |
+| 91-98 | Ani Patlama. Yukarıdaki gibi ancak patlama anidir. |
+| 99-00 | Felaketle Sonuçlanan Kaza. İçindekiler başarılı bir Dayanıklılık zarı atmalıdır, aksi takdirde anında ölürler. Pert durumundaki hasar ne olursa olsun alınır. |
+
 
 ---
 ## Örnek Araçlar
@@ -420,9 +431,9 @@ Ayrıca, bir aracın doğal kullanımının Sürüş zarı üzerinde ek bir etki
 
 ### Kara Araçları
 
-#### Önleyici
+#### Önleyici (Interceptor)
 
-Hızlandırılmış bir lüks otomobil, spor otomobil veya benzeri bir araç olan bu otomobil, hızlı gitmek ve bir savaşta karşılık vermek için yapılmıştır. İnsanların "casus arabası" dediğinde düşündükleri türden bir araçtır.
+Modifiye edilmiş bir lüks araba, spor araba veya benzeri olan bu araç, hızlı gitmek ve bir çatışmada aldığı kadarını geri vermek için üretilmiştir. Bu, birisi "casus arabası" dediğinde insanların aklına gelen araç türüdür.
 
 | Önleyici | |
 | :- | :- |
@@ -431,9 +442,9 @@ Hızlandırılmış bir lüks otomobil, spor otomobil veya benzeri bir araç ola
 | **Yapı** | 40 |
 | **Sistemler** | 2 |
 | **Hız** | Hızlı |
-| **Kullanım** | Kolay |
-| **Özellikler** | [Fırlatma Koltuğu](0006_Vehicles.md?id=ejector-seat), [Geliştirilmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Üstün Kullanım](0006_Vehicles.md?id=superior-handling), [Gözetleme Süiti](0006_Vehicles.md?id=surveillance-suite), [Silahlı](0006_Vehicles.md?id=weaponized) |
-| **Silahlar** | Yağ Sıyırıcı Dağıtıcı, Duman Dağıtıcı, Çift Bağlı Orta Makineli Tüfekler (2d6+3) |
+| **Kontrol** | Kolay |
+| **Özellikler** | [Fırlatma Koltuğu](0006_Vehicles.md?id=ejector-seat), [Gelişmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Üstün Kontrol](0006_Vehicles.md?id=superior-handling), [Gözetleme Paketi](0006_Vehicles.md?id=surveillance-suite), [Silahlandırılmış](0006_Vehicles.md?id=weaponized) |
+| **Silahlar** | Yağ İzi Püskürtücü, Sis Püskürtücü, İkiz Bağlantılı Orta Makineli Tüfekler (2d6+3) |
 
 <br>
 
@@ -441,7 +452,7 @@ Hızlandırılmış bir lüks otomobil, spor otomobil veya benzeri bir araç ola
 
 #### Takip Motosikleti
 
-Hızlı takipler için hafif, hızlı bir motosiklet olan Takip Motosikleti bir sürpriz taşır – ya bir çift bağlı makineli tüfek ya da iki roket.
+Hızlı takipler için hafif, hızlı bir motosiklet olan Takip Motosikleti bir sürpriz taşır; ya bir çift bağlantılı makineli tüfek ya da iki roket.
 
 | Takip Motosikleti | |
 | :- | :- |
@@ -450,9 +461,9 @@ Hızlı takipler için hafif, hızlı bir motosiklet olan Takip Motosikleti bir 
 | **Yapı** | 12 |
 | **Sistemler** | 1 |
 | **Hız** | Hızlı |
-| **Kullanım** | Kolay |
-| **Özellikler** | [Üstün Kullanım](0006_Vehicles.md?id=superior-handling), [Silahlı](0006_Vehicles.md?id=weaponized) |
-| **Silahlar** | İki Roket (4d6) veya Çift Bağlı Hafif Makineli Tüfekler (2d6) |
+| **Kontrol** | Kolay |
+| **Özellikler** | [Üstün Kontrol](0006_Vehicles.md?id=superior-handling), [Silahlandırılmış](0006_Vehicles.md?id=weaponized) |
+| **Silahlar** | İki Roket (4d6) veya İkiz bağlantılı Hafif Makineli Tüfekler (2d6) |
 
 <br>
 
@@ -460,7 +471,7 @@ Hızlı takipler için hafif, hızlı bir motosiklet olan Takip Motosikleti bir 
 
 #### Sedan Araba
 
-Rahatça bir sürücü ve üç yolcu oturtacak kadar alana sahip standart 4 kapılı bir sedan. Gözetleme süiti içermek için kargo alanından fedakarlık eder.
+Bir sürücü ve üç yolcuyu rahatça oturtacak alana sahip standart 4 kapılı bir sedan. Gözetleme paketini dahil etmek için kargo alanından fedakarlık eder.
 
 | Sedan Araba | |
 | :- | :- |
@@ -468,47 +479,47 @@ Rahatça bir sürücü ve üç yolcu oturtacak kadar alana sahip standart 4 kap�
 | **Gövde** | 4 |
 | **Yapı** | 25 |
 | **Sistemler** | 2 |
-| **Hız** | Hızlı |
-| **Kullanım** | Standart |
-| **Özellikler** | [Göze Batmayan](0006_Vehicles.md?id=unobtrusive), [Gözetleme Süiti](0006_Vehicles.md?id=surveillance-suite) |
+| **Hız** | Seri |
+| **Kontrol** | Standart |
+| **Özellikler** | [Göze Çarpmayan](0006_Vehicles.md?id=unobtrusive), [Gözetleme Paketi](0006_Vehicles.md?id=surveillance-suite) |
 | **Silahlar** | Yok |
 
 <br>
 
 ---
 
-#### Denizaltı Araba
+#### Dalgıç Araba
 
-Su üzerinde veya altında seyahat etmek için su aracı veya denizaltı moduna geçebilen iki kişilik bir araba. Öne monte edilmiş bir torpidosu ve üste monte edilmiş bir karadan havaya füzesi vardır.
+Su üzerinde veya su altında seyahat etmek için sualtı veya dalgıç moduna geçebilen iki kişilik bir araba. Öne monte edilmiş bir torpido ve üste monte edilmiş bir karadan havaya füzeyle gelir.
 
-| Denizaltı Araba | |
+| Dalgıç Araba | |
 | :- | :- |
 | **Boyut / Tip** | Orta Sivil |
 | **Gövde** | 6 |
 | **Yapı** | 25 |
 | **Sistemler** | 2 |
 | **Hız** | Hızlı |
-| **Kullanım** | Standart |
-| **Özellikler** | [Geliştirilmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Denizaltı](0006_Vehicles.md?id=submersible), [Su Aracı](0006_Vehicles.md?id=waterborne), [Silahlı](0006_Vehicles.md?id=weaponized) |
+| **Kontrol** | Standart |
+| **Özellikler** | [Gelişmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Dalgıç](0006_Vehicles.md?id=submersible), [Sualtı](0006_Vehicles.md?id=waterborne), [Silahlandırılmış](0006_Vehicles.md?id=weaponized) |
 | **Silahlar** | Roket (5d6), Torpido (4d10) |
 
 <br>
 
 ---
 
-#### Gözetleme Vanı
+#### Gözetleme Minibüsü
 
-Bir ekip ajan ve bir dizi görsel-işitsel kayıt ekipmanı barındıran düz, işaretsiz bir van.
+Bir grup ajana ve sesli-görüntülü kayıt ekipmanına ev sahipliği yapan sade, işaretsiz bir minibüs.
 
-| Gözetleme Vanı | |
+| Gözetleme Minibüsü | |
 | :- | :- |
 | **Boyut / Tip** | Büyük Sivil |
 | **Gövde** | 9 |
 | **Yapı** | 60 |
 | **Sistemler** | 3 |
-| **Hız** | Sakin |
-| **Kullanım** | Standart |
-| **Özellikler** | [Gözetleme Süiti](0006_Vehicles.md?id=surveillance-suite), [Dayanıklı](0006_Vehicles.md?id=tough) |
+| **Hız** | Hafif |
+| **Kontrol** | Standart |
+| **Özellikler** | [Gözetleme Paketi](0006_Vehicles.md?id=surveillance-suite), [Dayanıklı](0006_Vehicles.md?id=tough) |
 | **Silahlar** | Yok |
 
 <br>
@@ -517,7 +528,7 @@ Bir ekip ajan ve bir dizi görsel-işitsel kayıt ekipmanı barındıran düz, i
 
 #### Taktik Destek Aracı
 
-Kabinde iki kişilik mürettebat için yer ve döner monteli bir Orta Makineli Tüfek kullanan düz yataklı bölümde ayakta duran bir nişancı için yer bulunan bir pikap veya cip.
+Kabininde iki kişilik mürettebat için yeri olan ve kasa kısmında duran bir nişancının döner montajlı Orta Makineli Tüfeği kullandığı bir kamyonet veya cip.
 
 | Taktik Destek Aracı | |
 | :- | :- |
@@ -525,20 +536,21 @@ Kabinde iki kişilik mürettebat için yer ve döner monteli bir Orta Makineli T
 | **Gövde** | 6 |
 | **Yapı** | 30 |
 | **Sistemler** | 2 |
-| **Hız** | Hızlı |
-| **Kullanım** | Standart |
-| **Özellikler** | [Tüm Arazi](0006_Vehicles.md?id=all-terrain), [Silahlı](0006_Vehicles.md?id=weaponized) |
-| **Silahlar** | Monte Edilmiş Orta Makineli Tüfek (2d6) |
+| **Hız** | Seri |
+| **Kontrol** | Standart |
+| **Özellikler** | [Her Arazi](0006_Vehicles.md?id=all-terrain), [Silahlandırılmış](0006_Vehicles.md?id=weaponized) |
+| **Silahlar** | Monteli Orta Makineli Tüfek (2d6) |
+
 
 <br>
 
 ---
 
-### Su Araçları
+### Deniz Taşıtları
 
 #### Sürat Teknesi
 
-Arka tarafına monte edilmiş mayın dağıtıcısı olan tipik bir sürat teknesi.
+Arkaya monte edilmiş bir mayın dağıtıcısı ile donatılmış tipik bir sürat teknesi.
 
 | Sürat Teknesi | |
 | :- | :- |
@@ -547,9 +559,9 @@ Arka tarafına monte edilmiş mayın dağıtıcısı olan tipik bir sürat tekne
 | **Yapı** | 24 |
 | **Sistemler** | 2 |
 | **Hız** | Hızlı |
-| **Kullanım** | Standart |
-| **Özellikler** | [Geliştirilmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Su Aracı](0006_Vehicles.md?id=waterborne), [Silahlı](0006_Vehicles.md?id=weaponized) |
-| **Silahlar** | Mayın Dağıtıcısı (5d6) |
+| **Kontrol** | Standart |
+| **Özellikler** | [Gelişmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Sualtı](0006_Vehicles.md?id=waterborne), [Silahlandırılmış](0006_Vehicles.md?id=weaponized) |
+| **Silahlar** | Mayın Dağıtıcı (5d6) |
 
 <br>
 
@@ -557,38 +569,39 @@ Arka tarafına monte edilmiş mayın dağıtıcısı olan tipik bir sürat tekne
 
 #### Yat
 
-Bir oligarkın sahip olabileceği türden lüks bir yat. Düşmanların kötü niyetli girişimlerine karşı korunmak için muhtemelen bir gözetleme süiti ile donatılmıştır.
+Bir oligarkın sahip olabileceği türden lüks bir yat. Kötü niyetli düşmanlara karşı korunmak için bir gözetleme paketiyle donatılmış olması muhtemeldir.
 
 | Yat | |
 | :- | :- |
-| **Boyut / Tip** | Çok Büyük Sivil |
+| **Boyut / Tip** | Devasa Sivil |
 | **Gövde** | 10 |
 | **Yapı** | 75 |
 | **Sistemler** | 4 |
 | **Hız** | Yavaş |
-| **Kullanım** | Müthiş |
-| **Özellikler** | [Lüks](0006_Vehicles.md?id=luxurious), [Gözetleme Süiti](0006_Vehicles.md?id=surveillance-suite), [Su Aracı](0006_Vehicles.md?id=waterborne) |
+| **Kontrol** | Müthiş |
+| **Özellikler** | [Lüks](0006_Vehicles.md?id=luxurious), [Gözetleme Paketi](0006_Vehicles.md?id=surveillance-suite), [Sualtı](0006_Vehicles.md?id=waterborne) |
 | **Silahlar** | Yok |
+
 
 <br>
 
 ---
 
-### Hava Aracı/Uzay Aracı
+### Hava/Uzay Araçları
 
-#### Zeplin (Sivil Hava Gemisi Hattı)
+#### Zeplin (Sivil Hava Gemisi)
 
-Hindenburg'a benzer şekilde, bu kıtalararası zeplin sınıfı (ve kendi sınıfındaki diğerleri) 245 metre uzunluğunda olup 40 ila 61 kişilik bir mürettebat gerektirir. Tipik olarak lüks konaklama yerlerinde 50 ila 72 yolcu taşıyabilir.
+Hindenburg'a benzer şekilde, bu kıtalararası zeplin sınıfı (ve diğerleri) 245 metre uzunluğundadır ve 40 ila 61 kişilik bir mürettebat gerektirir. Tipik olarak lüks konaklama birimlerinde 50 ila 72 yolcu taşıyabilir.
 
 | Zeplin | |
 | :- | :- |
-| **Boyut / Tip** | Devasa Sivil |
+| **Boyut / Tip** | Kocaman Sivil |
 | **Gövde** | 10 |
 | **Yapı** | 85 |
 | **Sistemler** | 5 |
-| **Hız** | Yavaşlatılmış |
-| **Kullanım** | Herkülvarı |
-| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Lüks](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Hız** | Hantal |
+| **Kontrol** | Herkülvari |
+| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Lüks](0006_Vehicles.md?id=luxurious), [Dikey İniş/Kalkış](0006_Vehicles.md?id=vtol) |
 | **Kalkanlar** | Yok |
 | **Silahlar** | Yok |
 
@@ -596,80 +609,81 @@ Hindenburg'a benzer şekilde, bu kıtalararası zeplin sınıfı (ve kendi sın�
 
 ---
 
-#### Taarruz Helikopteri
+#### Saldırı Helikopteri
 
-Geleneksel Taarruz Helikopteri, gelişmiş gözetleme teknolojilerini kullanarak telefon ve kablosuz internet sinyallerini yakalar ve FLIR aracılığıyla karanlıkta bile bireyleri ve araçları takip eder. Gizlilik yoluyla takipçiden kaçma girişimleri Müthiş'tir.
+Geleneksel Saldırı Helikopteri, telefon ve kablosuz internet sinyallerini kesmek ve FLIR aracılığıyla karanlıkta bile bireyleri ve araçları takip etmek için gelişmiş gözetleme teknolojisini kullanır. Takipçiden Gizlilik yoluyla kaçınma girişimleri Müthiş zorluktadır.
 
-| Taarruz Helikopteri | |
+| Saldırı Helikopteri | |
 | :- | :- |
 | **Boyut / Tip** | Büyük Askeri |
 | **Gövde** | 11 |
 | **Yapı** | 50 |
 | **Sistemler** | 3 |
 | **Hız** | Orta |
-| **Kullanım** | Kolay |
-| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Geliştirilmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Gizlilik](0006_Vehicles.md?id=stealth), [Üstün Kullanım](0006_Vehicles.md?id=superior-handling), [Gözetleme Süiti](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Kontrol** | Kolay |
+| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Gelişmiş Performans](0006_Vehicles.md?id=enhanced-performance), [Gizlilik](0006_Vehicles.md?id=stealth), [Üstün Kontrol](0006_Vehicles.md?id=superior-handling), [Gözetleme Paketi](0006_Vehicles.md?id=surveillance-suite), [Dikey İniş/Kalkış](0006_Vehicles.md?id=vtol) |
 | **Kalkanlar** | Yok |
-| **Silahlar** | 1 Gatling Topu (3d6), 4 Roket (5d6) |
+| **Silahlar** | 1 Gatling Silahı (3d6), 4 Roket (5d6) |
 
 <br>
 
 ---
 
-#### Çok Amaçlı Savaş Uçağı
+#### Çok Amaçlı Avcı Uçağı
 
-Bu çift koltuklu kara tabanlı savaş uçağı (De Havilland Mosquito tipine benzer), performansı ve çok yönlülüğü ile iyi bilinir. Bomba bölmesi ya iki adet 250 lb'lik bomba (menzili 0 olan orta menzilli füzeler olarak değerlendirilir) ya da tek bir torpido taşıyabilir.
+Bu çift koltuklu kara tabanlı avcı uçağı (tip olarak De Havilland Mosquito'ya benzer), performansı ve çok yönlülüğü ile iyi bilinir. Bomba bölmesi, iki adet 250 lb.'lik bomba (0 menzilli orta füzeler olarak değerlendirin) veya tek bir torpido taşıyabilir.
 
-| Çok Amaçlı Savaş Uçağı | |
+| Çok Amaçlı Avcı Uçağı | |
 | :- | :- |
 | **Boyut / Tip** | Büyük Askeri |
 | **Gövde** | 10 |
 | **Yapı** | 45 |
 | **Sistemler** | 3 |
 | **Hız** | Orta |
-| **Kullanım** | Standart |
-| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Geliştirilmiş Performans](0006_Vehicles.md?id=enhanced-performance) |
+| **Kontrol** | Standart |
+| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Gelişmiş Performans](0006_Vehicles.md?id=enhanced-performance) |
 | **Kalkanlar** | Yok |
-| **Silahlar** | 4 Burun Monteli Gatling Topu (4d6+3), 1 bomba bölmesi (6d10 - açıklamaya bakın) |
+| **Silahlar** | 4 Buruna monte Gatling Silahı (4d6+3), 1 bomba bölmesi (6d10 - açıklamaya bakın) |
 
 <br>
 
 ---
 
-#### Yıldızlararası Kargo Gemisi (Hafif Yüksek Teknolojili Nakliye)
+#### Yıldızlararası Yük Gemisi (Hafif Yüksek Teknoloji Taşıyıcı)
 
-Bu hafif nakliye aracı minimum iki kişilik mürettebat gerektirir, ayrıca dört ek yolcu için yer vardır. Standart seri üretim versiyonu burada belirtilmiştir, ancak birçok sahip gizli kargo alanı, Geliştirilmiş Performans, Üstün Kullanım, EMP Direnci, Gizlilik vb. gibi kendi "özel modifikasyonlarını" uygulayacaktır.
+Bu hafif taşıyıcı, en az iki kişilik bir mürettebat gerektirir ve dört ek yolcuya kadar yer vardır. Standart stok versiyonu burada belirtilmiştir, ancak birçok sahip, gizli kargo alanı, Gelişmiş Performans, Üstün Kontrol, EMP Direnci, Gizlilik vb. gibi kendi "özel modifikasyonlarını" uygulayacaktır.
 
-| Yıldızlararası Kargo Gemisi | |
+| Yıldızlararası Yük Gemisi | |
 | :- | :- |
-| **Boyut / Tip** | Orta Sivil Uzay Gemisi |
+| **Boyut / Tip** | Orta Sivil Uzay Aracı |
 | **Gövde** | 10 |
 | **Yapı** | 80 |
 | **Sistemler** | 2 |
-| **Hız** | Hızlı (Parsek Faktörü 3) |
-| **Kullanım** | Standart |
-| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Kargo](0006_Vehicles.md?id=cargo), [Işık Hızından Hızlı](0006_Vehicles.md?id=ftl), [Uzay Aracı](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Hız** | Seri (3 Parsek Faktörü) |
+| **Kontrol** | Standart |
+| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Kargo](0006_Vehicles.md?id=cargo), [Işık Hızı](0006_Vehicles.md?id=ftl), [Uzay Aracı](0006_Vehicles.md?id=spacecraft), [Dikey İniş/Kalkış](0006_Vehicles.md?id=vtol) |
 | **Kalkanlar** | 8 |
-| **Silahlar** | 2x Dörtlü Monte Lazer Topu Taretleri (5d6) |
+| **Silahlar** | 2x Dörtlü monte Lazer Topu Tareti (5d6) |
+
 
 <br>
 
 ---
 
-#### Genel Temas Birimi (Ultra Yüksek Teknolojili Uzay Aracı)
+#### Genel İletişim Birimi (Ultra Yüksek Teknoloji Uzay Aracı)
 
-Bu aşırı yüksek teknolojili yıldız gemisi, iki kilometre uzunluğunda, alanla bağlantılı bir modül serisi şeklinde bir araya gelen oldukça gelişmiş bir yapay Zihin'in fiziksel temsilidir. Modüller ayrı ayrı amaçlanmıştır ve yaşam alanları, inşaat tesisleri, kargo alanları, gıda işleme, eğlence kompleksleri, hangar bölmeleri ve hatta geminin zekasının nadiren, hatta hiç tartışmadığı bazı gizli birimleri içerir. İnsan mürettebata ihtiyaç duymaz, ancak 100.000'e kadar yolcu nüfusunu kolayca destekleyebilir. Birçok yolcu Temas Birimi'nde doğar ve ölür: çoğu geçicidir, istedikleri gibi gelip giderler.
+Bu son derece yüksek teknolojili yıldız gemisi, iki kilometre uzunluğunda bir dizi alan bağlantılı modül şeklinde olan, oldukça gelişmiş bir yapay Zihnin fiziksel temsilidir. Modüller ayrı ayrı amaçlara hizmet eder ve yaşam alanları, inşaat tesisleri, kargo alanları, gıda işleme, eğlence kompleksleri, hangar bölmeleri ve hatta gemi zekasının nadiren veya hiç tartışmadığı bazı gizli birimleri içerir. İnsan mürettebata ihtiyacı yoktur, ancak 100.000'e kadar yolcu nüfusunu kolaylıkla destekleyebilir. Birçok yolcu İletişim Biriminde doğar ve ölür: birçoğu geçicidir, diledikleri gibi gelir ve giderler.
 
-| Genel Temas Birimi | |
+| Genel İletişim Birimi | |
 | :- | :- |
-| **Boyut / Tip** | Muazzam Sivil Uzay Gemisi |
+| **Boyut / Tip** | Muazzam Sivil Uzay Aracı |
 | **Gövde** | 20 |
-| **Yapı** | 10.000 |
+| **Yapı** | 10,000 |
 | **Sistemler** | 6 |
-| **Hız** | Orta (Parsek Faktörü 4. Bu teknoloji seviyesinde, bir Faktör 1 saate eşittir) |
-| **Kullanım** | Müthiş |
-| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Kargo](0006_Vehicles.md?id=cargo), [Taşıyıcı](0006_Vehicles.md?id=carrier), [İnşaat](0006_Vehicles.md?id=construction), [Işık Hızından Hızlı](0006_Vehicles.md?id=ftl), [Lüks](0006_Vehicles.md?id=luxurious), [Uzay Aracı](0006_Vehicles.md?id=space-craft), [Üstün Kullanım](0006_Vehicles.md?id=superior-handling), [Traktör Işını](0006_Vehicles.md?id=tractor-beam) |
+| **Hız** | Orta (4 Parsek Faktörü. Bu teknoloji seviyesinde, bir Faktör 1 saate eşittir) |
+| **Kontrol** | Müthiş |
+| **Özellikler** | [Havada](0006_Vehicles.md?id=airborne), [Kargo](0006_Vehicles.md?id=cargo), [Taşıyıcı](0006_Vehicles.md?id=carrier), [İnşaat](0006_Vehicles.md?id=construction), [Işık Hızı](0006_Vehicles.md?id=ftl), [Lüks](0006_Vehicles.md?id=luxurious), [Uzay Aracı](0006_Vehicles.md?id=spacecraft), [Üstün Kontrol](0006_Vehicles.md?id=superior-handling), [Çekici Işın](0006_Vehicles.md?id=tractor-beam) |
 | **Kalkanlar** | 30 |
-| **Silahlar** | Tartışmayı umursadıkları yok |
+| **Silahlar** | Tartışmak istediği bir silahı yok |
 
 <br>

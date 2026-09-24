@@ -1,418 +1,423 @@
 # Vozila
 
-Vozila v _Mythras Imperative_ so obravnavana na pol abstrakten način. V bistvu so orodja v ozadju, ki se uporabljajo za prevoz likov od A do B, z malo potrebe po podrobnem opisu ali statistiki. Občasno pa bodo Mojstri igre potrebovali podrobnosti o vozilih, ko je to potrebno za njihovo predstavitev v zasledovanjih ali bojnih situacijah.
+Vozila v _Mythras Imperative_ so obravnavana na pol-abstrakten način. V bistvu so to orodja v ozadju, ki se uporabljajo za prevoz likov od točke A do točke B, z malo potrebe po podrobnem opisu ali statistikah. Občasno pa bodo mojstri iger (Games Masters) potrebovali podrobnosti o vozilih, kadar jih je treba predstaviti v zasledovanjih ali bojnih situacijah.
 
-Pravila v tem razdelku omogočajo predstavitev večine vrst vozil, vendar na abstrakten način, ki je namenjen omogočanju fleksibilnosti in izboljšanju pripovedovanja zgodb. Zvezdne ladje in vesoljska plovila so nekoliko drugačna, čeprav temeljijo na podobnih načelih.
+Pravila v tem razdelku omogočajo predstavitev večine vrst vozil, vendar na abstrakten način, ki naj bi omogočil prilagodljivost in izboljšal pripovedovanje zgodb. Vesoljske ladje in plovila so nekoliko drugačna, čeprav temeljijo na podobnih načelih.
 
 ---
 ## Statistika
 
-Vsa vozila so opisana z njihovo Strukturo, Ohišjem, Hitrostjo, Sistemi, Lastnostmi in Ščiti (če so prisotni v okolju).
+Vsa vozila so opisana glede na svojo Strukturo, Trup, Hitrost, Sisteme, Lastnosti in Ščite (če so prisotni v okolju).
 
-- **[Velikost](0006_Vehicles.md?id=vehicle-size-table):** Vsa vozila imajo eno od šestih ocen Velikosti, ki določa vrednost ali razpon preostalih značilnosti. Zaradi svoje večje intrinzične velikosti in sovražnih okolij v vesolju imajo zvezdne ladje svoj razpon vrednosti.
-- **[Ohišje](0006_Vehicles.md?id=terrestrial-hulls):** Predstavlja Točke oklepa
-- **[Struktura](0006_Vehicles.md?id=terrestrial-hulls):** Predstavlja Življenjske točke vozila
-- **[Ščiti](0006_Vehicles.md?id=shields):** V okoljih z napredno tehnologijo manipulacije z energijo so lahko prisotni ščiti, ki ščitijo vozilo, vendar se lahko ob vztrajnem obstreljevanju izrabijo.
-- **[Sistemi](0006_Vehicles.md?id=systems):** Predstavljajo vitalne komponente vozila, vključno z elektrarno, delom za posadko itd.
+- **[Velikost](0006_Vehicles.md?id=vehicle-size-table):** Vsa vozila imajo eno od šestih ocen velikosti, ki določa vrednost ali razpon preostalih karakteristik. Zaradi njihove večje inherentne velikosti in sovražnih okolij vesolja imajo vesoljske ladje svoj razpon vrednosti.
+- **[Trup](0006_Vehicles.md?id=terrestrial-hulls):** Predstavlja Točke oklepa.
+- **[Struktura](0006_Vehicles.md?id=terrestrial-hulls):** Predstavlja Točke zadetkov vozila.
+- **[Ščiti](0006_Vehicles.md?id=shields):** V okoljih z napredno tehnologijo manipulacije energije so lahko prisotni ščiti, ki ščitijo vozilo, vendar lahko pod dolgotrajnim ognjem oslabijo.
+- **[Sistemi](0006_Vehicles.md?id=systems):** Predstavljajo vitalne komponente vozila, vključno z napajalno enoto, oddelkom za posadko in tako naprej.
 - **[Hitrost](0006_Vehicles.md?id=speed):** Vsako vozilo ima osnovno oceno Hitrosti.
-- **[Lastnosti](0006_Vehicles.md?id=traits):** Vozilo ima lahko tudi eno ali več Lastnosti. Lastnosti, kot so Sposobnosti, dodeljene Bitjem v pravilih _Mythras Imperative_, ali Lastnosti Bojnega stila, ponujajo dodaten opis igre in prednost, ki odraža naravo vozila.
-- **[Orožja](0006_Vehicles.md?id=weapons):** Podobno kot Lastnosti, je vozilo lahko opremljeno z orožjem, kot to dovoljuje okolje. Nekaj predlaganih primerov in vrednosti je podrobneje opisanih spodaj.
+- **[Lastnosti](0006_Vehicles.md?id=traits):** Vozilo ima lahko tudi eno ali več Lastnosti. Lastnosti, podobno kot sposobnosti, dodeljene bitjem v pravilih _Mythras Imperative_, ali Lastnosti bojnega stila, ponujajo dodaten opis igre in prednost, ki odraža naravo vozila.
+- **[Orožja](0006_Vehicles.md?id=weapons):** Podobno kot pri Lastnostih je vozilo lahko opremljeno z orožjem, če okolje to dopušča. Nekateri predlagani primeri in vrednosti so podrobno opisani spodaj.
+
 
 ---
-### Velikost, vrsta in struktura ohišja
+### Velikost trupa, tip in struktura
 
-Velikost in namen vozila vplivata na debelino njegovega ohišja in odpornost njegove notranje strukture. Motocikel, na primer, ima minimalno ohišje, zgrajeno za hitrost in okretnost. Kopenski železoborec (masivna, gosenična ali kolesna oklepna pošast, gnana s parnimi ali dizelskimi motorji), ki je veliko večje vozilo, zasnovano za bojišče, ima veliko večje ohišje. Primerljive velikosti ohišij (in koliko zadetkov z orožjem lahko običajno prenesejo) so povzete v tabelah Velikosti vozil in Ohišja spodaj.
+Velikost in namen vozila vplivata na debelino njegovega trupa in odpornost njegove notranje strukture. Motocikel ima na primer minimalen trup, saj je zgrajen za hitrost in okretnost. "Land Ironclad" (masivna, gosenična ali kolesna oklepljena pošast, ki jo poganjajo parni ali dizelski motorji), ki je veliko večje vozilo, zasnovano za bojišče, ima precej večji trup. Primerjalne velikosti trupov (in koliko zadetkov orožja lahko običajno prenesejo) so povzete v spodnjih tabelah Velikost vozila in Trup.
 
-Vsakič, ko vozilo utrpi škodo, se dohodna škoda zmanjša za vrednost njegovega Ohišja. Preostala škoda se odšteje od točk Strukture vozila in ima odstotno verjetnost, enako prodirajoči škodi, da bo prizadela Sistem. Če se Struktura vozila kdaj zmanjša na nič, je vozilo bodisi popolnoma uničeno bodisi tako močno poškodovano, da ga je treba razrezati.
+Kadar vozilo utrpi škodo, se dohodna škoda zmanjša za vrednost njegovega Trup. Morebitna preostala škoda se odšteje od točk Strukture vozila in ima odstotno možnost, enako prodorni škodi, da vpliva na Sistem. Če se Struktura vozila kadarkoli zmanjša na nič, je vozilo popolnoma uničeno ali tako hudo poškodovano, da ga je treba razrezati za odpad.
 
-##### Kopenska ohišja
+##### Zemeljski trupi 
 
-| Velikost | Struktura | Vrednost civilnega ohišja | Vrednost vojaškega ohišja | Primer |
+| Velikost | Struktura | Vrednost civilnega trupa | Vrednost vojaškega trupa | Primer |
 | :-- | :-: | :-: | :-: | :-- |
-| Majhno | 1-20 | 1-3 | 4-6 | Motocikel, motocikel s prikolico, kompaktni ali subkompaktni avto, kanu, kajak, čoln na vesla |
-| Srednje | 21-40 | 1-6 | 7-9 | Limuzina, dostavnik, pickup, luksuzni avto, luksuzni športni avto, mišičnjak, limuzina, reševalni čoln, gliser, zmaj, avtožiro |
-| Veliko | 41-60 | 4-9 | 10-12 | Tovornjak, podaljšana limuzina, SUV, avtobus, enoprostorec, osebno letalo, jadralno letalo, križarka za užitek, tank, helikopter, podmornica |
-| Ogromno | 61-80 | 7-12 | 13-15 | Vlačilec, letalo, reaktivno letalo, obalna straža, jahta |
-| Izjemno | 81-100 | 10-15 | 16-18 | Vlak, potniška ladja, mornariška ladja |
+| Majhna | 1-20 | 1-3 | 4-6 | Motocikel, motocikel s prikolico, kompaktni ali podkompaktni avtomobil, kanu, kajak, čoln na vesla |
+| Srednja | 21-40 | 1-6 | 7-9 | Limuzina, dostavno vozilo, poltovornjak, luksuzni avtomobil, luksuzni športni avtomobil, mišičast avtomobil, limuzina, rešilni čoln, gliser, zmajar, avtožiro |
+| Velika | 41-60 | 4-9 | 10-12 | Tovornjak, podaljšana limuzina, SUV, avtobus, enoprostorec, osebno letalo, jadralno letalo, izletniška križarka, tank, helikopter, podmornica |
+| Ogromna | 61-80 | 7-12 | 13-15 | Vlačilec, potniško letalo, reaktivno letalo, plovilo obalne straže, jahta |
+| Izjemna | 81-100 | 10-15 | 16-18 | Vlak, potniška ladja, vojaška ladja |
 
-##### Ohišja zvezdnih ladij
+##### Trupi vesoljskih ladij 
 
-| Velikost | Struktura | Vrednost civilnega ohišja | Vrednost vojaškega ohišja | Primer |
+| Velikost | Struktura | Vrednost civilnega trupa | Vrednost vojaškega trupa | Primer |
 | :-- | :-: | :-: | :-: | :-- |
-| Majhno | 10-50 | 4-9 | 10-12 | Enosedežno lovsko letalo |
-| Srednje | 51-150 | 7-12 | 13-15 | Lahki tovornjak, plovilo tipa shuttle |
-| Veliko | 151-450 | 10-15 | 16-18 | Težki tovornjak, križarka |
-| Ogromno | 451-1350 | 13-18 | 19-21 | Spremljevalna fregata, lahka bojna križarka |
-| Izjemno | 1351-4050 | 16-21 | 21-24 | Generacijska ladja, težka bojna križarka |
-| Kolosalno | 4050-12110 | 19-24 | 24-30 | Orbitalni habitat, bojna postaja, ki uničuje planete |
+| Majhna | 10-50 | 4-9 | 10-12 | Enosedežni lovec |
+| Srednja | 51-150 | 7-12 | 13-15 | Lahka tovorna ladja, čolniček |
+| Velika | 151-450 | 10-15 | 16-18 | Težka tovorna ladja, križarka |
+| Ogromna | 451-1350 | 13-18 | 19-21 | Spremljevalna fregata, lahka bojna križarka |
+| Izjemna | 1351-4050 | 16-21 | 21-24 | Generacijska ladja, težka bojna križarka |
+| Kolosalna | 4050-12110 | 19-24 | 24-30 | Orbitalni habitat, bojna postaja za uničevanje planetov |
+
 
 ---
 ### Ščiti
 
-Deflektorski ščiti zagotavljajo dodatno plast zaščite za tista vozila, ki jih lahko namestijo. Ščiti delujejo nekoliko drugače kot Ohišje, zaradi svoje abrazivne narave. Če je dohodna škoda enaka ali manjša od vrednosti ščitov, je vsa blokirana. Če škoda presega vrednost ščita, potem vsak presežek zmanjša moč ščita za to količino.
+Deflektorski ščiti zagotavljajo dodatno plast zaščite za tista vozila, na katera jih je mogoče namestiti. Ščiti delujejo nekoliko drugače kot Trup zaradi svoje ablativne narave. Če je dohodna škoda enaka ali manjša od vrednosti ščitov, je v celoti blokirana. Če škoda preseže vrednost ščita, potem vsak presežek zmanjša moč ščita za to količino.
 
-_Na primer, transporter posadke ima energetski ščit z močjo 12 točk. Če bi transporter zadet z laserjem za 11 škode, preprosto ne bi prodrlo in ne bi imelo nobenega dodatnega učinka. Po drugi strani, če bi bil transporter zadet z eksplozijo, ki bi povzročila 15 škode, bi presežne tri točke zmanjšale moč ščita na 9._
+_Na primer, vojaški transporter ima moč energijskega ščita 12 točk. Če bi transporter zadel laser za 11 škode, ta preprosto ne prodre in nima dodatnega učinka. Če pa bi transporter zadel izstrelek, ki povzroči 15 škode, bi presežne tri točke zmanjšale moč ščita na 9._
 
-Ko moč deflektorskega ščita pade na nič, se ta zruši. Vsaka preostala škoda se prenese na ohišje.
+Ko moč deflektorskega ščita pade na nič, ta kolapsira. Morebitna preostala škoda se prenese na trup.
 
 ---
 ### Sistemi
 
-Vsakič, ko vozilo utrpi škodo, ki prodre skozi njegovo ohišje, obstaja verjetnost, enaka prodirajoči škodi, da je bil prizadet vitalen Sistem.
+Vsakič, ko vozilo utrpi škodo, ki prodre skozi njegov trup, obstaja možnost, enaka prodorni škodi, da je bil prizadet vitalni Sistem.
 
-_Na primer, 10 škode je naneseno na gliser – vozilo s 3 Ohišjem in 24 Strukture. Ohišje šteje kot oklep in zmanjša škodo na 7. To se odšteje od 24 točk Strukture in obstaja 7 % verjetnost, da se poškoduje eden od Sistemov vozila._
+_Na primer, 10 škode se nanese gliserju - vozilu s 3 Trupa in 24 Strukture. Trup šteje kot oklep, ki zmanjša škodo na 7. Ta se odšteje od 24 točk Strukture in obstaja 7% možnost, da se poškoduje eden od sistemov vozila._
 
-Škoda, ki jo lahko Sistem prenese, temelji izključno na velikosti vozila. To se modelira s številom zadetkov, ki jih Sistem lahko prenese, namesto z dejansko količino škode. En Zadeti Sistem na Majhnem vozilu bo takoj uničil ta Sistem. Za uničenje Sistemov Srednje velikega vozila sta potrebna dva zadetka, za Veliko vozilo tri in tako naprej. Glejte [Tabelo poškodb sistema](0006_Vehicles.md?id=system-damage-table) spodaj.
+Škoda, ki jo lahko prenese Sistem, temelji izključno na velikosti vozila. To je modelirano s številom zadetkov, ki jih lahko Sistem prenese, namesto z dejansko količino škode. En sam zadetek v sistem pri Majhnem vozilu bo ta sistem takoj uničil. Potrebna sta dva zadetka, da se uničijo sistemi Srednje velikega vozila, trije za Veliko vozilo in tako naprej. Glej [Tabelo škode sistemov](0006_Vehicles.md?id=system-damage-table) spodaj.
 
-Sistemi, ki so poškodovani, a še niso uničeni, utrpijo izgubo funkcije sorazmerno s številom prejetih zadetkov – bodisi odstotno zmanjšanje bodisi kazen v stopnjah pri nalogah Sistema. Specifični učinek temelji na tem, kaj podsistem nadzoruje, kot je podrobno opisano v [Tabeli poškodb komponent sistema](0006_Vehicles.md?id=system-component-damage-table) spodaj. Odvisno od tega, kateri Sistem je zadet, so lahko učinki katastrofalni.
+Sistemi, ki so poškodovani, vendar še niso uničeni, trpijo izgubo funkcije, sorazmerno s številom prejetih zadetkov - bodisi z odstotnim zmanjšanjem bodisi s kaznijo stopnje (Grade) pri nalogah Sistema. Specifičen učinek temelji na tem, kaj podsistem nadzoruje, kot je podrobno opisano v spodnji [Tabeli škode komponent sistema](0006_Vehicles.md?id=system-component-damage-table). Glede na to, kateri Sistem je zadet, so lahko učinki katastrofalni.
 
-_Na primer, Kopenski železoborec – Izjemno vozilo s 5 zadetki v Sistem – dvakrat zadet v Pogonski sistem bi izgubil 40 % svoje moči in bi zmanjšal svojo Počasno Hitrost za dve stopnji na Omajano. Podobno bi Velik tovornjak – s 3 zadetki v Sistem – ki bi prejel dva zadetka v Sistem Motorja/Goriva, imel kazen dveh stopenj pri Hitrosti ter pri uporabi elektronskih sistemov. Tretji zadetek bi uničil Sistem Motorja/Goriva in ladjo z njim._
+_Na primer, Land Ironclad - Izjemno vozilo s 5 zadetki sistemov - dvakrat zadet v pogon (Drive), bi izgubil 40% svoje moči in bi zmanjšal svojo počasno hitrost (Slow Speed) za dve stopnji na težko (Ponderous). Podobno bi imela Velika tovorna ladja - s 3 zadetki sistemov - ki prejme dva zadetka na sistem motorja/goriva, dve stopnji kazni pri hitrosti kot tudi pri uporabi elektronskih sistemov. Tretji zadetek bi uničil sistem motorja/goriva in z njim ladjo._
+
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Errata skupnosti</summary>
 
 ---
 
 #### Škoda
 
-_Prvotno besedilo je bilo prvotno bolj oddaljeno. Postavljeno neposredno za razdelkom Sistemi nepotrebno ponavlja prejšnji odstavek._
 
-- _"Škoda, ki presega Ohišje, prodira v vozilo, poškoduje Strukturo in morebiti vpliva na enega ali več sistemov._
-- _Odvisno od velikosti vozila, je škoda lahko majhna ali katastrofalna._
-- _Na primer, Veliko vozilo lahko prejme do dva zadetka v Sistem, kot je njegov Pogonski sistem. Tretji zadetek dejansko uniči Pogonski sistem. Vsakič, ko sistem prejme zadetek, bodisi izgubi odstotek svoje funkcije, kot je opisano v stolpcu Izguba na zadetek v spodnji tabeli Škoda sistema, ali pa osnovna funkcija (kot so Pogonski sistem, Pilot, Komunikacije itd.) postane za eno stopnjo težja na prejeti zadetek."_
+_Prvotno besedilo je bilo prvotno dlje stran. Postavljeno neposredno za razdelkom Sistemi, po nepotrebnem ponavlja prejšnji odstavek._
 
-_Zgornji odstavki so odstranjeni, na njihovo mesto pa je postavljena skrajšana ureditev, ki navaja še en primer učinka sistema._
+- _"Škoda, ki preseže Trup, prodre v vozilo, poškoduje Strukturo in morda vpliva na enega ali več sistemov. Odvisno od velikosti vozila je lahko škoda manjša ali katastrofalna._
+- _Na primer, Veliko vozilo lahko prejme do dva zadetka na sistem, kot je njegov pogon. Tretji zadetek funkcionalno uniči pogon. Vsakič, ko sistem prejme zadetek, bodisi izgubi odstotek svoje funkcije, kot je opisano v stolpcu Izguba na zadetek v spodnji Tabeli škode sistemov, ali pa postane osnovna funkcija (kot so pogon, pilot, komunikacije itd.) težja za eno stopnjo težavnosti (Difficulty Grade) na vsak utrpljen zadetek."_
+
+_Zgornji odstavki so odstranjeni in namesto njih je vstavljeno skrajšano urejanje, ki izpostavlja še en primer učinka sistema._
 
 ---
 
 </details>
 
-##### Tabela poškodb sistema
+##### Tabela škode sistemov 
 
-| Velikost | Zadetki sistema | Izguba na zadeto |
+| Velikost | Zadetki sistemov | Izguba na zadetek |
 | :-- | :-: | :-- |
-| Majhno | 1 | 100% - Uničeno |
-| Srednje | 2 | 1 Stopnja ali 50% |
-| Veliko | 3 | 1 Stopnja ali 33% |
-| Ogromno | 4 | 1 Stopnja ali 25% |
-| Izjemno | 5 | 1 Stopnja ali 20% |
-| Kolosalno | 6 | 1 Stopnja ali 16% |
+| Majhna | 1 | 100% - Uničeno |
+| Srednja | 2 | 1 stopnja ali 50% |
+| Velika | 3 | 1 stopnja ali 33% |
+| Ogromna | 4 | 1 stopnja ali 25% |
+| Izjemna | 5 | 1 stopnja ali 20% |
+| Kolosalna | 6 | 1 stopnja ali 16% |
+
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Errata skupnosti</summary>
 
 ---
 
-##### Tabela poškodb sistema (original)
+##### Tabela škode sistemov (Izvirnik) 
 
-| Velikost | Zadetki sistema | Izguba na zadeto |
+| Velikost | Zadetki sistemov | Izguba na zadetek |
 | :-- | :-: | :-- |
-| Majhno | 1 | 1 Stopnja ali 50% |
-| Srednje | 2 | 1 Stopnja ali 33% |
-| Veliko | 3 | 1 Stopnja ali 25% |
-| Ogromno | 4 | 1 Stopnja ali 20% |
-| Izjemno | 5 | 1 Stopnja ali 16% |
-| Kolosalno | 6 | 1 Stopnja ali 10% |
+| Majhna | 1 | 1 stopnja ali 50% |
+| Srednja | 2 | 1 stopnja ali 33% |
+| Velika | 3 | 1 stopnja ali 25% |
+| Ogromna | 4 | 1 stopnja ali 20% |
+| Izjemna | 5 | 1 stopnja ali 16% |
+| Kolosalna | 6 | 1 stopnja ali 10% |
 
-##### Tabela velikosti vozil (iz [Velikost, vrsta in struktura ohišja](0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Tabela velikosti vozil (iz [Velikost trupa, tip in struktura](0006_Vehicles.md?id=hull-size-type-and-structure))
 
-| Velikost | Zadetki sistema |
+| Velikost | Zadetki sistemov |
 | :-- | :-: |
-| Majhno | 1 |
-| Srednje | 2 |
-| Veliko | 3 |
-| Ogromno | 4 |
-| Izjemno | 5 |
-| Kolosalno | 6 |
+| Majhna | 1 |
+| Srednja | 2 |
+| Velika | 3 |
+| Ogromna | 4 |
+| Izjemna | 5 |
+| Kolosalna | 6 |
 
 _Prvotna pravila in primeri so nedosledni:_
-- _"Sistemi, ki so poškodovani, a še niso uničeni, utrpijo izgubo funkcionalnosti. Ta je enaka razmerju med trenutnimi zadetki in skupno zmogljivostjo. Tako bi Izjemno vozilo, dvakrat zadeto v Pogonski sistem, izgubilo 40 % svoje moči (2 zadetka od največ 5)."_
-   - _To nakazuje, da bi Izjemno vozilo s 5 zadetki v Sistem moralo izgubiti 20 % z vsakim zadetkom - toda tabela pravi 16 %._
-- _"Na primer, Veliko vozilo lahko prejme do tri zadetke v sistem, kot je njegov Pogonski sistem. Četrti zadetek dejansko uniči Pogonski sistem."_
-  - _To nakazuje – kot tudi tabela – 25 % škode na zadetek v Sistem, toda Velika Vozila lahko prejmejo le 3 zadetke v Sistem po isti tabeli._
-- _Čeprav ni nedosledna, je bila Tabela velikosti vozil odveč; ponovno se je pojavila v popolnejši obliki (dodajajoč stolpec Izguba na zadetek) le nekaj vrstic kasneje._
+- _"Sistemi, ki so poškodovani, vendar še niso uničeni, trpijo izgubo funkcionalnosti. Ta je enaka deležu trenutnih zadetkov glede na njegovo skupno zmogljivost. Tako bi Izjemno vozilo, dvakrat zadeto v pogon, izgubilo 40% svoje moči (2 zadetka od največ 5)"._ 
+   - _To nakazuje, da bi Izjemno vozilo, prikazano s 5 zadetki sistemov, moralo izgubiti 20% z vsakim zadetkom - vendar tabela pravi 16%._
+- _"Na primer, Veliko vozilo lahko prejme do tri zadetke na sistem, kot je njegov pogon. Četrti zadetek funkcionalno uniči pogon."_ 
+  - _"To nakazuje - kot tudi tabela - 25% škode na zadetek sistema, vendar lahko Velika vozila prenesejo le 3 zadetke sistemov po isti tabeli._
+- _Čeprav ni nedosledno, je bila Tabela velikosti vozil odveč; ponovno se pojavi v polnejši obliki (dodajanje stolpca Izguba na zadetek) le nekaj vrstic kasneje._
 
-_To otežuje dosledno pravilo. Da bi rešili te težave, so bile vrednosti in primeri spremenjeni tako, da se ujemajo, in Tabela velikosti vozil je bila odstranjena._
+_Zaradi tega je težko imeti dosledno pravilo. Da bi odpravili te težave, so vrednosti in primeri spremenjeni tako, da se ujemajo, in Tabela velikosti vozil je bila odstranjena._
 
 ---
 
 </details>
 
-##### Tabela poškodb komponent sistema
 
-| 1k10 | Sistem | Rezultat poškodbe | Rezultat uničenja |
+##### Tabela škode komponent sistema 
+
+| 1d10 | Sistem | Rezultat poškodbe | Rezultat uničenja |
 | :-: | :-- | :-- | :-- |
-| 1 | Tovor | Količina imetja ali opreme, shranjene v skladišču, sorazmerno s škodo, je uničena. | Ves tovor je uničen. |
-| 2 | Komunikacije | Meti za komunikacije so za eno dodatno stopnjo težavnosti težji vsakič, ko so poškodovani. | Vozilo ne more več komunicirati ali prevarati sovražnikovih senzorjev. |
-| 3 | Krmilje | Meti za Plovbo, Vožnjo ali Pilotiranje so za eno dodatno stopnjo težavnosti težji vsakič, ko so poškodovani; potreben je takojšen met za Nadzor. | Vozila ni mogoče več krmiliti ali spremeniti smeri. |
-| 4 | Pogonski sistem | Hitrost zmanjšana za količino, sorazmerno s škodo. | Vozilo se ustavi; letala strmoglavijo. |
-| 5 | Posadka | Število potnikov, sorazmerno s škodo, postane žrtev. Prizadeti utrpijo Hudo rano in morajo uspeti pri metu Vzdržljivosti ali biti takoj ubiti. | Potniki vozila umrejo. |
-| 6 | Motor / Gorivo | Hitrost zmanjšana za količino, sorazmerno s škodo. Elektronski sistemi so za eno stopnjo težavnosti težji za uporabo. | Vozilo je uničeno v katastrofalni eksploziji. |
-| 7 | Senzorji | Meti za senzorje, navigacijo in napade z orožjem so za eno dodatno stopnjo težavnosti težji vsakič, ko so poškodovani. | Vozilo je oslepljeno. |
-| 8 | Orožja | Število orožnih sistemov, sorazmerno s škodo, postane neoperativno. | Vozilo ne more več streljati z orožjem. |
-| 9-0 | Nič | Noben sistem ni zadet; samo škoda na Strukturi. | Ni na voljo |
+| 1 | Tovor | Količina lastnine ali opreme, shranjene v skladišču, sorazmerna s škodo, je uničena. | Ves tovor je uničen. |
+| 2 | Komunikacije | Komunikacijski meti trpijo eno dodatno stopnjo težavnosti (Difficulty Grade) vsakič, ko so poškodovani. | Vozilo ne more več komunicirati ali zavajati sovražnikovih senzorjev. |
+| 3 | Kontrole | Meti za čolnarjenje, pogon ali pilotiranje trpijo eno dodatno stopnjo težavnosti vsakič, ko so poškodovani; potreben je takojšen met za nadzor. | Vozila ni več mogoče krmiliti ali spremeniti smeri. |
+| 4 | Pogon | Hitrost se zmanjša za količino, sorazmerno s škodo. | Vozilo se popolnoma ustavi; letala strmoglavijo. |
+| 5 | Posadka | Število potnikov, sorazmerno s škodo, postanejo žrtve. Prizadeti utrpijo Hudo rano in morajo uspeti pri metu za VZD ali pa so takoj ubiti. | Potniki v vozilu umrejo. |
+| 6 | Motor / Gorivo | Hitrost se zmanjša za količino, sorazmerno s škodo. Elektronski sistemi so za eno stopnjo težavnosti težji za uporabo. | Vozilo je uničeno v katastrofalni eksploziji. |
+| 7 | Senzorji | Meti za senzorje, navigacijo in napad z orožjem trpijo eno dodatno stopnjo težavnosti vsakič, ko so poškodovani. | Vozilo postane slepo. |
+| 8 | Orožje | Število orožnih sistemov, sorazmerno s škodo, postane nedelujoče. | Vozilo ne more več streljati z orožjem. |
+| 9-0 | Noben | Noben sistem ni zadet; le škoda na Strukturi. | N/A |
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Errata skupnosti</summary>
 
 ---
 
-##### Tabela poškodb komponent sistema (Motor/Gorivo)
+##### Tabela škode komponent sistema (Motor / Gorivo)
 
-_Prvotni rezultat je bil naslednji: "Največja hitrost je prepolovljena..." To je v nasprotju s splošnim pravilom o kaznih za škodo v sorazmerju s poškodbo Sistema: 25 % škode = 25 % kazni. Poleg tega celotna pravila v Mythras Companion ne omenjajo tega prepolovljenja hitrosti._
+_Prvotni rezultat je bil naslednji: "Največja hitrost se prepolovi..." To nasprotuje splošnemu pravilu kazni za škodo v sorazmerju s škodo na sistemu: 25% škoda = 25% kazen. Poleg tega polna pravila v Mythras Companion ne omenjajo tega prepolavljanja hitrosti._
 
-_Zaradi tega je besedilo zamenjano z istim vnosom iz Pogonskih Sistemov: "Hitrost zmanjšana za količino, sorazmerno s škodo."_
+_Zaradi tega je besedilo nadomeščeno z istim vnosom iz sistema Pogon: "Hitrost se zmanjša za količino, sorazmerno s škodo."_
 
 ---
 
 </details>
+
 
 ---
 ### Hitrost
 
-Ker so fizika hitrosti, pospeševanja, upora in vztrajnosti (če naštejemo le nekaj) kompleksna vprašanja, je potrebna poenostavitev, zato so vozilom dodeljene abstraktne ocene hitrosti. Lastnost Hitrosti bi se morala uporabljati le za grobo presojo, ali lahko eno vozilo prehiti ali dohiti drugo.
+Ker so fizika hitrosti, pospeška, zračnega upora in vztrajnosti (če naštejemo le nekatere) kompleksna vprašanja, je potrebna določena poenostavitev, zato vozila dobijo abstraktno oceno hitrosti. Karakteristika Hitrosti se sme uporabljati le za grobo presojo, ali lahko eno vozilo prehiti ali dohiti drugega.
 
-Ocena hitrosti predstavlja nominalno operativno hitrost vozila. V nujnih situacijah se lahko ta zmogljivost poveča za eno stopnjo, ob tveganju obrabe ali poškodbe motorjev. Čeprav se za vse tipe vozil uporablja ista tabela, je treba uporabiti zdravo pamet, tako da se primerjajo le vozila istega razreda. Na primer, če imata zvezdna ladja in športni avto enako stopnjo pospeševanja Rapid (Hitro), bi moralo biti očitno, da je zvezdna ladja primerjalno hitrejša.
+Ocena hitrosti predstavlja nominalno operativno stopnjo vozila. V izrednih razmerah se lahko ta zmogljivost poveča za eno stopnjo, tveganje pa je obraba ali poškodba motorjev. Čeprav se za vse tipe vozil uporablja ista tabela, je treba uporabiti zdravo pamet, tako da se primerjajo le vozila istega razreda. Na primer, če imata vesoljska ladja in športni avtomobil isto stopnjo pospeška Rapid (Hitro), potem bi moralo biti očitno, da je vesoljska ladja primerjalno hitrejša.
 
-Povečanje hitrosti vozila nad njegovo standardno vrednost je mogoče z uspešnim metom Vožnje. Običajno je ta dodatna hitrost vzdržna le kratek čas – ne več kot 1k6 minut, preden mora vozilo zmanjšati na standardno hitrost ali tvegati poškodbe svoje elektrarne. Kritičen met Vožnje omogoča podaljšanje obdobja višje hitrosti na 1k12 minut.
+Povečanje hitrosti vozila nad njegovo standardno vrednost je mogoče z uspešnim metom za Pogon. Običajno je ta dodatna hitrost vzdržljiva le za kratek čas – ne več kot 1d6 minut, preden mora vozilo zmanjšati hitrost na svojo standardno ali tvegati poškodbo napajalne enote. Kritični met za Pogon omogoča, da se obdobje višje hitrosti podaljša na 1d12 minut.
 
-Voznik lahko poskusi povečati hitrost vozila za 2 stopnji, vendar to zahteva herkulejski met Vožnje in največ, kar lahko vozilo vzdrži to hitrost, je 1k3 minute: Kritičen uspeh ne bo podaljšal trajanja povečane hitrosti.
+Voznik lahko poskusi povečati hitrost vozila za 2 stopnji, vendar to zahteva herkulski met za Pogon in najdlje, kolikor lahko vozilo vzdržuje to hitrost, je 1d3 minute: Kritični uspeh ne bo podaljšal trajanja povečane hitrosti.
 
-##### Tabela ocen hitrosti
+##### Tabela ocen hitrosti 
 
 | Ocena hitrosti | Največja hitrost za |
 | :-- | :-: |
-| Omajano | Izjemno |
-| Počasi | |
-| Počasi | Ogromno |
-| Povprečno | |
-| Nežno | Veliko |
-| Zmerno | |
-| Hitro | Srednje |
-| Hitro | |
-| Bliskovito | Majhno |
+| Ponderous (Težka) | Izjemna |
+| Sluggish (Lenobna) | |
+| Slow (Počasna) | Ogromna |
+| Mediocre (Povprečna) | |
+| Gentle (Zmerna) | Velika |
+| Moderate (Srednja) | |
+| Rapid (Hitra) | Srednja |
+| Fast (Nagla) | |
+| Fleet (Vokretna) | Majhna |
+
 
 ---
 ### Lastnosti
 
-Največje število lastnosti, ki jih ima lahko vozilo, je odvisno od velikosti in vrste ohišja.
+Največje število lastnosti, ki jih ima lahko vozilo, je odvisno od velikosti trupa in tipa.
 
-Vsako vozilo ima inherentno lastnost: način potovanja, za katerega je bilo primarno zasnovano. Zato imajo letala inherentno lastnost V zraku, čolni lastnost Na morju in tako naprej. Ta inherentna lastnost se ne šteje k razpoložljivemu številu lastnosti. Če pa vozilo vključuje drugi način potovanja – na primer leteča podmornica, bi morala biti lastnost V zraku vzeta kot ena od razpoložljivih lastnosti.
+Vsako vozilo ima inherentno lastnost: način potovanja, za katerega je bilo primarno zasnovano. Zato imajo letala inherentno lastnost Airborne (Zračna), čolni lastnost Seaborne (Morska) in tako naprej. Ta inherentna lastnost ne šteje v razpoložljivo število lastnosti. Če pa bi vozilo vključevalo drugi način potovanja — na primer leteča podmornica —, bi bilo treba lastnost Airborne vzeti kot eno od razpoložljivih lastnosti.
 
-Nekatere lastnosti morda niso na voljo, odvisno od tehnološke ravni okolja; Mojstri igre morajo sami presoditi, katere lastnosti se lahko uporabijo.
+Nekatere lastnosti morda niso na voljo, odvisno od tehnološke stopnje okolja; mojstri iger morajo sami presoditi, katere lastnosti se lahko uporabijo.
 
-##### Tabela dodeljevanja lastnosti vozil
+##### Tabela dodeljevanja lastnosti vozil 
 
 | Velikost | Največ lastnosti |
 | :-- | :-: |
-| Majhno | 1 |
-| Srednje | 2 |
-| Veliko | 3 |
-| Ogromno | 4 |
-| Izjemno | 5 |
-| Kolosalno | 6 |
+| Majhna | 1 |
+| Srednja | 2 |
+| Velika | 3 |
+| Ogromna | 4 |
+| Izjemna | 5 |
+| Kolosalna | 6 |
 
-#### V zraku
+#### Airborne (Zračno)
 
-Vozilo je sposobno atmosferskega leta.
+Vozilo je sposobno atmosferskega letenja.
 
-#### Vse terensko
+#### All Terrain (Terensko)
 
-Ta lastnost se mora uporabljati s kopenskimi vozili. Vozilo lahko prečkati negostoljuben, težaven in strm teren, z uporabo gosenic, naprednih sistemov vzmetenja in pogona ali močnih pogonskih diferencialov.
+To lastnost je treba uporabiti z zemeljskimi vozili. Vozilo lahko prečka negostoljuben, težaven in strm teren z uporabo gosenic, naprednega vzmetenja in pogonskih sistemov ali zmogljivih pogonskih diferencialov.
 
-#### Riganje/Zarivanje
+#### Burrowing (Kopanje)
 
-Vozilo je zasnovano za riganje in tuneliranje skozi zemljo. Lahko doseže največjo globino, enako njegovi oceni Ohišja x5 metrov.
+Vozilo je zasnovano za kopanje in predore skozi zemljo. Doseže lahko največjo globino, enako njegovi oceni trupa (Hull Rating) x 5 metrov.
 
-#### Kamuflirano
+#### Camouflaged (Kamuflirano)
 
-Vozilo ima bodisi kamuflažno barvo bodisi mimetične senzorje, ki mu omogočajo, da se zlije z okoljem. Poskusi vizualnega opazovanja vozila so za eno stopnjo težavnosti težji.
+Vozilo ima bodisi kamuflažno barvo bodisi mimetične senzorje, ki mu omogočajo, da se zlije z okoljem. Poskusi vizualnega opazovanja vozila so za eno stopnjo težji.
 
-#### Tovor
+#### Cargo (Tovor)
 
-Vozilo je zasnovano posebej za vlečenje tovora namesto potnikov. Potniški prostori so minimalni, preostali uporabni prostor vozila pa je namenjen shranjevanju tovora z ustreznimi deli, orodjem in celo okoljskim kondicioniranjem (kot so zamrzovalni deli za prevoz pokvarljivih izdelkov). Ko je vozilo naloženo s tovorom, je njegova hitrost za dve stopnji nižja, kot bi sicer dovoljevala njegova velikost ohišja.
+Vozilo je posebej zasnovano za prevoz tovora namesto potnikov. Potniški oddelki so omejeni na minimum, preostali uporabni prostor vozila pa je namenjen shranjevanju tovora s primernimi oddelki, orodji in celo okoljsko klimatizacijo (kot so zamrzovalni oddelki za prevoz pokvarljivega blaga). Ko je vozilo natovorjeno s tovorom, je njegova hitrost za dve stopnji nižja, kot bi običajno dovoljevala njegova velikost trupa.
 
-#### Nosilec
+#### Carrier (Nosač)
 
-Vozilo je zasnovano posebej za prevoz manjših, z manj posadke ali morda daljinsko vodenih vozil, bodisi civilne bodisi vojaške narave. Vsako vozilo s to lastnostjo mora biti vsaj Izjemno. Število prevoženih manjših plovil se lahko razlikuje glede na vrsto misije in namen, vendar je lahko od 10 do toliko, kolikor je ocena Strukture vozila.
+Vozilo je posebej zasnovano za prevoz manjših, manj zasedenih ali po možnosti na daljavo vodenih vozil civilne ali vojaške narave. Vsako vozilo, ki ima to lastnost, mora biti vsaj Izjemne velikosti. Število prenašanih majhnih plovil se lahko razlikuje glede na vrsto in namen misije, vendar je lahko od 10 do toliko, kolikor znaša ocena Strukture vozila.
 
-#### Konstrukcija
+#### Construction (Gradbeno)
 
-Vozilo je opremljeno za težka gradbena dela. Vsa vozila s to lastnostjo imajo tudi lastnost Vse terensko, vendar je hitrost za dve stopnji nižja, kot bi običajno dovoljevala njihova velikost ohišja. Vozilo je opremljeno z orodjem, primernim za naloge, kot so dvižni kraki, kopače, prekucniki itd.
+Vozilo je opremljeno za težka gradbena dela. Vsa vozila s to lastnostjo imajo tudi lastnost All Terrain, vendar je hitrost za dve stopnji nižja, kot bi običajno dovoljevala njihova velikost trupa. Vozilo je opremljeno z orodji, primernimi za naloge, kot so žerjavi, bagrske žlice, prekucniki itd.
 
-#### Odporen na EMP
+#### EMP Resistant (Odporno na EMP)
 
 Vozilo je zaščiteno pred napadi elektromagnetnega pulza.
 
-#### Izboljšana zmogljivost
+#### Enhanced Performance (Izboljšana zmogljivost)
 
 Ocena hitrosti vozila je za eno stopnjo višja od največje za njegovo velikost.
 
-#### Izvržni sedež
+#### Ejector Seat (Katapultni sedež)
 
-V primeru nevarnosti izvržni sedež izstreli potnike več sto metrov v zrak, nato pa razpre padalo za varen pristanek. Padalo je neobvezno. Ni priporočljivo za helikopterje (Kamov Ka-52 Alligator je pomembna izjema).
+V nujnih primerih katapultni sedež izstreli potnike več sto metrov v zrak, nato pa odpre padalo, da omogoči varen pristanek. Padalo je neobvezno. Ni priporočljivo za helikopterje (Kamov Ka-52 Alligator je omembe vredna izjema).
 
-#### HLT
+#### FTL (Nadsvetlobni pogon)
 
-Samo vesoljska plovila. Plovilo je opremljeno z motorjem, hitrejšim od svetlobe (bodisi hipergonom, pogonom na warp, generatorjem črvine ali podobnim). Pogonski sistem HLT ima ločeno oceno Hitrosti, ki v bistvu meri hitrost, s katero lahko zvezdna ladja prečka en parsek (3,26 svetlobnih let, ali 31 bilijonov kilometrov ali 19 bilijonov milj), in sicer:
+Samo vesoljska plovila. Plovilo je opremljeno z nadsvetlobnim motorjem (bodisi hiperpogon, warp pogon, generator črvine ipd.). FTL pogon ima ločeno oceno hitrosti, ki v bistvu meri stopnjo, s katero lahko vesoljska ladja prečka en parsek (3,26 svetlobnih let ali 31 bilijonov kilometrov ali 19 bilijonov milj), in sicer:
 
-##### Tabela ocen hitrosti HLT
+##### Tabela ocen hitrosti FTL 
 
-| Ocena hitrosti | Faktor za prehod 1 parseka |
+| Ocena hitrosti | Faktor za prečkanje 1 parseka |
 | :-- | :-: |
-| Omajano | 10 |
-| Počasi | 8 |
-| Počasi | 7 |
-| Povprečno | 6 |
-| Nežno | 5 |
-| Zmerno | 4 |
-| Hitro | 3 |
-| Hitro | 2 |
-| Bliskovito | 1 |
+| Ponderous (Težka) | 10 |
+| Sluggish (Lenobna) | 8 |
+| Slow (Počasna) | 7 |
+| Mediocre (Povprečna) | 6 |
+| Gentle (Zmerna) | 5 |
+| Moderate (Srednja) | 4 |
+| Rapid (Hitra) | 3 |
+| Fast (Nagla) | 2 |
+| Fleet (Vokretna) | 1 |
 
-Časovni faktor določi Mojster igre, odvisno od tega, kako napreden je razvoj HLT v okolju. Na primer, osnovni faktor je lahko 1 dan, kar pomeni, da ladja z omajanim HLT pogonom potrebuje 10 dni za dokončanje poti, medtem ko plovilo z bliskovito HLT pogonom opravi pot v 1 dnevu. Drugje, kjer je tehnologija HLT bistveno manj učinkovita, se lahko časovni faktor meri v mesecih, namesto v dneh.
+O faktorju časa odloča mojster iger, odvisno od tega, kako napreden je razvoj FTL v okolju. Na primer, osnovni faktor bi lahko bil 1 dan, kar pomeni, da ladja s pogonom FTL stopnje Ponderous potrebuje 10 dni za dokončanje potovanja, medtem ko plovilo s pogonom FTL stopnje Fleet dokonča pot v 1 dnevu. Drugje, kjer je tehnologija FTL bistveno manj učinkovita, se faktor časa morda meri v mesecih, namesto v dnevih.
 
-Predpostavlja se, da ima ladja zaloge goriva za povratno potovanje ali sredstvo za točenje goriva na ciljni točki.
+Predpostavlja se, da ima ladja zaloge goriva bodisi za povratno potovanje bodisi sredstva za dolivanje goriva na ciljni točki.
 
-Predpostavlja se, da se lahko katerikoli velikosti zvezdne ladje namesti HLT pogon, čeprav je to spet odvisno od okolja.
+Predpostavlja se, da je mogoče poljubno velikost vesoljske ladje opremiti s pogonom FTL, čeprav je to spet odvisno od okolja.
 
-HLT pogoni se ne morejo aktivirati znotraj 1,5 astronomskih enot od zvezde (približno 225 milijonov kilometrov, ali 270 milijonov milj). To pomeni, da morajo ladje uporabiti podsvetlobni pogon za premikanje do približne razdalje Marsa, preden aktivirajo sistem HLT.
+Pogona FTL ni mogoče aktivirati znotraj 1,5 astronomske enote od zvezde (približno 225 milijonov kilometrov ali 270 milijonov milj). To pomeni, da morajo ladje uporabiti podsvetlobni pogon, da se premaknejo približno do razdalje Marsa, preden aktivirajo sistem FTL.
 
-#### Kopensko vozilo
+#### Ground Vehicle (Zemeljsko vozilo)
 
-Vozilo je sposobno potovanja po tleh.
+Vozilo je sposobno premikanja po tleh.
 
-#### Lebdenje
+#### Hover (Lebdenje)
 
-Vozilo lebdi nad tlemi z uporabo zračne blazine ali repulzorja proti gravitaciji.
+Vozilo lebdi nad tlemi z uporabo zračne blazine ali antigravitacijskega repulzorja.
 
-#### Razkošno
+#### Luxurious (Luksuzno)
 
-Vozilo je zasnovano posebej za prevoz potnikov na določeni ravni razkošja. Odvečni tovorni prostor je namenjen razkošnim potniškim namestitvam, bazenom, jacuzzijem, dodatni posadki, ki ustreže željam potnikov, in tako naprej.
+Vozilo je posebej zasnovano za prevoz potnikov na določeni stopnji luksuza. Presežni tovorni prostor je namenjen luksuznim potniškim nastanitvam, bazenom, vročim kopelim, dodatni posadki za postrežbo potnikom in tako naprej.
 
-#### Tirnice
+#### Rails (Tiri)
 
-Vozilo se zanaša na tirni sistem. Vozila s to lastnostjo lahko naravno dosežejo oceno Hitrosti tri stopnje višje, kot bi običajno dovoljevala njihova velikost ohišja, vendar so očitno omejena na gibanje samo po tirnem sistemu.
+Vozilo se zanaša na tirni sistem. Vozila s to lastnostjo lahko naravno dosežejo oceno hitrosti tri stopnje višjo, kot bi običajno dovoljevala njihova velikost trupa, vendar so očitno omejena le na premikanje po tirnem sistemu.
 
-#### Odporno
+#### Resilient (Odporno)
 
-Vsi sistemi lahko prenesejo en dodatni zadetek več, kot je običajno določeno z Velikostjo. To lastnost je mogoče zlagati — tako Odporno 2 pomeni, da lahko sistemi prenesejo 2 zadetka več kot običajno za ceno dveh točk lastnosti.
+Vsi sistemi lahko prenesejo en zadetek več, kot je običajno določeno glede na velikost. To lastnost je mogoče zložiti — torej Resilient 2 pomeni, da sistemi lahko prenesejo 2 zadetka več kot običajno za ceno dveh točk Lastnosti.
 
-#### Na morju
+#### Seaborne (Morsko)
 
-Vozilo plava na vodi.
+Vozilo je plovno na vodi.
 
-#### Vesoljsko plovilo
+#### Spacecraft (Vesoljsko plovilo)
 
-Vozilo je zatesnjeno proti vakuumu in zaščiteno pred kozmičnim sevanjem ter lahko, odvisno od zasnove, zapušča in ponovno vstopa v atmosfero ter vzdržuje letenje znotraj atmosfere.
+Vozilo je zatesnjeno proti vakuumu in zaščiteno pred kozmičnim sevanjem ter je lahko, odvisno od zasnove, sposobno zapustiti in ponovno vstopiti v atmosfero ter vzdrževati let znotraj atmosfere.
 
-#### Prikritost
+#### Stealth (Prikrito)
 
-Samo letala. Vozilo je zasnovano tako, da se izogne odkrivanju z radarjem in drugimi sistemi senzorjev dolgega dosega. Poskusi opazovanja vozila z elektronskimi senzorji so za eno stopnjo težavnosti težji.
+Samo letala. Vozilo je zasnovano tako, da se izogne zaznavanju z radarjem in drugimi senzorji dolgega dosega. Poskusi opazovanja vozila z elektronskimi senzorji so za eno stopnjo težji.
 
-#### Podvodno
+#### Submersible (Podmorsko)
 
-Vozilo je sposobno potopiti se pod površino oceana do operativne globine, enake njegovi oceni Ohišja x10 metrov. Globina zrušitve — absolutni maksimum, ki ga podmornica lahko doseže, ne da bi bila zmečkana — je 1,5-kratnik njene operativne globine.
+Vozilo je sposobno potapljanja pod površje oceana do delovne globine, enake njegovi oceni trupa (Hull Rating) x 10 metrov. Globina kolapsa — absolutni maksimum, ki ga lahko podmornica doseže, ne da bi bila zmečkana — je 1,5-kratnik njene delovne globine.
 
-#### Vrhunsko upravljanje
+#### Superior Handling (Vrhunsko upravljanje)
 
-Upravljanje vozila je ocenjeno kot Enostavno.
+Upravljanje vozila je ocenjeno kot Easy (Lahko).
 
-#### Nadzorna oprema
+#### Surveillance Suite (Nadzorni paket)
 
-Vozilo ima vgrajen računalnik, bazno postajo za komunikacije, sprejemnik za signale prisluškovalnih naprav in napravo za prestrezanje signalov bližnjih pametnih telefonov v radiju 100 metrov.
+Vozilo ima vgrajen računalnik, komunikacijsko bazno postajo, sprejemnik za signale naprav za prisluškovanje in napravo za prestrezanje bližnjih signalov pametnih telefonov v območju 100 metrov.#### Trdno (Tough)
 
-#### Vzdržljivo
+Civilno vozilo s to lastnostjo črpa svoj Trup iz vojaškega stolpca in ima samodejno najvišjo Strukturo. Vojaško vozilo s to lastnostjo črpa svoj Trup in Strukturo iz naslednje vrstice navzdol.
 
-Civilno vozilo s to lastnostjo črpa svoje Ohišje iz vojaškega stolpca in samodejno ima maksimalno Strukturo. Vojaško vozilo s to lastnostjo črpa svoje Ohišje in Strukturo iz naslednje vrstice navzdol.
+#### Vlečni žarek (Tractor Beam)
 
-#### Vlečni žarek
-
-Samo vesoljska plovila. Ladja je opremljena z vlečnim žarkom, ki lahko ujame in privleče k sebi vozila z oceno ohišja do dveh stopenj nižjo od svoje. Tako bi Ogromna zvezdna ladja lahko privabila in zadržala ohišje do Srednje velikosti.
+Samo za vesoljska plovila. Ladja je opremljena z vlečnim žarkom, ki lahko ujame in k sebi potegne vozila z oceno trupa do dve stopnji manj od lastne. Tako bi lahko ogromna (Huge) zvezdna ladja pritegnila in zadržala trup do srednje (Medium) velikosti.
 
 #### VTOL
 
-Vertikalni vzlet/pristanek. Ta lastnost je inherentna za helikopterje in podobna vozila, ki uporabljajo kombinacijo rotorjev za ustvarjanje vzgona. Pri letalih s fiksnimi krili označuje uporabo fiksnih ali poravnavnih potisnikov za nadzor zračnega položaja, vzpona in spusta.
+Navpični vzlet/pristanek. Ta lastnost je prirojena za helikopterje in podobna vozila, ki za ustvarjanje vzgona uporabljajo kombinacijo rotorjev. Pri letalih s fiksnimi krili označuje uporabo fiksnih ali usmerjenih potisnikov za nadzor letenja, vzpona in spusta.
 
-#### Vodno
+#### Vodno plovilo (Waterborne)
 
-Vozilo se poganja z zgibnimi nogami. Vozila tipa "Walker" so omejena na hitrost Nežno, ne glede na njihovo velikost. Vendar pa so "Walkerji" lahko zgrajeni do višin, ki bi bile preprosto nestabilne za vozila, opremljena z drugimi načini gibanja.
+Vozilo se premika s pomočjo členjenih nog. Hodulja vozila so omejena na hitrost nežnega (Gentle), ne glede na njihovo Velikost. Vendar pa je hodulje mogoče zgraditi do višin, ki bi bile preprosto nestabilne za vozila, opremljena z drugimi načini premikanja.
 
-To vozilo je sposobno podvodnega gibanja.
+To vozilo je sposobno premikanja pod vodo.
 
-#### Oboroženo
+#### Oboroženo (Weaponized)
 
-Vozilo je bilo prilagojeno za namestitev orožja. Orožni sistemi so obravnavani spodaj v razdelku [Orožja](0006_Vehicles.md?id=weapons).
+Vozilo je bilo prilagojeno za namestitev orožja. Oborožitveni sistemi so obravnavani spodaj v razdelku [Orožje](0006_Vehicles.md?id=weapons).
 
 ---
-## Orožja
+## Orožje
 
-Običajno so le vojaška ohišja zasnovana za namestitev orožja (pritrdilne točke, skladiščenje streliva, krmilni sistemi). Lastnost 'Oboroženo' se lahko uporabi za civilna vozila, ki morda potrebujejo orožje.
+Običajno so le vojaški trupi zasnovani za namestitev orožja (trdne točke, skladišče streliva, nadzorni sistemi). Lastnost 'Oboroženo' se lahko izbere za civilna vozila, ki imajo lahko zahteve po orožju.
 
-Največje število orožnih sistemov, ki jih vozilo lahko podpira, je enako 1/10 njegovih točk Strukture (tako lahko vozilo s 40 Strukture podpira 4 orožne sisteme, če gre za vojaško vozilo ali oboroženo civilno vozilo).
+Največje število oborožitvenih sistemov, ki jih vozilo lahko podpira, je enako 1/10 njegovih Točk strukture (tako lahko vozilo s 40 strukturami podpira 4 oborožitvene sisteme, če gre za vojaško vozilo ali oboroženo civilno vozilo).
 
-Orožni sistemi so odvisni od Velikosti vozila. Največja vrsta orožnega sistema za različne Velikosti je prikazana v spodnjih tabelah.
+Oborožitveni sistemi so odvisni od Velikosti vozila. Največja vrsta oborožitvenega sistema za različne Velikosti je prikazana v spodnjih tabelah.
 
 ##### Tabela orožja po velikosti
 
-| Velikost | Kopenska | Vesoljska plovila |
+| Velikost | Kopensko | Vesoljsko plovilo |
 | :-- | :-- | :-- |
-| Majhno | Lahko orožje (npr. jurišna puška) | Srednje orožje (npr. strojnica, izstreljevalnik raket) |
-| Srednje | Srednje orožje (npr. strojnica, izstreljevalnik raket) | Kupolasto/Težko orožje (npr. težke povezane strojnice, miniguni) |
-| Veliko | Kupolasto/Težko orožje (npr. težke povezane strojnice, miniguni) | Baterija orožja (npr. bojiščno topništvo) |
-| Ogromno | Baterija orožja (npr. bojiščno topništvo) | Napredno orožje (npr. raketni sistemi) |
-| Izjemno | Napredno orožje (npr. raketni sistemi) | Orožje na hrbtišču (samo eno) |
-| Kolosalno | Ni na voljo | Orožje na hrbtišču (do 3) |
+| Majhno (Small) | Lahko orožje (npr. jurišna puška) | Srednje orožje (npr. mitraljez, raketomet) |
+| Srednje (Medium) | Srednje orožje (npr. mitraljez, raketomet) | Kupolasto/Težko orožje (npr. težki povezani mitraljezi, miniguni) |
+| Veliko (Large) | Kupolasto/Težko orožje (npr. težki povezani mitraljezi, miniguni) | Orožna baterija (npr. bojna artilerija) |
+| Ogromno (Huge) | Orožna baterija (npr. bojna artilerija) | Napredno orožje (npr. raketni sistemi) |
+| Zelo veliko (Enormous) | Napredno orožje (npr. raketni sistemi) | Osno vgrajeno orožje (samo eno) |
+| Kolosalno (Colossal) | NA | Osno vgrajeno orožje (do 3) |
 
-##### Vzorčna statistika orožja
+##### Tabela vzorčne statistike orožja
 
-| Orožje | Škoda | Doseg | Hitrost streljanja | Strelivo/Naložitev |
+| Orožje | Škode | Domet | Hitrost streljanja | Strelivo/Obremenitev |
 | :-- | :-: | :-: | :-: | :-: |
-| 50-palčni top | 3k6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
-| Minigun/Gatling puška | 3k6 | 300/1000/2000 | -/20/100 | 200/4 |
-| Raketa | 5k6 | 5000/20km/60km | 1 | 1/5 |
-| Srednja raketa/torpedo | 6k10 | Maksimalni doseg 200km | 1 | 1/5 |
-| Velika/križarska raketa | 6k10+10 | Maksimalni doseg 1000km | 1 | 1/10 |
-| Laserski/plazemski top | 4k6 | 300/1000/2000 | -/5/25 | 500/5 |
-| Težki laserski/plazemski top | 5k6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Topniška baterija | 5k6+6 | Maksimalni doseg 50km | 1 | 1/5 |
-| Baterija na hrbtišču | 10k6+6 | Maksimalni doseg 20000km | 1 | 1/10 |
+| 50-palčni top | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
+| Minigun/Gatling puška | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
+| Raketa | 5d6 | 5000/20km/60km | 1 | 1/5 |
+| Srednji izstrelek/torpedo | 6d10 | Max domet 200km | 1 | 1/5 |
+| Velik/krilati izstrelek | 6d10+10 | Max domet 1000km | 1 | 1/10 |
+| Laser/plazemski top | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
+| Težki laserski/plazemski top | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
+| Artilerijska baterija | 5d6+6 | Max domet 50km | 1 | 1/5 |
+| Osno vgrajena baterija | 10d6+6 | Max domet 20000km | 1 | 1/10 |
 
-_Dosegi so podani v metrih in kilometrih._
+_Razdalje so podane v metrih in kilometrih._
 
-_Hitrosti streljanja so za enojni strel, polavtomatsko in popolnoma avtomatsko._
+_Hitrosti streljanja so za posamezen strel, polavtomatsko in polno avtomatsko._
 
-_Strelivo je sposobnost streljanja pred ponovnim polnjenjem. Naložitev je čas ponovnega polnjenja v bojnih krogih, ob predpostavki, da je na voljo polna posadka._
+_Strelivo je zmožnost streljanja pred potrebo po ponovnem polnjenju. Obremenitev je čas ponovnega polnjenja v bojnih krogih (Combat Rounds), ob predpostavki, da je na voljo polna posadka._
 
 ---
-## Upravljanje in manövri
+## Upravljanje in manevri
 
-Izogibajoči se ali nenadni manövri zahtevajo uspešen met Vožnje/Pilotiranja, da se zagotovi, da voznik ali pilot ohrani nadzor nad vozilom. Večina vozil je zasnovana in zgrajena tako, da prenese občasne obremenitve in napore, vendar lahko Mojster igre odloči, da določen manever zahteva met z višjo stopnjo težavnosti, odvisno od njegove ambicioznosti. Neuspeh pomeni izgubo nadzora nad vozilom: vrzi na tabelo Izgube nadzora.
+Izmikanje ali nenadni manevri zahtevajo uspešen met za Vožnjo/Pilotiranje, da zagotovite, da voznik ali pilot ohrani nadzor nad vozilom. Večina vozil je zasnovana in zgrajena tako, da zdržijo občasne obremenitve in napore, vendar lahko mojster igre (Games Master) odloči, da določen manever zahteva met z višjo stopnjo težavnosti, odvisno od tega, kako ambiciozen je. Neuspeh pomeni, da je nadzor nad vozilom izgubljen: mečite po tabeli Izguba nadzora.
 
-Upoštevajte, da Tabela Izgube nadzora velja samo za kopenska vozila. Podobni učinki se lahko uporabijo za zračna in vesoljska vozila, vendar bodo Mojstri igre morali prilagoditi razloge za specifičen učinek. Na primer, letalo, namesto da bi zdrselo, bi lahko šlo v vrtenje.
+Upoštevajte, da tabela Izguba nadzora velja samo za kopenska vozila. Podobne učinke je mogoče uporabiti za zračna in vesoljska vozila, vendar bodo morali mojstri iger prilagoditi utemeljitev za določen učinek. Na primer, letalo bi lahko namesto zanašanja padlo v vrtenje (spin).
 
-Prav tako lahko inherentno upravljanje vozila dodatno vpliva na met Vožnje. Upravljanje je bodisi Enostavno, Standardno, Težko, Zastrašujoče ali Herkulejsko in določa izhodišče za met Vožnje pri izvajanju manevra. Stopnja težavnosti za manever se nato uporabi na upravljanje, da se določi končna težavnost.
+Prav tako lahko voznikova prirojena vodljivost dodatno vpliva na met za Vožnjo. Vodljivost je bodisi Lahka (Easy), Standardna, Težka (Hard), Zastrašujoča (Formidable) ali Herkulovska (Herculean) in določa izhodišče za met za Vožnjo pri izvajanju manevra. Stopnja težavnosti manevra se nato uporabi za vodljivost, da se določi končna težavnost.
 
-Na primer, visoko zmogljivo motorno kolo ima vgrajene žirostabilizatorje, ki mu dajejo Upravljanje Enostavno. Voznik želi izvesti 180-stopinjski zavoj z drsenjem, da bi se izognil zasledovalcu, manever, ki ga Mojster igre oceni kot eno dodatno stopnjo težavnosti. Voznik mora zato svoj met Vožnje izvesti na Standardno namesto Enostavno. Če bi poskušal isti manever na nestabiliziranem motociklu, bi bil met Vožnje Težak.
+Na primer, visoko zmogljivo motorno kolo ima vgrajene girostabilizatorje, ki mu dajejo Lahko (Easy) vodljivost. Voznik želi izvesti 180-stopinjski obrat z zanašanjem, da bi se izognil zasledovalcu, manever, ki ga mojster igre oceni kot eno stopnjo težavnosti višje. Voznik mora torej opraviti met za Vožnjo s Standardno namesto Lahko (Easy) težavnostjo. Če bi poskušal isti manever na nestabiliziranem motornem kolesu, bi bil met za Vožnjo Težak (Hard).
 
-Vrhunsko Upravljanje je Lastnost. Če vozilo nima te lastnosti kot del svojega opisa, je privzeta vrednost Standardno upravljanje za vsa vozila velikosti Veliko in manj. Ogromna in Izjemna vozila inherentno imajo lastnost Upravljanja Zastrašujoče in Herkulejsko, in Mojster igre lahko prosto odloči, da so določeni manövri preprosto nemogoči za doseči zaradi velikosti vozila.
+Vrhunska vodljivost (Superior Handling) je lastnost. Če vozilo nima te lastnosti kot del svojega opisa, je privzeta standardna vodljivost za vsako vozilo velikosti Veliko (Large) in manjše. Ogromna (Huge) in Zelo velika (Enormous) vozila imajo po svoji naravi Zastrašujočo (Formidable) oziroma Herkulovsko (Herculean) vodljivost, mojster igre pa lahko odloči, da so določeni manevri preprosto nemogoči zaradi velikosti vozila.
 
 ##### Tabela izgube nadzora
 
-| 1k100 | Rezultat |
+| 1d100 | Rezultat |
 | :-: | :-- |
-| 01-25 | Zasuk. Izguba nadzora je začasna. Vozilo zmanjša hitrost za 1 stopnjo za 5 sekund. |
-| 26-40 | Zdrsljaj. Voznik se mora boriti, da obdrži vozilo pod nadzorom. Vozilo zmanjša hitrost za 2 stopnji za 10 sekund. |
-| 41-50 | Hud zdrsljaj. Vozilo konča obrnjen v napačno smer in v mirovanju za 15 sekund. |
-| 51-60 | Preval. Vozilo zdrsi in se prevrne, utrpi 3k10 škode na svoji Strukturi. Potniki morajo uspešno opraviti mete Vzdržljivosti ali utrpeti 1k10 škode na 1k3 Lokacijah zadetka. |
-| 61-70 | Hud preval. Kot zgoraj, vendar vozilo utrpi 3k10+10 škode in Potniki prejmejo 1k10 škode tudi če met Vzdržljivosti uspe, in 2k10, če ne uspe. |
-| 71-80 | Odpis. Kot zgoraj, vendar je vozilo zmanjšano na 0 Strukture. Potniki utrpijo enako škodo kot pri Hudem prevalu. |
-| 81-90 | Eksplozija. Kot zgoraj, vendar se gorivni sistem vozila vžge in eksplodira v 1k20+10 sekundah. Če se ne morejo umakniti, potniki utrpijo dodatnih 1k6 škode od opeklin na 1k6 lokacijah. |
-| 91-98 | Takojšnja eksplozija. Kot zgoraj, vendar je eksplozija takojšnja. |
-| 99-00 | Katastrofalen trk. Potniki morajo uspešno vreči Vzdržljivost ali biti takoj ubiti. Škoda kot pri Odpisu je utrpljena ne glede na to. |
+| 01-25 | Zanašanje (Swerve). Izguba nadzora je začasna. Vozilo zmanjša hitrost za 1 stopnjo za 5 sekund. |
+| 26-40 | Zdrs (Skid). Voznik se mora boriti, da ohrani vozilo pod nadzorom. Vozilo zmanjša hitrost za 2 stopnji za 10 sekund. |
+| 41-50 | Hud zdrs (Severe Skid). Vozilo se obrne v napačno smer in obstoji za 15 sekund. |
+| 51-60 | Prevrnitev (Roll). Vozilo zdrsi in se prevrne, pri čemer utrpi 3d10 škode na svoji Strukturi. Potniki morajo opraviti uspešne mete za VZD (Endurance) ali utrpijo 1d10 škode na 1d3 lokacijah zadetkov. |
+| 61-70 | Huda prevrnitev (Severe Roll). Kot zgoraj, vendar vozilo utrpi 3d10+10 škode, potniki pa prejmejo 1d10 škode, tudi če je met za VZD uspešen, in 2d10, če ne uspe. |
+| 71-80 | Odtis (Write-Off). Kot zgoraj, vendar je vozilo zmanjšano na 0 Strukture. Potniki utrpijo enako škodo kot pri Hudi prevrnitvi. |
+| 81-90 | Eksplozija (Explosion). Kot zgoraj, vendar se gorivni sistem vozila vname in eksplodira v 1d20+10 sekundah. Če se ne morejo rešiti, potniki utrpijo dodatnih 1d6 škode z opeklinami na 1d6 lokacijah. |
+| 91-98 | Takojšnja eksplozija (Immediate Explosion). Kot zgoraj, vendar je eksplozija takojšnja. |
+| 99-00 | Katastrofalno trčenje (Catastrophic Crash). Potniki morajo uspešno vreči VZD ali so takoj ubiti. Škoda kot pri Odtisu je utrpela ne glede na to. |
 
 ---
 ## Vzorčna vozila
@@ -421,155 +426,155 @@ Vrhunsko Upravljanje je Lastnost. Če vozilo nima te lastnosti kot del svojega o
 
 ### Kopenska vozila
 
-#### Prestreznik
+#### Prestrelec (Interceptor)
 
-Predelan luksuzni avto, športni avto ali podobno, ta avto je zgrajen za hitro vožnjo in boj. To je tisto vozilo, na katerega ljudje pomislijo, ko nekdo reče "vohunski avto".
+Navit luksuzni avtomobil, športni avtomobil ali podobno; ta avtomobil je zgrajen za hitrost in da v boju vrne toliko, kolikor dobi. To je vrsta vozila, na katero ljudje pomislijo, ko nekdo reče "vohunski avto".
 
-| Prestreznik | |
+| Prestrelec | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje vojaško |
-| **Ohišje** | 6 |
+| **Velikost / Tip** | Srednje vojaško |
+| **Trup** | 6 |
 | **Struktura** | 40 |
 | **Sistemi** | 2 |
 | **Hitrost** | Hitro |
-| **Upravljanje** | Enostavno |
-| **Lastnosti** | [Izvržni sedež](0006_Vehicles.md?id=ejector-seat), [Izboljšana zmogljivost](0006_Vehicles.md?id=enhanced-performance), [Vrhunsko upravljanje](0006_Vehicles.md?id=superior-handling), [Nadzorna oprema](0006_Vehicles.md?id=surveillance-suite), [Oboroženo](0006_Vehicles.md?id=weaponized) |
-| **Orožja** | Razpršilec oljnega madeža, Razpršilec dima, Dvojno povezane srednje strojnice (2k6+3) |
+| **Vodljivost** | Lahka |
+| **Lastnosti** | [Ejector Seat](0006_Vehicles.md?id=ejector-seat), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Weaponized](0006_Vehicles.md?id=weaponized) |
+| **Orožje** | Razpršilec oljnega madeža, Razpršilec dima, Dvojno povezana srednja mitraljeza (2d6+3) |
 
 <br>
 
 ---
 
-#### Zasledovalno motorno kolo
+#### Zasledovalni motocikel (Pursuit Motorcycle)
 
-Lahko, hitro motorno kolo za hitra zasledovanja, Zasledovalno motorno kolo nosi presenečenje – bodisi par povezanih strojnic ali dve raketi.
+Lahek, hiter motocikel za hitre zasledovanja, zasledovalni motocikel nosi presenečenje – bodisi par povezanih mitraljezov bodisi dve raketi.
 
-| Zasledovalno motorno kolo | |
+| Zasledovalni motocikel | |
 | :- | :- |
-| **Velikost / Vrsta** | Majhno civilno |
-| **Ohišje** | 2 |
+| **Velikost / Tip** | Majhno civilno |
+| **Trup** | 2 |
 | **Struktura** | 12 |
 | **Sistemi** | 1 |
 | **Hitrost** | Hitro |
-| **Upravljanje** | Enostavno |
-| **Lastnosti** | [Vrhunsko upravljanje](0006_Vehicles.md?id=superior-handling), [Oboroženo](0006_Vehicles.md?id=weaponized) |
-| **Orožja** | Dve raketi (4k6) ali dvojno povezane lahke strojnice (2k6) |
+| **Vodljivost** | Lahka |
+| **Lastnosti** | [Superior Handling](0006_Vehicles.md?id=superior-handling), [Weaponized](0006_Vehicles.md?id=weaponized) |
+| **Orožje** | Dve raketi (4d6) ali Dvojno povezana lahka mitraljeza (2d6) |
 
 <br>
 
 ---
 
-#### Limuzina
+#### Limuzina (Sedan Car)
 
-Standardna 4-vratna limuzina, ki ponuja dovolj prostora za udobno sedenje voznika in treh potnikov. Žrtvuje tovorni prostor za vključitev nadzorne opreme.
+Standardna limuzina s 4 vrati, ki ponuja dovolj prostora za udobno namestitev voznika in treh potnikov. Žrtvuje tovorni prostor za vključitev nadzornega paketa.
 
 | Limuzina | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje civilno |
-| **Ohišje** | 4 |
+| **Velikost / Tip** | Srednje civilno |
+| **Trup** | 4 |
 | **Struktura** | 25 |
 | **Sistemi** | 2 |
-| **Hitrost** | Hitro |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | Nevpadljivo, [Nadzorna oprema](0006_Vehicles.md?id=surveillance-suite) |
-| **Orožja** | Nič |
+| **Hitrost** | Hitro (Rapid) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Unobtrusive](0006_Vehicles.md?id=unobtrusive), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite) |
+| **Orožje** | Brez |
 
 <br>
 
 ---
 
-#### Podvodni avto
+#### Potopni avtomobil (Submersible Car)
 
-Dvoosebni avto, ki lahko preklopi na vodni ali podvodni način za potovanje po ali pod vodo. Opremljen je s spredaj nameščeno torpedo in na vrhu nameščeno raketo zemlja-zrak.
+Avtomobil za dve osebi, ki lahko preklopi na vodni ali potopni način za potovanje po ali pod vodo. Opremljen s spredaj nameščenim torpedom in na vrhu nameščenim raketnim sistemom zemlja-zrak.
 
-| Podvodni avto | |
+| Potopni avtomobil | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje civilno |
-| **Ohišje** | 6 |
+| **Velikost / Tip** | Srednje civilno |
+| **Trup** | 6 |
 | **Struktura** | 25 |
 | **Sistemi** | 2 |
 | **Hitrost** | Hitro |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [Izboljšana zmogljivost](0006_Vehicles.md?id=enhanced-performance), [Podvodno](0006_Vehicles.md?id=submersible), [Vodno](0006_Vehicles.md?id=waterborne), [Oboroženo](0006_Vehicles.md?id=weaponized) |
-| **Orožja** | Raketa (5k6), Torpedo (4k10) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Submersible](0006_Vehicles.md?id=submersible), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
+| **Orožje** | Raketa (5d6), Torpedo (4d10) |
 
 <br>
 
 ---
 
-#### Nadzorni kombi
+#### Nadzorni kombi (Surveillance Van)
 
-Navaden, neoznačen kombi, v katerem je ekipa agentov in komplet avdio-vizualne snemalne opreme.
+Navaden, neoznačen kombi, v katerem je ekipa agentov in paket avdio-vizualne opreme za snemanje.
 
 | Nadzorni kombi | |
 | :- | :- |
-| **Velikost / Vrsta** | Veliko civilno |
-| **Ohišje** | 9 |
+| **Velikost / Tip** | Veliko civilno |
+| **Trup** | 9 |
 | **Struktura** | 60 |
 | **Sistemi** | 3 |
-| **Hitrost** | Nežno |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [Nadzorna oprema](0006_Vehicles.md?id=surveillance-suite), [Vzdržljivo](0006_Vehicles.md?id=tough) |
-| **Orožja** | Nič |
+| **Hitrost** | Nežno (Gentle) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Tough](0006_Vehicles.md?id=tough) |
+| **Orožje** | Brez |
 
 <br>
 
 ---
 
-#### Taktično vozilo za podporo
+#### Taktično podporno vozilo (Tactical Support Vehicle)
 
-Pickup ali džip s prostorom za dvočlansko posadko v kabini in strelca, ki stoji v tovornem delu in upravlja vrtljivo nameščeno srednjo strojnico.
+Poltovornjak ali jeep s prostorom za dvočlansko posadko v kabini in strelcem, ki stoji v kesonu in upravlja vrtljivo nameščen srednji mitraljez.
 
-| Taktično vozilo za podporo | |
+| Taktično podporno vozilo | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje civilno |
-| **Ohišje** | 6 |
+| **Velikost / Tip** | Srednje civilno |
+| **Trup** | 6 |
 | **Struktura** | 30 |
 | **Sistemi** | 2 |
-| **Hitrost** | Hitro |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [Vse terensko](0006_Vehicles.md?id=all-terrain), [Oboroženo](0006_Vehicles.md?id=weaponized) |
-| **Orožja** | Nameščena srednja strojnica (2k6) |
+| **Hitrost** | Hitro (Rapid) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [All Terrain](0006_Vehicles.md?id=all-terrain), [Weaponized](0006_Vehicles.md?id=weaponized) |
+| **Orožje** | Nameščen srednji mitraljez (2d6) |
 
 <br>
 
 ---
 
-### Vodna plovila
+### Plovila
 
-#### Gliser
+#### Čoln za hitro vožnjo (Speedboat)
 
-Tipičen gliser, oborožen z zadaj nameščenim razpršilnikom min.
+Tipičen čoln za hitro vožnjo, oborožen z zadaj nameščenim razpršilnikom min.
 
-| Gliser | |
+| Čoln za hitro vožnjo | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje civilno |
-| **Ohišje** | 3 |
+| **Velikost / Tip** | Srednje civilno |
+| **Trup** | 3 |
 | **Struktura** | 24 |
 | **Sistemi** | 2 |
 | **Hitrost** | Hitro |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [Izboljšana zmogljivost](0006_Vehicles.md?id=enhanced-performance), [Vodno](0006_Vehicles.md?id=waterborne), [Oboroženo](0006_Vehicles.md?id=weaponized) |
-| **Orožja** | Razpršilec min (5k6) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Waterborne](0006_Vehicles.md?id=waterborne), [Weaponized](0006_Vehicles.md?id=weaponized) |
+| **Orožje** | Razpršilec min (5d6) |
 
 <br>
 
 ---
 
-#### Jahta
+#### Jahta (Yacht)
 
-Luksuzna jahta, ki bi jo lahko imel oligarh. Verjetno opremljena z nadzorno opremo za zaščito pred sovražniki, ki poskušajo delati slabe stvari.
+Vrsta luksuzne jahte, kakršno bi lahko imel oligarh. Verjetno opremljena z nadzornim paketom za zaščito pred sovražniki, ki poskušajo početi kaj neprimernega.
 
 | Jahta | |
 | :- | :- |
-| **Velikost / Vrsta** | Ogromno civilno |
-| **Ohišje** | 10 |
+| **Velikost / Tip** | Ogromno civilno |
+| **Trup** | 10 |
 | **Struktura** | 75 |
 | **Sistemi** | 4 |
 | **Hitrost** | Počasi |
-| **Upravljanje** | Zastrašujoče |
-| **Lastnosti** | [Razkošno](0006_Vehicles.md?id=luxurious), [Nadzorna oprema](0006_Vehicles.md?id=surveillance-suite), [Vodno](0006_Vehicles.md?id=waterborne) |
-| **Orožja** | Nič |
+| **Vodljivost** | Zastrašujoča |
+| **Lastnosti** | [Luxurious](0006_Vehicles.md?id=luxurious), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [Waterborne](0006_Vehicles.md?id=waterborne) |
+| **Orožje** | Brez |
 
 <br>
 
@@ -577,100 +582,100 @@ Luksuzna jahta, ki bi jo lahko imel oligarh. Verjetno opremljena z nadzorno opre
 
 ### Letala/Vesoljska plovila
 
-#### Zračno plovilo (Civilna zračna ladja)
+#### Dirigibil (Civilna zračna ladja)
 
-Podobno Hindenburgu, ta razred transkontinentalnega zračnega plovila (in drugi njegovega razreda) je dolg 245 metrov in potrebuje posadko 40 do 61 oseb. Običajno lahko prevaža 50 do 72 potnikov v luksuznih namestitvah.
+Podobno kot Hindenburg, ta razred transkontinentalnih dirigibilov (in drugi iz tega razreda) meri 245 metrov v dolžino in zahteva posadko od 40 do 61 članov. Običajno lahko prevaža od 50 do 72 potnikov v luksuznih nastanitvah.
 
-| Zračno plovilo | |
+| Dirigibil | |
 | :- | :- |
-| **Velikost / Vrsta** | Izjemno civilno |
-| **Ohišje** | 10 |
+| **Velikost / Tip** | Zelo veliko civilno |
+| **Trup** | 10 |
 | **Struktura** | 85 |
 | **Sistemi** | 5 |
-| **Hitrost** | Omajano |
-| **Upravljanje** | Herkulejsko |
-| **Lastnosti** | [V zraku](0006_Vehicles.md?id=airborne), [Razkošno](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
-| **Ščiti** | Nič |
-| **Orožja** | Nič |
+| **Hitrost** | Težko (Ponderous) |
+| **Vodljivost** | Herkulovska |
+| **Lastnosti** | [Airborne](0006_Vehicles.md?id=airborne), [Luxurious](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Ščiti** | Brez |
+| **Orožje** | Brez |
 
 <br>
 
 ---
 
-#### Jurišni helikopter
+#### Jurišni helikopter (Assault Helicopter)
 
-Tradicionalni jurišni helikopter uporablja svojo napredno nadzorno tehnologijo za prestrezanje telefonskih in brezžičnih internetnih signalov ter sledenje posameznikom in vozilom tudi v temi, preko FLIR. Poskusi izogibanja sledilcu preko Prikritosti so Zastrašujoči.
+Tradicionalni jurišni helikopter uporablja svojo napredno nadzorno tehnologijo za prestrezanje telefonskih in brezžičnih internetnih signalov ter sledenje posameznikom in vozilom, tudi v temi, prek FLIR. Poskusi izogibanja sledilcu s prikritostjo (Stealth) so Zastrašujoči (Formidable).
 
 | Jurišni helikopter | |
 | :- | :- |
-| **Velikost / Vrsta** | Veliko vojaško |
-| **Ohišje** | 11 |
+| **Velikost / Tip** | Veliko vojaško |
+| **Trup** | 11 |
 | **Struktura** | 50 |
 | **Sistemi** | 3 |
 | **Hitrost** | Zmerno |
-| **Upravljanje** | Enostavno |
-| **Lastnosti** | [V zraku](0006_Vehicles.md?id=airborne), [Izboljšana zmogljivost](0006_Vehicles.md?id=enhanced-performance), [Prikritost](0006_Vehicles.md?id=stealth), [Vrhunsko upravljanje](0006_Vehicles.md?id=superior-handling), [Nadzorna oprema](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
-| **Ščiti** | Nič |
-| **Orožja** | 1 Gatling puška (3k6), 4 rakete (5k6) |
+| **Vodljivost** | Lahka |
+| **Lastnosti** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Surveillance Suite](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Ščiti** | Brez |
+| **Orožje** | 1 Gatling puška (3d6), 4 rakete (5d6) |
 
 <br>
 
 ---
 
-#### Večnamensko lovsko letalo
+#### Večnamenski lovec (Multi-Role Fighter)
 
-To dvosedežno kopensko lovsko letalo (podobno tipu De Havilland Mosquito) je dobro znano po svoji zmogljivosti in vsestranskosti. Njegov bombni prostor lahko nosi bodisi dve 250-funtski bombi (obravnavaj kot srednje rakete z dosegom 0) ali eno torpedo.
+Ta dvosedežni kopenski lovec (podobnega tipa kot De Havilland Mosquito) je znan po svoji zmogljivosti in vsestranskosti. Njegov prostor za bombe lahko nosi bodisi dve 250 lb. bombi (obravnavajte kot srednje izstrelke z dosegom 0) ali en sam torpedo.
 
-| Večnamensko lovsko letalo | |
+| Večnamenski lovec | |
 | :- | :- |
-| **Velikost / Vrsta** | Veliko vojaško |
-| **Ohišje** | 10 |
+| **Velikost / Tip** | Veliko vojaško |
+| **Trup** | 10 |
 | **Struktura** | 45 |
 | **Sistemi** | 3 |
 | **Hitrost** | Zmerno |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [V zraku](0006_Vehicles.md?id=airborne), [Izboljšana zmogljivost](0006_Vehicles.md?id=enhanced-performance) |
-| **Ščiti** | Nič |
-| **Orožja** | 4 nosno nameščene Gatling puške (4k6+3), 1 bombni prostor (6k10 - glej opis) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Airborne](0006_Vehicles.md?id=airborne), [Enhanced Performance](0006_Vehicles.md?id=enhanced-performance) |
+| **Ščiti** | Brez |
+| **Orožje** | 4 spredaj nameščene Gatling puške (4d6+3), 1 prostor za bombe (6d10 - glej opis) |
 
 <br>
 
 ---
 
-#### Medzvezdni tovornjak (Lahki visokotehnološki transport)
+#### Medzvezdna tovorna ladja (Interstellar Freighter)
 
-Ta lahki transportni sistem zahteva minimalno posadko samo dveh, s prostorom za do štiri dodatne potnike. Tukaj je navedena standardna tovarniška različica, vendar bodo mnogi lastniki uporabili svoje "posebne modifikacije", kot so skriti tovorni prostor, Izboljšana zmogljivost, Vrhunsko upravljanje, Odpornost na EMP, Prikritost in tako naprej.
+Za ta lahki transport sta potrebna najmanj dva člana posadke, s prostorom za do štiri dodatne potnike. Tukaj je navedena standardna različica, vendar bodo mnogi lastniki uporabili svoje "posebne modifikacije", kot so skrit tovorni prostor, izboljšana zmogljivost, vrhunska vodljivost, odpornost na EMP, prikritost in tako naprej.
 
-| Medzvezdni tovornjak | |
+| Medzvezdna tovorna ladja | |
 | :- | :- |
-| **Velikost / Vrsta** | Srednje civilno vesoljsko plovilo |
-| **Ohišje** | 10 |
+| **Velikost / Tip** | Srednje civilno vesoljsko plovilo |
+| **Trup** | 10 |
 | **Struktura** | 80 |
 | **Sistemi** | 2 |
-| **Hitrost** | Hitro (Faktor parseka 3) |
-| **Upravljanje** | Standardno |
-| **Lastnosti** | [V zraku](0006_Vehicles.md?id=airborne), [Tovor](0006_Vehicles.md?id=cargo), [HLT](0006_Vehicles.md?id=ftl), [Vesoljsko plovilo](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Hitrost** | Hitro (Parsec faktor 3) |
+| **Vodljivost** | Standardna |
+| **Lastnosti** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Spacecraft](0006_Vehicles.md?id=spacecraft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Ščiti** | 8 |
-| **Orožja** | 2x štirikratno nameščene kupole z laserskimi topovi (5k6) |
+| **Orožje** | 2x štirikratno nameščeni laserski topovi (5d6) |
 
 <br>
 
 ---
 
-#### Splošna kontaktna enota (Ultra visokotehnološko vesoljsko plovilo)
+#### Enota za splošne stike (General Contact Unit)
 
-Ta izjemno visokotehnološka zvezdna ladja je fizična predstavitev zelo naprednega umetnega uma, ki ima obliko dva kilometra dolge serije poljsko povezanih modulov. Moduli so individualno namenski in vključujejo habitate, gradbene objekte, tovorne prostore, predelavo hrane, rekreacijske komplekse, hangarje in celo nekatere skrivnostne enote, o katerih ladijska inteligenca redko, če sploh kdaj, razpravlja. Ne potrebuje človeške posadke, vendar lahko z lahkoto podpira populacijo potnikov do 100.000. Mnogi potniki se rodijo in umrejo na krovu Kontaktne Enote: mnogi so prehodni, prihajajo in odhajajo po želji.
+Ta izjemno visokotehnološka zvezdna ladja je fizična predstavitev zelo naprednega umetnega Uma, ki ima obliko dva kilometra dolge serije terensko povezanih modulov. Moduli so individualno usmerjeni in vključujejo habitate, gradbene objekte, tovorne prostore, predelavo hrane, prostore za prosti čas, hangarje in celo nekatere skrivnostne enote, o katerih inteligenca ladje redko, če sploh kdaj, razpravlja. Ne potrebuje človeške posadke, vendar lahko z lahkoto podpira potniško populacijo do 100.000 ljudi. Mnogi potniki se rodijo in umrejo na krovu kontaktne enote: mnogi so tranzitni, prihajajo in odhajajo, kakor želijo.
 
-| Splošna kontaktna enota | |
+| Enota za splošne stike | |
 | :- | :- |
-| **Velikost / Vrsta** | Kolosalno civilno vesoljsko plovilo |
-| **Ohišje** | 20 |
+| **Velikost / Tip** | Kolosalno civilno vesoljsko plovilo |
+| **Trup** | 20 |
 | **Struktura** | 10.000 |
 | **Sistemi** | 6 |
-| **Hitrost** | Zmerno (Faktor parseka 4. Na tej tehnološki ravni, Faktor pomeni 1 uro) |
-| **Upravljanje** | Zastrašujoče |
-| **Lastnosti** | [V zraku](0006_Vehicles.md?id=airborne), [Tovor](0006_Vehicles.md?id=cargo), [Nosilec](0006_Vehicles.md?id=carrier), [Konstrukcija](0006_Vehicles.md?id=construction), [HLT](0006_Vehicles.md?id=ftl), [Razkošno](0006_Vehicles.md?id=luxurious), [Vesoljsko plovilo](0006_Vehicles.md?id=space-craft),[Vrhunsko upravljanje](0006_Vehicles.md?id=superior-handling), [Vlečni žarek](0006_Vehicles.md?id=tractor-beam) |
+| **Hitrost** | Zmerno (Parsec faktor 4. Na tej ravni tehnologije je faktor enak 1 uri) |
+| **Vodljivost** | Zastrašujoča |
+| **Lastnosti** | [Airborne](0006_Vehicles.md?id=airborne), [Cargo](0006_Vehicles.md?id=cargo), [Carrier](0006_Vehicles.md?id=carrier), [Construction](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luxurious](0006_Vehicles.md?id=luxurious), [Spacecraft](0006_Vehicles.md?id=spacecraft), [Superior Handling](0006_Vehicles.md?id=superior-handling), [Tractor Beam](0006_Vehicles.md?id=tractor-beam) |
 | **Ščiti** | 30 |
-| **Orožja** | Nobenega, o katerem bi se hotela pogovarjati |
+| **Orožje** | Brez, o katerem bi želela razpravljati |
 
 <br>

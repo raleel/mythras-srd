@@ -1,72 +1,75 @@
-# Automjetet
+# Mjetet e Transportit
 
-Automjetet në _Mythras Imperative_ trajtohen në një mënyrë gjysmë-abstrakte. Në thelb, ato janë mjete sfondore, të përdorura për të çuar personazhet nga A në B, me pak nevojë për përshkrime ose statistika të detajuara. Megjithatë, herë pas here, Mjeshtrat e Lojës do të kërkojnë detaje për automjetet kur është e nevojshme t'i përfaqësojnë ato në ndjekje ose situata luftarake.
+Mjetet e transportit në _Mythras Imperative_ trajtohen në mënyrë gjysmë-abstrakte. Në thelb, ato janë mjete të sfondit, të përdorura për t'i dërguar personazhet nga pika A në pikën B, me pak nevojë për përshkrime të hollësishme ose statistika. Megjithatë, në raste të caktuara, Udhëheqësit e Lojës do të kërkojnë detaje për mjetet kur është e nevojshme t'i përfaqësojnë ato në ndjekje ose situata luftimi.
 
-Rregullat në këtë seksion lejojnë përfaqësimin e shumicës së llojeve të automjeteve, por në një mënyrë të abstraktuar që synon të lejojë fleksibilitet dhe të përmirësojë tregimin. Anijet kozmike dhe mjetet hapësinore janë paksa të ndryshme, megjithëse bazohen në parime të ngjashme.
+Rregullat në këtë seksion lejojnë përfaqësimin e shumicës së llojeve të mjeteve, por në një mënyrë të abstraktuar që synon të lejojë fleksibilitet dhe të përmirësojë tregimin. Anijet kozmike dhe mjetet hapsinore janë pak më ndryshe, megjithëse bazohen në parime të ngjashme.
 
 ---
 ## Statistikat
 
-Të gjitha automjetet përshkruhen në termat e Strukturës, Kores, Shpejtësisë, Sistemeve, Tipareve dhe Mburojave të tyre (nëse janë të pranishme në mjedis).
+Të gjitha mjetet përshkruhen për sa i përket Strukturës, Kores (Hull), Shpejtësisë, Sistemeve, Tipareve dhe Mburojave (nëse janë të pranishme në mjedisin e lojës).
 
-- **[Madhësia](0006_Vehicles.md?id=vehicle-size-table):** Të gjitha automjetet kanë një nga gjashtë vlerësimet e Madhësisë që përcakton vlerën ose rangun e karakteristikave të tjera. Për shkak të madhësisë së tyre më të madhe thelbësore dhe mjediseve armiqësore të hapësirës, anijet kozmike kanë rangun e tyre të vlerave.
-- **[Korja](0006_Vehicles.md?id=terrestrial-hulls):** Përfaqëson Pikët e Armaturës
-- **[Struktura](0006_Vehicles.md?id=terrestrial-hulls):** Përfaqëson Pikët e Jetës të një automjeti
-- **[Mburojat](0006_Vehicles.md?id=shields):** Në mjedise me teknologji të avancuar të manipulimit të energjisë, mund të jenë të pranishme mburoja që mbrojnë automjetin, por që mund të shkatërrohen nën zjarr të vazhdueshëm.
-- **[Sistemet](0006_Vehicles.md?id=systems):** Përfaqësojnë komponentët jetësorë të automjetit, duke përfshirë centralin e energjisë, seksionin e ekuipazhit, etj.
-- **[Shpejtësia](0006_Vehicles.md?id=speed):** Çdo automjet ka një vlerësim bazë të Shpejtësisë
-- **[Tiparet](0006_Vehicles.md?id=traits):** Një automjet mund të ketë gjithashtu një ose më shumë Tipare. Tiparet, ashtu si Aftësitë e caktuara Krijesave në rregullat e _Mythras Imperative_, ose Tiparet e Stilit të Luftimit, ofrojnë një përshkrim dhe avantazh shtesë loje, duke reflektuar natyrën e automjetit.
-- **[Armët](0006_Vehicles.md?id=weapons):** Ashtu si Tiparet, një automjet mund të pajiset me armë sipas lejes së mjedisit. Disa shembuj dhe vlera të sugjeruara detajohen më poshtë.
+- **[Madhësia](0006_Vehicles.md?id=vehicle-size-table):** Të gjitha mjetet kanë një nga gjashtë vlerësimet e Madhësisë, i cili përcakton vlerën ose diapazonin e karakteristikave të tjera. Për shkak të madhësisë së tyre më të madhe thelbësore dhe mjediseve armiqësore të hapësirës, anijet kozmike kanë diapazonin e tyre të vlerave.
+- **[Kore](0006_Vehicles.md?id=terrestrial-hulls):** Përfaqëson Pikat e Armaturës.
+- **[Struktura](0006_Vehicles.md?id=terrestrial-hulls):** Përfaqëson Pikat e Goditjes (Hit Points) të një mjeti.
+- **[Mburojat](0006_Vehicles.md?id=shields):** Në mjedise me teknologji të avancuar të manipulimit të energjisë, mund të jenë të pranishme mburoja që mbrojnë mjetin, por që mund të gërryhen nën zjarr të vazhdueshëm.
+- **[Sistemet](0006_Vehicles.md?id=systems):** Përfaqësojnë komponentët jetikë të mjetit, duke përfshirë termocentralin, seksionin e ekuipazhit, e kështu me radhë.
+- **[Shpejtësia](0006_Vehicles.md?id=speed):** Çdo mjet ka një vlerësim bazë të Shpejtësisë.
+- **[Tiparet](0006_Vehicles.md?id=traits):** Një mjet mund të ketë gjithashtu një ose më shumë Tipare. Tiparet, si Aftësitë e caktuara për Krijesat në rregullat e _Mythras Imperative_, ose Tiparet e Stilit të Luftimit, ofrojnë një përshkrim dhe përparësi shtesë të lojës, duke reflektuar natyrën e mjetit.
+- **[Armët](0006_Vehicles.md?id=weapons):** Ashtu si Tiparet, një mjet mund të pajiset me armë siç e lejon mjedisi. Disa shembuj dhe vlera të sugjeruara janë detajuar më poshtë.
+
 
 ---
-### Madhësia, Lloji dhe Struktura e Kores
+### Madhësia e Kores, Lloji dhe Struktura
 
-Madhësia dhe qëllimi i një automjeti ndikojnë në trashësinë e kores së tij dhe qëndrueshmërinë e strukturës së tij të brendshme. Një motoçikletë, për shembull, ka një korë minimale, e ndërtuar për shpejtësi dhe shkathtësi. Një Land Ironclad (një bishë e madhe, e blinduar me zinxhirë ose rrota, e mundësuar nga motorë me avull ose diesel), duke qenë një automjet shumë më i madh i projektuar për fushën e betejës, ka një korë shumë më të madhe. Madhësitë krahasuese të koreve (dhe sa goditje nga armët mund të përballojnë tipikisht), përmblidhen në tabelat e Madhësisë dhe Kores së Automjeteve më poshtë.
+Madhësia dhe qëllimi i një mjeti ndikojnë në trashësinë e kores së tij dhe qëndrueshmërinë e strukturës së brendshme. Një motoçikletë, për shembull, ka një kore minimale, e ndërtuar për shpejtësi dhe shkathtësi. Një "Land Ironclad" (një përbindësh masiv i blinduar me zinxhirë ose rrota, i fuqizuar nga motorë me avull ose naftë), duke qenë një mjet shumë më i madh i krijuar për fushën e betejës, ka një kore shumë më të madhe. Madhësitë krahasuese të koreve (dhe sa goditje nga armët mund të përballojnë zakonisht), janë përmbledhur në tabelat e Madhësisë së Mjetit dhe Kores më poshtë.
 
-Sa herë që një automjet pëson dëm, dëmi hyrës reduktohet nga vlera e Kores së tij. Çdo dëm i mbetur zbritet nga pikët e Strukturës së automjetit dhe ka një shans në përqindje, i barabartë me dëmin penetrues, për të ndikuar në një Sistem. Nëse automjeti reduktohet në zero Strukturë, ai ose shkatërrohet plotësisht, ose dëmtohet aq keq sa duhet të skrapohet.
+Sa herë që një mjet pëson dëm, dëmi hyrës reduktohet nga vlera e Kores së tij. Çdo dëm i mbetur zbritet nga pikat e Strukturës së mjetit dhe ka një shans në përqindje, të barabartë me dëmin depërtues, për të ndikuar në një Sistem. Nëse struktura e mjetit reduktohet ndonjëherë në zero, ai ose shkatërrohet plotësisht, ose dëmtohet aq keq sa duhet të skrapizohet.
 
-##### Kore Tokësore
-
-| Madhësia | Struktura | Vlera e Kores Civile | Vlera e Kores Ushtarake | Shembull |
-| :-- | :-: | :-: | :-: | :-- |
-| E vogël | 1-20 | 1-3 | 4-6 | Motoçikletë, motoçikletë me kroskot, makinë kompakte ose subkompakte, kanoe, kajak, varkë me rrema |
-| E mesme | 21-40 | 1-6 | 7-9 | Sedan, furgon paneli, kamionçinë, makinë luksoze, makinë sportive luksoze, makinë muskulore, limuzinë, varkë shpëtimi, motoskaf, paraglajder, autogjenerator |
-| E madhe | 41-60 | 4-9 | 10-12 | Kamion, limuzinë e gjatë, SUV, autobus, transportues njerëzish, avion personal, glajder, kruizer kënaqësie, tank, helikopter, nëndetëse |
-| Gjigande | 61-80 | 7-12 | 13-15 | Semi-kamion, avion pasagjerësh, avion reaktiv, anije rojë bregdetare, jaht |
-| Kolosale | 81-100 | 10-15 | 16-18 | Tren, anije kroçiere, anije detare |
-
-##### Kore Anijesh Kozmike
+##### Koret Terrestre 
 
 | Madhësia | Struktura | Vlera e Kores Civile | Vlera e Kores Ushtarake | Shembull |
 | :-- | :-: | :-: | :-: | :-- |
-| E vogël | 10-50 | 4-9 | 10-12 | Gjuajtës me një vend |
-| E mesme | 51-150 | 7-12 | 13-15 | Transportues i lehtë, anije anësore |
-| E madhe | 151-450 | 10-15 | 16-18 | Transportues i rëndë, Kruizer |
-| Gjigande | 451-1350 | 13-18 | 19-21 | Fregatë shoqëruese, Kruizer i lehtë luftarak |
-| Kolosale | 1351-4050 | 16-21 | 21-24 | Anije gjeneratash, Kruizer i rëndë luftarak |
-| E papërkulshme | 4050-12110 | 19-24 | 24-30 | Habitat orbital, Stacion luftarak shkatërrues planetesh |
+| E vogël | 1-20 | 1-3 | 4-6 | Motoçikletë, motoçikletë me kosh, makinë kompakte, kanoe, kajak, varkë me rrema |
+| Mesatare | 21-40 | 1-6 | 7-9 | Sedan, furgon, kamionçinë, makinë luksoze, makinë sportive, limuzinë, varkë shpëtimi, varkë me shpejtësi, paraglider, autogjiro |
+| E madhe | 41-60 | 4-9 | 10-12 | Kamion, limuzinë e zgjatur, SUV, autobus, furgon pasagjerësh, avion personal, glider, kroçerë kënaqësie, tank, helikopter, nëndetëse |
+| Shumë e madhe | 61-80 | 7-12 | 13-15 | Kamion gjysmërimorkio, aeroplan, avion reaktiv, anije e rojes bregdetare, jaht |
+| Enorme | 81-100 | 10-15 | 16-18 | Tren, anije kroçere, anije detare |
+
+##### Koret e Anijeve Kozmike 
+
+| Madhësia | Struktura | Vlera e Kores Civile | Vlera e Kores Ushtarake | Shembull |
+| :-- | :-: | :-: | :-: | :-- |
+| E vogël | 10-50 | 4-9 | 10-12 | Luftarak me një vend |
+| Mesatare | 51-150 | 7-12 | 13-15 | Anije mallrash e lehtë, anije transporti |
+| E madhe | 151-450 | 10-15 | 16-18 | Anije mallrash e rëndë, kroçerë |
+| Shumë e madhe | 451-1350 | 13-18 | 19-21 | Fregatë shoqëruese, kroçerë e lehtë beteje |
+| Enorme | 1351-4050 | 16-21 | 21-24 | Anije gjeneratash, kroçerë e rëndë beteje |
+| Kolosale | 4050-12110 | 19-24 | 24-30 | Habitat orbital, stacion beteje shkatërrues planetësh |
+
 
 ---
 ### Mburojat
 
-Mburojat devijuese ofrojnë një shtresë shtesë mbrojtjeje për ato automjete që mund t'i montojnë. Mburojat funksionojnë paksa ndryshe nga Korja, për shkak të natyrës së tyre ablative. Nëse dëmi hyrës është i barabartë ose më pak se vlera e mburojave, atëherë ai bllokohet i gjithi. Nëse dëmi kalon vlerën e mburojës, atëherë çdo tepricë redukton forcën e mburojës me atë sasi.
+Mburojat deflektore ofrojnë një shtresë shtesë mbrojtjeje për ato mjete që mund t'i instalojnë ato. Mburojat funksionojnë pak ndryshe nga Koreja, për shkak të natyrës së tyre gërryese. Nëse dëmi hyrës është i barabartë ose më pak se vlera e mburojave, atëherë ai bllokohet plotësisht. Nëse dëmi tejkalon vlerën e mburojës, atëherë çdo tepricë redukton forcën e mburojës me atë sasi.
 
-_Për shembull, një transportues trupash ka një forcë mburoje energjie prej 12 pikësh. Nëse transportuesi goditet nga një lazer për 11 dëme, ai thjesht nuk depërton dhe nuk ka asnjë efekt shtesë. Nga ana tjetër, nëse transportuesi goditet nga një shpërthim që shkakton 15 dëme, tre pikët e tepërta do të ulnin forcën e mburojës në 9._
+_Për shembull, një transportues trupash ka një forcë mburoje energjetike prej 12 pikësh. Nëse transportuesi goditet nga një lazer për 11 dëm, ai thjesht nuk depërton dhe nuk ka efekt shtesë. Nga ana tjetër, nëse transportuesi goditet nga një shpërthim që shkakton 15 dëm, tre pikët e tepërta do të ulnin forcën e mburojës në 9._
 
-Pasi forca e një mburoje devijuese të ketë rënë në zero, ajo shembet. Çdo dëm i mbetur kalon në korë.
+Pasi forca e një mburoje deflektore bie në zero, ajo shembet. Çdo dëm i mbetur kalon te koreja.
 
 ---
 ### Sistemet
 
-Çdo herë që një automjet pëson dëm që depërton korën e tij, ka një shans, i barabartë me dëmin penetrues, që një Sistem jetësor të jetë prekur.
+Sa herë që një mjet pëson dëm që depërton në koren e tij, ekziston një shans, i barabartë me dëmin depërtues, që një Sistem jetik të jetë prekur.
 
-_Për shembull, 10 dëme aplikohen në një motoskaf - një automjet me 3 Korë dhe 24 Strukturë. Korja llogaritet si armaturë duke reduktuar dëmin në 7. Kjo hiqet nga 24 pikët e Strukturës dhe ka një shans 7% për të dëmtuar një nga Sistemet e automjetit._
+_Për shembull, 10 dëm i aplikohen një varke me shpejtësi - një mjet me 3 Kore dhe 24 Strukturë. Koreja llogaritet si armaturë duke reduktuar dëmin në 7. Kjo hiqet nga 24 pikat e Strukturës dhe ekziston një shans 7% për të dëmtuar një nga Sistemet e mjetit._
 
-Dëmi që mund të pësojë një Sistem bazohet thjesht në madhësinë e automjetit. Kjo modelohet nga numri i goditjeve që mund të marrë një Sistem, dhe jo nga sasia aktuale e dëmit. Një goditje e vetme Sistemi në një automjet të vogël do të shkatërrojë menjëherë atë Sistem. Duhen dy goditje për të shkatërruar Sistemet e një automjeti të madhësisë së mesme, tre për një automjet të madh, e kështu me radhë. Shih [Tabelën e Dëmit të Sistemit](0006_Vehicles.md?id=system-damage-table) më poshtë.
+Dëmi që një Sistem mund të përballojë bazohet thjesht në madhësinë e mjetit. Kjo modelohet nga numri i goditjeve që një Sistem mund të marrë, në vend të sasisë reale të dëmit. Një Goditje e vetme Sistemi në një mjet të Vogël do ta shkatërrojë menjëherë atë Sistem. Duhen dy goditje për të shkatërruar Sistemet e një mjeti të madhësisë Mesatare, tre për një mjet të Madh, e kështu me radhë. Shihni [Tabelën e Dëmit të Sistemit](0006_Vehicles.md?id=system-damage-table) më poshtë.
 
-Sistemet që janë dëmtuar, por ende nuk janë shkatërruar, pësojnë një humbje funksioni proporcional me numrin e Goditjeve të marra - ose një reduktim në përqindje, ose një penalitet Grade për detyrat e Sistemit. Efekti specifik bazohet në atë që kontrollon nënsistemi, siç detajohet në [Tabelën e Dëmit të Komponentit të Sistemit](0006_Vehicles.md?id=system-component-damage-table) më poshtë. Në varësi të Sistemit që goditet, efektet mund të jenë katastrofike.
+Sistemet që janë dëmtuar, por jo ende të shkatërruara, pësojnë një humbje të funksionit në përpjesëtim me numrin e Goditjeve të marra - ose një reduktim në përqindje ose një penalitet Niveli për detyrat e Sistemit. Efekti specifik bazohet në atë që kontrollon nënsistemi, siç detajohet në [Tabelën e Dëmit të Komponentëve të Sistemit](0006_Vehicles.md?id=system-component-damage-table) më poshtë. Në varësi të Sistemit që goditet, efektet mund të jenë katastrofike.
 
-_Për shembull, një Land Ironclad - një automjet i madh me 5 Goditje Sistemi - i goditur dy herë në Drejtim do të humbiste 40% të fuqisë së tij dhe do të reduktonte Shpejtësinë e tij të Ulët dy Grade në Tërheqëse. Ngjashëm, një anije mallrash e madhe - me 3 Goditje Sistemi - që merr dy goditje në Sistemin e Motorit/Karburantit do të kishte një penalitet prej dy Gradesh në Shpejtësi, si dhe në përdorimin e sistemeve Elektronike. Një goditje e tretë do të shkatërronte Sistemin e Motorit/Karburantit dhe anijen me të._
+_Për shembull, një Land Ironclad - një mjet Enorm me 5 Goditje Sistemi - i goditur dy herë në Drejtim (Drive) do të humbiste 40% të fuqisë së tij dhe do ta reduktonte Shpejtësinë e tij të Ngadaltë dy Nivele në të Rëndë. Po kështu, një anije mallrash e Madhe - me 3 Goditje Sistemi - duke marrë dy goditje në Sistemin e Motorit/Karburantit do të kishte një penalitet prej dy Nivelësh për Shpejtësinë si dhe për përdorimin e sistemeve elektronike. Një goditje e tretë do të shkatërronte Sistemin e Motorit/Karburantit dhe anijen bashkë me të._
+
 
 <details>
 
@@ -76,27 +79,29 @@ _Për shembull, një Land Ironclad - një automjet i madh me 5 Goditje Sistemi -
 
 #### Dëmi
 
-_Teksti origjinal këtu ishte më larg. Vendosur direkt pas seksionit të Sistemeve, ai po përsërit në mënyrë të panevojshme paragrafin e mëparshëm._
 
-- _"Dëmi që kalon Korën depërton automjetin, duke dëmtuar Strukturën dhe ndoshta duke ndikuar në një ose më shumë sisteme. Në varësi të madhësisë së automjetit, dëmi mund të jetë i vogël ose katastrofik._
-- _Për shembull, një automjet i madh mund të marrë deri në dy goditje në një Sistem si Drejtimi i tij. Goditja e tretë shkatërron funksionalisht Drejtimin. Çdo herë që sistemi merr një goditje, ai ose humbet një përqindje të funksionit të tij siç përshkruhet në kolonën Humbje për Goditje të Tabelës së Dëmit të Sistemit më poshtë, ose një funksion thelbësor (si Drejtimi, Piloti, Komunikimet, etj.) bëhet një Gradë Vështirësie më i vështirë për goditje të pësuar."_
+_Teksti origjinal këtu ishte fillimisht më larg. I vendosur direkt pas seksionit të Sistemeve, ai përsërit në mënyrë të panevojshme paragrafin e mëparshëm._
 
-_Paragrafët e mësipërm hiqen dhe në vend të tyre vendoset një redaktim i shkurtuar që thekson një efekt tjetër Shembulli të Sistemit._
+- _"Dëmi që tejkalon Koren depërton në mjet, duke dëmtuar Strukturën dhe ndoshta duke ndikuar në një ose më shumë sisteme. Në varësi të madhësisë së mjetit, dëmi mund të jetë i vogël ose katastrofik._
+- _Për shembull, një mjet i Madh mund të marrë deri në dy goditje në një Sistem siç është Drejtimi i tij. Goditja e tretë shkatërron funksionalisht Drejtimin. Çdo herë që sistemi merr një goditje, ai ose humbet një përqindje të funksionit të tij siç përshkruhet në kolonën Humbja për Goditje të Tabelës së Dëmit të Sistemit më poshtë ose një funksion thelbësor (si Drejtimi, Pilotimi, Komunikimi, e kështu me radhë) bëhet një Nivel Vështirësie më i vështirë për goditje të pësuar."_
+
+_Paragrafët e mësipërm hiqen dhe në vend të tyre vihet një redaktim i shkurtuar që kërkon një shembull tjetër të efektit të Sistemit._
 
 ---
 
 </details>
 
-##### Tabela e Dëmit të Sistemit
+##### Tabela e Dëmit të Sistemit 
 
-| Madhësia | Goditje Sistemi | Humbje për Goditje |
+| Madhësia | Goditjet e Sistemit | Humbja për Goditje |
 | :-- | :-: | :-- |
-| E vogël | 1 | 100% - E shkatërruar |
-| E mesme | 2 | 1 Gradë ose 50% |
-| E madhe | 3 | 1 Gradë ose 33% |
-| Gjigande | 4 | 1 Gradë ose 25% |
-| Kolosale | 5 | 1 Gradë ose 20% |
-| E papërkulshme | 6 | 1 Gradë ose 16% |
+| E vogël | 1 | 100% - I shkatërruar |
+| Mesatare | 2 | 1 Nivel ose 50% |
+| E madhe | 3 | 1 Nivel ose 33% |
+| Shumë e madhe | 4 | 1 Nivel ose 25% |
+| Enorme | 5 | 1 Nivel ose 20% |
+| Kolosale | 6 | 1 Nivel ose 16% |
+
 
 <details>
 
@@ -104,54 +109,55 @@ _Paragrafët e mësipërm hiqen dhe në vend të tyre vendoset një redaktim i s
 
 ---
 
-##### Tabela e Dëmit të Sistemit (Origjinale)
+##### Tabela e Dëmit të Sistemit (Origjinale) 
 
-| Madhësia | Goditje Sistemi | Humbje për Goditje |
+| Madhësia | Goditjet e Sistemit | Humbja për Goditje |
 | :-- | :-: | :-- |
-| E vogël | 1 | 1 Gradë ose 50% |
-| E mesme | 2 | 1 Gradë ose 33% |
-| E madhe | 3 | 1 Gradë ose 25% |
-| Gjigande | 4 | 1 Gradë ose 20% |
-| Kolosale | 5 | 1 Gradë ose 16% |
-| E papërkulshme | 6 | 1 Gradë ose 10% |
+| E vogël | 1 | 1 Nivel ose 50% |
+| Mesatare | 2 | 1 Nivel ose 33% |
+| E madhe | 3 | 1 Nivel ose 25% |
+| Shumë e madhe | 4 | 1 Nivel ose 20% |
+| Enorme | 5 | 1 Nivel ose 16% |
+| Kolosale | 6 | 1 Nivel ose 10% |
 
-##### Tabela e Madhësisë së Automjetit (nga [Madhësia, Lloji dhe Struktura e Kores](0006_Vehicles.md?id=hull-size-type-and-structure))
+##### Tabela e Madhësisë së Mjetit (nga [Madhësia e Kores, Lloji dhe Struktura](0006_Vehicles.md?id=hull-size-type-and-structure))
 
-| Madhësia | Goditje Sistemi |
+| Madhësia | Goditjet e Sistemit |
 | :-- | :-: |
 | E vogël | 1 |
-| E mesme | 2 |
+| Mesatare | 2 |
 | E madhe | 3 |
-| Gjigande | 4 |
-| Kolosale | 5 |
-| E papërkulshme | 6 |
+| Shumë e madhe | 4 |
+| Enorme | 5 |
+| Kolosale | 6 |
 
-_Rregullat dhe shembujt origjinalë janë të paqëndrueshëm:_
-- _"Sistemet që janë dëmtuar, por ende nuk janë shkatërruar, pësojnë një humbje në funksionalitet. Kjo është e barabartë me proporcionin e goditjeve aktuale me aftësinë e tij totale. Kështu, një automjet kolosal i goditur dy herë në Drejtim do të humbiste 40% të fuqisë së tij (2 goditje nga një maksimum prej 5)"._
-   - _Kjo sugjeron që automjeti kolosal i treguar me 5 Goditje Sistemi duhet të humbasë 20% me çdo goditje - por tabela thotë 16%._
-- _"Për shembull, një automjet i madh mund të marrë deri në tre goditje në një sistem si Drejtimi i tij. Goditja e katërt shkatërron funksionalisht Drejtimin."_
-  - _"Kjo sugjeron - ashtu si tabela - 25% dëmtim për Goditje Sistemi, por Automjetet e Mëdha mund të marrin vetëm 3 Goditje Sistemi sipas të njëjtës tabelë._
-- _Ndërsa nuk ishte e paqëndrueshme, Tabela e Madhësisë së Automjetit ishte e tepërt; duke u shfaqur përsëri në formë më të plotë (duke shtuar kolonën Humbje për Goditje) vetëm disa rreshta më poshtë._
+_Rregullat dhe shembujt origjinalë janë inkonsekuentë:_
+- _"Sistemet që dëmtohen, por jo ende të shkatërruara, pësojnë një humbje në funksionalitet. Kjo është e barabartë me përpjesëtimin e goditjeve aktuale me kapacitetin e tij total. Kështu, një mjet Enorm i goditur dy herë në Drejtim do të humbiste 40% të fuqisë së tij (2 goditje nga një maksimum prej 5)"._ 
+   - _Kjo sugjeron që mjeti Enorm i treguar me 5 Goditje Sistemi duhet të humbasë 20% me çdo goditje - por tabela thotë 16%._
+- _"Për shembull, një mjet i Madh mund të marrë deri në tre goditje në një sistem siç është Drejtimi i tij. Goditja e katërt shkatërron funksionalisht Drejtimin."_ 
+  - _"Kjo sugjeron - ashtu siç bën tabela - 25% dëm për Goditje Sistemi, por Mjetet e Mëdha mund të marrin vetëm 3 Goditje Sistemi sipas së njëjtës tabelë._
+- _Megjithëse jo inkonsekvente, Tabela e Madhësisë së Mjetit ishte e tepërt; duke u shfaqur përsëri në formë më të plotë (duke shtuar kolonën Humbja për Goditje) vetëm pak rreshta më vonë._
 
-_Kjo e bën të vështirë të kesh një rregull të qëndrueshëm. Për të adresuar këto çështje, vlerat dhe shembujt janë ndryshuar për të përputhur dhe Tabela e Madhësisë së Automjetit u hoq._
+_Kjo e bën të vështirë të kesh një rregull konsekuent. Për të adresuar këto çështje, vlerat dhe shembujt ndryshohen për të përputhur dhe Tabela e Madhësisë së Mjetit u hoq._
 
 ---
 
 </details>
 
-##### Tabela e Dëmit të Komponentit të Sistemit
+
+##### Tabela e Dëmit të Komponentëve të Sistemit 
 
 | 1d10 | Sistemi | Rezultati i Dëmtuar | Rezultati i Shkatërruar |
 | :-: | :-- | :-- | :-- |
-| 1 | Ngarkesa | Një sasi sendesh ose pajisjesh të ruajtura në depozitë, proporcionale me dëmin, shkatërrohen. | E gjithë ngarkesa shkatërrohet. |
-| 2 | Komunikimet | Rrotullimet e komunikimeve pësojnë një Gradë Vështirësie shtesë vështirësie sa herë që dëmtohen. | Automjeti nuk mund të komunikojë ose të mashtrojë sensorët e armikut. |
-| 3 | Kontrolli | Rrotullimet e Lëvizjes, Drejtimit ose Pilotimit pësojnë një Gradë Vështirësie shtesë sa herë që dëmtohen; kërkohet një rrotullim i menjëhershëm Kontrolli. | Automjeti nuk mund të drejtohet ose të ndryshojë kursin. |
-| 4 | Drejtimi | Shpejtësia zvogëlohet me një sasi proporcionale me dëmin. | Automjeti ndalon krejtësisht; avionët rrëzohen. |
-| 5 | Ekuipazhi | Një numër pasagjerësh proporcional me dëmin bëhen viktima. Ata të prekur pësojnë një Plagë të Madhe dhe duhet të kenë sukses në një rrotullim Qëndrueshmërie ose të vriten menjëherë. | Banorët e automjetit vdesin. |
-| 6 | Motori / Karburanti | Shpejtësia zvogëlohet me një sasi proporcionale me dëmin. Sistemet elektronike një Gradë Vështirësie më të vështira për t'u përdorur. | Automjeti shkatërrohet në një shpërthim katastrofik. |
-| 7 | Sensorët | Rrotullimet e Sensorëve, Navigimit dhe Sulmit me Armë pësojnë një Gradë Vështirësie shtesë sa herë që dëmtohen. | Automjeti bëhet i verbër. |
-| 8 | Armët | Një numër sistemesh armësh, proporcional me dëmin, bëhen jooperative. | Automjeti nuk mund të qëllojë më me armë. |
-| 9-0 | Asnjë | Asnjë sistem i goditur; vetëm dëm Strukturës. | N/A |
+| 1 | Ngarkesa | Një sasi e zotërimeve ose pajisjeve të ruajtura në hambar, në përpjesëtim me dëmin, shkatërrohen. | E gjithë ngarkesa shkatërrohet. |
+| 2 | Komunikimi | Rrotullimet e komunikimit pësojnë një Nivel Vështirësie shtesë çdo herë që dëmtohen. | Mjeti nuk mund të komunikojë më ose të mashtrojë sensorët e armikut. |
+| 3 | Kontrollet | Rrotullimet e lundrimit, drejtimit ose pilotimit pësojnë një Nivel Vështirësie shtesë çdo herë që dëmtohen; kërkohet rrotullim i menjëhershëm i Kontrollit. | Mjeti nuk mund të drejtohet më ose të ndryshojë kursin. |
+| 4 | Drejtimi | Shpejtësia reduktohet me një sasi në përpjesëtim me dëmin. | Mjeti ndalon plotësisht; avionët rrëzohen. |
+| 5 | Ekuipazhi | Një numër pasagjerësh në përpjesëtim me dëmin shndërrohen në viktima. Të prekurit pësojnë një Plagë të Madhe dhe duhet të kenë sukses në një rrotullim të Qëndrueshmërisë (QEN) ose të vriten menjëherë. | Banorët e mjetit vdesin. |
+| 6 | Motori / Karburanti | Shpejtësia reduktohet me një sasi në përpjesëtim me dëmin. Sistemet elektronike janë një Nivel Vështirësie më të vështirë për t'u përdorur. | Mjeti shkatërrohet në një shpërthim katastrofik. |
+| 7 | Sensorët | Rrotullimet e sensorit, navigimit dhe sulmit me armë pësojnë një Nivel Vështirësie shtesë çdo herë që dëmtohen. | Mjeti bëhet i verbër. |
+| 8 | Armët | Një numër sistemesh armësh në përpjesëtim me dëmin bëhen jofunksionale. | Mjeti nuk mund të qëllojë më me armë. |
+| 9-0 | Asnjë | Asnjë sistem nuk goditet; vetëm dëm i Strukturës. | N/A |
 
 <details>
 
@@ -159,300 +165,303 @@ _Kjo e bën të vështirë të kesh një rregull të qëndrueshëm. Për të adr
 
 ---
 
-##### Tabela e Dëmit të Komponentit të Sistemit (Motori/Karburanti)
+##### Tabela e Dëmit të Komponentëve të Sistemit (Motori/Karburanti)
 
-_Rezultati origjinal ishte si vijon: "Shpejtësia Maksimale përgjysmohet..." Kjo bie në kundërshtim me rregullin e përgjithshëm të penaliteteve të dëmit në proporcion me dëmin e Sistemit: 25% dëmtim = 25% penalitet. Për më tepër, rregullat e plota në Mythras Companion nuk e përmendin këtë përgjysmim të Shpejtësisë._
+_Rezultati origjinal ishte si më poshtë: "Shpejtësia Maksimale përgjysmohet..." Kjo bie ndesh me rregullin e përgjithshëm të penaliteteve të dëmit në përpjesëtim me dëmin e Sistemit: 25% dëm = 25% penalitet. Për më tepër, rregullat e plota në Mythras Companion nuk e përmendin këtë përgjysmim të Shpejtësisë._
 
-_Si rezultat, teksti zëvendësohet me të njëjtin hyrje nga Sistemet e Drejtimit: "Shpejtësia zvogëlohet me një sasi proporcionale me dëmin."_
+_Si rezultat, teksti zëvendësohet me të njëjtin hyrje nga Sistemet e Drejtimit: "Shpejtësia reduktohet me një sasi në përpjesëtim me dëmin."_
 
 ---
 
 </details>
+
 
 ---
 ### Shpejtësia
 
-Meqenëse fizika e shpejtësisë, përshpejtimit, rezistencës dhe inercisë (për të përmendur vetëm disa) janë çështje komplekse, nevojitet një thjeshtim dhe kështu automjeteve u jepet një vlerësim abstrakt i shpejtësisë. Karakteristika e Shpejtësisë duhet të përdoret vetëm për të gjykuar afërsisht nëse një automjet mund të tejkalojë ose të arrijë një tjetër.
+Meqenëse fizika e shpejtësisë, nxitimit, rezistencës dhe inercisë (për të përmendur vetëm disa) janë çështje komplekse, nevojitet një thjeshtësim dhe kështu mjeteve u jepet një vlerësim abstrakt i shpejtësisë. Karakteristika e Shpejtësisë duhet të përdoret vetëm për të gjykuar afërsisht nëse një mjet mund të parakalojë ose të arrijë një tjetër.
 
-Vlerësimi i shpejtësisë përfaqëson shkallën nominale të funksionimit të një automjeti. Në situata emergjente, kjo performancë mund të rritet me një hap, me rrezikun e konsumit ose dëmtimit të motorëve. Edhe pse e njëjta tabelë përdoret për të gjitha llojet e automjeteve, duhet të aplikohet logjika e zakonshme në mënyrë që të krahasohen vetëm automjete të së njëjtës klasë. Për shembull, nëse një anije kozmike dhe një makinë sportive kanë të dyja të njëjtën shkallë përshpejtimi të Shpejtë, atëherë duhet të jetë e qartë se anija kozmike është krahasimisht më e shpejtë.
+Vlerësimi i shpejtësisë përfaqëson shkallën nominale operacionale të një mjeti. Në situata emergjente, ky performancë mund të rritet me një shkallë, me rrezikun e konsumimit ose dëmtimit të motorëve. Megjithëse e njëjta tabelë përdoret për të gjitha llojet e mjeteve, duhet të përdoret sensi i përbashkët që të krahasohen vetëm mjetet e të njëjtit klasë. Për shembull, nëse një Anije Kozmike dhe një makinë sportive kanë të dyja të njëjtin shkallë nxitimi të Shpejtë, atëherë duhet të jetë e qartë se anija kozmike është krahasimisht më e shpejtë.
 
-Rritja e shpejtësisë së një automjeti përtej vlerës së tij standarde është e mundur me një rrotullim të suksesshëm Drive. Zakonisht, kjo shpejtësi shtesë është e qëndrueshme vetëm për një periudhë të shkurtër – jo më shumë se 1d6 minuta para se automjeti të duhet të bjerë në shpejtësinë e tij standarde ose të rrezikojë dëmtimin e centralit të tij. Një rrotullim kritik Drive lejon që periudha e shpejtësisë më të lartë të rritet në 1d12 minuta.
+Rritja e Shpejtësisë së një mjeti përtej vlerës së tij standarde është e mundur me një rrotullim të suksesshëm të Drejtimit. Zakonisht, kjo shpejtësi shtesë është e qëndrueshme vetëm për një periudhë të shkurtër – jo më shumë se 1d6 minuta përpara se mjeti të duhet të ulet në shpejtësinë e tij standarde ose të rrezikojë dëmtimin e termocentralit të tij. Një rrotullim kritik i Drejtimit lejon që periudha e shpejtësisë më të lartë të rritet në 1d12 minuta.
 
-Një shofer mund të përpiqet të shtyjë shpejtësinë e një automjeti me 2 hapa, por kjo kërkon një rrotullim Drive Herculean dhe maksimumi që automjeti mund të mbajë këtë shpejtësi është 1d3 minuta: një Sukses Kritik nuk do të zgjasë kohëzgjatjen e shpejtësisë së rritur.
+Një drejtues mund të përpiqet ta shtyjë shpejtësinë e një mjeti me 2 shkallë, por kjo kërkon një rrotullim Herkulian të Drejtimit dhe maksimumi që mjeti mund ta mbajë këtë shpejtësi është 1d3 minuta: një Sukses Kritik nuk do ta zgjasë kohëzgjatjen e shpejtësisë së rritur.
 
-##### Tabela e Vlerësimit të Shpejtësisë
+##### Tabela e Vlerësimit të Shpejtësisë 
 
-| Vlerësimi i Shpejtësisë | Shpejtësia maksimale për |
+| Vlerësimi i Shpejtësisë | Shpejtësia Maksimale Për |
 | :-- | :-: |
-| Tërheqëse | Kolosale |
+| E rëndë | Enorme |
 | Përtace | |
-| E ngadaltë | Gjigande |
-| Mesatare | |
+| E ngadaltë | Shumë e madhe |
+| Mediokre | |
 | E butë | E madhe |
 | Mesatare | |
-| E shpejtë | E mesme |
-| E shpejtë | |
-| E shpejtë | E vogël |
+| E shpejtë | Mesatare |
+| Shumë e shpejtë | |
+| Flotë | E vogël |
+
 
 ---
 ### Tiparet
 
-Numri maksimal i tipareve që mund të ketë një automjet varet nga madhësia dhe lloji i kores.
+Numri maksimal i tipareve që një mjet mund të ketë varet nga madhësia dhe lloji i kores.
 
-Çdo automjet ka një tipar të qenësishëm: mënyrën e udhëtimit për të cilën është projektuar kryesisht. Prandaj, avionët mbajnë në mënyrë të qenësishme tiparin Ajror, anijet tiparin Detar, etj. Ky tipar i qenësishëm nuk llogaritet në numrin e tipareve të disponueshme. Megjithatë, nëse një automjet duhet të përfshijë një mënyrë të dytë udhëtimi - një nëndetëse fluturuese për shembull, atëherë tipari Ajror do të duhej të merrej si një nga tiparet e tij të disponueshme.
+Çdo mjet ka një tipar të natyrshëm: mënyrën e udhëtimit për të cilën u krijua kryesisht. Prandaj, avionët mbajnë natyrshëm tiparin Ajror, varkat tiparin Detar, e kështu me radhë. Ky tipar i natyrshëm nuk llogaritet në numrin e disponueshëm të tipareve. Megjithatë, nëse një mjet duhet të përfshijë një mënyrë të dytë udhëtimi - një nëndetëse fluturuese për shembull, atëherë tipari Ajror do të duhej të merrej si një nga tiparet e tij të disponueshme.
 
-Disa tipare mund të mos jenë të disponueshme, në varësi të nivelit teknologjik të mjedisit; Mjeshtrat e Lojërave duhet të bëjnë gjykimet e tyre se çfarë tiparesh mund të aplikohen.
+Disa tipare mund të mos jenë të disponueshme, në varësi të nivelit teknologjik të mjedisit; Udhëheqësit e Lojës duhet të bëjnë vlerësimet e tyre se cilat tipare mund të aplikohen.
 
-##### Tabela e Ndarjes së Tipareve të Automjetit
+##### Tabela e Alokimit të Tipareve të Mjetit 
 
-| Madhësia | Maks. Tipare |
+| Madhësia | Tiparet Maksimale |
 | :-- | :-: |
 | E vogël | 1 |
-| E mesme | 2 |
+| Mesatare | 2 |
 | E madhe | 3 |
-| Gjigande | 4 |
-| Kolosale | 5 |
-| E papërkulshme | 6 |
+| Shumë e madhe | 4 |
+| Enorme | 5 |
+| Kolosale | 6 |
 
 #### Ajror
 
-Automjeti është i aftë për fluturim atmosferik.
+Mjeti është i aftë për fluturim atmosferik.
 
-#### Për të gjitha terrenet
+#### Gjithë Terren
 
-Ky tipar duhet të përdoret me automjetet tokësore. Automjeti mund të kalojë terrene të papërshtatshme, të vështira dhe të pjerrëta, duke përdorur ose zinxhirë, sisteme të avancuara të pezullimit dhe drejtimit, ose diferencialë të fuqishëm të drejtimit.
+Ky Tipar duhet të përdoret me mjete Tokësore. Mjeti mund të përshkojë terren jo mikpritës, të vështirë dhe të pjerrët, duke përdorur ose zinxhirë, sistem pezullimi dhe drejtimi të avancuar, ose diferencialë të fuqishëm drejtimi.
 
-#### Gërryes
+#### Gërmues
 
-Automjeti është projektuar të gërmojë dhe të tunelojë nëpër tokë. Mund të arrijë një thellësi maksimale të barabartë me Vlerësimin e Kores së tij x5 metra.
+Mjeti është krijuar për të gërmuar dhe për të kaluar nëpër tokë. Ai mund të arrijë një thellësi maksimale të barabartë me Vlerësimin e Kores së tij x5 metra.
 
 #### Kamufluar
 
-Automjeti posedon ose bojë kamuflazhi ose sensorë mimëtikë që e lejojnë atë të bashkohet me mjedisin e tij. Përpjekjet për të vënë re automjetin vizualisht janë një gradë më të vështira.
+Mjeti posedon ose bojë kamuflazhi ose sensorë mimetikë që i lejojnë atij të përzihet me mjedisin e tij. Përpjekjet për ta dalluar mjetin vizualisht janë një nivel më të vështira.
 
 #### Ngarkesë
 
-Automjeti është projektuar posaçërisht për të transportuar ngarkesa dhe jo pasagjerë. Ndarjet e pasagjerëve mbahen në minimum me pjesën tjetër të hapësirës së përdorshme të automjetit që i kushtohet mbajtjes së ngarkesave me seksione, mjete dhe madje edhe kondicionim mjedisor të përshtatshëm (si seksionet e ngrirjes për transportin e produkteve të prishshme). Kur është i ngarkuar me ngarkesë, shpejtësia e automjetit është dy hapa më e ulët se sa madhësia e kores së tij do të lejonte normalisht.
+Mjeti është krijuar posaçërisht për të transportuar ngarkesë në vend të pasagjerëve. Ndarjet e pasagjerëve mbahen në minimum me pjesën tjetër të hapësirës së përdorshme të mjetit që i kushtohet mbajtjes së ngarkesës me seksione, mjete dhe madje edhe kondicionim mjedisor (si seksione ngrirëse për transportimin e produkteve të shpejta). Kur është i ngarkuar me ngarkesë, shpejtësia e mjetit është dy shkallë më e ulët se sa do të lejonte zakonisht madhësia e kores së tij.
 
 #### Transportues
 
-Automjeti është projektuar posaçërisht për të transportuar automjete më të vogla, me ekuipazh të lehtë, ose ndoshta me kontroll nga distanca, të natyrës civile ose ushtarake. Çdo automjet që posedon këtë tipar duhet të jetë të paktën Kolosal. Numri i mjeteve të vogla të transportuara mund të ndryshojë sipas llojit dhe qëllimit të misionit, por mund të jetë nga 10 deri në numrin e vlerësimit të Strukturës së automjetit.
+Mjeti është krijuar posaçërisht për të transportuar mjete më të vogla, me ekuipazh të lehtë, ose ndoshta të kontrolluara nga distanca, të një natyre civile ose ushtarake. Çdo mjet që posedon këtë tipar duhet të jetë të paktën Enorm. Numri i mjeteve të vogla të transportuara mund të ndryshojë sipas llojit të misionit dhe qëllimit, por mund të jetë nga 10 deri në aq sa është vlerësimi i Strukturës së mjetit.
 
 #### Ndërtim
 
-Automjeti është i pajisur për punë të rënda ndërtimi. Të gjitha automjetet me këtë tipar kanë gjithashtu tiparin Për të gjitha Terrenet, por shpejtësia është dy hapa më e ulët se sa madhësia e kores së tyre do të lejonte normalisht. Automjeti është i pajisur me mjete të përshtatshme për detyrën, si krahë vinçi, lopata gërmuese, karroca dump, etj.
+Mjeti është i pajisur për punë të rënda ndërtimi. Të gjitha mjetet me këtë tipar kanë gjithashtu tiparin Gjithë Terren, por shpejtësia është dy shkallë më e ulët se sa do të lejonte zakonisht madhësia e kores së tyre. Mjeti është i pajisur me mjete të përshtatshme për detyrën si krahë vinçash, lopata gërmuese, karroca hedhëse e kështu me radhë.
 
 #### Rezistent ndaj EMP
 
-Automjeti është i mbrojtur kundër sulmeve me puls elektromagnetik.
+Mjeti është i mbrojtur kundër sulmeve me puls elektromagnetik.
 
 #### Performancë e Përmirësuar
 
-Vlerësimi i shpejtësisë së automjetit është një hap më i lartë se maksimumi për madhësinë e tij.
+Vlerësimi i Shpejtësisë së mjetit është një shkallë më i lartë se maksimumi për madhësinë e tij.
 
-#### Sedilje Ejektuese
+#### Ndenjëse Katapultuese
 
-Në rast emergjence, një sedilje nxjerrëse nxjerr banorët disa qindra metra në ajër, pastaj hap një parashutë për të lejuar një ulje të sigurt. Parashuta është opsionale. Nuk rekomandohet për helikopterët (Kamov Ka-52 Alligator duke qenë një përjashtim i dukshëm).
+Në rast emergjence, një ndenjëse katapultuese i shtyn pasagjerët disa qindra metra në ajër, pastaj hap një parashutë për të lejuar një ulje të sigurt. Parashuta është opsionale. Nuk rekomandohet për helikopterët (Kamov Ka-52 Alligator është një përjashtim i dukshëm).
 
-#### FTL
+#### FTL (Shpejtësi më e lartë se drita)
 
-Vetëm anije kozmike. Mjeti është i pajisur me një motor më të shpejtë se drita (qoftë ky një hiperdrive, warp drive, gjenerator i vrimës së krimbit ose i ngjashëm). Motori FTL ka një vlerësim të veçantë Shpejtësie që në thelb mat shkallën me të cilën një anije kozmike mund të kalojë një parsek të vetëm (3.26 vite-dritë, ose 31 trilion kilometra ose 19 trilion milje), si më poshtë:
+Vetëm për anije kozmike. Anija është e pajisur me një motor më të shpejtë se drita (qoftë ky një hyperdrive, warp drive, gjenerator vrimash krimbi apo të ngjashme). Motori FTL ka një vlerësim të veçantë Shpejtësie i cili në thelb mat shkallën me të cilën një anije kozmike mund të përshkojë një parsek të vetëm (3.26 vite dritë, ose 31 trilion kilometra), si më poshtë:
 
-##### Tabela e Vlerësimit të Shpejtësisë FTL
+##### Tabela e Vlerësimit të Shpejtësisë FTL 
 
-| Vlerësimi i Shpejtësisë | Faktor për të kaluar 1 Parsek |
+| Vlerësimi i Shpejtësisë | Faktori për të përshkuar 1 Parsek |
 | :-- | :-: |
-| Tërheqëse | 10 |
+| E rëndë | 10 |
 | Përtace | 8 |
 | E ngadaltë | 7 |
-| Mesatare | 6 |
+| Mediokre | 6 |
 | E butë | 5 |
 | Mesatare | 4 |
 | E shpejtë | 3 |
-| E shpejtë | 2 |
-| E shpejtë | 1 |
+| Shumë e shpejtë | 2 |
+| Flotë | 1 |
 
-Koha e faktorit duhet të vendoset nga Mjeshtri i Lojës, në varësi të shkallës së avancimit të zhvillimit FTL në mjedis. Për shembull, faktori bazë mund të jetë 1 Ditë, që do të thotë se një anije me një motor FTL të Tërheqshëm duhet 10 ditë për të përfunduar udhëtimin, ndërsa një anije me një motor FTL të Shpejtësisë e përfundon udhëtimin në 1 ditë. Diku tjetër, ku teknologjia FTL është dukshëm më pak efikase, atëherë koha e faktorit mund të matet në muaj, dhe jo në ditë.
+Koha e faktorit është për Udhëheqësin e Lojës për të vendosur, në varësi të asaj se sa i avancuar është zhvillimi FTL i mjedisit. Për shembull, faktori bazë mund të jetë 1 Ditë, që do të thotë se një anije me një motor FTL të Rëndë kërkon 10 ditë për të përfunduar udhëtimin, ndërsa një anije me një motor FTL Flotë e përfundon udhëtimin në 1 ditë. Diku tjetër, ku teknologjia FTL është dukshëm më pak efikase, atëherë koha e faktorit mund të matet në muaj, në vend të ditëve.
 
-Supozohet se anija ka rezerva karburanti për të bërë një udhëtim kthimi, ose një mjet për t'u furnizuar me karburant në pikën e destinacionit.
+Supozohet se anija ka rezerva karburanti për të bërë një udhëtim kthimi, ose një mjet për t'u rimbushur në pikën e destinacionit.
 
-Supozoni se çdo madhësi e anijes kozmike mund të pajiset me një motor FTL, megjithëse, përsëri, kjo varet nga mjedisi.
+Supozohet se çdo madhësi e anijes kozmike mund të pajiset me një motor FTL, megjithëse, përsëri, kjo varet nga mjedisi.
 
-Motorët FTL nuk mund të aktivizohen brenda 1.5 Njësive Astronomike nga një yll (rreth 225 milionë kilometra, ose 270 milionë milje). Kjo do të thotë se anijet duhet të përdorin një motor sublight për të lëvizur deri në distancën e Marsit para se të aktivizojnë sistemin FTL.
+Motorët FTL nuk mund të aktivizohen brenda 1.5 Njësive Astronomike të një ylli (rreth 225 milionë kilometra). Kjo do të thotë se anijet duhet të përdorin një motor nënshpejtësi për të lëvizur në rreth distancën e Marsit përpara se të aktivizojnë sistemin FTL.
 
-#### Automjet Tokësor
+#### Mjet Tokësor
 
-Automjeti është i aftë për udhëtim në tokë.
+Mjeti është i aftë për udhëtim tokësor.
 
-#### Flotë
+#### Hover (Lundrim në ajër)
 
-Automjeti fluturon mbi tokë duke përdorur ose një jastëk ajri ose një repulsor anti-graviteti.
+Mjeti qëndron pezull mbi tokë duke përdorur ose një jastëk ajri ose një repulsor kundër gravitetit.
 
-#### Luksoze
+#### Luksoz
 
-Automjeti është projektuar posaçërisht për të transportuar pasagjerë në një nivel të caktuar luksi. Hapësira e tepërt e ngarkesave i kushtohet akomodimeve luksoze të pasagjerëve, pishinave, vaskave të nxehta, ekuipazhit shtesë për të përmbushur dëshirat e pasagjerëve, e kështu me radhë.
+Mjeti është krijuar posaçërisht për të transportuar pasagjerë në një nivel të caktuar luksi. Hapësira e tepërt e ngarkesës i jepet akomodimeve luksoze të pasagjerëve, pishinave, vaskave të nxehta, ekuipazhit shtesë për t'u kujdesur për dëshirat e pasagjerëve, e kështu me radhë.
 
-#### Hekurudhë
+#### Shina
 
-Automjeti mbështetet në një sistem hekurudhor. Automjetet me këtë tipar natyrisht mund të arrijnë një vlerësim shpejtësie tre hapa më të lartë se sa madhësia e kores së tyre do të lejonte normalisht, por janë padyshim të kufizuara në lëvizjen vetëm në sistemin hekurudhor.
+Mjeti mbështetet në një sistem shinash. Mjetet me këtë tipar mund të arrijnë natyrshëm një vlerësim Shpejtësie tri shkallë më të lartë se sa do të lejonte zakonisht madhësia e kores së tyre, por natyrisht janë të kufizuara vetëm në lëvizjen në sistemin e shinave.
 
-#### I Qëndrueshëm
+#### Rezistent
 
-Të gjitha sistemet mund t'i rezistojnë një goditjeje shtesë më shumë se sa përcaktohet normalisht nga Madhësia. Ky Tipar mund të grumbullohet - kështu që Resilient 2 tregon se sistemet mund t'i rezistojnë 2 goditjeve më shumë se zakonisht me një kosto prej dy pikësh Tipari.
+Të gjitha sistemet mund të përballojnë një goditje shtesë më shumë se sa përcaktohet normalisht nga Madhësia. Ky Tipar mund të grumbullohet — kështu Rezistent 2 tregon se sistemet mund të përballojnë 2 goditje më shumë se zakonisht me koston e dy pikëve të Tiparit.
 
 #### Detar
 
-Automjeti është i lundrueshëm në ujë.
+Mjeti është notues mbi ujë.
 
 #### Anije Kozmike
 
-Automjeti është i izoluar kundër vakuumit dhe i mbrojtur kundër rrezatimit kozmik dhe mund, në varësi të dizajnit, të jetë i aftë të largohet dhe të rihyjë në atmosferë, si dhe të mbajë fluturimin brenda një atmosfere.
+Mjeti është i mbyllur hermetikisht kundër vakumit dhe i mbrojtur kundër rrezatimit kozmik dhe mund të jetë, në varësi të dizajnit, i aftë për të lënë dhe ri-hyrë në atmosferë, dhe për të mbajtur fluturimin brenda një atmosfere.
 
-#### Fshehtësi
+#### Stealth (Padukshmëri)
 
-Vetëm Avionët. Automjeti është projektuar për të shmangur zbulimin nga radarët dhe sistemet e tjera sensorësh me rreze të gjatë. Përpjekjet për të vënë re automjetin duke përdorur sensorë elektronikë janë një gradë më të vështira.
+Vetëm për Avionët. Mjeti është krijuar për të shmangur zbulimin nga radari dhe sisteme të tjera sensorësh me rreze të gjatë. Përpjekjet për ta dalluar mjetin duke përdorur sensorë elektronikë janë një nivel më të vështira.
 
-#### Nënujor
+#### Nëndetëse
 
-Automjeti është i aftë të zhytet nën sipërfaqen e një oqeani deri në një thellësi operacionale prej Hull Rating x10 metra. Thellësia e kolapsit – maksimumi absolut që mund të arrijë nënujorja pa u shtypur – është 1.5 herë thellësia e saj operacionale.
+Mjeti është i aftë të zhytet nën sipërfaqen e një oqeani në një thellësi operacionale prej Vlerësimit të Kores së tij x10 metra. Thellësia e shembjes — maksimumi absolut që nëndetësja mund të arrijë pa u shtypur — është 1.5 herë thellësia e tij operacionale.
 
 #### Trajtim Superior
 
-Trajtimi i automjetit vlerësohet si i Lehtë.
+Trajtimi i mjetit vlerësohet si i Lehtë.
 
-#### Suita e Vëzhgimit
+#### Suita e Mbikëqyrjes
 
-Automjeti ka një kompjuter në bord, stacion bazë komunikimi, marrës për sinjalet e pajisjeve të dëgjimit, dhe aparaturë për të përgjuar sinjalet e telefonave inteligjentë aty pranë brenda 100 metrave.
+Mjeti ka një kompjuter në bord, stacion bazë komunikimi, marrës për sinjalet e pajisjeve të përgjimit dhe pajisje për të kapur sinjalet e smartphone-ve pranë brenda 100 metrave.#### I fortë
 
-#### I Fortë
+Një mjet civil me këtë tipar merr Hull-in e tij nga kolona Ushtarake dhe automatikisht ka Strukturën maksimale. Një mjet ushtarak me këtë tipar merr Hull-in dhe Strukturën e tij nga rreshti pasardhës.
 
-Një automjet civil me këtë tipar merr Korën e tij nga kolona Ushtarake dhe ka automatikisht Strukturën maksimale. Një automjet ushtarak me këtë Tipar merr Korën dhe Strukturën e tij nga rreshti tjetër poshtë.
+#### Rreze tërheqëse
 
-#### Rrezja e Tërheqjes
-
-Vetëm anijet kozmike. Anija është e pajisur me një rreze tërheqjeje që mund të kapë dhe të tërheqë automjete me një vlerësim koresh deri në dy hapa më pak se i saji. Kështu, një anije kozmike gjigande mund të tërheqë dhe të mbajë një korë deri në madhësinë e mesme.
+Vetëm për anijet kozmike. Anija është e pajisur me një rreze tërheqëse që mund të kapë dhe të tërheqë drejt saj mjete me një vlerësim Hull-i deri në dy shkallë më të ulët se të sajën. Kështu, një anije kozmike e stërmadhe (Huge) mund të tërheqë dhe mbajë një mjet me madhësi deri në Mesatare (Medium).
 
 #### VTOL
 
-Ngritje/ulje vertikale. Ky tipar është i qenësishëm për helikopterët dhe automjete të ngjashme që përdorin një kombinim rotorësh për të prodhuar ngritje. Kur aplikohet në avionë me krahë të fiksuar, tregon përdorimin e shtytësve të fiksuar ose të rregullueshëm për të kontrolluar qëndrimin, ngritjen dhe uljen në ajër.
+Ngritje/ulje vertikale. Ky tipar është i natyrshëm për helikopterët dhe mjetet e ngjashme që përdorin një kombinim rotorësh për të gjeneruar ngritje. Kur aplikohet tek avionët me krahë fiks, tregon përdorimin e shtytësve fiks ose të orientueshëm për të kontrolluar qëndrimin, ngjitjen dhe zbritjen në ajër.
 
-#### Ujor
+#### Lëvizje në ujë
 
-Automjeti lëviz vetë duke përdorur këmbë të artikuluara. Automjetet Walkers kanë një kufi shpejtësie prej "Gentle" (E Butë), pavarësisht madhësisë së tyre. Megjithatë, Walkers mund të ndërtohen në lartësi që thjesht do të ishin të paqëndrueshme për automjetet e pajisura me mjete të tjera lëvizjeje.
+Mjeti shtyn veten duke përdorur këmbë të artikuluara. Mjetet "Walker" kufizohen në shpejtësinë e "Lehtë" (Gentle), pavarësisht nga Madhësia e tyre. Sidoqoftë, këmbësorët (Walkers) mund të ndërtohen në lartësi që do të ishin thjesht të paqëndrueshme për mjetet e pajisura me mënyra të tjera lëvizjeje.
 
-Ky automjet është i aftë për lëvizje nënujore.
+Ky mjet është i aftë për lëvizje nënujore.
 
-#### Me Armë
+#### I armatosur
 
-Automjeti është përshtatur për të akomoduar armatime. Sistemet e armëve diskutohen më poshtë në seksionin [Armët](0006_Vehicles.md?id=weapons).
+Mjeti është përshtatur për të akomoduar armatim. Sistemet e armëve diskutohen më poshtë në seksionin [Armët](0006_Vehicles.md?id=weapons).
+
 
 ---
 ## Armët
 
-Zakonisht, vetëm korat ushtarake janë projektuar për të akomoduar armatime (pika të forta, ruajtje municionesh, sisteme kontrolli). Tipari 'Me Armë' mund të merret për automjetet civile që mund të kenë kërkesa për armë.
+Zakonisht, vetëm hull-et ushtarake janë projektuar për të akomoduar armatim (pika fiksimi, magazinim municioni, sisteme kontrolli). Tipari "I armatosur" mund të merret për mjete civile që mund të kenë kërkesa për armë.
 
-Numri maksimal i sistemeve të armëve që mund të mbështesë një automjet është i barabartë me 1/10-ën e Pikëve të Strukturës së tij (kështu që një automjet me 40 Strukturë mund të mbështesë 4 sisteme armësh, nëse është një automjet ushtarak, ose një automjet civil me armë).
+Numri maksimal i sistemeve të armëve që një mjet mund të mbështesë është i barabartë me 1/10 e Pikëve të Strukturës së tij (kështu që një mjet me 40 Strukturë mund të mbështesë 4 sisteme armësh, nëse është një mjet ushtarak, ose një mjet civil i armatosur).
 
-Sistemet e armëve varen nga Madhësia e automjetit. Lloji maksimal i sistemit të armëve për Madhësi të ndryshme tregohet në tabelat më poshtë.
+Sistemet e armëve varen nga Madhësia e mjetit. Lloji maksimal i sistemit të armëve për Madhësi të ndryshme tregohet në tabelat më poshtë.
 
-##### Tabela e Armëve sipas Madhësisë
 
-| Madhësia | Tokësor | Anije Kozmike |
+##### Tabela e armëve sipas Madhësisë
+
+| Madhësia | Tokësore | Anije kozmike |
 | :-- | :-- | :-- |
-| E vogël | Armë e lehtë (p.sh. Pushkë Sulmi) | Armë e mesme (p.sh. Mitraloz, Raketëhedhës) |
-| E mesme | Armë e mesme (p.sh. Mitraloz, Raketëhedhës) | Armë me kullë/e rëndë (p.sh. Mitralozë të rëndë të lidhur, Mini-Guns) |
-| E madhe | Armë me kullë/e rëndë (p.sh. Mitralozë të rëndë të lidhur, Mini-Guns) | Bateri Armësh (p.sh. Artileri Fushëbeteje) |
-| Gjigande | Bateri Armësh (p.sh. Artileri Fushëbeteje) | Armë të Avancuara (p.sh. Sisteme Raketash) |
-| Kolosale | Armë të Avancuara (p.sh. Sisteme Raketash) | Armë të Montuara në Shpinë (vetëm një) |
-| E papërkulshme | N/A | Armë të Montuara në Shpinë (deri në 3) |
+| E vogël | Armë e lehtë (p.sh. pushkë sulmi) | Armë mesatare (p.sh. mitraloz, lëshues raketash) |
+| Mesatare | Armë mesatare (p.sh. mitraloz, lëshues raketash) | Armë me frëngji/e rëndë (p.sh. mitralozë të rëndë të lidhur, mini-mitralozë) |
+| E madhe | Armë me frëngji/e rëndë (p.sh. mitralozë të rëndë të lidhur, mini-mitralozë) | Bateri armësh (p.sh. artileri fushore) |
+| E stërmadhe | Bateri armësh (p.sh. artileri fushore) | Armë të avancuara (p.sh. sisteme raketore) |
+| Shumë e madhe | Armë të avancuara (p.sh. sisteme raketore) | Armë të montuara në bosht (vetëm një) |
+| Kolosale | NA | Armë të montuara në bosht (deri në 3) |
 
-##### Statistikat e Armëve Shembull
-
-| Arma | Dëmi | Gama | Shkalla e Qëllimit | Municion/Ngarkesë |
+##### Shembull i statistikave të armëve
+ 
+| Armë | Dëmi | Rrezja | Shkalla e zjarrit | Municion/Ngarkesë |
 | :-- | :-: | :-: | :-: | :-: |
 | Top 50 inç | 3d6+3 | 1000/2000/6500 | 1/10/50 | 1/5 |
-| Mini-Gun/Gatling Gun | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
+| Mini-mitraloz/Gatling | 3d6 | 300/1000/2000 | -/20/100 | 200/4 |
 | Raketë | 5d6 | 5000/20km/60km | 1 | 1/5 |
-| Raketë/Torpedo e mesme | 6d10 | Gama maksimale 200km | 1 | 1/5 |
-| Raketë/Kroçiere e madhe | 6d10+10 | Gama maksimale 1000km | 1 | 1/10 |
-| Lazer/Top Plazma | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
-| Lazer/Top Plazma i rëndë | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
-| Bateri Artilerie | 5d6+6 | Gama maksimale 50km | 1 | 1/5 |
-| Bateri Montimi Kurrizor | 10d6+6 | Gama maksimale 20000km | 1 | 1/10 |
+| Raketë/Torpedo mesatare | 6d10 | Rrezja maksimale 200km | 1 | 1/5 |
+| Raketë e madhe/Cruise | 6d10+10 | Rrezja maksimale 1000km | 1 | 1/10 |
+| Laser/Top plazme | 4d6 | 300/1000/2000 | -/5/25 | 500/5 |
+| Laser i rëndë/Top plazme | 5d6 | 1000/3000/6000 | -/5/25 | 300/5 |
+| Bateri artilerie | 5d6+6 | Rrezja maksimale 50km | 1 | 1/5 |
+| Bateri e montuar në bosht | 10d6+6 | Rrezja maksimale 20000km | 1 | 1/10 |
 
-_Gamat jepen në metra dhe kilometra._
+_Rrezet jepen në metra dhe kilometra._
 
-_Shkallët e qëllimit janë për goditje të vetme, gjysmë-automatike dhe plotësisht automatike._
+_Shkallët e zjarrit janë për shkrepje të vetme, gjysmë-automatike dhe automatike._
 
-_Municioni është aftësia e qitjes para se të duhet të ringarkohet. Ngarkesa është koha e ringarkimit në Rrotullime Luftimi, duke supozuar se një ekuipazh i plotë është i disponueshëm._
+_Municioni është kapaciteti i zjarrit përpara se të kërkohet rimbushja. Ngarkesa është koha e rimbushjes në Raundet e Luftimit, duke supozuar se është i disponueshëm një ekuipazh i plotë._
 
 ---
-## Trajtimi dhe Manovrat
+## Manovrimi dhe Drejtimi
 
-Manovrat evazive ose të papritura kërkojnë një rrotullim të suksesshëm të Drejtimit/Pilotimit për të siguruar që shoferi ose piloti të mbajë kontrollin e automjetit. Shumica e automjeteve janë projektuar dhe ndërtuar për t'i bërë ballë streseve dhe tendosjeve të rastësishme, por Mjeshtri i Lojës mund të vendosë që një manovër e caktuar kërkon një rrotullim me një shkallë më të lartë vështirësie, në varësi të sa ambicioze është. Dështimi do të thotë humbje e kontrollit mbi automjetin: rrotulloni në tabelën e Humbjes së Kontrollit.
+Manovrat evazive ose të papritura kërkojnë një hedhje të suksesshme të zarit për Drejtim/Pilotim për të siguruar që drejtuesi ose piloti ruan kontrollin e mjetit. Shumica e mjeteve janë projektuar dhe ndërtuar për t'i bërë ballë streseve dhe tendosjeve të rastit, por Drejtuesi i Lojës mund të vendosë që një manovër e veçantë kërkon një hedhje zari në një shkallë më të lartë vështirësie, varësisht nga sa ambicioze është ajo. Dështimi do të thotë se kontrolli mbi mjetin humbet: hidhni zarin në tabelën e Humbjes së Kontrollit.
 
-Vini re se Tabela e Humbjes së Kontrollit vlen vetëm për automjetet tokësore. Efekte të ngjashme mund të aplikohen në automjetet ajrore dhe hapësinore, por Mjeshtrat e Lojës do të duhet të përshtatin arsyetimin për efektin specifik. Për shembull, një avion, në vend që të rrëshqasë, mund të hyjë në një rrotullim.
+Vini re se Tabela e Humbjes së Kontrollit vlen vetëm për mjetet tokësore. Efekte të ngjashme mund të aplikohen për mjetet ajrore dhe hapësinore, por Drejtuesit e Lojës do të duhet të rregullojnë arsyetimin për efektin specifik. Për shembull, një avion, në vend që të rrëshqasë, mund të hyjë në rrotullim (spin).
 
-Gjithashtu, trajtimi i qenësishëm i një automjeti mund të ketë një ndikim shtesë në rrotullimin e Drejtimit. Trajtimi është ose i Lehtë, Standard, i Vështirë, i Frikshëm ose Herculean dhe përcakton pikën fillestare për rrotullimin e Drejtimit kur ekzekutohet një manovër. Shkalla e vështirësisë për manovrën aplikohet më pas në trajtim për të përcaktuar vështirësinë përfundimtare.
+Gjithashtu, manovrimi i natyrshëm i një mjeti mund të ketë një ndikim shtesë në hedhjen e zarit për Drejtim. Manovrimi është ose i Lehtë, Standard, i Vështirë, Formidabil ose Herkulian dhe përcakton pikën e fillimit për hedhjen e zarit për Drejtim kur ekzekutohet një manovër. Shkalla e vështirësisë për manovrën më pas aplikohet te manovrimi për të përcaktuar vështirësinë përfundimtare.
 
-Për shembull, një motoçikletë me performancë të lartë ka stabilizues xhirosh të integruar që i japin asaj një trajtim të Lehtë. Shoferi dëshiron të bëjë një kthesë 180 gradëshe me rrëshqitje për të shmangur një ndjekës, një manovër që Mjeshtri i Lojës e vlerëson si një gradë shtesë vështirësie. Prandaj, çiklisti duhet të bëjë rrotullimin e tij të Drejtimit në Standard në vend të Lehtë. Nëse ai do të kishte qenë duke u përpjekur për të njëjtën manovër në një motoçikletë jo të stabilizuar, rrotullimi i Drejtimit do të ishte në Hard.
+Për shembull, një motoçikletë me performancë të lartë ka giro-stabilizatorë të integruar që i japin një Manovrim të Lehtë. Drejtuesi dëshiron të kryejë një kthesë rrëshqitëse 180 gradë për t'iu shmangur një ndjekësi, një manovër që Drejtuesi i Lojës e vlerëson si një shkallë shtesë vështirësie. Prandaj, motoristi duhet të bëjë hedhjen e tij të zarit për Drejtim në Standard në vend të Lehtë. Nëse ai do të kishte provuar të njëjtën manovër në një motoçikletë të pastabilizuar, hedhja e zarit për Drejtim do të ishte në Vështirë.
 
-Trajtimi Superior është një Tipar. Nëse një automjet nuk ka tiparin si pjesë e përshkrimit të tij, atëherë parazgjedhja është trajtimi Standard për çdo automjet me madhësi të Madhe dhe më poshtë. Automjetet Gjigande dhe Kolosale kanë në mënyrë të qenësishme tiparin e Trajtimit të Frikshëm dhe Herculean, respektivisht, dhe Mjeshtri i Lojës është i lirë të vendosë që manovra të caktuara janë thjesht të pamundura për t'u arritur për shkak të madhësisë së automjetit.
+Manovrimi Superior është një Tipar. Nëse një mjet nuk e ka tiparin si pjesë të përshkrimit të tij, atëherë parazgjedhja është manovrimi Standard për çdo mjet të madhësisë E madhe dhe më poshtë. Mjetet e stërmëdha (Huge) dhe Shumë të mëdha (Enormous) kanë në thelb tiparin e manovrimit Formidabil dhe Herkulian, përkatësisht, dhe Drejtuesi i Lojës është i lirë të vendosë që disa manovra janë thjesht të pamundura për t'u arritur për shkak të madhësisë së mjetit.
 
 ##### Tabela e Humbjes së Kontrollit
 
 | 1d100 | Rezultati |
 | :-: | :-- |
-| 01-25 | Devijim. Humbja e kontrollit është e përkohshme. Automjeti ul shpejtësinë e tij me 1 hap për 5 sekonda. |
-| 26-40 | Rrëshqitje. Shoferi duhet të luftojë për të mbajtur automjetin nën kontroll. Automjeti ul shpejtësinë e tij me 2 hapa për 10 sekonda. |
-| 41-50 | Rrëshqitje e rëndë. Automjeti përfundon duke u kthyer në drejtimin e gabuar dhe ndalon për 15 sekonda. |
-| 51-60 | Rrotullim. Automjeti rrëshqet dhe rrotullohet, duke pësuar 3d10 dëm në Strukturën e tij. Banorët duhet të bëjnë rrotullime të suksesshme Qëndrueshmërie ose të pësojnë 1d10 dëm në 1d3 Vendndodhje Goditjeje. |
-| 61-70 | Rrotullim i rëndë. Si më sipër, por automjeti pëson 3d10+10 dëm dhe Banorët marrin 1d10 dëm edhe nëse rrotullimi i Qëndrueshmërisë arrin sukses, dhe 2d10 nëse dështon. |
-| 71-80 | Shkatërrim total. Si më sipër, por automjeti reduktohet në 0 Strukturë. Banorët pësojnë të njëjtin dëm si për Rrotullim të Rëndë. |
-| 81-90 | Shpërthim. Si më sipër, por sistemi i karburantit të automjetit ndizet dhe shpërthen brenda 1d20+10 sekondash. Nëse nuk mund të largohen, banorët pësojnë një dëm shtesë 1d6 djegieje në 1d6 vendndodhje. |
+| 01-25 | Shmangie (Swerve). Humbja e kontrollit është e përkohshme. Mjeti ul shpejtësinë e tij me 1 shkallë për 5 sekonda. |
+| 26-40 | Rrëshqitje (Skid). Drejtuesi duhet të luftojë për ta mbajtur mjetin nën kontroll. Mjeti ul shpejtësinë e tij me 2 shkallë për 10 sekonda. |
+| 41-50 | Rrëshqitje e rëndë. Mjeti përfundon duke shikuar në drejtimin e gabuar dhe qëndron në vend për 15 sekonda. |
+| 51-60 | Rrokullisje (Roll). Mjeti rrëshqet dhe rrokulliset, duke pësuar 3d10 dëme në Strukturën e tij. Pasagjerët duhet të bëjnë hedhje të suksesshme të zarit për Qëndrueshmëri ose të pësojnë 1d10 dëme në 1d3 Lokacione të Goditjes. |
+| 61-70 | Rrokullisje e rëndë. Si më sipër, por mjeti pëson 3d10+10 dëme dhe Pasagjerët marrin 1d10 dëme edhe nëse hedhja e zarit për Qëndrueshmëri është e suksesshme, dhe 2d10 nëse dështon. |
+| 71-80 | Shkatërrim total (Write-Off). Si më sipër, por mjeti reduktohet në 0 Strukturë. Pasagjerët pësojnë të njëjtin dëm si për Rrokullisjen e rëndë. |
+| 81-90 | Shpërthim. Si më sipër, por sistemi i karburantit të mjetit ndizet dhe shpërthen brenda 1d20+10 sekondash. Nëse nuk munden të largohen, pasagjerët pësojnë 1d6 dëme shtesë nga djegia në 1d6 lokacione. |
 | 91-98 | Shpërthim i menjëhershëm. Si më sipër, por shpërthimi është i menjëhershëm. |
-| 99-00 | Përplasje katastrofike. Banorët duhet të bëjnë rrotullim të suksesshëm të Qëndrueshmërisë ose të vriten menjëherë. Dëmi si për Shkatërrim total pësohet pavarësisht. |
+| 99-00 | Përplasje katastrofike. Pasagjerët duhet të hedhin me sukses zarin për Qëndrueshmëri ose të vriten menjëherë. Dëmi si për Shkatërrimin total pësohet pavarësisht. |
+
 
 ---
-## Shembuj Automjetesh
+## Shembuj mjetesh
 
 ---
 
-### Automjete Tokësore
+### Mjete tokësore
 
 #### Interceptor
 
-Një makinë luksoze e modifikuar, makinë sportive ose e ngjashme, kjo makinë është ndërtuar për të shkuar shpejt dhe për të dhënë po aq sa merr në një betejë. Ky është lloji i automjetit që njerëzit mendojnë kur dikush thotë "makinë spiuni".
+Një makinë luksoze e modifikuar, makinë sportive ose e ngjashme, kjo makinë është ndërtuar për të shkuar shpejt dhe për të bërë një luftë të barabartë në betejë. Ky është lloji i mjetit për të cilin njerëzit mendojnë kur dikush thotë, "makinë spiune".
 
 | Interceptor | |
 | :- | :- |
-| **Madhësia / Lloji** | Ushtarak i Mesëm |
-| **Korja** | 6 |
+| **Madhësia / Lloji** | Mesatare Ushtarake |
+| **Hull** | 6 |
 | **Struktura** | 40 |
 | **Sistemet** | 2 |
 | **Shpejtësia** | E shpejtë |
-| **Trajtimi** | I Lehtë |
-| **Tiparet** | [Sedilje Ejektuese](0006_Vehicles.md?id=ejector-seat), [Performancë e Përmirësuar](0006_Vehicles.md?id=enhanced-performance), [Trajtim Superior](0006_Vehicles.md?id=superior-handling), [Suita e Vëzhgimit](0006_Vehicles.md?id=surveillance-suite), [Me Armë](0006_Vehicles.md?id=weaponized) |
-| **Armët** | Dispenser për rrëshqitje vaji, Dispenser tymi, Mitralozë të mesëm të lidhur dyfish (2d6+3) |
+| **Manovrimi** | I lehtë |
+| **Tiparet** | [Sedilje me katapultë](0006_Vehicles.md?id=ejector-seat), [Performancë e rritur](0006_Vehicles.md?id=enhanced-performance), [Manovrim Superior](0006_Vehicles.md?id=superior-handling), [Suitë vëzhgimi](0006_Vehicles.md?id=surveillance-suite), [I armatosur](0006_Vehicles.md?id=weaponized) |
+| **Armët** | Shpërndarës vaji, Shpërndarës tymi, Mitralozë mesatarë të dyfishtë (2d6+3) |
 
 <br>
 
 ---
 
-#### Motoçikletë Ndjekjeje
+#### Motoçikleta e ndjekjes (Pursuit Motorcycle)
 
-Një motoçikletë e lehtë dhe e shpejtë për ndjekje të shpejta, Motoçikleta e Ndjekjes fsheh një surprizë – ose një palë mitralozë të lidhur ose dy raketa.
+Një motoçikletë e lehtë dhe e shpejtë për ndjekje të shpejta, Motoçikleta e Ndjekjes mbart një surprizë – ose një palë mitralozë të lidhur ose dy raketa.
 
-| Motoçikletë Ndjekjeje | |
+| Pursuit Motorcycle | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Vogël |
-| **Korja** | 2 |
+| **Madhësia / Lloji** | E vogël Civile |
+| **Hull** | 2 |
 | **Struktura** | 12 |
 | **Sistemet** | 1 |
 | **Shpejtësia** | E shpejtë |
-| **Trajtimi** | I Lehtë |
-| **Tiparet** | [Trajtim Superior](0006_Vehicles.md?id=superior-handling), [Me Armë](0006_Vehicles.md?id=weaponized) |
-| **Armët** | Dy Raketa (4d6) ose Mitralozë të lehtë të lidhur dyfish (2d6) |
+| **Manovrimi** | I lehtë |
+| **Tiparet** | [Manovrim Superior](0006_Vehicles.md?id=superior-handling), [I armatosur](0006_Vehicles.md?id=weaponized) |
+| **Armët** | Dy raketa (4d6) ose mitralozë të lehtë të dyfishtë (2d6) |
 
 <br>
 
@@ -460,96 +469,97 @@ Një motoçikletë e lehtë dhe e shpejtë për ndjekje të shpejta, Motoçiklet
 
 #### Makinë Sedan
 
-Një makinë sedan standarde me 4 dyer që ofron hapësirë të mjaftueshme për të ulur rehat një shofer dhe tre pasagjerë. Sakrifikon hapësirën e ngarkesave për të përfshirë një suitë vëzhgimi.
+Një sedan standard me 4 dyer që ofron hapësirë të mjaftueshme për të ulur rehat një drejtues dhe tre pasagjerë. Sakrifikon hapësirën e bagazhit për të integruar një suitë vëzhgimi.
 
-| Makinë Sedan | |
+| Sedan Car | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Mesëm |
-| **Korja** | 4 |
+| **Madhësia / Lloji** | Mesatare Civile |
+| **Hull** | 4 |
 | **Struktura** | 25 |
 | **Sistemet** | 2 |
-| **Shpejtësia** | E shpejtë |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Jo e dukshme](0006_Vehicles.md?id=unobtrusive), [Suita e Vëzhgimit](0006_Vehicles.md?id=surveillance-suite) |
+| **Shpejtësia** | E shpejtë (Rapid) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [I padukshëm](0006_Vehicles.md?id=unobtrusive), [Suitë vëzhgimi](0006_Vehicles.md?id=surveillance-suite) |
 | **Armët** | Asnjë |
 
 <br>
 
 ---
 
-#### Makinë Nënujore
+#### Makinë nënujore
 
-Një makinë me dy persona që mund të kalojë në modalitetin ujor ose nënujor për të udhëtuar mbi ose nën ujë. Vjen me një torpedo të montuar përpara dhe një raketë tokë-ajër të montuar sipër.
+Një makinë me dy vende që mund të kalojë në modalitet lundrimi ose nënujor për të udhëtuar mbi ose nën ujë. Vjen me një torpedo të montuar përpara dhe një raketë ajër-tokë të montuar në pjesën e sipërme.
 
-| Makinë Nënujore | |
+| Submersible Car | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Mesëm |
-| **Korja** | 6 |
+| **Madhësia / Lloji** | Mesatare Civile |
+| **Hull** | 6 |
 | **Struktura** | 25 |
 | **Sistemet** | 2 |
 | **Shpejtësia** | E shpejtë |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Performancë e Përmirësuar](0006_Vehicles.md?id=enhanced-performance), [Nënujor](0006_Vehicles.md?id=submersible), [Ujor](0006_Vehicles.md?id=waterborne), [Me Armë](0006_Vehicles.md?id=weaponized) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Performancë e rritur](0006_Vehicles.md?id=enhanced-performance), [Nënujore](0006_Vehicles.md?id=submersible), [Lëvizje në ujë](0006_Vehicles.md?id=waterborne), [I armatosur](0006_Vehicles.md?id=weaponized) |
 | **Armët** | Raketë (5d6), Torpedo (4d10) |
 
 <br>
 
 ---
 
-#### Furgon Vëzhgimi
+#### Furgon vëzhgimi
 
-Një furgon i thjeshtë, i pa shënuar, që strehon një ekip agjentësh dhe një suitë pajisjesh regjistrimi audio-vizuale.
+Një furgon i thjeshtë, pa shenja dalluese, që strehon një ekip agjentësh dhe një suitë pajisjesh regjistrimi audio-vizuale.
 
-| Furgon Vëzhgimi | |
+| Surveillance Van | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Madh |
-| **Korja** | 9 |
+| **Madhësia / Lloji** | E madhe Civile |
+| **Hull** | 9 |
 | **Struktura** | 60 |
 | **Sistemet** | 3 |
-| **Shpejtësia** | E butë |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Suita e Vëzhgimit](0006_Vehicles.md?id=surveillance-suite), [I Fortë](0006_Vehicles.md?id=tough) |
+| **Shpejtësia** | E lehtë (Gentle) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Suitë vëzhgimi](0006_Vehicles.md?id=surveillance-suite), [I fortë](0006_Vehicles.md?id=tough) |
 | **Armët** | Asnjë |
 
 <br>
 
 ---
 
-#### Automjet Mbështetës Taktik
+#### Mjet mbështetës taktik
 
-Një kamionçinë ose xhip me vend për një ekuipazh prej dy personash në kabinë dhe një gjuajtës që qëndron në pjesën e pasme të sheshtë duke operuar një mitraloz të mesëm të montuar rrotullues.
+Një pickup ose jeep me hapësirë për një ekuipazh prej dy personash në kabinë dhe një gjuajtës që qëndron në pjesën e hapur duke operuar një mitraloz mesatar të montuar në bosht.
 
-| Automjet Mbështetës Taktik | |
+| Tactical Support Vehicle | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Mesëm |
-| **Korja** | 6 |
+| **Madhësia / Lloji** | Mesatare Civile |
+| **Hull** | 6 |
 | **Struktura** | 30 |
 | **Sistemet** | 2 |
-| **Shpejtësia** | E shpejtë |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Për të gjitha Terrenet](0006_Vehicles.md?id=all-terrain), [Me Armë](0006_Vehicles.md?id=weaponized) |
-| **Armët** | Mitraloz i mesëm i montuar (2d6) |
+| **Shpejtësia** | E shpejtë (Rapid) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Gjithë terrenet](0006_Vehicles.md?id=all-terrain), [I armatosur](0006_Vehicles.md?id=weaponized) |
+| **Armët** | Mitraloz mesatar i montuar (2d6) |
+
 
 <br>
 
 ---
 
-### Mjete Ujore
+### Mjete ujore
 
-#### Motoskaf
+#### Varkë e shpejtë (Speedboat)
 
-Një motoskaf tipik, i armatosur me një dispenser minash të montuar pas.
+Një varkë tipike e shpejtë, e armatosur me një shpërndarës minash të montuar në pjesën e pasme.
 
-| Motoskaf | |
+| Speedboat | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil i Mesëm |
-| **Korja** | 3 |
+| **Madhësia / Lloji** | Mesatare Civile |
+| **Hull** | 3 |
 | **Struktura** | 24 |
 | **Sistemet** | 2 |
 | **Shpejtësia** | E shpejtë |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Performancë e Përmirësuar](0006_Vehicles.md?id=enhanced-performance), [Ujor](0006_Vehicles.md?id=waterborne), [Me Armë](0006_Vehicles.md?id=weaponized) |
-| **Armët** | Dispenser Minash (5d6) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Performancë e rritur](0006_Vehicles.md?id=enhanced-performance), [Lëvizje në ujë](0006_Vehicles.md?id=waterborne), [I armatosur](0006_Vehicles.md?id=weaponized) |
+| **Armët** | Shpërndarës minash (5d6) |
 
 <br>
 
@@ -557,38 +567,39 @@ Një motoskaf tipik, i armatosur me një dispenser minash të montuar pas.
 
 #### Jaht
 
-Lloji i jahtit luksoz që mund të zotërojë një oligark. Me gjasë i pajisur me një suitë vëzhgimi për t'u mbrojtur kundër armiqve që përpiqen të bëjnë dëm.
+Lloji i jahtit luksoz që mund të zotërojë një oligark. Me shumë mundësi i pajisur me një suitë vëzhgimi për t'u mbrojtur kundër armiqve që përpiqen të bëjnë gjëra të këqija.
 
-| Jaht | |
+| Yacht | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil Gjigand |
-| **Korja** | 10 |
+| **Madhësia / Lloji** | E stërmadhe Civile |
+| **Hull** | 10 |
 | **Struktura** | 75 |
 | **Sistemet** | 4 |
 | **Shpejtësia** | E ngadaltë |
-| **Trajtimi** | I Frikshëm |
-| **Tiparet** | [Luksoze](0006_Vehicles.md?id=luxurious), [Suita e Vëzhgimit](0006_Vehicles.md?id=surveillance-suite), [Ujor](0006_Vehicles.md?id=waterborne) |
+| **Manovrimi** | Formidabil |
+| **Tiparet** | [Luksoz](0006_Vehicles.md?id=luxurious), [Suitë vëzhgimi](0006_Vehicles.md?id=surveillance-suite), [Lëvizje në ujë](0006_Vehicles.md?id=waterborne) |
 | **Armët** | Asnjë |
+
 
 <br>
 
 ---
 
-### Avionë/Anije Kozmike
+### Avionë/Anije kozmike
 
-#### Dirigjibil (Anije Ajrore Civile)
+#### Dirigjibël (Anije ajrore civile)
 
-Ngjashëm me Hindenburgun, kjo klasë dirigjiblash transkontinental (dhe të tjerë të klasës së tij) është 245 metra e gjatë dhe kërkon një ekuipazh prej 40 deri në 61 persona. Zakonisht mund të transportojë një numër prej 50 deri në 72 pasagjerë në akomodime luksoze.
+I ngjashëm me Hindenburg, ky klas dirigjiblësh transkontinental (dhe të tjerë të klasës së tij) është 245 metra i gjatë dhe kërkon një ekuipazh prej 40 deri në 61 personash. Zakonisht mund të mbajë një numër prej 50 deri në 72 pasagjerë në akomodime luksoze.
 
-| Dirigjibil | |
+| Dirigible | |
 | :- | :- |
-| **Madhësia / Lloji** | Civil Kolosal |
-| **Korja** | 10 |
+| **Madhësia / Lloji** | Shumë e madhe (Enormous) Civile |
+| **Hull** | 10 |
 | **Struktura** | 85 |
 | **Sistemet** | 5 |
-| **Shpejtësia** | Tërheqëse |
-| **Trajtimi** | Herculean |
-| **Tiparet** | [Ajror](0006_Vehicles.md?id=airborne), [Luksoze](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Shpejtësia** | E rëndë (Ponderous) |
+| **Manovrimi** | Herkulian |
+| **Tiparet** | [Ajrore](0006_Vehicles.md?id=airborne), [Luksoz](0006_Vehicles.md?id=luxurious), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Mburojat** | Asnjë |
 | **Armët** | Asnjë |
 
@@ -596,80 +607,81 @@ Ngjashëm me Hindenburgun, kjo klasë dirigjiblash transkontinental (dhe të tje
 
 ---
 
-#### Helikopter Sulmi
+#### Helikopter sulmi
 
-Helikopteri tradicional i Sulmit përdor teknologjinë e tij të avancuar të vëzhgimit për të përgjuar sinjalet e telefonave dhe internetit pa tel, dhe për të ndjekur individë dhe automjete edhe në errësirë, përmes FLIR. Përpjekjet për të shmangur gjurmuesin përmes Fshehtësisë janë të Frikshme.
+Helikopteri tradicional i sulmit përdor teknologjinë e tyre të avancuar të vëzhgimit për të kapur sinjalet e telefonit dhe internetit pa tel, dhe për të gjurmuar individë dhe mjete edhe në errësirë, përmes FLIR. Përpjekjet për t'iu shmangur gjurmuesit përmes "Stealth" janë Formidabile.
 
-| Helikopter Sulmi | |
+| Assault Helicopter | |
 | :- | :- |
-| **Madhësia / Lloji** | Ushtarak i Madh |
-| **Korja** | 11 |
+| **Madhësia / Lloji** | E madhe Ushtarake |
+| **Hull** | 11 |
 | **Struktura** | 50 |
 | **Sistemet** | 3 |
 | **Shpejtësia** | Mesatare |
-| **Trajtimi** | I Lehtë |
-| **Tiparet** | [Ajror](0006_Vehicles.md?id=airborne), [Performancë e Përmirësuar](0006_Vehicles.md?id=enhanced-performance), [Fshehtësi](0006_Vehicles.md?id=stealth), [Trajtim Superior](0006_Vehicles.md?id=superior-handling), [Suita e Vëzhgimit](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Manovrimi** | I lehtë |
+| **Tiparet** | [Ajrore](0006_Vehicles.md?id=airborne), [Performancë e rritur](0006_Vehicles.md?id=enhanced-performance), [Stealth](0006_Vehicles.md?id=stealth), [Manovrim Superior](0006_Vehicles.md?id=superior-handling), [Suitë vëzhgimi](0006_Vehicles.md?id=surveillance-suite), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Mburojat** | Asnjë |
-| **Armët** | 1 Gatling Gun (3d6), 4 Raketa (5d6) |
+| **Armët** | 1 Mitraloz Gatling (3d6), 4 Raketa (5d6) |
 
 <br>
 
 ---
 
-#### Gjuajtës me Shumë Rrole
+#### Luftarak shumë-funksional (Multi-Role Fighter)
 
-Ky gjuajtës tokësor me dy vende (i ngjashëm me tipin De Havilland Mosquito) është i njohur për performancën dhe shkathtësinë e tij. Kuti e tij e bombave është e aftë të mbajë ose dy bomba 250 lb (trajtohen si raketa të mesme me rreze 0) ose një torpedo të vetme.
+Ky luftarak me dy vende me bazë tokësore (i ngjashëm në lloj me De Havilland Mosquito) është i njohur për performancën dhe shkathtësinë e tij. Hapësira e bombave të tij është në gjendje të mbajë ose dy bomba 250 lb. (traitohen si raketa mesatare me rreze 0) ose një torpedo të vetme.
 
-| Gjuajtës me Shumë Rrole | |
+| Multi-Role Fighter | |
 | :- | :- |
-| **Madhësia / Lloji** | Ushtarak i Madh |
-| **Korja** | 10 |
+| **Madhësia / Lloji** | E madhe Ushtarake |
+| **Hull** | 10 |
 | **Struktura** | 45 |
 | **Sistemet** | 3 |
 | **Shpejtësia** | Mesatare |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Ajror](0006_Vehicles.md?id=airborne), [Performancë e Përmirësuar](0006_Vehicles.md?id=enhanced-performance) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Ajrore](0006_Vehicles.md?id=airborne), [Performancë e rritur](0006_Vehicles.md?id=enhanced-performance) |
 | **Mburojat** | Asnjë |
-| **Armët** | 4 Mitralozë Gatling të montuar në hundë (4d6+3), 1 kuti bombash (6d10 - shih përshkrimin) |
+| **Armët** | 4 Mitralozë Gatling të montuar në hundë (4d6+3), 1 hapësirë bombash (6d10 - shih përshkrimin) |
 
 <br>
 
 ---
 
-#### Anije Mallrash Ndëryjore (Transport i Lehtë i Teknologjisë së Lartë)
+#### Transportues ndëryjor (Transport i lehtë me teknologji të lartë)
 
-Ky transportues i lehtë kërkon një ekuipazh minimal prej vetëm dy personash, me vend për deri në katër pasagjerë shtesë. Versioni standard i stokut është shënuar këtu, megjithatë shumë pronarë do të aplikojnë "modifikimet e tyre të veçanta" si hapësirë ngarkese e fshehur, Performancë e Përmirësuar, Trajtim Superior, Rezistencë ndaj EMP, Fshehtësi, etj.
+Ky transportues i lehtë kërkon një ekuipazh minimal prej vetëm dy personash, me hapësirë për deri në katër pasagjerë shtesë. Versioni standard i stokut është shënuar këtu, megjithatë shumë pronarë do të aplikojnë "modifikimet e tyre speciale" si hapësirë e fshehur e ngarkesës, Performancë e rritur, Manovrim Superior, Rezistencë ndaj EMP, Stealth, e kështu me radhë.
 
-| Anije Mallrash Ndëryjore | |
+| Interstellar Freighter | |
 | :- | :- |
-| **Madhësia / Lloji** | Anije Kozmike Civile e Mesme |
-| **Korja** | 10 |
+| **Madhësia / Lloji** | Mesatare Civile Anije kozmike |
+| **Hull** | 10 |
 | **Struktura** | 80 |
 | **Sistemet** | 2 |
-| **Shpejtësia** | E shpejtë (Faktor Parsekut 3) |
-| **Trajtimi** | Standard |
-| **Tiparet** | [Ajror](0006_Vehicles.md?id=airborne), [Ngarkesë](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Anije Kozmike](0006_Vehicles.md?id=space-craft), [VTOL](0006_Vehicles.md?id=vtol) |
+| **Shpejtësia** | E shpejtë (Faktor Parsek 3) |
+| **Manovrimi** | Standard |
+| **Tiparet** | [Ajrore](0006_Vehicles.md?id=airborne), [Ngarkesë](0006_Vehicles.md?id=cargo), [FTL](0006_Vehicles.md?id=ftl), [Anije kozmike](0006_Vehicles.md?id=spacecraft), [VTOL](0006_Vehicles.md?id=vtol) |
 | **Mburojat** | 8 |
-| **Armët** | 2x Kullë topash lazer me katër fishekë (5d6) |
+| **Armët** | 2x Frëngji me topa laser të montuar katërshe (5d6) |
+
 
 <br>
 
 ---
 
-#### Njësia e Kontaktit të Përgjithshëm (Anije Kozmike Ultra e Teknologjisë së Lartë)
+#### Njësia e Kontaktit të Përgjithshëm (Anije kozmike me teknologji ultra të lartë)
 
-Kjo anije kozmike jashtëzakonisht e teknologjisë së lartë është përfaqësimi fizik i një Minde artificiale shumë të avancuar, që merr formën e një serie modulësh të lidhur me fushë, dy kilometra të gjatë. Modulet janë të dedikuara individualisht dhe përfshijnë habitate, objekte ndërtimi, zona ngarkese, përpunim ushqimi, komplekse argëtimi, gjire hangarësh, dhe madje edhe disa njësi sekrete që inteligjenca e anijes rrallë, nëse ndonjëherë, i diskuton. Nuk ka nevojë për ekuipazh njerëzor, por mund të mbështesë një popullsi pasagjerësh deri në 100,000 lehtësisht. Shumë pasagjerë lindin dhe vdesin në Bordin e Njësisë së Kontaktit: shumë janë kalimtarë, vijnë dhe shkojnë si të dëshirojnë.
+Kjo anije kozmike me teknologji jashtëzakonisht të lartë është përfaqësimi fizik i një Mendjeje artificiale shumë të avancuar, që merr formën e një serie modulësh të lidhur në fushë prej dy kilometrash. Modulet janë të dedikuara individualisht dhe përfshijnë habitate, objekte ndërtimi, zona ngarkese, përpunim ushqimi, komplekse argëtimi, hapësira hangari, madje edhe disa njësi të fshehta për të cilat inteligjenca e anijes rrallë, nëse ndonjëherë, flet. Nuk ka nevojë për ekuipazh njerëzor, por mund të mbështesë një popullsi pasagjerësh deri në 100,000 me lehtësi. Shumë pasagjerë lindin dhe vdesin në bordin e Njësisë së Kontaktit: shumë janë kalimtarë, duke ardhur dhe duke shkuar siç dëshirojnë.
 
-| Njësia e Kontaktit të Përgjithshëm | |
+| General Contact Unit | |
 | :- | :- |
-| **Madhësia / Lloji** | Anije Kozmike Civile Kolosale |
-| **Korja** | 20 |
+| **Madhësia / Lloji** | Kolosale Civile Anije kozmike |
+| **Hull** | 20 |
 | **Struktura** | 10,000 |
 | **Sistemet** | 6 |
-| **Shpejtësia** | Mesatare (Faktor Parsekut 4. Në këtë nivel teknologjik, një Faktor është 1 orë) |
-| **Trajtimi** | I Frikshëm |
-| **Tiparet** | [Ajror](0006_Vehicles.md?id=airborne), [Ngarkesë](0006_Vehicles.md?id=cargo), [Transportues](0006_Vehicles.md?id=carrier), [Ndërtim](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luksoze](0006_Vehicles.md?id=luxurious), [Anije Kozmike](0006_Vehicles.md?id=space-craft),[Trajtim Superior](0006_Vehicles.md?id=superior-handling), [Rrezja e Tërheqjes](0006_Vehicles.md?id=tractor-beam) |
+| **Shpejtësia** | Mesatare (Faktor Parsek 4. Në këtë nivel teknologjik, një Faktor është i barabartë me 1 orë) |
+| **Manovrimi** | Formidabil |
+| **Tiparet** | [Ajrore](0006_Vehicles.md?id=airborne), [Ngarkesë](0006_Vehicles.md?id=cargo), [Transportues](0006_Vehicles.md?id=carrier), [Ndërtim](0006_Vehicles.md?id=construction), [FTL](0006_Vehicles.md?id=ftl), [Luksoz](0006_Vehicles.md?id=luxurious), [Anije kozmike](0006_Vehicles.md?id=spacecraft), [Manovrim Superior](0006_Vehicles.md?id=superior-handling), [Rreze tërheqëse](0006_Vehicles.md?id=tractor-beam) |
 | **Mburojat** | 30 |
-| **Armët** | Asnjë që dëshiron të diskutojë |
+| **Armët** | Asnjë për të cilën dëshiron të flasë |
 
 <br>
