@@ -1,261 +1,259 @@
 # Taistelu
 
-Taistelu on tärkeä osa roolipelejä. Väkivaltainen yhteenotto on aina ollut keino ratkaista ongelmia, aina kostonhimoisista kaksintaisteluista vihollisten välillä suuriin armeijoiden yhteenottoihin sodan aikana. Taistelun ei kuitenkaan tarvitse olla verinen taistelu kuolemaan asti. Jotkut taistelukohtaamiset voivat olla viihdyttäviä kaksintaisteluita, jotka päättyvät ilman vammoja, tai kenties kevyitä kapakkataisteluita. _Mythras Imperative_ käyttää useita termejä selittämään taistelun ydinelementtejä. Nämä selitetään seuraavissa osioissa, mutta tiivistettynä ne ovat:
-- **Taistelutyyli:** Taito käyttää joukkoa aseita, jotka on opittu osana kulttuuria tai ammattia.
-- **Taistelukierrokset:** Viiden sekunnin pituiset ajanjaksot kirjanpidon helpottamiseksi.
-- **Taistelutoiminnot:** Mahdolliset teot, joita hahmo voi suorittaa kierroksen aikana käyttämällä toimintapisteitä.
+Taistelu on tärkeä osa roolipelejä. Väkivaltaiset yhteenotot ovat kautta aikojen olleet tapa ratkaista ongelmia, aina kostonhimoisten vihollisten välisistä taisteluista sodan ajan armeijoiden yhteenottoihin. Taistelun ei kuitenkaan tarvitse olla verinen kuolemanottelu. Jotkut taistelukohtaamiset voivat olla viikinkimäisiä kaksintaisteluita, jotka päättyvät ilman vammoja, tai ehkä hyväntahtoisia kapakkatappeluita. _Mythras Imperative_ käyttää useita termejä taistelun ydinelmenttien selittämiseen. Ne on selitetty seuraavissa osioissa, mutta tiivistettynä ne ovat:
+- **Taistelutyyli:** Taito käyttää ryhmää aseita, jotka on opittu osana kulttuuria tai ammattia.
+- **Taistelukierrokset:** Kirjanpidolliset ajanjaksot, joista kukin on viisi sekuntia.
+- **Taistelutoiminnot:** Mahdolliset teot, joita hahmo voi suorittaa kierroksen aikana käyttämällä Toimintapisteen.
 - **Aseen koko:** Kuinka vaikeaa tietyn aseen torjuminen on.
-- **Sitoutuminen:** Kun taistelijat voivat osua toisiinsa tai tulla lyödyiksi, riippuen tilanteesta.
-- **Erikoisefektit:** Taisteluliikkeitä, joita voidaan suorittaa, jos taistelija saa yliotteen.
+- **Sitoutuminen:** Kun taistelijat voivat osua tai tulla osutuksi suoran vastustajan toimesta, olosuhteista riippuen.
+- **Erikoisefektit:** Taistelumanööverit, joita voidaan suorittaa, jos toinen taistelija saa yliotteen.
 
 ---
 ## Taistelutyylit
 
-Taistelutyyli edustaa "pakettia", joka sisältää useita luonteeltaan samankaltaisia aseita, mikä välttää tarpeen opetella jokainen ase erikseen.
+Taistelutyyli edustaa "pakettia", joka sisältää useita luonteeltaan toisiinsa liittyviä aseita, mikä välttää tarpeen opetella kukin ase erikseen.
 
-Taistelutaidon tärkein puoli on se, että hahmo oppii käyttämään jokaista tyylin asetta sekä yksittäin että yhdistelminä, jotta niitä voidaan vaihtaa tarpeen mukaan. Taistelukoulutus ei keskity pelkästään tietyn aseen tai aseiden käyttöön parhaissa olosuhteissa, vaan se kattaa myös sen, mitä tehdä, kun joutuu vakavaan epäedulliseen asemaan. Tällainen monipuolinen koulutus on keskeinen osa taistelijan valmistamista taistelukentän arvaamattomiin tapahtumiin, joissa aseen rikkoutuminen tai riisuminen aseista on aina mahdollista.
+Taistelutaidon tärkein puoli on se, että hahmo oppii käyttämään jokaista tyylin asetta, sekä yksittäin että yhdistelmissä, jotta niitä voidaan vaihtaa tarpeen mukaan. Taistelukoulutus ei keskity pelkästään tietyn aseen tai aseiden käyttämiseen parhaissa mahdollisissa olosuhteissa, vaan se kattaa myös sen, mitä tehdä, kun joutuu vakavaan epäedulliseen asemaan. Tällainen monipuolinen harjoittelu on ensisijainen osa taistelijan valmistamista taistelukentän ennalta-arvaamattomiin tapahtumiin, joissa aseen rikkoutuminen tai aseistariisutuksi tuleminen on aina mahdollista.
 
-Näin ollen hyperborealaiselta barbaarilta voidaan odottaa keihään, käsiakselin, heittokeihään ja kilven käyttötaitoa, kun taas sumerilainen soturi voi olla koulutettu lyhyen miekan, nuijan, kilven ja jousen käyttöön. Päätös siitä, kuinka monta asetta yhteen tyyliin sisällytetään, on lopulta pelinjohtajan ja pelimaailman päätettävissä.
+Siten hyberborealaista barbaaria voidaan odottaa osaavan käyttää keihästä, käsikirvestä, heittokeihästä ja kilpeä, kun taas sumerilainen soturi saattaa sen sijaan olla koulutettu lyömämiekassa, nuijassa, kilvessä ja jousessa. Se, kuinka monta asetta yhteen tyyliin sisällytetään, on lopulta pelinjohtajan ja pelin maailman määrittämä valinta.
 
-Hahmojen, jotka yrittävät käyttää asetta, jota heidän tyylinsä ei kata, tulee kärsiä yhden tai useamman vaikeusasteen taitorangaistus.
+Hahmojen, jotka yrittävät käyttää asetta, jota heidän tyylinsä ei kata, tulee kärsiä yhden tai useamman vaikeustason taitorangaistus.
 
-Taistelutyyleillä on toinenkin funktio kuin vain aseryhmän taitojen oppiminen. Koska jokainen tyyli opetetaan tietyssä kulttuurissa tai ammatissa, ne on luonnostaan optimoitu ympäristöön tai sotataktiikoihin, joita kyseinen ryhmä tavallisesti käyttää; esimerkiksi hevosnomadi oppii taistelemaan satulasta, tai jalkaväkisotilas harjoittelee taistelemaan tiiviissä muodostelmassa. Siksi lisäbonuksena joillekin taistelutyyleille voidaan määrittää yksi tai useampi piirre, joka antaa edun tietyissä olosuhteissa. Piirteet on tarkoitettu käytettäväksi vain kyseisen tyylin aseiden ja tilanteiden kanssa. Piirteitä on tietenkin lukemattomia, ja monet niistä ovat spesifejä tietylle aikakaudelle tai kampanjamaailmalle.
+Taistelutyyleillä on muutakin tehtävää kuin vain aseryhmän taitojen oppiminen. Koska jokaisen tyylin opettaa tietty kulttuuri tai ammatti, ne ovat luonnostaan optimoituja sille ympäristölle tai niille sotilaallisille taktiikoille, joita kyseinen ryhmä yleensä käyttää; esimerkiksi hevospaimentolainen oppii taistelemaan satulasta, tai jalkaväensotilas harjoittelee taistelemaan tiiviissä muodostelmassa. Siksi lisäbonuksena joillekin taistelutyyleille voidaan määrittää yksi tai useampi piirre, joka antaa etua tietyissä olosuhteissa. Piirteet on tarkoitettu käytettäväksi vain kyseisen tyylin aseiden ja tilanteiden kanssa. On tietenkin olemassa lukemattomia piirteitä, joista monet ovat ominaisia tietylle aikakaudelle tai kampanjamaailmalle.
 
 ##### Taistelutyylien piirretaulukko
 
 | Piirre | Kuvaus |
 | :-- | :-- |
-| Ratsuväen keihäsmies | Ratsain tehty rynnäkkö tällä taistelutyylillä ei aiheuta yhden askeleen vaikeuspenalttia osumiseen. |
-| Pimeätaistelu | Sallii käyttäjän jättää huomioimatta huonosta valaistuksesta tai väliaikaisesta sokeudesta aiheutuvat rangaistukset. |
-| Hurjapää | Voi käyttää Väistö-taitoa torjumaan iskuja lähitaistelussa joutumatta maahan. |
-| Puolustuspainotteinen | Kasvattaa aseen kokoa torjuttaessa yhdellä askeleella, jos kyseisellä kierroksella ei tehdä hyökkäävää toimintoa. |
-| Muodostelmataistelu | Sallii kolmen tai useamman saartamattoman soturin ryhmittyä tiiviiseen muodostelmaan, mikä asettaa avoimemmat tai epäjärjestyksessä olevat vastustajat epäedulliseen asemaan ja vähentää kunkin vihollisen toimintapisteitä yhdellä, jos he sitoutuvat taisteluun. |
-| Tyrmäyslyönti | Hyökättäessä yllättäen, käsittele mitä tahansa tyrmättyä kehonosaa minuutteina kierrosten sijaan. |
-| Ratsastustaistelu | Sallii hahmon jättää huomioimatta Ratsastus-taidon asettaman taitokaton taistelunopeuksille. |
-| Kaukoampuja | Käytettäessä etäasetta, siirrä satunnainen osumakohdan heitto viereiseen kehonosaan. |
-| Sissitaistelu | Tyyli sallii etähyökkäysten tekemisen käveltäessä tai juostaessa. |
-| Heittoaseet | Mitä tahansa tyylin lähitaisteluasetta voi heittää ilman taitorangaistusta, mutta tällä tavoin käytettynä aseen vahinkonoppa puolitetaan. |
-| Aseeton taituruus | Sallii käyttäjän käsitellä aseettomat torjunnat ja parrytykset "keskikokoisina", mikä mahdollistaa paremman puolustautumisen aseistettuja vastustajia vastaan. |
+| Ratsuväen keihäsmies | Ratsain tehty rynnäkkö tällä taistelutyylillä ei aiheuta yhden askeleen vaikeusrangaistusta osumiseen. |
+| Pimeässä taistelu | Sallii käyttäjän jättää huomiotta heikon valaistuksen tai tilapäisen sokeutumisen aiheuttamat rangaistukset. |
+| Hurjapää | Saa käyttää Väistö-taitoa torjuakseen iskuja lähitaistelussa joutumatta maahan. |
+| Puolustusmielinen | Kasvattaa aseen kokoa torjuttaessa yhdellä askeleella, edellyttäen ettei kyseisellä kierroksella tehdä hyökkääviä toimintoja. |
+| Muodostelmataistelu | Sallii saartamattoman kolmen tai useamman sotilaan ryhmän ryhmittyä tiiviiseen muodostelmaan, mikä asettaa avoimemmat tai epäjärjestyksessä olevat vastustajat epäedulliseen asemaan ja vähentää kunkin vihollisen Toimintapisteitä yhdellä, jos he sitoutuvat. |
+| Tyrmäysisku | Yllätyshyökkäyksellä hyökättäessä kohdistettu tyrmäys kestää minuutteja vuorojen sijaan. |
+| Ratsastustaistelu | Sallii hahmon jättää huomiotta Ratsastus-taidon asettaman ylärajan taistelunopeille. |
+| Etäisyysampuja | Käytettäessä etäasetta, siirrä satunnainen osumakohdan noppatulos viereiseen kehon osaan. |
+| Kahakointi | Tyyli sallii etähyökkäysten tekemisen kävellessä tai juostessa. |
+| Aseiden heitto | Mikä tahansa tyylin lähitaisteluase voidaan myös heittää ilman taitorangaistusta, mutta näin käytettäessä aseen vahinkonoppa puolittuu. |
+| Aseeton taituruus | Sallii käyttäjän käsitellä aseettomia torjuntojaan "keskikokoisina", mahdollistaen paremman puolustautumisen aseistettuja vastustajia vastaan. |
 
 ---
 ## Taistelun kulku
 
-Taistelun luonteen korostamiseksi taistelua seurataan isku kerrallaan. Kirjanpidon helpottamiseksi taistelut on jaettu viiden sekunnin taistelukierroksiin. Tänä aikana taistelijat voivat tehdä lähitaisteluja tai puolustautua niitä vastaan, liikkua taisteluun ja sieltä pois, laukaista tai heittää etäaseen, ja niin edelleen. Kuten todellisessa elämässä, useimmat taistelut – kun ne alkavat – ratkeavat sekunneissa minuuttien sijaan. Pelitermein tämä tarkoittaa useita taistelukierroksia, elleivät osallistujat vetäydy esimerkiksi nollatakseen aloitteen, arvioidakseen taktista tilannettaan tai yksinkertaisesti levätäkseen hetken ennen uudelleen sitoutumista. Vain tasaväkisten vastustajien tai vastustajien sarjojen väliset taistelut kestävät yleensä pidempään.
+Taistelun elävän luonteen korostamiseksi sitä seurataan isku iskulta. Kirjanpidon helpottamiseksi taistelut on jaettu viiden sekunnin Taistelukierroksiin. Tänä aikana taistelijat voivat tehdä lähitaisteluhyökkäyksiä tai puolustautua niitä vastaan, liikkua taisteluun tai pois siitä, ampua tai heittää etäasetta ja niin edelleen. Kuten tosielämässä, useimmat taistelukohtaamiset – kun ne on aloitettu – päättyvät muutamassa sekunnissa minuuttien sijaan. Pelitermeissä tämä tarkoittaa useita Taistelukierroksia, elleivät osallistujat vetäydy esimerkiksi nollatakseen Aloitteen, arvioidakseen taktisen tilanteensa uudelleen tai yksinkertaisesti levätäkseen hetken ennen uudelleen sitoutumista. Vain tasaväkisten vastustajien tai vastustajasarjojen väliset taistelut kestävät yleensä pidempään.
 
 ---
 ## Ampuma-aseet
 
-Jos käytät ampuma-aseita _Mythras Imperative_ -pelissä, on muutama asia harkittava tulitaistelun tappavuuden vuoksi. Ensinnäkin on lähes mahdotonta välttää lasersäteitä tai luoteja, jotka liikkuvat ihmisen refleksejä nopeammin. Käyttämällä esitettyjä taistelusääntöjä tämä tarkoittaa, että ellei yritä väistää aluetta Väistö-taidolla, jokainen osuma altistaa uhrin välittömästi yhdelle tai useammalle erikoisefektille. Se muuttaa myös toimintapisteiden taloutta. Jos et voi käyttää pisteitä puolustautumiseen, useimmat hahmot päätyvät käyttämään kaikki toimintansa tulittamiseen, luottaen vihollistensa epäpätevyyteen. Tämän paradigman muutoksen käsittelemiseksi sekä pelinjohtajien että pelaajien on ehkä muutettava tapaa, jolla he näkevät – ja lähestyvät – ampumataistelua. Huomioitavia asioita ovat:
+Jos käytät ampuma-aseita _Mythras Imperative_ -pelissä, on muutama asia huomioitava tulitaistelun kohtalokkuuden vuoksi. Ensinnäkin on lähes mahdotonta välttää lasersäteitä tai luoteja, jotka liikkuvat nopeammin kuin ihmisen refleksit. Käyttämällä esitettyjä taistelusääntöjä tämä tarkoittaa, että ellei kukaan yritä syöksyä pois alueelta käyttämällä Väistöä, jokainen osuma altistaa uhrin välittömästi yhdelle tai useammalle Erikoisefektille. Se muuttaa myös Toimintapisteiden taloutta. Jos et voi käyttää pisteitä reaktiiviseen puolustautumiseen, useimmat hahmot päätyvät käyttämään kaikki toimintonsa ammuskeluun, pelaten vihollisten epäpätevyyden varaan. Tämän paradigman muutoksen käsittelemiseksi sekä pelinjohtajien että pelaajien on ehkä muutettava tapaa, jolla he tarkastelevat – ja lähestyvät – asemiehisten taistelua. Huomioitavia asioita ovat:
 
-- Ampumataistelu on vaarallista!
-- Yleisesti ottaen ihmiset priorisoivat osuman välttämistä muiden ampumisen sijaan.
-- Yleisin suojautumistapa on hakeutua suojaan.
-- Tuliylivoima on paras tapa estää vihollista ampumasta takaisin.
-- Ampuma-aseet ovat yllättävän epätarkkoja, ellei niitä tueta ja/tai tähdätä.
-- Kun sinua ammutaan, tapahtuu pahoja asioita.
+- Asetaistelu on vaarallista!
+- Yleisesti ottaen ihmiset priorisoivat sen, ettei heitä ammuta, ohi muiden ampumisen.
+- Yleisin suojautumismenetelmä on suojautuminen.
+- Peitetuli on paras tapa estää vihollisia ampumasta takaisin.
+- Ampuma-aseet ovat yllättävän epätarkkoja, ellei niiden tukemiseen ja/tai tähtäämiseen käytetä aikaa.
+- Kun sinua ammutaan, pahoja asioita tapahtuu.
 
-Itsensä puolustaminen tulitukselta muuttuu pitkälti vartalosuojien, suojan käytön ja vihollisen tulituskyvyn estämisen asiaksi. Tämän seurauksena useimmista tulitaisteluista tulee hyvin taktisia – paljon tukitulta, sivustaliikkeitä ja vihollisten häätämistä suojasta – jolloin hahmot saattavat viettää kokonaisia taistelukierroksia pinottuina eivätkä kykene vastaamaan ennen kuin vastapuoli lopettaa ampumisen... mikä voi olla joidenkin pelaajien mielestä erittäin tylsää.
+Puolustautuminen tulitusta vastaan muuttuu pitkälti suojavarusteiden käytöksi, suojan hyödyntämiseksi ja vastustajan ampumisen estämiseksi. Tästä syystä useimmista asemiehisten taisteluista tulee hyvin taktisia – paljon peitetulta, saartoliikkeitä ja vihollisten häätämistä syvistä suojista – joiden aikana hahmot saattavat viettää kokonaisia taistelukierroksia pinottuna ja kykenemättöminä vastaamaan, kunnes vastapuoli lakkaa ampumasta... mitä jotkut pelaajat saattavat pitää äärimmäisen tylsänä.
 
-On täysin mahdollista, ettei koko tulitaistelu johda vammoihin; toinen osapuoli saattaa vain luovuttaa ammuksien loppuessa tai paeta taistelusta kokonaan. Loppujen lopuksi harva haluaa riskeerata tulevansa ammutuksi täysautomaattisella aseella.
+On täysin mahdollista, ettei koko tulitaistelu aiheuta vammoja; toinen osapuoli saattaa vain luovuttaa ammusten loputtua tai paeta taistelusta kokonaan. Loppujen lopuksi harva haluaa riskeerata tulevansa täytetyksi sarjatuliaseen purskeella.
 
-Näissä taistelusäännöissä tietyt toimintatyypit, erikoisefektit ja tilanteet pätevät vain ampuma-aseisiin, ja ne on merkitty vastaavasti.
+Kautta näiden taistelusääntöjen tietyt toimintotyypit, Erikoisefektit ja tilanteet pätevät vain ampuma-aseilla käytävään taisteluun, ja ne on merkitty vastaavasti.
 
 ---
-## Taistelukierrokset ja aloite
+## Taistelukierrokset ja Aloite
 
 Taistelukierrokset käyttävät useita tärkeitä termejä:
 
-- **Aloite:** Järjestys, jossa toimitaan taistelukierroksen aikana. Pelinjohtaja laskee aloitearvoja korkeimmasta alimpaan, jotta jokaisella osallistujalla on mahdollisuus toimia, kun heidän numeronsa kohdalle osuu.
-- **Vuorot:** Jokaisen 5 sekunnin taistelukierroksen aikana jokaisella osallistujalla on mahdollisuus suorittaa yksi tai useampi vuoro, riippuen heidän toimintapisteistään ja siitä, miten he niitä käyttävät. Vuorollaan osallistujat suorittavat yhden taistelutoiminnon, joka käsittää julistuksen, mahdollisen liikkumisen, tarvittavat nopanheitot (mukaan lukien reaktiot) ja toiminnon ratkaisun. Jos osallistujalla on jäljellä toimintapisteitä, pelaajat voivat suorittaa uuden vuoron aloitejärjestyksessä. Kun toimintapisteitä ei ole jäljellä tai jäljellä olevat on säästetty reaktioihin, peli siirtyy seuraavaan taistelukierrokseen.
+- **Aloite:** Järjestys siitä, kuka toimii milloinkin Taistelukierroksen aikana. Pelinjohtaja laskee Aloitearvoja korkeimmasta alimpaan, jotta jokaisella osallistujalla on mahdollisuus suorittaa vuoronsa, kun heidän numeronsa kohdalle tulee.
+- **Vuorot:** Jokaisen 5 sekunnin Taistelukierroksen aikana jokaisella osallistujalla on mahdollisuus suorittaa yksi tai useampi vuoro, riippuen heidän Toimintapisteistään ja siitä, miten he käyttävät niitä. Vuorollaan osallistujat suorittavat yhden Taistelutoiminnon, joka koostuu julistuksesta, mahdollisesta liikkumisesta, tarvittavista noppaheitosta (mukaan lukien reaktiot) ja toiminnon ratkaisemisesta. Jos osallistujalla on Toimintapisteitä jäljellä, pelaajat voivat kukin suorittaa uuden vuoron Aloitejärjestyksessä. Kun Toimintapisteitä ei ole jäljellä tai jäljellä olevat on säästetty reaktioita varten, peli etenee seuraavalle Taistelukierrokselle.
 
-Jokainen termi kuvataan tarkemmin alla.
+Jokainen termi on kuvattu yksityiskohtaisemmin alla.
 
 #### Aloite
 
-Aloite määrittää osallistujien toimintajärjestyksen taistelukierroksella. Se heitetään taistelun alussa ja määrittää, milloin kukin hahmo toimii. Ellei tilannetta muuttavia tekijöitä ilmene, kuten tiettyjä taistelutoimintoja tai erikoisefektejä, aloite pysyy voimassa, kunnes se on pakko heittää uudelleen.
+Aloite määrittää osallistujien toimintajärjestyksen Taistelukierroksella. Se heitetään taistelun alussa ja määrittää, milloin kukin hahmo toimii. Ellei tilanne muutu esimerkiksi tiettyjen Taistelutoimintojen tai Erikoisefektien vuoksi, Aloite pysyy voimassa, kunnes se on pakko heittää uudelleen.
 
-Aloite lasketaan jokaisen osallistujan heittäessä 1d10 ja lisäämällä aloitemuokkaimensa. Korkeimman tuloksen saanut toimii ensin, seurattuna toiseksi korkeimmasta ja niin edelleen. Kun kaksi tai useampi osallistuja saa saman tuloksen, korkeamman KET-arvon omaava toimii ensin. Jos tulos on edelleen tasan, heitetään noppaa, ja korkeampi tulos toimii ensin.
+Aloite lasketaan siten, että jokainen osallistuja heittää 1d10 ja lisää Aloitemuokattimensa. Korkeimman tuloksen saanut toimii ensin, sen jälkeen toiseksi korkein ja niin edelleen. Kun kahdella tai useammalla osallistujalla on sama tulos, se, jolla on korkeampi KET, toimii ensin. Jos tulos on edelleen tasan, kummankin on heitettävä noppaa ja korkeampi tulos toimii ennen toista.
 
-#### Taistelutoiminnot
+#### Toiminnot taistelussa
 
-Kun aloite on määritetty, osallistujilla on mahdollisuus suorittaa useita taistelutoimintoja kunkin taistelukierroksen aikana. Kaikki hahmot saavat 2 toimintapistettä per kierros, mutta toimintojen ajoitus riippuu siitä, onko toiminto ennakoiva vai reaktiivinen.
+Kun Aloite on määritetty, osallistujilla on mahdollisuus suorittaa useita Taistelutoimintoja kunkin Taistelukierroksen aikana. Kaikki hahmot saavat 2 Toimintapistettä kierroksessa, mutta toiminta-aika riippuu siitä, onko toiminto proaktiivinen vai reaktiivinen.
 
-Ennakoivia toimintoja voi yrittää vain hahmon omalla vuorolla; eli aloitteensa aikana. Ennakoivat toiminnot ovat niitä, joissa hahmo on aloitteentekijä, kuten hyökkäys aseella.
+Proaktiivisia toimintoja voi yrittää vain hahmon omalla vuorolla; eli hänen Aloitteensa aikana. Proaktiiviset toiminnot ovat niitä, joissa hahmo on aloitteentekijä, kuten hyökkäyksen tekeminen aseella.
 
-Reaktiiviset toiminnot ovat hahmon suorittamia vastatoimia tai resistansseja heitä vastaan tehtyihin tekoihin. Vain yksi reaktioyritys on sallittu kutakin uhkaa kohden, esimerkiksi hyökkäyksen torjuminen.
+Reaktiiviset toiminnot ovat hahmon tekemiä toimia, joilla vastataan häntä vastaan kohdistettuun tekoon tai vastustetaan sitä. Vain yksi reaktioyritys on sallittu kutakin uhkaa kohden, esimerkkinä yritys torjua hyökkäys.
 
-Käyttämättömät toimintapisteet eivät siirry kierrokselta toiselle.
+Käyttämättömät Toimintapisteet eivät siirry kierrokselta toiselle.
 
 ---
 ## Taistelutoiminnot
 
-Taistelutoiminnot ovat tekoja, joita voidaan suorittaa taistelun aikana. Aseen esiin ottaminen, loitsun langettaminen tai hyökkäyksen väistäminen ovat esimerkkejä taistelutoiminnoista. Useimmat liittyvät itse taisteluun, mutta jotkut liittyvät loitsujen ja aseiden ulkopuoliseen toimintaan.
+Taistelutoiminnot ovat tekoja, joita voidaan suorittaa taistelun aikana. Aseen esiin ottaminen, loitsun langettaminen tai hyökkäyksen alta syöksyminen ovat kaikki esimerkkejä Taistelutoiminnoista. Useimmat liittyvät itse taisteluun, mutta jotkut liittyvät toimintaan loitsujen ja aseiden ulkopuolella.
 
-Kuten aiemmin mainittiin, hahmon toimintatiheys kierroksella on rajoitettu käytettävissä olevien toimintapisteiden mukaan. Niitä kulutetaan taistelukierroksen aikana erilaisten taistelutoimintojen suorittamiseen. Kun taistelijan toimintapisteet on käytetty, hän ei voi enää toimia kyseisellä kierroksella ja hänen on odotettava, kunnes pisteet nollautuvat seuraavan kierroksen alussa.
+Kuten aiemmin mainittiin, hahmon toimintojen määrää kierroksessa rajoittavat käytettävissä olevat Toimintapisteet. Niitä kulutetaan kunkin Taistelukierroksen aikana erilaisten Taistelutoimintojen suorittamiseen. Kun taistelijan Toimintapisteet on kulutettu, hän ei voi enää toimia kyseisen kierroksen aikana ja hänen on odotettava, kunnes pisteet nollautuvat seuraavan alussa.
 
-Ellei toisin määritetä, mikä tahansa taistelutoiminto (paitsi "vapaat" toiminnot) maksaa yhden toimintapisteen. Siksi taistelijoiden on harkittava huolellisesti, miten ja milloin he käyttävät toimintapisteitään. He voivat toimia niin aggressiivisesti tai puolustavasti kuin haluavat, reagoiden dynaamisesti taistelun muuttuviin tilanteisiin.
+Ellei toisin mainita, mikä tahansa Taistelutoiminto (paitsi "ilmaiset" toiminnot) maksaa yhden Toimintapisteen. Siksi taistelijoiden on harkittava huolellisesti, miten ja milloin he käyttävät Toimintapisteitään. He voivat toimia niin hyökkäävästi tai puolustavasti kuin haluavat, reagoiden dynaamisesti taistelun muuttuviin olosuhteisiin.
 
-### Ennakoivat toiminnot
+### Proaktiiviset toiminnot
 
-Seuraavat toiminnot ovat asioita, joita hahmo voi yrittää vuorollaan käyttämällä toimintapisteen. Huomaa, että jotkin toiminnot, kuten loitsiminen tai lataaminen, voivat viedä useita vuoroja; jokainen vuoro maksaa oman toimintapisteensä.
+Seuraavat toiminnot ovat sellaisia, joita hahmo voi yrittää omalla vuorollaan käyttämällä Toimintapisteen. Huomaa, että jotkin toiminnot, kuten loitsiminen tai uudelleenlataaminen, voivat viedä useita vuoroja; jokainen vuoro maksaa oman Toimintapisteen.
 
 #### Hyökkäys
 
-Hahmo voi yrittää iskeä lähitaisteluaseella tai käyttää etäasetta.
+Hahmo voi yrittää lyödä lähitaisteluaseella tai käyttää etäasetta.
 
 #### Tuki
 
-Hahmo tukee itseään ottamalla tukevan asennon ja nojaamalla tulevan hyökkäyksen suuntaan. Vastustettaessa takaisinpäin työntämistä tai hyppyhyökkäyksiä, hahmon KOK-arvoa käsitellään 50 % suurempana. Bash-erikoisefektia vastaan KOK-arvo tuplataan.
+Hahmo tukee itsensä ottamalla tukevan asennon ja nojaamalla tulevan hyökkäyksen suuntaan. Takaiskun tai loikkaushyökkäysten vastustamiseksi hahmon KOK katsotaan 50 % suuremmaksi. Bash-erikoisefektiä vastaan KOK tuplataan.
 
-#### Loitsi/Käytä voimaa
+#### Langeta loitsu/Käytä voimaa
 
-Hahmo voi yrittää langettaa loitsun, kutsua tiettyjä voimia ja niin edelleen. Monimutkaiset loitsut voivat vaatia useita toimintoja loitsimisen suorittamiseksi. Kun se on valmis, taikuus voidaan vapauttaa milloin tahansa loitsijan seuraavaan vuoroon asti – jolloin se voidaan pitää myöhempää vaikutusta varten, mutta tämä vaatii Loitsun/Voiman pito -toiminnon (katso alla), jotta se säilyy valmiina myöhempää vapauttamista varten.
+Hahmo voi yrittää langettaa loitsun, käyttää tiettyjä voimia jne. Monimutkaiset magiat voivat vaatia useita toimintoja langetuksen suorittamiseen. Kun se on valmis, magian voi vapauttaa milloin tahansa hahmon seuraavaan vuoroon asti – jolloin se voidaan pitää myöhempää vaikutusta varten, mutta tämä vaatii Pidä magia/voima -toiminnon (katso alla), jotta se säilyy myöhempää vapauttamista varten.
 
-#### Muuta etäisyyttä
+#### Vaihda etäisyyttä
 
-Hahmo voi yrittää lähestyä tai perääntyä vastustajasta, kunhan he eivät ole sitoutuneet lähitaisteluun vastustajan kanssa tai ole vihollisen tulituksen kohteena etätaistelutilanteessa.
+Hahmo voi yrittää lähestyä tai perääntyä vastustajasta, kunhan hän ei ole sitoutunut lähitaisteluun vastustajan kanssa tai ole vihollisen tulituksen alla etätaistelutilanteessa.
 
 #### Rynnäkkö
 
-Rynnäkkö-toiminto sallii hahmon liikkua sitoutumisetäisyydelle juoksu- tai sprinttivauhdilla, käyttäen rynnäkön momenttia voimakkaamman lähitaisteluhyökkäyksen tekemiseen. Nämä säännöt on kuvattu yksityiskohtaisemmin [Rynnäkkö](0005_Combat.md?id=charging) -osiossa alla.
+Rynnäkkö-toiminto sallii hahmon liikkua sitoutumisetäisyydelle juoksu- tai sprinttinopeudella, käyttäen rynnäkön momenttia voimakkaamman lähitaisteluhyökkäyksen tekemiseen. Näitä sääntöjä käsitellään tarkemmin [Rynnäkkö](0005_Combat.md?id=charging) -osiossa alla.
 
 #### Viivytys
 
-Hahmo säästää yhden tai useamman toiminnon suorittaakseen reaktiivisia toimintoja myöhemmin, kuten keskeytyksen tai torjunnan. Viivyttämisen toimintapistekustannus katetaan lopulta suoritetuilla teoilla. Jos viivästettyjä toimintoja ei suoriteta ennen hahmon seuraavaa vuoroa, hahmon katsotaan "epäröineen" (katso alla) ja toimintapiste menetetään.
+Hahmo säästää yhden tai useamman toiminnon suorittaakseen reaktiivisia toimintoja myöhemmin, kuten Keskeytys tai Torjunta. Viivyttämisen Toimintapisteiden kulut kattavat ne toiminnot, jotka lopulta suoritetaan. Jos viivytettyjä toimintoja ei suoriteta ennen hahmon seuraavaa vuoroa, hahmon katsotaan Epäröineen (katso alla), ja Toimintapiste menetetään.
 
 #### Epäröinti
 
-Oletusvaihtoehto, ellei toista toimintoa valita; hahmo tuhlaa vuoronsa tekemättä mitään hyödyllistä.
+Oletusvalinta, ellei muuta toimintoa valita; hahmo tuhlaa vuoronsa tekemättä mitään hyödyllistä.
 
-#### Pidä loitsua/voimaa
+#### Pidä magiaa/voimaa
 
-Kun loitsiminen on valmis, hahmo voi pitää loitsun tai voiman väliaikaisesti hallinnassa, odottaen parasta hetkeä sen vapauttamiseen. Taikuutta voi pidätellä niin kauan kuin hahmo jatkaa tämän toiminnon suorittamista seuraavilla vuoroilla, mutta tämä sallii vihollisen Vastal loitsu -reaktion vapaan käytön, jos se on loitsun kannalta relevantti. Varsinaista taitotestiä pidetyn loitsun langettamiseksi ei tehdä ennen kuin se vapautetaan.
+Kun langetus on valmis, hahmo voi pitää loitsua tai voimaa väliaikaisessa tarkistuksessa odottaen parasta hetkeä sen vapauttamiseen. Magiaa voidaan pitää hallussa niin kauan kuin hahmo jatkaa tämän toiminnon suorittamista seuraavilla vuoroilla, mutta tämä sallii vihollisen Vastaloitsu-reaktion käytön, jos se on loitsun kannalta relevantti. Varsinaista taitotarkistusta pidetyn loitsun langettamiseksi ei tehdä ennen kuin se vapautetaan.
 
 #### Ratsaille nousu
 
 Hahmo voi nousta ratsaille tai poistua ratsailta tai ajoneuvosta. Erityisen suurten ratsujen kohdalla tämä voi vaatia useita vuoroja.
 
-#### Liiku
+#### Liike
 
-Edellyttäen, ettei hahmo ole sitoutunut vastustajaan, hän voi liikkua minkä tahansa etäisyyden, jonka pelinjohtaja katsoo tilanteeseen sopivaksi.
+Edellyttäen, ettei ole sitoutunut vastustajaan, hahmo voi liikkua minkä tahansa etäisyyden, jonka pelinjohtaja katsoo tilanteeseen sopivaksi.
 
 #### Manööveri
 
-Hahmo voi sitoutua useisiin vastustajiin ryhmän vastakkaisella Väistö-taitojen heitolla. Ne, jotka epäonnistuvat lyömään hahmon heittoa, eivät voi hyökätä häntä vastaan kyseisellä taistelukierroksella. Katso osio [Manööveri](0005_Combat.md?id=outmaneuvering) alla.
+Hahmo voi sitoutua useisiin vastustajiin Väistö-taitojen ryhmävastakkaisheitossa. Ne, jotka epäonnistuvat hahmon tuloksen voittamisessa, eivät voi hyökätä häntä vastaan kyseisellä Taistelukierroksella. Katso alla oleva osio [Manööverit](0005_Combat.md?id=outmaneuvering).
 
-#### Valmistele ase
+#### Aseen esiinotto
 
-Hahmo voi noutaa, vetää esiin, tupittaa, vetäytyä tai ladata aseen tai muun esineen. Lähellä olevan pudonneen esineen noutaminen vaatii 2 toimintoa: yhden liikkumiseen ja esineeseen kurottamiseen ja toisen takaisin valmiiseen asentoon palaamiseen. Jotkin ohjusaseet vaativat useita toimintoja lataamiseen.
+Hahmo voi hakea, piirtää, tuppeen laittaa, vetää pois tai ladata aseen tai muun esineen. Lähellä olevan pudotetun esineen hakeminen vaatii 2 toimintoa: yhden liikkumiseen ja esineen tavoittamiseen ja toisen valmiusasentoon palaamiseen. Jotkin ohjusaseet vaativat useita toimintoja lataamiseen.
 
-#### Lataa (Ampuma-aseet)
+#### Lataus (ampuma-aseet)
 
-Kuten Valmistele ase. Latausajat voivat vaihdella suuresti aseen tyypin mukaan. Kertaladattavat mustaruutimusketti-tyyppiset aseet ovat paljon hitaampia ladata kuin ammuslippaan tai virtalähteen vaihtaminen.
+Kuten Aseen esiinotto. Latausajat voivat vaihdella suuresti aseen tyypin mukaan. Kertaladattavat mustaruutimusketti ovat paljon hitaampia ladata kuin ammuslippaan tai virtalähteen vaihtaminen.
 
-#### Palauta jalkaote
+#### Jalkautuminen/Nouseminen
 
-Jos hahmo ei ole sitoutunut vastustajaan, hän voi automaattisesti palauttaa jalkaotteensa, jos hänet on kaadettu tai törmätty. Jos hahmo on sitoutunut, hänen on voitettava vastustajan Voima- tai Yleisurheilu-taitojen vastakkainen heitto ennen kuin hän voi nousta. Tämä kamppailu ei maksa toimintapisteitä.
+Jos hahmo ei ole sitoutunut vastustajaan, hän voi automaattisesti nousta jaloilleen, jos hänet on kaadettu. Jos hahmo on sitoutunut, hänen on voitettava vastustajan Voima- tai Yleisurheilu-vastakkaisheitto ennen nousemista. Tämä kamppailu ei maksa Toimintapisteitä ratkaistavaksi.
 
-#### Kurkistus (Ampuma-aseet)
+#### Kurkistus (ampuma-aseet)
 
-Kurkistus sallii suojan takana olevan henkilön katsoa nopeasti, mikä taktinen tilanne on. Toiminto on näennäisesti turvallinen, sallien havaitsijalle yhden Havainto-heiton ennen takaisin suojaan kyykistymistä. Jos Havainto-testi kuitenkin epäonnistuu, he kurottavat päätään tyhmästi liikaa tai pysyvät näkyvillä tarpeeksi kauan, jotta vihollinen voi ottaa laukauksen.
+Kurkistus sallii suojan takana olevan henkilön katsoa nopeasti, mikä taktinen tilanne on. Toiminto on näennäisesti turvallinen ja sallii tarkkailijalle yhden Havainto-heiton ennen takaisin suojaan vetäytymistä. Jos Havainto-heitto kuitenkin epäonnistuu, hän kurkistaa hölmösti liian pitkälle tai pysyy näkyvissä riittävän kauan, jotta vihollinen voi ottaa laukauksen.
 
-#### Vakauta ase (Ampuma-aseet)
+#### Aseen vakautus (ampuma-aseet)
 
-Sallii hahmon vakiinnuttaa ammunta-asennon ja tukea automaattiaseen niin, että se pysyy vakaana. Se vaatii, että hahmo on vähintään osittain näkyvissä eikä täysin suojassa. Ensisijainen hyöty on, että se vähentää purske- tai täysautomaattitulen rekyylirangaistusta yhdellä askeleella. Tämä efekti toimii kuten Tuki siten, että sen edut jatkuvat, kunnes hahmo liikkuu.
+Sallii hahmon ottaa tukevan ampuma-asennon ja tukea automaattiaseen niin, että se pysyy vakaana. Se vaatii, että hahmo on ainakin osittain näkyvissä eikä täysin suojassa. Ensisijainen etu on se, että se vähentää purske- tai sarjatulituksen rekyylirangaistusta yhdellä askeleella. Tämä vaikutus on kuin Tuki siinä mielessä, että sen edut jatkuvat, kunnes hahmo liikkuu.
 
 #### Kamppailu
 
-Jos hahmo on tietyn tyyppisten hyökkäysten tai erikoisefektien uhri, hän voi yrittää irrottautua tilanteesta. Esimerkiksi vihollisen otteesta vapautuminen.
+Jos hahmo on tiettyjen hyökkäystyyppien tai Erikoisefektien uhri, hän voi yrittää irrottautua tilanteesta. Esimerkiksi vapautuminen vihollisen otteesta.
 
-#### Vaihda tulitustilaa (Ampuma-aseet)
+#### Vaihda tulimuotoa (ampuma-aseet)
 
-Tulitustilan vaihtaminen sallii automaatti- tai kaksikäyttöisen ampuma-aseen käyttäjän vaihtaa aseensa valitsinta hyödyntääkseen muita tulitustiloja. Esimerkiksi rynnäkkökivääri voitaisiin vaihtaa puoliautomaattisesta purskeeseen, valita erityyppisiä ammuksia tai aktivoida lisäjärjestelmä, kuten integraalinen kranaatinheitin. Vaikka nykyaikaiset aseet vaativat toimintapisteen hahmon vuorolla tilan vaihtamiseen, riittävän edistyneet korkean teknologian ampuma-aseet saattavat sallia sen vapaana toimintona, joka laukeaa elektronisilla implanteilla tai psyykkisesti lukemalla käyttäjän ajatuksia.
+Tulimuodon vaihto sallii automaatti- tai kaksikäyttöisen ampuma-aseen käyttäjän muuttaa aseensa valitsinta hyödyntääkseen muita tulimuotoja. Siten rynnäkkökivääri voidaan vaihtaa kertatulesta pursketuleen, valita erilaisia ammuksia tai ottaa käyttöön täydentävä järjestelmä, kuten integroitu kranaatinheitin. Vaikka nykyaikaiset aseet vaativat Toimintapisteen hahmon vuorolla tulimuodon vaihtamiseen, riittävän kehittyneet korkean teknologian ampuma-aseet saattavat sallia sen ilmaisena toimintona, elektronisten implanttien tai käyttäjän mielen lukemisen kautta.
 
-#### Suojaudu
+#### Suojautuminen
 
-Suojaudu on ennakoiva toiminto, joka sallii ampujan kyykistyä lähistöllä olevan suojan taakse, saaden siten tietyn suojan saapuvaa tulitusta vastaan. Toisin kuin Väistö, se ei jätä käyttäjää maahan, mutta vaatii, että suojaa on saatavilla, esimerkiksi käytävän kulman taakse takaisin peruuttaminen tai baarissa pöydän taakse kyykistyminen. Tilanteesta riippuen käytettävissä oleva suoja voi tai ei ehkä riitä suojaamaan hahmoa täysin. Suojan tyyppi määrittää myös sen suojaavat ominaisuudet; esimerkiksi paksu teräsovi voi osoittautua luodeille läpäisemättömäksi, kun taas ohut puuseinä voi antaa vain 4 Panssaripistettä. Yleisiä ohjeita materiaalien suojaavista ominaisuuksista löytyy taulukosta [Elottomat esineet](0004_Game_System.md?id=inanimate-objects) -osiossa.
+Suojautuminen on proaktiivinen toiminto, joka sallii ampujan sujahtaa minkä tahansa välittömässä läheisyydessä olevan suojan taakse, saaden siten jonkinasteista suojaa tulevaa tulitusta vastaan. Toisin kuin Väistö, se ei jätä käyttäjää maahan, mutta se vaatii, että suojaa on saatavilla, esimerkiksi vetäytyminen kulman taakse käytävässä tai kyykistyminen pöydän taakse baarissa. Olosuhteista riippuen saatavilla oleva suoja voi tai ei välttämättä riitä suojaamaan hahmoa täysin. Suojan tyyppi määrittää myös sen suojaavat ominaisuudet; paksu teräsovi voi esimerkiksi osoittautua läpäisemättömäksi luodeille, kun taas ohut puuseinä saattaa tarjota vain 4 panssaripistettä. Yleisiä ohjeita tiettyjen materiaalien suojaavista ominaisuuksista löytyy [Elottomat esineet](0004_Game_System.md?id=inanimate-objects) -osion taulukosta.
 
 ### Reaktiiviset toiminnot
 
-Tämä luettelo määrittelee reaktiot, joita voidaan käyttää milloin tahansa taistelukierroksen aikana vastauksena välittömään uhkaan. Kuten edellisessä luettelossa, reaktio maksaa yhden toimintapisteen.
+Tämä luettelo määrittelee reaktiot, joita voidaan käyttää milloin tahansa Taistelukierroksen aikana vastauksena välittömään uhkaan. Kuten edellisessä luettelossa, reaktio maksaa yhden Toimintapisteen.
 
 #### Vastaloitsu
 
-Hahmo voi yrittää hylätä tai vastustaa saapuvaa loitsua. Tämä olettaa, että vastustavalla taialla on yhden vuoron loitsimisaika, muuten se on valmisteltava etukäteen ja pidettävä väliaikaisesti hallinnassa Loitsun pito -toiminnolla. Onnistunut taikuuden keskeyttäminen tällä tavoin negatoi koko loitsun, jopa ne, joilla on useita kohteita tai vaikutusalueita.
+Hahmo voi yrittää hylätä tai torjua saapuvan loitsun. Tämä olettaa, että torjuvalla magialla on yhden vuoron langetusaika, muuten se on valmisteltava etukäteen ja pidettävä väliaikaisesti hallussa käyttämällä Pidä magia -toimintoa. Magian onnistunut keskeyttäminen tällä tavalla oletetaan kumoavan koko loitsun, jopa ne, joilla on useita kohteita tai vaikutusalueita.
 
 #### Väistö
 
-Hahmo voi käyttää Väistö-taitoaan yrittääkseen väistää uhkia, kuten saapuvia ohjuksia tai rynnäkköhyökkäystä. Tämä jättää hahmon maahan, ellei sitä lievennä jokin kyky tai erityisolosuhde. Siten hahmon seuraava vuoro kuluu yleensä Palauta jalkaote -toimintoon nousemiseksi uudelleen.
+Hahmo voi käyttää Väistö-taitoaan yrittääkseen syöksyä pois uhkien, kuten saapuvien ohjusten tai rynnäkköhyökkäyksen, tieltä. Tämä jättää hahmon maahan, ellei sitä lievennetä kyvyllä tai erityisolosuhteilla. Siten hahmon seuraava vuoro kuluu yleensä Jalkautuminen-toiminnon suorittamiseen nousemiseksi uudelleen.
 
 #### Keskeytys
 
-Vain viivyttävät hahmot. Tämä reaktiivinen toiminto pysäyttää vastustajan vuoron milloin tahansa suorittaakseen viivästetyn vuorotoiminnon. Olettaen, ettei taktinen tilanne muutu, vastustaja jatkaa vuoroaan hahmon vuoron päätyttyä. Jos alkuperäistä julistusta ei voi enää saavuttaa, vastustajan toimintapiste menee hukkaan. Keskeytystä voidaan käyttää myös tilaisuuteen tarttumiseen ketään vastaan, joka kulkee viivyttävän hahmon läheltä ja aseen ulottuvilta.
+Vain viivyttäville hahmoille. Tämä reaktiivinen toiminto pysäyttää vastustajan vuoron missä tahansa kohdassa suorittaakseen viivytetyn vuorotoiminnon. Olettaen, ettei taktinen tilanne muutu, vastustaja jatkaa vuoroaan sen jälkeen, kun hahmon vuoro on suoritettu. Jos vastustaja ei enää kykene toteuttamaan alkuperäistä julistustaan, hänen Toimintapisteensä on hukattu. Keskeytystä voidaan käyttää myös tilaisuuteen tarttuvan hyökkäyksen suorittamiseen ketä tahansa viivyttävän hahmon läheltä kulkevaa ja aseen ulottuvilla olevaa vastaan.
 
 #### Torjunta
 
-Hahmo voi yrittää puolustautua saapuvaa hyökkäystä vastaan käyttämällä yhdistelmää torjuntaa, nojaamista, kyykistymistä ja sivuaskelia iskun minimoimiseksi.
+Hahmo voi yrittää puolustautua saapuvaa hyökkäystä vastaan käyttämällä yhdistelmää torjuntaa, nojailua, kumartumista ja sivuttaisliikkeitä minimoidakseen iskun.
 
-### Vapaat toiminnot
+### Ilmaiset toiminnot
 
-Vapaat toiminnot (lueteltu alla) voidaan suorittaa milloin tahansa taistelukierroksen aikana eivätkä ne maksa toimintapisteitä.
+Ilmaisia toimintoja (lueteltu alla) voidaan suorittaa milloin tahansa Taistelukierroksen aikana, eivätkä ne maksa Toimintapisteitä.
 
 #### Arvioi tilanne
 
-Jos hahmo ei ole sitoutunut, hän voi tehdä Havainto-heiton ilman toimintapistekustannusta. Onnistuminen paljastaa taktisessa tilanteessa tapahtuneet merkittävät muutokset (kuten vihollisen rynnäkön alkamisen havaitseminen). Arviointi juostessa johtaa Vaikeaan Havainto-heittoon, sprinttaaminen on Pelottavaa.
+Jos hahmo ei ole sitoutunut, hän voi tehdä Havainto-heiton ilman Toimintapisteiden kustannusta. Onnistuminen paljastaa kaikki relevantit muutokset taktisessa tilanteessa (kuten rynnäkön aloittavan vihollisen havaitseminen). Arviointi Juostessa johtaa Vaikeaan Havainto-heittoon, Sprintatessa Muodolliseen.
 
 #### Pudota esine
 
-Esineen pudottaminen on vapaa toiminto.
+Esineen pudottaminen on ilmainen toiminto.
 
-#### Merkki
+#### Merkinanto
 
-Jos ei ole sitoutunut, elehtiminen tai merkin antaminen yhdelle tai useammalle osallistujalle (jos he näkevät merkin) on vapaa toiminto.
+Jos hahmo ei ole sitoutunut, elehtiminen tai merkinanto yhdelle tai useammalle osallistujalle (jos he näkevät merkin) on ilmainen toiminto.
 
 #### Puhu
 
-Hahmo voi puhua milloin tahansa taistelun aikana, mutta puheen tulee rajoittua lyhyisiin lauseisiin, jotka voidaan lausua viidessä sekunnissa tai nopeammin; esimerkiksi: "Varo takanasi!" tai "Hitto soikoon!"
+Hahmo voi puhua milloin tahansa taistelun aikana, mutta puheen tulee rajoittua lyhyisiin lauseisiin, jotka voidaan lausua viidessä sekunnissa tai vähemmän; esimerkiksi "Varo takanasi!" tai "Hitto soikoon!"
 
 #### Käytä onnenpistettä
 
-Onnenpisteen käyttö – esimerkiksi tietyn tuloksen uudelleenheittoon – on vapaa toiminto.
+Onnenpisteen käyttö – esimerkiksi tietyn tuloksen uudelleenheittämiseen – on ilmainen toiminto.#### Suojauspaikka
 
-#### Suojaa kehonosa
+Hahmo vartioi tiettyä osumapaikkaa estääkseen siihen kohdistuvat iskut varaamalla yhden aseistaan alueen passiiviseen torjuntaan. Jokaisen kyseiseen paikkaan osuvan iskun vahinkoa pienennetään automaattisesti sen mukaan, mikä on torjuvan aseen KOK. Suojaus jatkuu, kunnes kyseistä asetta käytetään hyökkäämiseen tai aktiiviseen torjuntaan. Suojattavan osumapaikan määrittäminen tai muuttaminen on tehtävä ennen kuin vastustaja heittää noppaa hahmoa vastaan hyökätessään. Suunnittelunsa ansiosta kilvillä voi suojata useita alueita samanaikaisesti.
 
-Hahmo suojaa tiettyä osumakohtaa osumilta varaamalla yhden aseistaan passiivisesti blokkaamaan kyseisen alueen. Jokaisen kyseiseen paikkaan osuvan iskun vahinko laskee automaattisesti tavalliseen tapaan sen koon omaavalla torjunta-aseella. Suojaus jatkuu, kunnes varattua asetta käytetään hyökkäämiseen tai aktiiviseen torjuntaan. Suojattavan osumakohdan määrittäminen tai muuttaminen on suoritettava ennen kuin vastustaja heittää hyökkäystä hahmoa vastaan. Suunnittelunsa vuoksi kilvet voivat suojata useita alueita.
-
-Lisätietoja: [Passiivinen blokki](0005_Combat.md?id=passive-blocking) alla.
+Lisätietoja on kohdassa [Passiivinen torjunta](0005_Combat.md?id=passive-blocking) alla.
 
 ---
 ## Liikkuminen
 
-Seuraavat säännöt säätelevät taisteluun sitoutumista:
+Seuraavat säännöt hallitsevat taistelussa toimimista:
 
-- Liikkuminen suoritetaan joko Liiku- tai Rynnäkkö-toiminnolla.
+- Liikkuminen tapahtuu joko Liiku- tai Ryntää-toiminnolla.
 - Liiku-toiminto sallii hahmon liikkua perusliikkumisnopeuden verran.
-- Liikkumisen voivat suorittaa vain sitoutumattomat hahmot (lukuun ottamatta erityistapauksia kuten Manööveri).
-- Paitsi tietyissä tapauksissa (kuten rynnäkkö), kaikki merkittävä liikkuminen lakkaa, kun hahmo astuu aiotun vastustajan sitoutumisetäisyydelle.
-- Ellei rynnäköidä kontaktin läpi, vastustajan sitoutumisvyöhykkeelle liikkuminen asettaa molemmat sitoutuneiksi toisiinsa.
-- Kun osallistujat ovat sitoutuneet, he eivät voi liikkua pois vastustajasta, elleivät he ensin Vetäydy lähitaistelusta.
-- Sitoutumattoman vihollisen ohi liikkumisen yrittäminen, joka käyttää Viivytä-taistelutoimintoa, sallii (erityispoikkeuksena) vastustajan iskeä liikkuviin hahmoihin heidän kulkiessaan ohi tai estää hahmon etenemisen, mikä johtaa lähitaisteluun seuraavalla vuorolla tai kierroksella.
+- Liikkumisen voivat suorittaa vain vapaat (eivät sitoutuneet) hahmot (lukuun ottamatta erikoistapauksia, kuten kiertoliikkeitä).
+- Lukuun ottamatta tiettyjä tapauksia (kuten ryntäämistä), kaikki merkittävä liikkuminen lakkaa, kun hahmo astuu aiotun vastustajan sitoutumisalueelle.
+- Ellei ryntää kontaktin läpi, vastustajan sitoutumisvyöhykkeelle liikkuminen sitoo molemmat osapuolet toisiinsa.
+- Kun hahmot ovat sitoutuneet, ne eivät voi liikkua pois vastustajan luota, elleivät ne ensin irtaudu lähitaistelusta.
+- Yritys liikkua sellaisen sitoutumattoman vihollisen ohi, joka käyttää "Viivytä"-taistelutoimintoa, sallii (erityispoikkeuksena) vastustajan lyödä liikkuvaa hahmoa tämän kulkiessa ohi tai estää hahmon etenemisen, mikä käynnistää lähitaistelun seuraavalla vuorolla tai kierroksella.
 
 ### Tilannekohtaiset liikkumisnopeudet
 
-Nämä liikkumisnopeudet ovat tilannekohtaisia eivätkä aina mahdollisia. Monet on kuvattu muualla, mutta ne on sisällytetty tähän mukavuuden vuoksi. Useimpia näistä tilannekohtaisista nopeuksista voidaan käyttää normaalin liikkumisnopeuden lisäksi tietyin rajoituksin. Tällaista tietoa on yksityiskohtaisemmin alla olevissa kuvauksissa.
+Nämä liikkumisnopeudet ovat tilannekohtaisia eivätkä aina käytettävissä. Monet niistä on kuvattu tarkemmin muualla, mutta ne on sisällytetty tähän helpotuksen vuoksi. Useimpia näistä tilannekohtaisista nopeuksista voidaan käyttää normaalin liikkumisnopeuden lisäksi tietyin rajoituksin. Tällaiset tiedot on esitetty tarkemmin alla olevissa kuvauksissa.
 
 #### Kiipeäminen
 
-Hahmo, joka liikkuu viereiselle kiipeiltävälle pinnalle tai aloittaa vuoronsa sellaisen vieressä, voi kiivetä perusliikkumisnopeudella. Hahmo ei ole voinut liikkua kävelyä nopeammin ja hänellä on oltava liikkumista jäljellä, jolloin kiivetty matka vähenee jo käytetyn liikkumisen verran. Puettu panssari haittaa kiipeilijöitä puettujen Panssaripisteiden summan perusteella.
+Hahmo, joka liikkuu kiipeiltävän pinnan tai kohteen viereen tai aloittaa vuoron sen vierestä, voi kiivetä perusliikkumisnopeudellaan. Hahmo ei saa liikkua kävelyä nopeammin, ja sillä on oltava liikkumavaraa jäljellä; kiivetty etäisyys vähennetään jo käytetystä liikkeestä. Käytetty haarniska haittaa kiipeilijöitä niiden sisältämien panssaripisteiden (AP) perusteella.
 
-##### Panssaroidun liikkumisen rangaistustaulukko
+##### Panssaroitu liikkuminen -taulukko
 
-| AP yhteensä | Kuormakategoria | Liike |
+| Panssaripisteet (AP) yhteensä | Kuormitusluokka | Liikkuminen |
 | :-: | :-: | :-: |
 | 0-7 | Ei mitään | 0 |
 | 8-15 | Kevyt | -1 |
 | 16-23 | Keskitaso | -2 |
 | 24-31 | Raskas | -3 |
 | 32-39 | Pelottava | -4 |
-| 40+ | Herkulinen | -5 |
+| 40+ | Herkulesmainen | -5 |
 
 <details>
 
@@ -263,48 +261,46 @@ Hahmo, joka liikkuu viereiselle kiipeiltävälle pinnalle tai aloittaa vuoronsa 
 
 #### Kiipeäminen
 
+_Alkuperäinen teksti oli: "Käytetty haarniska haittaa kiipeilijöitä määrällä, joka vastaa raskaimman varusteen panssaripisteitä."_
 
-_Alkuperäinen teksti oli "Puettu panssari haittaa kiipeilijöitä määrällä, joka vastaa raskaimman puetun esineen Panssaripisteitä."_
+_Kirjoitettu sääntö aiheuttaa nopeasti ongelmia. Yhden 6 AP:n haarniskanosan käyttö laskisi ihmisen liikkumisen 0:aan, mikä tarkoittaisi, että teräskypärää käyttävä ihminen olisi liian kuormittunut kiivetäkseen lainkaan. Tämä vaikuttaa kohtuuttoman rajoittavalta, minkä vuoksi yllä ehdotettu muokattu versio on parempi. Tämä päivitetään Lozin ehdotuksen mukaisesti [TDM-foorumilla](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
 
-_Kirjoitetulla säännöllä on nopeasti ongelmia. Yksittäisen 6AP:n panssarin käyttäminen laskisi ihmisen Liikkeeseen 0, mikä tarkoittaisi, että teräskypärää käyttävä ihminen ei voisi kiivetä lainkaan. Tämä vaikuttaa kohtuuttoman rajoittavalta, joten yllä ehdotettu versio on muokattu. Tätä päivitetään Lozin [TDM-foorumilla](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237) antaman ehdotuksen perusteella..._
-
-_**nb:** Vertaa Classic Fantasy Imperative -sääntöä, joka sitoo tämän kuormitukseen:_
-- _"Puettu panssari haittaa kiipeilijöitä, jolloin jokainen kevyeen panssariin peitetty sijainti lasketaan 1 lisä'asiaksi' ja jokainen raskaaseen panssariin peitetty sijainti lasketaan 2 lisä'asiaksi'."_ 
-- _Classic Fantasy Imperative -kuormitussääntö: "Jokainen ylimääräinen 'Asia' yli hahmon KOK:n laskee hahmon Aloitebonusta 1:llä. Jokainen 6 'Asiaa' yli KOK:n laskee hahmon Liikkumisnopeutta 5 jalalla (2m). Lopuksi, kun kannetaan enemmän 'Asioita' kuin hahmon KOK, KOK- tai KET-pohjaiset taidot ovat 1 asteen vaikeampia. Kun kannetaan enemmän 'Asioita' kuin kahdesti hahmon KOK, nämä taidot ovat 2 astetta vaikeampia."_
+_**huom:** Vertaa Classic Fantasy Imperative -sääntöä, joka liittyy kantamukseen:_
+- _"Panssari haittaa kiipeilijöitä siten, että jokainen kevyen panssarin peittämä ruumiinosa lasketaan 1 ylimääräiseksi 'esineeksi' ja jokainen raskaan panssarin peittämä ruumiinosa lasketaan 2 ylimääräiseksi 'esineeksi'."_ 
+- _Classic Fantasy Imperativen kantamussääntö: "Jokainen ylimääräinen esine hahmon VOI-arvon yläpuolella vähentää hahmon aloitebonusta 1:llä. Jokainen 6 esinettä VOI-arvon yläpuolella vähentää liikkumisnopeutta 5 jalkaa (2 m). Lopuksi, kun esineitä on enemmän kuin hahmon VOI, taitoja, jotka käyttävät VOI:ta tai KET:iä osana perusarvoaan, vaikeutetaan yhdellä tasolla. Kun esineitä on enemmän kuin kaksi kertaa hahmon VOI, näitä taitoja vaikeutetaan kahdella tasolla."_
 
 </details>
 
 #### Ryömiminen
 
-Hahmo, joka aloittaa vuoron vatsallaan, voi ryömiä enintään kahden metrin nopeudella per vuoro normaalin Liiku-toiminnon sijasta. Olennot, jotka ryömivät luonnostaan normaalina liikkumismuotonaan, käyttävät sen sijaan täyttä Liike-nopeutta muokattuna askelluksella - Kävely, Juoksu ja Sprintti - katso [Liikkumisnopeus](0002_Characters.md?id=movement-rate) -osio yllä.
+Hahmo, joka aloittaa vuoron makuuasennosta, voi ryömiä enintään kaksi metriä per vuoro normaalin liikkumisen sijasta. Olennot, joiden normaali liikkumistapa on luonnostaan ryömiminen, käyttävät sen sijaan täyttä liikkumisnopeuttaan muokattuna askelluksella – kävely, juoksu ja sprintti – katso [Liikkumisnopeus](0002_Characters.md?id=movement-rate) -osio yllä.
 
-Liikkumissäännöt on kuvattu täysin _Mythras_-kirjassa.
+Liikkumissäännöt on kuvattu kattavasti _Mythras_-sääntökirjassa.
 
-#### Hyppy
+#### Hyppääminen
 
-Hahmo, joka liikkuu viereiselle hypättävälle esteelle tai aloittaa vuoron sellaisen vieressä, voi yrittää hypätä sen yli. Hahmo voi liikkua millä tahansa nopeudella hyppypisteeseen asti.
+Hahmo, joka liikkuu hypättävän esteen viereen tai aloittaa vuoron sen vierestä, voi yrittää hypätä sen yli. Hahmo voi liikkua millä tahansa nopeudella hyppyyn asti.
 
-Onnistunut Yleisurheilu-heitto sallii hypyn jopa kaksinkertaisen oman pituuden verran vaakasuunnassa tai jopa puolen oman pituuden verran pystysuunnassa (jos hahmolla on vähintään viiden metrin vauhti). Seisoviltaan hypättäessä nämä etäisyydet puolittuvat.
+Onnistunut Atletia-heitto sallii hypätä vaakasuunnassa enintään kaksi kertaa oman pituuden verran tai pystysuunnassa enintään puolet omasta pituudesta (jos hahmolla on käytettävissä vähintään viiden metrin vauhdinotto). Jos hyppy tehdään paikaltaan, etäisyydet puolitetaan.
 
-Vähennä hypyn etäisyyttä metreissä yhdellä viidesosalla kannettujen 'Asioiden' kokonaismäärästä. Puettu panssari haittaa hyppääjiä, jokaisen kevyeen panssariin peitetyn kohdan laskiessa 1 'Asiaksi' aiemmin mainitussa laskelmassa, ja raskaan panssarin laskiessa 2 'Asiaksi'.
+Vähennä hypyn pituutta metreinä viidesosalla kannettujen 'esineiden' kokonaismäärästä. Panssari haittaa hyppääjiä siten, että jokainen kevyen panssarin peittämä ruumiinosa lasketaan 1 'esineeksi' edellä mainitussa laskelmassa ja raskas panssari 2 'esineeksi'.
 
 <details>
 
 <summary>* Yhteisön korjaukset</summary>
 
-#### Hyppy
+#### Hyppääminen
 
-
-_Alkuperäisessä tekstissä ei mainittu panssaria tai kuormitusta. Lozin kiipeilyrangaistukset ovat liian rajoittavia käytettäväksi hyppyihin sellaisenaan, mutta Classic Fantasy Imperative sitoo panssarirangaistukset jälleen kuormitukseen:_
-- _"Vähennä hypyn etäisyyttä jaloissa puolella kannettujen 'Asioiden' kokonaismäärästä. Puettu panssari haittaa hyppääjiä, jokaisen kevyeen panssariin peitetyn kohdan laskiessa 1 'Asiaksi' aiemmin mainitussa laskelmassa, ja raskaan panssarin laskiessa 2 'Asiaksi'."_ 
+_Alkuperäinen teksti ei maininnut panssaria tai kantamusta. Lozin kiipeämisrajoitukset ovat liian tiukkoja hypylle, mutta Classic Fantasy Imperative sitoo panssarirangaistukset jälleen kantamukseen:_
+- _"Vähennä hypyn pituutta jalkoina puolella kannettujen 'esineiden' kokonaismäärästä. Panssari haittaa hyppääjiä siten, että jokainen kevyen panssarin peittämä ruumiinosa lasketaan 1 'esineeksi' edellä mainitussa laskelmassa ja raskas panssari 2 'esineeksi'."_ 
 
 </details>
 
 #### Uiminen
 
-Hahmo, joka liikkuu viereiselle vesistölle tai aloittaa vuoron sellaisen vieressä, voi uida perusliikkumisnopeudella, vähennettynä jo käytetyllä liikkumisella. Katso Uinti-kuvaus [Taidot](0003_Skills.md?id=swim-strcon) -osiosta lisätietoja varten.
+Hahmo, joka liikkuu vesistön viereen tai aloittaa vuoron sen vierestä, voi uida perusliikkumisnopeudellaan miinus jo käytetty liike. Katso lisätietoja Uinti-kuvauksesta kohdasta [Taidot](0003_Skills.md?id=swim-strcon).
 
-Normaaliolosuhteissa hahmon suurin uintinopeus kierroksella on yhtä suuri kuin hänen Liikkumisnopeutensa, -1 jokaista 'Asiaa' kohden, jota kannetaan yli hahmon KOK:n. Puettu panssari haittaa uimareita, jokaisen kevyeen panssariin peitetyn kohdan laskiessa 1 lisä'asiaksi' ja jokaisen raskaaseen panssariin peitetyn kohdan laskiessa 2 lisä'asiaksi'. Jos kokonaiskuormitus laskee uintietäisyyden 0:aan tai alle, hahmo alkaa automaattisesti hukkua (katso [Tukehtuminen](0004_Game_System.md?id=asphyxiation)).
+Normaaliolosuhteissa hahmon maksimiuintinopeus per kierros on yhtä suuri kuin liikkumisnopeus -1 jokaista VOI-arvon ylittävää kannettua 'esinettä' kohden. Panssari haittaa uimareita siten, että jokainen kevyen panssarin peittämä ruumiinosa lasketaan 1 ylimääräiseksi 'esineeksi' ja jokainen raskaan panssarin peittämä ruumiinosa 2 ylimääräiseksi 'esineeksi'. Jos kantamus (ENC) laskee uintimatkan 0:aan tai alle, hahmo alkaa automaattisesti hukkua (katso [Tukehtuminen](0004_Game_System.md?id=asphyxiation)).
 
 <details>
 
@@ -312,129 +308,127 @@ Normaaliolosuhteissa hahmon suurin uintinopeus kierroksella on yhtä suuri kuin 
 
 #### Uiminen
 
-_Mythras Imperativen julkaistussa versiossa ei ole selkeitä sääntöjä uintiliikkeelle eri askelluksilla tai nopeuksilla. Classic Fantasy Imperative sitoo panssarirangaistukset jälleen kuormitukseen:_
+_Julkaistussa Mythras Imperativessa ei ole selkeitä sääntöjä uintinopeuksille eri askelluksilla. Classic Fantasy Imperative sitoo panssarirangaistukset jälleen kantamukseen:_
 
-- _Normaaliolosuhteissa hahmon suurin uintinopeus kierroksella on yhtä suuri kuin hänen Liikkumisnopeutensa, -1 jokaista 'Asiaa' kohden, jota kannetaan yli hahmon KOK:n. Puettu panssari haittaa uimareita, jokaisen kevyeen panssariin peitetyn kohdan laskiessa 1 lisä'asiaksi' ja jokaisen raskaaseen panssariin peitetyn kohdan laskiessa 2 lisä'asiaksi'. Jos kokonaiskuormitus laskee uintietäisyyden 0:aan tai alle, hahmo alkaa automaattisesti hukkua (katso Tukehtuminen)._
+- _Normaaliolosuhteissa hahmon maksimiuintinopeus per kierros on yhtä suuri kuin liikkumisnopeus -1 jokaista VOI-arvon ylittävää kannettua 'esinettä' kohden. Panssari haittaa uimareita siten, että jokainen kevyen panssarin peittämä ruumiinosa lasketaan 1 ylimääräiseksi 'esineeksi' ja jokainen raskaan panssarin peittämä ruumiinosa 2 ylimääräiseksi 'esineeksi'. Jos kantamus (ENC) laskee uintimatkan 0:aan tai alle, hahmo alkaa automaattisesti hukkua (katso Tukehtuminen)._
 
 </details>
 
 ---
-## Miten taistelu toimii
+## Taistelun toimintaperiaatteet
 
-_Mythras Imperativessa_ taistelu ratkeaa siten, että jokainen hyökkäys tai torjunta edustaa yhtä pistoa, heilautusta, loitsun langetusta tai aseen laukaisua. Jokainen hyökkäävä toiminto antaa mahdollisuuden vastustaa reaktiolla. Siten, vaikka hahmo onnistuisi iskemään vastustajaan, vihollisella on oma mahdollisuus heittää, voiko hän torjua iskun ennen kuin se osuu. Samaa filosofiaa käytetään riippumatta siitä, ovatko hyökkäykset ohjusaseita kohteita vastaan, jotka syöksyvät suojaan, vai yritetäänkö irrottautua jättiläismustekalan rautaisesta otteesta.
+_Mythras Imperativessa_ taistelu ratkaistaan siten, että jokainen hyökkäys tai torjunta edustaa yhtä pistoa, iskua, loitsua tai aseen laukausta. Kaikki hyökkäävät toiminnot voidaan torjua reaktiolla. Vaikka hahmo onnistuisikin lyömään vastustajaa, vihollisella on oikeus heittää noppaa nähdäkseen, pystyykö se torjumaan iskun ennen kuin se osuu. Samaa filosofiaa käytetään riippumatta siitä, onko kyseessä etäaseilla tehty hyökkäys suojaa hakevia kohteita vastaan vai yritys vapautua jättiläismustekalan rautaisesta otteesta.
 
 ### Hyökkäykset ja torjunnat
 
-Lähitaistelua käsitellään seuraavalla askel-askeleelta-tavalla:
+Lähitaistelu hoidetaan seuraavien vaiheiden mukaisesti:
 
-1. Vuorollaan hyökkääjä käyttää toimintapisteen, heittää Taistelutaitoaan vastaan ja kirjaa tuloksen.
-2. Haluttaessa puolustaja käyttää toimintapisteen Torjuntaan, heittää Taistelutaitoaan vastaan ja kirjaa tuloksen.
-3. Tulosten onnistumistasoja verrataan erotuksellisena heittona.
-4. Mahdollinen ero antaa paremman heiton saaneelle taistelijalle yhden tai useamman erikoisefektin.
-5. Jos hyökkääjä saavutti Onnistumisen tai Kriittisen onnistumisen, hän voi heittää aseen vahingon ja lisätä Vahinkomuokkaimensa (jos sellainen on). Tarvittaessa osumakohta määritetään iskulle.
-6. Jos puolustaja saavutti Onnistumisen tai Kriittisen onnistumisen, vähennä aiheutettua vahinkoa käytettyjen aseiden suhteellisten kokojen mukaan.
-7. Vähennä mahdollisesti jäljellä oleva vahinko luonnollisen tai puetun suojan Panssaripisteillä.
+1. Vuorollaan hyökkääjä käyttää toimintapisteen, heittää taistelutaitoaan vastaan ja kirjaa tuloksen.
+2. Halutessaan puolustaja käyttää toimintapisteen torjuakseen, heittää taistelutaitoaan vastaan ja kirjaa tuloksen.
+3. Tulosten onnistumistasoja verrataan differentiaaliheiton mukaisesti.
+4. Mahdollinen erotus antaa paremman tuloksen saavuttaneelle taistelijalle yhden tai useamman erikoistehosteen.
+5. Jos hyökkääjä saavutti onnistumisen tai kriittisen onnistumisen, hän voi heittää aseen vahingon ja lisätä vahinkomuuttajansa (jos sellainen on). Tarvittaessa iskun osumapaikka määritetään.
+6. Jos puolustaja saavutti onnistumisen tai kriittisen onnistumisen, hän vähentää aiheutunutta vahinkoa aseiden koon perusteella.
+7. Vähennä jäljelle jäävä vahinko luonnollisella tai käytetyllä panssarilla (panssaripisteet).
 
-Huomaa, että kaikki vaihdon aikana syntyneet erikoisefektit ovat riippumattomia siitä, aiheutuuko vahinkoa vai ei. On täysin mahdollista, että puolustaja saa korkeamman onnistumistason, mutta kärsii silti vammoja.
+Huomaa, että kaikki vaihdon aikana syntyneet erikoistehosteet ovat riippumattomia siitä, aiheutuuko vahinkoa vai ei. On täysin mahdollista, että puolustaja saa korkeamman onnistumistason, mutta kärsii silti vammoja.
 
 ### Aseen koko
 
-Jokaisella _Mythras Imperativen_ aseella on useita eri ominaisuuksia, aina sen aiheuttamasta vahingosta siihen, kuinka monta kättä sen käyttö vaatii. Koko on yhdistelmä aseen massaa, vipuvartta ja vakautta, ja sitä käytetään määrittämään aseen kyky aiheuttaa ja torjua vahinkoa. Kokoluokat ovat Pieni, Keskikokoinen, Suuri, Valtava ja Jättimäinen. Olentojen aseettomat hyökkäykset on jaettu vastaaviin luokkiin niiden fyysisten ominaisuuksien mukaan.
+Jokaisella _Mythras Imperativen_ aseella on useita eri ominaisuuksia, aina sen aiheuttamasta vahingosta siihen, kuinka monta kättä sen käyttöön tarvitaan. Koko on yhdistelmä aseen massaa, vipuvartta ja vakautta, ja sitä käytetään määrittämään aseen kyky aiheuttaa ja torjua vahinkoa. Kokoluokat ovat Pieni, Keskikokoinen, Suuri, Valtava ja Jättimäinen. Olentojen aseettomat hyökkäykset on jaettu vastaaviin luokkiin niiden fyysisten ominaisuuksien mukaan.
 
 ### Vahingon vähentäminen
 
-Jos puolustaja onnistuu torjunnassa, hän voi vähentää hyökkääjän vahinkoa (jos sellaista on) käytettyjen aseiden suhteellisen koon mukaan.
+Jos puolustaja onnistuu torjunnassaan, hän voi vähentää hyökkääjän vahinkoa (jos sellaista syntyy) käytettyjen aseiden koon vertailun perusteella.
 
 - Hyökkäyksen torjuminen yhtä suurella tai suuremmalla aseella tai kilvellä estää kaiken vahingon.
-- Yhtä kokoa pienemmällä aseella tai kilvellä torjuminen estää vain puolet vahingosta.
-- Kahdella tai useammalla koolla pienemmällä aseella tai kilvellä torjuminen epäonnistuu vahingon estämisessä.
+- Yhtä kokoluokkaa pienemmällä aseella tai kilvellä torjuminen puolittaa vahingon.
+- Kahden tai useamman kokoluokan verran pienemmällä aseella tai kilvellä torjuminen ei estä vahinkoa lainkaan.
 
-_Esimerkiksi suuren kirveen (Valtava) torjuminen kyyhkyskilvellä (myös Valtava) estäisi kaiken vahingon; sen torjuminen pitkämiekalla (Suuri) puolittaisi vahingon, ja sen torjuminen lyhyellä miekalla (Keskikokoinen) ei pysäyttäisi lainkaan vahinkoa._
+_Esimerkiksi suuren kirveen (Valtava) torjuminen kyykilvellä (myös Valtava) estäisi kaiken vahingon; torjuminen pitkämiekkalla (Suuri) puolittaisi vahingon, ja lyhytmiekkalla (Keskikokoinen) torjuminen ei estäisi vahinkoa lainkaan._
 
 ### Panssari
 
-Kaikki vahinko, joka läpäisee puolustajan torjunnan, vähennetään edelleen mahdollisella luonnollisella suojalla (kuten suomuilla tai kuorella) tai puetulla panssarilla. Jos puolustajalla on molemmat, ne pinoutuvat yhteen vahingon vähentämiseksi.
+Kaikki vahinko, joka läpäisee puolustajan torjunnan, vähennetään edelleen luonnollisen (kuten suomujen tai kilven) tai käytetyn panssarin panssaripisteillä. Jos puolustajalla on molemmat, ne lasketaan yhteen vahingon vähentämiseksi.
 
-Massansa ja liikkumisrajoitteensa vuoksi hahmon puetun panssarin korkein Panssaripistearvo toimii rangaistuksena heidän aloiteheitolleen.
+Massansa ja liikkumisrajoitusten vuoksi hahmon käyttämän panssarin korkein panssaripistearvo toimii miinuksena hahmon aloiteheittoon.
 
-### Epäonnistuneen hyökkäyksen torjuminen
+### Ohimenneen hyökkäyksen torjuminen
 
-Jos hyökkääjä epäonnistuu alkuperäisessä hyökkäysheitossaan, puolustajalla on mahdollisuus käyttää toimintapiste Torjuntaan. Vaikka voi tuntua epäolennaiselta torjua hyökkäys, joka menisi muutenkin ohi, taitava puolustaja voi käyttää tätä hyväkseen saadakseen yhden tai useamman erikoisefektin, mikä mahdollisesti heikentää tai lamauttaa vihollisen ja säästää oman seuraavan vuoron jotain muuta toimintoa varten.
+Jos hyökkääjä epäonnistuu alkuperäisessä hyökkäysheitossaan, puolustajalla on mahdollisuus käyttää toimintapiste torjumiseen. Vaikka voi tuntua tarpeettomalta torjua hyökkäys, joka olisi muutenkin mennyt ohi, taitava puolustaja voi käyttää tätä hyväkseen saadakseen yhden tai useamman erikoistehosteen, mikä mahdollisesti heikentää tai lamauttaa vihollisen ja säästää oman seuraavan vuoron muuhun toimintaan.
 
 ### Kykenemätön tai haluton torjumaan
 
-Tilanteessa, jossa puolustaja ei kykene torjumaan toimintapisteiden puutteen vuoksi, tai luottaen kykyynsä kestää isku, päättää olla torjumatta, heitä käsitellään kuin he olisivat automaattisesti heittäneet Epäonnistumisen. Tästä seuraa, että onnistunut hyökkääjä saa yhden tai useamman erikoisefektin.
+Tilanteessa, jossa puolustaja ei voi torjua toimintapisteiden puutteen vuoksi tai luottaa kykyynsä kestää isku, hän valitsee olla torjumatta, häntä kohdellaan ikään kuin hän olisi heittänyt automaattisesti epäonnistumisen. Tästä seuraa, että onnistunut hyökkääjä saa yhden tai useamman erikoistehosteen.
 
-### Epäonnistuneet heitot ja mokat
+### Epäonnistuneet heitot ja kömmähdykset
 
-Jos molemmat taistelijat epäonnistuvat heitoissaan, tai puolustaja päättää olla hyödyntämättä epäonnistunutta hyökkäystä, hyökkäys-torjuntasekvenssi päättyy ja taistelu jatkuu osallistujalle, jolla on seuraavaksi korkein aloite.
+Jos molemmat taistelijat epäonnistuvat heitoissaan tai puolustaja päättää olla hyödyntämättä ohimennyttä hyökkäystä, hyökkäys-torjuntasekvenssi päättyy ja taistelu jatkuu seuraavaksi korkeimman aloitteen omaavalle osallistujalle.
 
 ---
-## Erikoisefektit
+## Erikoistehosteet
 
-Taistelu on paljon muutakin kuin vastustajan vahingoittamista tai tappamista. Taistelutaidot opettavat monia menetelmiä vihollisen voittamiseksi, kenties tekemällä heidät avuttomiksi tai pakottamalla heidät tilanteisiin, joissa heidän on antauduttava ilman, että heille välttämättä tarvitsee aiheuttaa vahinkoa. Erikoisefektit edustavat näitä tekniikoita ja ohjaavat niiden ilmenemistä pelissä.
+Taistelu on paljon muutakin kuin vastustajan vahingoittamista tai tappamista. Taistelutaidot opettavat monia menetelmiä vihollisen nujertamiseen, kuten avuttomaksi tekemiseen tai tilanteisiin, joissa vastustajan on antauduttava, ilman että häntä tarvitsee välttämättä vahingoittaa. Erikoistehosteet edustavat näitä tekniikoita ja ohjaavat niiden tapahtumista pelissä.
 
-Aina kun vastustajat osallistuvat taistelutaitojensa vastakkaiselle heitolle, mikä tahansa tuloksena oleva onnistumistasojen ero osoittaa mahdollisuuden erikoisefektien tapahtumiseen. Tämä heijastaa sitä, kuinka toinen taistelija manööveroi vastustajansa epäedulliseen tilanteeseen, jota voidaan hyödyntää ovelalla tempulla tai taktiikalla.
+Aina kun vastustajat ottavat yhteen taitojensa differentiaaliheitolla, mahdollinen onnistumistasojen ero osoittaa tilaisuuden erikoistehosteiden käyttöön. Tämä heijastaa sitä, kuinka taistelija ohjaa vastustajansa epäedulliseen asemaan, jota voidaan hyödyntää ovelalla tempulla tai taktiikalla.
 
-Saatujen erikoisefektien määrä riippuu onnistumistasojen välisestä erosta, kuten on kuvattu Erotukselliset onnistumistasot -taulukossa.
+Saatavien erikoistehosteiden määrä riippuu onnistumistasojen välisestä erosta, kuten on kuvattu "Onnistumistasojen differentiaali" -taulukossa.
 
-Jos vaihdon aikana voitetaan erikoisefektejä, ne on valittava ennen kuin vahinko ja osumakohta, jos sellaisia on, heitetään. Tapauksissa, joissa vastaanottaja on pahasti haavoittunut erikoisefektin saamisen lisäksi, Kestävyys-heitot ratkaistaan efektin soveltamisen jälkeen.
+Jos vaihdon aikana voitetaan erikoistehosteita, ne on valittava ennen kuin mahdolliset vahingot ja osumapaikat heitetään. Tapauksissa, joissa vastaanottaja haavoittuu vakavasti erikoistehosteen saamisen lisäksi, Kestävyys-heitot suoritetaan tehosteen soveltamisen jälkeen.
 
-Erikoisefektit kattavat laajan kirjon tilanteita ja tekniikoita. Jotkut on suunniteltu erityisesti hyökkäyksiä varten, kun taas toiset on tarkoitettu puolustukseen, ja muutamat ovat sovellettavissa molempiin tilanteisiin. Tiettyjä erikoisefektejä voidaan myös rajoittaa tiettyihin asetyyppeihin tai tiettyihin nopanheittoihin, vaatien esimerkiksi Kriittisen onnistumisen tai Mokan taitotarkistuksessa.
+Erikoistehosteet kattavat monenlaisia tilanteita ja tekniikoita. Jotkut on suunniteltu erityisesti hyökkäyksiin, toiset puolustukseen, ja muutamat sopivat molempiin. Tietyt erikoistehosteet voivat myös rajoittua tiettyihin asetyyppeihin tai nopanheittoihin, vaatien esimerkiksi kriittistä onnistumista tai kömmähdystä taitotarkistuksessa.
 
-Kun saadaan kaksi tai useampi erikoisefektia, taistelija voi vapaasti yhdistellä valittavia tehoja, edellyttäen että kunkin ehdot täyttyvät. Jotkut efektit ovat pinottavissa. Esimerkiksi hyökkääjä, joka heittää Kriittisen onnistumisen ja voittaa kaksi erikoisefektia, voisi valita Vahingon maksimoinnin kahdesti sen sijaan, että valitsisi kaksi erillistä hyökkäävää manööveriä.
+Kun saavutetaan kaksi tai useampia erikoistehosteita, taistelija voi vapaasti yhdistellä valittuja tehosteita, edellyttäen että kunkin edellytykset täyttyvät. Jotkin tehosteet voidaan pinota. Esimerkiksi hyökkääjä, joka heittää kriittisen onnistumisen ja voittaa kaksi erikoistehostetta, voi valita "Maksimoi vahinko" -tehosteen kahdesti sen sijaan, että valitsisi kaksi eri hyökkäysliikettä.
 
-### Erikoisefektien taulukko
+### Erikoistehosteiden taulukko
 
-| Erikoisefekt | Hyökkäävä | Puolustava | Erityinen asetyyppi | Spesifi heitto | Pinottava |
+| Erikoistehoste | Hyökkäävä | Puolustava | Erityisasetekniikka | Erityisheitto | Pinottava |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Tahaton vamma](0005_Combat.md?id=accidental-injury) | | X | | Hyökkääjän moka | |
-| [Nouse](0005_Combat.md?id=arise) | | X | | | |
-| [Bash](0005_Combat.md?id=bash) | X | | Kilvet tai tylpät aseet | | |
-| [Verenvuoto](0005_Combat.md?id=bleed) | X | | Leikkaavat aseet | Ampuma-aseet: Hyökkääjän kriittinen | |
+| [Tahaton vamma](0005_Combat.md?id=accidental-injury) | | X | | Hyökkääjän kömmähdys | |
+| [Nouse ylös](0005_Combat.md?id=arise) | | X | | | |
+| [Murskaus](0005_Combat.md?id=bash) | X | | Kilvet tai nuija-aseet | | |
+| [Verenvuoto](0005_Combat.md?id=bleed) | X | | Teräaseet | Ampuma-aseet: Hyökkääjän kriittinen | |
 | [Sokaise vastustaja](0005_Combat.md?id=blind-opponent) | | X | | Puolustajan kriittinen | |
 | [Ohita panssari](0005_Combat.md?id=bypass-armor) | X | | | Hyökkääjän kriittinen | X |
-| [Valitse kohde](0005_Combat.md?id=choose-location) | X | | | Katso kuvaus | |
-| [Kierrä suoja](0005_Combat.md?id=circumvent-cover) | X | | Vain korkean teknologian ampuma-aseet | | |
+| [Valitse osumapaikka](0005_Combat.md?id=choose-location) | X | | | Katso kuvaus | |
 | [Kierrä torjunta](0005_Combat.md?id=circumvent-parry) | X | | | Hyökkääjän kriittinen | |
 | [Vahingoita asetta](0005_Combat.md?id=damage-weapon) | X | X | | | |
 | [Riisu vastustaja](0005_Combat.md?id=disarm-opponent) | X | X | | | |
 | [Kaada vihollinen](0005_Combat.md?id=drop-foe) | X | | Vain ampuma-aseet | | |
-| [Vetäydy suojaan](0005_Combat.md?id=duck-back) | X | | Vain ampuma-aseet | | |
-| [Tehosta torjuntaa](0005_Combat.md?id=enhance-parry) | | X | | Puolustajan kriittinen | |
+| [Väistä taaksepäin](0005_Combat.md?id=duck-back) | X | | Vain ampuma-aseet | | |
+| [Tehostettu torjunta](0005_Combat.md?id=enhance-parry) | | X | | Puolustajan kriittinen | |
 | [Sido](0005_Combat.md?id=entangle) | X | X | Sido-aseet | | |
-| [Pakota epäonnistumaan](0005_Combat.md?id=force-failure) | X | X | | Vastustajan moka | |
+| [Pakota epäonnistumaan](0005_Combat.md?id=force-failure) | X | X | | Vastustajan kömmähdys | |
 | [Ote](0005_Combat.md?id=grip) | X | | Aseeton | | |
 | [Lävistä](0005_Combat.md?id=impale) | X | | Lävistävät aseet | | |
-| [Tarkkuus](0005_Combat.md?id=marksman) | X | | Etäaseet | | |
+| [Tarkk'ampuja](0005_Combat.md?id=marksman) | X | | Etäaseet | | |
 | [Maksimoi vahinko](0005_Combat.md?id=maximize-damage) | X | | | Hyökkääjän kriittinen | X |
-| [Yliläpäisy](0005_Combat.md?id=overpenetration) | X | | Vain ampuma-aseet | Hyökkääjän kriittinen | |
-| [Painostus](0005_Combat.md?id=pin-down) | X | | Vain ampuma-aseet | | X |
-| [Valmistele vastahyökkäys](0005_Combat.md?id=prepare-counter) | | X | | | X |
+| [Yliläpäisy](0005_Combat.md?id=over-penetration) | X | | Vain ampuma-aseet | Hyökkääjän kriittinen | |
+| [Naulitse maahan](0005_Combat.md?id=pin-down) | X | | Vain ampuma-aseet | | X |
+| [Valmistele vastaisku](0005_Combat.md?id=prepare-counter) | | X | | | X |
 | [Nopea lataus](0005_Combat.md?id=rapid-reload) | X | | | | X |
-| [Arpien teko](0005_Combat.md?id=scar-foe) | X | X | | | |
-| [Valitse kohde (puolustus)](0005_Combat.md?id=select-target) | | X | | Hyökkääjän moka | |
-| [Irtaudu](0005_Combat.md?id=slip-free) | | X | | Puolustajan kriittinen | |
-| [Tyrmää kehonosa](0005_Combat.md?id=stun-location) | X | | Tylpät aseet | | |
-| [Sunder](0005_Combat.md?id=sunder) | X | | Kaksikätiset aseet | | |
+| [Arpien aiheuttaminen](0005_Combat.md?id=scar-foe) | X | X | | | |
+| [Valitse kohde](0005_Combat.md?id=select-target) | | X | | Hyökkääjän kömmähdys | |
+| [Luiskahda vapaaksi](0005_Combat.md?id=slip-free) | | X | | Puolustajan kriittinen | |
+| [Tyrmää osumapaikka](0005_Combat.md?id=stun-location) | X | | Nuija-aseet | | |
+| [Suhduta](0005_Combat.md?id=sunder) | X | | Kahden käden aseet | | |
 | [Kaada vastustaja](0005_Combat.md?id=trip-opponent) | X | X | | | |
-| [Aseen toimintahäiriö](0005_Combat.md?id=weapon-malfunction) | | X | Vain ampuma-aseet | Hyökkääjän moka | |
-| [Vetäydy](0005_Combat.md?id=withdraw) | | X | | | |
+| [Asehäiriö](0005_Combat.md?id=weapon-malfunction) | | X | Vain ampuma-aseet | Hyökkääjän kömmähdys | |
+| [Irtaudu](0005_Combat.md?id=withdraw) | | X | | | |
 
-
-### Erikoisefektien kuvaukset
+### Erikoistehosteiden kuvaukset
 
 #### Tahaton vamma
 
-Puolustaja poikkeuttaa tai vääntää hyökkääjän hyökkäystä niin, että hyökkääjä mokaa ja vahingoittaa itseään. Hyökkääjän on heitettävä vahinko itseään vastaan satunnaiseen osumakohtaan käyttäen asetta, jolla hän yritti iskeä. Jos hyökkääjä on aseeton, hän repii tai rikkoo jotain sisäistä, ja vahinkoheitto ohittaa kaiken panssarin.
+Puolustaja ohjaa tai vääntää hyökkääjän iskun siten, että hyökkääjä tekee kömmähdyksen ja vahingoittaa itseään. Hyökkääjän on heitettävä vahinko itseään vastaan satunnaisessa osumapaikassa käyttämällä asetta, jolla hän hyökkäsi. Jos hän on aseeton, hyökkääjä repii tai rikkoo jotain sisäisesti; vahinkoheitto ohittaa kaiken panssarin.
 
-#### Nouse
+#### Nouse ylös
 
-Sallii puolustajan käyttää hetkellisen avauksen noustakseen takaisin jaloilleen.
+Sallii puolustajan käyttää hetkellisen avautumisen hyväkseen ja nousta takaisin jaloilleen.
 
-#### Bash
+#### Murskaus
 
-Hyökkääjä törmää tietoisesti vastustajan tasapainosta. Se, kuinka kauas puolustaja horjuu tai siirtyy, riippuu käytetystä aseesta. Kilvet työntävät vastustajaa taaksepäin yhden metrin jokaista 2 heitettyä vahinkopistettä kohden (ennen vähennyksiä panssarin, torjuntojen jne. vuoksi), kun taas tylpät aseet työntävät metrin jokaista kolmea pistettä kohden. Bash toimii vain olentoihin, jotka ovat enintään kaksi kertaa hyökkääjän KOK-arvon suuruisia. Jos vastaanottaja pakotetaan taaksepäin esteeseen, hänen on tehtävä Akrobatia-taitoheitto – tai Vaikea Yleisurheilu – välttääkseen kaatumisen tai kompastumisen. Ampuma-aseille, koska Bash perustuu enemmän vastustajan tasapainon horjuttamiseen kuin puhtaalla voimalla taaksepäin heittämiseen, on täysin perusteltua, että projektiliammukset saavat kohteen horjumaan, jos ne osuvat raajaan. Energia-aseet aiheuttavat tällaisen efektin epätodennäköisemmin, elleivät säteen fysiikat johda jonkinlaiseen pinta-räjähdykseen.
+Hyökkääjä tönäisee vastustajan tarkoituksella pois tasapainosta. Se, kuinka kauas puolustaja horjuu taaksepäin tai sivulle, riippuu käytettävästä aseesta. Kilvet tönäisevät vastustajaa yhden metrin takaisin jokaista 2 heitettyä vahinkopistettä kohden (ennen vähennyksiä panssarista, torjunnoista jne.), kun taas nuija-aseet tönäisevät yhden metrin jokaista kolmea pistettä kohden. Murskaus toimii vain olentoihin, joiden KOK on enintään kaksi kertaa hyökkääjän KOK. Jos vastaanottaja pakotetaan taaksepäin esteeseen, hänen on tehtävä Akrobatia-taitotarkistus – tai Atletia vaikeana – välttääkseen kaatumisen tai kompastumisen. Ampuma-aseiden kohdalla, koska murskaus perustuu enemmän vastustajan horjuttamiseen kuin puhtaaseen voimaan, on täysin järkevää, että ammukset saavat kohteen horjumaan, jos ne osuvat raajaan. Energia-aseet aiheuttavat tällaisen tehosteen epätodennäköisemmin, ellei säteen fysiikka aiheuta jonkinlaista pintaräjähdystä.
 
 <details>
 
@@ -442,13 +436,13 @@ Hyökkääjä törmää tietoisesti vastustajan tasapainosta. Se, kuinka kauas p
 
 ---
 
-#### Bash
+#### Murskaus
 
-_Alkuperäisessä säännössä oli monitulkintainen sanamuoto: "...heidän on tehtävä Vaikea Yleisurheilu- tai Akrobatia-taitoheitto..."_
+_Alkuperäisessä säännössä oli epäselvä sanamuoto: "...heidän on tehtävä vaikea Atletia- tai Akrobatia-taitotarkistus..."_
 
-_Tämä näyttää siltä, että kumpaakin taitoa heitettäisiin Vaikeana, kun käytäntö on tehdä normaali tarkistus ammattitaidolla tai vaikea tarkistus lähimmällä vastaavalla normaalilla taidolla._
+_Tämä vaikuttaa tarkoittavan, että kumpaakin taitoa heitettäisiin vaikeana, vaikka vakiokäytäntö on tehdä standarditarkistus ammattitaidolla tai vaikea tarkistus lähimmällä vastaavalla standarditaidolla._
 
-_Sanamuoto on korvattu: "...heidän on tehtävä Akrobatia-taitoheitto – tai Yleisurheilu Vaikealla vaikeusasteella..."_
+_Sanamuoto on korvattu seuraavalla: "...heidän on tehtävä Akrobatia-taitotarkistus – tai Atletia vaikeana..."_
 
 ---
 
@@ -456,332 +450,326 @@ _Sanamuoto on korvattu: "...heidän on tehtävä Akrobatia-taitoheitto – tai Y
 
 #### Verenvuoto
 
-Hyökkäys leikkaa auki suuren verisuonen. Jos isku läpäisee Panssaripisteet ja vahingoittaa kohdetta, puolustajan on tehtävä vastakkainen Kestävyys-heitto alkuperäistä hyökkäysheittoa vastaan. Jos puolustaja epäonnistuu, hän alkaa vuotaa runsaasti verta. Jokaisen taistelukierroksen alussa vastaanottaja menettää yhden väsymystason, kunnes hän romahtaa ja mahdollisesti kuolee. Verenvuodot voidaan tyrehdyttää onnistuneella Ensiapu-taitoheitolla, mutta vastaanottaja ei voi enää suorittaa mitään rasittavaa tai väkivaltaista toimintoa avaamatta haavaa uudelleen. Katso Verenhukka Pelijärjestelmä-osiosta. Ampuma-aseille, koska useimmat ampuma-aseet tuottavat hyvin kapeita haavakanavia, on itse asiassa vaikeampaa viiltää tai katkaista suuri verisuoni kuin leikkaavalla tai pistävällä aseella. Tästä syystä Verenvuodon tulisi vaatia Kriittinen onnistuminen – ellei ase ole jokin outo ase, joka ampuu tähtiä, teräviä nuolia, litistettyjä voimakenttiä tai jotain muuta eksoottista ammusta.
+Isku avaa suuren verisuonen. Jos isku ylittää panssaripisteet ja vahingoittaa kohdetta, puolustajan on tehtävä vastustettu Kestävyys-heitto alkuperäistä hyökkäysheittoa vastaan. Jos puolustaja epäonnistuu, hän alkaa vuotaa runsaasti verta. Jokaisen taistelukierroksen alussa vastaanottaja menettää yhden väsymystason, kunnes hän luhistuu ja mahdollisesti kuolee. Vuotavat haavat voidaan tyrehdyttää onnistuneella Ensiapu-taitotarkistuksella, mutta vastaanottaja ei voi enää suorittaa mitään rasittavaa tai väkivaltaista toimintaa ilman, että haava aukeaa uudelleen. Katso "Verenhukka" pelijärjestelmä-osiosta. Ampuma-aseiden kohdalla, koska useimmat aiheuttavat hyvin kapeita haavakanavia, on vaikeampaa osua suureen verisuoneen kuin teräaseella. Tämän vuoksi verenvuodon pitäisi vaatia kriittinen onnistuminen – ellei kyseessä ole jokin erikoinen ase, joka ampuu shurikeneja, teräviä nuolia, litteitä voimakenttiä tai vastaavia eksoottisia ammuksia.
 
 #### Sokaise vastustaja
 
-Kriittisellä onnistumisella puolustaja sokaisee vastustajansa hetkellisesti heittämällä hiekkaa, heijastamalla auringonvaloa kilvestään tai jollain muulla taktiikalla, joka häiritsee hyökkääjän näköä. Hyökkääjän on tehtävä vastakkainen Väistö-taitoheitto (tai Ase-taitoheitto, jos käyttää kilpeä) puolustajan alkuperäistä Torjunta-heittoa vastaan. Jos hyökkääjä epäonnistuu, hän kärsii Vaikeasta tai Pelottavasta tilannemuokkaimesta seuraavien 1d3 vuoron ajan, riippuen sokaistustavasta.
+Kriittisellä onnistumisella puolustaja sokaisee vastustajansa hetkellisesti heittämällä hiekkaa, heijastamalla auringonvaloa kilvestään tai muulla taktiikalla, joka häiritsee hyökkääjän näköä. Hyökkääjän on tehtävä vastustettu Väistö-taitotarkistus (tai Ase-taitotarkistus kilpeä käytettäessä) puolustajan alkuperäistä torjuntaheittoa vastaan. Jos hyökkääjä epäonnistuu, hän kärsii vaikeasta tai pelottavasta tilannemuokkauksesta seuraavat 1d3 vuoroa, riippuen sokaistusmenetelmästä.
 
 #### Ohita panssari
 
-Kriittisellä onnistumisella hyökkääjä löytää aukon puolustajan luonnollisesta tai puetusta panssarista. Jos puolustaja käyttää luonnollista suojaa korkeampaa panssaria, hyökkääjän on päätettävä, kumpi niistä ohitetaan. Tätä efektiä voi pinota molempien ohittamiseksi. Tätä efektiä varten taikuudella saatu fyysinen suoja katsotaan puetuksi panssariksi. Vaikka Ohita panssari on näennäisesti käytettävissä millä tahansa hyökkäyksellä, jotkin ammustyypit saattavat olla estettyjä käyttämästä tätä efektiä (haulikon hauleja niiden leviämisen vuoksi) tai se on sisäänrakennettu niiden perussuorituskykyyn, antaen sen bonus-erikoisefektinä muiden voitettujen lisäksi (teleportaatioammukset). Paljon riippuu siitä, miten pelinjohtaja haluaa mallintaa aseen.
+Kriittisellä onnistumisella hyökkääjä löytää aukon puolustajan luonnollisesta tai käytetystä panssarista. Jos puolustaja käyttää panssaria luonnollisen suojan lisäksi, hyökkääjän on päätettävä, kumpi niistä ohitetaan. Tätä tehostetta voi pinota molempien ohittamiseksi. Tämän tehosteen kannalta taikuudella saatu fyysinen suoja lasketaan käytetyksi panssariksi. Vaikka "Ohita panssari" voidaan periaatteessa käyttää minkä tahansa hyökkäyksen kanssa, jotkin ammukset voivat olla estettyjä käyttämästä tätä (kuten haulikon hauli leviämisensä vuoksi) tai se voi olla sisäänrakennettu niiden perussuoritukseen (teleportaatioluodit). Paljon riippuu siitä, miten pelinjohtaja haluaa mallintaa aseen.#### Valitse sijainti
 
-#### Valitse kohde
+Kun käytät lähitaisteluaseita, hyökkääjä voi vapaasti valita sijainnin, johon isku osuu, mikäli kyseinen sijainti on tavallisesti ulottuvilla. Käytettäessä etäaseita, mukaan lukien tuliaseet, Valitse sijainti on ainoastaan kriittinen onnistuminen, ellei kohde ole lähietäisyydellä ja joko paikallaan tai tietämätön hyökkääjästä. Tuliaseiden kohdalla kaukoputket voivat pidentää tätä kantamaa.
 
-Käytettäessä lähitaisteluaseita hyökkääjä voi vapaasti valita sijainnin, johon isku osuu, edellyttäen että sijainti on normaalisti ulottuvilla. Jos käytetään Etäaseita, mukaan lukien ampuma-aseet, Valitse kohde vaatii Kriittisen onnistumisen, ellei kohde ole Lähietäisyydellä ja joko paikallaan tai tietämätön hyökkääjästä. Ampuma-aseille teleskooppitähtäimet voivat laajentaa tätä etäisyyttä.
+#### Kiertävä torjunta
 
-#### Kierrä torjunta
-
-Kriittisellä onnistumisella hyökkääjä voi täysin ohittaa muuten onnistuneen torjunnan.
+Kriittisellä onnistumisella hyökkääjä voi ohittaa muuten onnistuneen torjunnan kokonaan.
 
 #### Vahingoita asetta
 
-Sallii hahmon vahingoittaa vastustajansa asetta osana hyökkäystä tai torjuntaa. Hyökätessä hahmo tähtää erityisesti puolustajan torjuvaan aseeseen ja soveltaa vahinkoheittoaan siihen, ei sen käyttäjään. Kohdistettu ase käyttää omia Panssaripisteitään vahingon vastustamiseen. Jos ase laskee nollaan Osumapisteeseen, se rikkoutuu. Ampuma-aseille, koska käsissä pidettävään aseeseen osuminen etäältä on vielä vaikeampaa kuin tiettyyn kehonosaan tähtääminen, tämä tulisi yleisesti ottaen varata vain Kriittisille onnistumisille. On kuitenkin useita poikkeuksia, joista ensimmäinen on se, että kilven tulisi luonnostaan olla paljon helpompi osua. Toinen koskee eksoottisia aseita, jotka ampuvat kartionmuotoista sädettä, joka voi kohdistua käsissä pidettäviin esineisiin alueellaan; esimerkiksi induktioase, joka kuumentaa metalliesineitä.
+Sallii hahmon vahingoittaa vastustajansa asetta osana hyökkäystä tai torjuntaa. Hyökätessään hahmo tähtää erityisesti puolustajan torjuvaan aseeseen ja soveltaa vahinkorullaustaan siihen, sen sijaan että se kohdistuisi käyttäjään. Kohdistettu ase käyttää omia panssaripisteitään vahingon vastustamiseen. Jos ase putoaa nollaan osumapisteeseen, se rikkoutuu. Tuliaseiden kohdalla, koska kädessä pidettävään aseeseen osuminen etäältä on vielä vaikeampaa kuin tiettyyn kehonosaan tähtääminen, tämä tulisi yleensä varata vain kriittisille onnistumisille. On kuitenkin useita poikkeuksia; ensimmäinen on se, että kilpi on luonteensa vuoksi huomattavasti helpompi osua. Toinen liittyy eksoottisiin aseisiin, jotka ampuvat kartionmuotoista sädettä, joka kykenee tähtäämään vaikutusalueellaan oleviin kädessä pidettäviin esineisiin; esimerkiksi induktioase, joka kuumentaa metalliesineitä.
 
-#### Riisu vastustaja
+#### Riisu aseista
 
-Hahmo lyö, kiskaisee tai vääntää vastustajan aseen tämän kädestä. Vastustajan on tehtävä vastakkainen Taistelutyyli-heitto hahmon alkuperäistä heittoa vastaan. Jos riisumisen vastaanottaja häviää, hänen aseensa sinkoutuu matkan, joka vastaa riisujan Vahinkomuokkaimen heittoa metreinä. Jos Vahinkomuokkainta ei ole, ase putoaa riisutun henkilön jalkoihin. Aseiden suhteellinen koko vaikuttaa heittoon. Jokainen askel, jonka riisuvan hahmon ase on suurempi, nostaa vastustajan heiton vaikeutta yhdellä asteella. Vastaavasti jokainen askel, jonka riisuvan hahmon ase on pienempi, tekee vaikeudesta yhden asteen helpomman. Riisuminen toimii vain olentoihin, jotka ovat enintään kaksi kertaa hyökkääjän KOK-arvon suuruisia.
+Hahmo lyö, kiskaisee tai vääntää vastustajan aseen tämän kädestä. Vastustajan on suoritettava vastustettu heitto taistelutyylistään hyökkääjän alkuperäistä heittoa vastaan. Jos aseen riistosta kärsivä häviää, hänen aseensa lentää metreinä mitattuna etäisyydelle, joka vastaa riisuvan hahmon vahinkomuuttujan arvoa. Jos vahinkomuuttujaa ei ole, ase putoaa riisutun henkilön jalkoihin. Aseiden vertailukoko vaikuttaa heittoon. Jokainen askel, jonka verran riisuvan hahmon ase on suurempi, nostaa vastustajan heiton vaikeusastetta yhdellä tasolla. Kääntäen, jokainen askel, jonka verran riisuvan hahmon ase on pienempi, tekee vaikeustasosta yhden portaan helpomman. Riisuminen toimii vain olentoihin, joiden VOI on enintään kaksinkertainen hyökkääjään verrattuna.
 
-#### Kaada vihollinen
+#### Pudota kohde
 
-Hyökkäävä, vain ampuma-aseet. Olettaen, että kohde kärsii vähintään pienen vamman laukauksesta, heidät pakotetaan tekemään vastakkainen Kestävyys-testi hyökkääjän osumaheittoa vastaan. Epäonnistuminen tarkoittaa, että kohde antautuu sokille ja kivulle, tullen lamautetuksi eikä kykene jatkamaan taistelua. Lamautumisesta toipuminen voidaan suorittaa onnistuneella Ensiapu-tarkistuksella tai käyttämällä jonkinlaista teknologista tai narkoottista tehostetta, jos sellaisia on kampanjassa. Muuten väliaikainen lamautuminen kestää tunnin jaettuna kohteen Parantumisnopeudella.
+Hyökkäävä, vain tuliaseet. Olettaen, että kohde kärsii vähintään pienen haavan laukauksesta, sen on suoritettava vastustettu testi kestävyydestään hyökkääjän osumaheittoa vastaan. Epäonnistuminen tarkoittaa, että kohde murtuu shokin ja kivun alla, muuttuen toimintakyvyttömäksi eikä kykene jatkamaan taistelua. Toimintakyvyttömyydestä toipuminen voidaan suorittaa onnistuneella ensiaputarkastuksella tai käyttämällä jotakin teknologista tai huumaavaa tehostetta, jos sellaisia kampanjassa esiintyy. Muussa tapauksessa väliaikainen toimintakyvyttömyys kestää ajan, joka vastaa yhtä tuntia jaettuna kohteen paranemisnopeudella.
 
-#### Vetäydy suojaan
+#### Sukella suojaan
 
-Hyökkäävä, vain ampuma-aseet. Tämä erikoisefektin sallii ampujan välittömästi perääntyä takaisin suojaan ilman, että tarvitsee odottaa seuraavaa vuoroa Suojaudu-toiminnon käyttämiseen. Hahmon on oltava jo valmiiksi seisten tai kyykistyen jonkinlaisen suojan vieressä voidakseen käyttää tätä.
+Hyökkäävä, vain tuliaseet. Tämä erikoistehoste sallii ampujan sukeltaa välittömästi takaisin suojaan ilman, että hänen tarvitsee odottaa seuraavaa vuoroaan käyttääkseen "Hakeudu suojaan" -toimintoa. Hahmon on oltava jo seisomassa tai kyykyssä suojan läheisyydessä käyttääkseen tätä.
 
-#### Tehosta torjuntaa
+#### Tehostettu torjunta
 
-Kriittisellä onnistumisella puolustaja onnistuu poikkeuttamaan hyökkäyksen koko voiman, riippumatta aseensa koosta.
+Kriittisellä onnistumisella puolustaja onnistuu torjumaan hyökkäyksen koko voiman riippumatta aseensa KOK-arvosta.
 
-#### Sido
+#### Kahlitse
 
-Sallii hahmon, joka käyttää sido-asetta, kuten ruoskaa tai verkkoa, lamauttamaan osuman saaneen kohteen. Sidottu käsi ei voi käyttää sitä, mitä se pitelee; ansaan jäänyt jalka estää kohdetta liikkumasta; kun taas sidottu pää, rintakehä tai vatsa tekevät kaikista taitotarkistuksista yhden asteen vaikeampia. Seuraavalla vuorollaan käyttäjä voi käyttää toimintapisteen tehdäkseen automaattisen Kaada vastustaja -yrityksen. Sidottu uhri voi yrittää vapauttaa itsensä vuorollaan joko yrittämällä vastakkaista Voima-heittoa kiskaistaakseen itsensä irti tai voittamalla erikoisefektin ja valitsemalla Vahingoita asetta, Riisu vastustaja tai Irtaudu.
+Sallii kahlitsevaa asetta, kuten ruoskaa tai verkkoa, käyttävän hahmon liikkumattomaksi tekemään osuman kohteen. Kahlittu käsivarsi ei voi käyttää mitään, mitä se pitelee; ansaan jäänyt jalka estää kohdetta liikkumasta; kun taas kahlittu pää, rintakehä tai vatsa tekee kaikista taitotarkastuksista yhden portaan vaikeampia. Seuraavalla vuorollaan käyttäjä voi käyttää toimintapisteen tehdäkseen automaattisen "Kaada vastustaja" -yrityksen. Kahlittu uhri voi yrittää vapauttaa itsensä vuorollaan joko yrittämällä vastustettua heittoa käyttäen voimaa (Brawn) kiskaistakseen itsensä irti, tai voittamalla erikoistehosteen ja valitsemalla "Vahingoita asetta", "Riisu aseista" tai "Luiskahda vapaaksi".
 
-#### Pakota epäonnistumaan
+#### Pakotettu epäonnistuminen
 
-Käytetään, kun vastustaja mokaa, hahmo voi yhdistää tämän mihin tahansa muuhun erikoisefektiin, joka vaatii vastakkaisen heiton toimiakseen. Pakota epäonnistumaan saa vastustajan epäonnistumaan vastustusheitossaan oletusarvoisesti – siten tullen automaattisesti riisutuksi, kaadetuksi ja niin edelleen.
+Käytetään, kun vastustaja tekee kömmähdyksen; hahmo voi yhdistää Pakotetun epäonnistumisen mihin tahansa muuhun erikoistehosteeseen, joka vaatii vastustetun heiton toimiakseen. Pakotettu epäonnistuminen aiheuttaa sen, että vastustaja epäonnistuu vastustusheitossaan oletusarvoisesti – tullen siten automaattisesti riisutuksi aseista, kaadetuksi ja niin edelleen.
 
 #### Ote
 
-Edellyttäen, että vastustaja on hyökkääjän Aseettoman taistelun ulottuvilla, he voivat käyttää vapaata kättä (tai muuta vastaavaa otteeseen kykenevää raajaa) pitääkseen kiinni vastustajasta, estäen heitä irrottautumasta taistelusta. Vastustaja voi yrittää vapautua vuorollaan, mikä vaatii joko Voima- tai Aseeton-vastakkaisheiton riippuen siitä, kumpaa hahmo suosii.
+Mikäli vastustaja on hyökkääjän aseettoman taistelun ulottuvilla, tämä voi käyttää vapaata kättä (tai vastaavaa tarttumiseen kykenevää raajaa) pidelläkseen kiinni vastustajasta, estäen tätä irrottautumasta taistelusta. Vastustaja voi yrittää vapautua omalla vuorollaan, mikä vaatii vastustetun heiton joko voimasta (Brawn) tai aseettomasta taistelusta, riippuen siitä, kumpaa hahmoista tarttuja suosii.
 
 #### Lävistä
 
-Heitä aseen vahinko kahdesti ja hyökkääjä valitsee, kumpaa tulosta käyttää. Olettaen, että ase on lähitaisteluase, jos panssari läpäistään ja haava aiheutetaan, hyökkääjällä on mahdollisuus jättää ase haavaan tai kiskoa se irti seuraavalla vuorollaan. Aseen jättäminen haavaan aiheuttaa vaikeusasteen uhrin tuleville taitoyrityksille. Rangaistuksen vakavuus riippuu sekä olennon että sitä lävistävän aseen koosta, kuten Lävistys-efektien taulukossa alla. Yksinkertaisuuden vuoksi lisälävistykset saman kokoisella aseella eivät aiheuta lisärangaistuksia. Lävistetyn aseen vetäminen irti lähitaistelussa vaatii Valmistele ase -taistelutoiminnon käyttöä. Käyttäjän on läpäistävä vastustamaton Voima-heitto (tai voitettava vastakkainen Voima-heitto, jos vastustaja vastustaa). Onnistuminen vetää aseen irti, aiheuttaen lisävahinkoa samaan kohtaan, joka on puolet aseen normaalista vahinkoheitosta, mutta ilman Vahinkomuokkainta. Epäonnistuminen tarkoittaa, että ase pysyy haavassa ilman lisäefektiä, vaikka käyttäjä voi yrittää uudelleen seuraavalla vuorollaan. Erityisesti väkäselliset aseet (kuten harppuunat) aiheuttavat normaalia vahinkoa. Panssari ei vähennä vetämisestä aiheutuvaa vahinkoa. Niin kauan kuin se on lävistettynä, hyökkääjä ei voi käyttää lävistävää asettaan torjumiseen.
+Heitä aseen vahinko kahdesti, ja hyökkääjä valitsee, kumpaa tulosta käytetään hyökkäykseen. Olettaen, että ase on lähitaisteluase, jos panssari läpäistään ja haava aiheutetaan, hyökkääjällä on mahdollisuus jättää ase haavaan tai kiskaista se irti seuraavalla vuorollaan. Aseen jättäminen haavaan aiheuttaa vaikeusasteen korotuksen uhrin tuleviin taitoyrityksiin. Rangaistuksen vakavuus riippuu sekä olennon että sen lävistävän aseen koosta, kuten alla olevasta "Lävistysvaikutusten taulukosta" ilmenee. Yksinkertaisuuden vuoksi lisälävistykset samankokoisella aseella eivät aiheuta lisärangaistuksia. Lävistetyn aseen irrottaminen lähitaistelussa vaatii "Valmistele ase" -taistelutoiminnon käyttöä. Käyttäjän on läpäistävä vastustamaton voimaheitto (tai voitettava vastustettu voimaheitto, jos vastustaja vastustaa). Onnistuminen vetää aseen vapaaksi, aiheuttaen samaan sijaintiin lisävahinkoa, joka vastaa puolta kyseisen aseen normaalista vahinkorullauksesta, mutta ilman vahinkomuuttujaa. Epäonnistuminen tarkoittaa, että ase jää jumiin haavaan ilman lisävaikutuksia, vaikka käyttäjä voi yrittää uudelleen seuraavalla vuorollaan. Erityisesti väkäpäiset aseet (kuten harppuunat) aiheuttavat normaalin vahingon. Panssari ei vähennä irrotusvahinkoa. Niin kauan kuin ase on lävistäneenä, hyökkääjä ei voi käyttää lävistävää asettaan torjumiseen.
 
-#### Lävistys-efektien taulukko
+#### Lävistysvaikutusten taulukko
 
-| Olennon KOK | Pienet aseet | Keskikokoiset | Suuret aseet | Valtavat aseet | Jättimäiset |
+| Olennon KOK | Pienet aseet | Keskikokoiset aseet | Suuret aseet | Valtavat aseet | Jättimäiset aseet |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1-10 | Pelottava | Herkulinen | Lamautettu | Lamautettu | Lamautettu |
-| 11-20 | Vaikea | Pelottava | Herkulinen | Lamautettu | Lamautettu |
-| 21-30 | Ei vaikutusta | Vaikea | Pelottava | Herkulinen | Lamautettu |
-| 31-40 | Ei vaikutusta | Ei vaikutusta | Vaikea | Pelottava | Herkulinen |
+| 1-10 | Pelottava | Herkuleeninen | Toimintakyvytön | Toimintakyvytön | Toimintakyvytön |
+| 11-20 | Vaikea | Pelottava | Herkuleeninen | Toimintakyvytön | Toimintakyvytön |
+| 21-30 | Ei vaikutusta | Vaikea | Pelottava | Herkuleeninen | Toimintakyvytön |
+| 31-40 | Ei vaikutusta | Ei vaikutusta | Vaikea | Pelottava | Herkuleeninen |
 | 41-50 | Ei vaikutusta | Ei vaikutusta | Ei vaikutusta | Vaikea | Pelottava |
-| Jokainen +10 | Seuraa taulukkoa |
+| Jokainen +10 | Seuraa taulukon etenemistä |
 
-Ampuma-aseille useimpien projektilipohjaisten ampuma-aseiden ammusten pitäisi pystyä lävistämään. Pelinjohtajat saattavat haluta rajoittaa tai kieltää tämän efektin plasma- tai laserpohjaisille energia-aseille. Luodit, nuolet ja vastaavat projektilit ovat selvästi liian pieniä aiheuttamaan toissijaisia lävistys-efektejä.
+Tuliaseiden kohdalla useimpien ammuksia käyttävien tuliaseiden ammukset kykenevät lävistämään. Pelinjohtajat saattavat haluta rajoittaa tai kieltää tämän tehosteen plasma- tai laserpohjaisille energia-aseille. Luodit, nuolet ja vastaavat ammukset ovat selvästi liian pieniä aiheuttamaan toissijaisia lävistysvaikutuksia.
 
-#### Tarkkuus
+#### Tarkka-ampuja
 
-Sallii ampujan siirtää osumakohtaa yhdellä askeleella viereiseen kehonosaan. Fysiologialla on vaikutusta siihen, mitä voidaan uudelleen kohdistaa, ja tervettä järkeä tulisi soveltaa. Siten tämän erikoisefektin käyttäminen ihmiseen sallisi hyökkääjän, joka heitti jalkaosuman, siirtää sen vatsaan sen sijaan. Vastaavasti griffinin rintaan ampuminen sallisi eturaajojen, siipien tai pään valinnan.
+Sallii ampujan siirtää laukauksellaan osuman saanutta osumakohtaa yhdellä askeleella välittömästi viereiseen kehonosaan. Fysiologialla on vaikutusta siihen, mitä voidaan tähdätä uudelleen, ja tervettä järkeä tulee käyttää. Siten tämän erikoistehosteen käyttö humanoidiin sallisi hyökkääjän, joka heitti jalkaosuman, siirtää sen vatsan alueelle. Kääntäen, griifin ampuminen rintaan sallisi eturaajojen, siipien tai pään valitsemisen.
 
 #### Maksimoi vahinko
 
-Kriittisellä onnistumisella hahmo voi korvata yhden aseensa vahinkonopista sen täydellä arvolla. Esimerkiksi käsiakseli, joka tekee normaalisti 1d6 vahinkoa, käsiteltäisiin 6:na, kun taas suuri nuija, jossa on 2d6 vahinkoa, aiheuttaisi 1d6+6 vahinkoa. Tätä erikoisefektia voi pinota. Vaikka sitä voidaan käyttää myös luonnollisiin aseisiin, Maksimoi vahinko ei vaikuta hyökkääjän Vahinkomuokkaimeen, joka on heitettävä normaalisti.
+Kriittisellä onnistumisella hahmo voi korvata yhden aseen vahinkonoppansa sen maksimiarvolla. Esimerkiksi käsi-kirves, joka tekee normaalisti 1d6 vahinkoa, käsiteltäisiin arvona 6, kun taas 2d6 vahinkoa tekevä nuija aiheuttaisi 1d6+6 vahinkoa. Tätä erikoistehostetta voi pinota. Vaikka sitä voi käyttää myös luonnollisiin aseisiin, Maksimoi vahinko ei vaikuta hyökkääjän vahinkomuuttujaan, joka on heitettävä normaalisti.
 
 #### Yliläpäisy
 
-Kriittinen, vain ampuma-aseet. Jos ammutaan suoraan linjassa olevia vastustajia tai tiiviisti pakattua ryhmää, tämä erikoisefektin sallii laukauksen kulkea kokonaan ensimmäisen uhrin läpi osuakseen toiseen takana olevaan, olettaen että se voittaa ensimmäisen kohteen vartalosuojan. Toinen uhri kärsii kuitenkin vain puolet vahingosta ammuksen hidastumisen vuoksi. Yliläpäisy on yleisesti ottaen hyödyllisempi tehokkailla aseilla, jotka aiheuttavat suuria määriä vahinkoa, tai niillä, joilla on jonkinlainen panssarinläpäisykyky. Ensimmäiseen kohteeseen kohdistuneita erikoisefektejä ei sovelleta toiseen.
+Kriittinen, vain tuliaseet. Jos ammutaan suorassa linjassa olevia vastustajia tai tiiviisti pakkautunutta ryhmää, tämä erikoistehoste sallii laukauksen kulkea ensimmäisen uhrin läpi osuakseen toiseen takana olevaan, olettaen että se voittaa ensimmäisen kohteen vartalosuojauksen. Toinen uhri kuitenkin kärsii vain puolet vahingosta ammuksen hidastumisen vuoksi. Yliläpäisy on yleensä hyödyllisempi suuritehoisilla aseilla, jotka aiheuttavat paljon vahinkoa tai joilla on jonkinlainen panssarinläpäisykyky. Ensimmäiseen kohteeseen kohdistettuja erikoistehosteita ei sovelleta toiseen.
 
-#### Painostus
+#### Pidä alhaalla
 
-Vain ampuma-aseet. Kuten Press Advantage, tämä erikoisefektin pakottaa kohteen tekemään vastakkaisen Tahdonvoima-testin hyökkääjän osumaheittoa vastaan. Epäonnistuminen tarkoittaa, että kohde kyykistyy käytettävissä olevan suojan taakse eikä voi vastata tuleen seuraavalla vuorollaan. Huomaa, että Painostus toimii, vaikka varsinaista vahinkoa ei aiheutuisi kohteeseen (ehkä onnistuneen väistön tai suojaukseen osuneiden laukausten vuoksi), koska se perustuu tulituksen pelotevaikutukseen.
+Vain tuliaseet. Samankaltainen kuin "Hyödynnä etu", tämä erikoistehoste pakottaa kohteen suorittamaan vastustetun testin tahdonvoimastaan hyökkääjän osumaheittoa vastaan. Epäonnistuminen tarkoittaa, että kohde kyyristyy käytettävissä olevan suojan taakse eikä kykene vastaamaan tuleen seuraavalla vuorollaan. Huomaa, että "Pidä alhaalla" toimii, vaikka kohteeseen ei aiheutuisi todellista vahinkoa (ehkä onnistuneen väistön tai suojan osumisen vuoksi), koska se perustuu aivan läheltä viheltelevän tulituksen pelotevaikutukseen.
 
-Vaikka painostettu uhri ei voi ampua takaisin tarvittavaan aikaan, he voivat suorittaa muita toimintoja, jos he eivät altista itseään tulitukselle prosessin aikana, kuten ryömiä uuteen suojaan, kommunikoida muiden kanssa, ladata aseen ja niin edelleen.
+Vaikka kahlittu uhri ei kykene vastaamaan tuleen vaadittavana aikana, he voivat suorittaa muita toimintoja, mikäli eivät altista itseään tulelle prosessin aikana, kuten ryömiä uuteen suojaan, viestiä muille, ladata asetta ja niin edelleen.
 
 #### Valmistele vastahyökkäys
 
-Puolustaja lukee vihollisensa kuvioita ja valmistelee vastahyökkäyksen tiettyä erikoisefektia vastaan (joka tulisi merkitä ylös salassa). Jos vastustaja yrittää aiheuttaa valitun erikoisefektin häneen taistelun aikana, puolustaja vaihtaa välittömästi hyökkääjän efektin omaansa, joka onnistuu automaattisesti.
+Puolustaja lukee vihollisensa kuviot ja valmistelee vastahyökkäyksen tiettyä erikoistehostetta vastaan (joka tulisi kirjata ylös salaa). Jos vastustaja yrittää käyttää valittua erikoistehostetta häntä vastaan taistelun aikana, puolustaja vaihtaa välittömästi hyökkääjän tehosteen omaansa, joka onnistuu automaattisesti.
 
-#### Nopea lataus
+#### Nopeampi lataus
 
-Käytettäessä etäasetta, hyökkääjä vähentää seuraavan laukauksen latausaikaa yhdellä. Tätä efektiä voi pinota. Ampuma-aseille, vaikka se on hyödyllinen mustaruuti- tai kertalaukausaseille, tällä efektillä on vähemmän ilmeinen sovellus automaattiaseisiin, joissa seuraava laukaus on valmiina (tai ladattuna) välittömästi. Nopea lataus voitaisiin kuitenkin käyttää vaihtamaan aseen lippaita nopeasti. Se saattaa myös olla sovellettavissa energia-aseisiin, joilla on pitkät latausajat kondensaattorien varaamiseen tai piipun jäähtymiseen.
+Käytettäessä etäasetta, hyökkääjä lyhentää seuraavan laukauksen latausaikaa yhdellä. Tämä tehoste on pinottavissa. Tuliaseiden kohdalla, vaikka hyödyllinen mustaruuti- tai yksittäisammuksisissa aseissa, tällä tehosteella on vähemmän ilmeistä sovellusta automaattiaseisiin, joissa seuraava laukaus on kammioitu (tai ladattu) välittömästi. "Nopeampaa latausta" voitaisiin kuitenkin käyttää aseiden lippaiden nopeaan vaihtamiseen. Se saattaa olla sovellettavissa myös energia-aseisiin, joilla on pitkiä syklejä kondensaattorien lataamiseen tai piipun jäähtymiseen.
 
-#### Arpien teko
+#### Arpeuta kohde
 
-Taistelija aiheuttaa vastustajalleen arven, josta puhutaan kaikille loppuelämän ajan – kuten lähes katkaistu kurkku tai rintaan taiteellisesti kaiverrettu 'Z'-kirjain.
+Taistelija aiheuttaa vastustajalleen arven, josta puhutaan koko tämän loppuelämän ajan – kuten lähes katkaistu kurkku tai rintaan taiteellisesti kaiverrettu 'Z'-kirjain.
 
-#### Valitse kohde (puolustus)
+#### Valitse maali
 
-Kun hyökkääjä mokaa, puolustaja voi manööveroida tai poikkeuttaa iskun siten, että se osuu sen sijaan viereiseen sivustakatsojaan. Tämä vaatii, että uusi kohde on hyökkääjän lähitaisteluaseen ulottuvilla, tai etähyökkäyksen tapauksessa, seisoo ampumalinjalla. Uusi uhri otetaan täysin yllättäen onnettomuudesta, eikä hänellä ole mahdollisuutta välttää automaattisesti osuvaa hyökkäystä. Hyvityksenä he eivät kuitenkaan kärsi erikoisefektistä.
+Kun hyökkääjä tekee kömmähdyksen, puolustaja voi ohjata tai torjua iskun siten, että se osuu viereiseen sivustakatsojaan. Tämä vaatii, että uusi kohde on hyökkääjän lähitaisteluaseen ulottuvilla tai, etähyökkäyksen tapauksessa, seisoo tulilinjan varrella. Uusi uhri yllättyy täysin odottamattomasta vahingosta eikä hänellä ole mahdollisuutta välttää hyökkäystä, joka osuu automaattisesti. Vastineeksi hän ei kuitenkaan kärsi mitään erikoistehostetta.
 
-#### Irtaudu
+#### Luiskahda vapaaksi
 
-Kriittisellä onnistumisella puolustaja voi automaattisesti paeta Sidottuna, Otteessa tai Painostettuna olemisesta.
+Kriittisellä onnistumisella puolustaja voi automaattisesti vapautua kahlitsemisesta, otteesta tai alhaalla pidosta.
 
-#### Tyrmää kehonosa
+#### Tyrmää sijainti
 
-Hyökkääjä voi käyttää tylppää asetta lamauttaakseen väliaikaisesti iskun saaneen kehonosan. Jos isku voittaa Panssaripisteet ja vahingoittaa kohdetta, puolustajan on tehtävä vastakkainen Kestävyys-heitto alkuperäistä hyökkäysheittoa vastaan. Jos puolustaja epäonnistuu, osumakohta lamautuu (Incapacitated) vahingon määrää vastaavaksi kierrosmääräksi. Isku vartaloon saa puolustajan horjumaan hengästyneenä, kykenevänä vain puolustautumaan. Pääosuma tekee vihollisesta hetkellisesti tajuttoman eikä hän kykene toimimaan.
+Hyökkääjä voi käyttää lyömäasetta tyrmätäkseen tilapäisesti osuman saaneen kehonosan. Jos isku voittaa panssaripisteet ja vahingoittaa kohdetta, puolustajan on suoritettava vastustettu heitto kestävyydestä alkuperäistä hyökkäysheittoa vastaan. Jos puolustaja epäonnistuu, osumasijainti on toimintakyvytön niin monta vuoroa kuin aiheutettu vahinko on. Isku vartaloon saa puolustajan horjumaan hengästyneenä, kykenevänä vain puolustautumaan. Pääosuma tekee vihollisen hetkellisesti toimintakyvyttömäksi eikä hän kykene toimimaan.
 
-#### Sunder
+#### Lohkaise
 
-Hyökkääjä voi käyttää sopivaa asetta, kuten kirvestä, vahingoittamaan vastustajan panssaria tai luonnollista suojaa. Mikä tahansa aseen vahinko, torjunnan tai taikuuden vähennysten jälkeen, kohdistetaan suojan Panssaripisteisiin. Panssaripisteet ylittävä vahinko käytetään sitten vähentämään kyseisen kohdan Panssaripistearvoa – repien hihnoja, räjäyttäen renkaita, vääntäen levyjä tai repien irti hirviön nahan, suomut tai kitiinin. Jos vahinkoa on jäljellä sen jälkeen, kun suoja on vähennetty nollaan AP, se siirtyy iskun saaneen kohdan Osumapisteisiin. Ampuma-aseille Sunder sopisi energia-pohjaisille aseille, jotka on suunniteltu tuhoamaan ablatiivisia panssareita, tai eksoottisempia konsepteja, kuten painovoima-aseita.
+Hyökkääjä voi käyttää sopivaa asetta, kuten kirvestä, vahingoittamaan vastustajan panssaria tai luonnollista suojaa. Kaikki aseen vahinko, torjunnan tai magian aiheuttamien vähennysten jälkeen, sovelletaan suojauksen panssaripisteisiin. Ylijäävä vahinko panssaripisteiden yli käytetään sitten kyseisen panssaroidun sijainnin panssaripisteiden arvon vähentämiseen – repimällä hihnoja, puhkaisemalla renkaita, taivuttamalla levyjä tai repimällä hirviöiden nahkaa, suomuja tai kitiiniä. Jos vahinkoa jää jäljelle suojauksen putoamisen nollaan AP-arvoon jälkeen, se siirtyy osuman saaneen sijainnin osumapisteisiin. Tuliaseiden kohdalla "Lohkaise" olisi sopiva energia-aseille, jotka on suunniteltu tuhoamaan ablatiivisia panssareita tai eksoottisempia konsepteja kuten paineaaltoaseita.
 
 #### Kaada vastustaja
 
-Hahmo yrittää horjuttaa tai heittää vastustajansa maahan. Vastustajan on tehtävä vastakkainen Voima-, Väistö- tai Akrobatia-heitto hahmon alkuperäistä heittoa vastaan. Jos kohde epäonnistuu, hän kaatuu maahan. Nelijalkaiset vastustajat (tai oliot, joilla on enemmän jalkoja) voivat korvata Väistö-taidon Yleisurheilulla ja käsitellä heittoa yhdellä asteella helpompana. Ampuma-aseille, olettaen että ase ampuu massallisia ammuksia, ei ole syytä, miksi tätä efektiä ei voisi käyttää ammuttaessa vastustajan jalkoihin, vaikka vahinko ei läpäisisi puettua suojaa.
+Hahmo yrittää horjuttaa tai heittää vastustajansa maahan. Vastustajan on suoritettava vastustettu heitto voimasta (Brawn), väistöstä tai akrobatiasta hahmon alkuperäistä heittoa vastaan. Jos kohde epäonnistuu, hän kaatuu maahan. Nelijalkaiset vastustajat (tai olennot, joilla on enemmän jalkoja) voivat korvata yleisurheilunsa väistöllä ja käsitellä heittoa yhden vaikeusasteen helpompana. Tuliaseiden kohdalla, olettaen että ase ampuu massallisia ammuksia, ei ole syytä, miksei tätä tehostetta voisi käyttää ammuttaessa vastustajan jalkoihin, vaikka vahinko ei läpäisisi mitään käytettyä suojaa.
 
 #### Aseen toimintahäiriö
 
-Hyökkääjä mokaa, vain ampuma-aseet. Hyökkääjän ampuma-ase toimii niin, että se muuttuu käyttökelvottomaksi, kunnes aikaa voidaan käyttää aseen purkamiseen ja puhdistamiseen.
+Hyökkääjä tekee kömmähdyksen, vain tuliaseet. Hyökkääjän tuliase toimii siten, että se muuttuu käyttökelvottomaksi, kunnes sen purkamiseen ja puhdistamiseen kenttäolosuhteissa käytetään aikaa.
 
 #### Vetäydy
 
-Puolustaja voi automaattisesti vetäytyä ulottuvilta, katkaisten sitoutumisen kyseiseen vastustajaan.
+Puolustaja voi vetäytyä automaattisesti ulottuvilta, katkaisten sitoutumisen kyseiseen vastustajaan.
 
 ---
 ## Lähitaistelu
 
-Lähitaistelu on käsi-kädessä -taistelua sen klassisessa merkityksessä, kun taistelijat iskevät toisiaan käytetyillä tai luonnollisilla aseilla. Seuraavat ohjeet tarjoavat tapoja tehdä lähitaistelusta mielenkiintoisempaa ja auttavat selittämään joitakin tämän luvun aiemmin mainittuja konsepteja.
+Lähitaistelu on käsirysyä klassisessa merkityksessään, kun taistelijat iskevät toisiaan käytettävillä tai luonnollisilla aseilla. Seuraavat ohjeet tarjoavat tapoja tehdä lähitaistelusta kiinnostavampaa ja auttavat selittämään joitakin tämän luvun aiemmin mainittuja konsepteja.
 
-### Tilannemuokkaimet
+### Tilanteelliset muuttujat
 
-Tilannemuokkaimia voidaan soveltaa, kun taistellaan tietyissä olosuhteissa tai erikoisefektin seurauksena. Esimerkiksi pimeässä taisteleminen saattaa aiheuttaa Herkulisen vaikeusasteen. Ellei toisin mainita, muokkaimista päättää pelinjohtaja. Kun kaksi tai useampi tilanne on relevantti hahmolle, käytetään vakavinta.
+Tilanteellisia muuttujia voidaan soveltaa taisteltaessa tietyissä olosuhteissa tai erikoistehosteen tuloksena. Esimerkiksi pimeässä taisteleminen saattaa aiheuttaa herkuleenisen vaikeusasteen. Ellei toisin mainita, muuttujista päättää pelinjohtaja. Jos kaksi tai useampi tilanne on olennainen hahmolle, käytetään vakavinta.
 
-Jotkin muokkaimet ovat tilanteesta riippuvaisia, mutta vaikeusasteen soveltamisen sijaan Taistelutaito on rajoitettu relevanteilla taidoilla. Esimerkiksi hevosen selästä taisteleminen rajoittaisi taistelijan Taistelutaidon Ratsastus-taitoon, kun taas vedessä taisteleminen saattaisi rajoittaa sen hahmon Uinti-taitoon.
-
-#### Lähitaistelun tilannemuokkaimet
+Jotkut muuttujat ovat olosuhteista riippuvaisia, mutta vaikeusasteen soveltamisen sijaan taistelutaitoa rajoittaa relevantti taito. Esimerkiksi hevosen selästä taisteleminen rajoittaisi taistelijan taistelutaitoa heidän ratsastustaitonsa arvoon, kun taas vedessä taisteleminen saattaisi rajoittaa sen hahmon uintitaidon arvoon.#### Lähitaistelun tilannekohtaiset muuttujat
 
 | Tilanne | Vaikeusaste |
 | :-- | :-: |
-| Hyökkääminen avuttomaan kohteeseen | Automaattinen |
-| Hyökkääminen ahtaassa tilanteessa | Vaikea |
-| Puolustautuminen alemmalta tasolta tai ratsastavaa vihollista vastaan | Vaikea |
-| Taistelu epävakaalla maalla | Vaikea |
-| Taistelu kyykyssä tai polviasennossa | Vaikea |
-| Taistelu huonossa näkyvyydessä (tiheä sumu, lumimyrsky) | Vaikea |
-| Puolustautuminen takaa tulevaa hyökkäystä vastaan | Pelottava |
-| Taistelu maassa (makuulla) | Pelottava |
-| Taistelu osittaisessa pimeydessä (himmeä valaistus) | Pelottava |
-| Taistelu täydellisessä pimeydessä (ei lainkaan valaistusta) | Herkulinen |
-| Sokeus tai ensisijaisen havaintoaistin menetys | Herkulinen |
+| Puolustuskyvyttömän kohteen hyökkääminen | Automaattinen |
+| Hyökkääminen ahtaassa tilassa | Vaikea |
+| Puolustaminen alemmalta tasolta tai ratsastavaa vihollista vastaan | Vaikea |
+| Taistelu epävakaalla alustalla | Vaikea |
+| Taistelu kyykyssä tai polviasennosta | Vaikea |
+| Taistelu huonossa näkyvyydessä (paksu sumu, lumimyrsky) | Vaikea |
+| Puolustautuminen selän takaa tulevaa hyökkäystä vastaan | Pelottava |
+| Taistelu makuuasennossa | Pelottava |
+| Taistelu hämärässä (vähäinen valaistus) | Pelottava |
+| Taistelu pilkkopimeässä (ei lainkaan valaistusta) | Herkuleeninen |
+| Sokeutuminen tai ensisijaisen havaintoaistin menetys | Herkuleeninen |
 
-### Sitoutuminen
+### Taisteluun sitoutuminen (Engagement)
 
-Hahmo katsotaan sitoutuneeksi, jos hän on vastustajan lähitaisteluaseen ulottuvilla. Tämä ei välttämättä vaadi, että molemmat taistelijat voivat yltää toisiinsa; vain että toinen heistä voi mahdollisesti tulla isketuksi toisen toimesta. Kun hahmo on sitoutunut vastustajaan, hän ei voi enää vapaasti poistua taistelusta (rynnäkkö ohi on erityispoikkeus). Se vaatii jonkinlaista harkittua tekoa kosketuksen katkaisemiseksi viholliseen, tavallisesti suoritettuna taistelutoiminnolla kuten Manööveri, tai käyttämällä Vetäydy-erikoisefektia.
+Hahmon katsotaan olevan sitoutunut taisteluun, jos hän on vastustajan lähitaisteluaseen ulottuvilla. Tämä ei välttämättä tarkoita, että molemmat taistelijat yltävät toisiinsa, vaan ainoastaan sitä, että toinen voi mahdollisesti iskeä toista. Kun hahmo on sitoutunut vastustajaan, hän ei voi enää vapaasti poistua taistelusta (ohitse ryntääminen on erityispoikkeus). Taistelukontaktin katkaiseminen viholliseen vaatii harkitun teon, joka suoritetaan yleensä taistelutoiminnolla, kuten Manööveri, tai käyttämällä Irtautuminen-erikoisefektiä.
 
-### Rynnäkkö
+### Ryntäys (Charging)
 
-Rynnäkkö-toiminto on nopeaa liikkumista hyökkäyksen voiman ja iskun lisäämiseksi. Rynnäkkö vaatii hyökkääjää valitsemaan Rynnäkkö-toiminnon, liikkuen joko Juoksu- tai Sprintti-askelluksella - katso [Liikkumisnopeus](0002_Characters.md?id=movement-rate) -osio yllä. Liikkumissäännöt on kuvattu täysin _Mythras_-kirjassa.
+Ryntäys-toiminto on nopeaa liikkumista, jolla pyritään lisäämään hyökkäyksen voimaa ja vaikutusta. Ryntäys vaatii hyökkääjää valitsemaan Ryntäys-toiminnon ja liikkumaan joko Juoksu- tai Sprintti-nopeudella – katso [Liikkumisnopeus](0002_Characters.md?id=movement-rate) -osio edellä. Liikkumissäännöt on käsitelty kattavasti *Mythras*-sääntökirjassa.
 
-Jos tämä tuo heidät kontaktiin vastustajansa kanssa, heidän on pysähdyttävä siihen ja suoritettava Hyökkäys-toiminto, rynnäkön mukaan muokattuna. Minimietäisyyttä ei tarvitse kulkea ennen kuin rynnäkkö voi tapahtua, sillä liikuttu etäisyys on vähemmän tekijä kuin saavutettu momentti. Siis juoksu tai sprintti.
+Jos tämä vie hahmon kosketuksiin vastustajan kanssa, hänen on pysähdyttävä siihen ja suoritettava Hyökkäys-toiminto ryntäyksen mukaisesti muokattuna. Ryntäykselle ei ole asetettu vähimmäisetäisyyttä, sillä liikkumismatka on vähemmän merkittävä tekijä kuin saavutettu vauhti. Siksi käytetään juoksua tai sprinttiä.
 
-Rynnäköidessä hyökkäysheitto kärsii Vaikeasta vaikeusasteesta. Vastineeksi rynnäkkö kasvattaa hyökkäävän aseen kokoa yhdellä askeleella ja kaksijalkaisen hyökkääjän Vahinkomuokkainta yhdellä askeleella, tai kahdella, jos kyseessä on nelijalkainen (tai useampia jalkoja). Ratsastavat hahmot voivat korvata Vahinkomuokkaimensa ratsunsa vastaavalla. Rynnäköivän hahmon lopullinen sijainti riippuu vaihdon tuloksesta ja siitä, haluaako hyökkääjä pysähtyä vai jatkaa ohi, katkaisten sitoutumisen välittömästi.
+Ryntäyksen aikana hyökkäysheittoon sovelletaan Vaikea-tasoista vaikeusastetta. Vastineeksi ryntäys kasvattaa hyökkäävän aseen kokoa yhdellä pykälällä ja kaksijalkaisen hyökkääjän vahinkomuuntajaa yhdellä pykälällä, tai kahdella pykälällä, jos kyseessä on nelijalkainen (tai useampijalkainen) olento. Ratsastavat hahmot voivat käyttää vahinkomuuntajanaan ratsunsa vahinkomuuntajaa omanaan. Ryntäävän hahmon lopullinen sijainti riippuu vaihdon tuloksesta ja siitä, haluaako hyökkääjä pysähtyä vai jatkaa matkaansa ohitse, katkaisten sitoutumisen välittömästi.
 
-Torjunnan tai Väistön sijaan rynnäkön kohde voi samanaikaisesti vastahyökätä rynnäköivää hyökkääjää vastaan. Tässä tapauksessa pidemmän aseen käyttäjä iskee ensin. Jos ase voidaan asettaa vastaanottamaan rynnäkkö (kuten keihäs), vastaanottaja voi käyttää rynnäköijän Vahinkomuokkainta oman sijaan.
+Torjumisen tai väistämisen sijaan ryntäyksen kohde voi samanaikaisesti vastahyökätä ryntäävää hyökkääjää vastaan. Tällöin pidemmän aseen käyttäjä iskee ensin. Jos ase on asetettu vastaanottamaan ryntäys (kuten keihäs), kohde voi käyttää ryntääjän vahinkomuuntajaa omanaan.
 
-### Suoja
+### Suoja (Cover)
 
-Vastustajat käyttävät suojaa estääkseen hyökkäyksiä heitä vastaan, joko fyysisesti blokkaamalla iskun välissä olevan materiaalin kovuuden vuoksi tai hämärtämällä, missä vastustaja tarkalleen on. Suojan tarkka arvo riippuu sen suojan paksuudesta ja kattavuudesta.
+Vastustajat käyttävät suojaa estääkseen hyökkäykset itseään vastaan joko fyysisesti blokkaamalla iskun välissä olevan materiaalin kestävyyden vuoksi tai peittämällä sen, missä vihollinen tarkalleen ottaen on. Suojan tarkka arvo riippuu sen paksuudesta ja peittävyydestä.
 
-Hyökkäys kohdetta vastaan, joka osuu hämärtyneeseen osumakohtaan, estetään suojan luontaisen suojan verran. Suojaa voidaan osittain negoida joko käyttämällä Valitse kohde -erikoisefektia tähdätäkseen kohteen näkyviin osiin tai iskemällä suojan läpi, jos ase voi läpäistä sen.
+Hyökkäys, joka osuu suojan takana olevaan osumakohtaan, estyy suojan tarjoaman luonnollisen suojauksen verran. Suojaa voi osittain mitätöidä käyttämällä Valitse kohde -erikoisefektiä tähdätäkseen kohteen näkyviin osiin tai lyömällä suojan läpi, jos ase pystyy läpäisemään sen.
 
-Tilanteissa, joissa suoja on täydellinen, mutta hyökkääjä uskoo hyökkäyksensä läpäisevän, he voivat iskeä sokeasti piilossa olevaan kohteeseen. Tällaisissa tapauksissa hyökkäysheitto on yhden asteen vaikeampi, eikä Valitse kohde -toimintoa voi valita, jos erikoisefektin voittaa. Tämä olettaa, että hyökkääjä tietää melko tarkasti kohteen sijainnin suojan takana.
+Tilanteissa, joissa suoja on täydellinen, mutta hyökkääjä uskoo hyökkäyksensä läpäisevän, hän voi lyödä sokeasti piilotettua kohdetta. Tällaisissa tapauksissa hyökkäysheitto on yhden pykälän vaikeampi, eikä Valitse kohde -efektiä voi käyttää, jos erikoisefekti voitetaan. Tämä edellyttää, että hyökkääjä tietää melko tarkasti kohteen sijainnin suojan takana.
 
-### Väistäminen
+### Väistäminen (Evading)
 
-Taistelussa väistäminen on itsensä heittämistä pois ylivoimaiselta hyökkäykseltä. Tämä vaatii vastakkaisen heiton puolustajan Väistö-taidosta hyökkääjän relevanttia heittoa vastaan. Tämä voi olla mitä tahansa taistelupanssarivaunun isku-ajotaidosta maagin loitsimistaitoon. Jos hyökkääjä voittaa, he aiheuttavat vahinkoa tavalliseen tapaan. Jos puolustaja voittaa, vahinko vältetään täysin.
+Väistäminen taistelussa tarkoittaa heittäytymistä sivuun murskaavalta hyökkäykseltä. Tämä vaatii puolustajan Väistäminen-taidon vastustetun heiton hyökkääjän vastaavaa heittoa vastaan. Tämä voi olla mitä tahansa panssarivaunun Ajaminen-taidosta maagikon loitsimistaitoon. Jos hyökkääjä voittaa, hän tekee vahinkoa normaalisti. Jos puolustaja voittaa, vahinko vältetään kokonaan.
 
-Jos vastakkaisen heiton voittaja saavuttaa yhden tai useamman onnistumistason vastustajansa yli, he voivat valita sopivia erikoisefektejä tavalliseen tapaan. Tuloksesta riippumatta väistö-temppu jättää puolustajan maahan – mikä vaatii hahmoa yleensä palauttamaan jalkaotteen seuraavalla vuorollaan – elleivät he voi käyttää Nouse-erikoisefektia.
+Jos vastustetun heiton voittaja saavuttaa yhden tai useamman onnistumistason vastustajaansa nähden, hän voi valita sopivia erikoisefektejä normaalin taistelun mukaisesti. Tuloksesta riippumatta väistöliike jättää puolustajan makuuasentoon – mikä yleensä vaatii hahmoa nousemaan ylös seuraavalla vuorollaan – ellei hän voi käyttää Nouse ylös -erikoisefektiä.
 
-### Takaisinpäin työntäminen (Knockback)
+### Takaisintyöntö (Knockback)
 
-Isku, joka aiheuttaa enemmän vahinkoa kuin vastaanottajan KOK, johtaa oletusarvoisesti siihen, että hahmo työntyy takaisin. Vahinko tässä tilanteessa on ennen torjunnan tai panssarin aiheuttamia vähennyksiä. Tällaisen iskun saadessaan vastaanottajan on läpäistävä Helppo Akrobatia- tai Normaalitasoinen Yleisurheilu-heitto välttääkseen kaatumisen maahan. He työntyvät myös metrin jokaista viittä vahinkopistettä kohden (tai niiden osaa) yli KOK-arvonsa. Tuki-taistelutoiminnon ennakoiva käyttö voi vähentää tai jopa negoida takaisinpäin työntymisen vaikutukset.
+Hyökkäys, joka aiheuttaa enemmän vahinkoa kuin kohteen KOK, johtaa oletusarvoisesti hahmon työntymiseen taaksepäin. Vahinko lasketaan tässä tilanteessa ennen torjunnan tai panssarin aiheuttamaa vähennystä. Tällaisen iskun vastaanotettuaan kohteen on läpäistävä Helppo Akrobatia- tai Standardi Yleisurheilu-heitto välttääkseen kaatumisen makuuasentoon. Hänet työnnetään myös metrin verran jokaista viittä KOK:n ylittävää vahinkopistettä (tai sen osaa) kohden. Aktiivinen Varaudu-taistelutoiminnon käyttäminen voi vähentää tai jopa mitätöidä takaisintyönnön vaikutukset.
 
-### Hyppyhyökkäykset
+### Hyppyhyökkäykset (Leaping Attacks)
 
-Hyppyhyökkäyksiä voidaan suorittaa useista tilanteista, useimmat laukaistaan osana väijytystä tai rynnäkön päätteeksi, mutta jotkut olennot voivat hypätä vastustajan päälle ilman vauhtia tai ylivoimaista korkeutta.
+Hyppyhyökkäyksiä voidaan tehdä monissa eri tilanteissa; useimmat laukaistaan väijytyksen osana tai ryntäyksen päätteeksi, mutta jotkut olennot voivat hypätä vastustajan päälle ilman vauhdinottoa tai korkeuseron tarvetta.
 
-Hyppyhyökkäys ratkaistaan vastakkaisella heitolla hyppääjän Yleisurheilu-taidosta puolustajan Voima- tai Väistö-taitoa vastaan. Nelijalkaiset kohteet tekevät hyökkäysheitosta yhden vaikeusasteen vaikeamman. Jos hyppääjä voittaa, puolustaja kaatuu automaattisesti maahan, hyökkääjä päällään. Epäonnistuminen tarkoittaa, että puolustaja on kestänyt tai väistänyt iskun. Jos vastakkaisen heiton voittaja saavuttaa yhden tai useamman onnistumistason vastustajaansa yli, he voivat valita sopivia erikoisefektejä tavalliseen tapaan.
+Hyppyhyökkäys ratkaistaan hyppääjän Yleisurheilu-taidon ja puolustajan Ruumiinvoima- tai Väistäminen-taidon välisellä vastustetulla heitolla. Nelijalkaisiin kohteisiin kohdistuva hyökkäysheitto on yhden pykälän vaikeampi. Jos hyppääjä voittaa, puolustaja kaatuu automaattisesti makuulle hyökkääjän ollessa hänen päällään. Epäonnistuminen tarkoittaa, että puolustaja on kestänyt tai väistänyt iskun. Jos vastustetun heiton voittaja saavuttaa yhden tai useamman onnistumistason vastustajaansa nähden, hän voi valita sopivia erikoisefektejä normaalin taistelun mukaisesti.
 
-Hypyssä ei aiheuteta vahinkoa; kuitenkin maassa oleva uhri ei voi palauttaa jalkaotettaan ennen kuin joko hyökkääjä poistuu tai he lopulta voittavat erikoisefektin, joka sallii heidän nousta. Lisäksi hyppyhyökkäykset toimivat vain vastustajiin, jotka ovat enintään kaksi kertaa hyökkääjän KOK-arvon suuruisia. Kohde voi tehdä itsestään vaikeamman kaataa ennakoivalla Tuki-taistelutoiminnon käytöllä, edellyttäen että he ovat tietoisia lähestyvästä hyppyhyökkäyksestä.
+Hyppy itsessään ei aiheuta vahinkoa; kuitenkin makuulle joutunut uhri ei voi nousta ylös ennen kuin hyökkääjä poistuu tai uhri voittaa erikoisefektin, joka sallii Nouse ylös -toiminnon. Lisäksi hyppyhyökkäykset toimivat vain vastustajiin, joiden KOK on enintään kaksi kertaa hyökkääjän KOK. Kohde voi vaikeuttaa kaatamistaan käyttämällä aktiivisesti Varaudu-taistelutoimintoa, mikäli hän on tietoinen tulevasta hyppyhyökkäyksestä.
 
-### Manööveri
+### Manööveri (Outmaneuvering)
 
-Hahmo, joka kohtaa useita vastustajia, voi käyttää liikkumista rajoittaakseen niiden määrää, jotka voivat hyökätä häntä vastaan milloin tahansa, jatkuvasti muuttaen asentoa ja pakottaen viholliset häiritsemään toisiaan. Manööveri vaatii, että hahmolla on tilaa liikkua eikä häntä ole pinottu ahtaaseen alueeseen.
+Useita vastustajia kohtaava hahmo voi käyttää liikkumista rajoittaakseen niiden määrää, jotka voivat hyökätä häntä vastaan milloin tahansa, vaihtamalla jatkuvasti paikkaa ja pakottaen viholliset häiritsemään toisiaan. Manööveri vaatii, että hahmolla on tilaa liikkua eikä häntä ole piiritetty ahtaaseen paikkaan.
 
-Manööveri vaatii, että hahmo sitouttaa vastustajansa ryhmän vastakkaiseen Väistö-taitojen heittoon. Jokaisen osallistujan, sekä manööveröivän hahmon että niiden vihollisten, jotka haluavat saartaa hänet, on käytettävä yksi toimintapiste. Sitten he heittävät kukin kerran, ja ne, jotka eivät onnistu voittamaan manööveröivän hahmon heittoa, eivät voi hyökätä häntä vastaan kyseisellä taistelukierroksella, sillä heidän liittolaisensa tai maaston muodot estävät heidät.
+Manööveri vaatii, että hahmo sitouttaa vastustajansa ryhmän Väistäminen-taitojen vastustettuun heittoon. Jokaisen osallistujan, niin manööveriä tekevän hahmon kuin häntä saartavien vihollisten, on käytettävä yksi Toimintapiste. Tämän jälkeen he heittävät kerran, ja ne, jotka eivät onnistu voittamaan manööveriä tekevän hahmon heittoa, eivät voi hyökätä häntä vastaan lopputaistelukierroksen aikana, koska liittolaiset tai maastoesteet blokkaavat heidät.
 
-Jos manööveröivä hahmo voittaa kaikki vastustajansa, hänellä on valinta turvallisesti sitoutua yhteen viholliseen kierroksen ajaksi tai Vetäytyä taistelusta kokonaan.
+Jos manööveriä tekevä hahmo voittaa kaikki vastustajansa, hänellä on mahdollisuus valita, jatkaako hän turvallisesti yhden vihollisen sitomista kierroksen loppuun asti vai poistuuko hän taistelusta kokonaan.
 
-### Passiivinen blokki
+### Passiivinen torjunta (Passive Blocking)
 
-Passiivinen blokki sallii hahmon, joka on aseistettu aseella, pitää sitä niin, että se peittää valitun sijainnin (tai sijainnit kilpeä käytettäessä), mutta kustannuksena siitä, ettei sillä voi aktiivisesti torjua (katso Suojaa kehonosa). Jokainen hyökkäys, joka osuu sijainteihin, saa automaattisesti aseen tai kilven edun, vähentäen vahinkoa normaalisti. Tekniikkaa käytetään yleisesti, kun soturi haluaa suojata heikkoa kohtaa tai haavoittunutta sijaintia. Mikään ei estä kaksoisasetta tai ase-kilpi-taistelijaa käyttämästä toista asettaan aktiiviseen torjuntaan.
+Passiivinen torjunta sallii hahmon, jolla on ase, pitää sitä siten, että se peittää valitun kohdan (tai kohtia kilpeä käytettäessä), mutta hintana on kyvyttömyys torjua aktiivisesti kyseisellä aseella (katso Suojaa kohde). Jokainen hyökkäys, joka osuu näihin kohtiin, saa automaattisesti aseen tai kilven edun, vähentäen vahinkoa normaalisti. Tekniikkaa käytetään yleisesti silloin, kun soturi haluaa suojata heikkoa kohtaa tai loukkaantunutta aluetta. Mikään ei estä kahta asetta tai asetta ja kilpeä käyttävää taistelijaa käyttämästä toista asettaan aktiiviseen torjuntaan.
 
-Koska Passiivinen blokki toimii samalla tavalla kuin suoja, Valitse kohde -erikoisefektia ei voida käyttää blokin ohittamiseen lähitaistelussa, vaikka vastustajat voivat silti käyttää efektiä iskeäkseen muihin suojaamattomiin alueisiin. Kilven taakse kyykistyminen sallii hahmon tuplata Passiivisen blokin aikana suojattujen sijaintien määrän.
+Koska passiivinen torjunta toimii samalla tavalla kuin suoja, Valitse kohde -erikoisefektiä ei voi käyttää torjunnan ohittamiseen lähitaistelussa, vaikka vastustajat voivat silti käyttää efektiä iskeäkseen muihin suojaamattomiin alueisiin. Kyykistyminen kilven taakse sallii hahmon tuplata passiivisen torjunnan aikana suojattujen kohtien määrän.
 
-### Yllätys
+### Yllätys (Surprise)
 
-Yllätys tapahtuu, kun odottamaton hyökkäys laukaistaan vastustajia vastaan, jotka eivät ole tietoisia hyökkääjän läsnäolosta tai aikomuksesta. Väijytys olisi esimerkki edellisestä, kun taas petollinen kääntyminen aavistamatonta liittolaista vastaan ystävällisessä keskustelussa havainnollistaa jälkimmäistä.
+Yllätys tapahtuu, kun odottamaton hyökkäys laukaistaan vastustajia vastaan, jotka eivät ole tietoisia hyökkääjän läsnäolosta tai aikeista. Väijytys olisi esimerkki edellisestä, kun taas petollinen hyökkääminen aavistamatonta liittolaista vastaan ystävällisen keskustelun aikana havainnollistaa jälkimmäistä.
 
-Yllätyksen vaikutukset kohteeseen ovat voimakkaat:
+Yllätyksen vaikutukset kohteeseen ovat voimakkaita:
 
-- Kohde kärsii –10 rangaistuksen Aloitteeseen.
-- Kunnes heidän Aloitteensa koittaa, heitä pidetään "flat-footed" (laukaisemattomina) eivätkä he voi puolustautua.
-- Ensimmäinen hyökkäys kohteeseen, jos onnistunut, saa bonus-erikoisefektin.
-- Kierroksen loppuun asti he eivät voi suorittaa mitään hyökkäävää toimintoa.
+- Kohde kärsii –10 sakon Aloitteeseen.
+- Siihen asti, kunnes kohteen aloitevuoro koittaa, hänen katsotaan olevan valmistautumaton eikä hän voi puolustautua.
+- Ensimmäinen onnistunut hyökkäys kohdetta vastaan saa bonuserikoisefektin.
+- Kierroksen loppuun asti hän ei voi suorittaa mitään hyökkäävää Toimintaa.
 
-### Pyyhkäisyhyökkäykset
+### Pyyhkäisyhyökkäykset (Sweep Attacks)
 
-Pyyhkäisyhyökkäykset tapahtuvat pelinjohtajan päätöksellä, kun poikkeuksellisen suurikokoiset aseet tai olennot hyökkäävät tiiviisti ryhmittyneiden vastustajien kimppuun – esimerkiksi valtavan lohikäärmeen viikatteena heilahtava häntä tai jättiläistrikeratopsin pysäyttämätön rynnäkkö – iskien useita vihollisia samanaikaisesti.
+Pelinjohtaja päättää pyyhkäisyhyökkäyksistä silloin, kun epätavallisen suuret aseet tai olennot hyökkäävät tiiviisti ryhmittyneen vastustajajoukon kimppuun – esimerkiksi valtavan lohikäärmeen viikatteena heilahtava häntä tai jättiläismäisen triceratopsin pysäyttämätön ryntäys – iskien useita vihollisia samanaikaisesti.
 
-Pyyhkäisyhyökkäys tehdään soveltamalla yhtä aseen tai olennon hyökkäysheittoa kaikkiin reitillä oleviin kohteisiin. Jokaisen puolustajan on ratkaistava hyökkäyksen vaikutukset erikseen ja kaikki hyökkääjälle määrätyt erikoisefektit käsitellään samanaikaisina.
+Pyyhkäisyhyökkäys tehdään soveltamalla yhtä aseen tai olennon hyökkäysheittoa kaikkiin reitillä oleviin kohteisiin. Jokaisen puolustajan on ratkaistava hyökkäyksen vaikutukset erikseen, ja hyökkääjään kohdistuvat erikoisefektit käsitellään ikään kuin ne olisivat tapahtuneet samanaikaisesti.
 
 ---
-## Etätaistelu
+## Kaukotaistelu
 
-Etätaistelu sisältää kaikki asemuodot, joita on ammuttava, heitettävä tai lingottava kohteeseen osumiseksi. Etähyökkäykset ratkaistaan samalla tavalla kuin lähitaistelu. Etäaseita voidaan kuitenkin normaalisti torjua vain kilvillä; ne, joilla ei ole kilpeä, joutuvat turvautumaan luonnolliseen suojaan tai käyttämään Väistöä syöksyäkseen pois tulilinjalta. Siten, kevyesti panssaroituja vastustajia vastaan, etäaseet voivat olla pelottavia pelotteita.
+Kaukotaistelu sisältää kaikki aseet, joita on ammuttava, heitettävä tai lingottava kohteen osumiseksi. Kaukotaistelun hyökkäykset ratkaistaan samalla tavalla kuin lähitaistelussa. Kaukotaisteluaseita voi kuitenkin yleensä torjua vain kilvillä; ilman kilpeä olevien on turvauduttava luonnolliseen suojaan tai käytettävä Väistämistä sukeltaakseen pois tulilinjasta. Siten kevyesti panssaroituja vihollisia vastaan kaukotaisteluaseet voivat olla pelottavia pelotteita.
 
-Jokaisella etäaseella on useita erityispiirteitä, jotka määrittävät sen tehokkuuden. Taistelun kannalta keskeiset ovat seuraavat:
+Jokaisella kaukotaisteluaseella on useita erityisiä ominaisuuksia, jotka määrittävät sen tehokkuuden. Taistelun kannalta keskeiset ominaisuudet ovat seuraavat:
 
-- **Voima:** Etäaseen vastine Koolle. Se on abstrakti mitta aseen tai sen ammusten läpäisykyvystä sen määrittämiseksi, voittaako isku (kilpi)torjunnan.
-- **Vahinkomuokkain:** Tämä ominaisuus osoittaa, voidaanko hyökkääjän Vahinkomuokkainta käyttää etäaseen vahinkoheiton tehostamiseen. Yleensä vain itse jännittävät jouset ja heittoaseet sallivat käyttäjän soveltaa Vahinkomuokkaintaan.
-- **Etäisyys:** Kolme numeroa vinoviivoilla erotettuna, jotka edustavat aseen tai sen ammusten maksimi Lähi-, Teho- ja Pitkää kantamaa. Lähietäisyys on etäisyys, jonka yli Valitse kohde -erikoisefektia voidaan käyttää, edellyttäen että kohde on paikallaan tai tietämätön lähestyvästä hyökkäyksestä. Tehoetäisyydellä ei ole merkittäviä muokkaimia. Pitkällä kantamalla ase voi edelleen aiheuttaa vahinkoa, mutta vahingon määrä puolittuu ja Voima laskee yhdellä askeleella.
-- **Lataus:** Vuoroina mitattu aika, joka kuluu ammusta ampuvien aseiden lataamiseen tai uudelleenlataamiseen. Hahmo voi vähentää lataamiseen tai valmisteluun käytettyä aikaa käyttämällä Nopea lataus -erikoisefektia.
-- **Lävistyskoko:** Lävistävän aseen koko on eri asia kuin Voima, jolla se iskee. Etä-lävistysaseilla on erityinen sarake, joka osoittaa niiden todellisen koon harkittaessa Lävistys-erikoisefektin aiheuttamia haittoja.
+- **Voima:** Kaukotaisteluaseen vastine koolle. Se on abstrakti mitta aseen tai sen ammuksen läpäisyvoimasta, jolla määritetään, voittaako isku (kilvellä tehdyn) torjunnan.
+- **Vahinkomuuntaja:** Tämä ominaisuus osoittaa, voidaanko hyökkääjän vahinkomuuntajaa käyttää kaukotaisteluaseen vahinkojen parantamiseen. Yleisesti ottaen vain itse vedettävät jouset ja heittoaseet sallivat käyttäjän soveltaa vahinkomuuntajaa.
+- **Kantama:** Kolme vinoviivoilla erotettua lukua, jotka edustavat aseen tai sen ammuksen maksimikantamaa lähelle, tehokkaasti ja kauas. Lähikantama on etäisyys, jolla Valitse kohde -erikoisefektiä voi käyttää, edellyttäen että kohde on paikallaan tai tietämätön tulevasta hyökkäyksestä. Tehokkaalla kantamalla ei ole merkittäviä muuntajia. Pitkällä kantamalla ase voi edelleen vahingoittaa, mutta vahingon määrä puolitetaan ja Voimaa pienennetään yhdellä pykälällä.
+- **Lataus:** Vuoroina mitattu aika, joka kuluu ammusta ampuvien aseiden lataamiseen tai uudelleenlataamiseen. Hahmo voi lyhentää lataamiseen tai valmiiksi asettamiseen kuluvaa aikaa Nopean latauksen erikoisefektillä.
+- **Lävistyskokot:** Lävistävän aseen koko eroaa sen Voimasta, jolla se iskee. Kaukotaistelun lävistysaseilla on erityinen sarake, joka ilmoittaa niiden todellisen koon huomioitaessa Lävistys-erikoisefektin aiheuttamat haitat.
 
-### Tilannemuokkaimet
+### Tilannekohtaiset muuttujat
 
-Kuten lähitaistelussa, tilannemuokkaimia voidaan soveltaa käytettäessä etäaseita tietyissä olosuhteissa. Hahmon Taistelutaito saattaa olla rajoitettu käytettäessä asetta vaikeissa olosuhteissa, kuten keihään heittäminen ratsastaessa hevosella.
+Kuten lähitaistelussa, tilannekohtaisia muuttujia voidaan soveltaa käytettäessä kaukotaisteluaseita tietyissä olosuhteissa. Hahmon taistelutaito voi rajoittua käytettäessä asetta vaikeissa olosuhteissa, kuten heitettäessä keihästä ratsastettaessa hevosella.
 
-##### Etätaistelun tilannemuokkaimet
+##### Kaukotaistelun tilannekohtaiset muuttujat
 
 | Tilanne | Vaikeusaste |
-| :-- | :-: |
+| :-- | --- |
 | Kevyt tuuli\* | Vaikea |
 | Kohtalainen tuuli\* | Pelottava |
-| Voimakas tuuli\* | Herkulinen |
+| Kova tuuli\* | Herkuleeninen |
 | Myrsky tai pahempi\* | Toivoton |
 | Kohde juoksee | Vaikea |
 | Kohde sprinttaa | Pelottava |
-| Kohde hämärtynyt sumusta tai on osittaisessa pimeydessä | Vaikea |
-| Kohde hämärtynyt tiheästä savusta tai on pimeydessä | Pelottava |
-| Kohde täysin hämärtynyt | Herkulinen |
+| Kohde sumun peitossa tai hämärässä | Vaikea |
+| Kohde paksun savun peitossa tai pimeässä | Pelottava |
+| Kohde täysin peitossa | Herkuleeninen |
 | Kohde täysin näkymätön | Mahdoton\*\* |
 | Kohde makuulla | Pelottava |
-| Hyökkääjä makuulla\*\*\* | Herkulinen |
-| Hyökkääjä epävakaalla maalla | Vaikea |
+| Hyökkääjä makuulla\*\*\* | Herkuleeninen |
+| Hyökkääjä epävakaalla alustalla | Vaikea |
 
-_\* Olettaa, että heittoase tai ammukset ovat alttiita sivutuulille, ja syrjäyttää normaalit tuulirangaistukset taitoihin._
+_\* Olettaa, että heittoase tai ammus on altis sivutuulelle, ja korvaa normaalin tuulen aiheuttaman sakon tavanomaisiin taitoihin._
 
-_\*\* Ellei kohteen yleinen sijainti ole paljastettu tai tiedossa, käsittele Herkulisen vaikeana._
+_\*\* Ellei kohteen yleinen sijainti ole paljastunut tai tiedossa, tällöin käsittele Herkuleenisena._
 
-_\*\*\* Rangaistus voidaan negoida, jos käytetään varsijousta tai ampuma-asetta valmistellusta asemasta._
+_\*\*\* Sakko voidaan mitätöidä käytettäessä varsijousta tai ampuma-asetta valmistellusta asemasta._
 
-### Tähtääminen
+### Tähtääminen (Aiming)
 
-Käyttämällä ylimääräistä aikaa etäaseella tähtäämiseen, hahmo voi mahdollisesti kasvattaa osumismahdollisuuttaan. Tähtääminen vaatii koko taistelukierroksen aseen vakauttamiseen ja parhaan mahdollisuuden odottamiseen, esimerkiksi jousen laukaisun pidättämiseen tuulen tyyntymiseen asti tai kunnes kohde liikkuu kahden esteen väliin. Tähtäämällä hahmo voi vähentää kantama- tai tilannemuokkaimen vaikeutta yhdellä asteella. Ylimääräiset tähtäämiseen käytetyt kierrokset eivät anna lisäetua.
+Käyttämällä lisäaikaa kaukotaisteluaseen tähtäämiseen hahmo voi mahdollisesti parantaa osumismahdollisuuttaan. Tähtääminen vaatii koko taistelukierroksen aseen vakauttamiseen ja parhaan mahdollisen laukaisupaikan odottamiseen, esimerkiksi jousen laukaisun pidättämiseen hetkellisen tuulentyynnyksen ajaksi tai kunnes kohde liikkuu kahden esteen väliin. Tähtäämällä hahmo voi vähentää kantaman tai tilannekohtaisen muuttujan vaikeusastetta yhdellä pykälällä. Tähtäämiseen käytetyt lisäkierrokset eivät anna lisäetua.
 
-### Automaattituli
+### Automaattituli (Automatic Fire)
 
-Jotkin ampuma-aseet lataavat automaattisesti seuraavan laukauksen käyttämällä edellisen laukauksen hukkaenergiaa, rekyyliä tai energiaa. Ilman tarvetta uudelleenviritykseen, tämä antaa aseelle erilaisia ampumanopeuksia, jotka kaikki riippuvat siitä, kuinka paljon ammuksia käyttäjä haluaa vapauttaa.
+Jotkut ampuma-aseet lataavat seuraavan laukauksen automaattisesti hyödyntämällä edellisen laukauksen poistokaasuja, rekyyliä tai energiaa. Koska virittämistä ei tarvita, tämä antaa aseelle useita eri tulinopeuksia, jotka riippuvat siitä, kuinka paljon ammuksia käyttäjä haluaa laukaista.
 
-Näitä tulitustiloja kutsutaan puoliautomaattisiksi, purskeiksi ja täysautomaattisiksi. Vaikka tämä kyky voi tehdä joistakin aseista kykeneviä pelottavaan vahinkoon, tarkkuuden ylläpitäminen rekyylia aiheuttavilla aseilla on ongelmallista. Oleta, että seuraavat säännöt pätevät ensisijaisesti projektileja ampuviin automaattiaseisiin.
+Näitä tulitustapoja kutsutaan puoliautomaattiseksi, sarjatuleksi ja täysautomaattiseksi. Vaikka tämä kyky voi tehdä joistakin aseista pelottavan tuhoisia, rekyyliä tuottavien aseiden tarkkuuden ylläpitäminen on ongelmallista. Oleta, että seuraavat säännöt koskevat ensisijaisesti ammuksia ampuvia automaattiaseita.
 
 #### Puoliautomaattinen
 
-Tämä on itse asiassa useimpien aseiden oletusarvoinen tulinopeus, jossa jokainen liipaisimen veto ampuu yhden laukauksen ja lataa seuraavan.
+Tämä on useimpien aseiden oletustulinopeus, jossa jokainen liipaisimen painallus laukaisee yhden laukauksen ja lataa seuraavan patruunan.
 
-#### Purske
+#### Sarjatuli
 
-Pursketulta varten jokainen liipaisimen veto vapauttaa pienen määrän laukauksia, yleensä enintään kolmesta viiteen aseen mukaan. Sen alkuperäinen tarkoitus oli sallia rajoitettu tukituli, mutta rajoittaa liiallista ammusten käyttöä. Sen ei ole tarkoitus parantaa ampujan osumismahdollisuutta, koska nopea, peräkkäinen rekyyli nykii asetta jatkuvasti pois linjasta. Purskeessa ampuminen aiheuttaa Vaikean rangaistusasteen hyökkäysheitolle. Jos hyökkäys onnistuu, ampuja heittää nopalla, kuinka monta laukausta purskeesta osui kohteeseen. Joten kolmen laukauksen purske käyttäisi 1d3. Heitä erillinen sijainti ja vahinko jokaiselle laukaukselle, joka osuu.
+Sarjatulessa jokainen liipaisimen painallus laukaisee pienen määrän ammuksia, yleensä enintään kolmesta viiteen aseen mukaan. Sen alkuperäinen tarkoitus oli sallia rajoitettu suojatuli mutta rajoittaa liiallista ammusten kulutusta. Sitä ei ole tarkoitettu ampujan osumistarkkuuden parantamiseen, koska nopea, peräkkäinen rekyyli kiskaisee asetta jatkuvasti pois linjasta. Sarjatulella ampuminen asettaa hyökkäysheittoon Vaikea-tason sakon. Jos hyökkäys kuitenkin onnistuu, ampuja heittää noppaa nähdäkseen, kuinka monta sarjan laukauksista osui kohteeseen. Esimerkiksi kolmen laukauksen sarjassa käytettäisiin 1d3. Heitä erikseen osumakohta ja vahinko jokaiselle osuvalle laukaukselle.
 
 #### Täysautomaattinen
 
-Normaalisti käytetty täysimittaiseen tukitulitukseen useiden kohteiden painostamiseksi, täysautomaatti voi olla tuhoisa, jos se ammutaan tiiviisti ryhmittyneisiin vihollisjoukkoihin. Ampuja päättää, kuinka monta ammusta ammutaan (aseen syklisen nopeuden rajoissa), jotka sitten jaetaan tasaisesti kaikille tulitussektorin kohteille. Mahdolliset ylijäämäammukset katsotaan menetetyiksi tähtäystä siirrettäessä (joten 15 ammuksen ampuminen 6 kohteeseen olisi kaksi luotia jokaista kohden). Erillinen hyökkäysheitto tehdään jokaista kohdetta kohden, mutta Pelottavalla vaikeusasteella jatkuvan tulituksen lisääntyneiden rekyylivaikutusten vuoksi. Kohteet, joihin osutaan, kärsivät satunnaisen määrän laukauksia kuten Pursketulessa.
+Tavallisesti käytetty täysimittaiseen suojatuleen useiden kohteiden sitomiseksi, täysautomaattituli voi olla tuhoisaa, jos se ammutaan tiiviisti ryhmittyneisiin vihollisjoukkoihin. Ampuja päättää, kuinka monta ammusta hän laukaisee (aseen syklisen nopeuden rajoissa), jotka jaetaan tasan kaikille tulisektorilla oleville kohteille. Mahdolliset ylimääräiset laukaukset katsotaan menetetyiksi tähtäystä liikutettaessa (esim. 15 laukauksen ampuminen 6 kohteeseen olisi kaksi luotia per kohde). Jokaisesta kohteesta tehdään erillinen hyökkäysheitto, mutta jatkuvan tulen lisääntyneiden rekyylivaikutusten vuoksi vaikeusaste on Pelottava. Osuman saaneet kohteet kärsivät satunnaisen määrän laukauksia sarjatulen mukaisesti.
 
-Huomaa, että vain ensimmäinen purskeen tai täysautomaattisuihkun aikana osuva laukaus voi hyötyä erikoisefekteistä. Siten kriittisen hyökkäyksen heittäminen automaattitilassa ammuttaessa sallisi Vahingon maksimoinnin valinnan, mutta vain ensimmäisellä laukauksella, vaikka kaikki jäljellä olevat laukaukset osuisivat.
+Huomaa, että vain ensimmäinen laukaus, joka osuu sarja- tai täysautomaattitulessa, voi hyötyä erikoisefekteistä. Siten kriittisen hyökkäyksen heittäminen automaattitilassa sallisi Vahingon maksimointi -efektin valitsemisen, mutta vain ensimmäisen laukauksen kohdalla, vaikka kaikki jäljellä olevat laukaukset osuisivatkin.#### Miksi automaattiaseiden tulitus on niin raskaasti rangaistua?
 
-#### Miksi automaattituli on niin rankasti rangaistu?
+Saattaa vaikuttaa siltä, että automaattiaseiden tulitusta koskevat säännöt ovat kohtuuttoman ankarat verrattuna nykyaikaisten tuliaseiden ilmeiseen tarkkuuteen. Tähän on useita syitä, joista tärkeimmät ovat sääntöjen yksinkertaistaminen ja pelitasapaino. Pelaajia, jotka kritisoivat hahmonsa epätarkkuutta, on muistutettava siitä, että kaikki sääntöjen viilaukset vaikuttavat myös heitä vastaan, mikä sarjatulen tappavuus huomioiden on syytä pitää mielessä.
 
-Saattaa näyttää siltä, että automaattitulen säännöt ovat tarpeettoman ankaria verrattuna nykyaikaisten ampuma-aseiden ilmeiseen tarkkuuteen. Tähän on useita syitä, joista ensisijaiset ovat virtaviivaistaminen ja pelitasapaino. Pelaajia, jotka kritisoivat hahmonsa epätarkkuutta, tulisi muistuttaa, että kaikki sääntömuutokset sovelletaan myös heitä vastaan, mikä nopean tulituksen tappavuuden huomioon ottaen pitäisi olla raittiiksi tekevä ajatus.
+Tietysti joitakin näistä rekyylirangaistuksista voidaan lieventää esimerkiksi käyttämällä "Steady Weapon" -toimintoa automaattiaseiden tukemiseen. Totuus on kuitenkin se, että tulitaistelut eroavat huomattavasti ampumaradalla tapahtuvasta maaliammunnasta. Vaisto suojautua luotien lentäessä, tarve pysyä liikkeellä ja se, että jokainen laukaus paljastaa ampujan sijainnin suuliekistä tai äänestä, estää usein mahdollisuudet tähdätä tai tukea asetta. Ilmaisu "Spray and Pray" (suihkuta ja rukoile) keksittiin hyvästä syystä!
 
-Tietenkin joitakin näistä rekyylirangaistuksista voidaan lieventää, esimerkiksi käyttämällä Vakauta ase -toimintoa automaattiaseiden tukemiseen. Totuus on kuitenkin se, että tulitaistelut ovat hyvin erilaisia kuin tähtääminen ampumaradalla. Vaisto hakeutua suojaan, kun luoteja lentelee, tarve pysyä liikkeellä ja jokainen laukaus, joka paljastaa ampujan suuliekillään tai äänellään, estää usein mahdollisuuden tähdätä tai tukea. Ilmaisu "Spray and Pray" (suihkuta ja rukoile) keksittiin hyvästä syystä!
+### Kaksi ampuma-asetta
 
-#### Kaksoisampuma-aseet
+Hahmot voivat käyttää kahta ampuma-asetta, ampuen molemmilla aseilla samanaikaisesti vuoronsa aikana saadakseen nopeamman tulinopeuden. Tämä kuitenkin aiheuttaa rangaistuksen tarkkuuteen. Pistoolin ampuminen kummallakin kädellä aiheuttaa Vaikea-tason rangaistuksen osumiseen. Ne, jotka yrittävät ampua samanaikaisesti karbiinilla tai konepistoolilla kummastakin kädestä, kärsivät Mahtava-tason rangaistuksesta.
 
-Hahmot voivat käyttää kahta ampuma-asetta, ampuen molemmilla samanaikaisesti vuoronsa aikana saadakseen nopeamman tulinopeuden. Tämä aiheuttaa kuitenkin tarkkuusrangaistuksen. Pistoolin ampuminen kummassakin kädessä kärsii Vaikeasta osumarangaistuksesta. Ne, jotka yrittävät samanaikaisesti ampua karbiinilla tai konepistoolilla kummassakin kädessä, kärsivät Pelottavasta rangaistuksesta.
+### Väkijoukkoon ampuminen
 
-#### Väkijoukkoon ampuminen
+Lähitaistelun pyörteeseen ampuminen voi olla riskialtista, joten on aina olemassa vaara, että vahingossa osuu johonkuhun muuhun kuin alkuperäiseen kohteeseen. Kun ammutaan tiettyä kohdetta väkijoukon tai lähitaistelun reunalla, hyökkäyksen vaikeusaste on Vaikea. Jos yritetään ampua sen läpi, se on nostettava tasolle Mahtava. Tähtääminen on edelleen sallittua vaaran lieventämiseksi.
 
-Väkijoukkoon ampuminen voi olla riskialtista puuhaa, joten aina on olemassa riski osua vahingossa johonkuhun muuhun kuin alkuperäiseen tähdättyyn kohteeseen. Kun ammutaan tiettyä kohdetta väkijoukon tai lähitaistelun reunalla, hyökkäys kärsii Vaikeasta vaikeusasteesta. Jos yritetään ampua läpi, sen pitäisi nousta Pelottavaan. Tähtääminen on edelleen sallittua vaaran lieventämiseksi.
+Tarkka-ampuja, joka läpäisee hyökkäysheittonsa vaikeusrangaistuksesta huolimatta, on tähdännyt oikein ja osuu aiottuun kohteeseen. Jos tarkka-ampuja kuitenkin epäonnistuu heitossa, mutta olisi onnistunut ilman "väkijoukkoon ampumisen" rangaistusta, silloin osuman saakin viereinen uhri (joka voi väistää tai torjua normaalisti).
 
-Ampuja, joka läpäisee hyökkäysheittonsa vaikeusrangaistuksesta huolimatta, on tähdännyt oikein ja osuu aiottuun kohteeseensa. Jos kuitenkin ampuja epäonnistuu heitossa, mutta olisi onnistunut ilman "väkijoukkoon ampuminen" -rangaistusta, viereiseen uhriin osuu sen sijaan (joka on vapaa Väistämään tai Torjumaan normaalisti).
+Jos tulilinjalla on useampi kuin yksi kohde, pelinjohtajan tulee määrittää uhri satunnaisesti. Kaikki hyökkäyksen osana saadut erikoistehosteet koskevat vain alkuperäistä kohdetta, eivät vahingossa osuttua sivullista.
 
-Jos ampumalinjalla on useampi kuin yksi kohde, pelinjohtajan tulisi määrittää uhri satunnaisesti. Mitkään hyökkäyksen osana voitetut erikoisefektit pätevät vain alkuperäiseen kohteeseen, eivät vahingossa osuneeseen sivustakatsojaan.
+### Ampuma-aseiden kanssa kömpelöinti
 
-#### Ampuma-aseilla mokaaminen
+Koska ampuma-aseen osumista ei yleensä vastusteta vastakkaisella taidolla, on tehtävä erityisjärjestely silloin, kun ampuja mokaa hyökkäysheittonsa. Tässä tapauksessa aiottu kohde saa valita mokaamiseen liittyvän erikoistehosteen, josta ampuja sitten kärsii. Katso myös vain mokaamiseen liittyvä erikoistehoste - Aseen toimintahäiriö.
 
-Koska vastustajan taito ei normaalisti vastusta tulitusta, erityinen säännös tulisi tehdä, kun ampuja mokaa hyökkäysheiton. Tässä tapauksessa, kuka tahansa olikin aiottu kohde, hän saa valita mokan spesifin erikoisefektin, jonka ampuja sitten kärsii. Katso myös mokan spesifi erikoisefektin - Aseen toimintahäiriö.
+### Ampuma-aseiden torjuminen kilvillä
 
-#### Asetulituksen torjuminen kilvillä
+Kuten aiemmin todettiin, yliääninopeudella liikkuvaa ammusta tai energiasädettä on lähes mahdotonta torjua tietoisesti. Kilvet tarjoavat kuitenkin edelleen jonkinasteisen suojan, koska ne toimivat käytännössä kannettavana "suojana". Käyttääksesi kilpeä tulitaistelussa, käytä vain passiivisen torjunnan sääntöjä, jotka löytyvät [Lähitaistelu](0005_Combat.md?id=passive-blocking) -osiosta yllä.
 
-Kuten aiemmin mainittiin, on lähes mahdotonta tietoisesti torjua ylisoonista projektilia tai energiasädettä. Kilvet tarjoavat kuitenkin edelleen tietyn suojan, koska ne ovat käytännössä kannettavaa "suojaa". Kilven käyttämiseksi tulitaistelussa, käytä vain Passiivinen blokki -sääntöjä [Lähitaistelu](0005_Combat.md?id=passive-blocking) -osiosta yllä.
+Nykyaikaisempien ampuma-aseiden tai tieteisfiktiivisten aseiden osalta pelinjohtaja saattaa haluta antaa kilvelle panssaripisteiden arvon sen sijaan, että määrittäisi sille koon, perustuen materiaaliin, josta se on valmistettu. Esimerkiksi puista kilpeä voitaisiin käsitellä 4 panssaripisteen arvoisena, Kevlar-taktiikkakilpeä 8 PP:n ja Ulysses 31 -rannekkeen voimakenttäkilpeä 15 PP:n arvoisena.
 
-Mitä tulee nykyaikaisempiin ampuma-aseisiin tai tieteiskirjallisuuden tyyppisiin, pelinjohtaja saattaa haluta antaa kilvelle Panssaripistearvon koon määrittämisen sijaan, sen materiaalin perusteella. Esimerkiksi puista kilpeä voitaisiin käsitellä 4 Panssaripisteenä, Kevlar-taktista kilpeä 8 AP:na ja voimakenttäkilpeä 15 AP:na.
+### Teleskooppitähtäimet
 
-#### Teleskooppitähtäimet
+Teleskooppitähtäin parantaa ampuma-aseen tarkkuutta suuremmilla etäisyyksillä, kun käyttäjä käyttää aikaa kunnolliseen tähtäämiseen (katso Tähtääminen). Yksinkertaisimmat teleskooppitähtäimet ovat vain optisia suurennuslaseja, mutta teknologian kehittyessä niihin alkaa kuulua integroituja etäisyysmittareita, ammusten lentoradan laskimia, ilmanliikkeen sensoreita, ilmakehän vääristymien kompensoijia, infrapuna- tai hämärävahvistimia ja monia muita laitteita, jotka parantavat aseen tehokasta osumaetäisyyttä.
 
-Teleskooppitähtäin parantaa ampuma-aseen tarkkuutta suuremmilla etäisyyksillä, kun käyttäjä käyttää aikaa kunnolliseen tähtäämiseen (katso Tähtääminen). Yksinkertaisimmat teleskooppitähtäimet ovat vain optisia suurennuslaseja, mutta teknologian kehittyessä ne alkavat sisältää integraalisia etäisyysmittareita, projektilien lentoradan laskimia, ilman liikesensoreita, ilmakehän linssikompensoijia, IR- tai hämärävahvistimia ja lukuisia muita vempaimia, jotka parantavat tehokasta "osuma"etäisyyttä.
-
-Teleskooppitähtäimet tekevät taitotarkistuksista helpompia yhdellä tai useammalla asteella (katso [Taitojen muokkaaminen](0003_Skills.md?id=modifying-skills)), riippuen tähtäimen hienostuneisuudesta. Mikään tähtäin ei voi tehdä taitotarkistuksesta Automaattista onnistumista, joten paras aste, joka voidaan saavuttaa, on Hyvin Helppo.
+Teleskooppitähtäimet tekevät taitotarkistuksista helpompia yhdellä tai useammalla tasolla (katso [Taitojen muokkaaminen](0003_Skills.md?id=modifying-skills)), riippuen tähtäimen hienostuneisuudesta. Mikään tähtäin ei voi tehdä taitotarkistuksesta automaattista onnistumista, joten paras taso, joka voidaan saavuttaa, on Hyvin helppo.
 
 ---
 ## Aseet ja panssarit
 
-Tässä esitellään valikoima panssareita ja aseita useista ympäristöistä ja miljöistä.
+Tässä on valikoima panssareita ja aseita eri ympäristöistä ja miljöistä.
 
 ### Esimerkki panssaritaulukosta
 
@@ -790,56 +778,56 @@ Tässä esitellään valikoima panssareita ja aseita useista ympäristöistä ja
 | Turkikset/Nahat | Pyöräilynahat | | 1 |
 | Aketon, Gambeson | Urheiluvälineet | | 2 |
 | Linothorax | Ballistinen kangas | | 3 |
-| Brigantiini | Luotiliivit | Nestemäinen panssari | 4 |
-| Hoplite-levy | Mellakkavarusteet | | 5 |
-| Rengaspanssari | Tyyppi I luotiliivit | Adaptiivinen verkko | 6 |
-| Levitetty rengaspanssari | Tyyppi II luotiliivit | | 7 |
+| Brigantiini | Flak-takki | Nestemäinen vartalopanssari | 4 |
+| Hoplite-levyhaarniska | Mellakkavarusteet | | 5 |
+| Rengaspanssari | Tyyppi I luotiliivit | Mukautuva verkko | 6 |
+| Levyrengaspanssari | Tyyppi II luotiliivit | | 7 |
 | | Tyyppi III luotiliivit | Kevyt rynnäkköpanssari | 8 |
 | | Tyyppi IV luotiliivit | | 10 |
-| | | Täysrynnäkköpanssari | 12 |
+| | | Täysi rynnäkköpanssari | 12 |
 
 ### Esimerkki kilpitaulukosta
 
-| Kilpityyppi | Vahinko | Koko | AP/OP | Passive blocking -sijaintien määrä |
+| Kilpityyppi | Vahinko | Koko | PP/KP | Sijaintien määrä passiiviselle torjunnalle |
 | :-- | :-: | :-: | :-: | :-: |
-| Buckler (pieni kilpi) | 1d3 | M | 6/9 | 2 |
-| Heater | 1d4 | L | 6/12 | 3 |
-| Kite | 1d4 | H | 4/15 | 4 |
-| Scutum | 1d4 | H | 4/18 | 5 |
+| Buckler-kilpi | 1d3 | M | 6/9 | 2 |
+| Heater-kilpi | 1d4 | L | 6/12 | 3 |
+| Kite-kilpi | 1d4 | H | 4/15 | 4 |
+| Scutum-kilpi | 1d4 | H | 4/18 | 5 |
 | Viikinki/Mellakkakilpi | 1d4 | L | 4/12 | 4 |
 
 ### Esimerkki lähitaisteluaseista
 
-| Ase | Vahinko | Koko | AP/OP | Huomautukset |
+| Ase | Vahinko | Koko | PP/KP | Huomautukset |
 | :-- | :-: | :-: | :-: | :-- |
-| Akseli | 1d6+1 | M | 4/8 | Voi Sunder-panssarin |
+| Kirves | 1d6+1 | M | 4/8 | Voi murtaa panssarin |
 | Leveämiekka | 1d8 | M | 6/10 | — |
-| Ketju | 1d4 | M | 8/6 | Voi sitoa |
+| Ketju | 1d4 | M | 8/6 | Voi takertua |
 | Nuija | 1d6 | M | 4/4 | — |
 | Tikari | 1d4+1 | S | 6/8 | Voidaan heittää |
-| Nyrkki/Potku | 1d3 | S | — | Ihmisen aseeton vahinko |
-| Pitkämiekka | 1d8 | M | 6/12 | Kaksikätinen |
+| Nyrkki/Potku | 1d3 | S | — | Ihmisen aseeton taisteluvahinko |
+| Pitkämiekka | 1d8 | M | 6/12 | Kahden käden |
 | Sotanuija | 1d8 | M | 6/6 | — |
-| Verkko | 1d4 | S | 2/20 | Sido, Heitettävä |
-| Lyhytmiekka | 1d6 | M | 6/8 | — |
-| 1H Keihäs | 1d8+1 | M | 4/5 | |
-| 2H Keihäs | 1d10+1 | L | 4/10 | Voi asettaa rynnäkköä vastaan |
-| Sotavasara | 1d8+1 | M | 3/8 | Kaksikätinen |
-| Ruoska | 1d3 | M | 2/8 | Sitova |
+| Verkko | 1d4 | S | 2/20 | Takertuva, heitettävä |
+| Lyhyemiekka | 1d6 | M | 6/8 | — |
+| 1-kätinen keihäs | 1d8+1 | M | 4/5 | |
+| 2-kätinen keihäs | 1d10+1 | L | 4/10 | Voidaan asettaa vastaanottamaan rynnäkkö |
+| Sotavasara | 1d8+1 | M | 3/8 | Kahden käden |
+| Ruoska | 1d3 | M | 2/8 | Takertuva |
 
-### Esimerkki etäaseista
+### Esimerkki kaukotaisteluaseista
 
-| Ase | Vahinko | Vahinkomuokkain | Voima | Kantama (metriä) | Lataus | Lävistyskoko | AP/OP |
+| Ase | Vahinko | Vahinkomuuntaja | Voima | Kantama (metriä) | Lataus | Lävistyskoko | PP/KP |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bolat | 1d4 | N | — | 10/25/50 | — | — | 2/2 |
-| Jousi | 1d8 | Y | L | 15/100/200 | 1 | S | 4/4 |
-| Tikari | 1d4 | Y | S | 5/10/20 | — | S | 4/8 |
-| Heittokeihäs | 1d8+1 | Y | H | 10/20/50 | — | M | 3/8 |
-| Linko | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
-| Kivi/Kallio | 1d3 | Y | S | 5/10/20 | — | — | — |
-| Pistooli | 1d6 | N | L | 50/100/200 | 2 | — | — |
-| Kivääri | 2d6 | N | H | 100/300/2000 | 2 | — | — |
-| Haulikko | 3d6 | N | M | 20/50/200 | 3 | — | — |
-| Laserkivääri | 1d10+2 | N | — | 40/120/480 | 3 | — | — |
-| Plasmakivääri | 2d6+4 | N | E | 30/100/300 | 3 | — | — |
-| Gauss-kivääri | 2d8+2 | N | E | 150/500/5000 | 3 | — | — |
+| Bolat | 1d4 | Ei | — | 10/25/50 | — | — | 2/2 |
+| Jousi | 1d8 | Kyllä | L | 15/100/200 | 1 | S | 4/4 |
+| Tikari | 1d4 | Kyllä | S | 5/10/20 | — | S | 4/8 |
+| Heittokeihäs | 1d8+1 | Kyllä | H | 10/20/50 | — | M | 3/8 |
+| Linko | 1d8 | Ei | L | 10/150/300 | 2 | — | 1/2 |
+| Kivi/Kallio | 1d3 | Kyllä | S | 5/10/20 | — | — | — |
+| Pistooli | 1d6 | Ei | L | 50/100/200 | 2 | — | — |
+| Kivääri | 2d6 | Ei | H | 100/300/2000 | 2 | — | — |
+| Haulikko | 3d6 | Ei | M | 20/50/200 | 3 | — | — |
+| Laserkivääri | 1d10+2 | Ei | — | 40/120/480 | 3 | — | — |
+| Plasmakivääri | 2d6+4 | Ei | E | 30/100/300 | 3 | — | — |
+| Gauss-kivääri | 2d8+2 | Ei | E | 150/500/5000 | 3 | — | — |

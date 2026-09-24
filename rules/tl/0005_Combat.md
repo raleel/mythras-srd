@@ -1,454 +1,448 @@
-# Labanan
+# Combat
 
-Ang labanan ay isang mahalagang bahagi ng mga larong roleplaying. Ang marahas na komprontasyon ay palaging paraan ng paglutas ng mga problema, mula sa labanang dulot ng paghihiganti sa pagitan ng mga magkaribal, hanggang sa pagbangga ng mga hukbo sa panahon ng digmaan. Gayunpaman, ang labanan ay hindi kailangang maging isang brutal na labanan hanggang kamatayan. Ang ilang engkwentro sa labanan ay maaaring maging matinding duel na nagtatapos nang walang pinsala, o marahil ay magaan lamang na bar-room brawl. Gumagamit ang _Mythras Imperative_ ng ilang termino upang ipaliwanag ang mga pangunahing elemento ng labanan. Ang mga ito ay ipinapaliwanag sa mga sumusunod na seksyon, ngunit sa pangkalahatan, ang mga ito ay:
-- **Estilo ng Labanan (Combat Style):** Ang kasanayan sa paggamit ng grupo ng mga armas na natutunan bilang bahagi ng isang kultura o propesyon.
-- **Yugto ng Labanan (Combat Rounds):** Mga segment ng oras para sa pagtatala, bawat isa ay limang segundo.
-- **Aksyon sa Labanan (Combat Actions):** Posibleng gawain na maaaring gawin ng isang karakter sa loob ng isang Yugto sa pamamagitan ng paggamit ng Puntos ng Aksyon (Action Point).
-- **Laki ng Armas (Weapon Size):** Gaano kahirap iparada ang isang partikular na armas.
-- **Pakikipag-ugnayan (Engagement):** Kapag ang mga lumalaban ay maaaring tumama o matamaan ng direktang kalaban, depende sa sitwasyon.
-- **Espesyal na Epekto (Special Effects):** Mga galaw sa labanan na maaaring gawin kung ang isang lumalaban ay nakakuha ng kalamangan.
+Ang labanan ay isang mahalagang bahagi ng mga roleplaying game. Ang marahas na paghaharap ay laging paraan ng paglutas ng mga problema, mula sa mga labanang dulot ng paghihiganti sa pagitan ng magkakaaway, hanggang sa sagupaan ng mga hukbo sa panahon ng digmaan. Gayunpaman, ang labanan ay hindi kailangang maging isang malupit na tunggalian hanggang kamatayan. Ang ilang mga engkwentro sa labanan ay maaaring maging mga duwelo na nagtatapos nang walang pinsala, o marahil ay mga magaan na gulo sa bar. Ginagamit ng _Mythras Imperative_ ang ilang mga terminolohiya upang ipaliwanag ang mga pangunahing elemento ng labanan. Ang mga ito ay ipinaliwanag sa mga sumusunod na seksyon, ngunit sa kabuuan, ang mga ito ay:
+- **Combat Style (Estilo ng Labanan):** Ang kasanayan sa paggamit ng isang grupo ng mga sandata na natutunan bilang bahagi ng isang kultura o propesyon.
+- **Combat Rounds (Mga Round ng Labanan):** Mga yunit ng oras para sa pagtatala na tig-limang segundo bawat isa.
+- **Combat Actions (Mga Aksyon sa Labanan):** Mga posibleng kilos na magagawa ng isang karakter sa loob ng isang Round sa pamamagitan ng paggastos ng isang Action Point.
+- **Weapon Size (Laki ng Sandata):** Gaano kahirap parahin ang isang partikular na sandata.
+- **Engagement (Pakikipaglaban):** Kapag ang mga naglalaban ay maaaring makatama o matamaan ng direktang kalaban, depende sa mga pangyayari.
+- **Special Effects (Mga Espesyal na Epekto):** Mga maniobra sa labanan na maaaring gawin kung ang isang manlalaban ay makakuha ng bentahe.
 
 ---
-## Estilo ng Labanan
+## Combat Styles (Mga Estilo ng Labanan)
 
-Ang Estilo ng Labanan ay kumakatawan sa isang 'pakete' ng maraming armas na may kaugnayan sa kanilang kalikasan, na iniiwasan ang pangangailangan ng pag-aaral ng bawat indibidwal na armas nang hiwalay.
+Ang Combat Style ay kumakatawan sa isang 'pakete' ng maraming sandata na magkakaugnay ang kalikasan, na umiiwas sa pangangailangang matutunan ang bawat sandata nang hiwalay.
 
-Ang pinakamahalagang aspeto ng Kasanayan sa Labanan (Combat Skill) ay natututo ang karakter kung paano gamitin ang bawat armas sa kasanayan, parehong isa-isa at sa kombinasyon upang sila ay maging mapagpalit, kung kinakailangan. Hindi lamang nakatuon ang pagsasanay sa labanan sa paggamit ng isang tiyak na armas o mga armas sa pinakamagandang kondisyon, kundi sakop din nito kung ano ang gagawin kapag nasa malubhang kawalan. Ang ganitong cross-training ay isang pangunahing bahagi ng paghahanda ng isang mandirigma para sa hindi mahulaan na mga pangyayari sa larangan ng digmaan, kung saan ang pagkasira ng armas o pagiging disarmed ay palaging posibleng mangyari.
+Ang pinakamahalagang aspeto ng Combat Skill ay natututuhan ng karakter kung paano gamitin ang bawat sandata sa loob ng kasanayan, nang mag-isa at nang magkasama upang maaari silang pagpalitin, kung kinakailangan. Ang pagsasanay sa labanan ay hindi lamang nakatuon sa paggamit ng isang tiyak na sandata o mga sandata sa ilalim ng pinakamainam na kondisyon, kundi sakop din nito kung ano ang dapat gawin kapag nalagay sa matinding kawalan. Ang ganitong cross-training ay isang pangunahing bahagi ng paghahanda sa isang manlalaban para sa mga hindi inaasahang kaganapan sa larangan ng digmaan, kung saan ang pagkasira ng sandata o ang pagkadisarma ay laging isang potensyal na posibilidad.
 
-Kaya, ang isang Hyberborean na barbaro ay inaasahang marunong gumamit ng sibat, palakol, javelin, at kalasag, samantalang ang isang Sumerian na mandirigma ay maaaring sinanay sa shortsword, mace, kalasag, at pana. Ang pagpapasya kung ilang armas ang dapat isama sa isang estilo ay sa huli ay isang pagpipilian na tinutukoy ng Game Master at ng setting ng laro.
+Kaya, ang isang barbarong Hyberborean ay maaaring asahan na marunong gumamit ng sibat, palakol, javelin, at kalasag, samantalang ang isang mandirigmang Sumerian ay maaaring sanay sa maikling espada, mace, kalasag, at busog. Ang pagpapasya kung ilang sandata ang dapat isama sa isang estilo ay sa huli ay isang pagpili na tinutukoy ng Games Master at ng setting ng laro.
 
-Ang mga karakter na sumusubok gumamit ng armas na hindi sakop ng kanilang estilo ay dapat magdusa ng parusa sa kasanayan na isa o higit pang antas ng kahirapan.
+Ang mga karakter na sumusubok gumamit ng sandata na hindi sakop ng kanilang estilo ay dapat dumanas ng penalty sa kasanayan na isa o higit pang antas ng kahirapan.
 
-Ang mga estilo ng labanan ay may isa pang tungkulin maliban sa pag-aaral lamang ng isang grupo ng mga kasanayan sa armas. Dahil ang bawat estilo ay itinuturo ng isang partikular na kultura o karera, likas silang na-optimize para sa kapaligiran o taktika ng militar na karaniwang ginagamit ng grupo; halimbawa, natutong lumaban ang isang horse nomad mula sa likod ng kabayo, o ang isang infantryman ay nagsasanay na lumaban sa close order formation. Kaya, bilang karagdagang bonus, ang ilang Estilo ng Labanan ay maaaring bigyan ng isa o higit pang mga katangian na nagbibigay dito ng kalamangan sa ilalim ng ilang partikular na sitwasyon. Ang mga katangian ay nilayon lamang na gamitin sa mga armas at sitwasyon ng partikular na estilo. Malinaw, mayroong hindi mabilang na mga katangian, marami sa mga ito ay partikular sa isang partikular na panahon o campaign world.
+Ang mga combat style ay nagtataglay ng isa pang function bukod sa pag-aaral lamang ng isang grupo ng mga kasanayan sa sandata. Dahil ang bawat estilo ay itinuturo ng isang partikular na kultura o karera, ang mga ito ay likas na na-optimize para sa kapaligiran o mga taktika militar na karaniwang ginagamit ng grupong iyon; halimbawa, ang isang lagalag na mangangabayo ay natututong lumaban mula sa ibabaw ng kabayo, o ang isang infantryman ay nagsasanay na lumaban sa close order formation. Samakatuwid, bilang karagdagang bonus, ang ilang Combat Styles ay maaaring bigyan ng isa o higit pang mga katangian (traits) na nagbibigay sa kanila ng bentahe sa ilalim ng ilang mga pangyayari. Ang mga katangian ay nilayon lamang na gamitin sa mga sandata at sitwasyon ng partikular na estilong iyon. Malinaw na mayroong hindi mabilang na mga katangian, na marami sa mga ito ay tiyak sa isang partikular na panahon o mundo ng kampanya.
 
-##### Talaan ng mga Katangian ng Estilo ng Labanan
+##### Talahanayan ng mga Katangian ng Combat Style
 
-| Katangian | Paglalarawan |
+| Katangian (Trait) | Paglalarawan |
 | :-- | :-- |
-| Beast-back Lancer | Ang pagganap ng mounted charge gamit ang estilo ng labanan na ito ay hindi magkakaroon ng isang antas na parusa sa kahirapan para makatama. |
-| Blind Fighting | Nagpapahintulot sa gumagamit na balewalain ang anumang parusa na ipinataw dahil sa mahinang ilaw o pansamantalang pagkabulag |
-| Daredevil | Maaaring gamitin ang kasanayang Evade upang umiwas sa mga suntok sa hand-to-hand combat nang hindi napapaupo |
-| Defensive Minded | Nagpapataas ng Laki ng iyong armas kapag nagpaparry ng isang antas, sa kondisyon na walang opensibong aksyon ang ginawa sa round na iyon |
-| Formation Fighting | Nagpapahintulot sa isang hindi nababalaang grupo ng tatlo o higit pang mandirigma na bumuo ng close formation, inilalagay ang mas bukas o magulong kalaban sa kawalan at binabawasan ang Action Points ng bawat kalaban ng isa kung sila ay lumaban |
-| Knockout Blow | Kapag umaatake nang may sorpresa, ituring ang anumang Stun Location bilang tumatagal ng minuto sa halip na turno |
-| Mounted Combat | Nagpapahintulot sa karakter na balewalain ang skill cap na nakalagay sa combat rolls ng kasanayang Ride |
-| Ranged Marksman | Kapag gumagamit ng ranged weapon, ilipat ang random Hit Location roll sa katabing lokasyon ng katawan |
-| Skirmishing | Pinahihintulutan ng estilo ang paglunsad ng ranged attacks habang naglalakad o tumatakbo |
-| Throw Weapons | Anumang melee weapon sa estilo ay maaari ding ihagis nang walang parusa sa kasanayan, ngunit kapag ginamit sa ganitong paraan, ang damage roll ng armas ay hahatiin. |
-| Unarmed Prowess | Nagpapahintulot sa gumagamit na ituring ang kanyang Unarmed blocks at parries bilang 'Medium' sized, na nagbibigay-daan sa kanya na mas mahusay na ipagtanggol ang sarili mula sa armadong kalaban. |
+| Beast-back Lancer | Ang pagsasagawa ng mounted charge gamit ang combat style na ito ay hindi nagdudulot ng penalty na isang hakbang sa kahirapan para makatama. |
+| Blind Fighting | Hinahayaan ang gumagamit na balewalain ang anumang mga penalty na ipinataw dahil sa masamang liwanag o pansamantalang pagkabulag. |
+| Daredevil | Maaaring gamitin ang skill na Evade para umiwas sa mga dagok sa hand-to-hand combat nang hindi napapadapa. |
+| Defensive Minded | Pinapataas ang Laki (Size) ng iyong sandata kapag nagpaparada nang isang hakbang, sa kondisyong walang opensibong aksyon na gagawin sa round na iyon. |
+| Formation Fighting | Pinapayagan ang isang grupo ng tatlo o higit pang mandirigma na hindi napapalibutan na bumuo ng close formation, na naglalagay sa mas bukas o magulong kalaban sa isang dehado na posisyon at binabawasan ang Action Points ng bawat kaaway ng isa kung sila ay nakikipaglaban. |
+| Knockout Blow | Kapag umaatake nang may surpresa, ituring ang anumang Stun Location na tumatagal ng mga minuto sa halip na mga turn. |
+| Mounted Combat | Pinapayagan ang karakter na balewalain ang limitasyon sa kasanayan na ipinataw sa mga combat roll ng Ride skill. |
+| Ranged Marksman | Kapag gumagamit ng ranged weapon, ilipat ang roll ng random Hit Location sa katabing bahagi ng katawan. |
+| Skirmishing | Pinapayagan ng estilo ang paglulunsad ng mga ranged attack habang naglalakad o tumatakbo. |
+| Throw Weapons | Ang anumang melee weapon sa estilo ay maaari ring ihagis nang walang penalty sa kasanayan, ngunit kapag ginamit sa ganitong paraan, ang damage roll ng sandata ay hinahati sa dalawa. |
+| Unarmed Prowess | Pinapayagan ang gumagamit na ituring ang kanyang mga block at parry na walang sandata bilang 'Medium' ang laki, na nagbibigay-daan sa kanya na mas maprotektahan ang sarili laban sa mga armadong kalaban. |
 
 ---
 ## Pagpapatakbo ng Labanan
 
-Upang bigyang-diin ang visceral na kalikasan nito, ang labanan ay sinusubaybayan sa bawat suntok. Para mapadali ang pagtatala, ang mga laban ay hinahati sa mga Yugto ng Labanan (Combat Rounds) ng limang segundo bawat isa. Sa panahong ito, ang mga lumalaban ay maaaring magsagawa ng hand-to-hand na pag-atake o depensahan ang mga ito, magmaniobra papasok at palabas ng labanan, magpaputok o maghagis ng Armas Pangmalayuan (Ranged Weapon), at iba pa. Katulad ng totoong buhay, karamihan sa mga engkwentro sa labanan – kapag nagsimula – ay natatapos sa loob ng ilang segundo sa halip na minuto. Sa termino ng laro, nangangahulugan ito ng ilang Yugto ng Labanan, maliban kung ang mga kalahok ay umatras upang muling itakda ang Inisyatibo (Initiative), muling suriin ang kanilang taktikal na sitwasyon, o upang magpahinga sandali bago muling lumaban. Tanging ang mga labanan sa pagitan ng magkatapat na kalaban o sunod-sunod na kalaban ang karaniwang tumatagal nang mas matagal.
+Upang bigyang-diin ang visceral na kalikasan nito, ang labanan ay sinusubaybayan sa basehang bawat dagok. Upang mapadali ang pagtatala, ang mga labanan ay hinahati sa mga Combat Round na tig-limang segundo bawat isa. Sa panahong ito, ang mga naglalaban ay maaaring gumawa ng mga hand-to-hand attack o ipagtanggol ang kanilang sarili laban sa mga ito, magmaniobra papasok at palabas ng labanan, magpaputok o maghagis ng Ranged Weapon, at iba pa. Katulad ng totoong buhay, karamihan sa mga pakikipaglaban – kapag nagsimula na – ay natatapos sa loob ng ilang segundo sa halip na minuto. Sa mga termino ng laro, nangangahulugan ito ng ilang Combat Round, maliban kung ang mga kalahok ay umatras upang marahil ay i-reset ang Initiative, muling suriin ang kanilang taktikal na sitwasyon, o simpleng magpahinga nang sandali bago muling makipaglaban. Tanging ang mga labanan sa pagitan ng mga magkakatapat na kalaban o mga sunud-sunod na kalaban ang karaniwang tumatagal nang higit pa rito.
 
 ---
-## Mga Baril
+## Mga Baril (Firearms)
 
-Kung gumagamit ng mga baril sa isang larong _Mythras Imperative_, may ilang bagay na dapat isaalang-alang dahil sa pagiging nakamamatay ng isang putukan. Una, halos imposible na iwasan ang mga laser beam o bala na mas mabilis maglakbay kaysa sa reflex ng tao. Gamit ang mga patakaran ng labanan na iniharap, nangangahulugan ito na maliban kung susubukan mong lumayo sa lugar gamit ang Evade, anumang tama ay agad na maglalantad sa biktima sa isa o higit pang Espesyal na Epekto. Binabago din nito ang ekonomiya ng Puntos ng Aksyon. Kung hindi mo magagamit ang mga puntos upang depensahan ang sarili nang reactive, karamihan sa mga karakter ay gagamitin ang lahat ng kanilang aksyon upang magpaputok, umaasa sa kawalan ng kakayahan ng kanilang mga kalaban. Upang hawakan ang pagbabagong ito ng paradigma, maaaring kailanganin ng parehong Game Masters at Players na baguhin ang kanilang pananaw – at paraan ng paglapit – sa barilan. Ilang bagay na dapat tandaan ay:
+Kung gumagamit ng mga baril sa isang laro ng _Mythras Imperative_, may ilang mga bagay na dapat isaalang-alang dahil sa pagiging nakamamatay ng isang putukan. Una, halos imposible na maiwasan ang mga laser beam o bala na mas mabilis kaysa sa reflexes ng tao. Gamit ang mga panuntunan sa labanan na inilahad, nangangahulugan ito na maliban kung susubukan ng isa na umiwas sa lugar gamit ang Evade, ang anumang tama ay agad na maglalantad sa biktima sa isa o higit pang Special Effects. Binabago rin nito ang ekonomiya ng Action Point. Kung hindi mo magagamit ang mga puntos para depensahan ang iyong sarili nang reaktibo, karamihan sa mga karakter ay gagamitin ang lahat ng kanilang mga aksyon para magpaputok nang magpaputok, umaasa sa kawalan ng kakayahan ng kanilang mga kaaway. Upang mahawakan ang pagbabagong ito sa paradigma, ang mga Game Master at Manlalaro ay maaaring kailangang baguhin ang paraan ng kanilang pagtingin – at paglapit – sa gun combat. Ang ilang mga bagay na dapat tandaan ay:
 
-- Mapanganib ang barilan!
-- Sa pangkalahatan, mas inuuna ng mga tao ang hindi mabaril kaysa sa pamamaril sa iba.
-- Ang pinakakaraniwang paraan ng proteksyon ay ang paggamit ng takip.
-- Ang suppressing fire ang pinakamahusay na paraan upang maiwasan ang pagpapaputok pabalik ng mga kalaban.
-- Nakakagulat na hindi tumpak ang mga baril maliban kung bibigyan ng oras upang i-brace at/o i-aim.
-- Kapag nabaril ka, masamang mangyayari.
+- Ang labanan gamit ang baril ay mapanganib!
+- Sa kabuuan, inuuna ng mga tao ang hindi mabaril kaysa sa mabaril ang iba.
+- Ang pinakakaraniwang paraan ng proteksyon ay ang paghahanap ng cover.
+- Ang suppressing fire ang pinakamahusay na paraan upang pigilan ang mga kaaway sa pagpaputok pabalik.
+- Ang mga baril ay nakakagulat na hindi tumpak maliban kung maglalaan ng oras upang mag-brace at/o mag-aim.
+- Kapag nabaril ka, may masasamang bagay na mangyayari.
 
-Ang pagtatanggol sa sarili laban sa putukan ay malaki ang nagiging usapin ng body armor, paggamit ng takip, at pagsubok na pigilan ang kalaban na makapagpaputok pabalik. Dahil dito, ang karamihan sa mga barilan ay nagiging napaka-taktikal – maraming suppressing fire, flanking movement, at pagtataboy sa mga kalaban mula sa malalim na takip – kung saan ang mga karakter ay maaaring makaranas ng buong yugto ng labanan na nakapako at hindi makatugon hanggang sa tumigil sa pagpapaputok ang kalaban... na maaaring matagpuan ng ilang manlalaro na labis na nakababagot.
+Ang pagtatanggol sa sarili laban sa putok ng baril ay higit na nagiging usapin ng body armor, paggamit ng cover, at pagsubok na pigilan ang kalaban na makapaputok pabalik. Dahil dito, karamihan sa mga bakbakan gamit ang baril ay nagiging napakataktikal – maraming suppressing fire, flanking movement, at pagpapalabas sa mga kaaway mula sa malalim na cover – kung saan ang mga karakter ay maaaring magpalipas ng buong mga combat round na nakadapa at hindi makatugon hanggang sa tumigil ang kalaban sa pagpaputok... na maaaring ituring ng ilang manlalaro na napakatagal.
 
-Ganap na posible na ang isang buong barilan ay magreresulta nang walang pinsala; isang panig lamang ang sumusuko dahil sa pagkaubos ng bala o pagtakas sa labanan nang buo. Sa huli, iilang tao ang gustong ipagsapalaran na mabutas ng sunud-sunod na putok mula sa isang armas na naka-full automatic.
+Posible na ang isang buong bakbakan ay mauwi sa walang pinsala; sa panig lamang ng isa na sumusuko dahil sa pagkaubos ng bala o pagtakas nang tuluyan sa labanan. Pagkatapos ng lahat, kakaunti ang gustong mag-risgo na mapuno ng mga bala mula sa isang sandata na full automatic.
 
-Sa buong mga patakaran sa labanan na ito, ang ilang uri ng aksyon, Espesyal na Epekto at sitwasyon ay nalalapat lamang sa labanan gamit ang mga baril, at ang mga ito ay minarkahan nang naaayon.
+Sa kabuuan ng mga panuntunang ito sa labanan, ang ilang mga uri ng aksyon, Special Effects, at sitwasyon ay nalalapat lamang sa labanan gamit ang mga baril, at ang mga ito ay minarkahan nang naaayon.
 
 ---
-## Mga Yugto ng Labanan at Inisyatibo
+## Mga Combat Round at Initiative
 
-Gumagamit ang mga Yugto ng Labanan ng ilang mahalagang termino:
+Ang mga Combat Round ay gumagamit ng ilang mahahalagang termino:
 
-- **Inisyatibo (Initiative):** Ang pagkakasunud-sunod kung sino ang aaksyon kung kailan sa isang Turno (Turn) ng isang Yugto ng Labanan. Binibilang ng Game Master ang mga halaga ng Inisyatibo mula sa pinakamataas hanggang sa pinakamababa, upang ang bawat kalahok ay magkaroon ng pagkakataong kunin ang kanilang Turno kapag naabot ang kanilang numero.
-- **Turno (Turns):** Sa bawat 5 segundong Yugto ng Labanan, bawat kalahok ay may pagkakataong kumuha ng isa o higit pang Turno, depende sa bilang ng Puntos ng Aksyon na mayroon sila, at kung paano nila ito ginagamit. Sa kanilang Turno, ang mga kalahok ay nagsasagawa ng isang Aksyon sa Labanan, na binubuo ng isang deklarasyon, posibleng paggalaw, anumang kinakailangang paggulong ng dice (kasama ang mga Reaksyon), at ang resolusyon ng Aksyon. Kung may natitirang Puntos ng Aksyon ang sinumang kalahok, ang mga manlalaro ay maaaring kumuha ng isa pang Turno sa pagkakasunud-sunod ng Inisyatibo. Kapag wala nang natitirang Puntos ng Aksyon, o ang anumang natitira ay iniipon para sa mga Reaksyon, ang laro ay magpapatuloy sa susunod na Yugto ng Labanan.
+- **Initiative:** Ang pagkakasunod-sunod kung sino ang kikilos kailan sa panahon ng isang Turn ng isang Combat Round. Binibilang ng Games Master ang Initiative values mula sa pinakamataas hanggang sa pinakamababa, upang ang bawat kalahok ay magkaroon ng pagkakataong gawin ang kanilang Turn kapag naabot na ang kanilang numero.
+- **Turns:** Sa bawat 5 segundong Combat Round, ang bawat kalahok ay may pagkakataong gawin ang isa o higit pang Turn, depende sa bilang ng Action Points na mayroon sila, at kung paano nila ito ginagamit. Sa kanilang Turn, ang mga kalahok ay nagsasagawa ng isang Combat Action, na binubuo ng deklarasyon, posibleng paggalaw, anumang kinakailangang dice roll (kabilang ang mga Reaction), at ang paglutas ng Aksyon. Kung ang sinumang kalahok ay may natitira pang Action Points, ang mga manlalaro ay maaaring bawat isa ay gumawa ng isa pang Turn sa pagkakasunod-sunod ng Initiative. Kapag wala nang natitirang Action Points, o anumang natitira ay nakalaan para sa mga Reaction, ang laro ay magpapatuloy sa susunod na Combat Round.
 
-Ang bawat termino ay inilalarawan, nang mas detalyado, sa ibaba.
+Ang bawat termino ay inilalarawan nang mas detalyado sa ibaba.
 
-#### Inisyatibo
+#### Initiative
 
-Tinutukoy ng Inisyatibo ang pagkakasunud-sunod ng mga aksyon ng mga kalahok sa isang Yugto ng Labanan. Ito ay ginugulong sa simula ng isang labanan at tinutukoy kung kailan aaksyon ang bawat karakter. Maliban kung may mangyari na magpapabago sa sitwasyon, tulad ng ilang Aksyon sa Labanan o Espesyal na Epekto, mananatili ang Inisyatibo hanggang sa mapilit itong muling gulungan.
+Ang Initiative ang nagtatakda ng pagkakasunod-sunod ng mga aksyon ng mga kalahok sa isang Combat Round. Ito ay inililigpit (roll) sa simula ng labanan at nagtatakda kung kailan kikilos ang bawat karakter. Maliban kung may mangyari upang baguhin ang sitwasyon, tulad ng ilang Combat Actions o Special Effects, ang Initiative ay mananatili sa laro hanggang sa ito ay mapilitang i-roll muli.
 
-Ang Inisyatibo ay kinakalkula sa pamamagitan ng paggulong ng bawat kalahok ng 1d10 at pagdaragdag ng kanilang Modifier ng Inisyatibo. Kung sino ang nakakuha ng pinakamataas na resulta ang unang aaksyon, susundan ng pangalawang pinakamataas at iba pa. Kapag dalawa o higit pang kalahok ang tabla ang mga puntos, ang may mas mataas na DEX ang unang aaksyon. Kung magreresulta pa rin ito sa tabla, hayaan ang bawat isa na gumulong ng isang dice na may mas mataas na roll na mauuna.
+Ang Initiative ay kinakalkula sa pamamagitan ng bawat kalahok na nagro-roll ng 1d10 at idinaragdag ang kanilang Initiative Modifier. Kung sino ang makakuha ng pinakamataas na resulta ang unang kikilos, susundan ng pangalawang pinakamataas at iba pa. Kapag ang dalawa o higit pang kalahok ay nagtabla sa score, ang may mas mataas na KAD ang unang kikilos. Kung ito ay magreresulta pa rin sa tabla, mag-roll ang bawat isa ng dice kung saan ang mas mataas na roll ang mauuna bago ang isa.
 
 #### Mga Aksyon sa Labanan
 
-Kapag natukoy na ang Inisyatibo, ang mga kalahok ay may potensyal na magsagawa ng ilang Aksyon sa Labanan sa bawat Yugto ng Labanan. Lahat ng karakter ay nakakakuha ng 2 Puntos ng Aksyon sa bawat Yugto, ngunit ang oras kung kailan sila maaaring kumilos ay limitado sa kung ang Aksyon ay proactive o Reactive.
+Kapag naitakda na ang Initiative, ang mga kalahok ay may potensyal na magsagawa ng ilang Combat Action sa bawat Combat Round. Lahat ng karakter ay nakakakuha ng 2 Action Points bawat Round, ngunit kung kailan sila maaaring kumilos ay limitado kung ang Aksyon ay Proactive o Reactive.
 
-Ang mga Proactive na Aksyon ay maaari lamang subukan sa sariling Turno ng karakter; iyon ay, sa panahon ng kanyang Inisyatibo. Ang mga Proactive na Aksyon ay ang mga kung saan ang karakter ang nagpasimula, tulad ng pag-atake gamit ang armas.
+Ang Proactive Actions ay maaari lamang subukan sa sariling Turn ng karakter; sa madaling salita, sa panahon ng kanyang Initiative. Ang Proactive Actions ay yaong kung saan ang karakter ang nagpapasimula, gaya ng pag-atake gamit ang sandata.
 
-Ang mga Reactive na Aksyon ay ang mga ginawa ng isang karakter upang kontrahin o labanan ang isang gawa na ginawa laban sa kanila. Isang pagsubok lamang ng reaksyon ang pinahihintulutan para sa bawat banta, isang halimbawa ay ang pagsubok na iparada ang isang pag-atake.
+Ang Reactive Actions ay yaong ginagawa ng isang karakter upang kontrahin o labanan ang isang kilos na ginawa laban sa kanila. Isang reaction attempt lamang ang pinapayagan para sa bawat banta, isang halimbawa ay ang pagsubok na iparada (parry) ang isang pag-atake.
 
-Ang hindi nagamit na Puntos ng Aksyon ay hindi dinadala sa susunod na Yugto.
+Ang mga hindi nagamit na Action Points ay hindi nadadala mula sa isang Round patungo sa susunod.
 
 ---
-## Mga Aksyon sa Labanan
+## Mga Combat Action
 
-Ang mga Aksyon sa Labanan ay ang mga gawaing maaaring gawin sa panahon ng labanan. Ang paghugot ng armas, pagtawag ng spell, o pagtalon palayo sa isang atake ay lahat ng halimbawa ng Aksyon sa Labanan. Karamihan ay may kinalaman sa mga elemento ng labanan mismo, ngunit ang ilan ay may kaugnayan sa mga aktibidad sa labas ng saklaw ng mga spell at armas.
+Ang mga Combat Action ay ang mga kilos na maaaring gawin sa panahon ng labanan. Ang pagbunot ng sandata, pagbigkas ng spell, o pagtalon palayo sa isang pag-atake ay lahat ng halimbawa ng mga Combat Action. Karamihan ay may kinalaman sa mga elemento ng labanan mismo, ngunit ang ilan ay nauugnay sa mga aktibidad sa labas ng saklaw ng mga spell at sandata.
 
-Tulad ng nabanggit kanina, ang dalas ng pag-aksyon ng isang karakter sa bawat Yugto ay limitado ng kanilang magagamit na Puntos ng Aksyon. Ang mga ito ay ginagamit sa bawat Yugto ng Labanan upang magsagawa ng iba't ibang Aksyon sa Labanan. Kapag naubos na ang Puntos ng Aksyon ng isang lumalaban, hindi na siya maaaring umaksyon sa natitirang bahagi ng Yugtong iyon at kailangang maghintay hanggang sa muling mag-reset ang kanyang mga puntos sa simula ng susunod.
+Gaya ng nabanggit dati, kung gaano kadalas makakakilos ang isang karakter bawat Round ay limitado ng kanilang magagamit na Action Points. Ang mga ito ay ginagastos sa loob ng bawat Combat Round upang magsagawa ng iba't ibang Combat Action. Kapag naubos na ang Action Points ng isang manlalaban, hindi na sila maaaring kumilos sa natitirang bahagi ng Round na iyon at dapat maghintay hanggang sa mag-reset ang kanilang mga puntos sa simula ng susunod.
 
-Maliban kung tinukoy, ang anumang Aksyon sa Labanan (maliban sa "Libreng" Aksyon) ay nagkakahalaga ng isang Puntos ng Aksyon. Kaya, kailangang maingat na isaalang-alang ng mga lumalaban kung paano at kailan nila gagamitin ang kanilang Puntos ng Aksyon. Maaari silang umaksyon nang agresibo o depensiba hangga't gusto nila, dinamikong tumutugon sa nagbabagong sitwasyon ng labanan.
+Maliban kung tinukoy, ang anumang Combat Action (maliban sa mga "Libreng" Aksyon) ay nagkakahalaga ng isang Action Point. Kaya, kailangang maingat na isaalang-alang ng mga manlalaban kung paano at kailan nila gagamitin ang kanilang Action Points. Maaari silang kumilos nang agresibo o depensibo ayon sa gusto nila, na dinamikong tumutugon sa umuusbong na sitwasyon ng labanan.
 
-### Mga Proactive na Aksyon
+### Proactive Actions
 
-Ang mga sumusunod ay mga aktibidad na maaaring subukan ng isang karakter sa kanyang Turno sa pamamagitan ng paggastos ng isang Puntos ng Aksyon. Tandaan na ang ilang Aksyon tulad ng pagtawag ng spell o pag-reload ay maaaring tumagal ng ilang Turno upang matapos; bawat Turno ay nagkakahalaga ng sarili nitong Puntos ng Aksyon.
+Ang mga sumusunod ay mga aktibidad na maaaring subukan ng isang karakter sa kanyang Turn sa pamamagitan ng paggastos ng isang Action Point. Tandaan na ang ilang Aksyon tulad ng pagbigkas ng spell o pag-reload ay maaaring mangailangan ng ilang Turns upang makumpleto; bawat Turn ay nagkakahalaga ng sarili nitong Action Point.
 
-#### Atake
+#### Attack
 
-Maaaring subukan ng karakter na manuntok gamit ang armas panlaban o gumamit ng Armas Pangmalayuan.
+Maaaring subukan ng karakter na tumama gamit ang hand-to-hand weapon o gumamit ng Ranged Weapon.
 
 #### Brace
 
-Nagpapahinga ang karakter sa pamamagitan ng pagkuha ng matibay na tindig at pagsandal sa direksyon ng paparating na pag-atake. Para sa layunin ng paglaban sa Knockback o Leaping Attacks, ang SIZ ng karakter ay itinuturing na 50% na mas malaki. Laban sa Espesyal na Epektong Bash, doble ang SIZ.
+Ang karakter ay nag-be-brace sa pamamagitan ng pagkuha ng matatag na tayo at paghilig patungo sa direksyon ng isang darating na pag-atake. Para sa mga layunin ng paglaban sa Knockback o Leaping Attacks, ang SUK ng karakter ay itinuturing na 50% na mas malaki. Laban sa Bash Special Effect, ang SUK ay nadodoble.
 
 #### Cast Magic/Use Power
 
-Maaaring subukan ng karakter na mag-cast ng spell, gumamit ng ilang kapangyarihan, at iba pa. Ang mga kumplikadong mahika ay maaaring mangailangan ng ilang Aksyon upang makumpleto ang pag-cast. Kapag natapos na, ang mahika ay maaaring pakawalan anumang oras hanggang sa susunod na Turno ng caster – kung saan maaari itong i-hold para sa huling epekto, ngunit nangangailangan ito ng Hold Magic/Power Action (tingnan sa ibaba) upang mapanatili ito sa paghahanda para sa huling paglabas.
+Maaaring subukan ng karakter na magbigkas ng spell, mag-invoke ng ilang mga kapangyarihan, at iba pa. Ang mga kumplikadong mahika ay maaaring mangailangan ng ilang Aksyon upang makumpleto ang pagbigkas. Kapag tapos na, ang mahika ay maaaring ilabas sa anumang sandali hanggang sa susunod na Turn ng caster – kung saan maaari itong hawakan para sa susunod na epekto, ngunit nangangailangan ito ng Hold Magic/Power Action (tingnan sa ibaba) upang mapanatili ito bilang paghahanda para sa susunod na paglabas.
 
 #### Change Range
 
-Maaaring subukan ng karakter na lumapit o umatras mula sa isang kalaban, hangga't hindi sila nakikipag-ugnayan sa hand-to-hand combat sa kalaban o nakapako ng putok ng kaaway sa sitwasyon ng ranged combat.
+Maaaring subukan ng karakter na lumapit o lumayo sa isang kalaban, hangga't hindi sila nakikipaglaban nang hand-to-hand sa kalaban o hindi napipigilan ng putok ng kaaway sa isang sitwasyong ranged combat.
 
 #### Charge
 
-Ang Aksyong Charge ay nagpapahintulot sa isang karakter na lumipat sa engagement range sa bilis ng pagtakbo o pag-sprint, gamit ang momentum ng charge upang magsagawa ng mas malakas na melee attack. Ang mga patakarang ito ay mas detalyadong sakop sa seksyon ng [Charging](0005_Combat.md?id=charging) sa ibaba.
+Ang Charge Action ay nagpapahintulot sa isang karakter na gumalaw patungo sa engagement range sa bilis na tumatakbo o sumusugod, gamit ang momentum ng pagsugod upang makagawa ng mas malakas na melee attack. Ang mga panuntunang ito ay sakop nang mas detalyado sa seksyong [Charging](0005_Combat.md?id=charging) sa ibaba.
 
 #### Delay
 
-Ang karakter ay nagtitipid ng isa o higit pang Aksyon upang magsagawa ng Reactive na Aksyon sa huling pagkakataon, tulad ng Interrupt o Parry. Ang mga gastos sa Puntos ng Aksyon ng pagpapaliban ay sakop ng anumang mga gawaing sa huli ay isinagawa. Kung ang mga naantalang Aksyon ay hindi nagawa bago ang susunod na Turno ng karakter, kung gayon ang karakter ay itinuturing na Dithered (tingnan sa ibaba), at ang Puntos ng Aksyon ay mawawala.
+Itinatabi ng karakter ang isa o higit pang Aksyon upang magsagawa ng Reactive Actions sa susunod, tulad ng Interrupt o Parry. Ang halaga ng Action Point sa pag-delay ay sakop ng anumang kilos na sa huli ay isasagawa. Kung ang mga na-delay na Aksyon ay hindi ginawa bago ang susunod na Turn ng karakter, ang karakter ay itinuturing na Dithered (tingnan sa ibaba), at mawawala ang Action Point.
 
 #### Dither
 
-Ang default na opsyon maliban kung may ibang Aksyon na pinili, ang karakter ay nagsasayang lamang ng kanyang turno sa paggawa ng walang silbi.
+Ang default na opsyon maliban kung may ibang Aksyon na pinili, ang karakter ay nagsasayang lamang ng kanyang turn nang walang ginagawang kapaki-pakinabang.
 
 #### Hold Magic/Power
 
-Kapag kumpleto na ang pag-cast, maaaring hawakan ng karakter ang isang spell o Power sa pansamantalang pagpigil, naghihintay ng pinakamagandang sandali upang pakawalan ito. Ang mahika ay maaaring pigilin hangga't patuloy na ginagawa ng karakter ang Aksyong ito sa mga susunod na Turno, ngunit ito ay nagpapahintulot ng libreng paggamit ng reaksyon ng Counter Spell ng isang kaaway kung may kaugnayan sa spell. Ang aktwal na paggulong ng kasanayan upang i-cast ang hawak na spell ay hindi ginagawa hangga't hindi ito inihagis.
+Kapag kumpleto na ang pagbigkas, maaaring hawakan ng karakter ang isang spell o Power nang pansamantala, naghihintay para sa pinakamahusay na sandali upang ilabas ito. Ang mahika ay maaaring hawakan hangga't ang karakter ay patuloy na gumagawa ng Aksyong ito sa mga susunod na Turn, ngunit pinapayagan nito ang malayang paggamit ng Counter Spell reaction ng isang kaaway kung angkop ito sa spell. Ang aktwal na skill roll para bigkasin ang hinahawakang spell ay hindi ginagawa hanggang sa ito ay ilabas.
 
 #### Mount
 
-Maaaring sumakay o bumaba ang karakter sa isang riding beast o sasakyan. Ang mga partikular na malalaking mount ay maaaring mangailangan ng ilang Turno upang makumpleto.
+Maaaring sumakay o bumaba ang karakter sa isang hayop na sinasakyan o sasakyan. Ang mga partikular na malalaking sasakyan ay maaaring mangailangan ng ilang Turns upang makumpleto.
 
 #### Move
 
-Sa kondisyon na hindi nakikipag-ugnayan sa kalaban, maaaring gumalaw ang karakter ng anumang distansya na itinuturing ng Game Master na angkop sa sitwasyon.
+Sa kondisyong hindi nakikipaglaban sa isang kalaban, maaaring gumalaw ang karakter ng anumang distansya na itinuturing ng Games Master na angkop para sa sitwasyon.
 
 #### Outmaneuver
 
-Maaaring makipag-ugnayan ang karakter sa maraming kalaban sa isang group Opposed Roll ng mga kasanayang Evade. Ang mga nabigong matalo ang kanyang roll ay hindi maaaring umatake sa kanya sa Combat Round na iyon. Tingnan ang seksyon tungkol sa [Outmaneuvering](0005_Combat.md?id=outmaneuvering) sa ibaba.
+Maaaring labanan ng karakter ang maraming kalaban sa isang grupo sa Opposed Roll ng mga Evade skill. Ang mga hindi makatalo sa kanyang roll ay hindi makakaatake sa kanya sa Combat Round na iyon. Tingnan ang seksyon sa [Outmaneuvering](0005_Combat.md?id=outmaneuvering) sa ibaba.
 
 #### Ready Weapon
 
-Maaaring kumuha, humugot, maglagay sa kaluban, mag-withdraw, o mag-reload ng armas o iba pang bagay ang karakter. Ang pagkuha ng isang kalapit na nahulog na bagay ay nangangailangan ng 2 Aksyon: isa para gumalaw at yumuko upang kunin ang bagay at isa pa upang bumalik sa nakahandang tindig. Ang ilang missile weapon ay nangangailangan ng ilang Aksyon upang ma-reload.
+Maaaring kuhanin, bunutin, isalin, itabi, o i-reload ng karakter ang isang sandata o iba pang bagay. Ang pagkuha ng isang kalapit na nahulog na bagay ay nangangailangan ng 2 Aksyon: isa para gumalaw at abutin ang bagay at pangalawa para bumalik sa ready stance. Ang ilang mga missile weapon ay nangangailangan ng ilang Aksyon para i-reload.
 
-#### Reload (Mga Baril)
+#### Reload (Firearms)
 
-Tulad ng Ready Weapon. Ang mga oras ng pag-reload ay maaaring magkakaiba-iba ayon sa uri ng armas. Ang mga single shot black powder musket ay mas mabagal i-reload kaysa sa pagpapalit ng magasin ng bala o power source.
+Gaya ng Ready Weapon. Ang mga oras ng pag-reload ay maaaring mag-iba nang malaki depende sa uri ng sandata. Ang mga single shot black powder musket ay mas matagal i-reload kaysa sa pagpapalit ng magasin ng bala o power source.
 
 #### Regain Footing
 
-Kung hindi nakikipag-ugnayan sa kalaban, maaaring awtomatikong mabawi ng karakter ang kanyang tindig mula sa pagkakatid o pagkakatumba. Kung Engaged, kailangang manalo ang karakter sa isang Opposed Roll ng Brawn o Athletics laban sa kalaban bago tumayo. Ang labanang ito ay walang gastos na Puntos ng Aksyon upang lutasin.
+Kung hindi nakikipaglaban sa isang kalaban, maaaring awtomatikong mabawi ng karakter ang kanyang tayo mula sa pagkadapa o pagkapadapa. Kung Engaged, dapat manalo ang karakter sa isang Opposed Roll ng Brawn o Athletics laban sa kalaban bago tumayo. Ang labanang ito ay hindi nangangailangan ng anumang Action Points upang malutas.
 
-#### Sneak Peek (Mga Baril)
+#### Sneak Peek (Firearms)
 
-Ang Sneak Peek ay nagpapahintulot sa isang kasalukuyang nagtatago sa likod ng takip na sumilip sandali upang suriin ang taktikal na sitwasyon. Ang aksyon ay karaniwang ligtas, pinapayagan ang tagamasid ng isang solong Perception roll bago bumalik sa takip. Gayunpaman, kung ang Perception test ay isang fumble, sila ay padalus-dalos na lumampas o nanatili sa paningin nang matagal upang magpaputok ang isang kaaway.
+Ang Sneak Peek ay nagpapahintulot sa isang tao na kasalukuyang nagtatago sa likod ng cover na sumilip nang mabilis upang husgahan ang sitwasyong taktikal. Ang aksyon ay maituturing na ligtas, na nagpapahintulot sa tagamasid ng isang Perception roll bago bumalik sa cover. Gayunpaman, kung ang Perception test ay isang fumble, mangmang nilang ilalabas ang kanilang ulo o mananatiling nakikita nang sapat na katagal para makapagpaputok ang kaaway.
 
-#### Steady Weapon (Mga Baril)
+#### Steady Weapon (Firearms)
 
-Nagpapahintulot sa karakter na magtatag ng matibay na posisyon sa pagpapaputok at suportahan ang awtomatikong armas upang manatili itong matatag. Nangangailangan ito na ang karakter ay hindi bababa sa bahagyang nakalantad at hindi ganap na protektado ng takip. Ang pangunahing benepisyo ay binabawasan nito ang parusa ng recoil ng Burst o Full-Automatic fire ng isang antas. Ang epektong ito ay tulad ng Brace dahil ang mga benepisyo nito ay nagpapatuloy hanggang sa gumalaw ang karakter.
+Hinahayaan ang karakter na magtatag ng matatag na posisyon sa pagpaputok at suportahan ang isang automatic weapon upang manatili itong matatag. Nangangailangan ito na ang karakter ay hindi bababa sa bahagyang nakalantad at hindi ganap na protektado ng cover. Ang pangunahing benepisyo ay binabawasan nito ang recoil penalty ng Burst o Full-Automatic fire nang isang hakbang. Ang epektong ito ay tulad ng Brace dahil ang mga benepisyo nito ay nagpapatuloy hanggang sa gumalaw ang karakter.
 
 #### Struggle
 
-Kung ang karakter ay biktima ng ilang uri ng pag-atake o Espesyal na Epekto, maaari siyang sumubok na lumabas sa sitwasyon. Halimbawa, ang pagkalas mula sa pagkakakapit ng kaaway.
+Kung ang karakter ay biktima ng ilang uri ng pag-atake o Special Effects, maaari nilang subukan na ilabas ang kanilang sarili mula sa sitwasyon. Halimbawa, ang pagpapakawala mula sa hawak ng kalaban.
 
-#### Switch Fire Mode (Mga Baril)
+#### Switch Fire Mode (Firearms)
 
-Pinahihintulutan ng Switch Fire ang gumagamit ng isang automatic o dual-purpose na baril na baguhin ang selector sa kanilang armas upang samantalahin ang iba pang mga mode ng pagpapaputok. Kaya, ang isang assault rifle ay maaaring ilipat mula sa semi-automatic patungong burst, pumili ng iba't ibang uri ng bala, o isang supplementary system tulad ng integral grenade launcher na isasagawa. Habang ang mga modernong armas ay nangangailangan ng Puntos ng Aksyon sa Turno ng karakter upang magpalit ng mode, ang sapat na advanced na high-tech na baril ay maaaring pahintulutan ito bilang Libreng Aksyon, na pinapagana ng mga electronic implant o psychically na bumabasa sa isip ng gumagamit.
+Ang Switch Fire ay nagpapahintulot sa gumagamit ng isang automatic o dual-purpose na baril na baguhin ang selector sa kanilang sandata upang samantalahin ang iba pang fire mode. Kaya, ang isang assault rifle ay maaaring ilipat mula sa semi-automatic patungong burst, pumili ng iba't ibang uri ng bala, o magamit ang isang supplementary system tulad ng integral grenade launcher. Habang ang mga modernong sandata ay nangangailangan ng Action Point sa Turn ng karakter upang magpalit ng mode, ang mga sapat na advanced na high-tech na baril ay maaaring payagan ito bilang isang Free Action, na pinu-trigger ng mga electronic implant o sa pamamagitan ng psychic na pagbabasa sa isip ng gumagamit.
 
 #### Take Cover
 
-Ang Take Cover ay isang proactive na aksyon na nagpapahintulot sa isang shooter na yumuko sa likod ng anumang takip na available sa kanilang agarang kapaligiran, sa gayon ay nakakakuha ng ilang antas ng proteksyon laban sa papasok na putok. Hindi tulad ng Evade, hindi nito iniiwan ang gumagamit na nakahiga ngunit umaasa sa ilang uri ng takip na available, halimbawa, ang pagyuko pabalik sa isang sulok sa koridor o pagyuko sa likod ng isang mesa sa isang bar. Depende sa sitwasyon, ang available na takip ay maaaring sapat o hindi sapat upang ganap na protektahan ang karakter. Ang uri ng takip ay magtatakda rin ng protective qualities nito; halimbawa, ang isang makapal na pintuan ng bakal ay maaaring hindi matalab sa bala, samantalang ang isang manipis na dingding na gawa sa kahoy ay maaaring magbigay lamang ng 4 Puntos ng Baluti. Para sa pangkalahatang gabay tungkol sa protective qualities ng ilang materyales, tingnan ang talahanayan sa seksyon ng [Inanimate Objects](0004_Game_System.md?id=inanimate-objects).
+Ang Take Cover ay isang proactive action na nagpapahintulot sa isang tagapaputok na sumubsob sa likod ng anumang cover na available sa kanilang agarang paligid, sa gayon ay makakakuha ng antas ng proteksyon laban sa darating na putok. Hindi tulad ng Evade, hindi nito iniiwan ang gumagamit na nakadapa ngunit umaasa sa pagkakaroon ng ilang anyo ng cover, halimbawa ang pagsumubsob pabalik sa isang kanto sa pasilyo o pagyukod sa likod ng mesa sa isang bar. Depende sa mga pangyayari, ang available na cover ay maaaring sapat o hindi sapat upang ganap na protektahan ang karakter. Ang uri ng cover ay magtatakda rin ng mga katangiang protektado nito; ang isang makapal na pintong bakal halimbawa ay maaaring maging hindi matagos ng mga bala, samantalang ang isang manipis na dingding na kahoy ay maaaring magbigay lamang ng 4 na Armor Points. Para sa mga pangkalahatang alituntunin tungkol sa mga katangiang protektado ng ilang materyales, tingnan ang talahanayan sa seksyong [Inanimate Objects](0004_Game_System.md?id=inanimate-objects).
 
-### Mga Reactive na Aksyon
+### Reactive Actions
 
-Ang listahan na ito ay tumutukoy sa mga Reaksyon na maaaring gamitin anumang oras sa panahon ng Yugto ng Labanan bilang tugon sa isang nalalapit na banta. Tulad ng sa nakaraang listahan, ang isang reaksyon ay nagkakahalaga ng isang Puntos ng Aksyon upang gawin.
+Ang listahang ito ay tumutukoy sa mga Reaction na maaaring gamitin anumang oras sa panahon ng Combat Round bilang tugon sa isang nalalapit na banta. Tulad ng naunang listahan, ang isang reaction ay nagkakahalaga ng isang Action Point upang gawin.
 
 #### Counter Spell
 
-Maaaring subukan ng karakter na palayasin o kontrahin ang isang papasok na spell. Ipinapalagay nito na ang magic na pangontra ay may Casting Time na isang Turno, kung hindi ay kailangan itong ihanda nang maaga at pansamantalang pigilin gamit ang Aksyong Hold Magic. Ang matagumpay na pagharang ng magic sa ganitong paraan ay ipinapalagay na nagpapawalang-bisa sa buong spell, kahit na ang mga may maraming target o area of effect.
+Maaaring subukan ng karakter na itakwil o kontrahin ang isang darating na spell. Ipinapalagay nito na ang countering magic ay may Casting Time na isang Turn, kung hindi, dapat itong ihanda nang maaga at pansamantalang itago gamit ang Hold Magic Action. Ang matagumpay na pag-intercept ng mahika sa ganitong paraan ay ipinapalagay na magpapawalang-bisa sa buong spell, kahit na ang mga may maraming target o area of effect.
 
 #### Evade
 
-Maaaring gamitin ng karakter ang kanilang kasanayang Evade sa pagtatangkang lumayo sa mga banta tulad ng papasok na missiles o isang umaatakeng singil. Ito ay nag-iiwan sa karakter na nakahiga maliban kung ito ay pinagaan ng isang Kakayahan o espesyal na sitwasyon. Kaya, ang susunod na turno ng karakter ay karaniwang ginugugol sa paggawa ng Aksyong Regain Footing upang tumayo muli.
+Maaaring gamitin ng karakter ang kanilang Evade skill sa pagsubok na umiwas sa mga banta tulad ng mga darating na missile o isang charging attack. Iniiwan nito ang karakter na nakadapa maliban kung mababawasan ng isang Ability o espesyal na pangyayari. Kaya, ang susunod na turn ng karakter ay karaniwang ginugugol sa paggawa ng Regain Footing Action upang tumayo muli.
 
 #### Interrupt
 
-Para lamang sa mga karakter na nag-Delay. Ang Reactive na Aksyon na ito ay nagpapahinto sa Turno ng kalaban sa anumang punto upang kumuha ng naantalang Aksyon sa Turno. Sa pag-aakalang walang pagbabago sa taktikal na sitwasyon, ipinagpapatuloy ng kalaban ang Turno matapos makumpleto ang Turno ng karakter. Kung hindi pa rin kayang makamit ang orihinal na deklarasyon, ang Puntos ng Aksyon ng kalaban ay masasayang. Maaari ding gamitin ang isang interrupt upang magsagawa ng attack-of-opportunity laban sa sinumang dumaan malapit sa nagde-delay na karakter at nasa abot ng armas.
+Para lamang sa mga karakter na nag-de-delay. Ang Reactive Action na ito ay humihinto sa Turn ng isang kalaban anumang oras upang gawin ang isang delayed Turn Action. Sa pag-aakalang walang pagbabago sa sitwasyong taktikal, ipagpapatuloy ng kalaban ang Turn pagkatapos makumpleto ang sa karakter. Kung hindi na makakamit ang orihinal na deklarasyon, ang Action Point ng kalaban ay nasasayang. Ang isang interrupt ay maaari ring gamitin upang magsagawa ng attack-of-opportunity laban sa sinumang dadaan malapit sa karakter na nag-de-delay at nasa loob ng abot ng sandata.
 
 #### Parry
 
-Maaaring subukan ng karakter na depensahan ang isang papasok na pag-atake gamit ang kombinasyon ng pagpaparry, pagyuko, pag-iwas, at sidestepping footwork upang mabawasan ang pinsala.
+Maaaring subukan ng karakter na ipagtanggol ang sarili laban sa isang darating na pag-atake gamit ang kombinasyon ng pagpaparada, paghilig, pagyukod, at pag-ilag na footwork upang mabawasan ang dagok.
 
-### Mga Libreng Aksyon
+### Free Actions
 
-Ang mga Libreng Aksyon (nakalista sa ibaba) ay maaaring gawin anumang oras sa panahon ng Yugto ng Labanan at walang gastos na Puntos ng Aksyon upang gawin.
+Ang mga Free Actions (na nakalista sa ibaba) ay maaaring gawin anumang oras sa panahon ng Combat Round at walang gastos na Action Point upang gawin.
 
 #### Assess Situation
 
-Kung hindi nakikipag-ugnayan, maaaring gumawa ng Perception roll ang isang karakter nang walang gastos na Puntos ng Aksyon. Ang isang Tagumpay ay nagbubunyag ng anumang relevant na pagbabago sa taktikal na sitwasyon (tulad ng pagkakita ng isang kaaway na nagsisimula ng isang singil). Ang pag-assess habang tumatakbo ay nagreresulta sa isang Hard Perception roll, habang ang pag-sprint ay Formidable.
+Kung hindi nakikipaglaban, ang isang karakter ay maaaring gumawa ng Perception roll na walang gastos na Action Point. Ang isang Success ay nagbubunyag ng anumang nauugnay na pagbabago sa sitwasyong taktikal (tulad ng pagkakita sa isang kaaway na nagsisimulang sumugod). Ang pag-assess habang tumatakbo (Running) ay nagreresulta sa isang Hard Perception roll, at sa Sprinting naman ay Formidable.
 
 #### Drop Item
 
-Ang paghulog ng item ay isang Libreng Aksyon.
+Ang paghulog ng isang bagay ay isang Free Action.
 
 #### Signal
 
-Kung hindi nakikipag-ugnayan, ang pag-gesturing o pagsi-signal sa isa o higit pang kalahok (kung makikita nila ang senyas) ay isang Libreng Aksyon.
+Kung hindi nakikipaglaban, ang pag-gestur o pag-signal sa isa o higit pang kalahok (kung kaya nilang makita ang senyas) ay isang Free Action.
 
 #### Speak
 
-Maaaring magsalita ang isang karakter anumang oras sa panahon ng labanan, ngunit ang sinasabi ay dapat limitado sa maiikling parirala na maaaring bigkasin sa limang segundo o mas kaunti; halimbawa, 'Mag-ingat ka sa likod mo!' o 'Sumpain ka sa impyerno!'
+Ang isang karakter ay maaaring magsalita anumang oras sa panahon ng labanan, ngunit ang sinasabi ay dapat limitahan sa maiikling parirala na maaaring bigkasin sa loob ng limang segundo o mas maikli; halimbawa, 'Mag-ingat ka sa likod mo!' o 'Sumpain ka!'
 
 #### Use Luck Point
 
-Ang paggamit ng Luck Point – upang muling gulungan ang isang partikular na resulta halimbawa – ay isang Libreng Aksyon.
+Ang paggamit ng isang Luck Point – upang i-roll muli ang isang partikular na resulta halimbawa – ay isang Free Action.#### Lokasyon ng Sugat
 
-#### Ward Location
+Binabantayan ng karakter ang isang partikular na Lokasyon ng Sugat upang hindi ito tamaan sa pamamagitan ng pagtatalaga ng isa sa kanyang mga sandata para harangin ang lugar nang pasibo. Ang anumang dagok na tatama sa lokasyong iyon ay awtomatikong mababawasan ang pinsala gaya ng normal para sa isang sandatang pang-parry na may katumbas na SUK. Magpapatuloy ang proteksyon hanggang sa magamit ang nakatalagang sandata para umatake o aktibong mag-Parry. Ang pagtatakda o pagpapalit ng Lokasyon ng Sugat na pinoprotektahan ay dapat gawin bago pa man mag-roll ang kalaban para umatake sa karakter. Dahil sa kanilang disenyo, ang mga kalasag (shields) ay maaaring sumakop ng maraming bahagi ng katawan.
 
-Binabantayan ng karakter ang isang partikular na Lokasyon ng Tama mula sa pagkatama sa pamamagitan ng paglaan ng isa sa kanyang mga armas upang passive na harangan ang lugar. Anumang suntok na tumama sa lokasyong iyon ay awtomatikong nababawasan ang pinsala tulad ng normal para sa isang parrying weapon ng laki nito. Ang takip ay nagpapatuloy hanggang ang nakalaang armas ay ginamit upang umatake o aktibong Mag-Parry. Ang pagtatatag o pagbabago ng Saklaw ng Lokasyon ng Tama ay dapat gawin bago ang isang kalaban ay gumulong upang umatake sa karakter. Dahil sa kanilang disenyo, ang mga kalasag ay maaaring sumaklaw ng maraming lugar.
-
-Para sa karagdagang paliwanag tingnan ang [Passive Blocking](0005_Combat.md?id=passive-blocking) sa ibaba.
+Para sa karagdagang paliwanag, tingnan ang [Passive Blocking](0005_Combat.md?id=passive-blocking) sa ibaba.
 
 ---
 ## Paggalaw
 
-Ang mga sumusunod na patakaran ay namamahala sa pakikipag-ugnayan sa labanan:
+Ang mga sumusunod na tuntunin ang nagtatakda sa pakikipaglaban sa labanan:
 
-- Ang paggalaw ay isinasagawa sa pamamagitan ng Aksyon ng Paggalaw (Move) o Pagsingil (Charge).
-- Ang Aksyon ng Paggalaw ay nagpapahintulot sa karakter na gumalaw ng distansya na katumbas ng kanilang Base Movement Rate.
-- Ang paggalaw ay maaari lamang isagawa ng mga karakter na hindi nakikipag-ugnayan (maliban sa mga espesyal na kaso tulad ng Outmaneuvering).
-- Maliban sa ilang partikular na kaso (tulad ng pagsingil), lahat ng mahalagang paggalaw ay humihinto kapag ang isang karakter ay pumasok sa engagement range ng nilalayon na kalaban.
-- Maliban kung sumisingil sa pamamagitan ng direktang kontak, ang paggalaw sa engagement zone ng kalaban ay naglalagay sa bawat isa sa pakikipag-ugnayan sa isa't isa.
-- Kapag Engaged na, hindi maaaring lumayo ang mga karakter sa isang kalaban maliban kung unang Umalis (Withdraw) mula sa close combat.
-- Ang pagtatangkang dumaan sa isang kalaban na hindi nakikipag-ugnayan na gumagamit ng Aksyon sa Labanan na Delay, ay nagpapahintulot (bilang isang partikular na pagbubukod) sa kalaban na iyon na umatake sa mga gumagalaw na karakter habang sila ay dumadaan o hadlangan ang pag-usad ng isang karakter, na nagiging sanhi ng close combat sa susunod na Turno o Yugto.
+- Ang paggalaw ay isinasagawa sa pamamagitan ng Aksyong Paggalaw (Move) o Pag-atake (Charge).
+- Pinahihintulutan ng Aksyong Paggalaw ang karakter na gumalaw ng distansyang katumbas ng kanilang Base na Bilis ng Paggalaw.
+- Ang paggalaw ay magagawa lamang ng mga karakter na hindi kasalukuyang nakikipaglaban (maliban sa mga espesyal na kaso tulad ng Outmaneuvering).
+- Maliban sa ilang partikular na kaso (gaya ng pag-charge), ang lahat ng mahahalagang paggalaw ay humihinto kapag ang isang karakter ay pumasok sa saklaw ng pakikipaglaban (engagement range) ng inaasahang kalaban.
+- Maliban kung nag-KAA-charge sa pamamagitan ng kontak, ang pagpasok sa sona ng pakikipaglaban ng kalaban ay naglalagay sa bawat isa sa kanila sa estado ng pakikipaglaban sa isa't isa.
+- Kapag nasa estado na ng pakikipaglaban (Engaged), ang mga karakter ay hindi makakaalis palayo sa kalaban maliban kung una silang mag-Withdraw mula sa malapitang labanan.
+- Ang pagtatangkang lumampas sa isang kalaban na hindi nakikipaglaban at gumagamit ng Aksyong Pag-delay ng Labanan (Delay Combat Action) ay nagpapahintulot (bilang isang espesyal na eksepsyon) sa kalabang iyon na manakit sa mga karakter na gumagalaw habang sila ay dumadaan o humaharang sa pag-unlad ng karakter, na nagiging sanhi ng malapitang labanan sa susunod na Turn o Round.
 
-### Situational Movement Rates
+### Sitwasyonal na Bilis ng Paggalaw
 
-Ang mga rate ng paggalaw na ito ay situational at hindi palaging isang opsyon. Marami sa mga ito ay detalyado sa ibang lugar ngunit kasama dito para sa kaginhawaan. Karamihan sa mga situational rate na ito ay maaaring gamitin bilang karagdagan sa isang normal na Movement Rate sa ilalim ng mga itinakdang restriksyon. Ang ganitong impormasyon ay detalyado sa mga partikular na paglalarawan sa ibaba.
+Ang mga bilis ng paggalaw na ito ay sitwasyonal at hindi laging opsyon. Marami sa mga ito ay detalyadong nakasaad sa ibang bahagi ngunit isinama rito para sa kaginhawaan. Karamihan sa mga sitwasyonal na bilis na ito ay maaaring gamitin bilang karagdagan sa normal na Bilis ng Paggalaw sa ilalim ng mga itinakdang restriksyon. Ang nasabing impormasyon ay detalyado sa mga partikular na deskripsyon sa ibaba.
 
-#### Climb
+#### Pag-akyat (Climb)
 
-Ang isang karakter na gumalaw katabi o magsisimula ng Turno sa tabi ng isang puwedeng akyatin na ibabaw o bagay ay maaaring umakyat sa rate na katumbas ng Base Movement Rate. Ang karakter ay hindi maaaring gumalaw nang mas mabilis kaysa sa Walk at dapat may natitira pang paggalaw, kung saan ang distansya na inakyat ay nababawasan ng anumang paggalaw na nagamit na. Ang suot na baluti ay humahadlang sa mga umaakyat batay sa kabuuang Puntos ng Baluti na suot.
+Ang isang karakter na gumagalaw nang katabi o nagsisimula ng Turn sa tabi ng isang ibabaw o bagay na maaaring akyatin ay maaaring umakyat sa bilis na katumbas ng Base na Bilis ng Paggalaw. Ang karakter ay hindi dapat gumalaw nang mas mabilis kaysa sa Paglakad (Walk) at dapat ay may natitira pang paggalaw, kung saan ang distansyang naakyat ay mababawasan ng anumang paggalaw na nagamit na. Ang suot na baluti (armor) ay nakakahadlang sa mga umaakyat batay sa kabuuang Puntos ng Baluti (Armor Points) na suot.
 
-##### Talaan ng Parusa sa Paggalaw na May Baluti
+##### Talahanayan ng Parusa sa Paggalaw ng May Baluti
 
-| Kabuuang AP na Suot | Kategorya ng Karga | Paggalaw |
+| Kabuuang AP na Suot | Kategorya ng Load | Paggalaw |
 | :-: | :-: | :-: |
 | 0-7 | Wala | 0 |
-| 8-15 | Banayad | -1 |
+| 8-15 | Magaan | -1 |
 | 16-23 | Katamtaman | -2 |
 | 24-31 | Mabigat | -3 |
-| 32-39 | Malubha | -4 |
-| 40+ | Higit sa Karaniwan	| -5 |
+| 32-39 | Nakapangingilabot | -4 |
+| 40+ | Herculean | -5 |
 
 <details>
 
-<summary>* Mga Komunidad na Errata</summary>
+<summary>* Errata ng Komunidad</summary>
 
-#### Pag-akyat
+#### Pag-akyat (Climb)
 
+_Ang orihinal na teksto ay "Ang suot na baluti ay nakakahadlang sa mga umaakyat ng halagang katumbas ng Puntos ng Baluti ng pinakamabigat na gamit na suot."_
 
-_Ang orihinal na teksto ay "Ang suot na baluti ay humahadlang sa mga umaakyat ng halaga na katumbas ng Armor Points ng pinakamabigat na item na suot."_
+_Ang tuntunin ayon sa pagkakasulat ay mabilis na nagdudulot ng mga isyu. Ang pagsusuot ng isang piraso ng 6AP na baluti ay magbabawas sa isang tao tungo sa Paggalaw 0, na nangangahulugang ang isang tao na nakasuot lamang ng bakal na helmet ay masyadong mabigat para umakyat nang kahit ano. Ito ay tila hindi makatwirang mahigpit kaya ang na-edit na bersyon ay iminungkahi sa itaas. Ito ay ia-update kasunod ng mungkahi ni Loz sa [TDM forum](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
 
-_Ang patakaran na nakasulat ay mabilis na nagdudulot ng mga isyu. Ang pagsusuot ng isang piraso ng 6AP na baluti ay magpapababa sa isang tao sa Move 0, ibig sabihin ang isang tao na nakasuot ng steel helmet at wala nang iba ay masyadong mabigat upang umakyat. Ito ay tila hindi makatwirang mahigpit kaya ang iminungkahing binagong bersyon sa itaas. Ito ay ia-update kasunod ng mungkahi ni Loz sa [TDM forum](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
-
-_**nb:** Ihambing ang patakaran ng Classic Fantasy Imperative na nakatali sa Encumbrance:_
-- _"Ang suot na baluti ay humahadlang sa mga umaakyat, na ang bawat lokasyon na sakop ng light armor ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyon na sakop ng heavy armor ay binibilang bilang 2 karagdagang 'Bagay' na dala."_
-- _Ang patakaran ng Classic Fantasy Imperative Encumbrance: "Bawat karagdagang Bagay na lampas sa STR ng isang karakter ay nagpapababa ng Initiative Bonus ng karakter ng 1. Bawat 6 na Bagay na lampas sa STR ay nagpapababa ng Movement Rate ng karakter ng 5 talampakan (2m). Panghuli, kapag mas maraming Bagay ang dala kaysa sa STR ng karakter, ang mga kasanayan na gumagamit ng STR o DEX bilang bahagi ng kanilang Base ay 1 antas na mas mahirap. Kapag mas maraming Bagay ang dala kaysa sa dalawang beses ng STR ng karakter, ang mga kasanayang ito ay 2 antas na mas mahirap."_
+_**nb:** Ihambing sa tuntunin ng Classic Fantasy Imperative na nakatali sa Encumbrance:_
+- _"Ang suot na baluti ay nakakahadlang sa mga umaakyat, kung saan ang bawat lokasyong natatakpan ng magaan na baluti ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyong natatakpan ng mabigat na baluti ay binibilang bilang 2 karagdagang 'Bagay' na dala."_
+- _Ang tuntunin ng Classic Fantasy Imperative Encumbrance: "Bawat karagdagang Bagay na higit sa LAK ng karakter ay nagbabawas sa Bonus sa Inisyatiba ng karakter ng 1. Bawat 6 na Bagay na higit sa LAK ay nagbabawas sa Bilis ng Paggalaw ng karakter ng 5 talampakan (2m). Panghuli, kapag mas maraming Bagay ang dala kaysa sa LAK ng karakter, ang mga skill na gumagamit ng LAK o KAD bilang bahagi ng kanilang Base ay 1 grado na mas mahirap. Kapag mas maraming Bagay ang dala kaysa sa doble ng LAK ng karakter, ang mga skill na ito ay 2 grado na mas mahirap."_
 
 </details>
 
-#### Crawl
+#### Paggapang (Crawl)
 
-Ang isang karakter na magsisimula ng Turno na nakahiga ay maaaring gumapang sa maximum rate na dalawang metro bawat Turno sa halip ng isang normal na Move. Ang mga nilalang na natural na gumagapang bilang kanilang normal na mode ng paggalaw ay gumagamit ng kanilang buong Move rate na binago ng Gaits - Walk, Run, at Sprint - tingnan ang seksyon ng [Movement Rate](0002_Characters.md?id=movement-rate) sa itaas.
+Ang isang karakter na nagsisimula ng Turn nang nakadapa ay maaaring gumapang sa maximum na bilis na dalawang metro bawat Turn bilang kapalit ng normal na Paggalaw. Ang mga nilalang na natural na gumagapang bilang kanilang normal na paraan ng paggalaw ay gumagamit sa halip ng kanilang buong bilis ng Paggalaw na binago ng mga Gait - Lakad, Takbo, at Sprint - tingnan ang seksyong [Bilis ng Paggalaw](0002_Characters.md?id=movement-rate) sa itaas.
 
-Ang mga patakaran sa paggalaw ay ganap na sakop sa _Mythras_ rulebook.
+Ang mga tuntunin sa paggalaw ay lubos na tinatalakay sa _Mythras_ rulebook.
 
-#### Jump
+#### Pagtalon (Jump)
 
-Ang isang karakter na gumalaw katabi o magsisimula ng Turno sa tabi ng isang puwedeng talunin na balakid ay maaaring sumubok na tumalon dito. Ang karakter ay maaaring gumagalaw sa anumang bilis hanggang sa punto ng pagtalon.
+Ang isang karakter na gumagalaw nang katabi o nagsisimula ng Turn sa tabi ng isang hadlang na maaaring talunin ay maaaring sumubok na lumaktaw sa ibabaw nito. Ang karakter ay maaaring gumagalaw sa anumang bilis hanggang sa punto ng pagtalon.
 
-Ang isang matagumpay na Athletics roll ay nagpapahintulot sa isang tumalon ng hanggang dalawang beses ang kanyang taas nang pahalang o hanggang kalahati ng kanyang taas nang patayo (kung ang karakter ay may hindi bababa sa limang metro na run-up na magagamit). Kung tumalon mula sa nakatayong posisyon, ang mga distansyang ito ay hahatiin.
+Ang matagumpay na roll ng Athletics ay nagpapahintulot sa isa na tumalon nang hanggang doble ng sariling taas nang pahiga o hanggang kalahati ng sariling taas nang patayo (kung ang karakter ay may hindi bababa sa limang metrong takbuhan na magagamit). Kung tumatalon mula sa nakatayong posisyon, ang mga distansyang ito ay mahahati sa dalawa.
 
-Bawasan ang distansya ng pagtalon sa metro ng isang-ikalima ng kabuuang 'Bagay' na dala. Ang suot na baluti ay humahadlang sa mga tumatalon, na ang bawat lokasyon na sakop ng light armor ay binibilang bilang 1 'Bagay' sa nabanggit na pagkalkula, at ang heavy armor ay binibilang bilang 2 'Bagay.'
+Bawasan ang distansya ng pagtalon sa mga metro ng ikalima ng kabuuang 'Mga Bagay' na dala. Ang suot na baluti ay nakakahadlang sa mga tumatalon, kung saan ang bawat lokasyong natatakpan ng magaan na baluti ay binibilang bilang 1 'Bagay' sa kalkulasyong nabanggit sa itaas, at ang mabigat na baluti ay binibilang bilang 2 'Bagay.'
 
 <details>
 
-<summary>* Mga Komunidad na Errata</summary>
+<summary>* Errata ng Komunidad</summary>
 
-#### Talon
+#### Pagtalon (Jump)
 
-
-_Ang orihinal na teksto ay walang binanggit na Baluti o Karga. Ang mga parusa sa Pag-akyat ni Loz ay masyadong mahigpit upang gamitin para sa Talon, ngunit ang Classic Fantasy Imperative ay muling iniuugnay ang mga parusa sa baluti sa Karga:_
-- _"Bawasan ang distansya ng pagtalon sa talampakan ng kalahati ng kabuuang 'Bagay' na dala. Ang suot na baluti ay humahadlang sa mga tumatalon, na ang bawat lokasyon na sakop ng light armor ay binibilang bilang 1 'Bagay' sa nabanggit na pagkalkula, at ang heavy armor ay binibilang bilang 2 'Bagay.'"_
+_Ang orihinal na teksto ay walang binanggit tungkol sa Baluti o Encumbrance. Ang mga parusa sa Pag-akyat ni Loz ay masyadong mahigpit para gamitin sa Pagtalon gaya ng dati ngunit ang Classic Fantasy Imperative ay muling nagtatali ng mga parusa sa baluti sa Encumbrance:_
+- _"Bawasan ang distansya ng pagtalon sa mga talampakan ng kalahati ng kabuuang 'Mga Bagay' na dala. Ang suot na baluti ay nakakahadlang sa mga tumatalon, kung saan ang bawat lokasyong natatakpan ng magaan na baluti ay binibilang bilang 1 'Bagay' sa kalkulasyong nabanggit sa itaas, at ang mabigat na baluti ay binibilang bilang 2 'Bagay.'"_
 
 </details>
 
-#### Swim
+#### Paglangoy (Swim)
 
-Ang isang karakter na gumalaw katabi o magsisimula ng Turno sa tabi ng isang katawan ng tubig ay maaaring lumangoy sa rate na katumbas ng Base Movement Rate, binawasan ng anumang paggalaw na nagamit na. Tingnan ang paglalarawan ng Swim sa seksyon ng [Skills](0003_Skills.md?id=swim-strcon) para sa karagdagang impormasyon.
+Ang isang karakter na gumagalaw nang katabi o nagsisimula ng Turn sa tabi ng isang anyong tubig ay maaaring lumangoy sa bilis na katumbas ng Base na Bilis ng Paggalaw, minus ang anumang paggalaw na nagamit na. Tingnan ang deskripsyon ng Paglangoy sa seksyong [Mga Skill](0003_Skills.md?id=swim-strcon) para sa higit pang impormasyon.
 
-Sa ilalim ng normal na kondisyon, ang maximum na bilis ng paglangoy ng isang karakter sa bawat Yugto ay katumbas ng kanilang Movement Rate, -1 para sa bawat 'Bagay' na dala na mas marami kaysa sa STR ng karakter. Ang suot na baluti ay humahadlang sa mga lumalangoy, na ang bawat lokasyon na sakop ng light armor ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyon na sakop ng heavy armor ay binibilang bilang 2 karagdagang 'Bagay' na dala. Kung ang kabuuang ENC ay nagpapababa ng distansya ng paglangoy sa 0 o mas mababa, ang karakter ay awtomatikong magsisimulang malunod (tingnan ang [Asphyxiation](0004_Game_System.md?id=asphyxiation)).
+Sa ilalim ng normal na mga kondisyon, ang maximum na bilis ng paglangoy ng isang karakter bawat Round ay katumbas ng kanilang Bilis ng Paggalaw, -1 para sa bawat 'Bagay' na dala nang higit sa LAK ng karakter. Ang suot na baluti ay nakakahadlang sa mga lumalangoy, kung saan ang bawat lokasyong natatakpan ng magaan na baluti ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyong natatakpan ng mabigat na baluti ay binibilang bilang 2 karagdagang 'Bagay' na dala. Kung ang kabuuang ENC ay magpapababa sa distansya ng paglangoy sa 0 o mas mababa, ang karakter ay awtomatikong magsisimulang malunod (tingnan ang [Asphyxiation](0004_Game_System.md?id=asphyxiation)).
 
 <details>
 
-<summary>* Mga Komunidad na Errata</summary>
+<summary>* Errata ng Komunidad</summary>
 
-#### Paglangoy
+#### Paglangoy (Swim)
 
-_Ang na-publish na bersyon ng _Mythras Imperative_ ay walang tahasang patakaran para sa paggalaw sa Paglangoy sa iba't ibang lakad o bilis. Ang Classic Fantasy Imperative ay muling iniuugnay ang mga parusa sa baluti sa Karga:_
+_Ang nai-publish na bersyon ng _Mythras Imperative_ ay walang malinaw na tuntunin para sa paggalaw sa Paglangoy sa iba't ibang gait o bilis. Ang Classic Fantasy Imperative ay muling nagtatali ng mga parusa sa baluti sa Encumbrance:_
 
-- _Sa ilalim ng normal na kondisyon, ang maximum na bilis ng paglangoy ng isang karakter sa bawat Yugto ay katumbas ng kanilang Movement Rate, -1 para sa bawat 'Bagay' na dala na mas marami kaysa sa STR ng karakter. Ang suot na baluti ay humahadlang sa mga lumalangoy, na ang bawat lokasyon na sakop ng light armor ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyon na sakop ng heavy armor ay binibilang bilang 2 karagdagang 'Bagay' na dala. Kung ang kabuuang ENC ay nagpapababa ng distansya ng paglangoy sa 0 o mas mababa, ang karakter ay awtomatikong magsisimulang malunod (tingnan ang Asphyxiation)._
+- _Sa ilalim ng normal na mga kondisyon, ang maximum na bilis ng paglangoy ng isang karakter bawat Round ay katumbas ng kanilang Bilis ng Paggalaw, -1 para sa bawat 'Bagay' na dala nang higit sa LAK ng karakter. Ang suot na baluti ay nakakahadlang sa mga lumalangoy, kung saan ang bawat lokasyong natatakpan ng magaan na baluti ay binibilang bilang 1 karagdagang 'Bagay' na dala, at ang bawat lokasyong natatakpan ng mabigat na baluti ay binibilang bilang 2 karagdagang 'Bagay' na dala. Kung ang kabuuang ENC ay magpapababa sa distansya ng paglangoy sa 0 o mas mababa, ang karakter ay awtomatikong magsisimulang malunod (tingnan ang Asphyxiation)._
 
 </details>
 
 ---
 ## Paano Gumagana ang Labanan
 
-Ang pakikipaglaban sa _Mythras Imperative_ ay nilulutas kung saan ang bawat atake o parry ay kumakatawan sa isang solong saksak, indayog, pag-cast ng spell, o putok ng armas. Anumang opensibong Aksyon ay nagbibigay ng pagkakataong labanan ng isang reaksyon. Kaya, kahit na magtagumpay ang isang karakter na tamaan ang isang kalaban, pinahihintulutan ang kalaban na gumawa ng sarili nitong roll upang makita kung kaya niyang iparada ang suntok bago ito tumama. Ang parehong pilosopiya ay ginagamit kung ang mga pag-atake ay missile weapon laban sa mga target na sumisisid para sa takip o sumusubok na kumawala mula sa matinding kapit ng isang higanteng pugita.
+Ang pakikipaglaban sa _Mythras Imperative_ ay nireresolba sa bawat atake o parry na kumakatawan sa isang saksak, kumpas, pag-cast ng spell, o putok ng sandata. Anumang opensibong Aksyon ay nagpapahintulot ng pagkakataong labanan sa pamamagitan ng isang reaksyon. Kaya, kahit na ang isang karakter ay nagawang tamaan ang isang kalaban, ang kalaban ay pinapayagang mag-roll para makita kung kaya nilang i-parry ang dagok bago ito tumama. Ang parehong pilosopiya ay ginagamit kung ang mga atake ay mga missile weapon laban sa mga target na sumisisid para sa proteksyon o sinusubukang kumawala sa bakal na hawak ng isang higanteng octopus.
 
-### Mga Atake at Parry
+### Mga Atake at Parries
 
-Ang close combat ay pinamamahalaan sa sumusunod na sunud-sunod na paraan:
+Ang malapitang labanan ay hinahawakan sa sumusunod na sunod-sunod na paraan:
 
-1.  Sa kanyang turno, ang umaatake ay gumugugol ng isang Puntos ng Aksyon, gumugulong laban sa kanyang Kasanayan sa Labanan, at itinatala ang resulta.
-2.  Kung nais, ang tagapagtanggol ay gumugugol ng isang Puntos ng Aksyon upang mag-Parry, gumugulong laban sa kanyang Kasanayan sa Labanan, at itinatala ang resulta.
-3.  Ang antas ng tagumpay ng mga resulta ay inihahambing ayon sa isang Differential Roll.
-4.  Anumang pagkakaiba ay nagbibigay sa matagumpay na lumalaban na may mas mahusay na roll ng isa o higit pang Espesyal na Epekto.
-5.  Kung ang umaatake ay nakakuha ng Tagumpay (Success) o Kritikal (Critical), maaari silang gumulong ng damage ng armas at ilapat ang kanilang Damage Modifier (kung mayroon man). Kung naaangkop, isang Lokasyon ng Tama ang tinutukoy para sa suntok.
-6.  Kung ang tagapagtanggol ay nakakuha ng Tagumpay o Kritikal, bawasan ang anumang pinsala na idinulot ayon sa comparative sizes ng mga armas na kasangkot.
-7.  Bawasan ang anumang natitirang pinsala ng Puntos ng Baluti ng natural o suot na proteksyon.
+1. Sa kanyang turn, ang umatake ay gumagastos ng Action Point, nagro-roll laban sa kanyang Combat Skill, at itinatala ang resulta.
+2. Kung ninanais, ang tagapagtanggol ay gumagastos ng Action Point para mag-Parry, nagro-roll laban sa kanyang Combat Skill, at itinatala ang resulta.
+3. Ang antas ng tagumpay ng mga resulta ay ikinukumpara ayon sa isang Differential Roll.
+4. Ang anumang pagkakaiba ay nagbibigay sa matagumpay na mandirigma na may superior na roll ng isa o higit pang Espesyal na Epekto.
+5. Kung ang umatake ay nakamit ang Tagumpay (Success) o Kritikal (Critical), maaari silang mag-roll ng damage ng sandata at ilapat ang kanilang Modifier sa Pinsala (Damage Modifier) (kung mayroon). Kung naaangkop, ang isang Lokasyon ng Sugat ay itatakda para sa dagok.
+6. Kung ang tagapagtanggol ay nakamit ang Tagumpay o Kritikal, bawasan ang anumang pinsalang naidulot ayon sa paghahambing ng mga laki (sizes) ng mga sandatang kasangkot.
+7. Bawasan ang anumang natitirang pinsala sa pamamagitan ng mga Puntos ng Baluti (Armor Points) ng natural o suot na proteksyon.
 
-Tandaan na ang anumang Espesyal na Epekto na nabuo sa pagpapalitan ay independiyente kung may pinsala na idinulot. Posibleng ang tagapagtanggol ay nakakuha ng mas mataas na antas ng tagumpay, ngunit nakaranas pa rin ng pinsala.
+Tandaan na ang anumang Espesyal na Epekto na nalilikha ng palitan ay hiwalay sa kung ang pinsala ay naidulot. Posibleng-posible para sa isang tagapagtanggol na makakuha ng mas mataas na antas ng tagumpay, subalit magdusa pa rin ng pinsala.
 
-### Laki ng Armas
+### Laki ng Sandata
 
-Bawat armas sa _Mythras Imperative_ ay nagtataglay ng iba't ibang katangian mula sa pinsalang idinudulot nito hanggang sa kung ilang kamay ang kinakailangan upang gamitin ito. Ang Laki ay kombinasyon ng masa ng armas, leverage, at stability, at ginagamit upang matukoy ang kakayahan ng armas na magpataw at magparry ng pinsala. Ang mga kategorya ng Laki ay Maliit (Small), Katamtaman (Medium), Malaki (Large), Napakalaki (Huge), at Malawakang Malaki (Enormous). Ang mga walang armas na pag-atake ng mga nilalang ay inaatasan ng mga katulad na kategorya ayon sa kanilang pisikal na katangian.
+Ang bawat sandata sa _Mythras Imperative_ ay nagtataglay ng ilang magkakaibang katangian mula sa pinsalang idinudulot nito hanggang sa kung ilang kamay ang kinakailangan para gamitin ito. Ang Laki (Size) ay kumbinasyon ng masa, leverage, at katatagan ng isang sandata, at ginagamit para itakda ang kakayahan ng sandata na magpataw at mag-parry ng pinsala. Ang mga kategorya ng Laki ay Maliit, Katamtaman, Malaki, Napakalaki, at Enormous. Ang mga walang-sandatang atake ng mga nilalang ay itinalaga sa mga katulad na kategorya ayon sa kanilang pisikal na katangian.
 
 ### Pagbabawas ng Pinsala
 
-Kung magtagumpay ang isang tagapagtanggol sa pagparry, maaari niyang bawasan ang pinsala ng umaatake, kung mayroon man, ayon sa comparative Size ng mga armas na ginamit.
+Kung ang tagapagtanggol ay nagtagumpay sa pag-parry, maaari nilang bawasan ang pinsala ng umatake, kung mayroon man, ayon sa paghahambing ng Laki ng mga sandatang ginamit.
 
-- Ang pagparry ng atake gamit ang armas o kalasag na magkapareho o mas malaki ang Laki ay nagpapalihis ng lahat ng pinsala.
-- Ang pagparry gamit ang armas o kalasag na isang Laki ang mas maliit ay nagpapalihis lamang ng kalahating pinsala.
-- Ang pagparry gamit ang armas o kalasag na dalawa o higit pang Laki ang mas maliit ay nabibigong magpalihis ng anumang pinsala.
+- Ang pag-parry ng atake gamit ang sandata o kalasag na may pantay o mas malaking Laki ay nagtataboy ng lahat ng pinsala.
+- Ang pag-parry gamit ang sandata o kalasag na may isang Laki na mas mababa ay nagtataboy lamang ng kalahati ng pinsala.
+- Ang pag-parry gamit ang sandata o kalasag na may dalawa o higit pang Laki na mas mababa ay nabigong magtaboy ng anumang pinsala.
 
-_Halimbawa, ang pagparry ng isang great axe (Napakalaki) gamit ang isang kite shield (Napakalaki rin) ay haharangin ang lahat ng pinsala; ang pagparry nito gamit ang isang Longsword (Malaki) ay hahatiin ang pinsala, at ang pagparry nito gamit ang shortsword (Katamtaman) ay walang pipigiling pinsala._
+_Halimbawa, ang pag-parry ng isang great axe (Napakalaki) gamit ang isang kite shield (Napakalaki rin) ay haharangin ang lahat ng pinsala; ang pag-parry nito gamit ang isang Longsword (Malaki) ay hahatiin ang pinsala, at ang pag-parry nito gamit ang isang shortsword (Katamtaman) ay walang haharangin na pinsala._
 
-### Baluti
+### Baluti (Armor)
 
-Anumang pinsala na tumagos sa Parry ng tagapagtanggol ay higit pang nababawasan ng Puntos ng Baluti ng anumang natural na proteksyon (tulad ng kaliskis o balat) o suot na baluti na mayroon sila. Kung ang tagapagtanggol ay may pareho, ang dalawa ay nagsasama-sama upang bawasan ang pinsala.
+Ang anumang pinsala na tumatagos sa Parry ng tagapagtanggol ay higit pang binabawasan ng mga Puntos ng Baluti (Armor Points) ng anumang natural na proteksyon (gaya ng mga kaliskis o shell) o suot na baluti na mayroon sila. Kung ang tagapagtanggol ay may pareho, ang dalawa ay nagpapatong-patong (stack) para bawasan ang pinsala.
 
-Dahil sa masa nito at restriksyon sa paggalaw, ang pinakamataas na halaga ng Puntos ng Baluti ng baluti na suot ng isang karakter ay nagsisilbing parusa sa kanilang Initiative roll.
+Dahil sa masa nito at restriksyon sa paggalaw, ang pinakamataas na halaga ng Puntos ng Baluti ng baluting suot ng isang karakter ay nagsisilbing parusa sa kanilang roll ng Inisyatiba.
 
-### Pagparry ng Missed Attack
+### Pag-parry ng Nakaligtaang Atake
 
-Kung ang umaatake ay nag-miss sa kanyang unang roll ng pag-atake, may opsyon ang tagapagtanggol na gumastos ng isang Puntos ng Aksyon upang mag-Parry. Bagama't tila hindi kapani-paniwala ang pagparry ng isang atake na mamimiss din naman, maaaring gamitin ng isang skilled defender ito sa kanyang kalamangan upang makakuha ng isa o higit pang Espesyal na Epekto, na posibleng magpahina o magpakapinsala sa kalaban at mapanatili ang kanilang susunod na turno para sa iba pang Aksyon.
+Kung ang umatake ay nakaligtaan ang kanyang unang roll ng atake, ang tagapagtanggol ay may opsyong gumastos ng Action Point para mag-Parry. Bagama't maaaring mukhang mapanlinlang ang mag-parry ng atake na makakaligtaan naman talaga, ang isang bihasang tagapagtanggol ay maaaring gamitin ito sa kanyang kalamangan para makakuha ng isa o higit pang Espesyal na Epekto, na posibleng magpahina o mag-disable sa kalaban at mapanatili ang kanilang susunod na turn para sa ibang Aksyon.
 
-### Hindi Kaya o Ayaw Mag-Parry
+### Hindi Makakaya o Hindi Gustong Mag-Parry
 
-Sa sitwasyon kung saan hindi kayang mag-Parry ang isang tagapagtanggol dahil sa wala nang natitirang Puntos ng Aksyon, o, tiwala sa kanyang kakayahang harapin ang suntok, pinili niyang hindi mag-Parry, siya ay itinuturing na awtomatikong nag-roll ng Pagkabigo. Nagreresulta ito sa pagbibigay ng matagumpay na umaatake ng isa o higit pang Espesyal na Epekto.
+Sa sitwasyon kung saan ang tagapagtanggol ay hindi makapag-Parry dahil sa kawalan ng natitirang Action Points, o, tiwala sa kanyang kakayahan na malampasan ang dagok, ay piniling hindi mag-Parry, sila ay tinatrato na parang awtomatikong nag-roll ng Kabiguan (Failure). Ito ay may bunga ng pagbibigay sa matagumpay na umatake ng isa o higit pang Espesyal na Epekto.
 
-### Mga Hindi Matagumpay na Rollo at Fumbles
+### Hindi Matagumpay na Rolls at Fumbles
 
-Kung parehong nabigo ang mga lumalaban sa kanilang mga roll, o ang tagapagtanggol ay nagpasya na hindi samantalahin ang isang missed attack, kung gayon ang sequence ng pag-atake – Parry ay magtatapos, at ang labanan ay magpapatuloy sa kalahok na may susunod na pinakamataas na Inisyatibo.
+Kung ang parehong mandirigma ay Nabigo sa kanilang mga roll, o ang tagapagtanggol ay nagpasya na huwag samantalahin ang isang nakaligtaang atake, kung gayon ang sequence na atake-Parry ay matatapos, at ang labanan ay magpapatuloy sa kalahok na may susunod na pinakamataas na Inisyatiba.
 
 ---
 ## Mga Espesyal na Epekto
 
-Ang pakikipaglaban ay higit pa sa simpleng pagpinsala o pagpatay ng kalaban. Ang mga sining sa pakikipaglaban ay nagtuturo ng maraming paraan upang talunin ang isang kaaway, marahil ay ginagawa silang walang magawa o pinipilit sila sa mga sitwasyon kung saan kailangan nilang sumuko, nang hindi kinakailangang saktan sila. Kinakatawan ng mga Espesyal na Epekto ang mga diskarteng ito at kinokontrol kung paano sila nangyayari sa laro.
+Ang pakikipaglaban ay higit pa sa simpleng pananakit o pagpatay sa isang kalaban. Ang mga sining ng pakikipaglaban ay nagtuturo ng maraming paraan ng pagtalo sa isang kalaban, marahil ay ginagawa silang walang magawa o pinipilit sila sa mga sitwasyon kung saan sila ay dapat sumuko, nang hindi kinakailangang magdulot ng pinsala sa kanila. Ang mga Espesyal na Epekto ay kumakatawan sa mga teknik na ito at kumokontrol kung paano sila nagaganap sa laro.
 
-Kailanman na ang mga kalaban ay nakikipag-ugnayan sa isang Differential Roll ng kani-kanilang kasanayan sa pakikipaglaban, anumang resulta ng pagkakaiba sa mga Antas ng Tagumpay ay nagpapahiwatig ng pagkakataon para maganap ang mga Espesyal na Epekto. Ito ay nagpapakita ng isang lumalaban na nagmamaniobra sa kanyang kalaban sa isang hindi kanais-nais na sitwasyon na maaaring pagsamantalahan gamit ang isang matalinong trick o taktika.
+Sa tuwing ang mga kalaban ay nakikibahagi sa isang Differential Roll ng kanilang kaukulang skill sa pakikipaglaban, ang anumang nagreresultang pagkakaiba sa mga antas ng tagumpay ay nagpapahiwatig ng pagkakataon para sa mga Espesyal na Epekto na maganap. Ito ay sumasalamin sa isang mandirigma na minamaniobra ang kanyang kalaban sa isang sitwasyong dehado na maaaring samantalahin gamit ang isang tuso na trick o taktika.
 
-Ang bilang ng Espesyal na Epekto na natanggap ay depende sa pagkakaiba sa pagitan ng mga Antas ng Tagumpay, tulad ng ipinapakita sa talahanayan ng Differential Levels of Success.
+Ang bilang ng mga natanggap na Espesyal na Epekto ay nakadepende sa pagkakaiba sa pagitan ng mga Antas ng Tagumpay, gaya ng inilalarawan sa talahanayan ng Differential Levels of Success.
 
-Kung may napanalunang Espesyal na Epekto sa panahon ng palitan, kailangan itong piliin bago ang Pinsala at Lokasyon ng Tama, kung mayroon man, ay igulong. Sa mga kaso kung saan ang nakatanggap ay malubhang nasugatan bukod sa pagtanggap ng Espesyal na Epekto, ang mga roll ng Endurance ay nilulutas matapos ang paglalapat ng epekto.
+Kung ang anumang Espesyal na Epekto ay napanalunan sa panahon ng isang palitan, dapat silang piliin bago ang Pinsala at Lokasyon ng Sugat, kung mayroon man, ay mai-roll. Sa mga kaso kung saan ang tumatanggap ay malalang sugatan bilang karagdagan sa pagtanggap ng isang Espesyal na Epekto, ang mga roll ng Endurance ay nireresolba pagkatapos ng aplikasyon ng epekto.
 
-Sinasaklaw ng mga Espesyal na Epekto ang iba't ibang sitwasyon at teknik. Ang ilan ay partikular na idinisenyo para sa pag-atake, habang ang iba ay inilaan para sa depensa, at ang ilan ay naaangkop para sa alinmang sitwasyon. Ang ilang Espesyal na Epekto ay maaari ring limitado sa mga partikular na uri ng armas o partikular na paggulong ng dice, nangangailangan ng Kritikal o Fumble na resulta sa kanilang skill check halimbawa.
+Ang mga Espesyal na Epekto ay sumasaklaw sa malawak na hanay ng mga sitwasyon at teknik. Ang ilan ay idinisenyo partikular para sa mga atake, habang ang iba ay inilaan para sa depensa, at ang ilan ay madaling iakma para sa alinman sa mga sitwasyon. Ang ilang Espesyal na Epekto ay maaari ring limitahan sa mga partikular na uri ng sandata o mga partikular na dice roll, na nangangailangan ng resulta na Kritikal o Fumble sa kanilang skill check halimbawa.
 
-Kapag dalawa o higit pang Espesyal na Epekto ang nakuha, maaaring malayang paghaluin at ipares ng lumalaban kung alin ang pipiliin, sa kondisyon na natugunan ang mga kinakailangang kundisyon para sa bawat isa. Ang ilang epekto ay maaaring i-stack. Halimbawa, ang isang umaatake na gumulong ng Kritikal na Tagumpay at nakakuha ng dalawang Espesyal na Epekto ay maaaring pumili ng Maximize Damage nang dalawang beses sa halip na pumili ng dalawang magkahiwalay na opensibong maniobra.
+Kapag ang dalawa o higit pang Espesyal na Epekto ay nakuha, ang mandirigma ay maaaring malayang paghaluin at itugma kung alin ang pipiliin, basta't ang mga kinakailangang kondisyon para sa bawat isa ay natutugunan. Ang ilang mga epekto ay maaaring pagpatung-patungin (stackable). Halimbawa, ang isang umatake na nag-roll ng Kritikal na Tagumpay at nanalo ng dalawang Espesyal na Epekto ay maaaring piliin ang Maximize Damage nang dalawang beses sa halip na pumili ng dalawang magkahiwalay na opensibong maniobra.
 
-### Talaan ng Espesyal na Epekto
+### Talahanayan ng Mga Espesyal na Epekto
 
-| Espesyal na Epekto | Opensibo | Depensibo | Espesyal na Uri ng Armas | Espesipikong Roll | Stackable |
+| Espesyal na Epekto | Opensibo | Depensibo | Espesyal na Uri ng Sandata | Partikular na Roll | Stackable |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Accidental Injury](0005_Combat.md?id=accidental-injury) | | X | | Fumbles ng Umaatake | |
+| [Accidental Injury](0005_Combat.md?id=accidental-injury) | | X | | Umatake ay Nag-Fumble | |
 | [Arise](0005_Combat.md?id=arise) | | X | | | |
-| [Bash](0005_Combat.md?id=bash) | X | | Mga Kalasag o Panghampas | | |
-| [Bleed](0005_Combat.md?id=bleed) | X | | Mga Armas Pamutol | Mga Baril: Kritikal ng Umaatake | |
-| [Blind Opponent](0005_Combat.md?id=blind-opponent) | | X | | Kritikal ng Tagapagtanggol | |
-| [Bypass Armor](0005_Combat.md?id=bypass-armor) | X | | | Kritikal ng Umaatake | X |
+| [Bash](0005_Combat.md?id=bash) | X | | Kalasag o Bludgeoning | | |
+| [Bleed](0005_Combat.md?id=bleed) | X | | Mga Sandatang Pang-hiwa | Baril: Umatake ay Kritikal | |
+| [Blind Opponent](0005_Combat.md?id=blind-opponent) | | X | | Tagapagtanggol ay Kritikal | |
+| [Bypass Armor](0005_Combat.md?id=bypass-armor) | X | | | Umatake ay Kritikal | X |
 | [Choose Location](0005_Combat.md?id=choose-location) | X | | | Tingnan ang Deskripsyon | |
-| [Circumvent Cover](0005_Combat.md?id=circumvent-cover) | X | | High Tech Firearms Lamang | | |
-| [Circumvent Parry](0005_Combat.md?id=circumvent-parry) | X | | | Kritikal ng Umaatake | |
+| [Circumvent Parry](0005_Combat.md?id=circumvent-parry) | X | | | Umatake ay Kritikal | |
 | [Damage Weapon](0005_Combat.md?id=damage-weapon) | X | X | | | |
 | [Disarm Opponent](0005_Combat.md?id=disarm-opponent) | X | X | | | |
-| [Drop Foe](0005_Combat.md?id=drop-foe) | X | | Mga Baril Lamang | | |
-| [Duck Back](0005_Combat.md?id=duck-back) | X | | Mga Baril Lamang | | |
-| [Enhance Parry](0005_Combat.md?id=enhance-parry) | | X | | Kritikal ng Tagapagtanggol | |
-| [Entangle](0005_Combat.md?id=entangle) | X | X | Mga Armas na Nangangalito | | |
-| [Force Failure](0005_Combat.md?id=force-failure) | X | X | | Fumbles ng Kalaban | |
-| [Grip](0005_Combat.md?id=grip) | X | | Walang Armas | | |
-| [Impale](0005_Combat.md?id=impale) | X | | Mga Armas na Tumutusok | | |
-| [Marksman](0005_Combat.md?id=marksman) | X | | Mga Armas na Pangmalayuan | | |
-| [Maximize Damage](0005_Combat.md?id=maximize-damage) | X | | | Kritikal ng Umaatake | X |
-| [Overpenetration](0005_Combat.md?id=overpenetration) | X | | Mga Baril Lamang | Kritikal ng Umaatake | |
-| [Pin Down](0005_Combat.md?id=pin-down) | X | | Mga Baril Lamang | | X |
+| [Drop Foe](0005_Combat.md?id=drop-foe) | X | | Baril Lamang | | |
+| [Duck Back](0005_Combat.md?id=duck-back) | X | | Baril Lamang | | |
+| [Enhance Parry](0005_Combat.md?id=enhance-parry) | | X | | Tagapagtanggol ay Kritikal | |
+| [Entangle](0005_Combat.md?id=entangle) | X | X | Mga Sandatang Pang-entangle | | |
+| [Force Failure](0005_Combat.md?id=force-failure) | X | X | | Kalaban ay Nag-Fumble | |
+| [Grip](0005_Combat.md?id=grip) | X | | Walang Sandata | | |
+| [Impale](0005_Combat.md?id=impale) | X | | Mga Sandatang Pang-impale | | |
+| [Marksman](0005_Combat.md?id=marksman) | X | | Mga Sandatang Ranged | | |
+| [Maximize Damage](0005_Combat.md?id=maximize-damage) | X | | | Umatake ay Kritikal | X |
+| [Over-penetration](0005_Combat.md?id=over-penetration) | X | | Baril Lamang | Umatake ay Kritikal | |
+| [Pin Down](0005_Combat.md?id=pin-down) | X | | Baril Lamang | | X |
 | [Prepare Counter](0005_Combat.md?id=prepare-counter) | | X | | | X |
 | [Rapid Reload](0005_Combat.md?id=rapid-reload) | X | | | | X |
 | [Scar Foe](0005_Combat.md?id=scar-foe) | X | X | | | |
-| [Select Target](0005_Combat.md?id=select-target) | | X | | Fumbles ng Umaatake | |
-| [Slip Free](0005_Combat.md?id=slip-free) | | X | | Kritikal ng Tagapagtanggol | |
-| [Stun Location](0005_Combat.md?id=stun-location) | X | | Mga Armas Panghampas | | |
-| [Sunder](0005_Combat.md?id=sunder) | X | | Mga Armas na Two Handed | | |
+| [Select Target](0005_Combat.md?id=select-target) | | X | | Umatake ay Nag-Fumble | |
+| [Slip Free](0005_Combat.md?id=slip-free) | | X | | Tagapagtanggol ay Kritikal | |
+| [Stun Location](0005_Combat.md?id=stun-location) | X | | Mga Sandatang Bludgeoning | | |
+| [Sunder](0005_Combat.md?id=sunder) | X | | Dalawang Kamay na Sandata | | |
 | [Trip Opponent](0005_Combat.md?id=trip-opponent) | X | X | | | |
-| [Weapon Malfunction](0005_Combat.md?id=weapon-malfunction) | | X | Mga Baril Lamang | Fumbles ng Umaatake | |
+| [Weapon Malfunction](0005_Combat.md?id=weapon-malfunction) | | X | Baril Lamang | Umatake ay Nag-Fumble | |
 | [Withdraw](0005_Combat.md?id=withdraw) | | X | | | |
-
 
 ### Mga Deskripsyon ng Espesyal na Epekto
 
 #### Accidental Injury
 
-Ang tagapagtanggol ay lumihis o binago ang pag-atake ng kalaban sa paraan na ang umaatake ay nag-fumble, sinasaktan ang kanyang sarili. Ang umaatake ay kailangang gumulong ng pinsala laban sa kanyang sarili sa isang random na Hit Location gamit ang armas na ginamit upang tumama. Kung walang armas, ang umaatake ay napunit o nasira ang isang panloob na bahagi, ang damage roll ay hindi isinasaalang-alang ang anumang baluti.
+Itinataboy o pinihit ng tagapagtanggol ang atake ng kalaban sa paraang ang umatake ay nag-fumble, at sinaktan ang kanyang sarili. Ang umatake ay dapat mag-roll ng pinsala laban sa kanyang sarili sa isang random na Lokasyon ng Sugat gamit ang sandatang ginamit para manakit. Kung walang sandata, ang umatake ay napupunit o nakakasira ng isang bagay sa loob, ang roll ng pinsala ay binabale-wala ang anumang baluti.
 
 #### Arise
 
-Nagpapahintulot sa tagapagtanggol na gumamit ng sandali upang makatayo muli.
+Nagpapahintulot sa tagapagtanggol na gamitin ang isang panandaliang pagkakataon para gumulong pabalik sa kanyang mga paa.
 
 #### Bash
 
-Sinasadya ng umaatake na saktan ang kalaban upang mawalan ng balanse. Ang layo ng pag-atras o pagilid ng tagapagtanggol ay depende sa armas na ginagamit. Ang mga kalasag ay nagpapabalik sa kalaban ng isang metro para sa bawat 2 puntos ng pinsala na iginulong (bago ang anumang bawas dahil sa baluti, parries, at iba pa), samantalang ang mga armas na panghampas ay nagpapabalik ng isang metro para sa bawat tatlong puntos. Gumagana ang Bash lamang sa mga nilalang na hanggang dalawang beses ang SIZ ng umaatake. Kung ang tumatanggap ay napilitang umabante pabalik sa isang balakid, kailangan niyang gumawa ng Acrobatics skill roll - o Athletics sa Mahirap na antas - upang maiwasan ang pagkahulog o pagkatid. Para sa mga baril, dahil ang Bash ay mas umaasa sa pagkawala ng balanse ng kalaban, kaysa sa pagtatapon sa kanila pabalik sa pamamagitan ng purong lakas, ganap na makatwiran para sa projectile ammunition na maging sanhi ng pagkadapa ng target kung ito ay tumama sa isang dulo. Ang mga energy weapon ay mas malamang na magdulot ng ganitong epekto maliban kung ang physics ng sinag ay magreresulta sa ilang uri ng surface explosion.
+Sadyang binabagsak ng umatake ang kalaban palabas ng balanse. Kung gaano kalayo ang pagkaka-tumba o pag-urong ng tagapagtanggol ay depende sa sandatang ginagamit. Ang mga kalasag ay nagpapatalsik sa kalaban ng isang metro para sa bawat 2 puntos ng pinsalang na-roll (bago ang anumang pagbabawas dahil sa baluti, parry, at iba pa), samantalang ang mga sandatang bludgeoning ay nagpapatalsik ng isang metro para sa bawat tatlong puntos. Ang Bash ay gumagana lamang sa mga nilalang na hanggang doble ng SUK ng umatake. Kung ang tumatanggap ay napilitang umatras sa isang hadlang, dapat silang gumawa ng isang skill roll ng Acrobatics - o Athletics sa mahirap na antas - para maiwasang mahulog o matisod. Para sa mga baril, dahil ang Bash ay higit na nakadepende sa paghuli sa kalaban palabas ng balanse, sa halip na itulak sila nang pabalik sa pamamagitan ng purong puwersa, perpektong makatwiran na ang projectile ammunition ay maging sanhi ng paghina o pag-ika-ika ng target kung ito ay tumama sa isang dulo. Ang mga sandatang enerhiya ay mas malamang na hindi magdulot ng gayong epekto maliban kung ang pisika ng beam ay magreresulta sa ilang uri ng pagsabog sa ibabaw.
 
 <details>
 
-<summary>* Mga Komunidad na Errata</summary>
+<summary>* Errata ng Komunidad</summary>
 
 ---
 
-#### Hampas
+#### Bash
 
-_Ang orihinal na patakaran ay may malabong pagkakabuo ng salita tulad ng sumusunod: "...kailangan nilang gumawa ng Hard Athletics o Acrobatics skill roll..."_
+_Ang orihinal na tuntunin ay may malabong pagkakasulat na gaya ng sumusunod: "...dapat silang gumawa ng isang Mahirap na skill roll ng Athletics o Acrobatics..."_
 
-_Ito ay tila ba ang alinmang kasanayan ay igugulong sa Hard kung saan ang kombensyon ay gumawa ng Standard check gamit ang Professional skill o isang Hard check gamit ang pinakamalapit na katumbas na Standard skill._
+_Mukhang alinman sa skill ay ma-ro-roll sa Mahirap (Hard) kung saan ang kombensyon ay gumawa ng Pamantayang check (Standard check) gamit ang isang Propesyonal na skill o isang Mahirap na check gamit ang pinakamalapit na katumbas na Pamantayang skill._
 
-_Ang pagkakabuo ng salita ay pinalitan ng "...kailangan nilang gumawa ng Acrobatics skill roll - o Athletics sa Hard difficulty..."_
+_Ang pagkakasulat ay pinalitan ng "...dapat silang gumawa ng isang Acrobatics skill roll - o Athletics sa Mahirap na antas..."_
 
 ---
 
@@ -456,336 +450,330 @@ _Ang pagkakabuo ng salita ay pinalitan ng "...kailangan nilang gumawa ng Acrobat
 
 #### Bleed
 
-Ang atake ay naghiwa ng malaking ugat. Kung ang suntok ay nalampasan ang Puntos ng Baluti at sinugatan ang target, kailangang gumawa ng Opposed Roll ng Endurance ang tagapagtanggol laban sa orihinal na roll ng pag-atake. Kung ang tagapagtanggol ay Nabigo, kung gayon siya ay magsisimulang dumugo nang sagana. Sa simula ng bawat Combat Round, nawawalan ng isang antas ng Fatigue ang tumatanggap, hanggang sa bumagsak sila at posibleng mamatay. Ang mga duguan na sugat ay maaaring pigilan sa pamamagitan ng pagpasa ng First Aid skill roll, ngunit hindi na maaaring magsagawa ng anumang matinding o marahas na aksyon ang tumatanggap nang hindi muling nagbubukas ang sugat. Tingnan ang Blood Loss, sa seksyon ng Game System. Para sa mga baril, dahil ang karamihan sa mga baril ay gumagawa ng napakakitid na daanan ng sugat, mas mahirap talagang hiwain o putulin ang isang malaking ugat kaysa sa isang hiwa o saksak na armas. Dahil dito, ang Bleed ay dapat lamang maging isang Critical Success – maliban kung ang baril ay isang kakaibang armas na nagpapaputok ng shuriken, razor fléchette, flattened force field o iba pang exotic na bala.
+Ang atake ay nagbubukas ng isang pangunahing daluyan ng dugo. Kung ang dagok ay nalampasan ang mga Puntos ng Baluti at sinaktan ang target, ang tagapagtanggol ay dapat gumawa ng Isang Opposed Roll ng Endurance laban sa orihinal na roll ng atake. Kung ang tagapagtanggol ay Nabigo, kung gayon sila ay magsisimulang dumugo nang sagana. Sa simula ng bawat Round ng Labanan, ang tumatanggap ay mawawalan ng isang antas ng Pagkapagod (Fatigue), hanggang sa sila ay gumuho at posibleng mamatay. Ang mga duguan na sugat ay maaaring mapigilan sa pamamagitan ng pagpasa sa isang skill roll ng First Aid, ngunit ang tumatanggap ay hindi na makakagawa ng anumang mabigat o marahas na aksyon nang hindi binubuksan muli ang sugat. Tingnan ang Pagkawala ng Dugo (Blood Loss), sa seksyong Game System. Para sa mga baril, dahil karamihan sa mga baril ay gumagawa ng napakakipot na landas ng sugat, mas mahirap itong makatama o pumutol ng pangunahing daluyan ng dugo kaysa sa isang sandatang pang-hiwa o pang-saksak. Dahil dito, ang Bleed ay dapat na Kritikal na Tagumpay lamang - maliban kung ang baril ay ilang uri ng kakaibang sandata na nagpapaputok ng shuriken, razor fléchettes, flattened force fields o ilang gayong kakaibang bala. Marami ang nakadepende sa kung paano nais ng Game Master na i-modelo ang sandata.
 
 #### Blind Opponent
 
-Sa isang Kritikal, panandaliang binulag ng tagapagtanggol ang kanyang kalaban sa pamamagitan ng paghagis ng buhangin, pagsasalamin ng sikat ng araw sa kanyang kalasag, o iba pang taktika na panandaliang nakakasagabal sa paningin ng umaatake. Kailangang gumawa ng Opposed Roll ang umaatake ng kanyang kasanayang Evade (o kasanayan sa Armas kung gumagamit ng kalasag) laban sa orihinal na Parry roll ng tagapagtanggol. Kung ang umaatake ay Nabigo, magdurusa sila ng isang situational modifier ng Hard o Formidable para sa susunod na 1d3 Turno, depende sa paraan ng pagbulag.
+Sa isang Kritikal na Tagumpay, ang tagapagtanggol ay panandaliang binubulag ang kanyang kalaban sa pamamagitan ng pagtapon ng buhangin, pagpapa-reflect ng sikat ng araw mula sa kanyang kalasag, o ilang iba pang taktika na panandaliang nakikialam sa paningin ng umatake. Ang umatake ay dapat gumawa ng Isang Opposed Roll ng kanyang skill sa Evade (o skill sa Sandata kung gumagamit ng kalasag) laban sa orihinal na roll ng Parry ng tagapagtanggol. Kung ang umatake ay Nabigo, sila ay magdurusa ng sitwasyonal na modifier na Mahirap o Nakapangingilabot para sa susunod na 1d3 Turns, depende sa paraan ng pagbulag.
 
 #### Bypass armor
 
-Sa isang Kritikal, ang umaatake ay nakakahanap ng puwang sa natural o suot na baluti ng tagapagtanggol. Kung ang tagapagtanggol ay nakasuot ng baluti na lampas sa natural na proteksyon, kailangan ng umaatake na magpasya kung alin sa dalawa ang bypass. Ang epektong ito ay maaaring i-stack upang i-bypass ang pareho. Para sa layunin ng epektong ito, ang pisikal na proteksyon na nakuha mula sa mahika ay itinuturing na suot na baluti. Bagama't ang Bypass Armor ay maaaring gamitin sa anumang uri ng pag-atake, ang ilang uri ng bala ay maaaring pigilan mula sa pag-access ng epektong ito (shot gun pellets dahil sa kanilang pagkalat) o itinatayo sa kanilang pangunahing pagganap, nagbibigay nito bilang isang bonus na espesyal na epekto bilang karagdagan sa anumang iba pa na napanalunan (Teleportation rounds). Malaki ang depende sa kung paano nais ng Game Master na i-modelo ang armas.
+Sa isang Kritikal na Tagumpay, ang umatake ay nakakahanap ng puwang sa natural o suot na baluti ng tagapagtanggol. Kung ang tagapagtanggol ay nakasuot ng baluti nang higit sa natural na proteksyon, kung gayon ang umatake ay dapat magpasya kung alin sa dalawa ang lalampasan. Ang epektong ito ay maaaring i-stack para lampasan ang pareho. Para sa mga layunin ng epektong ito, ang pisikal na proteksyong nakuha mula sa mahika ay itinuturing na suot na baluti. Bagama't ang Bypass Armor ay maaaring gamitin sa anumang uri ng atake, ang ilang uri ng bala ay maaaring pigilan sa pag-access sa epektong ito (mga pellets ng shot gun dahil sa kanilang pagkalat) o binuo sa kanilang base na performance, na nagbibigay nito bilang isang bonus na espesyal na epekto bilang karagdagan sa anumang iba pa na napanalunan (Teleportation rounds). Marami ang nakadepende sa kung paano nais ng Game Master na i-modelo ang sandata.#### Piliin ang Lokasyon (Choose Location)
 
-#### Choose Location
+Kapag gumagamit ng mga sandatang panlaban sa malapitang labanan (melee), malayang mapipili ng umatake ang lokasyon kung saan tatama ang suntok o saksak, hangga't ang lokasyong iyon ay abot-kamay. Kung gumagamit ng mga sandatang pang-malayuan (ranged), kabilang ang mga baril, ang Piliin ang Lokasyon ay maaari lamang gamitin kung ito ay isang Kritikal na Tagumpay (Critical Success), maliban kung ang target ay nasa loob ng Malapitang Saklaw (Close Range) at hindi gumagalaw o hindi namamalayan ang umatake. Para sa mga baril, maaaring palawigin ng mga teleskopikong saklaw (telescopic scopes) ang saklaw na ito.
 
-Kapag gumagamit ng mga hand-to-hand melee weapon, maaaring malayang piliin ng umaatake ang lokasyon kung saan tatama ang suntok, hangga't ang lokasyong iyon ay karaniwang abot. Kung gumagamit ng Ranged weapon, kasama ang mga baril, ang Choose Location ay isang Kritikal na Tagumpay lamang, maliban kung ang target ay nasa Loob ng Maikling Abot (Close Range) at ito ay nakatayo o walang kamalay-malay sa paparating na pag-atake. Para sa mga baril, ang mga telescopic scope ay maaaring magpalawak ng abot na ito.
+#### Iwasan ang Pagparada (Circumvent Parry)
 
-#### Circumvent Parry
+Sa isang Kritikal na Tagumpay, maaaring ganap na malampasan ng umatake ang isang matagumpay na pag-parada (Parry).
 
-Sa isang Kritikal, maaaring ganap na i-bypass ng umaatake ang isang matagumpay na Parry.
+#### Sirain ang Sandata (Damage Weapon)
 
-#### Damage Weapon
+Pinahihintulutan ang karakter na sirain ang sandata ng kalaban bilang bahagi ng isang Pag-atake o Pag-parada. Kung umaatake, partikular na tinatarget ng karakter ang sandatang ginagamit ng kalaban para mag-parada at inilalapat ang kanyang pinsala (damage roll) dito, sa halip na sa humahawak nito. Ang tinarget na sandata ay gumagamit ng sarili nitong Mga Puntos ng Baluti (Armor Points) para labanan ang pinsala. Kung mababawasan ito hanggang sa zero Hit Points, mababali ang sandata. Para sa mga baril, dahil ang pagtama sa isang sandatang hawak-kamay mula sa malayo ay mas mahirap kaysa sa pagtarget ng partikular na bahagi ng katawan, dapat itong ilaan lamang para sa mga Kritikal na Tagumpay. Gayunpaman, may ilang mga eksepsiyon; una ay ang kalasag (shield) na, dahil sa likas nitong katangian, ay mas madaling tamaan. Ang pangalawa ay may kinalaman sa mga kakaibang sandata na naglalabas ng hugis-kone na sinag na kayang tumarget ng mga bagay na hawak-kamay sa loob ng sakop nito; halimbawa, isang induction gun na nagpapainit ng mga metal na bagay.
 
-Pinahihintulutan ang karakter na sirain ang armas ng kanyang kalaban bilang bahagi ng isang Pag-atake o Parry. Kung umaatake, ang karakter ay tiyak na tumatarget sa parrying weapon ng tagapagtanggol at inilalapat ang kanyang damage roll dito, sa halip na sa gumagamit. Ginagamit ng targeted weapon ang sarili nitong Puntos ng Baluti para labanan ang pinsala. Kung nabawasan sa zero Hit Points, masisira ang armas. Para sa mga baril, dahil ang pagtama sa isang handheld weapon sa malayo ay mas mahirap kaysa sa pag-target ng isang partikular na lokasyon ng katawan, ito ay karaniwang nakalaan para lamang sa mga Critical Success. Mayroong ilang pagbubukod gayunpaman, ang una ay ang isang kalasag ay dapat, sa likas na katangian nito, mas madaling tamaan. Ang ikalawa ay nauugnay sa mga exotic na armas na nagpapaputok ng isang cone shaped beam na kayang targetin ang mga handheld object sa loob ng area of affect nito; halimbawa, isang induction gun na nagpapainit ng mga metal na bagay.
+#### Paalisin ang Sandata (Disarm Opponent)
 
-#### Disarm Opponent
+Itutulak, hihilahin, o ipipihit ng karakter ang sandata ng kalaban palabas ng kamay nito. Ang kalaban ay dapat gumawa ng Isang Pagsusuring Salungat (Opposed Roll) ng kanyang Estilo ng Pakikipaglaban (Combat Style) laban sa orihinal na roll ng karakter. Kung matalo ang target ng disarm, ang kanyang sandata ay itatalsik sa distansyang katumbas ng roll ng Damage Modifier ng nag-disarm sa metro. Kung walang Damage Modifier, mahuhulog ang sandata sa paanan ng dinisarm na tao. Ang paghahambing sa laki ng mga sandata ay nakakaapekto sa roll. Ang bawat antas na mas malaki ang sandata ng nag-disarm na karakter ay nagpapahirap sa roll ng kalaban ng isang grado. Sa kabilang banda, ang bawat antas na mas maliit ang sandata ng nag-disarm na karakter ay nagpapagaan sa hirap ng isang grado. Ang pag-disarm ay gumagana lamang sa mga nilalang na hanggang dalawang beses ang LAK ng umatake.
 
-Hinahampas, kinakaladkad, o pinipilipit ng karakter ang armas ng kalaban mula sa kanyang kamay. Kailangang gumawa ng Opposed Roll ang kalaban ng kanyang Combat Style laban sa orihinal na roll ng karakter. Kung ang tatanggap ng disarm ay matalo, ang kanyang armas ay ihahagis sa layong katumbas ng roll ng Damage Modifier ng disarmer sa metro. Kung walang Damage Modifier, ang armas ay mahuhulog sa paanan ng disarmed person. Ang comparative size ng mga armas ay nakakaapekto sa roll. Ang bawat hakbang na mas malaki ang armas ng disarming character ay nagpapataas ng kahirapan ng roll ng kalaban ng isang antas. Sa kabaligtaran, ang bawat hakbang na mas maliit ang armas ng disarming character ay nagpapagaan ng kahirapan ng isang antas. Gumagana ang disarming lamang sa mga nilalang na hanggang dalawang beses ang STR ng umaatake.
+#### Patumbahin ang Kalaban (Drop Foe)
 
-#### Drop Foe
+Nakakasakit (Offensive), Mga Baril Lamang. Sa pag-aakalang ang target ay magdaranas ng kahit man lang bahagyang sugat mula sa putok, mapipilitan silang gumawa ng Isang Pagsusuring Salungat ng kanilang Tibay (Endurance) laban sa hit roll ng umatake. Ang kabiguan ay nangangahulugan na ang target ay magpapasailalim sa shock at sakit, mawawalan ng kakayahan (incapacitated) at hindi na makapagpapatuloy sa pakikipaglaban. Ang paggaling mula sa pagkawala ng kakayahan ay maaaring gawin sa pamamagitan ng matagumpay na First Aid check o paggamit ng anumang anyo ng teknolohikal o narkotikong pampalakas kung mayroon man nito sa kampanya. Kung hindi, ang pansamantalang pagkawala ng kakayahan ay tatagal sa loob ng isang oras na hinati sa Rate ng Paghilom (Healing Rate) ng target.
 
-Opensibo, Mga Baril Lamang. Sa pag-aakalang ang target ay magdudulot ng hindi bababa sa isang maliit na sugat mula sa putok, napipilitan silang gumawa ng isang Opposed Test ng kanilang Endurance laban sa hit roll ng umaatake. Ang pagkabigo ay nagpapahiwatig na ang target ay sumusuko sa shock at sakit, nagiging incapacitated at hindi na kayang ipagpatuloy ang pakikipaglaban. Ang paggaling mula sa incapacitation ay maaaring gawin sa isang matagumpay na First Aid check o paggamit ng ilang uri ng technological o narcotic booster kung mayroon man sa kampanya. Kung hindi, ang pansamantalang incapacitation ay tumatagal ng panahon na katumbas ng isang oras na hinati ng Healing Rate ng target.
+#### Tumalikod at Umiwas (Duck Back)
 
-#### Duck Back
+Nakakasakit (Offensive), Mga Baril Lamang. Ang espesyal na epekto na ito ay nagpapahintulot sa mamamaril na agad na tumalikod at umiwas sa proteksyon (cover), nang hindi na kailangang maghintay para sa kanilang susunod na Turn upang gamitin ang aksyong Take Cover. Ang karakter ay dapat na nakatayo na o nakayukod malapit sa anumang anyo ng proteksyon upang magamit ang Duck Back.
 
-Opensibo, Mga Baril Lamang. Pinahihintulutan ng espesyal na epekto na ito ang shooter na agad na yumuko pabalik sa takip, nang hindi na kailangang maghintay para sa kanilang susunod na Turno upang gamitin ang aksyong Take Cover. Ang karakter ay dapat nakatayo na o nakayuko katabi ng ilang anyo ng takip upang magamit ang Duck Back.
+#### Paghusayin ang Pagparada (Enhance Parry)
 
-#### Enhance Parry
+Sa isang Kritikal na Tagumpay, nagagawa ng nagtatanggol na ilihis ang buong puwersa ng isang pag-atake, anuman ang SUK ng kanyang sandata.
 
-Sa isang Kritikal, nagtatagumpay ang tagapagtanggol na mailihis ang buong lakas ng isang pag-atake, anuman ang Laki ng kanyang armas.
+#### I-entangle
 
-#### Entangle
+Nagpapahintulot sa isang karakter na may hawak na sandatang pang-entangle, tulad ng latigo o lambat, na gawing hindi makagalaw ang bahaging tinamaan. Ang isang braso na na-entangle ay hindi makakagamit ng hawak nito; ang na-snare na binti ay nagpipigil sa target na gumalaw; habang ang isang na-enmesh na ulo, dibdib, o tiyan ay nagpapahirap sa lahat ng skill roll ng isang grado. Sa kanyang susunod na turn, maaaring gumastos ang may hawak ng Action Point para gumawa ng awtomatikong pagtatangka na I-trip ang Kalaban (Trip Opponent). Ang isang na-entangle na biktima ay maaaring sumubok na pakawalan ang sarili sa kanyang turn sa pamamagitan ng pagtatangka ng Isang Pagsusuring Salungat gamit ang Brawn para kumawala, o sa pamamagitan ng pagpanalo ng isang Espesyal na Epekto at pagpili ng Damage Weapon, Disarm Opponent, o Slip Free.
 
-Nagpapahintulot sa isang karakter na gumagamit ng armas na nakakabuhol, tulad ng latigo o lambat, na gawing hindi makagalaw ang lokasyong tinamaan. Ang isang braso na nakabuhol ay hindi maaaring gamitin ang anumang hawak nito; ang isang nahuling binti ay pumipigil sa target na gumalaw; habang ang isang nabuhol na ulo, dibdib, o tiyan ay nagpapahirap sa lahat ng skill roll ng isang antas. Sa kanyang susunod na turno, maaaring gumastos ng isang Puntos ng Aksyon ang gumagamit upang gumawa ng awtomatikong pagtatangkang Trip Opponent. Ang isang nabuho na biktima ay maaaring sumubok na lumaya sa kanyang turno sa pamamagitan ng pagtatangka ng isang Opposed Roll gamit ang Brawn upang kumalas, o sa pamamagitan ng pagpanalo ng isang Espesyal na Epekto at pagpili ng Damage Weapon, Disarm Opponent, o Slip Free.
+#### Piliting Mabigo (Force Failure)
 
-#### Force Failure
-
-Ginagamit kapag ang isang kalaban ay Nag-Fumble, maaaring pagsamahin ng karakter ang Force Failure sa anumang iba pang Espesyal na Epekto na nangangailangan ng Opposed Roll upang gumana. Ang Force Failure ay nagiging sanhi ng pagkabigo ng kalaban sa kanyang resistance roll sa default – sa gayon ay awtomatikong madidisarm, matitid, at iba pa.
+Ginagamit kapag ang kalaban ay nag-Fumble, maaaring pagsamahin ng karakter ang Piliting Mabigo sa anumang iba pang Espesyal na Epekto na nangangailangan ng Isang Pagsusuring Salungat para gumana. Ang Piliting Mabigo ay nagdudulot sa kalaban na mabigo sa kanyang resistance roll nang awtomatiko – kaya awtomatiko siyang madidisarm, matitripan, at iba pa.
 
 #### Grip
 
-Sa kondisyon na ang kalaban ay nasa abot ng Unarmed Combat ng umaatake, maaari silang gumamit ng walang laman na kamay (o katulad na bahagi ng katawan na kayang humawak) upang hawakan ang kalaban, pinipigilan silang makawala sa labanan. Maaaring subukan ng kalaban na kumalas sa kanyang turno, na nangangailangan ng Opposed Roll ng alinman sa Brawn o Unarmed laban sa alinman sa dalawang kasanayan na mas gusto ng humahawak.
+Kung ang kalaban ay nasa loob ng abot-kamay ng Walang Sandatang Pakikipaglaban (Unarmed Combat) ng umatake, maaari silang gumamit ng bakanteng kamay (o katulad na sanga ng katawan na kayang humawak) para kapit-kamayan ang kalaban, na pumipigil sa kanila na makawala sa labanan. Maaaring subukan ng kalaban na kumawala sa kanyang turn, na nangangailangan ng Isang Pagsusuring Salungat ng alinman sa Brawn o Unarmed laban sa kung alinman sa dalawang skill ang mas gusto ng humahawak (gripper).
 
 #### Impale
 
-Gumulong ng pinsala ng armas nang dalawang beses, kung saan pipiliin ng umaatake kung alin sa dalawang resulta ang gagamitin para sa pag-atake. Sa pag-aakalang ang armas ay isang melee weapon, kung natagos ang baluti at nagdulot ng sugat, may opsyon ang umaatake na iwan ang armas sa sugat o hilahin ito sa kanyang susunod na turno. Ang pag-iiwan ng armas sa sugat ay nagdudulot ng Antas ng Kahirapan sa mga susunod na skill attempt ng biktima. Ang tindi ng parusa ay depende sa laki ng nilalang at ng armas na tumutusok dito, tulad ng nakalista sa Talaan ng Impale Effects sa ibaba. Para sa kapayakan, ang karagdagang pagtusok gamit ang armas na pareho ang laki ay walang idudulot na karagdagang parusa. Upang hilahin ang isang nakatusok na armas sa panahon ng melee ay nangangailangan ng paggamit ng Aksyon sa Labanan na Ready Weapon. Kailangang ipasa ng gumagamit ang isang unopposed Brawn roll (o manalo sa isang Opposed Brawn roll kung lumalaban ang kalaban). Ang tagumpay ay nagpapalaya sa armas, na nagdudulot ng karagdagang pinsala sa parehong lokasyon na katumbas ng kalahati ng normal na damage roll para sa armas na iyon, ngunit walang anumang Damage Modifier. Ang pagkabigo ay nagpapahiwatig na ang armas ay nananatiling nakatusok sa sugat nang walang karagdagang epekto, bagama't maaaring subukan muli ng gumagamit sa kanyang susunod na turno. Ang mga armas na may partikular na baluktot (tulad ng harpoon) ay nagdudulot ng normal na pinsala. Ang baluti ay hindi nagbabawas ng pinsala sa pag-withdraw. Habang nananatiling nakatusok, hindi maaaring gamitin ng umaatake ang kanyang armas na tumutusok para sa Parrying.
+I-roll ang pinsala ng sandata nang dalawang beses, kung saan pipiliin ng umatake kung aling resulta ang gagamitin para sa pag-atake. Sa pag-aakalang ang sandata ay isang melee weapon, kung ang baluti ay napasok at nagdulot ng sugat, may opsyon ang umatake na iwanan ang sandata sa loob ng sugat o hilahin ito palabas sa kanilang susunod na turn. Ang pag-iwan sa sandata sa loob ng sugat ay nagdudulot ng Antas ng Kahirapan (Difficulty Grade) sa mga susunod na pagtatangka ng biktima sa skill. Ang tindi ng parusa ay depende sa laki ng parehong nilalang at ng sandatang tumutusok dito, gaya ng nakalista sa Impale Effects Table sa ibaba. Para sa pagiging simple, ang mga susunod na impalement gamit ang parehong laki ng sandata ay hindi na nagdudulot ng karagdagang parusa. Para mabunot ang isang impaled na sandata sa panahon ng melee, kinakailangan ang paggamit ng Combat Action na Ready Weapon. Ang humahawak ay dapat pumasa sa isang unopposed Brawn roll (o manalo sa isang Opposed Brawn roll kung lalaban ang kalaban). Ang tagumpay ay hihila sa sandata palabas, na nagdudulot ng karagdagang pinsala sa parehong lokasyon na katumbas ng kalahati ng normal na pinsala para sa sandatang iyon, ngunit walang anumang Damage Modifier. Ang kabiguan ay nangangahulugan na ang sandata ay mananatiling nakabaon sa sugat nang walang karagdagang epekto, bagaman maaaring sumubok muli ang humahawak sa susunod na turn. Ang mga sandatang may mga barbed (tulad ng mga harpoon) ay nagdudulot ng normal na pinsala. Ang baluti ay hindi nagbabawas ng pinsala sa pagbunot. Habang ito ay nakabaon, hindi magagamit ng umatake ang kanyang sandatang pang-impale para sa Pag-parada.
 
-#### Talaan ng Mga Epekto ng Pagtusok
+#### Impale Effects Table
 
-| SIZ ng Nilalang | Maliliit na Armas | Katamtamang Armas | Malalaking Armas | Napakalaking Armas | Malawakang Malalaking Armas |
+| SUK ng Nilalang | Maliit na Sandata | Katamtamang Sandata | Malalaking Sandata | Napakalaking Sandata | Higanteng Sandata |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1-10 | Malubha | Higit sa Karaniwan | Hindi Makakilos | Hindi Makakilos | Hindi Makakilos |
-| 11-20 | Mahirap | Malubha | Higit sa Karaniwan | Hindi Makakilos | Hindi Makakilos |
-| 21-30 | Walang Epekto | Mahirap | Malubha | Higit sa Karaniwan | Hindi Makakilos |
-| 31-40 | Walang Epekto | Walang Epekto | Mahirap | Malubha | Higit sa Karaniwan |
-| 41-50 | Walang Epekto | Walang Epekto | Walang Epekto | Mahirap | Malubha |
-| Bawat +10 | Sundin ang pag-usad ng talahanayan |
+| 1-10 | Formidable | Herculean | Incapacitated | Incapacitated | Incapacitated |
+| 11-20 | Hard | Formidable | Herculean | Incapacitated | Incapacitated |
+| 21-30 | No Effect | Hard | Formidable | Herculean | Incapacitated |
+| 31-40 | No Effect | No Effect | Hard | Formidable | Herculean |
+| 41-50 | No Effect | No Effect | No Effect | Hard | Formidable |
+| Bawat +10 | Sundin ang pag-unlad ng table |
 
-Para sa mga baril, ang bala ng karamihan sa mga baril na nakabatay sa projectile ay kayang tumagos. Maaaring naisin ng mga Game Master na pigilan o ipagbawal ang epektong ito para sa mga plasma o laser-based energy weapon. Ang mga bala, fléchette at katulad na projectiles ay malinaw na masyadong maliit upang magpataw ng anumang pangalawang epekto ng pagtusok.
+Para sa mga baril, ang bala ng karamihan sa mga projectile-based na baril ay makakapag-impale. Maaaring gustuhin ng mga Game Master na limitahan o ipagbawal ang epektong ito para sa plasma o laser-based na mga sandatang enerhiya. Ang mga bala, fléchette, at katulad na projectiles ay masyadong maliit para magpataw ng anumang sekundaryong impaling effects.
 
 #### Marksman
 
-Pinahihintulutan ang shooter na ilipat ang Hit Location na tinamaan ng kanyang putok ng isang hakbang, sa agad na katabing bahagi ng katawan. Ang physiology ay may impluwensya sa kung ano ang maaaring muling puntiryahin at dapat gamitin ang common sense. Kaya, ang paggamit ng Espesyal na Epekto na ito sa isang humanoid ay magpapahintulot sa isang umaatake na nag-roll ng tama sa binti, na ilipat ito sa tiyan sa halip. Sa kabaligtaran, ang pagbaril sa dibdib ng isang griffin ay magpapahintulot sa pagpili ng mga foreleg, pakpak, o ulo.
+Pinahihintulutan ang mamamaril na ilipat ang tinamaan na Hit Location ng kanyang putok ng isang hakbang, patungo sa katabing bahagi ng katawan. Ang pisyolohiya ay may impluwensya sa kung ano ang maaaring i-re-target at ang sentido kumon ay dapat ilapat. Kaya, ang paggamit ng Espesyal na Epektong ito sa isang humanoid ay magpapahintulot sa isang umatake na nakatira sa binti, na ilipat ito pataas sa tiyan sa halip. Sa kabilang banda, ang pagbaril sa dibdib ng isang griffin ay magpapahintulot sa pagpili ng mga pangharap na binti, pakpak, o ulo.
 
 #### Maximize Damage
 
-Sa isang Kritikal, maaaring palitan ng karakter ang isa sa damage dice ng kanyang armas ng buong halaga nito. Halimbawa, ang isang Hand Axe na karaniwang gumagawa ng 1d6 damage ay ituturing na 6, samantalang ang isang great club na may 2d6 damage ay magdudulot ng 1d6+6 damage. Ang Espesyal na Epekto na ito ay maaaring i-stack. Bagama't maaari ding gamitin para sa natural na armas, hindi nakakaapekto ang Maximize Damage sa Damage Modifier ng umaatake, na kailangang igulong nang normal.
+Sa isang Kritikal na Tagumpay, maaaring palitan ng karakter ang isa sa kanyang damage dice ng sandata ng buong halaga nito. Halimbawa, ang isang Hand Axe na karaniwang nagdudulot ng 1d6 na pinsala ay ituturing na 6, habang ang isang great club na may 2d6 na pinsala ay magdudulot sa halip ng 1d6+6 na pinsala. Ang Espesyal na Epektong ito ay maaaring i-stack. Bagaman maaari rin itong gamitin para sa natural na mga sandata, ang Maximize Damage ay hindi nakakaapekto sa Damage Modifier ng umatake, na dapat i-roll nang normal.
 
 #### Over-penetration
 
-Kritikal, Mga Baril Lamang. Kung bumabaril sa mga magkakasunod na kalaban o sa isang siksik na grupo, pinahihintulutan ng espesyal na epektong ito ang bala na dumaan nang ganap sa unang biktima upang tamaan ang pangalawa sa likod nito, sa pag-aakalang nalalampasan nito ang body armor ng unang target. Gayunpaman, ang pangalawang biktima ay nakakaranas lamang ng kalahating pinsala dahil sa paghina o pagbagal ng bala. Ang Over-penetration ay karaniwang mas kapaki-pakinabang sa mga armas na may mataas na lakas na nagdudulot ng malaking pinsala o sa mga may kakayahang tumagos sa baluti. Anumang espesyal na epekto na ipinataw sa unang target ay hindi inilalapat sa pangalawa.
+Kritikal, Mga Baril Lamang. Kung nagpaputok sa mga kalabang nakapila o sa isang siksik na grupo, ang espesyal na epektong ito ay nagpapahintulot sa putok na dumaan nang buo sa unang biktima para tumama sa pangalawa sa likuran nila, sa pag-aakalang nalampasan nito ang baluti ng unang target. Ang pangalawang biktima, gayunpaman, ay makakaranas lamang ng kalahating pinsala dahil sa paghina o pagbagal ng putok. Ang Over-penetration ay kadalasang mas kapaki-pakinabang sa mga sandatang may mataas na kapangyarihan na nagdudulot ng malaking pinsala o sa mga may kakayahang tumagos ng baluti. Ang anumang espesyal na epektong naidulot sa unang target ay hindi inilalapat sa pangalawa.
 
 #### Pin Down
 
-Mga Baril Lamang. Katulad ng Press Advantage, pinipilit ng espesyal na epekto na ito ang target na gumawa ng Opposed Test ng kanilang Willpower laban sa hit roll ng umaatake. Ang pagkabigo ay nangangahulugan na ang target ay magtatago sa likod ng anumang takip na available at hindi makakapagpaputok pabalik sa kanilang susunod na Turno. Tandaan na gumagana ang Pin Down kahit na walang aktwal na pinsala ang idinulot sa target (marahil dahil sa isang matagumpay na pag-iwas o ang mga putok ay tumama sa kanilang takip sa halip), dahil umaasa ito sa epekto ng pananakot ng putok na napakalapit.
+Mga Baril Lamang. Katulad ng Press Advantage, ang espesyal na epektong ito ay pumipilit sa target na gumawa ng Isang Pagsusuring Salungat ng kanilang Willpower laban sa hit roll ng umatake. Ang kabiguan ay nangangahulugan na ang target ay magtatago sa likod ng anumang proteksyong available at hindi na makakaganti ng putok sa susunod nilang Turn. Tandaan na ang Pin Down ay gumagana kahit walang tunay na pinsalang naidulot sa target (marahil dahil sa matagumpay na pag-iwas o mga putok na tumama sa kanilang proteksyon sa halip), dahil ito ay umaasa sa epekto ng takot ng mga putok na dumaan nang napakalapit.
 
-Bagama't ang isang nakapako na biktima ay hindi makakapagpaputok pabalik sa kinakailangang oras, maaari silang magsagawa ng iba pang aksyon sa kondisyon na hindi sila naglalantad sa putok sa proseso, tulad ng paggapang sa bagong takip, pakikipag-ugnayan sa iba, pag-reload ng armas at iba pa.
+Bagaman ang isang naka-pin na biktima ay hindi makaganti ng putok sa loob ng takdang oras, maaari silang magsagawa ng iba pang mga aksyon hangga't hindi nila inilalantad ang kanilang sarili sa putok sa proseso, tulad ng paggapang patungo sa bagong proteksyon, pakikipag-usap sa iba, pagkakarga ng sandata, at iba pa.
 
-#### Prepare Counter
+#### Ihanda ang Kontra (Prepare Counter)
 
-Binabasa ng tagapagtanggol ang mga galaw ng kanyang kalaban at naghahanda ng kontra laban sa isang partikular na Espesyal na Epekto (na dapat itala nang lihim). Kung susubukan ng kanyang kalaban na ipataw ang napiling Espesyal na Epekto sa kanya sa panahon ng labanan, agad na papalitan ng tagapagtanggol ang epekto ng umaatake ng isa sa kanyang sarili, na awtomatikong magtatagumpay.
+Binabasa ng nagtatanggol ang mga pattern ng kanyang kalaban at naghahanda ng kontra laban sa isang partikular na Espesyal na Epekto (na dapat isulat nang palihim). Kung susubukan ng kanyang kalaban na ilapat ang piniling Espesyal na Epekto sa kanya sa panahon ng labanan, agad na papalitan ng nagtatanggol ang epekto ng umatake ng isa sa kanyang sarili, na matatagumpay nang awtomatiko.
 
-#### Rapid Reload
+#### Mabilis na Pagkakarga (Rapid Reload)
 
-Kapag gumagamit ng Armas Pangmalayuan, binabawasan ng umaatake ang oras ng pag-reload para sa susunod na putok ng isa. Ang epektong ito ay maaaring i-stack. Para sa mga baril, bagama't kapaki-pakinabang para sa black powder o single round na baril, ang epektong ito ay may mas kaunting malinaw na aplikasyon kapag inilapat sa mga awtomatikong armas, kung saan agad na nakakarga (o nai-charge) ang susunod na putok. Gayunpaman, ang Rapid Reload ay maaaring gamitin sa halip upang mabilis na magpalit ng magasin ng armas. Maaari rin itong mailalapat para sa mga energy weapon na may mahabang cycle time upang muling i-charge ang mga capacitor o payagan ang bariles na lumamig.
+Kapag gumagamit ng Sandatang Pang-malayuan, binabawasan ng umatake ang oras ng pagkakarga (reload time) para sa susunod na putok ng isa. Ang epektong ito ay maaaring i-stack. Para sa mga baril, bagaman kapaki-pakinabang para sa black powder o single round na mga baril, ang epektong ito ay may mas mababang aplikasyon kapag inilapat sa mga awtomatikong sandata, kung saan ang susunod na bala ay ikinakasa nang awtomatiko. Gayunpaman, ang Mabilis na Pagkakarga ay maaaring gamitin sa halip para mabilis na magpalit ng mga magasin ng sandata. Maaari rin itong mailapat para sa mga sandatang enerhiya na may mahabang cycle time para ma-recharge ang mga capacitor o palamigin ang bariles.
 
-#### Scar Foe
+#### Markahan ang Kalaban (Scar Foe)
 
-Ang lumalaban ay nagdudulot ng peklat sa kanyang kalaban na magiging usap-usapan ng lahat sa buong buhay niya – tulad ng halos naputol na lalamunan, o ang letrang 'Z' na maingat na nakaukit sa dibdib.
+Ang nakikipaglaban ay nagdudulot sa kanyang kalaban ng pilat na pag-uusapan ng lahat habambuhay – tulad ng halos naputol na lalamunan, o ang letrang 'Z' na masining na inukit sa buong dibdib.
 
-#### Select Target
+#### Piliin ang Target (Select Target)
 
-Kapag ang isang umaatake ay Nag-Fumble, maaaring maniobrahin o ilihis ng tagapagtanggol ang suntok sa paraan na tumama ito sa isang katabing bystander. Nangangailangan ito na ang bagong target ay abot ng close combat weapon ng umaatake, o sa kaso ng ranged attack, nakatayo sa linya ng putok. Ang bagong biktima ay lubos na nasorpresa ng hindi inaasahang aksidente at walang pagkakataong iwasan ang atake na awtomatikong tumama. Bilang kabayaran, gayunpaman, hindi sila nakakaranas ng anumang Espesyal na Epekto.
+Kapag ang isang umatake ay nag-Fumble, maaaring maniobrahin o ilihis ng nagtatanggol ang suntok sa paraang tatama ito sa katabing bystander sa halip. Kinakailangan nito na ang bagong target ay nasa loob ng abot ng sandatang panlaban ng umatake, o sa kaso ng malayuang pag-atake, ay nakatayo sa linya ng putok. Ang bagong biktima ay lubos na mabibigla ng hindi inaasahang aksidente at walang pagkakataon na maiwasan ang pag-atake na awtomatikong tumatama. Bilang kabayaran, gayunpaman, wala silang nararanasang Espesyal na Epekto.
 
-#### Slip Free
+#### Kumawala (Slip Free)
 
-Sa isang Kritikal, maaaring awtomatikong makawala ang tagapagtanggol sa pagiging Entangled, Gripped, o Pinned.
+Sa isang Kritikal na Tagumpay, maaaring awtomatikong makatakas ang nagtatanggol mula sa pagiging Entangled, Gripped, o Pinned.
 
-#### Stun Location
+#### Pamanhidin ang Lokasyon (Stun Location)
 
-Maaaring gamitin ng umaatake ang armas na panghampas upang pansamantalang patamaan ang bahagi ng katawan na tinamaan. Kung ang suntok ay nalampasan ang Puntos ng Baluti at sinugatan ang target, kailangan ng tagapagtanggol na gumawa ng Opposed Roll ng Endurance vs. ang orihinal na attack roll. Kung ang tagapagtanggol ay Nabigo, kung gayon ang Lokasyon ng Tama ay Incapacitated sa loob ng bilang ng mga Turno na katumbas ng pinsalang idinulot. Ang suntok sa torso ay nagiging sanhi ng pagkalula ng tagapagtanggol, na kayang depensahan lamang ang sarili. Ang tama sa ulo ay nagpapawalang-malay sa kalaban at hindi makakilos.
+Maaaring gamitin ng umatake ang isang sandatang bludgeoning para pansamantalang pamanhidin ang bahagi ng katawan na natamaan. Kung nalampasan ng suntok ang Mga Puntos ng Baluti at nasugatan ang target, dapat gumawa ang nagtatanggol ng Isang Pagsusuring Salungat ng Endurance laban sa orihinal na attack roll. Kung mabigo ang nagtatanggol, ang Hit Location ay Magiging Walang Kakayahan (Incapacitated) sa loob ng bilang ng mga Turn na katumbas ng pinsalang naidulot. Ang suntok sa torso ay nagdudulot sa nagtatanggol na humingal, na tanging pagtatanggol lamang ang magagawa. Ang tama sa ulo ay nagdudulot sa kalaban na pansamantalang mawalan ng malay at hindi makakilos.
 
 #### Sunder
 
-Maaaring gumamit ang umaatake ng angkop na armas, tulad ng palakol, upang sirain ang baluti o natural na proteksyon ng kalaban. Anumang pinsala ng armas, matapos bawasan para sa parrying o mahika, ay inilalapat laban sa halaga ng Puntos ng Baluti ng proteksyon. Ang labis na pinsala na lampas sa Puntos ng Baluti nito ay ginagamit upang bawasan ang halaga ng Puntos ng Baluti ng lokasyon na iyon na may baluti – pinupunit ang mga strap, pinapaputok ang mga singsing, nilalamukos ang mga plato, o pinupunit ang balat, kaliskis, o chitin ng mga halimaw. Kung may natitirang pinsala matapos ang proteksyon ay nabawasan sa zero AP, ito ay dinadala sa Hit Points ng lokasyon na tinamaan. Para sa mga baril, ang Sunder ay angkop para sa mga baril na nakabatay sa enerhiya na idinisenyo upang sirain ang ablative armors o mas exotic na konsepto tulad ng gravity wave guns.
+Maaaring gumamit ang umatake ng angkop na sandata, tulad ng palakol, para sirain ang baluti o likas na proteksyon ng isang kalaban. Ang anumang pinsala ng sandata, pagkatapos ng mga bawas para sa pag-parada o mahika, ay inilalapat laban sa halaga ng Armor Point ng proteksyon. Ang labis na pinsala na higit sa Mga Puntos ng Baluti nito ay ginagamit pagkatapos para bawasan ang halaga ng Armor Point ng baluting lokasyong iyon – pagpunit ng mga tali, pagputok ng mga singsing, pagpalo sa mga plato, o pagpunit sa balat, kaliskis, o chitin ng mga halimaw. Kung may natitira pang pinsala matapos mabawasan ang proteksyon hanggang zero AP, ito ay dadaloy sa Hit Points ng lokasyong tinamaan. Para sa mga baril, ang Sunder ay magiging angkop para sa mga energy-based na baril na idinisenyo para sirain ang mga ablative armor o mas kakaibang konsepto tulad ng gravity wave guns.
 
-#### Trip Opponent
+#### I-trip ang Kalaban (Trip Opponent)
 
-Sinisikap ng karakter na mawalan ng balanse o ihulog sa lupa ang kanyang kalaban. Kailangang gumawa ng Opposed Roll ang kalaban ng kanyang Brawn, Evade, o Acrobatics laban sa orihinal na roll ng karakter. Kung nabigo ang target, siya ay mahuhulog nang nakahiga. Ang mga kalaban na may apat na paa (o mga nilalang na may higit pang paa) ay maaaring palitan ang kanilang kasanayang Athletics para sa Evade at ituring ang roll bilang isang Antas ng Kahirapan na mas madali. Para sa mga baril, sa pag-aakalang ang baril ay nagpapaputok ng bala na may masa, walang dahilan kung bakit hindi magagamit ang epektong ito kapag bumabaril sa mga binti ng kalaban, kahit na walang pinsala ang tumagos sa anumang suot na proteksyon.
+Sinusubukan ng karakter na patumbahin o ihagis ang kanyang kalaban sa lupa. Ang kalaban ay dapat gumawa ng Isang Pagsusuring Salungat ng kanyang Brawn, Evade, o Acrobatics laban sa orihinal na roll ng karakter. Kung mabigo ang target, sila ay matutumba (prone). Ang mga quadruped na kalaban (o mga nilalang na may mas maraming binti) ay maaaring palitan ang kanilang skill na Athletics para sa Evade at ituring ang roll bilang isang grado na mas madali. Para sa mga baril, sa pag-aakalang ang baril ay nagpaputok ng bala na may masa, walang dahilan na ang epektong ito ay hindi magagamit kapag bumaril sa mga binti ng isang kalaban, kahit na walang pinsalang tumagos sa anumang suot na proteksyon.
 
-#### Weapon Malfunction
+#### Maling Paggana ng Sandata (Weapon Malfunction)
 
-Fumbles ng Umaatake, Mga Baril Lamang. Ang baril ng umaatake ay nagmamalfunction sa paraan na ito ay nagiging walang silbi hanggang sa maubos ang oras sa pag-field strip at paglilinis nito.
+Nag-Fumble ang umatake, Mga Baril Lamang. Ang baril ng umatake ay hindi gumagana sa paraang nagiging walang silbi ito hanggang sa gugugol ng oras sa pag-field strip at paglilinis nito.
 
 #### Withdraw
 
-Maaaring awtomatikong umatras ang tagapagtanggol sa hindi abot, piniputol ang pakikipag-ugnayan sa partikular na kalaban.
+Maaaring awtomatikong lumayo ang nagtatanggol palabas ng abot, na pinuputol ang pakikipaglaban sa partikular na kalaban na iyon.
 
 ---
-## Close Combat
+## Malapitang Labanan (Close Combat)
 
-Ang close combat ay hand-to-hand fighting sa klasikong kahulugan nito kapag ang mga lumalaban ay sumusuntok sa isa't isa gamit ang mga hawak o natural na armas. Ang mga sumusunod na gabay ay nag-aalok ng mga paraan upang gawing mas kawili-wili ang close combat at makatulong na ipaliwanag ang ilang konsepto na binanggit kanina sa kabanatang ito.
+Ang malapitang labanan ay pakikipaglaban nang mano-mano sa klasikong kahulugan nito kapag ang mga naglalaban ay nagtatamaan ng isa't isa gamit ang mga sandata o natural na mga sandata. Ang mga sumusunod na gabay ay nag-aalok ng mga paraan upang gawing mas kawili-wili ang malapitang labanan at makatulong na ipaliwanag ang ilang konsepto na binanggit kanina sa kabanatang ito.
 
-### Mga Situational Modifier
+### Situational Modifiers
 
-Ang mga situational modifier ay maaaring ilapat kapag nakikipaglaban sa partikular na kondisyon, o bilang resulta ng isang Espesyal na Epekto. Halimbawa, ang pakikipaglaban sa dilim ay maaaring magdulot ng Antas ng Kahirapan na Herculean. Maliban kung nakasaad, ang mga modifier ay pinagpapasya ng Game Master. Kung dalawa o higit pang sitwasyon ang may kaugnayan sa karakter, gamitin ang pinakamalubha.
+Ang mga situational modifier ay maaaring ilapat kapag nakikipaglaban sa mga partikular na kondisyon, o bilang resulta ng isang Espesyal na Epekto. Halimbawa, ang pakikipaglaban sa dilim ay maaaring magkaroon ng Antas ng Kahirapan na Herculean. Maliban kung nakasaad, ang mga modifier ay pinagpapasyahan ng Games Master. Kung saan dalawa o higit pang sitwasyon ang may kaugnayan sa karakter, gamitin ang pinakamabigat.
 
-Ang ilang modifier ay nakasalalay sa sitwasyon, ngunit sa halip na maglagay ng Antas ng Kahirapan, ang Kasanayan sa Labanan ay nililimitahan ng isang kaugnay na kasanayan. Halimbawa, ang pakikipaglaban mula sa likod ng kabayo ay maaaring limitahan ang Kasanayan sa Labanan ng mandirigma sa kanilang kasanayan sa Pagsakay, habang ang pakikipaglaban sa tubig ay maaaring limitahan ito sa halaga ng kasanayan sa Paglangoy ng karakter.
-
-#### Mga Situational Modifier sa Close Combat
+Ang ilang mga modifier ay nakadepende sa sitwasyon, ngunit sa halip na maglapat ng Antas ng Kahirapan, ang Combat Skill ay nililimitahan ng isang kaugnay na skill. Halimbawa, ang pakikipaglaban mula sa likod ng isang kabayo ay maglilimita sa Combat Skill ng nakikipaglaban sa kanilang skill na Ride, habang ang pakikipaglaban sa tubig ay maaaring limitahan ito sa halaga ng skill na Swim ng karakter.#### Mga Sitwasyonal na Modipikasyon sa Malapitang Labanan
 
 | Sitwasyon | Antas ng Kahirapan |
 | :-- | :-: |
-| Pag-atake sa walang magawang target | Awtomatiko |
+| Pag-atake sa isang walang kalaban-labang target | Awtomatiko |
 | Pag-atake sa isang masikip na sitwasyon | Mahirap |
-| Pagtatanggol habang nasa mas mababang lupa o laban sa nakasakay na kalaban | Mahirap |
+| Pagdepensa habang nasa mababang lugar o laban sa nakasakay na kalaban | Mahirap |
 | Pakikipaglaban habang nasa hindi matatag na lupa | Mahirap |
-| Pakikipaglaban habang nakayuko o mula sa isang tuhod | Mahirap |
-| Pakikipaglaban sa mahinang visibility (makapal na ulap, snowstorm) | Mahirap |
-| Pagtatanggol laban sa atake mula sa likod | Malubha |
-| Pakikipaglaban habang nakahiga | Malubha |
-| Pakikipaglaban sa bahagyang dilim (dim illumination) | Malubha |
-| Pakikipaglaban sa ganap na dilim (walang ilaw) | Higit sa Karaniwan |
-| Bulag o nawala ang pangunahing pandama | Higit sa Karaniwan |
+| Pakikipaglaban habang nakayuko o nakaluhod sa isang tuhod | Mahirap |
+| Pakikipaglaban sa mahinang kakayahang makakita (makapal na fog, bagyo ng niyebe) | Mahirap |
+| Pagdepensa laban sa atake mula sa likuran | Nakapanghihilakbot |
+| Pakikipaglaban habang nakadapa | Nakapanghihilakbot |
+| Pakikipaglaban sa bahagyang kadiliman (malabong liwanag) | Nakapanghihilakbot |
+| Pakikipaglaban sa ganap na madilim na kondisyon (walang liwanag) | Herculean |
+| Bulag o nawalan ng pangunahing pandama | Herculean |
 
-### Engagement
+### Pakikipaglaban (Engagement)
 
-Ang isang karakter ay itinuturing na Engaged kung nasa abot ng melee weapon ng kalaban. Hindi ito nangangailangan na kayang maabot ng parehong lumalaban ang isa't isa; kundi na ang isa sa kanila ay posibleng tamaan ng isa. Kapag ang isang karakter ay Engaged na sa isang kalaban, hindi na sila malayang makakaalis sa labanang iyon (ang pag-charge ay isang espesyal na pagbubukod). Nangangailangan ito ng ilang uri ng sadyang aksyon upang putulin ang kontak sa kalaban, karaniwang ginagawa sa pamamagitan ng isang Aksyon sa Labanan tulad ng Outmaneuver, o paggamit ng Espesyal na Epektong Withdraw.
+Ang isang karakter ay itinuturing na Nakikipaglaban (Engaged) kung siya ay nasa loob ng abot ng sandata ng isang kalaban. Hindi ito nangangahulugan na parehong kayang abutin ng dalawang magkalaban ang isa't isa; sapat na ang isa sa kanila ay maaaring matamaan ng isa pa. Kapag ang isang karakter ay nakipaglaban sa isang kalaban, hindi na sila maaaring malayang umalis sa labanang iyon (ang mabilis na paglusong ay isang espesyal na eksepsiyon). Nangangailangan ito ng ilang anyo ng sadyang pagkilos upang putulin ang pakikipag-ugnayan sa kalaban, na karaniwang ginagawa sa pamamagitan ng Aksyong Panlaban tulad ng Outmaneuver, o paggamit ng Espesyal na Epekto ng Pag-atras (Withdraw).
 
-### Charging
+### Paglusong (Charging)
 
-Ang aksyon ng Charge ay ang paggalaw nang mabilis upang madagdagan ang puwersa at impact ng isang atake. Ang isang charge ay nangangailangan ng umaatake na pumili ng aksyon na Charge, gumagalaw sa bilis ng Run o Sprint – tingnan ang seksyon ng [Movement Rate](0002_Characters.md?id=movement-rate) sa itaas. Ang mga patakaran sa paggalaw ay ganap na sakop sa _Mythras_ rulebook.
+Ang aksyong Paglusong (Charge) ay ang pagkilos nang mabilis upang dagdagan ang lakas at impact ng isang atake. Ang isang paglusong ay nangangailangan sa mananalakay na pumili ng aksyong Charge, na gumagalaw sa bilis na Pagtakbo (Run) o Sprint — tingnan ang seksyong [Movement Rate](0002_Characters.md?id=movement-rate) sa itaas. Ang mga tuntunin sa paggalaw ay ganap na sakop sa aklat ng tuntunin ng _Mythras_.
 
-Kung ito ay nagdadala sa kanila sa kontak sa kanilang kalaban, kailangan nilang huminto doon at isagawa ang aksyon ng Pag-atake, gaya ng binago para sa charge. Walang minimum na distansya na dapat takpan bago maganap ang isang charge, dahil ang distansya na nilakad ay mas mababa ang factor kaysa sa momentum na nakamit. Samakatuwid, pagtakbo o pag-sprint.
+Kung ito ay magdadala sa kanila sa pakikipag-ugnayan sa kanilang kalaban, dapat silang huminto roon at isagawa ang aksyong Pag-atake (Attack), gaya ng binago para sa paglusong. Walang minimum na distansya na dapat lakbayin bago maganap ang isang paglusong, dahil ang distansyang tinakbo ay mas mababa ang halaga kaysa sa momentum na nakamit. Kaya ang pagtakbo o pag-sprint.
 
-Habang nagcha-charge, ang roll ng pag-atake ay nagdudulot ng Antas ng Kahirapan na Hard. Bilang kapalit, pinapataas ng charge ang Laki ng umaatakeng armas ng isang antas at ang Damage Modifier ng bipedal na umaatake ng isang antas, o dalawang antas kung quadruped (o mas maraming paa). Maaaring palitan ng riding character ang kanilang Damage Modifier ng kanilang mount sa halip. Ang huling posisyon ng nagcha-charge na karakter ay depende sa resulta ng palitan at kung nais ng umaatake na huminto o ipagpatuloy ang pagdaan, agad na pinuputol ang engagement.
+Habang naglulunsad ng paglusong, ang roll ng atake ay dumaranas ng Antas ng Kahirapan na Mahirap. Bilang kapalit, ang paglusong ay nagpapataas ng Sukat (SUK) ng sandatang ginagamit ng isang hakbang at ang Damage Modifier ng mananalakay na may dalawang paa ng isang hakbang, o dalawang hakbang kung ang mananalakay ay may apat na paa (o higit pa). Ang mga karakter na nakasakay ay maaaring ipalit ang kanilang Damage Modifier sa modifier ng kanilang kabayo. Ang huling posisyon ng karakter na naglulunsad ng paglusong ay nakadepende sa resulta ng palitan at kung nais ng mananalakay na huminto o magpatuloy sa paglampas, na agad na nagtatapos sa pakikipaglaban.
 
-Sa halip na Mag-Parry o Mag-Evade, maaaring sabay-sabay na kontrahin ng tumatanggap ng charge ang nagcha-charge na umaatake. Sa kasong ito, ang may hawak ng mas mahabang armas ang unang sumusuntok. Kung ang armas ay maaaring itakda upang tumanggap ng charge (tulad ng sibat), maaaring gamitin ng tumatanggap ang Damage Modifier ng charger sa halip na sa kanya.
+Sa halip na Mag-parry o Mag-iwas (Evade), ang tumatanggap ng paglusong ay maaaring sabay na gumanti ng atake sa mananalakay. Sa kasong ito, ang may hawak ng mas mahabang sandata ang unang tumatama. Kung ang sandata ay maaaring ihanda para salubungin ang paglusong (gaya ng sibat), ang tumatanggap ay maaaring gumamit ng Damage Modifier ng sumusugod sa halip na sa kanya.
 
-### Cover
+### Proteksyon (Cover)
 
-Gumagamit ang mga kalaban ng takip upang hadlangan ang mga pag-atake laban sa kanila, sa pamamagitan ng pisikal na pagharang sa isang suntok dahil sa katigasan ng nakapagitnang materyal, o sa pamamagitan ng pagtakip kung saan eksakto ang kalaban. Ang tiyak na halaga ng takip ay depende sa kapal ng proteksyon nito at sa lawak ng saklaw nito.
+Ginagamit ng mga kalaban ang proteksyon upang harangan ang mga atake laban sa kanila, sa pamamagitan ng pisikal na pagharang sa hampas dahil sa katigasan ng materyales, o sa pamamagitan ng pagtatago kung nasaan eksakto ang kalaban. Ang eksaktong halaga ng proteksyon ay nakadepende sa kapal ng depensa nito at sa lawak ng sakop nito.
 
-Ang isang pag-atake laban sa isang target na tumama sa isang nakatakip na Lokasyon ng Tama ay haharangan hanggang sa lawak ng likas na proteksyon ng takip. Ang takip ay maaaring bahagyang mawalan ng bisa sa pamamagitan ng paggamit ng Espesyal na Epektong Choose Location upang puntiryahin ang mga nakikitang bahagi ng target o pagtama sa pamamagitan ng takip kung kaya itong tagusan ng armas.
+Ang isang atake laban sa isang target na tumama sa isang natatakpang Hit Location ay mahaharang ayon sa likas na proteksyon ng cover. Ang cover ay maaaring bahagyang mapawalang-bisa sa pamamagitan ng paggamit ng Espesyal na Epekto ng Choose Location upang puntiryahin ang mga nakikitang bahagi ng target o pagtama sa pamamagitan ng cover kung ang sandata ay kayang tumagos dito.
 
-Sa mga sitwasyon kung saan kumpleto ang takip, ngunit naniniwala ang umaatake na tatagos ang kanyang atake, maaari silang bumato nang bulag sa nakatagong target. Sa ganitong mga kaso, ang roll ng pag-atake ay isang antas na mas mahirap, at hindi maaaring gamitin ang Choose Location kung may napanalunang Espesyal na Epekto. Ipinapalagay nito na alam ng umaatake nang medyo tumpak ang posisyon ng target sa likod ng takip.
+Sa mga sitwasyon kung saan ang cover ay kabuuan, ngunit naniniwala ang mananalakay na ang kanyang atake ay tatagos, maaari silang umatake nang bulag sa nakatagong target. Sa mga kasong iyon, ang roll ng atake ay isang antas na mas mahirap, at ang Choose Location ay hindi maaaring piliin kung ang isang Espesyal na Epekto ay napanalunan. Ipinapalagay nito na alam ng mananalakay nang sapat ang posisyon ng target sa likod ng cover.
 
 ### Pag-iwas (Evading)
 
-Ang pag-iwas sa labanan ay ang pagtatapon ng sarili upang umiwas sa isang matinding pag-atake. Nangangailangan ito ng Opposed Roll ng kasanayang Evade ng tagapagtanggol laban sa kaugnay na roll ng umaatake. Maaari itong maging anumang bagay mula sa kasanayang Drive ng isang nagbabanggang tangke ng labanan hanggang sa kasanayan sa pag-spell ng isang salamangkero. Kung mananalo ang umaatake, magdudulot sila ng pinsala tulad ng normal. Kung mananalo ang tagapagtanggol, ganap na maiiwasan ang pinsala.
+Ang Pag-iwas sa labanan ay ang paglayo sa isang napakalakas na atake. Nangangailangan ito ng Isang Pagsalungat na Roll (Opposed Roll) ng skill na Evade ng tagapagtanggol laban sa kaukulang roll ng mananalakay. Maaari itong maging anumang bagay mula sa skill na Drive ng isang battle tank hanggang sa skill sa paggamit ng spell ng isang salamangkero. Kung ang mananalakay ang nanalo, sila ay magdudulot ng pinsala gaya ng dati. Kung ang tagapagtanggol ang nanalo, ang pinsala ay ganap na maiiwasan.
 
-Kung ang nagwagi sa Opposed Roll ay nakakuha ng isa o higit pang Antas ng Tagumpay laban sa kanyang kalaban, maaari silang pumili ng angkop na Espesyal na Epekto tulad ng normal na labanan. Anuman ang resulta, ang mapanganib na galaw ng pag-iwas ay nag-iiwan sa tagapagtanggol na nakahiga – karaniwang nangangailangan ang karakter na makabawi ng kanyang tindig sa kanyang susunod na turno – maliban kung magagamit niya ang Espesyal na Epektong Arise.
+Kung ang nanalo sa Opposed Roll ay nakamit ang isa o higit pang Antas ng Tagumpay (Levels of Success) kaysa sa kanyang kalaban, maaari silang pumili ng angkop na mga Espesyal na Epekto gaya ng normal na labanan. Anuman ang resulta, ang pag-iwas ay nag-iiwan sa tagapagtanggol na nakadapa – karaniwang nangangailangan ng karakter na tumayo muli sa susunod niyang pagkakataon – maliban kung maaari nilang gamitin ang Espesyal na Epekto ng Arise.
 
-### Knockback
+### Pagpapatalsik (Knockback)
 
-Ang isang pag-atake na nagdudulot ng mas maraming pinsala kaysa sa SIZ ng tumatanggap ay, sa default, magreresulta sa pagkahagis ng karakter pabalik. Ang pinsala sa sitwasyong ito ay bago ang anumang pagbawas dahil sa pagparry o baluti. Sa pagtanggap ng ganitong suntok, kailangan ng tumatanggap na pumasa sa isang Madaling Acrobatics o Standard Athletics roll upang maiwasan ang pagkahulog. Sila rin ay itutulak ng isang metro para sa bawat limang puntos ng pinsala (o bahagi nito) na lampas sa kanilang SIZ. Ang proactive na paggamit ng Aksyon sa Labanan na Brace ay maaaring magpababa o ganap na mawalan ng bisa ang mga epekto ng knockback.
+Ang isang atake na nagdudulot ng higit na pinsala kaysa sa SUK ng tatanggap ay, bilang default, magreresulta sa karakter na mapapatalsik. Ang pinsala sa pagkakataong ito ay bago ang anumang bawas dahil sa pag-parry o baluti. Sa pagtanggap ng ganoong hampas, ang tatanggap ay dapat pumasa sa isang Easy Acrobatics o Standard Athletics roll upang maiwasan ang pagkadapa. Sila rin ay itutulak ng isang metro para sa bawat limang puntos ng pinsala (o bahagi nito) na higit sa kanilang SUK. Ang maagap na paggamit ng Aksyong Panlaban na Brace ay maaaring magbawas o magpawalang-bisa pa nga sa mga epekto ng knockback.
 
-### Leaping Attacks
+### Mga Pag-atakeng Tumatalon (Leaping Attacks)
 
-Ang mga pag-atake sa pagtalon ay maaaring ilunsad mula sa iba't ibang sitwasyon, karamihan ay na-trigger bilang bahagi ng isang ambush o sa pagtatapos ng isang charge, ngunit ang ilang nilalang ay maaaring tumalon sa ibabaw ng kalaban nang hindi nangangailangan ng run-up o superyor na taas.
+Ang mga pag-atakeng tumatalon ay maaaring ilunsad mula sa iba't ibang sitwasyon, karamihan ay na-trigger bilang bahagi ng isang ambush o sa pagtatapos ng isang charge, ngunit ang ilang nilalang ay maaaring tumalon sa ibabaw ng isang kalaban nang hindi nangangailangan ng takbo o mas mataas na posisyon.
 
-Ang isang pag-atake sa pagtalon ay nilulutas sa isang Opposed Roll ng kasanayang Athletics ng tumatalon laban sa kasanayang Brawn o Evade ng tagapagtanggol. Ang mga target na may apat na paa ay nagpapahirap sa attack roll ng isang Antas ng Kahirapan. Kung mananalo ang tumatalon, ang tagapagtanggol ay awtomatikong matutumba, na ang umaatake ay nakapatong sa kanila. Ang pagkabigo ay nangangahulugan na nalampasan o naiwasan ng tagapagtanggol ang impact. Kung ang nagwagi sa Opposed Roll ay nakakuha ng isa o higit pang Antas ng Tagumpay laban sa kanyang kalaban, maaari silang pumili ng angkop na Espesyal na Epekto tulad ng normal na labanan.
+Ang isang pag-atakeng tumatalon ay nalulutas gamit ang isang Opposed Roll ng Athletics skill ng tumatalon laban sa Brawn o Evade skill ng tagapagtanggol. Ang mga target na may apat na paa ay gumagawa ng roll ng atake na isang Antas ng Kahirapan na mas mahirap. Kung manalo ang tumatalon, ang tagapagtanggol ay awtomatikong mapapatalsik nang nakadapa, na ang mananalakay ay nakasakay sa kanila. Ang pagkabigo ay nangangahulugan na nalampasan o naiwasan ng tagapagtanggol ang impact. Kung ang nanalo sa Opposed Roll ay nakamit ang isa o higit pang Antas ng Tagumpay kaysa sa kanyang kalaban, maaari silang pumili ng angkop na mga Espesyal na Epekto gaya ng normal na labanan.
 
-Walang pinsala ang idinudulot bilang bahagi ng pagtalon; gayunpaman, ang biktima na nakahiga ay hindi makakabangon hangga't hindi umaalis ang kanyang umaatake, o sa huli ay mananalo sila ng Espesyal na Epekto na nagpapahintulot sa kanila na Arise. Bukod pa rito, ang mga pag-atake sa pagtalon ay gumagana lamang laban sa mga kalaban na hanggang dalawang beses ang SIZ ng umaatake. Maaaring gawing mas mahirap pabagsakin ng isang target ang kanyang sarili sa pamamagitan ng proactive na paggamit ng Aksyon sa Labanan na Brace, sa kondisyon na alam niya ang nalalapit na pag-atake sa pagtalon.
+Walang pinsalang naidudulot bilang bahagi ng pagtalon; gayunpaman, ang isang biktima na napadapa ay hindi makakabawi ng kanyang paninindigan hanggang sa umalis ang kanyang mananalakay, o hanggang sa manalo sila ng isang Espesyal na Epekto na nagpapahintulot sa kanila na Arise. Bilang karagdagan, ang mga pag-atakeng tumatalon ay gumagana lamang laban sa mga kalaban na hanggang dalawang beses ang SUK ng mananalakay. Ang isang target ay maaaring gawing mas mahirap na mapatalsik sa pamamagitan ng maagap na paggamit ng Aksyong Panlaban na Brace, kung sila ay may kamalayan sa paparating na pag-atakeng tumatalon.
 
-### Outmaneuvering
+### Pagmamaniobra (Outmaneuvering)
 
-Ang isang karakter na humaharap sa maraming kalaban ay maaaring gumamit ng paggalaw upang limitahan ang bilang ng mga maaaring umatake sa kanya anumang oras, patuloy na nagpapalit ng posisyon, pinipilit ang mga kalaban na makasagabal sa isa't isa. Nangangailangan ang Outmaneuvering na may espasyo ang karakter upang gumalaw at hindi nakapako sa isang masikip na lugar.
+Ang isang karakter na nahaharap sa maraming kalaban ay maaaring gumamit ng paggalaw upang limitahan ang bilang na maaaring umatake sa kanya sa anumang oras, patuloy na nagbabago ng posisyon, at pinipilit ang mga kalaban na makagambala sa isa't isa. Ang Outmaneuvering ay nangangailangan na ang karakter ay may espasyong magalaw at hindi nakapako sa isang masikip na lugar.
 
-Nangangailangan ang Outmaneuvering na makipag-ugnayan ang karakter sa kanyang mga kalaban sa isang group Opposed Roll ng mga kasanayang Evade. Kailangang gumastos ng isang Puntos ng Aksyon ang bawat kalahok, parehong ang nagmamaniobrang karakter at ang mga kalaban na gustong ipitin siya. Pagkatapos, bawat isa ay gumugulong nang isang beses at ang mga nabigong matalo ang roll ng nagmamaniobrang karakter ay hindi maaaring umatake sa kanya sa natitirang bahagi ng Combat Round na iyon, na hinaharangan ng kanilang mga kaalyado o tampok ng terrain.
+Ang Outmaneuvering ay nangangailangan na ang karakter ay makipaglaban sa kanyang mga kalaban sa isang pangkatang Opposed Roll ng mga Evade skill. Ang bawat kalahok, kapwa ang nagmamaniobrang karakter at ang mga kalaban na nagnanais na ikulong siya, ay dapat gumastos ng isang Action Point. Pagkatapos, bawat isa ay mag-ro-roll nang isang beses at ang mga hindi makatalo sa roll ng nagmamaniobrang karakter ay hindi maaaring umatake sa kanya sa natitirang bahagi ng Round na iyon, dahil sila ay hinarang ng kanilang mga kakampi o mga tampok sa lupain.
 
-Kung talunin ng nagmamaniobrang karakter ang lahat ng kanyang mga kalaban, may pagpipilian siya na ligtas na makipag-ugnayan sa isang solong kalaban sa natitirang bahagi ng Yugto o ganap na Umatras mula sa labanan.
+Kung matatalo ng nagmamaniobrang karakter ang lahat ng kanyang mga kalaban, ang isa ay may pagpipilian na ligtas na makipaglaban sa isang solong kalaban para sa natitirang bahagi ng Round o ganap na Mag-atras (Withdraw) mula sa labanan.
 
-### Passive Blocking
+### Pasibong Pagharang (Passive Blocking)
 
-Pinahihintulutan ng Passive Blocking ang isang karakter na may armas na hawakan ito sa paraan na sakop nito ang isang napiling lokasyon (o mga lokasyon kapag gumagamit ng kalasag), ngunit sa halaga ng hindi kayang aktibong Mag-Parry dito (tingnan ang Ward Location). Anumang atake na tumama sa mga lokasyon ay awtomatikong nakakatanggap ng benepisyo ng armas o kalasag, binabawasan ang pinsala tulad ng normal. Ang teknik ay karaniwang ginagamit kapag nais ng isang mandirigma na bantayan ang isang mahinang punto o nasugatang lokasyon. Walang pumipigil sa isang dual weapon, o weapon at shield combatant na gamitin ang kanyang iba pang armas upang aktibong mag-parry.
+Ang Pasibong Pagharang ay nagpapahintulot sa isang karakter na armado ng sandata na hawakan ito sa paraang natatakpan nito ang isang piniling lokasyon (o mga lokasyon kapag gumagamit ng kalasag), ngunit sa halas na hindi makapag-parry nang aktibo gamit ito (tingnan ang Ward Location). Anumang atake na tumama sa mga lokasyong iyon ay awtomatikong makakatanggap ng benepisyo ng sandata o kalasag, na nagpapababa ng pinsala nang normal. Ang teknik na ito ay karaniwang ginagamit kapag nais ng isang mandirigma na bantayan ang isang mahinang bahagi o sugatang lokasyon. Walang anumang humahadlang sa isang dual weapon, o mandirigmang may sandata at kalasag na gumamit ng kanyang isa pang sandata upang aktibong mag-parry.
 
-Dahil ang Passive Blocking ay gumagana sa parehong paraan ng takip, ang Espesyal na Epektong Choose Location ay hindi maaaring gamitin upang i-bypass ang block sa close combat, bagama't maaari pa ring gamitin ng mga kalaban ang epekto upang tamaan ang iba pang hindi nakaharang na lugar. Ang pagyuko sa likod ng isang kalasag ay nagpapahintulot sa isang karakter na doblehin ang bilang ng mga lokasyong sakop habang Passive Blocking.
+Dahil ang Pasibong Pagharang ay gumagana sa parehong paraan gaya ng cover, ang Espesyal na Epekto ng Choose Location ay hindi magagamit upang lampasan ang harang sa malapitang labanan, bagama't ang mga kalaban ay maaari pa ring gumamit ng epekto upang tumama sa ibang mga hindi nakaharang na bahagi. Ang pagyuko sa likod ng isang kalasag ay nagpapahintulot sa isang karakter na doblehin ang bilang ng mga lokasyong sakop habang nag-Pasibong Pagharang.
 
-### Sorpresa
+### Sorpresa (Surprise)
 
-Nangyayari ang sorpresa kapag ang isang hindi inaasahang pag-atake ay inilunsad laban sa mga kalaban na walang kamalayan sa presensya o intensyon ng umaatake. Ang isang ambush ay isang halimbawa ng nauna, habang ang taksil na pagtalikod sa isang walang pagdududang kaalyado sa panahon ng mapayapang pag-uusap ay naglalarawan ng huli.
+Ang sorpresa ay nangyayari kapag ang isang hindi inaasahang atake ay inilunsad laban sa mga kalaban na hindi alam ang presensya o layunin ng mananalakay. Ang isang ambush ay magiging halimbawa ng nauna, habang ang pagtatraydor sa isang hindi naghihinalang kakampi sa panahon ng palakaibigang pag-uusap ay naglalarawan sa huli.
 
-Ang mga epekto ng sorpresa sa isang target ay malakas:
+Ang mga epekto ng sorpresa sa isang target ay makapangyarihan:
 
-- Ang target ay nagdudulot ng –10 parusa sa Inisyatibo.
-- Hanggang dumating ang kanilang Inisyatibo, sila ay itinuturing na flat-footed at hindi makakapagtanggol sa sarili.
-- Ang unang pag-atake sa target, kung matagumpay, ay nakakakuha ng bonus na Espesyal na Epekto.
-- Sa natitirang bahagi ng Yugto, hindi sila maaaring magsagawa ng anumang opensibong Aksyon.
+- Ang target ay dumaranas ng –10 parusa sa Initiative.
+- Hanggang sa dumating ang kanilang Initiative, sila ay itinuturing na flat-footed at hindi kayang ipagtanggol ang kanilang sarili.
+- Ang unang atake sa target, kung matagumpay, ay nakakakuha ng bonus na Espesyal na Epekto.
+- Para sa natitirang bahagi ng Round, hindi sila maaaring magsagawa ng anumang opensibong Aksyon.
 
-### Sweep Attacks
+### Pag-atakeng Paniklop (Sweep Attacks)
 
-Ang mga sweep attack ay nangyayari sa desisyon ng Game Master, kapag ang mga armas o nilalang na may di-karaniwang laki ay umaatake sa isang magkakasamang grupo ng mga kalaban – ang tumatalas na buntot ng isang dambuhalang dragon o ang hindi mapipigilang charge ng isang higanteng triceratops halimbawa – na tinatamaan ang ilang kalaban nang sabay-sabay.
+Ang mga pag-atakeng paniklop ay nangyayari sa pasya ng Games Master, kapag ang mga sandata o nilalang na may hindi pangkaraniwang laki ay umatake sa isang grupo ng mga kalaban na magkakadikit – ang pumapalo na buntot ng isang dambuhalang dragon o ang hindi mapipigilang paglusong ng isang higanteng triceratops halimbawa – na tumatama sa maraming kalaban nang sabay-sabay.
 
-Ang isang sweep attack ay ginagawa sa pamamagitan ng paglalapat ng isang solong attack roll ng armas o nilalang sa lahat ng target sa kanyang landas. Kailangang lutasin ng bawat tagapagtanggol ang mga epekto ng atake nang hiwalay at ang anumang Espesyal na Epekto na ipinataw sa umaatake ay itinuturing na nangyari nang sabay-sabay.
+Ang isang pag-atakeng paniklop ay ginagawa sa pamamagitan ng paglalapat ng isang solong roll ng atake ng sandata o nilalang sa lahat ng target sa daanan nito. Ang bawat tagapagtanggol ay dapat lutasin ang mga epekto ng atake nang hiwalay at ang anumang mga Espesyal na Epekto na ipinataw sa mananalakay ay itinuturing na naganap nang sabay-sabay.
 
 ---
-## Ranged Combat
+## Malayuang Labanan (Ranged Combat)
 
-Ang ranged combat ay sumasakop sa lahat ng uri ng armas na kailangan barilin, ihagis, o isling upang tamaan ang kanilang target. Ang mga ranged attack ay nilulutas sa parehong paraan ng close combat. Gayunpaman, ang mga Ranged Weapon ay karaniwang maaaring iparada lamang gamit ang mga kalasag; ang mga walang kalasag ay kailangang umasa sa natural na takip o gumamit ng Evade upang lumihis sa linya ng putok. Kaya, laban sa mga kalaban na bahagyang nakasuot ng baluti, ang mga Ranged Weapon ay maaaring maging matinding panakot.
+Ang malayuang labanan ay kinabibilangan ng lahat ng anyo ng mga sandata na nangangailangan na iputok, ihagis, o gamitan ng sling upang tumama sa kanilang target. Ang mga malayuang atake ay nalulutas sa parehong paraan gaya ng malapitang labanan. Gayunpaman, ang mga Malayuang Sandata (Ranged Weapons) ay karaniwang mapaparri lamang gamit ang mga kalasag; ang mga wala nito ay dapat umasa sa natural na cover o gumamit ng Evade upang umilag sa linya ng putok. Kaya naman, laban sa mga kalaban na may mahinang baluti, ang mga Malayuang Sandata ay maaaring maging matinding panghadlang.
 
-Bawat Ranged Weapon ay may ilang partikular na katangian na tumutukoy sa epektibidad nito. Ang mga may pangunahing epekto sa labanan ay ang mga sumusunod:
+Ang bawat Malayuang Sandata ay may ilang partikular na katangian na tumutukoy sa pagiging epektibo nito. Ang mga may pangunahing impluwensya sa labanan ay ang mga sumusunod:
 
-- **Lakas (Force):** Ang Ranged Weapon na katumbas ng Laki. Ito ay isang abstrakto na sukat ng penetrative power ng isang armas o ng bala nito upang matukoy kung ang suntok ay nalampasan ang isang (shield) parry.
-- **Damage Modifier:** Ipinapakita ng Attribute na ito kung ang Damage Modifier ng umaatake ay maaaring gamitin upang palakasin ang damage roll ng Ranged Weapon. Sa pangkalahatan, tanging ang mga self-drawn bow at thrown weapon lamang ang nagpapahintulot sa gumagamit na ilapat ang kanilang Damage Modifier.
-- **Abot (Range):** Tatlong numero na pinaghihiwalay ng mga slash, na kumakatawan sa maximum na Close, Effective, at Long ranges ng armas o ng bala nito. Ang Close Range ay ang distansya kung saan maaaring gamitin ang Espesyal na Epektong Choose Location, sa kondisyon na ang target ay nakatayo o walang kamalay-malay sa nalalapit na pag-atake. Walang mahalagang modifier ang Effective Range. Sa Long Range, ang armas ay maaari pa ring magdulot ng pinsala, ngunit ang dami ng pinsala ay hahatiin, at ang Force ay bababa ng isang antas.
-- **Karga (Load):** Ang oras sa Turno na kailangan upang kargahan o i-reload ang isang armas na nagpapaputok ng bala. Maaaring bawasan ng isang karakter ang oras na ginugol sa pagkakarga o paghahanda sa pamamagitan ng paggamit ng Espesyal na Epektong Rapid Reload.
-- **Laki ng Pagtusok (Impale Size):** Ang Laki ng isang nakatusok na armas ay iba sa Lakas na itinutuktok nito. Ang mga Ranged impaling weapon ay may espesyal na column na nagpapahiwatig ng kanilang aktwal na laki kapag isinasaalang-alang ang mga hadlang na dulot ng Espesyal na Epektong Impale.
+- **Force:** Ang katumbas ng Sukat (SUK) para sa Malayuang Sandata. Ito ay isang abstract na sukat ng kapangyarihan sa pagtagos ng isang sandata o ng bala nito upang matukoy kung ang hampas ay malalagpasan ang isang (kalasag) parry.
+- **Damage Modifier:** Ipinapakita ng Katangiang ito kung ang Damage Modifier ng mananalakay ay maaaring gamitin upang palakasin ang roll ng pinsala ng Malayuang Sandata. Sa pangkalahatan, tanging ang mga bow na kinakaladkad mismo at mga ihahagis na sandata ang nagpapahintulot sa gumagamit na ilapat ang kanilang Damage Modifier.
+- **Range:** Tatlong numero na pinaghihiwalay ng mga slash, na kumakatawan sa maximum na Close, Effective, at Long range ng sandata o ng bala nito. Ang Close Range ay ang distansya kung saan maaaring gamitin ang Espesyal na Epekto ng Choose Location, sa kondisyong ang target ay nakatigil o walang kamalayan sa paparating na atake. Ang Effective Range ay walang makabuluhang modipikasyon. Sa Long Range, ang sandata ay maaari pa ring magdulot ng pinsala, ngunit ang halaga ng pinsala ay nahahati sa dalawa, at ang Force ay nababawasan ng isang hakbang.
+- **Load:** Ang oras sa Turns na kinakailangan upang magkarga o magkarga muli ng sandata na nagpapaputok ng bala. Ang isang karakter ay maaaring magbawas ng oras na ginugugol sa pagkakarga o paghahanda sa pamamagitan ng paggamit ng Espesyal na Epekto ng Rapid Reload.
+- **Impale Size:** Ang Sukat ng isang nakabaong sandata ay iba sa Force na itinama nito. Ang mga malayuang sandata na nakakabaon (impaling) ay may espesyal na column na nagtatakda ng kanilang aktwal na sukat kapag isinasaalang-alang ang mga hadlang na dulot ng Espesyal na Epekto ng Impale.
 
-### Mga Situational Modifier
+### Mga Sitwasyonal na Modipikasyon
 
-Tulad ng close combat, ang mga situational modifier ay maaaring ilapat kapag gumagamit ng Ranged Weapons sa partikular na kondisyon. Ang Combat Skill ng isang karakter ay maaaring limitahan kapag ginagamit ang armas sa mahirap na sitwasyon, tulad ng paghagis ng sibat habang nakasakay sa kabayo.
+Gaya ng sa malapitang labanan, ang mga sitwasyonal na modipikasyon ay maaaring ilapat kapag gumagamit ng mga Malayuang Sandata sa mga partikular na kondisyon. Ang Combat Skill ng isang karakter ay maaaring limitahan kapag gumagamit ng sandata sa mahihirap na sitwasyon, gaya ng paghagis ng sibat habang nakasakay sa kabayo.
 
-##### Mga Situational Modifier sa Ranged Combat
+##### Mga Sitwasyonal na Modipikasyon sa Malayuang Labanan
 
 | Sitwasyon | Antas ng Kahirapan |
 | :-- | --- |
-| Banayad na Hangin\* | Mahirap |
-| Katamtamang Hangin\* | Malubha |
-| Malakas na Hangin\* | Higit sa Karaniwan |
-| Bagyo, Sigwa, o Mas Malala\* | Walang Pag-asa |
-| Ang Target ay Tumatakbo | Mahirap |
-| Ang Target ay Nag-sprint | Malubha |
-| Ang Target ay natatakpan ng ulap o nasa bahagyang dilim | Mahirap |
-| Ang Target ay natatakpan ng makapal na usok o nasa dilim | Malubha |
-| Ang Target ay ganap na nakatakip | Higit sa Karaniwan |
-| Ang Target ay ganap na hindi nakikita | Imposible\*\* |
-| Ang Target ay nakahiga | Malubha |
-| Ang Umaatake ay nakahiga\*\*\* | Higit sa Karaniwan |
-| Ang Umaatake ay nasa hindi matatag na lupa | Mahirap |
+| Mahinang Hangin\* | Mahirap |
+| Katamtamang Hangin\* | Nakapanghihilakbot |
+| Malakas na Hangin\* | Herculean |
+| Bagyo, Unos, o Mas Malala\* | Hopeless |
+| Target ay Tumatakbo | Mahirap |
+| Target ay Naka-sprint | Nakapanghihilakbot |
+| Target na natatakpan ng ambon o nasa bahagyang kadiliman | Mahirap |
+| Target na natatakpan ng makapal na usok o nasa kadiliman | Nakapanghihilakbot |
+| Target na ganap na natatakpan | Herculean |
+| Target na ganap na hindi nakikita | Impossible\*\* |
+| Target ay nakadapa | Nakapanghihilakbot |
+| Mananalakay ay nakadapa\*\*\* | Herculean |
+| Mananalakay ay nasa hindi matatag na lupa | Mahirap |
 
-_\* Ipinapalagay na ang hinagis na armas o bala ay vulnerable sa crosswinds, at pinapalitan ang normal na parusa na ipinataw ng mga hangin sa normal na kasanayan._
+_\* Ipinapalagay na ang inihagis na sandata o bala ay bulnerable sa mga crosswind, at higit ito sa normal na parusa na ipinapataw ng hangin sa mga normal na skill._
 
-_\*\* Maliban kung ang pangkalahatang lokasyon ng target ay nabunyag o alam, kung gayon ituring bilang Herculean_
+_\*\* Maliban na lamang kung ang pangkalahatang lokasyon ng target ay naisiwalat o alam, kung gayon ituring bilang Herculean_
 
-_\*\*\* Maaaring mawala ang parusa kung gumagamit ng crossbow o baril mula sa isang inihandang posisyon._
+_\*\*\* Ang parusa ay maaaring mapawalang-bisa kung gumagamit ng crossbow o baril mula sa isang nakahandang posisyon._
 
-### Aiming
+### Pagpuntirya (Aiming)
 
-Sa paggugol ng karagdagang oras sa pagpuntirya ng Armas Pangmalayuan, maaaring mapataas ng isang karakter ang kanyang pagkakataong makatama. Nangangailangan ang pagpuntirya ng isang buong Yugto ng Labanan sa pagpapanatili ng armas at paghihintay ng pinakamagandang pagkakataon upang pakawalan, halimbawa ang pagpigil sa isang pana sa loob ng sandaling huminto ang hangin o hanggang sa lumipat ang isang target sa pagitan ng dalawang balakid. Sa pamamagitan ng pagpuntirya, maaaring bawasan ng karakter ang kahirapan ng isang Range o Situational Modifier ng isang antas. Ang karagdagang Yugto na ginugol sa pagpuntirya ay walang ibinibigay na karagdagang kalamangan.
+Sa pamamagitan ng paggugol ng karagdagang oras sa pagpuntirya ng isang Malayuang Sandata, maaaring mapataas ng isang karakter ang kanyang pagkakataong tumama. Ang pagpuntirya ay nangangailangan ng buong Combat Round para patatagin ang sandata at maghintay para sa pinakamagandang pagkakataon na magpakawala, halimbawa ay pagpigil sa pagpana hanggang sa sandaling humupa ang hangin o hanggang sa lumipat ang target sa pagitan ng dalawang harang. Sa pamamagitan ng pagpuntirya, maaaring bawasan ng karakter ang kahirapan ng isang Range o Situational Modifier ng isang antas. Ang mga karagdagang Round na ginugol sa pagpuntirya ay walang nagbibigay na karagdagang bentahe.
 
-### Awtomatikong Pagpapaputok
+### Awtomatikong Pagputok (Automatic Fire)
 
-Ang ilang baril ay awtomatikong nagkakarga ng susunod na bala, sa pamamagitan ng paggamit ng usok, recoil, o enerhiya mula sa nakaraang putok. Nang hindi na kailangang muling i-cock, nagbibigay ito sa armas ng iba't ibang bilis ng pagpapaputok, lahat ay depende sa dami ng bala na nais pakawalan ng gumagamit.
+Ang ilang baril ay awtomatikong nagkakarga ng susunod na bala, sa pamamagitan ng paggamit ng mga hanging basura, recoil, o enerhiya mula sa naunang putok. Dahil hindi na kailangang i-re-cock, nagbibigay ito sa sandata ng iba't ibang bilis ng pagputok, lahat ay nakadepende sa kung gaano karaming bala ang nais pakawalan ng gumagamit.
 
-Ang mga firing mode na ito ay kilala bilang Semi-Automatic, Burst at Full-Automatic. Bagama't ang kakayahang ito ay maaaring maging sanhi ng ilang baril na makapagdulot ng nakakatakot na pinsala, ang pagpapanatili ng katumpakan sa mga armas na may recoil ay may problema. Ipagpalagay na ang mga sumusunod na patakaran ay pangunahing nalalapat sa mga awtomatikong armas na nagpapaputok ng projectile.
+Ang mga firing mode na ito ay kilala bilang Semi-Automatic, Burst, at Full-Automatic. Bagama't ang kakayahang ito ay maaaring gawing kakayahan ng ilang baril na magdulot ng nakakatakot na pinsala, ang pagtatangkang panatilihin ang katumpakan sa mga sandatang may recoil ay may problema. Ipagpalagay na ang mga sumusunod na tuntunin ay pangunahing nalalapat sa mga baril na nagpapaputok ng mga projectile na awtomatiko.
 
-#### Semi-Awtomatiko
+#### Semi-Automatic
 
-Ito ang aktwal na default na bilis ng pagpapaputok para sa karamihan ng mga baril, kung saan bawat paghila ng gatilyo ay nagpapaputok ng isang bala at nagkakarga ng susunod na bala.
+Ito ay ang default na bilis ng pagputok para sa karamihan ng mga baril, kung saan ang bawat kalabit ng gatilyo ay nagpapaputok ng isang bala at nagkakarga ng susunod.
 
 #### Burst
 
-Para sa burst fire, bawat paghila sa gatilyo ay naglalabas ng maikling bilang ng mga bala, karaniwan ay hindi hihigit sa tatlo hanggang lima depende sa armas. Ang orihinal na layunin nito ay payagan ang limitadong suppression fire ngunit limitahan ang labis na paggamit ng bala. Hindi ito nilayon upang pagbutihin ang pagkakataong makatama ng shooter dahil ang mabilis, sunud-sunod na recoil ay patuloy na nagpapalihis ng armas. Ang pagpapaputok sa burst mode ay nagpapataw ng parusa sa grado ng Hard sa attack roll. Kung ang pag-atake ay magtagumpay gayunpaman, ang shooter ay gumugulong ng dice upang makita kung gaano karami sa mga bala sa burst na iyon ang tumama sa target. Kaya, ang isang three round burst ay gagamit ng 1d3. Gumulong ng hiwalay na lokasyon at pinsala para sa bawat bala na tumama.
+Para sa burst fire, ang bawat kalabit ng gatilyo ay nagpapakawala ng maikling bilang ng mga bala, kadalasan ay hindi hihigit sa tatlo hanggang lima depende sa sandata. Ang orihinal na layunin nito ay payagan ang limitadong suppression fire ngunit limitahan ang labis na paggamit ng bala. Hindi ito nilayon upang mapabuti ang tsansa ng tagabaril na tumama dahil ang mabilis at magkakasunod na recoil ay patuloy na naglilipat sa sandata palabas ng linya. Ang pagputok sa burst mode ay nagpapataw ng antas ng parusa na Mahirap sa roll ng atake. Kung ang atake ay nagtagumpay gayunpaman, ang tagabaril ay nag-ro-roll ng dice upang makita kung ilan sa mga bala sa burst na iyon ang tumama sa target. Kaya, ang isang tatlong-balang burst ay gagamit ng 1d3. Mag-roll ng magkahiwalay na lokasyon at pinsala para sa bawat bala na tumama.
 
-#### Full-Awtomatiko
+#### Full-Automatic
 
-Karaniwang ginagamit para sa ganap na suppressing fire upang ipitin ang maraming target, ang full-automatic ay maaaring maging mapaminsala kung ipaputok sa isang malapit na pinagsama-samang grupo ng mga kaaway. Magpapasya ang shooter kung ilang bala ang ipapaputok (hanggang sa limitasyon ng cyclic rate ng armas) na pagkatapos ay pantay na ipamahagi sa lahat ng target na kasama sa arc of fire. Ang anumang sobrang bala ay itinuturing na nawala habang dumadaan sa pagpuntirya (kaya ang pagpapaputok ng 15 bala sa 6 na target ay magiging dalawang bala bawat isa). Ang isang hiwalay na attack roll ay ginagawa para sa bawat target, ngunit sa isang antas ng kahirapan ng Formidable dahil sa nadagdagang epekto ng recoil ng patuloy na putok. Ang mga target na tinamaan ay nakakaranas ng random na bilang ng mga bala tulad ng sa Burst Fire.
+Karaniwang ginagamit para sa full blown na suppressing fire upang ikulong ang maraming target, ang full-automatic ay maaaring maging mapanira kung ipaputok sa isang grupo ng mga kalaban na magkakadikit. Nagpapasya ang tagabaril kung ilang bala ang ipaputok (hanggang sa limitasyon ng cyclic rate ng sandata) na pagkatapos ay pantay na ipapamahagi sa lahat ng mga target na kasama sa arko ng putok. Anumang ekstrang bala ay itinuturing na nawala habang inililipat ang puntirya (kaya ang pagputok ng 15 bala sa 6 na target ay magiging dalawang bala bawat isa). Isang magkahiwalay na roll ng atake ang ginagawa para sa bawat target, ngunit sa antas ng kahirapan na Nakapanghihilakbot dahil sa tumaas na epekto ng recoil ng tuloy-tuloy na pagputok. Ang mga target na tinamaan ay dumaranas ng random na bilang ng mga bala ayon sa Burst Fire.
 
-Tandaan na tanging ang unang putok na tumama sa panahon ng burst o full automatic spray ang maaaring makakuha ng benepisyo mula sa mga espesyal na epekto. Kaya, ang paggulong ng isang critical attack habang nagpapaputok sa automatic mode ay magpapahintulot sa pagpili ng Maximize Damage, ngunit sa unang putok lamang, kahit na ang lahat ng natitirang bala ay tumama.
+Tandaan na tanging ang unang bala lamang na tumama habang nag-Burst o Full-Automatic na spray ang makikinabang sa mga espesyal na epekto. Kaya, ang pag-roll ng kritikal na atake habang nagpapaputok sa automatic mode ay magpapahintulot sa pagpili ng Maximize Damage, ngunit sa unang bala lamang, kahit na ang lahat ng natitirang mga bala ay tumama.#### Bakit Napakabigat ng Parusa sa Automatic Fire?
 
-#### Bakit Masyadong Malubha ang Parusa sa Awtomatikong Pagpapaputok?
+Maaaring magmukhang labis na malupit ang mga panuntunan para sa automatic fire kung ihahambing sa hitsura ng katumpakan ng mga modernong baril. May ilang dahilan para dito, kung saan ang pangunahin ay ang streamlining at balanse ng laro. Ang mga manlalaro na pumupuna sa kawalan ng katumpakan ng kanilang karakter ay dapat paalalahanan na ang anumang pagbabago sa mga panuntunan ay ilalapat din laban sa kanila, na isang bagay na dapat pag-isipan nang mabuti dahil sa pagkamatay na dulot ng mabilis na pagpapaputok.
 
-Maaaring lumabas na ang mga patakaran para sa awtomatikong pagpapaputok ay labis na malupit kumpara sa tila tumpak na mga modernong baril. May ilang dahilan para dito, ang pangunahing dahilan ay ang pagpapabilis at balanse ng laro. Ang mga manlalaro na kritikal sa kawalang-katumpakan ng kanilang karakter ay dapat paalalahanan na anumang pagbabago sa mga patakaran ay ilalapat din sa kanila, na ibinigay ang pagiging nakamamatay ng mabilis na putok ay dapat maging isang nakakapagpatahimik na pag-iisip.
-
-Siyempre, ang ilan sa mga parusang ito sa recoil ay maaaring bawasan, halimbawa sa paggamit ng Steady Weapon upang i-brace ang mga awtomatikong baril. Ang totoo sa bagay ay, ang mga barilan ay ibang-iba sa target shooting sa isang firing range. Ang likas na ugali na magtago kapag bumubulusok ang mga bala, ang pangangailangang manatiling mobile at bawat putok na tumutukoy sa shooter sa pamamagitan ng kanyang muzzle flash o tunog, ay madalas na pumipigil sa anumang pagkakataon ng pagpuntirya o pag-brace. Ang pariralang 'Spray and Pray' ay nilikha para sa napakagandang dahilan!
+Siyempre, ang ilan sa mga parusang ito sa recoil ay maaaring mabawasan, halimbawa sa pamamagitan ng paggamit ng Steady Weapon upang i-brace ang mga automatic firearm. Ngunit ang katotohanan ng bagay ay ang mga palitan ng putukan ay ibang-iba sa target shooting sa isang gun range. Ang instinct na magtago sa cover kapag may mga bala sa paligid, ang pangangailangang manatiling mobile, at ang bawat putok na nagtuturo sa lokasyon ng tagabaril dahil sa flash ng nguso o tunog nito, ay madalas na pumipigil sa anumang pagkakataong mag-aim o mag-brace. Ang pariralang 'Spray and Pray' ay ginawa para sa napakagandang dahilan!
 
 ### Dual Firearms
 
-Maaaring gumamit ng dalawang baril ang mga karakter, pinapaputok ang parehong armas nang sabay sa kanilang Turno upang makakuha ng mas mabilis na bilis ng pagpapaputok. Gayunpaman, ito ay may parusa sa katumpakan. Ang pagpapaputok ng pistol sa bawat kamay ay nagdudulot ng parusa na Hard upang tamaan ang target. Ang mga sumusubok na sabay-sabay na magpaputok gamit ang isang carbine o SMG sa bawat kamay ay nagdudulot ng parusa na Formidable.
+Ang mga karakter ay maaaring gumamit ng dalawang baril, na nagpapaputok ng parehong sandata nang sabay sa kanilang Turn upang makakuha ng mas mabilis na rate of fire. Gayunpaman, ito ay may kasamang parusa sa katumpakan. Ang pagpapaputok ng pistol sa bawat kamay ay may parusang Hard na tamaan ang target. Ang mga sumusubok na sabay na magpaputok gamit ang isang carbine o SMG sa bawat kamay ay dumaranas ng parusang Formidable.
 
-### Pagpapaputok sa Isang Puno ng Tao
+### Pagpapaputok sa Siksikang Tao (Crowd)
 
-Ang pagpapaputok sa umuusad at umaagos na close combat ay maaaring maging mapanganib, kaya't palaging may panganib na aksidenteng tamaan ang ibang tao maliban sa orihinal na target na pinupuntirya. Kapag bumabaril sa isang partikular na target sa gilid ng isang pulutong o melee, ang atake ay nagdudulot ng Antas ng Kahirapan na Hard. Kung sinusubukan itong barilin sa pamamagitan, dapat itong itaas sa Formidable. Ang pagpuntirya ay pinahihintulutan pa rin upang makatulong na bawasan ang panganib.
+Ang pagpapaputok sa gitna ng magulong paggalaw ng isang melee ay maaaring maging mapanganib na negosyo, kaya laging may panganib na aksidenteng matamaan ang ibang tao maliban sa orihinal na target na pinupuntirya. Kapag nagpapaputok sa isang partikular na target sa gilid ng isang grupo o melee, ang pag-atake ay dumaranas ng Difficulty Grade na Hard. Kung susubukang magpaputok sa gitna nito, dapat itong itaas sa Formidable. Pinapayagan pa rin ang Aiming upang makatulong na mabawasan ang panganib.
 
-Ang isang marksman na pumasa sa kanyang attack roll sa kabila ng parusa sa kahirapan ay tumpak na pumuntirya at tatama sa kanyang nilalayon na target. Kung, gayunpaman, nabigo ang marksman sa roll, ngunit sana ay nagtagumpay kung hindi dahil sa parusa ng 'firing into a crowd', kung gayon ang isang katabing biktima ang tatamaan (na malayang Mag-Evade o Mag-Parry tulad ng normal).
+Ang isang marksman na pumasa sa kanyang attack roll sa kabila ng parusa sa kahirapan ay nag-aim nang tama at tatamaan ang kanyang nilalayong target. Kung, gayunpaman, mabigo ang marksman sa roll, ngunit sana ay nagtagumpay kung hindi dahil sa parusang 'pagpapaputok sa crowd', ang isang katabing biktima ang tatamaan sa halip (na malayang mag-Evade o Parry gaya ng normal).
 
-Kung higit sa isang target ang nasa linya ng putok, dapat tukuyin ng Game Master ang biktima nang random. Anumang Espesyal na Epekto na napanalunan bilang bahagi ng pag-atake ay nalalapat lamang sa orihinal na target, hindi sa anumang aksidenteng tinamaan na bystander.
+Kung higit sa isang target ang nasa linya ng putok, dapat tukuyin ng Games Master ang biktima nang random. Ang anumang Special Effects na napanalunan bilang bahagi ng pag-atake ay para lamang sa orihinal na target, hindi sa anumang aksidenteng natamaan na bystander.
 
-### Pag-fumble sa Mga Baril
+### Pagkakamali (Fumble) sa mga Baril
 
-Dahil ang putok ng baril ay karaniwang hindi nilalabanan ng magkasalungat na kasanayan, isang espesyal na probisyon ang dapat gawin kapag ang isang shooter ay nag-fumble sa kanyang attack roll. Sa kasong ito, sinuman ang nilalayon na target ay pinahihintulutan na pumili ng isang espesyal na epekto na partikular sa fumble, na pagkatapos ay mararanasan ng shooter. Tingnan din ang fumble only na Espesyal na Epekto - Weapon Malfunction.
+Dahil ang putok ng baril ay karaniwang hindi nilalabanan ng isang kalabang skill, ang isang espesyal na probisyon ay dapat gawin kapag ang isang tagabaril ay nag-fumble sa kanilang attack roll. Sa kasong ito, ang sinumang nilalayong target ay pinapayagang pumili ng isang fumble-specific na special effect, na mararanasan ng tagabaril. Tingnan din ang fumble-only Special Effect - Weapon Malfunction.
 
-### Pagparry ng Putok ng Armas gamit ang Mga Kalasag
+### Pag-parry ng Putok ng Baril gamit ang mga Kalasag
 
-Tulad ng ipinahayag kanina, halos imposible na sadyang iparada ang isang supersonic projectile o energy beam. Gayunpaman, nagbibigay pa rin ng proteksyon ang mga kalasag dahil sa epekto, ito ay portable na 'cover'. Upang magamit ang isang kalasag sa isang putukan, gamitin lamang ang mga patakaran ng Passive Blocking mula sa seksyon ng [Close Combat](0005_Combat.md?id=passive-blocking), sa itaas.
+Gaya ng ipinahayag kanina, halos imposible na sadyang i-parry ang isang supersonic projectile o energy beam. Gayunpaman, ang mga kalasag ay nagbibigay pa rin ng antas ng proteksyon dahil sa epekto, ang mga ito ay portable na 'cover'. Upang gumamit ng kalasag sa isang palitan ng putukan, gamitin lamang ang mga panuntunan ng Passive Blocking mula sa seksyong [Close Combat](0005_Combat.md?id=passive-blocking), sa itaas.
 
-Tungkol sa mas modernong baril o sa mga may katangiang science fiction, maaaring naisin ng isang Game Master na bigyan ang kalasag ng halaga ng Puntos ng Baluti sa halip na magtalaga ng Laki, batay sa likas na materyal na pinaggagawan nito. Halimbawa, ang isang kahoy na kalasag ay maaaring ituring na 4 Puntos ng Baluti, isang Kevlar tactical shield na 8 AP, at isang Ulysses 31 bracelet force field shield na 15 AP.
+Tungkol sa mas modernong mga baril o mga nasa kategoryang science fiction, maaaring naisin ng isang Game Master na bigyan ang kalasag ng halagang Armor Point sa halip na magtalaga ng Size, base sa likas na materyales na pinaggawaan nito. Halimbawa, ang isang kahoy na kalasag ay maaaring ituring na 4 Armor Points, ang Kevlar tactical shield na 8 AP, at ang Ulysses 31 bracelet force field shield na 15 AP.
 
-### Mga Telescopic Sight
+### Telescopic Sights
 
-Pinapabuti ng telescopic sight ang katumpakan ng isang baril sa mas malalayong distansya kapag naglaan ng oras ang user upang magpuntirya nang maayos (tingnan ang Aiming). Ang pinakapangunahing telescopic sight ay optical magnifier lamang, ngunit habang sumusulong ang teknolohiya, nagsisimula na itong magsama ng integral rangefinder, projectile trajectory calculator, air movement sensors, atmospheric lensing compensators, IR o low light amplifier at iba pang gadget na nagpapabuti ng epektibong 'hit' distance nito.
+Ang isang telescopic sight ay nagpapabuti sa katumpakan ng isang baril sa mas malalayong distansya kapag ang gumagamit ay naglalaan ng oras upang mag-aim nang maayos (tingnan ang Aiming). Ang pinakapangunahing telescopic sights ay mga optical magnifier lamang, ngunit habang umuunlad ang teknolohiya, nagsisimula na silang magsama ng mga integral rangefinder, calculator ng trajectory ng projectile, mga sensor ng paggalaw ng hangin, atmospheric lensing compensator, IR o low light amplifier at marami pang ibang gadget na nagpapabuti sa epektibong distansya ng 'hit' nito.
 
-Ginagawang mas madali ng Telescopic Sights ang mga skill roll ng isa o higit pang Antas (tingnan ang [Modifying Skills](0003_Skills.md?id=modifying-skills)), depende sa pagiging sopistikado ng sight. Walang sight ang makakagawa ng isang skill roll na Awtomatikong tagumpay, kaya ang pinakamahusay na Antas na maaaring makamit ay Very Easy.
+Ang mga Telescopic Sight ay nagpapadali sa mga skill roll ng isa o higit pang Grade (tingnan ang [Modifying Skills](0003_Skills.md?id=modifying-skills)), depende sa pagiging sopistikado ng sight. Walang sight ang makakagawa sa isang skill roll na maging awtomatikong tagumpay (Automatic success), kaya ang pinakamahusay na Grade na maaaring makuha ay Very Easy.
 
 ---
-## Mga Armas at Baluti
+## Mga Armas at Armor
 
-Inilalahad dito ang isang seleksyon ng baluti at armas mula sa iba't ibang setting at milieus.
+Narito ang isang seleksyon ng armor at mga armas mula sa iba't ibang setting at milieu.
 
-### Sample na Talaan ng Baluti
+### Talahanayan ng Sample Armor
 
-| Sinauna/Medibyal | Moderno | Futuristik | Puntos ng Baluti |
+| Sinauna/Medieval | Moderno | Futuristic | Armor Points |
 | :-- | :-- | :-- | :-: |
 | Furs/Hides | Bike Leathers | | 1 |
 | Aketon, Gambeson | Sports Gear | | 2 |
@@ -798,9 +786,9 @@ Inilalahad dito ang isang seleksyon ng baluti at armas mula sa iba't ibang setti
 | | Type IV Bulletproof Vest | | 10 |
 | | | Full Assault Armor | 12 |
 
-### Sample na Talaan ng Kalasag
+### Talahanayan ng Sample Shield
 
-| Uri ng Kalasag | Pinsala | Laki | AP/HP | Bilang ng Lokasyon para sa Passive Blocking |
+| Uri ng Kalasag | Damage | Size | AP/HP | Bilang ng Lokasyon para sa Passive Blocking |
 | :-- | :-: | :-: | :-: | :-: |
 | Buckler | 1d3 | M | 6/9 | 2 |
 | Heater | 1d4 | L | 6/12 | 3 |
@@ -808,35 +796,35 @@ Inilalahad dito ang isang seleksyon ng baluti at armas mula sa iba't ibang setti
 | Scutum | 1d4 | H | 4/18 | 5 |
 | Viking/Riot Shield | 1d4 | L | 4/12 | 4 |
 
-### Sample na Melee Weapons
+### Sample na mga Armas na Melee
 
-| Armas | Pinsala | Laki | AP/HP | Mga Tala |
+| Armas | Damage | Size | AP/HP | Mga Tala |
 | :-- | :-: | :-: | :-: | :-- |
-| Palakol | 1d6+1 | M | 4/8 | Maaaring Siraing ang Baluti |
+| Axe | 1d6+1 | M | 4/8 | Maaaring mag-Sunder ng Armor |
 | Broadsword | 1d8 | M | 6/10 | — |
-| Kadena | 1d4 | M | 8/6 | Maaaring ibuhol |
+| Chain | 1d4 | M | 8/6 | Maaaring makapulupot (entangle) |
 | Club | 1d6 | M | 4/4 | — |
 | Dagger | 1d4+1 | S | 6/8 | Maaaring ihagis |
-| Kamao/Sipa | 1d3 | S | — | Pinsala sa Walang Armas na Labanan ng Tao |
-| Longsword | 1d8 | M | 6/12 | Two handed |
-| Mase | 1d8 | M | 6/6 | — |
-| Lambat | 1d4 | S | 2/20 | Panghuli, Ihagis |
+| Fist/Kick | 1d3 | S | — | Damage ng Human Unarmed Combat |
+| Longsword | 1d8 | M | 6/12 | Dalawang kamay |
+| Mace | 1d8 | M | 6/6 | — |
+| Net | 1d4 | S | 2/20 | Nakakahuli (Entrapping), Inihahagis |
 | Shortsword | 1d6 | M | 6/8 | — |
-| 1H Sibat | 1d8+1 | M | 4/5 | |
-| 2H Sibat | 1d10+1 | L | 4/10 | Maaaring ihanda upang tanggapin ang isang singil |
-| War hammer | 1d8+1 | M | 3/8 | Two handed |
-| Latigo | 1d3 | M | 2/8 | Nangangalito |
+| 1H Spear | 1d8+1 | M | 4/5 | |
+| 2H Spear | 1d10+1 | L | 4/10 | Maaaring ihanda para tumanggap ng charge |
+| War hammer | 1d8+1 | M | 3/8 | Dalawang kamay |
+| Whip | 1d3 | M | 2/8 | Nakakapulupot (Entangling) |
 
-### Sample na Ranged Weapons
+### Sample na mga Armas na Ranged
 
-| Armas | Pinsala | Damage Modifier | Lakas | Abot (Metro) | Karga | Laki ng Pagtusok | AP/HP |
+| Armas | Damage | Damage Modifier | Force | Range (Metros) | Load | Impale Size | AP/HP |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Bolas | 1d4 | N | — | 10/25/50 | — | — | 2/2 |
-| Pana | 1d8 | Y | L | 15/100/200 | 1 | S | 4/4 |
+| Bow | 1d8 | Y | L | 15/100/200 | 1 | S | 4/4 |
 | Dagger | 1d4 | Y | S | 5/10/20 | — | S | 4/8 |
 | Javelin | 1d8+1 | Y | H | 10/20/50 | — | M | 3/8 |
-| Tirador | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
-| Bato | 1d3 | Y | S | 5/10/20 | — | — | — |
+| Sling | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
+| Stone/Rock | 1d3 | Y | S | 5/10/20 | — | — | — |
 | Pistol | 1d6 | N | L | 50/100/200 | 2 | — | — |
 | Rifle | 2d6 | N | H | 100/300/2000 | 2 | — | — |
 | Shotgun | 3d6 | N | M | 20/50/200 | 3 | — | — |

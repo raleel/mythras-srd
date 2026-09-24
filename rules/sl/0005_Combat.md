@@ -1,454 +1,448 @@
 # Boj
 
-Boj je pomembna značilnost iger igranja vlog. Nasilna konfrontacija je bila od nekdaj način reševanja problemov, od bojev zaradi maščevanja med sovražniki do spopadov vojsk v času vojne. Kljub temu boj ni nujno divja bitka na smrt. Nekateri bojni spopadi so lahko mečevanja, ki se končajo brez poškodb, ali morda lahkotni pretepi v gostilni. _Mythras Imperative_ uporablja več izrazov za razlago osrednjih elementov boja. Ti so razloženi v naslednjih oddelkih, na kratko pa so to:
-- **Bojni stil:** Veščina vihtenja skupine orožij, naučena kot del kulture ali poklica.
-- **Bojne runde:** Časovni segmenti vodenja evidenc, vsak po pet sekund.
-- **Bojna dejanja:** Možna dejanja, ki jih lik lahko izvede med rundo s porabo akcijske točke.
-- **Velikost orožja:** Kako težko je parirati določeno orožje.
-- **Angažma:** Ko se borci lahko udarjajo ali so udarjeni s strani neposrednega nasprotnika, odvisno od okoliščin.
-- **Posebni učinki:** Bojni manevri, ki jih je mogoče izvesti, če en borec pridobi premoč.
+Boj je pomemben element namiznih iger vlog. Nasilni spopadi so bili vedno način reševanja težav, od maščevalnih dvobojev med sovražniki do spopadov vojsk v času vojne. Vendar pa boju ni treba biti krvoločen boj na življenje in smrt. Nekateri bojni spopadi so lahko viteški dvoboji, ki se končajo brez poškodb, ali morda lahkotni pretepi v gostilni. _Mythras Imperative_ uporablja več izrazov za razlago osrednjih elementov boja. Ti so razloženi v naslednjih poglavjih, na kratko pa so:
+- **Bojni slog:** Veščina rokovanja s skupino orožij, pridobljena kot del kulture ali poklica.
+- **Bojni krogi:** Časovni segmenti za vodenje evidence, vsak traja pet sekund.
+- **Bojna dejanja:** Možna dejanja, ki jih lahko lik izvede med krogom s porabo akcijske točke.
+- **Velikost orožja:** Kako težko je odbiti določeno orožje.
+- **Vključenost:** Ko se borci lahko udarijo ali so zadeti od neposrednega nasprotnika, odvisno od okoliščin.
+- **Posebni učinki:** Bojni manevri, ki se lahko izvedejo, če borec pridobi prednost.
 
 ---
-## Bojni stili
+## Bojni slogi
 
-Bojni stil predstavlja 'paket' več orožij, povezanih po svoji naravi, kar preprečuje potrebo po učenju vsakega posameznega orožja posebej.
+Bojni slog predstavlja 'paket' več orožij, povezanih po njihovi naravi, kar preprečuje potrebo po ločenem učenju vsakega posameznega orožja.
 
-Najpomembnejši vidik bojne veščine je, da se lik nauči uporabljati vsako orožje v veščini, tako posamezno kot v kombinaciji, tako da jih lahko po potrebi zamenja. Bojno usposabljanje se ne osredotoča zgolj na uporabo specifičnega orožja ali orožij v najboljših pogojih, ampak zajema tudi, kaj storiti, ko se znajdete v resnem slabšem položaju. Takšno križno usposabljanje je primarni del priprave borca na nepredvidljive dogodke bojišča, kjer sta zlom orožja ali razorožitev vedno potencialna možnost.
+Najpomembnejši vidik bojne veščine je, da se lik nauči uporabljati vsako orožje v slogu, tako posamično kot v kombinaciji, da se lahko po potrebi med seboj zamenjajo. Bojno usposabljanje se ne osredotoča zgolj na uporabo določenega orožja ali orožij v najboljših pogojih, temveč zajema tudi to, kaj storiti, ko se znajdete v hudem položaju. Takšno navzkrižno usposabljanje je ključni del priprave borca na nepredvidljive dogodke na bojišču, kjer sta zlom orožja ali razorožitev vedno možna možnost.
 
-Tako se od hiperborejskega barbara pričakuje, da zna uporabljati sulico, ročno sekiro, kopje in ščit, medtem ko je sumerski bojevnik lahko usposobljen za kratki meč, bojno kladivo, ščit in lok. Odločitev, koliko orožij naj bo vključenih v en stil, je navsezadnje izbira, ki jo določita vodja igre in okolje igre.
+Tako se od hiperborejskega barbara pričakuje, da zna uporabljati kopje, ročno sekiro, sulico in ščit, medtem ko je sumerski bojevnik morda usposobljen za kratki meč, kij, ščit in lok. Odločitev o tem, koliko orožij naj bo vključenih v en slog, je končno izbira, ki jo določita mojster iger in okolje igre.
 
-Liki, ki poskušajo uporabiti orožje, ki ga njihov stil ne pokriva, naj trpijo kazen za veščino enega ali več težavnostnih razredov.
+Liki, ki poskušajo uporabiti orožje, ki ga njihov slog ne zajema, trpijo kazen na veščino v višini ene ali več stopenj težavnosti.
 
-Bojni stili imajo še eno funkcijo poleg preprostega učenja skupine orožnih veščin. Ker se vsak stil poučuje v določeni kulturi ali poklicu, so inherentno optimizirani za okolje ali vojaške taktike, s katerimi se ta skupina običajno bori; na primer, konjski nomad se nauči boriti s sedla, ali pa pešak trenira boj v tesni formaciji. Zato, kot dodaten bonus, se nekaterim bojnim stilom lahko dodeli ena ali več lastnosti, ki jim dajejo prednost pod določenimi okoliščinami. Lastnosti so namenjene le uporabi z orožjem in situacijami tega specifičnega stila. Očitno obstaja nešteto lastnosti, od katerih so mnoge specifične za določeno obdobje ali svet kampanje.
+Bojni slogi imajo še drugo funkcijo poleg preprostega učenja skupine orožnih veščin. Ker vsak slog poučuje določena kultura ali poklic, so ti naravno optimizirani za okolje ali vojaško taktiko, s katero se ta skupina običajno bori; na primer, konjeniški nomad se nauči boriti s sedla, pešak pa se usposobi za boj v tesni formaciji. Zato lahko nekateri bojni slogi kot dodaten bonus prejmejo eno ali več lastnosti, ki jim prinašajo prednost v določenih okoliščinah. Lastnosti so namenjene uporabi le z orožji in situacijami tega določenega sloga. Očitno obstaja nešteto lastnosti, od katerih so mnoge specifične za določeno obdobje ali svet kampanje.
 
-##### Tabela lastnosti bojnih stilov
+##### Tabela lastnosti bojnega sloga
 
 | Lastnost | Opis |
 | :-- | :-- |
-| Kopjenik na živali | Izvedba konjeniškega napada s tem bojnim stilom ne povzroči kazni enega koraka težavnosti za zadetek. |
-| Boj na slepo | Uporabniku omogoča, da ignorira kazni, naložene zaradi slabe osvetlitve ali začasne oslepitve. |
-| Drznež | Lahko uporabi veščino Izmikanje za izogibanje udarcem v boju od blizu, ne da bi končal leže. |
-| Obrambno usmerjen | Poveča velikost vašega orožja pri pariranju za en korak, pod pogojem, da v tisti rundi ni izvedenega nobenega ofenzivnega dejanja. |
-| Formacijski boj | Trem ali več neobkoljenim bojevnikom omogoča, da se združijo v tesno formacijo, kar postavi bolj odprte ali neurejene nasprotnike v slabši položaj in zmanjša akcijske točke vsakega sovražnika za eno, če se angažirajo. |
-| Udar za nokavt | Pri napadu iz zasede, obravnavajte vsako lokacijo omamljenja kot da traja minute namesto potez. |
-| Boj na konju | Liku omogoča, da ignorira omejitev veščine, postavljeno na bojne mete s strani veščine Jahanje. |
-| Ostrostrelec na daljavo | Pri uporabi orožja na daljavo, premaknite naključni met lokacije zadetka na sosednjo lokacijo telesa. |
-| Boj s skirmishingom | Stil omogoča izstreljevanje napadov na daljavo med hojo ali tekom. |
-| Metanje orožja | Vsako melee orožje v stilu je mogoče tudi vreči brez kazni za veščino, vendar se pri takšni uporabi met poškodbe orožja razpolovi. |
-| Brezorožna spretnost | Uporabniku omogoča, da obravnava svoje brezorožne bloke in pariranje kot 'srednje' velikosti, kar mu omogoča boljšo obrambo pred oboroženimi nasprotniki. |
+| Kopjanik na zveri | Izvedba konjeniškega naleta s tem bojnim slogom ne prinese kazni ene stopnje težavnosti pri zadetku. |
+| Boj v slepoti | Uporabniku omogoča ignoriranje kakršnih koli kazni zaradi slabe osvetlitve ali začasne slepote. |
+| Drznež | Lahko uporabi veščino Izmikanje za blokiranje udarcev v boju iz bližine, ne da bi padel na tla. |
+| Defenzivno naravnan | Poveča VEL vašega orožja pri pariranju za eno stopnjo, če v tem krogu ne izvedete nobenega napadalnega dejanja. |
+| Boj v formaciji | Skupini treh ali več bojevnikov, ki niso obkroženi, omogoča tesno formacijo, kar postavi bolj odprte ali neurejene nasprotnike v slabši položaj in vsakemu nasprotniku zmanjša akcijske točke za ena, če se vključijo v boj. |
+| Nokavt udarec | Pri napadu s presenečenjem štejte, da vsaka omotičnost lokacije traja minute namesto krogov. |
+| Konjeniški boj | Likom omogoča ignoriranje omejitve veščine, ki jo na bojne mete postavlja veščina Jahanje. |
+| Strelski ostrostrelec | Pri uporabi orožja na daljavo premaknite naključni met za lokacijo zadetka na sosednjo lokacijo telesa. |
+| Skirmishing | Slog omogoča izvajanje napadov na daljavo med hojo ali tekom. |
+| Metanje orožja | Katero koli orožje za boj iz bližine v slogu se lahko vrže brez kazni na veščino, vendar se pri uporabi na ta način met škode orožja prepolovi. |
+| Bojna spretnost brez orožja | Uporabniku omogoča, da svoje bloke in pariranja brez orožja obravnava kot 'srednje' velike, kar mu omogoča boljšo obrambo pred oboroženimi nasprotniki. |
 
 ---
 ## Potek boja
 
-Da bi poudarili njegovo visceralno naravo, se boj spremlja udarec za udarcem. Za lažje vodenje evidenc so boji razdeljeni na bojne runde, vsaka po pet sekund. V tem obdobju lahko borci izvajajo napade od blizu ali se branijo pred njimi, manevrirajo v boj in iz njega, streljajo ali mečejo orožje na daljavo in tako naprej. Podobno kot v resničnem življenju se večina bojnih spopadov – ko so enkrat začeti – zaključi v nekaj sekundah in ne minutah. V igri to pomeni več bojnih rund, razen če se udeleženci umaknejo, da bi morda ponastavili pobudo, ponovno ocenili svoj taktični položaj ali si preprosto privoščili trenutni počitek, preden se ponovno spopadejo. Le boji med dobro usklajenimi sovražniki ali zaporedja nasprotnikov ponavadi trajajo dlje.
+Da bi poudarili njegovo visceralno naravo, se boj spremlja udarec po udarec. Za lažje vodenje evidence so spopadi razdeljeni na bojne kroge, od katerih vsak traja pet sekund. V tem obdobju lahko borci izvajajo napade iz bližine ali se pred njimi branijo, manevrirajo v boj in iz njega, streljajo ali mečejo orožje na daljavo itd. Podobno kot v resničnem življenju se večina bojnih spopadov – ko se enkrat začnejo – konča v nekaj sekundah in ne minutah. V igralnem smislu to pomeni več bojnih krogov, razen če se udeleženci umaknejo, da morda ponastavijo iniciativo, ponovno ocenijo svoj taktični položaj ali preprosto za trenutek počivajo, preden se ponovno vključijo v boj. Le boji med enakovrednimi nasprotniki ali zaporedja nasprotnikov trajajo dlje.
 
 ---
 ## Strelno orožje
 
-Če v igri _Mythras Imperative_ uporabljate strelno orožje, je treba upoštevati nekaj stvari glede smrtonosnosti streljanja. Prvič, skoraj nemogoče se je izogniti laserskim žarkom ali nabojem, ki potujejo hitreje od človeških refleksov. Z uporabo predstavljenih pravil za boj to pomeni, da bo žrtev, razen če se poskuša izogniti območju z uporabo Izmikanja, vsak zadetek takoj izpostavil enemu ali več Posebnih učinkov. Spremeni se tudi ekonomija akcijskih točk. Če ne morete uporabiti točk za reaktivno obrambo, bo večina likov na koncu porabila vse svoje akcije za streljanje, stavila na nesposobnost svojih sovražnikov. Za obvladovanje te spremembe paradigme bodo tako vodje igre kot igralci morda morali spremeniti način, kako gledajo – in pristopajo – k strelnemu boju. Nekaj stvari, ki jih je treba upoštevati, je:
+Če v igri _Mythras Imperative_ uporabljate strelno orožje, je treba zaradi smrtonosnosti ognjene bitke upoštevati nekaj stvari. Prvič, skoraj nemogoče se je izogniti laserskim žarkom ali nabojem, ki potujejo hitreje od človeških refleksov. Z uporabo predstavljenih bojnih pravil to pomeni, da bo vsak zadetek žrtev takoj izpostavil enemu ali več posebnim učinkom, razen če se poskuša potopiti izven območja z uporabo Izmikanja. To prav tako spremeni ekonomijo akcijskih točk. Če točk ne morete uporabiti za reaktivno obrambo, bo večina likov vse svoje akcije porabila za streljanje, pri čemer stavijo na nesposobnost svojih nasprotnikov. Za obvladovanje tega premika paradigme bosta morala tako mojster iger kot igralci morda spremeniti način, kako gledajo na – in pristopajo k – boju s strelnim orožjem. Nekatere stvari, ki jih je treba upoštevati:
 
 - Boj s strelnim orožjem je nevaren!
-- Na splošno ljudje dajejo prednost temu, da jih ne ustrelijo, pred streljanjem na druge.
-- Najpogostejša metoda zaščite je iskanje kritja.
-- Zatirajoče streljanje je najboljši način za preprečevanje povratnega ognja sovražnikov.
+- Na splošno ljudje dajejo prednost temu, da niso ustreljeni, pred streljanjem na druge.
+- Najpogostejši način zaščite je zavetje.
+- Ognjeno zatiranje je najboljši način za preprečevanje nasprotnikovega streljanja nazaj.
 - Strelno orožje je presenetljivo nenatančno, razen če si vzamete čas za oporo in/ali merjenje.
-- Ko vas ustrelijo, se zgodijo slabe stvari.
+- Ko ste ustreljeni, se zgodijo slabe stvari.
 
-Obramba pred streljanjem postane v veliki meri vprašanje telesnega oklepa, uporabe kritja in poskusov preprečevanja, da bi nasprotnik lahko vrnil ogenj. Posledično se večina strelskih bojev ponavadi spremeni v zelo taktične – veliko zatirajočega ognja, bočnega gibanja in izganjanja sovražnikov iz globokega kritja – med katerimi lahko liki preživijo celotne bojne runde priklenjeni in se ne morejo odzvati, dokler nasprotna stran ne preneha streljati ... kar se nekaterim igralcem lahko zdi izjemno dolgočasno.
+Obramba pred streljanjem postane večinoma stvar telesnega oklepa, uporabe kritja in poskusa preprečiti nasprotniku, da bi lahko streljal nazaj. Posledično postanejo bitke s strelnim orožjem zelo taktične – veliko ognjene podpore, bočnega premikanja in izrivanja nasprotnikov iz globokega kritja – med katerimi lahko liki preživijo celotne bojne kroge pribiti na mesto in se ne morejo odzvati, dokler nasprotnik ne preneha streljati... kar se nekaterim igralcem lahko zdi izjemno dolgočasno.
 
-Popolnoma mogoče je, da se celoten strelski obračun konča brez poškodb; samo ena stran se preda zaradi izčrpanosti streliva ali popolnega pobega z bojišča. Navsezadnje, le malokdo želi tvegati, da ga preluknjajo z rafalom iz avtomatskega orožja.
+Povsem mogoče je, da se cela strelska bitka konča brez poškodb; le ena stran se vda zaradi pomanjkanja streliva ali pa popolnoma zbeži z bojišča. Navsezadnje si malokdo želi tvegati, da bi bil preluknjan z rafalom iz avtomatskega orožja.
 
-V teh pravilih boja se določene vrste dejanj, Posebni učinki in situacije nanašajo samo na boj s strelnim orožjem in so ustrezno označeni.
+Skozi ta bojna pravila se določene vrste akcij, posebni učinki in situacije nanašajo le na boj s strelnim orožjem, zato so ustrezno označene.
 
 ---
-## Bojne runde in pobuda
+## Bojni krogi in iniciativa
 
-Bojne runde uporabljajo več pomembnih izrazov:
+Bojni krogi uporabljajo več pomembnih izrazov:
 
-- **Pobuda:** Vrstni red, kdo deluje kdaj med potezo bojne runde. Vodja igre odšteva skozi vrednosti pobude od najvišje do najnižje, tako da ima vsak udeleženec priložnost, da izvede svojo potezo, ko je doseženo njegovo število.
-- **Poteze:** Med vsako 5-sekundno bojno rundo ima vsak udeleženec priložnost, da izvede eno ali več potez, odvisno od števila akcijskih točk, ki jih ima, in kako jih porabi. Med svojo potezo udeleženci izvedejo eno bojno dejanje, ki vključuje izjavo, morebitno gibanje, morebitne potrebne mete kock (vključno z reakcijami) in razrešitev dejanja. Če kateremu koli udeležencu ostanejo akcijske točke, lahko igralci vzamejo še eno potezo po vrstnem redu pobude. Ko ne ostanejo nobene akcijske točke ali pa so preostale zadržane za reakcije, se igra nadaljuje v naslednjo bojno rundo.
+- **Iniciativa:** Vrstni red, kdo kdaj deluje med obratom v bojnem krogu. Mojster iger šteje navzdol skozi vrednosti iniciative od najvišje do najnižje, tako da ima vsak udeleženec možnost opraviti svoj obrat, ko doseže svojo številko.
+- **Obrati:** Med vsakim 5-sekundnim bojnim krogom ima vsak udeleženec možnost opraviti enega ali več obratov, odvisno od števila akcijskih točk, ki jih ima, in načina njihove uporabe. Ob svojem obratu udeleženci izvedejo eno bojno dejanje, ki obsega napoved, morebitno gibanje, potrebne mete kock (vključno z reakcijami) in razrešitev dejanja. Če ima kateri koli udeleženec še preostale akcijske točke, lahko vsak igralec opravi še en obrat v vrstnem redu iniciative. Ko ne ostane nobena akcijska točka ali ko so preostale točke zadržane za reakcije, se igra nadaljuje v naslednji bojni krog.
 
 Vsak izraz je podrobneje opisan spodaj.
 
-#### Pobuda
+#### Iniciativa
 
-Pobuda določa vrstni red dejanj udeležencev v bojni rundi. Določi se na začetku boja in določa, kdaj vsak lik deluje. Razen če se kaj zgodi, kar spremeni situacijo, kot so določena Bojna dejanja ali Posebni učinki, pobuda ostane v veljavi, dokler je ni treba ponovno določiti.
+Iniciativa določa vrstni red akcij udeležencev v bojnem krogu. Vrže se na začetku boja in določa, kdaj vsak lik deluje. Razen če se zgodi kaj, kar spremeni situacijo, kot so določena bojna dejanja ali posebni učinki, iniciativa ostane v veljavi, dokler je ni treba ponovno vreči.
 
-Pobuda se izračuna tako, da vsak udeleženec vrže 1k10 in doda svoj modifikator pobude. Kdor dobi najvišji rezultat, deluje prvi, sledi mu drugi najvišji in tako naprej. Ko dva ali več udeležencev doseže enake rezultate, bo tisti z višjim DEX deloval prvi. Če je rezultat še vedno izenačen, naj vsak vrže kocko, pri čemer višji met gre pred drugim.
+Iniciativa se izračuna tako, da vsak udeleženec vrže 1d10 in doda svoj modifikator iniciative. Kdor doseže najvišji rezultat, deluje prvi, sledi drugi najvišji in tako naprej. Ko dva ali več udeležencev doseže enak rezultat, deluje prvi tisti z višjo SPR. Če je rezultat še vedno enak, naj vsak vrže kocko, pri čemer višji met prehiti drugega.
 
 #### Akcije v boju
 
-Ko je določena pobuda, imajo udeleženci potencialno možnost izvajanja več bojnih dejanj med vsako bojno rundo. Vsi liki dobijo 2 akcijski točki na rundo, vendar je čas, ko lahko delujejo, omejen na to, ali je dejanje proaktivno ali reaktivno.
+Ko je določena iniciativa, imajo udeleženci možnost izvesti več bojnih dejanj med vsakim bojnim krogom. Vsi liki dobijo 2 akcijski točki na krog, vendar je čas, ko lahko delujejo, omejen s tem, ali je dejanje proaktivno ali reaktivno.
 
-Proaktivne akcije se lahko poskušajo le med lastno potezo lika; to pomeni, med njegovo pobudo. Proaktivne akcije so tiste, pri katerih je lik pobudnik, kot je napad z orožjem.
+Proaktivna dejanja lahko poskusite le med lastnim obratom lika; to pomeni, med njegovo iniciativo. Proaktivna dejanja so tista, pri katerih je lik pobudnik, na primer napad z orožjem.
 
-Reaktivne akcije so tiste, ki jih lik izvede, da bi se zoperstavil ali se uprl dejanju, naperjenemu proti njemu. Dovoljen je le en poskus reakcije za vsako grožnjo, primer bi bil poskus pariranja napada.
+Reaktivna dejanja so tista, ki jih lik izvede, da bi se zoperstavil ali uprl dejanju, narejenemu proti njemu. Za vsako grožnjo je dovoljen le en poskus reakcije, primer bi bil poskus pariranja napada.
 
-Neuporabljene akcijske točke se ne prenesejo iz ene runde v drugo.
+Neuporabljene akcijske točke se ne prenesejo iz enega kroga v naslednjega.
 
 ---
 ## Bojna dejanja
 
-Bojna dejanja so dejanja, ki jih je mogoče izvesti med bitko. Izvajanje orožja, čaranje uroka ali izmikanje napadu so vsi primeri bojnih dejanj. Večina se nanaša na elemente samega boja, vendar se nekatera nanašajo na dejavnosti zunaj področja urokov in orožja.
+Bojna dejanja so tista dejanja, ki se lahko izvedejo med bitko. Izvlečenje orožja, izgovarjanje urok ali potapljanje izven dosega napada so vsi primeri bojnih dejanj. Večina se nanaša na elemente samega boja, nekateri pa se nanašajo na dejavnosti zunaj sfere urokov in orožja.
 
-Kot je bilo že omenjeno, je pogostost, s katero lik lahko deluje na rundo, omejena z njegovimi razpoložljivimi akcijskimi točkami. Te se porabijo tekom vsake bojne runde za izvajanje različnih bojnih dejanj. Ko so borčeve akcijske točke porabljene, ne more več delovati do konca te runde in mora počakati, da se mu točke ponastavijo na začetku naslednje.
+Kot smo že omenili, je pogostost delovanja lika na krog omejena z razpoložljivimi akcijskimi točkami. Te se porabijo med vsakim bojnim krogom za izvedbo različnih bojnih dejanj. Ko borec porabi svoje akcijske točke, ne more več delovati do konca tega kroga in mora počakati, da se njegove točke ponastavijo na začetku naslednjega.
 
-Razen če ni drugače določeno, vsako bojno dejanje (razen "prostih" dejanj) stane eno akcijsko točko. Zato morajo borci skrbno premisliti, kako in kdaj uporabijo svoje akcijske točke. Lahko delujejo tako agresivno ali obrambno, kot želijo, dinamično se odzivajo na spreminjajoče se okoliščine boja.
+Razen če je določeno drugače, vsako bojno dejanje (razen "brezplačnih" dejanj) stane eno akcijsko točko. Zato morajo borci skrbno premisliti, kako in kdaj uporabijo svoje akcijske točke. Lahko delujejo tako agresivno ali defenzivno, kot želijo, in se dinamično odzivajo na razvijajoče se okoliščine boja.
 
 ### Proaktivna dejanja
 
-Naslednje so dejavnosti, ki jih lik lahko poskusi na svoji potezi s porabo akcijske točke. Upoštevajte, da nekatera dejanja, kot sta čaranje urokov ali ponovno polnjenje, lahko trajajo več potez; vsaka poteza stane svojo akcijsko točko.
+Spodaj so dejavnosti, ki jih lahko lik poskusi med svojim obratom s porabo akcijske točke. Upoštevajte, da lahko nekatera dejanja, kot sta metanje urokov ali polnjenje, zahtevajo več obratov; vsak obrat stane svojo akcijsko točko.
 
 #### Napad
 
-Lik lahko poskusi udariti z orožjem za boj od blizu ali uporabiti orožje za streljanje na daljavo.
+Lik lahko poskusi udariti z orožjem za boj iz bližine ali uporabiti orožje na daljavo.
 
-#### Opora
+#### Opora (Brace)
 
-Lik se opira tako, da zavzame čvrsto držo in se nagne v smeri prihajajočega napada. Za namen upiranja odrivu ali skočnim napadom se SIZ lika obravnava kot 50 % večji. Proti Posebnemu učinku Basa se SIZ podvoji.
+Lik se pripravi tako, da zavzame trden položaj in se nagne v smeri prihajajočega napada. Za namene upiranja potiskanju nazaj ali skakalnim napadom se VEL lika obravnava kot 50 % večja. Proti posebnemu učinku Bashing se VEL podvoji.
 
-#### Čaranje/Uporaba moči
+#### Izgovarjanje uroka/Uporaba moči
 
-Lik lahko poskusi čarati urok, priklicati določene moči in tako naprej. Kompleksna magija lahko zahteva več dejanj za dokončanje čaranja. Ko je zaključen, se lahko magija sprosti v vsakem trenutku do naslednje poteze čarodeja – na tej točki se lahko zadrži za kasnejši učinek, vendar to zahteva dejanje Zadrži magijo/moč (glej spodaj), da se ohrani pripravljena za kasnejšo sprostitev.
+Lik lahko poskusi izgovoriti urok, priklicati določene moči itd. Zapletena magija lahko zahteva več dejanj, da se zaključi njeno izgovarjanje. Ko je končano, se lahko magija sprosti v katerem koli trenutku do naslednjega obrata čarodeja – v tem trenutku se lahko zadrži za kasnejši učinek, vendar to zahteva dejanje Zadrževanje magije/moči (glej spodaj), da se ohrani v pripravljenosti za kasnejšo sprostitev.
 
 #### Sprememba razdalje
 
-Lik lahko poskusi priti bližje nasprotniku ali se umakniti od njega, dokler ni vpleten v boj od blizu z nasprotnikom ali ga ne zatira sovražnikov ogenj v situaciji boja na daljavo.
+Lik lahko poskusi približati ali se umakniti od nasprotnika, če ni vključen v boj iz bližine z nasprotnikom ali ni pribit na mesto zaradi sovražnega ognja v situaciji boja na daljavo.
 
-#### Naskok
+#### Nalet (Charge)
 
-Dejanje Naskoka omogoča liku, da se premakne v doseg angažmaja s hitrostjo teka ali sprinta, pri čemer izkorišča zagon naskoka za močnejši napad od blizu. Ta pravila so podrobneje obravnavana v razdelku [Naskok](0005_Combat.md?id=charging) spodaj.
+Dejanje Naleta omogoča liku, da se premakne v območje vključenosti pri teku ali sprintu, pri čemer izkoristi zagon naleta za močnejši napad iz bližine. Ta pravila so podrobneje obravnavana v razdelku [Nalet](0005_Combat.md?id=charging) spodaj.
 
-#### Zadrževanje
+#### Odlašanje
 
-Lik prihrani eno ali več dejanj za izvedbo reaktivnih dejanj kasneje, kot je Prekinitev ali Pariranje. Stroški akcijskih točk zadrževanja so pokriti s končnimi dejanji. Če zadrževana dejanja niso izvedena pred naslednjo potezo lika, se lik šteje za "oklevajočega" (glej spodaj) in akcijska točka je izgubljena.
+Lik shrani eno ali več dejanj za izvedbo reaktivnih dejanj pozneje, kot sta Prekinitev ali Pariranje. Strošek akcijskih točk odlašanja pokrijejo vsa dejanja, ki se na koncu izvedejo. Če odložena dejanja niso izvedena pred naslednjim obratom lika, se šteje, da je lik omaloval (glej spodaj), in akcijska točka je izgubljena.
 
-#### Oklevanje
+#### Omahovanje (Dither)
 
-Privzeta možnost, če ni izbrano nobeno drugo dejanje, lik preprosto zapravi svojo potezo, ne da bi storil kaj koristnega.
+Privzeta možnost, razen če je izbrano drugo dejanje, lik preprosto zapravi svoj obrat, ne da bi naredil kaj koristnega.
 
-#### Zadrži magijo/moč
+#### Zadrževanje magije/moči
 
-Ko je čaranje končano, lahko lik začasno zadrži urok ali Moč, čakajoč na najboljši trenutek za sprostitev. Magija se lahko zadrži, dokler lik nadaljuje z izvajanjem tega dejanja v naslednjih potezah, vendar to omogoča prostoročno uporabo reakcije Protičaranje s strani sovražnika, če je to pomembno za urok. Dejanski met veščine za čaranje zadržanega uroka se ne izvede, dokler ni urok dejansko izčaran.
+Ko je izgovarjanje končano, lahko lik zadrži urok ali moč v začasnem nadzoru, čakajoč na najboljši trenutek za njegovo sprostitev. Magijo lahko zadržuje toliko časa, dokler lik na naslednjih obratih še naprej izvaja to dejanje, vendar to sovražniku omogoča prosto uporabo reakcije Nasprotni urok, če je relevantna za urok. Dejanski met na veščino za izgovoritev zadržanega uroka se ne opravi, dokler ni sprožen.
 
 #### Jahanje
 
-Lik se lahko povzpne ali spusti z jezdne živali ali vozila. Posebno velike živali lahko zahtevajo več potez za dokončanje.
+Lik lahko zasede ali zapusti jahalno žival ali vozilo. Še posebej velike živali lahko zahtevajo več obratov za dokončanje.
 
-#### Gibanje
+#### Premikanje
 
-Če ni vpleten z nasprotnikom, se lik lahko premakne na katero koli razdaljo, ki jo vodja igre šteje za primerno za situacijo.
+Pod pogojem, da ni vključen v boj z nasprotnikom, se lahko lik premakne za kakršno koli razdaljo, ki se mojstru iger zdi primerna za situacijo.
 
-#### Prekanitev
+#### Manevriranje (Outmaneuver)
 
-Lik lahko vplete več nasprotnikov v skupni nasprotni met veščin izogibanja. Tisti, ki ne uspejo premagati njegovega meta, ga v tej bojni rundi ne morejo napasti. Glej razdelek o [Prekanitvi](0005_Combat.md?id=outmaneuvering) spodaj.
+Lik lahko vključi več nasprotnikov v skupinski nasprotni met veščin Izmikanja. Tisti, ki ne premagajo njegovega meta, ga v tem bojnem krogu ne morejo napasti. Glej razdelek o [Manevreriranju](0005_Combat.md?id=outmaneuvering) spodaj.
 
-#### Pripravi orožje
+#### Priprava orožja
 
-Lik lahko izvleče, potegne, pospravi, umakne ali napolni orožje ali drug predmet. Izvlčenje bližnjega padlega predmeta zahteva 2 dejanji: eno za premik in seganje po predmetu ter drugo za vrnitev v pripravljen položaj. Nekatera izstrelna orožja zahtevajo več dejanj za ponovno polnjenje.
+Lik lahko pridobi, izvleče, pospravi, umakne ali napolni orožje ali drug predmet. Pridobitev bližnjega odvrženega predmeta zahteva 2 dejanji: eno za premik in seganje po predmetu in drugo za vrnitev v pripravljen položaj. Nekatera raketna orožja zahtevajo več dejanj za ponovno polnjenje.
 
-#### Ponovno polnjenje (strelno orožje)
+#### Polnjenje (strelno orožje)
 
-Kot pri Pripravi orožja. Časi ponovnega polnjenja se lahko močno razlikujejo glede na vrsto orožja. Enostrelne muškete na črni smodnik se bodo polnile veliko počasneje kot menjava nabojnika ali vira energije.
+Enako kot Priprava orožja. Časi polnjenja se lahko zelo razlikujejo glede na vrsto orožja. Muškete na črni smodnik z enim strelom se bodo polnile veliko počasneje kot menjava nabojnika ali vira energije.
 
-#### Ponovno vzpostavi ravnotežje
+#### Ponovna pridobitev položaja
 
-Če ni vpleten z nasprotnikom, lahko lik samodejno ponovno vzpostavi ravnotežje, potem ko je bil spotakjen ali podrt. Če je vpleten, mora lik zmagati v nasprotnem metu Kreposti ali Atletike z nasprotnikom, preden vstane. To tekmovanje ne stane nobenih akcijskih točk za razrešitev.
+Če ni vključen v boj z nasprotnikom, lahko lik samodejno ponovno pridobi svoj položaj, potem ko je bil spotaknjen ali podrt. Če je vključen, mora lik zmagati v nasprotnem metu moči ali atletike z nasprotnikom, preden vstane. Ta boj za razrešitev ne stane nobenih akcijskih točk.
 
-#### Hiter pogled (strelno orožje)
+#### Prikrit pogled (Strelno orožje)
 
-Hiter pogled omogoča nekomu, ki se trenutno skriva za kritjem, da na hitro pogleda, kakšna je taktična situacija. Dejanje je navidezno varno, saj opazovalcu omogoča en sam met Zaznave, preden se spet skrije za kritje. Če pa test Zaznave ne uspe, neumno preveč iztegne glavo ali ostane v vidnem polju dovolj dolgo, da sovražnik izstreli strel.
+Prikrit pogled nekomu, ki se trenutno skriva za kritjem, omogoča, da hitro pogleda ven in oceni taktično situacijo. Dejanje je navidez varno in opazovalcu omogoča en met na zaznavo, preden se spet skrije. Če pa je test zaznave ponesrečen, nespametno preveč izpostavi glavo ali ostane na vidiku dovolj dolgo, da sovražnik izvede strel.
 
-#### Stabilizacija orožja (strelno orožje)
+#### Umiritev orožja (Strelno orožje)
 
-Omogoča liku, da vzpostavi trdno strelno držo in podpira avtomatsko orožje, tako da ostane stabilno. Zahteva, da je lik vsaj delno izpostavljen in ne popolnoma zaščiten z zakloniščem. Glavna korist je, da zmanjša kazen za povratni udar pri rafalnem ali popolnoma avtomatskem streljanju za eno stopnjo. Ta učinek je podoben opori, saj njegove koristi trajajo, dokler se lik ne premakne.
+Liku omogoča, da vzpostavi trden strelni položaj in podpira avtomatsko orožje, tako da ostane stabilno. Zahteva, da je lik vsaj delno izpostavljen in ni popolnoma zaščiten s kritjem. Glavna korist je, da zmanjša kazen za povratni udarec pri rafalu ali popolnoma avtomatskem ognju za eno stopnjo. Ta učinek je podoben Opori, saj njegove koristi trajajo, dokler se lik ne premakne.
 
-#### Boj
+#### Boj (Struggle)
 
-Če je lik žrtev določenih vrst napadov ali Posebnih učinkov, se lahko poskusi rešiti iz situacije. Na primer, iztrganje iz sovražnikovega prijema.
+Če je lik žrtev določenih vrst napadov ali posebnih učinkov, lahko poskusi izstopiti iz situacije. Na primer, osvoboditev iz sovražnikovega prijema.
 
-#### Spremenite način streljanja (strelno orožje)
+#### Preklop načina ognja (Strelno orožje)
 
-Preklop načina streljanja omogoča uporabniku avtomatskega ali dvojnega strelnega orožja, da spremeni selektor na svojem orožju, da izkoristi druge načine streljanja. Tako bi se jurišna puška lahko preklopila iz polavtomatskega na rafalno streljanje, izbrale bi se lahko različne vrste streliva ali pa bi se vzpostavil dopolnilni sistem, kot je vgrajen izstreljevalnik granat. Medtem ko sodobno orožje zahteva akcijsko točko v likovem obratu za preklop načinov, lahko dovolj napredno visokotehnološko strelno orožje to dovoli kot Prosto dejanje, sproženo z elektronskimi vsadki ali s psihičnim branjem uporabnikovega uma.
+Preklop ognja omogoča uporabniku avtomatskega ali dvo-namenskega strelnega orožja, da spremeni selektor na svojem orožju, da izkoristi druge načine ognja. Tako bi lahko jurišno puško preklopili s polavtomatske na rafalno, izbrali različne vrste streliva ali vključili dopolnilni sistem, kot je vgrajen metalec granat. Medtem ko sodobno orožje zahteva akcijsko točko med obratom lika za preklop načinov, lahko dovolj napredno visokotehnološko strelno orožje to dovoli kot prosto dejanje, ki ga sprožijo elektronski vsadki ali s psihološkim branjem uporabnikovih misli.
 
-#### Poišči zaklon
+#### Iskanje zavetja
 
-Poišči zaklon je proaktivno dejanje, ki strelcu omogoča, da se skrije za katerim koli razpoložljivim zakloniščem v svoji neposredni bližini, s čimer si pridobi določeno stopnjo zaščite pred prihajajočim ognjem. Za razliko od Izmika ne pušča uporabnika ležečega, ampak se zanaša na razpoložljivost neke oblike zaklonišča, na primer sklanjanje za vogal v hodniku ali čepanje za mizo v baru. Odvisno od okoliščin, razpoložljivo zaklon morda ne bo zadostovalo za popolno zaščito lika. Vrsta zaklonišča bo določila tudi njegove zaščitne lastnosti; debela jeklena vrata na primer so lahko neprebojna za naboje, medtem ko tanka lesena stena lahko zagotavlja le 4 točke oklepa. Za splošne smernice glede zaščitnih lastnosti določenih materialov glej tabelo v razdelku [Neživi predmeti](0004_Game_System.md?id=inanimate-objects).
+Iskanje zavetja je proaktivno dejanje, ki strelcu omogoča, da se skrije za kakršno koli zavetje, ki je na voljo v njegovi neposredni bližini, s čimer pridobi določeno stopnjo zaščite pred prihajajočim ognjem. Za razliko od Izmikanja uporabnika ne pusti na tleh, vendar se zanaša na to, da je na voljo neka oblika zavetja, na primer skritje nazaj za kotom na hodniku ali sklonitev za mizo v gostilni. Glede na okoliščine razpoložljivo zavetje morda zadošča ali pa tudi ne, da popolnoma zaščiti lika. Vrsta zavetja bo prav tako določila njegove zaščitne lastnosti; debela jeklena vrata se lahko na primer izkažejo za neprebojna za naboje, medtem ko bi tanka lesena stena lahko zagotovila le 4 točke oklepa. Za splošne smernice glede zaščitnih lastnosti določenih materialov glej tabelo v razdelku [Neživi predmeti](0004_Game_System.md?id=inanimate-objects).
 
 ### Reaktivna dejanja
 
-Ta seznam določa reakcije, ki se lahko uporabijo kadar koli med bojno rundo kot odgovor na neposredno grožnjo. Kot na prejšnjem seznamu, reakcija stane eno akcijsko točko.
+Ta seznam določa reakcije, ki se lahko uporabijo kadar koli med bojnim krogom kot odziv na neposredno grožnjo. Kot na prejšnjem seznamu, reakcija stane akcijsko točko.
 
-#### Protičaranje
+#### Nasprotni urok
 
-Lik lahko poskusi razveljaviti ali se upreti prihajajočemu uroku. To predvideva, da ima protiorok čas čaranja eno potezo, sicer ga je treba pripraviti vnaprej in ga začasno zadržati z dejanje Zadrži magijo. Uspešno prestrezanje magije na ta način naj bi negiralo celoten urok, tudi tiste z več tarčami ali območji učinka.
+Lik lahko poskusi zavrniti ali nasprotovati prihajajočemu uroku. To predpostavlja, da ima nasprotujoča magija čas izgovarjanja en obrat, sicer mora biti pripravljena vnaprej in začasno zadržana z dejanjem Zadrževanje magije. Predpostavlja se, da uspešno prestrezanje magije na ta način izniči celoten urok, tudi tiste z več tarčami ali območji učinka.
 
 #### Izmikanje
 
-Lik lahko uporabi svojo veščino Izmikanje v poskusu, da se umakne grožnjam, kot so prihajajoči izstrelki ali naskok. To pusti lik ležečega, razen če je to ublaženo z Zmožnostjo ali posebnimi okoliščinami. Tako likovo naslednja poteza običajno porabi dejanje Ponovno vzpostavi ravnotežje, da ponovno vstane.
+Lik lahko uporabi svojo veščino Izmikanja v poskusu, da se potopi izven groženj, kot so prihajajoči projektili ali napad z naletom. To pusti lika na tleh, razen če je to ublaženo s sposobnostjo ali posebnimi okoliščinami. Zato naslednji obrat lika običajno porabimo za izvedbo dejanja Ponovna pridobitev položaja, da ponovno vstanemo.
 
-#### Prekini
+#### Prekinitev
 
-Samo za zadržujoče se like. Ta reaktivno dejanje ustavi potezo nasprotnika na kateri koli točki, da izvede zadržano akcijo. Ob predpostavki, da se taktična situacija ne spremeni, nasprotnik nadaljuje potezo, ko je likova končana. Če ne more še vedno doseči prvotne deklaracije, je nasprotnikova akcijska točka izgubljena. Prekinitev se lahko uporabi tudi za izvedbo napada priložnosti proti komur koli, ki gre blizu zadržujočega se lika in je v dosegu orožja.
+Samo za like, ki odlašajo. To reaktivno dejanje ustavi obrat nasprotnika v kateri koli točki, da se izvede odloženo dejanje obrata. Ob predpostavki, da ni spremembe taktične situacije, nasprotnik nadaljuje obrat po tem, ko je likov končan. Če prvotne napovedi ni več mogoče doseči, je akcijska točka nasprotnika izgubljena. Prekinitev se lahko uporabi tudi za izvedbo napada priložnosti proti komur koli, ki gre blizu lika, ki odlaša, in je znotraj dosega orožja.
 
 #### Pariranje
 
-Lik se lahko poskusi braniti pred prihajajočim napadom z uporabo kombinacije pariranja, nagibanja, sklanjanja in bočnih premikov nog, da bi zmanjšal udarec.
+Lik lahko poskusi obraniti prihajajoči napad s kombinacijo pariranja, nagibanja, sklanjanja in stopanja v stran, da zmanjša udarec.
 
 ### Prosta dejanja
 
-Prosta dejanja (navedena spodaj) se lahko izvedejo kadar koli med bojno rundo in ne stanejo akcijskih točk.
+Prosta dejanja (navedena spodaj) se lahko izvedejo kadar koli med bojnim krogom in ne stanejo akcijskih točk.
 
-#### Oceni situacijo
+#### Ocena situacije
 
-Če ni vpleten, lahko lik izvede met Zaznavanja brez stroškov akcijske točke. Uspeh razkrije morebitne relevantne spremembe v taktični situaciji (kot je opazovanje sovražnika, ki začenja naskok). Ocenjevanje med tekom ima za posledico težak met Zaznavanja, sprintanje je izjemno težko.
+Če ni vključen v boj, lahko lik opravi met na Zaznavo brez stroška akcijskih točk. Uspeh razkrije kakršne koli pomembne spremembe v taktični situaciji (kot je opazitev sovražnika, ki začenja nalet). Ocenjevanje med tekom ima za posledico težek met na Zaznavo, pri sprintu pa izjemen.
 
-#### Odloži predmet
+#### Odvrženje predmeta
 
-Odlaganje predmeta je prosto dejanje.
+Odvrženje predmeta je prosto dejanje.
 
-#### Signal
+#### Signaliziranje
 
-Če ni vpleten, je gestikuliranje ali signaliziranje enemu ali več udeležencem (če lahko zaznajo znak) prosto dejanje.
+Če ni vključen v boj, je gestikuliranje ali signaliziranje enemu ali več udeležencem (če lahko zaznajo znak) prosto dejanje.
 
 #### Govor
 
-Lik lahko govori kadar koli med bojem, vendar naj bo povedano omejeno na kratke fraze, ki jih je mogoče izgovoriti v petih sekundah ali manj; na primer, 'Pazi za sabo!' ali 'Vrag te vzemi!'
+Lik lahko govori kadar koli med bojem, vendar naj bo povedano omejeno na kratke fraze, ki jih je mogoče izreči v petih sekundah ali manj; na primer, 'Pazi za seboj!' ali 'Preklet bodi v peklu!'
 
-#### Uporabi točko sreče
+#### Uporaba točke sreče
 
-Uporaba točke sreče – na primer za ponovni met določenega rezultata – je prosto dejanje.
+Uporaba točke sreče – na primer za ponovni met določenega rezultata – je prosto dejanje.#### Lokacija varovanja
 
-#### Zaščita lokacije
+Lik varuje določeno lokacijo zadetka pred udarci tako, da enega svojih orožij nameni pasivnemu blokiranju tega območja. Vsakemu udarcu, ki zadene to lokacijo, se škoda samodejno zniža, kot je običajno za orožje, ki se uporablja za pariranje, glede na njegovo VEL. Varovanje traja, dokler se namenjeno orožje ne uporabi za napad ali aktivno pariranje. Določitev ali sprememba varovane lokacije zadetka mora biti izvedena pred nasprotnikovim metom za napad na lika. Zaradi svoje zasnove lahko ščiti varujejo več območij hkrati.
 
-Lik varuje določeno lokacijo zadetka tako, da eno od svojih orožij posveti pasivnemu blokiranju območja. Vsak udarec, ki pristane na tej lokaciji, ima svojo škodo samodejno zmanjšano, kot je običajno za parirajoče orožje njegove velikosti. Pokritost se nadaljuje, dokler se posvečeno orožje ne uporabi za napad ali aktivno pariranje. Določitev ali spremembo pokrite lokacije zadetka je treba izvesti preden nasprotnik vrže za napad na lika. Zaradi svoje zasnove lahko ščiti pokrijejo več področij.
-
-Za nadaljnjo razlago glej [Pasivno blokiranje](0005_Combat.md?id=passive-blocking) spodaj.
+Za podrobnejšo razlago glejte [Pasivno blokiranje](0005_Combat.md?id=passive-blocking) spodaj.
 
 ---
 ## Gibanje
 
-Naslednja pravila urejajo angažma v boju:
+Naslednja pravila urejajo vključevanje v boj:
 
-- Gibanje se izvaja z dejanjem Gibanja ali Naskoka.
-- Dejanje Gibanja omogoča liku, da se premakne na razdaljo, enako njegovi osnovni hitrosti gibanja.
-- Gibanje lahko izvajajo le neangažirani liki (razen v posebnih primerih, kot je Prekanitev).
-- Razen v določenih primerih (kot je naskok), se vsa pomembna gibanja ustavijo, ko lik vstopi v doseg angažmaja želenega nasprotnika.
-- Razen pri naskoku skozi stik, premikanje v nasprotnikovo cono angažmaja postavi oba v angažma drug z drugim.
-- Ko so enkrat angažirani, se liki ne morejo premakniti stran od nasprotnika, razen če se najprej umaknejo iz boja od blizu.
-- Poskus premikanja mimo neangažiranega sovražnika, ki uporablja dejanje Zadrževanja v boju, (kot specifična izjema) temu nasprotniku omogoča, da udari premikajoče se like, ko gredo mimo, ali blokira likov napredek, kar sproži boj od blizu v naslednji potezi ali rundi.
+- Gibanje se izvede z dejanjem premikanja (Move) ali napada (Charge).
+- Dejanje premikanja omogoča liku, da se premakne za razdaljo, enako njegovi osnovni hitrosti gibanja.
+- Gibanje lahko izvajajo le liki, ki niso vpeti v boj (razen v posebnih primerih, kot je manevriranje).
+- Razen v določenih primerih (kot je napad), vse pomembnejše gibanje preneha, ko lik vstopi v območje dosega nameravanega nasprotnika.
+- Če lik ne izvaja napada skozi stik, vstop v nasprotnikovo območje dosega vzpostavi bojni stik med obema.
+- Ko sta lika vpeti v boj, se ne moreta premakniti stran od nasprotnika, ne da bi se najprej umaknila iz bližnjega boja.
+- Poskus premikanja mimo nevpetega nasprotnika, ki uporablja bojno dejanje zadrževanja (Delay Combat Action), omogoča (kot posebna izjema) nasprotniku, da udari premikajoče se like, ko gredo mimo, ali da blokira napredovanje lika, kar sproži bližnji boj v naslednjem krogu ali obratu.
 
 ### Situacijske hitrosti gibanja
 
-Te hitrosti gibanja so situacijske in niso vedno možnost. Mnoge so podrobneje opisane drugje, vendar so tukaj vključene zaradi priročnosti. Večino teh situacijskih hitrosti je mogoče uporabiti poleg običajne hitrosti gibanja pod določenimi omejitvami. Takšne informacije so podrobneje opisane v specifičnih opisih spodaj.
+Te hitrosti gibanja so situacijske in niso vedno na voljo. Mnogo jih je podrobno opisanih drugje, tukaj pa so vključene zaradi priročnosti. Večino teh situacijskih hitrosti se lahko uporablja poleg običajne hitrosti gibanja pod določenimi omejitvami. Takšne informacije so podrobno opisane v specifičnih opisih spodaj.
 
-#### Pleza
+#### Plezanje
 
-Lik, ki se premakne poleg plezalne površine ali predmeta ali začne potezo ob njej, lahko pleza s hitrostjo, enako osnovni hitrosti gibanja. Lik se ni smel premikati hitreje kot hoditi in mora imeti še preostanek gibanja, pri čemer se preplezana razdalja zmanjša za vsa že porabljena gibanja. Nošen oklep ovira plezalce glede na skupno število nošenih točk oklepa.
+Lik, ki se premakne do sosednje ali začne obrat ob plezljivi površini ali predmetu, lahko pleza s hitrostjo, enako osnovni hitrosti gibanja. Lik se ne sme premikati hitreje kot s hojo in mora imeti preostanek premikanja, pri čemer se razdalja plezanja zmanjša za vsako že porabljeno gibanje. Nošeni oklep ovira plezalce glede na skupno število nošenih točk oklepa (AP).
 
 ##### Tabela kazni za gibanje v oklepu
 
-| Skupno AP nošenih | Kategorija obremenitve | Gibanje |
+| Skupno AP | Kategorija obremenitve | Gibanje |
 | :-: | :-: | :-: |
 | 0-7 | Brez | 0 |
 | 8-15 | Lahka | -1 |
 | 16-23 | Srednja | -2 |
 | 24-31 | Težka | -3 |
-| 32-39 | Izjemna | -4 |
+| 32-39 | Zastrašujoča | -4 |
 | 40+ | Herkulska | -5 |
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Skupnostna errata</summary>
 
-#### Pleza
+#### Plezanje
 
+_Izvirno besedilo se je glasilo "Nošeni oklep ovira plezalce za znesek, enak točkam oklepa najtežjega kosa, ki ga nosijo."_
 
-_Izvirno besedilo je bilo "Nošen oklep ovira plezalce za znesek, enak točkam oklepa najtežjega kosa, ki se nosi."_
+_Zapisano pravilo hitro povzroči težave. Nošenje enega kosa oklepa s 6 AP bi človeku zmanjšalo gibanje na 0, kar pomeni, da bi bil človek, ki nosi samo jekleno čelado in nič drugega, preveč obremenjen, da bi sploh lahko plezal. To se zdi nesorazmerno omejujoče, zato je predlagana zgornja urejena različica. To bo posodobljeno po Lozovem predlogu na [TDM forumu](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
 
-_Pravilo, kot je napisano, hitro povzroča težave. Nošenje enega kosa 6AP oklepa bi človeka zmanjšalo na gibanje 0, kar pomeni, da bi bil človek, ki nosi jekleno čelado in nič drugega, preveč obremenjen, da bi sploh plezal. To se zdi nerazumno omejujoče, zato predlagana spremenjena različica zgoraj. To bo posodobljeno po Lozovem predlogu na [TDM forumu](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
-
-_**op:** Primerjajte pravilo Classic Fantasy Imperative, ki se nanaša na preobremenjenost:_
-- _"Nošen oklep ovira plezalce, pri čemer se vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', ki se nosi, in vsaka lokacija, pokrita s težkim oklepom, šteje kot 2 dodatni 'stvari', ki se nosita."_
-- _Pravilo o preobremenjenosti Classic Fantasy Imperative: "Vsaka dodatna stvar nad STR lika zmanjša bonus pobude lika za 1. Vsakih 6 stvari nad STR zmanjša hitrost gibanja lika za 5 čevljev (2m). Končno, ko se nosi več stvari kot je STR lika, so veščine, ki uporabljajo STR ali DEX kot del svoje osnove, za 1 stopnjo težje. Ko se nosi več stvari kot dvakratna STR lika, so te veščine za 2 stopnji težje."_
-
-</details>
-
-#### Plazi
-
-Lik, ki začne potezo leže, se lahko plazi z največjo hitrostjo dveh metrov na potezo namesto običajnega gibanja. Bitja, ki se naravno plazijo kot svoj običajni način gibanja, namesto tega uporabljajo svojo polno hitrost gibanja, modificirano z načini gibanja - hoja, tek in sprint - glej razdelek [Hitrost gibanja](0002_Characters.md?id=movement-rate) zgoraj.
-
-Pravila gibanja so v celoti zajeta v priročniku _Mythras_.
-
-#### Skoči
-
-Lik, ki se premakne ob oviro, čez katero se da skočiti, ali začne potezo ob njej, lahko poskusi preskočiti. Lik se lahko giblje s katero koli hitrostjo do točke skoka.
-
-Uspešen met Atletike omogoča skok do dvakratne lastne višine vodoravno ali do polovice lastne višine navpično (če ima lik na voljo vsaj petmetrski zalet). Če skače iz stoječega položaja, se te razdalje prepolovijo.
-
-Zmanjšajte razdaljo skoka v metrih za eno petino skupnega števila "stvari", ki jih nosite. Nošen oklep ovira skakalce, pri čemer se vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 "stvar" v prej omenjenem izračunu, in težak oklep se šteje kot 2 "stvari".
-
-<details>
-
-<summary>* Popravki skupnosti</summary>
-
-#### Skoči
-
-
-_Izvirno besedilo ni omenjalo oklepa ali preobremenjenosti. Lozove kazni za plezanje so preveč omejevalne, da bi jih uporabili za skok, kot so, vendar Classic Fantasy Imperative spet povezuje kazni oklepa s preobremenjenostjo:_
-- _"Zmanjšajte razdaljo skoka v čevljih za polovico skupnega števila 'stvari', ki jih nosite. Nošen oklep ovira skakalce, pri čemer se vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 'stvar' v prej omenjenem izračunu, in težak oklep se šteje kot 2 'stvari'."_
+_**op.:** Primerjaj pravilo Classic Fantasy Imperative, ki se povezuje z obremenitvijo (Encumbrance):_
+- _"Nošeni oklep ovira plezalce, pri čemer vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', vsaka lokacija, pokrita s težkim oklepom, pa kot 2 dodatni 'stvari'."_ 
+- _Pravilo za obremenitev Classic Fantasy Imperative: "Vsaka dodatna stvar nad MOČ lika zmanjša bonus iniciative lika za 1. Vsakih 6 stvari nad MOČ zmanjša hitrost gibanja lika za 5 čevljev (2 m). Končno, ko lik nosi več stvari, kot je njegova MOČ, so veščine, ki uporabljajo MOČ ali SPR kot del svoje osnove, za 1 stopnjo težje. Ko lik nosi več stvari, kot je dvakratnik njegove MOČ, so te veščine za 2 stopnji težje."_
 
 </details>
 
-#### Plava
+#### Plazenje
 
-Lik, ki se premakne poleg vodnega telesa ali začne potezo ob njem, lahko plava s hitrostjo, enako osnovni hitrosti gibanja, minus vsa že porabljena gibanja. Za več informacij glej opis Plavanje v razdelku [Veščine](0003_Skills.md?id=swim-strcon).
+Lik, ki začne obrat v ležečem položaju, se lahko plazi z največjo hitrostjo dva metra na obrat namesto običajnega premikanja. Bitja, ki naravno plazijo kot svoj običajen način premikanja, namesto tega uporabljajo svojo polno hitrost premikanja, prilagojeno glede na način hoje (hoja, tek in sprint) – glejte razdelek [Hitrost gibanja](0002_Characters.md?id=movement-rate) zgoraj.
 
-V normalnih pogojih je največja hitrost plavanja lika na rundo enaka njegovi hitrosti gibanja, -1 za vsako 'stvar', ki jo nosi več kot STR lika. Nošen oklep ovira plavalce, pri čemer se vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', ki se nosi, in vsaka lokacija, pokrita s težkim oklepom, šteje kot 2 dodatni 'stvari', ki se nosita. Če skupna OBM zmanjša razdaljo plavanja na 0 ali manj, se lik samodejno začne utapljati (glej [Zadušitev](0004_Game_System.md?id=asphyxiation)).
+Pravila za gibanje so v celoti zajeta v priročniku za pravila _Mythras_.
+
+#### Skok
+
+Lik, ki se premakne do sosednje ali začne obrat ob oviri, ki jo je mogoče preskočiti, lahko poskusi skočiti čeznjo. Lik se lahko premika s poljubno hitrostjo do točke skoka. 
+
+Uspešen met za atletiko omogoča skok do dvakratne lastne višine vodoravno ali do polovice lastne višine navpično (če ima lik na voljo vsaj pet metrov zaleta). Če skače iz stoječega položaja, se te razdalje prepolovijo.
+
+Zmanjšajte razdaljo skoka v metrih za petino skupnega števila nošenih 'stvari'. Nošeni oklep ovira skakalce, pri čemer vsaka lokacija, pokrita z lahkim oklepom, v zgornjem izračunu šteje kot 1 'stvar', težki oklep pa kot 2 'stvari'.
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Skupnostna errata</summary>
 
-#### Plava
+#### Skok
 
-_Objavljena različica _Mythras Imperative_ nima eksplicitnih pravil za gibanje plavanja pri različnih načinih hoje ali hitrostih. Classic Fantasy Imperative spet povezuje kazni oklepa z obremenitvijo:_
+_Izvirno besedilo ni omenjalo oklepa ali obremenitve. Lozove kazni za plezanje so preveč omejujoče, da bi jih uporabili za skok, kot so, vendar Classic Fantasy Imperative znova povezuje kazni oklepa z obremenitvijo:_
+- _"Zmanjšajte razdaljo skoka v čevljih za polovico skupnega števila nošenih 'stvari'. Nošeni oklep ovira skakalce, pri čemer vsaka lokacija, pokrita z lahkim oklepom, v zgornjem izračunu šteje kot 1 'stvar', težki oklep pa kot 2 'stvari'."_ 
 
-- _V normalnih razmerah je največja hitrost plavanja lika na rundo enaka njegovi hitrosti gibanja, -1 za vsako 'stvar', ki jo nosi več kot likova STR. Nošen oklep ovira plavalce, pri čemer se vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', ki jo nosi, in vsaka lokacija, pokrita s težkim oklepom, šteje kot 2 dodatni 'stvari', ki jih nosi. Če skupna OBM zmanjša razdaljo plavanja na 0 ali manj, se lik samodejno začne utapljati (glej Zadušitev)._
+</details>
+
+#### Plavanje
+
+Lik, ki se premakne do sosednje ali začne obrat ob vodnem telesu, lahko plava s hitrostjo, enako osnovni hitrosti gibanja, zmanjšani za kakršno koli že porabljeno gibanje. Za več informacij glejte opis plavanja v razdelku [Veščine](0003_Skills.md?id=swim-strcon).
+
+V običajnih pogojih je največja hitrost plavanja lika na krog enaka njegovi hitrosti gibanja, minus 1 za vsako 'stvar', ki jo nosi več od svoje MOČ. Nošeni oklep ovira plavalce, pri čemer vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', vsaka lokacija, pokrita s težkim oklepom, pa kot 2 dodatni 'stvari'. Če skupna obremenitev (ENC) zmanjša razdaljo plavanja na 0 ali manj, lik samodejno začne utapljati (glejte [Asfiksija](0004_Game_System.md?id=asphyxiation)).
+
+<details>
+
+<summary>* Skupnostna errata</summary>
+
+#### Plavanje
+
+_Objavljena različica _Mythras Imperative_ nima izrecnih pravil za hitrost plavanja pri različnih načinih ali hitrostih. Classic Fantasy Imperative znova povezuje kazni oklepa z obremenitvijo:_
+
+- _V običajnih pogojih je največja hitrost plavanja lika na krog enaka njegovi hitrosti gibanja, minus 1 za vsako 'stvar', ki jo nosi več od svoje MOČ. Nošeni oklep ovira plavalce, pri čemer vsaka lokacija, pokrita z lahkim oklepom, šteje kot 1 dodatna 'stvar', vsaka lokacija, pokrita s težkim oklepom, pa kot 2 dodatni 'stvari'. Če skupna ENC zmanjša razdaljo plavanja na 0 ali manj, lik samodejno začne utapljati (glejte Asfiksija)._
 
 </details>
 
 ---
 ## Kako deluje boj
 
-Boj v _Mythras Imperative_ se razrešuje tako, da vsak napad ali pariranje predstavlja en sam vbod, zamah, čaranje uroka ali strel z orožjem. Vsaka ofenzivna akcija omogoča možnost upora z reakcijo. Tako, tudi če liku uspe zadeti nasprotnika, ima nasprotnik dovoljen svoj met, da preveri, ali lahko parira udarec, preden ta pristane. Enaka filozofija se uporablja, ne glede na to, ali gre za napade z izstrelki proti tarčam, ki se izmikajo za zaklon, ali za poskuse, da bi se rešili iz železnega prijema velikanske hobotnice.
+Boj v _Mythras Imperative_ se razreši tako, da vsak napad ali pariranje predstavlja en sam vbod, zamah, urok ali strel z orožjem. Vsako napadalno dejanje omogoča možnost, da se mu nasprotnik upre z reakcijo. Tako lahko celo takrat, ko liku uspe zadeti nasprotnika, nasprotnik opravi svoj met, da vidi, ali lahko parira udarec, preden ta pristane. Enaka filozofija se uporablja ne glede na to, ali gre za napade z orožjem na daljavo proti ciljem, ki se potapljajo v zaklon, ali poskuse osvoboditve iz železnega prijema velikanske hobotnice.
 
 ### Napadi in pariranja
 
-Boj od blizu se obravnava na naslednji način po korakih:
+Bližnji boj se obravnava po naslednjih korakih:
 
-1. Na svoji potezi napadalec porabi akcijsko točko, vrže proti svoji veščini boja in zabeleži rezultat.
-2. Če želi, se branilec odloži akcijsko točko za pariranje, vrže proti svoji veščini boja in zabeleži rezultat.
-3. Stopnja uspešnosti rezultatov se primerja kot pri diferencialnem metu.
-4. Vsaka razlika podeli uspešnemu borcu z boljšim metom enega ali več posebnih učinkov.
-5. Če je napadalec dosegel uspeh ali kritični uspeh, lahko vrže škodo orožja in uporabi svoj modifikator škode (če obstaja). Če je primerno, se določi lokacija zadetka za udarec.
-6. Če je branilec dosegel uspeh ali kritični uspeh, zmanjšajte morebitno povzročeno škodo glede na primerjalne velikosti vpletenih orožij.
-7. Zmanjšajte preostalo škodo za točke oklepa naravne ali nošene zaščite.
+1. Na svoji potezi napadalec porabi akcijsko točko, opravi met proti svoji bojni veščini in zabeleži rezultat.
+2. Če želi, branilec porabi akcijsko točko za pariranje, opravi met proti svoji bojni veščini in zabeleži rezultat.
+3. Stopnja uspeha rezultatov se primerja v skladu z diferencialnim metom.
+4. Vsaka razlika uspešnemu borcu z boljšim metom podeli enega ali več posebnih učinkov.
+5. Če je napadalec dosegel uspeh ali kritični uspeh, lahko vrže za škodo orožja in uporabi svoj modifikator škode (če obstaja). Če je primerno, se določi lokacija zadetka za udarec.
+6. Če je branilec dosegel uspeh ali kritični uspeh, zmanjšajte povzročeno škodo glede na primerjalne velikosti vpletenega orožja.
+7. Preostalo škodo zmanjšajte za točke oklepa naravne ali nošene zaščite.
 
-Upoštevajte, da so morebitni posebni učinki, ustvarjeni z izmenjavo, neodvisni od tega, ali je povzročena škoda. Popolnoma možno je, da branilec doseže višjo raven uspeha, a kljub temu utrpi poškodbo.
+Upoštevajte, da so vsi posebni učinki, ustvarjeni z izmenjavo, neodvisni od tega, ali je bila povzročena škoda. Povsem možno je, da branilec doseže višjo stopnjo uspeha, a kljub temu utrpi poškodbe.
 
 ### Velikost orožja
 
-Vsako orožje v _Mythras Imperative_ ima več različnih lastnosti, od škode, ki jo povzroči, do števila rok, potrebnih za vihtenje. Velikost je kombinacija mase, vzvoda in stabilnosti orožja in se uporablja za določanje sposobnosti orožja, da povzroči in parira škodo. Kategorije velikosti so Majhna, Srednja, Velika, Ogromna in Izjemna. Brezorožni napadi bitij so razvrščeni v podobne kategorije glede na njihove fizične značilnosti.
+Vsako orožje v _Mythras Imperative_ ima več različnih lastnosti, od škode, ki jo povzroči, do tega, koliko rok je potrebnih za vihtenje. Velikost je kombinacija mase, vzvoda in stabilnosti orožja in se uporablja za določanje sposobnosti orožja pri povzročanju in pariranju škode. Kategorije velikosti so majhno, srednje, veliko, ogromno in neizmerno. Nenapadalni napadi bitij so razvrščeni v podobne kategorije glede na njihove fizične značilnosti.
 
 ### Zmanjšanje škode
 
-Če se branilec uspešno parira, lahko zmanjša napadalčevo škodo, če obstaja, glede na primerjalno velikost uporabljenih orožij.
+Če branilec uspe parirati, lahko zmanjša napadalčevo škodo (če obstaja) glede na primerjalno velikost uporabljenega orožja.
 
 - Pariranje napada z orožjem ali ščitom enake ali večje velikosti odbije vso škodo.
-- Pariranje z orožjem ali ščitom ene velikosti manj odbije le polovico škode.
-- Pariranje z orožjem ali ščitom dve ali več velikosti manj ne uspe odbiti nobene škode.
+- Pariranje z orožjem ali ščitom, ki je za eno velikost manjši, odbije le polovico škode.
+- Pariranje z orožjem ali ščitom, ki je za dve ali več velikosti manjši, ne odbije nobene škode.
 
-_Na primer, pariranje velike sekire (Ogromna) z zmajevim ščitom (tudi Ogromen) bi blokiralo vso škodo; pariranje z dolgim mečem (Velik) bi škodo prepolovilo, pariranje s kratkim mečem (Srednji) pa ne bi ustavilo nobene škode._
+_Na primer, pariranje velike sekire (ogromna) s ščitom (prav tako ogromen) bi blokiralo vso škodo; pariranje z dolgim mečem (velik) bi prepolovilo škodo, pariranje s kratkim mečem (srednji) pa ne bi ustavilo nobene škode._
 
 ### Oklep
 
-Vsaka škoda, ki prodre skozi branilčevo pariranje, se nadalje zmanjša za točke oklepa naravne zaščite (kot so luske ali lupina) ali nošenega oklepa, ki ga ima. Če ima branilec oboje, se obe seštejeta, da zmanjšata škodo.
+Vsaka škoda, ki prodre skozi branilčevo pariranje, se dodatno zmanjša za točke oklepa kakršne koli naravne zaščite (kot so luske ali lupina) ali nošenega oklepa, ki ga poseduje. Če ima branilec oboje, se obe vrednosti seštejeta za zmanjšanje škode.
 
-Zaradi svoje mase in omejitve gibanja, najvišja vrednost točk oklepa, ki ga nosi lik, deluje kot kazen za njegov met Pobude.
+Zaradi svoje mase in omejitve gibanja najvišja vrednost točk oklepa, ki jo nosi lik, deluje kot kazen pri njegovem metu za iniciativo.
 
 ### Pariranje zgrešenega napada
 
-Če napadalec zgreši svoj začetni napad, ima branilec možnost, da porabi akcijsko točko za pariranje. Čeprav se morda zdi neiskreno parirati napad, ki bo tako ali tako zgrešil, lahko izkušen branilec to izkoristi v svojo korist, da si pridobi enega ali več posebnih učinkov, s tem potencialno oslabi ali onesposobi sovražnika in prihrani svojo naslednjo potezo za kakšno drugo dejanje.
+Če napadalec zgreši svoj začetni met za napad, ima branilec možnost, da porabi akcijsko točko za pariranje. Čeprav se morda zdi nesmiselno parirati napad, ki bi tako ali tako zgrešil, lahko izkušen branilec to izkoristi sebi v prid, da pridobi enega ali več posebnih učinkov, s čimer potencialno oslabi ali onesposobi nasprotnika in si prihrani naslednjo potezo za kakšno drugo dejanje.
 
-### Nezmožen ali nepripravljen parirati
+### Nezmožnost ali nepripravljenost za pariranje
 
-V situaciji, ko se branilec ne more parirati, ker mu zmanjka akcijskih točk, ali, prepričan v svojo sposobnost, da prenese udarec, se odloči, da ne bo pariral, se zanj šteje, da je samodejno vrgel neuspeh. To ima za posledico podelitev enega ali več posebnih učinkov uspešnemu napadalcu.
+V situaciji, ko branilec ne more parirati, ker nima več akcijskih točk, ali pa se zaradi samozavesti v svojo sposobnost preživetja udarca odloči, da ne bo pariral, se to obravnava, kot da je samodejno vrgel neuspeh. To ima za posledico, da uspešni napadalec pridobi enega ali več posebnih učinkov.
 
-### Neuspešni meti in nesreče
+### Neuspešni meti in nespretnosti
 
-Če oba borca zatajita pri metih ali se branilec ne odloči izkoristiti zgrešenega napada, se zaporedje napada – pariranja konča in boj se nadaljuje z udeležencem z naslednjo najvišjo pobudo.
+Če oba borca ne uspeta pri svojih metih ali se branilec odloči, da ne bo izkoristil zgrešenega napada, se zaporedje napada in pariranja konča, boj pa se nadaljuje s udeležencem, ki ima naslednjo najvišjo iniciativo.
 
 ---
 ## Posebni učinki
 
-Boj je veliko več kot le ranjevanje ali ubijanje nasprotnika. Bojne veščine učijo številne metode premagovanja sovražnika, morda jih onesposobijo ali jih prisilijo v situacije, kjer se morajo vdati, ne da bi jim nujno povzročile škodo. Posebni učinki predstavljajo te tehnike in nadzorujejo, kako se pojavljajo v igri.
+Boj je veliko več kot zgolj poškodovanje ali ubijanje nasprotnika. Bojne veščine učijo številne metode premagovanja sovražnika, morda njihovo onesposobitev ali prisilitev v situacije, kjer morajo kapitulirati, ne da bi jim nujno morali škodovati. Posebni učinki predstavljajo te tehnike in nadzorujejo, kako se pojavijo v igri.
 
-Kadarkoli se nasprotniki vključijo v diferencialni met svojih borilnih veščin, vsaka nastala razlika v ravneh uspeha kaže na priložnost za nastanek posebnih učinkov. To odraža, da eden od borcev manevrira nasprotnika v neugodno situacijo, ki jo je mogoče izkoristiti z zvito zvijačo ali taktiko.
+Kadar koli nasprotnika sodelujeta v diferencialnem metu svojih borilnih veščin, vsaka nastala razlika v stopnjah uspeha kaže na možnost za pojav posebnih učinkov. To odraža borca, ki manevrira svojega nasprotnika v neugoden položaj, ki ga je mogoče izkoristiti s premeteno zvijačo ali taktiko.
 
 Število prejetih posebnih učinkov je odvisno od razlike med stopnjami uspeha, kot je prikazano v tabeli diferencialnih stopenj uspeha.
 
-Če so med izmenjavo pridobljeni en ali več posebnih učinkov, jih je treba izbrati pred metom škode in lokacije zadetka, če obstajata. V primerih, ko je prejemnik poleg prejema posebnega učinka tudi hudo ranjen, se meti vzdržljivosti razrešijo po uporabi učinka.
+Če so med izmenjavo osvojeni kakršni koli posebni učinki, jih je treba izbrati, preden se vrže za škodo in lokacijo zadetka (če obstajata). V primerih, ko je prejemnik poleg prejema posebnega učinka hudo ranjen, se meti za vzdržljivost (Endurance) razrešijo po uporabi učinka.
 
-Posebni učinki pokrivajo raznoliko paleto situacij in tehnik. Nekateri so zasnovani posebej za napade, drugi so namenjeni obrambi, nekateri pa so prilagodljivi za obe okoliščini. Določeni posebni učinki so lahko omejeni tudi na specifične vrste orožja ali specifične mete kock, na primer zahtevajo kritični uspeh ali nesrečo pri preizkusu veščine.
+Posebni učinki pokrivajo raznolik nabor situacij in tehnik. Nekateri so posebej zasnovani za napade, drugi za obrambo, nekateri pa so prilagodljivi za obe okoliščini. Nekateri posebni učinki so lahko omejeni tudi na določene vrste orožja ali določene mete kock, na primer zahtevajo rezultat kritičnega uspeha ali nespretnosti pri preverjanju veščine.
 
-Ko sta pridobljena dva ali več posebnih učinkov, lahko borec prosto kombinira, katere izbere, pod pogojem, da so izpolnjeni predpogoji za vsakega. Nekateri učinki se lahko zlagajo. Na primer, napadalec, ki vrže kritični uspeh in zmaga dva posebna učinka, lahko dvakrat izbere Maksimiziraj škodo, namesto da bi izbral dva ločena ofenzivna manevra.
+Ko sta pridobljena dva ali več posebnih učinkov, lahko borec prosto meša in izbira, katere bo uporabil, pod pogojem, da so izpolnjeni predpogoji za vsakega od njih. Nekatere učinke je mogoče kopičiti. Na primer, napadalec, ki vrže kritični uspeh in osvoji dva posebna učinka, lahko izbere dvakrat "maksimiranje škode", namesto da izbere dva ločena napadalna manevra.
 
 ### Tabela posebnih učinkov
 
-| Posebni učinek | Ofenzivni | Defenzivni | Posebna vrsta orožja | Specifični met | Združljiv |
+| Posebni učinek | Napadalni | Obrambni | Posebna vrsta orožja | Specifičen met | Zložljiv |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Naključna poškodba](0005_Combat.md?id=accidental-injury) | | X | | Napadalec zataji | |
-| [Vstani](0005_Combat.md?id=arise) | | X | | | |
-| [Udarec](0005_Combat.md?id=bash) | X | | Ščiti ali topa orožja | | |
-| [Krvavitev](0005_Combat.md?id=bleed) | X | | Rezna orožja | Strelno orožje: napadalec kritično | |
-| [Oslepi nasprotnika](0005_Combat.md?id=blind-opponent) | | X | | Branilec kritično | |
-| [Obide oklep](0005_Combat.md?id=bypass-armor) | X | | | Napadalec kritično | X |
-| [Izberi lokacijo](0005_Combat.md?id=choose-location) | X | | | Glej opis | |
-| [Obide zaklon](0005_Combat.md?id=circumvent-cover) | X | | Samo visokotehnološko strelno orožje | | |
-| [Obide pariranje](0005_Combat.md?id=circumvent-parry) | X | | | Napadalec kritično | |
-| [Poškoduje orožje](0005_Combat.md?id=damage-weapon) | X | X | | | |
-| [Razoroži nasprotnika](0005_Combat.md?id=disarm-opponent) | X | X | | | |
-| [Poda sovražnika](0005_Combat.md?id=drop-foe) | X | | Samo strelno orožje | | |
-| [Skrij se](0005_Combat.md?id=duck-back) | X | | Samo strelno orožje | | |
-| [Izboljša pariranje](0005_Combat.md?id=enhance-parry) | | X | | Branilec kritično | |
-| [Zaplete](0005_Combat.md?id=entangle) | X | X | Zapletajoča orožja | | |
-| [Prisili neuspeh](0005_Combat.md?id=force-failure) | X | X | | Nasprotnik zataji | |
-| [Prijem](0005_Combat.md?id=grip) | X | | Brez orožja | | |
-| [Nabodi](0005_Combat.md?id=impale) | X | | Nabodna orožja | | |
-| [Ostrostrelec](0005_Combat.md?id=marksman) | X | | Orožja na daljavo | | |
-| [Maksimiraj škodo](0005_Combat.md?id=maximize-damage) | X | | | Napadalec kritično | X |
-| [Preboj](0005_Combat.md?id=overpenetration) | X | | Samo strelno orožje | Napadalec kritično | |
-| [Prikleni](0005_Combat.md?id=pin-down) | X | | Samo strelno orožje | | X |
-| [Pripravi protinapad](0005_Combat.md?id=prepare-counter) | | X | | | X |
+| [Nenamerna poškodba](0005_Combat.md?id=accidental-injury) | | X | | Napadalec nespretno vrže | |
+| [Vstajanje](0005_Combat.md?id=arise) | | X | | | |
+| [Bask](0005_Combat.md?id=bash) | X | | Ščiti ali topa orožja | | |
+| [Krvavitev](0005_Combat.md?id=bleed) | X | | Orožja za rezanje | Strelno: Napadalec kritično | |
+| [Oslepitev nasprotnika](0005_Combat.md?id=blind-opponent) | | X | | Branilec kritično | |
+| [Obhod oklepa](0005_Combat.md?id=bypass-armor) | X | | | Napadalec kritično | X |
+| [Izbira lokacije](0005_Combat.md?id=choose-location) | X | | | Glej opis | |
+| [Obhod pariranja](0005_Combat.md?id=circumvent-parry) | X | | | Napadalec kritično | |
+| [Poškodba orožja](0005_Combat.md?id=damage-weapon) | X | X | | | |
+| [Razorožitev](0005_Combat.md?id=disarm-opponent) | X | X | | | |
+| [Podrtje nasprotnika](0005_Combat.md?id=drop-foe) | X | | Samo strelno | | |
+| [Izmikanje](0005_Combat.md?id=duck-back) | X | | Samo strelno | | |
+| [Izboljšano pariranje](0005_Combat.md?id=enhance-parry) | | X | | Branilec kritično | |
+| [Zapletanje](0005_Combat.md?id=entangle) | X | X | Orožja za zapletanje | | |
+| [Prisilitev k neuspehu](0005_Combat.md?id=force-failure) | X | X | | Nasprotnik nespretno vrže | |
+| [Prijem](0005_Combat.md?id=grip) | X | | Nenapadalno | | |
+| [Prebadanje](0005_Combat.md?id=impale) | X | | Orožja za prebadanje | | |
+| [Strelska veščina](0005_Combat.md?id=marksman) | X | | Orožja na daljavo | | |
+| [Maksimiranje škode](0005_Combat.md?id=maximize-damage) | X | | | Napadalec kritično | X |
+| [Preboj](0005_Combat.md?id=over-penetration) | X | | Samo strelno | Napadalec kritično | |
+| [Pribitje](0005_Combat.md?id=pin-down) | X | | Samo strelno | | X |
+| [Priprava nasprotnika](0005_Combat.md?id=prepare-counter) | | X | | | X |
 | [Hitro polnjenje](0005_Combat.md?id=rapid-reload) | X | | | | X |
-| [Brazgotina na sovražniku](0005_Combat.md?id=scar-foe) | X | X | | | |
-| [Izberi tarčo](0005_Combat.md?id=select-target) | | X | | Napadalec zataji | |
-| [Umakni se](0005_Combat.md?id=slip-free) | | X | | Branilec kritično | |
-| [Omami lokacijo](0005_Combat.md?id=stun-location) | X | | Topa orožja | | |
-| [Uniči](0005_Combat.md?id=sunder) | X | | Dvoročna orožja | | |
-| [Spotakni nasprotnika](0005_Combat.md?id=trip-opponent) | X | X | | | |
-| [Okvara orožja](0005_Combat.md?id=weapon-malfunction) | | X | Samo strelno orožje | Napadalec zataji | |
-| [Umakni se](0005_Combat.md?id=withdraw) | | X | | | |
-
+| [Zaznamovanje nasprotnika](0005_Combat.md?id=scar-foe) | X | X | | | |
+| [Izbira cilja](0005_Combat.md?id=select-target) | | X | | Napadalec nespretno vrže | |
+| [Izvlečenje](0005_Combat.md?id=slip-free) | | X | | Branilec kritično | |
+| [Ošamučenje lokacije](0005_Combat.md?id=stun-location) | X | | Topa orožja | | |
+| [Razklanje](0005_Combat.md?id=sunder) | X | | Dvoročna orožja | | |
+| [Spotikanje nasprotnika](0005_Combat.md?id=trip-opponent) | X | X | | | |
+| [Okvara orožja](0005_Combat.md?id=weapon-malfunction) | | X | Samo strelno | Napadalec nespretno vrže | |
+| [Umik](0005_Combat.md?id=withdraw) | | X | | | |
 
 ### Opisi posebnih učinkov
 
-#### Naključna poškodba
+#### Nenamerna poškodba
 
-Branilec odvrne ali zvije nasprotnikov napad tako, da napadalec zataji in se poškoduje. Napadalec mora vreči škodo proti sebi na naključni lokaciji zadetka z orožjem, s katerim je udaril. Če je brez orožja, si napadalec natrga ali zlomi nekaj notranjega, met škode ignorira vsak oklep.
+Branilec odbije ali zavrti nasprotnikov napad tako, da napadalec nespretno ravna in se poškoduje. Napadalec mora vrči za škodo proti samemu sebi na naključni lokaciji zadetka z orožjem, ki ga je uporabil za napad. Če je brez orožja, napadalec raztrga ali zlomi nekaj notranjega, pri čemer met za škodo ignorira kakršen koli oklep.
 
-#### Vstani
+#### Vstajanje
 
-Branilcu omogoča, da izkoristi trenutno priložnost za prevračanje nazaj na noge.
+Branilcu omogoča, da izkoristi trenutno odprtino, da se zvalil nazaj na noge.
 
-#### Udarec
+#### Bash
 
-Napadalec namerno udari nasprotnika iz ravnotežja. Kako daleč se branilec ziba nazaj ali vstran, je odvisno od uporabljenega orožja. Ščiti nasprotnika potisnejo nazaj za en meter za vsaki 2 točki škode, ki je bila vržena (pred kakršnimi koli odštevanji zaradi oklepa, pariranj itd.), medtem ko topa orožja potisnejo nazaj za en meter za vsake tri točke. Udarec deluje samo na bitja do dvakratne velikosti napadalca. Če je prejemnik prisiljen nazaj v oviro, mora opraviti met veščine Akrobatika – ali Atletika pri težki težavnosti – da se izogne padcu ali spotikanju. Za strelno orožje, ker se udarec bolj zanaša na to, da nasprotnika ujame iz ravnotežja, namesto da bi ga vrgel nazaj z golo silo, je popolnoma razumno, da projektilno strelivo povzroči, da se tarča ziba, če zadene okončino. Energetska orožja manj verjetno povzročijo tak učinek, razen če fizika žarka povzroči nekakšno površinsko eksplozijo.
+Napadalec namerno izbije nasprotnika iz ravnotežja. Kako daleč se branilec ziblje nazaj ali vstran, je odvisno od uporabljenega orožja. Ščiti vržejo nasprotnika nazaj za en meter za vsaki 2 točki vržene škode (pred kakršnim koli odštevanjem zaradi oklepa, pariranja itd.), medtem ko topa orožja vržejo nazaj za en meter za vsake tri točke. Bash deluje le na bitja do dvakratne velikosti (VEL) napadalca. Če je prejemnik prisiljen nazaj v oviro, mora opraviti met za veščino akrobatike – ali atletike pri težki težavnosti – da se izogne padcu ali spotikanju. Pri strelnem orožju, ker Bash bolj temelji na tem, da nasprotnika ujamejo iz ravnotežja, namesto da bi ga zgolj s silo vrgli nazaj, je povsem razumno, da strelivo povzroči, da se tarča maje, če zadene okončino. Energijsko orožje bo manj verjetno povzročilo tak učinek, razen če fizika žarka povzroči nekakšno površinsko eksplozijo.
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Skupnostna errata</summary>
 
 ---
 
-#### Udarec
+#### Bash
 
-_Izvirno pravilo je imelo dvoumen jezik, kot sledi: "...morajo opraviti težak met veščine Atletika ali Akrobatika..."_
+_Izvirno pravilo je imelo dvoumno besedilo: "...morajo opraviti težek met za veščino atletike ali akrobatike..."_
 
-_To izgleda, kot da bi se obe veščini vrgli na Težko, kjer je običajno, da se izvede standardni preizkus s profesionalno veščino ali težak preizkus z najbližjo enakovredno standardno veščino._
+_To je videti, kot da bi se katera koli veščina metala kot težka, kjer je običajna praksa opraviti standardni preizkus s poklicno veščino ali težek preizkus z najbližjo ekvivalentno standardno veščino._
 
-_Besedilo je bilo zamenjano z "...morajo opraviti met veščine Akrobatika – ali Atletika pri težki težavnosti..."_
+_Besedilo je zamenjano z "...morajo opraviti met za veščino akrobatike – ali atletike pri težki težavnosti..."_
 
 ---
 
@@ -456,390 +450,384 @@ _Besedilo je bilo zamenjano z "...morajo opraviti met veščine Akrobatika – a
 
 #### Krvavitev
 
-Napad prereže pomembno krvno žilo. Če udarec premaga točke oklepa in poškoduje tarčo, mora branilec opraviti nasprotni met Vzdržljivosti proti prvotnemu metu napada. Če branilec zataji, začne močno krvaveti. Na začetku vsake bojne runde prejemnik izgubi eno stopnjo utrujenosti, dokler se ne zgrudi in morebiti umre. Krvaveče rane je mogoče ustaviti z uspešnim metom veščine Prva pomoč, vendar prejemnik ne more več izvajati nobenih napornih ali nasilnih dejanj, ne da bi se rana ponovno odprla. Glej Izguba krvi v razdelku o igralnem sistemu. Za strelno orožje, ker večina strelnega orožja povzroči zelo ozke rane, je dejansko težje zadeti ali prerezati pomembno krvno žilo kot pri rezilnem ali bodalnem orožju. Zaradi tega naj bi krvavitev bila le kritični uspeh – razen če je pištola nekakšno nenavadno orožje, ki izstreli šurikene, rezila, sploščena polja sile ali kakšno drugo eksotično strelivo.
+Napad prereže glavno krvno žilo. Če udarec premaga točke oklepa in poškoduje tarčo, mora branilec opraviti nasprotni met za vzdržljivost proti prvotnemu metu napada. Če branilec ne uspe, začne močno krvaveti. Na začetku vsakega bojnega kroga prejemnik izgubi eno stopnjo utrujenosti, dokler se ne zruši in morda umre. Krvaveče rane je mogoče zaustaviti z uspešnim metom za veščino prve pomoči, vendar prejemnik ne more več izvajati nobenega napornega ali nasilnega dejanja, ne da bi ponovno odprl rano. Glejte izgubo krvi v razdelku igralnega sistema. Pri strelnem orožju, ker večina strelnega orožja ustvari zelo ozke poti rane, je dejansko težje urezniti ali prerezati glavno krvno žilo kot z orožjem za rezanje ali prebadanje. Zaradi tega bi morala biti krvavitev le ob kritičnem uspehu – razen če je pištola nekakšno nenavadno orožje, ki strelja šurikene, britev-fléchette, sploščena silska polja ali kakšno drugo eksotično strelivo.
 
-#### Oslepi nasprotnika
+#### Oslepitev nasprotnika
 
-Pri kritičnem uspehu branilec na kratko oslepi nasprotnika, tako da vrže pesek, odbije sončno svetlobo od svojega ščita ali uporabi kakšno drugo taktiko, ki za kratek čas moti napadalčev vid. Napadalec mora opraviti nasprotni met svoje veščine Izmikanje (ali veščine Orožje, če uporablja ščit) proti branilčevam prvotnemu metu pariranja. Če napadalec zataji, trpi situacijski modifikator Težko ali Izjemno za naslednje 1-3 poteze, odvisno od metode oslepitve.
+Ob kritičnem uspehu branilec na kratko oslepi svojega nasprotnika tako, da vrže pesek, odbije sončno svetlobo s ščitom ali kakšno drugo taktiko, ki na kratko moti nasprotnikov vid. Napadalec mora opraviti nasprotni met svoje veščine izmikanja (ali veščine orožja, če uporablja ščit) proti branilčevemu prvotnemu metu za pariranje. Če napadalec ne uspe, utrpi situacijsko kazen težke ali zastrašujoče težavnosti za naslednjih 1d3 obratov, odvisno od metode oslepitve.
 
-#### Obide oklep
+#### Obhod oklepa
 
-Pri kritičnem uspehu napadalec najde vrzel v naravnem ali nošenem oklepu branilca. Če branilec nosi oklep nad naravno zaščito, se mora napadalec odločiti, katero od obeh obide. Ta učinek se lahko zloži, da obide obe. Za namene tega učinka se fizična zaščita, pridobljena z magijo, šteje za nošen oklep. Čeprav se Bypass Armor očitno lahko uporablja pri kakršnem koli napadu, nekatere vrste streliva morda ne morejo dostopati do tega učinka (šibra zaradi svoje razpršenosti) ali je vgrajen v njihovo osnovno zmogljivost, kar ga podeli kot bonus poseben učinek poleg vseh drugih pridobljenih (teleportacijski naboji). Veliko je odvisno od tega, kako želi vodja igre modelirati orožje.
+Ob kritičnem uspehu napadalec najde vrzel v branilčevem naravnem ali nošenem oklepu. Če branilec nosi oklep nad naravno zaščito, se mora napadalec odločiti, katero od obeh bo obšel. Ta učinek je mogoče kopičiti za obhod obeh. Za namene tega učinka se fizična zaščita, pridobljena z magijo, šteje kot nošen oklep. Čeprav se obhod oklepa navidezno lahko uporablja s katero koli vrsto napada, nekaterim vrstam streliva morda ne bo dovoljen dostop do tega učinka (šibre zaradi njihovega razprševanja) ali pa je vgrajen v njihovo osnovno delovanje, kar ga podeli kot bonus posebni učinek poleg vseh drugih pridobljenih (teleportacijski naboji). Veliko je odvisno od tega, kako želi mojster igre modelirati orožje.#### Izbira mesta zadetka
 
-#### Izberi lokacijo
+Pri uporabi orožja za bližinski boj lahko napadalec prosto izbere mesto, kamor bo usmerjen udarec, če je to mesto običajno na dosegu. Pri uporabi orožja na daleč, vključno s strelnim orožjem, je Izbira mesta zadetka mogoča le ob Kritičnem uspehu, razen če je tarča na dosegu kratkega dosega in je bodisi mirujoča bodisi se ne zaveda napadalca. Pri strelnem orožju lahko teleskopski merki ta doseg podaljšajo.
 
-Pri uporabi orožja za boj od blizu lahko napadalec prosto izbere lokacijo, kamor pristane udarec, dokler je ta lokacija normalno dosegljiva. Pri uporabi orožja na daljavo, vključno s strelnim orožjem, je Izberi lokacijo le kritični uspeh, razen če je tarča v bližnjem dosegu in je bodisi stacionarna bodisi se ne zaveda napadalca. Za strelno orožje lahko teleskopski merki razširijo ta doseg.
+#### Obhod pariranja
 
-#### Obide pariranje
+Ob Kritičnem uspehu lahko napadalec popolnoma obide sicer uspešno Pariranje.
 
-Pri kritičnem uspehu lahko napadalec popolnoma obide sicer uspešno pariranje.
+#### Poškodovanje orožja
 
-#### Poškoduje orožje
+Likom omogoča, da poškodujejo nasprotnikovo orožje kot del Napada ali Pariranja. Pri napadu lik nameri posebej v nasprotnikovo orožje za pariranje in nanj uporabi svoj met za škodo namesto na obrambo nasprotnika. Ciljno orožje za odpor proti škodi uporabi svoje Točke oklepa. Če se orožju Točke zadetka znižajo na nič, se zlomi. Pri strelnem orožju, kjer je zadeti ročno orožje na razdalji še težje kot ciljati na določeno mesto telesa, naj bo to na splošno rezervirano le za Kritične uspehe. Obstaja pa nekaj izjem, prva je ščit, ki bi ga moral biti zaradi njegove narave precej lažje zadeti. Druga se nanaša na eksotično orožje, ki izstreljuje stožčast žarek, sposoben ciljati ročne predmete znotraj območja učinka; na primer indukcijska pištola, ki segreje kovinske predmete.
 
-Liku omogoča, da poškoduje orožje nasprotnika kot del napada ali pariranja. Če napada, lik cilja posebej na branilčevo orožje za pariranje in nanese svojo škodo nanj, namesto na uporabnika. Ciljno orožje uporablja svoje lastne točke oklepa za upiranje škodi. Če se zmanjša na nič točk zadetka, se orožje zlomi. Za strelno orožje, ker je udariti ročno orožje na daljavo še težje kot ciljati na specifično lokacijo telesa, naj bi bilo to na splošno rezervirano le za kritične uspehe. Obstaja pa več izjem, prva je, da bi moral biti ščit po svoji naravi veliko lažje zadeti. Druga se nanaša na eksotična orožja, ki izstrelijo stožčasti žarek, ki lahko cilja na ročne predmete znotraj svojega območja vpliva; na primer, indukcijsko pištolo, ki segreva kovinske predmete.
+#### Razorožitev nasprotnika
 
-#### Razoroži nasprotnika
+Lik izbije, iztrga ali zavrti nasprotnikovo orožje iz njegove roke. Nasprotnik mora opraviti Nasprotni met svojega Bojnega sloga proti prvotnemu metu lika. Če prejemnik razorožitve izgubi, njegovo orožje odleti na razdaljo, ki je enaka metu napadalčevega Modifikatorja škode v metrih. Če Modifikatorja škode ni, orožje pade razoroženi osebi pod noge. Primerjalna velikost orožij vpliva na met. Vsaka stopnja, za katero je orožje razoroževalca večje, poveča težavnost nasprotnikovega meta za eno stopnjo. Nasprotno, vsaka stopnja, za katero je orožje razoroževalca manjše, zmanjša težavnost za eno stopnjo. Razorožitev deluje le na bitja, ki so velika do dvakrat toliko kot MOČ napadalca.
 
-Lik udari, potegne ali izvije nasprotnikovo orožje iz njegove roke. Nasprotnik mora opraviti nasprotni met svoje Bojnega stila proti likovem prvotnemu metu. Če prejemnik razorožitve izgubi, se njegovo orožje odvrže na razdaljo, enako metu modifikatorja škode razoroževalca v metrih. Če ni modifikatorja škode, orožje pade k razoroženemu. Primerjalna velikost orožij vpliva na met. Vsak korak, za katerega je orožje razoroževalca večje, poveča težavnost nasprotnikovega meta za en razred. Obratno, vsak korak, za katerega je orožje razoroževalca manjše, zmanjša težavnost za en razred. Razorožitev deluje samo na bitja do dvakratne napadalčeve STR.
+#### Podrtje tarče
 
-#### Poda sovražnika
+Ofenzivno, samo strelno orožje. Ob predpostavki, da tarča utrpi vsaj manjšo rano od strela, je prisiljena opraviti Nasprotni test svoje VZD proti napadalčevemu metu za zadetek. Neuspeh pomeni, da tarča podleže šoku in bolečini ter postane nezmožna za nadaljnji boj. Okrevanje po nezmožnosti se lahko izvede z uspešnim preverjanjem Prve pomoči ali z uporabo neke oblike tehnološkega ali narkotičnega ojačevalca, če takšen v kampanji obstaja. V nasprotnem primeru začasna nezmožnost traja obdobje, enako eni uri, deljeno s Stopnjo celjenja tarče.
 
-Ofenzivno, samo strelno orožje. Ob predpostavki, da tarča utrpi vsaj manjšo rano od strela, je prisiljena opraviti nasprotni test svoje Vzdržljivosti proti napadalčevemu zadetku. Neuspeh kaže, da tarča podleže šoku in bolečini, postane onesposobljena in se ne more več boriti. Okrevanje od onesposobljenosti se lahko izvede z uspešnim preizkusom Prve pomoči ali z uporabo neke oblike tehnološkega ali narkotičnega pospeševalca, če tak obstaja v kampanji. Sicer začasna onesposobljenost traja čas, enak eni uri, deljeno z zdravilno stopnjo tarče.
+#### Umik v kritje
 
-#### Skrij se
+Ofenzivno, samo strelno orožje. Ta posebni učinek strelcu omogoča, da se takoj umakne nazaj v kritje, ne da bi moral čakati na naslednjo potezo za uporabo akcije Zavzemi kritje. Lik mora že stati ali čepeti ob neki obliki kritja, da lahko uporabi Umik v kritje.
 
-Ofenzivno, samo strelno orožje. Ta poseben učinek omogoča strelcu, da se takoj skrije za zaklon, ne da bi moral čakati na svoj naslednji obrat, da bi uporabil dejanje Poišči zaklon. Lik mora biti že stoječ ali čepeti ob neki obliki zaklona, da lahko uporabi Skrij se.
+#### Izboljšano pariranje
 
-#### Izboljša pariranje
+Ob Kritičnem uspehu obrambnik uspe odbiti celotno silo napada, ne glede na VEL njegovega orožja.
 
-Pri kritičnem uspehu branilcu uspe odbiti celotno silo napada, ne glede na velikost njegovega orožja.
+#### Zapletanje
 
-#### Zaplete
+Omogoča liku, ki vihti orožje za zapletanje, kot je bič ali mreža, da imobilizira zadeto mesto. Zapletena roka ne more uporabiti ničesar, kar drži; ujeta noga prepreči tarči gibanje; medtem ko vse veščine pri zapleteni glavi, prsih ali trebuhu postanejo za eno stopnjo težje. V svoji naslednji potezi lahko uporabnik porabi Točko akcije za avtomatski poskus Podrtja nasprotnika. Zapletena žrtev se lahko v svoji potezi poskusi osvoboditi bodisi z Nasprotnim metom z uporabo Telesne moči, da se iztrga, bodisi z zmago pri Posebnem učinku in izbiro Poškodovanje orožja, Razorožitev nasprotnika ali Osvoboditev.
 
-Omogoča liku, ki vihti zapletajoče orožje, kot je bič ali mreža, da imobilizira udarjeno lokacijo. Zapletena roka ne more uporabljati, kar drži; ujeta noga preprečuje tarči gibanje; medtem ko zapletena glava, prsni koš ali trebuh oteži vse mete veščin za en razred. V svoji naslednji potezi lahko uporabnik porabi akcijsko točko za avtomatski poskus Spotakni nasprotnika. Zapletena žrtev se lahko poskusi osvoboditi v svoji potezi tako, da poskusi nasprotni met z uporabo Kreposti za iztrganje, ali pa zmaga Posebni učinek in izbere Poškoduje orožje, Razoroži nasprotnika ali Umakni se.
+#### Prisilen neuspeh
 
-#### Prisili neuspeh
+Uporablja se, ko nasprotnik naredi Ponesrečen met, lik lahko kombinira Prisilen neuspeh s katerim koli drugim Posebnim učinkom, ki zahteva Nasprotni met. Prisilen neuspeh povzroči, da nasprotnik privzeto ne opravi svojega meta za odpor – s tem pa je samodejno razorožen, podrt in tako naprej.
 
-Uporablja se, ko nasprotnik zataji, lik lahko združi Prisili neuspeh s katerim koli drugim posebnim učinkom, ki zahteva nasprotni met za delovanje. Prisili neuspeh povzroči, da nasprotnik privzeto zataji pri svojem metu odpora – s tem se samodejno razoroži, spotakne itd.
+#### Oprijem
 
-#### Prijem
+Če je nasprotnik na dosegu lika za boj brez orožja, lahko lik uporabi prosto roko (ali podoben ud, sposoben oprijemanja), da drži nasprotnika in mu prepreči umik iz boja. Nasprotnik se lahko v svoji potezi poskusi osvoboditi, kar zahteva Nasprotni met Telesne moči ali Boja brez orožja proti tisti veščini od obeh, ki jo izbere tisti, ki drži.
 
-Pod pogojem, da je nasprotnik v dosegu napadalčevega brezorožnega boja, lahko napadalec z prazno roko (ali podobnim udom, sposobnim prijemanja) prime nasprotnika, s čimer mu prepreči, da bi se izognil boju. Nasprotnik se lahko poskusi osvoboditi v svoji potezi, kar zahteva nasprotni met bodisi Kreposti ali Brezorožnega boja proti tistemu od obeh veščin, ki jih prijemalec preferira.
+#### Prebodevanje
 
-#### Nabodi
+Dvokrat vrzite za škodo orožja, pri čemer napadalec izbere, kateri od obeh rezultatov bo uporabil za napad. Ob predpostavki, da je orožje za bližinski boj, če je oklep prebit in povzročena rana, ima napadalec možnost, da pusti orožje v rani ali ga iztrga v naslednji potezi. Če orožje pusti v rani, to povzroči Stopnjo težavnosti pri prihodnjih poskusih veščin žrtve. Resnost kazni je odvisna od velikosti bitja in orožja, ki ga prebada, kot je navedeno v spodnji Tabeli učinkov prebodevanja. Zaradi poenostavitve nadaljnja prebodevanja z orožjem enake velikosti ne povzročijo dodatnih kazni. Za izvlek prebodenega orožja med bližinskim bojem je potrebna uporaba akcije Priprava orožja. Uporabnik mora opraviti neizpodbijan met za Telesno moč (ali zmagati v Nasprotnem metu za Telesno moč, če se nasprotnik upira). Uspeh izvleče orožje in povzroči dodatno škodo na istem mestu, enako polovici običajnega meta za škodo za to orožje, vendar brez kakršnega koli Modifikatorja škode. Neuspeh pomeni, da orožje ostane zataknjeno v rani brez nadaljnjega učinka, čeprav lahko uporabnik poskusi znova v svoji naslednji potezi. Posebej nazobčano orožje (kot so harpune) povzroči običajno škodo. Oklep ne zmanjša škode pri izvleku. Dokler ostane prebodeno, napadalec ne more uporabiti svojega orožja za prebadanje za Pariranje.
 
-Dvokratno vržite škodo orožja, pri čemer napadalec izbere, kateri od obeh rezultatov bo uporabil za napad. Ob predpostavki, da je orožje orožje za boj od blizu, če oklep prodre in povzroči rano, ima napadalec možnost, da orožje pusti v rani ali ga iztrga v svojem naslednjem obratu. Puščanje orožja v rani povzroči težavnostno stopnjo pri žrtvinih prihodnjih poskusih veščin. Resnost kazni je odvisna od velikosti bitja in orožja, ki ga nabada, kot je navedeno v spodnji tabeli učinkov nabijanja. Zaradi preprostosti nadaljnja nabijanja z orožjem enake velikosti ne povzročajo dodatnih kazni. Za umik nabadanega orožja med bojem od blizu je potrebna uporaba bojne akcije Pripravi orožje. Uporabnik mora opraviti neoporečen met Kreposti (ali zmagati v nasprotnem metu Kreposti, če se nasprotnik upira). Uspeh izvleče orožje, kar povzroči nadaljnjo poškodbo iste lokacije, enako polovici normalnega meta škode za to orožje, vendar brez kakršnega koli modifikatorja škode. Neuspeh pomeni, da orožje ostane zataknjeno v rani brez nadaljnjega učinka, čeprav lahko uporabnik poskusi znova v svojem naslednjem obratu. Posebej nabadajoča orožja (kot so harpone) povzročijo normalno škodo. Oklep ne zmanjša škode ob umiku. Medtem ko ostaja nabodeno, napadalec ne more uporabljati svojega nabadajočega orožja za pariranje.
+#### Tabela učinkov prebodevanja
 
-#### Tabela učinkov nabijanja
-
-| SIZ bitja | Majhna orožja | Srednja orožja | Velika orožja | Ogromna orožja | Izjemna orožja |
+| VEL bitja | Majhno orožje | Srednje orožje | Veliko orožje | Ogromno orožje | Enormno orožje |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1-10 | Izjemno | Herkulsko | Onemogočeno | Onemogočeno | Onemogočeno |
-| 11-20 | Težko | Izjemno | Herkulsko | Onemogočeno | Onemogočeno |
-| 21-30 | Brez učinka | Težko | Izjemno | Herkulsko | Onemogočeno |
-| 31-40 | Brez učinka | Brez učinka | Težko | Izjemno | Herkulsko |
-| 41-50 | Brez učinka | Brez učinka | Brez učinka | Težko | Izjemno |
-| Vsakih +10 | Sledi napredovanju tabele |
+| 1-10 | Zastrašujoče | Herkulsko | Nezmožnost | Nezmožnost | Nezmožnost |
+| 11-20 | Težko | Zastrašujoče | Herkulsko | Nezmožnost | Nezmožnost |
+| 21-30 | Brez učinka | Težko | Zastrašujoče | Herkulsko | Nezmožnost |
+| 31-40 | Brez učinka | Brez učinka | Težko | Zastrašujoče | Herkulsko |
+| 41-50 | Brez učinka | Brez učinka | Brez učinka | Težko | Zastrašujoče |
+| Vsakih +10 | Sledi tabeli |
 
-Za strelno orožje bo strelivo večine strelnega orožja, ki temelji na izstrelkih, lahko zabodlo. Vodje igre morda želijo omejiti ali prepovedati ta učinek za plazemska ali laserska energetska orožja. Krogle, fléchette in podobni izstrelki so očitno premajhni, da bi povzročili kakršne koli sekundarne zabodne učinke.
+Pri strelnem orožju bo strelivo večine projektilnega strelnega orožja lahko prebodlo. Gospodarji igre bodo morda želeli omejiti ali prepovedati ta učinek za energijsko orožje na plazmo ali laser. Krogle, puščice in podobni projektili so očitno premajhni, da bi povzročili kakršne koli sekundarne učinke prebodevanja.
 
 #### Ostrostrelec
 
-Strelcu omogoča, da prestavi lokacijo zadetka za eno stopnjo na sosednje območje telesa. Fiziologija vpliva na to, kaj se lahko ponovno cilja, zato je treba uporabiti zdravo pamet. Tako bi uporaba tega posebnega učinka na humanoidu omogočila napadalcu, ki je zadel nogo, da udarec prestavi na trebuh. Obratno pa bi streljanje grifona v prsni koš omogočilo izbiro prednjih nog, kril ali glave.
+Strelcu omogoča, da premakne mesto zadetka, ki ga je zadel njegov strel, za eno stopnjo na neposredno sosednje območje telesa. Fiziologija vpliva na to, kaj se lahko ponovno nameri, zato je treba uporabiti zdravo pamet. Tako bi uporaba tega Posebnega učinka na humanoidu napadalcu, ki je vrgel zadetek v nogo, omogočila, da ga namesto tega premakne na trebuh. Nasprotno, streljanje na grifona v prsi bi omogočilo izbiro sprednjih nog, kril ali glave.
 
-#### Maksimiraj škodo
+#### Maksimiranje škode
 
-Pri kritičnem uspehu lahko lik eno od svojih kock za škodo orožja nadomesti z njeno polno vrednostjo. Na primer, ročna sekira, ki običajno povzroči 1k6 škode, bi se namesto tega štela kot 6, medtem ko bi velika palica z 2k6 škode namesto tega povzročila 1k6+6 škode. Ta posebni učinek se lahko zloži. Čeprav se lahko uporablja tudi za naravna orožja, Maksimiraj škodo ne vpliva na modifikator škode napadalca, ki mora biti vržen normalno.
+Ob Kritičnem uspehu lahko lik enega od svojih kock za škodo orožja nadomesti s polno vrednostjo. Na primer, ročna sekira, ki običajno povzroči 1d6 škode, bi se namesto tega štela za 6, medtem ko bi velik kij z 2d6 škode namesto tega povzročil 1d6+6 škode. Ta Posebni učinek se lahko kopiči. Čeprav se lahko uporabi tudi za naravno orožje, Maksimiranje škode ne vpliva na Modifikator škode napadalca, ki ga je treba vreči običajno.
 
 #### Preboj
 
-Kritično, samo strelno orožje. Če streljate na linearno postavljene nasprotnike ali v gosto zgoščeno skupino, ta poseben učinek omogoča, da strel potuje popolnoma skozi prvo žrtev in zadene drugo za njo, pod pogojem, da premaga oklep prve tarče. Druga žrtev pa utrpi le polovico škode zaradi oslabitve ali upočasnitve strela. Preboj je na splošno bolj uporaben pri močnem orožju, ki povzroča veliko škode, ali tistih, ki imajo nekakšno sposobnost prebijanja oklepa. Kakršni koli posebni učinki, ki so bili naneseni na prvo tarčo, se ne prenesejo na drugo.
+Kritičen uspeh, samo strelno orožje. Če streljate na linearno postavljene nasprotnike ali v gosto skupino, ta posebni učinek omogoči, da strel preleti popolnoma skozi prvo žrtev in zadene drugo za njo, ob predpostavki, da premaga telesni oklep prve tarče. Druga žrtev pa utrpi le polovično škodo zaradi oslabitve ali upočasnitve strela. Preboj je na splošno bolj uporaben pri orožjih visoke moči, ki povzročijo veliko škode, ali tistih, ki imajo nekakšno sposobnost prebijanja oklepa. Kakršni koli posebni učinki, povzročeni na prvi tarči, se ne uporabijo na drugi.
 
-#### Prikleni
+#### Pripadanje k tlom
 
-Samo strelno orožje. Podobno kot pri prednosti pritiska, ta posebni učinek prisili tarčo, da opravi nasprotni preizkus svoje volje proti napadalčevemu zadetku. Neuspeh pomeni, da se tarča skrije za kritje in ne more vrniti ognja v svojem naslednjem obratu. Upoštevajte, da Prikleni deluje tudi, če tarča ne utrpi nobene dejanske škode (morda zaradi uspešnega izmikanja ali udarca nabojev v kritje), saj se zanaša na učinek ustrahovanja streljanja, ki poteka zelo blizu.
+Samo strelno orožje. Podobno kot Izkoristi prednost, ta posebni učinek prisili tarčo, da opravi Nasprotni test svoje Volje proti napadalčevemu metu za zadetek. Neuspeh pomeni, da se tarča stisne za kakršno koli kritje, ki je na voljo, in v svoji naslednji potezi ne more streljati nazaj. Upoštevajte, da Pripadanje k tlom deluje, tudi če na tarči ni povzročena nobena dejanska škoda (morda zaradi uspešnega izmikanja ali strelov, ki zadenejo njihovo kritje), saj se zanaša na učinek ustrahovanja strelnega orožja, ki leti zelo blizu.
 
-Čeprav priklenjena žrtev določen čas ne more vrniti ognja, lahko izvaja druga dejanja, pod pogojem, da se pri tem ne izpostavi ognju, kot so plazenje do novega kritja, komunikacija z drugimi, ponovno polnjenje orožja in tako naprej.
+Čeprav pripeta žrtev ne more streljati nazaj v zahtevanem času, lahko izvaja druge akcije, pod pogojem, da se pri tem ne izpostavi ognju, kot so plazenje stran do novega kritja, komuniciranje z drugimi, ponovno polnjenje orožja in tako naprej.
 
-#### Pripravi protinapad
+#### Priprava nasprotiukrepa
 
-Branilec prebere vzorce svojega sovražnika in pripravi protinapad proti specifičnemu Posebnemu učinku (ki ga je treba tajno zabeležiti). Če njegov nasprotnik med bojem poskusi nanesti izbrani Posebni učinek nanj, branilec takoj nadomesti napadalčev učinek z enim svojim, ki uspe avtomatsko.
+Obrambnik prebere vzorce svojega sovražnika in pripravi nasprotiukrep proti določenemu Posebnemu učinku (kar je treba na skrivaj zapisati). Če njegov nasprotnik med bojem poskuša nanj uporabiti izbrani Posebni učinek, obrambnik takoj nadomesti napadalčev učinek s svojim, ki uspe samodejno.
 
 #### Hitro polnjenje
 
-Pri uporabi orožja na daljavo, napadalec skrajša čas polnjenja za naslednji strel za eno. Ta učinek se lahko zloži. Za strelno orožje, čeprav je koristen za strelno orožje na črni smodnik ali enostrelno strelno orožje, ima ta učinek manj očitno uporabo pri avtomatskem orožju, kjer se naslednji strel takoj naloži (ali napolni). Vendar pa se hitro polnjenje lahko uporablja tudi za hitro menjavo nabojnikov. Lahko bi bilo uporabno tudi za energetska orožja, ki imajo dolge cikle polnjenja kondenzatorjev ali omogočajo hlajenje cevi.
+Pri uporabi orožja na daleč napadalec zmanjša čas polnjenja za naslednji strel za ena. Ta učinek se lahko kopiči. Pri strelnem orožju, čeprav je uporabno za strelno orožje na črni smodnik ali z enim nabojem, ima ta učinek manj očiten namen, če se uporablja pri avtomatskem orožju, kjer je naslednji strel komoriran (ali napolnjen) takoj. Vendar bi se Hitro polnjenje lahko namesto tega uporabilo za hitro menjavo nabojnikov orožja. Lahko bi bilo uporabno tudi za energijsko orožje, ki ima dolge čase ciklov za ponovno polnjenje kondenzatorjev ali omogočanje hlajenja cevi.
 
-#### Brazgotina na sovražniku
+#### Zaznamovanje sovražnika
 
-Borec povzroči nasprotniku brazgotino, ki bo o njem govorila vse življenje – kot je skoraj pretrgan vrat ali umetniško vrezana črka 'Z' čez prsni koš.
+Borec svojemu nasprotniku zada brazgotino, o kateri bodo vsi govorili do konca njegovega življenja – na primer skoraj prerezan vrat ali črka 'Z', umetniško vrezana po prsih.
 
-#### Izberi tarčo
+#### Izbira tarče
 
-Ko napadalec zataji, lahko branilec manevrira ali odbije udarec tako, da zadene namesto tega sosednjega opazovalca. To zahteva, da je nova tarča v dosegu napadalčevega orožja za boj od blizu, ali v primeru napada na daljavo, stoji vzdolž črte ognja. Nova žrtev je popolnoma presenečena nad nepričakovano nesrečo in nima možnosti, da bi se izognila napadu, ki avtomatsko zadene. Vendar pa v zameno ne utrpi nobenega posebnega učinka.
+Ko napadalec naredi Ponesrečen met, lahko obrambnik manevrira ali odbije udarec tako, da namesto tega zadene sosednjega mimoidočega. To zahteva, da je nova tarča na dosegu napadalčevega orožja za bližinski boj ali, v primeru napada na daleč, stoji vzdolž linije ognja. Nova žrtev je popolnoma presenečena zaradi nepričakovane nesreče in nima možnosti, da bi se izognila napadu, ki samodejno zadene. Kot kompenzacijo pa ne utrpi nobenega Posebnega učinka.
 
-#### Umakni se
+#### Osvoboditev
 
-Pri kritičnem uspehu se branilec lahko samodejno reši iz zapletenosti, prijema ali priklenitve.
+Ob Kritičnem uspehu se obrambnik lahko samodejno reši iz stanja Zapleten, Oprijet ali Pripet.
 
-#### Omami lokacijo
+#### Omamljanje mesta zadetka
 
-Napadalec lahko s topim orožjem začasno omami udarjeni del telesa. Če udarec premaga točke oklepa in poškoduje tarčo, mora branilec opraviti nasprotni met Vzdržljivosti proti prvotnemu metu napada. Če branilec zataji, je lokacija zadetka Onesposobljena za število potez, enako povzročeni škodi. Udarec v trup povzroči, da se branilec ziba in je zadihan, sposoben le obrambe. Udarac v glavo povzroči, da sovražnik za kratek čas postane nečuten in ne more delovati.
+Napadalec lahko uporabi top orožje, da začasno omami zadeti del telesa. Če udarec premaga Točke oklepa in poškoduje tarčo, mora obrambnik opraviti Nasprotni met VZD proti prvotnemu metu napada. Če obrambnik ne uspe, je Mesto zadetka onesposobljeno za število potez, enako povzročeni škodi. Udarec v trup povzroči, da se obrambnik opotekajoče zadiha in se lahko le brani. Zadetek v glavo naredi sovražnika za kratek čas nezavestnega in nezmožnega za delovanje.
 
-#### Uniči
+#### Razbijanje
 
-Napadalec lahko z ustreznim orožjem, kot je sekira, poškoduje oklep ali naravno zaščito nasprotnika. Vsaka škoda orožja, po zmanjšanju zaradi pariranja ali magije, se nanese na vrednost točk oklepa zaščite. Presežna škoda nad točkami oklepa se nato uporabi za zmanjšanje vrednosti točk oklepa te oklepljene lokacije – trganje trakov, pokanje obročev, mečkanje plošč ali trganje kože, lusk ali hitina pošasti. Če po zmanjšanju zaščite na nič AP ostane še kaj škode, se ta prenese na točke zadetka udarjene lokacije. Za strelno orožje bi bil Sunder primeren za energetska strelna orožja, zasnovana za uničevanje ablacijskih oklepov ali bolj eksotične koncepte, kot so gravitacijske valovne puške.
+Napadalec lahko uporabi primerno orožje, na primer sekiro, da poškoduje oklep ali naravno zaščito nasprotnika. Kakršna koli škoda orožja se po zmanjšanju zaradi pariranja ali magije uporabi proti vrednosti Točk oklepa zaščite. Odvečna škoda nad Točkami oklepa se nato uporabi za znižanje vrednosti Točk oklepa tistega (oklepljenega) mesta – trganje jermenov, pokanje obročev, gubanje plošč ali trganje kože, lusk ali hitina pošasti. Če po znižanju zaščite na nič TO ostane še kakšna škoda, se prenese na Točke zadetka zadetega mesta. Pri strelnem orožju bi bilo Razbijanje primerno za energijsko strelno orožje, zasnovano za uničenje ablativnih oklepov ali bolj eksotične koncepte, kot so puške na gravitacijske valove.
 
-#### Spotakni nasprotnika
+#### Podrtje nasprotnika
 
-Lik poskuša nasprotnika spraviti iz ravnotežja ali ga vreči na tla. Nasprotnik mora opraviti nasprotni met svoje Kreposti, Izmikanja ali Akrobatike proti likovem prvotnemu metu. Če tarča zataji, pade leže. Štirinožni nasprotniki (ali bitja z več nogami) lahko nadomestijo svojo veščino Atletika z Izmikanjem in obravnavajo met kot za eno težavnostno stopnjo lažjega. Za strelno orožje, ob predpostavki, da strelno orožje strelja strelivo z maso, ni razloga, da se ta učinek ne bi mogel uporabiti pri streljanju v noge nasprotnika, tudi če nobena škoda ne prodre skozi morebitno nošeno zaščito.
+Lik poskuša nasprotnika spraviti iz ravnotežja ali ga vreči na tla. Nasprotnik mora opraviti Nasprotni met svoje Telesne moči, Izmikanja ali Akrobatike proti prvotnemu metu lika. Če tarča ne uspe, pade na tla. Štiri-nožni nasprotniki (ali bitja s še več nogami) lahko svojo veščino Atletike nadomestijo z Izmikanjem in met obravnavajo kot za eno stopnjo težavnosti lažji. Pri strelnem orožju, ob predpostavki, da strelno orožje izstreljuje strelivo z maso, ni razloga, da se ta učinek ne bi mogel uporabiti pri streljanju v noge nasprotnika, tudi če nobena škoda ne prodre skozi nobeno nošeno zaščito.
 
 #### Okvara orožja
 
-Napadalec zataji, samo strelno orožje. Napadalčevo strelno orožje se pokvari tako, da postane neuporabno, dokler si ne vzame časa za terensko razstavljanje in čiščenje.
+Napadalec naredi Ponesrečen met, samo strelno orožje. Napadalčevo strelno orožje se pokvari na način, da postane neuporabno, dokler ni porabljen čas za njegovo razstavljanje in čiščenje.
 
-#### Umakni se
+#### Umik
 
-Branilec se lahko samodejno umakne izven dosega, s čimer prekine boj s tem določenim nasprotnikom.
+Obrambnik se lahko samodejno umakne izven dosega in prekine boj s tistim specifičnim nasprotnikom.
 
 ---
-## Boj od blizu
+## Bližinski boj
 
-Boj od blizu je ročni boj v klasičnem smislu, ko se borci med seboj udarjajo z vihtenimi ali naravnimi orožji. Naslednje smernice ponujajo načine za popestritev boja od blizu in pomagajo nadalje razložiti nekatere koncepte, namignjene že prej v tem poglavju.
+Bližinski boj je ročni spopad v svojem klasičnem smislu, ko se borci drug drugega udarjajo z vihtenim ali naravnim orožjem. Naslednje smernice ponujajo načine, kako narediti bližinski boj bolj zanimiv in pomagajo dodatno pojasniti nekatere koncepte, nakazane že prej v tem poglavju.
 
 ### Situacijski modifikatorji
 
-Situacijski modifikatorji se lahko uporabijo pri boju v določenih pogojih ali kot rezultat posebnega učinka. Na primer, boj v temi lahko povzroči težavnostni razred Herkulsko. Če ni drugače navedeno, modifikatorje določi vodja igre. Kadar sta za lik pomembni dve ali več situacij, uporabite najhujšo.
+Situacijski modifikatorji se lahko uporabijo pri boju v določenih pogojih ali kot rezultat Posebnega učinka. Na primer, boj v temi lahko povzroči Stopnjo težavnosti Herkulsko. Če ni navedeno drugače, o modifikatorjih odloča Gospodar igre. Kjer sta za lik relevantni dve ali več situacij, uporabite tisto, ki je najbolj stroga.
 
-Nekateri modifikatorji so odvisni od okoliščin, vendar namesto uporabe težavnostnega razreda je Bojna veščina omejena z relevantno veščino. Na primer, boj s konjskega hrbta bi omejil Bojno veščino borca z njegovo veščino Jahanje, medtem ko bi boj v vodi lahko omejil na vrednost likove veščine Plavanje.
+Nekateri modifikatorji so odvisni od okoliščin, vendar namesto uporabe Stopnje težavnosti Bojno veščino omejuje relevantna veščina. Na primer, boj s hrbta konja bi omejil Bojno veščino borca z njegovo veščino Jahanja, medtem ko bi boj v vodi lahko to omejil na vrednost likovega Plavanja.#### Situacijski modifikatorji bližnjega boja
 
-#### Situacijski modifikatorji boja od blizu
-
-| Situacija | Težavnostni razred |
+| Situacija | Stopnja težavnosti |
 | :-- | :-: |
-| Napad na nemočnega tarčo | Samodejno |
-| Napad v omejeni situaciji | Težko |
-| Obramba na nižjem terenu ali proti montiranemu sovražniku | Težko |
-| Boj na nestabilnem terenu | Težko |
-| Boj v čepu ali z enega kolena | Težko |
-| Boj v slabi vidljivosti (gosta megla, snežna nevihta) | Težko |
-| Obramba pred napadom od zadaj | Izjemno |
-| Boj v ležečem položaju | Izjemno |
-| Boj v delni temi (slaba osvetlitev) | Izjemno |
-| Boj v popolni temi (brez osvetlitve) | Herkulsko |
-| Oslepljenost ali izguba primarnega čutila | Herkulsko |
+| Napad na nemočno tarčo | Samodejno |
+| Napad v omejenem prostoru | Težko |
+| Obramba na nižjem terenu ali proti jezdecu | Težko |
+| Bojevanje na nestabilnih tleh | Težko |
+| Bojevanje v čepe ali z enega kolena | Težko |
+| Bojevanje ob slabi vidljivosti (gosta megla, snežni metež) | Težko |
+| Obramba proti napadu od zadaj | Zastrašujoče |
+| Bojevanje v ležečem položaju | Zastrašujoče |
+| Bojevanje v delni temi (pridušena osvetlitev) | Zastrašujoče |
+| Bojevanje v popolni temi (brez kakršne koli osvetlitve) | Herkulsko |
+| Oslepelost ali izguba primarnega čutila za zaznavanje | Herkulsko |
 
-### Angažma
+### Spopad
 
-Lik se šteje za angažiranega, če je v dosegu orožja za boj od blizu nasprotnika. To ne pomeni nujno, da se oba borca lahko dosežeta; le, da ga eden od njiju lahko potencialno zadene. Ko se lik angažira z nasprotnikom, se ne more več prosto umakniti iz tega boja (naskok mimo je posebna izjema). Za prekinitev stika s sovražnikom je potrebno neko namerno dejanje, običajno izvedeno z bojno akcijo, kot je Prekanitev, ali uporabo posebnega učinka Umakni se.
+Lik se šteje za vpletenega v spopad (Engaged), če je v dosegu orožja za bližnji boj nasprotnika. To ne zahteva nujno, da lahko oba borca dosežeta drug drugega; dovolj je, da lahko eden izmed njiju potencialno udari drugega. Ko se lik vključi v spopad z nasprotnikom, ne more več prosto zapustiti boja (napad med premikanjem mimo je posebna izjema). Za prekinitev stika z nasprotnikom je potrebno namerno dejanje, ki se običajno izvede prek bojnega dejanja, kot je Manevriranje (Outmaneuver), ali uporaba posebnega učinka Umik (Withdraw).
 
-### Naskok
+### Juriš
 
-Dejanje Naskok je dejanje hitrega gibanja za povečanje sile in udarca napada. Naskok zahteva, da napadalec izbere dejanje Naskok, gibanje s tekom ali sprintom - glej razdelek [Hitrost gibanja](0002_Characters.md?id=movement-rate) zgoraj. Pravila gibanja so v celoti zajeta v priročniku _Mythras_.
+Dejanje juriša (Charge) je hiter premik z namenom povečanja sile in učinka napada. Juriš od napadalca zahteva, da izbere dejanje juriša in se premika s hitrostjo teka (Run) ali šprinta (Sprint) – glejte razdelek [Hitrost premikanja](0002_Characters.md?id=movement-rate) zgoraj. Pravila premikanja so v celoti zajeta v pravilniku _Mythras_.
 
-Če ga to privede v stik z nasprotnikom, se mora tam ustaviti in izvesti dejanje Napad, spremenjeno za naskok. Ni minimalne razdalje, ki jo je treba prehoditi, preden se lahko izvede naskok, saj je prehojena razdalja manj pomemben dejavnik kot dosežen zagon. Zato tek ali sprint.
+Če ga to pripelje v stik z nasprotnikom, se mora tam ustaviti in izvesti dejanje napada, prilagojeno za juriš. Ni najmanjše razdalje, ki jo je treba preteči, preden se lahko izvede juriš, saj razdalja manj vpliva na rezultat kot dosežen zagon. Zato se uporablja tek ali šprint.
 
-Med naskokom met napada trpi težavnostni razred Težko. V zameno naskok poveča velikost napadalčevega orožja za en korak in modifikator škode dvonogega napadalca za en korak, ali dva koraka, če je štirinog (ali več nog). Jahanje likov lahko nadomesti svoj modifikator škode z modifikatorjem škode svojega jezdnega bitja. Končni položaj naskakujočega lika je odvisen od rezultata izmenjave in ali se napadalec želi ustaviti ali nadaljevati mimo, takoj prekinjajoč angažma.
+Med jurišem met napada trpi stopnjo težavnosti Težko. V zameno juriš poveča VEL napadalnega orožja za eno stopnjo in MOD MOČ napadalca na dveh nogah za eno stopnjo, oziroma za dve stopnji, če gre za štirinožca (ali več nog). Jezdeci lahko namesto svojega MOD MOČ uporabijo tistega svoje jahalne živali. Končni položaj lika, ki juriša, je odvisen od rezultata izmenjave in od tega, ali želi napadalec ustaviti ali nadaljevati premikanje mimo in tako takoj prekiniti spopad.
 
-Namesto pariranja ali izmikanja, lahko prejemnik naskoka istočasno izvede protinapad proti naskakujočemu napadalcu. V tem primeru udari najprej uporabnik daljšega orožja. Če se orožje lahko nastavi za sprejem naskoka (kot je sulica), lahko prejemnik uporabi modifikator škode naskakovalca namesto svojega.
+Namesto pariranja ali izmikanja (Evading) lahko prejemnik juriša hkrati izvede protinapad na jurišajočega napadalca. V tem primeru prvi udari tisti, ki vihti daljše orožje. Če je orožje mogoče pripraviti za sprejem juriša (kot je kopje), lahko prejemnik uporabi MOD MOČ jurišajočega napadalca namesto svojega.
 
-### Zaklon
+### Kritje
 
-Nasprotniki uporabljajo kritje za oviranje napadov proti njim, tako da fizično blokirajo udarec zaradi trdnosti vmesnega materiala ali z zastiranjem točnega položaja sovražnika. Natančna vrednost kritja je odvisna od debeline njegove zaščite in obsega njegovega pokritja.
+Nasprotniki uporabljajo kritje za oviranje napadov, bodisi s fizičnim blokiranjem udarca zaradi čvrstosti materiala ali s prikrivanjem točne lokacije nasprotnika. Natančna vrednost kritja je odvisna od debeline zaščite in obsega pokritosti.
 
-Napad na tarčo, ki zadene zakrito lokacijo, bo blokiran do mere inherentne zaščite kritja. Kritje se lahko delno negira z uporabo posebnega učinka Izberi lokacijo za ciljanje vidnih delov tarče ali z udarcem skozi kritje, če ga orožje lahko prebije.
+Napad na tarčo, ki zadene zakrito lokacijo zadetka, bo blokiran v obsegu inherentne zaščite kritja. Kritje je mogoče delno izničiti z uporabo posebnega učinka Izbira lokacije (Choose Location) za merjenje v vidne dele tarče ali z udarcem skozi kritje, če ga orožje lahko prebije.
 
-V situacijah, ko je zaklon popoln, a napadalec verjame, da bo njegov napad prodrl, lahko slepo udari skrito tarčo. V takšnih primerih je met napada za en razred težji, in Izberi lokacijo ni mogoče izbrati, če je pridobljen poseben učinek. To predpostavlja, da napadalec dokaj natančno pozna položaj tarče za zaklon.
+V situacijah, kjer je kritje popolno, a napadalec meni, da bo njegov napad prebil, lahko napade na slepo. V takih primerih je met napada za eno stopnjo težji, pri pridobljenem posebnem učinku pa ni mogoče uporabiti Izbire lokacije. Predpostavlja se, da napadalec dokaj natančno pozna položaj tarče za kritjem.
 
-### Izogibanje
+### Izmikanje
 
-Izogibanje v boju pomeni, da se vržemo stran od premočnega napada. To zahteva nasprotni met veščine Izmikanje branilca proti napadalčevemu relevantnemu metu. To je lahko karkoli, od veščine Vožnja trčajočega bojnega tanka do veščine čaranja maga. Če napadalec zmaga, povzroči škodo kot običajno. Če branilec zmaga, se škoda popolnoma izogne.
+Izmikanje v boju pomeni umik izpod neposrednega močnega napada. To zahteva nasprotni met veščine Izmikanje (Evade) branilca proti ustreznemu metu napadalca. To je lahko karkoli, od veščine Vožnja (Drive) pri tanku, ki izvaja nalet, do veščine čaranja maga. Če napadalec zmaga, povzroči škodo kot običajno. Če zmaga branilec, se škodi popolnoma izogne.
 
-Če zmagovalec nasprotnega meta doseže eno ali več ravni uspeha nad svojim nasprotnikom, lahko izbere primerne posebne učinke kot pri normalnem boju. Ne glede na rezultat, izogibni manever pusti branilca ležečega – običajno zahteva, da lik v svojem naslednjem obratu ponovno vstane – razen če lahko uporabi posebni učinek Vstani.
+Če zmagovalec nasprotnega meta doseže eno ali več stopenj uspeha več od svojega nasprotnika, lahko izbere ustrezne posebne učinke kot v običajnem boju. Ne glede na rezultat, izmikanje pusti branilca v ležečem položaju – kar običajno zahteva, da lik v naslednji potezi ponovno vstane – razen če lahko uporabi posebni učinek Vstajanje (Arise).
 
-### Odriv
+### Odbijanje (Knockback)
 
-Napad, ki povzroči več škode kot SIZ prejemnika, bo privzeto povzročil, da bo lik odrinjen. Škoda v tej okoliščini je pred kakršnim koli zmanjšanjem zaradi pariranja ali oklepa. Ob prejemu takšnega udarca, mora prejemnik opraviti lahek met Akrobatike ali standardni met Atletike, da se izogne padcu v ležeči položaj. Prav tako je potisnjen en meter za vsakih pet točk škode (ali delček tega) nad njegovim SIZ-om. Proaktivna uporaba bojne akcije Opora lahko zmanjša ali celo negira učinke odriva.
+Napad, ki povzroči večjo škodo, kot je VEL prejemnika, bo privzeto povzročil, da bo lik odbit nazaj. Škoda se v tem primeru izračuna pred kakršnim koli zmanjšanjem zaradi pariranja ali oklepa. Ob prejemu takšnega udarca mora prejemnik opraviti lahek met za Akrobatiko ali standarden met za Atletiko, da se izogne padcu na tla. Prav tako so potisnjeni za en meter na vsakih pet točk škode (ali del le-te) nad njihovo VEL. Proaktivna uporaba bojnega dejanja Okrepitev (Brace) lahko zmanjša ali celo izniči učinke odbijanja.
 
 ### Skočni napadi
 
-Skočni napadi se lahko izvedejo iz različnih situacij, večina se sproži kot del zasede ali ob zaključku naskoka, vendar nekatera bitja lahko skočijo na nasprotnika brez potrebe po zaletu ali višji višini.
+Skočne napade je mogoče izvesti iz različnih situacij, večinoma kot del zasede ali na koncu juriša, vendar lahko nekatera bitja skočijo na nasprotnika brez potrebe po zaletu ali višinski prednosti.
 
-Skočni napad se razreši z nasprotnim metom veščine Atletika skakalca proti branilčevi veščini Krepost ali Izmikanje. Štirinožni tarči otežijo met napada za eno težavnostno stopnjo. Če skakalec zmaga, je branilec samodejno podrt, napadalec pa je nanj nasedel. Neuspeh pomeni, da je branilec prenesel ali se izognil udarcu. Če zmagovalec nasprotnega meta doseže eno ali več ravni uspeha nad svojim nasprotnikom, lahko izbere primerne posebne učinke kot pri normalnem boju.
+Skočni napad se razreši z nasprotnim metom veščine Atletika napadalca proti veščini MOČ ali Izmikanje branilca. Za štirinožne tarče je met napada za eno stopnjo težavnosti težji. Če napadalec zmaga, je branilec samodejno podrt na tla, napadalec pa je nad njim. Neuspeh pomeni, da je branilec prestal udarec ali se mu izmaknil. Če zmagovalec nasprotnega meta doseže eno ali več stopenj uspeha več od nasprotnika, lahko izbere ustrezne posebne učinke kot v običajnem boju.
 
-Pri skoku ni povzročene škode; vendar pa kasneje podrt žrtev ne more ponovno vzpostaviti ravnotežja, dokler napadalec ne odide, ali pa sčasoma zmaga poseben učinek, ki mu omogoča Vstani. Poleg tega skočni napadi delujejo samo proti nasprotnikom do dvakratne velikosti napadalca. Tarča se lahko oteži, da jo poderejo, s proaktivno uporabo bojne akcije Opora, pod pogojem, da se zaveda bližajočega se skočnega napada.
+Pri skoku se ne povzroči nobena škoda; vendar žrtev v ležečem položaju ne more vstati, dokler napadalec ne odide ali dokler ne pridobi posebnega učinka, ki ji omogoči Vstajanje. Poleg tega skočni napadi delujejo le proti nasprotnikom do dvakratne VEL napadalca. Tarča lahko z proaktivno uporabo bojnega dejanja Okrepitev (Brace) oteži podrtje, če se zaveda prihajajočega skočnega napada.
 
-### Prekanitev
+### Manevriranje (Outmaneuvering)
 
-Lik, ki se sooča z več nasprotniki, se lahko z gibanjem omeji število tistih, ki ga lahko napadejo hkrati, nenehno spreminja položaj in sili sovražnike, da ovirajo drug drugega. Prekanitev zahteva, da ima lik prostor za gibanje in ni stisnjen v omejeno območje.
+Lik, ki se sooča z več nasprotniki, lahko z gibanjem omeji število tistih, ki ga lahko napadejo, s stalnim spreminjanjem položaja in prisilo nasprotnikov, da ovirajo drug drugega. Manevriranje zahteva, da ima lik prostor za gibanje in ni stisnjen v omejenem območju.
 
-Prekanitev zahteva, da lik vplete svoje nasprotnike v skupni nasprotni met veščin Izmikanja. Vsak udeleženec, tako manevrirajoči lik kot tudi tisti sovražniki, ki ga želijo stisniti v kot, morajo porabiti akcijsko točko. Nato vsak vrže enkrat in tisti, ki ne uspejo premagati meta manevrirajočega lika, ga ne morejo napasti do konca te bojne runde, saj jih blokirajo njihovi zavezniki ali terenske značilnosti.
+Manevriranje zahteva, da se lik spopade s svojimi nasprotniki v skupinskem nasprotnem metu veščin Izmikanje. Vsak udeleženec, tako manevrirajoči lik kot nasprotniki, ki ga želijo stisniti v kot, mora porabiti točko dejanja. Nato vsak vrže kocko enkrat; tisti, ki ne premagajo meta manevrirajočega lika, ga ne morejo napasti do konca te bojne runde, saj jih blokirajo njihovi zavezniki ali teren.
 
-Če manevrirajoči lik premaga vse svoje nasprotnike, ima eno izmed naslednjih možnosti: varno se angažirati z enim samim sovražnikom do konca runde ali se popolnoma umakniti iz boja.
+Če manevrirajoči lik premaga vse svoje nasprotnike, lahko izbere varen spopad z enim samim nasprotnikom do konca runde ali popoln umik iz boja.
 
 ### Pasivno blokiranje
 
-Pasivno blokiranje omogoča liku, oboroženemu z orožjem, da ga drži tako, da pokriva izbrano lokacijo (ali lokacije, ko uporablja ščit), vendar za ceno, da z njim ne more aktivno parirati (glej Zaščita lokacije). Vsak napad, ki zadene lokacije, samodejno prejme korist orožja ali ščita, s čimer se škoda zmanjša kot običajno. Tehnika se običajno uporablja, ko bojevnik želi varovati šibko točko ali ranjeno lokacijo. Nič ne preprečuje borcu z dvema orožjema ali orožjem in ščitom, da z drugim orožjem aktivno parira.
+Pasivno blokiranje omogoča liku z orožjem, da ga drži tako, da pokriva izbrano lokacijo (ali več lokacij pri uporabi ščita), vendar po ceni nezmožnosti aktivnega pariranja z njim (glej Varovanje lokacije). Vsak napad, ki zadene te lokacije, samodejno prejme ugodnost orožja ali ščita, kar zmanjša škodo kot običajno. Tehnika se pogosto uporablja, ko želi bojevnik zaščititi šibko točko ali poškodovano mesto. Nič ne preprečuje borcu z dvema orožjema ali orožjem in ščitom, da bi z drugim orožjem aktivno pariral.
 
-Ker Pasivno blokiranje deluje na enak način kot zaklon, se posebni učinek Izberi lokacijo ne more uporabiti za obhod bloka v boju od blizu, čeprav nasprotniki še vedno lahko uporabijo učinek za udarjanje po drugih neblokiranih območjih. Čepanje za ščitom omogoča liku, da podvoji število pokritih lokacij med Pasivnim blokiranjem.
+Ker pasivno blokiranje deluje enako kot kritje, posebnega učinka Izbira lokacije (Choose Location) ni mogoče uporabiti za obvoz bloka v bližnjem boju, čeprav nasprotniki še vedno lahko uporabijo ta učinek za napad na druge neblokirane predele. Če se lik skrije za ščitom, lahko podvoji število lokacij, ki jih pokriva med pasivnim blokiranjem.
 
 ### Presenečenje
 
-Presenečenje nastopi, ko je nepričakovan napad sprožen proti nasprotnikom, ki se ne zavedajo napadalčeve prisotnosti ali namere. Zaseda bi bila primer prvega, medtem ko izdajalsko obračanje proti nečutečemu zavezniku med prijateljskim pogovorom ponazarja drugega.
+Do presenečenja pride, ko se sproži nepričakovan napad proti nasprotnikom, ki se ne zavedajo napadalčeve prisotnosti ali namere. Zaseda je primer prvega, zahrbtno napadanje nezavednega zaveznika med prijaznim pogovorom pa ponazarja drugo.
 
 Učinki presenečenja na tarčo so močni:
 
-- Tarča trpi -10 kazen na pobudo.
-- Dokler ne pride na vrsto, je obravnavana kot nepripravljena in se ne more braniti.
-- Prvi napad na tarčo, če je uspešen, pridobi bonus posebni učinek.
-- Do konca runde ne more izvesti nobene ofenzivne akcije.
+- Tarča trpi kazen –10 pri iniciativi.
+- Dokler ne nastopi njihova iniciativa, se štejejo za nepripravljene in se ne morejo braniti.
+- Prvi napad na tarčo, če je uspešen, pridobi bonus posebnega učinka.
+- Do konca runde ne smejo izvajati nobenega napadalnega dejanja.
 
-### Napadi s zamahom
+### Zamah (Sweep Attacks)
 
-Napadi s zamahom se pojavijo po odločitvi vodje igre, ko orožja ali bitja nenavadne velikosti napadejo tesno zbrano skupino nasprotnikov – na primer kosilni rep velikega zmaja ali neustavljiv juriš velikanskega triceratopsa – in udarijo več sovražnikov hkrati.
+Do zamahov pride po odločitvi mojstra igre, ko orožja ali bitja nenavadne velikosti napadejo tesno strnjeno skupino nasprotnikov – na primer mogočen rep ogromnega zmaja ali neustavljiv nalet orjaškega triceratopsa – in tako zadenejo več nasprotnikov hkrati.
 
-Napad s zamahom se izvede z uporabo enega samega meta napada orožja ali bitja na vse tarče na njegovi poti. Vsak branilec mora razrešiti učinke napada ločeno in morebitni posebni učinki, naloženi napadalcu, se obravnavajo kot sočasni.
+Zamah se izvede z uporabo enega meta napada orožja ali bitja za vse tarče na njegovi poti. Vsak branilec mora ločeno razrešiti učinke napada, vsi posebni učinki, naloženi napadalcu, pa se obravnavajo, kot da so se zgodili sočasno.
 
 ---
 ## Boj na daljavo
 
-Boj na daljavo vključuje vse oblike orožja, ki jih je treba ustreliti, vreči ali izstreliti, da zadenejo tarčo. Napadi na daljavo se razrešujejo na enak način kot boj od blizu. Vendar pa je orožje na daljavo običajno mogoče parirati le s ščiti; tisti brez se morajo zanašati na naravno kritje ali uporabiti Izmikanje, da se umaknejo iz linije strela. Tako so orožja na daljavo proti lahko oklepljenim sovražnikom lahko silovita sredstva za odvračanje.
+Boj na daljavo vključuje vse oblike orožja, ki jih je treba izstreliti, vreči ali zalučati, da zadenejo svojo tarčo. Napadi na daljavo se razrešijo na enak način kot bližnji boj. Vendar pa je orožja na daljavo običajno mogoče parirati le s ščiti; tisti brez njih se morajo zanašati na naravno kritje ali uporabiti Izmikanje, da se potopijo izven strelne linije. Tako so orožja na daljavo proti lahkim oklepom lahko zastrašujoče odvračalno sredstvo.
 
-Vsako orožje na daljavo ima več specifičnih lastnosti, ki določajo njegovo učinkovitost. Ključne lastnosti za boj so naslednje:
+Vsako orožje na daljavo ima več specifičnih lastnosti, ki določajo njegovo učinkovitost. Tiste, ki imajo ključen pomen v boju, so naslednje:
 
-- **Sila:** Enakovrednost velikosti orožja na daljavo. Je abstraktna mera penetracijske moči orožja ali njegovega streliva za določanje, ali udarec premaga (ščitno) pariranje.
-- **Modifikator škode:** Ta lastnost prikazuje, ali se modifikator škode napadalca lahko uporabi za povečanje meta škode orožja na daljavo. Na splošno le loki, ki se napenjajo z lastno močjo, in vržena orožja omogočajo uporabniku, da uporabi svoj modifikator škode.
-- **Doseg:** Tri številke, ločene s poševnicami, ki predstavljajo največje bližnje, učinkovite in dolge dosege orožja ali njegovega streliva. Bližnji doseg je razdalja, na kateri se lahko uporablja posebni učinek Izberi lokacijo, pod pogojem, da je tarča stacionarna ali se ne zaveda bližajočega se napada. Učinkoviti doseg nima pomembnih modifikatorjev. Na dolgem dosegu lahko orožje še vedno povzroči škodo, vendar je količina škode prepolovljena, in sila je zmanjšana za en korak.
-- **Polnjenje:** Čas v potezah, potreben za polnjenje ali ponovno polnjenje orožja, ki izstreljuje strelivo. Lik lahko skrajša čas, porabljen za polnjenje ali pripravo, z uporabo posebnega učinka Hitro polnjenje.
-- **Velikost naboda:** Velikost nabodnega orožja se razlikuje od sile, s katero udari. Nabodna orožja na daljavo imajo poseben stolpec, ki označuje njihovo dejansko velikost pri upoštevanju ovir, ki jih povzroča posebni učinek Nabodi.
+- **Sila (Force):** Ekvivalent VEL za orožje na daljavo. Je abstraktna mera prodorne moči orožja ali njegovega streliva za določitev, ali udarec premaga pariranje (ščita).
+- **Modifikator škode (Damage Modifier):** Ta lastnost kaže, ali se lahko MOD MOČ napadalca uporabi za povečanje meta škode orožja na daljavo. Na splošno le loki in vržena orožja uporabniku omogočajo uporabo MOD MOČ.
+- **Doseg (Range):** Tri številke, ločene s poševnicami, ki predstavljajo največji bližnji, efektivni in dolgi doseg orožja ali njegovega streliva. Bližnji doseg je razdalja, na kateri se lahko uporabi posebni učinek Izbira lokacije, pod pogojem, da tarča miruje ali se ne zaveda prihajajočega napada. Efektivni doseg nima pomembnih modifikatorjev. Na dolgem dosegu lahko orožje še vedno povzroči škodo, vendar se količina škode prepolovi, Sila pa se zmanjša za eno stopnjo.
+- **Nalaganje (Load):** Čas v rundah, potreben za nalaganje ali ponovno nalaganje orožja, ki izstreljuje strelivo. Lik lahko skrajša čas nalaganja ali pripravljanja z uporabo posebnega učinka Hitro polnjenje (Rapid Reload).
+- **VEL prebadanja (Impale Size):** VEL orožja, ki prebada, se razlikuje od Sile, s katero udari. Orožja za prebadanje na daljavo imajo poseben stolpec, ki označuje njihovo dejansko velikost pri upoštevanju ovir, ki jih povzroča posebni učinek Prebod (Impale).
 
 ### Situacijski modifikatorji
 
-Tako kot pri boju od blizu se lahko tudi pri uporabi orožja na daljavo v določenih pogojih uporabijo situacijski modifikatorji. Veščina boja lika se lahko omeji, ko uporablja orožje v težkih okoliščinah, na primer metanje kopja med jahanjem konja.
+Tako kot pri bližnjem boju se lahko situacijski modifikatorji uporabijo pri uporabi orožja na daljavo v določenih pogojih. Bojna veščina lika je lahko omejena pri uporabi orožja v težkih okoliščinah, kot je metanje kopja med jahanjem konja.
 
 ##### Situacijski modifikatorji boja na daljavo
 
-| Situacija | Težavnostni razred |
+| Situacija | Stopnja težavnosti |
 | :-- | --- |
 | Lahek veter\* | Težko |
-| Zmeren veter\* | Izjemno |
+| Zmeren veter\* | Zastrašujoče |
 | Močan veter\* | Herkulsko |
-| Vihari, nevihte ali slabše\* | Brezupno |
+| Vihar, neurje ali slabše\* | Brezupno |
 | Tarča teče | Težko |
-| Tarča sprintira | Izjemno |
-| Tarča zakrita z meglo ali v delni temi | Težko |
-| Tarča zakrita z gostim dimom ali v temi | Izjemno |
+| Tarča šprinta | Zastrašujoče |
+| Tarča je zakrita z meglo ali je v delni temi | Težko |
+| Tarča je zakrita z gostim dimom ali je v temi | Zastrašujoče |
 | Tarča popolnoma zakrita | Herkulsko |
 | Tarča popolnoma nevidna | Nemogoče\*\* |
-| Tarča leži | Izjemno |
-| Napadalec leži\*\*\* | Herkulsko |
-| Napadalec je na nestabilnem terenu | Težko |
+| Tarča v ležečem položaju | Zastrašujoče |
+| Napadalec v ležečem položaju\*\*\* | Herkulsko |
+| Napadalec na nestabilnih tleh | Težko |
 
-_\* Predpostavlja, da je vrženo orožje ali strelivo občutljivo na bočni veter in nadomešča običajno kazen, ki jo vetrovi naložijo običajnim veščinam._
+_\* Predpostavlja, da je vrženo orožje ali strelivo občutljivo na bočni veter, in nadomesti običajno kazen, ki jo vetrovi nalagajo običajnim veščinam._
 
 _\*\* Razen če je splošna lokacija tarče razkrita ali znana, potem obravnavajte kot Herkulsko_
 
-_\*\*\* Kazen je mogoče odpraviti, če se uporablja samostrel ali strelno orožje iz pripravljenega položaja._
+_\*\*\* Kazen se lahko izniči, če uporabljate samostrel ali strelno orožje iz pripravljenega položaja._
 
-### Merjenje
+### Namerjanje
 
-Z dodatnim časom, porabljenim za merjenje z orožjem na daljavo, lahko lik potencialno poveča svojo možnost zadetka. Merjenje zahteva celo bojno rundo za stabilizacijo orožja in čakanje na najboljšo priložnost za sprostitev, na primer zadrževanje strela z lokom za trenutni premor v vetru ali dokler se tarča ne premakne med dvema ovirama. Z merjenjem lahko lik zmanjša težavnost modifikatorja dosega ali situacijskega modifikatorja za eno stopnjo. Dodatne runde, porabljene za merjenje, ne prinašajo nobene dodatne prednosti.
+S porabo dodatnega časa za namerjanje orožja na daljavo lahko lik potencialno poveča svojo možnost zadetka. Namerjanje zahteva celo bojno rundo stabilizacije orožja in čakanja na najboljšo priložnost za sprožitev, na primer zadrževanje strela z lokom do trenutka zatišja v vetru ali dokler se tarča ne premakne med dve oviri. Z namerjanjem lahko lik zmanjša težavnost dosega ali situacijskega modifikatorja za eno stopnjo. Dodatne runde, porabljene za namerjanje, ne prinesejo dodatne prednosti.
 
-### Avtomatski ogenj
+### Samodejni ogenj
 
-Nekatero strelno orožje samodejno napolni naslednji strel z uporabo odpadnih plinov, povratnega udarca ali energije prejšnjega strela. Ker ni potrebe po ponovnem napenjanju, to orožju omogoča vrsto različnih hitrosti streljanja, vse odvisno od tega, koliko streliva želi uporabnik izstreliti.
+Nekatera strelna orožja samodejno vstavijo naslednji strel z uporabo odpadnih plinov, odsuna ali energije prejšnjega strela. Ker ni treba ponovno napenjati petelina, to orožju daje vrsto različnih stopenj ognja, ki so odvisne od tega, koliko streliva želi uporabnik izstreliti.
 
-Ti načini streljanja so znani kot polavtomatski, rafalni in popolnoma avtomatski. Medtem ko lahko ta sposobnost nekaterim puškam omogoči povzročanje grozljive škode, je ohranjanje natančnosti z orožjem, ki se odbija, problematično. Predpostavite, da se naslednja pravila predvsem nanašajo na avtomatsko orožje, ki strelja izstrelke.
+Ti načini ognja so znani kot polavtomatski, rafalni in popolnoma avtomatski. Čeprav lahko ta sposobnost nekaterim puškam omogoči grozljivo škodo, je vzdrževanje natančnosti pri orožju z odsunom problematično. Predpostavite, da se naslednja pravila primarno uporabljajo za avtomatsko orožje, ki izstreljuje projektile.
 
 #### Polavtomatsko
 
-To je dejansko privzeta hitrost streljanja za večino pištol, kjer vsak poteg sprožilca izstreli en sam strel in naloži naslednji naboj.
+To je dejansko privzeta stopnja ognja za večino pušk, kjer vsak poteg sprožilca izstreli en sam strel in naloži naslednji naboj.
 
 #### Rafalno
 
-Pri rafalnem streljanju vsak poteg sprožilca sprosti kratko število nabojev, običajno ne več kot tri do pet, odvisno od orožja. Njen prvotni namen je bil omogočiti omejeno zatirajočo streljanje, vendar omejiti pretirano porabo streliva. Ni namenjena izboljšanju strelčeve možnosti zadetka, saj hitro, zaporedno udarjanje neprestano trza orožje s črte. Streljanje v rafalnem načinu nalaga kazenski razred Težko na met napada. Če pa je napad uspešen, strelec vrže kocko, da ugotovi, koliko nabojev v tem rafalu je zadelo tarčo. Torej bi rafal treh nabojev uporabil 1k3. Za vsak zadet naboj vržite ločeno lokacijo in škodo.
+Pri rafalnem ognju vsak poteg sprožilca sprosti kratko število nabojev, običajno največ tri do pet, odvisno od orožja. Njegov prvotni namen je bil omogočiti omejen potlačitveni ogenj, vendar omejiti prekomerno uporabo streliva. Ni namenjen izboljšanju možnosti strelca za zadetek, saj hitri, zaporedni odsun nenehno premika orožje iz smeri. Streljanje v rafalnem načinu naloži kazen težavnosti Težko na met napada. Če je napad uspešen, strelec vrže kocko, da vidi, koliko nabojev v tem rafalnem ognju je zadelo tarčo. Tako bi rafal s tremi naboji uporabil 1d3. Za vsak naboj, ki zadene, posebej vrzite lokacijo in škodo.
 
-#### Polnoavtomatsko
+#### Popolnoma avtomatsko
 
-Običajno se uporablja za popolnoma zatirajočo streljanje, da bi priklenil več tarč, je polnoavtomatsko streljanje lahko uničujoče, če se strelja v tesno zbrano skupino sovražnikov. Strelec se odloči, koliko nabojev bo izstrelil (do omejitve ciklične hitrosti orožja), ki se nato enakomerno porazdelijo med vse tarče, vključene v lok streljanja. Vsi rezervni naboji se štejejo za izgubljene med preusmerjanjem merka (tako bi streljanje 15 nabojev na 6 tarč pomenilo dva naboja vsaki). Za vsako tarčo se izvede ločen met napada, vendar z zahtevnostjo Izjemno zaradi povečanih učinkov povratnega udarca pri neprekinjenem streljanju. Tarče, ki so zadete, utrpijo naključno število nabojev kot pri rafalnem streljanju.
+Običajno se uporablja za popolnoma potlačitveni ogenj za priklenitev več tarč; popolnoma avtomatski način je lahko uničujoč, če se strelja v tesno zbrano skupino sovražnikov. Strelec se odloči, koliko nabojev streliva želi izstreliti (do meje ciklične hitrosti orožja), ki se nato enakomerno porazdelijo po vseh tarčah, vključenih v lok streljanja. Morebitni rezervni naboji se med premikanjem namerka štejejo za izgubljene (tako bi bilo 15 nabojev na 6 tarč po dva naboja vsaka). Za vsako tarčo se opravi ločen met napada, vendar s težavnostjo Zastrašujoče zaradi povečanih učinkov odsuna pri trajnem streljanju. Tarče, ki so zadete, utrpijo naključno število nabojev kot pri rafalnem ognju.
 
-Upoštevajte, da lahko le prvi strel, ki zadene med rafalom ali polavtomatskim streljanjem, koristi od posebnih učinkov. Tako bi kritični napad med streljanjem v avtomatskem načinu omogočil izbiro Maksimiziraj škodo, vendar le s prvim strelom, tudi če bi vsi preostali naboji zadeli.
+Upoštevajte, da lahko le prvi strel, ki zadene med rafalnim ali popolnoma avtomatskim pršenjem, izkoristi posebne učinke. Tako bi met za kritični napad med streljanjem v avtomatskem načinu omogočil izbiro Maksimalne škode, vendar le s prvim strelom, tudi če vsi preostali naboji zadenejo cilj.#### Zakaj je avtomatsko streljanje tako močno kaznovano?
 
-#### Zakaj je avtomatsko streljanje tako močno kaznovano?
+Morda se zdi, da so pravila za avtomatsko streljanje pretirano stroga v primerjavi z navidezno natančnostjo sodobnega strelnega orožja. Za to obstaja več razlogov, glavna pa sta poenostavitev in ravnovesje igre. Igralce, ki kritizirajo nenatančnost svojega lika, je treba opomniti, da bodo kakršne koli spremembe pravil veljale tudi zanje, kar bi moralo biti ob smrtonosnosti hitrega streljanja streznjujoče spoznanje.
 
-Morda se zdi, da so pravila za avtomatsko streljanje neupravičeno stroga v primerjavi z navidezno natančnostjo sodobnega strelnega orožja. Za to obstaja več razlogov, glavni pa so poenostavitev in ravnotežje v igri. Igralce, ki kritizirajo nenatančnost svojega lika, je treba opomniti, da se bodo morebitne spremembe pravil nanašale tudi na njih, kar bi glede na smrtonosnost hitrega streljanja moralo biti streznitvena misel.
-
-Seveda je mogoče nekatere od teh kazni za povratni udar ublažiti, na primer z uporabo Stabilizacije orožja za oporo avtomatskega strelnega orožja. Resnica je, da so streljanja zelo različna od streljanja na strelišču. Instinkt, da se skrijemo, ko letijo krogle, potreba po ohranjanju mobilnosti in vsak strel, ki strelca razkrije z bliskom iz cevi ali zvokom, pogosto preprečuje kakršno koli možnost merjenja ali opore. Izraz 'škropi in moli' je bil skovan z zelo dobrim razlogom!
+Seveda je nekatere od teh kazni za povratni udarec mogoče ublažiti, na primer z uporabo akcije »Umirjanje orožja« (Steady Weapon) za oporo avtomatskega strelnega orožja. Resnica pa je, da so spopadi s strelnim orožjem povsem nekaj drugega kot streljanje na strelišču. Instinkt, da se človek skrije, ko letijo krogle, potreba po nenehnem premikanju in dejstvo, da vsak strel z bliskom ali zvokom iz cevi razkrije strelca, pogosto onemogočita vsako možnost nameravanja ali opiranja. Fraza 'razprši in moli' (Spray and Pray) je nastala z zelo dobrim razlogom!
 
 ### Dvojno strelno orožje
 
-Liki lahko uporabljajo dvojno strelno orožje, streljajo z obema orožjema hkrati med svojo potezo, da dosežejo hitrejši tempo streljanja. Vendar to prinaša kazen za natančnost. Streljanje s pištolo v vsaki roki trpi kazen Težko za zadetek tarče. Tisti, ki poskušajo istočasno streljati z vsako roko karabinko ali brzostrelko, trpi kazen Izjemno.
+Liki lahko uporabljajo dvojno strelno orožje in med svojo potezo streljajo z obema hkrati, da dosežejo hitrejši tempo streljanja. Vendar pa to prinaša kazen za natančnost. Streljanje s pištolo v vsaki roki pomeni kazen »Težko« (Hard) za zadetek tarče. Tisti, ki poskušajo sočasno streljati s karabinko ali avtomatom (SMG) v vsaki roki, trpijo kazen »Zelo težko« (Formidable).
 
 ### Streljanje v množico
 
-Streljanje v vrtinčast tok boja od blizu je lahko tvegano početje, zato vedno obstaja tveganje, da slučajno zadeneš nekoga drugega kot prvotno ciljano tarčo. Pri streljanju na določeno tarčo na robu množice ali boja od blizu, napad trpi težavnostni razred Težko. Če poskušate streljati skozi, naj se težavnost zviša na Izjemno. Merjenje je še vedno dovoljeno za pomoč pri ublažitvi nevarnosti.
+Streljanje v vrvež med pretepom je lahko tvegano početje, zato vedno obstaja nevarnost, da po nesreči zadenete nekoga drugega in ne prvotne tarče, v katero ste merili. Pri streljanju na določeno tarčo na robu množice ali pretepa ima napad stopnjo težavnosti »Težko« (Hard). Če poskušate streljati skozi njo, se mora ta stopnja dvigniti na »Zelo težko« (Formidable). Merjenje je še vedno dovoljeno, da se pomaga zmanjšati nevarnost.
 
-Ostrostrelec, ki kljub kazni težavnosti opravi svoj met napada, je meril natančno in bo zadel svojo predvideno tarčo. Če pa ostrostrelec zataji pri metu, a bi mu uspelo, če ne bi bilo kazni 'streljanja v množico', potem je namesto tega zadeta sosednja žrtev (ki se lahko izmika ali parira kot običajno).
+Ostrelec, ki uspe pri svojem metu za napad kljub kazni za težavnost, je nameril pravilno in bo zadel svojo nameravano tarčo. Če pa ostrelec pri metu ne uspe, a bi bil uspešen, če ne bi bilo kazni za 'streljanje v množico', potem je namesto tega zadet sosednji bližnji udeleženec (ki se lahko kot običajno izmika ali parira).
 
-Če je v liniji streljanja več kot ena tarča, naj vodja igre žrtev določi naključno. Morebitni posebni učinki, pridobljeni kot del napada, veljajo samo za prvotno tarčo, ne za slučajno zadetega opazovalca.
+Če je v liniji ognja več tarč, mora mojster iger (Games Master) žrtev določiti naključno. Vsi posebni učinki, pridobljeni kot del napada, veljajo le za prvotno tarčo in ne za katerega koli po nesreči zadetega mimoidočega.
 
-### Napake s strelnim orožjem
+### Nerodnost s strelnim orožjem
 
-Ker se streljanje običajno ne upira nasprotni veščini, je treba določiti posebno določbo, ko strelec zataji pri svojem metu napada. V tem primeru lahko kdorkoli je bil predvidena tarča, izbere poseben učinek, specifičen za zatajitev, ki ga nato strelec trpi. Glej tudi samo zatajitveni posebni učinek - Okvara orožja.
+Ker se streljanju običajno ne upira z nasprotno veščino, je treba sprejeti posebno določbo, ko strelec pri metu za napad stori napako (fumble). V tem primeru lahko tisti, ki je bil predvidena tarča, izbere poseben učinek, specifičen za napako, ki ga nato utrpi strelec. Glej tudi posebni učinek, ki velja le za napake - Okvara orožja (Weapon Malfunction).
 
 ### Pariranje strelnega orožja s ščiti
 
-Kot je bilo že omenjeno, je skoraj nemogoče namerno parirati nadzvočni izstrelek ali energetski žarek. Ščiti pa še vedno zagotavljajo določeno stopnjo zaščite, saj so v bistvu prenosno 'kritje'. Za uporabo ščita v strelskem boju preprosto uporabite pravila Pasivnega blokiranja iz razdelka [Boj od blizu](0005_Combat.md?id=passive-blocking), zgoraj.
+Kot je bilo že omenjeno, je skoraj nemogoče namerno parirati nadzvočni izstrelek ali energijski žarek. Ščiti pa vseeno nudijo določeno stopnjo zaščite, saj so v bistvu prenosno 'kritje'. Če želite ščit uporabiti v spopadu, preprosto uporabite pravila za pasivno blokiranje iz zgornjega razdelka [Bližinski boj](0005_Combat.md?id=passive-blocking).
 
-Glede sodobnejšega strelnega orožja ali orožja znanstvenofantastične narave, si lahko vodja igre želi podeliti ščitu vrednost točk oklepa, namesto da mu dodeli velikost, na podlagi inherentnega materiala, iz katerega je izdelan. Na primer, lesen ščit se lahko obravnava kot 4 točke oklepa, Kevlarjev taktični ščit 8 AP, in ščit s silovitnim poljem Ulysses 31 15 AP.
+Pri sodobnejšem strelnem orožju ali orožju znanstvenofantastične narave lahko mojster iger namesto dodelitve velikosti (Size) ščitu podeli vrednost točk oklepa (Armor Point), ki temelji na materialu, iz katerega je izdelan. Na primer, lesen ščit bi lahko obravnavali kot 4 točke oklepa, taktični ščit iz kevlarja kot 8 AP, ščit s silovim poljem iz zapestnice Ulysses 31 pa kot 15 AP.
 
-### Teleskopski merki
+### Teleskopski namerilniki
 
-Teleskopski merek izboljšuje natančnost strelnega orožja na večje razdalje, ko si uporabnik vzame čas za pravilno merjenje (glej Merjenje). Najosnovnejši teleskopski merki so zgolj optične povečave, vendar z napredkom tehnologije začnejo vključevati vgrajene daljinomere, kalkulatorje trajektorije izstrelkov, senzorje gibanja zraka, kompenzatorje atmosferskega lečenja, IR ali ojačevalnike nizke svetlobe in vrsto drugih pripomočkov, ki izboljšujejo njegovo učinkovito razdaljo 'zadeta'.
+Teleskopski namerilnik izboljša natančnost strelnega orožja na večje razdalje, ko si uporabnik vzame čas za pravilno nameravanje (glej Nameravanje). Najosnovnejši teleskopski namerilniki so le optična povečevala, z napredkom tehnologije pa začnejo vključevati vgrajene daljinomere, kalkulatorje poti izstrelkov, senzorje zračnega gibanja, kompenzatorje atmosferskega lečenja, ojačevalce IR ali šibke svetlobe in vrsto drugih pripomočkov, ki izboljšajo njegovo efektivno razdaljo 'zadetka'.
 
-Teleskopski merki olajšajo mete veščin za eno ali več stopenj (glej [Spreminjanje veščin](0003_Skills.md?id=modifying-skills)), odvisno od prefinjenosti merka. Noben merek ne more narediti meta veščine samodejnega uspeha, zato je najboljši dosegljiv razred Zelo enostavno.
+Teleskopski namerilniki olajšajo mete za veščine za eno ali več stopenj (glej [Spreminjanje veščin](0003_Skills.md?id=modifying-skills)), odvisno od prefinjenosti namerilnika. Noben namerilnik ne more narediti meta za veščino samodejno uspešnega, zato je najboljša stopnja, ki jo je mogoče doseči, »Zelo lahka« (Very Easy).
 
 ---
 ## Orožje in oklep
 
-Tukaj je predstavljen izbor oklepov in orožij iz različnih okolij in obdobij.
+Tukaj je predstavljen izbor oklepov in orožja iz različnih okolij in ambientov.
 
 ### Tabela vzorčnih oklepov
 
-| Stari/srednjeveški | Sodobni | Futuristični | Točke oklepa |
+| Starodavno/Srednjeveško | Sodobno | Futuristično | Točke oklepa |
 | :-- | :-- | :-- | :-: |
-| Krzna/kože | Motoristično usnje | | 1 |
+| Krzno/Kože | Kolesarsko usnje | | 1 |
 | Aketon, Gambeson | Športna oprema | | 2 |
-| Linotoraks | Balistična tkanina | | 3 |
-| Brigandina | Neprebojni jopič | Tekoči telesni oklep | 4 |
-| Hoplitska plošča | Oprema za izgrednike | | 5 |
+| Linotoraks | Balistično blago | | 3 |
+| Brigantina | Neprebojna jakna | Tekoči telesni oklep | 4 |
+| Hoplitska plošča | Oprema za izgrede | | 5 |
 | Verižna srajca | Neprebojni jopič tipa I | Prilagodljiva mreža | 6 |
 | Ploščata verižna srajca | Neprebojni jopič tipa II | | 7 |
-| | Neprebojni jopič tipa III | Lahek jurišni oklep | 8 |
+| | Neprebojni jopič tipa III | Lahek napadalni oklep | 8 |
 | | Neprebojni jopič tipa IV | | 10 |
-| | | Polni jurišni oklep | 12 |
+| | | Polni napadalni oklep | 12 |
 
 ### Tabela vzorčnih ščitov
 
-| Vrsta ščita | Škoda | Velikost | AP/HP | Število lokacij za pasivno blokiranje |
+| Vrsta ščita | Škoda | VEL | AP/HP | Število lokacij za pasivno blokiranje |
 | :-- | :-: | :-: | :-: | :-: |
-| Buckler | 1k3 | S | 6/9 | 2 |
-| Grelec | 1k4 | V | 6/12 | 3 |
-| Kite | 1k4 | O | 4/15 | 4 |
-| Scutum | 1k4 | O | 4/18 | 5 |
-| Vikinški/izgredniški ščit | 1k4 | V | 4/12 | 4 |
+| Buckler (mali ščit) | 1d3 | M | 6/9 | 2 |
+| Heater (grelec) | 1d4 | L | 6/12 | 3 |
+| Kite (zmajev ščit) | 1d4 | H | 4/15 | 4 |
+| Scutum | 1d4 | H | 4/18 | 5 |
+| Viking/Riot (za izgrede) | 1d4 | L | 4/12 | 4 |
 
-### Vzorčna orožja za boj od blizu
+### Vzorčno orožje za bližinski boj
 
-| Orožje | Škoda | Velikost | AP/HP | Opombe |
+| Orožje | Škoda | VEL | AP/HP | Opombe |
 | :-- | :-: | :-: | :-: | :-- |
-| Sekira | 1k6+1 | S | 4/8 | Lahko uniči oklep |
-| Širokimeč | 1k8 | S | 6/10 | — |
-| Veriga | 1k4 | S | 8/6 | Lahko zaplete |
-| Kijev | 1k6 | S | 4/4 | — |
-| Bodalo | 1k4+1 | M | 6/8 | Lahko se vrže |
-| Pest/udarci | 1k3 | M | — | Človeška škoda v brezorožnem boju |
-| Dolgimeč | 1k8 | S | 6/12 | Dvoročno |
-| Kijev | 1k8 | S | 6/6 | — |
-| Mreža | 1k4 | M | 2/20 | Ujeta, vržena |
-| Kratkimeč | 1k6 | S | 6/8 | — |
-| Sulica (1H) | 1k8+1 | S | 4/5 | |
-| Sulica (2H) | 1k10+1 | V | 4/10 | Lahko se nastavi za sprejem naskoka |
-| Bojno kladivo | 1k8+1 | S | 3/8 | Dvoročno |
-| Bič | 1k3 | S | 2/8 | Zapletajoč |
+| Sekira | 1d6+1 | M | 4/8 | Lahko prebije oklep |
+| Široki meč | 1d8 | M | 6/10 | — |
+| Veriga | 1d4 | M | 8/6 | Lahko zaplete |
+| Kij | 1d6 | M | 4/4 | — |
+| Bodalo | 1d4+1 | S | 6/8 | Lahko se vrže |
+| Pest/Brca | 1d3 | S | — | Škoda pri neoboroženem boju človeka |
+| Dolgi meč | 1d8 | M | 6/12 | Dvoročno |
+| Kladivo | 1d8 | M | 6/6 | — |
+| Mreža | 1d4 | S | 2/20 | Past, metalno |
+| Kratki meč | 1d6 | M | 6/8 | — |
+| 1R Kopje | 1d8+1 | M | 4/5 | |
+| 2R Kopje | 1d10+1 | L | 4/10 | Lahko se pripravi na napad |
+| Vojno kladivo | 1d8+1 | M | 3/8 | Dvoročno |
+| Bič | 1d3 | M | 2/8 | Zapletanje |
 
-### Vzorčna orožja na daljavo
+### Vzorčno orožje za daljinski boj
 
-| Orožje | Škoda | Modifikator škode | Sila | Doseg (metri) | Polnjenje | Velikost naboda | AP/HP |
+| Orožje | Škoda | Modifikator škode | Sila | Doseg (metri) | Naboj | VEL za prebode | AP/HP |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Bolas | 1k4 | N | — | 10/25/50 | — | — | 2/2 |
-| Lok | 1k8 | D | V | 15/100/200 | 1 | M | 4/4 |
-| Bodalo | 1k4 | D | S | 5/10/20 | — | M | 4/8 |
-| Kopje | 1k8+1 | D | O | 10/20/50 | — | S | 3/8 |
-| Prača | 1k8 | N | V | 10/150/300 | 2 | — | 1/2 |
-| Kamen/skala | 1k3 | D | S | 5/10/20 | — | — | — |
-| Pištola | 1k6 | N | V | 50/100/200 | 2 | — | — |
-| Puška | 2k6 | N | O | 100/300/2000 | 2 | — | — |
-| Šibrovka | 3k6 | N | S | 20/50/200 | 3 | — | — |
-| Laserska puška | 1k10+2 | N | — | 40/120/480 | 3 | — | — |
-| Plazemska puška | 2k6+4 | N | I | 30/100/300 | 3 | — | — |
-| Gauss puška | 2k8+2 | N | I | 150/500/5000 | 3 | — | — |
+| Bole | 1d4 | N | — | 10/25/50 | — | — | 2/2 |
+| Lok | 1d8 | Y | L | 15/100/200 | 1 | S | 4/4 |
+| Bodalo | 1d4 | Y | S | 5/10/20 | — | S | 4/8 |
+| Kopje za metanje | 1d8+1 | Y | H | 10/20/50 | — | M | 3/8 |
+| Frača | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
+| Kamen/Skala | 1d3 | Y | S | 5/10/20 | — | — | — |
+| Pištola | 1d6 | N | L | 50/100/200 | 2 | — | — |
+| Puška | 2d6 | N | H | 100/300/2000 | 2 | — | — |
+| Šibrenica | 3d6 | N | M | 20/50/200 | 3 | — | — |
+| Laserska puška | 1d10+2 | N | — | 40/120/480 | 3 | — | — |
+| Plazemska puška | 2d6+4 | N | E | 30/100/300 | 3 | — | — |
+| Gaussova puška | 2d8+2 | N | E | 150/500/5000 | 3 | — | — |

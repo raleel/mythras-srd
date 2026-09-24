@@ -1,806 +1,799 @@
-# Mapigano
+# Mapambano
 
-Mapigano ni kipengele muhimu cha michezo ya kuigiza. Makabiliano ya vurugu yamekuwa njia ya kutatua matatizo, kutoka mapigano yanayoendeshwa na kulipiza kisasi kati ya maadui wakubwa, hadi mapigano ya majeshi wakati wa vita. Hata hivyo, mapigano hayahitaji kuwa vita vya kikatili hadi kufa. Baadhi ya mapigano yanaweza kuwa mapambano ya upanga ambayo huisha bila majeraha, au labda mapigano mepesi kwenye baa. _Mythras Imperative_ hutumia istilahi kadhaa kuelezea vipengele muhimu vya mapigano. Hizi zimefafanuliwa katika sehemu zifuatazo, lakini kwa muhtasari, hizi ni:
-- **Mtindo wa Mapigano:** Ujuzi wa kutumia kundi la silaha zilizojifunza kama sehemu ya utamaduni au taaluma.
-- **Raundi za Mapigano:** Vipande vya muda vya uhasibu vya sekunde tano kila kimoja.
-- **Vitendo vya Mapigano:** Vitendo vinavyowezekana ambavyo mhusika anaweza kufanya wakati wa Raundi kwa matumizi ya Pointi ya Kitendo.
-- **Ukubwa wa Silaha:** Ni vigumu kiasi gani kuzuia silaha fulani.
-- **Kuingiliana:** Wakati wapiganaji wanaweza kumpiga au kupigwa na mpinzani wa moja kwa moja, kulingana na hali.
-- **Athari Maalum:** Maneva ya mapigano ambayo yanaweza kufanywa ikiwa mmoja wa wapiganaji atapata faida.
+Mapambano ni kipengele muhimu MVU michezo ya kuigiza. Makabiliano ya vurugu yamekuwa njia ya kutatua matatizo tangu zamani, kuanzia mapigano yanayotokana na kisasi kati ya maadui wakubwa, hadi makabiliano ya majeshi wakati wa vita. Hata hivyo, mapambano hayahitaji kuwa vita vya kikatili vya hadi kifo. Baadhi ya makabiliano ya mapambano yanaweza kuwa ni mapigano ya kishujaa ambayo huishia bila majeraha, au labda mapigano mepesi ya baa. _Mythras Imperative_ hutumia istilahi kadhaa kuelezea vipengele muhimu vya mapambano. Hivi vinaelezwa katika sehemu zifuatazo, lakini kwa muhtasari, ni:
+- **Mtindo wa Mapambano:** Ujuzi wa kutumia kundi la silaha uliojifunza kama sehemu ya utamaduni au taaluma.
+- **Raundi za Mapambano:** Vipindi vya muda wa utunzaji kumbukumbu wa sekunde tano kila moja.
+- **Vitendo vya Mapambano:** Matendo yanayowezekana ambayo mhusika anaweza kufanya wakati wa Raundi kwa kutumia Pointi ya Kitendo.
+- **Ukubwa wa Silaha:** Ugumu wa kuzuia (parry) silaha fulani.
+- **Uhusiano:** Wakati wapiganaji wanapoweza kupiga au kupigwa na adui wa moja kwa moja, kulingana na mazingira.
+- **Athari Maalum:** Mbinu za mapambano ambazo zinaweza kufanywa ikiwa mpiganaji mmoja atapata faida juu ya mwingine.
 
 ---
-## Mitindo ya Mapigano
+## Mitindo ya Mapambano
 
-Mtindo wa Mapigano unawakilisha 'kifurushi' cha silaha nyingi zinazohusiana na asili yao, ambayo huepuka umuhimu wa kujifunza kila silaha moja kwa moja.
+Mtindo wa Mapambano unawakilisha 'kifurushi' MVU silaha nyingi zinazohusiana kwa asili yao, jambo ambalo huondoa hitaji la kujifunza kila silaha mmoja mmoja.
 
-Kipengele muhimu zaidi cha Ujuzi wa Mapigano ni kwamba mhusika hujifunza jinsi ya kutumia kila silaha katika ujuzi huo, zote mbili peke yake na kwa mchanganyiko ili ziweze kubadilishana, inapohitajika. Mafunzo ya mapigano hayazingatii tu kutumia silaha maalum au silaha chini ya hali bora, bali pia hufunika nini cha kufanya unapowekwa katika hali mbaya. Mafunzo hayo ya kuvuka ni sehemu muhimu ya kumwandalia mpiganaji kwa matukio yasiyotabirika ya uwanja wa vita, ambapo kuvunjika kwa silaha au kunyang'anywa silaha daima ni uwezekano.
+Kipengele muhimu zaidi MVU Ujuzi wa Mapambano ni kwamba mhusika hujifunza jinsi ya kutumia kila silaha iliyo katika ujuzi huo, iwe peke yake au kwa pamoja ili ziweze kubadilishwa kama inavyohitajika. Mafunzo ya mapambano hayalengi tu kutumia silaha mahususi au silaha chini ya hali bora zaidi, bali pia yanashughulikia nini MVU kufanya unapowekwa katika hali mbaya sana. Mafunzo ya namna hii ni sehemu ya msingi ya kumuandaa mpiganaji kwa matukio yasiyotabirika ya uwanja wa vita, ambapo kuvunjika kwa silaha au kupokonywa silaha ni uwezekano wa mara kwa mara.
 
-Kwa hivyo, mgeni kutoka Hyberborea anaweza kutarajiwa kujua jinsi ya kutumia mkuki, shoka la mkono, fumo, na ngao, wakati shujaa wa Sumeri anaweza kufunzwa katika panga fupi, rungu, ngao, na upinde badala yake. Kuamua ni silaha ngapi zinapaswa kujumuishwa katika mtindo mmoja hatimaye ni chaguo linaloamuliwa na Msimamizi wa Michezo na mazingira ya mchezo.
+Kwa hivyo, mpiganaji wa kabila la Hyberborean anaweza kutarajiwa kujua jinsi ya kutumia mkuki, shoka la mkono, mkuki wa kurusha, na ngao, ilhali mpiganaji wa Sumerian anaweza kufunzwa kutumia upanga mfupi, rungu, ngao, na uta badala yake. Kuamua ni silaha ngapi zinapaswa kujumuishwa katika mtindo mmoja ni uamuzi unaofanywa na Mwalimu wa Mchezo (Games Master) na mazingira ya mchezo.
 
-Wahusika wanaojaribu kutumia silaha isiyofunikwa na mtindo wao wanapaswa kupata adhabu ya ujuzi ya daraja moja au zaidi ya ugumu.
+Wachezaji wanaojaribu kutumia silaha isiyofunikwa na mtindo wao wanapaswa kupata adhabu ya ujuzi ya daraja moja au zaidi ya ugumu.
 
-Mitindo ya mapigano ina kazi nyingine zaidi ya kujifunza tu kikundi cha ujuzi wa silaha. Kwa kuwa kila mtindo hufundishwa na utamaduni au taaluma fulani, imeimarishwa kwa asili kwa mazingira au mbinu za kijeshi ambazo kundi hilo hupigana nazo; kwa mfano, mpiganaji wa farasi hujifunza kupigana akiwa juu ya farasi, au mwanajeshi wa miguu hufunzwa kupigana katika safu ya karibu. Kwa hiyo, kama bonus ya ziada, baadhi ya Mitindo ya Mapigano inaweza kupewa sifa moja au zaidi ambayo inampa faida chini ya hali fulani. Sifa hizo zinalengwa tu kutumiwa na silaha na hali za mtindo huo maalum. Ni dhahiri, kuna sifa nyingi zisizohesabika, nyingi zikiwa maalum kwa kipindi au ulimwengu wa kampeni fulano.
+Mitindo ya mapambano ina kazi nyingine zaidi ya kujifunza tu kundi la ujuzi wa silaha. Kwa kuwa kila mtindo hufundishwa na utamaduni au kazi fulani, kiasili yameboreshwa kwa ajili ya mazingira au mbinu za kijeshi ambazo kundi hilo hupigana nazo kwa kawaida; kwa mfano, msafiri wa farasi hujifunza kupigana akiwa juu ya tandiko, au askari wa miguu hufunzwa kupigana katika mpangilio wa karibu. Kwa hivyo, kama bonasi ya ziada, baadhi ya Mitindo ya Mapambano inaweza kupewa sifa moja au zaidi ambazo huipa faida chini ya hali fulani. Sifa zinalenga kutumiwa tu na silaha na hali za mtindo huo mahususi. Kwa dhahiri, kuna sifa nyingi sana, nyingi ambazo ni mahususi kwa kipindi fulani au ulimwengu wa kampeni.
 
-##### Jedwali la Sifa za Mtindo wa Mapigano
+##### Jedwali la Sifa za Mtindo wa Mapambano
 
 | Sifa | Maelezo |
 | :-- | :-- |
-| Mpandaji Mkuki wa Mnyama | Kufanya shambulio la farasi na mtindo huu wa mapigano hakuletei adhabu ya ugumu ya hatua moja ya kupiga. |
-| Kupigana Kimacho | Inamruhusu mtumiaji kupuuza adhabu zozote zinazotokana na mwanga hafifu au upofu wa muda |
-| Daredevil | Anaweza kutumia ujuzi wa Kukwepa kukwepa makonde katika mapigano ya ana kwa ana bila kuishia chini |
-| Anayezingatia Ulinzi | Huongeza Ukubwa wa silaha yako unapozuia kwa hatua moja, mradi hakuna kitendo cha kushambulia kinachofanywa katika raundi hiyo |
-| Kupigana kwa Formu | Huruhusu kikundi kisichozungukwa cha wapiganaji watatu au zaidi kuingia katika safu ya karibu, kuweka wapinzani walio wazi au wasio na mpangilio katika hali mbaya na kupunguza Pointi za Kitendo za kila adui kwa moja ikiwa watajihusisha |
-| Konde la Kuzimia | Unaposhambulia kwa mshangao, chukulia Kituo chochote cha Stun kama kinachodumu dakika badala ya zamu |
-| Mapigano ya Farasi | Huruhusu mhusika kupuuza kikomo cha ujuzi kilichowekwa kwenye rolls za mapigano na ujuzi wa Kupanda |
-| Mpiga Risasi wa Mbali | Unapotumia silaha ya masafa marefu, badilisha roll ya Hit Location ya nasibu hadi sehemu ya mwili inayopakana |
-| Kushambulia na Kukwepa | Mtindo unaruhusu kufanya mashambulizi ya masafa marefu huku ukitembea au kukimbia |
-| Kutupa Silaha | Silaha yoyote ya melee katika mtindo inaweza pia kutupwa bila adhabu kwa ujuzi, lakini inapotumiwa kwa njia hii roll ya uharibifu wa silaha hupunguzwa kwa nusu. |
-| Ustadi wa Kutotumia Silaha | Inamruhusu mtumiaji kuchukulia vizuizi na uzuiaji wake wa Kutotumia Silaha kama 'Ukubwa wa Kati', ikimwezesha kujikinga vizuri zaidi kutokana na wapinzani wenye silaha. |
+| Beast-back Lancer | Kufanya mashambulizi ya farasi na mtindo huu wa mapambano hakusababishi adhabu ya ugumu wa hatua moja ya kupiga. |
+| Blind Fighting | Huruhusu mtumiaji kupuuza adhabu zozote zinazotokana na mwanga hafifu au upofu wa muda. |
+| Daredevil | Anaweza kutumia ujuzi wa Kukwepa (Evade) ili kuepuka mapigo katika mapigano ya ana kwa ana bila kuanguka chini. |
+| Defensive Minded | Huongeza Ukubwa wa silaha yako wakati wa kuzuia (parry) kwa hatua moja, mradi hakuna hatua ya kushambulia inayofanywa katika raundi hiyo. |
+| Formation Fighting | Huruhusu kundi lisilozingirwa la wapiganaji watatu au zaidi kujipanga katika safu ya karibu, na kuwaweka wapinzani walio wazi au wasiopangika katika hali mbaya na kupunguza Pointi za Kitendo za kila adui kwa moja ikiwa watashiriki. |
+| Knockout Blow | Unaposhambulia kwa kushitukiza, chukulia Eneo lolote la Kuzimia (Stun Location) kama la dakika badala ya raundi. |
+| Mounted Combat | Huruhusu mhusika kupuuza kikomo MVU ujuzi uliowekwa kwenye safu za mapambano na ujuzi wa Kupanda Farasi (Ride). |
+| Ranged Marksman | Unapotumia silaha ya masafa, geuza safu ya nasibu ya Eneo la Kupiga (Hit Location) hadi sehemu ya mwili iliyo karibu. |
+| Skirmishing | Mtindo huu huruhusu kurusha mashambulizi ya masafa wakati wa kutembea au kukimbia. |
+| Throw Weapons | Silaha yoyote ya mapigano ya karibu katika mtindo huu inaweza pia kurushwa bila adhabu ya ujuzi, lakini inapotumiwa kwa njia hii, safu ya uharibifu wa silaha hugawanywa kwa mbili. |
+| Unarmed Prowess | Huruhusu mtumiaji kuchukulia vizuizi vyake vya Kutotumia Silaha kama vyenye ukubwa wa 'Kati', na kumwezesha kujilinda vyema dhidi ya wapinzani wenye silaha. |
 
 ---
-## Kuendesha Mapigano
+## Kuendesha Mapambano
 
-Ili kusisitiza asili yake ya ndani, mapigano hufuatiliwa kwa msingi wa pigo-kwa-pigo. Ili kurahisisha uhasibu, mapigano hugawanywa katika Raundi za Mapigano za sekunde tano kila moja. Katika kipindi hiki wapiganaji wanaweza kufanya mashambulizi ya ana kwa ana au kujilinda dhidi yao, kuingia na kutoka katika mapigano, kurusha au kutupa Silaha ya Masafa Marefu, na kadhalika. Sawa na maisha halisi, mapigano mengi – mara yakianza – huisha kwa sekunde chache badala ya dakika. Katika masharti ya mchezo hii inamaanisha Raundi kadhaa za Mapigano, isipokuwa washiriki warudi nyuma ili labda kuanzisha Upya Initiative, kutathmini upya hali yao ya kimbinu, au tu kupata pumziko la muda kabla ya kujihusisha tena. Mapigano kati ya maadui waliosawazika vizuri au mfuatano wa wapinzani huwa yanadumu kwa muda mrefu zaidi.
+Ili kusisitiza asili yake ya kimwili, mapambano hufuatiliwa kwa msingi wa pigo kwa pigo. Ili kurahisisha utunzaji wa kumbukumbu, mapigano hugawanywa katika Raundi za Mapambano za sekunde tano kila moja. Katika kipindi hiki, wapiganaji wanaweza kufanya mashambulizi ya ana kwa ana au kujilinda dhidi yao, kuingia na kutoka kwenye mapambano, kufyatua au kurusha Silaha ya Masafa, na kadhalika. Sawa na maisha halisi, makabiliano mengi ya mapambano – mara yanapoanza – huhitimishwa katika muda wa sekunde badala ya dakika. Katika istilahi za mchezo, hii inamaanisha Raundi kadhaa za Mapambano, isipokuwa washiriki wajiondoe ili labda kuweka upya Mpango (Initiative), kutathmini upya hali yao ya mbinu, au kupata mapumziko ya muda kabla ya kuanza tena. Mapigano kati ya maadui walio sawa au mfululizo wa wapinzani pekee ndiyo huwa yanachukua muda mrefu zaidi.
 
 ---
-## Silaha za Moto
+## Bunduki
 
-Ikiwa unatumia silaha za moto katika mchezo wa _Mythras Imperative_, kuna mambo machache ya kuzingatia kutokana na ukali wa mapigano ya risasi. Kwanza, ni karibu haiwezekani kuepuka miale ya laser au risasi zinazosafiri haraka kuliko reflexes za binadamu. Kwa kutumia sheria za mapigano kama zinavyowasilishwa, hii inamaanisha kwamba isipokuwa mtu anajaribu kuruka mbali na eneo hilo kwa kutumia Kukwepa, pigo lolote litamfunua mwathirika mara moja kwa Athari Maalum moja au zaidi. Pia inabadilisha uchumi wa Pointi za Vitendo. Ikiwa huwezi kutumia pointi kujikinga kwa kujibu basi wahusika wengi wataishia kutumia vitendo vyao vyote kupiga risasi, wakicheza kamari juu ya kutokuwa na uwezo wa maadui zao. Ili kushughulikia mabadiliko haya ya dhana, Watawala wa Michezo na Wachezaji wanaweza kuhitaji kubadilisha jinsi wanavyoona – na kukaribia – mapigano ya bunduki. Baadhi ya mambo ya kuzingatia ni:
+Ikiwa unatumia bunduki katika mchezo wa _Mythras Imperative_, kuna mambo machache ya kuzingatia kutokana na hatari ya mapigano ya risasi. Kwanza, haiwezekani kukwepa miale ya leza au risasi zinazosafiri kwa kasi kuliko vionyo vya kibinadamu. Kwa kutumia kanuni za mapambano kama zilivyowasilishwa, hii inamaanisha kwamba isipokuwa mtu ajaribu kujitosa nje ya eneo hilo kwa kutumia Kukwepa (Evade), pigo lolote litamwacha mwathiriwa wazi kwa Athari Maalum moja au zaidi mara moja. Pia hubadilisha uchumi wa Pointi za Kitendo. Ikiwa huwezi kutumia pointi kujilinda, basi wahusika wengi wataishia kutumia vitendo vyao vyote kupiga risasi, wakicheza kamari juu ya kutokuwa na uwezo wa maadui zao. Ili kushughulikia mabadiliko haya ya dhana, Wamiliki wa Mchezo na Wachezaji wanaweza kuhitaji kubadilisha jinsi wanavyoona – na kukaribia – mapambano ya bunduki. Mambo machache ya kuzingatia ni:
 
-- Mapigano ya bunduki ni hatari!
-- Kwa ujumla watu huweka kipaumbele kutopigwa risasi kuliko kuwapiga wengine
-- Njia ya kawaida ya ulinzi ni kujificha.
-- Moto wa kukandamiza ndiyo njia bora ya kuzuia maadui kurudisha risasi.
-- Silaha za moto ni sahihi kwa kushangaza isipokuwa muda utumike kujikaza na/au kulenga.
+- Mapambano ya bunduki ni hatari!
+- Kwa ujumla, watu hupa kipaumbele kutopigwa risasi kuliko kuwapiga wengine.
+- Njia ya kawaida zaidi ya ulinzi ni kutafuta hifadhi (cover).
+- Risasi za kukandamiza ndiyo njia bora ya kuzuia maadui wasirudishe risasi.
+- Bunduki si sahihi kwa kushangaza isipokuwa muda utumike kujitayarisha na/au kulenga.
 - Unapopigwa risasi, mambo mabaya hutokea.
 
-Kujikinga na milio ya risasi kunakuwa jambo la kutumia silaha za kujikinga, kujificha, na kujaribu kumzuia mpinzani asipate fursa ya kurudisha risasi. Kwa hivyo, mapigano mengi ya bunduki huwa ya kimbinu sana – milio mingi ya kukandamiza, harakati za kuzunguka, na kuwafukuza maadui kutoka mafichoni – ambapo wahusika wanaweza kupitisha raundi nzima za mapigano wakiwa wamebanwa na hawawezi kujibu hadi upinzani ukomeshe kurusha risasi... jambo ambalo baadhi ya wachezaji wanaweza kuliona kuwa linachosha sana.
+Kujilinda dhidi ya risasi kwa kiasi kikubwa huwa suala la silaha za mwili, kutumia hifadhi, na kujaribu kuzuia mpinzani kuweza kurudisha risasi. Kwa sababu hiyo, mapigano mengi ya bunduki huwa ya kimbinu sana – risasi nyingi za kukandamiza, harakati za kando, na kuwatoa maadui kutoka kwenye hifadhi nzito – ambapo wahusika wanaweza kupitisha raundi nzima za mapambano wakiwa wamefungwa na kushindwa kujibu hadi wapinzani waache kupiga risasi... jambo ambalo baadhi ya wachezaji wanaweza kuliona kuwa la kuchosha sana.
 
-Inawezekana kabisa kwamba mapigano yote ya risasi hayatasababisha majeraha; upande mmoja tu ukikata tamaa kutokana na kuishiwa risasi au kukimbia kabisa vita. Baada ya yote, watu wachache wanataka kuhatarisha kupigwa risasi nyingi kutoka kwa silaha ya moja kwa moja.
+Inawezekana kabisa kwamba mapigano yote ya bunduki yasisababisha majeraha yoyote; upande mmoja tu ukikata tamaa kutokana na kuishiwa na risasi au kukimbia vita kabisa. Baada ya yote, watu wachache wanataka kuhatarisha kupigwa na mfululizo wa risasi kutoka kwa silaha ya kujiendesha kikamilifu.
 
-Katika sheria hizi za mapigano, aina fulani za vitendo, Athari Maalum na hali zinahusu mapigano ya silaha za moto tu, na hizi zimewekwa alama ipasavyo.
-
----
-## Raundi za Mapigano na Mwanzo
-
-Raundi za Mapigano hutumia istilahi kadhaa muhimu:
-
-- **Mwanzo (Initiative):** Mpangilio wa nani anachukua hatua lini wakati wa Zamu ya Raundi ya Mapigano. Msimamizi wa Michezo huhesabu chini kupitia thamani za Initiative kutoka juu hadi chini, ili kila mshiriki awe na fursa ya kuchukua Zamu yake namba yake inapofikiwa.
-- **Zamu:** Katika kila Raundi ya Mapigano ya sekunde 5, kila mshiriki ana fursa ya kuchukua Zamu moja au zaidi, kulingana na idadi ya Pointi za Vitendo alizonazo, na jinsi anavyozitumia. Katika Zamu yake, washiriki hufanya Kitendo kimoja cha Mapigano, kinachojumuisha tamko, harakati inayowezekana, rolls zozote za kete zinazohitajika (ikiwa ni pamoja na Reactions), na utatuzi wa Kitendo. Ikiwa mshiriki yeyote ana Pointi za Vitendo zilizobaki, wachezaji wanaweza kila mmoja kuchukua Zamu nyingine kwa mpangilio wa Initiative. Mara tu hakuna Pointi za Vitendo zilizobaki, au zozote zilizobaki zinashikiliwa kwa Reactions, mchezo huendelea hadi Raundi ya Mapigano inayofuata.
-
-Kila neno linafafanuliwa, kwa undani zaidi, hapa chini.
-
-#### Mwanzo (Initiative)
-
-Mwanzo huamua mpangilio wa vitendo vya washiriki katika Raundi ya Mapigano. Huchezwa mwanzoni mwa pambano na huamua wakati kila mhusika anachukua hatua. Isipokuwa kitu kitokee kubadilisha hali, kama vile Vitendo fulani vya Mapigano au Athari Maalum, Mwanzo unabaki kutumika hadi ulazimishwe kuchezwa upya.
-
-Mwanzo huhesabiwa kwa kila mshiriki kucheza 1d10 na kuongeza Marekebisho yao ya Mwanzo. Yeyote aliyepata matokeo ya juu zaidi huchukua hatua kwanza, akifuatiwa na wa pili wa juu zaidi na kadhalika. Wakati washiriki wawili au zaidi wanapata alama sawa, yule mwenye DEX ya juu zaidi atachukua hatua kwanza. Ikiwa hii bado inasababisha sare, kila mmoja acheze kete na roll ya juu zaidi itatangulia nyingine.
-
-#### Vitendo Katika Mapigano
-
-Mara tu Mwanzo utakapobainishwa, washiriki wana uwezo wa kufanya Vitendo kadhaa vya Mapigano wakati wa kila Raundi ya Mapigano. Wahusika wote wanapata Pointi 2 za Vitendo kwa kila Raundi, lakini wakati wanaweza kuchukua hatua ni mdogo kwa kama Kitendo hicho ni chenye kuongoza au cha Kujibu.
-
-Vitendo vya Kuongoza vinaweza tu kujaribiwa katika Zamu ya mhusika mwenyewe; yaani, wakati wa Mwanzo wake. Vitendo vya Kuongoza ni vile ambavyo mhusika ndiye anayeanzisha, kama vile kufanya shambulio kwa kutumia silaha.
-
-Vitendo vya Kujibu ni vile vinavyochukuliwa na mhusika kukabiliana au kupinga kitendo kilichofanywa dhidi yake. Jaribio moja tu la kujibu linaruhusiwa kwa kila tishio, mfano ni kujaribu kuzuia shambulio.
-
-Pointi za Vitendo zisizotumiwa hazihamii kutoka Raundi moja hadi inayofuata.
+Katika kanuni hizi zote za mapambano, aina fulani za vitendo, Athari Maalum, na hali hutumika kwa mapambano na bunduki pekee, na hizi zimewekewa alama ipasavyo.
 
 ---
-## Vitendo vya Mapigano
+## Raundi za Mapambano na Mpango (Initiative)
 
-Vitendo vya Mapigano ni vitendo hivyo vinavyoweza kufanywa wakati wa vita. Kuchomoa silaha, kurusha uchawi, au kuruka mbali na shambulio vyote ni mifano ya Vitendo vya Mapigano. Vingi vinahusika na vipengele vya mapigano yenyewe, lakini vingine vinahusiana na shughuli nje ya ulimwengu wa uchawi na silaha.
+Raundi za Mapambano hutumia istilahi kadhaa muhimu:
 
-Kama ilivyotajwa hapo awali, ni mara ngapi mhusika anaweza kuchukua hatua kwa Raundi kunazuiliwa na Pointi zake za Vitendo zinazopatikana. Hizi hutumika katika kila Raundi ya Mapigano kufanya Vitendo mbalimbali vya Mapigano. Mara tu Pointi za Vitendo za mpiganaji zikikwisha, hawawezi tena kuchukua hatua kwa muda uliosalia wa Raundi hiyo na lazima wasubiri hadi pointi zao zianze upya mwanzoni mwa Raundi inayofuata.
+- **Mpango (Initiative):** Mpangilio wa nani anafanya nini wakati wa Zamu ya Raundi ya Mapambano. Mwalimu wa Mchezo huhesabu kuelekea chini kupitia thamani za Mpango kuanzia ya juu zaidi hadi ya chini zaidi, ili kila mshiriki apate nafasi ya kuchukua Zamu yake nambari yake inapofikiwa.
+- **Zamu:** Wakati wa kila Raundi ya Mapambano ya sekunde 5, kila mshiriki ana fursa ya kuchukua Zamu moja au zaidi, kulingana na idadi ya Pointi za Kitendo walizo nazo, na jinsi wanavyozitumia. Katika Zamu yao, washiriki hufanya Kitendo kimoja MVU Mapambano, ambacho kinajumuisha tamko, harakati zinazowezekana, safu zozote muhimu za kete (pamoja na Miitikio), na utatuzi wa Kitendo hicho. Ikiwa mshiriki yeyote ana Pointi za Kitendo zilizobaki, wachezaji wanaweza kila mmoja kuchukua Zamu nyingine kwa mpangilio wa Mpango. Mara tu hakuna Pointi za Kitendo zilizobaki, au zozote zilizobaki zinashikiliwa kwa ajili ya Miitikio, mchezo huendelea hadi Raundi inayofuata ya Mapambano.
 
-Isipokuwa kama imeelezwa vinginevyo, Kitendo chochote cha Mapigano (isipokuwa Vitendo "Bure") kinagharimu Pointi moja ya Kitendo. Hivyo, wapiganaji wanahitaji kuzingatia kwa makini jinsi na lini watatumia Pointi zao za Vitendo. Wanaweza kuchukua hatua kwa ukali au kwa kujilinda wanavyotaka, wakijibu kwa nguvu hali zinazobadilika za mapigano.
+Kila neno linaelezwa, kwa undani zaidi, hapa chini.
 
-### Vitendo vya Kuongoza
+#### Mpango (Initiative)
 
-Yafuatayo ni shughuli ambazo mhusika anaweza kujaribu katika Zamu yake kwa kutumia Pointi ya Kitendo. Kumbuka kuwa Vitendo vingine kama vile kurusha uchawi au kupakia upya vinaweza kuchukua Zamu kadhaa kukamilisha; kila Zamu ikigharimu Pointi yake ya Kitendo.
+Mpango huamua mpangilio wa vitendo vya washiriki katika Raundi ya Mapambano. Hupigwa kete mwanzoni mwa mapigano na huamua wakati kila mhusika anapochukua hatua. Isipokuwa kitu kitokee kubadilisha hali hiyo, kama vile Vitendo fulani vya Mapambano au Athari Maalum, Mpango hubakia katika mchezo hadi ulazimike kupigwa kete tena.
 
-#### Shambulio
+Mpango huhesabiwa na kila mshiriki akipiga 1d10 na kuongeza Marekebisho yake ya Mpango. Yeyote aliyepata matokeo ya juu zaidi huchukua hatua kwanza, akifuatiwa na wa pili kwa ukubwa na kadhalika. Washiriki wawili au zaidi wanapofunga alama sawa, yule mwenye MVU wa juu zaidi atachukua hatua kwanza. Ikiwa hii bado inasababisha sare, kila mmoja apige kete na anayepata namba kubwa atangulie.
 
-Mhusika anaweza kujaribu kupiga kwa silaha ya ana kwa ana au kutumia Silaha ya Masafa Marefu.
+#### Vitendo katika Mapambano
 
-#### Tegemeza
+Mara tu Mpango umeamuliwa, washiriki wana uwezekano wa kufanya Vitendo kadhaa vya Mapambano wakati wa kila Raundi ya Mapambano. Wahusika wote hupata Pointi 2 za Kitendo kwa Raundi, lakini wakati wanaweza kuchukua hatua ni mdogo kwa ikiwa Kitendo hicho ni MVU kusonga mbele (Proactive) au MVU Kuitikia (Reactive).
 
-Mhusika hujitegemeza kwa kusimama imara na kuegemea upande wa shambulio linalokuja. Kwa madhumuni ya kupinga Knockback au Leaping Attacks, SIZ ya mhusika inachukuliwa kuwa kubwa kwa 50%. Dhidi ya Athari Maalum ya Bash, SIZ huongezwa maradufu.
+Vitendo vya Kusonga mbele vinaweza kujaribiwa tu katika Zamu ya mhusika mwenyewe; yaani, wakati wa Mpango wake. Vitendo vya Kusonga mbele ni vile ambavyo mhusika ndiye msababishaji, kama vile kushambulia kwa silaha.
 
-#### Tupa Uchawi/Tumia Nguvu
+Vitendo vya Kuitikia ni vile vinavyochukuliwa na mhusika ili kukabiliana na au kupinga tendo lililofanywa dhidi yao. Jaribio moja tu la kuitikia linaruhusiwa kwa kila tishio, mfano utakuwa kujaribu kuzuia (parry) shambulio.
 
-Mhusika anaweza kujaribu kutupa spell, kuita nguvu fulani, na kadhalika. Uchawi tata unaweza kuhitaji Vitendo kadhaa kukamilisha kutupa. Mara baada ya kumalizika, uchawi unaweza kutolewa wakati wowote hadi Zamu inayofuata ya mhusika - ambapo inaweza kushikiliwa kwa athari ya baadaye, lakini hii inahitaji Kitendo cha Shikilia Uchawi/Nguvu (tazama hapa chini) ili kuudumisha ukiwa tayari kutolewa baadaye.
-
-#### Badilisha Masafa
-
-Mhusika anaweza kujaribu kumkaribia au kurudi nyuma kutoka kwa mpinzani, mradi hawajajihusisha katika mapigano ya ana kwa ana na mpinzani au kubanwa na milio ya adui katika hali ya mapigano ya masafa marefu.
-
-#### Shambulio la Ghafla
-
-Kitendo cha Shambulio la Ghafla kinamruhusu mhusika kuingia katika masafa ya kujihusisha kwa kasi ya kukimbia au kuruka, akitumia kasi ya shambulio la ghafla kufanya shambulio la karibu lenye nguvu zaidi. Sheria hizi zimefunikwa kwa undani zaidi katika sehemu ya [Kushambulia](0005_Combat.md?id=charging) hapa chini.
-
-#### Chelewesha
-
-Mhusika huhifadhi Vitendo moja au zaidi ili kufanya Vitendo vya Kujibu baadaye, kama vile Kukatiza au Kuzuia. Gharama za Pointi za Vitendo za kuchelewesha hufunikwa na vitendo vyovyote vinavyofanywa hatimaye. Ikiwa Vitendo vilivyochelewa havichukuliwi kabla ya Zamu inayofuata ya mhusika, basi mhusika anachukuliwa kuwa amepoteza muda (tazama hapa chini), na Pointi ya Kitendo hupotea.
-
-#### Tetereka
-
-Chaguo la msingi isipokuwa Kitendo kingine kimechaguliwa, mhusika hupoteza tu zamu yake akifanya kitu kisicho na maana.
-
-#### Shikilia Uchawi/Nguvu
-
-Mara tu uchawi umekamilika, mhusika anaweza kushikilia spell au Nguvu katika hundi ya muda, akisubiri wakati mzuri wa kuitoa. Uchawi unaweza kushikiliwa kwa muda mrefu kadri mhusika anavyoendelea kuchukua Kitendo hiki katika Zamu zinazofuata, lakini hii inaruhusu matumizi huru ya athari ya Kupinga Uchawi na adui ikiwa inahusiana na spell. Roll halisi ya ujuzi wa kurusha spell iliyoshikiliwa haifanywi hadi itakaporushwa.
-
-#### Panda
-
-Mhusika anaweza kupanda au kushuka mnyama wa kupanda au gari. Farasi wakubwa sana wanaweza kuhitaji Zamu kadhaa kukamilisha.
-
-#### Sogeza
-
-Ikiwa mtu hajajihusisha na mpinzani, mhusika anaweza kusonga umbali wowote Msimamizi wa Michezo anaona unafaa kwa hali hiyo.
-
-#### Kudhibiti (Outmaneuver)
-
-Mhusika anaweza kujihusisha na wapinzani wengi katika Roll ya Pamoja ya Ujuzi wa Kukwepa. Wale wanaoshindwa kumpiga hawataweza kumshambulia katika Raundi hiyo ya Mapigano. Tazama sehemu kuhusu [Kudhibiti](0005_Combat.md?id=outmaneuvering) hapa chini.
-
-#### Tayarisha Silaha
-
-Mhusika anaweza kurejesha, kuchomoa, kuweka ndani ya ala, kutoa, au kupakia upya silaha au kitu kingine. Kurejesha kitu kilichoanguka karibu kunahitaji Vitendo 2: kimoja kusogea na kufikia kitu hicho na cha pili kurudi katika msimamo tayari. Baadhi ya silaha za kurusha zinahitaji Vitendo kadhaa kupakia upya.
-
-#### Pakia Upya (Silaha za Moto)
-
-Kama ilivyo Tayarisha Silaha. Muda wa kupakia upya unaweza kutofautiana sana kulingana na aina ya silaha. Bunduki za risasi moja za black powder zitakuwa polepole zaidi kupakia upya kuliko kubadilisha magazine ya risasi au chanzo cha nguvu.
-
-#### Rudisha Msimamo
-
-Ikiwa hajahusika na mpinzani, mhusika anaweza kurejesha moja kwa moja msimamo wake baada ya kuangushwa au kubisha chini. Ikiwa amehusika, mhusika lazima ashinde Roll ya Kupingana ya Nguvu au Michezo na mpinzani kabla ya kusimama. Mashindano haya hayagharimu Pointi za Kitendo kutatua.
-
-#### Kutazama kwa Haraka (Silaha za Moto)
-
-Kutazama kwa Haraka huruhusu mtu anayejificha nyuma ya hifadhi kutazama haraka ili kutathmini hali ya kimbinu. Kitendo hicho kinaonekana salama, ikimruhusu mwangalizi kufanya roll moja ya Ufahamu kabla ya kujificha tena. Hata hivyo, ikiwa mtihani wa Ufahamu ni fumble, kwa upumbavu anajitokeza sana au anabaki akionekana kwa muda mrefu vya kutosha kwa adui kumpiga risasi.
-
-#### Imarisha Silaha (Silaha za Moto)
-
-Inamruhusu mhusika kujipanga vizuri kwa ajili ya kurusha risasi na kushikilia silaha ya kiotomatiki ili ibaki imara. Inahitaji kwamba mhusika awe amefichuliwa angalau kwa sehemu na asilindwe kabisa na hifadhi. Faida kuu ni kwamba inapunguza adhabu ya kurudi nyuma ya mlipuko au moto kamili wa moja kwa moja kwa hatua moja. Athari hii ni kama Tegemeza kwa kuwa faida zake huendelea hadi mhusika asogeee.
-
-#### Pambana
-
-Ikiwa mhusika ni mwathirika wa aina fulani za shambulio au Athari Maalum, anaweza kujaribu kujitoa katika hali hiyo. Kwa mfano, kujitenganisha kutoka kwenye mtego wa adui.
-
-#### Badilisha Hali ya Ufyatuaji (Silaha za Moto)
-
-Badilisha Hali ya Ufyatuaji huruhusu mtumiaji wa silaha ya kiotomatiki au silaha ya madhumuni mawili kubadilisha kiteuzi kwenye silaha yake ili kutumia hali zingine za ufyatuaji. Hivyo, bunduki ya kushambulia inaweza kubadilishwa kutoka semi-otomatiki hadi mlipuko, kuchagua aina tofauti za risasi, au mfumo wa ziada kama vile kizindua guruneti cha ndani kuwashwa. Ingawa silaha za kisasa zinahitaji Pointi ya Kitendo katika Zamu ya mhusika kubadilisha hali, silaha za kiufundi za hali ya juu zinaweza kuruhusu hili kama Kitendo Huru, kinachoanzishwa na vipandikizi vya kielektroniki au kusoma akili ya mtumiaji kiakili.
-
-#### Chukua Ficho
-
-Chukua Ficho ni kitendo cha kujitokeza ambacho huruhusu mpigaji risasi kujificha nyuma ya kifuniko chochote kinachopatikana katika eneo lao la karibu, na hivyo kupata kiwango fulani cha ulinzi dhidi ya moto unaokuja. Tofauti na Kukwepa, hakimuachi mtumiaji akiwa amelala chini lakini hutegemea aina fulani ya kifuniko kupatikana, kwa mfano kujificha nyuma ya kona katika korido au kukaa chini nyuma ya meza kwenye baa. Kulingana na hali, kifuniko kinachopatikana kinaweza kutosha au kutosha kumlinda mhusika kabisa. Aina ya kifuniko pia itaamua sifa zake za kinga; mlango mzito wa chuma kwa mfano unaweza kuzuia risasi, wakati ukuta mwembamba wa mbao unaweza kutoa Pointi 4 tu za Silaha. Kwa miongozo ya jumla kuhusu sifa za kinga za vifaa fulani, tazama jedwali katika sehemu ya [Vitu Visivyo Hai](0004_Game_System.md?id=inanimate-objects).
-
-### Vitendo vya Kujibu
-
-Orodha hii inafafanua Reactions ambazo zinaweza kutumiwa wakati wowote katika Raundi ya Mapigano kama jibu kwa tishio lililokaribia. Kama ilivyo katika orodha iliyopita, Reaction inagharimu Pointi ya Kitendo kutekeleza.
-
-#### Kupinga Uchawi
-
-Mhusika anaweza kujaribu kufuta au kupinga uchawi unaokuja. Hii inadhani uchawi wa kupinga una Muda wa Kurusha wa Zamu moja, vinginevyo lazima uandaliwe mapema na ushikiliwe kwa muda kwa kutumia Kitendo cha Shikilia Uchawi. Kuzuia uchawi kwa mafanikio kwa njia hii inadhaniwa kufuta uchawi wote, hata zile zenye malengo mengi au maeneo ya athari.
-
-#### Kukwepa
-
-Mhusika anaweza kutumia ujuzi wake wa Kukwepa kujaribu kuruka mbali na vitisho kama vile makombora yanayokuja au shambulio la ghafla. Hii inamwacha mhusika amelala chini isipokuwa kama imepunguzwa na Uwezo au hali maalum. Hivyo, zamu inayofuata ya mhusika kawaida hutumika kuchukua Kitendo cha Kurejesha Msimamo ili kusimama tena.
-
-#### Katisha
-
-Wahusika wanaochelewesha tu. Kitendo hiki cha Kujibu husimamisha Zamu ya mpinzani wakati wowote ili kuchukua Kitendo cha Zamu kilichochelewa. Ikiwa hakuna mabadiliko katika hali ya kimbinu, mpinzani anaendelea na Zamu baada ya ile ya mhusika kukamilika. Ikiwa hawezi bado kutimiza tamko la awali, Pointi ya Kitendo ya mpinzani inapotea. Kukatiza pia kunaweza kutumika kufanya shambulio la fursa dhidi ya yeyote anayepita karibu na mhusika anayechelewesha na ndani ya umbali wa silaha.
-
-#### Kinga
-
-Mhusika anaweza kujaribu kujilinda dhidi ya shambulio linalokuja kwa kutumia mchanganyiko wa kuzuia, kuegemea, kukwepa, na hatua za kando ili kupunguza pigo.
-
-### Vitendo Huru
-
-Vitendo Huru (vilivyoorodheshwa hapa chini) vinaweza kufanywa wakati wowote katika Raundi ya Mapigano na havigharimu Pointi zozote za Vitendo kutekeleza.
-
-#### Tathmini Hali
-
-Ikiwa hajajihusisha, mhusika anaweza kufanya roll ya Ufahamu bila gharama ya Pointi za Kitendo. Mafanikio hufichua mabadiliko yoyote muhimu katika hali ya kimbinu (kama vile kumuona adui akianza kushambulia). Kutathmini huku ukikimbia husababisha roll ya Ufahamu ya Ugumu, Kukimbia kwa Kasi ni Vigumu.
-
-#### Angusha Kitu
-
-Kuacha kitu ni Kitendo Huru.
-
-#### Ishara
-
-Ikiwa hajajihusisha, kuashiria au kutoa ishara kwa washiriki mmoja au zaidi (ikiwa wanaweza kuona ishara) ni Kitendo Huru.
-
-#### Ongea
-
-Mhusika anaweza kuzungumza wakati wowote wakati wa mapigano, lakini kile kinachosemwa kinapaswa kuwa maneno mafupi ambayo yanaweza kutamkwa kwa sekunde tano au chini; kwa mfano, 'Angalia nyuma yako!' au 'Laniwe kuzimu!'
-
-#### Tumia Pointi ya Bahati
-
-Kutumia Pointi ya Bahati - kwa mfano, kurudisha roll fulani - ni Kitendo Huru.
-
-#### Linda Eneo
-
-Mhusika hulinda eneo fulani la Hit Location kutokana na kupigwa kwa kutenga mojawapo ya silaha zake kuzuia eneo hilo kwa pasifiki. Pigo lolote linalofika katika eneo hilo uharibifu wake hupunguzwa kiotomatiki kama kawaida kwa silaha inayozuia ya Ukubwa wake. Ulinzi huendelea hadi silaha iliyoteuliwa itumike kushambulia au Kuzuia kikamilifu. Kuanzisha au kubadilisha Eneo la Kupigwa lililofunikwa lazima kufanyike kabla ya mpinzani kucheza roll ya kumshambulia mhusika. Kwa sababu ya muundo wake, ngao zinaweza kufunika maeneo mengi.
-
-Kwa maelezo zaidi tazama [Kuzuia kwa Passive](0005_Combat.md?id=passive-blocking) hapa chini.
+Pointi za Kitendo ambazo hazijatumiwa hazihamishiwi kutoka Raundi moja hadi nyingine.
 
 ---
-## Harakati
+## Vitendo vya Mapambano
 
-Sheria zifuatazo hudhibiti kujihusisha katika mapigano:
+Vitendo vya Mapambano ni yale matendo ambayo yanaweza kufanywa wakati wa vita. Kuchomoa silaha, kutupa uchawi, au kujitosa nje ya shambulio ni mifano yote ya Vitendo vya Mapambano. Vingi vinahusu vipengele vya mapambano yenyewe, lakini vingine vinahusiana na shughuli nje ya ulimwengu wa uchawi na silaha.
 
-- Harakati hufanywa kwa kutumia Kitendo cha Sogeza au Shambulio la Ghafla.
-- Kitendo cha Sogeza huruhusu mhusika kusonga umbali sawa na Kiwango chao cha Harakati cha Msingi.
-- Harakati inaweza kufanywa tu na wahusika wasiohusika (isipokuwa kwa kesi maalum kama vile Kudhibiti).
-- Isipokuwa katika hali fulani (kama vile kushambulia), harakati zote muhimu huacha mara tu mhusika anapoingia katika masafa ya kujihusisha na mpinzani anayekusudiwa.
-- Isipokuwa unashambulia kupitia kugusa, kuingia katika eneo la kujihusisha la mpinzani huweka kila mmoja wao katika kujihusisha na mwingine.
-- Mara tu wakiwa wamehusika, wahusika hawawezi kusonga mbali na mpinzani isipokuwa kwanza Wajitoe kutoka kwa mapigano ya karibu.
-- Kujaribu kupita adui asiyehusika ambaye anatumia Kitendo cha Mapigano cha Kuchelewesha, huruhusu (kama ubaguzi maalum) adui huyo kuwashambulia wahusika wanaopita au kuzuia maendeleo ya mhusika, na kusababisha mapigano ya karibu katika Zamu au Raundi inayofuata.
+Kama ilivyotajwa hapo awali, ni mara ngapi mhusika anaweza kuchukua hatua kwa Raundi ni mdogo kulingana na Pointi zao za Kitendo zinazopatikana. Hizi hutumiwa katika kipindi MVU kila Raundi ya Mapambano ili kufanya Vitendo mbalimbali vya Mapambano. Mara tu Pointi za Kitendo za mpiganaji zinapotumika, hawawezi tena kuchukua hatua kwa muda uliosalia wa Raundi hiyo na lazima wasubiri hadi pointi zao zirejeshwe mwanzoni mwa inayofuata.
 
-### Viwango vya Harakati vya Hali
+Isipokuwa kama ilivyoelezwa vinginevyo, Kitendo chochote MVU Mapambano (isipokuwa Vitendo "Bure") kinagharimu Pointi moja ya Kitendo. Kwa hivyo, wapiganaji wanahitaji kuzingatia kwa makini jinsi na wakati wanapotumia Pointi zao za Kitendo. Wanaweza kuchukua hatua kwa uchokozi au kwa ulinzi kama wanavyotaka, wakikabiliana kwa nguvu na mazingira yanayoendelea ya mapambano.
 
-Viwango hivi vya harakati hutegemea hali na si mara zote ni chaguo. Vingi vimeelezewa mahali pengine lakini vimejumuishwa hapa kwa urahisi. Vingi vya viwango hivi vya hali vinaweza kutumiwa pamoja na Kiwango cha Harakati cha kawaida chini ya vizuizi vilivyowekwa. Maelezo kama hayo yamefafanuliwa katika maelezo maalum hapa chini.
+### Vitendo vya Kusonga Mbele (Proactive Actions)
 
-#### Panda
+Zifuatazo ni shughuli ambazo mhusika anaweza kujaribu katika Zamu yake kwa kutumia Pointi ya Kitendo. Kumbuka kuwa baadhi ya Vitendo kama vile kutupa uchawi au kupakia upya silaha vinaweza kuchukua Zamu kadhaa kukamilika; kila Zamu ikigharimu Pointi yake ya Kitendo.
 
-Mhusika anayesogea karibu na au anayeanza Zamu karibu na sehemu au kitu kinachoweza kupandwa anaweza kupanda kwa kiwango sawa na Kiwango cha Msingi cha Harakati. Mhusika hawezi kuwa amesogea haraka kuliko Kutembea na lazima awe na harakati zilizobaki, huku umbali uliopandwa ukipunguzwa na harakati zozote zilizotumika tayari. Silaha iliyovaliwa inazuia wapandaji kulingana na jumla ya Pointi za Silaha zilizovaliwa.
+#### Shambulio (Attack)
 
-##### Jedwali la Adhabu ya Harakati ya Silaha
+Mhusika anaweza kujaribu kupiga kwa silaha ya mapigano ya karibu au kutumia Silaha ya Masafa.
 
-| Jumla ya AP Iliyovaliwa | Kategoria ya Mzigo | Harakati |
+#### Jitayarishe (Brace)
+
+Mhusika hujitayarisha kwa kuchukua msimamo thabiti na kuegemea katika mwelekeo wa shambulio linalokuja. Kwa madhumuni ya kupinga kusukumwa nyuma (Knockback) au Mashambulizi ya Kuruka (Leaping Attacks), UKU wa mhusika huchukuliwa kuwa mkubwa kwa 50%. Dhidi ya Athari Maalum ya Bash, UKU huongezwa mara mbili.
+
+#### Tupa Uchawi/Tumia Nguvu (Cast Magic/Use Power)
+
+Mhusika anaweza kujaribu kutupa uchawi, kuita nguvu fulani, na kadhalika. Uchawezi tata unaweza kuhitaji Vitendo kadhaa kukamilisha utupaji. Mara ukikamilika, uchawi unaweza kuachiliwa wakati wowote hadi Zamu inayofuata ya mchawi – ambapo unaweza kushikiliwa kwa athari ya baadaye, lakini hii inahitaji Kitendo MVU Kushikilia Uchawi/Nguvu (angalia hapa chini) ili kuudumisha kwa ajili ya kuachilia baadaye.
+
+#### Badilisha Masafa (Change Range)
+
+Mhusika anaweza kujaribu kusogelea au kujiondoa kutoka kwa mpinzani, mradi hawajashiriki katika mapigano ya ana kwa ana na mpinzani au kufungwa na risasi za adui katika hali ya mapambano ya masafa.
+
+#### Chaji (Charge)
+
+Kitendo MVU Chaji humruhusu mhusika kusonga ndani ya masafa ya mapigano kwa kasi ya kukimbia au mbio, akitumia kasi ya chaji kufanya shambulio la nguvu zaidi la mapigano ya karibu. Kanuni hizi zimefunikwa kwa undani zaidi katika sehemu ya [Charging](0005_Combat.md?id=charging) hapa chini.
+
+#### Chelewesha (Delay)
+
+Mhusika huhifadhi Vitendo moja au zaidi ili kufanya Vitendo vya Kuitikia baadaye, kama vile Kukatiza (Interrupt) au Kuzuia (Parry). Gharama ya Pointi za Kitendo za kuchelewesha hufunikwa na chochote matendo yanayofanywa hatimaye. Ikiwa Vitendo vilivyocheleweshwa havichukuliwi kabla ya Zamu inayofuata ya mhusika, basi mhusika huchukuliwa kuwa amesitasita (Dithered), na Pointi ya Kitendo hupotea.
+
+#### Sita (Dither)
+
+Chaguo la msingi isipokuwa Kitendo kingine kuchaguliwa, mhusika hupoteza zamu yake bila kufanya chochote MVU manufaa.
+
+#### Shikilia Uchawi/Nguvu (Hold Magic/Power)
+
+Mara tu utupaji unapokamilika, mhusika anaweza kushikilia uchawi au Nguvu katika ukaguzi wa muda, akisubiri wakati mwafaka wa kuachilia. Uchawi unaweza kushikiliwa kwa muda mrefu kama mhusika anavyoendelea kuchukua Kitendo hiki katika Zamu zinazofuata, lakini hii inaruhusu matumizi ya bure ya miitikio ya Kuzuia Uchawi (Counter Spell) na adui ikiwa inahusiana na uchawi huo. Safu halisi ya ujuzi ya kutupa uchawi ulioshikiliwa haifanywi hadi utupwe.
+
+#### Panda (Mount)
+
+Mhusika anaweza kupanda au kushuka mnyama wa kupanda au chombo MVU usafiri. Wanyama wakubwa sana wa kupanda wanaweza kuhitaji Zamu kadhaa kukamilika.
+
+#### Sogeza (Move)
+
+Ikiwa mtu hayuko katika mapigano na mpinzani, mhusika anaweza kusonga umbali wowote ambao Mwalimu wa Mchezo anaona unafaa kwa hali hiyo.
+
+#### Piga Chenga (Outmaneuver)
+
+Mhusika anaweza kushiriki na wapinzani wengi katika Safu ya Pamoja ya ujuzi wa Kukwepa (Evade). Wale wanaoshindwa kushinda safu yake hawawezi kumshambulia katika Raundi hiyo ya Mapambano. Angalia sehemu ya [Outmaneuvering](0005_Combat.md?id=outmaneuvering) hapa chini.
+
+#### Tayarisha Silaha (Ready Weapon)
+
+Mhusika anaweza kuchukua, kuchomoa, kuweka kwenye ala, kuondoa, au kupakia upya silaha au kitu kingine. Kuchukua kitu kilichoanguka karibu kunahitaji Vitendo 2: kimoja MVU kusonga na kukifikia kitu hicho na MVU pili MVU kurudi kwenye msimamo wa tayari. Baadhi ya silaha za kurusha zinahitaji Vitendo kadhaa kupakia upya.
+
+#### Pakia Upya (Reload - Bunduki)
+
+Kama ilivyo katika Tayarisha Silaha. Muda wa kupakia upya unaweza kutofautiana sana kulingana na aina ya silaha. Bunduki za risasi za poda nyeusi za risasi moja zitakuwa polepole sana kupakia upya kuliko kubadilisha magazine ya risasi au chanzo MVU nishati.
+
+#### Rejesha Msimamo (Regain Footing)
+
+Ikiwa haujashiriki na mpinzani, mhusika anaweza kurejesha msimamo wake kiotomatiki baada ya kuangushwa au kutupwa chini. Ikiwa ameshiriki (Engaged), mhusika lazima ashinde Safu ya Pamoja ya Nguvu (Brawn) au Riadha (Athletics) na mpinzani kabla ya kusimama. Shindano hili haligharimu Pointi zozote za Kitendo kutatua.
+
+#### Chungulia (Sneak Peek - Bunduki)
+
+Chungulia humruhusu mtu aliye nyuma ya hifadhi kutazama haraka ili kuhukumu hali ya mbinu ni ipi. Kitendo hiki kinaonekana kuwa salama, kikimruhusu mtazamaji safu moja ya Mtazamo (Perception) kabla ya kurudi kwenye hifadhi. Ikiwa jaribio la Mtazamo ni mbaya, wao hupanua kichwa chao kijinga au kubaki mbele ya macho kwa muda mrefu wa kutosha kwa adui kupiga risasi ya bahati nasibu.
+
+#### Tuliza Silaha (Steady Weapon - Bunduki)
+
+Humruhusu mhusika kuanzisha msimamo thabiti wa kufyatua na kuunga mkono silaha ya kujiendesha ili ibaki imara. Inahitaji mhusika awe angalau amejitokeza kwa sehemu na si kulindwa kabisa na hifadhi. Faida kuu ni kwamba inapunguza adhabu ya kurudi nyuma (recoil) ya moto wa Risasi nyingi (Burst) au Kujiendesha Kikamilifu kwa hatua moja. Athari hii ni kama JITAYARISHE kwa kuwa faida zake huendelea hadi mhusika anaposonga.
+
+#### Pambana (Struggle)
+
+Ikiwa mhusika ni mwathiriwa wa aina fulani za mashambulizi au Athari Maalum, wanaweza kujaribu kujitoa kutoka katika hali hiyo. Kwa mfano, kujinasua kutoka kwa mshiko wa adui.
+
+#### Badilisha Hali ya Moto (Switch Fire Mode - Bunduki)
+
+Badilisha Moto humruhusu mtumiaji wa bunduki ya kujiendesha au ya aina mbili kubadilisha kidhibiti kwenye silaha yao ili kutumia vyema aina nyingine za moto. Kwa hivyo, bunduki ya kushambulia inaweza kubadilishwa kutoka nusu-kujiendesha kwenda kwa mfululizo, kuchagua aina tofauti za risasi, au mfumo wa ziada kama kizindua guruneti MVU ndani kuletwa mtandaoni. Wakati silaha za kisasa zinahitaji Pointi ya Kitendo katika Zamu ya mhusika kubadili aina, bunduki za teknolojia ya juu za kutosha zinaweza kuruhusu kama Kitendo MVU Bure, kilichochochewa na vipandikizi vya kielektroniki au kusoma akili ya mtumiaji.
+
+#### Tafuta Hifadhi (Take Cover)
+
+Tafuta Hifadhi ni kitendo MVU kusonga mbele ambacho humruhusu mpiga risasi kujificha nyuma ya hifadhi yoyote inayopatikana katika maeneo yao ya karibu, na hivyo kupata kiwango fulani MVU ulinzi dhidi ya risasi zinazokuja. Tofauti na Kukwepa (Evade) haimuachi mtumiaji akiwa ameanguka chini lakini inategemea aina fulani ya hifadhi kupatikana, kwa mfano kurudi nyuma ya kona kwenye ukanda au kuchuchumaa nyuma ya meza kwenye baa. Kulingana na hali, hifadhi inayopatikana inaweza au isitoshe kulinda mhusika kabisa. Aina ya hifadhi pia itaamua sifa zake za ulinzi; mlango mzito wa chuma kwa mfano unaweza kuthibitika kuwa haupitiki kwa risasi, ilhali ukuta mwembamba wa mbao unaweza kutoa Pointi 4 za Silaha (Armor Points) pekee. Kwa miongozo ya jumla kuhusu sifa za ulinzi za vifaa fulani, angalia jedwali katika sehemu ya [Inanimate Objects](0004_Game_System.md?id=inanimate-objects).
+
+### Vitendo vya Kuitikia (Reactive Actions)
+
+Orodha hii inabainisha Miitikio inayoweza kutumika wakati wowote wakati wa Raundi ya Mapambano kama jibu la tishio la karibu. Kama ilivyo katika orodha iliyotangulia, kuitikia kunagharimu Pointi ya Kitendo ili kufanya.
+
+#### Kuzuia Uchawi (Counter Spell)
+
+Mhusika anaweza kujaribu kufuta au kukabiliana na uchawi unaokuja. Hii inadhani uchawi wa kukabiliana una Muda wa Utupaji wa Zamu moja, vinginevyo lazima uandaliwe mapema na kushikiliwa kwa muda kwa kutumia Kitendo MVU Kushikilia Uchawi. Kuingilia uchawi kwa mafanikio kwa njia hii inadhaniwa kuwa inafuta uchawi mzima, hata wale wenye malengo mengi au maeneo ya athari.
+
+#### Kukwepa (Evade)
+
+Mhusika anaweza kutumia ujuzi wao wa Kukwepa (Evade) katika jaribio la kujitosa nje ya vitisho kama vile makombora yanayokuja au shambulio la chaji. Hii inamuacha mhusika akiwa ameanguka chini isipokuwa ikipunguzwa na Uwezo au hali maalum. Kwa hivyo, zamu inayofuata ya mhusika kwa kawaida hutumiwa kuchukua Kitendo MVU Rejesha Msimamo ili kusimama tena.
+
+#### Kukatiza (Interrupt)
+
+Wahusika wanaochelewesha pekee. Kitendo hiki MVU Kuitikia husimamisha Zamu ya mpinzani wakati wowote ili kuchukua Kitendo MVU Zamu kilichocheleweshwa. Ikidhaniwa hakuna mabadiliko katika hali ya mbinu, mpinzani huendelea na Zamu baada ya ile ya mhusika kukamilika. Ikiwa hawezi bado kufikia tamko la awali, Pointi ya Kitendo ya mpinzani hupotea. Kukatiza kunaweza pia kutumika kufanya shambulio la fursa dhidi ya yeyote anayepita karibu na mhusika anayechelewesha na ndani ya masafa ya silaha.
+
+#### Kuzuia (Parry)
+
+Mhusika anaweza kujaribu kujilinda dhidi ya shambulio linalokuja kwa kutumia mchanganyiko wa kuzuia, kuegemea, kuchuchumaa, na hatua za kando ili kupunguza pigo.
+
+### Vitendo vya Bure (Free Actions)
+
+Vitendo vya Bure (vilivyoorodheshwa hapa chini) vinaweza kufanywa wakati wowote wakati wa Raundi ya Mapambano na havigharimu Pointi za Kitendo kufanya.
+
+#### Tathmini Hali (Assess Situation)
+
+Ikiwa haujashiriki (unengaged), mhusika anaweza kupiga safu ya Mtazamo (Perception) bila gharama ya Pointi ya Kitendo. Mafanikio hufichua mabadiliko yoyote yanayofaa katika hali ya mbinu (kama vile kuona adui anayeanza chaji). Kutathmini wakati wa Kukimbia husababisha safu Ngumu ya Mtazamo, na wakati wa Mbio za kasi ni ya Kutisha (Formidable).
+
+#### Achia Kitu (Drop Item)
+
+Kuacha kitu ni Kitendo MVU Bure.
+
+#### Ishara (Signal)
+
+Ikiwa haujashiriki (unengaged), kufanya ishara au kutoa ishara kwa mshiriki mmoja au zaidi (ikiwa wanaweza kutambua ishara hiyo) ni Kitendo MVU Bure.
+
+#### Zungumza (Speak)
+
+Mhusika anaweza kuzungumza wakati wowote wakati wa mapambano, lakini kinachosemwa kinapaswa kuwa na mipaka ya misemo mifupi inayoweza kutamkwa katika sekunde tano au chini; kwa mfano, 'Jihadharini nyuma yenu!' au 'Laana iwe juu yako!'
+
+#### Tumia Pointi ya Bahati (Use Luck Point)
+
+Kutumia Pointi ya Bahati – kupiga kete upya matokeo fulani kwa mfano – ni Kitendo MVU Bure.#### Mahali pa Kulinda
+
+Mhusika hulinda Eneo la Kugongwa (Hit Location) mahususi ili lisipigwe kwa kutenga mojawapo ya silaha zake ili kuzuia eneo hilo kimya kimya. Pigo lolote linalotua kwenye eneo hilo uharibifu wake hushushwa kiotomatiki kama ilivyo kawaida kwa silaha ya kuzuia (parrying weapon) ya Ukubwa wake (UKU). Ulinzi huu huendelea hadi pale silaha iliyotengwa itakapotumika kushambulia au kuzuia kikamilifu (active Parry). Kuanzisha au kubadilisha Eneo la Kugongwa linalolindwa lazima kufanyike kabla ya mpinzani kurusha kete za kushambulia mhusika. Kwa sababu ya muundo wao, ngao zinaweza kulinda maeneo mengi.
+
+Kwa ufafanuzi zaidi angalia [Kuzuia kwa Njia Isiyo ya Kikanuni (Passive Blocking)](0005_Combat.md?id=passive-blocking) hapa chini.
+
+---
+## Mwendo
+
+Sheria zifuatazo hudhibiti ushiriki katika mapigano:
+
+- Mwendo hufanywa kwa kutumia Hatua ya Kusonga (Move) au Hatua ya Kushambulia kwa Kasi (Charge).
+- Hatua ya Kusonga humruhusu mhusika kusonga umbali sawa na Kiwango chao MVU Msingi MVU Mwendo (Base Movement Rate).
+- Mwendo unaweza tu kufanywa na wahusika ambao hawajashiriki (isipokuwa kwa kesi maalum kama vile Kuanza Vita kwa Njia ya Hila au Outmaneuvering).
+- Isipokuwa katika kesi fulani (kama vile kushambulia kwa kasi), mwendo wote muhimu huacha punde mhusika anapoingia kwenye eneo la ushiriki la mpinzani anayelengwa.
+- Isipokuwa kama unashambulia kwa kasi kupitia mgusano, kuingia katika eneo la ushiriki la mpinzani humfanya kila mmoja ashiriki na mwenzake.
+- Mara tu wanaposhiriki, wahusika hawawezi kusonga mbali na mpinzani isipokuwa kwanza wajiondoe (Withdraw) kutoka kwenye mapigano ya karibu.
+- Kujaribu kusonga kupita adui asiyeshiriki ambaye anatumia Hatua ya Vita ya Kuchelewesha (Delay Combat Action), humruhusu (kama ubaguzi maalum) mpinzani huyo kumpiga mhusika anayesonga wanapopita au kuzuia maendeleo ya mhusika, na kuchochea mapigano ya karibu katika Zamu au Raundi inayofuata.
+
+### Viwango vya Mwendo wa Hali Fulani
+
+Viwango hivi vya mwendo ni vya hali fulani na si mara zote chaguo. Vingi vimeelezewa kwingine lakini vimejumuishwa hapa kwa urahisi. Vingi vya viwango hivi vya hali fulani vinaweza kutumika pamoja na Kiwango MVU kawaida MVU Mwendo chini ya vizuizi vilivyowekwa. Taarifa kama hizo zimeelezwa katika maelezo maalum hapa chini.
+
+#### Kupanda (Climb)
+
+Mhusika anayesonga karibu na au anayeanza Zamu yake karibu na uso au kitu kinachoweza kupandika anaweza kupanda kwa kasi sawa na Kiwango MVU Msingi MVU Mwendo. Mhusika hapaswi kuwa amesonga haraka kuliko kutembea (Walk) na lazima awe na mwendo uliobakia, huku umbali uliopandwa ukipunguzwa na mwendo wowote uliokwisha kutumika. Silaha iliyovaliwa huwazuia wapandaji kulingana na jumla ya Pointi za Silaha (Armor Points) zilizovaliwa.
+
+##### Jedwali la Adhabu ya Mwendo wa Silaha
+
+| Jumla ya AP zilizovaliwa | Aina ya Uzito | Mwendo |
 | :-: | :-: | :-: |
 | 0-7 | Hakuna | 0 |
 | 8-15 | Nyepesi | -1 |
-| 16-23 | Kati | -2 |
+| 16-23 | Wastani | -2 |
 | 24-31 | Nzito | -3 |
-| 32-39 | Ngumu | -4 |
-| 40+ | Ya Ajabu | -5 |
+| 32-39 | Inayotisha | -4 |
+| 40+ | Ya Nguvu Kubwa | -5 |
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jamii</summary>
 
-#### Panda
+#### Kupanda (Climb)
 
 
-_Maandishi ya awali yalikuwa "Silaha zilizovaliwa huzuia wapandaji kwa kiasi sawa na Pointi za Silaha za kitu kizito zaidi kilichovaliwa."_
+_Maandishi asilia yalikuwa "Silaha iliyovaliwa huwazuia wapandaji kwa kiasi sawa na Pointi za Silaha za kitu kizito zaidi kilichovaliwa."_
 
-_Sheria kama ilivyoandikwa haraka husababisha matatizo. Kuvaa kipande kimoja cha silaha ya 6AP kungepunguza binadamu hadi Sogeza 0 ikimaanisha binadamu anayevaa kofia ya chuma na kitu kingine chochote angekuwa mzito sana asiweze kupanda kabisa. Hii inaonekana kuwa na vizuizi visivyo na sababu ndiyo maana toleo lililohaririwa lililopendekezwa hapo juu. Hili litasasishwa kufuatia pendekezo la Loz katika [jumba la majadiliano la TDM](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
+_Sheria kama ilivyoandikwa husababisha matatizo haraka. Kuvaa kipande kimoja MVU silaha ya 6AP kungepunguza mwanadamu hadi Mwendo 0 ikimaanisha mwanadamu aliyevaa kofia ya chuma na hakuna kingine angekuwa na uzito mkubwa sana kiasi MVU kushindwa kupanda kabisa. Hii inaonekana kuwa na vizuizi visivyo vya lazima ndiyo maana toleo lililohaririwa lililopendekezwa hapo juu. Hili litasasishwa kufuatia pendekezo la Loz katika [jukwaa la TDM](https://www.tapatalk.com/groups/designmechanism/climbing-speed-from-mythras-imperative-t4052.html#p42237)..._
 
-_**nb:** Linganisha sheria ya Classic Fantasy Imperative inayohusisha na Mzigo:_
-- _"Silaha zilizovaliwa huzuia wapandaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 cha ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba."_
-- _Sheria ya Classic Fantasy Imperative Encumbrance: "Kila Kitu cha ziada zaidi ya STR ya mhusika hupunguza Bonasi ya Initiative ya mhusika kwa 1. Kila Vitu 6 zaidi ya STR hupunguza Kiwango cha Harakati cha mhusika kwa futi 5 (2m). Hatimaye, wakati Vitu vingi vinabebwa kuliko STR ya mhusika, ujuzi unaotumia STR au DEX kama sehemu ya Msingi wao ni daraja 1 gumu zaidi. Wakati Vitu vingi vinabebwa kuliko mara mbili ya STR ya mhusika, ujuzi huu ni daraja 2 gumu zaidi."_
+_**nb:** Linganisha sheria ya Classic Fantasy Imperative ambayo inahusishwa na Uzito (Encumbrance):_
+- _"Silaha iliyovaliwa huwazuia wapandaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 MVU ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba."_ 
+- _Sheria ya Uzito ya Classic Fantasy Imperative: "Kila Kitu MVU ziada juu ya NGU ya mhusika hupunguza Bonasi ya Mwanzo (Initiative Bonus) ya mhusika kwa 1. Kila Vitu 6 juu ya NGU hupunguza Kiwango MVU Mwendo MVU mhusika kwa futi 5 (m 2). Mwisho, wakati Vitu vingi vinapobebwa kuliko NGU ya mhusika, ujuzi unaotumia NGU au UST kama sehemu ya Msingi wake huwa mgumu kwa daraja 1. Wakati Vitu vingi vinapobebwa kuliko mara mbili ya NGU ya mhusika, ujuzi huu huwa mgumu kwa madaraja 2."_
 
 </details>
 
-#### Tambaa
+#### Kutambaa (Crawl)
 
-Mhusika anayeanza Zamu akiwa amelala chini anaweza kutambaa kwa kiwango cha juu cha mita mbili kwa Zamu badala ya Harakati ya kawaida. Viumbe wanaotambaa kwa asili kama njia yao ya kawaida ya kusonga hutumia Kiwango chao kamili cha Harakati kilichorekebishwa na Mitindo - Kutembea, Kukimbia, na Kuruka - tazama sehemu ya [Kiwango cha Harakati](0002_Characters.md?id=movement-rate) hapo juu.
+Mhusika anayeanza Zamu akiwa amelala chini anaweza kutambaa kwa kiwango MVU juu MVU mita mbili kwa Zamu badala ya Kusonga kawaida. Viumbe wanaotambaa kawaida kama njia yao ya kawaida ya mwendo badala yake hutumia kiwango chao kamili MVU Mwendo kilichorekebishwa na Hatua - Kutembea, Kukimbia, na Sprint - angalia sehemu ya [Kiwango MVU Mwendo](0002_Characters.md?id=movement-rate) hapo juu.
 
-Sheria za harakati zimefunikwa kikamilifu katika kitabu cha sheria cha _Mythras_.
+Sheria za mwendo zimefunikwa kikamilifu katika kitabu MVU sheria MVU _Mythras_.
 
-#### Ruka
+#### Kuruka (Jump)
 
-Mhusika anayesogea karibu na au anayeanza Zamu karibu na kizuizi kinachoweza kurukwa anaweza kujaribu kuruka juu yake. Mhusika anaweza kuwa akisogea kwa kiwango chochote hadi kufikia hatua ya kuruka.
+Mhusika anayesonga karibu na au anayeanza Zamu karibu na kikwazo kinachoweza kurukika anaweza kujaribu kuruka juu yake. Mhusika anaweza kuwa anasonga kwa kasi yoyote hadi kufikia hatua ya kuruka. 
 
-Roll ya Mafanikio ya Riadha inamruhusu mtu kuruka hadi mara mbili ya urefu wake usawa au hadi nusu ya urefu wake wima (ikiwa mhusika ana nafasi ya kukimbia angalau mita tano). Ikiwa unaruka kutoka kwenye msimamo wa kusimama, basi umbali huu umepunguzwa kwa nusu.
+Rola ya Umahiri (Athletics) iliyofanikiwa humruhusu mtu kuruka hadi mara mbili ya urefu wake mwenyewe kwa mlalo au hadi nusu ya urefu wake mwenyewe kwa wima (ikiwa mhusika ana angalau mita tano za kukimbia kabla ya kuruka). Ikiwa anaruka kutoka nafasi ya kusimama, basi umbali huu hupunguzwa nusu.
 
-Punguza umbali wa kuruka kwa mita kwa moja ya tano ya jumla ya 'Vitu' vilivyobeba. Silaha iliyovaliwa inazuia warukaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 katika hesabu iliyotajwa hapo awali, na silaha nzito huhesabiwa kama 'Vitu' 2.
+Punguza umbali wa kuruka kwa mita kwa moja ya tano ya jumla ya 'Vitu' vilivyobeba. Silaha iliyovaliwa huwazuia warukaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 katika hesabu iliyotajwa hapo awali, na silaha nzito huhesabiwa kama 'Vitu' 2.
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jamii</summary>
 
-#### Ruka
+#### Kuruka (Jump)
 
 
-_Maandishi ya awali hayakutaja Silaha au Mzigo. Adhabu za kupanda za Loz ni ngumu sana kutumia kwa Kuruka kama zilivyo lakini Classic Fantasy Imperative tena huunganisha adhabu za silaha na Mzigo:_
-- _"Punguza umbali wa kuruka kwa futi kwa nusu ya jumla ya 'Vitu' vilivyobeba. Silaha zilizovaliwa huzuia warukaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 katika hesabu iliyotajwa hapo awali, na silaha nzito huhesabiwa kama 'Vitu' 2."_
+_Maandishi asilia hayakutaja Silaha au Uzito. Adhabu za Kupanda za Loz ni ngumu sana kutumia kwa Kuruka kama ilivyo lakini Classic Fantasy Imperative tena inahusisha adhabu za silaha na Uzito:_
+- _"Punguza umbali wa kuruka kwa futi kwa nusu ya jumla ya 'Vitu' vilivyobeba. Silaha iliyovaliwa huwazuia warukaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 katika hesabu iliyotajwa hapo awali, na silaha nzito huhesabiwa kama 'Vitu' 2."_ 
 
 </details>
 
-#### Ogelea
+#### Kuogelea (Swim)
 
-Mhusika anayesogea karibu na au anayeanza Zamu karibu na eneo la maji anaweza kuogelea kwa kiwango sawa na Kiwango cha Msingi cha Harakati, ukiondoa harakati zozote zilizotumika tayari. Tazama maelezo ya Kuogelea katika sehemu ya [Ujuzi](0003_Skills.md?id=swim-strcon) kwa maelezo zaidi.
+Mhusika anayesonga karibu na au anayeanza Zamu karibu na maji anaweza kuogelea kwa kiwango sawa na Kiwango MVU Msingi MVU Mwendo, kikiondoa mwendo wowote uliokwisha kutumika. Angalia maelezo ya Kuogelea katika sehemu ya [Ujuzi](0003_Skills.md?id=swim-strcon) kwa maelezo zaidi.
 
-Chini ya hali za kawaida, kasi ya juu zaidi ya kuogelea ya mhusika kwa kila Raundi ni sawa na Kiwango chake cha Harakati, -1 kwa kila 'Kitu' kilichobeba zaidi ya STR ya mhusika. Silaha zilizovaliwa huwazuia waogeleaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 cha ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba. Ikiwa jumla ya ENC inapunguza umbali wa kuogelea hadi 0 au chini, mhusika huanza kuzama kiotomatiki (tazama [Kukosa Hewa](0004_Game_System.md?id=asphyxiation)).
+Chini ya hali ya kawaida kasi ya juu ya kuogelea ya mhusika kwa Raundi ni sawa na Kiwango chao MVU Mwendo, -1 kwa kila 'Kitu' kilichobeba zaidi ya NGU ya mhusika. Silaha iliyovaliwa huwazuia waogeleaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 MVU ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba. Ikiwa jumla ya ENC inapunguza umbali wa kuogelea hadi 0 au chini ya hapo, mhusika huanza kuzama kiotomatiki (angalia [Kukosa Hewa (Asphyxiation)](0004_Game_System.md?id=asphyxiation)).
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jamii</summary>
 
-#### Ogelea
+#### Kuogelea (Swim)
 
-_Toleo lililochapishwa la _Mythras Imperative_ halina sheria wazi za harakati za Kuogelea kwa miondoko au kasi tofauti. Classic Fantasy Imperative tena huunganisha adhabu za silaha na Mzigo:_
+_Toleo lililochapishwa la _Mythras Imperative_ halina sheria wazi za mwendo wa Kuogelea kwa hatua au kasi tofauti. Classic Fantasy Imperative tena inahusisha adhabu za silaha na Uzito:_
 
-- _Chini ya hali za kawaida, kasi ya juu zaidi ya kuogelea ya mhusika kwa kila Raundi ni sawa na Kiwango chake cha Harakati, -1 kwa kila 'Kitu' kilichobeba zaidi ya STR ya mhusika. Silaha zilizovaliwa huwazuia waogeleaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 cha ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba. Ikiwa jumla ya ENC inapunguza umbali wa kuogelea hadi 0 au chini, mhusika huanza kuzama kiotomatiki (tazama Kukosa Hewa)._
+- _Chini ya hali ya kawaida kasi ya juu ya kuogelea ya mhusika kwa Raundi ni sawa na Kiwango chao MVU Mwendo, -1 kwa kila 'Kitu' kilichobeba zaidi ya NGU ya mhusika. Silaha iliyovaliwa huwazuia waogeleaji, huku kila eneo lililofunikwa na silaha nyepesi likihesabiwa kama 'Kitu' 1 MVU ziada kilichobeba, na kila eneo lililofunikwa na silaha nzito likihesabiwa kama 'Vitu' 2 vya ziada vilivyobeba. Ikiwa jumla ya ENC inapunguza umbali wa kuogelea hadi 0 au chini ya hapo, mhusika huanza kuzama kiotomatiki (angalia Kukosa Hewa)._
 
 </details>
 
 ---
 ## Jinsi Mapigano Yanavyofanya Kazi
 
-Kupigana katika _Mythras Imperative_ hutatuliwa kwa kila shambulio au uzuiaji ukiwakilisha mchomo mmoja, kupiga, kurusha uchawi, au risasi ya silaha. Kitendo chochote cha kushambulia huruhusu fursa ya kupingwa na majibu. Hivyo, hata kama mhusika anafanikiwa kumpiga mpinzani, adui anaruhusiwa roll yake mwenyewe kuona kama anaweza kuzuia pigo kabla halijafika. Falsafa hiyo hiyo hutumiwa iwe mashambulio ni silaha za masafa marefu dhidi ya walengwa wanaojificha au kujaribu kujitoa kutoka kwenye mtego wa chuma wa pweza mkubwa.
+Kupigana katika _Mythras Imperative_ hutatuliwa kwa kila shambulio au uzuiaji (parry) kuwakilisha kuchoma, kupiga, kutupa uchawi, au kurusha silaha mara moja. Hatua yoyote ya kushambulia inaruhusu nafasi ya kupingwa na mwitikio. Hivyo, hata kama mhusika atafanikiwa kumpiga mpinzani, adui anaruhusiwa kurusha kete zake ili kuona kama anaweza kuzuia pigo kabla halijatua. Falsafa hiyo hiyo hutumika ikiwa mashambulizi ni silaha za masafa dhidi ya walengwa wanaopiga mbizi kutafuta ulinzi au kujaribu kujinasua kutoka kwenye mtego wa chuma wa pweza mkubwa.
 
-### Mashambulio na Vizuizi
+### Mashambulizi na Uzuiaji (Attacks and Parries)
 
-Mapigano ya karibu hushughulikiwa kwa hatua kwa hatua kama ifuatavyo:
+Mapigano ya karibu yanashughulikiwa kwa njia ifuatayo ya hatua kwa hatua:
 
-1. Katika zamu yake, mshambuliaji hutumia Pointi ya Kitendo, hupiga roll dhidi ya Ujuzi wake wa Mapigano, na huandika matokeo.
-2. Ikiwa anataka, mlinzi hutumia Pointi ya Kitendo kuzuia, hupiga roll dhidi ya Ujuzi wake wa Mapigano, na huandika matokeo.
-3. Kiwango cha mafanikio ya matokeo kinalinganishwa kama kwa Roll ya Tofauti.
-4. Tofauti yoyote inampa mpiganaji aliyefanikiwa na roll bora Athari Maalum moja au zaidi.
-5. Ikiwa mshambuliaji amefanikiwa Mafanikio au Muhimu, anaweza kupiga roll ya uharibifu wa silaha na kutumia Marekebisho yake ya Uharibifu (ikiwa yapo). Ikiwa inafaa, Eneo la Kupigwa huamuliwa kwa pigo hilo.
-6. Ikiwa mlinzi amefanikiwa Mafanikio au Muhimu, punguza uharibifu wowote uliotokea kulingana na ukubwa wa silaha zilizohusika.
+1. Kwenye zamu yake mshambuliaji hutumia Pointi ya Hatua (Action Point), hurusha kete dhidi ya Ujuzi wake wa Kupambana, na kubainisha matokeo.
+2. Ikitakiwa, mtetezi hutumia Pointi ya Hatua kuzuia (Parry), hurusha kete dhidi ya Ujuzi wake wa Kupambana, na kubainisha matokeo.
+3. Kiwango MVU mafanikio ya matokeo hulinganishwa kulingana na Rola ya Tofauti (Differential Roll).
+4. Tofauti yoyote humpa mpiganaji aliyefanikiwa mwenye rola bora Athari Maalum (Special Effects) moja au zaidi.
+5. Ikiwa mshambuliaji alipata Mafanikio au Mafanikio ya Muhimu (Critical), anaweza kurusha kete ya uharibifu wa silaha na kuongeza Bonasi yake ya Uharibifu (Damage Modifier) (kama ipo). Ikiwezekana, Eneo la Kugongwa hubainishwa kwa ajili ya pigo hilo.
+6. Ikiwa mtetezi alipata Mafanikio au Mafanikio ya Muhimu, punguza uharibifu wowote uliosababishwa kulingana na ukubwa wa kulinganisha wa silaha zinazohusika.
 7. Punguza uharibifu wowote uliobaki kwa Pointi za Silaha za ulinzi wa asili au uliovaliwa.
 
-Kumbuka kwamba Athari Maalum zozote zinazozalishwa na ubadilishaji hazitegemei kama uharibifu umesababishwa. Inawezekana kabisa kwa mlinzi kupata kiwango cha juu cha mafanikio, lakini bado kupata jeraha.
+Kumbuka kuwa Athari zozote Maalum zinazozalishwa na ubadilishanaji ni huru kutoka kwa kama uharibifu umesababishwa au la. Inawezekana kabisa kwa mtetezi kupata kiwango MVU juu MVU mafanikio, lakini bado kupata majeraha.
 
 ### Ukubwa wa Silaha
 
-Kila silaha katika _Mythras Imperative_ ina sifa kadhaa tofauti kutoka kwa uharibifu inayosababisha hadi ni mikono mingapi inahitajika kuishika. Ukubwa ni mchanganyiko wa uzito wa silaha, kipaumbele, na utulivu, na hutumika kuamua uwezo wa silaha kuweka na kuzuia uharibifu. Jamii za ukubwa ni Ndogo, Kati, Kubwa, Kubwa Sana, na Kubwa Kupita Kiasi. Mashambulio yasiyo na silaha ya viumbe hupewa jamii zinazofanana kulingana na tabia zao za kimwili.
+Kila silaha katika _Mythras Imperative_ inamiliki sifa kadhaa tofauti kutoka kwa uharibifu inayosababisha hadi mikono mingapi inahitajika kuishika. Ukubwa (Size) ni mchanganyiko wa uzito wa silaha, kujiinua, na utulivu, na hutumika kubainisha uwezo wa silaha kuweka na kuzuia uharibifu. Aina za Ukubwa ni Ndogo, Wastani, Kubwa, Kubwa Sana (Huge), na Kubwa Kupita Kiasi (Enormous). Mashambulizi ya bila silaha ya viumbe hupewa aina zinazofanana kulingana na sifa zao za kimwili.
 
 ### Kupunguza Uharibifu
 
-Ikiwa mlinzi anafanikiwa kuzuia shambulio, basi anaweza kupunguza uharibifu wa mshambuliaji, ikiwa upo, kulingana na Ukubwa wa silaha zilizotumika.
+Ikiwa mtetezi atafanikiwa kuzuia, basi anaweza kupunguza uharibifu wa mshambuliaji, ikiwa upo, kulingana na Ukubwa wa kulinganisha wa silaha zilizotumiwa.
 
-- Kuzuia shambulio kwa silaha au ngao yenye Ukubwa sawa au mkubwa zaidi huzuia uharibifu wote.
-- Kuzuia kwa silaha au ngao yenye Ukubwa mdogo kwa hatua moja tu huzuia nusu ya uharibifu.
-- Kuzuia kwa silaha au ngao yenye Ukubwa mdogo kwa hatua mbili au zaidi hushindwa kuzuia uharibifu wowote.
+- Kuzuia shambulio kwa silaha au ngao ya Ukubwa sawa au mkubwa zaidi huzuia uharibifu wote.
+- Kuzuia kwa silaha au ngao ya Ukubwa mmoja mdogo huzuia nusu tu ya uharibifu.
+- Kuzuia kwa silaha au ngao ya Ukubwa mbili au zaidi mdogo hushindwa kuzuia uharibifu wowote.
 
-_Kwa mfano, kuzuia shoka kubwa (Kubwa Sana) kwa ngao kubwa (pia Kubwa Sana) kungezuia uharibifu wote; kuzuia kwa Upanga Mrefu (Kubwa) kungepunguza uharibifu kwa nusu, na kuzuia kwa upanga mfupi (Kati) kungezuia uharibifu wowote._
+_Kwa mfano, kuzuia shoka kubwa (Huge) kwa ngao ya kite (pia Huge) ingezuia uharibifu wote; kuizuia kwa Upanga Mrefu (Large) kungepunguzia uharibifu nusu, na kuizuia kwa upanga mfupi (Medium) hakungezuia uharibifu wowote kabisa._
 
-### Silaha
+### Silaha (Armor)
 
-Uharibifu wowote unaopita Kizuizi cha mlinzi hupunguzwa zaidi na Pointi za Silaha za ulinzi wowote wa asili (kama vile magamba au gamba) au silaha alizovaa. Ikiwa mlinzi ana zote mbili, basi hizo mbili huongezeka pamoja ili kupunguza uharibifu.
+Uharibifu wowote unaopenya kizuizi MVU mtetezi hupunguzwa zaidi na Pointi za Silaha za ulinzi wowote wa asili (kama vile magamba au ganda) au silaha iliyovaliwa wanayomiliki. Ikiwa mtetezi ana zote mbili, basi hizo mbili hujijumlisha ili kupunguza uharibifu.
 
-Kutokana na uzito wake na kizuizi cha harakati, thamani ya juu zaidi ya Pointi ya Silaha ya silaha iliyovaliwa na mhusika hufanya kama adhabu kwa roll yake ya Initiative.
+Kwa sababu ya uzito wake na kizuizi MVU mwendo, thamani ya juu zaidi ya Pointi ya Silaha ya silaha iliyovaliwa na mhusika hufanya kama adhabu kwa rola yao ya Mwanzo (Initiative).
 
 ### Kuzuia Shambulio Lililokosa
 
-Ikiwa mshambuliaji anakosa roll yake ya awali ya shambulio, mlinzi ana fursa ya kutumia Pointi ya Kitendo kuzuia. Ingawa inaweza kuonekana kuwa si kweli kuzuia shambulio ambalo litakosa anyway, mlinzi mwenye ujuzi anaweza kutumia hii kwa faida yake kupata Athari Maalum moja au zaidi, uwezekano wa kumdhoofisha au kumlemisha adui na kuhifadhi zamu yake inayofuata kwa Kitendo kingine.
+Ikiwa mshambuliaji atakosa rola yake ya awali ya shambulio, mtetezi ana chaguo la kutumia Pointi ya Hatua kuzuia (Parry). Ingawa inaweza kuonekana kuwa si kweli kuzuia shambulio ambalo litakosa hata hivyo, mtetezi mwenye ujuzi anaweza kutumia hii kwa faida yake kupata Athari moja au zaidi Maalum, ikiwezekana kudhoofisha au kumlemaza adui na kuhifadhi zamu yao inayofuata kwa Hatua nyingine.
 
-### Hawawezi au Hawataki Kuzuia
 
-Katika hali ambapo mlinzi hawezi Kuzuia kutokana na kutokuwa na Pointi za Vitendo zilizobaki, au, akiwa na uhakika wa uwezo wake wa kustahimili pigo, anachagua kutokuzuia, anachukuliwa kuwa amepiga roll ya Kushindwa kiotomatiki. Hii inasababisha kumpa mshambuliaji aliyefanikiwa Athari Maalum moja au zaidi.
+### Kushindwa au Kutotaka Kuzuia
 
-### Rolls Zisizofanikiwa na Fumbles
+Katika hali ambapo mtetezi hawezi Kuzuia kwa sababu ya kutokuwa na Pointi za Hatua zilizobaki, au, akiwa na imani na uwezo wake wa kustahimili pigo, anachagua kutokuzuia, wanachukuliwa kuwa wamejiendesha kiotomatiki rola ya Kushindwa (Failure). Hii ina matokeo ya kumpa mshambuliaji aliyefanikiwa Athari moja au zaidi Maalum.
 
-Ikiwa wapiganaji wote wawili Watafeli rolls zao, au mlinzi anaamua kutotumia fursa ya shambulio lililokosekana, basi mlolongo wa shambulio - Kuzuia huisha, na mapigano yanaendelea kwa mshiriki mwenye Initiative ya juu zaidi.
+
+### Rola Zisizofanikiwa na Makosa (Fumbles)
+
+Ikiwa washiriki wote wawili watashindwa (Fail) rola zao, au mtetezi akiamua kutotumia fursa ya shambulio lililokosa, basi mlolongo wa shambulio – kuzuia huishia, na mapigano yanaendelea kwa mshiriki mwenye Mwanzo (Initiative) wa juu zaidi anayefuata.
 
 ---
 ## Athari Maalum
 
-Kupigana ni zaidi ya kumjeruhi au kumuua mpinzani tu. Sanaa za mapigano hufundisha mbinu nyingi za kumshinda adui, labda kumuacha hoi au kumlazimisha katika hali ambazo lazima ajisalimishe, bila lazima kumdhuru. Athari Maalum huwakilisha mbinu hizi na kudhibiti jinsi zinavyotokea katika mchezo.
+Kupigana ni zaidi ya kujeruhi au kuua mpinzani. Sanaa za mapigano hufundisha mbinu nyingi za kumshinda adui, labda kumfanya awe msaada au kuwalazimisha katika hali ambapo lazima wakubali, bila lazima kuhitaji kuwasababishia madhara. Athari Maalum huwakilisha mbinu hizi na kudhibiti jinsi zinavyotokea katika mchezo.
 
-Wakati wowote wapinzani wanapojihusisha katika Roll ya Tofauti ya ujuzi wao wa kupigana, tofauti yoyote inayotokea katika viwango vya mafanikio inaashiria fursa ya Athari Maalum kutokea. Hii inaakisi mpiganaji mmoja akimweka mpinzani wake katika hali mbaya ambayo inaweza kutumiwa kwa kutumia hila au mbinu ya ujanja.
+Wakati wowote wapinzani wanaposhiriki katika Rola ya Tofauti (Differential Roll) ya ujuzi wao husika wa kupigana, tofauti yoyote inayotokana na viwango vya mafanikio inaashiria fursa kwa Athari Maalum kutokea. Hii huakisi mpiganaji mmoja akimfanyia hila mpinzani wake katika hali ya kutokuwa na faida ambayo inaweza kutumiwa kwa kutumia hila au mbinu ya ujanja.
 
-Idadi ya Athari Maalum zilizopokelewa inategemea tofauti kati ya Viwango vya Mafanikio, kama inavyoonyeshwa kwenye jedwali la Viwango Tofauti vya Mafanikio.
+Idadi ya Athari Maalum zilizopokelewa inategemea tofauti kati ya Viwango vya Mafanikio, kama inavyoonyeshwa kwenye jedwali la Viwango vya Mafanikio vya Tofauti.
 
-Ikiwa Athari Maalum zozote zinashinda wakati wa kubadilishana, lazima zichaguliwe kabla ya Uharibifu na Eneo la Kupigwa, ikiwa lipo, kuchezwa. Katika hali ambapo mpokeaji amejeruhiwa vibaya pamoja na kupokea Athari Maalum, rolls za Uvumilivu hutatuliwa baada ya kutumia athari.
+Ikiwa Athari zozote Maalum zimeshinda wakati wa ubadilishanaji, lazima zichaguliwe kabla ya Uharibifu na Eneo la Kugongwa, ikiwa yapo, kurushwa. Katika kesi ambapo mpokeaji amejeruhiwa vibaya pamoja na kupokea Athari Maalum, rola za Ustahimilivu (Endurance) hutatuliwa baada ya kutekelezwa kwa athari.
 
-Athari Maalum zinasimamia hali na mbinu mbalimbali. Baadhi zimetengenezwa mahsusi kwa mashambulizi, wakati zingine zinalenga kujilinda, na chache zinaweza kubadilishwa kwa hali zote mbili. Athari Maalum fulani pia zinaweza kuzuiwa kwa aina maalum za silaha au rolls maalum za kete, zinazohitaji matokeo Muhimu au Fumble kwenye ukaguzi wao wa ujuzi kwa mfano.
+Athari Maalum hufunika anuwai ya hali na mbinu. Baadhi zimeundwa mahsusi kwa ajili ya mashambulizi, wakati nyingine zinalenga ulinzi, na chache zinaweza kubadilika kwa hali yoyote. Athari fulani Maalum zinaweza pia kuwa na mipaka kwa aina maalum za silaha au rola maalum za kete, zikihitaji matokeo ya Mafanikio ya Muhimu au Makosa (Fumble) kwenye ukaguzi wao wa ujuzi kwa mfano.
 
-Athari Maalum mbili au zaidi zinapopatikana, mpiganaji anaweza kuchagua kwa uhuru ni zipi zitachaguliwa, mradi masharti ya msingi ya kila moja yametimizwa. Baadhi ya athari zinaweza kuongezwa. Kwa mfano, mshambuliaji anayepiga roll ya Critical Success na kushinda Athari Maalum mbili anaweza kuchagua Kuongeza Uharibifu mara mbili badala ya kuchagua mbinu mbili tofauti za kushambulia.
+Wakati Athari mbili au zaidi Maalum zinapopatikana, mpiganaji anaweza kuchanganya na kulinganisha kwa uhuru zile zilizochaguliwa, ikitoa masharti ya awali kwa kila moja yametimizwa. Baadhi ya athari zinaweza kujijumlisha (stacked). Kwa mfano, mshambuliaji anayerusha Mafanikio ya Muhimu na kushinda Athari mbili Maalum anaweza kuchagua Kuongeza Uharibifu (Maximize Damage) mara mbili badala ya kuchagua mbinu mbili tofauti za kushambulia.
 
 ### Jedwali la Athari Maalum
 
-| Athari Maalum | Kushambulia | Kujilinda | Aina Maalum ya Silaha | Roll Maalum | Inaweza Kuongezwa |
+| Athari Maalum | Kushambulia | Ulinzi | Aina ya Silaha Maalum | Rola Maalum | Inaweza Kujijumlisha |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Jeraha la Bahati Mbaya](0005_Combat.md?id=accidental-injury) | | X | | Mshambuliaji Afumble | |
-| [Inuka](0005_Combat.md?id=arise) | | X | | | |
-| [Bisha](0005_Combat.md?id=bash) | X | | Ngao au Silaha za Kuvunja | | |
-| [Damisha](0005_Combat.md?id=bleed) | X | | Silaha za Kukata | Silaha za Moto: Mshambuliaji Akritical | |
-| [Pofusha Mpinzani](0005_Combat.md?id=blind-opponent) | | X | | Mlinzi Akritical | |
-| [Pita Silaha](0005_Combat.md?id=bypass-armor) | X | | | Mshambuliaji Akritical | X |
-| [Chagua Eneo](0005_Combat.md?id=choose-location) | X | | | Tazama Maelezo | |
-| [Pita Kificho](0005_Combat.md?id=circumvent-cover) | X | | Silaha za Moto za Teknolojia ya Juu Pekee | | |
-| [Pita Kizuizi](0005_Combat.md?id=circumvent-parry) | X | | | Mshambuliaji Akritical | |
-| [Haribu Silaha](0005_Combat.md?id=damage-weapon) | X | X | | | |
-| [Nyanya Silaha Mpinzani](0005_Combat.md?id=disarm-opponent) | X | X | | | |
-| [Angusha Adui](0005_Combat.md?id=drop-foe) | X | | Silaha za Moto Pekee | | |
-| [Jificha Nyuma](0005_Combat.md?id=duck-back) | X | | Silaha za Moto Pekee | | |
-| [Boresha Kizuizi](0005_Combat.md?id=enhance-parry) | | X | | Mlinzi Akritical | |
-| [Funga](0005_Combat.md?id=entangle) | X | X | Silaha za Kufunga | | |
-| [Lazimisha Kushindwa](0005_Combat.md?id=force-failure) | X | X | | Mpinzani Afumble | |
+| [Jeraha la Ajali](0005_Combat.md?id=accidental-injury) | | X | | Mshambuliaji Afanye Kosa (Fumbles) | |
+| [Simama](0005_Combat.md?id=arise) | | X | | | |
+| [Bash](0005_Combat.md?id=bash) | X | | Ngao au Silaha za Kupiga | | |
+| [Damu](0005_Combat.md?id=bleed) | X | | Silaha za Kukata | Bunduki: Mshambuliaji ana Mafanikio ya Muhimu | |
+| [Pofusha Mpinzani](0005_Combat.md?id=blind-opponent) | | X | | Mtetezi ana Mafanikio ya Muhimu | |
+| [Pita Silaha](0005_Combat.md?id=bypass-armor) | X | | | Mshambuliaji ana Mafanikio ya Muhimu | X |
+| [Chagua Eneo](0005_Combat.md?id=choose-location) | X | | | Angalia Maelezo | |
+| [Kwepa Kuzuia](0005_Combat.md?id=circumvent-parry) | X | | | Mshambuliaji ana Mafanikio ya Muhimu | |
+| [Uharibifu wa Silaha](0005_Combat.md?id=damage-weapon) | X | X | | | |
+| [Silaha ya Mpinzani](0005_Combat.md?id=disarm-opponent) | X | X | | | |
+| [Angusha Adui](0005_Combat.md?id=drop-foe) | X | | Bunduki Pekee | | |
+| [Dunda Nyuma](0005_Combat.md?id=duck-back) | X | | Bunduki Pekee | | |
+| [Imarisha Kuzuia](0005_Combat.md?id=enhance-parry) | | X | | Mtetezi ana Mafanikio ya Muhimu | |
+| [Tega](0005_Combat.md?id=entangle) | X | X | Silaha za Kutega | | |
+| [Lazimisha Kushindwa](0005_Combat.md?id=force-failure) | X | X | | Mpinzani Afanye Kosa | |
 | [Shika](0005_Combat.md?id=grip) | X | | Bila Silaha | | |
-| [Toga](0005_Combat.md?id=impale) | X | | Silaha za Kutoga | | |
-| [Mpiga Risasi Stadi](0005_Combat.md?id=marksman) | X | | Silaha za Masafa Marefu | | |
-| [Ongeza Uharibifu](0005_Combat.md?id=maximize-damage) | X | | | Mshambuliaji Akritical | X |
-| [Kupenya Kupita Kiasi](0005_Combat.md?id=overpenetration) | X | | Silaha za Moto Pekee | Mshambuliaji Akritical | |
-| [Bandika Chini](0005_Combat.md?id=pin-down) | X | | Silaha za Moto Pekee | | X |
-| [Tayarisha Jibu](0005_Combat.md?id=prepare-counter) | | X | | | X |
-| [Pakia Upya Haraka](0005_Combat.md?id=rapid-reload) | X | | | | X |
-| [Jeruhi Adui](0005_Combat.md?id=scar-foe) | X | X | | | |
-| [Chagua Lengo](0005_Combat.md?id=select-target) | | X | | Mshambuliaji Afumble | |
-| [Teleza Huria](0005_Combat.md?id=slip-free) | | X | | Mlinzi Akritical | |
-| [Zima Eneo](0005_Combat.md?id=stun-location) | X | | Silaha za Kuvunja | | |
-| [Chana](0005_Combat.md?id=sunder) | X | | Silaha za Mikono Miwili | | |
-| [Angusha Mpinzani](0005_Combat.md?id=trip-opponent) | X | X | | | |
-| [Hitilafu ya Silaha](0005_Combat.md?id=weapon-malfunction) | | X | Silaha za Moto Pekee | Mshambuliaji Afumble | |
-| [Jitoa](0005_Combat.md?id=withdraw) | | X | | | |
+| [Choma](0005_Combat.md?id=impale) | X | | Silaha za Kuchoma | | |
+| [Mshale Hodari](0005_Combat.md?id=marksman) | X | | Silaha za Masafa | | |
+| [Ongeza Uharibifu](0005_Combat.md?id=maximize-damage) | X | | | Mshambuliaji ana Mafanikio ya Muhimu | X |
+| [Penya Kupita](0005_Combat.md?id=over-penetration) | X | | Bunduki Pekee | Mshambuliaji ana Mafanikio ya Muhimu | |
+| [Bandika Chini](0005_Combat.md?id=pin-down) | X | | Bunduki Pekee | | X |
+| [Andaa Kujibu](0005_Combat.md?id=prepare-counter) | | X | | | X |
+| [Pakia Haraka](0005_Combat.md?id=rapid-reload) | X | | | | X |
+| [Jeraha Adui](0005_Combat.md?id=scar-foe) | X | X | | | |
+| [Chagua Lengo](0005_Combat.md?id=select-target) | | X | | Mshambuliaji Afanye Kosa | |
+| [Teleza Huru](0005_Combat.md?id=slip-free) | | X | | Mtetezi ana Mafanikio ya Muhimu | |
+| [Poozesha Eneo](0005_Combat.md?id=stun-location) | X | | Silaha za Kupiga | | |
+| [Sunda](0005_Combat.md?id=sunder) | X | | Silaha za Mikono Miwili | | |
+| [Mkwame Mpinzani](0005_Combat.md?id=trip-opponent) | X | X | | | |
+| [Hitilafu ya Silaha](0005_Combat.md?id=weapon-malfunction) | | X | Bunduki Pekee | Mshambuliaji Afanye Kosa | |
+| [Jiondoe](0005_Combat.md?id=withdraw) | | X | | | |
 
 
 ### Maelezo ya Athari Maalum
 
-#### Jeraha la Bahati Mbaya
+#### Jeraha la Ajali (Accidental Injury)
 
-Mlinzi huzuia au kupotosha shambulio la mpinzani kwa njia ambayo mshambuliaji anafumble, akijijeruhi mwenyewe. Mshambuliaji lazima apige roll ya uharibifu dhidi yake mwenyewe katika Eneo la Kupigwa la nasibu akitumia silaha iliyotumiwa kupiga. Ikiwa hana silaha, mshambuliaji anachana au kuvunja kitu ndani, roll ya uharibifu ikipuuza silaha yoyote.
+Mtetezi hupotosha au kupinda shambulio la mpinzani kwa njia ambayo mshambuliaji hufanya kosa na kujijeruhi mwenyewe. Mshambuliaji lazima arushe kete za uharibifu dhidi yake mwenyewe katika Eneo la Kugongwa la nasibu kwa kutumia silaha iliyotumiwa kushambulia. Ikiwa hana silaha, mshambuliaji hupasua au kuvunja kitu MVU ndani, rola ya uharibifu ikipuuza silaha yoyote.
 
-#### Inuka
+#### Simama (Arise)
 
-Inamruhusu mlinzi kutumia fursa ya muda mfupi kujinyanyua na kusimama.
+Humruhusu mtetezi kutumia fursa ya muda mfupi kusimama tena kwa miguu yake.
 
-#### Bisha
+#### Bash
 
-Mshambuliaji anampiga mpinzani kimakusudi na kumpoteza usawa. Umbali ambao mlinzi anatetemeka nyuma au kando hutegemea silaha inayotumiwa. Ngao hubisha mpinzani nyuma mita moja kwa kila pointi 2 za uharibifu zilizopigwa (kabla ya makato yoyote kutokana na silaha, vizuizi, na kadhalika), wakati silaha za kuvunja hubisha nyuma mita moja kwa kila pointi tatu. Kubisha hufanya kazi tu kwa viumbe walio hadi mara mbili ya SIZ ya mshambuliaji. Ikiwa mpokeaji analazimishwa kurudi nyuma kwenye kizuizi, basi lazima afanye roll ya ujuzi wa Sarakasi - au Riadha kwa ugumu Ngumu - ili kuepuka kuanguka au kujikwaa. Kwa silaha za moto, kwa sababu Bisha inategemea zaidi kumshika mpinzani bila usawa, badala ya kumtupa nyuma kwa nguvu tupu, ni sawa kabisa kwa risasi kusababisha shabaha kutetemeka ikiwa inapiga kiungo. Silaha za nishati hazina uwezekano mdogo wa kusababisha athari kama hiyo isipokuwa fizikia ya boriti itasababisha aina fulani ya mlipuko wa uso.
+Mshambuliaji humpiga mpinzani kwa makusudi na kumfanya apoteze uwiano wake. Mpinzani anayesogea nyuma au pembeni inategemea silaha inayotumiwa. Ngao humgonga mpinzani nyuma mita moja kwa kila pointi 2 za uharibifu uliorushwa (kabla ya makato yoyote kwa sababu ya silaha, kuzuia, na kadhalika), ilhali silaha za kupiga humgonga nyuma mita moja kwa kila pointi tatu. Bash hufanya kazi tu kwenye viumbe hadi mara mbili ya UKU ya mshambuliaji. Ikiwa mpokeaji atalazimishwa kurudi nyuma kwenye kikwazo, basi lazima afanye rola ya ujuzi wa Acrobatics - au Athletics katika ugumu wa Hard - ili kuzuia kuanguka au kukwama. Kwa bunduki, kwa sababu Bash inategemea zaidi kumkamata mpinzani akiwa amepoteza uwiano, badala ya kuwatupa nyuma kwa nguvu tupu, ni sawa kabisa kwa risasi ya projectile kusababisha lengo kuyumba ikiwa itapiga ncha. Silaha za nishati zina uwezekano mdogo wa kusababisha athari kama hiyo isipokuwa fizikia ya boriti itasababisha aina fulani ya mlipuko wa uso.
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jamii</summary>
 
 ---
 
-#### Bisha
+#### Bash
 
-_Sheria ya awali ilikuwa na maneno yenye utata kama ifuatavyo: "...lazima wafanye roll ngumu ya ujuzi wa Riadha au Sarakasi..."_
+_Sheria asilia ilikuwa na maneno yenye utata kama ifuatavyo: "...lazima afanye rola ya ujuzi wa Hard Athletics au Acrobatics..."_
 
-_Hiyo inaonekana kama ujuzi wowote ungedhibitiwa kwa ugumu, ambapo utamaduni ni kufanya ukaguzi wa Kawaida kwa ujuzi wa Kitaalamu au ukaguzi Ngumu kwa ujuzi wa Kawaida unaokaribia zaidi._
+_Hiyo inaonekana kama ujuzi wowote ungekunjwa kwa Hard ambapo kanuni ni kufanya ukaguzi wa Standard na ujuzi wa Kitaalamu au ukaguzi wa Hard na ujuzi wa Standard wa karibu zaidi._
 
-_Maneno hayo yamebadilishwa na "...lazima wafanye roll ya ujuzi wa Sarakasi - au Riadha kwa ugumu Ngumu..."_
+_Maneno yamebadilishwa na "...lazima afanye rola ya ujuzi wa Acrobatics - au Athletics katika ugumu wa Hard..."_
 
 ---
 
 </details>
 
-#### Damisha
+#### Damu (Bleed)
 
-Shambulio hukata mshipa mkubwa wa damu. Ikiwa pigo linashinda Pointi za Silaha na kumjeruhi shabaha, mlinzi lazima afanye Roll ya Kupingana ya Uvumilivu dhidi ya roll ya shambulio la awali. Ikiwa mlinzi Ashindwa, basi huanza kutokwa na damu nyingi. Mwanzoni mwa kila Raundi ya Mapigano, mpokeaji hupoteza kiwango kimoja cha Uchovu, hadi aanguke na labda kufa. Majeraha ya kutokwa damu yanaweza kuzuiliwa kwa kufaulu roll ya ujuzi wa Huduma ya Kwanza, lakini mpokeaji hawezi tena kufanya kitendo chochote chenye nguvu au vurugu bila kufungua tena jeraha. Tazama Kupoteza Damu, katika sehemu ya Mfumo wa Mchezo. Kwa silaha za moto, kwa sababu silaha nyingi za moto huzalisha njia nyembamba sana za jeraha, kwa kweli ni ngumu zaidi kukata au kukata mshipa mkubwa wa damu kuliko ilivyo kwa silaha ya kukata au kuchoma. Kwa sababu ya hili, Damisha inapaswa kuwa Mafanikio Muhimu tu - isipokuwa bunduki ni aina fulani ya silaha isiyo ya kawaida inayorusha shuriken, flechette zenye ncha kali, sehemu za nguvu zilizobonyezwa au risasi nyingine za kigeni.
+Shambulio hupasua mshipa mkuu wa damu. Ikiwa pigo litashinda Pointi za Silaha na kumjeruhi lengo, mtetezi lazima afanye Rola ya Kulinganisha ya Ustahimilivu (Endurance) dhidi ya rola ya awali ya shambulio. Ikiwa mtetezi atashindwa, basi huanza kuvuja damu nyingi. Katika kuanza kwa kila Raundi ya Mapigano, mpokeaji hupoteza ngazi moja ya Uchovu, hadi aanguke na ikiwezekana kufa. Majeraha ya kutokwa na damu yanaweza kuzuiwa kwa kufaulu rola ya ujuzi wa Huduma ya Kwanza, lakini mpokeaji hawezi tena kufanya hatua yoyote ya kuchosha au ya vurugu bila kufungua jeraha hilo tena. Angalia Upotezaji wa Damu, katika sehemu ya Mfumo wa Mchezo. Kwa bunduki, kwa sababu bunduki nyingi huzalisha njia nyembamba sana za jeraha, ni vigumu zaidi kumjeruhi au kukata mshipa mkuu wa damu kuliko ilivyo na silaha ya kukata au kuchoma. Kwa sababu hii Bleed inapaswa kuwa Mafanikio ya Muhimu tu – isipokuwa bunduki ni aina fulani ya silaha ya ajabu inayorusha shuriken, fléchettes za wembe, nyanja za nguvu zilizopambwa au aina fulani ya risasi za kigeni.
 
-#### Pofusha Mpinzani
+#### Pofusha Mpinzani (Blind Opponent)
 
-Kwenye Critical, mlinzi humpofusha mpinzani wake kwa muda kwa kurusha mchanga, kuakisi mwanga wa jua kutoka kwenye ngao yake, au mbinu nyingine yoyote inayohamisha maono ya mshambuliaji kwa muda. Mshambuliaji lazima afanye Roll ya Kupingana ya ujuzi wake wa Kukwepa (au ujuzi wa Silaha ikiwa anatumia ngao) dhidi ya roll ya awali ya Kuzuia ya mlinzi. Ikiwa mshambuliaji Anashindwa, anapata adhabu ya hali ya Ngumu au Ya Kutisha kwa Zamu 1d3 zinazofuata, kulingana na njia ya kupofusha.
+Kwenye Mafanikio ya Muhimu mtetezi humpofusha kwa muda mpinzani wake kwa kutupa mchanga, kuakisi mwanga wa jua kutoka kwenye ngao yake, au mbinu nyingine yoyote inayovuruga maono ya mshambuliaji kwa muda. Mshambuliaji lazima afanye Rola ya Kulinganisha ya ujuzi wake wa Kukwepa (Evade) (au ujuzi wa Silaha ikiwa anatumia ngao) dhidi ya rola ya awali ya kuzuia (Parry) ya mtetezi. Ikiwa mshambuliaji atashindwa, anapata kirekebishaji MVU hali ya Hard au Formidable kwa 1d3 Zamu zijazo, kulingana na njia ya kupofusha.
 
-#### Pita Silaha
+#### Pita Silaha (Bypass armor)
 
-Kwenye Critical, mshambuliaji hupata pengo katika silaha ya asili au iliyovaliwa ya mlinzi. Ikiwa mlinzi amevaa silaha juu ya ulinzi wa asili, basi mshambuliaji lazima aamue ni ipi kati ya hizo mbili itapitiwa. Athari hii inaweza kuongezwa ili kupita zote mbili. Kwa madhumuni ya athari hii, ulinzi wa kimwili unaopatikana kutoka kwa uchawi unachukuliwa kuwa silaha iliyovaliwa. Ingawa Pita Silaha inaweza kutumika kwa aina yoyote ya shambulio, aina fulani za risasi zinaweza kuzuiliwa kupata athari hii (risasi za shotgun kutokana na kuenea kwake) au kujengwa katika utendaji wao wa msingi, ikitoa kama athari maalum ya ziada pamoja na nyingine zozote zilizoshinda (risasi za Teleportation). Mengi hutegemea jinsi Msimamizi wa Michezo anavyotaka kuigiza silaha.
+Kwenye Mafanikio ya Muhimu mshambuliaji hupata mwanya katika silaha ya asili au iliyovaliwa ya mtetezi. Ikiwa mtetezi anavaa silaha juu ya ulinzi wa asili, basi mshambuliaji lazima aamue ni ipi kati ya hizo mbili inayopitiwa. Athari hii inaweza kujijumlisha ili kupita zote mbili. Kwa madhumuni ya athari hii, ulinzi wa kimwili uliopatikana kutoka kwa uchawi unachukuliwa kama silaha iliyovaliwa. Ingawa Pita Silaha inaweza kutumika kwa aina yoyote ya shambulio, baadhi ya aina za risasi zinaweza kuzuiwa kupata athari hii (pellets za bunduki ya shoti kwa sababu ya kutawanyika kwao) au kujengwa katika utendaji wao wa msingi, ikitoa kama bonasi ya athari maalum pamoja na nyingine zozote zilizoshindwa (risasi za Teleportation). Mengi hutegemea jinsi Mwalimu wa Mchezo anavyotaka kuiga silaha hiyo.#### Chagua Eneo
 
-#### Chagua Eneo
+Unapotumia silaha za mapigano ya karibu (melee), mshambuliaji anaweza kuchagua kwa uhuru eneo ambalo pigo litatua, mradi eneo hilo liwe ndani ya uwezo wa kufikiwa. Ikiwa unatumia silaha za masafa (Ranged weapons), ikijumuisha bunduki, Chagua Eneo ni Mafanikio ya Kimsingi (Critical Success) pekee, isipokuwa mlengwa yuko ndani ya Masafa ya Karibu na ama amesimama tuli au hajui uwepo wa mshambuliaji. Kwa bunduki, lenzi za darubini zinaweza kuongeza masafa haya.
 
-Unapotumia silaha za karibu za melee, mshambuliaji anaweza kuchagua kwa uhuru eneo ambapo pigo litatua, mradi eneo hilo linafikika kwa kawaida. Ikiwa unatumia silaha za masafa marefu, ikiwa ni pamoja na silaha za moto, Chagua Eneo ni Mafanikio Muhimu tu, isipokuwa shabaha iko ndani ya Masafa ya Karibu na aidha imetulia au haifahamu mshambuliaji. Kwa silaha za moto, vituko vya telescopic vinaweza kupanua masafa haya.
+#### Epuka Kuzuia (Circumvent Parry)
 
-#### Pita Kizuizi
+Katika Mafanikio ya Kimsingi (Critical), mshambuliaji anaweza kukwepa kabisa Kuzuia (Parry) ambako kingekuwa na mafanikio.
 
-Kwenye Critical, mshambuliaji anaweza kupita kabisa Kizuizi kilichofanikiwa vinginevyo.
+#### Uharibifu wa Silaha (Damage Weapon)
 
-#### Haribu Silaha
+Humruhusu mhusika kuharibu silaha ya mpinzani wake kama sehemu ya Shambulio au Kuzuia. Ikiwa anashambulia, mhusika analenga hasa silaha ya kuzuia ya mpinzani na kutumia kiasi chake MVU uharibifu kwake, badala ya mshikaji silaha. Silaha inayolengwa hutumia Pointi zake za Silaha (Armor Points) kupinga uharibifu huo. Ikiwa itapunguzwa hadi kufikia sufuri ya Pointi za Afya (Hit Points), silaha hiyo huvunjika. Kwa bunduki, kwa kuwa kupiga silaha iliyo mkononi kutoka mbali ni vigumu zaidi kuliko kulenga eneo mahususi la mwili, hili kwa kawaida linapaswa kuhifadhiwa kwa Mafanikio ya Kimsingi pekee. Hata hivyo, kuna tofauti kadhaa, ya kwanza ikiwa ni kwamba ngao inapaswa, kwa asili yake, kuwa rahisi zaidi kupigwa. Ya pili inahusu silaha za kipekee (exotic) zinazopiga miale yenye umbo la koni inayoweza kulenga vitu vilivyo mkononi ndani ya eneo lake la athari; kwa mfano, bunduki ya induction inayopasha joto vitu vya chuma.
 
-Inamruhusu mhusika kuharibu silaha ya mpinzani wake kama sehemu ya Shambulio au Kizuizi. Ikiwa anashambulia, mhusika analenga hasa silaha ya kuzuia ya mlinzi na kutumia roll yake ya uharibifu kwake, badala ya yule anayeishika. Silaha inayolengwa hutumia Pointi zake za Silaha kupinga uharibifu. Ikiwa imepunguzwa hadi Hit Pointi sifuri, silaha huvunjika. Kwa silaha za moto, kwa sababu kupiga silaha iliyoshikiliwa kwa umbali ni ngumu zaidi kuliko kulenga sehemu maalum ya mwili, hii inapaswa kutengwa kwa Mafanikio Muhimu tu. Kuna ubaguzi kadhaa hata hivyo, wa kwanza ni kwamba ngao, kwa asili yake, inapaswa kuwa rahisi zaidi kupigwa. Ya pili inahusu silaha za kigeni zinazorusha boriti yenye umbo la koni inayoweza kulenga vitu vilivyoshikiliwa ndani ya eneo lake la athari; kwa mfano, bunduki ya induction inayopasha joto vitu vya chuma.
+#### Mnyang'anye Silaha Mpinzani (Disarm Opponent)
 
-#### Nyanya Silaha Mpinzani
+Mhusika hugonga, kuvuta, au kupinda silaha ya mpinzani kutoka mkononi mwake. Mpinzani lazima afanye Uviringishaji wa Kupinga (Opposed Roll) wa Mtindo wake wa Kupambana dhidi ya uviringishaji asilia wa mhusika. Ikiwa mpokeaji wa unyang'anyi atashindwa, silaha yake hurushwa umbali sawa na uviringishaji wa Kirekebishi MVU Uharibifu (Damage Modifier) MVU mnyang'anyi katika mita. Ikiwa hakuna Kirekebishi MVU Uharibifu, basi silaha huanguka miguuni mwa mtu aliyenyang'anywa. Ukubwa linganishi wa silaha huathiri uviringishaji. Kila hatua ambayo silaha ya mhusika anayenyang'anya ni kubwa zaidi huongeza ugumu wa uviringishaji wa mpinzani kwa daraja moja. Kinyume chake, kila hatua ambayo silaha ya mhusika anayenyang'anya ni ndogo zaidi hufanya ugumu kuwa rahisi kwa daraja moja. Kunyang'anya hufanya kazi kwa viumbe wenye NGU hadi mara mbili ya mshambuliaji.
 
-Mhusika anabisha, anavuta, au anasokota silaha ya mpinzani kutoka mkononi mwake. Mpinzani lazima afanye Roll ya Kupingana ya Mtindo wake wa Mapigano dhidi ya roll ya awali ya mhusika. Ikiwa mpokeaji wa kunyang'anywa anapoteza, silaha yake inatupwa umbali sawa na roll ya Marekebisho ya Uharibifu ya yule anayenyang'anya kwa mita. Ikiwa hakuna Marekebisho ya Uharibifu, basi silaha huanguka miguuni mwa mtu aliyenyang'anywa. Ukubwa wa kulinganisha wa silaha huathiri roll. Kila hatua ambayo silaha ya mhusika anayenyang'anya ni kubwa huongeza ugumu wa roll ya mpinzani kwa daraja moja. Kinyume chake, kila hatua ambayo silaha ya mhusika anayenyang'anya ni ndogo hupunguza ugumu kwa daraja moja. Kunyang'anya silaha hufanya kazi tu kwa viumbe walio hadi mara mbili ya STR ya mshambuliaji.
+#### Angusha Adui (Drop Foe)
 
-#### Angusha Adui
+Kushambulia, Bunduki Pekee. Kwa kudhani kuwa mlengwa anapata angalau jeraha dogo kutokana na risasi, analazimishwa kufanya Jaribio la Kupinga (Opposed Test) la UVU wake dhidi ya uviringishaji wa shambulio la mshambuliaji. Kushindwa kunaashiria kuwa mlengwa anashindwa na mshtuko na maumivu, na kuwa hajiwezi na hawezi kuendelea kupigana. Kupona kutokana na kutojiweza kunaweza kufanywa kwa jaribio la Mafanikio la Huduma ya Kwanza au kutumia aina fulani ya kiongeza nguvu MVU kiteknolojia au dawa ikiwa zipo katika kampeni. Vinginevyo, kutojiweza kwa muda hudumu kwa muda sawa na saa moja iliyogawanywa kwa Kiwango MVU Uponyaji (Healing Rate) MVU mlengwa.
 
-Kushambulia, Silaha za Moto Pekee. Tukichukulia kuwa shabaha inapata jeraha dogo kutokana na risasi, analazimishwa kufanya Jaribio la Kupingana la Uvumilivu wake dhidi ya roll ya kupiga ya mshambuliaji. Kushindwa kunaonyesha kwamba shabaha inazidiwa na mshtuko na maumivu, ikizimia na haiwezi kuendelea kupigana. Kupona kutokana na kuzimia kunaweza kufanywa kwa ukaguzi wa Huduma ya Kwanza uliofanikiwa au kwa kutumia aina fulani ya nyongeza ya kiteknolojia au madawa ya kulevya ikiwa ipo katika kampeni. Vinginevyo, kuzimia kwa muda kunadumu kwa kipindi sawa na saa moja kugawanywa na Kiwango cha Uponyaji cha shabaha.
+#### Jivute Nyuma (Duck Back)
 
-#### Jificha Nyuma
+Kushambulia, Bunduki Pekee. Athari hii maalum humruhusu mpigaji kujivuta nyuma haraka ndani ya kinga, bila kuhitaji kusubiri Zamu yake inayofuata ili kutumia kitendo MVU Kujikinga (Take Cover). Mhusika lazima awe tayari amesimama au amejikunyata karibu na aina fulani ya kinga ili kutumia Jivute Nyuma.
 
-Shambulizi, Silaha za Moto Pekee. Athari hii maalum inamruhusu mpiga risasi kujificha nyuma ya kifuniko mara moja, bila kuhitaji kusubiri Zamu yake inayofuata ili kutumia kitendo cha Chukua Ficho. Mhusika lazima awe tayari amesimama au amejikunja karibu na aina fulani ya kifuniko ili kutumia Jificha Nyuma.
+#### Imarisha Kuzuia (Enhance Parry)
 
-#### Boresha Kizuizi
+Katika Mafanikio ya Kimsingi (Critical), mtetezi hufanikiwa kupotosha nguvu nzima ya shambulio, bila kujali UKU wa silaha yake.
 
-Kwenye Critical, mlinzi anafanikiwa kuzuia nguvu zote za shambulio, bila kujali Ukubwa wa silaha yake.
+#### Funga (Entangle)
 
-#### Funga
+Humruhusu mhusika anayeshika silaha ya kufunga, kama vile mjeledi au wavu, kulemaza eneo lililopigwa. Mkono uliofungwa hauwezi kutumia chochote kilichoshikwa; mguu uliokamatwa humzuia mlengwa kusonga; wakati kichwa, kifua, au tumbo lililozingirwa hufanya uviringishaji wote wa ustadi kuwa mgumu kwa daraja moja. Katika zamu yake inayofuata, mshikaji anaweza kutumia Pointi ya Kitendo (Action Point) kufanya jaribio la moja kwa moja la Kuangusha Adui (Trip Opponent). Mwathiriwa aliyefungwa anaweza kujaribu kujinasua katika zamu yake kwa ama kujaribu Uviringishaji wa Kupinga (Opposed Roll) kwa kutumia NGU ili kujivuta, au kwa kushinda Athari Maalum na kuchagua Uharibifu wa Silaha, Mnyang'anye Silaha Mpinzani, au Jinasue (Slip Free).
 
-Inamruhusu mhusika anayeshika silaha ya kufunga, kama mjeledi au wavu, kumwangamiza eneo lililopigwa. Mkono uliofungwa hauwezi kutumia chochote unachoshika; mguu ulionaswa humzuia mlengwa kusogea; wakati kichwa, kifua, au tumbo vilivyofungwa hufanya rolls zote za ujuzi kuwa ngumu zaidi kwa daraja moja. Katika zamu yake inayofuata, mshika anaweza kutumia Pointi ya Kitendo kufanya jaribio la moja kwa moja la Angusha Mpinzani. Mwathirika aliyefungwa anaweza kujaribu kujitoa katika zamu yake kwa kujaribu aidha Roll ya Kupingana akitumia Nguvu kujinyanyua, au kwa kushinda Athari Maalum na kuchagua Haribu Silaha, Nyanya Silaha Mpinzani, au Teleza Huria.
+#### Lazimisha Kushindwa (Force Failure)
 
-#### Lazimisha Kushindwa
+Inatumika wakati mpinzani anapopata Makosa (Fumble), mhusika anaweza kuchanganya Lazimisha Kushindwa na Athari yoyote nyingine Maalum inayohitaji Uviringishaji wa Kupinga ili kufanya kazi. Lazimisha Kushindwa husababisha mpinzani kushindwa katika uviringishaji wake wa kupinga kwa chaguo-msingi – hivyo kunyang'anywa silaha kiotomatiki, kuangushwa, na kadhalika.
 
-Hutumiwa wakati mpinzani Afumble, mhusika anaweza kuchanganya Lazimisha Kushindwa na Athari Maalum nyingine yoyote inayohitaji Roll ya Kupingana ili kufanya kazi. Lazimisha Kushindwa husababisha mpinzani kufeli roll yake ya upinzani kwa default - na hivyo kunyang'anywa silaha, kuangushwa, na kadhalika kiotomatiki.
+#### Shikilia (Grip)
 
-#### Shika
+Ikiwa mpinzani yuko ndani ya masafa ya Kupambana Bila Silaha ya mshambuliaji, wanaweza kutumia mkono mtupu (au kiungo kinachofanana kinachoweza kushika) ili kumshika mpinzani, kumzuia asiweze kujiondoa kwenye mapigano. Mpinzani anaweza kujaribu kujinasua katika zamu yake, jambo linalohitaji Uviringishaji wa Kupinga wa NGU au Kupambana Bila Silaha dhidi ya ustadi wowote kati ya hiyo miwili ambao mshikaji anapendelea.
 
-Mradi mpinzani yuko ndani ya umbali wa shambulio lisilo na silaha la mshambuliaji, anaweza kutumia mkono usio na kitu (au kiungo kingine kinachoweza kushika) kumshika mpinzani, akimzuia kujitenga na mapigano. Mpinzani anaweza kujaribu kujitenga katika zamu yake, akihitaji Roll ya Kupingana ya aidha Nguvu au Kupigana Bila Silaha dhidi ya ujuzi wowote kati ya hizo mbili ambazo mshikaji anapendelea.
+#### Toboa (Impale)
 
-#### Toga
+Viringisha uharibifu wa silaha mara mbili, huku mshambuliaji akichagua ni ipi kati ya matokeo hayo mawili ya kutumia kwa shambulio hilo. Kwa kudhani silaha hiyo ni ya mapigano ya karibu, ikiwa silaha imepenya na jeraha limesababishwa, mshambuliaji ana chaguo la kuacha silaha kwenye jeraha au kuivuta wakati wa zamu yao inayofuata. Kuacha silaha kwenye jeraha husababisha Daraja la Ugumu (Difficulty Grade) kwenye majaribio ya ustadi ya baadaye ya mwathiriwa. Ukali wa adhabu hutegemea ukubwa wa kiumbe na silaha inayomtoboa, kama ilivyoorodheshwa kwenye Jedwali la Athari za Toboa hapa chini. Kwa urahisi, matoboo zaidi kwa silaha ya ukubwa uleule hayasababishi adhabu za ziada. Ili kuondoa silaha iliyotoboa wakati wa mapigano ya karibu inahitaji matumizi ya Kitendo MVU Kupambana MVU Tayarisha Silaha (Ready Weapon Combat Action). Mshikaji lazima apitishe uviringishaji wa NGU usiopingwa (au ashinde Uviringishaji wa Kupinga wa NGU ikiwa mpinzani atapinga). Mafanikio huivuta silaha nje, na kusababisha jeraha zaidi kwenye eneo lilelile sawa na nusu ya uviringishaji wa kawaida wa uharibifu kwa silaha hiyo, lakini bila Kirekebishi chochote MVU Uharibifu. Kushindwa kunamaanisha kuwa silaha inabaki imekwama kwenye jeraha bila athari zaidi, ingawa mshikaji anaweza kujaribu tena katika zamu yake inayofuata. Silaha zenye ncha (kama vile harpoons) husababisha uharibifu wa kawaida. Silaha (armor) haipunguzi uharibifu wa uondoaji. Wakati inabaki imetoboa, mshambuliaji hawezi kutumia silaha yake ya kutoboa kwa Kuzuia (Parrying).
 
-Piga roll ya uharibifu wa silaha mara mbili, huku mshambuliaji akichagua ni matokeo gani kati ya hayo mawili atumie kwa shambulio hilo. Tukichukulia kuwa silaha ni silaha ya melee, ikiwa silaha imepenya na jeraha limesababishwa, mshambuliaji ana fursa ya kuacha silaha kwenye jeraha au kuivuta huru katika zamu yake inayofuata. Kuacha silaha kwenye jeraha kunaleta Daraja la Ugumu kwa majaribio ya ujuzi ya mwathirika yajayo. Ukali wa adhabu unategemea ukubwa wa kiumbe na silaha inayomuingilia, kama ilivyoorodheshwa kwenye Jedwali la Athari za Kutoga hapa chini. Kwa urahisi, kutoga zaidi kwa silaha yenye ukubwa sawa hakuletei adhabu za ziada. Ili kutoa silaha iliyotogwa wakati wa mapigano ya melee inahitaji matumizi ya Kitendo cha Mapigano cha Tayarisha Silaha. Mshikaji lazima afanye roll isiyopingwa ya Nguvu (au ashinde roll ya Kupingana ya Nguvu ikiwa mpinzani anapinga). Mafanikio huivuta silaha huru, na kusababisha jeraha zaidi katika eneo lile lile sawa na nusu ya roll ya uharibifu ya kawaida kwa silaha hiyo, lakini bila Marekebisho yoyote ya Uharibifu. Kushindwa kunamaanisha kuwa silaha inabaki imekwama kwenye jeraha bila athari zaidi, ingawa mshikaji anaweza kujaribu tena katika zamu yake inayofuata. Silaha zenye miiba maalum (kama vile mkuki wa kuvua) husababisha uharibifu wa kawaida. Silaha hazipunguzi uharibifu wa kuvuta. Wakati bado imetogwa, mshambuliaji hawezi kutumia silaha yake ya kutoga kwa Kuzuia.
+#### Jedwali la Athari za Toboa (Impale Effects Table)
 
-#### Jedwali la Athari za Kutoga
-
-| SIZ ya Kiumbe | Silaha Ndogo | Silaha za Kati | Silaha Kubwa | Silaha Kubwa Sana | Silaha Kubwa Kupita Kiasi |
+| UKU wa Kiumbe | Silaha Ndogo | Silaha za Kati | Silaha Kubwa | Silaha Hujuma | Silaha Nyingi |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1-10 | Ngumu | Ya Ajabu | Imepooza | Imepooza | Imepooza |
-| 11-20 | Ngumu | Ngumu | Ya Ajabu | Imepooza | Imepooza |
-| 21-30 | Hakuna Athari | Ngumu | Ngumu | Ya Ajabu | Imepooza |
-| 31-40 | Hakuna Athari | Hakuna Athari | Ngumu | Ngumu | Ya Ajabu |
-| 41-50 | Hakuna Athari | Hakuna Athari | Hakuna Athari | Ngumu | Ngumu |
-| Kila +10 | Fuata mfuatano wa jedwali |
+| 1-10 | Ya Kutisha | Nguvu za Herculean | Hajajiweza | Hajajiweza | Hajajiweza |
+| 11-20 | Ngumu | Ya Kutisha | Nguvu za Herculean | Hajajiweza | Hajajiweza |
+| 21-30 | Haina Athari | Ngumu | Ya Kutisha | Nguvu za Herculean | Hajajiweza |
+| 31-40 | Haina Athari | Haina Athari | Ngumu | Ya Kutisha | Nguvu za Herculean |
+| 41-50 | Haina Athari | Haina Athari | Haina Athari | Ngumu | Ya Kutisha |
+| Kila +10 | Fuata mfululizo wa jedwali |
 
-Kwa silaha za moto, risasi za silaha nyingi zinazotegemea projectile zitaweza kutoga. Msimamizi wa Michezo anaweza kutaka kuzuia au kupiga marufuku athari hii kwa silaha za nishati zinazotegemea plasma au laser. Risasi, flechette na projectiles zinazofanana ni ndogo sana kuweka athari zozote za kutoga za pili.
+Kwa bunduki, risasi za bunduki nyingi za kurusha vitu zitaweza kutoboa. Wasimamizi wa Mchezo (Game Masters) wanaweza kutaka kuzuia au kupiga marufuku athari hii kwa silaha za nishati ya plazma au leza. Risasi, fléchettes, na vitu vinavyofanana na hivyo ni vidogo sana kuweza kuleta athari zozote za pili za kutoboa.
 
-#### Mpiga Risasi Stadi
+#### Mpiga Shabaha (Marksman)
 
-Inamruhusu mpiga risasi kusogeza Eneo Lililopigwa na risasi yake kwa hatua moja, hadi eneo la mwili linalopakana. Fisiolojia ina ushawishi juu ya nini kinaweza kulengwa tena na busara inapaswa kutumika. Hivyo, kutumia Athari hii Maalum kwa humanoid kingeruhusu mshambuliaji aliyepiga risasi mguu, kuusogeza hadi tumboni badala yake. Kinyume chake, kumpiga griffon kifuani kingeruhusu kuchagua miguu ya mbele, mbawa, au kichwa.
+Humruhusu mpigaji kusogeza Mahali pa Kupiga (Hit Location) iliyogongwa na risasi yake kwa hatua moja, hadi kwenye eneo la mwili lililo karibu naye. Fiziolojia ina ushawishi juu ya kile kinachoweza kulengwa upya na busara inapaswa kutumika. Hivyo, kutumia Athari Maalum hii kwa binadamu kungemruhusu mshambuliaji aliyepiga risasi kwenye mguu, kuisogeza hadi kwenye tumbo badala yake. Kinyume chake, kupiga griffin kifuani kungeruhusu uchaguzi wa miguu ya mbele, mabawa, au kichwa.
 
-#### Ongeza Uharibifu
+#### Ongeza Uharibifu (Maximize Damage)
 
-Kwenye Critical, mhusika anaweza kubadilisha moja ya kete za uharibifu za silaha yake kwa thamani yake kamili. Kwa mfano, Shoka la Mkono ambalo kawaida hufanya uharibifu wa 1d6 badala yake litachukuliwa kuwa 6, wakati rungu kubwa lenye uharibifu wa 2d6 badala yake lingesababisha uharibifu wa 1d6+6. Athari Maalum hii inaweza kuongezwa. Ingawa inaweza pia kutumika kwa silaha za asili, Ongeza Uharibifu haiathiri Marekebisho ya Uharibifu ya mshambuliaji, ambayo lazima yachezwe kawaida.
+Katika Mafanikio ya Kimsingi (Critical), mhusika anaweza kubadilisha moja ya dayi za uharibifu za silaha yake kwa thamani yake kamili. Kwa mfano, Shoka la Mkono (Hand Axe) ambalo kwa kawaida hufanya uharibifu wa 1d6 badala yake litachukuliwa kama 6, wakati rungu kubwa lenye uharibifu wa 2d6 lingesababisha uharibifu wa 1d6+6. Athari Maalum hii inaweza kurundikwa (stacked). Ingawa inaweza pia kutumika kwa silaha za asili, Ongeza Uharibifu haiaathiri Kirekebishi MVU Uharibifu (Damage Modifier) MVU mshambuliaji, ambacho lazima kiviringishwe kama kawaida.
 
-#### Kupenya Kupita Kiasi
+#### Kupenya Kupita Kiasi (Over-penetration)
 
-Critical, Silaha za Moto Pekee. Ikiwa unapiga risasi kwa wapinzani waliopangwa kwa mstari au kwenye kundi lililobanana, athari hii maalum inaruhusu risasi kusafiri kabisa kupitia mwathirika wa kwanza ili kumpiga wa pili nyuma yao, ukichukulia kwamba inashinda silaha ya mwili ya shabaha ya kwanza. Mwathirika wa pili, hata hivyo, hupata nusu tu ya uharibifu kutokana na kupungua au kupungua kwa kasi ya risasi. Kupenya kupita kiasi kwa ujumla ni muhimu zaidi na silaha zenye nguvu kubwa zinazosababisha uharibifu mkubwa au zile ambazo zina uwezo fulani wa kupenya silaha. Athari zozote maalum zilizosababishwa kwa shabaha ya kwanza hazitumiki kwa ya pili.
+Mafanikio ya Kimsingi (Critical), Bunduki Pekee. Ikiwa unapiga risasi kwa wapinzani waliojipanga kwenye mstari au kwenye kundi lililobanana, athari hii maalum huruhusu risasi kupita kabisa kupitia mwathiriwa wa kwanza na kumpiga wa pili aliye nyuma yao, kwa kudhani kuwa inashinda silaha za mwili za mlengwa wa kwanza. Hata hivyo, mwathiriwa wa pili hupata nusu uharibifu pekee kutokana na kupungua kwa kasi au kupungua kwa nguvu ya risasi. Kupenya Kupita Kiasi kwa ujumla ni muhimu zaidi kwa silaha zenye nguvu nyingi zinazosababisha kiasi kikubwa MVU uharibifu au zile ambazo zina aina fulani ya uwezo wa kupenya silaha. Athari zozote maalum zilizosababishwa kwa mlengwa wa kwanza hazitumiki kwa wa pili.
 
-#### Bandika Chini
+#### Shikilia Chini (Pin Down)
 
-Silaha za Moto Pekee. Sawa na Shinikiza Faida, athari hii maalum inamlazimisha mlengwa kufanya Jaribio la Kupingana la Nguvu zao dhidi ya roll ya kupiga ya mshambuliaji. Kushindwa kunamaanisha kuwa mlengwa anajificha nyuma ya kifuniko chochote kinachopatikana na hawezi kurudisha moto katika zamu yake inayofuata. Kumbuka kuwa Bandika Chini hufanya kazi hata kama hakuna uharibifu halisi unaosababishwa kwa mlengwa (labda kutokana na kukwepa kwa mafanikio au risasi zikipiga kifuniko chao badala yake), kwa sababu inategemea athari ya kutisha ya milio ya risasi inayopita karibu sana.
+Bunduki Pekee. Sawa na Shinikiza Faida (Press Advantage), athari hii maalum hulazimisha mlengwa kufanya Jaribio la Kupinga (Opposed Test) la UWE yao dhidi ya uviringishaji wa shambulio la mshambuliaji. Kushindwa kunamaanisha kuwa mlengwa anajikunyata nyuma ya kinga yoyote inayopatikana na hawezi kurudisha risasi katika Zamu yake inayofuata. Kumbuka kuwa Shikilia Chini hufanya kazi hata kama hakuna uharibifu halisi unaosababishwa kwa mlengwa (labda kutokana na kukwepa kwa mafanikio au risasi kupiga kinga yao badala yake), kwa sababu inategemea athari ya kutisha ya milio ya bunduki inayopita karibu sana.
 
-Ingawa mwathirika aliyebanwa hawezi kurudisha risasi kwa muda unaohitajika, anaweza kufanya vitendo vingine mradi asijifunue mwenyewe kwa milio ya risasi katika mchakato huo, kama vile kutambaa kwenda kwenye kifuniko kipya, kuwasiliana na wengine, kupakia upya silaha na kadhalika.
+Ingawa mwathiriwa aliyeshikiliwa hawezi kurudisha risasi kwa muda unaohitajika, anaweza kufanya vitendo vingine mradi tu asijionyeshe kwenye mapigano katika mchakato huo, kama vile kutambaa kwenda kwenye kinga mpya, kuwasiliana na wengine, kuchaji tena silaha, na kadhalika.
 
-#### Tayarisha Jibu
+#### Tayarisha Kipingamizi (Prepare Counter)
 
-Mlinzi anasoma mbinu za adui yake na kuandaa jibu dhidi ya Athari Maalum fulani (ambayo inapaswa kuandikwa kwa siri). Ikiwa mpinzani wake anajaribu kumletea Athari Maalum iliyochaguliwa wakati wa pambano, mlinzi hubadilisha mara moja athari ya mshambuliaji na yake mwenyewe, ambayo inafanikiwa kiotomatiki.
+Mtetezi husoma mienendo ya adui yake na kuandaa kipingamizi dhidi ya Athari Maalum mahususi (ambayo inapaswa kuandikwa kwa siri). Ikiwa mpinzani wake atajaribu kusababisha Athari Maalum iliyochaguliwa dhidi yake wakati wa mapigano, mtetezi hubadilisha papo hapo athari ya mshambuliaji na moja ya kwake mwenyewe, ambayo hufaulu kiotomatiki.
 
-#### Pakia Upya Haraka
+#### Chaji Haraka (Rapid Reload)
 
-Unapotumia Silaha ya Masafa Marefu, mshambuliaji hupunguza muda wa kupakia upya kwa risasi inayofuata kwa moja. Athari hii inaweza kuongezwa. Kwa silaha za moto, ingawa ni muhimu kwa silaha za black powder au risasi moja, athari hii haina matumizi ya wazi inapotumiwa kwa silaha za kiotomatiki, ambapo risasi inayofuata huwekwa (au kupakizwa) papo hapo. Hata hivyo, Pakia Upya Haraka inaweza kutumika badala yake kubadilisha haraka magazeti ya silaha. Inaweza pia kutumika kwa silaha za nishati zinazohitaji muda mrefu wa kuchaji capacitors au kuruhusu pipa kupoa.
+Unapotumia Silaha ya Masafa (Ranged Weapon), mshambuliaji hupunguza muda wa kuchaji tena kwa ajili ya risasi inayofuata kwa moja. Athari hii inaweza kurundikwa. Kwa bunduki, ingawa ni muhimu kwa bunduki za baruti au risasi moja moja, athari hii ina matumizi kidogo ya wazi inapotumika kwa silaha za otomatiki, ambapo risasi inayofuata huwekwa kwenye chumba MVU moto (au kuchajiwa) papo hapo. Hata hivyo, Chaji Haraka inaweza kutumika badala yake kubadili magazini za silaha haraka. Inaweza pia kutumika kwa silaha za nishati ambazo zina nyakati ndefu za mzunguko ili kuchaji tena kapasita au kuruhusu pipa kupoa.
 
-#### Jeruhi Adui
+#### Charaza Adui (Scar Foe)
 
-Mpiganaji anamjeruhi mpinzani wake kwa kovu ambalo litakuwa gumzo la kila mtu kwa maisha yake yote - kama vile koo lililokaribia kukatwa, au herufi 'Z' iliyoandikwa kwa ustadi kifuani.
+Mpiganaji humsababishia mpinzani wake kovu litakalokuwa gumzo kwa wote maisha yake yote – kama vile koo lililokaribia kukatwa, au herufi 'Z' iliyochorwa kwa ustadi kifuani.
 
-#### Chagua Lengo
+#### Chagua Lengo (Select Target)
 
-Wakati mshambuliaji Anafumble, mlinzi anaweza kugeuza au kukwepa pigo kwa njia ambayo inampiga mtu mwingine aliyesimama karibu. Hii inahitaji kwamba shabaha mpya iko ndani ya umbali wa silaha ya melee ya mshambuliaji, au katika kesi ya shambulio la masafa marefu, anasimama kwenye mstari wa risasi. Mwathirika mpya anashangazwa kabisa na ajali isiyotarajiwa na hana nafasi ya kuepuka shambulio ambalo linapiga moja kwa moja. Kwa fidia, hata hivyo, hapati Athari Maalum yoyote.
+Wakati mshambuliaji anapata Makosa (Fumble), mtetezi anaweza kuchezea au kupotosha pigo kwa njia ambayo linapiga mtu wa pembeni badala yake. Hii inahitaji kuwa lengo jipya liwe ndani ya uwezo wa silaha ya mapigano ya karibu ya mshambuliaji, au katika kesi ya shambulio la masafa, awe amesimama kwenye mstari wa moto. Mwathiriwa mpya anashikwa na mshangao kabisa na ajali isiyotarajiwa na hana nafasi ya kuepuka shambulio ambalo hupiga kiotomatiki. Hata hivyo, kwa fidia, hawapati Athari Maalum yoyote.
 
-#### Teleza Huria
+#### Jinasue (Slip Free)
 
-Kwenye Critical, mlinzi anaweza kujitoa kiotomatiki kutoka kuwa Amefungwa, Ameshikwa, au Amepigwa chini.
+Katika Mafanikio ya Kimsingi (Critical), mtetezi anaweza kujinasua kiotomatiki kutoka kwa Kufungwa (Entangled), Kushikwa (Gripped), au Kufungwa (Pinned).
 
-#### Zima Eneo
+#### Lema Eneo (Stun Location)
 
-Mshambuliaji anaweza kutumia silaha ya kuvunja ili kuzima kwa muda sehemu ya mwili iliyopigwa. Ikiwa pigo linashinda Pointi za Silaha na kumjeruhi mlengwa, mlinzi lazima afanye Roll ya Kupingana ya Uvumilivu dhidi ya roll ya shambulio la awali. Ikiwa mlinzi Anashindwa, basi Eneo Lililopigwa limepooza kwa Zamu kadhaa sawa na uharibifu uliofanywa. Pigo kwenye kiwiliwili husababisha mlinzi kutetemeka akipumua kwa tabu, akiweza kujilinda tu. Risasi ya kichwa humwacha adui akiwa amepoteza fahamu kwa muda mfupi na hawezi kuchukua hatua.
+Mshambuliaji anaweza kutumia silaha ya kupiga ili kulemaza kwa muda sehemu ya mwili iliyopigwa. Ikiwa pigo litashinda Pointi za Silaha (Armor Points) na kumjeruhi mlengwa, mtetezi lazima afanye Uviringishaji wa Kupinga (Opposed Roll) wa UVU dhidi ya uviringishaji wa shambulio asilia. Ikiwa mtetezi Atashindwa, basi Eneo la Kupiga (Hit Location) Halina Uwezo (Incapacitated) kwa idadi ya Zamu sawa na uharibifu uliosababishwa. Pigo kwenye kiwiliwili husababisha mtetezi kuyumba akiwa amepumua, na kuweza kutetea tu. Pigo la kichwani humfanya adui asijue kinachoendelea kwa muda mfupi na kushindwa kuchukua hatua.
 
-#### Chana
+#### Pasua (Sunder)
 
-Mshambuliaji anaweza kutumia silaha inayofaa, kama shoka, kuharibu silaha au ulinzi wa asili wa mpinzani. Uharibifu wowote wa silaha, baada ya kupunguzwa kwa kuzuia au uchawi, hutumiwa dhidi ya thamani ya Pointi za Silaha za ulinzi. Ziada ya uharibifu juu ya Pointi zake za Silaha hutumiwa kupunguza thamani ya Pointi za Silaha za eneo hilo (lililovaliwa silaha) - kurarua kamba, kuvunja pete, kukokota sahani, au kurarua ngozi, magamba, au ganda la wanyama wakali. Ikiwa uharibifu wowote unabaki baada ya ulinzi kupunguzwa hadi AP sifuri, huhamia kwenye Hit Points za eneo lililopigwa. Kwa silaha za moto, Chana ingefaa kwa silaha za moto zinazotegemea nishati zilizoundwa kuharibu silaha za ablative au dhana za kigeni zaidi kama bunduki za mawimbi ya mvuto.
+Mshambuliaji anaweza kutumia silaha inayofaa, kama vile shoka, ili kuharibu silaha au kinga ya asili ya mpinzani. Uharibifu wowote wa silaha, baada ya kupunguzwa kwa kuzuia au uchawi, hutumika dhidi ya thamani ya Pointi za Silaha ya ulinzi. Uharibifu wa ziada juu ya Pointi zake za Silaha hutumika kupunguza thamani ya Pointi za Silaha ya eneo hilo lililolindwa – kurarua kamba, kupasua pete, kunyumbua sahani, au kurarua ngozi, magamba, au kitini MVU wanyama wakubwa. Ikiwa uharibifu wowote utabaki baada ya ulinzi kupunguzwa hadi sufuri AP, huhamia kwenye Pointi za Afya (Hit Points) za eneo lililopigwa. Kwa bunduki, Pasua inaweza kufaa kwa bunduki za nishati zilizoundwa kuharibu silaha zinazopotea (ablative armors) au dhana za kipekee zaidi kama bunduki za mawimbi ya uvutano.
 
-#### Angusha Mpinzani
+#### Angusha Adui (Trip Opponent)
 
-Mhusika anajaribu kumpoteza usawa au kumwangusha mpinzani wake chini. Mpinzani lazima afanye Roll ya Kupingana ya Nguvu zake, Kukwepa, au Sarakasi dhidi ya roll ya awali ya mhusika. Ikiwa mlengwa anashindwa, anaanguka chini. Wapinzani wa miguu minne (au viumbe wenye miguu zaidi) wanaweza kubadilisha ujuzi wao wa Riadha kwa Kukwepa na kuchukulia roll kama Daraja moja la Ugumu rahisi zaidi. Kwa silaha za moto, ikichukuliwa kuwa silaha inarusha risasi zenye uzito, hakuna sababu athari hii isingeweza kutumiwa wakati wa kupiga risasi miguuni mwa mpinzani, hata kama hakuna uharibifu unaopenya ulinzi wowote uliovaliwa.
+Mhusika anajaribu kuleta usawa mbaya au kumtupa mpinzani wake chini. Mpinzani lazima afanye Uviringishaji wa Kupinga (Opposed Roll) wa NGU, Kukwepa (Evade), au Umahiri wa Mwili (Acrobatics) dhidi ya uviringishaji asilia wa mhusika. Ikiwa mlengwa atashindwa, anaanguka chini. Wapinzani wenye miguu minne (au viumbe wenye miguu mingi zaidi) wanaweza kubadilisha ustadi wao wa Riadha (Athletics) kwa Kukwepa na kuchukulia uviringishaji huo kuwa rahisi kwa Daraja moja la Ugumu. Kwa bunduki, kwa kudhani bunduki inarusha risasi zenye uzito, hakuna sababu ambayo athari hii isingeweza kutumika wakati wa kupiga miguu ya mpinzani, hata kama hakuna uharibifu unaopenya ulinzi wowote uliovaliwa.
 
-#### Hitilafu ya Silaha
+#### Silaha Kutofanya Kazi (Weapon Malfunction)
 
-Mshambuliaji Fumbles, Silaha za Moto Pekee. Silaha ya moto ya mshambuliaji inafanya hitilafu kwa njia ambayo inafanya isitumike hadi muda utumike kuichambua na kuisafisha.
+Mshambuliaji anapata Makosa (Fumble), Bunduki Pekee. Bunduki ya mshambuliaji haifanyi kazi kwa njia ambayo inafanywa kutokuwa na manufaa hadi muda utumike kuisambaratisha na kuisafisha.
 
-#### Jitoa
+#### Jiondoe (Withdraw)
 
-Mlinzi anaweza kujitoa kiotomatiki nje ya uwezo wa kufikiwa, akivunja kujihusisha na mpinzani huyo.
+Mtetezi anaweza kujiondoa kiotomatiki nje ya uwezo wa kufikiwa, akivunja ushiriki na mpinzani huyo mahususi.
 
 ---
-## Mapigano ya Karibu
+## Mapigano ya Karibu (Close Combat)
 
-Mapigano ya karibu ni mapigano ya ana kwa ana katika maana yake ya kitamaduni wakati wapiganaji wanapigana kwa silaha walizoshika au silaha za asili. Miongozo ifuatayo inatoa njia za kufanya mapigano ya karibu yawe ya kuvutia zaidi na kusaidia kueleza zaidi baadhi ya dhana zilizotajwa mapema katika sura hii.
+Mapigano ya karibu ni mapigano ya mkono kwa mkono katika maana yake ya kitamaduni wakati wapiganaji wanapopigana kwa silaha zilizoshikwa au za asili. Miongozo ifuatayo inatoa njia za kufanya mapigano ya karibu kuwa ya kuvutia zaidi na kusaidia kufafanua zaidi baadhi ya dhana zilizodokezwa mapema katika sura hii.
 
-### Marekebisho ya Hali
+### Kirekebishi MVU Hali (Situational Modifiers)
 
-Marekebisho ya hali yanaweza kutumika wakati wa kupigana katika hali fulani, au kama matokeo ya Athari Maalum. Kwa mfano, kupigana gizani kunaweza kuleta Daraja la Ugumu la Herculean. Isipokuwa kama imeelezwa vinginevyo, marekebisho huamuliwa na Msimamizi wa Michezo. Ambapo hali mbili au zaidi zinahusiana na mhusika, tumia ile kali zaidi.
+Virekebishi vya hali vinaweza kutumika wakati wa kupigana katika hali mahususi, au kama matokeo ya Athari Maalum. Kwa mfano, kupigana gizani kunaweza kuleta Daraja la Ugumu la Herculean. Isipokuwa kama imeelezwa vinginevyo, virekebishi huamuliwa na Msimamizi wa Mchezo (Games Master). Ambapo hali mbili au zaidi ni muhimu kwa mhusika, tumia ile kali zaidi.
 
-Baadhi ya marekebisho hutegemea hali, lakini badala ya kutumia Daraja la Ugumu, Ujuzi wa Mapigano umefungwa na ujuzi husika. Kwa mfano, kupigana kutoka mgongoni mwa farasi kungefunika Ujuzi wa Mapigano wa mpiganaji na ujuzi wao wa Kupanda, wakati kupigana ndani ya maji kunaweza kuufunika kwa thamani ya ujuzi wa Kuogelea wa mhusika.
+Baadhi ya virekebishi hutegemea mazingira, lakini badala ya kutumia Daraja la Ugumu, Ustadi wa Kupambana hupunguzwa na ustadi unaofaa. Kwa mfano, kupigana kutoka mgongoni mwa farasi kungezuia Ustadi wa Kupambana wa mpiganaji kwa ustadi wake wa Kupanda (Ride), wakati kupigana ndani ya maji kunaweza kuuzuia kwa thamani ya ustadi wa Kuogelea (Swim) wa mhusika.#### Vigezo vya Hali katika Kupambana kwa Karibu
 
-#### Marekebisho ya Hali ya Mapigano ya Karibu
-
-| Hali | Daraja la Ugumu |
+| Hali | Kiwango MVU Ugumu |
 | :-- | :-: |
-| Kushambulia shabaha isiyojiweza | Moja kwa Moja |
-| Kushambulia katika hali finyu | Ngumu |
-| Kujilinda ukiwa chini au dhidi ya adui aliyepanda | Ngumu |
-| Kupigana kwenye ardhi isiyokuwa thabiti | Ngumu |
-| Kupigana huku umekaa chini au kwa goti moja | Ngumu |
-| Kupigana katika mwonekano hafifu (ukungu mzito, theluji) | Ngumu |
-| Kujilinda dhidi ya shambulio kutoka nyuma | Ya Kutisha |
-| Kupigana ukiwa umelala chini | Ya Kutisha |
-| Kupigana katika giza hafifu (mwanga hafifu) | Ya Kutisha |
-| Kupigana katika giza nene kabisa (hakuna mwanga kabisa) | Ya Ajabu |
-| Umepofushwa au umepoteza hisia kuu ya kuona | Ya Ajabu |
+| Kumshambulia lengo lisilo na uwezo wa kujitetea | Moja kwa moja |
+| Kushambulia katika hali ya kubanwa | Vigumu |
+| Kujitetea ukiwa kwenye ardhi ya chini au dhidi ya adui aliyepanda farasi | Vigumu |
+| Kupigana ukiwa kwenye ardhi isiyo thabiti | Vigumu |
+| Kupigana ukiwa umeinamia chini au ukiwa kwenye goti moja | Vigumu |
+| Kupigana katika uwezo mdogo wa kuona (ukungu mzito, dhoruba ya theluji) | Vigumu |
+| Kujitetea dhidi ya shambulio la nyuma | Kutisha |
+| Kupigana ukiwa umejilaza chini | Kutisha |
+| Kupigana gizani kiasi (mwanga hafifu) | Kutisha |
+| Kupigana katika giza totoro (bila mwanga kabisa) | Herculean |
+| Kupofuka au kupoteza hisia kuu ya utambuzi | Herculean |
 
-### Kujihusisha
+### Kushirikiana (Engagement)
 
-Mhusika anachukuliwa kuwa Amehusuika ikiwa yuko ndani ya masafa ya silaha ya melee ya mpinzani. Hii haihitaji lazima wapiganaji wote wawili waweze kufikia kila mmoja; tu kwamba mmoja wao anaweza kupigwa na mwingine. Mara tu mhusika anapojihusisha na mpinzani, hawawezi tena kuondoka huru kwenye mapigano hayo (kupita kwa shambulio la ghafla ni ubaguzi maalum). Inahitaji aina fulani ya kitendo cha makusudi kuvunja mawasiliano na adui, kawaida hufanywa kupitia Kitendo cha Mapigano kama vile Kudhibiti, au kutumia Athari Maalum ya Jitoa.
+Mhusika anachukuliwa kuwa Ameshirikiana (Engaged) ikiwa yuko ndani ya masafa ya silaha ya karibu ya mpinzani. Hii haimaanishi lazima wapiganaji wote wawili waweze kufikiana; inatosha kwamba mmoja wao anaweza kupigwa na mwingine. Punde tu mhusika anapokuwa Ameshirikiana na mpinzani, hawezi tena kuondoka kwenye pambano hilo kwa uhuru (kuchaji kupita ni ubaguzi maalum). Inahitaji aina fulani ya kitendo MVU makusudi kuvunja mawasiliano na adui, kwa kawaida hufanywa kupitia Hatua ya Kupambana (Combat Action) kama vile Kushinda kwa Ujanja (Outmaneuver), au matumizi ya Athari Maalum ya Kujiondoa (Withdraw).
 
-### Shambulio la Ghafla
+### Kuchaji (Charging)
 
-Kitendo cha Shambulio la Ghafla ni kitendo cha kusonga haraka ili kuongeza nguvu na athari ya shambulio. Shambulio la ghafla linahitaji mshambuliaji kuchagua kitendo cha Shambulio la Ghafla, akisonga kwa kasi ya Kukimbia au Kuruka - tazama sehemu ya [Kiwango cha Harakati](0002_Characters.md?id=movement-rate) hapo juu. Sheria za harakati zimefunikwa kikamilifu katika kitabu cha sheria cha _Mythras_.
+Hatua ya Kuchaji ni kitendo MVU kusonga haraka ili kuongeza nguvu na athari ya shambulio. Kuchaji kunahitaji mshambuliaji kuchagua hatua ya Kuchaji, akisonga kwa Mwendo wa Kukimbia (Run) au Spriiti (Sprint) - tazama sehemu ya [Kiwango MVU Mwendo](0002_Characters.md?id=movement-rate) hapo juu. Kanuni za mwendo zimefafanuliwa kikamilifu katika kitabu MVU kanuni MVU _Mythras_.
 
-Ikiwa hii inamleta kuwasiliana na mpinzani wake, lazima asimame hapo na kufanya kitendo cha Shambulio, kama ilivyorekebishwa kwa shambulio la ghafla. Hakuna umbali wa chini ambao lazima ufunikwe kabla ya shambulio la ghafla kufanyika, kwani umbali uliosogezwa hauna umuhimu kuliko kasi iliyopatikana. Hivyo kukimbia au kuruka.
+Ikiwa hii itamfanya kuwasiliana na mpinzani wake, lazima asimame hapo na kufanya hatua ya Kushambulia, kama ilivyorekebishwa kwa ajili ya kuchaji. Hakuna umbali wa chini ambao lazima ufunikwe kabla ya kuchaji kufanyika, kwani umbali uliosogezwa ni jambo dogo kuliko kasi iliyopatikana. Hivyo kukimbia au kufanya spriiti.
 
-Wakati wa kushambulia ghafla, roll ya shambulio inakabiliwa na Daraja la Ugumu la Ngumu. Kwa kurudisha, shambulio la ghafla huongeza Ukubwa wa silaha inayoshambulia kwa hatua moja na Marekebisho ya Uharibifu ya mshambuliaji mwenye miguu miwili kwa hatua moja, au hatua mbili ikiwa miguu minne (au miguu zaidi). Wahusika wanaopanda farasi wanaweza kubadilisha Marekebisho yao ya Uharibifu kwa yale ya farasi wao badala yake. Nafasi ya mwisho ya mhusika anayeshambulia ghafla inategemea matokeo ya kubadilishana na kama mshambuliaji anataka kusimama au kuendelea kupita, akivunja kujihusisha mara moja.
+Wakati wa kuchaji, lola la shambulio linapata Kiwango MVU Ugumu MVU Vigumu. Kwa kurudisha, kuchaji huongeza Ukubwa (Size) wa silaha inayoshambulia kwa hatua moja na Marekebisho ya Uharibifu (Damage Modifier) ya mshambuliaji mwenye miguu miwili kwa hatua moja, au hatua mbili ikiwa ni mnyama mwenye miguu minne (au zaidi). Wahusika wanaopanda wanyama wanaweza kubadilisha Marekebisho yao ya Uharibifu na yale ya mnyama wao badala yake. Nafasi ya mwisho ya mhusika anayechaji inategemea matokeo ya kubadilishana na kama mshambuliaji anataka kusimama au kuendelea kupita, akivunja ushirikiano mara moja.
 
-Badala ya Kuzuia au Kukwepa, mpokeaji wa shambulio la ghafla anaweza kumshambulia mshambuliaji anayeshambulia ghafla wakati huo huo. Katika kesi hii, mwenye silaha ndefu zaidi hupiga kwanza. Ikiwa silaha inaweza kuwekwa kupokea shambulio la ghafla (kama vile mkuki), mpokeaji anaweza kutumia Marekebisho ya Uharibifu ya yule anayeshambulia ghafla badala yake.
+Badala ya Kuzuia (Parrying) au Kukwepa (Evading), mpokeaji wa shambulio la kuchaji anaweza kushambulia mshambuliaji anayechaji kwa wakati mmoja. Katika kesi hii, mwenye silaha ndefu hupiga kwanza. Ikiwa silaha inaweza kuwekwa ili kupokea chaji (kama mkuki), mpokeaji anaweza kutumia Marekebisho ya Uharibifu ya mchaji badala ya yake mwenyewe.
 
-### Kificho
+### Kinga (Cover)
 
-Wapinzani hutumia kifuniko kuzuia mashambulizi dhidi yao, kwa kuzuia pigo kimwili kutokana na ugumu wa nyenzo zinazoingilia kati, au kwa kuficha mahali hasa adui alipo. Thamani halisi ya kifuniko inategemea unene wa ulinzi wake na kiwango cha kifuniko chake.
+Wapinzani hutumia kinga kuzuia mashambulizi dhidi yao, ama kwa kuzuia pigo kimwili kutokana na ugumu wa nyenzo zinazokaa katikati, au kwa kuficha mahali hasa alipo adui. Thamani kamili ya kinga inategemea unene wa ulinzi wake na kiwango MVU chanjo yake.
 
-Shambulio dhidi ya shabaha linalotua kwenye Eneo la Kupigwa lililofichwa litazuiwa kwa kiwango cha ulinzi wa kifuniko. Kifuniko kinaweza kuzuiwa kwa sehemu aidha kwa kutumia Athari Maalum ya Chagua Eneo kulenga sehemu zinazoonekana za shabaha au kupiga kupitia kifuniko ikiwa silaha inaweza kuipenya.
+Shambulio dhidi ya lengo linalotua kwenye Eneo la Kugonga (Hit Location) lililofichwa litazuiwa kwa kiwango MVU ulinzi wa kinga hiyo. Kinga inaweza kupunguzwa kwa sehemu ama kwa matumizi ya Athari Maalum ya Kuchagua Mahali (Choose Location) ili kulenga sehemu zinazoonekana za lengo au kupiga kupitia kinga ikiwa silaha inaweza kuipenya.
 
-Katika hali ambapo kifuniko ni kamili, lakini mshambuliaji anaamini shambulio lake litapenya, anaweza kupiga bila kuona shabaha iliyofichwa. Katika hali kama hizo, roll ya shambulio ni daraja moja ngumu zaidi, na Chagua Eneo haiwezi kuchukuliwa ikiwa Athari Maalum imeshinda. Hii inadhani mshambuliaji anajua kwa usahihi kabisa nafasi ya shabaha nyuma ya kifuniko.
+Katika hali ambapo kinga ni ya jumla, lakini mshambuliaji anaamini shambulio lake litapenya, anaweza kupiga bila kuona kwenye lengo lililofichwa. Katika kesi kama hizo, lola la shambulio ni gumu kwa kiwango kimoja, na Kuchagua Mahali hakuwezi kuchukuliwa ikiwa Athari Maalum imeshindwa. Hii inadhani mshambuliaji anajua kwa usahihi kabisa nafasi ya lengo nyuma ya kinga.
 
-### Kukwepa
+### Kukwepa (Evading)
 
-Kukwepa katika mapigano ni kujitupa mbali na shambulio kubwa. Hii inahitaji Roll ya Kupingana ya ujuzi wa Kukwepa wa mlinzi dhidi ya roll husika ya mshambuliaji. Hii inaweza kuwa chochote kutoka kwa ujuzi wa Kuendesha wa tanki la vita linalogonga hadi ujuzi wa kurusha uchawi wa mchawi. Ikiwa mshambuliaji anashinda, basi husababisha uharibifu kama kawaida. Ikiwa mlinzi anashinda, uharibifu unaepukwa kabisa.
+Kukwepa katika mapambano ni kujitupa mbali na shambulio zito. Hii inahitaji Lola la Kinyume (Opposed Roll) la ustadi wa Kukwepa wa mlinzi dhidi ya lola husika la mshambuliaji. Hii inaweza kuwa chochote kuanzia ustadi wa Kuendesha wa tanki la vita hadi ustadi wa kutumia uchawi wa mchawi. Ikiwa mshambuliaji atashinda, basi anasababisha uharibifu kama kawaida. Ikiwa mlinzi atashinda, uharibifu unaepukwa kabisa.
 
-Ikiwa mshindi wa Roll ya Kupingana atafikia Kiwango kimoja au zaidi cha Mafanikio kuliko mpinzani wake, anaweza kuchagua Athari Maalum zinazofaa kama kawaida ya mapigano. Hata hivyo, hatua ya kukwepa inamwacha mlinzi akiwa amelala chini - kwa kawaida ikihitaji mhusika kurejesha msimamo wake katika zamu yake inayofuata - isipokuwa anaweza kutumia Athari Maalum ya Inuka.
+Ikiwa mshindi wa Lola la Kinyume atafikia Viwango vya Mafanikio kimoja au zaidi juu ya mpinzani wake, anaweza kuchagua Athari Maalum zinazofaa kama kawaida ya mapambano. Vyovyote matokeo, mbinu ya kukwepa humwacha mlinzi akiwa ameanguka (prone) – kwa kawaida ikimhitaji mhusika kurudisha miguu yake kwenye zamu yake inayofuata – isipokuwa aweze kutumia Athari Maalum ya Kuinuka (Arise).
 
-### Kubisha Nyuma
+### Kurudishwa Nyuma (Knockback)
 
-Shambulio linalosababisha uharibifu zaidi ya SIZ ya mpokeaji, kwa default, litasababisha mhusika kubishwa nyuma. Uharibifu katika hali hii ni kabla ya upungufu wowote kutokana na kuzuia au silaha. Baada ya kupokea pigo kama hilo, mpokeaji lazima afaulu roll Rahisi ya Sarakasi au ya Kawaida ya Riadha ili kuepuka kuanguka chini. Pia husukumwa mita moja kwa kila pointi tano za uharibifu (au sehemu yake) zaidi ya SIZ yao. Kutumia kwa hiari Kitendo cha Mapigano cha Tegemeza kunaweza kupunguza au hata kuondoa athari za kubishwa nyuma.
+Shambulio linalosababisha uharibifu mwingi zaidi ya UKU wa mpokeaji, kwa chaguo-msingi, litasababisha mhusika kurudishwa nyuma. Uharibifu katika hali hii ni kabla ya kupunguzwa kwa sababu ya kuzuia au silaha. Akipokea pigo kama hilo, mpokeaji lazima apitishe lola la Ustadi wa Sarakasi (Acrobatics) Rahisi au Riadha (Athletics) ya Kawaida ili kuzuia kuanguka chini. Pia wanasukumwa mita moja kwa kila pointi tano za uharibifu (au sehemu yake) juu ya UKU wao. Kutumia Hatua ya Kupambana ya Kujiimarisha (Brace) kwa makusudi kunaweza kupunguza au hata kufuta athari za kurudishwa nyuma.
 
-### Mashambulio ya Kuruka
+### Mashambulio ya Kuruka (Leaping Attacks)
 
-Mashambulizi ya kuruka yanaweza kuzinduliwa kutoka hali mbalimbali, mengi huendeshwa kama sehemu ya shambulio la ghafla au mwishoni mwa shambulio la ghafla, lakini viumbe wengine wanaweza kuruka juu ya mpinzani bila kuhitaji kukimbia au urefu wa juu.
+Mashambulio ya kuruka yanaweza kuanzishwa kutoka hali mbalimbali, mengi yakiwa yameanzishwa kama sehemu ya shambulio la kushtukiza au mwishoni mwa chaji, lakini viumbe wengine wanaweza kuruka juu ya mpinzani bila kuhitaji kukimbia au urefu wa juu.
 
-Shambulio la kuruka hutatuliwa kwa Roll ya Kupingana ya ujuzi wa Riadha wa anayeruka dhidi ya ujuzi wa Nguvu au Kukwepa wa mlinzi. Shabaha za miguu minne hufanya roll ya shambulio kuwa Daraja moja la Ugumu zaidi. Ikiwa anayeruka atashinda basi mlinzi huangushwa chini kiotomatiki, huku mshambuliaji akimtengeneza. Kushindwa kunamaanisha kuwa mlinzi amevumilia au kukwepa athari. Ikiwa mshindi wa Roll ya Kupingana atafikia Kiwango kimoja au zaidi cha Mafanikio kuliko mpinzani wake, anaweza kuchagua Athari Maalum zinazofaa kama kawaida ya mapigano.
+Shambulio la kuruka linatatuliwa kwa Lola la Kinyume la ustadi wa Riadha wa mrukaji dhidi ya ustadi wa Nguvu (Brawn) au Kukwepa wa mlinzi. Malengo ya miguu minne hufanya lola la shambulio kuwa gumu kwa Kiwango MVU Ugumu kimoja. Ikiwa mrukaji atashinda basi mlinzi huangushwa chini moja kwa moja, huku mshambuliaji akiwa juu yao. Kushindwa kunamaanisha mlinzi amehimili au amekwepa athari hiyo. Ikiwa mshindi wa Lola la Kinyume atafikia Viwango vya Mafanikio kimoja au zaidi juu ya mpinzani wake, anaweza kuchagua Athari Maalum zinazofaa kama kawaida ya mapambano.
 
-Hakuna uharibifu unaotokea kama sehemu ya kuruka; hata hivyo, mwathirika aliyelala chini hawezi kurejesha msimamo wake hadi aidha mshambuliaji wake aondoke, au hatimaye ashinde Athari Maalum inayomruhusu Kuinuka. Kwa kuongezea, mashambulizi ya kuruka hufanya kazi tu dhidi ya wapinzani walio hadi mara mbili ya SIZ ya mshambuliaji. Shabaha inaweza kujifanya kuwa ngumu zaidi kuangushwa kwa kutumia Kitendo cha Mapigano cha Brace, mradi wanafahamu shambulio la kuruka linalokuja.
+Hakuna uharibifu unaosababishwa kama sehemu ya kuruka; hata hivyo, mwathiriwa aliyeanguka baadaye hawezi kurudisha miguu yake hadi mshambuliaji wake aondoke, au hatimaye washinde Athari Maalum inayowaruhusu Kuinuka. Aidha, mashambulio ya kuruka hufanya kazi tu dhidi ya wapinzani wa hadi mara mbili ya UKU wa mshambuliaji. Lengo linaweza kujifanya kuwa vigumu zaidi kuangushwa kwa kutumia Hatua ya Kupambana ya Kujiimarisha, mradi wanajua kuhusu shambulio la kuruka linalokuja.
 
-### Kudhibiti (Outmaneuvering)
+### Kushinda kwa Ujanja (Outmaneuvering)
 
-Mhusika anayekabiliana na wapinzani wengi anaweza kutumia harakati kupunguza idadi inayoweza kumshambulia wakati wowote, akibadilisha msimamo kila mara, akilazimisha maadui kuingiliana. Kudhibiti kunahitaji kwamba mhusika ana nafasi ya kusogea na hajabanwa katika eneo finyu.
+Mhusika anayekabili wapinzani wengi anaweza kutumia mwendo kupunguza idadi inayoweza kumshambulia wakati wowote, akibadilisha nafasi kila mara, akiwalazimisha maadui kuingiliana. Kushinda kwa ujanja kunahitaji mhusika kuwa na nafasi ya kuzunguka na asibanwe katika eneo lenye kubana.
 
-Kudhibiti kunahitaji kwamba mhusika anawahusisha wapinzani wake katika Roll ya Kupingana ya kikundi ya ujuzi wa Kukwepa. Kila mshiriki, mhusika anayedhibiti na maadui wanaotaka kumnasa, lazima watumie Pointi ya Kitendo. Kisha kila mmoja wao anapiga roll mara moja na wale wanaoshindwa kumpiga mhusika anayedhibiti hawawezi kumshambulia kwa muda uliosalia wa Raundi hiyo ya Mapigano, wakizuiwa na washirika wao au vipengele vya ardhi.
+Kushinda kwa ujanja kunahitaji mhusika kushirikisha wapinzani wake katika Lola la Kinyume la kikundi la ustadi wa Kukwepa. Kila mshiriki, mhusika anayepiga ujanja na wale maadui wanaotaka kumzingira, lazima watumie Pointi ya Hatua (Action Point). Kisha kila mmoja wao anazungusha mara moja na wale wanaoshindwa kupiga lola la mhusika anayepiga ujanja hawawezi kumshambulia kwa muda uliosalia wa Zamu hiyo ya Mapambano, wakizuiliwa na washirika wao au sifa za ardhi.
 
-Ikiwa mhusika anayedhibiti anawapiga wapinzani wake wote, ana chaguo la kujihusisha salama na adui mmoja kwa muda uliosalia wa Raundi au Kujitoa kabisa kutoka kwenye mapigano.
+Ikiwa mhusika anayepiga ujanja atawashinda wapinzani wake wote, mmoja ana chaguo la kushirikiana kwa usalama na adui mmoja kwa muda uliosalia wa Zamu hiyo au Kujiondoa kwenye pambano kabisa.
 
-### Kuzuia kwa Passive
+### Kuzuia Tulivu (Passive Blocking)
 
-Kuzuia kwa Passive huruhusu mhusika mwenye silaha kushikilia silaha kwa njia ambayo inafunika eneo lililochaguliwa (au maeneo wakati wa kutumia ngao), lakini kwa gharama ya kutoweza Kuzuia kikamilifu kwa kutumia silaha hiyo (tazama Linda Eneo). Shambulio lolote linalopiga maeneo hayo hupokea faida ya silaha au ngao kiotomatiki, ikipunguza uharibifu kama kawaida. Mbinu hii hutumiwa kawaida wakati shujaa anataka kulinda sehemu dhaifu au eneo lililojeruhiwa. Hakuna kinachomzuia mpiganaji mwenye silaha mbili, au silaha na ngao kutumia silaha yake nyingine kuzuia kikamilifu.
+Kuzuia Tulivu humruhusu mhusika aliye na silaha kuishikilia kwa njia ambayo inafunika eneo lililochaguliwa (au maeneo wakati wa kutumia ngao), lakini kwa gharama ya kutoweza Kuzuia (Parry) kikamilifu nayo (tazama Eneo la Ulinzi). Shambulio lolote linalopiga maeneo hayo hupata faida ya silaha au ngao moja kwa moja, likipunguza uharibifu kama kawaida. Mbinu hiyo hutumika sana wakati shujaa anapotaka kulinda doa dhaifu au eneo lililojeruhiwa. Hakuna kinachozuia mpiganaji mwenye silaha mbili, au silaha na ngao kutumia silaha yake nyingine kuzuia kikamilifu.
 
-Kwa kuwa Kuzuia kwa Passive hufanya kazi kwa njia sawa na kificho, Athari Maalum ya Chagua Eneo haiwezi kutumika kupita kizuizi katika mapigano ya karibu, ingawa wapinzani bado wanaweza kutumia athari hiyo kupiga maeneo mengine yasiyozuiliwa. Kuketi chini nyuma ya ngao huruhusu mhusika kuongeza maradufu idadi ya maeneo yaliyofunikwa wakati wa Kuzuia kwa Passive.
+Kwa vile Kuzuia Tulivu hufanya kazi kwa njia sawa na kinga, Athari Maalum ya Kuchagua Mahali haiwezi kutumika kupita kizuizi hicho katika mapambano ya karibu, ingawa wapinzani bado wanaweza kutumia athari hiyo kupiga maeneo mengine yasiyozuiliwa. Kujikunja chini nyuma ya ngao humruhusu mhusika kuongeza mara mbili idadi ya maeneo yaliyofunikwa wakati wa Kuzuia Tulivu.
 
-### Mshangao
+### Mshangao (Surprise)
 
-Mshangao hutokea wakati shambulio lisilotarajiwa linazinduliwa dhidi ya wapinzani wasiofahamu uwepo au nia ya mshambuliaji. Shambulio la ghafla lingekuwa mfano wa la kwanza, wakati kugeuka kwa hila dhidi ya mshirika asiyetarajia wakati wa mazungumzo ya kirafiki kunaonyesha la pili.
+Mshangao hutokea wakati shambulio lisilotarajiwa linapozinduliwa dhidi ya wapinzani wasiojua uwepo au nia ya mshambuliaji. Shambulio la kushtukiza litakuwa mfano wa la kwanza, wakati kugeuka kwa hila dhidi ya mshirika asiyejua wakati wa mazungumzo ya kirafiki kunaonyesha la pili.
 
-Athari za mshangao kwa shabaha ni kali:
+Athari za mshangao kwa lengo ni kubwa:
 
-- Shabaha inapata adhabu ya -10 kwa Initiative.
-- Hadi Initiative yao ifike, wanachukuliwa kuwa hawajajiandaa na hawawezi kujilinda.
-- Shambulio la kwanza kwa shabaha, likifanikiwa, linapata Athari Maalum ya ziada.
-- Kwa muda uliosalia wa Raundi, hawawezi kufanya Kitendo chochote cha Kushambulia.
+- Lengo linapata adhabu ya –10 kwenye Mpango (Initiative).
+- Hadi Mpango wao unapofika, wanachukuliwa kuwa wameshtukiwa na hawawezi kujitetea.
+- Shambulio la kwanza kwenye lengo, likifanikiwa, linapata Athari Maalum ya ziada.
+- Kwa muda uliosalia wa Zamu, hawawezi kufanya Hatua yoyote ya kushambulia.
 
-### Mashambulio ya Kufagia
+### Mashambulio ya Kufagia (Sweep Attacks)
 
-Mashambulio ya kufagia hutokea kwa uamuzi wa Msimamizi wa Michezo, wakati silaha au viumbe vya ukubwa usio wa kawaida vinashambulia kundi la wapinzani lililobanana – mkia wa joka kubwa au shambulio lisilozuilika la triceratops kubwa kwa mfano – wakipiga maadui kadhaa kwa wakati mmoja.
+Mashambulio ya kufagia hutokea kwa uamuzi wa Mwalimu wa Mchezo, wakati silaha au viumbe vya ukubwa usio wa kawaida vinaposhambulia kikundi kilichokusanyika karibu MVU wapinzani – mkia unaokata wa joka kubwa au chaji isiyozuilika ya triceratops kubwa kwa mfano – zikipiga maadui kadhaa kwa wakati mmoja.
 
-Shambulio la kufagia hufanywa kwa kutumia roll moja ya shambulio la silaha au kiumbe kwa shabaha zote zilizomo njiani mwake. Kila mlinzi lazima atatue athari za shambulio hilo kando na Athari Maalum zozote zilizowekwa kwa mshambuliaji zinachukuliwa kuwa zimetokea kwa wakati mmoja.
+Shambulio la kufagia linafanywa kwa kutumia lola moja la shambulio la silaha au kiumbe kwa malengo yote yaliyo kwenye njia yake. Kila mlinzi lazima atatue athari za shambulio hilo kando na athari zozote Maalum zilizowekwa kwa mshambuliaji zinachukuliwa kuwa zimetokea kwa wakati mmoja.
 
 ---
-## Mapigano ya Masafa Marefu
+## Mapambano ya Masafa (Ranged Combat)
 
-Mapigano ya masafa marefu yanajumuisha aina zote za silaha zinazohitaji kupigwa, kutupwa, au kurushwa ili kupiga shabaha. Mashambulio ya masafa marefu hutatuliwa kwa njia sawa na mapigano ya karibu. Hata hivyo, Silaha za Masafa Marefu kwa kawaida zinaweza kuzuiwa tu kwa ngao; wale wasio na ngao lazima wategemee kifuniko cha asili au watumie Kukwepa ili kuruka nje ya mstari wa risasi. Hivyo, dhidi ya maadui walio na silaha nyepesi, Silaha za Masafa Marefu zinaweza kuwa vizuizi vikali.
+Mapambano ya masafa yanajumuisha aina zote za silaha zinazohitaji kupigwa risasi, kutupwa, au kurushwa ili kupiga lengo lao. Mashambulio ya masafa yanatatuliwa kwa njia sawa na mapambano ya karibu. Hata hivyo, Silaha za Masafa kwa kawaida zinaweza kuzuiwa tu na ngao; wale wasio na ngao lazima wategemee kinga ya asili au watumie Kukwepa ili kujitupa nje ya mstari wa moto. Hivyo, dhidi ya maadui walio na silaha kidogo, Silaha za Masafa zinaweza kuwa vizuizi vikubwa.
 
-Kila Silaha ya Masafa Marefu ina sifa kadhaa maalum zinazoamua ufanisi wake. Zile ambazo zina athari muhimu katika mapigano ni kama ifuatavyo:
+Kila Silaha ya Masafa ina sifa kadhaa maalum zinazoamua ufanisi wake. Zile ambazo zina umuhimu mkubwa katika mapambano ni kama ifuatavyo:
 
-- **Nguvu:** Sawa na Ukubwa wa Silaha za Masafa Marefu. Ni kipimo kisichoonekana cha uwezo wa kupenya wa silaha au risasi zake ili kubaini kama pigo linashinda kizuizi (cha ngao).
-- **Marekebisho ya Uharibifu:** Sifa hii inaonyesha kama Marekebisho ya Uharibifu ya mshambuliaji yanaweza kutumika kuongeza roll ya uharibifu ya Silaha ya Masafa Marefu. Kwa ujumla, pinde zinazojitegemea na silaha zilizotupwa tu huruhusu mtumiaji kutumia Marekebisho yao ya Uharibifu.
-- **Masafa:** Nambari tatu zilizotenganishwa na alama za slash, zinazowakilisha masafa ya juu zaidi ya Karibu, Ufanisi, na Marefu ya silaha au risasi zake. Masafa ya Karibu ni umbali ambao Athari Maalum ya Chagua Eneo inaweza kutumika, mradi shabaha imetulia au haifahamu shambulio linalokuja. Masafa ya Ufanisi hayana marekebisho muhimu. Katika Masafa Marefu, silaha bado inaweza kusababisha madhara, lakini kiasi cha uharibifu hupunguzwa kwa nusu, na Nguvu hupunguzwa kwa hatua moja.
-- **Mzigo:** Muda kwa Zamu unaotumika kupakia au kupakia upya silaha inayorusha risasi. Mhusika anaweza kupunguza muda unaotumika kupakia au kutayarisha kwa kutumia Athari Maalum ya Pakia Upya Haraka.
-- **Ukubwa wa Kutoga:** Ukubwa wa silaha iliyotogwa ni tofauti na Nguvu inayopiga nayo. Silaha za kutoga za masafa marefu zina safu maalum inayoonyesha ukubwa wao halisi wakati wa kuzingatia vizuizi vinavyosababishwa na Athari Maalum ya Kutoga.
+- **Nguvu (Force):** Sawa na Ukubwa kwa Silaha ya Masafa. Ni kipimo MVU dhahania MVU nguvu ya kupenya ya silaha au risasi zake ili kuamua kama pigo linashinda kizuizi MVU (ngao).
+- **Marekebisho ya Uharibifu (Damage Modifier):** Sifa hii inaonyesha kama Marekebisho ya Uharibifu ya mshambuliaji yanaweza kutumika kuongeza lola la uharibifu la Silaha ya Masafa. Kwa ujumla, pinde za kuvutwa na mtumiaji na silaha za kutupwa pekee ndizo zinazoruhusu mtumiaji kutumia Marekebisho yao ya Uharibifu.
+- **Masafa (Range):** Namba tatu zilizotenganishwa na alama za mkwaju, zikiwakilisha masafa ya juu ya Karibu, Yenye Ufanisi, na Marefu ya silaha au risasi zake. Masafa ya Karibu ni umbali ambao Athari Maalum ya Kuchagua Mahali inaweza kutumika, mradi lengo limesimama au halijui shambulio linalokuja. Masafa Yenye Ufanisi hayana marekebisho muhimu. Katika Masafa Marefu, silaha bado inaweza kusababisha madhara, lakini kiasi MVU uharibifu kinapunguzwa kwa nusu, na Nguvu inapunguzwa kwa hatua moja.
+- **Upakiaji (Load):** Muda katika Zamu unaochukuliwa kupakia au kupakia upya silaha inayotumia risasi. Mhusika anaweza kupunguza muda unaotumika kupakia au kujiandaa kwa kutumia Athari Maalum ya Kupakia Haraka (Rapid Reload).
+- **Ukubwa wa Kudunga (Impale Size):** Ukubwa wa silaha iliyodunga ni tofauti na Nguvu inayopiga nayo. Silaha za masafa za kudunga zina safu maalum inayoonyesha ukubwa wao halisi wakati wa kuzingatia vizuizi vinavyosababishwa na Athari Maalum ya Kudunga (Impale).
 
-### Marekebisho ya Hali
+### Vigezo vya Hali
 
-Kama ilivyo kwa mapigano ya karibu, marekebisho ya hali yanaweza kutumika unapotumia Silaha za Masafa Marefu katika hali fulani. Ujuzi wa Mapigano wa mhusika unaweza kufungwa wakati wa kutumia silaha katika hali ngumu, kama vile kutupa mkuki ukiwa umepanda farasi.
+Kama ilivyo katika mapambano ya karibu, vigezo vya hali vinaweza kutumika wakati wa kutumia Silaha za Masafa katika hali fulani. Ustadi wa Kupambana wa mhusika unaweza kupunguzwa wakati wa kutumia silaha katika mazingira magumu, kama vile kutupa mkuki wakati umepanda farasi.
 
-##### Marekebisho ya Hali ya Mapigano ya Masafa Marefu
+##### Vigezo vya Hali katika Mapambano ya Masafa
 
-| Hali | Daraja la Ugumu |
+| Hali | Kiwango MVU Ugumu |
 | :-- | --- |
-| Upepo Mwepesi\* | Ngumu |
-| Upepo wa Wastani\* | Ya Kutisha |
-| Upepo Mkali\* | Ya Ajabu |
-| Dhoruba, Tufani, au Mbaya Zaidi\* | Haina Matumaini |
-| Lengo Linakimbia | Ngumu |
-| Lengo Linakimbia kwa Kasi | Ya Kutisha |
-| Lengo limefichwa na ukungu au liko kwenye giza hafifu | Ngumu |
-| Lengo limefichwa na moshi mzito au liko gizani | Ya Kutisha |
-| Lengo limefichwa kabisa | Ya Ajabu |
-| Lengo halionekani kabisa | Haiwezekani\*\* |
-| Lengo limelala chini | Ya Kutisha |
-| Mshambuliaji amelala chini\*\*\* | Ya Ajabu |
-| Mshambuliaji yuko kwenye ardhi isiyokuwa thabiti | Ngumu |
+| Upepo Mwepesi\* | Vigumu |
+| Upepo wa Wastani\* | Kutisha |
+| Upepo Mkali\* | Herculean |
+| Dhoruba, Upepo mkali, au mbaya zaidi\* | Hopeless |
+| Lengo linakimbia | Vigumu |
+| Lengo linafanya spriiti | Kutisha |
+| Lengo limefichwa na ukungu au liko kwenye giza kiasi | Vigumu |
+| Lengo limefichwa na moshi mzito au liko gizani | Kutisha |
+| Lengo limefichwa kabisa | Herculean |
+| Lengo halionekani kabisa | Impossible\*\* |
+| Lengo limeanguka chini | Kutisha |
+| Mshambuliaji ameanguka chini\*\*\* | Herculean |
+| Mshambuliaji yuko kwenye ardhi isiyo thabiti | Vigumu |
 
-_\* Inadhani silaha iliyotupwa au risasi ni hatarishi kwa upepo mkali, na inachukua nafasi ya adhabu ya kawaida iliyowekwa na upepo kwenye ujuzi wa kawaida._
+_\* Inadhani silaha ya kutupwa au risasi iko katika hatari ya upepo wa pembeni, na inachukua nafasi ya adhabu ya kawaida iliyowekwa na upepo kwenye ustadi wa kawaida._
 
-_\*\* Isipokuwa eneo la jumla la shabaha limefunuliwa au linajulikana, kisha chukulia kama Herculean_
+_\*\* Isipokuwa mahali pa jumla pa malengo pamefichuliwa au kujulikana, basi chukulia kama Herculean_
 
-_\*\*\* Adhabu inaweza kuondolewa ikiwa unatumia crossbow au silaha ya moto kutoka eneo lililoandaliwa._
+_\*\*\* Adhabu inaweza kufutwa ikiwa unatumia kombeo au silaha ya moto kutoka kwenye nafasi iliyoandaliwa._
 
-### Kulenga
+### Kulenga (Aiming)
 
-Kwa kutumia muda wa ziada kulenga Silaha ya Masafa Marefu, mhusika anaweza kuongeza uwezekano wake wa kupiga shabaha. Kulenga kunahitaji Raundi nzima ya Mapigano ya kutuliza silaha na kusubiri fursa nzuri zaidi ya kurusha, kwa mfano kuzuia risasi ya upinde kwa utulivu wa upepo au hadi shabaha isogee kati ya vizuizi viwili. Kwa kulenga, mhusika anaweza kupunguza ugumu wa Masafa au Marekebisho ya Hali kwa daraja moja. Raundi za ziada zilizotumiwa kulenga hazitoi faida zaidi.
+Kwa kutumia muda wa ziada kulenga Silaha ya Masafa, mhusika anaweza kuongeza nafasi yake ya kupiga. Kulenga kunahitaji Zamu nzima ya Mapambano ya kutuliza silaha na kusubiri fursa bora ya kuachilia, kwa mfano kusubiri pinde kwa ajili ya utulivu wa muda wa upepo au hadi lengo lisogee kati ya vizuizi viwili. Kwa kulenga, mhusika anaweza kupunguza ugumu wa Masafa au Kigezo MVU Hali kwa hatua moja. Zamu za ziada zilizotumiwa kulenga hazitoi faida zaidi.
 
-### Moto wa Moja kwa Moja
+### Risasi za Moja kwa Moja (Automatic Fire)
 
-Baadhi ya silaha za moto huweka risasi inayofuata kiotomatiki, kwa kutumia gesi chafu, kurudi nyuma, au nishati kutoka kwa risasi iliyopita. Bila hitaji la kupiga tena, hii inampa silaha kiwango cha moto cha aina tofauti, zote zikitegemea ni risasi ngapi mtumiaji anataka kurusha.
+Silaha zingine za moto huingiza risasi inayofuata moja kwa moja, kwa kutumia gesi za taka, kurudisha nyuma, au nishati kutoka kwa risasi iliyopita. Bila haja ya kurudisha jogoo, hii inapa silaha viwango tofauti vya kufyatua risasi, vyote vikitegemea kiasi MVU risasi ambacho mtumiaji anataka kuachilia.
 
-Njia hizi za kurusha zinajulikana kama Semi-Automatic, Burst na Full-Automatic. Ingawa uwezo huu unaweza kufanya baadhi ya bunduki kuweza kusababisha uharibifu mkubwa, kujaribu kudumisha usahihi na silaha zinazorudi nyuma ni shida. Chukulia kwamba sheria zifuatazo zinatumika hasa kwa silaha za kiotomatiki zinazorusha risasi.
+Njia hizi za kufyatua risasi zinajulikana kama Nusu-Moja kwa Moja (Semi-Automatic), Mfululizo (Burst) na Moja kwa Moja Kamili (Full-Automatic). Ingawa uwezo huu unaweza kuzifanya bunduki zingine kuwa na uwezo wa kusababisha uharibifu wa kutisha, kujaribu kudumisha usahihi na silaha zinazozunguka ni tatizo. Chukua kwamba kanuni zifuatazo zinatumika kimsingi kwa silaha za moja kwa moja zinazofyatu risasi.
 
-#### Semi-Automatic
+#### Nusu-Moja kwa Moja
 
-Huu ndio kiwango cha moto cha msingi cha bunduki nyingi, ambapo kila kubonyeza trigger hurusha risasi moja na kupakia risasi inayofuata.
+Hii ndiyo kiwango MVU kawaida MVU kufyatua risasi kwa bunduki nyingi, ambapo kila kuvuta kwa kifyatulio hufyatua risasi moja na kupakia inayofuata.
 
-#### Mlipuko
+#### Mfululizo (Burst)
 
-Kwa moto wa mlipuko, kila kubonyeza trigger hutoa idadi fupi ya risasi, kwa kawaida si zaidi ya tatu hadi tano kulingana na silaha. Madhumuni yake ya awali yalikuwa kuruhusu moto wa kukandamiza mdogo lakini kuzuia matumizi ya risasi kupita kiasi. Haina nia ya kuboresha nafasi ya mpiga risasi kupiga shabaha kwani kurudi nyuma kwa haraka, mfululizo huendelea kuibomoa silaha kutoka mstari. Kurusha kwa hali ya mlipuko huleta adhabu ya ugumu ya Ngumu kwa roll ya shambulio. Ikiwa shambulio linafanikiwa hata hivyo, mpiga risasi hupiga kete ili kuona ni risasi ngapi kati ya hizo zilizopiga shabaha. Hivyo, mlipuko wa raundi tatu ungetumia 1d3. Piga roll tofauti ya eneo na uharibifu kwa kila raundi inayopiga.
+Kwa kufyatua kwa mfululizo kila kuvuta kwenye kifyatulio huachilia idadi ndogo ya risasi, kwa kawaida isiyozidi tatu hadi tano kulingana na silaha. Kusudi lake la awali lilikuwa kuruhusu kufyatua risasi kwa ajili ya kukandamiza lakini kuzuia matumizi makubwa ya risasi. Haikusudiwi kuboresha nafasi ya mpigaji kupiga kwani kurudisha nyuma kwa haraka na mfululizo huendelea kuondoa silaha kwenye mstari. Kufyatua katika hali ya mfululizo huweka adhabu ya kiwango MVU Vigumu kwenye lola la shambulio. Ikiwa shambulio litafanikiwa hata hivyo, mpigaji huzungusha kete ili kuona ni ngapi kati ya risasi kwenye mfululizo huo zilitua kwenye lengo. Kwa hivyo, mfululizo wa risasi tatu ungetumia 1d3. Zungusha eneo na uharibifu tofauti kwa kila risasi inayopiga.
 
-#### Moja kwa Moja Kamili
+#### Moja kwa Moja Kamili (Full-Automatic)
 
-Kawaida hutumiwa kwa moto kamili wa kukandamiza ili kubandika shabaha nyingi, kiotomatiki kamili inaweza kuwa mbaya ikiwa itafyatuliwa kwenye kundi la maadui waliokusanyika kwa karibu. Mpiga risasi huamua ni risasi ngapi za ammo za kufyatua (hadi kikomo cha kiwango cha mzunguko wa silaha) ambazo kisha husambazwa sawasawa kwa shabaha zote zilizojumuishwa kwenye arc ya moto. Risasi zozote za ziada zinachukuliwa kuwa zimepotea wakati wa kurekebisha lengo (hivyo kurusha raundi 15 kwa shabaha 6 itakuwa risasi mbili kila moja). Roll tofauti ya shambulio inafanywa kwa kila shabaha, lakini kwa daraja la ugumu wa Ya Kutisha kutokana na athari za kuongezeka kwa kurudi nyuma kwa moto endelevu. Shabaha hizo zinazopigwa hupata idadi ya nasibu ya raundi kama kwa Moto wa Mlipuko.
+Kwa kawaida hutumika kwa kufyatua risasi za kukandamiza ili kuzuia malengo mengi, moja kwa moja kamili inaweza kuwa ya uharibifu ikiwa itafyatuliwa kwenye kundi la maadui lililokusanyika karibu. Mpigaji huamua idadi ya risasi za kufyatua (hadi kikomo MVU kiwango MVU silaha) ambazo kisha zinasambazwa sawasawa kwenye malengo yote yaliyojumuishwa katika safu ya moto. Risasi zozote za ziada zinachukuliwa kuwa zimepotea wakati wa kugeuza lengo (hivyo kufyatua risasi 15 kwenye malengo 6 itakuwa risasi mbili kila moja). Lola la shambulio tofauti hufanywa kwa kila lengo, lakini kwa kiwango MVU ugumu MVU Kutisha kutokana na athari za kurudisha nyuma kwa risasi endelevu. Malengo yale yanayopigwa hupata idadi ya risasi kama ilivyo kwenye Mfululizo.
 
-Kumbuka kwamba risasi ya kwanza tu inayopiga wakati wa mlipuko au mfululizo wa moja kwa moja inaweza kufaidika na athari maalum. Hivyo, kupiga roll ya critical attack wakati wa kufyatua kwa moja kwa moja kingeruhusu kuchagua Kuongeza Uharibifu, lakini kwa risasi ya kwanza tu, hata kama risasi zote zilizobaki zitapiga shabaha.
+Kumbuka kwamba ni risasi ya kwanza pekee inayopiga wakati wa mfululizo au mwoto wa moja kwa moja kamili ndiyo inayoweza kufaidika na athari maalum. Kwa hivyo, kupata shambulio la kawaida wakati wa kufyatua katika hali ya moja kwa moja kungeiruhusu uchaguzi wa Kuongeza Uharibifu, lakini kwa risasi ya kwanza pekee, hata kama risasi zote zilizobaki zikipiga.#### Kwa nini Risasi za Kiotomatiki Huadhibiwa Sana?
 
-#### Kwa Nini Moto wa Moja kwa Moja Huadhibiwa Vikali Sana?
+Inaweza kuonekana kuwa sheria za risasi za kiotomatiki ni kali sana ikilinganishwa na usahihi dhahiri wa silaha za moto za kisasa. Kuna sababu kadhaa za hili, zile kuu zikiwa ni kurahisisha na uwiano wa mchezo. Wachezaji wanaokosoa usahihi wa mhusika wao wanapaswa kukumbushwa kuwa marekebisho yoyote kwenye sheria yatatumika dhidi yao pia, ambayo kwa kuzingatia uwezo wa kuua wa risasi za haraka inapaswa kuwa wazo la kuzingatia kwa umakini.
 
-Inaweza kuonekana kuwa sheria za moto wa moja kwa moja ni kali kupita kiasi ikilinganishwa na usahihi dhahiri wa silaha za moto za kisasa. Kuna sababu kadhaa za hili, za msingi zikiwa kurahisisha na usawa wa mchezo. Wachezaji wanaokosoa usahihi wa mhusika wao wanapaswa kukumbushwa kuwa mabadiliko yoyote kwenye sheria yatatumika dhidi yao pia, jambo ambalo, kutokana na ukali wa moto wa haraka, linapaswa kuwa mawazo ya kutia akili.
+Bila shaka, baadhi ya adhabu hizi za msukumo (recoil) zinaweza kupunguzwa, kwa mfano kwa kutumia Silaha Imara (Steady Weapon) ili kutegemeza silaha za moto za kiotomatiki. Hata hivyo, ukweli wa mambo ni kwamba, mapigano ya risasi ni tofauti sana na kulenga shabaha kwenye uwanja wa mazoezi ya risasi. Silika ya kujificha wakati risasi zinaporuka, hitaji la kubaki na uhamaji, na kila risasi inayofyatuliwa ikifichua mpiga risasi kwa mwanga wa mdomo wa bunduki au sauti yake, mara nyingi huzuia nafasi yoyote ya kulenga au kutegemeza silaha. Usemi 'Nyunyizia na Uombe' (Spray and Pray) ulibuniwa kwa sababu nzuri sana!
 
-Bila shaka, baadhi ya adhabu hizi za kurudi nyuma zinaweza kupunguzwa, kwa mfano kwa kutumia Imarisha Silaha kujitegemeza silaha za moto za kiotomatiki. Ukweli wa mambo ni, hata hivyo, kwamba mapigano ya risasi ni tofauti sana na kulenga risasi kwenye uwanja wa bunduki. Silika ya kujificha wakati risasi zinaruka, hitaji la kusonga na kila risasi inayopigwa ikiashiria mpiga risasi kwa mwako wa mdomo wake au sauti, mara nyingi huzuia nafasi yoyote ya kulenga au kujitegemeza. Kauli 'Piga na Omba' ilizaliwa kwa sababu nzuri sana!
+### Silaha za Moto Pacha
 
-### Silaha Mbili za Moto
+Wahusika wanaweza kutumia silaha mbili za moto, wakifyatua silaha zote mbili kwa wakati mmoja wakati wa zamu yao ili kupata kiwango MVU haraka zaidi MVU ufyatuaji risasi. Hata hivyo, hii huja na adhabu ya usahihi. Kufyatua bastola katika kila mkono kunapata adhabu ya Ngumu (Hard) kupiga shabaha. Wale wanaojaribu kufyatua risasi kwa wakati mmoja wakiwa na kabini au SMG katika kila mkono wanapata adhabu ya ya Kutisha (Formidable).
 
-Wahusika wanaweza kutumia silaha mbili za moto, wakipiga risasi zote mbili kwa wakati mmoja wakati wa zamu yao ili kupata kiwango cha moto cha haraka zaidi. Hata hivyo, hii inakuja na adhabu kwa usahihi. Kufyatua bastola kila mkono kunapata adhabu ya Ngumu kupiga shabaha. Wale wanaojaribu kufyatua risasi kwa wakati mmoja kwa kutumia carbine au SMG kila mkono wanapata adhabu ya Ya Kutisha.
+### Kufyatua Risasi kwenye Umati
 
-### Kufyatua Risasi Kwenye Umati
+Kufyatua risasi kwenye msukosuko wa mapigano ya ana kwa ana kunaweza kuwa jambo hatari, kwa hivyo daima kuna hatari ya kumpiga mtu yeyote kimakosa badala ya shabaha iliyokusudiwa. Unapofyatua risasi kwenye shabaha mahususi pembezoni mwa umati au mapigano, shambulio hilo linapata Kiwango MVU Ugumu MVU Ngumu (Hard). Ikiwa unajaribu kufyatua risasi kupitia umati, inapaswa kupandishwa hadi ya Kutisha (Formidable). Kulenga shabaha bado kunaruhusiwa ili kusaidia kupunguza hatari.
 
-Kupiga risasi kwenye mzunguko wa fujo wa mapigano ya ana kwa ana kunaweza kuwa hatari, hivyo kuna hatari daima ya kumpiga mtu kimakosa badala ya lengo lililokusudiwa awali. Unapopiga risasi kwenye lengo maalum lililo pembeni ya umati au mapigano ya ana kwa ana, shambulio linapata Daraja la Ugumu la Ngumu. Ikiwa unajaribu kupiga risasi kupitia umati, ugumu unapaswa kuongezwa hadi Ya Kutisha. Kulenga bado kunaruhusiwa kusaidia kupunguza hatari.
+Mpiga shabaha anayefaulu majaribio yake ya kushambulia licha ya adhabu ya ugumu amelenga kwa usahihi na atapiga shabaha yake iliyokusudiwa. Hata hivyo, ikiwa mpiga shabaha atafeli majaribio hayo, lakini angeweza kufaulu kama si adhabu ya 'kufyatua risasi kwenye umati', basi mhanga aliye karibu anapigwa badala yake (ambaye yuko huru kukwepa au kuzuia kama kawaida).
 
-Mpiga risasi stadi anayefaulu roll yake ya shambulio licha ya adhabu ya ugumu atakuwa amepiga risasi sahihi na atampiga lengo alilokusudia. Hata hivyo, ikiwa mpiga risasi stadi atashindwa roll, lakini angefanikiwa ikiwa si kwa adhabu ya 'kufyatua risasi kwenye umati', basi mwathirika aliye karibu anapigwa badala yake (ambaye yuko huru kukwepa au kuzuia kama kawaida).
+Ikiwa kuna shabaha zaidi ya moja kwenye mstari wa risasi, Msimamizi wa Mchezo (Games Master) anapaswa kuamua mhanga kwa kubahatisha. Athari Maalum zozote zilizoshindwa kama sehemu ya shambulio hutumika tu kwa shabaha ya asili, si kwa mtu yeyote aliyepigwa kimakosa.
 
-Ikiwa zaidi ya shabaha moja iko kwenye mstari wa moto, Msimamizi wa Michezo anapaswa kuamua mwathirika kwa nasibu. Athari Maalum zozote zilizoshinda kama sehemu ya shambulio zinatumika tu kwa shabaha ya awali, sio kwa mtu yeyote aliyepigwa kimakosa.
+### Kukosea kwa Silaha za Moto
 
-### Kufumble na Silaha za Moto
-
-Kwa kuwa milio ya risasi kwa kawaida haipingwi na ujuzi wa kupingana, utaratibu maalum unapaswa kufanywa wakati mpiga risasi anafumble roll yake ya shambulio. Katika kesi hii, yeyote aliyekuwa shabaha iliyokusudiwa anaruhusiwa kuchagua athari maalum maalum ya fumble, ambayo mpiga risasi kisha hupata. Tazama pia Athari Maalum ya fumble tu - Hitilafu ya Silaha.
+Kwa kuwa risasi kwa kawaida hazipingwi na ujuzi mpinzani, masharti maalum yanapaswa kufanywa wakati mpiga risasi anapokosea majaribio yake ya kushambulia. Katika hali hii, yeyote aliyekuwa shabaha iliyokusudiwa anaruhusiwa kuchagua athari maalum ya kukosea (fumble), ambayo mpiga risasi huipata. Tazama pia Athari Maalum ya kukosea pekee - Hitilafu ya Silaha (Weapon Malfunction).
 
 ### Kuzuia Moto wa Silaha kwa Ngao
 
-Kama ilivyoelezwa hapo awali, ni karibu haiwezekani kuzuia kwa makusudi projectile yenye kasi ya sauti au boriti ya nishati. Hata hivyo, ngao bado hutoa kiwango fulani cha ulinzi kwani kwa kweli ni 'kifuniko' kinachoweza kubebeka. Ili kutumia ngao katika mapigano ya risasi, tumia tu sheria za Kuzuia kwa Passive kutoka sehemu ya [Mapigano ya Karibu](0005_Combat.md?id=passive-blocking) hapo juu.
+Kama ilivyoelezwa hapo awali, karibu haiwezekani kuzuia kwa makusudi projectile ya kasi ya sauti au miale ya nishati. Hata hivyo, ngao bado hutoa kiwango MVU ulinzi kwa sababu kimsingi ni 'kifuniko' kinachoweza kubebeka. Ili kutumia ngao katika mapigano ya risasi, tumia tu sheria za Kuzuia Tulivu (Passive Blocking) kutoka sehemu ya [Mapigano ya Karibu](0005_Combat.md?id=passive-blocking), hapo juu.
 
-Kuhusu silaha za moto za kisasa zaidi au zile za asili ya sci-fi, Msimamizi wa Michezo anaweza kutaka kuipa ngao thamani ya Pointi za Silaha badala ya kuipeana Ukubwa, kulingana na nyenzo asili iliyotengenezwa. Kwa mfano, ngao ya mbao inaweza kuchukuliwa kama Pointi 4 za Silaha, ngao ya Kevlar ya kimbinu Pointi 8 za Silaha, na ngao ya ulinzi wa uga wa Ulysses 31 yenye bangili Pointi 15 za Silaha.
+Kuhusu silaha za moto za kisasa zaidi au zile za aina ya hadithi za kisayansi, Msimamizi wa Mchezo anaweza kutaka kuipa ngao thamani ya Pointi za Silaha (Armor Point) badala ya kuipatia Ukubwa, kulingana na nyenzo asilia iliyotengenezwa kwayo. Kwa mfano, ngao ya mbao inaweza kuchukuliwa kama Pointi 4 za Silaha, ngao ya mbinu ya Kevlar 8 AP, na ngao ya uwanja wa nguvu ya bangili ya Ulysses 31 15 AP.
 
-### Vituko vya Darubini
+### Vitazamio vya Teleskopiki (Telescopic Sights)
 
-Kioo cha darubini huongeza usahihi wa silaha ya moto kwa umbali mrefu zaidi wakati mtumiaji anachukua muda kulenga vizuri (tazama Kulenga). Vituko vya msingi zaidi vya darubini ni viukuza vya macho tu, lakini kadiri teknolojia inavyoendelea, huanza kujumuisha vifaa vya kupima umbali vilivyojengwa ndani, vihesabio vya trajectory ya projectile, sensorer za harakati za hewa, fidia za lenzi za anga, vikuza vya IR au mwanga hafifu na vifaa vingine vingi vinavyoboresha umbali wake wa 'kupiga' kwa ufanisi.
+Kizatamio MVU teleskopiki huboresha usahihi wa silaha ya moto katika umbali mkubwa wakati mtumiaji anachukua muda kulenga vizuri (tazama Kulenga). Vitazamio vya teleskopiki vya msingi zaidi ni vikuza macho tu, lakini kadiri teknolojia inavyoendelea, huanza kuingiza vipima umbali vilivyojengewa ndani, vikokotoo vya trajectory ya projectile, vitambuzi vya mwendo wa hewa, vifidia vya lenzi ya anga, viboreshaji vya IR au mwanga mdogo na rundo la vifaa vingine vinavyoboresha umbali wake wa 'kupiga' kwa ufanisi.
 
-Vituko vya Darubini hurahisisha rolls za ujuzi kwa Daraja moja au zaidi (tazama [Kurekebisha Ujuzi](0003_Skills.md?id=modifying-skills)), kulingana na ustadi wa kioo. Hakuna kioo kinachoweza kufanya roll ya ujuzi kuwa mafanikio ya Moja kwa Moja, hivyo Daraja bora zaidi linaloweza kufikiwa ni Rahisi Sana.
+Vitazamio vya Teleskopiki hufanya majaribio ya ujuzi kuwa rahisi kwa Kiwango kimoja au zaidi (tazama [Kubadilisha Ujuzi](0003_Skills.md?id=modifying-skills)), kulingana na utata wa kizatamio. Hakuna kizatamio kinachoweza kufanya jaribio la ujuzi kuwa la kufaulu Kiotomatiki, kwa hivyo Kiwango bora zaidi kinachoweza kupatikana ni Rahisi Sana (Very Easy).
 
 ---
-## Silaha na Silaha za Kujikinga
+## Silaha na Silaha za Kinga (Arms and Armor)
 
-Zinawasilishwa hapa ni uteuzi wa silaha za kujikinga na silaha kutoka mazingira na tamaduni mbalimbali.
+Hapa kuna uteuzi wa silaha za kinga na silaha kutoka kwa anuwai ya mazingira na miktadha.
 
-### Jedwali la Sampuli za Silaha za Kujikinga
+### Jedwali la Sampuli ya Silaha za Kinga
 
-| Ya Kale/Zama za Kati | Kisasa | Futuristic | Pointi za Silaha |
+| Kale/Zama za Kati | Kisasa | Futuristic | Pointi za Silaha |
 | :-- | :-- | :-- | :-: |
-| Manyoya/Ngozi | Ngozi za Pikipiki | | 1 |
-| Aketon, Gambeson | Nguo za Michezo | | 2 |
-| Linothorax | Kitambaa cha Kupunguza Risasi | | 3 |
-| Brigandine | Flak Jacket | Silaha ya Mwili ya Kimiminika | 4 |
-| Hoplite Plate | Gia ya Ghasia | | 5 |
-| Barua | Fulana ya Kuzuia Risasi Aina ya I | Adaptive Mesh | 6 |
-| Barua Iliyopakwa Bamba | Fulana ya Kuzuia Risasi Aina ya II | | 7 |
-| | Fulana ya Kuzuia Risasi Aina ya III | Silaha Nyepesi ya Kushambulia | 8 |
-| | Fulana ya Kuzuia Risasi Aina ya IV | | 10 |
-| | | Silaha Kamili ya Kushambulia | 12 |
+| Manyoya/Ngozi | Ngozi za Baiskeli | | 1 |
+| Aketon, Gambeson | Gia za Michezo | | 2 |
+| Linothorax | Kitambaa MVU Ballistic | | 3 |
+| Brigandine | Koti la Flak | Silaha ya Mwili ya Maji | 4 |
+| Bamba la Hoplite | Gia za Ghasia | | 5 |
+| Barua (Mail) | Vest ya kuzuia risasi ya Aina ya I | Wavu wa Kubadilika | 6 |
+| Barua Iliyopakwa Bamba | Vest ya kuzuia risasi ya Aina ya II | | 7 |
+| | Vest ya kuzuia risasi ya Aina ya III | Silaha ya Mashambulizi Mepepesi | 8 |
+| | Vest ya kuzuia risasi ya Aina ya IV | | 10 |
+| | | Silaha Kamili ya Mashambulizi | 12 |
 
-### Jedwali la Sampuli za Ngao
+### Jedwali la Sampuli ya Ngao
 
-| Aina ya Ngao | Uharibifu | Ukubwa | AP/HP | Idadi ya Maeneo ya Kuzuia kwa Passive |
+| Aina ya Ngao | Uharibifu | Ukubwa | AP/HP | Idadi ya Maeneo ya Kuzuia Tulivu |
 | :-- | :-: | :-: | :-: | :-: |
 | Buckler | 1d3 | M | 6/9 | 2 |
 | Heater | 1d4 | L | 6/12 | 3 |
@@ -808,34 +801,34 @@ Zinawasilishwa hapa ni uteuzi wa silaha za kujikinga na silaha kutoka mazingira 
 | Scutum | 1d4 | H | 4/18 | 5 |
 | Viking/Ngao ya Ghasia | 1d4 | L | 4/12 | 4 |
 
-### Sampuli za Silaha za Melee
+### Sampuli ya Silaha za Mapigano ya Karibu
 
-| Silaha | Uharibifu | Ukubwa | AP/HP | Maelezo |
+| Silaha | Uharibifu | Ukubwa | AP/HP | Vidokezo |
 | :-- | :-: | :-: | :-: | :-- |
-| Shoka | 1d6+1 | M | 4/8 | Inaweza Kuchana Silaha |
+| Shoka | 1d6+1 | M | 4/8 | Inaweza Kupasua Silaha |
 | Upanga Mpana | 1d8 | M | 6/10 | — |
-| Mnyororo | 1d4 | M | 8/6 | Inaweza kufunga |
-| Rungu | 1d6 | M | 4/4 | — |
-| Kisu Kidogo | 1d4+1 | S | 6/8 | Inaweza kutupwa |
-| Ngumi/Teke | 1d3 | S | — | Uharibifu wa Mapigano ya Binadamu Bila Silaha |
-| Upanga Mrefu | 1d8 | M | 6/12 | Mikono miwili |
-| Rungu la Chuma | 1d8 | M | 6/6 | — |
-| Wavu | 1d4 | S | 2/20 | Kufunga, Kutupwa |
+| Minyororo | 1d4 | M | 8/6 | Inaweza kunasa |
+| Kifimbo | 1d6 | M | 4/4 | — |
+| Jambia | 1d4+1 | S | 6/8 | Inaweza kutupwa |
+| Ngumi/Teke | 1d3 | S | — | Uharibifu wa Mapigano ya Binadamu bila Silaha |
+| Upanga Mrefu | 1d8 | M | 6/12 | Mkono mbili |
+| Msumari | 1d8 | M | 6/6 | — |
+| Wavu | 1d4 | S | 2/20 | Kunasa, Kutupwa |
 | Upanga Mfupi | 1d6 | M | 6/8 | — |
-| Mkuki wa Mkono 1 | 1d8+1 | M | 4/5 | |
-| Mkuki wa Mikono 2 | 1d10+1 | L | 4/10 | Inaweza kuwekwa kupokea shambulio la ghafla |
-| Nyundo ya Vita | 1d8+1 | M | 3/8 | Mikono miwili |
-| Mjeledi | 1d3 | M | 2/8 | Kufunga |
+| Mkuki 1H | 1d8+1 | M | 4/5 | |
+| Mkuki 2H | 1d10+1 | L | 4/10 | Inaweza kuwekwa ili kupokea malipo |
+| Nyundo ya Vita | 1d8+1 | M | 3/8 | Mkono mbili |
+| Mjeledi | 1d3 | M | 2/8 | Kunasa |
 
-### Sampuli za Silaha za Masafa Marefu
+### Sampuli ya Silaha za Masafa
 
-| Silaha | Uharibifu | Marekebisho ya Uharibifu | Nguvu | Masafa (Mita) | Mzigo | Ukubwa wa Kutoga | AP/HP |
+| Silaha | Uharibifu | Kirekebishaji MVU Uharibifu | Nguvu | Masafa (Mita) | Mzigo | Ukubwa wa Impale | AP/HP |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Bolas | 1d4 | N | — | 10/25/50 | — | — | 2/2 |
 | Upinde | 1d8 | Y | L | 15/100/200 | 1 | S | 4/4 |
-| Kisu Kidogo | 1d4 | Y | S | 5/10/20 | — | S | 4/8 |
-| Fumo | 1d8+1 | Y | H | 10/20/50 | — | M | 3/8 |
-| Kombeo | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
+| Jambia | 1d4 | Y | S | 5/10/20 | — | S | 4/8 |
+| Mkuki | 1d8+1 | Y | H | 10/20/50 | — | M | 3/8 |
+| Tepe | 1d8 | N | L | 10/150/300 | 2 | — | 1/2 |
 | Jiwe/Mwamba | 1d3 | Y | S | 5/10/20 | — | — | — |
 | Bastola | 1d6 | N | L | 50/100/200 | 2 | — | — |
 | Bunduki | 2d6 | N | H | 100/300/2000 | 2 | — | — |
