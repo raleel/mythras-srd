@@ -1,46 +1,46 @@
-# Galdrar og hæfileikar
+# Galdrar og ofurkraftar
 
-Leikstjórar sem vilja bæta við galdrakerfi og/eða ofurkraftum í leikina sína finna hér grunnreglur fyrir slíkt. Það er alltaf best að ganga úr skugga um að allir sem taka þátt í leiknum séu sáttir við að galdrar eða ofurkraftar séu innifalin, og alltaf skal íhuga hvers konar leik slíkt gæti skapað.
+Leikstjórar sem vilja bæta galdrum og/eða ofurkröftum við leikinn sinn munu finna grunnreglur fyrir því í þessum kafla. Það er alltaf best að tryggja að allir sem taka þátt í leiknum séu sáttir við að galdrar eða ofurkraftar séu innifalin, og alltaf skal íhuga hvers konar leik það gæti skapað.
 
 ---
 ## Hvernig kraftar virka
 
-Að kasta töfrum eða nota ofurkraft krefst yfirleitt þess að orku sé eytt úr potti punkta. Stærð þessa potts jafngildir POW-eiginleika persónunnar. Hjá galdramönnum kallast þessi pottur Galdrapunktar (Magic Points), en hjá ofurhetjum kallast hann Kraftpunktar (Power Points). Notkun galdra eða krafta kostar ákveðinn fjölda punkta sem dregst frá pottinum, og þegar potturinn er tómur er ekki hægt að kasta fleiri töfrum eða nota krafta fyrr en þeir endurnýjast.
+Að kasta galdri eða nota ofurkraft krefst yfirleitt þess að eytt sé einhvers konar orku sem dregin er úr sjóði punkta. Stærð þessa sjóðs er jöfn MÁT-eiginleika persónunnar, og í tilfelli galdramanna er sjóðurinn þekktur sem Galdrapunktar; og fyrir ofurhetjur, Kraftpunktar. Notkun galdra eða krafta kostar ákveðinn fjölda punkta sem dregst frá þessum sjóði, og þegar sjóðurinn er tómur er ekki hægt að kasta fleiri galdrum eða nota krafta fyrr en hann endurheimtist.
 
-Galdrapunktar endurnýjast um fjölda punkta sem jafngildir Healing Rate persónunnar á klukkustund, allt þar til þeir ná marki sem jafngildir POW persónunnar. Þetta gerir ráð fyrir að persónan geti hvílst algjörlega, taki ekki þátt í öðrum athöfnum og sé ekki að jafna sig eftir þreytu eða meiðsl. Ef svo er getur leikstjóri aukið tímann sem það tekur að endurnýja Galdra-/Kraftpunkta, eða minnkað Healing Rate.
+Galdrar endurheimtast um fjölda punkta sem samsvarar lækningahraða (Healing Rate) persónunnar á klukkustund þar til þeir ná stigi sem jafngildir MÁT-eiginleika persónunnar. Þetta gerir ráð fyrir að persónan geti hvílst fullkomlega, taki ekki þátt í neinni annarri starfsemi, og sé ekki að jafna sig eftir þreytu eða meiðsli. Ef svo er getur leikstjórinn aukið tímann sem það tekur að endurheimta Galdra/Kraftpunkta, eða minnkað lækningahraðann.
 
-Hvað varðar ofurkrafta, þá endurnýjast Kraftpunktar um einn punkt á hverri fullri mínútu í hvíld, en persónur geta einnig eytt Gæfupunkti (Luck Point) til að endurheimta strax 1d4+1 tapaða Kraftpunkta, upp að hámarki.
+Fyrir ofurkrafta endurheimtast Kraftpunktar með hraðanum einn fyrir hverja heila mínútu af hvíld, en persónur geta líka eytt Gæfupunkti (Luck Point) til að endurheimta strax 1d4+1 tapaða Kraftpunkta, allt að hámarki.
 
-#### Að kasta töfrum
+#### Að kasta galdrum
 
-Töfrar eru kastaðir með Galdrahæfni (Magic skill); án hennar eru galdrar einfaldlega ekki mögulegir. Að undirbúa og kasta töfrum krefst einnar aðgerðar (Action) og vel heppnaðs Galdrakasts. Ef kastið mistekst virkar galdurinn ekki og hann verður að vera undirbúinn og reyndur aftur síðar. Ef kastið heppnast virkar galdurinn og Galdrapunktar eru dregnir frá Galdrapottinum.
+Galdrar eru kastaðir með Galdrahæfni (Magic skill); án hennar er galdra ekki mögulegt að iðka. Að undirbúa og kasta galdri krefst einnar aðgerðar og velheppnaðs Galdrakasts. Ef kastið mistekst virkar galdurinn ekki og verður að undirbúa hann og reyna aftur síðar. Ef kastið heppnast virkar galdurinn og Galdrapunktar eru dregnir frá Galdrapunktasjóðnum.
 
-#### Að nota ofurkrafta
+#### Notkun ofurkrafta
 
-Ofurhetjur uppgötva að ofurkraftar þeirra eru alltaf virkir, og því þarf hvorki kast né eyðslu Kraftpunkta til að nota þá; hins vegar, ef reynt er að auka (Boost) kraft, þá er kostnaður í Kraftpunktum.
+Ofurhetjur uppgötva að ofurkraftur þeirra er alltaf virkur, og því þarf ekkert kast til að nota hann né útgjöld Kraftpunkta; hins vegar, ef reynt er að efla (Boost) kraft, þá er kostnaður í Kraftpunktum.
 
 ---
 ## Upphafskraftar og að læra nýja
 
 #### Galdramenn
 
-Galdramenn byrja með 1d4+1 töfra, sem allir eru kastaðir með Galdrahæfni. Leikmaðurinn og leikstjórinn ættu að ráðfæra sig um hvaða töfrar eru í boði og hvernig persónan eignaðist þá. Til dæmis gæti persónan hafa verið lærlingur hjá staðbundnum galdramanni, eða lært galdra í faðmi fjölskyldunnar.
+Galdramenn byrja með 1d4+1 galdra, sem allir eru kastaðir með Galdrahæfni. Leikmaðurinn og leikstjórinn ættu að ráðfæra sig um hvaða galdrar eru í boði og hvernig persónan komst yfir þá. Til dæmis gæti persónan hafa verið lærlingur hjá staðbundnum galdramanni, eða hafa lært galdra í móðurfangi.
 
-Hægt er að læra fleiri töfra, en það kostar 3 reynsluköst (Experience Rolls) að læra nýjan töfra og tekur viku af skipulögðu námi og æfingu. Nýja töfra verður að læra af kennara eða áreiðanlegum heimildum (eins og skrollu eða galdrabók sem hönnuð er til að kenna nýjan töfra).
+Hægt er að læra fleiri galdra, en það kostar 3 reynsluköst (Experience Rolls) að læra nýjan galdur, og tekur viku af einbeittu námi og æfingu. Nýja galdra verður að læra af kennara eða áreiðanlegum heimildum (eins og skrollu eða galdrabók sem ætluð er til kennslu á nýjum galdri).
 
 #### Ofurhetjur
 
-Fyrir ofurhetjur ættu leikstjóri og leikmaður að ákveða hvernig persónan eignaðist krafta sína og hver uppspretta kraftsins er (til dæmis gæti það verið sérstök herklæði, hæfileikar fengnir vegna geimgeisla eða erfðabreyting).
+Fyrir ofurhetjur ættu leikstjórinn og leikmaðurinn að ákveða hvernig persónan fékk krafta sína, og hver uppspretta kraftanna er (til dæmis gæti það verið sérstakt brynja, hæfileikar fengnir með útsetningu fyrir geimgeislum, eða erfðabreyting).
 
-Ofurhetjur byrja með fjölda grunnkrafta sem ákvarðast af POW plús annan eiginleika sem byggist á uppsprettu kraftanna: CON fyrir breytta lífeðlisfræði (stökkbreyting, geimverur, tilraunir) eða INT fyrir tækni eða færnitengda krafta (kybernetík, bardagabúningar, mikil þjálfun, o.s.frv.). Sjá töfluna hér að neðan.
+Ofurhetjur byrja með fjölda kjarnakrafta sem ákvarðast af MÁT auk annars eiginleika sem byggist á uppsprettu kraftanna: ÞOL fyrir breytta lífeðlisfræði (stökkbreyting, framandi tegundir, tilraunir) eða GRE fyrir tækni- eða hæfnitengda krafta (kybernetík, bardagabrynja, mikil þjálfun, o.s.frv.). Sjá töflu hér að neðan.
 
-Hægt er að skipta grunnkrafti út fyrir tvær aukningar (Boosts) sem hægt er að beita á hvaða grunnkraft sem er. Persóna getur einnig tekið allt að tvær takmarkanir (Limits) af listanum sem byrjar í Ofurkrafta-hlutanum, þar sem ein veitir bónusaukningu, eða tvær veita bónusgrunnkraft. Úrval krafta og dæmi um aukningar eru skráð í [Ofurkraftar](0007_Magic.md?id=superpowers) hlutanum.
-
-
-##### Ofurkraftatafla
+Hægt er að skipta kjarnakrafti út fyrir tvær eflingar (Boosts) sem hægt er að beita á hvaða kjarnakraft sem er. Persóna getur einnig tekið allt að tvær takmarkanir (Limits) af listanum sem hefst í kaflanum um Ofurkrafta, þar sem ein veitir bónus-eflingu, eða tvær veita bónus-kjarnakraft. Úrval krafta og dæmi um eflingar eru skráð í [Ofurkraftar](0007_Magic.md?id=superpowers) kaflanum.
 
 
-| POW+(CON eða INT) | Grunnkraftar |
+##### Tafla yfir ofurkrafta
+
+
+| MÁT+(ÞOL eða GRE) | Kjarnakraftar |
 |:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
@@ -52,361 +52,359 @@ Hægt er að skipta grunnkrafti út fyrir tvær aukningar (Boosts) sem hægt er 
 ---
 ## Galdrar
 
-Alltaf þegar persóna vill nota töfra, kastar hún fyrir Galdrahæfni sinni. Að kasta tekur eina umferð, en magn Galdrapunkta sem notað er og hvort galdurinn heppnast fer eftir niðurstöðu kastsins.
+Hvenær sem persóna vill nota galdur kasta þeir teningum gegn Galdrahæfni sinni. Að kasta galdri tekur eina umferð, en magn Galdrapunkta sem notaðir eru og hvort galdurinn tekst veltur á niðurstöðu kastsins.
 
 Ef Galdrakastið er...
 
-- **Gagnrýnið heppnað (Critical Success):** kostnaður galdursins í Galdrapunktum er núll.
-- **Heppnað:** kastarinn missir 1 Galdrapunkt og galdurinn virkar.
-- **Mistekst:** kastarinn missir 1 Galdrapunkt, en galdurinn virkar ekki.
-- **Klaufaskapur (Fumble):** kastarinn missir 1d3 Galdrapunkta fyrir galdurinn og hann mistekst.
+- **Gagnrýnið velheppnað:** Galdrapunktakostnaður galdursins er núll.
+- **Velheppnað:** Kastarinn missir 1 Galdrapunkt og galdurinn virkar.
+- **Mistök:** Kastarinn missir 1 Galdrapunkt en galdurinn virkar ekki.
+- **Klaufaskapur:** Kastarinn missir 1d3 Galdrapunkta fyrir galdurinn og galdurinn mistekst.
 
 Vegna smávægilegs eðlis þeirra hafa allir galdrar sjálfgefinn styrk (Intensity) og stærðargráðu (Magnitude) upp á 1.
 
 
-#### Takmörk á galdragetu
+#### Takmarkanir á galdragetu
 
-Persónur hafa engin raunveruleg takmörk á fjölda galdra sem þær geta lært, svo lengi sem leikstjórinn leyfir þeim aðgang að nýjum.
+Persónur hafa engin raunveruleg takmörk á fjölda galdra sem þær geta lært, að því gefnu að leikstjórinn leyfi þeim aðgang að nýjum.
 
 #### Galdrar
 
-Töfrar eru skilgreindir með ýmsum eiginleikum sem skilgreina áhrif galdursins og hvers kyns takmarkanir. Hver galdur er mismunandi og sumir hafa færri eiginleika en aðrir.
+Galdrar eru skilgreindir með ýmsum eiginleikum sem ákvarða áhrif galdursins og hvers kyns sérstakar takmarkanir. Hver galdur er ólíkur og sumir hafa færri eiginleika en aðrir.
 
 #### Lengd galdra
 
-Nema galdur hafi annað hvort Einbeitingar (Concentration) eða Augnabliks (Instant) eiginleika, hefur hann náttúrulega lengd sem varir út senuna eða aðgerðina sem galdurinn var notaður í. Nokkrir galdrar hafa sérsniðna lengd sem skráð er í skilgreiningu galdursins.
+Nema galdur hafi annað hvort einbeitingar- (Concentration) eða tafarlaus (Instant) eiginleika, hefur hann náttúrulega lengd sem varir í alla senuna eða aðgerðina sem galdurinn var notaður fyrir. Nokkrir galdrar hafa sérsniðna lengd sem tekið er fram í skilgreiningu galdursins.
 
 #### Galdraeiginleikar
 
-Galdraeiginleikar eru sem hér segir:
+Galdraeiginleikar eru eftirfarandi:
 
-- **Einbeiting (Concentration):** Áhrif galdursins haldast á sínum stað ef kastarinn heldur áfram að einbeita sér að því að viðhalda honum. Einbeiting krefst þess að kastarinn sé laus við allar líkamlegar og andlegar truflanir: hvers kyns truflun rýfur einbeitinguna, sem leiðir til þess að galdurinn hættir strax.
-- **Augnablik (Instant):** Áhrif galdursins gerast strax. Hann hefur enga lengd.
-- **Fjar-galdur (Ranged):** Hægt er að kasta töfrum með Fjar-eiginleikanum í allt að Galdrastig persónunnar í metrum. Kastarinn verður að vita staðsetningu skotmarksins, svo sem "felur sig á bak við dyrnar": ef hann getur ekki séð eða skynjað skotmarkið beint, þá verður Galdrakastið eitt stig erfiðara.
-- **Viðnám (Resist - Endurance, Evade, Willpower):** Hægt er að standast hvern þann galdur sem skotmarkið samþykkir ekki auðveldlega með því að nota annað hvort Endurance, Evade eða Willpower, eins og ákvarðast af þessum eiginleika. Til að standast galdur með árangri verður skotmarkið að vinna í andstæðu kasti (Opposed Roll) á viðkomandi hæfni gegn Galdrakasti kastara. Ef skotmarkinu mistekst kastið, þá tekur galdurinn gildi eins og venjulega. Athugaðu að viðnám er yfirleitt óvirk aðgerð ef Endurance eða Willpower eru notaðir. Ef galdur krefst þess að skotmarkið forðist (Evade), þá kostar það eitt Aðgerðapunkt (Action Point) að reyna að forðast. Skotmörk án Aðgerðapunkta til að eyða í forðun munu því vera varnarlaus gegn áhrifum galdursins.
-- **Snerting (Touch):** Kastarinn verður að vera í líkamlegri snertingu við skotmarkið á meðan galdurinn er kastaður. Ef skotmarkið hefur hug á að standast líkamlega snertingu, þá mun kastarinn líklegast mistakast við að ljúka galdri sínum nema sérstakar aðstæður komi í veg fyrir að skotmarkið hörfi, svo sem óvænt árás eða Grip-séráhrifin. Snertigaldur þarf aðeins að snerta skotmarkið eða búnað sem það ber til að virka.
+- **Einbeiting (Concentration):** Áhrif galdursins haldast ef kastarinn heldur áfram að einbeita sér að því að viðhalda honum. Einbeiting krefst þess að kastarinn sé laus við allar líkamlegar og andlegar truflanir: hvers kyns slík truflun rofir einbeitinguna, sem leiðir til þess að galdurinn fellur strax niður.
+- **Tafarlaus (Instant):** Áhrif galdursins gerast strax. Hann hefur enga lengd.
+- **Langdrægur (Ranged):** Galdra með langdræga eiginleikann má kasta í allt að þá fjarlægð sem Galdrahæfni persónunnar er í metrum. Kastarinn verður að vita staðsetningu skotmarksins, eins og 'felur sig á bak við dyrnar': ef þeir geta ekki séð eða skynjað skotmark galdursins beint, verður Galdrakastið eitt stig erfiðara.
+- **Viðnám (Resist - ÞOL, LIP, MÁT):** Hvers kyns galdri sem skotmark samþykkir ekki auðveldlega má mótmæla virkt með því að nota annaðhvort ÞOL, LIP eða MÁT, eins og ákvarðað er af þessum eiginleika. Til að standast galdur með árangri verður skotmarkið að vinna andstætt kast viðeigandi hæfni gegn niðurstöðu Galdrakastsins. Ef skotmarkið mistekst í kastinu tekur galdurinn gildi eins og venjulega. Athugið að viðnám er yfirleitt óvirk aðgerð ef ÞOL eða MÁT eru notuð. Ef galdur krefst þess að skotmarkið bregðist við (LIP/Evade), kostar það aðgerðapunkt að reyna að bregðast við. Skotmörk án aðgerðapunkta til að eyða í undanbrögð verða því máttlaus gegn áhrifum galdursins.
+- **Snerting (Touch):** Kastarinn verður að vera í líkamlegri snertingu við skotmarkið á meðan galdurinn er kastaður. Ef skotmark ætlar sér að standa gegn líkamlegri snertingu, mun kastarinn líklegast mistakast við að ljúka galdri sínum nema sérstakar aðstæður komi í veg fyrir undanhald skotmarksins, eins og óvænt árás eða Grip-séráhrifin. Snertigaldur þarf aðeins að snerta skotmarkið eða búnað þess til að virka.
 
 
 ---
-## Lýsingar á töfrum
+## Galdralýsingar
 
-#### Alarm (Viðvörun)
+#### Viðvörun (Alarm)
 
 _Sérstök lengd_
 
-Að kasta Alarm á stað eins og herbergi eða lítinn rjóður skapar tímabundin sálræn tengsl milli svæðisins og kastarans. Ef lifandi vera með SIZ meiri en 1 fer inn á svæðið, verður kastarinn sjálfkrafa var við að eitthvað hefur farið inn, sama hversu mikil fjarlægðin er. Alarm er yfirleitt skýr náladofi eða andlegur kippur sem vekur kastarann. Einnig er hægt að nota Alarm á einstakan hlut, sem kveikir á sér við snertingu eða hreyfingu.
+Að kasta Viðvörun á stað eins og herbergi eða litla rjóður skapar tímabundin sálræn tengsl á milli svæðisins og kastarans. Ef svæðið er nálgast af lifandi veru með STÆ meiri en 1, verður kastarinn sjálfkrafa var við að eitthvað hefur farið inn á svæðið, óháð fjarlægð. Viðvörunin er yfirleitt skýr náladofi eða andlegt sting sem vekur kastarann. Einnig er hægt að nota Viðvörun á einstakan hlut, sem kallar á viðvörun þegar hann er snertur eða færður til.
 
-#### Avert (Afstýra)
+#### Afstýring (Avert)
 
-_Augnablik, Fjar-galdur_
+_Tafarlaus, Langdrægur_
 
-Avert er notað til að stöðva annan galdur innan færis. Hægt er að kasta Avert sem viðbragð til að gera sóknargaldra óvirka, með því að nota Counter Magic Reactive Action.
+Afstýring er notuð til að afnema annan galdur innan drægni. Hægt er að kasta Afstýringu til að bregðast við til að hlutleysa árásargaldra, með því að nota gagndráttaraðgerðina (Counter Magic Reactive Action).
 
-#### Befuddle (Rugla)
+#### Rugl (Befuddle)
 
-_Fjar-galdur, Viðnám (Willpower)_
+_Langdrægur, Viðnám (MÁT)_
 
-Befuddle veldur ruglingi í huga efnislegs skotmarks. Skotmark galdursins á erfitt með að hugsa skýrt, gleymir hvar það er, hvað það er að gera og hvers vegna – dettur oft í óviðeigandi hugsunarganga. Ruglað skotmark getur enn varið sig, en getur ekki hafið neina uppbyggilega starfsemi fyrr en galdurinn endar. Hvers kyns árás eða ógnandi aðgerð rýfur galdurinn samstundis, hvort sem hún var beint sérstaklega að ruglaða skotmarkinu eða ekki.
+Rugl veldur ruglingi í huga líkamlegs skotmarks. Viðfangsefni galdursins á erfitt með að hugsa skýrt, gleymir hvar það er, hvað það er að gera og hvers vegna – dettur oft í sundurlausar hugsanir. Ruglað skotmark getur enn brugðist við í sjálfsvörn, en getur ekki hafið neina uppbyggilega starfsemi fyrr en galdurinn endar. Hvers kyns árás eða ógnandi aðgerð rýfur galdurinn samstundis, hvort sem hún beindist sérstaklega að ruglaða skotmarkinu eða ekki.
 
-#### Bladesharp (Skerpa vopn)
-
-_Snerting_
-
-Bladesharp er kastað á bit- eða stungu-nærstríðsvopn. Það eykur skaða vopnsins um eitt teningastig og skilur eftir blaðið brýnt eftir að galdurinn lýkur. Þessum galdri er oft beitt á verkfæri eins og skógaröxar, plóga og rakvélar. Þannig eykur það skaða á rýtingi upp í 1d6+1, en sama galdur á stóraxu myndi auka hana í 2d8+2 skaða. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
-
-#### Bludgeon (Þungahögg)
+#### Blaðskerpandi (Bladesharp)
 
 _Snerting_
 
-Bludgeon er eins og Bladesharp en notað á vopn og verkfæri sem valda barefli frekar en skurð- eða stunguskaða. Það er venjulega notað til að aðstoða við þreskingu korns, ullarvinnslu eða álíka erfiða vinnu.
+Blaðskerpandi er kastað á bit- og stunguvopn. Það eykur skemmdir vopns um eitt teningaþrep og skilur í framhjáhlaupi brúnina eftir skörpum eftir að galdurinn lýkur. Þessi galdur er oft notaður á verkfæri eins og skógaröxar, plóga og rakvélablað. Þannig eykur það galdurinn á rýting upp í 1d6+1 skemmdir, á meðan sama galdur á stóröxi myndi auka hana upp í 2d8+2 skemmdir. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Breath (Andardráttur)
+#### Kjálkahögg (Bludgeon)
 
 _Snerting_
 
-Breath leyfir viðtakandanum að halda niðri í sér andanum í lengri tíma, svo að hann geti tímabundið farið inn í skaðlegt umhverfi, eins og neðansjávar; eða andrúmsloft mengað af steindyki, lofttegundum, reyk eða eitri. Galdurinn varir í að hámarki hálfan POW kastarans í mínútum, en á þeim tíma getur viðtakandinn ekki talað, annars tapast andardrátturinn og hann verður strax að byrja að anda frá umhverfi sínu og þjást af öllum áhættum sem þar eru - hvort sem það er köfnun, drukknun, eitrun, o.s.frv.
+Kjálkahögg er eins og Blaðskerpandi en notað á vopn og verkfæri sem valda bareflisskemmdum frekar en skurð- eða stunguskemmdum. Það er venjulega notað til að hjálpa við að þreskja korn, hreinsa ull, eða svipaða þunga vinnu.
+
+#### Andardráttur (Breath)
+
+_Snerting_
+
+Andardráttur leyfir viðtakandanum að halda niðri í sér andanum í langan tíma, svo þeir geti tímabundið hætt sér út í skaðlegt umhverfi, eins og neðansjávar; eða andrúmsloft sem er mengað af bergaryki, lofttegundum, reyk eða eitri. Galdurinn endist í að hámarki hálfan MÁT kastarans í mínútum, en á þeim tíma getur viðtakandinn ekki talað, eða andardrátturinn tapast, og þeir verða strax að byrja að anda frá umhverfi sínu og þjást af öllum áhættum sem fyrir eru - hvort sem það er köfnun, drukknun, eitrun o.s.frv.
 
 <details>
 
-<summary>* Lagfæringar samfélagsins (Community Errata)</summary>
+<summary>* Leiðréttingar samfélagsins</summary>
 
-_**Breath**_
+_**Andardráttur**_
 
-_Upphaflega lýsingin á galdrinum var eftirfarandi: "Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they immediately begin to asphyxiate (or become poisoned)."_
+_Upprunalega lýsing galdursins var eftirfarandi: "Andardráttur leyfir viðtakandanum að halda niðri í sér andanum í langan tíma, svo þeir geti tímabundið hætt sér út í skaðlegt umhverfi, eins og neðansjávar; eða andrúmsloft sem er mengað af bergaryki, lofttegundum, reyk eða eitri. Galdurinn endist í að hámarki hálfan MÁT kastarans í mínútum, á meðan getur viðtakandinn ekki talað, annars tapast andardrátturinn og þeir byrja strax að kafna (eða verða eitraðir)."_
 
-_Þetta gæti verið lesið sem sóknaráhrif sem hrint er af stað í lok galdursins, sem virðist ganga gegn ætlun höfunda og mynstri slíkra galdra sem hjálpartækja frekar en vopna. Þess vegna er breytingin á Community Errata hér að ofan. Við munum uppfæra þennan texta ef upphaflegir höfundar endurskoða regluna eins og hún er skrifuð._
+_Þetta gæti verið lesið sem árásaráhrif sem virkjast við lok galdursins, sem virðist ganga gegn fyrirætlun höfundanna og munstrinu af slíkum galdri sem gagnsemi frekar en vopn. Þess vegna er leiðréttingin hér að ofan. Við munum uppfæra þennan texta ef upprunalegu höfundarnir endurskoða regluna eins og hún er skrifuð._
 
 </details>
 
-#### Calm (Ró)
+#### Ró (Calm)
 
-_Fjar-galdur, Viðnám (Willpower)_
+_Langdrægur, Viðnám (MÁT)_
 
-Calm reynir að draga úr ástríðum skotmarksins, kannski til að tryggja að ástfanginn aðdáandi þrýsti ekki á sitt, hræddur keppinautur kalli ekki á hjálp eða að vopn séu ekki dregin í reiði. Róleg manneskja hefur ekki að öðru leyti andleg áhrif; þannig að hvers kyns árás eða ógnandi aðgerð leyfir skotmarkinu samt að verja sig og jafnvel ráðast á, þó að það geri það á rólegan og yfirvegaðan hátt.
+Ró reynir að deyfa ástríður eða skotmarkið, kannski tryggja að ástfanginn aðdáandi þrýsti ekki á sitt, hræddur keppinautur kalli ekki á hjálp eða að vopn séu ekki dregin í reiði. Róleg manneskja hefur að öðru leyti ekki áhrif andlega; Þannig leyfir hvers kyns árás eða ógnandi aðgerð skotmarkinu samt að verja sig og jafnvel ráðast á, þó að þeir geri það á rólegan og yfirvegaðan hátt.
 
-#### Chill (Kæling)
+#### Kuldinn (Chill)
 
-_Augnablik, Snerting_
+_Tafarlaus, Snerting_
 
-Chill dregur verulega úr hitastigi lítilla hluta (ekki stærri en lófi kastarans) niður í hitastig ísvatns. Gagnlegt til að kæla hratt niður heita hluti, kæla drykki og svo framvegis. Galdurinn frýs ekki hlutinn og veldur heldur ekki skemmdum á uppbyggingu hans: hann gerir hann bara mjög kaldan.
+Kuldinn lækkar hitastig lítilla hluta (ekki stærri en hönd kastarans) niður í hitastig ísvatns verulega. Gagnlegt til að kæla fljótt heita hluti, kæla drykki og svo framvegis. Galdurinn frýs ekki hlutinn og veldur ekki heldur neinum skemmdum á byggingu hans: hann gerir hann bara mjög kaldan.
 
-#### Darkness (Myrkur)
+#### Myrkur (Darkness)
 
-_Einbeiting, Fjar-galdur_
+_Einbeiting, Langdrægur_
 
-Darkness skapar svæði af skugga, jafnt POW í fermetrum, sem bælir allt ljós innan þess. Þetta er nóg magn til að fylla meðalstórt herbergi, lengd ganga eða mynda lítið ský ef kastað er úti. Allt ljós sem ekki er galdrað, þar á meðal sólarljós, sem berst inn í eða er til staðar innan marka svæðisins, minnkar í jafngildi daufs ljóma.
+Myrkur skapar skuggasvæði, jafnt MÁT í fermetrum, sem bælir allt ljós innan þess. Þetta er nóg rúmmál til að fylla meðalstórt herbergi, ganglengd eða mynda lítið ský ef kastað er úti. Allt ógaldra ljós, þar á meðal sólarljós, sem fer inn í eða er til staðar innan markanna er minnkað í samsvarandi daufan ljóma.
 
-#### Disruption (Truflun)
+#### Truflun (Disruption)
 
-_Augnablik, Fjar-galdur, Viðnám (Endurance)_
+_Tafarlaus, Langdrægur, Viðnám (ÞOL)_
 
-Disruption er notað til að skemma eða taka í sundur líkamlega hluti án þess að þurfa verkfæri. Það er almennt notað til að reka í burtu eða drepa lifandi verur, eins og fugla eða meindýr. Þegar vel tekst að kasta Disruption veldur það 1d3 skaða á einn handahófskenndan líkamshluta (Hit Location) eða heildar-HP hlutarins. Í báðum tilfellum hunsar skaðinn hvers kyns brynju eða náttúrulega vörn.
+Truflun er notuð til að skemma eða taka í sundur líkamlega hluti án þess að þurfa verkfæri. Það er almennt notað til að hrekja burt eða drepa lifandi verur, eins og fugla eða meindýr. Þegar Truflun er kastað með árangri veldur hún 1d3 skemmdum á einum handahófskenndum líkamshluta eða heildarhöggpunktum hlutarins. Í báðum tilfellum hunsa skemmdirnar hvers kyns brynjur eða náttúrulega vörn.
 
-#### Extinguish (Slökkva)
+#### Slökkvun (Extinguish)
 
-_Augnablik, Fjar-galdur_
+_Tafarlaus, Langdrægur_
 
-Extinguish slökkvar strax loga og litla elda af hóflegri stærð og hita. Það er gagnlegt til að slökkva á kertum, ljóskerum, kyndlum eða litlum eldstæðum, en það virkar ekki á galdraeld eða stærri, grimmari bála eins og líkbrennur, brennandi hús eða drekaelda.
+Slökkvun kæfir strax elda og litla elda af hóflegri stærð og hita. Það er gagnlegt til að slökkva á kertum, ljóskerum, kyndlum eða litlum eldunareldum, en það virkar ekki á galdra eða stærri, grimmari brennur eins og bálkesti, brennandi hús eða drekaelda.
 
-#### Find (X) (Finna)
+#### Finna (X) (Find)
 
-_Einbeiting, Fjar-galdur, Viðnám (Sérstakt)_
+_Einbeiting, Langdrægur, Viðnám (Sérstakt)_
 
-Find hefur margar útgáfur; alltaf sértækar og lærðar sem aðskildir galdrar. Nokkur algeng dæmi eru gefin hér að neðan. Það virkar með því að stilla sig inn á náttúrulega útgeislun veru eða hlutar, og lætur kastarann vita af nærveru hennar innan færis galdursins. Hægt er að loka á Find með þéttum efnum eins og málmi, eða jörð og steini sem er að minnsta kosti einn metri á þykkt. Galdurinn getur ekki greint tilfinningar eða hugsanir.
+Finna hefur margar útfærslur; alltaf sértækar og lærðar sem aðskildir galdrar. Nokkur algeng dæmi eru gefin hér að neðan. Það virkar með því að stilla sig á náttúrulega geislun veru eða hlutar, og gera kastarann varan við nærveru þess innan drægni galdursins. Finna getur verið lokað af þéttum eða þykkum efnum eins og málmi, eða jörð og steini sem er að minnsta kosti einn metri á þykkt. Galdurinn getur ekki greint tilfinningar eða hugsanir.
 
-- *Find Arrows (Finna örvar)*: Staðsetur skotfæri skotin af veiðimönnum, sem misstu marks.
-- *Find Flaw (Finna galla)*: Auðkennir alla galla í hlut, svo sem faldar ófullkomleika eða líkamlegar skemmdir.
-- *Find Livestock (Finna búfé)*: Staðsetur ákveðna tegund af dýrum. Hægt að standast með Willpower.
-- *Find Loot (Finna fjársjóð)*: Staðsetur dýra málma og gimsteina.
-- *Find Object (Finna hlut)*: Staðsetur týnda persónulega eigur.
-- *Find Sickness (Finna veikindi)*: Auðkennir tilvist sjúkdóma og veikinda, hvort sem þau eru galdra- eða veraldleg.
+- *Finna örvar*: Finnur skotfæri skotin af veiðimönnum, sem missa skotmark sitt.
+- *Finna galla*: Kennir alla galla í hlut, eins og falda ófullkomleika eða líkamlegar skemmdir.
+- *Finna búfé*: Finnur ákveðna tegund dýra. Hægt að standast með MÁT.
+- *Finna fjársjóð*: Finnur góðmálma og gimsteina.
+- *Finna hlut*: Finnur glataða persónulega eign.
+- *Finna veikindi*: Kennir tilvist sjúkdóma og veikinda, hvort sem þau eru galdratengd eða veraldleg.
 
-#### Firearrow (Eldör)
-
-_Snerting_
-
-Firearrow veldur því að öll skotfæri sem viðtakandinn kastar eða skýtur springa í eld þegar þeim er sleppt. Upphaflega skapað til að virka sem merkjablys, hefur það síðan þróast yfir í bardagagaldur. Skotfæri undir áhrifum þess bæta við 1d3 skaða en slokkna ef þau stinga hold. Þau sem lenda á eldfimu efni hafa líkur jafnar Galdrahæfni kastarans á að kveikja í hverju því sem þau festast í, svo sem tréhlífum, stráþökum og svo framvegis. Tréskotfæri eyðast sem hluti af galdrinum.
-
-#### Fireblade (Eldsverð)
+#### Eldör (Firearrow)
 
 _Snerting_
 
-Fireblade er eins og Firearrow en er í staðinn kastað á handverkfæri og nærstríðsvopn. Upprunalegur tilgangur galdursins er að dauðhreinsa skurðaðgerðartæki, aðstoða við slátt og brennslu í landbúnaði eða veita lýsingu í myrkri án þess að þurfa að bera aukaljós. Ef kastað er á vopn veldur það 1d3 aukaskemmdum, og hefur líkur á að kveikja í eldfimu efni ef því er haldið að þeim í nokkrar umferðir (sjá Eldur í leikkerfis-hlutanum). Tréskaftuð vopn undir áhrifum Fireblade munu eyðast sem hluti af galdrinum.
+Eldör veldur því að öll skotfæri sem viðtakandinn kastar eða skýtur springa í eld þegar þeim er sleppt. Upphaflega skapað til að virka sem merkjablys, hefur það síðan þróast yfir í bardagagaldur. Skotfæri undir áhrifum þess bæta við 1d3 aukaskemmdum en slökkna ef þau spíta hold. Þau sem lenda á eldfimu efni hafa möguleika jafnan Galdrahæfni kastarans til að kveikja í því sem þau festast í, eins og viðarskjöldum, þakstráum og svo framvegis. Viðarskotfæri eyðast sem hluti af galdrinum.
 
-#### Glue (Lím)
+#### Eldblað (Fireblade)
 
 _Snerting_
 
-Glue límir saman tvo fasta, ólifandi hluti í lengd galdursins, til dæmis hjól á vagnöxul eða hurð við karm sinn. Á meðan hlutirnir eru undir áhrifum galdursins, sama hversu ólíkir þeir eru, er ekki hægt að aðskilja þá nema einhver reyni virkan að rífa þá í sundur. Í þessu tilfelli hefur galdurinn Brawn-hæfni jafna fimmföldum POW kastarans og mistekst þegar yfirburða Brawn er beitt gegn honum, í andstæðu kasti. Þegar galdurinn lýkur eða mistekst, aðskiljast hlutirnir algjörlega óskaddaðir.
+Eldblað er eins og Eldör en er í staðinn kastað á handverkfæri og nærbaráttuvopn. Upprunalegur tilgangur galdursins er að sótthreinsa skurðlækningatæki, hjálpa við landbúnað eða veita lýsingu í myrkri án þess að þurfa að bera aukaljós. Ef kastað er á vopn veldur það 1d3 aukaskemmdum, og hefur möguleika á að kveikja í eldfimum efnum ef haldið er að þeim í nokkrar umferðir (sjá Eldur í leikkerfiskaflanum). Viðarskaftað vopn undir áhrifum Eldblaðs munu eyðast sem hluti af galdrinum.
 
-#### Heal (Græða)
+#### Lím (Glue)
 
-_Augnablik, Snerting_
+_Snerting_
 
-Heal hefur nokkur mismunandi áhrif eftir eðli kvillans sem það er notað á. Ef viðtakandinn þjáist af smávægilegum kvilla eins og höfuðverk, bakverk, timburmönnum, kvefi, vörtum og svo framvegis, þá hverfa einkennin strax. Kastað á líkamshluta sem þjáist af minniháttar sári (Minor Wound), endurheimtir það öll tapað HP samstundis. Gegn alvarlegum (Serious) eða mjög alvarlegum sárm (Major Wounds) endurheimtast ekkert HP. Hins vegar mun galdurinn stöðva sár, stöðva allar blæðingar og koma í veg fyrir yfirvofandi dauða vegna vanrækslu.
+Lím festir saman tvo fasta, lífvana hluti í lengd galdursins, til dæmis hjól við öxul eða hurð við karm. Á meðan hlutirnir eru undir áhrifum galdursins, sama hversu ólíkir þeir eru, er ekki hægt að skilja þá að nema eitthvað reyni virkt að ná þeim í sundur. Við þessar aðstæður hefur galdurinn Vöðvastyrk (Brawn) sem jafngildir fimmföldum MÁT kastarans og mistekst þegar yfirburða vöðvastyrkur er settur gegn honum, sigrar hann í andstæðu kasti. Þegar galdurinn lýkur eða mistekst, skiljast hlutirnir að algjörlega óskaddaðir.
 
-#### Ignite (Kveikja)
+#### Lækna (Heal)
 
-_Augnablik, Fjar-galdur_
+_Tafarlaus, Snerting_
 
-Ignite virkar aðeins á eldfimt ólífrænt efni, sem veldur því að lítill hlutur eða lófastórt svæði springur í eld. Eftir því hvað var kveikt í, þegar það brennur, geta logarnir síðan breiðst út nema slökkt sé á þeim eða þeim mætt á einhvern hátt. Þessi galdur er venjulega notaður til að kveikja í kertum, kyndlum eða ljóskerum úr fjarlægð. Einnig er hægt að nota hann til að kveikja varðeld eða eldunareld við erfiðar aðstæður, eins og að nota rakt kveikiefni eða í sterkum vindi.
+Lækna hefur nokkur mismunandi áhrif eftir eðli kvillans sem hann er notaður á. Ef viðfangsefnið þjáist af smávægilegum kvillum eins og höfuðverk, bakverk, timburmönnum, kvefi, vörtum og svo framvegis, þá hverfa einkennin strax. Kastað á líkamshluta sem þjáist af minniháttar sári endurheimtir það alla tapaða höggpunkta samstundis. Gegn alvarlegum eða stórum sárum nást engir höggpunktar. Hins vegar mun galdurinn koma á stöðugleika á líkamshluta, stöðva allar blæðingar og koma í veg fyrir yfirvofandi dauða af gáleysi.
 
-#### Knock (Opna)
+#### Kveikja (Ignite)
 
-_Augnablik, Snerting_
+_Tafarlaus, Langdrægur_
 
-Knock losar galdratengt hvers kyns tæki sem er lokað með vélrænni slá eða lás. Það virkar ekki á galdralása, aðeins veraldlega. Galdurinn hefur aðeins áhrif á eina festingu, svo ef það eru margir lásar og slár sem tryggja hlutinn, verður að kasta galdrinum aftur fyrir hvern og einn.
+Kveikja virkar aðeins á eldfimt ólífrænt efni, sem veldur því að lítill hlutur eða handstórt svæði springur í eld. Það fer eftir því hvað var kveikt í, þegar það brennur, gætu logarnir síðan breiðst út nema þeim sé slökkt eða mætt á einhvern hátt. Þessi galdur er venjulega notaður til að kveikja á kertum, kyndlum eða ljóskerum úr fjarlægð. Einnig er hægt að nota hann til að kveikja í búðum eða eldunareldum við erfiðar aðstæður, eins og að nota rakt kveikiefni eða í sterkum vindum.
 
-#### Light (Ljós)
+#### Banka (Knock)
 
-_Einbeiting, Fjar-galdur_
+_Tafarlaus, Snerting_
 
-Light verður að vera kastað á ólifandi hlut (þetta gæti verið grein, sverðsblað, spjótoddur, kyndill og svo framvegis). Það framleiðir nóg ljós til að lýsa upp svæði eins og með ljóskeri. Einnig er hægt að kasta því beint gegn Darkness galdri til að mæta honum. Í því tilfelli eyðast báðir galdrar, sem skilur eftir umhverfisljósið til að lýsa upp svæðið.
+Banka leysir á galdran hátt hvers kyns tæki sem er nú tryggt með vélrænni slá eða lás. Hann virkar ekki á galdralásaða hluti, aðeins veraldlega. Galdurinn hefur aðeins áhrif á eina festingu, svo ef það eru nokkrir lásar og slár sem tryggja hlutinn, verður að kasta galdrinum aftur fyrir hvern og einn.
 
-#### Lock (Læsa)
+#### Ljós (Light)
+
+_Einbeiting, Langdrægur_
+
+Ljós verður að kasta á lífvana hlut (þetta gæti verið grein, sverðsblað, spjót, kyndill og svo framvegis). Hann framleiðir nóg ljós til að lýsa upp svæði eins og með ljóskeri. Einnig er hægt að kasta honum beint gegn Myrkur-galdri til að mæta honum. Í því tilfelli eyðast báðir galdrar, sem skilur eftir umhverfisljósið til að lýsa upp svæðið.
+
+#### Lás (Lock)
 
 _Sérstök lengd, Snerting_
 
-Lock tryggir galdratengt hvers kyns tæki sem þegar er með vélrænni slá eða lás. Aðeins kastarinn getur opnað læst (Locked) tæki og ekki er hægt að dirka það upp með veraldlegum hætti (svo sem af þjófum sem nota lásdirka) þar sem galdurinn gerir vélbúnaðinn óhreyfanlegan; hins vegar gæti samt verið hægt að þvinga það upp með því að brjóta hlutinn sem lásinn er í. Galdurinn helst á sínum stað þar til kastarinn opnar hann, eftir það verður tækið að sæta frekari köstum á Lock til að endurheimta töfrana. Galdrapunktarnir sem notaðir voru til að kasta Lock endurnýjast ekki fyrr en galdrinum er sleppt eða hann lýkur náttúrulega.
+Lás tryggir á galdran hátt hvers kyns tæki sem þegar hefur vélræna slá eða lás. Læst tæki er aðeins hægt að opna af kastaranum og ekki er hægt að opna það með veraldlegum hætti (eins og af þjófum sem nota lásasett) þar sem galdurinn gerir vélbúnaðinn óhreyfanlegan; hins vegar gæti það samt verið þvingað opið með því að brjóta hlutinn sem lásinn er í. Galdurinn helst á sínum stað þar til hann er opnaður af kastaranum, en eftir það verður tækið að vera háð frekara kasti af Lás til að endurheimta töfrana. Galdrapunktarnir sem notaðir voru til að kasta Lás endurheimtast ekki fyrr en galdrinum er vísað frá eða hann lýkur náttúrulega.
 
-#### Phantasm (Draumsýn)
+#### Draumsýn (Phantasm)
 
-_Einbeiting, Fjar-galdur_
+_Einbeiting, Langdrægur_
 
-Phantasm leyfir kastaranum að vefa saman óefnislega eða nær þyngdarlausa hluti þannig að þeir taki á sig lögun eða draugalega mynd. Þannig gæti draugaleg vera verið ofin úr náttúrulegri þoku, eða andlit myndað í haug af dauðum laufum. Fyrir utan þetta hefur galdurinn lítil áhrif, nema til að hræða, vekja áhuga eða gera þá sem sjá það órólega.
+Draumsýn leyfir kastaranum að vefa saman óefnislega eða nær þyngdarlausa hluti svo þeir taki á sig lögun eða draugalega mynd. Þannig gæti draugaleg vera verið ofin úr náttúrulegri þoku, eða andlit myndað í haug af dauðum laufblöðum. Fyrir utan þetta hefur galdurinn lítil áhrif, nema til að hræða, vekja forvitni eða valda óróa hjá þeim sem horfa á hann.
 
-#### Sleep (Svefn)
+#### Svefn (Sleep)
 
-_Viðnám (Endurance), Snerting_
+_Viðnám (ÞOL), Snerting_
 
-Sleep sendir viðtakandann í djúpan, friðsælan svefn. Það hefur engin áhrif á verur með SIZ meiri en POW kastarans. Nema skotmarkið standist, sefur það í fjölda klukkustunda sem jafngildir hálfum POW kastarans. Hins vegar tekur galdurinn 1d3 umferðir að taka gildi áður en skotmarkið missir meðvitund. Hvers kyns tilraun til að kasta þessum galdri í bardaga mistekst sjálfkrafa.
+Svefn sendir viðtakandann í djúpan, friðsælan svefn. Hann hefur engin áhrif á verur með STÆ stærri en MÁT kastarans. Nema skotmarkið standist það, sefur það í fjölda klukkustunda sem jafngildir hálfum MÁT kastarans. Hins vegar tekur galdurinn 1d3 umferðir að virka áður en skotmarkið missir meðvitund. Hvers kyns tilraun til að kasta þessum galdri í bardagaaðstæðum mistekst sjálfkrafa.
 
-#### Vigor (Kraftur)
+#### Kraftur (Vigor)
 
 _Snerting_
 
-Vigor lætur viðtakandann líða eins og hann sé lifandi og orkumikill, notað til að draga úr áhrifum erfiðrar líkamlegrar vinnu. Í lengd galdursins er öllum þreytuáhrifum (Fatigue) sem stafa af erfiðri vinnu hunsað (en þau snúa aftur þegar galdrinum lýkur).
+Kraftur lætur viðtakandann líða lifandi og orkumikinn, notað til að vega upp á móti áhrifum erfiðrar líkamlegrar vinnu. Í lengd galdursins eru öll þreyttuáhrif sem fást af erfiðri starfsemi hunsuð (en snúa aftur þegar galdurinn lýkur).
 
-#### Witchsight (Galdrasýn)
+#### Galdrasjón (Witchsight)
 
-_Fjar-galdur, Viðnám (Willpower)_
+_Langdrægur, Viðnám (MÁT)_
 
-Witchsight leyfir kastaranum að sjá virka galdra, galdratengda hluti og ósýnilegar verur (þótt slíkt séu einfaldlega skuggalegar framsetningar) sem liggja innan færis og sjónlínu. Það getur einnig komist í gegnum tálsýnir eða greint sanna mynd veru sem hafa skipt um lögun. Verur sem vilja vera faldar eða dulbúnar verða að vinna í andstæðu kasti á Willpower sinni gegn Galdrakasti kastarans.
+Galdrasjón leyfir kastaranum að sjá virka galdra, galdraða hluti og ósýnilegar verur (þó að slíkir hlutir séu bara skuggalegar framsetningar) sem liggja innan drægni og sjónlínu. Það getur einnig komist í gegnum tálsýnir eða greint sanna mynd hamskiptavera. Verur sem vilja vera áfram faldar eða dulargervar verða að vinna andstætt kast við MÁT sitt gegn galdrakastinu.
 
 ---
 ## Ofurkraftar
 
-Ofurkraftarnir sem hér eru innifaldir veita grunnkraft sem er annað hvort alltaf virkur eða hægt að virkja að vild. Grunnkraftar geta einnig haft sérstök brellur sem kallast aukningar (Boosts) sem krefjast þess að Kraftpunktum sé eytt til að virkja. Persóna sem nær 0 Kraftpunktum getur ekki notað aukningar eða neina grunnkrafta með kostnaði fyrr en Kraftpunktar eru endurheimtir.
+Ofurkraftarnir sem hér eru innifaldir veita kjarnakraft sem er annað hvort alltaf virkur eða hægt er að virkja að vild. Kjarnakraftar geta einnig haft sérstök bragð sem kallast Eflingar (Boosts) sem krefjast útgjalda Kraftpunkta til að virkja. Persóna sem nær 0 Kraftpunktum getur ekki notað eflingar eða neina kjarnakrafta með kostnaði fyrr en Kraftpunktar eru endurheimtir.
 
-Takmarkanir (Limits) eru valfrjálsir ókostir sem hægt er að setja á persónu, grunnkrafta eða aukningar. Hver takmörkun útskýrir við hvaða aðstæður hún á við og leikstjórinn verður að samþykkja hvaða takmörkun sem er valin.
+Takmarkanir eru valfrjálsir gallar sem hægt er að setja á persónu, kjarnakrafta eða eflingar. Hver takmörkun lýsir þeim aðstæðum sem hún á við, og leikstjórinn verður að samþykkja hverja takmörkun sem valin er.
 
-Persóna getur einnig tekið allt að tvær takmarkanir af listanum hér að neðan, þar sem ein veitir bónusaukningu, eða tvær veita bónusgrunnkraft.
+Persóna getur einnig tekið allt að tvær takmarkanir af listanum hér að neðan, þar sem ein veitir bónus-eflingu, eða tvær veita bónus-kjarnakraft.
 
 
 ---
-## Lýsingar á kröftum
+## Kraftalýsingar#### Fjörgun
 
-#### Animation (Lífgun)
+Fjörgaðu 2 rúmmetra af líflausu efni innan MÁT-fjarlægðar (í metrum) til að búa til smíði, yfirleitt í mannsmynd. Kostnaðurinn í Máttarstigum (Power Points) er jafn brynjugildi þess efnis sem notað er, sem er einnig grunn-brynjugildi smíðinnar. Smíðar hafa grunn-STY upp á 2d6+16 (23), STÆ upp á 1d6+12 (15) og LIP upp á 1d6+8 (11), með höggpunkta ákvarðaða á hefðbundinn hátt. Persónan verður að nota aðgerðir til að stjórna smíðinni og hún notar færni persónunnar fyrir öll köst. Ef smíðin verður fyrir alvarlegu sári á brjóstkassa eða kvið, skal gera andstætt ÞOL-kast gegn árásarkastinu. Ef það mistekst hrynur smíðin samstundis. Dæmi um brynjugildi/kostnað í Máttarstigum:
 
-Lífgaðu 2 rúmmetra af ólífrænum efnum innan POW í metrum til að búa til smíð, venjulega í mannsmynd. Kostnaðurinn í Kraftpunktum jafngildir brynjugildi þess efnis sem notað er, sem er einnig grunn-brynjugildi smíðarinnar. Smíðar hafa grunn-STR 2d6+16 (23), SIZ 1d6+12 (15) og DEX 1d6+8 (11), með HP ákvarðað eins og venjulega. Persónan verður að nota aðgerðir til að stýra smíðinni og hún notar hæfni persónunnar fyrir öll köst. Ef smíðin tekur mjög alvarlegt sár (Serious Wound) á brjósti eða kvið, gerðu andstætt Endurance-kast gegn árásarkastinu. Ef það mistekst hrynur smíðin strax saman. Dæmi um brynjugildi/Kostnaður í Kraftpunktum:
-
-| Brynjugildi | Kostnaður í Kraftpunktum |
+| Brynjugildi           | Kostnaður í Máttarstigum |
 |:--|:-:|
-| Plast eða mjúkur viður | 2 |
-| Steinsteypa eða harðviður | 4 |
-| Mjúkur málmur eða steinn | 6 |
-| Harður málmur | 8 |
+| Plast eða mjúkur viður  | 2                |
+| Steinsteypa eða harður viður | 4                |
+| Mjúkur málmur eða steinn   | 6                |
+| Harður málmur            | 8                |
 
-**Aukning:** Eyðtu 2 Kraftpunktum til að færa smíðina samstundis yfir í aðra uppsprettu sama efnis innan POW í metrum.
+**Efling:** Eyddu 2 Máttarstigum til að færa smíðina samstundis yfir að annarri uppsprettu sama efnis innan MÁT-fjarlægðar (í metrum).
 
-#### Combat Expert (Bardagasérfræðingur)
+#### Bardagasérfræðingur
 
-Veldu eina tegund bardagakunnáttu af listanum hér að neðan, auk einnar fyrir hverja aukningu sem eytt er.
+Veldu eina tegund bardagasérfræði úr listanum hér að neðan, auk einnar fyrir hverja eflingu sem er eytt.
 
-- Nærstríðskunnátta veitir eitt bónus Aðgerðapunkt sem aðeins er hægt að nota til varnar, og virk vopnastærð eykst um eitt stig fyrir árásir og varnir (parries).
-- Fjarbardagakunnátta minnkar aðstæðubundna breytileika um tvö stig í stað eins þegar miðað er og endurhleðslutími fjarvopna minnkar um eitt.
+- Nærbardagasérfræði veitir eitt bónus-Aðgerðarstig sem aðeins má nota til varnar, og virk stærð vopns eykst um eitt þrep fyrir árásir og varnir. 
+- Fjarbardagasérfræði minnkar aðstæðubundna breyta um tvö stig í stað eins þegar miðað er, og hleðslutími fjarbardagavopna minnkar um eitt.
 
-**Aukning:** Eyðtu 2 Kraftpunktum til að fá aukalega Aðgerðapunkt sem aðeins er hægt að nota til að ráðast á eða grípa vopn (Ready Weapon).
+Efling: Eyddu 2 Máttarstigum til að fá auka Aðgerðarstig sem aðeins má nota til að ráðast á eða gera vopn tilbúið.
 
-#### Durability (Ending)
+#### Ending
 
-HP er reiknað með CON+SIZ+POW og Healing Rate er reiknað með CON+ hálfum POW, námundað upp.
+Höggpunktar eru reiknaðir með ÞOL+STÆ+MÁT og gróunarhraði er reiknaður með ÞOL+ helmingur MÁT, námundað upp.
 
-**Aukning:** Eyðtu 2 Kraftpunktum sem frjálsri aðgerð til að endurheimta Healing Rate í töpuðu HP eða einu stigi af þreytu.
+**Efling:** Eyddu 2 Máttarstigum sem ókeypis aðgerð til að endurheimta gróunarhraða í töpuðum höggpunktum eða töpuðu þreytustigi.
 
-#### Elemental Control (Frumefnastjórn)
+#### Frumefnastjórnun
 
-Veldu ákveðið efni eða tegund orku. Eyðtu aðgerð til að stjórna allt að hálfum POW í rúmmetrum af frumefninu hvar sem er innan POW metra. Má breyta grunngerðinni eða búa til flókin form með vel heppnuðu Craft (sértækt frumefni) kasti. Við sköpun skaltu velja annað hvort nærstríðsárás eða fjarárás. Nærstríðsárásin hefur drægni upp á Very Long og fjarárásin hefur drægni upp á 8/24/100, veldu síðan hvaða tvo bardagaáhrif sem er. Skaði og kraftur/stærð er ákvarðaður af POW: 8 eða minna: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Veldu tiltekið efni eða orkutegund. Eyddu aðgerð í að stjórna allt að helmingi MÁT í rúmmetrum af frumefninu hvar sem er innan MÁT-fjarlægðar (í metrum). Má breyta grunnformi eða búa til flókin form með árangursríku Iðn-kasti (tiltekið efni). Við sköpun skal velja annað hvort nærbardagaárás eða fjarbardagaárás. Nærbardagaárásin hefur drægni upp á Mjög langt og fjarbardagaárásin hefur drægni upp á 8/24/100, veldu síðan hvaða tvo bardagaáhrif sem er. Tjón og afl/stærð er ákvarðað af MÁT: 8 eða minna: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-**Aukning:** Eyðtu 3 Kraftpunktum til að hjúpa persónuna í frumefninu fyrir senuna. Föst efni fá brynjugildi sem jafngildir einum fimmtudaga af POW, námundað upp. Ef það er orka, valda óvopnaðar árásir aukaskemmdum jafnt grunnskemmdum kraftsins og óvopnaðar árásir gegn persónunni verða fyrir sama skaða á útlimnum sem notaður er.
+**Efling:** Eyddu 3 Máttarstigum til að hjúpa persónuna í frumefninu út atriðið. Föst efni fá brynjugildi sem nemur einum fimmta af MÁT, námundað upp. Ef um orku er að ræða valda óvopnaðar árásir aukatjóni sem nemur grunntjóni kraftsins og óvopnaðar árásir gegn persónunni verða fyrir sama tjóni á þeim útlim sem notaður var.
 
-#### Energy Blast (Orkusprenging)
+#### Orkuútsláttur
 
-Skjóttu sprengingum af ákveðinni tegund orku út að drægni 10/30/120 og veldu tvo bardagaáhrif til að beita við sköpun. Skaði og kraftur eru ákvarðaðir af POW persónunnar: 8 eða minna: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Til að hitta kastar persónan á móti annað hvort viðeigandi bardagastíl (Combat Style) fyrir kraftinn eða notar Unarmed.
+Skjóttu orkuskotum af tiltekinni orkutegund út í 10/30/120 drægni og veldu tvenn bardagaáhrif til að beita við sköpun. Tjón og afl eru ákvarðuð af MÁT persónunnar: 8 eða minna: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Til að hitta kastar persónan annað hvort gegn viðeigandi bardagastíl fyrir kraftinn eða notar Óvopnað.
 
-**Aukning:** Eyðtu 2 Kraftpunktum og einni aðgerð til að valda +1d6 skaða á næstu orkusprengjuárás.
+**Efling:** Eyddu 2 Máttarstigum og aðgerð til að valda +1d6 tjóni á næstu orkuútsláttarárás.
 
-#### Enhanced Reactions (Aukin viðbrögð)
+#### Aukin viðbrögð
 
-Fáðu bónus á frumkvæðisköst (initiative rolls) jafnt gagnrýnu bili Athletics-hæfni og endaðu aldrei liggjandi eftir að hafa notað Evade.
+Fáðu bónus á frumkvæðisköst sem nemur gagnrýnisdrægni Íþróttafærni og endaðu aldrei liggjandi eftir notkun á Undanbrögðum.
 
-**Aukning:** Eyðtu 1 Kraftpunkti til að gera næsta Athletics eða Acrobatics kast eitt erfiðleikastig auðveldara.
+**Efling:** Eyddu 1 Máttarstigi til að gera næsta Íþrótta- eða Loftfimleikakast einu erfiðleikastigi auðveldara.
 
-#### Enhanced Speed (Aukin hraði)
+#### Aukin hraði
 
-Auktu grunnhreyfingu með margfaldara byggðum á DEX+POW. Hámarkshraði utan bardaga jafngildir tífaldri breyttri hreyfingu í kílómetrum á klukkustund.
+Auktu grunnhreyfingu með margfaldara byggðum á LIP+MÁT. Hámarkshraði utan bardaga er jafn tífaldri breyttri hreyfingu í kílómetrum á klukkustund.
 
-DEX+POW: 12 eða minna: x2, 13-24: x3, 25-36: x4, 37+: x5.
+LIP+MÁT: 12 eða minna: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Aukning:** Eyðtu 2 Kraftpunktum til að fá aukalega Aðgerðapunkt sem aðeins er hægt að nota til að breyta drægni (Change Range), hreyfa sig (Move) eða yfirspila (Outmaneuver).
+**Efling:** Eyddu 2 Máttarstigum til að fá auka Aðgerðarstig sem aðeins má nota til að breyta fjarlægð, hreyfa sig eða yfirspila andstæðing.
 
-#### Enhanced Strength (Aukin styrkur)
+#### Aukin styrkur
 
-Skaðabónus er reiknaður með STR+SIZ+POW og hámarkslyfta er ákvörðuð af STR+POW persónunnar: 12 eða minna: 1 tonn, 13-24: 2 tonn, 25-36: 3 tonn, 37+: 5 tonn. Óvopnaðar árásir teljast stórar að stærð og nærstríðs- og kastaðir hlutir hafa stærð sinni eða krafti aukið um eitt stig.
+Tjónabónus er reiknaður með STY+STÆ+MÁT og hámarkslyfta er ákvörðuð af STY+MÁT persónunnar: 12 eða minna: 1 tonn, 13-24: 2 tonn, 25-36: 3 tonn, 37+: 5 tonn. Óvopnaðar árásir teljast sem stór stærð og nærbardaga- og kösthlutir fá aukna stærð eða afl um eitt.
 
-**Aukning:** Eyðtu 3 Kraftpunktum til að tvöfalda hámarkslyftu í eina aðgerð eða verkefni.
+**Efling:** Eyddu 3 Máttarstigum til að tvöfalda hámarkslyftu í eina aðgerð eða verkefni.
 
-#### Flight (Flug)
+#### Flug
 
-Fáðu flug hraða jafnan POW í metrum, með hámarkshraða utan bardaga jafnan tífaldri hreyfingu í kílómetrum á klukkustund.
+Fáðu flughraða sem nemur MÁT í metrum, með hámarkshraða utan bardaga sem nemur tífaldri hreyfingu í kílómetrum á klukkustund.
 
-**Aukning:** Eyðtu 3 Kraftpunktum meðan á loft-hreyfingu stendur til að hefja árás (charge attack) meðan á hreyfingunni stendur.
+**Efling:** Eyddu 3 Máttarstigum meðan á loftborinni Hreyfi-aðgerð stendur til að hefja hleypuárás meðan á hreyfingunni stendur.
 
-#### Heightened Sense (Aukin skynjun)
+#### Næmt skynbragð
 
-Veldu eitt skilningarvit. Skynjunarköst (Perception) með því skilningarviti eru eitt hæfnistig auðveldara.
+Veldu eitt skynfæri. Skynjunarköst með því skynfæri eru einu færnistigi auðveldari.
 
-**Aukning:** Eyðtu 2 Kraftpunktum til að nota grunnkraftinn fyrir annað skilningarvit.
+**Efling:** Eyddu 2 Máttarstigum til að nota kjarnakraftinn fyrir annað skynfæri.
 
-#### Inherent armor (Eðlislæg brynja)
+#### Innbyggð brynja
 
-Veitir brynjugildi á alla líkamshluta jafnt einum þriðjungi af CON, námundað upp. Persónur geta valið að minnka gildi líkamshluta um allt að tvo punkta til að bæta við annan líkamshluta; til dæmis að lækka gildi hægri handleggs til að bæta við höfuðið.
+Veitir brynjugildi á alla staði sem nemur einum þriðja af ÞOL, námundað upp. Persónur geta valið að minnka gildi staðar um allt að tvo punkta til að bæta við annan stað; til dæmis með því að lækka gildi hægri handleggs til að bæta við höfuðið.
 
-**Aukning:** Þegar ráðist er á þig, fáðu aukabrynjupunkt gegn henni fyrir hvern 1 Kraftpunkt sem eytt er.
+**Efling:** Þegar þú verður fyrir árás, fáðu aukabrynju-punkt gegn henni fyrir hvert 1 Máttarstig sem er eytt.
 
-#### Life Support (Lífstuðningur)
+#### Lífstuðningur
 
-Fáðu ónæmi gegn tveimur umhverfisaðstæðum eða líffræðilegum kröfum.
+Fáðu ónæmi fyrir tveimur umhverfisskilyrðum eða líffræðilegum þörfum.
 
-**Aukning:** Fáðu ónæmi gegn tveimur viðbótarumhverfum eða kröfum.
+**Efling:** Fáðu ónæmi fyrir tveimur viðbótarmöguleikum eða kröfum.
 
-#### Lucky (Gæfusamur)
+#### Heppinn
 
-Reiknaðu grunn-Gæfupunkta (Luck Points) með CHA og hálfum POW, námundað upp.
+Reiknaðu grunn-Heppnistig með KAR og helmingi MÁT, námundað upp.
 
-**Aukning:** Þegar tvíburar (doubles) eru kastaðir, eyðtu 3 Kraftpunktum til að fá tímabundinn Gæfupunkt sem verður að nota fyrir lok senunnar.
+**Efling:** Þegar tvíburar koma upp í teningakasti skaltu eyða 3 Máttarstigum til að fá tímabundið Heppnistig sem verður að nota fyrir lok atriðisins.
 
-#### Regeneration (Endurmyndun)
+#### Endurnýjun
 
-Endurheimtu eitt HP á alla slasaða líkamshluta í upphafi hverrar umferðar ef líkamshlutinn hefur ekki hlotið mjög alvarlegt sár (Major Wound).
+Endurheimtu einn höggpunkt á alla særða staði í byrjun hverrar umferðar ef staðurinn hefur ekki hlotið alvarlegt sár.
 
-**Aukning:** Farðu í lækningadra (healing trance) og eyðtu 1 Kraftpunkti á klukkustund til að endurheimta eitt HP á líkamshluta með mjög alvarlegu sári.
+**Efling:** Farðu í gróunartrans og eyddu 1 Máttarstigi á klukkustund til að endurheimta einn höggpunkt á stað með alvarlegt sár.
 
-#### Savant (Snillingur)
+#### Snillingur
 
-Veldu þrjár hæfni með einn eiginleika sameiginlegan og köst með þeim eru eitt stig auðveldara.
+Veldu þrjár færni með einn sameiginlegan eiginleika og köst með þeim eru einu stigi auðveldari.
 
-**Aukning:** Þegar notuð er sérhæfð hæfni eins og Craft eða Science sem er einnig Savant-hæfni, eyðtu 3 Kraftpunktum til að fá sérhæfni sem persónan hefur ekki fyrir eitt verkefni á sama stigi og Savant-hæfni.
+**Efling:** Þegar notuð er sérhæfð færni svo sem Iðn eða Vísindi sem er einnig Snillingsfærni, eyddu 3 Máttarstigum til að fá sérhæfni sem persónan hefur ekki fyrir eitt verkefni á sama stigi og Snillingsfærnin.
 
-#### Teleport (Fjarflutningur)
+#### Fjarflutningur
 
-Fjarfluttu þig á hvaða sjáanlega punkt sem er innan POW í metrum sem hreyfiaðgerð.
+Fjarfluttu á hvaða sýnilega punkt sem er innan MÁT-fjarlægðar (í metrum) sem hreyfi-aðgerð.
 
-**Aukning:** Eyðtu 2 Kraftpunktum til að fjarflytja þig allt að hálfum POW í metrum, námundað upp, sem frjálsri aðgerð.
+**Efling:** Eyddu 2 Máttarstigum til að fjarflytja allt að helmingi MÁT í metrum, námundað upp, sem ókeypis aðgerð.
 
-#### Vaporous Form (Gufumynda)
+#### Gufukennt form
 
-Sem aðgerð breyttu þér í gufuský eða fínar agnir sem geta ekki haft samskipti við efnisheiminn en eru ónæmar fyrir líkamlegum árásum. Fáðu flughraða jafnan einum þriðjungi af POW í metrum og farðu í gegnum op af hvaða stærð sem er. Orkubundnar árásir valda hálfum skaða á Kraftpunkta persónunnar. Ef hún nær 0 Kraftpunktum snýr persónan aftur í fast form og verður að gera erfitt (Hard) Endurance-kast eða missa meðvitund í 1d6+1 mínútur.
+Sem aðgerð skaltu breytast í gufuský eða fínar agnir sem geta ekki átt í samskiptum við líkamlega heiminn en eru ónæmar fyrir líkamlegum árásum. Fáðu flughraða sem nemur einum þriðja af MÁT í metrum og farðu í gegnum op af hvaða stærð sem er. Orkubundnar árásir valda helmingi tjóns á Máttarstigum persónunnar. Ef Máttarstig falla í 0 snýr persónan aftur í fast form og verður að gera Erfitt ÞOL-kast annars verður hún meðvitundarlaus í 1d6+1 mínútur.
 
-**Aukning:** Eyðtu 3 Kraftpunktum til að gera einn líkamshluta fastan í eina aðgerð.
+**Efling:** Eyddu 3 Máttarstigum til að storkna einn höggstað í eina aðgerð.
 
 ---
-## Takmarkanir (Limits)
+## Takmarkanir
 
-#### Activation Cost (Virkjunarkostnaður)
+#### Virkjunarkostnaður
 
-Persónan eyðir 2 Kraftpunktum til að virkja grunnkraft eða eykur kostnað aukningar um 2 Kraftpunkta. Einnig getur samfelldur kraftur kostað 1 Kraftpunkt í upphafi hverrar umferðar til að viðhalda honum.
+Persónan eyðir 2 Máttarstigum til að virkja kjarnakraft eða eykur kostnað eflingar um 2 Máttarstig. Að öðrum kosti kostar samfelldur kraftur 1 Máttarstig í byrjun hverrar umferðar til að viðhalda.
 
-#### External Power Source (Ytri orkuuppspretta)
+#### Ytri orkugjafi
 
-Uppspretta krafta persónunnar er gripur eða tæki. Ef hann er lítill eða handfestur, er uppsprettan viðkvæm fyrir séráhrifum (Special Effects) eins og Disarm Weapon eða Take Weapon. Ef hann er stór, þarf að minnsta kosti eina mínútu til að klæðast honum eða virkja hann áður en hægt er að nota kraftana.
+Uppspretta krafta persónunnar er gripur eða tæki. Ef það er lítið eða handfesta, er uppsprettan viðkvæm fyrir sérstökum áhrifum eins og Afvopnun vopns eða Taka vopn. Ef það er stórt, þarf það að minnsta kosti eina mínútu til að klæðast eða virkja áður en kraftana má nota.
 
-#### Fatal Flaw (Banvænn galli)
+#### Banvænn galli
 
-Persónan verður að neyta eða komast í snertingu við efni á fjögurra klukkustunda fresti eða þjást af stigi þreytu (Fatigue). Vel heppnað Endurance-kast getur frestað þessu, en erfiðleiki þessa kasts eykst um eitt stig fyrir hverjar fjórar klukkustundir í viðbót sem krafan er ekki uppfyllt.
+Persónan verður að neyta eða komast í snertingu við efni á fjögurra klukkustunda fresti eða þjást af þreytustigi. Árangursríkt ÞOL-kast getur frestað þessu, en erfiðleiki kastsins eykst um eitt stig fyrir hverjar fjórar viðbótar klukkustundir sem kröfunni er ekki mætt.
 
-#### Limited Control (Takmörkuð stjórn)
+#### Takmörkuð stjórn
 
-Með aðgerðum sem fela í sér kraftinn eða aukninguna, eykst bil gagnrýnna mistaka (critical failure) persónunnar í 90-00.
+Með aðgerðum sem fela í sér kraftinn eða eflingu, eykst svið gagnrýninnar bilunar hjá persónunni í 90-00.
 
-#### Limited Power (Takmarkaður kraftur)
+#### Takmarkaður kraftur
 
-Krafturinn eða aukningin virkar aðeins við ákveðnar aðstæður eða hefur einhver minnkuð áhrif sem leikstjórinn ákveður.
+Krafturinn eða eflingin virkar aðeins við tilteknar aðstæður eða hefur einhver skert áhrif sem spilastjórnandi ákvarðar.
 
-#### Physical Limitation (Líkamleg takmörkun)
+#### Líkamleg takmörkun
 
-Persónan hefur viðvarandi takmarkandi ástand, svo sem blindu, varanlegt HP-tap á líkamshluta eða minnkaða hreyfigetu.
+Persónan hefur viðvarandi takmarkandi ástand, svo sem blindu, varanlegt höggpunktatap á stað eða skerta hreyfigetu.
 
-#### Vulnerability (Viðkvæmni)
+#### Veikleiki
 
-Persónan tekur tvöfaldan skaða af ákveðinni tegund árásar. Einnig verður persónan að gera erfið (Hard) Endurance-köst í hverri umferð þegar hún er innan 5 metra frá ákveðnu efni eða þjáist af stigi þreytu.
+Persónan tekur tvöfalt tjón af tiltekinni árásartegund. Að öðrum kosti verður persónan að gera Erfið ÞOL-köst í hverri umferð innan 5 metra frá tilteknu efni eða þjást af þreytustigi.

@@ -1,44 +1,46 @@
 # Magjia dhe Fuqitë
 
-Games Masters (Mjeshtrit e Lojës) që duan të përfshijnë magjinë dhe/ose superfuqitë në lojërat e tyre do të gjejnë disa rregulla bazë për ta bërë këtë në këtë seksion. Është gjithmonë më mirë të siguroheni që të gjithë të përfshirë në lojë janë të lumtur që magjia ose superfuqitë të përfshihen, dhe gjithmonë jepni pak mendim për llojin e lojës që mund të prodhojë.
+Mjeshtrit e Lojës (Games Masters) që duan të përfshijnë magjinë dhe/ose superfuqitë në lojërat e tyre do të gjejnë disa rregulla bazë për ta bërë këtë në këtë seksion. Gjithmonë është mirë të siguroheni që të gjithë pjesëmarrësit në lojë janë dakord për përfshirjen e magjisë ose superfuqive, dhe gjithmonë mendoni se çfarë lloj loje mund të krijojë kjo.
 
 ---
 ## Si Funksionojnë Fuqitë
 
-Hedhja e një magjie ose përdorimi i një superfuqie zakonisht kërkon shpenzimin e një forme energjie të tërhequr nga një grup pikësh. Madhësia e këtij grupi është e barabartë me karakteristikën POW të personazhit, dhe në rastin e magjistarëve grupi njihet si Pikat e Magjisë; dhe për superheronjtë, Pikat e Fuqisë. Përdorimi i magjisë ose fuqive kushton një numër të caktuar pikësh që zbriten nga ky grup, dhe kur grupi është bosh, nuk mund të hidhet më magji, ose të përdoren fuqitë, derisa të rikuperohet.
+Hedhja e një magjie ose përdorimi i një superfuqie zakonisht kërkon shpenzimin e një forme energjie të marrë nga një fond pikësh. Madhësia e këtij fondi është e barabartë me karakteristikën FUQ të personazhit, dhe në rastin e magjistarëve fondi njihet si Pikë Magjie; ndërsa për superheronjtë, si Pikë Fuqie. Përdorimi i magjisë ose fuqive kushton një numër të caktuar pikësh që zbriten nga ky fond, dhe kur fondi është bosh, nuk mund të hidhen më magji ose të përdoren fuqi derisa ai të rimëkëmbet.
 
-Magjia rikuperohet në një numër pikësh të barabartë me Shkallën e Shërimit të personazhit për orë derisa të arrijë një nivel të barabartë me POW të personazhit. Kjo supozon se personazhi mund të pushojë plotësisht, duke mos marrë pjesë në aktivitete të tjera, dhe nuk po rikuperohet nga lodhja ose lëndimi. Nëse po, Games Master mund të rrisë kohën e nevojshme për të rikuperuar Pikat e Magjisë/Fuqisë, ose të zvogëlojë Shkallën e Shërimit.
+Magjia rimëkëmbet me një numër pikësh të barabartë me Shkallën e Shërimit (Healing Rate) të personazhit për orë, derisa të arrijnë një nivel të barabartë me FUQ e personazhit. Kjo supozon se personazhi mund të pushojë plotësisht, pa marrë pjesë në aktivitete të tjera, dhe nuk po rimëkëmbet nga lodhja ose lëndimi. Nëse është kështu, Mjeshtri i Lojës mund të rrisë kohën e nevojshme për rikuperimin e Pikëve të Magjisë/Fuqisë, ose të zvogëlojë Shkallën e Shërimit.
 
-Për superfuqitë, Pikat e Fuqisë rikuperohen me një shkallë prej një për çdo minutë të plotë pushimi, por personazhet mund të shpenzojnë gjithashtu një Pikë Fati për të rifituar menjëherë 1d4+1 Pika Fuqie të humbura deri në maksimumin e tyre.
+Për superfuqitë, Pikët e Fuqisë rimëkëmben me një shkallë prej një pike për çdo minutë të plotë pushimi, por personazhet gjithashtu mund të shpenzojnë një Pikë Fati për të rifituar menjëherë 1d4+1 Pikë Fuqie të humbura deri në maksimumin e tyre.
 
 #### Hedhja e Magjive
 
-Magjitë hidhen duke përdorur aftësinë Magji; pa të, magjia thjesht nuk është e mundur. Përgatitja dhe hedhja e një magjie kërkon një Veprim dhe një hedhje të suksesshme të Magjisë. Nëse hedhja dështon, magjia nuk funksionon dhe duhet të përgatitet dhe të provohet përsëri më vonë. Nëse hedhja ka sukses, magjia funksionon, dhe Pikat e Magjisë zbriten nga grupi i Pikave të Magjisë.
+Magjitë hidhen duke përdorur aftësinë Magji; pa të, magjia është thjesht e pamundur. Përgatitja dhe hedhja e një magjie kërkon një Veprim dhe një hedhje të suksesshme të Magjisë. Nëse hedhja dështon, magjia nuk funksionon dhe duhet të përgatitet e të provohet përsëri më vonë. Nëse hedhja është e suksesshme, magjia funksionon dhe Pikët e Magjisë zbriten nga fondi i Pikëve të Magjisë.
 
 #### Përdorimi i Superfuqive
 
-Personazhet superhero zbulojnë se superfuqia e tyre funksionon gjithmonë, dhe kështu nuk ka nevojë për hedhje për të përdorur ose shpenzim të Pikave të Fuqisë; megjithatë, nëse përpiqeni të Përmirësoni një fuqi, atëherë ka një kosto në Pika Fuqie.
+Personazhet superhero zbulojnë se superfuqia e tyre është gjithmonë aktive, prandaj nuk kërkon asnjë hedhje për t'u përdorur dhe as shpenzim të Pikëve të Fuqisë; megjithatë, nëse përpiqen të përforcojnë (Boost) një fuqi, atëherë ka një kosto në Pikë Fuqie.
 
 ---
-## Fillimi i Fuqive dhe Mësimi i Fuqive të Reja
+## Fuqitë Fillestare dhe Mësimi i të Rejave
 
 #### Magjistarët
 
-Magjistarët fillojnë me 1d4+1 magji, të gjitha hidhen duke përdorur aftësinë Magji. Lojtari dhe Games Master duhet të konsultohen se cilat magji janë në dispozicion dhe si i mori personazhi ato. Për shembull, personazhi mund të ketë qenë nxënës i një magjistari lokal, ose mund të ketë mësuar magji në gjunjët e nënës së tij.
+Magjistarët fillojnë me 1d4+1 magji, të gjitha të hedhura duke përdorur aftësinë Magji. Lojtari dhe Mjeshtri i Lojës duhet të konsultohen se cilat magji janë të disponueshme dhe si i fitoi ato personazhi. Për shembull, personazhi mund të ketë qenë nxënës i një magjistari lokal, ose mund të ketë mësuar magji që në fëmijëri.
 
-Mund të mësohen më shumë magji, por kushton 3 Hedhje Eksperiencë për të mësuar një magji të re, dhe kërkon një javë studim dhe praktikë të përkushtuar. Magjitë e reja duhet të mësohen nga një mësues ose një burim i besueshëm (si një rrotull ose grimoir i dizajnuar për të mësuar një magji të re).
+Më shumë magji mund të mësohen, por kushton 3 Hedhje Përvoje për të mësuar një magji të re dhe kërkon një javë studimi dhe praktike të përkushtuar. Magjitë e reja duhet të mësohen nga një mësues ose një burim i besueshëm (si një rrotull ose grimuar i krijuar për të mësuar një magji të re).
 
 #### Superheronjtë
 
-Për superheronjtë, Games Master dhe lojtari duhet të vendosin se si personazhi i mori fuqitë e tij, dhe cila është burimi i fuqisë (për shembull, mund të jetë një kostum armaturë speciale, aftësi të fituara përmes ekspozimit ndaj rrezeve kozmike, ose një mutacion gjenetik).
+Për superheronjtë, Mjeshtri i Lojës dhe lojtari duhet të vendosin se si personazhi i fitoi fuqitë e tij/saj dhe cili është burimi i fuqisë (për shembull, mund të jetë një kostum me armaturë speciale, aftësi të fituara përmes ekspozimit ndaj rrezeve kozmike, ose një mutacion gjenetik).
 
-Superheronjtë fillojnë me një numër fuqish thelbësore të përcaktuara nga POW plus një Karakteristikë tjetër bazuar në burimin e fuqive: CON për fiziologjinë e ndryshuar (mutacion, specie aliene, eksperimentim) ose INT për teknologji ose fuqi të bazuara në aftësi (cybernetikë, kostume beteje, stërvitje intensive, etj.). Shih tabelën më poshtë.
+Superheronjtë fillojnë me një numër fuqish thelbësore të përcaktuara nga FUQ plus një Karakteristikë tjetër bazuar në burimin e fuqive: QEN për fiziologji të ndryshuar (mutacion, specie aliene, eksperimentim) ose ZGJ për teknologji ose fuqi të bazuara në aftësi (kibernetikë, kostume beteje, stërvitje intensive, e kështu me radhë). Shihni tabelën më poshtë.
 
-Një fuqi thelbësore mund të shkëmbehet me dy Përmirësime që mund të aplikohen në çdo fuqi thelbësore. Një personazh mund të marrë gjithashtu deri në dy Kufizime nga lista që fillon në seksionin Super Fuqitë, me një që ofron një Përmirësim bonus, ose dy që japin një fuqi thelbësore bonus. Një përzgjedhje e fuqive dhe shembuj Përmirësimesh janë renditur në seksionin [Super Fuqitë](0007_Magic.md?id=superpowers).
+Një fuqi thelbësore mund të shkëmbehet për dy Përforcime (Boosts) që mund të aplikohen në çdo fuqi thelbësore. Një personazh gjithashtu mund të marrë deri në dy Kufizime nga lista që fillon në seksionin e Superfuqive, ku njëri ofron një Përforcim bonus, ose dy ofrojnë një fuqi thelbësore bonus. Një përzgjedhje e fuqive dhe Përforcimeve shembull janë renditur në seksionin [Superfuqitë](0007_Magic.md?id=superpowers).
 
-##### Tabela e Super Fuqive
 
-| POW+(CON ose INT) | Fuqitë Thelbësore |
+##### Tabela e Superfuqive
+
+
+| FUQ+(QEN ose ZGJ) | Fuqi Thelbësore |
 |:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
@@ -46,41 +48,44 @@ Një fuqi thelbësore mund të shkëmbehet me dy Përmirësime që mund të apli
 | 31-40 | 4 |
 | 40+ | 5 |
 
+
 ---
 ## Magjia
 
-Sa herë që një personazh dëshiron të përdorë një magji, ai bën një hedhje kundër aftësisë së tij të Magjisë. Hedhja kërkon një kthesë të vetme, por sasia e Pikave të Magjisë të përdorura dhe nëse magjia është e suksesshme varet nga rezultati i hedhjes.
+Kurdoherë që një personazh dëshiron të përdorë një magji, ai bën një hedhje kundër aftësisë së tij Magji. Hedhja kërkon një kthesë të vetme, por sasia e Pikëve të Magjisë të përdorura dhe nëse magjia është e suksesshme varet nga rezultati i hedhjes.
 
-Nëse hedhja e Magjisë është një...
+Nëse hedhja e Magjisë është...
 
-- **Sukses Kritik:** kostoja e Pikave të Magjisë së magjisë është zero.
-- **Sukses:** hedhësi humbet 1 Pikë Magjie, dhe magjia funksionon
+- **Sukses Kritik:** kostoja në Pikë Magjie e magjisë është zero.
+- **Sukses:** hedhësi humbet 1 Pikë Magjie dhe magjia funksionon.
 - **Dështim:** hedhësi humbet 1 Pikë Magjie, por magjia nuk funksionon.
-- **Gabim:** hedhësi humbet 1d3 Pika Magjie për magjinë dhe magjia dështon.
+- **Gabim (Fumble):** hedhësi humbet 1d3 Pikë Magjie për magjinë dhe magjia dështon.
 
-Për shkak të natyrës së tyre të vogël ose të parëndësishme, të gjitha magjitë e Magjisë kanë një Intensitet dhe Madhësi të paracaktuar prej 1.
+Për shkak të natyrës së tyre të vogël ose të parëndësishme, të gjitha magjitë kanë një Intensitet dhe Madhësi (Magnitude) të paracaktuar prej 1.
 
-#### Kufizimet e Kapacitetit të Magjisë
 
-Personazhet nuk kanë një kufi aktual për numrin e magjive të Magjisë që mund të mësojnë, me kusht që Games Master t'i lejojë ata të kenë akses në të reja.
+#### Kufizimet në Kapacitetin Magjik
+
+Personazhet nuk kanë asnjë kufizim real në numrin e magjive që mund të mësojnë, për sa kohë që Mjeshtri i Lojës i lejon të kenë akses në të reja.
 
 #### Magjitë
 
-Magjitë përcaktohen nga tipare të ndryshme që përcaktojnë efektet e magjisë dhe çdo kufizim të veçantë. Çdo magji është e ndryshme me disa që kanë më pak tipare se të tjerat.
+Magjitë përcaktohen nga tipare të ndryshme që përcaktojnë efektet e magjisë dhe çdo kufizim të veçantë. Çdo magji është e ndryshme, ku disa kanë më pak tipare se të tjerat.
 
 #### Kohëzgjatja e Magjive
 
-Nëse një magji nuk ka tiparet Koncentrim ose I Menjëhershëm, ajo ka një kohëzgjatje natyrale që zgjat të gjithë skenën ose veprimin për të cilin u përdor magjia. Disa magji kanë kohëzgjatje të personalizuara të shënuara në përkufizimin e magjisë.
+Përveç nëse një magji ka tiparet Përqendrim ose E menjëhershme, ajo ka një kohëzgjatje natyrale që zgjat gjithë skenën ose veprimin për të cilin u përdor magjia. Disa magji kanë kohëzgjatje të personalizuara të shënuara në përkufizimin e magjisë.
 
-#### Tiparet e Magjisë
+#### Tiparet Magjike
 
-Tiparet e Magjisë janë si më poshtë:
+Tiparet Magjike janë si më poshtë:
 
-- **Koncentrim:** Efektet e magjisë mbeten në vend nëse hedhësi vazhdon të koncentrohet në ruajtjen e saj. Koncentrimi kërkon që hedhësi të jetë i lirë nga të gjitha shpërqendrimet fizike dhe mendore: çdo shqetësim i tillë ndërpret koncentrimin, duke rezultuar në heqjen e menjëhershme të magjisë.
-- **I Menjëhershëm:** Efektet e magjisë ndodhin menjëherë. Nuk ka kohëzgjatje.
-- **Me Rreze:** Magjitë me tiparin Me Rreze mund të hidhen në një distancë deri në rezultatin e Magjisë së personazhit në metra. Hedhësi duhet të dijë vendndodhjen e objektivit, si "i fshehur pas derës": nëse nuk është në gjendje të shohë ose ndjejë drejtpërdrejt objektivin e magjisë, atëherë hedhja e Magjisë bëhet një shkallë më e vështirë.
-- **Rezistoj (Qëndresë, Shmangie, Forcë Vullneti):** Çdo magji që nuk pranohet lehtësisht nga një objektiv mund të rezistohet në mënyrë aktive duke përdorur ose Qëndresën, Shmangien ose Forcën e Vullnetit, siç përcaktohet nga ky tipar. Për të rezistuar me sukses një magjie, objektivi duhet të fitojë një Hedhje të Kundërt të aftësisë përkatëse kundër rezultatit të hedhjes së Magjisë së hedhësit. Nëse objektivi dështon në hedhje, atëherë magjia hyn në fuqi si normalisht. Vini re se rezistenca zakonisht është një veprim pasiv nëse po përdoren Qëndresa ose Forca e Vullnetit. Nëse një magji kërkon që objektivi të Shmanget, atëherë kushton një Pikë Veprimi për të bërë përpjekjen e Shmangies. Objektivat pa Pika Veprimi për të shpenzuar në shmangie do të jenë për rrjedhojë të pafuqishëm kundër efektit të magjisë.
-- **Prekje:** Hedhësi duhet të jetë në kontakt fizik me objektivin gjatë kohës që magjia hidhet. Nëse një objektiv synon të rezistojë kontaktin fizik, atëherë hedhësi ka shumë të ngjarë të dështojë të përfundojë magjinë e tij, përveç nëse ndonjë rrethanë specifike parandalon tërheqjen e objektivit, si surpriza ose efekti special I Kapur. Një magji prekjeje thjesht ka nevojë të kontaktojë objektivin ose aksesorët e tij të mbajtura për të funksionuar.
+- **Përqendrim:** Efektet e magjisë mbeten në fuqi nëse hedhësi vazhdon të përqendrohet në mbajtjen e saj. Përqendrimi kërkon që hedhësi të jetë i lirë nga të gjitha shpërqendrimet fizike dhe mendore: çdo shqetësim i tillë ndërpret përqendrimin, duke rezultuar në shuarjen e menjëhershme të magjisë.
+- **E menjëhershme:** Efektet e magjisë ndodhin menjëherë. Nuk ka kohëzgjatje.
+- **Në distancë:** Magjitë me tiparin Në distancë mund të hidhen në një distancë deri në vlerën e rezultatin të Magjisë së personazhit në metra. Hedhësi duhet ta dijë vendndodhjen e objektivit, si p.sh. 'fshehur pas derës': nëse ata nuk janë në gjendje të shohin ose ndiejnë drejtpërdrejt objektivin e magjisë, atëherë hedhja e Magjisë bëhet një shkallë më e vështirë.
+- **Rezisto (Qëndresë, Shmangie, Vullnet):** Çdo magji që nuk pranohet lehtësisht nga një objektiv mund të rezistohet në mënyrë aktive duke përdorur ose Qëndresën, Shmangien ose Vullnetin, siç përcaktohet nga ky tipar. Për t'i rezistuar me sukses një magjie, objektivi duhet të fitojë një Hedhje të Kundërt të aftësisë përkatëse kundrejt rezultatit të hedhjes së Magjisë së hedhësit. Nëse objektivi dështon në hedhje, atëherë magjia merr efekt si normalisht. Vini re se rezistenca është zakonisht një veprim pasiv nëse po përdoret Qëndresa ose Vullneti. Nëse një magji kërkon që objektivi të Shmanget, atëherë kushton një Pikë Veprimi për të bërë përpjekjen e Shmangies. Objektivat pa Pikë Veprimi për të shpenzuar në shmangie do të jenë për rrjedhojë të pafuqishëm ndaj efektit të magjisë.
+- **Prekje:** Hedhësi duhet të jetë në kontakt fizik me objektivin ndërsa magjia hidhet. Nëse një objektiv është i vendosur t'i rezistojë kontaktit fizik, atëherë hedhësi ka shumë të ngjarë të dështojë në përfundimin e magjisë së tij, përveç nëse ndonjë rrethanë specifike e pengon tërheqjen e objektivit, si p.sh. surpriza ose efekti special Mbërthim (Grip). Një magji prekjeje thjesht duhet të kontaktojë objektivin ose pajisjet e tij të mbajtura për të funksionuar.
+
 
 ---
 ## Përshkrimet e Magjive
@@ -89,318 +94,317 @@ Tiparet e Magjisë janë si më poshtë:
 
 _Kohëzgjatje Speciale_
 
-Hedhja e Alarmit në një vendndodhje si një dhomë ose një pastrim i vogël krijon një lidhje psikike të përkohshme midis zonës dhe hedhësit. Nëse zona aksesohet nga një krijesë e gjallë me një SIZ më të madhe se 1, hedhësi automatikisht bëhet i vetëdijshëm se diçka ka ndodhur, pavarësisht nga distanca. Alarmi zakonisht është një ndjesi e qartë shpimi ose një goditje mendore që do të zgjojë hedhësin. Alarmi mund të përdoret gjithashtu në një objekt individual, duke u aktivizuar kur preket ose lëvizet.
+Hedhja e Alarmit në një vendndodhje si një dhomë ose një lëndinë e vogël krijon një lidhje psikike të përkohshme midis zonës dhe hedhësit. Nëse zona aksesohet nga një krijesë e gjallë me një MAD më të madhe se 1, hedhësi vihet automatikisht në dijeni se diçka ka shkelur, pavarësisht nga distanca. Alarmi është zakonisht një ndjesi shpimi ose goditje mendore që do ta zgjojë hedhësin. Alarmi mund të përdoret gjithashtu në një objekt individual, duke u aktivizuar kur preket ose lëvizet.
 
 #### Avert
 
-_I Menjëhershëm, Me Rreze_
+_E menjëhershme, Në distancë_
 
-Avert përdoret për të hequr një magji tjetër brenda rrezes. Avert mund të hidhet në mënyrë reaktive për të neutralizuar magjitë ofensive, duke përdorur Veprimin Reaktiv të Kundër-Magjisë.
+Avert përdoret për të shuar një magji tjetër brenda rrezes. Avert mund të hidhet në mënyrë reaktive për të neutralizuar magjitë ofensive, duke përdorur Veprimin Reaktiv Kundërmagji.
 
 #### Befuddle
 
-_Me Rreze, Rezistoj (Forcë Vullneti)_
+_Në distancë, Rezisto (Vullnet)_
 
-Befuddle shkakton konfuzion brenda mendjes së një objektivi korporal. Subjekti i magjisë ka vështirësi të mendojë qartë, duke harruar se ku është, çfarë po bën dhe pse – shpesh duke rënë në vija mendimi të disasociuara. Objektivat e hutuar mund të veprojnë ende në vetëmbrojtje, por nuk mund të fillojnë asnjë aktivitet konstruktiv derisa të përfundojë magjia. Çdo lloj sulmi ose veprimi kërcënues ndërpret menjëherë magjinë, pavarësisht nëse ishte drejtuar specifikisht ndaj objektivit të hutuar.
+Befuddle shkakton konfuzion në mendjen e një objektivi trupor. Subjekti i magjisë ka vështirësi të mendojë qartë, duke harruar se ku është, çfarë po bën dhe pse – shpesh duke rënë në rrjedha mendimesh të shkëputura. Objektivat e hutuar mund të veprojnë ende në vetëmbrojtje, por nuk mund të iniciojnë asnjë aktivitet konstruktiv derisa magjia të përfundojë. Çdo lloj sulmi ose veprimi kërcënues e prish menjëherë magjinë, pavarësisht nëse ishte drejtuar specifikisht ndaj objektivit të hutuar apo jo.
 
 #### Bladesharp
 
 _Prekje_
 
-Bladesharp hidhet mbi armë me teh dhe shpuese të luftës së afërt. Ajo rrit dëmtimin e një arme me një hap zare dhe incidentalish e lë tehun të mprehur pas përfundimit të magjisë. Kjo magji shpesh përdoret në mjete si sëpatat e prerjes së drurëve, parmendat dhe briskat. Kështu, hedhja e kësaj magjie në një thikë rrit dëmtimin e saj në 1d6+1, ndërsa e njëjta magji në një sëpatë të madhe do ta rriste në 2d8+2 dëm. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
+Bladesharp hidhet mbi armët e ftohta prerëse dhe shpuese. Ajo rrit dëmin e një arme me një hap zari dhe për rrjedhojë e lë tehun të mprehur pasi magjia përfundon. Kjo magji përdoret shpesh në mjete si sëpata shpyllëzimi, parmenda dhe brisk. Kështu, hedhja e kësaj magjie në një thikë e rrit dëmin në 1d6+1, ndërsa e njëjta magji në një sëpatë të madhe do ta rriste në 2d8+2 dëm. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
 #### Bludgeon
 
 _Prekje_
 
-Bludgeon është si Bladesharp por përdoret në armë dhe mjete që shkaktojnë dëme me forcë të shurdhër sesa dëmtime prerëse ose shpuese. Zakonisht përdoret për të ndihmuar me shirjen e grurit, pastrimin e leshit ose punë të ngjashme të rënda.
+Bludgeon është si Bladesharp por përdoret në armë dhe mjete që shkaktojnë traumë nga goditjet e forta, në vend të dëmeve prerëse ose shpuese. Zakonisht përdoret për të ndihmuar në shirjen e drithërave, përpunimin e leshit ose punë të tjera të rënda.
 
 #### Breath
 
 _Prekje_
 
-Breath lejon marrësin të mbajë frymën për një periudhë të zgjatur, në mënyrë që të mund të hyjë përkohësisht në ambiente të dëmshme, si nën ujë; ose atmosfera të ndotura nga pluhuri i shkëmbit, gazrat, tymi ose helme. Magjia zgjat maksimumi gjysmën e POW të hedhësit në minuta, gjatë së cilës kohë marrësi nuk mund të flasë, ose fryma humbet, dhe ata duhet të fillojnë menjëherë të marrin frymë nga mjedisi i tyre duke vuajtur çdo rrezik të pranishëm – qoftë asfiksim, mbytje, helmim, etj.
+Breath i lejon marrësit të mbajë frymën për një periudhë të zgjatur, në mënyrë që të mund të aventurohet përkohësisht në ambiente të dëmshme, si p.sh. nën ujë; ose atmosfera të ndotura nga pluhuri i shkëmbinjve, gazrat, tymi ose helmet. Magjia zgjat për një maksimum prej gjysmës së FUQ të hedhësit në minuta, gjatë së cilës kohë marrësi nuk mund të flasë, ose fryma humbet, dhe ai duhet të fillojë menjëherë të marrë frymë nga mjedisi i tij duke vuajtur çdo rrezik të pranishëm - qoftë asfiksi, mbytje, helmim, etj.
 
 <details>
 
-<summary>* Erratë Komunitare</summary>
+<summary>* Gabime të Komunitetit (Errata)</summary>
 
 _**Breath**_
 
-_Përshkrimi origjinal i magjisë ishte si më poshtë: "Breath lejon marrësin të mbajë frymën për një periudhë të zgjatur, në mënyrë që të mund të hyjë përkohësisht në ambiente të dëmshme, si nën ujë; ose atmosfera të ndotura nga pluhuri i shkëmbit, gazrat, tymi ose helme. Magjia zgjat maksimumi gjysmën e POW të hedhësit në minuta, gjatë së cilës kohë marrësi nuk mund të flasë, ose fryma humbet, dhe ata fillojnë menjëherë të asfiksohen (ose të helmohen)."_
+_Përshkrimi origjinal i magjisë ishte si më poshtë: "Breath i lejon marrësit të mbajë frymën për një periudhë të zgjatur, në mënyrë që të mund të aventurohet përkohësisht në ambiente të dëmshme, si p.sh. nën ujë; ose atmosfera të ndotura nga pluhuri i shkëmbinjve, gazrat, tymi ose helmet. Magjia zgjat për një maksimum prej gjysmës së FUQ të hedhësit në minuta, gjatë së cilës kohë marrësi nuk mund të flasë, ose fryma humbet, dhe ata fillojnë menjëherë të asfiksohen (ose të helmohen)."_
 
-_Kjo mund të lexohej si një efekt ofensiv i shkaktuar në fund të magjisë, gjë që duket në kundërshtim me qëllimin e autorëve dhe modelin e magjive të tilla si shërbime më tepër sesa armë. Prandaj, redaktimi i Erratës Komunitare më sipër. Ne do ta përditësojmë këtë tekst nëse autorët origjinalë rishikojnë rregullin siç është shkruar._
+_Kjo mund të lexohej si një efekt ofensiv që shkaktohet në fund të magjisë, gjë që duket në kundërshtim me qëllimin e autorëve dhe modelin e magjive të tilla si shërbime, jo si armë. Prandaj, redaktimi i Gabimeve të Komunitetit më lart. Ne do ta përditësojmë këtë tekst nëse autorët origjinalë rishikojnë rregullin siç është shkruar._
 
 </details>
 
 #### Calm
 
-_Me Rreze, Rezistoj (Forcë Vullneti)_
+_Në distancë, Rezisto (Vullnet)_
 
-Calm përpiqet të zbusë pasionet ose objektivin, ndoshta duke siguruar që një i dashuruar i sëmurë të mos shtyjë kërkesën e tij, një rival i frikësuar të mos bërtasë për ndihmë ose që armët të mos nxirren me zemërim. Një person i qetë nuk ndikohet ndryshe mendërisht; Kështu, çdo lloj sulmi ose veprimi kërcënues ende lejon objektivin të mbrojë veten dhe madje të sulmojë, megjithëse do ta bëjë këtë në një mënyrë të qetë dhe të matur.
+Calm përpiqet të zbusë pasionet e objektivit, ndoshta duke siguruar që një dashnor i marrosur të mos e shtyjë kërkesën e tij, një rival i frikësuar të mos kërkojë ndihmë ose që armët të mos nxirren në zemërim. Një person i qetësuar nuk është përndryshe i prekur mendërisht; kështu, çdo lloj sulmi ose veprimi kërcënues ende i lejon objektivit të mbrohet dhe madje të sulmojë, megjithëse do ta bëjnë këtë në një mënyrë të qetë dhe të përmbajtur.
 
 #### Chill
 
-_I Menjëhershëm, Prekje_
+_E menjëhershme, Prekje_
 
-Chill zvogëlon në mënyrë dramatike temperaturën e objekteve të vogla (jo më të mëdha se dora e hedhësit) deri në temperaturën e ujit të akullt. E dobishme për ftohjen e shpejtë të sendeve të nxehta, ftohjen e pijeve, etj. Magjia nuk e ngrin një objekt dhe as nuk i shkakton ndonjë dëmtim strukturës së tij: ajo thjesht e bën atë shumë të ftohtë.
+Chill redukton në mënyrë drastike temperaturën e objekteve të vogla (jo më të mëdhenj se dora e hedhësit) deri në temperaturën e ujit me akull. E dobishme për ftohjen e shpejtë të artikujve të nxehtë, ftohjen e pijeve, e kështu me radhë. Magjia nuk e ngrin një objekt dhe as nuk shkakton ndonjë dëmtim në strukturën e tij: thjesht e bën atë shumë të ftohtë.
 
 #### Darkness
 
-_Koncentrim, Me Rreze_
+_Përqendrim, Në distancë_
 
-Darkness krijon një zonë hijesh, të barabartë me POW në metra katrorë, e cila shtyp të gjithë dritën brenda saj. Ky është vëllim i mjaftueshëm për të mbushur një dhomë modeste, një gjatësi korridori ose për të formuar një re të vogël nëse hidhet jashtë. Të gjitha dritat jo-magjike, duke përfshirë dritën e diellit, që kalojnë ose janë të pranishme brenda kufirit, reduktohen në ekuivalentin e një shkëlqimi të zbehtë.
+Darkness krijon një zonë hijesh, të barabartë me FUQ në metra katrorë, e cila shtyp të gjithë dritën brenda saj. Ky është vëllim i mjaftueshëm për të mbushur një dhomë modeste, një gjatësi korridori ose për të formuar një re të vogël nëse hidhet jashtë. E gjithë drita jomagjike, duke përfshirë dritën e diellit, që kalon brenda ose është e pranishme brenda kufirit reduktohet në ekuivalentin e një shkëlqimi të zbehtë.
 
 #### Disruption
 
-_I Menjëhershëm, Me Rreze, Rezistoj (Qëndresë)_
+_E menjëhershme, Në distancë, Rezisto (Qëndresë)_
 
-Disruption përdoret për të dëmtuar ose shpërbërë objekte fizike pa pasur nevojë për mjete. Zakonisht përdoret për të shpërbërë ose vrarë krijesa të gjalla, si zogj ose dëmtues. Kur hidhet me sukses, Disruption shkakton 1d3 dëm në një vendndodhje të vetme të rastësishme të goditjes ose në Pikat e Përgjithshme të Jetës së një objekti. Në të dy rastet, dëmi injoron çdo armaturë ose mbrojtje natyrore.
+Disruption përdoret për dëmtimin ose çmontimin e objekteve fizike pa pasur nevojë për mjete. Zakonisht përdoret për të larguar ose vrarë krijesa të gjalla, si zogj ose minj. Kur hidhet me sukses, Disruption shkakton 1d3 dëm në një Vendndodhje të Goditjes (Hit Location) të rastësishme ose në Pikët e Goditjes (Hit Points) të përgjithshme të një objekti. Në të dy rastet, dëmi shpërfill çdo armaturë ose mbrojtje natyrale.
 
 #### Extinguish
 
-_I Menjëhershëm, Me Rreze_
+_E menjëhershme, Në distancë_
 
-Extinguish shuan menjëherë flakët dhe zjarret e vegjël me madhësi dhe nxehtësi modeste. Është i dobishëm për të fikur qirinj, fenerë, pishtarë ose zjarre të vogla gatimi, por nuk do të funksionojë në zjarre magjike ose më të mëdha, konflagracione më të egra si pirgje, shtëpi të djegura ose flakë dragoi.
+Extinguish shuan menjëherë flakët dhe zjarret e vogla të madhësisë dhe nxehtësisë modeste. Është e dobishme për shuarjen e qirinjve, fenerëve, pishtarëve ose zjarreve të vogla të gatimit, por nuk do të funksionojë në zjarre magjike ose më të mëdhenj dhe më të egër si pirgje drush, shtëpi që digjen ose flakë dragoi.
 
 #### Find (X)
 
-_Koncentrim, Me Rreze, Rezistoj (Special)_
+_Përqendrim, Në distancë, Rezisto (Speciale)_
 
-Find ka shumë variacione; gjithmonë specifike dhe të mësuara si magji të ndara. Disa shembuj të zakonshëm janë dhënë më poshtë. Ai funksionon duke u akorduar me emanacionet natyrore të një krijese ose sendi, duke lajmëruar hedhësin për praninë e tij brenda rrezes së magjisë. Find mund të bllokohet nga materiale të dendura ose të trasha si metali, ose dheu dhe guri me trashësi të paktën një metër. Magjia nuk mund të dallojë emocione ose mendime.
+Find ka shumë variacione; gjithmonë specifike dhe të mësuara si magji të veçanta. Disa shembuj të zakonshëm janë dhënë më poshtë. Punon duke u akorduar me emanacionet natyrore të një krijese ose gjëje, duke paralajmëruar hedhësin për praninë e saj brenda rrezes së magjisë. Find mund të bllokohet nga materiale të dendura ose të trasha si metali, ose dheu dhe guri të paktën një metër të trashë. Magjia nuk mund të dallojë emocionet ose mendimet.
 
-- *Find Arrows*: Gjen municionin e qëlluar nga gjahtarët, të cilët dështojnë të godasin objektivin.
-- *Find Flaw*: Identifikon çdo defekt në një objekt, si papërsosmëri të fshehura ose dëmtime fizike.
-- *Find Livestock*: Gjen një lloj të caktuar kafshe. Mund të rezistohet me Forcë Vullneti.
-- *Find Loot*: Gjen metale të çmuara dhe gurë të çmuar.
-- *Find Object*: Gjen një send personal të humbur.
-- *Find Sickness*: Identifikon ekzistencën e sëmundjes dhe sëmundjeve, qoftë magjike ose të zakonshme.
+- *Gjej Shigjeta*: Gjen municionin e qëlluar nga gjuetarët, të cilat humbasin objektivin e tyre.
+- *Gjej të Metë*: Identifikon çdo të metë në një objekt, si papërsosmëri të fshehura ose dëmtime fizike.
+- *Gjej Bagëti*: Gjen një lloj të veçantë kafshe. Mund të rezistohet me Vullnet.
+- *Gjej Thesar*: Gjen metale dhe gurë të çmuar.
+- *Gjej Objekt*: Gjen një send personal të humbur.
+- *Gjej Sëmundje*: Identifikon ekzistencën e sëmundjeve dhe paaftësive, qofshin magjike apo mondane.
 
 #### Firearrow
 
 _Prekje_
 
-Firearrow bën që të gjithë predhat e hedhura ose të qitura nga marrësi të shpërthejnë në flakë kur lëshohen. Në thelb e krijuar për të vepruar si një flakë sinjalizuese, ajo është evoluar që atëherë në një magji luftarake. Predhat nën efektin e saj shtojnë një dëm shtesë 1d3 por fiken nëse ngulen në mish. Ata që godasin materiale të ndezshme kanë një shans të barabartë me aftësinë e Magjisë Popullore të hedhësit për të ndezur çdo gjë ku ngulen, si mburoja druri, çati kashte etj. Municioni prej druri konsumohet si pjesë e magjisë.
+Firearrow bën që të gjitha predhat e hedhura ose të shkrepura nga marrësi të shpërthejnë në flakë kur lëshohen. Krijuar gjoja për të shërbyer si sinjal drite, ajo ka evoluar që atëherë në një magji luftarake. Predhat nën efektin e saj shtojnë 1d3 dëm shtesë, por shuhen nëse depërtojnë në mish. Ato që godasin material të ndezshëm kanë një shans të barabartë me aftësinë Magji Popullore të hedhësit për të ndezur çfarëdo që ato ngulen, si mburoja druri, çati kashte, e kështu me radhë. Municioni prej druri konsumohet si pjesë e magjisë.
 
 #### Fireblade
 
 _Prekje_
 
-Fireblade është si Firearrow por hidhet në mjete dore dhe armë të luftës së afërt. Qëllimi origjinal i magjisë është të sterilizojë pajisjet kirurgjikale, të ndihmojë në bujqësinë me djegie ose të sigurojë ndriçim gjatë errësirës pa pasur nevojë të mbajë një burim shtesë drite. Nëse hidhet në një armë, ajo shkakton një dëm shtesë 1d3, dhe ka shansin të ndezë materiale të ndezshme nëse mbahen mbi to për disa raunde (shih Zjarri në Seksionin e Sistemit të Lojës). Armët me dorezë druri nën efektet e Fireblade do të konsumohen si pjesë e magjisë.
+Fireblade është si Firearrow por hidhet mbi mjete dore dhe armë të ftohta. Qëllimi origjinal i magjisë është të sterilizojë pajisjet kirurgjikale, të ndihmojë në bujqësinë me prerje dhe djegie ose të sigurojë ndriçim gjatë errësirës pa pasur nevojë të mbash një burim shtesë drite. Nëse hidhet në një armë, ajo shkakton 1d3 dëm shtesë dhe ka mundësinë të ndezë materialet e ndezshme nëse mbahet mbi to për disa raunde (shih Zjarri në Seksionin e Sistemit të Lojës). Armët me bisht druri nën efektet e Fireblade do të konsumohen si pjesë e magjisë.
 
 #### Glue
 
 _Prekje_
 
-Glue cimenton dy objekte të ngurta, të pajeta së bashku për kohëzgjatjen e magjisë, për shembull një rrotë karroce në boshtin e saj ose një derë në kornizën e saj. Gjatë efekteve të magjisë, sendet, pavarësisht sa të ndryshme, nuk mund të ndahen nëse diçka nuk përpiqet t'i shkëpusë në mënyrë aktive. Në këtë rrethanë, magjia ka një aftësi Forcë të barabartë me pesë herë POW të hedhësit dhe dështon kur një Forcë superiore vihet kundër saj, duke e mposhtur atë në një Hedhje të Kundërt. Pasi magjia përfundon ose dështon, sendet ndahen plotësisht pa dëmtim.
+Glue çimenton së bashku dy objekte të ngurta, inanime për kohëzgjatjen e magjisë, për shembull rrotën e një karroce me boshtin e saj ose një derë me kornizën e saj. Ndërsa janë nën efektet e magjisë, sendet, sado të ndryshme, nuk mund të ndahen përveçse nëse dikush përpiqet në mënyrë aktive t'i shkëpusë. Në këtë rrethanë, magjia ka një aftësi Muskuj (Brawn) të barabartë me pesë herë FUQ të hedhësit dhe dështon kur një Muskulaturë superiore vihet kundër saj, duke e mposhtur atë në një Hedhje të Kundërt. Pasi magjia përfundon ose dështon, sendet ndahen plotësisht pa dëmtime.
 
 #### Heal
 
-_I Menjëhershëm, Prekje_
+_E menjëhershme, Prekje_
 
-Heal ka disa efekte të ndryshme në varësi të natyrës së sëmundjes për të cilën po përdoret. Nëse subjekti vuan nga një ankesë e vogël si dhimbje koke, dhimbje shpine, hangover, ftohje, lytha etj., atëherë simptomat hiqen menjëherë. Hedhur në një vendndodhje që vuan një Plagë të Vogël, ajo rikthen të gjitha Pikat e Jetës së humbur menjëherë. Kundër Plagëve Serioze ose të Mëdha nuk rikuperohen Pika Jete. Megjithatë, magjia do të stabilizojë vendndodhjet, do të ndalojë të gjithë gjakderdhjen dhe do të parandalojë vdekjen e menjëhershme nga pakujdesia.
+Heal ka disa efekte të ndryshme varësisht nga natyra e sëmundjes për të cilën po përdoret. Nëse subjekti vuan nga një ankesë e vogël si dhimbje koke, dhimbje shpine, mahmuri, ftohje, lytha, e kështu me radhë, atëherë simptomat hiqen menjëherë. E hedhur në një vendndodhje që vuan nga një Plagë e Vogël, ajo rikthen të gjitha Pikët e Goditjes së humbura menjëherë. Kundër Plagëve Serioze ose të Mëdha, nuk rikuperohet asnjë Pikë Goditjeje. Megjithatë, magjia do të stabilizojë vendndodhjet, do të ndalojë çdo gjakderdhje dhe do të parandalojë vdekjen e menjëhershme nga mungesa e vëmendjes.
 
 #### Ignite
 
-_I Menjëhershëm, Me Rreze_
+_E menjëhershme, Në distancë_
 
-Ignite funksionon vetëm mbi lëndën inorganike të ndezshme, duke bërë që një objekt i vogël ose një zonë sa një dorë të shpërthejë në flakë. Në varësi të asaj që u ndez, pasi të digjet, flakët mund të përhapen më pas nëse nuk shuhen ose kundërshtohen në ndonjë mënyrë. Kjo magji zakonisht përdoret për të ndezur qirinj, pishtarë ose fenerë nga larg. Ajo mund të përdoret gjithashtu për të ndezur një kamp ose zjarr gatimi në kushte të vështira, si përdorimi i drurit të lagur ose në erëra të forta.
+Ignite punon vetëm në lëndë inorganike të ndezshme, duke shkaktuar që një objekt i vogël ose një zonë sa madhësia e dorës të shpërthejë në flakë. Në varësi të asaj që u ndez, sapo të digjen, flakët mund të përhapen nëse nuk shuhen ose nuk kundërshtohen në ndonjë mënyrë. Kjo magji përdoret zakonisht për të ndezur qirinj, pishtarë ose fenerë nga larg. Mund të përdoret gjithashtu për të nisur një zjarr kampi ose gatimi në kushte të pafavorshme, si p.sh. duke përdorur lëndë djegëse të lagura ose në erëra të forta.
 
 #### Knock
 
-_I Menjëhershëm, Prekje_
+_E menjëhershme, Prekje_
 
-Knock shpërbën magjishëm çdo pajisje që aktualisht është e siguruar me një shufër mekanike ose bravë. Nuk funksionon në objekte të mbyllura magjishëm, vetëm në ato të zakonshme. Magjia ndikon vetëm një fiksim, kështu që nëse ka disa brava dhe shufra që sigurojnë objektin, magjia do të duhet të hidhet përsëri për secilën.
+Knock shkyç në mënyrë magjike çdo pajisje që është aktualisht e siguruar me një shul ose kyç mekanik. Nuk punon në objekte të kyçura në mënyrë magjike, vetëm ato mondane. Magjia prek vetëm një shtrëngim, kështu që nëse ka disa kyçe dhe shula që sigurojnë objektin, magjia do të duhet të hidhet përsëri për secilin.
 
 #### Light
 
-_Koncentrim, Me Rreze_
+_Përqendrim, Në distancë_
 
-Light duhet të hidhet mbi një objekt të pajetë (ky mund të jetë një degë, teh shpate, majë shtize, pishtar etj.). Ajo prodhon dritë të mjaftueshme për të ndriçuar një zonë sikur me një fener. Ajo mund të hidhet gjithashtu drejtpërdrejt kundër një magjie Darkness për ta kundërshtuar atë. Në këtë rast, të dyja magjitë konsumohen, duke lënë dritën e ambientit të ndriçojë zonën.
+Light duhet të hidhet mbi një objekt inanim (kjo mund të jetë një degë, teh shpate, majë shtize, pishtar, e kështu me radhë). Ajo prodhon dritë të mjaftueshme për të ndriçuar një zonë sikur të ishte me një fener. Mund të hidhet gjithashtu drejtpërdrejt kundër një magjie Darkness për ta kundërshtuar atë. Në këtë rast, të dyja magjitë konsumohen, duke lënë dritën e ambientit të ndriçojë zonën.
 
 #### Lock
 
 _Kohëzgjatje Speciale, Prekje_
 
-Lock siguron magjishëm çdo pajisje që tashmë ka një shufër mekanike ose bravë. Një pajisje e Mbyllur mund të hapet vetëm nga hedhësi dhe nuk mund të hapet me mjete të zakonshme (si nga një hajdut që përdor kaçavida) pasi magjia e bën mekanizmin të palëvizshëm; megjithatë, ajo mund të hapet me forcë duke thyer objektin në të cilin është vendosur brava. Magjia mbetet në fuqi derisa të hapet nga hedhësi, pas së cilës pajisja duhet të jetë subjekt i një hedhjeje tjetër të Lock për të rivendosur magjinë. Pika e Magjisë e përdorur për të hedhur Lock nuk rikuperohet derisa magjia të hiqet ose të përfundojë natyrshëm.
+Lock siguron në mënyrë magjike çdo pajisje që ka tashmë një shul ose kyç mekanik të pranishëm. Një pajisje e kyçur (Locked) mund të hapet vetëm nga hedhësi dhe nuk mund të hapet me mjete mondane (si p.sh. nga një hajdut që përdor mjete kyçesh) pasi magjia e bën mekanizmin të palëvizshëm; megjithatë, ajo mund të detyrohet ende të hapet duke thyer objektin në të cilin është vendosur kyçi. Magjia mbetet në fuqi derisa të hapet nga hedhësi, pas së cilës pajisja duhet t'i nënshtrohet një hedhjeje të mëtejshme të Lock për të rivendosur magjepsjen. Pika e Magjisë e përdorur për të hedhur Lock nuk rikuperohet derisa magjia të shkarkohet ose të përfundojë natyrshëm.
 
 #### Phantasm
 
-_Koncentrim, Me Rreze_
+_Përqendrim, Në distancë_
 
-Phantasm i lejon hedhësit të gërshetojë objekte të paqëndrueshme ose pothuajse pa peshë në mënyrë që ato të marrin një formë ose formë fantazmë. Kështu, një figurë fantazmë mund të gërshetohet nga një mjegull natyrore, ose një fytyrë të formohet në një pirg gjethesh të vdekura. Përtej kësaj, magjia ka pak efekt, përveç se për të frikësuar, intrigues ose shpërqendruar ata që e shikojnë.
+Phantasm i lejon hedhësit të gërshetojë së bashku objekte jo thelbësore ose pothuajse pa peshë në mënyrë që ato të marrin një formë ose pamje fantazmë. Kështu, një figurë spektrale mund të gërshetohej nga një mjegull që ndodh natyrshëm, ose një fytyrë e formuar në një grumbull gjethesh të thara. Përtej kësaj, magjia ka pak efekt, përveç frikësimit, intrigimit ose shqetësimit të atyre që e shohin atë.
 
 #### Sleep
 
-_Rezistoj (Qëndresë), Prekje_
+_Rezisto (Qëndresë), Prekje_
 
-Sleep e dërgon marrësin në një gjumë të thellë dhe paqësor. Nuk ka efekt në krijesat me SIZ më të madhe se POW e hedhësit. Nëse objektivi nuk reziston, ai fle për një numër orësh të barabartë me gjysmën e POW të hedhësit. Megjithatë, magjia kërkon 1d3 Raundë për të hyrë në fuqi përpara se objektivi të humbë ndjenjat. Çdo përpjekje për të hedhur këtë magji në një situatë luftimi dështon automatikisht.
+Sleep e dërgon marrësin e saj në një gjumë të thellë dhe paqësor. Nuk ka efekt te krijesat me një MAD më të madhe se FUQ e hedhësit. Përveç nëse objektivi reziston, ai dremit për një numër orësh të barabartë me gjysmën e FUQ të hedhësit. Megjithatë, magjia merr 1d3 Raund për të hyrë në fuqi përpara se objektivi të humbasë ndjenjat. Çdo përpjekje për ta hedhur këtë magji në një situatë luftarake dështon automatikisht.
 
 #### Vigor
 
 _Prekje_
 
-Vigor e bën marrësin të ndihet i gjallë dhe energjik, duke u përdorur për të kompensuar efektet e punës fizike të rëndë. Për kohëzgjatjen e magjisë, të gjitha efektet e Lodhjes të fituara nga aktiviteti i lodhshëm injorohen (por kthehen pas heqjes së magjisë).
+Vigor e bën marrësin të ndihet i gjallë dhe energjik, duke u përdorur për të kompensuar efektet e punës së mundimshme fizike. Për kohëzgjatjen e magjisë, të gjitha efektet e Lodhjes të fituara nga aktiviteti i mundimshëm shpërfillen (por kthehen pas përfundimit të magjisë).
 
 #### Witchsight
 
-_Me Rreze, Rezistoj (Forcë Vullneti)_
+_Në distancë, Rezisto (Vullnet)_
 
-Witchsight i lejon hedhësit të shohë magji aktive, sende të magjepsura dhe entitete të padukshme (megjithëse gjëra të tilla janë thjesht përfaqësime hijesh) që ndodhen brenda rrezes dhe vijës së shikimit. Mund të depërtojë gjithashtu iluzione ose të dallojë maskimin e vërtetë të krijesave të transformuara. Qeniet që dëshirojnë të mbeten të fshehura ose të maskuara duhet të fitojnë një Hedhje të Kundërt të Forcës së Vullnetit të tyre kundër hedhjes së magjisë.
+Witchsight i lejon hedhësit të shohë magjinë aktive, objektet e magjepsura dhe entitetet e padukshme (megjithëse gjëra të tilla janë thjesht përfaqësime hije) që shtrihen brenda rrezes dhe vijës së shikimit. Ajo mund të depërtojë gjithashtu iluzionet ose të dallojë formën e vërtetë të krijesave që ndryshojnë formë. Qeniet që dëshirojnë të mbeten të fshehura ose të maskuara duhet të fitojnë një Hedhje të Kundërt të Vullnetit të tyre kundrejt hedhjes së magjisë.
 
 ---
 ## Superfuqitë
 
-Superfuqitë e përfshira këtu ofrojnë një fuqi thelbësore që është ose gjithmonë aktive ose mund të aktivizohet sipas dëshirës. Fuqitë thelbësore mund të kenë gjithashtu veprime speciale të quajtura Përmirësime (Boosts) që kërkojnë shpenzimin e Pikave të Fuqisë për t'u aktivizuar. Një personazh që arrin 0 Pika Fuqie nuk mund të përdorë Përmirësime ose ndonjë fuqi thelbësore me kosto derisa të rifitohen Pikat e Fuqisë.
+Superfuqitë e përfshira këtu ofrojnë një fuqi thelbësore që është ose gjithmonë aktive ose mund të aktivizohet sipas dëshirës. Fuqitë thelbësore mund të kenë gjithashtu marifete speciale të quajtura Përforcime (Boosts) që kërkojnë shpenzimin e Pikëve të Fuqisë për t'u aktivizuar. Një personazh që arrin në 0 Pikë Fuqie nuk mund të përdorë Përforcime ose ndonjë fuqi thelbësore me kosto derisa Pikët e Fuqisë të rifitohen.
 
-Kufizimet (Limits) janë disavantazhe opsionale që mund të vendosen mbi një personazh, fuqi thelbësore ose Përmirësime. Çdo Kufizim detajon rrethanat në të cilat aplikohet, dhe Games Master duhet të miratojë çdo Kufizim të zgjedhur.
+Kufizimet janë disavantazhe opsionale që mund t'i vendosen një personazhi, fuqive thelbësore ose Përforcimeve. Çdo Kufizim detajon rrethanat në të cilat ai zbatohet dhe Mjeshtri i Lojës duhet të miratojë çdo Kufizim të zgjedhur.
 
-Një personazh mund të marrë gjithashtu deri në dy Kufizime nga lista e mëposhtme, me një që ofron një Përmirësim bonus, ose dy që japin një fuqi thelbësore bonus.
+Një personazh gjithashtu mund të marrë deri në dy Kufizime nga lista më poshtë, ku njëri ofron një Përforcim bonus, ose dy ofrojnë një fuqi thelbësore bonus.
+
 
 ---
-## Përshkrimet e Fuqive
+## Përshkrimet e Fuqive#### Animim
 
-#### Animation
+Animinoni 2 metra kubikë materialesh jo të gjalla brenda rrezes së FUQ në metra për të krijuar një strukturë, zakonisht në formë humanoide. Kostoja në Pikët e Fuqisë është e barabartë me vlerën e mbrojtjes së materialit më të vlerësuar të përdorur, që është gjithashtu vlera bazë e mbrojtjes së strukturës. Strukturat kanë një FOR bazë prej 2d6+16 (23), MAD prej 1d6+12 (15) dhe një SHK prej 1d6+8 (11), me Pikët e Goditjes të përcaktuara si zakonisht. Personazhi duhet të përdorë veprime për të drejtuar strukturën dhe ajo përdor aftësitë e personazhit për çdo hedhje. Nëse struktura merr një Plagosje të Rëndë në kraharor ose bark, bëni një provë të kundërt Qëndrueshmërie kundër hedhjes së sulmit. Nëse nuk është e suksesshme, struktura shembet menjëherë. Shembuj të Vlerave të Mbrojtjes/ Kostos në Pikë Fuqie:
 
-Animoni 2 metra kub materiale jo-gjallë brenda POW në metra për të krijuar një konstrukt, zakonisht në formë humanoide. Kostoja në Pika Fuqie është e barabartë me vlerën e armaturës së materialit me vlerë më të lartë të përdorur, e cila është gjithashtu vlera bazë e armaturës së konstruktit. Konstruktet kanë një STR bazë prej 2d6+16 (23), SIZ prej 1d6+12 (15) dhe një DEX prej 1d6+8 (11), me Pika Jete të përcaktuara si normalisht. Personazhi duhet të përdorë veprime për të drejtuar konstruktin dhe ai përdor aftësitë e personazhit për çdo hedhje. Nëse konstrukti merr një Plagë Serioze në gjoks ose bark, bëni një kontroll të kundërt Qëndrese kundër hedhjes së sulmit. Nëse nuk ka sukses, konstrukti kolapson menjëherë. Shembuj Vlerash Armature/Kostoje Pika Fuqie:
-
-| Vlerat e Armaturës | Kostoja e Pikave të Fuqisë |
+| Vlerat e Mbrojtjes    | Kostoja në Pikë Fuqie |
 |:--|:-:|
-| Plastike ose Dru i Butë | 2 |
-| Beton ose Dru i Fortë | 4 |
-| Metal i Butë ose Gur | 6 |
-| Metal i Fortë | 8 |
+| Plastikë ose Dru i butë | 2                |
+| Beton ose Dru i fortë  | 4                |
+| Metal i butë ose Gur   | 6                |
+| Metal i fortë          | 8                |
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie për të lëvizur menjëherë konstruktin në një burim tjetër të të njëjtit material brenda POW në metra.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie për ta zhvendosur menjëherë strukturën drejt një burimi tjetër të të njëjtit material brenda rrezes së FUQ në metra.
 
-#### Ekspert i Luftimit
+#### Ekspert në Luftim
 
-Zgjidhni një lloj ekspertize luftarake nga lista e mëposhtme, plus një për çdo përmirësim të shpenzuar.
+Zgjidhni një lloj ekspertize luftarake nga lista më poshtë, plus një për çdo përforcim të shpenzuar.
 
-- Ekspertiza e luftës së afërt jep një Pikë Veprimi bonus që mund të përdoret vetëm në mënyrë mbrojtëse, dhe madhësia efektive e armës rritet me një hap për sulmet dhe parimet.
-- Ekspertiza e luftës së largët redukton modifikuesit situacionalë me dy shkallë në vend të një kur synoni dhe koha e ringarkimit të armëve të largëta reduktohet me një.
+- Ekspertiza në përleshje jep një Pikë Veprimi bonus që mund të përdoret vetëm në mënyrë mbrojtëse, dhe madhësia efektive e armës rritet me një shkallë për sulmet dhe parimet.
+- Ekspertiza në distancë zvogëlon modifikuesit situacionalë me dy shkallë në vend të një kur shënjestroni, dhe koha e rimbushjes së armëve të distancës zvogëlohet me një.
 
-Përmirësim (Boost): Shpenzoni 2 Pika Fuqie për të fituar një Pikë Veprimi shtesë që mund të përdoret vetëm për të Sulmuar ose Përgatitur Armën.
+Përforcim: Shpenzoni 2 Pikë Fuqie për të fituar një Pikë Veprimi shtesë që mund të përdoret vetëm për të Sulmuar ose për të Përgatitur Armën.
 
-#### Durability
+#### Qëndrueshmëri
 
-Pikat e jetës llogariten duke përdorur CON+SIZ+POW dhe Shkalla e Shërimit llogaritet duke përdorur CON+gjysmën e POW, rrumbullakosur lart.
+Pikët e goditjes llogariten duke përdorur QEN+MAD+FUQ dhe Shkalla e Shërimit llogaritet duke përdorur QEN+ gjysmën e FUQ, të rrumbullakosur për lart.
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie si veprim të lirë për të rifituar Shkallën e Shërimit në Pika Jete të humbura ose një nivel të humbur Lodhjeje.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie si një veprim falas për të rimarrë Shkallën e Shërimit në Pikë Goditjeje të humbura ose një nivel të humbur të Lodhjes.
 
-#### Kontrolli Elemental
+#### Kontroll Elemental
 
-Zgjidhni një material ose lloj energjie specifike. Shpenzoni një veprim për të kontrolluar deri në gjysmën e POW në metra kub të elementit kudo brenda POW metra. Mund të ndryshoni formën bazë ose të krijoni forma komplekse me një kontroll të suksesshëm të Aftësisë (elementi specifik). Pas krijimit zgjidhni ose një sulm të luftës së afërt ose një sulm të largët. Sulmi i luftës së afërt ka një rreze shumë të gjatë dhe sulmi i largët ka një rreze 8/24/100, pastaj zgjidhni çdo dy Efekte Luftimi. Dëmi dhe forca/madhësia përcaktohen nga POW: 8 ose më pak: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Zgjidhni një material ose lloj energjie specifike. Shpenzoni një veprim për të kontrolluar deri në gjysmën e FUQ në metra kubikë të elementit kudo brenda metrave të FUQ. Mund të ndryshoni formën bazë ose të krijoni forma komplekse me një provë të suksesshme të Zanatit (element specifik). Pas krijimit, zgjidhni ose një sulm përleshjeje ose një sulm në distancë. Sulmi në përleshje ka një rreze Shumë të Gjatë dhe sulmi në distancë ka një rreze 8/24/100, pastaj zgjidhni çdo dy Efekte Luftimi. Dëmi dhe forca/madhësia përcaktohen nga FUQ: 8 ose më pak: 1d4/T, 9-12: 1d6/V, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/G.
 
-**Përmirësim (Boost):** Shpenzoni 3 Pika Fuqie për ta mbuluar personazhin me elementin për skenën. Materialet e ngurta fitojnë një vlerë armaturë të barabartë me një të pestën e POW, rrumbullakosur lart. Nëse është energji, sulmet e paarmatosura shkaktojnë dëm shtesë të barabartë me dëmin bazë të fuqisë dhe sulmet e paarmatosura kundër personazhit pësojnë të njëjtin dëm në gjymtyrën e përdorur.
+**Përforcim:** Shpenzoni 3 Pikë Fuqie për ta mbështjellë personazhin me elementin për skenën. Materialet e ngurta fitojnë një vlerë mbrojtjeje të barabartë me një të pestën e FUQ, të rrumbullakosur për lart. Nëse është energji, sulmet e pambrojtura shkaktojnë dëme shtesë të barabarta me dëmin bazë të fuqisë dhe sulmet e pambrojtura kundër personazhit pësojnë të njëjtin dëmtim në gjymtyrën e përdorur.
 
 #### Shpërthim Energjie
 
-Hidhni shpërthime të një lloji specifik energjie deri në një rreze prej 10/30/120 dhe zgjidhni dy Efekte Luftimi për t'i aplikuar në momentin e krijimit. Dëmi dhe forca përcaktohen nga POW i personazhit: 8 ose më pak: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Për të goditur, personazhi hedh zare kundër një Stili Luftimi të aplikueshëm për fuqinë ose përdor Të Paarmatosur.
+Lëshoni shpërthime të një lloji specifik energjie deri në një rreze 10/30/120 dhe zgjidhni dy Efekte Luftimi për t'i aplikuar në momentin e krijimit. Dëmi dhe forca përcaktohen nga FUQ e personazhit: 8 ose më pak: 1d6/V, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/G, 19+: 2d6/G. Për të goditur, personazhi hedh zaret kundër një Stili Luftimi të aplikueshëm për fuqinë ose përdor sulmin e pambrojtur.
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie dhe një veprim për të shkaktuar +1d6 dëm në sulmin e ardhshëm të shpërthimit të energjisë.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie dhe një veprim për të shkaktuar +1d6 dëme në sulmin e ardhshëm me shpërthim energjie.
 
-#### Reagime të Përmirësuara
+#### Reaksione të Përforcuara
 
-Fitoni një bonus në hedhjet e iniciativës të barabartë me rrezen kritike të aftësisë Atletikë dhe mos përfundoni kurrë shtrirë pas përdorimit të Shmangies.
+Fitoni një bonus në hedhjet e iniciativës të barabartë me shkallën kritike të aftësisë Atletikë dhe mos përfundoni kurrë të shtrirë pasi keni përdorur Shmangien.
 
-**Përmirësim (Boost):** Shpenzoni 1 Pikë Fuqie për ta bërë kontrollin e ardhshëm të Atletikës ose Akrobatikës një shkallë vështirësie më të lehtë.
+**Përforcim:** Shpenzoni 1 Pikë Fuqie për ta bërë provën e ardhshme të Atletikës ose Akrobatikës një shkallë vështirësie më të lehtë.
 
-#### Shpejtësi e Përmirësuar
+#### Shpejtësi e Përforcuar
 
-Rritni lëvizjen bazë me një shumëfishues bazuar në DEX+POW. Shpejtësia maksimale jashtë luftimeve është e barabartë me dhjetë herë lëvizjen e modifikuar në kilometra në orë.
+Rritni lëvizjen bazë me një shumëzues bazuar në SHK+FUQ. Shpejtësia maksimale jashtë luftimit është e barabartë me dhjetë herë lëvizjen e modifikuar në kilometra për orë.
 
-DEX+POW: 12 ose më pak: x2, 13-24: x3, 25-36: x4, 37+: x5.
+SHK+FUQ: 12 ose më pak: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie për të fituar një Pikë Veprimi shtesë që mund të përdoret vetëm për të Ndryshuar Rrezen, Lëvizur ose Mbimanovruar.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie për të fituar një Pikë Veprimi shtesë që mund të përdoret vetëm për të Ndryshuar Rrezen, për të Lëvizur ose për të Manovruar.
 
-#### Forcë e Përmirësuar
+#### Forcë e Përforcuar
 
-Bonusi i dëmit llogaritet duke përdorur STR+SIZ+POW dhe ngritja maksimale përcaktohet nga STR+POW i personazhit: 12 ose më pak: 1 ton, 13-24: 2 ton, 25-36: 3 ton, 37+: 5 ton. Sulmet e paarmatosura konsiderohen me madhësi të madhe dhe objektet e luftës së afërt dhe të hedhura rriten në madhësi ose forcë me një.
+Bonusi i dëmit llogaritet duke përdorur FOR+MAD+FUQ dhe ngritja maksimale përcaktohet nga FOR+FUQ e personazhit: 12 ose më pak: 1 ton, 13-24: 2 tonë, 25-36: 3 tonë, 37+: 5 tonë. Sulmet e pambrojtura llogariten si madhësi e madhe dhe objektet e hedhura ose përleshjes e kanë madhësinë ose forcën të rritur me një.
 
-**Përmirësim (Boost):** Shpenzoni 3 Pika Fuqie për të dyfishuar ngritjen maksimale për një veprim ose detyrë.
+**Përforcim:** Shpenzoni 3 Pikë Fuqie për të dyfishuar ngritjen maksimale për një veprim ose detyrë.
 
-#### Fluturimi
+#### Fluturim
 
-Fitoni një shpejtësi fluturimi të barabartë me POW në metra, me një shpejtësi maksimale jashtë luftimeve të barabartë me dhjetë herë lëvizjen në kilometra në orë.
+Fitoni një shpejtësi fluturimi të barabartë me FUQ në metra, me një shpejtësi maksimale jashtë luftimit të barabartë me dhjetë herë lëvizjen në kilometra për orë.
 
-**Përmirësim (Boost):** Shpenzoni 3 Pika Fuqie gjatë një veprimi Lëvizje ajrore për të nisur një sulm ngarkese gjatë lëvizjes.
+**Përforcim:** Shpenzoni 3 Pikë Fuqie gjatë një veprimi Lëvizjeje ajrore për të nisur një sulm me marshim gjatë lëvizjes.
 
-#### Ndjeshmëri e Lartësuar
+#### Shqisë e Shtuar
 
-Zgjidhni një ndjenjë. Kontrollet e Perceptimit me atë ndjenjë janë një shkallë aftësie më e lehtë.
+Zgjidhni një shqisë. Provat e perceptimit me atë shqisë janë një shkallë aftësie më të lehta.
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie për të përdorur fuqinë thelbësore për një ndjenjë tjetër.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie për të përdorur fuqinë kryesore për një shqisë tjetër.
 
-#### Armaturë e Brendshme
+#### Mbrojtje e Lindur
 
-Siguron një vlerë armaturë për të gjitha vendndodhjet të barabartë me një të tretën e CON, rrumbullakosur lart. Personazhet mund të zgjedhin të ulin vlerën e një vendndodhjeje me deri në dy pikë për t'i shtuar ato në një vendndodhje tjetër; për shembull, duke ulur vlerën e krahut të djathtë për t'i shtuar ato në kokë.
+Siguron një vlerë mbrojtjeje për të gjitha vendndodhjet të barabartë me një të tretën e QEN, të rrumbullakosur për lart. Personazhet mund të zgjedhin të zvogëlojnë vlerën e një vendndodhjeje deri në dy pikë për ta shtuar atë në një vendndodhje tjetër; për shembull, duke ulur vlerën e krahut të tyre të djathtë për t'ia shtuar kokës.
 
-**Përmirësim (Boost):** Kur goditen nga një sulm, fitoni një pikë armaturë shtesë kundër tij për çdo 1 Pikë Fuqie të shpenzuar.
+**Përforcim:** Kur goditeni nga një sulm, fitoni një pikë mbrojtjeje shtesë kundër tij për çdo 1 Pikë Fuqie të shpenzuar.
 
 #### Mbështetje Jetësore
 
 Fitoni imunitet ndaj dy kushteve mjedisore ose kërkesave biologjike.
 
-**Përmirësim (Boost):** Fitoni imunitet ndaj dy mjediseve ose kërkesave shtesë.
+**Përforcim:** Fitoni imunitet ndaj dy mjediseve ose kërkesave shtesë.
 
-#### I Fati
+#### Fatlum
 
-Llogaritni Pikat bazë të Fatit me CHA dhe gjysmën e POW, rrumbullakosur lart.
+Llogaritni Pikët bazë të Fatit me KAR dhe gjysmën e FUQ, të rrumbullakosur për lart.
 
-**Përmirësim (Boost):** Kur hidhen dyshe, shpenzoni 3 Pika Fuqie për të fituar një Pikë Fati të përkohshme e cila duhet të përdoret deri në fund të skenës.
+**Përforcim:** Kur hidhen dyshe, shpenzoni 3 Pikë Fuqie për të fituar një Pikë Fati të përkohshme e cila duhet të përdoret deri në fund të skenës.
 
 #### Rigjenerim
 
-Riktheni një Pikë Jete në të gjitha vendndodhjet e plagosura në fillim të çdo raundi nëse vendndodhja nuk ka pësuar një Plagë të Madhe.
+Rimerrni një Pikë Goditjeje në të gjitha vendndodhjet e plagosura në fillim të çdo raundi nëse vendndodhja nuk ka pësuar një Plagosje të Madhe.
 
-**Përmirësim (Boost):** Hyni në një transë shërimi dhe shpenzoni 1 Pikë Fuqie për orë për të rikthyer një Pikë Jete në një vendndodhje me një Plagë të Madhe.
+**Përforcim:** Hyni në një trans shërues dhe shpenzoni 1 Pikë Fuqie për orë për të rimarrë një Pikë Goditjeje në një vendndodhje me një Plagosje të Madhe.
 
 #### Savant
 
-Zgjidhni tre aftësi me një karakteristikë të përbashkët dhe kontrollet me to janë një shkallë më e lehtë.
+Zgjidhni tre aftësi me një karakteristikë të përbashkët dhe provat me to janë një shkallë më të lehta.
 
-**Përmirësim (Boost):** Kur përdorni një aftësi të specializuar si Artizanat ose Shkencë që është gjithashtu një aftësi Savant, shpenzoni 3 Pika Fuqie për të fituar një specialitet që personazhi nuk e ka për një detyrë në të njëjtin nivel si aftësia Savant.
+**Përforcim:** Kur përdorni një aftësi të specializuar si Zanat ose Shkencë që është gjithashtu një aftësi Savant, shpenzoni 3 Pikë Fuqie për të fituar një specialitet që personazhi nuk e ka për një detyrë në të njëjtin nivel me aftësinë Savant.
 
-#### Teleport
+#### Teleportim
 
-Teleportohu në çdo pikë të dukshme brenda POW në metra si veprim lëvizjeje.
+Teleportohuni në çdo pikë të dukshme brenda FUQ në metra si një veprim lëvizjeje.
 
-**Përmirësim (Boost):** Shpenzoni 2 Pika Fuqie për t'u teleportuar deri në gjysmën e POW në metra, rrumbullakosur lart, si veprim të lirë.
+**Përforcim:** Shpenzoni 2 Pikë Fuqie për t'u teleportuar deri në gjysmën e FUQ në metra, të rrumbullakosur për lart, si një veprim falas.
 
-#### Forma Avulli
+#### Formë avulli
 
-Si veprim, shndërrohuni në një re avulli ose grimca të holla që nuk janë në gjendje të ndërveprojnë me botën fizike, por janë imune ndaj sulmeve fizike. Fitoni një shpejtësi fluturimi të barabartë me një të tretën e POW në metra dhe kaloni nëpër hapje të çdo madhësie. Sulmet e bazuara në energji shkaktojnë gjysmën e dëmit në Pikat e Fuqisë së personazhit. Nëse zvogëlohet në 0 Pika Fuqie, personazhi kthehet në një gjendje të ngurtë dhe duhet të bëjë një kontroll të vështirë të Qëndresës ose të humbasë ndjenjat për 1d6+1 minuta.
+Si një veprim, kthehuni në një re avulli ose grimcash të imta që është e paaftë të ndërveprojë me botën fizike, por është imune ndaj sulmeve fizike. Fitoni një shpejtësi fluturimi të barabartë me një të tretën e FUQ në metra dhe kaloni përmes hapjeve të çdo madhësie. Sulmet e bazuara në energji shkaktojnë gjysmën e dëmit ndaj Pikëve të Fuqisë së personazhit. Nëse zvogëlohet në 0 Pikë Fuqie, personazhi kthehet në një gjendje të ngurtë dhe duhet të bëjë një provë të vështirë të Qëndrueshmërisë ose të bjerë pa ndjenja për 1d6+1 minuta.
 
-**Përmirësim (Boost):** Shpenzoni 3 Pika Fuqie për të ngurtësuar një vendndodhje goditjeje për një veprim.
+**Përforcim:** Shpenzoni 3 Pikë Fuqie për të ngurtësuar një vendndodhje goditjeje për një veprim.
 
 ---
 ## Kufizimet
 
-#### Kosto Aktivizimi
+#### Kostoja e Aktivizimit
 
-Personazhi shpenzon 2 Pika Fuqie për të aktivizuar një fuqi thelbësore ose rrit koston e një përmirësimi me 2 Pika Fuqie. Ndryshe, një fuqi e vazhdueshme kushton 1 Pikë Fuqie në fillim të çdo kthese për të ruajtur.
+Personazhi shpenzon 2 Pikë Fuqie për të aktivizuar një fuqi thelbësore ose rrit koston e një përforcimi me 2 Pikë Fuqie. Përndryshe, një fuqi e vazhdueshme kushton 1 Pikë Fuqie në fillim të çdo kthese për t'u ruajtur.
 
-#### Burim i Jashtëm Fuqie
+#### Burim i Jashtëm i Fuqisë
 
-Burimi i fuqive të personazhit është një artifakt ose pajisje. Nëse është i vogël ose i mbajtshëm me dorë, burimi është i prekshëm ndaj Efekteve Speciale si Çarmatosja ose Marrja e Armës. Nëse është i madh, kërkon të paktën një minutë për t'u veshur ose aktivizuar përpara se të mund të përdoren fuqitë.
+Burimi i fuqive të personazhit është një artefakt ose pajisje. Nëse është i vogël ose dore, burimi është i prekshëm ndaj Efekteve Speciale si Çarmatimi i Armës ose Marrja e Armës. Nëse është i madh, kërkon të paktën një minutë për t'u veshur ose aktivizuar përpara se fuqitë të mund të përdoren.
 
 #### Defekt Fatal
 
-Personazhi duhet të konsumojë ose të kontaktojë me një substancë çdo katër orë ose të pësojë një nivel Lodhjeje. Një kontroll i suksesshëm i Qëndresës mund ta shtyjë këtë, por vështirësia e këtij kontrolli rritet me një shkallë për çdo katër orë shtesë që kërkesa nuk plotësohet.
+Personazhi duhet të konsumojë ose të kontaktojë me një substancë çdo katër orë ose të pësojë një nivel Lodhjeje. Një provë e suksesshme e Qëndrueshmërisë mund ta shmangë këtë, por vështirësia e kësaj prove rritet me një shkallë për çdo katër orë shtesë që kërkesa nuk përmbushet.
 
 #### Kontroll i Kufizuar
 
-Me veprimet që përfshijnë fuqinë ose përmirësimin, diapazoni i dështimit kritik të personazhit rritet në 90-00.
+Me veprime që përfshijnë fuqinë ose përforcimin, diapazoni i dështimit kritik të personazhit rritet në 90-00.
 
 #### Fuqi e Kufizuar
 
-Fuqia ose përmirësimi funksionon vetëm në kushte specifike ose ka ndonjë efekt të reduktuar të përcaktuar nga Games Master.
+Fuqia ose përforcimi funksionon vetëm në kushte specifike ose ka ndonjë efekt të zvogëluar të përcaktuar nga Mjeshtri i Lojës.
 
 #### Kufizim Fizik
 
-Personazhi ka një gjendje kufizuese të vazhdueshme, si verbëria, humbje e përhershme e Pikave të Jetës në një vendndodhje, ose lëvizshmëri e reduktuar.
+Personazhi ka një gjendje kufizuese të përhershme, si verbëria, humbja e përhershme e Pikëve të Goditjes në një vendndodhje, ose lëvizshmëri e zvogëluar.
 
-#### Dobësi
+#### Cenueshmëri
 
-Personazhi merr dëm të dyfishtë nga një formë specifike sulmi. Ndryshe, personazhi duhet të bëjë kontrolle të vështira Qëndrese çdo kthesë kur është 5 metra larg një substance specifike ose pëson një nivel Lodhjeje.
+Personazhi merr dëm të dyfishtë nga një formë specifike sulmi. Përndryshe, personazhi duhet të bëjë prova të vështira të Qëndrueshmërisë çdo kthesë kur është 5 metra pranë një substance specifike ose vuan nga një nivel Lodhjeje.

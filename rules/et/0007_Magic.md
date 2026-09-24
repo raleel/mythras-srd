@@ -1,45 +1,46 @@
 # Maagia ja võimed
 
-Mängujuhid, kes soovivad oma mängudesse lisada maagiat ja/või supervõimeid, leiavad sellest jaotisest mõned põhireeglid nende kasutamiseks. Alati on kõige parem veenduda, et kõik asjassepuutuvad mängijad on nõus maagia või supervõimete lisamisega, ning mõelda eelnevalt läbi, millist tüüpi mängu see võib tekitada.
+Mängujuhtidel (GM), kes soovivad oma mängudesse lisada maagiat ja/või supervõimeid, on selles jaotises toodud mõned põhieeskirjad selleks. Alati on kõige parem veenduda, et kõik mängus osalejad on maagia või supervõimete kaasamisega nõus, ning alati tasub mõelda, millist tüüpi mängu see võib tekitada.
 
 ---
 ## Kuidas võimed toimivad
 
-Loitsu loitsimine või supervõime kasutamine nõuab tavaliselt mingisuguse energia kulutamist, mis ammutatakse punktide reservist. Selle reservi suurus on võrdne tegelase POW-tunnusjoonega ning maagide puhul nimetatakse seda reservi Maagiapunktideks; superkangelaste puhul aga Võimepunktideks. Maagia või võimete kasutamine maksab teatud arvu punkte, mis arvatakse sellest reservist maha. Kui reserv on tühi, ei saa enam maagiat loitsida ega võimeid kasutada, kuni need taastuvad.
+Loitsu väljaütlemine või supervõime kasutamine nõuab tavaliselt mingit tüüpi energia kulutamist, mis ammutatakse punktide varust. Selle varu suurus on võrdne tegelase VÄG-karakteristikuga ja maagide puhul nimetatakse seda varu Maagiapunktideks; superkangelaste puhul aga Võimepunktideks. Maagia või võimete kasutamine maksab teatud arvu punkte, mis arvatakse sellest varust maha, ja kui varu on tühi, ei saa enam maagiat kasutada ega võimeid rakendada, kuni see taastub.
 
-Maagia taastub kiirusega, mis võrdub tegelase paranemiskiirusega (Healing Rate) tunnis, kuni saavutatakse tegelase POW-tasemega võrdne tase. See eeldab, et tegelane puhkab täielikult, ei osale muudes tegevustes ega taastu väsimusest või vigastustest. Vastasel juhul võib mängujuht maagia/võimepunktide taastumise aega pikendada või paranemiskiirust vähendada.
+Maagia taastub tegelase paranemismäära (Healing Rate) võrra tunnis, kuni see jõuab tasemeni, mis on võrdne tegelase VÄG-iga. See eeldab, et tegelane saab täielikult puhata, ei osale muudes tegevustes ega taastu väsimusest või vigastustest. Kui see nii ei ole, võib Mängujuht maagia/võimepunktide taastumiseks kuluvat aega suurendada või paranemismäära vähendada.
 
-Supervõimete puhul taastuvad Võimepunktid kiirusega üks punkt iga täieliku puhkeminuti kohta, kuid tegelased saavad kulutada ka ühe Õnnepunkti (Luck Point), et taastada koheselt 1d4+1 kaotatud Võimepunkti kuni nende maksimumini.
+Supervõimete puhul taastuvad Võimepunktid ühe punkti võrra iga täispika puhkeminuti jooksul, kuid tegelased võivad kulutada ka Õnnepunkti, et taastada viivitamatult 1d4+1 kaotatud Võimepunkti kuni oma maksimumini.
 
-#### Loitsude loitsimine
+#### Loitsude väljaütlemine
 
-Loitse loitsitakse kasutades Maagia-oskust; ilma selleta pole maagia lihtsalt võimalik. Loitsu ettevalmistamine ja loitsimine nõuab ühte tegevust (Action) ja edukat Maagia-täringuviset. Kui vise ebaõnnestub, siis loits ei toimi ja seda tuleb hiljem uuesti ette valmistada ning uuesti proovida. Kui vise õnnestub, siis loits toimib ja Maagiapunktid arvatakse Maagiapunktide reservist maha.
+Loitse loitsitakse Maagia-oskuse abil; ilma selleta pole maagia lihtsalt võimalik. Loitsu ettevalmistamine ja väljaütlemine nõuab ühte Tegevust ja edukat Maagia-heidet. Kui heide ebaõnnestub, loits ei toimi ning see tuleb uuesti ette valmistada ja hiljem uuesti proovida. Kui heide õnnestub, siis loits toimib ja Maagiapunktid arvatakse Maagiapunktide varust maha.
 
 #### Supervõimete kasutamine
 
-Superkangelastest tegelased leiavad, et nende supervõime toimib alati, mistõttu ei vaja see kasutamiseks täringuviset ega Võimepunktide kulu; kui aga soovitakse võimet võimendada (Boost), siis kaasneb sellega Võimepunktide kulu.
+Superkangelastest tegelased leiavad, et nende supervõime töötab alati, mistõttu ei vaja selle kasutamine heidet ega Võimepunktide kulutamist; kui aga üritatakse võimet Võimendada (Boost), siis kaasneb sellega Võimepunkti kulu.
 
 ---
-## Algvõimed ja uute õppimine
+## Algupärased võimed ja uute õppimine
 
 #### Maagid
 
-Maagid alustavad 1d4+1 loitsuga, mida kõiki loitsitakse Maagia-oskust kasutades. Mängija ja mängujuht peaksid nõu pidama, millised loitsud on kättesaadavad ja kuidas tegelane nendeni jõudis. Näiteks võis tegelane olla kohaliku maagi õpipoiss või õppinud maagiat emalt.
+Maagid alustavad 1d4+1 loitsuga, mida kõiki loitsitakse Maagia-oskust kasutades. Mängija ja Mängujuht peaksid nõu pidama, millised loitsud on saadaval ja kuidas tegelane nendeni jõudis. Näiteks võis tegelane olla kohaliku maagi õpipoiss või õppinud maagiat emapõlves.
 
-Rohkem loitse saab juurde õppida, kuid uue loitsu õppimine maksab 3 kogemuspunkti (Experience Rolls) ja võtab nädala pühendunud õppimist ja harjutamist. Uusi loitse tuleb õppida õpetajalt või usaldusväärsest allikast (näiteks kirjarullist või grimoarist, mis on mõeldud uue loitsu õpetamiseks).
+Rohkem loitse saab õppida, kuid uue loitsu õppimine maksab 3 Kogemuseheidet ning nõuab nädal aega pühendunud õppimist ja harjutamist. Uusi loitse tuleb õppida õpetajalt või usaldusväärsest allikast (nagu rullraamat või loitsuraamat, mis on mõeldud uue loitsu õpetamiseks).
 
 #### Superkangelased
 
-Superkangelaste puhul peaksid mängujuht ja mängija otsustama, kuidas tegelane oma võimeteni jõudis ja mis on võime allikas (näiteks spetsiaalne raudrüü, kosmilise kiirguse tagajärjel saadud võimed või geneetiline mutatsioon).
+Superkangelaste puhul peaksid Mängujuht ja mängija otsustama, kuidas tegelane oma võimeteni jõudis ja mis on nende võimete allikas (näiteks võib see olla spetsiaalne soomusrüü, kosmilise kiirguse mõjul saadud võimed või geneetiline mutatsioon).
 
-Superkangelased alustavad teatud arvu põhivõimetega, mis määratakse POW-väärtuse ja ühe teise, allikast tuleneva tunnusjoone põhjal: CON muudetud füsioloogia korral (mutatsioon, tulnukaliik, katsetused) või INT tehnoloogia või oskustepõhiste võimete korral (küberneetika, lahingurüüd, intensiivne treening jne). Vaata tabelit allpool.
+Superkangelased alustavad põhivõimete arvuga, mille määrab VÄG pluss teine karakteristik, mis põhineb võimete allikal: VAS muudetud füsioloogia korral (mutatsioon, tulnukaliik, katsetused) või INT tehnoloogia või oskuspõhiste võimete korral (küberneetika, lahingurüüd, intensiivne treening jne). Vaata allolevat tabelit.
 
-Põhivõime saab vahetada kahe võimenduse (Boost) vastu, mida saab rakendada mis tahes põhivõimele. Tegelane võib võtta ka kuni kaks piirangut (Limit) nimekirjast, mis algab jaotises "Supervõimed" – üks piirang annab boonusvõimenduse, kaks piirangut annavad aga boonuspõhivõime. Valik võimeid ja näiteid võimendustest on loetletud jaotises [Supervõimed](0007_Magic.md?id=superpowers).
+Põhivõime saab vahetada kahe Võimenduse vastu, mida saab rakendada mis tahes põhivõimele. Tegelane võib võtta ka kuni kaks Piirangut (Limits) nimekirjast, mis algab jaotises Supervõimed, kusjuures üks annab boonus-Võimenduse või kaks annavad boonus-põhivõime. Valik võimeid ja näidis-Võimendusi on loetletud [Supervõimete](0007_Magic.md?id=superpowers) jaotises.
+
 
 ##### Supervõimete tabel
 
 
-| POW+(CON või INT) | Põhivõimed |
+| VÄG+(VAS või INT) | Põhivõimed |
 |:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
@@ -51,39 +52,39 @@ Põhivõime saab vahetada kahe võimenduse (Boost) vastu, mida saab rakendada mi
 ---
 ## Maagia
 
-Alati, kui tegelane soovib loitsu kasutada, teeb ta viske Maagia-oskuse vastu. Loitsimine võtab ühe vooru, kuid kuluvate Maagiapunktide hulk ja loitsu edukus sõltuvad viske tulemusest.
+Alati, kui tegelane soovib loitsu kasutada, teeb ta heite oma Maagia-oskuse vastu. Loitsimine võtab ühe käigu, kuid kuluvate Maagiapunktide hulk ja see, kas loits õnnestub, sõltub heite tulemusest.
 
-Kui Maagia-vise on...
+Kui Maagia-heide on...
 
-- **Kriitiline õnnestumine:** loitsu Maagiapunktide kulu on null.
+- **Kriitiline õnnestumine:** loitsu Maagiapunkti kulu on null.
 - **Õnnestumine:** loitsija kaotab 1 Maagiapunkti ja loits toimib.
 - **Ebaõnnestumine:** loitsija kaotab 1 Maagiapunkti, kuid loits ei toimi.
-- **Koperdamine (Fumble):** loitsija kaotab 1d3 Maagiapunkti ja loits ebaõnnestub.
+- **Koperdamine (Fumble):** loitsija kaotab 1d3 Maagiapunkti loitsu eest ja loits ebaõnnestub.
 
-Oma vähese või tühise tähtsuse tõttu on kõigi maagiliste loitsude vaikimisi intensiivsus ja magnituud 1.
+Oma vähese või tühise iseloomu tõttu on kõigil Maagia loitsudel vaikimisi intensiivsus ja magnituud 1.
 
 
-#### Maagilise võimekuse piirangud
+#### Maagilise suutlikkuse piirangud
 
-Tegelastel ei ole tegelikult piirangut loitsude arvule, mida nad võivad õppida, eeldusel, et mängujuht lubab neil uutele juurdepääsu saada.
+Tegelastel pole tegelikult mingit piirangut Maagia loitsude arvule, mida nad võivad õppida, tingimusel et Mängujuht lubab neil uutele loitsudele ligi pääseda.
 
 #### Loitsud
 
-Loitsud on määratletud erinevate omadustega, mis kirjeldavad loitsu mõjusid ja võimalikke piiranguid. Iga loits on erinev, mõnedel on vähem omadusi kui teistel.
+Loitsud määratletakse erinevate tunnustega, mis kirjeldavad loitsu mõjusid ja mis tahes konkreetseid piiranguid. Iga loits on erinev, mõnel on vähem tunnuseid kui teistel.
 
 #### Loitsude kestus
 
-Kui loitsul ei ole "Keskendumise" (Concentration) või "Hetkelise" (Instant) omadust, on sellel loomulik kestus, mis kestab terve stseeni või tegevuse, mille jaoks loits kasutati. Mõnel loitsul on loitsu kirjelduses märgitud kohandatud kestused.
+Kui loitsul pole kas Kontsentratsiooni või Hetkelist tunnust, on sellel loomulik kestus, mis kestab terve stseeni või tegevuse, mille jaoks loitsut kasutati. Mõnel loitsul on kohandatud kestused, mis on märgitud loitsu definitsioonis.
 
-#### Maagia omadused
+#### Maagia tunnused
 
-Maagia omadused on järgmised:
+Maagia tunnused on järgmised:
 
-- **Keskendumine (Concentration):** Loitsu mõjud püsivad, kui loitsija keskendub selle säilitamisele. Keskendumine nõuab, et loitsija oleks vaba kõigist füüsilistest ja vaimsetest segajatest: iga selline häire katkestab keskendumise, mille tulemusel loits lakkab koheselt olemast.
-- **Hetkeline (Instant):** Loitsu mõjud avalduvad koheselt. Sellel ei ole kestust.
-- **Kaugmaa (Ranged):** Kaugmaa-omadusega loitse saab loitsida kaugusele, mis on kuni tegelase Maagia-punktisumma meetrites. Loitsija peab teadma sihtmärgi asukohta, näiteks „peidus ukse taga“: kui nad ei suuda sihtmärki otse näha või tajuda, muutub Maagia-vise ühe astme võrra raskemaks.
-- **Vastupanu (Vastupidavus, Kõrvalehoidmine, Tahtejõud):** Iga loitsu, mida sihtmärk vabatahtlikult vastu ei võta, saab aktiivselt tõrjuda kasutades Vastupidavust (Endurance), Kõrvalehoidmist (Evade) või Tahtejõudu (Willpower), nagu see omadus ette näeb. Loitsu edukaks tõrjumiseks peab sihtmärk võitma vastandatud viske (Opposed Roll) asjakohases oskuses loitsija Maagia-viske tulemuse vastu. Kui sihtmärk viskes ebaõnnestub, hakkab loits toimima tavapäraselt. Pane tähele, et tõrjumine on tavaliselt passiivne tegevus, kui kasutatakse Vastupidavust või Tahtejõudu. Kui loits nõuab sihtmärgilt Kõrvalehoidmist, kulub selleks üks tegevuspunkt (Action Point). Seega on sihtmärgid, kellel pole tegevuspunkte kõrvalehoidmiseks, loitsu mõju vastu kaitsetud.
-- **Puudutus (Touch):** Loitsija peab olema loitsu ajal sihtmärgiga füüsilises kontaktis. Kui sihtmärk üritab füüsilist kontakti vältida, siis loitsija tõenäoliselt ebaõnnestub loitsu sooritamisega, välja arvatud juhul, kui mingid erilised asjaolud takistavad sihtmärgi taganemist, nagu üllatus või "haarde" (Grip) eriefekt. Puudutusloits peab töötamiseks vaid sihtmärki või selle kaasaskantavaid esemeid riivama.
+- **Kontsentratsioon:** Loitsu mõjud jäävad püsima, kui loitsija jätkab selle hoidmisele keskendumist. Kontsentratsioon nõuab, et loitsija oleks vaba kõigist füüsilistest ja vaimsetest segajatest: iga selline häire katkestab kontsentratsiooni, mis viib loitsu viivitamatu lõppemiseni.
+- **Hetkeline:** Loitsu mõjud ilmnevad viivitamatult. Sellel pole kestust.
+- **Kaugus:** Kauguse-tunnusega loitse saab heita kaugusele, mis on kuni tegelase Maagia-punktisumma meetrites. Loitsija peab teadma sihtmärgi asukohta, näiteks "peidab end ukse taga": kui nad ei suuda sihtmärki otseselt näha või tajuda, muutub Maagia-heide ühe astme võrra raskemaks.
+- **Vastupanu (Vastupidavus, Kõrvalepõige, Tahtejõud):** Mis tahes loitsu, mida sihtmärk ei pruugi kergesti aktsepteerida, saab aktiivselt tõrjuda, kasutades Vastupidavust, Kõrvalepõiget või Tahtejõudu, vastavalt sellele tunnusele. Loitsu edukaks tõrjumiseks peab sihtmärk võitma asjakohase oskuse Vastandheite (Opposed Roll) loitsija Maagia-heite tulemuse vastu. Kui sihtmärk heites ebaõnnestub, siis loits mõjub tavapäraselt. Pane tähele, et tõrjumine on tavaliselt passiivne tegevus, kui kasutatakse Vastupidavust või Tahtejõudu. Kui loits nõuab sihtmärgilt Kõrvalepõiget, siis maksab Kõrvalepõike katse ühe Tegevuspunkti. Sihtmärgid, kellel pole Kõrvalepõikamiseks Tegevuspunkte, on seega loitsu mõju vastu jõuetud.
+- **Puudutus:** Loitsija peab loitsu heitmise ajal olema sihtmärgiga füüsilises kontaktis. Kui sihtmärk on otsustanud füüsilist kontakti vältida, ei suuda loitsija suure tõenäosusega oma loitsu lõpetada, välja arvatud juhul, kui mingi konkreetne asjaolu takistab sihtmärgi eemaldumist, näiteks üllatus või Haarde (Grip) eriefekt. Puudutus-loits peab toimimiseks lihtsalt sihtmärki või selle kantavaid esemeid puudutama.
 
 
 ---
@@ -91,321 +92,319 @@ Maagia omadused on järgmised:
 
 #### Alarm
 
-_Eriline kestus_
+_Erikestus_
 
-Alarmi loitsimine asukohale, nagu tuba või väike lagendik, loob ajutise psüühilise sideme ala ja loitsija vahel. Kui alale siseneb elusolend, kelle SIZ on suurem kui 1, saab loitsija automaatselt teada, et midagi on rikkunud ala piire, sõltumata vahemaa suurusest. Alarm on tavaliselt selge kipitustunne või vaimne torge, mis äratab loitsija. Alarmi saab kasutada ka üksiku objekti peal, käivitades selle puudutamisel või liigutamisel.
+Alarmi heitmine asukohale, nagu ruum või väike lagendik, loob ajutise psüühilise sideme ala ja loitsija vahel. Kui alale pääseb elusolend, kelle SUU on suurem kui 1, saab loitsija automaatselt teada, et keegi on sisenenud, hoolimata vahemaast. Alarm on tavaliselt selge kipitustunne või vaimne torge, mis äratab loitsija. Alarmi saab kasutada ka üksiku objekti puhul, mis käivitub puudutamisel või liigutamisel.
 
-#### Tõrjumine (Avert)
+#### Avert (Tõrjumine)
 
-_Hetkeline, Kaugmaa_
+_Hetkeline, Kaugus_
 
-Tõrjumist kasutatakse teise loitsu tühistamiseks leviala piires. Tõrjumist saab kasutada reaktiivselt vaenulike loitsude neutraliseerimiseks, kasutades reaktiivse tegevuse (Reactive Action) "Vastumaagia" (Counter Magic).
+Averti kasutatakse teise loitsu tühistamiseks leviala piires. Averti saab heita reaktiivselt, et neutraliseerida ründavaid loitse, kasutades reaktiivset tegevust "Vastumaagia" (Counter Magic).
 
-#### Segadus (Befuddle)
+#### Befuddle (Segadus)
 
-_Kaugmaa, Vastupanu (Tahtejõud)_
+_Kaugus, Vastupanu (Tahtejõud)_
 
-Segadus põhjustab kehalise sihtmärgi meeles segadust. Subjektil on raske selgelt mõelda, ta unustab kus ta on, mida teeb ja miks – sageli langedes seosetutesse mõttekäikudesse. Segaduses sihtmärgid saavad endiselt tegutseda enesekaitseks, kuid ei saa algatada ühtegi konstruktiivset tegevust enne, kui loits lõpeb. Igasugune rünnak või ähvardav tegevus lõpetab loitsu koheselt, olenemata sellest, kas see oli suunatud konkreetselt segaduses sihtmärgile või mitte.
+Befuddle põhjustab kehalise sihtmärgi meeles segadust. Loitsu subjektil on raskusi sirgjoonelise mõtlemisega, unustades, kus ta on, mida ta teeb ja miks – sageli vajudes lahti ühendatud mõttekäikudesse. Segaduses sihtmärgid suudavad endiselt tegutseda enesekaitses, kuid ei saa alustada mingit konstruktiivset tegevust enne loitsu lõppemist. Igasugune rünnak või ähvardav tegevus lõpetab loitsu viivitamatult, olenemata sellest, kas see oli suunatud konkreetselt segaduses sihtmärgile.
 
-#### Tera teritamine (Bladesharp)
-
-_Puudutus_
-
-Tera teritamist loitsitakse lõikavatele ja torkavatele lähivõitlusrelvadele. See suurendab relva kahjustust ühe täringuastme võrra ja jätab muuhulgas tera pärast loitsu lõppu teravaks. Seda loitsu kasutatakse sageli tööriistadel nagu metsatöö kirved, adrad ja habemenoad. Seega, loitsu kasutamine pistodale tõstab selle kahjustuse 1d6+1 tasemele, samas kui sama loits suurel kirvel tõstaks kahjustuse 2d8+2 tasemele. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
-
-#### Nuiatamine (Bludgeon)
+#### Bladesharp (Teravus)
 
 _Puudutus_
 
-Nuiatamine on sarnane Tera teritamisega, kuid seda kasutatakse relvadel ja tööriistadel, mis tekitavad nüri jõuga traumasid, mitte lõike- või torkekahjustusi. Tavaliselt kasutatakse seda vilja peksmisel, villa vanutamisel või muul raskel tööl abistamiseks.
+Bladesharp heidetakse teravate ja torkivate lähivõitlusrelvade peale. See suurendab relva kahju ühe täringuastme võrra ja jätab pärast loitsu lõppemist tera teritatuks. Seda loitsu kasutatakse sageli tööriistadel, nagu metsamehekirved, adrad ja habemenoad. Seega suurendab selle loitsu heitmine pistodale selle kahju 1d6+1-ni, samas kui sama loits suurel kirvel suurendaks selle 2d8+2 kahjuni. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Hingamine (Breath)
+#### Bludgeon (Nui)
 
 _Puudutus_
 
-Hingamine võimaldab saajal hinge kinni pidada pikema aja jooksul, et nad saaksid ajutiselt siseneda kahjulikesse keskkondadesse, nagu veealused alad või õhkkonnad, mis on saastunud kivitolmu, gaaside, suitsu või mürkidega. Loits kestab maksimaalselt pool loitsija POW-väärtusest minutites, mille ajal saaja ei tohi rääkida, muidu hingamine katkeb ja nad peavad viivitamatult hakkama hingama keskkonnast, kannatades sealjuures kõigi ohtude all – olgu selleks lämbumine, uppumine, mürgitus jne.
+Bludgeon on nagu Bladesharp, kuid seda kasutatakse relvadel ja tööriistadel, mis tekitavad nüri jõuga traumasid, mitte lõike- või torkekahjustusi. Tavaliselt kasutatakse seda teravilja peksmisel, villa vanutamisel või sarnasel raskel tööl abistamiseks.
+
+#### Breath (Hingamine)
+
+_Puudutus_
+
+Breath võimaldab saajal oma hinge pikema aja jooksul kinni hoida, et nad saaksid ajutiselt viibida kahjulikes keskkondades, nagu vee all; või õhkkondades, mida saastavad kivitolm, gaasid, suits või mürgid. Loits kestab maksimaalselt pool loitsija VÄG-ist minutites, mille jooksul saaja ei tohi rääkida, vastasel juhul hingamine katkeb ja nad peavad viivitamatult hakkama hingama ümbritsevast keskkonnast, kannatades kõiki kaasnevaid riske – olgu selleks lämbumine, uppumine, mürgitamine jne.
 
 <details>
 
 <summary>* Kogukonna parandused</summary>
 
-_**Hingamine**_
+_**Breath**_
 
-_Algne loitsu kirjeldus oli järgmine: "Hingamine võimaldab saajal hinge kinni pidada pikema aja jooksul, et nad saaksid ajutiselt siseneda kahjulikesse keskkondadesse... mille ajal saaja ei tohi rääkida, muidu hingamine katkeb ja nad hakkavad viivitamatult lämbuma (või mürgituma)."_
+_Algne loitsu kirjeldus oli järgmine: "Breath võimaldab saajal oma hinge pikema aja jooksul kinni hoida, et nad saaksid ajutiselt viibida kahjulikes keskkondades, nagu vee all; või õhkkondades, mida saastavad kivitolm, gaasid, suits või mürgid. Loits kestab maksimaalselt pool loitsija VÄG-ist minutites, mille jooksul saaja ei tohi rääkida, vastasel juhul hingamine katkeb ja nad hakkavad viivitamatult lämbuma (või mürgituma)."_
 
-_Seda võis tõlgendada kui ründavat mõju, mis vallandub loitsu lõpus, mis näib olevat vastuolus autorite kavatsusega ja selliste loitsude mustriga kasulike abivahenditena, mitte relvadena. Seetõttu tegimegi ülaltoodud paranduse. Uuendame seda teksti, kui algsed autorid peaksid reeglit kirjapandul kujul muutma._
+_Seda võiks tõlgendada kui ründavat efekti, mis käivitub loitsu lõpus, mis tundub olevat vastuolus autorite kavatsusega ja selliste loitsude mustriga kui abivahenditega, mitte relvadega. Seetõttu tehti ülaltoodud Kogukonna paranduse muudatus. Uuendame seda teksti, kui algsed autorid peaksid reeglit kirjapandul viisil muutma._
 
 </details>
 
-#### Rahu (Calm)
+#### Calm (Rahu)
 
-_Kaugmaa, Vastupanu (Tahtejõud)_
+_Kaugus, Vastupanu (Tahtejõud)_
 
-Rahu üritab vaigistada sihtmärgi kirgi, tagades näiteks, et armunud austaja ei survestaks oma soove, hirmunud rivaal ei karjuks appi või et relvi ei tõmmataks välja vihas. Rahustatud inimene ei ole muul viisil vaimselt mõjutatud; seega võimaldab igasugune rünnak või ähvardav tegevus sihtmärgil end kaitsta ja isegi rünnata, ehkki nad teevad seda rahulikult ja tasakaalukalt.
+Calm üritab sihtmärgi kirgi vaigistada, tagades ehk selle, et armunud kosilane ei käiks peale, hirmunud rivaal ei karjuks abi järele või et relvi ei tõmmataks vihas. Rahustatud inimest see vaimselt ei mõjuta; seega, igasugune rünnak või ähvardav tegevus võimaldab sihtmärgil endiselt end kaitsta ja isegi rünnata, ehkki nad teevad seda rahulikult ja tasakaalukalt.
 
-#### Jahutus (Chill)
-
-_Hetkeline, Puudutus_
-
-Jahutus vähendab dramaatiliselt väikeste objektide (mitte suuremate kui loitsija käsi) temperatuuri jäävee temperatuurini. Kasulik kuumade esemete kiireks jahutamiseks, jookide jahutamiseks ja nii edasi. Loits ei külmuta eset ega kahjusta selle struktuuri: see muudab selle lihtsalt väga külmaks.
-
-#### Pimendus (Darkness)
-
-_Keskendumine, Kaugmaa_
-
-Pimendus loob varjuala, mis võrdub POW-väärtusega ruutmeetrites, mis summutab kogu valguse selle sees. See on piisav maht tavalise toa täitmiseks, koridori lõigu katmiseks või väikese pilve moodustamiseks väljas. Kogu mittemaagiline valgus, sealhulgas päikesevalgus, mis siseneb piiridesse või on seal olemas, väheneb hämaraks kumaks.
-
-#### Häirimine (Disruption)
-
-_Hetkeline, Kaugmaa, Vastupanu (Vastupidavus)_
-
-Häirimist kasutatakse füüsiliste objektide kahjustamiseks või lahtivõtmiseks ilma tööriistadeta. Seda kasutatakse tavaliselt elusolendite, nagu lindude või kahjurite, eemale peletamiseks või tapmiseks. Eduka loitsimise korral tekitab Häirimine 1d3 kahjustust ühele juhuslikule kehaosale või objekti üldistele elupunktidele. Mõlemal juhul eirab kahjustus igasugust soomust või looduslikku kaitset.
-
-#### Kustutamine (Extinguish)
-
-_Hetkeline, Kaugmaa_
-
-Kustutamine summutab koheselt leegid ja väikesed, mõõduka suuruse ja kuumusega tulekahjud. See on kasulik küünalde, laternate, tõrvikute või väikeste toidutegemise tulede kustutamiseks, kuid see ei toimi maagiliste või suuremate, raevukamate leekide puhul, nagu matusetuleriidad, põlevad majad või draakonituli.
-
-#### Otsimine (Find (X))
-
-_Keskendumine, Kaugmaa, Vastupanu (Eriline)_
-
-Otsimisel on palju variatsioone; alati spetsiifilised ja õpitakse eraldi loitsudena. Mõned levinud näited on toodud allpool. See toimib häälestudes olendi või eseme looduslikele kiirgustele, teavitades loitsijat selle kohalolust loitsu levialas. Otsimist saavad blokeerida tihedad või paksud materjalid, nagu metall või vähemalt ühe meetri paksune muld ja kivi. Loits ei suuda tuvastada emotsioone ega mõtteid.
-
-- *Noolte otsimine*: Leiab jahimeeste tulistatud laskemoona, mis märklauast mööda läksid.
-- *Defekti otsimine*: Tuvastab objektil olevad vead, nagu varjatud ebatäiuslikkused või füüsilised kahjustused.
-- *Karilooma otsimine*: Leiab teatud tüüpi looma. Saab tõrjuda Tahtejõuga.
-- *Saagi otsimine*: Leiab väärtuslikke metalle ja kalliskive.
-- *Objekti otsimine*: Leiab kadunud isikliku eseme.
-- *Haiguse otsimine*: Tuvastab haiguse olemasolu, olgu see maagiline või maine.
-
-#### Tule-nool (Firearrow)
-
-_Puudutus_
-
-Tule-nool põhjustab kõik saaja visatud või tulistatud laskemoonad leekidesse puhkemise hetkel, mil need lendu lastakse. Algselt loodud signaalraketina, on see arenenud lahingumaagiaks. Selle mõju all olevad mürsud lisavad 1d3 kahjustust, kuid kustuvad, kui need lihasse tungivad. Need, mis tabavad süttivat materjali, võivad loitsija Folk Magic-oskuse tasemele vastava tõenäosusega süüdata kõik, millesse need kinni jäävad, näiteks puukilbid, õlgkatused jne. Puidust laskemoon põleb loitsu osana ära.
-
-#### Tule-tera (Fireblade)
-
-_Puudutus_
-
-Tule-tera on nagu Tule-nool, kuid seda loitsitakse käsitööriistadele ja lähivõitlusrelvadele. Loitsu algne eesmärk on steriliseerida kirurgilisi vahendeid, aidata põllumajandustöödel või pakkuda valgustust pimeduses ilma vajaduseta kaasas kanda täiendavat valgusallikat. Kui see loitsitakse relvale, tekitab see 1d3 täiendavat kahjustust ja võib süüdata süttivaid materjale, kui seda neile mitme vooru vältel vastu hoida (vaata "Tuli" mängusüsteemi jaotises). Tule-tera mõju all olevad puidust varrega relvad põlevad loitsu osana ära.
-
-#### Liim (Glue)
-
-_Puudutus_
-
-Liim tsementeerib kaks tahket elutut objekti loitsu kestvuse ajaks kokku, näiteks vankriratta teljele või ukse lengi külge. Loitsu mõju all olevaid esemeid, ükskõik kui erinevad need ka poleks, ei saa lahutada, välja arvatud juhul, kui keegi üritab neid jõuga lahti kiskuda. Sellisel juhul on loitsul "Brawn"-oskus, mis võrdub viiekordse loitsija POW-väärtusega, ja see ebaõnnestub, kui selle vastu seatakse tugevam Brawn, võites vastandatud viske. Kui loits lõpeb või ebaõnnestub, eralduvad esemed täielikult vigastusteta.
-
-#### Ravimine (Heal)
+#### Chill (Külmus)
 
 _Hetkeline, Puudutus_
 
-Ravimisel on mitu erinevat mõju sõltuvalt hädast, mille vastu seda kasutatakse. Kui subjekt kannatab väiksema kaebuse all, nagu peavalu, seljavalu, pohmell, nohu, soolatüükad jne, siis sümptomid kaovad koheselt. Kasutatuna kehaosal, millel on "Väike haav" (Minor Wound), taastab see kõik kaotatud elupunktid koheselt. "Tõsiste" (Serious) või "Suurte haavade" (Major Wounds) vastu elupunkte ei taastata. Siiski stabiliseerib loits kehaosad, peatab kogu verejooksu ja hoiab ära tähelepanematusest tingitud vahetu surma.
+Chill alandab dramaatiliselt väikeste objektide (mitte suuremate kui loitsija käsi) temperatuuri jäävee temperatuurini. Kasulik kuumade esemete kiireks jahutamiseks, jookide jahutamiseks jne. Loits ei külmuta objekti ega tekita selle struktuurile mingit kahju: see muudab selle lihtsalt väga külmaks.
 
-#### Süütamine (Ignite)
+#### Darkness (Pimedus)
 
-_Hetkeline, Kaugmaa_
+_Kontsentratsioon, Kaugus_
 
-Süütamine toimib ainult süttiva anorgaanilise aine peal, põhjustades väikese eseme või käesuuruse ala leekidesse puhkemise. Sõltuvalt sellest, mis põlema süüdati, võivad leegid levida, kui neid ei kustutata või muul viisil ei peatata. Seda loitsu kasutatakse tavaliselt küünalde, tõrvikute või laternate süütamiseks eemalt. Seda saab kasutada ka laagri- või toidutegemise tule süütamiseks rasketes tingimustes, näiteks märja hagu või tugeva tuule korral.
+Darkness loob varjuala, mis on võrdne VÄG-iga ruutmeetrites, summutades kogu valguse selle sees. See on piisav maht, et täita tagasihoidlik ruum, koridori pikkus või moodustada väike pilv väljas loitsides. Kogu mittemaagiline valgus, sealhulgas päikesevalgus, mis läbib piire või on piirides, väheneb hämara kuma tasemeni.
 
-#### Avamine (Knock)
+#### Disruption (Häirimine)
+
+_Hetkeline, Kaugus, Vastupanu (Vastupidavus)_
+
+Disruptioni kasutatakse füüsiliste objektide kahjustamiseks või lahtivõtmiseks ilma tööriistadeta. Seda kasutatakse tavaliselt elusolendite, nagu lindude või kahjurite eemale peletamiseks või tapmiseks. Edukalt heidetuna tekitab Disruption 1d3 kahju ühele juhuslikule Tabamuskohale (Hit Location) või objekti üldistele Tabamuspunktidele. Mõlemal juhul ignoreerib kahju mis tahes soomust või looduslikku kaitset.
+
+#### Extinguish (Kustutamine)
+
+_Hetkeline, Kaugus_
+
+Extinguish kustutab viivitamatult leegid ja väikesed, tagasihoidliku suuruse ja kuumusega tulekahjud. See on kasulik küünalde, laternate, tõrvikute või väikeste toidutegemise tulede kustutamiseks, kuid see ei toimi maagiliste või suuremate, raevukamate tulekahjude puhul nagu lõkked, põlevad majad või draakonituli.
+
+#### Find (X) (Otsimine)
+
+_Kontsentratsioon, Kaugus, Vastupanu (Eriline)_
+
+Findil on palju variatsioone; alati spetsiifilised ja õpitud eraldi loitsudena. Mõned levinud näited on toodud allpool. See töötab olendi või asja looduslike emanationidega häälestudes, teavitades loitsijat selle olemasolust loitsu levialas. Findi võivad blokeerida tihedad või paksud materjalid, nagu metall või vähemalt ühe meetri paksune maa ja kivi. Loits ei suuda tuvastada emotsioone ega mõtteid.
+
+- *Find Arrows (Nooleotsija)*: Leiutab jahimeeste tulistatud laskemoona, mis märgi tabamata jättis.
+- *Find Flaw (Veaootsija)*: Identifitseerib objektide vead, nagu peidetud ebatäiuslikkused või füüsilised kahjustused.
+- *Find Livestock (Karjaotsija)*: Leiab kindlat tüüpi looma. Saab tõrjuda Tahtejõuga.
+- *Find Loot (Aardeotsija)*: Leiab väärismetalle ja vääriskive.
+- *Find Object (Esemeotsija)*: Leiab kadunud isikliku eseme.
+- *Find Sickness (Haiguseotsija)*: Identifitseerib haiguste olemasolu, olgu need maagilised või maised.
+
+#### Firearrow (Tulenool)
+
+_Puudutus_
+
+Firearrow paneb kõik saaja visatud või tulistatud raketid leegitsema, kui need vabastatakse. Väidetavalt loodud signaalraketina, on see sellest ajast peale arenenud lahingumaagiaks. Selle mõju all olevad raketid lisavad täiendava 1d3 kahju, kuid kustuvad, kui need tungivad lihasse. Need, mis tabavad süttivat materjali, võivad loitsija Folk-maagia oskusega võrdse tõenäosusega süüdata selle, millesse nad kinnituvad, nagu puidust kilbid, õlgkatused jne. Puidust laskemoon tarbitakse loitsu osana.
+
+#### Fireblade (Tulemõõk)
+
+_Puudutus_
+
+Fireblade on nagu Firearrow, kuid seda heidetakse tööriistade ja lähivõitlusrelvade peale. Loitsu algne eesmärk on steriliseerida kirurgilisi vahendeid, aidata põllumajanduses (lõikamine ja põletamine) või pakkuda valgustust pimeduse ajal ilma vajaduseta kaasas kanda täiendavat valgusallikat. Relvale heidetuna tekitab see täiendava 1d3 kahju ja sellel on võimalus süüdata süttivaid materjale, kui neid hoitakse nende vastas mitu vooru (vt Fire in the Game System Section). Fireblade'i mõju all olevad puidust varrega relvad tarbitakse loitsu osana.
+
+#### Glue (Liim)
+
+_Puudutus_
+
+Glue tsementeerib kaks tahket elutut objekti loitsu kestuse ajaks kokku, näiteks vankriratta selle telje külge või ukse selle raami külge. Loitsu mõju all olles ei saa esemeid, ükskõik kui erinevad need ka poleks, lahutada, kui keegi ei ürita neid aktiivselt lahti kangutada. Sel juhul on loitsul rammu-oskus, mis on viis korda suurem loitsija VÄG-ist, ja see ebaõnnestub, kui selle vastu seatakse suurem ramm, võites seda Vastandheites. Kui loits lõppeb või ebaõnnestub, eralduvad esemed täielikult ja vigastusteta.
+
+#### Heal (Tervendamine)
 
 _Hetkeline, Puudutus_
 
-Avamine vabastab maagiliselt iga seadme, mis on hetkel kinnitatud mehaanilise riivi või lukuga. See ei toimi maagiliselt lukustatud objektide puhul, ainult maiste puhul. Loits mõjutab ainult ühte kinnitust, seega kui objektil on mitu lukku ja riivi, tuleb loits igaühe jaoks uuesti loitsida.
+Healil on mitmeid erinevaid efekte, sõltuvalt tervisehäire olemusest, mille puhul seda kasutatakse. Kui subjekt kannatab väiksema vaevuse all, nagu peavalu, seljavalu, pohmell, nohu, soolatüükad jne, siis sümptomid kaovad viivitamatult. Väiksema Haava (Minor Wound) käes kannatavale kohale heidetuna taastab see kõik kaotatud Tabamuspunktid viivitamatult. Tõsiste või Major haavade vastu Tabamuspunkte ei taastata. Küll aga loits stabiliseerib kohad, peatab kogu verejooksu ja hoiab ära eelseisva surma tähelepanematuse tõttu.
 
-#### Valgus (Light)
+#### Ignite (Süütamine)
 
-_Keskendumine, Kaugmaa_
+_Hetkeline, Kaugus_
 
-Valgust tuleb loitsida elutule objektile (see võib olla oks, mõõgatera, odatipp, tõrvik jne). See toodab piisavalt valgust, et valgustada ala nagu laternaga. Seda saab kasutada ka otse Pimenduse (Darkness) loitsu vastu, et seda tõrjuda. Sel juhul mõlemad loitsud ammenduvad, jättes ümbritseva valguse ala valgustama.
+Ignite toimib ainult süttiva anorgaanilise aine puhul, põhjustades väikese objekti või käesuuruse ala leegitsemise. Sõltuvalt sellest, mis süüdati, võivad leegid põledes levida, kui neid ei kustutata või mingil moel ei tõrjuta. Seda loitsu kasutatakse tavaliselt küünalde, tõrvikute või laternate süütamiseks kaugelt. Seda saab kasutada ka lõkke või toidutegemise tule süütamiseks ebasoodsates oludes, näiteks kasutades niiskeid küttepuid või tugevas tuules.
 
-#### Lukk (Lock)
+#### Knock (Avamine)
 
-_Eriline kestus, Puudutus_
+_Hetkeline, Puudutus_
 
-Lukk kinnitab maagiliselt iga seadme, millel on juba mehaaniline riiv või lukk olemas. Lukustatud seadet saab avada ainult loitsija ja seda ei saa avada maiste vahenditega (näiteks varas, kes kasutab muukraudu), kuna maagia muudab mehhanismi liikumatuks; siiski saab selle ikkagi jõuga avada, lõhkudes objekti, millesse lukk on paigaldatud. Maagia püsib kuni loitsija selle avab, misjärel peab seadme uuesti lukustama, et loits taastada. Luku loitsimiseks kasutatud Maagiapunkt ei taastu enne, kui loits on tühistatud või lõpeb loomulikult.
+Knock avab maagiliselt mis tahes seadme, mis on hetkel kinnitatud mehaanilise riivi või lukuga. See ei toimi maagiliselt lukustatud objektide puhul, vaid ainult maiste puhul. Loits mõjutab ainult ühte kinnitust, nii et kui objektil on mitu lukku ja riivi, tuleb loits igaühe jaoks uuesti heita.
 
-#### Fantasm (Phantasm)
+#### Light (Valgus)
 
-_Keskendumine, Kaugmaa_
+_Kontsentratsioon, Kaugus_
 
-Fantasm võimaldab loitsijal punuda kokku ebateadlikke või peaaegu kaalutuid objekte, nii et nad võtavad kuju või kummitusliku vormi. Nii võib kummitusliku kuju punuda looduslikust udust või näo vormida surnud lehtede hunnikust. Peale selle on loitsul vähe mõju, välja arvatud hirmutada, intriige tekitada või neid, kes seda näevad, segadusse ajada.
+Light tuleb heita elutule objektile (see võib olla oks, mõõk, odatipp, tõrvik jne). See toodab piisavalt valgust, et valgustada ala nagu laternaga. Seda saab heita ka otse Darkness-loitsu vastu, et see tõrjuda. Sel juhul kuluvad mõlemad loitsud, jättes ümbritseva valguse ala valgustama.
 
-#### Uni (Sleep)
+#### Lock (Lukk)
+
+_Erikestus, Puudutus_
+
+Lock kinnitab maagiliselt mis tahes seadme, millel on juba mehaaniline riiv või lukk. Lukustatud seadet saab avada ainult loitsija ja seda ei saa avada maiste vahenditega (näiteks varas lukksepa tööriistadega), kuna maagia muudab mehhanismi liikumatuks; siiski saab seda ikkagi jõuga avada, lõhkudes objekti, millesse lukk on paigaldatud. Maagia jääb paigale, kuni loitsija selle avab, pärast mida peab seade uue Lock-loitsu heitmise läbima, et loits taastada. Locki heitmiseks kasutatud Maagiapunkt ei taastu enne, kui loits on lõpetatud või lõpeb loomulikult.
+
+#### Phantasm (Fantoom)
+
+_Kontsentratsioon, Kaugus_
+
+Phantasm võimaldab loitsijal kokku põimida ebaolulisi või peaaegu kaaluta objekte nii, et need võtavad kuju või tontliku vormi. Seega võiks tontlik kuju olla kootud looduslikult tekkivast udujast või nägu moodustatud kuivanud lehtede kuhjast. Sellest kaugemale on loitsul vähe mõju, välja arvatud hirmutamine, intrigeerimine või nende segadusse ajamine, kes seda näevad.
+
+#### Sleep (Uni)
 
 _Vastupanu (Vastupidavus), Puudutus_
 
-Uni saadab saaja sügavasse, rahulikku unne. Sellel pole mõju olenditele, kelle SIZ on suurem kui loitsija POW. Kui sihtmärk vastu ei pane, magab ta tunde, mis võrduvad poolega loitsija POW-väärtusest. Siiski võtab loitsu mõjumine 1d3 vooru, enne kui sihtmärk teadvusetult langeb. Igasugune katse seda loitsu lahingusituatsioonis kasutada ebaõnnestub automaatselt.
+Sleep saadab saaja sügavasse, rahulikku unne. See ei mõjuta olendeid, kelle SUU on suurem kui loitsija VÄG. Kui sihtmärk ei tõrju, magab ta tunde, mis on võrdne poole loitsija VÄG-iga. Küll aga kulub loitsul 1d3 Vooru, enne kui sihtmärk teadvusetult uinub. Igasugune katse seda loitsu lahingusituatsioonis heita ebaõnnestub automaatselt.
 
-#### Vigor
+#### Vigor (Elujõud)
 
 _Puudutus_
 
-Vigor paneb saaja tundma elujõulise ja energilisena, olles kasutatav väsitava füüsilise töö mõjude vähendamiseks. Loitsu kestuse ajal eiratakse kõiki väsimusefekte (kuid need naasevad pärast loitsu lõppu).
+Vigor paneb saaja end elava ja energilisena tundma, olles kasutusel raske füüsilise töö mõjude kompenseerimiseks. Loitsu kestuse ajal ignoreeritakse kõiki raskest tööst tingitud Väsimusefekte (kuid need naasevad pärast loitsu lõppemist).
 
-#### Nõianägemine (Witchsight)
+#### Witchsight (Nõianägemine)
 
-_Kaugmaa, Vastupanu (Tahtejõud)_
+_Kaugus, Vastupanu (Tahtejõud)_
 
-Nõianägemine võimaldab loitsijal näha aktiivset maagiat, võlutud esemeid ja nähtamatuid üksusi (ehkki sellised asjad on vaid varjulised kujutised), mis asuvad levialas ja vaateväljas. See võib tungida ka illusioonidest läbi või tuvastada kujumuutnud olendite tõelise palge. Olendid, kes soovivad jääda varjatuks või maskeerituks, peavad võitma vastandatud viske (Tahtejõud versus loitsija Maagia-vise).
+Witchsight võimaldab loitsijal näha aktiivset maagiat, võlutud esemeid ja nähtamatuid olendeid (ehkki need on lihtsalt varjulised kujutised), mis asuvad leviala ja vaatevälja piires. See suudab tungida ka illusioonide läbivusse või tuvastada kuju muutnud olendite tõelist välimust. Olendid, kes soovivad jääda varjatuks või maskeerituks, peavad võitma oma Tahtejõu Vastandheite loitsija heite vastu.
 
 ---
 ## Supervõimed
 
-Siin toodud supervõimed pakuvad põhivõimet, mis on kas alati aktiivne või mida saab soovi korral aktiveerida. Põhivõimetel võib olla ka erilisi trikke, mida nimetatakse võimendusteks (Boosts) ja mille aktiveerimine nõuab Võimepunktide kulutamist. Tegelane, kellel on 0 Võimepunkti, ei saa kasutada võimendusi ega põhivõimeid, millel on punktikulu, kuni Võimepunktid on taastunud.
+Siia lisatud supervõimed pakuvad põhivõimet, mis on kas alati aktiivne või mida saab soovi korral aktiveerida. Põhivõimetel võib olla ka spetsiaalseid trikke nimega Võimendused (Boosts), mille aktiveerimiseks on vaja kulutada Võimepunkte. Tegelane, kes jõuab 0 Võimepunktini, ei saa kasutada Võimendusi ega mingeid kulusid nõudvaid põhivõimeid, kuni Võimepunktid on taastunud.
 
-Piirangud (Limits) on valikulised puudused, mida saab rakendada tegelasele, põhivõimetele või võimendustele. Iga piirang täpsustab tingimused, mille korral see kehtib, ja mängujuht peab iga valitud piirangu heaks kiitma.
+Piirangud (Limits) on valikulised puudused, mida saab panna tegelasele, põhivõimetele või Võimendustele. Iga Piirang kirjeldab asjaolusid, mille puhul see kehtib, ja Mängujuht peab kõik valitud Piirangud heaks kiitma.
 
-Tegelane võib võtta ka kuni kaks piirangut allolevast nimekirjast, kusjuures üks piirang annab boonusvõimenduse, kaks piirangut aga annavad boonuspõhivõime.
+Tegelane võib võtta ka kuni kaks Piirangut allolevast nimekirjast, kusjuures üks annab boonus-Võimenduse või kaks annavad boonus-põhivõime.
 
 
 ---
-## Võimete kirjeldused
+## Võimete kirjeldused#### Animatsioon
 
-#### Animeerimine (Animation)
+Animeeri 2 kuupmeetrit elutut materjali VÄG meetri raadiuses, et luua konstruktsioon, tavaliselt humanoidsel kujul. Võimupunktide maksumus on võrdne kasutatud materjali kõrgeima soomuse väärtusega, mis on ühtlasi konstruktsiooni baassoojuse väärtuseks. Konstruktsioonide baas-JÕU on 2d6+16 (23), SUU on 1d6+12 (15) ja OSA on 1d6+8 (11), kusjuures elupunktid määratakse tavapäraselt. Tegelane peab konstruktsiooni suunamiseks kasutama tegevusi ja see kasutab mis tahes veeretuste jaoks tegelase oskusi. Kui konstruktsioon saab tõsise haavata (Serious Wound) rindu või kõhtu, tehke rünnakut veeretava täringuga võrreldes vastandatud VAS-kontroll. Kui see ebaõnnestub, variseb konstruktsioon koheselt kokku. Näitlikud soomuse väärtused / võimupunktide maksumus:
 
-Animeeri 2 kuupmeetrit elutut materjali POW-väärtuse piires meetrites, et luua konstruktsioon, tavaliselt humanoidsel kujul. Võimepunktide kulu võrdub kasutatud kõige kõrgema väärtusega materjali soomusväärtusega, mis on ühtlasi ka konstruktsiooni baassoomusväärtus. Konstruktsioonidel on baas-STR 2d6+16 (23), SIZ 1d6+12 (15) ja DEX 1d6+8 (11), kusjuures elupunktid määratakse tavaliselt. Tegelane peab kasutama tegevusi konstruktsiooni suunamiseks ja see kasutab tegelase oskusi kõigi visete puhul. Kui konstruktsioon saab rinnale või kõhule "Tõsise haava", tehke vastandatud Vastupidavuse kontroll rünnakuviske vastu. Kui see ebaõnnestub, variseb konstruktsioon koheselt kokku. Näited soomusväärtustest / Võimepunktide kulu:
+| Soomuse väärtused     | Võimupunktide maksumus |
+|:--|:--:|
+| Plast või pehme puit  | 2                |
+| Betoon või kõva puit  | 4                |
+| Pehme metall või kivi | 6                |
+| Kõva metall           | 8                |
 
-| Soomusväärtused       | Võimepunktide kulu |
-|:--|:-:|
-| Plastik või pehme puit | 2 |
-| Betoon või kõva puit   | 4 |
-| Pehme metall või kivi  | 6 |
-| Kõva metall            | 8 |
+**Võimendus:** Kuluta 2 võimupunkti, et liigutada konstruktsioon silmapilkselt teise sama materjali allika juurde VÄG meetri raadiuses.
 
-**Võimendus:** Kuluta 2 Võimepunkti, et liigutada konstruktsioon koheselt sama materjali teise allika juurde POW-meetrite piires.
+#### Lahinguekspert
 
-#### Lahinguekspert (Combat Expert)
-
-Vali üks lahinguekspertiisi tüüp allolevast nimekirjast, pluss üks iga kulutatud võimenduse kohta.
+Vali üks lahinguekspertiisi tüüp alljärgnevast loetelust, pluss üks iga kulutatud võimenduse kohta.
 
 - Lähivõitluse ekspertiis annab ühe boonus-tegevuspunkti, mida saab kasutada ainult kaitsvalt, ning tõhus relva suurus suureneb rünnakute ja tõrjete puhul ühe astme võrra.
-- Kaugvõitluse ekspertiis vähendab sihtimise korral situatsioonimodifikaatoreid kahe astme võrra ühe asemel ja kaugrelvade laadimisaeg väheneb ühe võrra.
+- Kaugvõitluse ekspertiis vähendab sihtimisel situatsioonilisi modifikaatoreid kahe astme võrra ühe asemel ning kaugrelvade laadimisaega vähendatakse ühe võrra.
 
-Võimendus: Kuluta 2 Võimepunkti, et saada ekstra tegevuspunkt, mida saab kasutada ainult ründamiseks või relva valmis seadmiseks.
+Võimendus: Kuluta 2 võimupunkti, et saada lisa-tegevuspunkt, mida saab kasutada ainult ründamiseks või relva lahinguvalmidusse seadmiseks (Ready Weapon).
 
-#### Vastupidavus (Durability)
+#### Vastupidavus
 
-Elupunktid arvutatakse kasutades CON+SIZ+POW ja paranemiskiirus arvutatakse kasutades CON+ pool POW-väärtusest, ümardatuna ülespoole.
+Elupunktid arvutatakse valemiga VAS+SUU+VÄG ja paranemiskiirus arvutatakse valemiga VAS+ pool VÄG-st, ümardatuna ülespoole.
 
-**Võimendus:** Kuluta 2 Võimepunkti vaba tegevusena, et taastada kaotatud elupunktid paranemiskiiruse ulatuses või üks väsimustase.
+**Võimendus:** Kuluta 2 võimupunkti vaba tegevusena, et taastada paranemiskiiruse jagu kaotatud elupunkte või üks väsimuse tase.
 
-#### Elementaalne kontroll (Elemental Control)
+#### Elementaalne kontroll
 
-Vali konkreetne materjal või energia tüüp. Kuluta tegevus, et kontrollida kuni poolt POW-väärtusest kuupmeetrites elemendist kõikjal POW-meetrite piires. Võib muuta põhiformaati või luua keerulisi kujundeid eduka Meisterdamise (spetsiifiline element) kontrolliga. Loomisel vali kas lähivõitlusrünnak või kaugvõitlusrünnak. Lähivõitlusrünnakul on "Väga pikk" ulatus ja kaugvõitlusrünnakul on ulatus 8/24/100, seejärel vali kaks lahinguefekti. Kahjustus ja jõud/suurus määratakse POW-väärtusega: 8 või vähem: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Vali konkreetne materjal või energia tüüp. Kuluta tegevus, et kontrollida kuni poolt VÄG-st kuupmeetrites elemendi üle kõikjal VÄG meetri raadiuses. Eduka Käsitöö (konkreetne element) kontrolliga võib muuta põhiformaati või luua keerukaid kujundeid. Loomisel vali kas lähivõitlusrünnak või kaugünnak. Lähivõitlusrünnaku ulatus on "Väga pikk" ja kaugünnaku ulatus on 8/24/100, seejärel vali kaks lahinguefekti. Kahjustus ja jõud/suurus määratakse VÄG alusel: 8 või vähem: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-**Võimendus:** Kuluta 3 Võimepunkti, et ümbritseda tegelane elemendiga stseeni ajaks. Tahked materjalid saavad soomusväärtuse, mis võrdub ühe viiendikuga POW-väärtusest, ümardatuna üles. Kui tegemist on energiaga, tekitavad relvastamata rünnakud täiendavat kahjustust, mis võrdub võime baaskahjustusega, ja relvastamata rünnakud tegelase vastu kannatavad sama kahjustust kasutatud jäsemele.
+**Võimendus:** Kuluta 3 võimupunkti, et ümbritseda tegelane selle elemendiga stseeni ajaks. Tahked materjalid annavad soomuse väärtuse, mis võrdub viiendikuga VÄG-st, ümardatuna ülespoole. Kui tegemist on energiaga, tekitavad paljakäsirünnakud lisakahjustust, mis võrdub võime baaskahjustusega, ja tegelase vastu suunatud paljakäsirünnakud kannatavad sama kahjustuse kahjustatud jäsemes.
 
-#### Energialöök (Energy Blast)
+#### Energialaeng
 
-Tulista teatud tüüpi energiat kuni 10/30/120 ulatusega ja vali kaks lahinguefekti, mida loomise hetkel rakendada. Kahjustus ja jõud määratakse tegelase POW-väärtusega: 8 või vähem: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Tabamiseks veereb tegelane kas vastava võimega seotud lahingustiili (Combat Style) vastu või kasutab "Relvastamata" (Unarmed) oskust.
+Tulista konkreetset tüüpi energiast laenguid kuni 10/30/120 ulatuses ja vali loomise hetkel kaks lahinguefekti. Kahjustus ja jõud määratakse tegelase VÄG alusel: 8 või vähem: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Tabamiseks veeretab tegelane kas vastava lahingustiili või kasutab paljakäsi võitlust.
 
-**Võimendus:** Kuluta 2 Võimepunkti ja tegevus, et tekitada +1d6 kahjustust järgmisele energialöögi rünnakule.
+**Võimendus:** Kuluta 2 võimupunkti ja tegevus, et tekitada järgmisele energialaengu rünnakule +1d6 kahjustust.
 
-#### Täiustatud reaktsioonid (Enhanced Reactions)
+#### Täiustatud reaktsioonid
 
-Saa boonus algatusvõime (Initiative) visetele, mis võrdub kergejõustiku (Athletics) oskuse kriitilise vahemikuga, ja ära kuku kunagi pärast kõrvalehoidmise kasutamist pikali.
+Saa boonus initsiatiivi veeretustele, mis võrdub Kergejõustiku oskuse kriitilise vahemikuga, ja ära jää kunagi pärast Põiklemist pikali.
 
-**Võimendus:** Kuluta 1 Võimepunkt, et muuta järgmine kergejõustiku või akrobaatika kontroll ühe raskusastme võrra lihtsamaks.
+**Võimendus:** Kuluta 1 võimupunkt, et muuta järgmine Kergejõustiku või Akrobaatika kontroll ühe raskusastme võrra lihtsamaks.
 
-#### Täiustatud kiirus (Enhanced Speed)
+#### Täiustatud kiirus
 
-Suurenda baasliikumist kordajaga, mis põhineb DEX+POW väärtusel. Maksimaalne kiirus väljaspool lahingut võrdub kümnekordse muudetud liikumiskiirusega kilomeetrites tunnis.
+Suurenda baasliikumist kordajaga, mis põhineb OSA+VÄG summadel. Maksimaalne kiirus väljaspool lahingut on kümme korda suurem kui muudetud liikumiskiirus kilomeetrites tunnis.
 
-DEX+POW: 12 või vähem: x2, 13-24: x3, 25-36: x4, 37+: x5.
+OSA+VÄG: 12 või vähem: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Võimendus:** Kuluta 2 Võimepunkti, et saada ekstra tegevuspunkt, mida saab kasutada ainult ulatuse muutmiseks, liikumiseks või üle kavaldamiseks.
+**Võimendus:** Kuluta 2 võimupunkti, et saada lisa-tegevuspunkt, mida saab kasutada ainult ulatuse muutmiseks, liikumiseks või manööverdamiseks (Outmaneuver).
 
-#### Täiustatud tugevus (Enhanced Strength)
+#### Täiustatud jõud
 
-Kahjustusboonus arvutatakse kasutades STR+SIZ+POW ja maksimaalne tõstejõud määratakse tegelase STR+POW väärtusega: 12 või vähem: 1 tonn, 13-24: 2 tonni, 25-36: 3 tonni, 37+: 5 tonni. Relvastamata rünnakud loetakse suureks suuruseks ning lähivõitlusrelvade ja visatud esemete suurust või jõudu suurendatakse ühe võrra.
+Kahjustusboonus arvutatakse valemiga JÕU+SUU+VÄG ja maksimaalne tõstevõime määratakse tegelase JÕU+VÄG alusel: 12 või vähem: 1 tonn, 13-24: 2 tonni, 25-36: 3 tonni, 37+: 5 tonni. Paljakäsirünnakud loetakse suureks ning lähivõitluses ja visatud esemete suurus või jõud suurenevad ühe võrra.
 
-**Võimendus:** Kuluta 3 Võimepunkti, et kahekordistada maksimaalset tõstejõudu ühe tegevuse või ülesande ajaks.
+**Võimendus:** Kuluta 3 võimupunkti, et kahekordistada maksimaalne tõstevõime üheks tegevuseks või ülesandeks.
 
-#### Lendamine (Flight)
+#### Lendamine
 
-Saa lennukiirus, mis võrdub POW-väärtusega meetrites, maksimaalse kiirusega väljaspool lahingut, mis võrdub kümnekordse liikumiskiirusega kilomeetrites tunnis.
+Saa lennukiirus, mis võrdub VÄG meetritega; maksimaalne kiirus väljaspool lahingut on kümme korda suurem liikumiskiirusest kilomeetrites tunnis.
 
-**Võimendus:** Kuluta 3 Võimepunkti õhust liikumise ajal, et algatada sööst-rünnak liikumise käigus.
+**Võimendus:** Kuluta 3 võimupunkti õhus liikumise ajal, et algatada liikumise ajal laengurünnak.
 
-#### Teravdatud meeled (Heightened Sense)
+#### Kõrgendatud meeled
 
-Vali üks meel. Tajumise (Perception) kontrollid selle meelega on ühe oskusastme võrra lihtsamad.
+Vali üks meel. Tajukontrollid selle meelega on ühe oskusastme võrra lihtsamad.
 
-**Võimendus:** Kuluta 2 Võimepunkti, et kasutada põhivõimet teise meele jaoks.
+**Võimendus:** Kuluta 2 võimupunkti, et kasutada põhivõimet teise meele jaoks.
 
-#### Omandatud soomus (Inherent armor)
+#### Kaasasündinud soomus
 
-Annab kõigile kehaosadele soomusväärtuse, mis võrdub ühe kolmandikuga CON-väärtusest, ümardatuna üles. Tegelased võivad valida kehaosa väärtuse vähendamise kuni kahe punkti võrra, et lisada see teisele kehaosale; näiteks vähendades parema käe soomust, et lisada seda peale.
+Tagab kõigile asukohtadele soomuse väärtuse, mis võrdub kolmandikuga VAS-st, ümardatuna ülespoole. Tegelased võivad valida ühe asukoha väärtuse vähendamise kuni kahe punkti võrra, et lisada see teisele asukohale; näiteks vähendades parema käe väärtust, et lisada see peale.
 
-**Võimendus:** Rünnaku tabamisel saa iga kulutatud 1 Võimepunkti eest üks täiendav soomuspunkt selle vastu.
+**Võimendus:** Rünnaku tabamuse korral saa selle vastu üks lisasoomuse punkt iga kulutatud 1 võimupunkti eest.
 
-#### Elutoetus (Life Support)
+#### Elutugi
 
 Saa immuunsus kahe keskkonnatingimuse või bioloogilise nõude suhtes.
 
-**Võimendus:** Saa immuunsus kahele täiendavale keskkonnale või nõudele.
+**Võimendus:** Saa immuunsus kahe täiendava keskkonna või nõude suhtes.
 
-#### Õnnelik (Lucky)
+#### Õnn
 
-Arvuta baas-Õnnepunktid (Luck Points) kasutades CHA-väärtust ja poolt POW-väärtusest, ümardatuna üles.
+Arvuta baas-õnnepunktid KAR ja poole VÄG-ga, ümardatuna ülespoole.
 
-**Võimendus:** Kui täringud veerevad paaridena (kahekordsed), kuluta 3 Võimepunkti, et saada ajutine Õnnepunkt, mida tuleb kasutada stseeni lõpuks.
+**Võimendus:** Kui veeretad paarisarvu (duubli), kuluta 3 võimupunkti, et saada ajutine õnnepunkt, mida tuleb kasutada stseeni lõpuks.
 
-#### Regeneratsioon (Regeneration)
+#### Taastumine
 
-Taasta üks elupunkt igale vigastatud kehaosale iga vooru alguses, kui kehaosal ei ole "Suurt haava".
+Taasta üks elupunkt igas haavatud asukohas iga vooru alguses, kui asukoht pole saanud rasket haava (Major Wound).
 
-**Võimendus:** Sisene tervendavasse transsi ja kuluta 1 Võimepunkt tunnis, et taastada üks elupunkt kehaosal, millel on "Suur haav".
+**Võimendus:** Sisene tervendavasse transsi ja kuluta 1 võimupunkt tunnis, et taastada üks elupunkt asukohas, millel on raske haav.
 
 #### Savant
 
-Vali kolm oskust, millel on üks ühine tunnusjoon, ja nendega tehtavad kontrollid on ühe astme võrra lihtsamad.
+Vali kolm oskust, millel on ühine karakteristik, ja nende kontrollid on ühe astme võrra lihtsamad.
 
-**Võimendus:** Spetsialiseeritud oskuse, nagu Meisterdamine või Teadus, kasutamisel, mis on ka Savant-oskus, kuluta 3 Võimepunkti, et saada eriala (specialty), mida tegelasel pole, ühe ülesande ajaks samal tasemel Savant-oskusega.
+**Võimendus:** Kasutades spetsialiseeritud oskust nagu Käsitöö või Teadus, mis on ühtlasi Savant-oskus, kuluta 3 võimupunkti, et saada tegelasele puuduv eriala üheks ülesandeks samal tasemel, mis on Savant-oskusel.
 
-#### Teleportatsioon (Teleport)
+#### Teleportatsioon
 
-Teleporteeru suvalisse nähtavasse punkti POW-meetrite piires liikumistegevusena.
+Teleporteeru mis tahes nähtavasse punkti VÄG meetri raadiuses liikumistegevusena.
 
-**Võimendus:** Kuluta 2 Võimepunkti, et teleporteeruda kuni poole POW-väärtuseni meetrites (ümardatuna üles) vaba tegevusena.
+**Võimendus:** Kuluta 2 võimupunkti, et teleporteeruda kuni poole VÄG-ni meetrites, ümardatuna ülespoole, vaba tegevusena.
 
-#### Auruvorm (Vaporous Form)
+#### Auruvorm
 
-Muutu tegevusena aurupilveks või peenosakesteks, mis ei suuda füüsilise maailmaga suhelda, kuid on immuunne füüsiliste rünnakute suhtes. Saa lennukiirus, mis võrdub ühe kolmandikuga POW-väärtusest meetrites ja läbi avade mis tahes suuruses. Energial põhinevad rünnakud tekitavad tegelase Võimepunktidele pool kahjustust. Kui Võimepunktid langevad 0-ni, naaseb tegelane tahkesse olekusse ja peab tegema raske Vastupidavuse kontrolli, muidu langeb 1d6+1 minutiks teadvusetuks.
+Kuluta tegevus, et muutuda auru- või peenete osakeste pilveks, mis ei suuda füüsilise maailmaga suhelda, kuid on immuunne füüsiliste rünnakute suhtes. Saa lennukiirus, mis võrdub kolmandikuga VÄG-st meetrites, ja liigu läbi mis tahes suurusega avade. Energial põhinevad rünnakud tekitavad tegelase võimupunktidele poolt kahjustust. Kui võimupunktid langevad 0-ni, naaseb tegelane tahkesse olekusse ja peab tegema raske VAS-kontrolli või langema teadvusetuks 1d6+1 minutiks.
 
-**Võimendus:** Kuluta 3 Võimepunkti, et muuta üks kehaosa ühe tegevuse ajaks tahkeks.
+**Võimendus:** Kuluta 3 võimupunkti, et tahkestada üheks tegevuseks üks tabatud asukoht.
 
 ---
-## Piirangud (Limits)
+## Piirangud
 
-#### Aktiveerimiskulu (Activation Cost)
+#### Aktiveerimismaksumus
 
-Tegelane kulutab 2 Võimepunkti, et aktiveerida põhivõime, või suurendab võimenduse kulu 2 Võimepunkti võrra. Teise võimalusena maksab pidev võime 1 Võimepunkti iga vooru alguses selle säilitamiseks.
+Tegelane kulutab 2 võimupunkti põhivõime aktiveerimiseks või suurendab võimenduse maksumust 2 võimupunkti võrra. Alternatiivina maksab pidev võime 1 võimupunkti iga pöörde alguses selle säilitamiseks.
 
-#### Väline energiaallikas (External Power Source)
+#### Väline võimuallikas
 
-Tegelase võimete allikaks on artefakt või seade. Kui see on väike või käsitsi hoitav, on see haavatav eriefektidele, nagu relva käest löömine (Disarm Weapon) või relva äravõtmine (Take Weapon). Kui see on suur, vajab see vähemalt ühe minuti selga panemiseks või aktiveerimiseks, enne kui võimeid saab kasutada.
+Tegelase võimete allikaks on artefakt või seade. Kui see on väike või käeshoitav, on allikas haavatav eriefektidele nagu "Relva desarmeerimine" või "Relva võtmine". Kui see on suur, nõuab see vähemalt ühe minuti selgapanemiseks või aktiveerimiseks, enne kui võimeid saab kasutada.
 
-#### Saatuslik viga (Fatal Flaw)
+#### Saatuslik viga
 
-Tegelane peab iga nelja tunni tagant tarbima või puutuma kokku teatud ainega, vastasel juhul kannatab väsimustaseme all. Edukas Vastupidavuse kontroll võib seda ära hoida, kuid kontrolli raskus suureneb ühe astme võrra iga täiendava nelja tunni kohta, mil nõuet ei täideta.
+Tegelane peab iga nelja tunni tagant tarbima või kokku puutuma teatud ainega, vastasel juhul kannatab ta ühe väsimuse taseme all. Edukas VAS-kontroll võib seda vältida, kuid selle kontrolli raskusaste suureneb ühe astme võrra iga täiendava nelja tunni kohta, mil nõuet ei täideta.
 
-#### Piiratud kontroll (Limited Control)
+#### Piiratud kontroll
 
-Võime või võimendusega seotud tegevuste puhul suureneb tegelase kriitilise ebaõnnestumise vahemik 90-00-ni.
+Võimeid või võimendusi hõlmavate tegevuste puhul suureneb tegelase kriitilise ebaõnnestumise vahemik 90-00-ni.
 
-#### Piiratud võime (Limited Power)
+#### Piiratud võime
 
 Võime või võimendus toimib ainult kindlates tingimustes või sellel on mängujuhi määratud vähendatud mõju.
 
-#### Füüsiline piirang (Physical Limitation)
+#### Füüsiline piirang
 
-Tegelasel on püsiv piirav seisund, nagu pimedus, püsiv elupunktide kaotus teatud kehaosal või vähenenud liikuvus.
+Tegelal on püsiv piirav seisund, nagu pimedus, püsiv elupunktide kaotus mingis asukohas või vähenenud liikuvus.
 
-#### Haavatavus (Vulnerability)
+#### Haavatavus
 
-Tegelane võtab kahekordset kahjustust kindlat tüüpi rünnakutest. Teise võimalusena peab tegelane tegema raskeid Vastupidavuse kontrolle igas voorus, kui ta on 5 meetri raadiuses teatud ainest, vastasel juhul kannatab väsimustaseme all.
+Tegelane võtab teatud tüüpi rünnakutest kahekordset kahjustust. Alternatiivina peab tegelane tegema raskeid VAS-kontrolle igal pöördel, olles 5 meetri raadiuses teatud ainest, vastasel juhul kannatab ta väsimuse taseme all.

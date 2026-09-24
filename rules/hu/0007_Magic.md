@@ -1,46 +1,46 @@
-# Mágia és Képességek
+# Mágia és erők
 
-Azok a Játékmesterek, akik mágiát és/vagy szuperképességeket szeretnének beépíteni a játékukba, ebben a szakaszban megtalálják az ehhez szükséges alapvető szabályokat. Mindig a legjobb, ha megbizonyosodunk arról, hogy a játékban részt vevők mindegyike örülne-e a mágia vagy a szuperképességek jelenlétének, és mindig érdemes elgondolkodni azon, milyen típusú játékot eredményezhet ez.
+Azok a Játékmesterek, akik mágiát és/vagy szupererőket szeretnének beépíteni a játékukba, ebben a szakaszban megtalálják az ehhez szükséges alapvető szabályokat. Mindig a legjobb, ha megbizonyosodunk róla, hogy a játékban részt vevő mindenki örömmel veszi a mágia vagy a szupererők jelenlétét, és érdemes elgondolkodni azon, milyen típusú játékot eredményezhet ez.
 
 ---
-## Hogyan működnek a Képességek
+## Hogyan működnek az erők
 
-Egy varázslat elmondása vagy egy szuperképesség használata általában egy pontkészletből származó energia felhasználását igényli. A készlet mérete megegyezik a karakter POW (ERŐ) jellemzőjével; mágusok esetében ezt Mágia Pontnak, szuperhősöknél pedig Erőpontnak nevezzük. A mágia vagy a képességek használata bizonyos számú pontba kerül, amit le kell vonni ebből a készletből, és ha a készlet kiürült, több mágia vagy képesség nem használható, amíg az vissza nem töltődik.
+Egy varázslat elmondása vagy egy szupererő használata általában valamilyen pontkészletből származó energia elköltését igényli. Ezen készlet mérete megegyezik a karakter HAT jellemzőjével; a varázslók esetében ezt Mágia Pontoknak, a szuperhősöknél pedig Erő Pontoknak nevezzük. A mágia vagy az erők használata bizonyos számú pontba kerül, amelyet levonunk ebből a készletből, és amikor a készlet kiürül, több mágia vagy erő nem használható, amíg az fel nem töltődik.
 
-A mágia óránként a karakter Gyógyulási rátájának megfelelő mennyiségben töltődik vissza, amíg el nem éri a karakter POW értékével megegyező szintet. Ez feltételezi, hogy a karakter képes teljesen kipihenni magát, nem vesz részt más tevékenységben, és nem lábadozik fáradtságból vagy sérülésből. Ellenkező esetben a Játékmester növelheti a Mágia/Erőpontok visszatöltéséhez szükséges időt, vagy csökkentheti a Gyógyulási rátát.
+A Mágia Pontok óránként a karakter Gyógyulási Rátájával megegyező mértékben töltődnek vissza, amíg el nem érik a karakter HAT értékét. Ez feltételezi, hogy a karakter képes teljesen kipihenni magát, nem vesz részt semmilyen más tevékenységben, és nem lábadozik fáradtságból vagy sérülésből. Ha mégis ez a helyzet, a Játékmester megnövelheti a Mágia/Erő Pontok visszatöltődéséhez szükséges időt, vagy csökkentheti a Gyógyulási Rátát.
 
-Szuperképességek esetén az Erőpontok percenként egy ponttal töltődnek vissza pihenés közben, de a karakterek egy Szerencsepont elköltésével azonnal visszanyerhetnek 1d4+1 elvesztett Erőpontot, legfeljebb a maximumukig.
+A szupererők esetében az Erő Pontok percenként egy ponttal regenerálódnak pihenés közben, de a karakterek elkölthetnek egy Szerencse Pontot is, hogy azonnal visszanyerjenek 1d4+1 elvesztett Erő Pontot, maximum a limitjükig.
 
 #### Varázslatok elmondása
 
-A varázslatokat a Mágia képzettséggel lehet elmondani; enélkül a mágia egyszerűen nem lehetséges. A varázslat előkészítése és elmondása egy Akciót és egy sikeres Mágia dobást igényel. Ha a dobás sikertelen, a varázslat nem működik, és később újra elő kell készíteni és meg kell próbálni. Ha a dobás sikeres, a varázslat működésbe lép, és a Mágia Pontok levonásra kerülnek a készletből.
+A varázslatok elmondása a Mágia képzettséggel történik; enélkül a mágia egyszerűen nem lehetséges. A varázslat előkészítése és elmondása egy Akciót és egy sikeres Mágia dobást igényel. Ha a dobás sikertelen, a varázslat nem működik, és később újra elő kell készíteni és meg kell próbálni. Ha a dobás sikeres, a varázslat működik, és a Mágia Pontok levonásra kerülnek a Mágia Pont készletből.
 
-#### Szuperképességek használata
+#### Szupererők használata
 
-A szuperhős karakterek számára a szuperképességük folyamatosan működik, így a használatához nincs szükség dobásra vagy Erőpont-felhasználásra; azonban, ha egy képességet Felerősíteni (Boost) akarunk, akkor annak Erőpont-költsége van.
+A szuperhős karakterek úgy találják, hogy szupererejük folyamatosan működik, így a használatához nincs szükség dobásra vagy Erő Pont költésére; ugyanakkor, ha megpróbálnak Felerősíteni egy erőt, akkor az Erő Pont költséggel jár.
 
 ---
-## Kezdő Képességek és Újak Tanulása
+## Kezdő erők és újak tanulása
 
-#### Mágusok
+#### Varázslók
 
-A mágusok 1d4+1 varázslattal kezdik a játékot, amelyeket mind a Mágia képzettség használatával mondanak el. A játékosnak és a Játékmesternek egyeztetnie kell arról, hogy mely varázslatok érhetőek el, és a karakter hogyan tett szert rájuk. Például a karakter lehetett egy helyi mágus tanítványa, vagy megtanulhatta a mágiát az anyja térdén ülve.
+A varázslók 1d4+1 varázslattal kezdik a játékot, amelyeket mind a Mágia képzettséggel használnak. A játékosnak és a Játékmesternek egyeztetnie kell arról, mely varázslatok érhetőek el, és a karakter hogyan tett szert rájuk. Például a karakter lehetett egy helyi varázsló tanítványa, vagy édesanyja térdén ülve tanulhatta a mágiát.
 
-További varázslatokat is lehet tanulni, de egy új varázslat megtanulása 3 Tapasztalati Dobásba kerül, és egy hét elkötelezett tanulást és gyakorlást igényel. Az új varázslatokat tanítótól vagy megbízható forrásból (például egy új varázslat tanítására tervezett tekercsből vagy varázskönyvből) kell megtanulni.
+További varázslatok tanulhatók, de egy új varázslat megtanulása 3 Tapasztalati Dobásba kerül, és egy hét elkötelezett tanulást és gyakorlást igényel. Az új varázslatokat tanítótól vagy megbízható forrásból (például egy új varázslat tanítására tervezett tekercsből vagy grimoárból) kell elsajátítani.
 
 #### Szuperhősök
 
-A szuperhősök esetében a Játékmesternek és a játékosnak el kell döntenie, hogyan tett szert a karakter a képességeire, és mi a képesség forrása (például lehet egy különleges páncél, kozmikus sugárzás hatására szerzett képesség vagy genetikai mutáció).
+A szuperhősök esetében a Játékmesternek és a játékosnak el kell döntenie, hogyan tett szert a karakter az erejére, és mi az erejének a forrása (például lehet egy különleges páncélzat, kozmikus sugárzásnak való kitettség révén szerzett képességek, vagy genetikai mutáció).
 
-A szuperhősök alap képességeinek száma a POW plusz egy, a forrástól függő Jellemző alapján határozható meg: CON a megváltozott fiziológiáért (mutáció, idegen faj, kísérletezés) vagy INT a technológiai vagy képesség-alapú erőkért (kibernetika, harci öltözetek, intenzív edzés stb.). Lásd az alábbi táblázatot.
+A szuperhősök a HAT értékük, valamint az erők forrásától függő további jellemzőjük összege alapján meghatározott számú alap erővel indulnak: ÁLL a megváltozott élettan esetében (mutáció, idegen faj, kísérletezés), vagy INT a technológiai vagy képesség alapú erők esetében (kibernetika, harci páncélok, intenzív edzés stb.). Lásd az alábbi táblázatot.
 
-Egy alap képesség elcserélhető két Felerősítésre (Boost), amely bármely alap képességre alkalmazható. A karakter emellett két Korlátozást (Limit) is választhat a Szuperképességek szakaszban található listából, ahol az egyik egy bónusz Felerősítést, a kettő pedig egy bónusz alap képességet biztosít. A képességek és a példa Felerősítések válogatása a [Szuperképességek](0007_Magic.md?id=superpowers) szakaszban található.
-
-
-##### Szuperképességek Táblázata
+Egy alap erő kicserélhető két Felerősítésre, amelyek bármely alap erőre alkalmazhatók. A karakter választhat legfeljebb két Korlátozást a Szupererők szakasz elején található listából; az egyik egy bónusz Felerősítést, vagy kettő egy bónusz alap erőt biztosít. Az erők választéka és a Felerősítések példái a [Szupererők](0007_Magic.md?id=superpowers) szakaszban találhatóak.
 
 
-| POW+(CON vagy INT) | Alap Képességek |
+##### Szupererők táblázat
+
+
+| HAT+(ÁLL vagy INT) | Alap erők |
 |:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
@@ -52,361 +52,359 @@ Egy alap képesség elcserélhető két Felerősítésre (Boost), amely bármely
 ---
 ## Mágia
 
-Valahányszor egy karakter varázslatot akar használni, dobást tesz a Mágia képzettségére. Az elmondás egyetlen körbe kerül, de az elhasznált Mágia Pontok mennyisége és a varázslat sikeressége a dobás eredményétől függ.
+Valahányszor egy karakter varázsolni szeretne, a Mágia képzettségére dob. A varázslás egyetlen körbe telik, de a felhasznált Mágia Pontok mennyisége és a varázslat sikeressége a dobás eredményétől függ.
 
-Ha a Mágia dobás egy...
+Ha a Mágia dobás...
 
-- **Kritikus Siker:** a varázslat Mágia Pont költsége nulla.
+- **Kritikus siker:** a varázslat Mágia Pont költsége nulla.
 - **Siker:** a varázsló 1 Mágia Pontot veszít, és a varázslat működik.
 - **Kudarc:** a varázsló 1 Mágia Pontot veszít, de a varázslat nem működik.
 - **Baki:** a varázsló 1d3 Mágia Pontot veszít a varázslat miatt, és a varázslat kudarcot vall.
 
-Kisebb vagy jelentéktelen természetük miatt minden Mágia varázslat alapértelmezett Intenzitása és Nagysága 1.
+Kisebb vagy jelentéktelen természetük miatt minden Mágia varázslat alapvető Intenzitása és Nagysága 1.
 
 
-#### A Mágia Kapacitás Korlátai
+#### A Mágia kapacitás korlátai
 
-A karaktereknek nincs tényleges korlátja az megtanulható Mágia varázslatok számát illetően, feltéve, hogy a Játékmester engedélyezi számukra az újakhoz való hozzáférést.
+A karaktereknek nincs tényleges korlátja arra vonatkozóan, hány Mágia varázslatot tanulhatnak meg, amennyiben a Játékmester engedélyezi számukra az újakhoz való hozzáférést.
 
 #### Varázslatok
 
-A varázslatokat különféle jellemzők határozzák meg, amelyek a varázslat hatásait és az esetleges különleges korlátozásokat írják le. Minden varázslat más, némelyik kevesebb jellemzővel rendelkezik, mint mások.
+A varázslatokat különféle tulajdonságok határozzák meg, amelyek leírják a varázslat hatásait és az esetleges korlátozásokat. Minden varázslat különböző, egyeseknek kevesebb tulajdonságuk van, mint másoknak.
 
-#### Varázslatok Időtartama
+#### Varázslatok időtartama
 
-Hacsak egy varázslat nem rendelkezik Koncentráció vagy Azonnali jellemzővel, természetes időtartama van, amely az egész jelenetig vagy cselekvésig tart, amelyre a varázslatot használták. Néhány varázslatnak egyéni időtartama van, amely a varázslat leírásában szerepel.
+Hacsak egy varázslat nem rendelkezik Koncentráció vagy Azonnali tulajdonsággal, természetes időtartama van, amely az egész jelenetig vagy az adott tevékenységig tart, amelyre a varázslatot használták. Néhány varázslatnak a varázslat definíciójában feltüntetett egyedi időtartama van.
 
-#### Mágia Jellemzők
+#### Mágikus tulajdonságok
 
-A Mágia Jellemzők a következők:
+A Mágikus tulajdonságok a következők:
 
-- **Koncentráció:** A varázslat hatása érvényben marad, ha a varázsló továbbra is a fenntartására koncentrál. A koncentráció megköveteli, hogy a varázsló mentes legyen minden fizikai és mentális zavaró tényezőtől: bármilyen ilyen zavar megszakítja a koncentrációt, ami a varázslat azonnali megszűnését eredményezi.
-- **Azonnali:** A varázslat hatása azonnal bekövetkezik. Nincs időtartama.
-- **Távolsági:** A Távolsági jellemzővel rendelkező varázslatok a karakter Mágia értékének megfelelő méteres távolságig mondhatók el. A varázslónak ismernie kell a célpont helyzetét, például "az ajtó mögött rejtőzik": ha nem tudja közvetlenül látni vagy érzékelni a varázslat célpontját, akkor a Mágia dobás egy fokkal nehezebbé válik.
-- **Ellenállás (Kitartás, Kitérés, Akaraterő):** Bármely varázslat, amelyet a célpont nem fogad el készségesen, aktívan kivédhető Kitartással, Kitéréssel vagy Akaraterővel, az e jellemző által meghatározottak szerint. A varázslat sikeres kivédéséhez a célpontnak meg kell nyernie az adott képzettségre vonatkozó Szembenálló Dobást a varázsló Mágia dobásának eredményével szemben. Ha a célpont elbukja a dobást, a varázslat a szokásos módon hat. Megjegyzendő, hogy az ellenállás általában passzív cselekvés, ha Kitartást vagy Akaraterőt használnak. Ha egy varázslat megköveteli a célponttól a Kitérést, akkor az Akciópontba kerül a Kitérési kísérlet. Azok a célpontok, akiknek nincs Akciópontjuk a kitérésre, védtelenek lesznek a varázslat hatásával szemben.
-- **Érintés:** A varázslónak fizikai kapcsolatban kell lennie a célponttal a varázslat elmondása közben. Ha a célpont szándékosan ellenáll a fizikai érintkezésnek, a varázsló valószínűleg nem tudja befejezni a varázslatát, hacsak valamilyen különleges körülmény nem akadályozza meg a célpontot a visszahúzódásban, mint például a meglepetés vagy a Fogás különleges hatás. Az érintéses varázslathoz csupán érintkezni kell a célponttal vagy a nála lévő felszereléssel.
+- **Koncentráció:** A varázslat hatásai érvényben maradnak, ha a varázsló továbbra is a fenntartására koncentrál. A koncentráció megköveteli, hogy a varázsló mentes legyen minden fizikai és mentális zavaró tényezőtől: minden ilyen zavar megszakítja a koncentrációt, ami a varázslat azonnali megszűnését eredményezi.
+- **Azonnali:** A varázslat hatásai azonnal bekövetkeznek. Nincs időtartama.
+- **Távolsági:** A Távolsági tulajdonsággal rendelkező varázslatok a karakter Mágia pontszámával megegyező méter távolságig bocsáthatók ki. A varázslónak ismernie kell a célpont helyzetét, például „az ajtó mögött rejtőzik”: ha nem képes közvetlenül látni vagy érzékelni a varázslat célpontját, akkor a Mágia dobás egy fokozattal nehezebbé válik.
+- **Ellenállás (Állóképesség, Kitérés, Akaraterő):** Bármely varázslat, amelyet a célpont nem fogad el önként, aktívan kivédhető Állóképességgel, Kitéréssel vagy Akaraterővel, a tulajdonság meghatározása szerint. A varázslat sikeres kivédéséhez a célpontnak meg kell nyernie az érintett képességre vonatkozó Ellentétes Dobást a varázsló Mágia dobásának eredményével szemben. Ha a célpont elbukja a dobást, akkor a varázslat a szokásos módon fejti ki hatását. Megjegyzendő, hogy az ellenállás általában passzív cselekvés, ha Állóképességet vagy Akaraterőt használnak. Ha egy varázslat megköveteli, hogy a célpont Kitérjen, akkor az Akció Pontba kerül a Kitérési kísérlet. Azok a célpontok, akiknek nincs elkölthető Akció Pontjuk, tehetetlenek lesznek a varázslat hatásával szemben.
+- **Érintés:** A varázslónak fizikai kapcsolatban kell lennie a célponttal a varázslat elmondása alatt. Ha a célpont elszántan ellenáll a fizikai kapcsolatnak, akkor a varázsló nagy valószínűséggel kudarcot vall a varázslat befejezésében, kivéve, ha valamilyen különleges körülmény megakadályozza a célpont visszahúzódását, például meglepetés vagy a Megragadás különleges hatás. Az Érintés varázslatnak csak a célponttal vagy annak felszerelésével kell érintkeznie a működéshez.
 
 
 ---
-## Varázslat Leírások
+## Varázslatok leírása
 
-#### Riasztás (Alarm)
+#### Riasztás
 
-_Különleges Időtartam_
+_Különleges időtartam_
 
-A Riasztás elmondása egy helyszínre, például egy szobára vagy egy kis tisztásra, ideiglenes pszichikai kötést hoz létre a terület és a varázsló között. Ha a területre 1-nél nagyobb SIZ (Méret) értékkel rendelkező élő lény lép, a varázsló automatikusan tudomást szerez a behatolásról, függetlenül a távolságtól. A Riasztás általában egy jellegzetes bizsergő érzés vagy mentális csípés, amely felébreszti a varázslót. A Riasztás különálló tárgyon is használható, akkor lép működésbe, ha megérintik vagy elmozdítják.
+A Riasztás varázslat egy helyre, például egy szobára vagy kis tisztásra történő alkalmazása átmeneti pszichikai kötést hoz létre a terület és a varázsló között. Ha a területre 1-nél nagyobb MÉR-el rendelkező élő lény lép, a varázsló automatikusan tudomást szerez arról, hogy valami behatolt, függetlenül a távolságtól. A Riasztás általában egy jellegzetes bizsergő érzés vagy mentális szúrás, amely felébreszti a varázslót. A Riasztás egyedi tárgyakon is használható, érintéskor vagy mozgatáskor aktiválódik.
 
-#### Elhárítás (Avert)
+#### Elhárítás
 
 _Azonnali, Távolsági_
 
-Az Elhárítás egy másik, hatótávolságon belüli varázslat megszüntetésére szolgál. Az Elhárítás reakcióként is elmondható a támadó varázslatok semlegesítésére, az Ellenvarázslat Reaktív Akció használatával.
+Az Elhárítás egy másik varázslat hatótávolságon belüli megszüntetésére szolgál. Az Elhárítás reaktív módon is alkalmazható támadó varázslatok semlegesítésére az Ellentétes Mágia Reaktív Akció használatával.
 
-#### Zavartság (Befuddle)
+#### Összezavarás
 
 _Távolsági, Ellenállás (Akaraterő)_
 
-A Zavartság zavart okoz a testi célpont elméjében. A varázslat alanya nehezen tud tisztán gondolkodni, elfelejti, hol van, mit csinál és miért – gyakran disszociatív gondolatmenetekbe csúszik át. A zavart célpontok továbbra is cselekedhetnek önvédelemből, de nem kezdeményezhetnek semmilyen konstruktív tevékenységet, amíg a varázslat véget nem ér. Bármilyen támadás vagy fenyegető cselekedet azonnal megszakítja a varázslatot, függetlenül attól, hogy kifejezetten a zavart célpont ellen irányult-e.
+Az Összezavarás zavart okoz a testi célpont elméjében. A varázslat alanyának nehézséget okoz az egyenes gondolkodás, elfelejti hol van, mit csinál és miért – gyakran disszociatív gondolatmenetekbe csúszik. Az összezavart célpontok továbbra is cselekedhetnek önvédelemből, de nem kezdeményezhetnek építő jellegű tevékenységet a varázslat végéig. Bármilyen támadás vagy fenyegető cselekedet azonnal megszakítja a varázslatot, függetlenül attól, hogy kifejezetten az összezavart célpont ellen irányult-e.
 
-#### Pengeélesítés (Bladesharp)
-
-_Érintés_
-
-A Pengeélesítést éles és szúró közelharci fegyverekre mondják el. Egy kockaszinttel növeli a fegyver sebzését, és mellékesen megőrzi az élét a varázslat befejezése után is. Ezt a varázslatot gyakran használják olyan eszközökön, mint a favágó fejszék, ekék és borotvák. Így a varázslat egy tőrért 1d6+1 sebzést eredményez, míg ugyanez a varázslat egy nagy fejszére 2d8+2 sebzést adna. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
-
-#### Tompítás (Bludgeon)
+#### Pengeélesítés
 
 _Érintés_
 
-A Tompítás hasonló a Pengeélesítéshez, de olyan fegyvereken és eszközökön használják, amelyek zúzó sebzést okoznak a vágó vagy szúró sebzés helyett. Általában gabonacséplésnél, gyapjúkészítésnél vagy hasonló nehéz munkáknál segít.
+A Pengeélesítés vágó- és szúrófegyverekre alkalmazható. Egy kockafokozattal növeli a fegyver sebzését, és mellékesen élesre hagyja az élét a varázslat befejeztével. Ezt a varázslatot gyakran használják olyan eszközökön, mint favágó balták, ekék és borotvák. Így, ha ezt a varázslatot egy tőrére alkalmazzák, az 1d6+1 sebzésre nő, míg ugyanaz a varázslat egy kétkezes bárdon 2d8+2 sebzésre növekedne. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Lélegzet (Breath)
+#### Tompaütés
 
 _Érintés_
 
-A Lélegzet lehetővé teszi a célpont számára, hogy hosszabb ideig visszatartsa a lélegzetét, így ideiglenesen káros környezetbe merészkedhet, például víz alá, vagy kőporral, gázokkal, füsttel vagy mérgekkel szennyezett légkörbe. A varázslat legfeljebb a varázsló POW értékének feléig tart percekben, ezalatt a célpont nem beszélhet, különben a lélegzet elvész, és azonnal el kell kezdenie lélegezni a környezetéből, elszenvedve az összes fennálló kockázatot – legyen az fulladás, vízbe fúlás, mérgezés stb.
+A Tompaütés olyan, mint a Pengeélesítés, de vágó vagy szúró sebzés helyett tompa erőhatást kifejtő fegyvereken és eszközökön használják. Általában gabona csépléséhez, gyapjú tömörítéséhez vagy hasonló nagy igénybevételt jelentő munkákhoz használják.
+
+#### Lélegzet
+
+_Érintés_
+
+A Lélegzet lehetővé teszi a befogadó számára, hogy hosszabb ideig visszatartsa a lélegzetét, így ideiglenesen káros környezetbe merészkedhet, például víz alá; vagy kőporral, gázokkal, füsttel vagy mérgekkel szennyezett légkörbe. A varázslat a varázsló HAT értékének feléig tartó percekig hat, amely idő alatt a befogadó nem beszélhet, különben a lélegzet elvész, és azonnal el kell kezdenie lélegezni a környezetéből, elszenvedve az összes jelenlévő kockázatot – legyen az fulladás, vízbe fúlás, mérgezés stb.
 
 <details>
 
-<summary>* Közösségi Errata</summary>
+<summary>* Közösségi helyesbítés</summary>
 
 _**Lélegzet**_
 
-_Az eredeti varázslatleírás a következő volt: "A Lélegzet lehetővé teszi a célpont számára, hogy hosszabb ideig visszatartsa a lélegzetét... A varázslat legfeljebb a varázsló POW értékének feléig tart percekben, ezalatt a célpont nem beszélhet, különben a lélegzet elvész, és azonnal fulladozni kezd (vagy megmérgeződik)."_
+_Az eredeti varázslatleírás a következő volt: "A Lélegzet lehetővé teszi a befogadó számára, hogy hosszabb ideig visszatartsa a lélegzetét, így ideiglenesen káros környezetbe merészkedhet, például víz alá; vagy kőporral, gázokkal, füsttel vagy mérgekkel szennyezett légkörbe. A varázslat a varázsló HAT értékének feléig tartó percekig hat, amely idő alatt a befogadó nem beszélhet, különben a lélegzet elvész, és azonnal fulladni kezd (vagy megmérgeződik)."_
 
-_Ezt úgy is lehetett értelmezni, mint egy támadó hatást, amely a varázslat végén váltódik ki, ami ellentétesnek tűnik a szerzők szándékával és az ilyen varázslatok segítő jellegével a fegyverek helyett. Ezért a fenti Közösségi Errata módosítás. Frissíteni fogjuk ezt a szöveget, amennyiben az eredeti szerzők módosítják a leírt szabályt._
+_Ezt támadó hatásként is lehet értelmezni, amely a varázslat végén aktiválódik, ami ellentétesnek tűnik a szerzők szándékával és az ilyen varázslatok hasznos jellegével, ahelyett, hogy fegyverként működnének. Ezért a fenti Közösségi helyesbítés. Frissíteni fogjuk ezt a szöveget, ha az eredeti szerzők felülvizsgálják az írott szabályt._
 
 </details>
 
-#### Nyugalom (Calm)
+#### Nyugalom
 
 _Távolsági, Ellenállás (Akaraterő)_
 
-A Nyugalom megpróbálja csillapítani a célpont szenvedélyeit, biztosítva, hogy a szerelmes udvarló ne erőltesse a házasságot, egy megijedt rivális ne kiáltson segítségért, vagy hogy ne húzzanak fegyvert haragból. A megnyugtatott személyt egyébként nem érinti mentális változás; így bármilyen támadás vagy fenyegető cselekedet továbbra is lehetővé teszi a célpont számára, hogy megvédje magát vagy akár támadjon, bár ezt nyugodt és higgadt módon teszi.
+A Nyugalom megkísérli csillapítani a célpont szenvedélyeit, talán biztosítva, hogy egy szerelmes udvarló ne erőltesse az udvarlást, egy megijedt rivális ne kérjen segítséget, vagy hogy a fegyvereket ne rántsák ki haragból. Egy megnyugtatott személyt egyébként nem érint mentálisan; így bármilyen támadás vagy fenyegető cselekedet továbbra is lehetővé teszi a célpont számára, hogy megvédje magát és akár támadjon is, bár ezt nyugodt és higgadt módon teszi.
 
-#### Hűtés (Chill)
+#### Hűtés
 
 _Azonnali, Érintés_
 
-A Hűtés drasztikusan csökkenti a kisméretű tárgyak (nem nagyobbak a varázsló kezénél) hőmérsékletét jeges víz hőmérsékletére. Hasznos forró tárgyak gyors lehűtésére, italok hűtésére stb. A varázslat nem fagyasztja meg a tárgyat, és nem okoz kárt a szerkezetében: egyszerűen nagyon hideggé teszi.
+A Hűtés drasztikusan csökkenti a kis tárgyak (nem nagyobbak a varázsló kezénél) hőmérsékletét jéghideg hőmérsékletre. Hasznos forró tárgyak gyors lehűtésére, italok hűtésére és így tovább. A varázslat nem fagyasztja meg a tárgyat, és nem okoz kárt a szerkezetében: egyszerűen csak nagyon hideggé teszi.
 
-#### Sötétség (Darkness)
+#### Sötétség
 
 _Koncentráció, Távolsági_
 
-A Sötétség árnyékos területet hoz létre, amelynek nagysága megegyezik a POW négyzetméterben kifejezett értékével, és elnyom minden fényt benne. Ez a térfogat elég egy szerény szoba, egy folyosószakasz kitöltésére, vagy egy kis felhő képzésére, ha a szabadban mondják el. Minden nem mágikus fény, beleértve a napfényt is, amely belép vagy jelen van a határokon belül, halvány derengéssé csökken.
+A Sötétség egy HAT értékkel megegyező négyzetméternyi árnyékos területet hoz létre, amely elnyom minden fényt. Ez a térfogat elegendő egy szerény szoba, egy folyosószakasz kitöltésére, vagy egy kis felhő képzésére, ha a szabadban alkalmazzák. Minden nem mágikus fény, beleértve a napfényt is, amely belép vagy jelen van a határon belül, elhalványul.
 
-#### Bomlasztás (Disruption)
+#### Szétesés
 
-_Azonnali, Távolsági, Ellenállás (Kitartás)_
+_Azonnali, Távolsági, Ellenállás (Állóképesség)_
 
-A Bomlasztás fizikai tárgyak károsítására vagy szétszerelésére szolgál eszközök nélkül. Gyakran használják élő lények, például madarak vagy kártevők elűzésére vagy megölésére. Sikeres elmondás esetén a Bomlasztás 1d3 sebzést okoz egyetlen véletlenszerű Találati Helyen vagy a tárgy teljes Életpontján. Mindkét esetben a sebzés figyelmen kívül hagy minden páncélzatot vagy természetes védelmet.
+A Szétesés fizikai tárgyak károsítására vagy szétszerelésére szolgál szerszámok nélkül. Gyakran alkalmazzák élő lények, például madarak vagy kártevők elriasztására vagy megölésére. Sikeres elmondás esetén a Szétesés 1d3 sebzést okoz egy véletlenszerű Testrészre vagy egy tárgy teljes Életerejére. Mindkét esetben a sebzés figyelmen kívül hagy minden páncélt vagy természetes védelmet.
 
-#### Oltás (Extinguish)
+#### Oltás
 
 _Azonnali, Távolsági_
 
-Az Oltás azonnal eloltja a szerény méretű és hőfokú lángokat és kis tüzeket. Hasznos gyertyák, lámpások, fáklyák vagy kis főzőtüzek eloltására, de nem működik mágikus vagy nagyobb, hevesebb tűzvészeken, például máglyákon, égő házakon vagy sárkánytüzeken.
+Az Oltás azonnal elfojtja a lángokat és a szerény méretű és hőfokú kis tüzeket. Hasznos gyertyák, lámpások, fáklyák vagy kis főzőtüzek eloltására, de nem működik mágikus vagy nagyobb, vadabb tűzvészeken, mint például máglyák, égő házak vagy sárkánytűz.
 
-#### Keresés (X) (Find)
+#### Keresés (X)
 
 _Koncentráció, Távolsági, Ellenállás (Különleges)_
 
-A Keresésnek sok változata van; mindegyik különleges, és külön varázslatként kell megtanulni őket. Néhány gyakori példa az alábbiakban látható. Úgy működik, hogy ráhangolódik egy lény vagy tárgy természetes kisugárzására, figyelmeztetve a varázslót annak jelenlétére a varázslat hatótávolságán belül. A Keresést blokkolhatják sűrű vagy vastag anyagok, például fém, vagy legalább egy méter vastag föld és kő. A varázslat nem képes érzékelni az érzelmeket vagy gondolatokat.
+A Keresésnek sok változata van; mindegyik specifikus és külön varázslatként tanulható. Néhány gyakori példa alább olvasható. Úgy működik, hogy ráhangolódik egy lény vagy tárgy természetes kisugárzására, figyelmeztetve a varázslót annak jelenlétére a varázslat hatótávolságán belül. A Keresést blokkolhatják sűrű vagy vastag anyagok, például fém, vagy legalább egy méter vastag föld és kő. A varázslat nem képes érzelmeket vagy gondolatokat érzékelni.
 
-- *Nyílvessző Keresés*: Megtalálja a vadászok által kilőtt, célt tévesztett lőszereket.
-- *Hiba Keresés*: Azonosítja a tárgyakban lévő hibákat, például rejtett tökéletlenségeket vagy fizikai sérüléseket.
-- *Állat Keresés*: Megtalálja egy adott típusú állatot. Akaraterővel kivédhető.
-- *Zsákmány Keresés*: Megtalálja a nemesfémeket és drágaköveket.
-- *Tárgy Keresés*: Megtalálja az elveszett személyes vagyontárgyakat.
-- *Betegség Keresés*: Azonosítja a betegség vagy kór jelenlétét, legyen az mágikus vagy hétköznapi.
+- *Nyílkeresés*: Megtalálja a vadászok által kilőtt, célt tévesztett lőszereket.
+- *Hibakeresés*: Azonosítja a tárgyak hibáit, például rejtett tökéletlenségeket vagy fizikai sérüléseket.
+- *Állatkeresés*: Megtalálja egy bizonyos típusú állatot. Akaraterővel kivédhető.
+- *Zsákmánykeresés*: Megtalálja az értékes fémeket és drágaköveket.
+- *Tárgykeresés*: Megtalálja az elveszett személyes tulajdont.
+- *Betegségkeresés*: Azonosítja a betegség vagy kór jelenlétét, legyen az mágikus vagy hétköznapi.
 
-#### Tűznyíl (Firearrow)
-
-_Érintés_
-
-A Tűznyíl hatására a célpont által eldobott vagy kilőtt minden lövedék lángra lobban elengedéskor. Bár eredetileg jelzőfáklyaként hozták létre, mára harci mágiává fejlődött. Az effektek hatása alatt álló lövedékek további 1d3 sebzést okoznak, de elalszanak, ha húsba fúródnak. Azok, amelyek gyúlékony anyagba csapódnak, a varázsló Népi Mágia képzettségével megegyező eséllyel lángra lobbantják azt, amibe beágyazódnak, például fa pajzsokat, nádtetőket stb. A fából készült lőszerek a varázslat részeként elhasználódnak.
-
-#### Tűzpenge (Fireblade)
+#### Tűznyíl
 
 _Érintés_
 
-A Tűzpenge hasonló a Tűznyílhoz, de kézi eszközökre és közelharci fegyverekre mondják el. A varázslat eredeti célja a sebészeti eszközök sterilizálása, az irtásos földművelés segítése vagy világítás biztosítása sötétben anélkül, hogy további fényforrást kellene cipelni. Ha fegyverre mondják el, további 1d3 sebzést okoz, és esélye van gyúlékony anyagok lángra lobbantására, ha több körön át hozzájuk érintik (lásd Tűz a Játékrendszer Szakaszban). A Tűzpenge hatása alatt álló fa nyelű fegyverek a varázslat részeként elhasználódnak.
+A Tűznyíl hatására a befogadó által eldobott vagy kilőtt minden lövedék lángra lobban, amikor elengedik. Látszólag jelzőrakétaként való használatra hozták létre, azóta harci mágiává fejlődött. A hatása alatt álló lövedékek további 1d3 sebzést adnak, de elalszanak, ha húsba fúródnak. Azok, amelyek gyúlékony anyagba csapódnak, a varázsló Népi Mágia képzettségével megegyező eséllyel gyújtják meg azt, amibe beágyazódnak, például fa pajzsokat, nádtetőket és így tovább. A fa lövedékek a varázslat részeként elhamvadnak.
 
-#### Ragasztás (Glue)
+#### Tűzpenge
 
 _Érintés_
 
-A Ragasztás összeragaszt két szilárd, élettelen tárgyat a varázslat időtartamára, például egy szekérkereket a tengelyével vagy egy ajtót a keretével. A varázslat hatása alatt álló tárgyakat – bármennyire is különbözőek legyenek – nem lehet elválasztani, hacsak valami aktívan meg nem próbálja őket szétszedni. Ebben az esetben a varázslatnak a varázsló POW értékének ötszörösével egyenlő Brawn (Testi erő) képzettsége van, és akkor vall kudarcot, ha nagyobb Brawn kerül vele szembe egy Szembenálló Dobásban. Amint a varázslat véget ér vagy kudarcot vall, a tárgyak teljesen sértetlenül válnak el egymástól.
+A Tűzpenge hasonló a Tűznyílhoz, de kéziszerszámokra és közelharci fegyverekre alkalmazzák. A varázslat eredeti célja a sebészeti eszközök sterilizálása, az irtásos-égetéses mezőgazdaság segítése vagy fény biztosítása sötétben, anélkül, hogy további fényforrást kellene cipelni. Ha fegyverre alkalmazzák, további 1d3 sebzést okoz, és fennáll a lehetősége a gyúlékony anyagok meggyújtásának, ha több körön át hozzájuk tartják (lásd a Tűz a Játékrendszer szakaszban). A Tűzpenge hatása alatt álló fa nyelű fegyverek a varázslat részeként elhamvadnak.
 
-#### Gyógyítás (Heal)
+#### Ragasztás
+
+_Érintés_
+
+A Ragasztás két szilárd, élettelen tárgyat cementál össze a varázslat időtartamára, például egy szekérkereket a tengelyéhez vagy egy ajtót a keretéhez. A varázslat hatása alatt a tárgyak, bármennyire is különbözők, nem választhatók szét, hacsak valami aktívan nem próbálja őket szétszedni. Ebben a körülményben a varázslat a varázsló HAT értékének ötszörösével egyenlő Erő képzettséggel bír, és kudarcot vall, ha magasabb Erővel szállnak szembe vele egy Ellentétes Dobásban. Amint a varázslat befejeződik vagy kudarcot vall, a tárgyak teljesen sértetlenül válnak el egymástól.
+
+#### Gyógyítás
 
 _Azonnali, Érintés_
 
-A Gyógyításnak többféle hatása van, a panasz természetétől függően. Ha az alany kisebb panaszban szenved, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök stb., akkor a tünetek azonnal megszűnnek. Kisebb Seben szenvedő helyszínre mondva azonnal helyreállítja az összes elvesztett Életpontot. Súlyos vagy Jelentős Sebek ellen nem állít helyre Életpontot. A varázslat azonban stabilizálja a helyszíneket, leállítja a vérzést és megakadályozza a gondatlanságból bekövetkező halált.
+A Gyógyításnak több különböző hatása van, attól függően, milyen betegségre használják. Ha az alany kisebb panaszban szenved, mint például fejfájás, hátfájás, másnaposság, megfázás, szemölcsök és így tovább, akkor a tünetek azonnal megszűnnek. Kisebb Sebbel szenvedő testrészre alkalmazva azonnal helyreállítja az összes elvesztett Életerőt. Súlyos vagy Jelentős Sebek ellen nem gyógyul Életerő. A varázslat azonban stabilizálja a testrészeket, megállítja a vérzést és megelőzi a figyelmetlenségből bekövetkező halált.
 
-#### Gyújtás (Ignite)
+#### Gyújtás
 
 _Azonnali, Távolsági_
 
-A Gyújtás csak gyúlékony szervetlen anyagon működik, aminek hatására egy kis tárgy vagy kézméretű terület lángra lobban. Attól függően, hogy mit lobbantottak lángra, a tűz tovább terjedhet, hacsak valamilyen módon el nem oltják vagy el nem hárítják. Ezt a varázslatot általában gyertyák, fáklyák vagy lámpások távolról történő meggyújtására használják. Használható tábortűz vagy főzőtűz meggyújtására is kedvezőtlen körülmények között, például nedves gyújtóssal vagy erős szélben.
+A Gyújtás csak gyúlékony szervetlen anyagon működik, egy kis tárgyat vagy kézméretű területet lángra lobbantva. Attól függően, mit gyújtottak meg, az égést követően a lángok továbbterjedhetnek, hacsak el nem oltják vagy valamilyen módon nem hatástalanítják. Ezt a varázslatot általában gyertyák, fáklyák vagy lámpások távolról történő meggyújtására használják. Használható tábortűz vagy főzőtűz meggyújtására is kedvezőtlen körülmények között, például nedves gyújtós használatakor vagy erős szélben.
 
-#### Nyitás (Knock)
+#### Nyitás
 
 _Azonnali, Érintés_
 
-A Nyitás mágikusan kinyit bármilyen eszközt, amely jelenleg mechanikus zárral vagy retesszel van biztosítva. Nem működik mágikusan zárt tárgyakon, csak a hétköznapiakon. A varázslat csak egyetlen rögzítést érint, tehát ha több zár és retesz biztosítja a tárgyat, a varázslatot mindegyikre újra el kell mondani.
+A Nyitás varázslat mágikusan kinyit bármilyen eszközt, amelyet jelenleg mechanikus retesz vagy zár rögzít. Mágikusan zárt tárgyakon nem működik, csak a hétköznapiakon. A varázslat csak egyetlen rögzítést érint, tehát ha több zár és retesz rögzíti a tárgyat, a varázslatot mindegyikre újra el kell mondani.
 
-#### Fény (Light)
-
-_Koncentráció, Távolsági_
-
-A Fényt élettelen tárgyra kell mondani (lehet ez ág, kardpenge, lándzsahegy, fáklya stb.). Elég fényt ad ahhoz, hogy úgy világítsa meg a területet, mintha lámpás lenne ott. Közvetlenül a Sötétség varázslat ellen is elmondható az ellensúlyozására. Ebben az esetben mindkét varázslat megszűnik, és a környezeti fény világítja meg a területet.
-
-#### Zárás (Lock)
-
-_Különleges Időtartam, Érintés_
-
-A Zárás mágikusan biztosít bármilyen eszközt, amelyen már van mechanikus retesz vagy zár. A Lezárt eszköz csak a varázsló által nyitható ki, és nem törhető fel hétköznapi eszközökkel (például egy tolvaj által, zártörővel), mivel a mágia mozdulatlanná teszi a mechanizmust; azonban továbbra is erőszakkal kinyitható, ha összetörik a tárgyat, amelybe a zárat helyezték. A mágia érvényben marad, amíg a varázsló ki nem nyitja, ezt követően az eszközt újra el kell látni a Zárás varázslattal az elvarázsolás helyreállításához. A Zárás elmondására használt Mágia Pont nem töltődik vissza, amíg a varázslat meg nem szűnik vagy természetes úton be nem fejeződik.
-
-#### Fantazma (Phantasm)
+#### Fény
 
 _Koncentráció, Távolsági_
 
-A Fantazma lehetővé teszi a varázsló számára, hogy összeszőjön testetlen vagy közel súlytalan tárgyakat úgy, hogy azok alakot vagy kísérteties formát öltsenek. Így egy spektrális alak szőhető természetes ködből, vagy arc formálható egy halom lehullott levélből. Ezen túlmenően a varázslatnak kevés hatása van, kivéve, hogy megijeszti, kíváncsivá teszi vagy zavarba ejti azokat, akik látják.
+A Fényt élettelen tárgyra kell alkalmazni (lehet ez ág, kardpenge, lándzsahegy, fáklya és így tovább). Elegendő fényt bocsát ki ahhoz, hogy úgy világítsa meg a területet, mintha lámpást használna. Közvetlenül Sötétség varázslat ellen is alkalmazható annak ellensúlyozására. Ebben az esetben mindkét varázslat elenyészik, hagyva, hogy a környezeti fény világítsa meg a területet.
 
-#### Alvás (Sleep)
+#### Zárás
 
-_Ellenállás (Kitartás), Érintés_
+_Különleges időtartam, Érintés_
 
-Az Alvás mély, békés álomba küldi a célpontot. Nincs hatással a varázsló POW értékénél nagyobb SIZ (Méret) értékű lényekre. Hacsak a célpont nem áll ellen, a varázsló POW értékének felével megegyező óraszámig alszik. A varázslatnak azonban 1d3 Körre van szüksége, mire hatni kezd, és a célpont eszméletét veszti. Bármely kísérlet a varázslat elmondására harci helyzetben automatikusan kudarcot vall.
+A Zárás mágikusan rögzít minden olyan eszközt, amely már rendelkezik mechanikus retesszel vagy zárral. A Bezárt eszköz csak a varázsló által nyitható ki, és nem törhető fel hétköznapi módszerekkel (például egy tolvaj által, zárfeltörő eszközökkel), mivel a mágia mozdulatlanná teszi a mechanizmust; azonban továbbra is erőszakkal kinyitható, ha eltörik a tárgy, amelybe a zár be van építve. A mágia addig marad érvényben, amíg a varázsló ki nem nyitja, ami után az eszközre a Zárás varázslat újbóli alkalmazása szükséges a bűbáj helyreállításához. A Zárás elmondásához használt Mágia Pont nem töltődik vissza, amíg a varázslatot meg nem szüntetik, vagy az természetes módon véget nem ér.
 
-#### Életerő (Vigor)
+#### Fantazma
+
+_Koncentráció, Távolsági_
+
+A Fantazma lehetővé teszi a varázsló számára, hogy összeszőjön testetlen vagy közel súlytalan tárgyakat, így azok alakot vagy kísérteties formát öltenek. Így egy kísérteties alak szőhető természetes ködből, vagy arc formálható lehullott levelekből. Ezen túlmenően a varázslatnak kevés hatása van, azon kívül, hogy megrémítse, megérdekesítse vagy zavarba ejtse azokat, akik látják.
+
+#### Alvás
+
+_Ellenállás (Állóképesség), Érintés_
+
+Az Alvás mély, békés álomba küldi a befogadóját. Nincs hatással azokra a lényekre, amelyek MÉR értéke nagyobb a varázsló HAT értékénél. Hacsak a célpont nem áll ellen, a varázsló HAT értékének felével egyenlő órákig szendereg. A varázslatnak azonban 1d3 Körre van szüksége, amíg kifejti hatását, mielőtt a célpont eszméletét veszti. Bármilyen kísérlet a varázslat harci helyzetben történő alkalmazására automatikusan kudarcot vall.
+
+#### Életerő
 
 _Érintés_
 
-Az Életerő élettel telivé és energikussá teszi a célpontot, a megerőltető fizikai munka hatásainak ellensúlyozására használják. A varázslat időtartama alatt a megerőltető tevékenységből eredő összes Fáradtság hatás figyelmen kívül marad (de a varázslat megszűnésekor visszatér).
+Az Életerő a befogadó számára élénk és energikus érzést biztosít, amelyet a megerőltető fizikai munka hatásainak ellensúlyozására használnak. A varázslat időtartama alatt minden, a fárasztó tevékenységből származó Fáradtság hatás figyelmen kívül marad (de visszatér a varázslat megszűnésekor).
 
-#### Boszorkánylátás (Witchsight)
+#### Boszorkánylátás
 
 _Távolsági, Ellenállás (Akaraterő)_
 
-A Boszorkánylátás lehetővé teszi a varázsló számára, hogy lássa az aktív mágiát, az elvarázsolt tárgyakat és a láthatatlan entitásokat (bár ezek csak árnyékos reprezentációk), amelyek a hatótávolságon és a látómezőn belül vannak. Képes áthatolni az illúziókon vagy felismerni az alakváltó lények valódi álcáját. Azoknak a lényeknek, amelyek rejtve vagy álruhában akarnak maradni, meg kell nyerniük az Akaraterő Szembenálló Dobását a varázslat dobásával szemben.
+A Boszorkánylátás lehetővé teszi a varázsló számára, hogy lássa az aktív mágiát, a bűbájos tárgyakat és a láthatatlan entitásokat (bár ezek a dolgok csak árnyékos ábrázolások), amelyek a hatótávolságon és a látómezőn belül vannak. Képes áthatolni az illúziókon vagy felismerni az alakváltó lények valódi kilétét. Azoknak a lényeknek, amelyek rejtve vagy álcázva szeretnének maradni, meg kell nyerniük az Akaraterőjük és a varázslás dobása közötti Ellentétes Dobást.
 
 ---
-## Szuperképességek
+## Szupererők
 
-Az itt szereplő szuperképességek olyan alap képességet biztosítanak, amely vagy mindig aktív, vagy tetszés szerint aktiválható. Az alap képességekhez tartozhatnak különleges trükkök, ún. Felerősítések (Boosts), amelyek aktiválásához Erőpontokat kell elhasználni. Az a karakter, akinek 0 Erőpontja van, nem használhat Felerősítéseket vagy olyan alap képességeket, amelyeknek költsége van, amíg az Erőpontok vissza nem töltődnek.
+Az itt szereplő szupererők olyan alap erőt biztosítanak, amely vagy folyamatosan aktív, vagy tetszés szerint aktiválható. Az alap erőknek lehetnek különleges mutatványaik, úgynevezett Felerősítéseik, amelyek aktiválásához Erő Pontok elköltése szükséges. Az a karakter, aki eléri a 0 Erő Pontot, nem használhat Felerősítéseket vagy olyan alap erőket, amelyek költséggel járnak, amíg az Erő Pontok vissza nem nyerődnek.
 
-A Korlátozások (Limits) olyan opcionális hátrányok, amelyeket karakterekre, alap képességekre vagy Felerősítésekre lehet alkalmazni. Minden Korlátozás részletezi, milyen körülmények között alkalmazható, és a Játékmesternek jóvá kell hagynia minden választott Korlátozást.
+A Korlátozások opcionális hátrányok, amelyek karakterekre, alap erőkre vagy Felerősítésekre helyezhetők. Minden Korlátozás részletezi azokat a körülményeket, amelyek között alkalmazandó, és a Játékmesternek jóvá kell hagynia minden választott Korlátozást.
 
-A karakter legfeljebb két Korlátozást választhat az alábbi listából, ahol az egyik egy bónusz Felerősítést, a kettő pedig egy bónusz alap képességet biztosít.
+A karakter választhat legfeljebb két Korlátozást az alábbi listából; az egyik egy bónusz Felerősítést, vagy kettő egy bónusz alap erőt biztosít.
 
 
 ---
-## Képesség Leírások
+## Erők leírása#### Animáció
 
-#### Animáció (Animation)
+Animálj 2 köbméternyi élettelen anyagot a HAT méterben megadott értékén belül, hogy létrehozz egy konstrukciót, általában humanoid formában. Az Erőpont-költség megegyezik a felhasznált anyag legmagasabb páncélértékével, amely egyben a konstrukció alap páncélértéke is. A konstrukciók alap ERŐ-je 2d6+16 (23), MÉR-je 1d6+12 (15) és ÜGY-e 1d6+8 (11), az Életerőpontokat pedig a szokásos módon kell meghatározni. A karakternek akciókat kell használnia a konstrukció irányításához, és az a karakter képzettségeit használja minden dobáshoz. Ha a konstrukció Súlyos Sebet kap a mellkasán vagy a hasán, hajts végre egy szembeállított Állóképesség-próbát a támadódobás ellen. Sikertelenség esetén a konstrukció azonnal összeomlik. Példa Páncélértékekre / Erőpont-költségre:
 
-Élesztsen fel 2 köbméter élettelen anyagot a POW méteren belüli hatótávolságon belül egy konstrukció létrehozásához, általában humanoid formában. Az Erőpont költség megegyezik a legmagasabb értékű felhasznált anyag páncélértékével, amely egyben a konstrukció alap páncélértéke is. A konstrukciók alap STR 2d6+16 (23), SIZ 1d6+12 (15) és DEX 1d6+8 (11) értékkel rendelkeznek, az Életpontokat a szokásos módon határozzák meg. A karakternek akciókat kell felhasználnia a konstrukció irányítására, és az a karakter képzettségeit használja minden dobáshoz. Ha a konstrukció Súlyos Sebet kap a mellkasán vagy a hasán, tegyen szembeszálló Kitartás próbát a támadó dobás ellen. Ha sikertelen, a konstrukció azonnal összeomlik. Példa Páncélértékek/ Erőpont Költség:
-
-| Páncélértékek       | Erőpont Költség |
+| Páncélértékek          | Erőpont-költség |
 |:--|:-:|
-| Műanyag vagy Puha fa | 2                |
+| Műanyag vagy Puha fa  | 2                |
 | Beton vagy Kemény fa | 4                |
-| Puha fém vagy Kő     | 6                |
-| Kemény fém           | 8                |
+| Puha fém vagy Kő   | 6                |
+| Kemény fém            | 8                |
 
-**Felerősítés:** Költsön 2 Erőpontot a konstrukció azonnali mozgatására egy másik, azonos anyagú forráshoz a POW méteren belüli távolságon belül.
+**Erősítés:** Költse 2 Erőpontot, hogy a konstrukciót azonnal áthelyezze az ugyanabból az anyagból álló másik forráshoz, a HAT méterben megadott értékén belül.
 
-#### Harci Szakértő (Combat Expert)
+#### Harci szakértő
 
-Válasszon egy harci szakértelmet az alábbi listából, plusz egyet minden elköltött Felerősítésért.
+Válassz egy harci szakértelmet az alábbi listából, plusz egyet minden elköltött erősítésért.
 
-- A közelharci szakértelem egy bónusz Akciópontot ad, amely csak védekezésre használható, és a hatékony fegyverméret egy fokkal nő a támadásoknál és hárításoknál.
-- A távolsági szakértelem két fokkal csökkenti a helyzeti módosítókat a célzásnál, és a távolsági fegyverek újratöltési ideje eggyel csökken.
+- A közelharci szakértelem egy bónusz Akciópontot biztosít, amely csak védekezésre használható, és a hatékony fegyverméret egy fokozattal nő a támadásoknál és hárításoknál.
+- A távolsági szakértelem két fokozattal csökkenti a szituációs módosítókat egy helyett célzáskor, és a távolsági fegyverek újratöltési ideje eggyel csökken.
 
-Felerősítés: Költsön 2 Erőpontot egy extra Akciópont szerzéséhez, amely csak Támadásra vagy Fegyver Készítésére használható.
+Erősítés: Költse 2 Erőpontot egy extra Akciópont megszerzéséhez, amely csak Támadásra vagy Fegyver Készítésére használható.
 
-#### Tartósság (Durability)
+#### Tartósság
 
-Az Életpontokat a CON+SIZ+POW képlettel számítják ki, a Gyógyulási rátát pedig CON+ a POW fele értékkel, felfelé kerekítve.
+Az életerőpontok kiszámítása ÁLL+MÉR+HAT, a Gyógyulási ráta kiszámítása pedig ÁLL+fél HAT, felfelé kerekítve.
 
-**Felerősítés:** Költsön 2 Erőpontot szabad akcióként a Gyógyulási ráta visszaállításához elveszett Életpontokban vagy egy elveszett Fáradtsági szintben.
+**Erősítés:** Költse 2 Erőpontot szabad akcióként, hogy visszanyerje a Gyógyulási rátának megfelelő elvesztett Életerőpontot vagy egy elvesztett Fáradtság szintet.
 
-#### Elemirányítás (Elemental Control)
+#### Elemi irányítás
 
-Válasszon egy adott anyagot vagy energiatípust. Használjon egy akciót az elem akár POW fele köbméternyi mennyiségének irányítására a POW méteren belül. Megváltoztathatja az alapformát vagy bonyolult alakzatokat hozhat létre egy sikeres Kézművesség (adott elem) próbával. Létrehozáskor válasszon közelharci támadást vagy távolsági támadást. A közelharci támadás hatótávolsága Nagyon Hosszú, a távolsági támadás hatótávolsága pedig 8/24/100, majd válasszon két Harci Hatást. A sebzést és az erőt/méretet a POW határozza meg: 8 vagy kevesebb: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Válassz egy adott anyagot vagy energiafajtát. Költse egy akciót, hogy irányítsa az elem akár felét HAT köbméterben, bárhol a HAT méteren belül. Megváltoztathatja az alapformát vagy összetett alakzatokat hozhat létre egy sikeres Kézművesség (adott elem) próbával. Létrehozáskor válasszon közelharci vagy távolsági támadást. A közelharci támadás hatótávolsága Nagyon Hosszú, a távolsági támadásé pedig 8/24/100, majd válasszon két Harci Hatást. A sebzést és az erőt/méretet a HAT határozza meg: 8 vagy kevesebb: 1d4/K, 9-12: 1d6/K, 13-15: 1d8/K, 16-18: 1d10/K, 19+: 1d12/N.
 
-**Felerősítés:** Költsön 3 Erőpontot, hogy a karaktert az elemmel burkolja a jelenet idejére. A szilárd anyagok páncélértéke POW ötödével egyenlő, felfelé kerekítve. Ha energia, a fegyvertelen támadások extra sebzést okoznak, amely megegyezik a képesség alapsebzésével, és a karakter elleni fegyvertelen támadások ugyanezt a sebzést okozzák a használt végtagon.
+**Erősítés:** Költse 3 Erőpontot, hogy az elemmel burkolja be a karaktert az adott jelenet erejéig. A szilárd anyagok páncélértéke a HAT egyötödével nő, felfelé kerekítve. Ha energia, a puszta kezes támadások extra sebzést okoznak, amely megegyezik az erő alapsebzésével, és a karakter elleni puszta kezes támadások ugyanazt a sebzést okozzák a használt végtagra.
 
-#### Energiarobbanás (Energy Blast)
+#### Energiaimpulzus
 
-Lőjön ki egy adott típusú energia lövedéket 10/30/120 hatótávolságig, és válasszon két Harci Hatást a létrehozás pillanatában. A sebzést és az erőt a karakter POW értéke határozza meg: 8 vagy kevesebb: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. A találathoz a karakter vagy a képességnek megfelelő Harci Stílusra dob, vagy Fegyvertelen harcot használ.
+Lőj ki egy adott típusú energiát 10/30/120 hatótávolságra, és válassz két Harci Hatást, amelyet a létrehozás pillanatában alkalmazol. A sebzést és az erőt a karakter HAT-ja határozza meg: 8 vagy kevesebb: 1d6/K, 9-12: 1d8/K, 13-15: 1d10/K, 16-18: 1d12/N, 19+: 2d6/N. A találathoz a karakter az erőnek megfelelő Harci Stílusra dob, vagy Puszta kezet használ.
 
-**Felerősítés:** Költsön 2 Erőpontot és egy akciót +1d6 sebzés okozásához a következő energiarobbanás támadásnál.
+**Erősítés:** Költse 2 Erőpontot és egy akciót, hogy +1d6 sebzést okozzon a következő energiaimpulzus támadással.
 
-#### Fokozott Reakciók (Enhanced Reactions)
+#### Fokozott reakciók
 
-Szerezzen bónuszt a kezdeményezés dobásokhoz az Atlétika képzettség kritikus tartományával egyenlő mértékben, és soha ne kerüljön földre Kitérés használata után.
+Szerezz bónuszt a kezdeményezés-dobásokhoz, amely megegyezik az Atlétika képzettség kritikus tartományával, és soha ne kerülj hasra az Kitérés használata után.
 
-**Felerősítés:** Költsön 1 Erőpontot a következő Atlétika vagy Akrobatika próba egy fokkal könnyebbé tételéhez.
+**Erősítés:** Költse 1 Erőpontot, hogy a következő Atlétika vagy Akrobatika próbát egy nehézségi fokozattal könnyebbé tedd.
 
-#### Fokozott Sebesség (Enhanced Speed)
+#### Fokozott sebesség
 
-Növelje az alapmozgást a DEX+POW alapú szorzóval. A maximális sebesség harcon kívül a módosított mozgás tízszerese kilométerben óránként.
+Növeld az alapmozgást egy ÜGY+HAT alapú szorzóval. A harcon kívüli maximális sebesség a módosított mozgás tízszerese kilométerben óránként.
 
-DEX+POW: 12 vagy kevesebb: x2, 13-24: x3, 25-36: x4, 37+: x5.
+ÜGY+HAT: 12 vagy kevesebb: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Felerősítés:** Költsön 2 Erőpontot egy extra Akciópont szerzéséhez, amely csak Távolságváltásra, Mozgásra vagy Kijátszásra (Outmaneuver) használható.
+**Erősítés:** Költse 2 Erőpontot egy extra Akciópont megszerzéséhez, amely csak Távolság Módosítására, Mozgásra vagy Kijátszásra használható.
 
-#### Fokozott Erő (Enhanced Strength)
+#### Fokozott erő
 
-A sebzési bónuszt STR+SIZ+POW értékkel számítják, a maximális emelést pedig a karakter STR+POW értéke határozza meg: 12 vagy kevesebb: 1 tonna, 13-24: 2 tonna, 25-36: 3 tonna, 37+: 5 tonna. A fegyvertelen támadások nagy méretűnek számítanak, a közelharci és eldobott tárgyak mérete vagy ereje egy fokkal nő.
+A sebzésbónuszt az ERŐ+MÉR+HAT alapján kell kiszámítani, a maximális emelési kapacitást pedig az ERŐ+HAT határozza meg: 12 vagy kevesebb: 1 tonna, 13-24: 2 tonna, 25-36: 3 tonna, 37+: 5 tonna. A puszta kezes támadások nagy méretűnek számítanak, a közelharci és eldobott tárgyak mérete vagy ereje pedig eggyel nő.
 
-**Felerősítés:** Költsön 3 Erőpontot a maximális emelés megduplázásához egy akcióra vagy feladatra.
+**Erősítés:** Költse 3 Erőpontot, hogy egy akció vagy feladat erejéig megduplázza a maximális emelési kapacitást.
 
-#### Repülés (Flight)
+#### Repülés
 
-Szerezzen a POW értékével megegyező méteres repülési sebességet, a harcon kívüli maximális sebesség a mozgás tízszerese kilométerben óránként.
+Szerezz a HAT értékének megfelelő repülési sebességet méterben, a harcon kívüli maximális sebesség a mozgás tízszerese kilométerben óránként.
 
-**Felerősítés:** Költsön 3 Erőpontot egy légi Mozgás akció közben egy rohamtámadás kezdeményezésére a mozgás során.
+**Erősítés:** Költse 3 Erőpontot egy légi Mozgás akció közben, hogy rohamtámadást kezdeményezz a mozgás alatt.
 
-#### Magasított Érzékek (Heightened Sense)
+#### Élesített érzék
 
-Válasszon egy érzékszervet. Az ezzel az érzékkel kapcsolatos Észlelés próbák egy képzettségi fokkal könnyebbek.
+Válassz egy érzéket. Az ezzel az érzékkel végzett Észlelés-próbák egy képzettségi fokozattal könnyebbek.
 
-**Felerősítés:** Költsön 2 Erőpontot az alap képesség használatához egy másik érzékszerven.
+**Erősítés:** Költse 2 Erőpontot, hogy az alapvető erőt egy másik érzékre használd.
 
-#### Belső Páncél (Inherent armor)
+#### Veleszületett páncél
 
-Minden helyszínre CON harmadával egyenlő, felfelé kerekített páncélértéket biztosít. A karakterek dönthetnek úgy, hogy egy helyszín értékét legfeljebb két ponttal csökkentik, hogy hozzáadják egy másik helyszínhez; például a jobb karjuk értékének csökkentésével a fejükhöz adhatnak.
+Minden testrésznek ÁLL-értéke egyharmadával egyenlő páncélértéket biztosít, felfelé kerekítve. A karakterek dönthetnek úgy, hogy egy testrész értékét akár két ponttal csökkentik, hogy azt egy másik testrészhez adják; például a jobb kar értékének csökkentése a fej páncélzatának növeléséhez.
 
-**Felerősítés:** Amikor találat éri, minden elköltött 1 Erőpontért nyerjen egy extra páncélpontot ellene.
+**Erősítés:** Amikor támadás ér, minden elköltött 1 Erőpontért szerezz egy extra páncélpontot ellene.
 
-#### Élettámogatás (Life Support)
+#### Életfenntartás
 
-Szerezzen immunitást két környezeti feltételre vagy biológiai szükségletre.
+Szerezz immunitást két környezeti feltétellel vagy biológiai igénnyel szemben.
 
-**Felerősítés:** Szerezzen immunitást két további környezeti feltételre vagy szükségletre.
+**Erősítés:** Szerezz immunitást két további környezettel vagy igénnyel szemben.
 
-#### Szerencsés (Lucky)
+#### Szerencsés
 
-Számítsa ki az alap Szerencsepontokat CHA és POW felével, felfelé kerekítve.
+Számítsd ki az alap Szerencsepontokat a KAR és a HAT felének összegével, felfelé kerekítve.
 
-**Felerősítés:** Ha páros számot dob, költsön 3 Erőpontot egy ideiglenes Szerencsepont megszerzéséhez, amelyet a jelenet végéig fel kell használni.
+**Erősítés:** Amikor duplát dobsz, költs 3 Erőpontot, hogy szerezz egy ideiglenes Szerencsepontot, amelyet a jelenet végéig fel kell használni.
 
-#### Regeneráció (Regeneration)
+#### Regeneráció
 
-Regeneráljon egy Életpontot minden sérült helyszínen minden kör elején, ha a helyszín nem szenvedett Jelentős Sebet.
+Minden kör elején nyerj vissza egy Életerőpontot minden sérült testrészre, ha az adott testrész nem szenvedett Súlyos Sebet.
 
-**Felerősítés:** Lépjen gyógyító transzba, és költsön 1 Erőpontot óránként egy Jelentős Sebet szenvedett helyszín egy Életpontjának visszanyeréséhez.
+**Erősítés:** Lépj gyógyító transzba és költs óránként 1 Erőpontot, hogy visszanyerj egy Életerőpontot egy Súlyos Sebet szenvedett testrészre.
 
-#### Tudós (Savant)
+#### Tudós
 
-Válasszon három képzettséget, amelyeknek egy közös jellemzőjük van, és ezeknél a próbák egy fokkal könnyebbek.
+Válassz három képzettséget, amelyeknek egy közös jellemzője van; a velük végzett próbák egy fokozattal könnyebbek.
 
-**Felerősítés:** Olyan szakosodott képzettség használatakor, mint a Kézművesség vagy Tudomány, amely egyben Tudós képzettség is, költsön 3 Erőpontot egy olyan szakértelem megszerzéséhez, amellyel a karakter nem rendelkezik, egy feladatra, a Tudós képzettség szintjén.
+**Erősítés:** Amikor egy olyan speciális képzettséget használsz, mint a Kézművesség vagy a Tudomány, amely egyben Tudós képzettség is, költs 3 Erőpontot, hogy megszerezz egy olyan specializációt, amivel a karakter nem rendelkezik, egy feladat erejéig, a Tudós képzettség szintjén.
 
-#### Teleportálás (Teleport)
+#### Teleportálás
 
-Teleportáljon bármely látható pontra a POW méteren belül, mint mozgási akció.
+Teleportálj bármely látható pontra a HAT méterben megadott értékén belül, mozgás akcióként.
 
-**Felerősítés:** Költsön 2 Erőpontot a POW fele, felfelé kerekített méterre történő teleportáláshoz szabad akcióként.
+**Erősítés:** Költse 2 Erőpontot, hogy HAT feléig (felfelé kerekítve) teleportálj méterben, szabad akcióként.
 
-#### Párás Forma (Vaporous Form)
+#### Páraforma
 
-Akcióként változzon át párás vagy finom részecskékből álló felhővé, amely képtelen kapcsolatba lépni a fizikai világgal, de immunis a fizikai támadásokra. Szerezzen a POW harmadával egyenlő méteres repülési sebességet, és haladjon át bármekkora nyílásokon. Az energiaalapú támadások a karakter Erőpontjainak felét okozzák sebzésként. Ha 0 Erőpontra csökken, a karakter visszatér szilárd állapotba, és egy Nehéz Kitartás próbát kell tennie, különben 1d6+1 percre eszméletét veszti.
+Akcióként változz át pára- vagy finomszemcsés felhővé, amely képtelen kölcsönhatásba lépni a fizikai világgal, de immunis a fizikai támadásokra. Szerezz a HAT egyharmadának megfelelő repülési sebességet méterben, és haladj át bármilyen méretű nyíláson. Az alapú energia támadások a karakter Erőpontjainak felét sebzik. Ha 0 Erőpontra csökken, a karakter visszanyeri szilárd állapotát, és Nehéz Állóképesség-próbát kell tennie, különben 1d6+1 percre eszméletét veszti.
 
-**Felerősítés:** Költsön 3 Erőpontot egy találati helyszín megszilárdítására egy akció erejéig.
+**Erősítés:** Költse 3 Erőpontot, hogy egy akció erejéig megszilárdíts egy találati testrészt.
 
 ---
-## Korlátozások
+## Korlátok
 
-#### Aktiválási Költség
+#### Aktiválási költség
 
-A karakter 2 Erőpontot költ egy alap képesség aktiválására, vagy 2 Erőponttal növeli egy felerősítés költségét. Máskülönben egy folyamatos képesség fenntartása minden kör kezdetén 1 Erőpontba kerül.
+A karakter 2 Erőpontot költ egy alapvető erő aktiválására, vagy 2 Erőponttal növeli az erősítés költségét. Alternatívaként egy folyamatos erő fenntartása minden kör elején 1 Erőpontba kerül.
 
-#### Külső Erőforrás
+#### Külső energiaforrás
 
-A karakter képességeinek forrása egy műtárgy vagy eszköz. Ha kicsi vagy kézi, a forrás sebezhető olyan Különleges Hatásokkal szemben, mint a Fegyver Fegyvertelenítése vagy Fegyver Elvétele. Ha nagy, legalább egy perc szükséges a felvételéhez vagy aktiválásához, mielőtt a képességek használhatók lennének.
+A karakter erőinek forrása egy lelet vagy eszköz. Ha kicsi vagy kézben hordható, a forrás sebezhető olyan Különleges Hatásokkal szemben, mint a Fegyver Elvétele vagy Fegyver Megszerzése. Ha nagy, legalább egy perc szükséges a felvételéhez vagy aktiválásához, mielőtt az erők használhatók lennének.
 
-#### Végzetes Hiba
+#### Végzetes hiba
 
-A karakternek négyóránként anyagot kell fogyasztania vagy érintkeznie vele, különben Fáradtsági szintet szenved. Egy sikeres Kitartás próba ezt elháríthatja, de a próba nehézsége minden további négy óra után, amíg a követelmény nem teljesül, egy fokkal nő.
+A karakternek négyóránként el kell fogyasztania vagy érintkeznie kell egy anyaggal, különben egy Fáradtság szintet szenved. Egy sikeres Állóképesség-próba kiválthatja ezt, de a próba nehézsége minden további négy órával, amíg a követelmény nem teljesül, egy fokozattal nő.
 
-#### Korlátozott Irányítás
+#### Korlátozott irányítás
 
-A képességgel vagy felerősítéssel kapcsolatos cselekvéseknél a kritikus hiba tartománya 90-00-ra nő.
+Az erővel vagy erősítéssel kapcsolatos akcióknál a kritikus hiba tartománya 90-00-ra nő.
 
-#### Korlátozott Képesség
+#### Korlátozott erő
 
-A képesség vagy felerősítés csak meghatározott körülmények között működik, vagy valamilyen csökkentett hatással rendelkezik, amelyet a Játékmester határoz meg.
+Az erő vagy erősítés csak meghatározott körülmények között működik, vagy a Játékmester által meghatározott módon csökkentett hatással bír.
 
-#### Fizikai Korlátozottság
+#### Fizikai korlát
 
-A karakter tartós korlátozó állapottal rendelkezik, például vakság, egy helyszín maradandó Életpont-vesztése vagy csökkent mobilitás.
+A karakternek tartós korlátozó állapota van, mint például vakság, egy testrész tartós Életerőpont-vesztesége vagy csökkent mobilitás.
 
 #### Sebezhetőség
 
-A karakter dupla sebzést kap egy adott támadási formától. Alternatívaként a karakternek Nehéz Kitartás próbákat kell tennie minden körben, ha 5 méteren belül van egy adott anyagtól, különben Fáradtsági szintet szenved.
+A karakter dupla sebzést szenved egy adott támadási formától. Alternatívaként a karakternek minden körben Nehéz Állóképesség-próbát kell tennie, ha 5 méteren belül van egy adott anyagtól, különben egy Fáradtság szintet szenved.

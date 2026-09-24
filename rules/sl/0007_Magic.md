@@ -1,86 +1,91 @@
 # Magija in moči
 
-Mojstri igre, ki želijo v svoje igre vključiti magijo in/ali nadnaravne moči, bodo v tem poglavju našli nekaj osnovnih pravil za to. Vedno je najbolje zagotoviti, da so vsi vpleteni v igro zadovoljni z vključitvijo magije ali nadnaravnih moči, in vedno je treba razmisliti o vrsti igre, ki bi jo to lahko ustvarilo.
+Mojstri iger (Games Masters), ki želijo v svoje igre vključiti magijo in/ali supermoči, bodo v tem razdelku našli nekaj osnovnih pravil za to. Vedno je najbolje zagotoviti, da so vsi udeleženi v igri zadovoljni z vključitvijo magije ali supermoči, in vedno razmisliti o vrsti igre, ki jo lahko to ustvari.
 
 ---
 ## Kako delujejo moči
 
-Izrekanje uroka ali uporaba nadnaravne moči običajno zahteva porabo neke oblike energije, črpane iz skladišča točk. Velikost tega skladišča je enaka značilnosti ZM (POW) lika, in v primeru čarovnikov je to skladišče znano kot magične točke; za superjunake pa kot točke moči. Uporaba magije ali moči stane določeno število točk, ki se odštejejo od tega skladišča, in ko je skladišče prazno, ni mogoče več izrekati urokov ali uporabljati moči, dokler se ne obnovi.
+Urok ali uporaba supermoči običajno zahteva porabo določene oblike energije, črpane iz zaloge točk. Velikost te zaloge je enaka značilnosti ENE lika; pri magih se ta zaloga imenuje Magične točke, pri superjunakih pa Močnostne točke. Uporaba magije ali moči stane določeno število točk, ki se odštejejo od te zaloge. Ko je zaloga prazna, magije ni več mogoče uporabiti, dokler se ne obnovi.
 
-Magija se obnavlja s številom točk, enakim stopnji zdravljenja (Healing Rate) lika na uro, dokler ne doseže ravni, enake značilnosti ZM (POW) lika. To predpostavlja, da si lik lahko popolnoma spočije, ne sodeluje pri nobenih drugih dejavnostih in si ne opomore od utrujenosti ali poškodb. V tem primeru lahko Mojster igre podaljša čas, potreben za obnovo magičnih/točk moči, ali zmanjša stopnjo zdravljenja.
+Magija se obnavlja s številom točk, enakim stopnji celjenja (Healing Rate) lika na uro, dokler ne doseže ravni, enake značilnosti ENE lika. To predpostavlja, da lahko lik v celoti počiva, ne sodeluje v drugih dejavnostih in ne okreva po utrujenosti ali poškodbi. Če temu ni tako, lahko Mojster igre podaljša čas, potreben za obnovo magičnih/močnostnih točk, ali zmanjša stopnjo celjenja.
 
-Za nadnaravne moči se točke moči obnavljajo s hitrostjo ene na polno minuto počitka, vendar lahko liki tudi porabijo točko sreče (Luck Point), da takoj povrnejo 1k4+1 izgubljene točke moči do svojega maksimuma.
+Pri supermočeh se Močnostne točke obnovijo s hitrostjo ena na polno minuto počitka, vendar lahko liki porabijo tudi točko sreče (Luck Point), da takoj povrnejo 1d4+1 izgubljenih Močnostnih točk do svojega maksimuma.
 
 #### Izrekanje urokov
 
-Uroki se izrekajo z veščino Magija (Magic); brez nje magija preprosto ni mogoča. Priprava in izrekanje uroka zahtevata eno dejanje (Action) in uspešen met Magije. Če met ne uspe, urok ne deluje in ga je treba pripraviti in poskusiti znova pozneje. Če met uspe, urok deluje in magične točke se odštejejo iz skladišča magičnih točk.
+Uroki se izrekajo z uporabo veščine Magija; brez nje magija preprosto ni mogoča. Priprava in izrek uroka zahtevata eno dejanje in uspešen met za Magijo. Če met ne uspe, urok ne deluje in ga je treba pripraviti ter poskusiti znova pozneje. Če met uspe, urok deluje in Magične točke se odštejejo od zaloge Magičnih točk.
 
-#### Uporaba nadnaravnih moči
+#### Uporaba supermoči
 
-Superjunaški liki ugotovijo, da njihova nadnaravna moč vedno deluje, zato za uporabo ni potreben met ali poraba točk moči; če pa poskušajo _Okrepiti_ (Boost) moč, potem obstajajo stroški točk moči.
+Superjunaški liki ugotovijo, da njihova supermoč vedno deluje, zato za uporabo ali porabo Močnostnih točk ni potreben met; vendar če poskušate okrepiti (Boost) moč, obstaja strošek v Močnostnih točkah.
 
 ---
 ## Začetne moči in učenje novih
 
-#### Čarovniki
+#### Magi
 
-Čarovniki začnejo z 1k4+1 uroki, vsi pa se izrekajo z veščino Magija. Igralec in Mojster igre naj se posvetujeta, kateri uroki so na voljo in kako jih je lik pridobil. Na primer, lik je bil morda učenec lokalnega čarovnika ali pa se je naučil magije pri svoji materi.
+Magi začnejo z 1d4+1 uroki, ki se vsi izrekajo z uporabo veščine Magija. Igralec in Mojster igre se morata posvetovati o tem, kateri uroki so na voljo in kako je lik prišel do njih. Lik je bil lahko na primer vajenec lokalnega maga ali pa se je magije naučil od svoje matere.
 
-Učiti se je mogoče več urokov, vendar učenje novega uroka stane 3 izkustvene mete (Experience Rolls) in traja teden dni namenskega učenja in vaje. Nove uroke je treba naučiti od učitelja ali zanesljivega vira (kot je zvitek ali grimoar, namenjen učenju novega uroka).
+Več urokov se je mogoče naučiti, vendar učenje novega uroka stane 3 izkustvene mete (Experience Rolls) in zahteva teden dni predanega študija in vaje. Nove uroke se je treba naučiti od učitelja ali zanesljivega vira (kot je zvitek ali grimoar, zasnovan za poučevanje novega uroka).
 
 #### Superjunaki
 
-Za superjunake naj se Mojster igre in igralec odločita, kako je lik pridobil svoje moči in kaj je vir moči (na primer, to je lahko posebna bojna obleka, sposobnosti, pridobljene z izpostavljenostjo kozmičnim žarkom, ali genetska mutacija).
+Pri superjunakih se morata Mojster igre in igralec odločiti, kako je lik prišel do svojih moči in kakšen je vir te moči (na primer to je lahko komplet posebnega oklepa, sposobnosti, pridobljene z izpostavljenostjo kozmičnim žarkom, ali genetska mutacija).
 
-Superjunaki začnejo z določenim številom osnovnih moči, določenih z ZM (POW) plus drugo značilnostjo, ki temelji na viru moči: ŽIL (CON) za spremenjeno fiziologijo (mutacija, tuja vrsta, eksperimentiranje) ali INT za tehnologijo ali moči, ki temeljijo na spretnostih (kibernetika, bojne obleke, intenzivno usposabljanje itd.). Glejte spodnjo tabelo.
+Superjunaki začnejo s številom osnovnih moči, določenim z ENE plus drugo značilnostjo, ki temelji na viru moči: VZD za spremenjeno fiziologijo (mutacija, nezemeljske vrste, eksperimentiranje) ali INT za tehnologijo ali moči, ki temeljijo na veščinah (kibernetika, bojne obleke, intenzivno usposabljanje itd.). Glej spodnjo tabelo.
 
-Osnovno moč je mogoče zamenjati za dve _Ojačitvi_ (Boosts), ki ju je mogoče uporabiti za katero koli osnovno moč. Lik lahko vzame tudi do dve Omejitvi (Limits) s seznama, ki se začne v razdelku Nadnaravne moči, pri čemer ena zagotavlja bonus _Ojačitev_, ali dve dodeljujeta bonus osnovno moč. Izbor moči in primerov _Ojačitev_ je naveden v razdelku [Nadnaravne moči](0007_Magic.md?id=superpowers).
+Osnovno moč je mogoče zamenjati za dve krepitvi (Boosts), ki ju lahko uporabite za katero koli osnovno moč. Lik lahko vzame tudi do dve omejitvi (Limits) s seznama, ki se začne v razdelku Supermoči, pri čemer ena zagotavlja bonus krepitev, dve pa bonus osnovno moč. Izbor moči in primeri krepitev so navedeni v razdelku [Supermoči](0007_Magic.md?id=superpowers).
 
-##### Tabela Nadnaravnih Moči
 
-| ZM+(ŽIL ali INT) | Osnovne moči |
-|:----------------:|:------------:|
-| 1-12             | 1            |
-| 13-20            | 2            |
-| 21-30            | 3            |
-| 31-40            | 4            |
-| 40+              | 5            |
+##### Tabela supermoči
+
+
+| ENE+(VZD ali INT) | Osnovne moči |
+|:-:|:-:|
+| 1-12 | 1 |
+| 13-20 | 2 |
+| 21-30 | 3 |
+| 31-40 | 4 |
+| 40+ | 5 |
+
 
 ---
 ## Magija
 
-Kadarkoli želi lik uporabiti urok, vrže met proti svoji veščini Magija. Izrekanje traja en sam krog, vendar število porabljenih magičnih točk in uspeh uroka sta odvisna od rezultata meta.
+Kadarkoli želi lik uporabiti urok, izvede met proti svoji veščini Magija. Izrekanje traja en obrat, vendar količina porabljenih Magičnih točk in uspeh uroka sta odvisna od rezultata meta.
 
-Če je met Magije...
+Če je met za Magijo...
 
-- **Kritični uspeh:** strošek magičnih točk uroka je nič.
-- **Uspeh:** čarovnik izgubi 1 magično točko in urok deluje.
-- **Neuspeh:** čarovnik izgubi 1 magično točko, vendar urok ne deluje.
-- **Nerodnost:** čarovnik izgubi 1k3 magične točke za urok in urok ne uspe.
+- **Kritični uspeh:** strošek Magičnih točk za urok je nič.
+- **Uspeh:** izrekalec izgubi 1 Magično točko in urok deluje.
+- **Neuspeh:** izrekalec izgubi 1 Magično točko, vendar urok ne deluje.
+- **Ponesrečen met:** izrekalec izgubi 1d3 Magičnih točk za urok in urok odpove.
 
-Zaradi svoje minorne ali nepomembne narave imajo vsi magični uroki privzeto Intenzivnost in Magnitudo 1.
+Zaradi njihove manjše ali malenkostne narave imajo vsi čarobni uroki privzeto intenzivnost in magnitudo 1.
 
-#### Omejitve magične sposobnosti
 
-Liki nimajo dejanske omejitve glede števila magičnih urokov, ki se jih lahko naučijo, pod pogojem, da jim Mojster igre dovoli dostop do novih.
+#### Omejitve magične zmogljivosti
+
+Liki nimajo dejanske omejitve glede števila magičnih urokov, ki se jih lahko naučijo, pod pogojem, da jim Mojster igre omogoči dostop do novih.
 
 #### Uroki
 
-Uroki so določeni z različnimi lastnostmi, ki opredeljujejo učinke uroka in morebitne posebne omejitve. Vsak urok je drugačen, nekateri imajo manj lastnosti kot drugi.
+Uroki so opredeljeni z različnimi lastnostmi, ki določajo učinke uroka in morebitne posebne omejitve. Vsak urok je drugačen, nekateri imajo manj lastnosti kot drugi.
 
 #### Trajanje urokov
 
-Razen če ima urok lastnost Koncentracija (Concentration) ali Trenutno (Instant), ima naravno trajanje, ki traja celoten prizor ali dejanje, za katerega je bil urok uporabljen. Nekaj urokov ima prilagojena trajanja, navedena v definiciji uroka.
+Če urok nima lastnosti Koncentracija ali Instant, ima naravno trajanje, ki traja celotno sceno ali dejanje, za katerega je bil urok uporabljen. Nekaj urokov ima trajanje po meri, zabeleženo v opisu uroka.
 
-#### Lastnosti magije
+#### Čarobne lastnosti
 
-Lastnosti magije so naslednje:
+Čarobne lastnosti so naslednje:
 
-- **Koncentracija (Concentration):** Učinki uroka ostanejo v veljavi, če čarovnik nadaljuje s koncentracijo na njegovo vzdrževanje. Koncentracija zahteva, da je čarovnik brez vseh fizičnih in mentalnih motenj: vsaka taka motnja prekine koncentracijo, kar povzroči takojšnjo prekinitev uroka.
-- **Trenutno (Instant):** Učinki uroka se zgodijo takoj. Nima trajanja.
-- **Domet (Ranged):** Uroke z lastnostjo Domet je mogoče izreči na razdalji do čarovnikovega rezultata Magije v metrih. Čarovnik mora poznati lokacijo tarče, na primer 'skriva se za vrati': če ne more neposredno videti ali zaznati tarče uroka, potem met Magije postane eno stopnjo težji.
-- **Upor (Resist) (Vzdržljivost, Izogibanje, Moč volje):** Vsak urok, ki ga tarča ni zlahka sprejela, se mu lahko aktivno upira z uporabo Vzdržljivosti, Izogibanja ali Moči volje, kot je določeno s to lastnostjo. Za uspešno upiranje uroku mora tarča zmagati v nasprotnem metu (Opposed Roll) ustrezne veščine proti čarovnikovemu rezultatu meta Magije. Če tarča ne uspe v metu, potem urok začne delovati kot običajno. Upoštevajte, da je upiranje običajno pasivno dejanje, če se uporabljata Vzdržljivost ali Moč volje. Če urok zahteva, da se tarča Izogne, potem poskus Izogibanja stane točko dejanja (Action Point). Tarče brez točk dejanja za izogibanje bodo torej nemočne proti učinku uroka.
-- **Dotik (Touch):** Čarovnik mora biti v fizičnem stiku s tarčo med izrekanjem uroka. Če se tarča namerava upirati fizičnemu stiku, bo čarovnik najverjetneje neuspešen pri dokončanju uroka, razen če kakšna posebna okoliščina preprečuje umik tarče, kot je presenečenje ali poseben učinek Oprijem (Grip). Urok dotika potrebuje le stik s tarčo ali njenimi prenosnimi pripomočki, da deluje.
+- **Koncentracija:** Učinki uroka ostanejo na mestu, če izrekalec še naprej koncentrira svojo pozornost nanje. Koncentracija zahteva, da izrekalec nima nobenih fizičnih ali mentalnih motenj: vsaka takšna motnja prekine koncentracijo, kar povzroči takojšnjo prekinitev uroka.
+- **Instant:** Učinki uroka se zgodijo takoj. Urok nima trajanja.
+- **Na daljavo (Ranged):** Uroke z lastnostjo Na daljavo je mogoče izreči na razdalji do razdalje, ki je enaka vrednosti veščine Magija lika v metrih. Izrekalec mora vedeti lokacijo tarče, na primer "skriva se za vrati": če tarče neposredno ne vidi ali ne zazna, postane met za Magijo stopnjo težji.
+- **Odpornost (VZD, SPR, INT):** Vsak urok, ki ga tarča ne sprejme zlahka, se lahko aktivno zavrne z uporabo VZD, SPR ali INT, kot določa ta lastnost. Za uspešno odpornost proti uroku mora tarča zmagati v nasprotnem metu ustrezne veščine proti rezultatu izrekanja Magije. Če tarča pri metu ne uspe, urok začne delovati normalno. Upoštevajte, da je odpornost običajno pasivno dejanje, če se uporabljata VZD ali INT. Če urok od tarče zahteva SPR (izogibanje), poraba te akcije stane točko dejanja. Tarče brez točk dejanja za izogibanje bodo torej nemočni proti učinku uroka.
+- **Dotik:** Izrekalec mora biti v fizičnem stiku s tarčo med izrekanjem uroka. Če tarča namerava preprečiti fizični stik, izrekalec najverjetneje ne bo mogel dokončati svojega uroka, razen če specifične okoliščine preprečijo umik tarče, kot sta presenečenje ali poseben učinek Oprijem. Urok z dotikom mora le vzpostaviti stik s tarčo ali njenimi nošenimi predmeti, da deluje.
+
 
 ---
 ## Opisi urokov
@@ -89,318 +94,317 @@ Lastnosti magije so naslednje:
 
 _Posebno trajanje_
 
-Izrekanje Alarma na lokaciji, kot je soba ali majhna jasa, ustvari začasno psihično vez med območjem in čarovnikom. Če na območje vstopi živo bitje z VEL (SIZ) večjim od 1, je čarovnik samodejno obveščen, da je nekaj prestopilo, ne glede na razdaljo. Alarm je običajno izrazit mravljinčast občutek ali mentalni sunek, ki bo prebudil čarovnika. Alarm se lahko uporabi tudi na posameznem predmetu, ki se sproži ob dotiku ali premikanju.
+Izrekanje Alarma na lokacijo, kot je soba ali majhna jasa, ustvari začasno psihično vez med območjem in izrekalcem. Če do območja dostopa živo bitje z VEL večjim od 1, izrekalec samodejno izve, da je nekdo prestopil mejo, ne glede na razdaljo. Alarm je običajno jasen mravljinčast občutek ali mentalno špikanje, ki izrekalca zbudi. Alarm se lahko uporabi tudi na posameznem predmetu, ki se sproži ob dotiku ali premiku.
 
-#### Odvrni (Avert)
+#### Avert (Preprečitev)
 
-_Trenutno, Domet_
+_Instant, Na daljavo_
 
-Odvrni se uporablja za prekinitev drugega uroka znotraj dometa. Odvrni se lahko izreče reaktivno za nevtralizacijo napadalnih urokov z uporabo Reaktivnega dejanja Protimagije (Counter Magic Reactive Action).
+Avert se uporablja za razveljavitev drugega uroka v dosegu. Avert se lahko izreče reaktivno, da nevtralizira napadalne uroke, z uporabo reaktivnega dejanja Nasprotna magija.
 
-#### Zmedeš (Befuddle)
+#### Befuddle (Zmedenost)
 
-_Domet, Upor (Moč volje)_
+_Na daljavo, Odpornost (INT)_
 
-Zmedeš povzroči zmedo v mislih korporealne tarče. Predmet uroka ima težave z jasnim razmišljanjem, pozablja, kje je, kaj počne in zakaj – pogosto zapade v nepovezane miselne tokove. Zmešane tarče se lahko še vedno branijo, vendar ne morejo začeti nobene konstruktivne dejavnosti, dokler urok ne preneha. Vsak napad ali grozeče dejanje takoj prekine urok, ne glede na to, ali je bil usmerjen posebej na zmešano tarčo.
+Befuddle povzroči zmedenost v mislih telesne tarče. Subjekt uroka težko razmišlja naravnost, pozabi, kje je, kaj počne in zakaj – pogosto zapade v disociirane miselne linije. Zmedene tarče lahko še vedno delujejo v samoobrambi, vendar ne morejo začeti nobene konstruktivne dejavnosti, dokler se urok ne konča. Kakršen koli napad ali grozeče dejanje takoj prekine urok, ne glede na to, ali je bilo usmerjeno posebej proti zmedeni tarči.
 
-#### Ostra rezila (Bladesharp)
-
-_Dotik_
-
-Ostra rezila se izrečejo na ostrorezna in prebadajoča orožja za blizu. Poveča škodo orožja za eno stopnjo kocke in mimogrede izostri rob po zaključku uroka. Ta urok se pogosto uporablja na orodjih, kot so sekire za sekanje lesa, plugi in britev. Tako izrekanje tega uroka na bodalo poveča škodo na 1k6+1, medtem ko bi isti urok na velikanski sekiri povečal škodo na 2k8+2. (1k4→1k6→1k8→1k10→2k6→2k8→2k10).
-
-#### Tolkala (Bludgeon)
+#### Bladesharp (Ostrorez)
 
 _Dotik_
 
-Tolkala so kot Ostra rezila, vendar se uporabljajo za orožja in orodja, ki povzročajo topo poškodbo, namesto rezalne ali prebadajoče škode. Običajno se uporablja za pomoč pri mlatitvi žita, polivanju volne ali podobnem težkem delu.
+Bladesharp se izreče na rezalno in prebadajoče orožje za blizu. Poveča škodo orožja za eno stopnjo kocke in mimogrede pusti rob nabrušen, potem ko se urok konča. Ta urok se pogosto uporablja na orodjih, kot so sekire za sekanje, plugi in britvice. Torej, izrekanje tega uroka na bodalo poveča njegovo škodo na 1d6+1, medtem ko bi enak urok na veliki sekiri povečal škodo na 2d8+2. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Dih (Breath)
+#### Bludgeon (Tupilo)
 
 _Dotik_
 
-Dih omogoča prejemniku, da zadrži dih za daljše obdobje, tako da lahko začasno vstopi v škodljiva okolja, kot so podvodna; ali ozračja, onesnažena s kamnitim prahom, plini, dimom ali strupi. Urok traja največ polovico čarovnikovega ZM (POW) v minutah, medtem ko prejemnik ne more govoriti, sicer se dih izgubi in mora takoj začeti dihati iz svojega okolja in trpeti morebitna tveganja – pa naj bo to zadušitev, utopitev, zastrupitev itd.
+Bludgeon je kot Bladesharp, vendar se uporablja na orožju in orodjih, ki povzročajo škodo s topim udarcem namesto z rezanjem ali prebadanjem. Običajno se uporablja za pomoč pri mletju žita, valjanju volne ali podobnem težkem delu.
+
+#### Breath (Dih)
+
+_Dotik_
+
+Breath omogoča prejemniku, da zadrži dih za daljše obdobje, tako da se lahko začasno poda v škodljiva okolja, kot so pod vodo ali ozračja, onesnažena s kamnitim prahom, plini, dimom ali strupi. Urok traja največ polovico ENE izrekalca v minutah, med tem časom prejemnik ne sme govoriti, sicer dih izgubi in mora takoj začeti dihati iz svojega okolja, pri čemer utrpi vsa prisotna tveganja – pa naj bo to zadušitev, utopitev, zastrupitev itd.
 
 <details>
 
-<summary>* Popravki skupnosti</summary>
+<summary>* Skupnostna errata</summary>
 
-_**Dih**_
+_**Breath**_
 
-_Izvirni opis uroka je bil naslednji: "Dih omogoča prejemniku, da zadrži dih za daljše obdobje, tako da lahko začasno vstopi v škodljiva okolja, kot so podvodna; ali ozračja, onesnažena s kamnitim prahom, plini, dimom ali strupi. Urok traja največ polovico čarovnikovega ZM (POW) v minutah, medtem ko prejemnik ne more govoriti, sicer se dih izgubi in se takoj začne dušiti (ali postane zastrupljen)."_
+_Prvotni opis uroka je bil naslednji: "Breath omogoča prejemniku, da zadrži dih za daljše obdobje, tako da se lahko začasno poda v škodljiva okolja, kot so pod vodo ali ozračja, onesnažena s kamnitim prahom, plini, dimom ali strupi. Urok traja največ polovico ENE izrekalca v minutah, med tem časom prejemnik ne sme govoriti, sicer dih izgubi in se takoj začne dušiti (ali postane zastrupljen)."_
 
-_To bi se lahko bralo kot napadalni učinek, sprožen ob koncu uroka, kar se zdi v nasprotju z namero avtorjev in vzorcem takšnih urokov kot orodij, ne pa orožja. Zato je bil zgoraj navedeni popravek skupnosti. To besedilo bomo posodobili, če bodo izvirni avtorji spremenili pravilo, kot je bilo napisano._
+_To bi lahko razumeli kot napadalni učinek, ki se sproži ob koncu uroka, kar se zdi v nasprotju z avtorjevo namero in vzorcem takšnih urokov kot pripomočkov in ne orožja. Zato zgornje urejanje v Skupnostni errati. To besedilo bomo posodobili, če bodo prvotni avtorji spremenili pravilo, kot je zapisano._
 
 </details>
 
-#### Umiri (Calm)
+#### Calm (Mir)
 
-_Domet, Upor (Moč volje)_
+_Na daljavo, Odpornost (INT)_
 
-Umiritev poskuša umiriti strasti ali tarčo, morda zagotoviti, da zaljubljeni ljubimec ne bo vztrajal pri svoji prošnji, da prestrašeni tekmec ne bo kričal na pomoč ali da orožje ne bo izvlečeno v jezi. Umirjena oseba ni drugače psihično prizadeta; torej vsak napad ali grozeče dejanje tarči še vedno omogoča, da se brani in celo napada, čeprav bo to storila na umirjen in razumen način.
+Calm poskuša zadušiti strasti tarče, morda zagotoviti, da ljubezensko vnet snubec ne bo vsiljeval svojih namer, prestrašen tekmec ne bo klical na pomoč ali da orožje ne bo izvlečeno v jezi. Pomirjena oseba sicer ni mentalno prizadeta; torej, kakršen koli napad ali grozeče dejanje tarči še vedno omogoča, da se brani in celo napade, čeprav bo to storila na miren in preudaren način.
 
-#### Ohladi (Chill)
+#### Chill (Hlad)
 
-_Trenutno, Dotik_
+_Instant, Dotik_
 
-Ohladi dramatično zmanjša temperaturo majhnih predmetov (ne večjih od čarovnikove roke) na temperaturo ledene vode. Uporabno za hitro hlajenje vročih predmetov, hlajenje pijač in podobno. Urok ne zamrzne predmeta in ne povzroči nobene škode njegovi strukturi: le močno ga ohladi.
+Chill dramatično zmanjša temperaturo majhnih predmetov (ne večjih od izrekalčeve dlani) do temperature ledene vode. Uporabno za hitro hlajenje vročih predmetov, hlajenje pijač in podobno. Urok ne zamrzne predmeta in ne povzroči nobene škode njegovi strukturi: le močno ga ohladi.
 
-#### Tema (Darkness)
+#### Darkness (Tema)
 
-_Koncentracija, Domet_
+_Koncentracija, Na daljavo_
 
-Tema ustvari območje sence, enako ZM (POW) v kvadratnih metrih, ki znotraj sebe zatira vso svetlobo. To je dovolj prostora za zapolnitev skromne sobe, dela hodnika ali za oblikovanje majhnega oblaka, če je izrečeno zunaj. Vsa nemagična svetloba, vključno s sončno svetlobo, ki prehaja v mejo ali je prisotna znotraj nje, se zmanjša na enakovredno šibko žarjenje.
+Darkness ustvari območje sence, enako ENE v kvadratnih metrih, ki zaduši vso svetlobo v njem. To je dovolj volumna, da napolni skromno sobo, del hodnika ali tvori majhen oblak, če je izrečen zunaj. Vsa nemagična svetloba, vključno s sončno svetlobo, ki prehaja v mejo ali je prisotna znotraj nje, se zmanjša na raven šibkega sija.
 
-#### Razgradnja (Disruption)
+#### Disruption (Razdor)
 
-_Trenutno, Domet, Upor (Vzdržljivost)_
+_Instant, Na daljavo, Odpornost (VZD)_
 
-Razgradnja se uporablja za poškodovanje ali razstavljanje fizičnih predmetov brez potrebe po orodju. Običajno se uporablja za odganjanje ali ubijanje živih bitij, kot so ptice ali mrčes. Ko je uspešno izrečena, Razgradnja povzroči 1k3 škode enemu naključnemu mestu udarca (Hit Location) ali skupnim življenjskim točkam (Hit Points) predmeta. V obeh primerih škoda ignorira morebitni oklep ali naravno zaščito.
+Disruption se uporablja za poškodovanje ali razstavljanje fizičnih predmetov brez potrebe po orodju. Običajno se uporablja za odganjanje ali ubijanje živih bitij, kot so ptice ali škodljivci. Ko je uspešno izrečen, Disruption povzroči 1d3 škode na eni naključni lokaciji zadetka ali na skupnih zadetnih točkah predmeta. V obeh primerih škoda ignorira kakršen koli oklep ali naravno zaščito.
 
-#### Ugasni (Extinguish)
+#### Extinguish (Ugasnitev)
 
-_Trenutno, Domet_
+_Instant, Na daljavo_
 
-Ugasni takoj pogasi plamene in majhne ognje zmerne velikosti in vročine. Uporabno je za ugašanje sveč, luči, bakel ali majhnih kuhinjskih ognjev, vendar ne bo delovalo na čarobne ali večje, bolj divje požare, kot so grmade, goreče hiše ali zmajevi plameni.
+Extinguish takoj pogasi plamene in majhne ognje skromne velikosti in vročine. Uporaben je za ugašanje sveč, svetilk, bakel ali majhnih ognjišč, vendar ne bo deloval na magičnih ali večjih, bolj divjih požarih, kot so grmade, goreče hiše ali zmajev ogenj.
 
-#### Najdi (X) (Find (X))
+#### Find (X) (Najdi)
 
-_Koncentracija, Domet, Upor (Posebno)_
+_Koncentracija, Na daljavo, Odpornost (Posebno)_
 
-Najdi ima veliko različic; vedno specifične in se jih naučimo kot ločene uroke. Nekaj pogostih primerov je podanih spodaj. Deluje tako, da se uglaši na naravne emanacije bitja ali stvari, s čimer opozori čarovnika na njegovo prisotnost znotraj dometa uroka. Najdi se lahko blokira z gostimi ali debelimi materiali, kot so kovina ali zemlja in kamen, debeli vsaj en meter. Urok ne more razločiti čustev ali misli.
+Find ima veliko različic; vedno specifične in naučene kot ločeni uroki. Nekateri pogosti primeri so podani spodaj. Deluje tako, da se uglašuje na naravne emanacije bitja ali stvari, kar izrekalca opozori na njegovo prisotnost v dosegu uroka. Find lahko blokirajo gosti ali debeli materiali, kot so kovina ali zemlja in kamen, debeli vsaj en meter. Urok ne more razločiti čustev ali misli.
 
-- *Najdi puščice*: Locira strelivo, ki so ga izstrelili lovci in zgrešili tarčo.
-- *Najdi napako*: Identificira morebitne napake v predmetu, kot so skrite pomanjkljivosti ali fizične poškodbe.
-- *Najdi živino*: Locira določeno vrsto živali. Lahko se ji upira z Močjo volje.
-- *Najdi plen*: Locira plemenite kovine in dragulje.
+- *Najdi puščice*: Locira strelivo, ki so ga izstrelili lovci in je zgrešilo tarčo.
+- *Najdi napako*: Identificira kakršne koli napake na predmetu, kot so skrite nepopolnosti ali fizične poškodbe.
+- *Najdi živino*: Locira določeno vrsto živali. Lahko se ji uprete z INT.
+- *Najdi plen*: Locira plemenite kovine in drage kamne.
 - *Najdi predmet*: Locira izgubljeno osebno lastnino.
-- *Najdi bolezen*: Identificira obstoj bolezni in obolenj, najsi bodo magična ali posvetna.
+- *Najdi bolezen*: Identificira obstoj bolezni in slabosti, bodisi magične ali vsakdanje.
 
-#### Ognjena puščica (Firearrow)
-
-_Dotik_
-
-Ognjena puščica povzroči, da vsi izstrelki, ki jih prejemnik vrže ali izstreli, ob sprostitvi zagorijo. Sprva je bil ustvarjen kot signalna raketa, a se je od takrat razvil v bojno magijo. Izstrelki pod njegovim učinkom dodajo dodatno 1k3 škode, vendar se ugasnejo, če prebodejo meso. Tisti, ki zadenejo vnetljiv material, imajo možnost, enako čarovnikovi veščini Ljudske magije (Folk Magic), da zažgejo, kar koli se zataknejo, na primer lesene ščite, slamnate strehe in tako naprej. Leseno strelivo se porabi kot del uroka.
-
-#### Ognjeno rezilo (Fireblade)
+#### Firearrow (Ognjena puščica)
 
 _Dotik_
 
-Ognjeno rezilo je kot Ognjena puščica, vendar se namesto tega izreče na ročno orodje in orožje za blizu. Prvotni namen uroka je sterilizacija kirurške opreme, pomoč pri žganju in sekanju v kmetijstvu ali zagotavljanje osvetlitve v temi brez potrebe po nošenju dodatnega vira svetlobe. Če se izreče na orožje, povzroči dodatno 1k3 škode in ima možnost, da zažge vnetljive materiale, če ga držimo pri njih več krogov (glej Ogenj v poglavju Sistem igre). Leseno orožje pod učinki Ognjenega rezila bo porabljeno kot del uroka.
+Firearrow povzroči, da vsi izstrelki, ki jih prejemnik vrže ali izstreli, ob sprostitvi izbruhnejo v plamenih. Navidezno ustvarjen kot signalna raketa, se je od takrat razvil v bojno magijo. Izstrelki pod njegovim učinkom dodajo dodatno 1d3 škode, vendar ugasnejo, če prebodejo meso. Tisti, ki zadenejo vnetljiv material, imajo možnost, enako veščini Ljudske magije izrekalca, da vžgejo karkoli, v kar se zabodejo, kot so leseni ščiti, slamnate strehe in tako naprej. Leseno strelivo se porabi kot del uroka.
 
-#### Lepilo (Glue)
+#### Fireblade (Ognjeno rezilo)
 
 _Dotik_
 
-Lepilo zacementira dva trdna, neživa predmeta skupaj za trajanje uroka, na primer kolesno os z vozom ali vrata z okvirom. Medtem ko so pod vplivom uroka, se predmeti, ne glede na to, kako različni, ne morejo ločiti, razen če jih nekaj aktivno poskuša raztrgati. V tem primeru ima urok veščino Mišična moč (Brawn) enako petkratnemu čarovnikovemu ZM (POW) in ne uspe, ko se mu postavi nasprotna moč v nasprotnem metu (Opposed Roll). Ko se urok zaključi ali ne uspe, se predmeti popolnoma nepoškodovani ločijo.
+Fireblade je kot Firearrow, vendar se izreče na ročna orodja in orožje za blizu. Prvotni namen uroka je sterilizacija kirurške opreme, pomoč pri sekanju in požiganju kmetijstva ali zagotavljanje osvetlitve v temi brez potrebe po prenašanju dodatnega vira svetlobe. Če se izreče na orožje, povzroči dodatnih 1d3 škode in ima možnost, da vžge vnetljive materiale, če jih držimo ob njih več krogov (glej Ogenj v poglavju Herni sistem). Orožje z lesenim ročajem pod učinkom Fireblade bo porabljeno kot del uroka.
 
-#### Zdravljenje (Heal)
+#### Glue (Lepilo)
 
-_Trenutno, Dotik_
+_Dotik_
 
-Zdravljenje ima več različnih učinkov, odvisno od narave bolezni, na katero se uporablja. Če subjekt trpi zaradi manjših težav, kot so glavobol, bolečine v hrbtu, mačka, prehlad, bradavice in tako naprej, se simptomi takoj odpravijo. Izrečeno na mestu, ki trpi zaradi Manjše rane (Minor Wound), takoj obnovi vse izgubljene življenjske točke. Proti Resnim ali Hudim ranam (Serious or Major Wounds) se življenjske točke ne obnovijo. Vendar bo urok stabiliziral lokacije, ustavil vse krvavitve in preprečil takojšnjo smrt zaradi nepazljivosti.
+Glue za trajanje uroka zlepi skupaj dva trdna, neživa predmeta, na primer voz na njegovo os ali vrata na njihov podboj. Medtem ko so predmeti pod vplivom uroka, ne glede na to, kako različni so, jih ni mogoče ločiti, razen če nekdo aktivno poskuša odtrgati jih narazen. V teh okoliščinah ima urok veščino Moči (Brawn), enako petkratni vrednosti ENE izrekalca, in odpove, ko se mu postavi nasproti boljša moč, ki ga premaga v nasprotnem metu. Ko se urok konča ali odpove, se predmeti popolnoma nepoškodovani ločijo.
 
-#### Vžgi (Ignite)
+#### Heal (Ozdravitev)
 
-_Trenutno, Domet_
+_Instant, Dotik_
 
-Vžgi deluje le na vnetljivo anorgansko snov, zaradi česar majhen predmet ali območje velikosti roke zagori. Odvisno od tega, kaj je bilo zažgano, se lahko plameni nato razširijo, razen če se jih na kakršen koli način pogasi ali prepreči. Ta urok se običajno uporablja za prižiganje sveč, bakel ali luči od daleč. Uporablja se lahko tudi za prižiganje tabornega ali kuhinjskega ognja v neugodnih razmerah, kot je uporaba vlažne podkurjevine ali v močnem vetru.
+Heal ima več različnih učinkov, odvisno od narave bolezni, pri kateri se uporablja. Če subjekt trpi zaradi manjših težav, kot so glavobol, bolečine v hrbtu, maček, prehlad, bradavice in tako naprej, simptomi takoj izginejo. Če se uporabi na lokaciji, ki trpi zaradi manjše rane, takoj povrne vse izgubljene zadetne točke. Proti resnim ali večjim ranam se ne povrne nobena zadetna točka. Vendar bo urok stabiliziral lokacije, zaustavil vso krvavitev in preprečil bližnjo smrt zaradi nepazljivosti.
 
-#### Odkleni (Knock)
+#### Ignite (Vžig)
 
-_Trenutno, Dotik_
+_Instant, Na daljavo_
 
-Odkleni magično odpre katero koli napravo, ki je trenutno pritrjena z mehansko prečko ali ključavnico. Ne deluje na magično zaklenjenih predmetih, samo na posvetnih. Urok vpliva le na eno zaporo, tako da če je predmet pritrjen z več ključavnicami in prečkami, bo urok treba ponovno izreči za vsako posebej.
+Ignite deluje le na vnetljivo anorgansko snov, zaradi česar majhen predmet ali območje velikosti dlani izbruhne v plamenih. Odvisno od tega, kaj je bilo vžgano, se lahko plameni po začetku gorenja razširijo, razen če jih na nek način pogasimo ali nevtraliziramo. Ta urok se običajno uporablja za prižiganje sveč, bakel ali svetilk na daljavo. Uporablja se lahko tudi za prižiganje ognja v taboru ali za kuhanje v neugodnih razmerah, na primer z uporabo vlažnega trska ali v močnem vetru.
 
-#### Svetloba (Light)
+#### Knock (Trk)
 
-_Koncentracija, Domet_
+_Instant, Dotik_
 
-Svetloba mora biti izrečena na neživem predmetu (to je lahko veja, rezilo meča, konica sulice, bakla in tako naprej). Ustvarja dovolj svetlobe za osvetlitev območja, kot bi bila z lučjo. Lahko se izreče tudi neposredno proti uroku Tema, da ga prepreči. V tem primeru se oba uroka porabita, pri čemer ambientna svetloba osvetli območje.
+Knock magično odklene katero koli napravo, ki je trenutno zavarovana z mehanskim zapahom ali ključavnico. Ne deluje na magično zaklenjene predmete, samo na vsakdanje. Urok vpliva le na eno zapiralo, torej če obstaja več ključavnic in zapahov, ki varujejo predmet, bo treba urok za vsakega izreči posebej.
 
-#### Zakleni (Lock)
+#### Light (Svetloba)
+
+_Koncentracija, Na daljavo_
+
+Light se mora izreči na neživ predmet (to je lahko veja, rezilo meča, konica kopja, bakla itd.). Proizvaja dovolj svetlobe, da osvetli območje, kot da bi bilo osvetljeno s svetilko. Lahko se izreče tudi neposredno proti uroku Darkness, da ga nevtralizira. V tem primeru sta oba uroka porabljena, ambientna svetloba pa osvetli območje.
+
+#### Lock (Ključavnica)
 
 _Posebno trajanje, Dotik_
 
-Zakleni magično zavaruje katero koli napravo, ki že ima mehansko prečko ali ključavnico. Zaklenjeno napravo lahko odpre le čarovnik in je ni mogoče odpreti z običajnimi sredstvi (na primer s tatovskimi orodji), saj magija naredi mehanizem nepremičen; vendar pa se jo lahko še vedno na silo odpre z razbitjem predmeta, v katerega je vstavljena ključavnica. Magija ostane v veljavi, dokler je ne odpre čarovnik, nato pa mora biti naprava ponovno predmet uroka Zakleni, da se čarobnost obnovi. Magična točka, porabljena za izrekanje uroka Zakleni, se ne povrne, dokler urok ni prekinjen ali se naravno ne zaključi.
+Lock magično zavaruje katero koli napravo, ki že ima mehanski zapah ali ključavnico. Zaklenjeno napravo lahko odpre le izrekalec in je ni mogoče obiti na vsakdanji način (na primer s tatovi, ki uporabljajo glavne ključe), saj magija naredi mehanizem nepremičen; vendar bi ga bilo še vedno mogoče na silo odpreti z zlomom predmeta, v katerega je vstavljena ključavnica. Magija ostane na mestu, dokler je izrekalec ne odpre, nakar mora biti naprava podvržena ponovnemu izrekanju Lock, da se čarobnost obnovi. Magična točka, uporabljena za izrekanje Lock, se ne obnovi, dokler urok ni prekinjen ali se naravno ne konča.
 
-#### Fantazma (Phantasm)
+#### Phantasm (Fantom)
 
-_Koncentracija, Domet_
+_Koncentracija, Na daljavo_
 
-Fantazma omogoča čarovniku, da prepleta neoprijemljive ali skoraj breztežne predmete, tako da prevzamejo obliko ali duhovično podobo. Tako bi lahko spektralna figura bila tkana iz naravno nastale megle, ali pa obraz oblikovan v kupu mrtvih listov. Razen tega ima urok malo učinka, razen da prestraši, intrigira ali zmede tiste, ki ga vidijo.
+Phantasm izrekalcu omogoča, da preplete skupaj neoprijemljive ali skoraj breztežne predmete, tako da zavzamejo obliko ali duhove oblike. Tako bi lahko spektralna figura bila stkana iz naravno prisotne megle ali obraz, oblikovan v kupu mrtvega listja. Poleg tega ima urok majhen učinek, razen da prestraši, zaintrigira ali zmede tiste, ki ga gledajo.
 
-#### Spanje (Sleep)
+#### Sleep (Spanje)
 
-_Upor (Vzdržljivost), Dotik_
+_Odpornost (VZD), Dotik_
 
-Spanje pošlje prejemnika v globok, miren spanec. Nima učinka na bitja z VEL (SIZ) večjim od čarovnikovega ZM (POW). Če se tarča ne upira, spi število ur, enako polovici čarovnikovega ZM (POW). Vendar urok potrebuje 1k3 krogov, da začne delovati, preden tarča izgubi zavest. Vsak poskus izrekanja tega uroka v bojni situaciji samodejno ne uspe.
+Sleep pošlje prejemnika v globok, miren spanec. Nima učinka na bitja z VEL, večjim od ENE izrekalca. Razen če se tarča upre, spi število ur, enako polovici ENE izrekalca. Vendar pa urok potrebuje 1d3 kroge, da začne delovati, preden tarča pade v nezavest. Vsak poskus izrekanja tega uroka v bojni situaciji samodejno odpove.
 
-#### Krepitev (Vigor)
+#### Vigor (Moč)
 
 _Dotik_
 
-Krepitev povzroči, da se prejemnik počuti živega in energičnega, kar se uporablja za preprečevanje učinkov napornega fizičnega dela. Za trajanje uroka se vsi učinki Utrujenosti (Fatigue), pridobljeni z napornim delom, ignorirajo (vendar se vrnejo ob prekinitvi uroka).
+Vigor poskrbi, da se prejemnik počuti živega in energičnega, uporablja se za izravnavo učinkov napornega fizičnega dela. Za trajanje uroka se vsi učinki utrujenosti, pridobljeni z napornim delovanjem, ignorirajo (vendar se vrnejo ob prekinitvi uroka).
 
-#### Čarovniški vid (Witchsight)
+#### Witchsight (Čarovniški vid)
 
-_Domet, Upor (Moč volje)_
+_Na daljavo, Odpornost (INT)_
 
-Čarovniški vid omogoča čarovniku, da vidi aktivno magijo, začarane predmete in nevidne entitete (čeprav so takšne stvari le senčne predstave), ki so v dosegu in vidnem polju. Lahko tudi prodre skozi iluzije ali razloči pravo preobleko spreminjajočih se bitij. Bitja, ki želijo ostati skrita ali preoblečena, morajo zmagati v nasprotnem metu (Opposed Roll) svoje Moči volje proti metu izrekanja.
-
----
-## Nadnaravne moči
-
-Tu vključene nadnaravne moči zagotavljajo osnovno moč, ki je bodisi vedno aktivna bodisi jo je mogoče aktivirati po želji. Osnovne moči imajo lahko tudi posebne trike, imenovane _ojačitve_ (Boosts), ki zahtevajo porabo točk moči za aktiviranje. Lik, ki doseže 0 točk moči, ne more uporabljati _ojačitev_ ali osnovnih moči s stroški, dokler točke moči niso ponovno pridobljene.
-
-_Omejitve_ (Limits) so neobvezne slabosti, ki jih je mogoče naložiti liku, osnovnim močem ali _ojačitvam_. Vsaka _omejitev_ podrobno opisuje okoliščine, v katerih se uporablja, in Mojster igre mora odobriti vsako izbrano _omejitev_.
-
-Lik lahko vzame tudi do dve _omejitvi_ s spodnjega seznama, pri čemer ena zagotavlja bonus _ojačitev_, ali dve dodeljujeta bonus osnovno moč.
+Witchsight izrekalcu omogoča, da vidi aktivno magijo, očarane predmete in nevidne entitete (čeprav so takšne stvari le senčne predstavitve), ki ležijo v dosegu in vidnem polju. Lahko tudi prodre skozi iluzije ali spozna resnično podobo bitij, ki so spremenila obliko. Bitja, ki želijo ostati skrita ali preoblečena, morajo zmagati v nasprotnem metu svoje INT proti metu izrekanja.
 
 ---
-## Opisi moči
+## Supermoči
 
-#### Animacija
+Supermoči, vključene tukaj, zagotavljajo osnovno moč, ki je bodisi vedno aktivna bodisi jo je mogoče aktivirati po želji. Osnovne moči imajo lahko tudi posebne podvige, imenovane krepitve (Boosts), ki za aktivacijo zahtevajo porabo Močnostnih točk. Lik, ki doseže 0 Močnostnih točk, ne more uporabljati krepitev ali katere koli osnovne moči s stroškom, dokler Močnostne točke niso pridobljene nazaj.
 
-Animirajte 2 kubična metra neživih materialov znotraj ZM (POW) v metrih, da ustvarite konstrukt, običajno v humanoidni obliki. Strošek v točkah moči je enak vrednosti oklepa najvišje vrednega uporabljenega materiala, ki je tudi osnovna vrednost oklepa konstrukta. Konstrukti imajo osnovno MOČ (STR) 2k6+16 (23), VEL (SIZ) 1k6+12 (15) in SPRET (DEX) 1k6+8 (11), z življenjskimi točkami, določenimi kot običajno. Lik mora uporabljati dejanja za usmerjanje konstrukta, in ta uporablja likove veščine za vse mete. Če konstrukt utrpi Resno rano (Serious Wound) v prsi ali trebuh, naredite nasprotni preizkus Vzdržljivosti proti metu napada. Če ni uspešen, se konstrukt takoj zruši. Primeri vrednosti oklepa / stroškov točk moči:
+Omejitve so neobvezne slabosti, ki jih je mogoče postaviti na lik, osnovne moči ali krepitve. Vsaka omejitev podrobno opisuje okoliščine, v katerih velja, in Mojster igre mora odobriti vsako izbrano omejitev.
 
-| Vrednosti oklepa      | Stroški točk moči |
-|:----------------------|:-----------------:|
-| Plastika ali mehak les | 2                 |
-| Beton ali trd les     | 4                 |
-| Mehkoba kovina ali kamen | 6                 |
-| Trda kovina           | 8                 |
+Lik lahko vzame tudi do dve omejitvi s spodnjega seznama, pri čemer ena zagotavlja bonus krepitev, dve pa bonus osnovno moč.
 
-**Ojačitev:** Porabite 2 točki moči, da takoj premaknete konstrukt na drug vir istega materiala znotraj ZM (POW) v metrih.
+
+---
+## Opisi moči#### Animacija
+
+Animirajte 2 kubična metra neživih materialov znotraj razdalje v metrih, enake vrednosti ENE, da ustvarite konstrukt, običajno v humanoidni obliki. Strošek v Točkah moči je enak vrednosti oklepa materiala z najvišjo vrednostjo, ki je uporabljen, kar je hkrati tudi osnovna vrednost oklepa konstrukta. Konstrukti imajo osnovno MOČ 2d6+16 (23), VEL 1d6+12 (15) in SPR 1d6+8 (11), z določenimi Življenjskimi točkami kot običajno. Lik mora porabiti dejanja za usmerjanje konstrukta, ta pa za vse mete uporablja likove spretnosti. Če konstrukt prejme Resno rano v prsni koš ali trebuh, opravite nasprotni preizkus VZD proti metu napada. Če je neuspešen, se konstrukt nemudoma sesede. Primeri vrednosti oklepa / Strošek v Točkah moči:
+
+| Vrednosti oklepa      | Strošek v Točkah moči |
+|:--|:-:|
+| Plastika ali mehak les | 2                |
+| Beton ali trd les      | 4                |
+| Mehka kovina ali kamen | 6                |
+| Trda kovina            | 8                |
+
+**Ojačitev:** Porabite 2 Točki moči za trenutno premikanje konstrukta do drugega vira enakega materiala znotraj razdalje v metrih, enake vrednosti ENE.
 
 #### Bojni strokovnjak
 
-Izberite eno vrsto bojnega strokovnega znanja s spodnjega seznama, plus eno za vsako porabljeno _ojačitev_.
+Izberite eno vrsto bojnega strokovnjaka s spodnjega seznama, ter še eno za vsako porabljeno ojačitev.
 
-- Strokovno znanje za blizu daje eno bonus točko dejanja, ki se lahko uporablja samo obrambno, in učinkovita velikost orožja se poveča za eno stopnjo za napade in pariranja.
-- Strokovno znanje za daljavo zmanjša situacijske modifikatorje za dve stopnji namesto za eno pri merjenju in čas ponovnega polnjenja orožja za daljavo se zmanjša za eno.
+- Strokovnost v bližinskem boju podeli eno bonus Akcijsko točko, ki se lahko uporabi le obrambno, dejanska velikost orožja pa se poveča za eno stopnjo za napade in pariranja.
+- Strokovnost v boju na daljavo zmanjša situacijske modifikatorje za dve stopnji namesto za eno pri merjenju, čas ponovnega polnjenja orožij na daljavo pa se zmanjša za ena.
 
-**Ojačitev:** Porabite 2 točki moči, da pridobite dodatno točko dejanja, ki jo je mogoče uporabiti samo za Napad (Attack) ali Pripravo orožja (Ready Weapon).
+Ojačitev: Porabite 2 Točki moči za pridobitev dodatne Akcijske točke, ki se lahko uporabi le za Napad ali Pripravo orožja.
 
 #### Vzdržljivost
 
-Življenjske točke (Hit Points) se izračunajo z ŽIL (CON)+VEL (SIZ)+ZM (POW), stopnja zdravljenja (Healing Rate) pa z ŽIL (CON)+polovico ZM (POW), zaokroženo navzgor.
+Življenjske točke se izračunajo z VZD+VEL+ENE, Stopnja celjenja pa se izračuna z VZD+polovica ENE, zaokroženo navzgor.
 
-**Ojačitev:** Porabite 2 točki moči kot prosto dejanje, da si povrnete stopnjo zdravljenja v izgubljenih življenjskih točkah ali izgubljeno raven Utrujenosti.
+**Ojačitev:** Porabite 2 Točki moči kot prosto dejanje, da si povrnete Stopnjo celjenja v izgubljenih Življenjskih točkah ali izgubljeni stopnji Utrujenosti.
 
-#### Elementarni nadzor
+#### Nadzor elementov
 
-Izberite določen material ali vrsto energije. Porabite dejanje za nadzor do polovice ZM (POW) v kubičnih metrih elementa kjer koli znotraj ZM (POW) metrov. Lahko spremenite osnovno obliko ali ustvarite kompleksne oblike z uspešnim preizkusom Obrti (specifični element). Ob ustvarjanju izberite napad za blizu ali napad za daljavo. Napad za blizu ima zelo dolg doseg, napad za daljavo pa doseg 8/24/100, nato izberite katera koli dva bojna učinka. Škoda in sila/velikost sta določeni z ZM (POW): 8 ali manj: 1k4/M, 9-12: 1k6/S, 13-15: 1k8/S, 16-18: 1k10/V, 19+: 1k12/V.
+Izberite določen material ali vrsto energije. Porabite dejanje za nadzor do polovice ENE v kubičnih metrih elementa kjerkoli znotraj razdalje v metrih, enake vrednosti ENE. Z uspešnim preizkusom Obrt (določen element) lahko spremenite osnovno obliko ali ustvarite zapletene oblike. Ob ustvarjanju izberite bodisi napad v bližinskem boju bodisi napad na daljavo. Napad v bližinskem boju ima doseg Zelo dolg, napad na daljavo pa ima razpon 8/24/100, nato izberite katera koli dva Bojna učinka. Škoda in sila/velikost sta določeni z ENE: 8 ali manj: 1d4/M, 9-12: 1d6/S, 13-15: 1d8/V, 16-18: 1d10/V, 19+: 1d12/V.
 
-**Ojačitev:** Porabite 3 točke moči, da lika za prizor ovijete v element. Trdni materiali pridobijo vrednost oklepa, enako peti ZM (POW), zaokroženo navzgor. Če gre za energijo, neoboroženi napadi povzročijo dodatno škodo, enako osnovni škodi moči, in neoboroženi napadi proti liku utrpijo enako škodo na uporabljeni okončini.
+**Ojačitev:** Porabite 3 Točke moči, da lika za čas prizora ovijete v element. Trdni materiali pridobijo vrednost oklepa, enako petini ENE, zaokroženo navzgor. Če gre za energijo, neoboroženi napadi povzročijo dodatno škodo, enako osnovni škodi moči, neoboroženi napadi proti liku pa povzročijo enako škodo okončini, ki je bila uporabljena.
 
-#### Energijski udar
+#### Energijski izbruh
 
-Izstrelite plazme določene vrste energije do dosega 10/30/120 in izberite dva bojna učinka, ki se uporabijo ob ustvarjanju. Škoda in sila sta določeni z ZM (POW) lika: 8 ali manj: 1k6/S, 9-12: 1k8/M, 13-15: 1k10/M, 16-18: 1k12/V, 19+: 2k6/V. Za zadetek lik vrže met proti ustreznemu bojnemu stilu za moč ali uporabi Neoboroženo.
+Izstrelite izbruhe določene vrste energije do razpona 10/30/120 in izberite dva Bojna učinka, ki ju uporabite v trenutku ustvarjanja. Škoda in sila sta določeni z likovo ENE: 8 ali manj: 1d6/S, 9-12: 1d8/V, 13-15: 1d10/V, 16-18: 1d12/V, 19+: 2d6/V. Za zadetek lik meče proti ustreznemu Bojnemu slogu za to moč ali pa uporabi Neoborožen boj.
 
-**Ojačitev:** Porabite 2 točki moči in dejanje, da povzročite +1k6 škode pri naslednjem napadu z energijsko plazmo.
+**Ojačitev:** Porabite 2 Točki moči in dejanje, da povzročite +1d6 škode pri naslednjem napadu z energijskim izbruhom.
 
-#### Izboljšane reakcije
+#### Izboljšani odzivi
 
-Pridobite bonus k metom za iniciativo, enakega kritičnemu dosegu veščine Atletika, in nikoli ne končajte v ležečem položaju po uporabi Izogibanja.
+Pridobite bonus k metom za pobudo, enak kritičnemu razponu spretnosti Atletika, in po uporabi Izmikanja nikoli ne pristanete v ležečem položaju.
 
-**Ojačitev:** Porabite 1 točko moči, da bo naslednji preizkus Atletike ali Akrobatike eno stopnjo lažji.
+**Ojačitev:** Porabite 1 Točko moči, da postane naslednji preizkus Atletike ali Akrobatike za eno stopnjo zahtevnosti lažji.
 
 #### Izboljšana hitrost
 
-Povečajte osnovno gibanje z množiteljem, ki temelji na SPRET (DEX)+ZM (POW). Največja hitrost zunaj boja je enaka desetkratniku spremenjenega gibanja v kilometrih na uro.
+Povečajte osnovno premikanje z množiteljem, ki temelji na SPR+ENE. Največja hitrost zunaj boja je enaka desetkratniku modificiranega premikanja v kilometrih na uro.
 
-SPRET (DEX)+ZM (POW): 12 ali manj: x2, 13-24: x3, 25-36: x4, 37+: x5.
+SPR+ENE: 12 ali manj: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Ojačitev:** Porabite 2 točki moči, da pridobite dodatno točko dejanja, ki jo je mogoče uporabiti samo za Spremembo dosega, Gibanje ali Prehiteti.
+**Ojačitev:** Porabite 2 Točki moči za pridobitev dodatne Akcijske točke, ki se lahko uporabi le za Spremembo razdalje, Premikanje ali Manevriranje.
 
 #### Izboljšana moč
 
-Bonus za škodo se izračuna z MOČ (STR)+VEL (SIZ)+ZM (POW) in največji dvig je določen z MOČ (STR)+ZM (POW) lika: 12 ali manj: 1 tona, 13-24: 2 toni, 25-36: 3 tone, 37+: 5 ton. Neoboroženi napadi štejejo kot velika velikost, orožje za blizu in vrženi predmeti pa imajo svojo velikost ali silo povečano za eno.
+Bonus za škodo se izračuna z MOČ+VEL+ENE, največji dvig pa je določen z likovo MOČ+ENE: 12 ali manj: 1 tona, 13-24: 2 toni, 25-36: 3 tone, 37+: 5 ton. Neoboroženi napadi štejejo za velike, predmetom v bližinskem boju in vrženim predmetom pa se velikost ali sila poveča za ena.
 
-**Ojačitev:** Porabite 3 točke moči, da podvojite največji dvig za eno dejanje ali nalogo.
+**Ojačitev:** Porabite 3 Točke moči za podvojitev največjega dviga za eno dejanje ali nalogo.
 
 #### Letenje
 
-Pridobite hitrost letenja, enako ZM (POW) v metrih, z največjo hitrostjo zunaj boja, enako desetkratniku gibanja v kilometrih na uro.
+Pridobite hitrost letenja, enako ENE v metrih, z največjo hitrostjo zunaj boja, enako desetkratniku premikanja v kilometrih na uro.
 
-**Ojačitev:** Porabite 3 točke moči med zračnim gibanjem, da sprožite nabiti napad med gibanjem.
+**Ojačitev:** Porabite 3 Točke moči med letalskim dejanjem Premikanja za začetek napada z zaletom med gibanjem.
 
-#### Povišan čut
+#### Izostren čut
 
-Izberite en čut. Preizkusi zaznavanja s tem čutom so eno stopnjo lažji.
+Izberite en čut. Preizkusi Zaznavanja s tem čutom so za eno stopnjo spretnosti lažji.
 
-**Ojačitev:** Porabite 2 točki moči, da uporabite osnovno moč za drug čut.
+**Ojačitev:** Porabite 2 Točki moči za uporabo osnovne moči za drug čut.
 
-#### Prirojen oklep
+#### Vrojeni oklep
 
-Zagotavlja vrednost oklepa na vseh lokacijah, enako eni tretjini ŽIL (CON), zaokroženo navzgor. Liki se lahko odločijo zmanjšati vrednost lokacije za do dve točki, da jo dodajo drugi lokaciji; na primer, znižanje vrednosti desne roke, da jo dodajo glavi.
+Zagotavlja vrednost oklepa za vse lokacije, enako tretjini VZD, zaokroženo navzgor. Liki se lahko odločijo za znižanje vrednosti lokacije za do dve točki, da jih dodajo drugi lokaciji; na primer znižajo vrednost desne roke, da jo dodajo glavi.
 
-**Ojačitev:** Ko vas zadene napad, pridobite dodatno točko oklepa proti njemu za vsako porabljeno 1 točko moči.
+**Ojačitev:** Ko vas zadene napad, pridobite dodatno točko oklepa proti njemu za vsako porabljeno 1 Točko moči.
 
-#### Podpora življenja
+#### Podpora življenju
 
-Pridobite imuniteto na dva okoljska pogoja ali biološke zahteve.
+Pridobite imunost na dva okoljska pogoja ali biološki zahtevi.
 
-**Ojačitev:** Pridobite imuniteto na dve dodatni okolji ali zahteve.
+**Ojačitev:** Pridobite imunost na dve dodatni okolji ali zahtevi.
 
 #### Srečnež
 
-Izračunajte osnovne točke sreče (Luck Points) z KAR (CHA) in polovico ZM (POW), zaokroženo navzgor.
+Izračunajte osnovne Točke sreče s KAR in polovico ENE, zaokroženo navzgor.
 
-**Ojačitev:** Ko se vrže dvojna, porabite 3 točke moči, da pridobite začasno točko sreče, ki jo je treba porabiti do konca prizora.
+**Ojačitev:** Ko vržete dvojček, porabite 3 Točke moči, da pridobite začasno Točko sreče, ki jo morate porabiti do konca prizora.
 
 #### Regeneracija
 
-Obnovite eno življenjsko točko na vseh ranjenih lokacijah na začetku vsakega kroga, če lokacija ni utrpela Hude rane (Major Wound).
+Na začetku vsake runde si povrnite eno Življenjsko točko na vseh ranjenih lokacijah, če lokacija ni utrpela Velike rane.
 
-**Ojačitev:** Vstopite v zdravilni trans in porabite 1 točko moči na uro, da obnovite eno življenjsko točko na lokaciji s Hudo rano.
+**Ojačitev:** Vstopite v zdravilni trans in porabite 1 Točko moči na uro, da povrnete eno Življenjsko točko lokaciji z Veliko rano.
 
-#### Savant
+#### Učenjak
 
-Izberite tri veščine z eno skupno značilnostjo in preizkusi z njimi so eno stopnjo lažji.
+Izberite tri spretnosti, ki imajo skupno eno značilnost, in preizkusi z njimi so za eno stopnjo lažji.
 
-**Ojačitev:** Pri uporabi specializirane veščine, kot je Obrt ali Znanost, ki je tudi veščina Savanta, porabite 3 točke moči, da pridobite specialnost, ki je lik nima, za eno nalogo na isti ravni kot veščina Savanta.
+**Ojačitev:** Pri uporabi specializirane spretnosti, kot sta Obrt ali Znanost, ki je hkrati spretnost Učenjaka, porabite 3 Točke moči, da za eno nalogo pridobite specialnost, ki je lik nima, na isti ravni, kot je spretnost Učenjaka.
 
 #### Teleportacija
 
-Teleportirajte se na katero koli vidno točko znotraj ZM (POW) v metrih kot dejanje gibanja.
+Teleportirajte se do katere koli vidne točke znotraj razdalje v metrih, enake vrednosti ENE, kot dejanje premikanja.
 
-**Ojačitev:** Porabite 2 točki moči, da se teleportirate do polovice ZM (POW) v metrih, zaokroženo navzgor, kot prosto dejanje.
+**Ojačitev:** Porabite 2 Točki moči za teleportacijo do polovice ENE v metrih, zaokroženo navzgor, kot prosto dejanje.
 
-#### Parna oblika
+#### Izhapela oblika
 
-Kot dejanje se spremenite v oblak pare ali finih delcev, ki ne morejo interagirati s fizičnim svetom, vendar so imuni na fizične napade. Pridobite hitrost letenja, enako eni tretjini ZM (POW) v metrih, in prehajajte skozi odprtine poljubne velikosti. Energijski napadi povzročijo polovico škode na likovih točkah moči. Če se zmanjšate na 0 točk moči, se lik vrne v trdno stanje in mora narediti Težak preizkus Vzdržljivosti ali izgubiti zavest za 1k6+1 minut.
+Kot dejanje se spremenite v oblak hlapov ali drobnih delcev, ki ni sposoben interakcije s fizičnim svetom, vendar je imun na fizične napade. Pridobite hitrost letenja, enako tretjini ENE v metrih, in prehajajte skozi odprtine katere koli velikosti. Energijski napadi povzročijo polovično škodo likovim Točkam moči. Če se znižajo na 0 Točk moči, se lik vrne v trdno stanje in mora opraviti Težak preizkus VZD, sicer pade v nezavest za 1d6+1 minut.
 
-**Ojačitev:** Porabite 3 točke moči, da za eno dejanje utrdite eno lokacijo udarca.
+**Ojačitev:** Porabite 3 Točke moči, da za eno dejanje utrdite eno lokacijo zadetka.
 
 ---
 ## Omejitve
 
-#### Stroški aktivacije
+#### Strošek aktivacije
 
-Lik porabi 2 točki moči za aktiviranje osnovne moči ali poveča stroške _ojačitve_ za 2 točki moči. Alternativno neprekinjena moč stane 1 točko moči na začetku vsakega kroga za vzdrževanje.
+Lik porabi 2 Točki moči za aktivacijo osnovne moči ali poveča strošek ojačitve za 2 Točki moči. Alternativno neprekinjena moč stane 1 Točko moči na začetku vsake runde za vzdrževanje.
 
-#### Zunanji vir energije
+#### Zunanji vir moči
 
-Vir moči lika je artefakt ali naprava. Če je majhen ali ročen, je vir ranljiv za posebne učinke, kot sta Razorožitev orožja (Disarm Weapon) ali Vzemi orožje (Take Weapon). Če je velik, potrebuje vsaj eno minuto za oblečenje ali aktivacijo, preden se lahko uporabijo moči.
+Vir likovih moči je artefakt ali naprava. Če je majhen ali ročni, je vir ranljiv za Posebne učinke, kot sta Razorožitev orožja ali Odvzem orožja. Če je velik, potrebuje vsaj eno minuto za nadetje ali aktivacijo, preden se lahko moči uporabijo.
 
 #### Usodna napaka
 
-Lik mora vsake štiri ure zaužiti ali biti v stiku s snovjo, sicer trpi raven Utrujenosti. Uspešen preizkus Vzdržljivosti lahko to prepreči, vendar se težavnost tega preizkusa poveča za eno stopnjo za vsake dodatne štiri ure, ko zahteva ni izpolnjena.
+Lik mora vsake štiri ure zaužiti snov ali stopiti v stik z njo, sicer trpi stopnjo Utrujenosti. Uspešen preizkus VZD lahko to prepreči, vendar se težavnost tega preizkusa poveča za eno stopnjo za vsake dodatne štiri ure, ko zahteva ni izpolnjena.
 
 #### Omejen nadzor
 
-Pri dejanjih, ki vključujejo moč ali _ojačitev_, se likov kritični razpon neuspeha poveča na 90-00.
+Pri dejanjih, ki vključujejo moč ali ojačitev, se likov razpon kritičnega neuspeha poveča na 90-00.
 
 #### Omejena moč
 
-Moč ali _ojačitev_ deluje le pod specifičnimi pogoji ali ima zmanjšan učinek, določen s strani Mojstra igre.
+Moč ali ojačitev deluje le pod določenimi pogoji ali ima zmanjšan učinek, ki ga določi Vodja igre.
 
 #### Fizična omejitev
 
-Lik ima trajno omejujoče stanje, kot je slepota, trajna izguba življenjskih točk na lokaciji ali zmanjšana mobilnost.
+Lik ima dolgotrajno omejitveno stanje, kot so slepota, trajna izguba Življenjskih točk na lokaciji ali zmanjšana mobilnost.
 
 #### Ranljivost
 
-Lik prejme dvojno škodo od določene oblike napada. Alternativno mora lik vsak krog narediti Težke preizkuse Vzdržljivosti, ko je 5 metrov od določene snovi, ali trpi raven Utrujenosti.
+Lik prejme dvojno škodo zaradi določene vrste napada. Alternativno mora lik vsako rundo opraviti Težke preizkuse VZD, ko je v bližini 5 metrov od določene snovi, sicer trpi stopnjo Utrujenosti.

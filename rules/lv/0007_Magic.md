@@ -1,47 +1,47 @@
 # Maģija un Spējas
 
-Spēles vadītāji (Games Masters), kuri vēlas savās spēlēs iekļaut maģiju un/vai superspējas, šajā sadaļā atradīs dažus pamatnoteikumus to īstenošanai. Vienmēr ir vislabāk pārliecināties, ka visi spēles dalībnieki ir apmierināti ar maģijas vai superspēju iekļaušanu, un vienmēr veltīt laiku pārdomām par to, kādu spēles gaitu tas var radīt.
+Spēļu vadītāji, kuri vēlas savās spēlēs iekļaut maģiju un/vai lielspējas, šajā sadaļā atradīs dažus pamatnoteikumus to īstenošanai. Vienmēr ir vislabāk nodrošināties, ka visi spēles dalībnieki ir apmierināti ar maģijas vai lielspēju iekļaušanu, un vienmēr veltīt laiku pārdomām par to, kāda veida spēli tas var radīt.
 
 ---
 ## Kā darbojas spējas
 
-Burvestības izmantošana vai superspējas pielietošana parasti prasa tērēt enerģiju, kas tiek ņemta no punktu rezerves. Šīs rezerves lielums ir vienāds ar tēla GRIB (POW) raksturojumu, un burvju gadījumā šo rezervi sauc par Maģijas punktiem, bet supervaroņu gadījumā — par Spēka punktiem. Maģijas vai spēju izmantošana maksā noteiktu punktu skaitu, kas tiek atskaitīts no šīs rezerves; kad rezerve ir tukša, maģiju vai spējas nevar izmantot, līdz tās atjaunojas.
+Burvestības izmantošana vai lielspējas pielietošana parasti prasa iztērēt kāda veida enerģiju, kas tiek ņemta no punktu krājuma. Šī krājuma lielums ir vienāds ar tēla VAR raksturlielumu, un burvju gadījumā šis krājums ir zināms kā Maģijas punkti, savukārt supervaroņiem — kā Spējas punkti. Maģijas vai spēju izmantošana maksā noteiktu punktu skaitu, kas tiek atskaitīts no šī krājuma, un, kad krājums ir tukšs, vairs nevar izmantot maģiju vai spējas, līdz tas atjaunojas.
 
-Maģija atjaunojas par punktu skaitu, kas ir vienāds ar tēla Dziedināšanas ātrumu stundā, līdz tiek sasniegts tēla GRIB (POW) līmenis. Tiek pieņemts, ka tēls var pilnībā atpūsties, neveicot nekādas citas darbības un neatlabstot no noguruma vai ievainojumiem. Ja tā nav, Spēles vadītājs var palielināt Maģijas/Spēka punktu atjaunošanās laiku vai samazināt Dziedināšanas ātrumu.
+Maģija atjaunojas par punktu skaitu, kas vienāds ar tēla Dziedināšanas ātrumu stundā, līdz sasniedz līmeni, kas vienāds ar tēla VAR. Tas pieņem, ka tēls var pilnvērtīgi atpūsties, nepiedaloties nekādās citās aktivitātēs, un neatgūstas no noguruma vai ievainojumiem. Ja tā nav, Spēļu vadītājs var palielināt Maģijas/Spējas punktu atjaunošanai nepieciešamo laiku vai samazināt Dziedināšanas ātrumu.
 
-Superspēju gadījumā Spēka punkti atjaunojas ar ātrumu viens punkts par katru pilnu atpūtas minūti, taču tēli var arī iztērēt Veiksmes punktu, lai nekavējoties atgūtu 1d4+1 zaudētos Spēka punktus līdz to maksimālajam līmenim.
+Lielspēju gadījumā Spējas punkti atjaunojas ar ātrumu viens punkts par pilnu atpūtas minūti, taču tēli var arī iztērēt Veiksmes punktu, lai nekavējoties atgūtu 1d4+1 zaudēto Spējas punktu līdz to maksimālajam līmenim.
 
 #### Burvestību izmantošana
 
-Burvestības tiek izmantotas, izmantojot Maģijas prasmi; bez tās maģija vienkārši nav iespējama. Burvestības sagatavošana un izmantošana prasa vienu Darbību un veiksmīgu Maģijas metienu. Ja metiens neizdodas, burvestība nedarbojas, un tā ir jāsagatavo un jāizmēģina vēlreiz vēlāk. Ja metiens ir veiksmīgs, burvestība darbojas, un no Maģijas punktu rezerves tiek atskaitīti Maģijas punkti.
+Burvestības tiek izmantotas ar Maģijas prasmju palīdzību; bez tās maģija vienkārši nav iespējama. Burvestības sagatavošana un izmantošana prasa vienu darbību un veiksmīgu Maģijas metienu. Ja metiens neizdodas, burvestība nestrādā, un tā ir jāsagatavo un jāizmēģina vēlreiz vēlāk. Ja metiens izdodas, burvestība strādā, un Maģijas punkti tiek atskaitīti no Maģijas punktu krājuma.
 
-#### Superspēju izmantošana
+#### Lielspēju izmantošana
 
-Supervaroņu tēli atklāj, ka viņu superspējas darbojas vienmēr, tāpēc to izmantošanai nav nepieciešams metiens vai Spēka punktu tērēšana; tomēr, ja mēģina Pastiprināt (Boost) kādu spēju, rodas Spēka punktu izmaksas.
+Supervaroņi atklāj, ka viņu lielspēja darbojas vienmēr, tāpēc tās izmantošanai nav nepieciešams metiens vai Spējas punktu tērēšana; tomēr, ja tiek mēģināts pastiprināt (Boost) spēju, tad rodas Spējas punktu izmaksas.
 
 ---
 ## Sākotnējās spējas un jaunu apgūšana
 
 #### Burvji
 
-Burvji sāk ar 1d4+1 burvestībām, kuras visas tiek izmantotas, pielietojot Maģijas prasmi. Spēlētājam un Spēles vadītājam jāvienojas par to, kuras burvestības ir pieejamas un kā tēls pie tām ticis. Piemēram, tēls varēja būt vietējā burvja māceklis vai apguvis maģiju, sēžot mātei klēpī.
+Burvji sāk ar 1d4+1 burvestību, un visas tās tiek izmantotas ar Maģijas prasmju palīdzību. Spēlētājam un Spēļu vadītājam vajadzētu konsultēties par to, kādas burvestības ir pieejamas un kā tēls pie tām ticis. Piemēram, tēls varēja būt vietējā burvja māceklis vai apguvis maģiju mātes paspārnē.
 
-Var apgūt vairāk burvestību, taču jaunas burvestības apgūšana izmaksā 3 Pieredzes metienus un prasa vienu nedēļu mērķtiecīgu studiju un prakses. Jaunas burvestības jāapgūst no skolotāja vai uzticama avota (piemēram, tīstokļa vai grimuaras, kas paredzēta jaunas burvestības mācīšanai).
+Var apgūt vairāk burvestību, taču jaunas burvestības apgūšana izmaksā 3 Pieredzes metienus un prasa vienu nedēļu mērķtiecīgu studiju un prakses. Jaunas burvestības ir jāapgūst no skolotāja vai uzticama avota (piemēram, tīstokļa vai grimuāra, kas paredzēts jaunas burvestības mācīšanai).
 
 #### Supervaroņi
 
-Supervaroņu gadījumā Spēles vadītājam un spēlētājam jāizlemj, kā tēls ieguvis savas spējas un kāds ir to avots (piemēram, tas var būt īpašu bruņu tērps, spējas, kas iegūtas kosmisko staru ietekmē, vai ģenētiska mutācija).
+Supervaroņu gadījumā Spēļu vadītājam un spēlētājam ir jāizlemj, kā tēls ticis pie savām spējām un kāds ir spēju avots (piemēram, tās var būt īpašas bruņas, spējas, kas iegūtas pēc saskarsmes ar kosmisko starojumu, vai ģenētiska mutācija).
 
-Supervaroņi sāk ar vairākām pamata spējām, ko nosaka GRIB (POW) plus vēl viens raksturojums, balstoties uz spēju avotu: KON (izturība) pārveidotai fizioloģijai (mutācija, citplanētiešu sugas, eksperimenti) vai INT (intelekts) tehnoloģijām vai uz prasmēm balstītām spējām (kibernētika, kaujas tērpi, intensīvi treniņi utt.). Skatiet tabulu zemāk.
+Supervaroņi sāk ar vairākām pamata spējām, ko nosaka VAR plus vēl viens raksturlielums, balstoties uz spēju avotu: IZT pārveidotai fizioloģijai (mutācija, citplanētiešu sugas, eksperimenti) vai INT tehnoloģijām vai uz prasmēm balstītām spējām (kibernētika, kaujas tērpi, intensīvi treniņi utt.). Skatiet tabulu zemāk.
 
-Pamata spēju var apmainīt pret diviem Pastiprinājumiem (Boosts), kurus var piemērot jebkurai pamata spējai. Tēls var arī izvēlēties līdz diviem Ierobežojumiem (Limits) no saraksta, kas sākas sadaļā "Superspējas", kur viens nodrošina bonusa Pastiprinājumu, bet divi piešķir bonusa pamata spēju. Spēju un Pastiprinājumu piemēri ir uzskaitīti [Superspēju](0007_Magic.md?id=superpowers) sadaļā.
-
-
-##### Superspēju tabula
+Vienu pamata spēju var apmainīt pret diviem Pastiprinājumiem (Boosts), ko var pielietot jebkurai pamata spējai. Tēls var arī izvēlēties līdz pat diviem Ierobežojumiem no saraksta, kas sākas sadaļā "Lielspējas", kur viens nodrošina bonusa Pastiprinājumu vai divi piešķir bonusa pamata spēju. Spēju un Pastiprinājumu piemēri ir uzskaitīti sadaļā [Lielspējas](0007_Magic.md?id=superpowers).
 
 
-| GRIB+(KON vai INT) | Pamata spējas |
-|:---:|:---:|
+##### Lielspēju tabula
+
+
+| VAR+(IZT vai INT) | Pamata spējas |
+|:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
 | 21-30 | 3 |
@@ -52,79 +52,79 @@ Pamata spēju var apmainīt pret diviem Pastiprinājumiem (Boosts), kurus var pi
 ---
 ## Maģija
 
-Ikreiz, kad tēls vēlas izmantot burvestību, viņš veic metienu pret savu Maģijas prasmi. Izmantošana aizņem vienu gājienu, taču izmantoto Maģijas punktu daudzums un tas, vai burvestība ir veiksmīga, ir atkarīgs no metiena rezultāta.
+Ikreiz, kad tēls vēlas izmantot burvestību, tas veic metienu pret savu Maģijas prasmi. Buršana aizņem vienu gājienu, taču izmantoto Maģijas punktu daudzums un tas, vai burvestība ir veiksmīga, ir atkarīgs no metiena rezultāta.
 
 Ja Maģijas metiens ir...
 
-- **Kritisks veiksmes metiens:** burvestības Maģijas punktu izmaksas ir nulle.
-- **Veiksmes metiens:** burvis zaudē 1 Maģijas punktu, un burvestība darbojas.
-- **Neveiksmes metiens:** burvis zaudē 1 Maģijas punktu, bet burvestība nedarbojas.
-- **Kļūme (Fumble):** burvis zaudē 1d3 Maģijas punktus burvestības dēļ, un burvestība neizdodas.
+- **Kritisks panākums:** burvestības Maģijas punktu izmaksas ir nulle.
+- **Panākums:** burvja izsaucējs zaudē 1 Maģijas punktu, un burvestība strādā.
+- **Neveiksme:** burvja izsaucējs zaudē 1 Maģijas punktu, bet burvestība nestrādā.
+- **Kļūme (Fumble):** burvja izsaucējs zaudē 1d3 Maģijas punktus burvestībai, un burvestība neizdodas.
 
-To maznozīmīgā vai niecīgā rakstura dēļ visām maģijas burvestībām ir noklusējuma Intensitāte un Magnitūda 1.
+Savas maznozīmīgās vai ikdienišķās dabas dēļ visām Maģijas burvestībām ir noklusējuma Intensitāte un Lielums 1.
 
 
 #### Maģijas kapacitātes ierobežojumi
 
-Tēliem nav faktiska ierobežojuma attiecībā uz to burvestību skaitu, kuras viņi var apgūt, ja vien Spēles vadītājs atļauj viņiem piekļūt jaunām.
+Tēliem nav faktiska ierobežojuma to Maģijas burvestību skaitam, kuras tie var apgūt, ja vien Spēļu vadītājs atļauj piekļuvi jaunām burvestībām.
 
 #### Burvestības
 
-Burvestības tiek definētas ar dažādām iezīmēm, kas nosaka burvestības iedarbību un jebkādus īpašus ierobežojumus. Katra burvestība ir atšķirīga, dažām ir mazāk iezīmju nekā citām.
+Burvestības tiek definētas ar dažādām iezīmēm, kas nosaka burvestības efektus un jebkādus īpašus ierobežojumus. Katra burvestība ir atšķirīga, dažām iezīmju ir mazāk nekā citām.
 
 #### Burvestību ilgums
 
-Ja vien burvestībai nav "Koncentrācijas" vai "Tūlītējas" iezīmes, tai ir dabiskais ilgums, kas ilgst visu ainu vai darbību, kurai burvestība tika izmantota. Dažām burvestībām ir pielāgoti ilgumi, kas norādīti burvestības definīcijā.
+Ja vien burvestībai nav "Koncentrēšanās" vai "Tūlītējas" iezīmes, tai ir dabisks ilgums, kas ilgst visu ainu vai darbību, kurai burvestība tika izmantota. Dažām burvestībām ir pielāgoti ilgumi, kas norādīti burvestības definīcijā.
 
 #### Maģijas iezīmes
 
 Maģijas iezīmes ir šādas:
 
-- **Koncentrācija:** Burvestības iedarbība saglabājas, ja burvis turpina koncentrēties tās uzturēšanai. Koncentrācija prasa, lai burvis būtu brīvs no visiem fiziskiem un garīgiem traucējumiem: jebkāds šāds traucējums pārtrauc koncentrāciju, kā rezultātā burvestība nekavējoties tiek pārtraukta.
-- **Tūlītēja (Instant):** Burvestības iedarbība notiek nekavējoties. Tai nav ilguma.
-- **Attālā (Ranged):** Burvestības ar "Attālo" iezīmi var izmantot attālumā līdz tēla Maģijas rādītājam metros. Burvim ir jāzina mērķa atrašanās vieta, piemēram, "slēpjas aiz durvīm": ja viņi nespēj tieši redzēt vai sajust burvestības mērķi, Maģijas metiens kļūst par vienu pakāpi grūtāks.
-- **Pretestība (Izturība, Izvairīšanās, Gribasspēks):** Jebkuru burvestību, kuru mērķis nevēlas viegli pieņemt, var aktīvi pretoties, izmantojot Izturību, Izvairīšanos vai Gribasspēku, kā noteikts šajā iezīmē. Lai veiksmīgi pretotos burvestībai, mērķim ir jāuzvar pretējā metienā (Opposed Roll) ar attiecīgo prasmi pret burvja Maģijas metiena rezultātu. Ja mērķim metiens neizdodas, burvestība stājas spēkā kā parasti. Ņemiet vērā, ka pretošanās parasti ir pasīva darbība, ja tiek izmantota Izturība vai Gribasspēks. Ja burvestība prasa mērķim Izvairīties, tad Izvairīšanās mēģinājums maksā vienu Darbības punktu. Mērķi bez Darbības punktiem, ko tērēt izvairīšanai, tāpēc būs bezspēcīgi pret burvestības iedarbību.
-- **Pieskāriens (Touch):** Burvim ir jābūt fiziskā kontaktā ar mērķi, kamēr burvestība tiek izmantota. Ja mērķis ir apņēmības pilns pretoties fiziskam kontaktam, burvis, visticamāk, nespēs pabeigt savu burvestību, ja vien kāds īpašs apstāklis neliedz mērķim atkāpties, piemēram, pārsteigums vai īpašais efekts "Satvēriens". Pieskāriena burvestībai ir tikai jānonāk saskarē ar mērķi vai tā nēsātajiem piederumiem, lai tā darbotos.
+- **Koncentrēšanās:** Burvestības efekti paliek spēkā, ja burvja izsaucējs turpina koncentrēties uz to uzturēšanu. Koncentrēšanās prasa, lai burvja izsaucējs būtu brīvs no visiem fiziskiem un garīgiem traucējumiem: jebkurš šāds traucējums pārtrauc koncentrēšanos, izraisot tūlītēju burvestības atcelšanu.
+- **Tūlītēja:** Burvestības efekti notiek nekavējoties. Tai nav ilguma.
+- **Attālā:** Burvestības ar Attālās darbības iezīmi var tikt izmantotas attālumā līdz tēla Maģijas rādītājam metros. Burvja izsaucējam jāzina mērķa atrašanās vieta, piemēram, "slēpjas aiz durvīm": ja viņi nevar tieši redzēt vai sajust burvestības mērķi, Maģijas metiens kļūst par vienu pakāpi grūtāks.
+- **Pretestība (Izturība, Izvairīšanās, Gribasspēks):** Jebkuru burvestību, kuru mērķis nevēlas pieņemt, var aktīvi atvairīt, izmantojot Izturību, Izvairīšanos vai Gribasspēku, kā noteikts šajā iezīmē. Lai veiksmīgi pretotos burvestībai, mērķim ir jāuzvar pretējā metienā ar attiecīgo prasmi pret burvja izsaucēja Maģijas metiena rezultātu. Ja mērķim metiens neizdodas, burvestība stājas spēkā kā parasti. Ņemiet vērā, ka pretošanās parasti ir pasīva darbība, ja tiek izmantota Izturība vai Gribasspēks. Ja burvestība prasa mērķim izvairīties, tad Izvairīšanās mēģinājumam nepieciešams tērēt Darbības punktu. Mērķi bez Darbības punktiem, ko tērēt izvairīšanās veikšanai, tādējādi būs bezspēcīgi pret burvestības efektu.
+- **Saskares:** Burvja izsaucējam ir jābūt fiziskā kontaktā ar mērķi burvestības izmantošanas laikā. Ja mērķis cenšas pretoties fiziskam kontaktam, burvja izsaucējam visticamāk neizdosies pabeigt burvestību, ja vien kādi īpaši apstākļi neliedz mērķim atkāpties, piemēram, pārsteigums vai "Satvēriena" īpašais efekts. Saskares burvestībai ir tikai jānonāk kontaktā ar mērķi vai tā pārnēsātajiem piederumiem, lai tā darbotos.
 
 
 ---
 ## Burvestību apraksti
 
-#### Trauksme (Alarm)
+#### Trauksme
 
 _Īpašs ilgums_
 
-"Trauksmes" izmantošana kādā vietā, piemēram, telpā vai nelielā laukumiņā, izveido pagaidu psihisku saikni starp šo apgabalu un burvi. Ja apgabalā ienāk dzīva būtne ar SIZ (izmēru) lielāku par 1, burvis tiek automātiski informēts, ka kaut kas ir pārkāpis robežu, neatkarīgi no attāluma. "Trauksme" parasti ir izteikta tirpoņa vai garīgs "dūriens", kas pamodinās burvi. "Trauksmi" var izmantot arī uz atsevišķa objekta, aktivizējot to, kad tam pieskaras vai to pārvieto.
+Trauksmes izmantošana vietā, piemēram, istabā vai nelielā klajumā, izveido pagaidu psihisku saikni starp šo vietu un burvja izsaucēju. Ja šajā vietā ieiet dzīva būtne ar IZM, kas lielāks par 1, burvja izsaucējs automātiski uzzina, ka kaut kas ir pārkāpis robežu, neatkarīgi no attāluma. Trauksme parasti ir kā skaidra kņudinoša sajūta vai garīgs kodiens, kas pamodinās burvja izsaucēju. Trauksmi var izmantot arī atsevišķam objektam, iedarbinot to, kad tam pieskaras vai to pārvieto.
 
-#### Novērst (Avert)
+#### Novēršana
 
 _Tūlītēja, Attālā_
 
-"Novērst" tiek izmantots, lai atceltu citu burvestību diapazona ietvaros. "Novērst" var izmantot reaktīvi, lai neitralizētu uzbrūkošās burvestības, izmantojot "Pretmaģijas reaktīvo darbību".
+Novēršana tiek izmantota, lai pārtrauktu citu burvestību tās darbības rādiusā. Novēršanu var izmantot kā reakciju, lai neitralizētu uzbrūkošas burvestības, izmantojot "Pretmaģijas" reakcijas darbību.
 
-#### Apstulbināt (Befuddle)
+#### Apjukums
 
 _Attālā, Pretestība (Gribasspēks)_
 
-"Apstulbināt" izraisa apjukumu ķermeniska mērķa prātā. Subjektam ir grūtības domāt skaidri, aizmirstot, kur tas atrodas, ko tas dara un kāpēc – bieži vien iegrimstot asociatīvās domu līnijās. Apstulbināti mērķi joprojām var rīkoties pašaizsardzības nolūkos, taču nevar uzsākt nekādu konstruktīvu darbību, līdz burvestība beidzas. Jebkāda veida uzbrukums vai draudoša darbība acumirklī pārtrauc burvestību, neatkarīgi no tā, vai tā bija vērsta tieši pret apstulbināto mērķi.
+Apjukums rada apjukumu ķermeniska mērķa prātā. Burvestības subjektam ir grūtības domāt skaidri, aizmirstot, kur tas atrodas, ko dara un kāpēc – bieži vien iegrimstot nesaistītās domu gājienos. Apjukuši mērķi joprojām var rīkoties pašaizsardzības nolūkos, bet nevar uzsākt nekādu konstruktīvu darbību, līdz burvestība beidzas. Jebkāda veida uzbrukums vai draudoša darbība acumirklī pārtrauc burvestību, neatkarīgi no tā, vai tā bija vērsta tieši pret apjukušo mērķi.
 
-#### Asmeņu asināšana (Bladesharp)
+#### Asināšana
 
-_Pieskāriens_
+_Saskares_
 
-"Asmeņu asināšana" tiek izmantota uz asiem un caurdurošiem tuvcīņas ieročiem. Tas palielina ieroča bojājumus par vienu kauliņa pakāpi un nejauši atstāj asmeni uzasinātu pēc burvestības beigām. Šo burvestību bieži izmanto uz tādiem instrumentiem kā mežstrādnieku cirvji, arkli un skuvekļi. Tādējādi, izmantojot šo burvestību uz dunci, tā bojājumi palielinās līdz 1d6+1, savukārt tā pati burvestība uz liela cirvja palielinātu bojājumus līdz 2d8+2. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
+Asināšana tiek izmantota uz griezīgajiem un caurdurošajiem tuvcīņas ieročiem. Tā palielina ieroča radīto kaitējumu par vienu kauliņu pakāpi un nejauši atstāj asmeni uzasinātu pēc burvestības beigām. Šī burvestība bieži tiek izmantota tādiem darbarīkiem kā mežizstrādes cirvji, arkli un bārdas naži. Tādējādi šīs burvestības izmantošana uz dunča palielina tā kaitējumu līdz 1d6+1, savukārt tā pati burvestība uz liela cirvja palielinātu to līdz 2d8+2. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Duncināt (Bludgeon)
+#### Trieciens
 
-_Pieskāriens_
+_Saskares_
 
-"Duncināt" ir kā "Asmeņu asināšana", bet tiek izmantots uz ieročiem un instrumentiem, kas rada trulu triecienu, nevis grieztus vai caurdurtus bojājumus. To parasti izmanto, lai palīdzētu kult graudus, velt vilnu vai veikt citus smagus darbus.
+Trieciens ir līdzīgs Asināšanai, bet tiek izmantots ieročiem un darbarīkiem, kas rada strupu traumu, nevis grieztu vai caurdurtu kaitējumu. To parasti izmanto, lai palīdzētu graudu kulšanā, vilnas velšanā vai līdzīgos smagos darbos.
 
-#### Elpa (Breath)
+#### Elpa
 
-_Pieskāriens_
+_Saskares_
 
-"Elpa" ļauj saņēmējam aizturēt elpu uz ilgāku laiku, lai viņi varētu īslaicīgi nokļūt kaitīgā vidē, piemēram, zem ūdens; vai atmosfērā, kas piesārņota ar akmeņu putekļiem, gāzēm, dūmiem vai indēm. Burvestība ilgst maksimāli pusi no burvja GRIB (POW) minūtēs, kuru laikā saņēmējs nevar runāt, citādi elpa tiek zaudēta, un viņiem nekavējoties jāsāk elpot no apkārtējās vides, ciešot jebkādus esošos riskus – vai tā būtu nosmakšana, slīkšana, saindēšanās utt.
+Elpa ļauj saņēmējam aizturēt elpu uz ilgāku laiku, lai viņi varētu īslaicīgi ienākt kaitīgā vidē, piemēram, zem ūdens; vai atmosfērā, kas piesārņota ar akmens putekļiem, gāzēm, dūmiem vai indēm. Burvestība ilgst ne vairāk kā pusi no burvja izsaucēja VAR minūtēs, kuru laikā saņēmējs nevar runāt, citādi elpa tiek zaudēta, un viņiem nekavējoties jāsāk elpot no savas vides, saskaroties ar visiem pastāvošajiem riskiem — vai tā būtu nosmakšana, slīkšana, saindēšanās utt.
 
 <details>
 
@@ -132,281 +132,279 @@ _Pieskāriens_
 
 _**Elpa**_
 
-_Sākotnējais burvestības apraksts bija šāds: "Elpa ļauj saņēmējam aizturēt elpu uz ilgāku laiku, lai viņi varētu īslaicīgi nokļūt kaitīgā vidē, piemēram, zem ūdens; vai atmosfērā, kas piesārņota ar akmeņu putekļiem, gāzēm, dūmiem vai indēm. Burvestība ilgst maksimāli pusi no burvja GRIB minūtēs, kuru laikā saņēmējs nevar runāt, citādi elpa tiek zaudēta, un viņi nekavējoties sāk smakt (vai kļūst saindēti)."_
+_Sākotnējais burvestības apraksts bija šāds: "Elpa ļauj saņēmējam aizturēt elpu uz ilgāku laiku, lai viņi varētu īslaicīgi ienākt kaitīgā vidē, piemēram, zem ūdens; vai atmosfērā, kas piesārņota ar akmens putekļiem, gāzēm, dūmiem vai indēm. Burvestība ilgst ne vairāk kā pusi no burvja izsaucēja VAR minūtēs, kuru laikā saņēmējs nevar runāt, citādi elpa tiek zaudēta, un viņi nekavējoties sāk smakt (vai kļūst saindēti)."_
 
-_To varēja interpretēt kā uzbrūkošu efektu, kas tiek aktivizēts burvestības beigās, kas šķiet pretrunā ar autoru ieceri un šādu burvestību modeli kā utilitārām, nevis kaujas spējām. Tāpēc veikts iepriekš minētais Kopienas labojums. Mēs atjaunināsim šo tekstu, ja sākotnējie autori pārskatīs noteikumus, kā tie uzrakstīti._
+_To varēja interpretēt kā ofensīvu efektu, kas tiek aktivizēts burvestības beigās, kas šķiet pretrunā ar autoru nodomu un šādu burvestību modeli kā utilitāriem, nevis kā ieročiem. Tādēļ augstāk minētais Kopienas labojums. Mēs atjaunināsim šo tekstu, ja autori pārskatīs rakstīto noteikumu._
 
 </details>
 
-#### Miers (Calm)
+#### Miers
 
 _Attālā, Pretestība (Gribasspēks)_
 
-"Miers" mēģina mazināt mērķa kaislības, iespējams, nodrošinot, ka mīlestības pārņemts pielūdzējs neuzstāj uz savu, nobijies sāncensis nebrēc pēc palīdzības vai ka ieroči netiek izvilkti dusmās. Nomierināta persona citādi garīgi netiek ietekmēta; tādējādi jebkāda veida uzbrukums vai draudoša darbība joprojām ļauj mērķim sevi aizstāvēt un pat uzbrukt, lai gan viņi to darīs mierīgā un nosvērtā veidā.
+Miers mēģina apslāpēt mērķa kaislības, iespējams, nodrošinot, ka iemīlējies pielūdzējs neuzstāj uz savu, nobijies sāncensis nekliedz pēc palīdzības vai ieroči netiek vilkti dusmās. Mierīgs cilvēks citādi nav garīgi ietekmēts; Tādējādi jebkāda veida uzbrukums vai draudoša darbība joprojām ļauj mērķim aizstāvēties un pat uzbrukt, lai gan viņi to darīs mierīgā un nosvērtā veidā.
 
-#### Vēsums (Chill)
+#### Dziestums
 
-_Tūlītēja, Pieskāriens_
+_Tūlītēja, Saskares_
 
-"Vēsums" dramatiski samazina mazu objektu (ne lielāku par burvja roku) temperatūru līdz ledus ūdens temperatūrai. Noderīgi, lai ātri atdzesētu karstas lietas, atdzesētu dzērienus utt. Burvestība nesasaldē objektu un nerada nekādus bojājumus tā struktūrai: tā vienkārši padara to ļoti aukstu.
+Dziestums dramatiski samazina mazu objektu temperatūru (ne lielāku par burvja izsaucēja plaukstu) līdz ledus ūdens temperatūrai. Noderīgi, lai ātri atdzesētu karstus priekšmetus, atdzesētu dzērienus utt. Burvestība nesaldē objektu un nenodara nekādu kaitējumu tā struktūrai: tā vienkārši padara to ļoti aukstu.
 
-#### Tumsa (Darkness)
+#### Tumsas
 
-_Koncentrācija, Attālā_
+_Koncentrēšanās, Attālā_
 
-"Tumsa" rada ēnas zonu, kas vienāda ar GRIB (POW) kvadrātmetros, kas apspiež visu gaismu tajā. Tas ir pietiekams apjoms, lai piepildītu mērenu telpu, gaiteņa posmu vai izveidotu nelielu mākoni, ja to izmanto ārpus telpām. Visa nemāģiskā gaisma, tostarp saules gaisma, kas nonāk robežās vai atrodas tajās, tiek samazināta līdz vājai blāzmai.
+Tumsas rada ēnas laukumu, kas vienāds ar VAR kvadrātmetros, kurš apspiež visu gaismu tajā. Tas ir pietiekami liels tilpums, lai piepildītu nelielu istabu, koridora posmu vai izveidotu nelielu mākoni, ja to izmanto ārpus telpām. Visa nemagiskā gaisma, ieskaitot saules gaismu, kas nonāk vai atrodas robežās, tiek samazināta līdz blāva mirdzuma līmenim.
 
-#### Izkliedēšana (Disruption)
+#### Ārdīšana
 
 _Tūlītēja, Attālā, Pretestība (Izturība)_
 
-"Izkliedēšana" tiek izmantota fizisku objektu bojāšanai vai izjaukšanai bez instrumentu nepieciešamības. To parasti izmanto, lai aizdzītu vai nogalinātu dzīvas būtnes, piemēram, putnus vai kaitēkļus. Veiksmīgi izmantota, "Izkliedēšana" nodara 1d3 bojājumus vienai nejaušai trāpījuma vietai vai objekta kopējiem trāpījuma punktiem. Abos gadījumos bojājumi ignorē jebkādas bruņas vai dabisko aizsardzību.
+Ārdīšana tiek izmantota fizisku objektu bojāšanai vai izjaukšanai bez instrumentu nepieciešamības. To parasti izmanto, lai aizdzītu vai nogalinātu dzīvas būtnes, piemēram, putnus vai kaitēkļus. Veiksmīgi izmantota, Ārdīšana nodara 1d3 kaitējumu vienai nejaušai trāpījuma vietai vai objekta kopējiem trāpījuma punktiem. Abos gadījumos kaitējums ignorē jebkādas bruņas vai dabisko aizsardzību.
 
-#### Dzēšana (Extinguish)
+#### Dzēšana
 
 _Tūlītēja, Attālā_
 
-"Dzēšana" nekavējoties apslāpē liesmas un mērena izmēra un karstuma nelielus ugunsgrēkus. Tas ir noderīgi sveču, lukturu, lāpu vai mazu pavardu dzēšanai, bet nedarbosies uz maģiskiem vai lielākiem, niknākiem ugunsgrēkiem, piemēram, sārtiem, degošām mājām vai pūķa liesmām.
+Dzēšana nekavējoties apslāpē liesmas un nelielus mērena izmēra un karstuma ugunsgrēkus. Tas ir noderīgi sveču, lukturu, lāpu vai mazu ugunskuru dzēšanai, bet tas nedarbosies uz maģiskām vai lielākām, niknākām uguns stihijām, piemēram, sārtiem, degošām mājām vai pūķu liesmām.
 
-#### Atrast (X) (Find (X))
+#### Atrast (X)
 
-_Koncentrācija, Attālā, Pretestība (Īpaša)_
+_Koncentrēšanās, Attālā, Pretestība (Īpaša)_
 
-"Atrast" ir daudz variāciju; vienmēr specifiskas un apgūstamas kā atsevišķas burvestības. Daži izplatīti piemēri ir doti zemāk. Tas darbojas, saskaņojoties ar būtnes vai lietas dabiskajām izdalītajām enerģijām, brīdinot burvi par to klātbūtni burvestības diapazonā. "Atrast" var bloķēt blīvi vai biezi materiāli, piemēram, metāls, vai zeme un akmens vismaz viena metra biezumā. Burvestība nespēj atšķirt emocijas vai domas.
+Atrast ir daudz variāciju; vienmēr specifiskas un apgūstamas kā atsevišķas burvestības. Daži bieži sastopami piemēri ir doti zemāk. Tas darbojas, noskaņojoties uz būtnes vai lietas dabiskajām vibrācijām, brīdinot burvja izsaucēju par to klātbūtni burvestības darbības rādiusā. Atrast var bloķēt blīvi vai biezi materiāli, piemēram, metāls vai zeme un akmens vismaz viena metra biezumā. Burvestība nevar noteikt emocijas vai domas.
 
 - *Atrast bultas*: Atrod mednieku izšautu munīciju, kas nav trāpījusi mērķī.
-- *Atrast defektu*: Identificē jebkādus defektus objektā, piemēram, slēptus nepilnības vai fiziskus bojājumus.
-- *Atrast lopus*: Atrod noteikta veida dzīvniekus. Var pretoties ar Gribasspēku.
+- *Atrast nepilnību*: Identificē jebkādas nepilnības objektā, piemēram, slēptus defektus vai fiziskus bojājumus.
+- *Atrast mājlopus*: Atrod noteikta veida dzīvnieku. Var pretoties ar Gribasspēku.
 - *Atrast laupījumu*: Atrod dārgmetālus un dārgakmeņus.
 - *Atrast objektu*: Atrod pazaudētu personīgo mantu.
-- *Atrast slimību*: Identificē slimību un kaišu esamību, neatkarīgi no tā, vai tās ir maģiskas vai laicīgas.
+- *Atrast slimību*: Identificē slimības un kaišu esamību, neatkarīgi no tā, vai tās ir maģiskas vai ikdienišķas.
 
-#### Ugunsbulta (Firearrow)
+#### Ugunsbulta
 
-_Pieskāriens_
+_Saskares_
 
-"Ugunsbulta" liek visiem saņēmēja izmestajiem vai izšautajiem šāviņiem uzliesmot, kad tie tiek palaisti. Domāts kā signālraķete, tas ir attīstījies par kaujas maģiju. Šāviņi tās ietekmē pievieno papildu 1d3 bojājumus, bet tiek nodzēsti, ja tie ieduras miesā. Tiem, kas trāpa viegli uzliesmojošam materiālam, ir iespēja, kas vienāda ar burvja Tautas maģijas (Folk Magic) prasmi, aizdedzināt visu, kurā tie iesprūst, piemēram, koka vairogus, salmu jumtus utt. Koka munīcija tiek iznīcināta kā daļa no burvestības.
+Ugunsbulta liek visiem saņēmēja mestajiem vai izšautajiem šāviņiem uzliesmot, kad tie tiek palaisti. Iesākumā radīta kā signālraķete, tā ir attīstījusies par kaujas maģiju. Šāviņi, uz kuriem iedarbojas šī burvestība, rada papildu 1d3 kaitējumu, bet tiek dzēsti, ja tie ietriecas miesā. Tie, kas trāpa uzliesmojošam materiālam, var aizdedzināt visu, kurā tie iesprūst, ar varbūtību, kas vienāda ar burvja izsaucēja Tautas maģijas prasmi, piemēram, koka vairogus, salmu jumtus utt. Koka munīcija tiek iznīcināta kā daļa no burvestības.
 
-#### Ugunsasmens (Fireblade)
+#### Ugunsasmens
 
-_Pieskāriens_
+_Saskares_
 
-"Ugunsasmens", tāpat kā "Ugunsbulta", tiek izmantots uz rokas instrumentiem un tuvcīņas ieročiem. Burvestības sākotnējais mērķis ir sterilizēt ķirurģiskos instrumentus, palīdzēt lauksaimniecībā vai nodrošināt apgaismojumu tumsā bez nepieciešamības nēsāt papildu gaismas avotu. Ja izmanto uz ieroča, tas nodara papildu 1d3 bojājumus, un tam ir iespēja aizdedzināt viegli uzliesmojošus materiālus, ja tos tur pie tiem vairākus raundus (skatiet sadaļu "Uguns spēļu sistēmā"). Koka kātu ieroči, kas atrodas "Ugunsasmens" ietekmē, tiks iznīcināti kā daļa no burvestības.
+Ugunsasmens ir kā Ugunsbulta, bet tā vietā tiek izmantota uz rokas darbarīkiem un tuvcīņas ieročiem. Burvestības sākotnējais mērķis ir sterilizēt ķirurģisko aprīkojumu, palīdzēt cirtumu un dedzināšanas lauksaimniecībā vai nodrošināt apgaismojumu tumsā bez nepieciešamības nest papildu gaismas avotu. Ja tā tiek izmantota uz ieroča, tas nodara papildu 1d3 kaitējumu, un tam ir iespēja aizdedzināt uzliesmojošus materiālus, ja tos tur pie tiem vairākus raundus (skatiet Uguns sadaļu Spēļu sistēmā). Koka kātu ieroči, uz kuriem iedarbojas Ugunsasmens, tiks iznīcināti kā daļa no burvestības.
 
-#### Līme (Glue)
+#### Līme
 
-_Pieskāriens_
+_Saskares_
 
-"Līme" uz burvestības laiku sacementē kopā divus cietus, nedzīvus objektus, piemēram, ratu riteni ar asi vai durvis ar rāmi. Kamēr burvestība darbojas, priekšmeti, lai cik atšķirīgi tie būtu, nevar tikt atdalīti, ja vien kāds aktīvi nemēģina tos atraut. Šādā gadījumā burvestībai ir Spēka (Brawn) prasme, kas vienāda ar piecām reizēm burvja GRIB (POW), un tā neizdodas, ja pret to tiek vērsts pārāks Spēks, uzvarot pretējā metienā. Kad burvestība beidzas vai neizdodas, priekšmeti pilnībā atdalās bez bojājumiem.
+Līme sacementē kopā divus cietus, nedzīvus objektus uz burvestības darbības laiku, piemēram, ratus pie to ass vai durvis pie to karkasa. Kamēr burvestība ir spēkā, priekšmetus, lai cik dažādi tie būtu, nevar atdalīt, ja vien kāds aktīvi nemēģina tos atraut. Šajā gadījumā burvestībai ir Spēka prasme, kas vienāda ar piecām reizēm burvja izsaucēja VAR, un tā neizdodas, ja pret to tiek iestatīts pārāks Spēks, uzvarot pretējā metienā. Kad burvestība beidzas vai neizdodas, priekšmeti atdalās pilnīgi nebojāti.
 
-#### Dziedināt (Heal)
+#### Dziedināt
 
-_Tūlītēja, Pieskāriens_
+_Tūlītēja, Saskares_
 
-"Dziedināt" ir vairāki atšķirīgi efekti atkarībā no kaites dabas, uz kuras to izmanto. Ja subjekts cieš no nelielas kaites, piemēram, galvassāpēm, muguras sāpēm, paģirām, saaukstēšanās, kārpām utt., simptomi tiek nekavējoties noņemti. Izmantojot uz trāpījuma vietas, kas cieš no "Neliela ievainojuma", tas uzreiz atjauno visus zaudētos Trāpījuma punktus. Pret "Nopietniem" vai "Smagiem ievainojumiem" Trāpījuma punkti netiek atgūti. Tomēr burvestība stabilizēs ievainotās vietas, apturēs visu asiņošanu un novērsīs nenovēršamu nāvi no neuzmanības.
+Dziedināšanai ir vairāki atšķirīgi efekti atkarībā no kaites dabas, uz kuru tā tiek izmantota. Ja subjekts cieš no nelielas kaites, piemēram, galvassāpēm, muguras sāpēm, paģirām, saaukstēšanās, kārpām utt., tad simptomi tiek nekavējoties novērsti. Izmantota uz vietas, kas cieš no Neliela ievainojuma, tā acumirklī atjauno visus zaudētos Trāpījuma punktus. Pret Nopietniem vai Smagiem ievainojumiem Trāpījuma punkti netiek atgūti. Tomēr burvestība stabilizēs vietas, apturēs jebkādu asiņošanu un novērsīs nenovēršamu nāvi no neuzmanības.
 
-#### Aizdedzināt (Ignite)
+#### Aizdedzināt
 
 _Tūlītēja, Attālā_
 
-"Aizdedzināt" darbojas tikai uz viegli uzliesmojošu neorganisku matēriju, liekot mazam objektam vai rokas lieluma zonai uzliesmot. Atkarībā no tā, kas tika aizdedzināts, liesmas pēc tam var izplatīties, ja vien tās netiek nodzēstas vai kā citādi neitralizētas. Šo burvestību parasti izmanto, lai no attāluma aizdedzinātu sveces, lāpas vai lukturus. To var izmantot arī, lai iekurtu nometnes vai pavarda uguni nelabvēlīgos apstākļos, piemēram, izmantojot mitru iekuru vai stiprā vējā.
+Aizdedzināt darbojas tikai uz uzliesmojošas neorganiskas vielas, liekot mazam objektam vai plaukstas lieluma laukumam uzliesmot. Atkarībā no tā, kas tika aizdedzināts, tiklīdz tas deg, liesmas var izplatīties, ja vien tās netiek dzēstas vai novērstas kādā veidā. Šo burvestību parasti izmanto, lai no attāluma aizdedzinātu sveces, lāpas vai lukturus. To var izmantot arī, lai iekurtu ugunskuru vai gatavošanas uguni nelabvēlīgos apstākļos, piemēram, izmantojot mitru iekuru vai stiprā vējā.
 
-#### Atslēgt (Knock)
+#### Atslēgt
 
-_Tūlītēja, Pieskāriens_
+_Tūlītēja, Saskares_
 
-"Atslēgt" maģiski attaisa jebkuru ierīci, kas pašlaik ir nostiprināta ar mehānisku aizbīdni vai slēdzeni. Tas nedarbojas uz maģiski aizslēgtiem objektiem, tikai laicīgiem. Burvestība ietekmē tikai vienu stiprinājumu, tādēļ, ja objektu nostiprina vairākas slēdzenes un aizbīdņi, katram no tiem būs jāizmanto burvestība atkārtoti.
+Atslēgt maģiski atver jebkuru ierīci, kas šobrīd ir nostiprināta ar mehānisku aizbīdni vai slēdzeni. Tas nedarbojas uz maģiski noslēgtiem objektiem, tikai uz parastajiem. Burvestība ietekmē tikai vienu stiprinājumu, tādēļ, ja objektu nostiprina vairākas slēdzenes un aizbīdņi, burvestība būs jāizmanto atkārtoti katram no tiem.
 
-#### Gaisma (Light)
+#### Gaisma
 
-_Koncentrācija, Attālā_
+_Koncentrēšanās, Attālā_
 
-"Gaisma" jāizmanto uz nedzīva objekta (tas var būt zars, zobena asmens, šķēpa gals, lāpa utt.). Tā rada pietiekami daudz gaismas, lai izgaismotu zonu kā ar lukturi. To var izmantot arī tieši pret "Tumsas" burvestību, lai to atceltu. Šajā gadījumā abas burvestības tiek iznīcinātas, atstājot apkārtējo gaismu zonas izgaismošanai.
+Gaisma ir jāizmanto uz nedzīva objekta (tas var būt zars, zobena asmens, šķēpa gals, lāpa utt.). Tā rada pietiekami daudz gaismas, lai izgaismotu laukumu, it kā ar lukturi. To var izmantot arī tieši pret Tumsas burvestību, lai to atvairītu. Šajā gadījumā abas burvestības tiek iztērētas, atstājot apkārtējo gaismu laukuma izgaismošanai.
 
-#### Slēdzene (Lock)
+#### Slēgt
 
-_Īpašs ilgums, Pieskāriens_
+_Īpašs ilgums, Saskares_
 
-"Slēdzene" maģiski nostiprina jebkuru ierīci, kurai jau ir mehānisks aizbīdnis vai slēdzene. "Aizslēgtu" ierīci var atvērt tikai burvis, un to nevar atvērt ar laicīgiem līdzekļiem (piemēram, zaglis, izmantojot atslēgu instrumentus), jo maģija padara mehānismu nekustīgu; tomēr to joprojām varētu uzlauzt, salaužot objektu, kurā slēdzene ir ievietota. Maģija saglabājas, līdz to atver burvis, pēc tam ierīcei jāpiemēro atkārtota "Slēdzenes" izmantošana, lai atjaunotu burvību. Maģijas punkts, kas izmantots "Slēdzenes" izmantošanai, neatjaunojas, līdz burvestība tiek atcelta vai beidzas dabiski.
+Slēgt maģiski nostiprina jebkuru ierīci, kurai jau ir mehānisks aizbīdnis vai slēdzene. Noslēgtu ierīci var atvērt tikai burvja izsaucējs, un to nevar uzlauzt ar ikdienišķiem līdzekļiem (piemēram, zaglis, izmantojot atslēgas), jo maģija padara mehānismu nekustīgu; tomēr to joprojām varētu atvērt ar spēku, salaužot objektu, kurā slēdzene ir ievietota. Maģija paliek spēkā, līdz to atver burvja izsaucējs, pēc tam ierīce ir jāpakļauj atkārtotai Slēgt izmantošanai, lai atjaunotu apburšanu. Maģijas punkts, kas izmantots Slēgt izmantošanai, neatjaunojas, līdz burvestība tiek atcelta vai beidzas dabiski.
 
-#### Fantasmagorija (Phantasm)
+#### Fantāzija
 
-_Koncentrācija, Attālā_
+_Koncentrēšanās, Attālā_
 
-"Fantasmagorija" ļauj burvim savīt kopā neievērojamus vai gandrīz bezsvara objektus tā, lai tie iegūtu formu vai spoka veidolu. Tādējādi spektrālu figūru varētu savīt no dabiskas miglas vai seju, kas veidota no beigtu lapu kaudzes. Papildus tam burvestībai ir maz efekta, izņemot biedēšanu, ieintriģēšanu vai samulsināšanu tiem, kas to redz.
+Fantāzija ļauj burvja izsaucējam savīt kopā nemateriālus vai gandrīz bezsvara objektus tā, lai tie iegūtu formu vai spoka veidolu. Tādējādi spektrālu figūru varētu uzaust no dabiski sastopamas miglas vai seju, kas veidota no beigtu lapu kaudzes. Bez tam burvestībai ir mazs efekts, izņemot to, lai iebiedētu, ieintriģētu vai samulsinātu tos, kas to aplūko.
 
-#### Miega burvestība (Sleep)
+#### Miega stāvoklis
 
-_Pretestība (Izturība), Pieskāriens_
+_Pretestība (Izturība), Saskares_
 
-"Miega burvestība" nosūta savu saņēmēju dziļā, mierīgā miegā. Tai nav ietekmes uz būtnēm ar SIZ (izmēru) lielāku par burvja GRIB (POW). Ja vien mērķis nepretojas, tas snauž stundu skaitu, kas vienāds ar pusi no burvja GRIB. Tomēr burvestībai nepieciešami 1d3 Raundi, lai tā sāktu darboties, pirms mērķis zaudē samaņu. Jebkurš mēģinājums izmantot šo burvestību kaujas situācijā automātiski neizdodas.
+Miega stāvoklis nosūta savu saņēmēju dziļā, mierīgā miegā. Tam nav efekta uz būtnēm ar IZM, kas lielāks par burvja izsaucēja VAR. Ja vien mērķis nepretojas, tas snaudīs stundu skaitu, kas vienāds ar pusi no burvja izsaucēja VAR. Tomēr burvestībai nepieciešamas 1d3 raundi, lai iedarbotos, pirms mērķis zaudē samaņu. Jebkurš mēģinājums izmantot šo burvestību kaujas situācijā automātiski neizdodas.
 
-#### Svarīgums (Vigor)
+#### Enerģija
 
-_Pieskāriens_
+_Saskares_
 
-"Svarīgums" liek saņēmējam justies dzīvīgam un enerģiskam, un to izmanto, lai kompensētu smaga fiziska darba ietekmi. Burvestības darbības laikā visi Noguruma efekti, kas iegūti no smaga darba, tiek ignorēti (bet atgriežas pēc burvestības beigām).
+Enerģija liek saņēmējam justies dzīvam un enerģiskam, to izmanto, lai kompensētu smaga fiziska darba efektus. Burvestības ilguma laikā visi Noguruma efekti, kas iegūti no grūta darba, tiek ignorēti (bet atgriežas, kad burvestība beidzas).
 
-#### Raganredze (Witchsight)
+#### Raganas skatiens
 
 _Attālā, Pretestība (Gribasspēks)_
 
-"Raganredze" ļauj burvim redzēt aktīvu maģiju, apburtus priekšmetus un neredzamas būtnes (lai gan šādas lietas ir vienkārši ēnas atveidi), kas atrodas diapazonā un redzamības zonā. Tas var arī iekļūt cauri ilūzijām vai saskatīt pārveidoto būtņu patieso izskatu. Būtnēm, kuras vēlas palikt slēptas vai maskētas, ir jāuzvar pretējā metienā – to Gribasspēks pret burvja metienu.
+Raganas skatiens ļauj burvja izsaucējam redzēt aktīvu maģiju, apburtus priekšmetus un neredzamas būtnes (lai gan tādas lietas ir vienkārši ēnu atveidojumi), kas atrodas darbības rādiusā un redzeslokā. Tas var arī iekļūt cauri ilūzijām vai saskatīt mainīgo būtņu patieso izskatu. Būtnēm, kuras vēlas palikt apslēptas vai maskētas, ir jāuzvar pretējā metienā ar savu Gribasspēku pret izsaukšanas metienu.
 
 ---
-## Superspējas
+## Lielspējas
 
-Šeit iekļautās superspējas nodrošina pamata spēju, kas vai nu vienmēr ir aktīva, vai var tikt aktivizēta pēc vēlēšanās. Pamata spējām var būt arī īpaši triki, ko sauc par Pastiprinājumiem (Boosts), kuru aktivizēšanai nepieciešama Spēka punktu tērēšana. Tēls, kurš sasniedz 0 Spēka punktus, nevar izmantot Pastiprinājumus vai jebkādas pamata spējas ar izmaksām, līdz Spēka punkti tiek atgūti.
+Šeit iekļautās lielspējas nodrošina pamata spēju, kas vai nu vienmēr ir aktīva, vai arī var tikt aktivizēta pēc vēlēšanās. Pamata spējām var būt arī īpaši triki, ko sauc par Pastiprinājumiem (Boosts), kuru aktivizēšanai nepieciešams tērēt Spējas punktus. Tēls, kurš sasniedz 0 Spējas punktus, nevar izmantot Pastiprinājumus vai jebkādas pamata spējas ar izmaksām, līdz Spējas punkti ir atgūti.
 
-Ierobežojumi (Limits) ir neobligāti trūkumi, kurus var piemērot tēlam, pamata spējām vai Pastiprinājumiem. Katrs Ierobežojums detalizēti apraksta apstākļus, kuros tas attiecas, un Spēles vadītājam ir jāapstiprina jebkurš izvēlētais Ierobežojums.
+Ierobežojumi ir neobligāti trūkumi, kurus var piemērot tēlam, pamata spējām vai Pastiprinājumiem. Katrs Ierobežojums detalizēti apraksta apstākļus, kādos tas tiek piemērots, un Spēļu vadītājam ir jāapstiprina jebkurš izvēlētais Ierobežojums.
 
-Tēls var arī izvēlēties līdz diviem Ierobežojumiem no tālāk norādītā saraksta, kur viens nodrošina bonusa Pastiprinājumu, bet divi piešķir bonusa pamata spēju.
+Tēls var arī izvēlēties līdz pat diviem Ierobežojumiem no zemāk norādītā saraksta, kur viens nodrošina bonusa Pastiprinājumu vai divi piešķir bonusa pamata spēju.
 
 
 ---
-## Spēju apraksti
+## Spēju apraksti#### Animācija
 
-#### Animācija (Animation)
+Animējiet 2 kubikmetrus nedzīvu materiālu VAR metru rādiusā, lai izveidotu konstrukciju, parasti humanoīdā formā. Spēka punktu izmaksas ir vienādas ar izmantotā materiāla ar visaugstāko vērtību bruņu vērtību, kas ir arī konstrukcijas bāzes bruņu vērtība. Konstrukcijām ir bāzes SPĒ 2d6+16 (23), IZM 1d6+12 (15) un VEI 1d6+8 (11), ar sitienu punktiem (Hit Points), kas noteikti kā parasti. Tēlam jāizmanto darbības (actions), lai vadītu konstrukciju, un tā izmanto tēla prasmes jebkuriem metieniem. Ja konstrukcija saņem nopietnu ievainojumu krūškurvī vai vēderā, veiciet pretēju IZT pārbaudi pret uzbrukuma metienu. Ja tā nav veiksmīga, konstrukcija nekavējoties sabrūk. Bruņu vērtību/Spēka punktu izmaksu piemēri:
 
-Animējiet 2 kubikmetrus nedzīvu materiālu diapazonā līdz GRIB (POW) metros, lai izveidotu konstrukciju, parasti humanoīdā formā. Izmaksas Spēka punktos ir vienādas ar augstākās vērtības materiāla bruņu vērtību, kas ir arī konstrukcijas pamata bruņu vērtība. Konstrukcijām ir pamata SPĒ (STR) 2d6+16 (23), SIZ (izmērs) 1d6+12 (15) un VEI (DEX) 1d6+8 (11), ar Trāpījuma punktiem, kas noteikti kā parasti. Tēlam jāizmanto darbības, lai vadītu konstrukciju, un tā izmanto tēla prasmes jebkuriem metieniem. Ja konstrukcija saņem "Nopietnu ievainojumu" krūtīs vai vēderā, veiciet pretējo Izturības pārbaudi pret uzbrukuma metienu. Ja neveiksmīgi, konstrukcija nekavējoties sabrūk. Bruņu vērtību/Spēka punktu izmaksu piemērs:
-
-| Bruņu vērtības | Spēka punktu izmaksas |
+| Bruņu vērtības          | Spēka punktu izmaksas |
 |:--|:-:|
-| Plastmasa vai mīksts koks | 2 |
-| Betons vai ciets koks | 4 |
-| Mīksts metāls vai akmens | 6 |
-| Ciets metāls | 8 |
+| Plastmasa vai mīksta koksne | 2                |
+| Betons vai cieta koksne     | 4                |
+| Mīksts metāls vai akmens    | 6                |
+| Ciets metāls                | 8                |
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai acumirklī pārvietotu konstrukciju uz citu tā paša materiāla avotu diapazonā līdz GRIB (POW) metros.
+**Pastiprinājums (Boost):** Iztērējiet 2 Spēka punktus, lai acumirklī pārvietotu konstrukciju uz citu tāda paša materiāla avotu VAR metru rādiusā.
 
-#### Kaujas eksperts (Combat Expert)
+#### Cīņas eksperts
 
-Izvēlieties vienu kaujas ekspertīzes veidu no tālāk norādītā saraksta, plus vēl vienu par katru iztērēto pastiprinājumu.
+Izvēlieties viena veida cīņas kompetenci no tālāk redzamā saraksta, plus vēl vienu par katru iztērēto pastiprinājumu.
 
-- Tuvcīņas ekspertīze piešķir vienu bonusa Darbības punktu, ko var izmantot tikai aizsardzībā, un efektīvais ieroča izmērs tiek palielināts par vienu pakāpi uzbrukumiem un parijām (parry).
-- Tālās kaujas ekspertīze samazina situācijas modifikatorus par divām pakāpēm, nevis vienu, mērķējot, un tālās kaujas ieroču pārlādēšanas laiks tiek samazināts par vienu.
+- Melee kompetence piešķir vienu papildu darbības punktu (Action Point), kuru var izmantot tikai aizsardzībai, un efektīvais ieroča izmērs tiek palielināts par vienu pakāpi uzbrukumiem un atvairīšanai.
+- Ranged kompetence samazina situācijas modifikatorus par divām pakāpēm, nevis vienu, tēmējot, un attālinātās darbības ieroču pārlādēšanas laiks tiek samazināts par vienu.
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai iegūtu papildu Darbības punktu, ko var izmantot tikai Uzbrukumam vai Ieroča sagatavošanai.
+Pastiprinājums: Iztērējiet 2 Spēka punktus, lai iegūtu papildu darbības punktu, ko var izmantot tikai Uzbrukumam (Attack) vai Ieroča sagatavošanai (Ready Weapon).
 
-#### Izturība (Durability)
+#### Izturība
 
-Trāpījuma punkti tiek aprēķināti, izmantojot KON+SIZ+GRIB, un Dziedināšanas ātrums tiek aprēķināts, izmantojot KON+ pusi no GRIB, noapaļojot uz augšu.
+Sitienu punkti tiek aprēķināti, izmantojot IZT+IZM+VAR, un dzīšanas ātrums (Healing Rate) tiek aprēķināts, izmantojot IZT+ pusi no VAR, noapaļojot uz augšu.
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus kā brīvu darbību, lai atgūtu Dziedināšanas ātrumu zaudētajos Trāpījuma punktos vai vienu zaudētu noguruma līmeni.
+**Pastiprinājums:** Iztērējiet 2 Spēka punktus kā bezmaksas darbību, lai atgūtu dzīšanas ātrumu zaudētajos sitienu punktos vai zaudētu noguruma līmeni.
 
-#### Elementu kontrole (Elemental Control)
+#### Elementu kontrole
 
-Izvēlieties specifisku materiālu vai enerģijas veidu. Izmantojiet darbību, lai kontrolētu līdz pusei no GRIB kubikmetros elementa jebkur diapazonā līdz GRIB metriem. Ar veiksmīgu Amatniecības (specifisks elements) pārbaudi var mainīt pamata formu vai izveidot sarežģītas formas. Pēc izveides izvēlieties vai nu tuvcīņas uzbrukumu, vai tālās kaujas uzbrukumu. Tuvcīņas uzbrukumam ir sasniedzamība "Ļoti tālu", un tālās kaujas uzbrukumam ir diapazons 8/24/100, pēc tam izvēlieties jebkādus divus kaujas efektus. Bojājumus un spēku/izmēru nosaka GRIB: 8 vai mazāk: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Izvēlieties konkrētu materiālu vai enerģijas veidu. Iztērējiet darbību, lai kontrolētu līdz pusei no VAR kubikmetros šī elementa jebkurā vietā VAR metru rādiusā. Var mainīt pamatformu vai radīt sarežģītas formas ar veiksmīgu Amatniecības (konkrēts elements) pārbaudi. Pēc radīšanas izvēlieties vai nu tuvcīņas uzbrukumu, vai tālās darbības uzbrukumu. Tuvcīņas uzbrukumam ir "Ļoti liela" (Very Long) sniedzamība, bet tālās darbības uzbrukumam ir diapazons 8/24/100, pēc tam izvēlieties jebkurus divus Cīņas efektus. Bojājumus un spēku/izmēru nosaka VAR: 8 vai mazāk: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai uz ainu ietērptu tēlu šajā elementā. Cietie materiāli iegūst bruņu vērtību, kas vienāda ar vienu piekto daļu no GRIB, noapaļojot uz augšu. Ja tā ir enerģija, neapbruņoti uzbrukumi nodara papildu bojājumus, kas vienādi ar spējas pamata bojājumiem, un neapbruņoti uzbrukumi pret tēlu cieš tādus pašus bojājumus izmantotajai ekstremitātei.
+**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai ietērptu tēlu elementā uz visu ainu. Cietie materiāli iegūst bruņu vērtību, kas vienāda ar vienu piekto daļu no VAR, noapaļojot uz augšu. Ja tā ir enerģija, neapbruņoti uzbrukumi nodara papildu bojājumus, kas vienādi ar spējas bāzes bojājumiem, un neapbruņoti uzbrukumi pret tēlu cieš tādus pašus bojājumus tajā loceklī, kas tika izmantots.
 
-#### Enerģijas bulta (Energy Blast)
+#### Enerģijas trieciens
 
-Izšaujiet noteikta veida enerģijas triecienus diapazonā 10/30/120 un izvēlieties divus kaujas efektus, ko piemērot izveides brīdī. Bojājumus un spēku nosaka tēla GRIB: 8 vai mazāk: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Lai trāpītu, tēls met metienu pret attiecīgo Kaujas stilu (Combat Style) vai izmanto Neapbruņotu cīņu.
+Izšaujiet konkrēta enerģijas veida lādiņus līdz 10/30/120 diapazonam un izvēlieties divus Cīņas efektus, ko piemērot radīšanas brīdī. Bojājumus un spēku nosaka tēla VAR: 8 vai mazāk: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Lai trāpītu, tēls met pret piemērotu Cīņas stilu (Combat Style) spējai vai izmanto Neapbruņotu cīņu (Unarmed).
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus un darbību, lai nodarītu +1d6 bojājumus nākamajā enerģijas bultas uzbrukumā.
+**Pastiprinājums:** Iztērējiet 2 Spēka punktus un darbību, lai nodarītu +1d6 bojājumus nākamajā enerģijas trieciena uzbrukumā.
 
-#### Uzlabotas reakcijas (Enhanced Reactions)
+#### Uzlabotas reakcijas
 
-Iegūstiet bonusu iniciatīvas metieniem, kas vienāds ar Vieglatlētikas prasmes kritisko diapazonu, un nekad nepalieciet guļus stāvoklī pēc "Izvairīšanās" izmantošanas.
+Iegūstiet bonusu iniciatīvas metieniem, kas vienāds ar Vieglatlētikas (Athletics) prasmes kritisko diapazonu, un nekad nenonāciet guļus stāvoklī pēc Izvairīšanās (Evade) izmantošanas.
 
 **Pastiprinājums:** Iztērējiet 1 Spēka punktu, lai padarītu nākamo Vieglatlētikas vai Akrobātikas pārbaudi par vienu grūtības pakāpi vieglāku.
 
-#### Uzlabots ātrums (Enhanced Speed)
+#### Uzlabots ātrums
 
-Palieliniet pamata pārvietošanos ar reizinātāju, kas balstās uz VEI+GRIB. Maksimālais ātrums ārpus kaujas ir vienāds ar desmitkārtīgu modificēto pārvietošanos kilometros stundā.
+Palieliniet bāzes kustību ar reizinātāju, kura pamatā ir VEI+VAR. Maksimālais ātrums ārpus cīņas ir vienāds ar desmitkārtīgu modificēto kustību kilometros stundā.
 
-VEI+GRIB: 12 vai mazāk: x2, 13-24: x3, 25-36: x4, 37+: x5.
+VEI+VAR: 12 vai mazāk: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai iegūtu papildu Darbības punktu, ko var izmantot tikai Diapazona maiņai, Pārvietošanai vai Manevrēšanai.
+**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai iegūtu papildu darbības punktu, ko var izmantot tikai Diapazona maiņai (Change Range), Kustībai (Move) vai Manevrēšanai (Outmaneuver).
 
-#### Uzlabots spēks (Enhanced Strength)
+#### Uzlabots spēks
 
-Bojājumu bonuss tiek aprēķināts, izmantojot SPĒ+SIZ+GRIB, un maksimālo celšanas spēju nosaka tēla SPĒ+GRIB: 12 vai mazāk: 1 tonna, 13-24: 2 tonnas, 25-36: 3 tonnas, 37+: 5 tonnas. Neapbruņoti uzbrukumi skaitās liela izmēra, un tuvcīņas un mestajiem objektiem to izmērs vai spēks palielinās par vienu.
+Bojājumu bonuss tiek aprēķināts, izmantojot SPĒ+IZM+VAR, un maksimālo celšanas svaru nosaka tēla SPĒ+VAR: 12 vai mazāk: 1 tonna, 13-24: 2 tonnas, 25-36: 3 tonnas, 37+: 5 tonnas. Neapbruņoti uzbrukumi tiek uzskatīti par "liela izmēra", un tuvcīņas ieroču un mētājamo objektu izmērs vai spēks tiek palielināts par vienu pakāpi.
 
-**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai dubultotu maksimālo celšanas spēju vienai darbībai vai uzdevumam.
+**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai uz vienu darbību vai uzdevumu dubultotu maksimālo celšanas svaru.
 
-#### Lidojums (Flight)
+#### Lidojums
 
-Iegūstiet lidojuma ātrumu, kas vienāds ar GRIB metros, ar maksimālo ātrumu ārpus kaujas, kas vienāds ar desmitkārtīgu pārvietošanos kilometros stundā.
+Iegūstiet lidošanas ātrumu, kas vienāds ar VAR metros, ar maksimālo ātrumu ārpus cīņas, kas vienāds ar desmitkārtīgu kustību kilometros stundā.
 
-**Pastiprinājums:** Iztērējiet 3 Spēka punktus gaisa Pārvietošanās darbības laikā, lai uzsāktu triecienuzbrukumu (charge) pārvietošanās laikā.
+**Pastiprinājums:** Iztērējiet 3 Spēka punktus gaisa Kustības darbības laikā, lai uzsāktu triecienuzbrukumu kustības laikā.
 
-#### Paaugstināta maņa (Heightened Sense)
+#### Paaugstināta uztvere
 
-Izvēlieties vienu maņu. Uztveres pārbaudes ar šo maņu ir par vienu prasmes pakāpi vieglākas.
+Izvēlieties vienu maņu. Uztveres (Perception) pārbaudes ar šo maņu ir par vienu prasmju pakāpi vieglākas.
 
 **Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai izmantotu pamata spēju citai maņai.
 
-#### Iedzimtas bruņas (Inherent armor)
+#### Iedzimtas bruņas
 
-Nodrošina bruņu vērtību visām vietām, kas vienāda ar vienu trešdaļu no KON, noapaļojot uz augšu. Tēli var izvēlēties samazināt kādas vietas vērtību līdz pat diviem punktiem, lai pievienotu to citai vietai; piemēram, samazinot labās rokas vērtību, lai pievienotu galvai.
+Nodrošina bruņu vērtību visām vietām, kas vienāda ar vienu trešdaļu no IZT, noapaļojot uz augšu. Tēli var izvēlēties samazināt vērtību kādā vietā līdz pat diviem punktiem, lai pievienotu to citai vietai; piemēram, samazinot labās rokas bruņas, lai palielinātu galvas aizsardzību.
 
-**Pastiprinājums:** Kad trāpa uzbrukums, iegūstiet papildu bruņu punktu pret to par katru 1 iztērēto Spēka punktu.
+**Pastiprinājums:** Kad esat trāpīts uzbrukumā, iegūstiet papildu bruņu punktu pret to par katru iztērēto 1 Spēka punktu.
 
-#### Dzīvības atbalsts (Life Support)
+#### Dzīvības uzturēšana
 
-Iegūstiet imunitāti pret diviem vides apstākļiem vai bioloģiskām prasībām.
+Iegūstiet imunitāti pret diviem vides apstākļiem vai bioloģiskajām vajadzībām.
 
-**Pastiprinājums:** Iegūstiet imunitāti pret divām papildu vidēm vai prasībām.
+**Pastiprinājums:** Iegūstiet imunitāti pret divām papildu vidēm vai vajadzībām.
 
-#### Veiksmīgs (Lucky)
+#### Veiksminieks
 
-Aprēķiniet pamata Veiksmes punktus ar HAR (Harma) un pusi no GRIB, noapaļojot uz augšu.
+Aprēķiniet bāzes Veiksmes punktus ar HAR un pusi no VAR, noapaļojot uz augšu.
 
-**Pastiprinājums:** Kad tiek uzmesti dubultnieki, iztērējiet 3 Spēka punktus, lai iegūtu pagaidu Veiksmes punktu, kas jāizmanto līdz ainas beigām.
+**Pastiprinājums:** Kad uzkrīt vienādi skaitļi (doubles), iztērējiet 3 Spēka punktus, lai iegūtu pagaidu Veiksmes punktu, kas jāizlieto līdz ainas beigām.
 
-#### Reģenerācija (Regeneration)
+#### Reģenerācija
 
-Atgūstiet vienu Trāpījuma punktu visām ievainotajām vietām katra raunda sākumā, ja vietai nav ticis nodarīts "Smags ievainojums".
+Atgūstiet vienu sitienu punktu visās ievainotajās vietās katra raunda sākumā, ja šī vieta nav guvusi smagu ievainojumu (Major Wound).
 
-**Pastiprinājums:** Ieejiet dziedināšanas transā un tērējiet 1 Spēka punktu stundā, lai atgūtu vienu Trāpījuma punktu vietai ar "Smagu ievainojumu".
+**Pastiprinājums:** Ieejiet dzīšanas transā un iztērējiet 1 Spēka punktu stundā, lai atgūtu vienu sitienu punktu vietā ar smagu ievainojumu.
 
-#### Zinātnieks (Savant)
+#### Savants
 
-Izvēlieties trīs prasmes ar vienu kopīgu raksturojumu, un pārbaudes ar tām ir par vienu pakāpi vieglākas.
+Izvēlieties trīs prasmes, kurām ir viena kopīga raksturīpašība, un pārbaudes ar tām ir par vienu pakāpi vieglākas.
 
-**Pastiprinājums:** Izmantojot specializētu prasmi, piemēram, Amatniecību vai Zinātni, kas ir arī "Zinātnieka" prasme, iztērējiet 3 Spēka punktus, lai iegūtu specialitāti, kuras tēlam nav, vienam uzdevumam tādā pašā līmenī kā "Zinātnieka" prasme.
+**Pastiprinājums:** Izmantojot specializētu prasmi, piemēram, Amatniecību vai Zinātni, kas ir arī Savanta prasme, iztērējiet 3 Spēka punktus, lai iegūtu specialitāti, kuras tēlam nav, uz vienu uzdevumu tādā pašā līmenī kā Savanta prasme.
 
-#### Teleports (Teleport)
+#### Teleportācija
 
-Teleportējieties uz jebkuru redzamu punktu diapazonā līdz GRIB (POW) metros kā pārvietošanās darbību.
+Teleportējieties uz jebkuru redzamu punktu VAR metru rādiusā kā kustības darbību.
 
-**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai teleportētos līdz pusei no GRIB metros, noapaļojot uz augšu, kā brīvu darbību.
+**Pastiprinājums:** Iztērējiet 2 Spēka punktus, lai teleportētos līdz pusei no VAR metros, noapaļojot uz augšu, kā bezmaksas darbību.
 
-#### Tvaika veidols (Vaporous Form)
+#### Tvaikveida forma
 
-Kā darbību pārvērtieties tvaika vai smalku daļiņu mākonī, kas nespēj mijiedarboties ar fizisko pasauli, bet ir imūns pret fiziskiem uzbrukumiem. Iegūstiet lidošanas ātrumu, kas vienāds ar vienu trešdaļu no GRIB metros, un ejiet cauri jebkura izmēra atverēm. Uz enerģiju balstīti uzbrukumi nodara pusi bojājumu tēla Spēka punktiem. Ja tie samazinās līdz 0 Spēka punktiem, tēls atgriežas cietā stāvoklī un jāveic "Grūta Izturības pārbaude", citādi zaudē samaņu uz 1d6+1 minūtēm.
+Kā darbību pārvērtieties tvaika vai smalku daļiņu mākonī, kas nespēj mijiedarboties ar fizisko pasauli, bet ir imūns pret fiziskiem uzbrukumiem. Iegūstiet lidošanas ātrumu, kas vienāds ar vienu trešdaļu no VAR metros, un ejiet cauri jebkura izmēra atverēm. Uz enerģiju balstīti uzbrukumi nodara pusi no bojājumiem tēla Spēka punktiem. Ja Spēka punkti tiek samazināti līdz 0, tēls atgriežas cietā stāvoklī un tam jāveic Grūta IZT pārbaude, pretējā gadījumā tas zaudē samaņu uz 1d6+1 minūtēm.
 
-**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai sacietinātu vienu trāpījuma vietu uz vienu darbību.
+**Pastiprinājums:** Iztērējiet 3 Spēka punktus, lai uz vienu darbību padarītu vienu ievainojuma vietu cietu.
 
 ---
-## Ierobežojumi
+## Robežas
 
-#### Aktivizēšanas izmaksas
+#### Aktivizācijas izmaksas
 
-Tēls tērē 2 Spēka punktus, lai aktivizētu pamata spēju, vai palielina pastiprinājuma izmaksas par 2 Spēka punktiem. Alternatīvi, nepārtraukta spēja maksā 1 Spēka punktu katra gājiena sākumā, lai to uzturētu.
+Tēls iztērē 2 Spēka punktus, lai aktivizētu pamata spēju, vai palielina pastiprinājuma izmaksas par 2 Spēka punktiem. Alternatīvi, nepārtraukta spēja maksā 1 Spēka punktu katra gājiena sākumā, lai to uzturētu.
 
 #### Ārējs spēka avots
 
-Tēla spēju avots ir artefakts vai ierīce. Ja tas ir mazs vai rokas, avots ir neaizsargāts pret īpašiem efektiem, piemēram, "Atbruņot ieroci" vai "Paņemt ieroci". Ja tas ir liels, nepieciešama vismaz viena minūte, lai to uzvilktu vai aktivizētu, pirms spējas var izmantot.
+Tēla spēju avots ir artefakts vai ierīce. Ja tas ir mazs vai rokas ierīce, avots ir neaizsargāts pret īpašiem efektiem, piemēram, Atbruņošanu (Disarm Weapon) vai Ieroča atņemšanu (Take Weapon). Ja tas ir liels, nepieciešama vismaz viena minūte, lai to uzvilktu vai aktivizētu, pirms spējas var izmantot.
 
-#### Fatāls trūkums
+#### Fatāls defekts
 
-Tēlam ik pēc četrām stundām ir jāpatērē vai jāsaskaras ar kādu vielu, citādi jācieš noguruma līmenis. Veiksmīga Izturības pārbaude var to novērst, taču šīs pārbaudes grūtība palielinās par vienu pakāpi par katrām papildu četrām stundām, kad prasība netiek izpildīta.
+Tēlam ir jāpatērē viela vai jāsaskaras ar to ik pēc četrām stundām, pretējā gadījumā rodas noguruma līmenis. Veiksmīga IZT pārbaude var to novērst, taču šīs pārbaudes grūtības palielinās par vienu pakāpi par katrām papildu četrām stundām, kad prasība netiek izpildīta.
 
 #### Ierobežota kontrole
 
-Darbībās, kas saistītas ar spēju vai pastiprinājumu, tēla kritiskās neveiksmes diapazons palielinās līdz 90-00.
+Veicot darbības, kas saistītas ar spēju vai pastiprinājumu, tēla kritiskās neveiksmes diapazons palielinās līdz 90-00.
 
 #### Ierobežota spēja
 
-Spēja vai pastiprinājums darbojas tikai specifiskos apstākļos vai tam ir kāds samazināts efekts, ko nosaka Spēles vadītājs.
+Spēja vai pastiprinājums darbojas tikai konkrētos apstākļos vai tam ir kāds samazināts efekts, ko nosaka Spēles vadītājs (Games Master).
 
 #### Fizisks ierobežojums
 
-Tēlam ir pastāvīgs ierobežojošs stāvoklis, piemēram, aklums, pastāvīgs Trāpījuma punktu zudums vietā vai samazināta mobilitāte.
+Tēlam ir pastāvīgs ierobežojošs stāvoklis, piemēram, aklums, pastāvīgs sitienu punktu zudums noteiktā vietā vai samazināta mobilitāte.
 
-#### Neaizsargātība
+#### Ievainojamība
 
-Tēls cieš dubultus bojājumus no noteikta veida uzbrukuma. Alternatīvi, tēlam katrā gājienā jāveic "Grūtas Izturības pārbaudes", esot 5 metru attālumā no noteiktas vielas, citādi jācieš noguruma līmenis.
+Tēls saņem dubultus bojājumus no konkrēta uzbrukuma veida. Alternatīvi, tēlam ir jāveic Grūtas IZT pārbaudes katrā gājienā, esot 5 metru rādiusā no konkrētas vielas, pretējā gadījumā tas iegūst noguruma līmeni.

@@ -1,46 +1,46 @@
 # Uchawi na Nguvu
 
-Wasimamizi wa Michezo ambao wanataka kujumuisha uchawi na/au nguvu za ajabu katika michezo yao watapata sheria za msingi za kufanya hivyo katika sehemu hii. Ni bora daima kuhakikisha kwamba kila mtu anayehusika katika mchezo anafurahishwa na kuwepo kwa uchawi au nguvu za ajabu, na daima kutoa mawazo juu ya aina ya mchezo ambao unaweza kuzalishwa.
+Wakuu wa Michezo (Games Masters) wanaotaka kujumuisha uchawi na/au nguvu kuu katika michezo yao watapata kanuni za msingi za kufanya hivyo katika sehemu hii. Daima ni bora kuhakikisha kuwa kila mtu anayehusika kwenye mchezo anafurahia kuwepo kwa uchawi au nguvu kuu, na daima fikiria kuhusu aina ya mchezo ambao unaweza kuzalishwa.
 
 ---
-## Jinsi Nguvu Hutumika
+## Jinsi Nguvu Zinavyofanya Kazi
 
-Kuroga au kutumia nguvu za ajabu kwa kawaida kunahitaji matumizi ya aina fulani ya nishati inayotokana na hifadhi ya pointi. Ukubwa wa hifadhi hii ni sawa na sifa ya NGUVU ya mhusika, na katika kesi ya wachawi hifadhi hiyo inajulikana kama Pointi za Uchawi; na kwa mashujaa, Pointi za Nguvu. Kutumia uchawi au nguvu hugharimu idadi fulani ya pointi ambazo hupunguzwa kutoka kwenye hifadhi hii, na hifadhi inapokuwa tupu, uchawi zaidi hauwezi kutumika, au nguvu kutumika, hadi ipone.
+Kutupa tahajia (spell) au kutumia nguvu kuu kawaida huhitaji matumizi ya aina fulani ya nishati inayotolewa kutoka kwenye dimbwi la pointi. Ukubwa wa dimbwi hili ni sawa na sifa ya UWE ya mhusika, na katika kesi ya wachawi dimbwi hili hujulikana kama Pointi za Uchawi; na kwa mashujaa wenye nguvu, Pointi za Nguvu. Kutumia uchawi au nguvu kunagharimu idadi fulani ya pointi ambazo hukatwa kutoka kwenye dimbwi hili, na wakati dimbwi likiwa tupu, hakuna uchawi mwingine unaoweza kutupwa, au nguvu kutumika, hadi pale litakapopata nafuu.
 
-Uchawi hupona kwa idadi ya pointi sawa na Kiwango cha Uponyaji cha mhusika kwa saa hadi wafikie kiwango sawa na NGUVU ya mhusika. Hii inadhani kwamba mhusika anaweza kupumzika kikamilifu, bila kushiriki katika shughuli nyingine, na haponi kutokana na uchovu au jeraha. Ikiwa ndivyo, Msimamizi wa Michezo anaweza kuongeza muda unaochukuliwa kupona Pointi za Uchawi/Nguvu, au kupunguza Kiwango cha Uponyaji.
+Uchawi hurejea kwa idadi ya pointi sawa na Kiwango MVU Uponyaji MVU mhusika kwa saa hadi wafikie kiwango sawa na UWE ya mhusika. Hii inadhani kuwa mhusika anaweza kupumzika kikamilifu, bila kushiriki katika shughuli nyingine zozote, na haporejei kutoka kwenye uchovu au jeraha. Ikiwa ndivyo, Mkuu wa Mchezo anaweza kuongeza muda unaochukuliwa kurejea Pointi za Uchawi/Nguvu, au kupunguza Kiwango MVU Uponyaji.
 
-Kwa nguvu za ajabu, Pointi za Nguvu hupona kwa kiwango cha moja kwa kila dakika kamili ya kupumzika, lakini wahusika wanaweza pia kutumia Pointi ya Bahati ili kupata Pointi za Nguvu 1d4+1 zilizopotea mara moja hadi kiwango chao cha juu.
+Kwa nguvu kuu, Pointi za Nguvu hurejea kwa kiwango MVU moja kwa kila dakika kamili ya kupumzika, lakini wahusika wanaweza pia kutumia Pointi ya Bahati ili kupata mara moja 1d4+1 Pointi za Nguvu zilizopotea hadi kiwango chao MVU juu.
 
-#### Kuroga
+#### Kutupa Tahajia
 
-Uchawi hutumika kwa kutumia ujuzi wa Uchawi; bila huo, uchawi hauwezekani. Kuandaa na kuroga kunahitaji Kitendo kimoja na roll ya Uchawi iliyofanikiwa. Ikiwa roll itashindwa, uchawi haufanyi kazi na lazima uandaliwe na kujaribiwa tena baadaye. Ikiwa roll itafanikiwa, uchawi hufanya kazi, na Pointi za Uchawi hupunguzwa kutoka kwenye hifadhi ya Pointi za Uchawi.
+Tahajia hutupwa kwa kutumia ujuzi wa Uchawi; bila huo, uchawi hauwezekani. Kutayarisha na kutupa tahajia kunahitaji Kitendo kimoja na roll ya Uchawi iliyofanikiwa. Ikiwa roll itafeli, tahajia haifanyi kazi na lazima iwekwe tayari na kujaribiwa tena baadaye. Ikiwa roll itafanikiwa, tahajia inafanya kazi, na Pointi za Uchawi hukatwa kutoka kwenye dimbwi la Pointi za Uchawi.
 
-#### Kutumia Nguvu za Ajabu
+#### Kutumia Nguvu Kuu
 
-Wahusika wa mashujaa wanagundua kuwa nguvu zao za ajabu zinafanya kazi daima, na hivyo hazihitaji roll kutumia au matumizi ya Pointi za Nguvu; hata hivyo, ikiwa wanajaribu Kukuza nguvu, basi kuna gharama ya Pointi za Nguvu.
+Wahusika mashujaa hugundua kuwa nguvu yao kuu inafanya kazi kila wakati, na kwa hivyo haihitaji roll ili kuitumia au matumizi ya Pointi za Nguvu; hata hivyo, ikiwa unajaribu Kuboresha (Boost) nguvu, basi kuna gharama ya Pointi za Nguvu.
 
 ---
 ## Nguvu za Mwanzo na Kujifunza Nyingine Mpya
 
 #### Wachawi
 
-Wachawi huanza na mizimu 1d4+1, yote ambayo hutumika kwa kutumia ujuzi wa Uchawi. Mchezaji na Msimamizi wa Michezo wanapaswa kushauriana kuhusu mizimu ipi inapatikana na jinsi mhusika aliipata. Kwa mfano, mhusika anaweza kuwa mwanafunzi wa mchawi wa eneo hilo, au anaweza kuwa amejifunza uchawi akiwa mdogo kutoka kwa mama yake.
+Wachawi huanza na 1d4+1 tahajia, ambazo zote hutupwa kwa kutumia ujuzi wa Uchawi. Mchezaji na Mkuu wa Mchezo wanapaswa kushauriana kuhusu ni tahajia zipi zinazopatikana na jinsi mhusika alivyozipata. Kwa mfano, mhusika anaweza kuwa alikuwa mwanafunzi wa mchawi wa eneo hilo, au anaweza kuwa amejifunza uchawi kutoka kwa mama yake.
 
-Mizimu zaidi inaweza kujifunza, lakini inagharimu Roli 3 za Uzoefu kujifunza mizimu mpya, na inachukua wiki moja ya masomo na mazoezi ya kujitolea. Mizimu mpya lazima ijifunze kutoka kwa mwalimu au chanzo kinachotegemewa (kama vile hati-kunjo au kitabu cha uchawi kilichoundwa kufundisha mizimu mpya).
+Tahajia zaidi zinaweza kujifunza, lakini inagharimu Rolls 3 za Uzoefu kujifunza tahajia mpya, na inachukua wiki moja ya kusoma na kufanya mazoezi kwa bidii. Tahajia mpya lazima zijifunze kutoka kwa mwalimu au chanzo MVU kuaminika (kama vile gombo au kitabu MVU uchawi kilichoundwa kufundisha tahajia mpya).
 
-#### Mashujaa
+#### Mashujaa Wenye Nguvu
 
-Kwa mashujaa, Msimamizi wa Michezo na mchezaji wanapaswa kuamua jinsi mhusika alipata nguvu zake, na chanzo cha nguvu hizo ni nini (kwa mfano, inaweza kuwa vazi maalum la silaha, uwezo uliopatikana kupitia kufichuliwa na miale ya anga, au mabadiliko ya maumbile).
+Kwa mashujaa wenye nguvu, Mkuu wa Mchezo na mchezaji wanapaswa kuamua jinsi mhusika alivyopata nguvu zake, na chanzo MVU nguvu hiyo ni nini (kwa mfano, inaweza kuwa suti ya silaha maalum, uwezo uliopatikana kupitia mionzi ya ulimwengu, au mabadiliko ya kijenetiki).
 
-Mashujaa huanza na idadi ya nguvu msingi zinazodhaminiwa na NGUVU pamoja na Sifa nyingine kulingana na chanzo cha nguvu: CON kwa fiziolojia iliyobadilika (mabadiliko ya maumbile, spishi za kigeni, majaribio) au INT kwa teknolojia au nguvu zinazotegemea ujuzi (cybernetics, suti za vita, mafunzo makali, na kadhalika). Tazama jedwali hapa chini.
+Mashujaa wenye nguvu huanza na idadi ya nguvu za msingi zilizobainishwa na UWE pamoja na Sifa nyingine kulingana na chanzo MVU nguvu hizo: UVU kwa fiziolojia iliyobadilishwa (mabadiliko, spishi za kigeni, majaribio) au AKI kwa nguvu za teknolojia au ujuzi (sibonetiki, suti za vita, mafunzo makali, na kadhalika). Tazama jedwali hapa chini.
 
-Nguvu msingi inaweza kubadilishwa kwa Nyongeza mbili ambazo zinaweza kutumika kwa nguvu yoyote msingi. Mhusika anaweza pia kuchukua hadi Vizuizi viwili kutoka kwenye orodha inayoanzia katika sehemu ya Nguvu za Ajabu, kimoja kikitoa Nyongeza ya bonasi, au viwili vikitoa nguvu msingi ya bonasi. Uchaguzi wa nguvu na mifano ya Nyongeza imeorodheshwa katika sehemu ya [Nguvu za Ajabu](0007_Magic.md?id=superpowers).
-
-
-##### Jedwali la Nguvu za Ajabu
+Nguvu ya msingi inaweza kubadilishwa kwa Maboresho (Boosts) mawili ambayo yanaweza kutumika kwa nguvu yoyote ya msingi. Mhusika anaweza pia kuchukua hadi Vikwazo (Limits) viwili kutoka kwenye orodha inayoanza katika sehemu ya Nguvu Kuu, huku kimoja kikitoa Uboreshaji wa ziada, au viwili vikitoa nguvu kuu ya ziada. Uteuzi wa nguvu na mifano ya Maboresho yameorodheshwa katika sehemu ya [Nguvu Kuu](0007_Magic.md?id=superpowers).
 
 
-| NGUVU+(CON au INT) | Nguvu Msingi |
+##### Jedwali la Nguvu Kuu
+
+
+| UWE+(UVU au AKI) | Nguvu za Msingi |
 |:-:|:-:|
 | 1-12 | 1 |
 | 13-20 | 2 |
@@ -52,360 +52,359 @@ Nguvu msingi inaweza kubadilishwa kwa Nyongeza mbili ambazo zinaweza kutumika kw
 ---
 ## Uchawi
 
-Wakati wowote mhusika anapotaka kutumia mizimu, hufanya roll dhidi ya ujuzi wao wa Uchawi. Kuroga huchukua zamu moja, lakini idadi ya Pointi za Uchawi zinazotumika na ikiwa mizimu inafanikiwa inategemea matokeo ya roll.
+Wakati wowote mhusika anapotaka kutumia tahajia, hufanya roll dhidi ya ujuzi wake wa Uchawi. Kutupa huchukua zamu moja, lakini kiasi MVU Pointi za Uchawi zilizotumika na iwapo tahajia itafanikiwa inategemea matokeo ya roll.
 
 Ikiwa roll ya Uchawi ni...
 
-- **Mafanikio Makubwa Kufaulu:** gharama ya Pointi za Uchawi ya mizimu ni sifuri.
-- **Kufaulu:** mrogaji hupoteza Pointi 1 ya Uchawi, na mizimu hufanya kazi
-- **Kushindwa:** mrogaji hupoteza Pointi 1 ya Uchawi, lakini mizimu haifanyi kazi.
-- **Kujikwaa:** mrogaji hupoteza Pointi za Uchawi 1d3 kwa mizimu na mizimu inashindwa.
+- **Mafanikio Muhimu:** gharama ya Pointi za Uchawi ya tahajia ni sifuri.
+- **Mafanikio:** mtupaji hupoteza Pointi 1 ya Uchawi, na tahajia inafanya kazi.
+- **Kufeli:** mtupaji hupoteza Pointi 1 ya Uchawi, lakini tahajia haifanyi kazi.
+- **Kukosea (Fumble):** mtupaji hupoteza 1d3 Pointi za Uchawi kwa ajili ya tahajia na tahajia inafeli.
 
-Kutokana na asili yao ndogo au hafifu, mizimu yote ya Uchawi ina Ukali na Ukubwa wa 1.
+Kwa sababu ya asili yao ndogo au ya kawaida, tahajia zote za Uchawi zina Uzito na Ukubwa wa msingi wa 1.
 
 
-#### Mipaka ya Uwezo wa Uchawi
+#### Vikwazo kwa Uwezo wa Uchawi
 
-Wahusika hawana kikomo halisi cha idadi ya mizimu ya Uchawi wanayoweza kujifunza, mradi tu Msimamizi wa Michezo anawaruhusu kupata mizimu mipya.
+Wahusika hawana kikomo halisi MVU idadi ya tahajia za Uchawi wanazoweza kujifunza, mradi Mkuu wa Mchezo awaruhusu kupata mpya.
 
-#### Mizimu
+#### Tahajia
 
-Mizimu hufafanuliwa na sifa mbalimbali zinazoelezea athari za mizimu na vikwazo vyovyote maalum. Kila mizimu ni tofauti na mingine ikiwa na sifa chache kuliko mingine.
+Tahajia hufafanuliwa na sifa mbalimbali zinazobainisha athari za tahajia na vikwazo vyovyote mahususi. Kila tahajia ni tofauti huku baadhi zikiwa na sifa chache kuliko zingine.
 
-#### Muda wa Mizimu
+#### Muda wa Tahajia
 
-Isipokuwa kama mizimu ina sifa za Umakinifu au Papo Hapo, ina muda wa asili unaodumu kwa eneo lote au kitendo ambacho mizimu ilitumika. Mizimu michache ina muda maalum ulioandikwa katika ufafanuzi wa mizimu.
+Isipokuwa tahajia iwe na sifa za Umakinifu au Papo Hapo, ina muda asilia unaodumu kwa onyesho zima au kitendo ambacho tahajia ilitumika. Tahajia chache zina muda maalum uliotajwa katika ufafanuzi wa tahajia.
 
 #### Sifa za Uchawi
 
 Sifa za Uchawi ni kama ifuatavyo:
 
-- **Umakinifu:** Athari za mizimu hubaki mahali ikiwa mrogaji ataendelea kujikita katika kuishikilia. Umakinifu unahitaji mrogaji kuwa huru kutoka kwa usumbufu wote wa kimwili na kiakili: usumbufu wowote kama huo unakatiza umakinifu, na kusababisha kufutwa mara moja kwa mizimu.
-- **Papo Hapo:** Athari za mizimu hutokea mara moja. Haina muda.
-- **Mbali:** Mizimu yenye sifa ya Mbali inaweza kutumika kwa umbali wa hadi alama ya Uchawi ya mhusika kwa mita. Mrogaji lazima ajue eneo la lengo, kama vile 'kujificha nyuma ya mlango': ikiwa hawawezi kuona moja kwa moja au kuhisi lengo la mizimu, basi roll ya Uchawi inakuwa ngumu zaidi kwa daraja moja.
-- **Kukinga (Uvumilivu, Kuepuka, Utashi):** Mizimu yoyote isiyokubaliwa kwa urahisi na lengo inaweza kupingwa kikamilifu kwa kutumia Uvumilivu, Kuepuka au Utashi, kama inavyoamuliwa na sifa hii. Ili kukinga mizimu kwa mafanikio, lengo lazima lishinde Roll ya Kupingana ya ujuzi husika dhidi ya matokeo ya roll ya Uchawi ya mrogaji. Ikiwa lengo litashindwa katika roll, basi mizimu itafanya kazi kama kawaida. Kumbuka kuwa kukinga kwa kawaida ni kitendo cha kujizuia ikiwa Uvumilivu au Utashi vinatumika. Ikiwa mizimu inahitaji lengo Kuepuka, basi inagharimu Pointi ya Kitendo kufanya jaribio la Kuepuka. Malengo yasiyo na Pointi za Kitendo za kutumia katika kuepuka yatakuwa hayana nguvu dhidi ya athari za mizimu.
-- **Kugusa:** Mrogaji lazima awe katika mguso wa kimwili na lengo wakati mizimu inatumiwa. Ikiwa lengo linakusudia kukinga mguso wa kimwili, basi mrogaji huenda atashindwa kukamilisha mizimu yake isipokuwa hali fulani maalum itazuia lengo kujiondoa, kama vile mshangao au athari maalum ya Mshiko. Mizimu ya kugusa inahitaji tu kugusa lengo au vifaa vyake vinavyobebwa ili kufanya kazi.
+- **Umakinifu:** Athari za tahajia hubaki mahali pake ikiwa mtupaji ataendelea kukaza umakinifu katika kuidumisha. Umakinifu unahitaji mtupaji kuwa huru na visumbufu vyote vya kimwili na kiakili: usumbufu wowote kama huo hukatiza umakinifu, na kusababisha tahajia kufutwa mara moja.
+- **Papo Hapo:** Athari za tahajia hutokea mara moja. Haina muda.
+- **Umbali:** Tahajia zenye sifa ya Umbali zinaweza kutupwa kwa umbali wa hadi alama ya Uchawi ya mhusika kwa mita. Mtupaji lazima ajue mahali alipo mlengwa, kama vile 'kujificha nyuma ya mlango': ikiwa hawawezi kumwona moja kwa moja au kuhisi mlengwa wa tahajia, basi roll ya Uchawi inakuwa ngumu kwa daraja moja.
+- **Kukinza (Uvumilivu, Kwepa, Nguvu ya Utashi):** Tahajia yoyote ambayo haikubaliwi kwa urahisi na mlengwa inaweza kukinziwa kikamilifu kwa kutumia Uvumilivu, Kwepa au Nguvu ya Utashi, kama ilivyobainishwa na sifa hii. Ili kukinza tahajia kwa mafanikio, mlengwa lazima ashinde Roll ya Kinzani ya ujuzi husika dhidi ya matokeo ya utupaji wa Uchawi ya mtupaji. Ikiwa mlengwa atafeli katika roll hiyo, basi tahajia inaanza kufanya kazi kama kawaida. Kumbuka kuwa kukinza kawaida ni kitendo MVU kupokea ikiwa Uvumilivu au Nguvu ya Utashi ndivyo vinavyotumiwa. Ikiwa tahajia inahitaji mlengwa Kwepa, basi inagharimu Pointi ya Kitendo kujaribu Kwepa. Walengwa wasio na Pointi za Kitendo za kutumia katika kukwepa kwa hivyo watakuwa hawana uwezo dhidi ya athari ya tahajia.
+- **Mguso:** Mtupaji lazima awe katika mgusano wa kimwili na mlengwa wakati tahajia inapotupwa. Ikiwa mlengwa ana nia ya kukinza mgusano wa kimwili, basi mtupaji atashindwa kukamilisha tahajia yake isipokuwa hali maalum izuie mlengwa kuondoka, kama vile kushitukizwa au athari maalum ya Kunyakua (Grip). Tahajia ya mguso inahitaji tu kugusa mlengwa au vifaa vyake vilivyobebwa ili kufanya kazi.
 
 
 ---
-## Maelezo ya Mizimu
+## Ufafanuzi wa Tahajia
 
-#### Kengele
+#### Kengele (Alarm)
 
 _Muda Maalum_
 
-Kutumia Kengele kwenye eneo kama chumba au uwazi mdogo huunda uhusiano wa muda wa kiakili kati ya eneo hilo na mrogaji. Ikiwa eneo hilo linafikiwa na kiumbe hai chenye UKUBWA mkubwa kuliko 1, mrogaji hutambuliwa kiotomatiki kuwa kuna kitu kimeingia bila kujali umbali ni mkubwa kiasi gani. Kengele kwa kawaida huwa hisia ya kung'ata au mshangao wa kiakili ambao utamwamsha mrogaji. Kengele inaweza pia kutumika kwenye kitu binafsi, ikiamsha inapotaguswa au kuhamishwa.
+Kutupa Kengele kwenye eneo kama vile chumba au uwanja mdogo huunda kifungo MVU muda MVU kiakili kati ya eneo hilo na mtupaji. Ikiwa eneo hilo litaingiliwa na kiumbe hai chenye UKU zaidi ya 1, mtupaji hufahamishwa kiotomatiki kuwa kuna kitu kimekiuka bila kujali umbali. Kengele kawaida ni hisia ya kuchochea au maumivu ya kiakili ambayo yatamshtua mtupaji. Kengele inaweza pia kutumika kwenye kitu binafsi, ikichochea inapoguswa au kusogezwa.
 
-#### Kuzuia
+#### Zuia (Avert)
 
-_Papo Hapo, Mbali_
+_Papo Hapo, Umbali_
 
-Kuzuia hutumika kufukuza mizimu mingine ndani ya masafa. Kuzuia kunaweza kutumika kwa kujibu ili kuzuia mizimu ya kukera, kwa kutumia Kitendo Kinachojibu cha Uchawi wa Kukabiliana.
+Zuia hutumiwa kufuta tahajia nyingine iliyo katika masafa. Zuia inaweza kutupwa kwa njia ya kujilinda ili kugeuza tahajia za kushambulia, kwa kutumia Kitendo MVU Kujilinda MVU Kupinga Uchawi.
 
-#### Kuchanganya Akili
+#### Changanya (Befuddle)
 
-_Mbali, Kukinga (Utashi)_
+_Umbali, Kinza (Nguvu ya Utashi)_
 
-Kuchanganya Akili husababisha kuchanganyikiwa ndani ya akili ya lengo la kimwili. Mada ya mizimu ina ugumu wa kufikiri wazi, kusahau ilipo, inafanya nini na kwa nini – mara nyingi huanguka katika mawazo yasiyohusiana. Malengo yaliyochanganyikiwa bado yanaweza kujitetea, lakini hayawezi kuanzisha shughuli yoyote yenye tija hadi mizimu iishe. Aina yoyote ya mashambulizi au kitendo cha kutishia huacha mara moja mizimu, iwe ilielekezwa hasa kwa lengo lililochanganyikiwa au la.
+Changanya husababisha mkanganyiko ndani ya akili ya mlengwa wa kimwili. Mhusika wa tahajia ana ugumu wa kufikiri sawasawa, akisahau alipo, anachofanya na kwa nini - mara nyingi akipotea katika mistari ya mawazo isiyohusiana. Walengwa waliochanganyikiwa bado wanaweza kutenda kwa ajili ya kujilinda, lakini hawawezi kuanzisha shughuli yoyote ya kujenga hadi tahajia itakapokwisha. Aina yoyote ya shambulio au kitendo MVU kutishia huvunja tahajia mara moja, bila kujali ikiwa ilielekezwa mahususi kwa mlengwa aliyechanganyikiwa.
 
-#### Ncha Kali
+#### Bladekali (Bladesharp)
 
-_Kugusa_
+_Mguso_
 
-Ncha Kali hutumika kwenye silaha za kukata na kutoboa. Huongeza uharibifu wa silaha kwa hatua moja ya kete na kwa bahati huacha ncha ikiwa imechongwa baada ya mizimu kumalizika. Mizimu hii mara nyingi hutumika kwenye zana kama shoka za kukata miti, plau, na nyembe. Hivyo, kutumia mizimu hii kwenye jambia huiongeza hadi uharibifu wa 1d6+1, wakati mizimu hiyo hiyo kwenye shoka kubwa ingeongeza hadi uharibifu wa 2d8+2. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
+Bladekali hutupwa kwenye silaha za melee zilizokali na zenye ncha. Huongeza uharibifu wa silaha kwa hatua moja ya kete na kwa bahati mbaya huacha makali yakiwa yamenolewa baada ya tahajia kumalizika. Tahajia hii hutumiwa mara nyingi kwenye zana kama vile mashoka ya kukatia miti, jembe, na wembe. Kwa hivyo, kutupa tahajia hii kwenye jambia huiongeza hadi 1d6+1 uharibifu, ilhali tahajia hiyo hiyo kwenye shoka kubwa ingeiongeza hadi 2d8+2 uharibifu. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
-#### Mvunjiko
+#### Piga (Bludgeon)
 
-_Kugusa_
+_Mguso_
 
-Mvunjiko ni kama Ncha Kali lakini hutumika kwenye silaha na zana zinazosababisha jeraha la nguvu butu badala ya kukata au kutoboa. Kwa kawaida hutumika kusaidia na kupuria nafaka, kuosha sufu, au kazi nzito kama hizo.
+Piga ni kama Bladekali lakini hutumiwa kwenye silaha na zana zinazosababisha maumivu ya kipigo MVU butu badala ya uharibifu wa kukata au kuchoma. Kawaida hutumiwa kusaidia katika kupura nafaka, kuchachua sufu, au kazi nyingine nzito zinazofanana.
 
-#### Pumzi
+#### Pumzi (Breath)
 
-_Kugusa_
+_Mguso_
 
-Pumzi huruhusu mpokeaji kushika pumzi yake kwa muda mrefu, ili waweze kujitosa kwa muda katika mazingira hatari, kama vile chini ya maji; au angahewa iliyochafuliwa na vumbi la mawe, gesi, moshi, au sumu. Mizimu hudumu kwa kiwango cha juu cha nusu ya NGUVU ya mrogaji kwa dakika, wakati huo mpokeaji hawezi kuongea, au pumzi inapotea, na lazima mara moja aanze kupumua kutoka mazingira yake akiteseka na hatari zozote zilizopo – iwe ni kukosa hewa, kuzama, sumu, n.k.
+Pumzi humruhusu mpokeaji kushikilia pumzi yake kwa muda mrefu, ili waweze kwenda kwa muda katika mazingira hatarishi, kama vile chini ya maji; au angahewa iliyochafuliwa na vumbi la mwamba, gesi, moshi, au sumu. Tahajia hudumu kwa muda usiozidi nusu ya UWE ya mtupaji kwa dakika, wakati huo mpokeaji hawezi kuzungumza, au pumzi hupotea, na lazima waanze kupumua kutoka kwenye mazingira yao wakikabili hatari zilizopo - ziwe za kukosa hewa, kuzama, sumu, n.k.
 
 <details>
 
-<summary>* Marekebisho ya Jumuiya</summary>
+<summary>* Errata ya Jumuiya</summary>
 
 _**Pumzi**_
 
-_Maelezo ya awali ya mizimu yalikuwa kama ifuatavyo: "Pumzi huruhusu mpokeaji kushika pumzi yake kwa muda mrefu, ili waweze kujitosa kwa muda katika mazingira hatari, kama vile chini ya maji; au angahewa iliyochafuliwa na vumbi la mawe, gesi, moshi, au sumu. Mizimu hudumu kwa kiwango cha juu cha nusu ya NGUVU ya mrogaji kwa dakika, wakati huo mpokeaji hawezi kuongea, au pumzi inapotea, na mara moja huanza kukosa hewa (au kupata sumu)."_
+_Ufafanuzi wa awali wa tahajia ulikuwa kama ifuatavyo: "Pumzi humruhusu mpokeaji kushikilia pumzi yake kwa muda mrefu, ili waweze kwenda kwa muda katika mazingira hatarishi, kama vile chini ya maji; au angahewa iliyochafuliwa na vumbi la mwamba, gesi, moshi, au sumu. Tahajia hudumu kwa muda usiozidi nusu ya UWE ya mtupaji kwa dakika, wakati huo mpokeaji hawezi kuzungumza, au pumzi hupotea, na wanaanza kukosa hewa (au kuwa na sumu) mara moja."_
 
-_Hii inaweza kusomwa kama athari ya kukera inayosababishwa mwishoni mwa mizimu, ambayo inaonekana kinyume na nia ya waandishi na muundo wa mizimu kama hiyo kama huduma badala ya silaha. Kwa hivyo marekebisho ya Jumuiya hapo juu. Tutasasisha maandishi haya ikiwa waandishi asili watarekebisha sheria kama ilivyoandikwa._
+_Hii inaweza kusomwa kama athari ya kushambulia iliyochochewa mwishoni mwa tahajia, ambayo inaonekana kinyume na nia ya waandishi na muundo wa tahajia kama hizo kuwa huduma badala ya silaha. Kwa hivyo marekebisho ya Errata ya Jumuiya hapo juu. Tutasasisha maandishi haya ikiwa waandishi asilia watarekebisha kanuni kama ilivyoandikwa._
 
 </details>
 
-#### Kutuliza
+#### Tuliza (Calm)
 
-_Mbali, Kukinga (Utashi)_
+_Umbali, Kinza (Nguvu ya Utashi)_
 
-Kutuliza hujaribu kupunguza hisia za lengo, labda kuhakikisha kuwa mpenzi asiyeshika tamaa hajisisitizi sana, mpinzani mwenye hofu hapigi kelele kuomba msaada au kwamba silaha hazivutwi kwa hasira. Mtu aliyetulizwa haathiriwi kiakili vinginevyo; Hivyo, aina yoyote ya shambulio au kitendo cha kutishia bado huruhusu lengo kujitetea na hata kushambulia, ingawa watafanya hivyo kwa utulivu na busara.
+Tuliza hujaribu kupunguza matamanio ya mlengwa, pengine kuhakikisha kwamba mpenzi mwenye upendo hakazii ombi lake, mpinzani anayeogopa hapigi kelele kuomba msaada au kwamba silaha hazichomolewi kwa hasira. Mtu aliyetulizwa haathiriwi kiakili; kwa hivyo, aina yoyote ya shambulio au kitendo MVU kutishia bado humruhusu mlengwa kujilinda na hata kushambulia, ingawa atafanya hivyo kwa njia ya utulivu na yenye akili timamu.
 
-#### Baridi
+#### Poza (Chill)
 
-_Papo Hapo, Kugusa_
+_Papo Hapo, Mguso_
 
-Baridi hupunguza kwa kiasi kikubwa joto la vitu vidogo (visivyozidi mkono wa mrogaji) hadi joto la maji ya barafu. Inafaa kwa kupoza haraka vitu vya moto, kupoza vinywaji, na kadhalika. Mizimu haigandishi kitu na wala haisababishi uharibifu wowote kwa muundo wake: inakifanya tu kiwe baridi sana.
+Poza hupunguza joto la vitu vidogo (visivyozidi mkono wa mtupaji) hadi joto la maji ya barafu. Ni muhimu kwa kupoza vitu vya moto haraka, kupoza vinywaji, na kadhalika. Tahajia haigandishi kitu na wala haisababishi uharibifu wowote kwenye muundo wake: inakifanya tu kuwa baridi sana.
 
-#### Giza
+#### Giza (Darkness)
 
-_Umakinifu, Mbali_
+_Umakinifu, Umbali_
 
-Giza huunda eneo la kivuli, sawa na NGUVU kwa mita za mraba, ambalo huzuia mwanga wote ndani yake. Huu ni ujazo wa kutosha kujaza chumba kidogo, urefu wa korido au kuunda wingu dogo likirogwa nje. Mwanga wote usiokuwa wa kichawi, ikiwa ni pamoja na mwanga wa jua, unaopita ndani au uliopo ndani ya mpaka hupunguzwa hadi sawa na mwanga hafifu.
+Giza hutengeneza eneo la kivuli, sawa na UWE katika mita za mraba, ambalo hufunika mwanga wote ndani yake. Hii ni kiasi MVU kutosha kujaza chumba MVU kawaida, urefu wa korido au kutengeneza wingu dogo ikiwa itatupwa nje. Mwanga wote usio wa kichawi, ikiwa ni pamoja na mwanga wa jua, unaopita ndani au uliopo ndani ya mpaka hupunguzwa hadi kuwa sawa na mwanga hafifu.
 
-#### Kukatiza
+#### Vuruga (Disruption)
 
-_Papo Hapo, Mbali, Kukinga (Uvumilivu)_
+_Papo Hapo, Umbali, Kinza (Uvumilivu)_
 
-Kukatiza hutumika kuharibu au kutenganisha vitu vya kimwili bila hitaji la zana. Mara nyingi hutumika kuwafukuza au kuua viumbe hai, kama vile ndege au wadudu. Inapotumika kwa mafanikio, Kukatiza husababisha uharibifu wa 1d3 kwa Eneo Moja la Jeraha lililochaguliwa kwa nasibu au Pointi za Afya za jumla za kitu. Katika visa vyote uharibifu hupuuza silaha yoyote au ulinzi wa asili.
+Vuruga hutumiwa kuharibu au kusambaratisha vitu vya kimwili bila hitaji la zana. Kawaida huajiriwa kufukuza au kuua viumbe hai, kama vile ndege au wanyama waharibifu. Inapotupwa kwa mafanikio, Vuruga husababisha 1d3 uharibifu kwa Mahali pa Kupiga (Hit Location) moja nasibu au Pointi za Kupiga (Hit Points) za jumla za kitu. Katika hali zote mbili uharibifu hupuuza silaha au ulinzi wowote wa asili.
 
-#### Kuzima
+#### Zima (Extinguish)
 
-_Papo Hapo, Mbali_
+_Papo Hapo, Umbali_
 
-Kuzima huzima mara moja miali ya moto na moto mdogo wa ukubwa na joto la wastani. Inafaa kwa kuzima mishumaa, taa, tochi, au moto mdogo wa kupikia, lakini haitafanya kazi kwenye mioto ya kichawi au mikubwa, au mioto mikali zaidi kama vile moto wa mazishi, nyumba zinazowaka au miale ya moto ya joka.
+Zima huzima mara moja miali na moto mdogo wa ukubwa na joto la wastani. Ni muhimu kwa kuzima mishumaa, taa, mienge, au moto mdogo wa kupikia, lakini haitafanya kazi kwenye moto wa kichawi au mkubwa zaidi, mkali zaidi kama vile moto wa majeneza, nyumba zinazoungua au moto wa joka.
 
 #### Tafuta (X)
 
-_Umakinifu, Mbali, Kukinga (Maalum)_
+_Umakinifu, Umbali, Kinza (Maalum)_
 
-Tafuta ina tofauti nyingi; daima maalum na kujifunza kama mizimu tofauti. Baadhi ya mifano ya kawaida imetolewa hapa chini. Inafanya kazi kwa kuendana na mionzi ya asili ya kiumbe au kitu, ikimjulisha mrogaji uwepo wake ndani ya masafa ya mizimu. Tafuta inaweza kuzuiwa na vifaa vizito au nene kama chuma, au udongo na mawe angalau mita moja nene. Mizimu haiwezi kutambua hisia au mawazo.
+Tafuta ina tofauti nyingi; daima ikiwa mahususi na kujifunzwa kama tahajia tofauti. Baadhi ya mifano ya kawaida imepewa hapa chini. Inafanya kazi kwa kuendana na miale ya asili ya kiumbe au kitu, kumtahadharisha mtupaji kuhusu uwepo wake ndani ya masafa ya tahajia. Tafuta inaweza kuzuiwa na nyenzo nzito au nene kama vile chuma, au udongo na mawe angalau mita moja nene. Tahajia haiwezi kubaini hisia au mawazo.
 
-- *Tafuta Mishale*: Inapata risasi zilizorushwa na wawindaji, ambazo hukosa lengo lao.
-- *Tafuta Dosari*: Inatambua dosari zozote katika kitu, kama vile kasoro zilizofichwa au uharibifu wa kimwili.
-- *Tafuta Mifugo*: Inapata aina fulani ya mnyama. Inaweza kupingwa kwa Utashi.
-- *Tafuta Mali*: Inapata metali za thamani na vito.
-- *Tafuta Kitu*: Inapata kitu cha kibinafsi kilichopotea.
-- *Tafuta Ugonjwa*: Inatambua uwepo wa ugonjwa na maradhi, iwe ya kichawi au ya kawaida.
+- *Tafuta Mishale*: Hupata risasi zilizopigwa na wawindaji, ambazo hukosa shabaha yao.
+- *Tafuta Dosari*: Hubatisha dosari zozote kwenye kitu, kama vile kasoro zilizofichwa au uharibifu wa kimwili.
+- *Tafuta Mifugo*: Hupata aina fulani ya mnyama. Inaweza kukinziwa kwa Nguvu ya Utashi.
+- *Tafuta Nyara*: Hupata madini ya thamani na vito.
+- *Tafuta Kitu*: Hupata mali ya kibinafsi iliyopotea.
+- *Tafuta Ugonjwa*: Hubatisha uwepo wa maradhi na ugonjwa, iwe wa kichawi au wa kawaida.
 
-#### Mshale wa Moto
+#### Mshale-Moto (Firearrow)
 
-_Kugusa_
+_Mguso_
 
-Mshale wa Moto husababisha risasi zote zilizorushwa au kufyatuliwa na mpokeaji kulipuka kwa moto zinapotolewa. Iliyoundwa awali kama ishara ya miale, tangu hapo imebadilika na kuwa uchawi wa mapigano. Risasi zilizo chini ya athari yake huongeza uharibifu wa ziada wa 1d3 lakini huzimwa ikiwa zinatoboa nyama. Zile zinazopiga nyenzo zinazoweza kuwaka zina nafasi sawa na ujuzi wa Uchawi wa Kimila wa mrogaji wa kuwasha chochote zinachokaa, kama vile ngao za mbao, paa za nyasi na kadhalika. Risasi za mbao hutumiwa kama sehemu ya mizimu.
+Mshale-Moto husababisha makombora yote yanayotupwa au kufyatuliwa na mpokeaji kuwaka moto yanapoachiliwa. Ikiundwa kwa ajili ya kufanya kazi kama taa ya ishara, tangu wakati huo imebadilika na kuwa uchawi wa vita. Makombora yaliyo chini ya athari yake huongeza 1d3 uharibifu wa ziada lakini huzimwa yakichoma nyama. Yale yanayopiga nyenzo zinazoweza kuwaka yana nafasi sawa na ujuzi wa Uchawi wa Watu wa mtupaji ya kuwasha chochote yanachojipachika, kama vile ngao za mbao, paa za nyasi na kadhalika. Risasi za mbao huteketezwa kama sehemu ya tahajia.
 
-#### Upanga wa Moto
+#### Upanga-Moto (Fireblade)
 
-_Kugusa_
+_Mguso_
 
-Upanga wa Moto ni kama Mshale wa Moto lakini badala yake hutumika kwenye zana za mkono na silaha za melee. Kusudi la awali la mizimu ni kusafisha vifaa vya upasuaji, kusaidia katika kilimo cha kukata na kuchoma au kutoa mwanga wakati wa giza bila hitaji la kubeba chanzo cha mwanga cha ziada. Ikiwa imetumika kwenye silaha inasababisha uharibifu wa ziada wa 1d3, na uharibifu na ina nafasi ya kuwasha vifaa vinavyoweza kuwaka ikiwa inashikiliwa kwa duru kadhaa (tazama Moto katika Sehemu ya Mfumo wa Mchezo). Silaha za mbao zilizo chini ya athari za Upanga wa Moto zitachomwa kama sehemu ya mizimu.
+Upanga-Moto ni kama Mshale-Moto lakini badala yake hutupwa kwenye zana za mkono na silaha za melee. Kusudi la awali la tahajia ni kusafisha vifaa vya upasuaji, kusaidia katika kilimo MVU kukata na kuchoma au kutoa mwanga wakati wa giza bila hitaji la kubeba chanzo kingine MVU mwanga. Ikiwa itatupwa kwenye silaha husababisha 1d3 uharibifu wa ziada, na ina nafasi ya kuwasha moto nyenzo zinazoweza kuwaka ikiwa itashikiliwa kwenye hizo kwa raundi kadhaa (tazama Moto katika Sehemu ya Mfumo wa Mchezo). Silaha zenye mpini wa mbao zilizo chini ya athari za Upanga-Moto zitateketezwa kama sehemu ya tahajia.
 
-#### Gundi
+#### Gundi (Glue)
 
-_Kugusa_
+_Mguso_
 
-Gundi huunganisha pamoja vitu viwili vikali, visivyo na uhai kwa muda wa mizimu, kwa mfano gurudumu la gari kwenye ekseli yake au mlango kwenye fremu yake. Wakati chini ya athari za mizimu vitu, haijalishi ni tofauti kiasi gani, haviwezi kutenganishwa isipokuwa kitu kinajaribu kuvigawanya kikamilifu. Katika hali hii mizimu ina ujuzi wa Nguvu sawa na mara tano ya NGUVU ya mrogaji na inashindwa wakati Nguvu kubwa zaidi inapowekwa dhidi yake, ikiishinda katika Roll ya Kupingana. Mara mizimu inapomalizika au kushindwa, vitu huachana bila kuharibika kabisa.
+Gundi huunganisha pamoja vitu viwili vigumu, visivyo hai kwa muda wa tahajia, kwa mfano gurudumu la gari kwenye mhimili wake au mlango kwenye fremu yake. Wakati ikiwa chini ya athari za tahajia vitu hivyo, hata viwe tofauti kiasi gani, haviwezi kutenganishwa isipokuwa kitu fulani kijaribu kikamilifu kuvivuta ili vitengane. Katika hali hii tahajia ina ujuzi wa Nguvu (Brawn) sawa na mara tano ya UWE ya mtupaji na hufeli wakati Nguvu bora inapowekwa dhidi yake, ikishinda katika Roll ya Kinzani. Tahajia inapokwisha au kufeli, vitu hivyo hutengana bila madhara yoyote.
 
-#### Ponesha
+#### Ponya (Heal)
 
-_Papo Hapo, Kugusa_
+_Papo Hapo, Mguso_
 
-Ponesha ina athari kadhaa tofauti kulingana na asili ya ugonjwa inavyotumika. Ikiwa somo linakabiliwa na malalamiko madogo kama maumivu ya kichwa, maumivu ya mgongo, hangova, homa, vivimbe na kadhalika, basi dalili huondolewa mara moja. Inapotumiwa kwenye eneo linalokabiliwa na Jeraha Ndogo inarejesha Pointi zote za Afya zilizopotea mara moja. Dhidi ya Majeraha Makubwa au Muhimu hakuna Pointi za Afya zinazopona. Hata hivyo, mizimu itatulia maeneo, kusitisha kutokwa na damu yote na kuzuia kifo cha karibu kutokana na kutokujali.
+Ponya ina athari kadhaa tofauti kulingana na asili ya ugonjwa inavyotumika. Ikiwa mhusika anasumbuliwa na malalamiko madogo kama vile maumivu ya kichwa, maumivu ya mgongo, hangover, mafua, vinyama na kadhalika, basi dalili huondolewa mara moja. Ikitupwa kwenye mahali palipopata Jeraha Dogo hurejesha Pointi zote za Kupiga zilizopotea mara moja. Dhidi ya Majeraha Mazito au Makubwa hakuna Pointi za Kupiga zinazorejeshwa. Hata hivyo, tahajia itatulia mahali hapo, kusimamisha damu yote na kuzuia kifo MVU ghafla kutokana na kutojali.
 
-#### Washa
+#### Washa (Ignite)
 
-_Papo Hapo, Mbali_
+_Papo Hapo, Umbali_
 
-Washa hufanya kazi tu kwenye vitu visivyohai vinavyoweza kuwaka, na kusababisha kitu kidogo au eneo la ukubwa wa mkono kulipuka kwa moto. Kulingana na kile kilichowashwa, mara kinapowaka, miali ya moto inaweza kuenea isipokuwa ikizimwa au kukabiliwa kwa njia fulani. Mizimu hii kwa kawaida hutumika kuwasha mishumaa, tochi, au taa kutoka mbali. Inaweza pia kutumika kuanzisha kambi au moto wa kupikia katika hali mbaya, kama vile kutumia kuni zenye unyevu au katika upepo mkali.
+Washa hufanya kazi tu kwenye vitu vya kikaboni vinavyoweza kuwaka, na kusababisha kitu kidogo au eneo la ukubwa wa mkono kuwaka moto. Kulingana na kile kilichowashwa, kikianza kuwaka, miali ya moto inaweza kusambaa isipokuwa izimwe au kupingwa kwa njia fulani. Tahajia hii kawaida hutumiwa kuwasha mishumaa, mienge, au taa kutoka mbali. Inaweza pia kutumika kuwasha moto wa kambi au wa kupikia katika hali mbaya, kama vile kutumia kuni mbichi au kwenye upepo mkali.
 
-#### Fungua
+#### Fungua (Knock)
 
-_Papo Hapo, Kugusa_
+_Papo Hapo, Mguso_
 
-Fungua hufungua kimuujiza kifaa chochote kilichofungwa kwa sasa na pingo la kimfumo au kufuli. Haifanyi kazi kwenye vitu vilivyofungwa kimuujiza, ila vile vya kawaida. Mizimu huathiri kufungia kimoja tu, kwa hivyo ikiwa kuna kufuli na pingo kadhaa vinavyofunga kitu, mizimu itahitaji kutumika tena kwa kila kimoja.
+Fungua hufungua kichawi kifaa chochote ambacho kwa sasa kimefungwa kwa mbar ya kimitambo au kufuli. Haifanyi kazi kwenye vitu vilivyofungwa kichawi, vya kawaida pekee. Tahajia huathiri tu kifungo kimoja, kwa hivyo ikiwa kuna kufuli na mbar kadhaa zinazolinda kitu hicho, tahajia itahitaji kutupwa tena kwa kila moja.
 
-#### Nuru
+#### Mwanga (Light)
 
-_Umakinifu, Mbali_
+_Umakinifu, Umbali_
 
-Nuru lazima itumiwe kwenye kitu kisicho na uhai (hii inaweza kuwa tawi, blade ya upanga, ncha ya mkuki, tochi na kadhalika). Inazalisha mwanga wa kutosha kuangaza eneo kama vile kwa taa. Inaweza pia kutumiwa moja kwa moja dhidi ya mizimu ya Giza ili kuikabili. Katika kesi hii mizimu yote miwili hutumiwa, ikiacha mwanga wa mazingira kuangaza eneo hilo.
+Mwanga lazima utupwe kwenye kitu kisicho na uhai (hii inaweza kuwa tawi, blade ya upanga, ncha ya mkuki, mwenge na kadhalika). Hutoa mwanga wa kutosha kuangaza eneo kana kwamba ni kwa taa. Inaweza pia kutupwa moja kwa moja dhidi ya tahajia ya Giza ili kuipinga. Katika kesi hii tahajia zote mbili huteketezwa, na kuacha mwanga wa kawaida kuangaza eneo hilo.
 
-#### Funga
+#### Funga (Lock)
 
-_Muda Maalum, Kugusa_
+_Muda Maalum, Mguso_
 
-Funga hufunga kimuujiza kifaa chochote ambacho tayari kina pingo la kimfumo au kufuli. Kifaa Kilichofungwa kinaweza kufunguliwa tu na mrogaji na hakiwezi kufunguliwa kwa njia za kawaida (kama vile mwizi anayetumia pick za kufungua) kwani uchawi hufanya utaratibu usisogeeke; hata hivyo, bado inaweza kufunguliwa kwa nguvu kwa kuvunja kitu ambacho kufuli kimewekwa. Uchawi hubaki mahali hadi ufunguliwe na mrogaji, baada ya hapo kifaa lazima kiwe chini ya matumizi zaidi ya Funga ili kurejesha uchawi. Pointi ya Uchawi iliyotumiwa kutumia Funga haiponi hadi mizimu ifutwe au kumalizika kawaida.
+Funga hulinda kichawi kifaa chochote ambacho tayari kina mbar ya kimitambo au kufuli. Kifaa Kilichofungwa kinaweza kufunguliwa tu na mtupaji na hakiwezi kuchukuliwa kwa njia za kawaida (kama vile na mwizi anayetumia vifaa vya kufuli) kwa kuwa uchawi hufanya utaratibu huo kutotikisika; hata hivyo, bado inaweza kulazimishwa kufunguliwa kwa kuvunja kitu ambacho kufuli hiyo imewekwa. Uchawi hubaki mahali pake hadi utakapofunguliwa na mtupaji, baada ya hapo kifaa lazima kiwe chini ya utupaji mwingine wa Funga ili kurejesha uchawi. Pointi ya Uchawi iliyotumika kutupa Funga hairejei hadi tahajia itakapofutwa au kumalizika kiasili.
 
-#### Taswira
+#### Ndoto (Phantasm)
 
-_Umakinifu, Mbali_
+_Umakinifu, Umbali_
 
-Taswira inamruhusu mrogaji kuunganisha vitu visivyo na umbile au visivyo na uzito mkubwa ili viwe na umbo au sura ya mizimu. Hivyo, sura ya roho inaweza kuunganishwa kutoka ukungu wa asili, au uso kuundwa katika rundo la majani yaliyokufa. Zaidi ya hayo mizimu ina athari kidogo, isipokuwa kuwatisha, kuwafurahisha, au kuwatatiza wale wanaoiona.
+Ndoto humruhusu mtupaji kusuka pamoja vitu visivyo na uzito au vyepesi ili vichukue umbo au muonekano wa mzimu. Kwa hivyo, takwimu ya kijuujuu inaweza kusukwa kutoka kwenye ukungu wa asili, au uso ulioundwa kwenye rundo la majani makavu. Zaidi ya hapa tahajia haina athari kubwa, isipokuwa kutisha, kuvutia, au kuharibu utulivu wa wale wanaoiona.
 
-#### Lala
+#### Lala (Sleep)
 
-_Kukinga (Uvumilivu), Kugusa_
+_Kinza (Uvumilivu), Mguso_
 
-Lala hutuma mpokeaji wake katika usingizi mzito, wa amani. Haina athari kwa viumbe wenye UKUBWA mkubwa kuliko NGUVU ya mrogaji. Isipokuwa lengo likinga, hulala kwa idadi ya saa sawa na nusu ya NGUVU ya mrogaji. Hata hivyo, mizimu huchukua Duru 1d3 kuanza kufanya kazi kabla ya lengo kuzimia. Jaribio lolote la kutumia mizimu hii katika hali ya mapigano linashindwa kiotomatiki.
+Lala humtuma mpokeaji wake katika usingizi mzito na wa amani. Haina athari kwa viumbe wenye UKU mkubwa kuliko UWE ya mtupaji. Isipokuwa mlengwa akinze, hulala kwa idadi ya saa sawa na nusu ya UWE ya mtupaji. Hata hivyo, tahajia huchukua 1d3 Raundi kuanza kufanya kazi kabla ya mlengwa kupoteza fahamu. Jaribio lolote la kutupa tahajia hii katika hali ya mapambano hufeli kiotomatiki.
 
-#### Nguvu
+#### Nguvu (Vigor)
 
-_Kugusa_
+_Mguso_
 
-Nguvu hufanya mpokeaji ajisikie hai na mwenye nguvu, ikitumika kukabiliana na athari za kazi ngumu za kimwili. Kwa muda wa mizimu, athari zote za Uchovu zilizopatikana kutokana na shughuli ngumu hupuuzwa (lakini hurudi baada ya kufutwa kwa mizimu).
+Nguvu humfanya mpokeaji ajihisi hai na mwenye nguvu, akitumika kukabiliana na athari za kazi ngumu ya kimwili. Kwa muda wa tahajia, athari zote za Uchovu zilizopatikana kutokana na shughuli ngumu hupuuzwa (lakini hurejea baada ya tahajia kufutwa).
 
-#### Kuona kwa Mchawi
+#### Uoni-Mchawi (Witchsight)
 
-_Mbali, Kukinga (Utashi)_
+_Umbali, Kinza (Nguvu ya Utashi)_
 
-Kuona kwa Mchawi kunamruhusu mrogaji kuona uchawi unaotumika, vitu vilivyolishwa, na viumbe visivyoonekana (ingawa vitu hivyo ni vivuli tu) vilivyo ndani ya masafa na mstari wa kuona. Inaweza pia kupenya udanganyifu au kutambua umbo halisi wa viumbe vinavyobadilisha umbo. Viumbe vinavyotaka kubaki vimefichwa au kujificha lazima vishinde Roll ya Kupingana ya Utashi wao dhidi ya roll ya kuroga.
-
----
-## Nguvu za Ajabu
-
-Nguvu za ajabu zilizojumuishwa hapa hutoa nguvu msingi ambayo ama inafanya kazi daima au inaweza kuwashwa kwa hiari. Nguvu msingi pia zinaweza kuwa na matukio maalum yanayoitwa Nyongeza ambayo yanahitaji matumizi ya Pointi za Nguvu ili kuwashwa. Mhusika anayefikia Pointi za Nguvu 0 hawezi kutumia Nyongeza au nguvu zozote msingi zenye gharama hadi Pointi za Nguvu zipatikane tena.
-
-Vizuizi ni hasara za hiari ambazo zinaweza kuwekwa kwa mhusika, nguvu msingi, au Nyongeza. Kila Kikwazo kinaeleza hali ambazo kinatumika, na Msimamizi wa Michezo lazima akubali Kikwazo chochote kilichochaguliwa.
-
-Mhusika anaweza pia kuchukua hadi Vizuizi viwili kutoka kwenye orodha hapa chini, kimoja kikitoa Nyongeza ya bonasi, au viwili vikitoa nguvu msingi ya bonasi.
+Uoni-Mchawi humruhusu mtupaji kuona uchawi unaofanya kazi, vitu vilivyowekewa uchawi, na viumbe wasioonekana (ingawa vitu kama hivyo ni uwakilishi wa kivuli tu) vilivyo ndani ya masafa na mstari wa kuona. Inaweza pia kupenya miujiza au kubaini hali ya kweli ya viumbe waliobadili umbo. Viumbe wanaotaka kubaki wamejificha au wamejificha lazima washinde Roll ya Kinzani ya Nguvu yao ya Utashi dhidi ya roll ya utupaji.
 
 ---
-## Maelezo ya Nguvu
+## Nguvu Kuu
 
-#### Uhuishaji
+Nguvu kuu zilizojumuishwa hapa hutoa nguvu ya msingi ambayo ama inafanya kazi kila wakati au inaweza kuwashwa kwa hiari. Nguvu za msingi zinaweza pia kuwa na vituko maalum vinavyoitwa Maboresho (Boosts) ambavyo vinahitaji matumizi ya Pointi za Nguvu ili kuwasha. Mhusika anayefikia Pointi 0 za Nguvu hawezi kutumia Maboresho au nguvu zozote za msingi zenye gharama hadi Pointi za Nguvu zitakaporejea.
 
-Huuhuisha mita za ujazo 2 za nyenzo zisizo hai ndani ya NGUVU kwa mita ili kuunda kiumbe, kwa kawaida katika umbo la binadamu. Gharama ya Pointi za Nguvu ni sawa na thamani ya silaha ya nyenzo yenye thamani ya juu zaidi iliyotumiwa, ambayo pia ni thamani ya msingi ya silaha ya kiumbe. Viumbe vina NGUVU ya msingi ya 2d6+16 (23), UKUBWA wa 1d6+12 (15), na UMAHIRI wa 1d6+8 (11), huku Pointi za Afya zikiamuliwa kama kawaida. Mhusika lazima atumie vitendo kuelekeza kiumbe na hutumia ujuzi wa mhusika kwa roll yoyote. Ikiwa kiumbe kitapata Jeraha Kubwa kifuani au tumboni, fanya cheki ya Uvumilivu ya kupingana dhidi ya roll ya shambulio. Ikiwa haijafanikiwa, kiumbe hicho huanguka mara moja. Mifano ya Thamani za Silaha/Gharama ya Pointi za Nguvu:
+Vikwazo (Limits) ni hasara za hiari ambazo zinaweza kuwekwa kwa mhusika, nguvu za msingi, au Maboresho. Kila Kikwazo kinafafanua hali ambazo kinatumika, na Mkuu wa Mchezo lazima akubali Kikwazo chochote kilichochaguliwa.
+
+Mhusika anaweza pia kuchukua hadi Vikwazo viwili kutoka kwenye orodha hapa chini, huku kimoja kikitoa Uboreshaji wa ziada, au viwili vikitoa nguvu kuu ya ziada.
+
+
+---
+## Ufafanuzi wa Nguvu#### Uhuishaji
+
+Anisha mita za ujazo 2 za nyenzo zisizo hai ndani ya mita kulingana na UWE ili kuunda kiumbe, kwa kawaida katika umbo la kibinadamu. Gharama katika Pointi za Nguvu (Power Points) ni sawa na thamani ya silaha ya nyenzo ya thamani ya juu zaidi iliyotumiwa, ambayo pia ni thamani ya msingi ya silaha ya kiumbe hicho. Viumbe vina NGU ya msingi ya 2d6+16 (23), UKU ya 1d6+12 (15), na UST ya 1d6+8 (11), huku Pointi za Afya (Hit Points) zikiamuliwa kama kawaida. Mhusika lazima atumie vitendo kuelekeza kiumbe hicho na hutumia ujuzi wa mhusika kwa ajili ya urushaji wowote wa kete. Ikiwa kiumbe kitapata Jeraha Zito (Serious Wound) kifuani au tumboni, fanya ukaguzi wa uvumilivu (Endurance) wa kushindana dhidi ya urushaji wa shambulio. Ikiwa haijafanikiwa, kiumbe huanguka mara moja. Mifano ya Thamani za Silaha / Gharama ya Pointi za Nguvu:
 
 | Thamani za Silaha     | Gharama ya Pointi za Nguvu |
-|:--|:-:|
-| Plastiki au Mbao Laini | 2                |
-| Zege au Mbao Ngumu    | 4                |
-| Chuma Laini au Jiwe   | 6                |
-| Chuma Kigumu          | 8                |
+|:--|:--:|
+| Plastiki au Mbao Laini | 2 |
+| Zege au Mbao Ngumu    | 4 |
+| Metali Laini au Jiwe   | 6 |
+| Metali Ngumu          | 8 |
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu ili kuhamisha kiumbe mara moja hadi chanzo kingine cha nyenzo ile ile ndani ya NGUVU kwa mita.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 kusogeza kiumbe mara moja hadi kwenye chanzo kingine MVU nyenzo ile ile ndani ya mita kulingana na UWE.
 
-#### Mtaalam wa Mapigano
+#### Mtaalamu wa Mapambano
 
-Chagua aina moja ya utaalam wa mapigano kutoka kwenye orodha hapa chini, pamoja na moja kwa kila nyongeza iliyotumiwa.
+Chagua aina moja ya utaalamu wa mapambano kutoka kwenye orodha hapa chini, pamoja na moja kwa kila nyongeza (boost) iliyotumika.
 
-- Utaalam wa Melee unatoa Pointi moja ya Kitendo ya bonasi ambayo inaweza kutumika kujilinda tu, na ukubwa wa silaha inayotumika huongezeka kwa hatua moja kwa mashambulizi na parries.
-- Utaalam wa Ranged hupunguza modifiers za hali kwa daraja mbili badala ya moja wakati wa kulenga na muda wa kupakia upya silaha za ranged hupunguzwa kwa moja.
+- Utaalamu wa mapambano ya karibu hutoa Pointi moja ya Kitendo (Action Point) ya ziada ambayo inaweza kutumika tu kwa ulinzi, na ukubwa wa silaha unaofaa huongezeka kwa hatua moja kwa mashambulizi na kujilinda (parries).
+- Utaalamu wa mapambano ya umbali hupunguza vizuizi vya hali kwa daraja mbili badala ya moja wakati wa kulenga na muda wa kupakia upya silaha za masafa hupunguzwa kwa moja.
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu ili kupata Pointi ya Kitendo ya ziada ambayo inaweza kutumika tu Kushambulia au Kuandaa Silaha.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 ili kupata Pointi ya Kitendo ya ziada ambayo inaweza kutumika tu Kushambulia au Kuandaa Silaha.
 
 #### Uimara
 
-Pointi za Afya huhesabiwa kwa kutumia CON+SIZ+POW na Kiwango cha Uponyaji huhesabiwa kwa kutumia CON+nusu POW, ikizungushwa juu.
+Pointi za afya huhesabiwa kwa kutumia UVU+UKU+UWE na Kiwango MVU Uponyaji huhesabiwa kwa kutumia UVU + nusu ya UWE, ikizungushiwa juu.
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu kama kitendo cha bure ili kupata Kiwango cha Uponyaji katika Pointi za Afya zilizopotea au kiwango kilichopotea cha Uchovu.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 kama kitendo MVU bure ili kurejesha Kiwango MVU Uponyaji katika Pointi za Afya zilizopotea au kiwango kilichopotea MVU Uchovu (Fatigue).
 
-#### Udhibiti wa Vipengele
+#### Udhibiti wa Kimsingi
 
-Chagua nyenzo au aina maalum ya nishati. Tumia kitendo kudhibiti hadi nusu ya NGUVU katika mita za ujazo za kipengele popote ndani ya mita za NGUVU. Inaweza kubadilisha umbo la msingi au kuunda maumbo magumu kwa cheki iliyofanikiwa ya Ufundi (kipengele maalum). Baada ya kuundwa chagua shambulio la karibu au shambulio la mbali. Shambulio la karibu lina ufikiaji wa Mrefu Sana na shambulio la mbali lina masafa ya 8/24/100, kisha chagua Athari mbili zozote za Mapigano. Uharibifu na nguvu/ukubwa huamuliwa na NGUVU: 8 au chini: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
+Chagua nyenzo mahususi au aina ya nishati. Tumia kitendo ili kudhibiti hadi nusu ya UWE katika mita za ujazo za kipengele hicho popote ndani ya mita kulingana na UWE. Unaweza kubadilisha umbo la msingi au kuunda maumbo changamano kwa ukaguzi uliofanikiwa wa Ufundi (Craft) (kipengele mahususi). Wakati wa kuunda, chagua ama shambulio la mapambano ya karibu au shambulio la masafa. Shambulio la mapambano ya karibu lina ufikiaji wa Mrefu Sana na shambulio la masafa lina masafa ya 8/24/100, kisha chagua Athari mbili za Mapambano (Combat Effects). Uharibifu na nguvu/ukubwa huamuliwa na UWE: 8 au chini: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-**Nyongeza:** Tumia Pointi 3 za Nguvu ili kumfunika mhusika kwa kipengele kwa eneo zima. Nyenzo ngumu hupata thamani ya silaha sawa na sehemu ya tano ya NGUVU, ikizungushwa juu. Ikiwa ni nishati, mashambulizi yasiyo na silaha husababisha uharibifu wa ziada sawa na uharibifu wa msingi wa nguvu na mashambulizi yasiyo na silaha dhidi ya mhusika hupata uharibifu sawa kwa kiungo kilichotumika.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 3 ili kumfunika mhusika kwa kipengele hicho kwa ajili ya tukio hilo. Nyenzo ngumu hupata thamani ya silaha sawa na moja ya tano ya UWE, ikizungushiwa juu. Ikiwa ni nishati, mashambulizi yasiyo na silaha huleta uharibifu wa ziada sawa na uharibifu wa msingi wa nguvu hiyo na mashambulizi yasiyo na silaha dhidi ya mhusika hupata uharibifu ule ule kwenye kiungo kilichotumiwa.
 
 #### Mlipuko wa Nishati
 
-Moto hulipua miale ya aina maalum ya nishati hadi masafa ya 10/30/120 na chagua Athari mbili za Mapigano za kutumia wakati wa uumbaji. Uharibifu na nguvu huamuliwa na NGUVU ya mhusika: 8 au chini: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Ili kupiga, mhusika anatoa roll dhidi ya Mtindo wa Mapigano unaotumika kwa nguvu au anatumia Asiye na Silaha.
+Rushia milipuko ya aina mahususi ya nishati hadi masafa ya 10/30/120 na chagua Athari mbili za Mapambano za kutumia wakati wa uumbaji. Uharibifu na nguvu huamuliwa na UWE ya mhusika: 8 au chini: 1d6/S, 9-12: 1d8/M, 13-15: 1d10/M, 16-18: 1d12/L, 19+: 2d6/L. Ili kupiga, mhusika hurusha kete dhidi ya Mtindo wa Mapambano (Combat Style) unaofaa kwa nguvu hiyo au hutumia Mapambano yasiyo na silaha (Unarmed).
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu na kitendo ili kusababisha uharibifu wa +1d6 kwenye shambulio linalofuata la mlipuko wa nishati.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 na kitendo ili kuleta uharibifu wa +1d6 kwenye shambulio lijalo la mlipuko wa nishati.
 
 #### Miitikio Iliyoimarishwa
 
-Pata bonasi kwenye roll za kuanza mapigano sawa na safu muhimu ya ujuzi wa Riadha na kamwe usianguke baada ya kutumia Kuepuka.
+Pata bonasi kwenye urushaji wa kete za kuanza (initiative) sawa na masafa muhimu ya ujuzi wa Riadha (Athletics) na usiwahi kuishia chini baada ya kutumia Kukwepa (Evade).
 
-**Nyongeza:** Tumia Pointi 1 ya Nguvu ili kufanya cheki inayofuata ya Riadha au Akrobatiki iwe rahisi kwa daraja moja la ugumu.
+**Kuongeza (Boost):** Tumia Pointi 1 ya Nguvu ili kufanya ukaguzi ujao wa Riadha au Akrobati uwe daraja moja la ugumu kuwa rahisi zaidi.
 
 #### Kasi Iliyoimarishwa
 
-Ongeza harakati ya msingi kwa kihesabu kulingana na UMAHIRI+NGUVU. Kasi ya juu zaidi nje ya mapigano ni sawa na mara kumi ya harakati iliyorekebishwa kwa kilomita kwa saa.
+Ongeza harakati za msingi kwa kizidishi kulingana na UST+UWE. Kasi ya juu zaidi nje ya mapambano ni sawa na mara kumi ya harakati zilizorekebishwa kwa kilomita kwa saa.
 
-UMAHIRI+NGUVU: 12 au chini: x2, 13-24: x3, 25-36: x4, 37+: x5.
+UST+UWE: 12 au chini: x2, 13-24: x3, 25-36: x4, 37+: x5.
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu ili kupata Pointi ya Kitendo ya ziada ambayo inaweza kutumika tu Kubadilisha Masafa, Kusonga, au Kumeza.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 ili kupata Pointi ya Kitendo ya ziada ambayo inaweza kutumika tu Kubadilisha Masafa, Kusonga, au Kufanya Ujanja (Outmaneuver).
 
 #### Nguvu Iliyoimarishwa
 
-Bonasi ya uharibifu huhesabiwa kwa kutumia NGUVU+UKUBWA+NGUVU na uwezo wa kuinua kiwango cha juu huamuliwa na NGUVU+NGUVU ya mhusika: 12 au chini: tani 1, 13-24: tani 2, 25-36: tani 3, 37+: tani 5. Mashambulizi yasiyo na silaha huhesabiwa kuwa ya ukubwa mkubwa na silaha za melee na vitu vilivyorushwa ukubwa au nguvu zao huongezeka kwa moja.
+Bonasi ya uharibifu huhesabiwa kwa kutumia NGU+UKU+UWE na kiwango MVU juu MVU kunyanyua huamuliwa na NGU+UWE ya mhusika: 12 au chini: tani 1, 13-24: tani 2, 25-36: tani 3, 37+: tani 5. Mashambulizi yasiyo na silaha huhesabiwa kama saizi kubwa na vitu vya mapambano ya karibu na vilivyotupwa huongezewa saizi au nguvu kwa moja.
 
-**Nyongeza:** Tumia Pointi 3 za Nguvu ili kuongeza mara mbili uwezo wa kuinua kiwango cha juu kwa kitendo kimoja au kazi.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 3 ili kurefusha maradufu kiwango MVU juu MVU kunyanyua kwa kitendo au kazi moja.
 
 #### Kuruka
 
-Pata kasi ya kuruka sawa na NGUVU kwa mita, na kasi ya juu zaidi nje ya mapigano sawa na mara kumi ya harakati kwa kilomita kwa saa.
+Pata kasi ya kuruka sawa na UWE katika mita, na kasi ya juu zaidi nje ya mapambano sawa na mara kumi ya harakati kwa kilomita kwa saa.
 
-**Nyongeza:** Tumia Pointi 3 za Nguvu wakati wa kitendo cha Kusonga angani ili kuanzisha shambulio la kushtukiza wakati wa harakati.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 3 wakati wa kitendo MVU Kusonga angani ili kuanzisha shambulio la malipo (charge attack) wakati wa harakati.
 
-#### Hisia Kali
+#### Hisia Iliyoinuliwa
 
-Chagua hisia moja. Cheki za Ufahamu na hisia hiyo ni rahisi kwa daraja moja la ujuzi.
+Chagua hisia moja. Ukaguzi wa mtazamo (Perception) kwa hisia hiyo huwa daraja moja la ujuzi kuwa rahisi zaidi.
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu ili kutumia nguvu msingi kwa hisia tofauti.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 ili kutumia nguvu kuu kwa hisia tofauti.
 
-#### Silaha Asilia
+#### Silaha ya Asili
 
-Inatoa thamani ya silaha kwa maeneo yote sawa na theluthi moja ya CON, ikizungushwa juu. Wahusika wanaweza kuchagua kupunguza thamani ya eneo kwa hadi pointi mbili ili kuongeza kwenye eneo lingine; kwa mfano, kupunguza thamani ya mkono wao wa kulia ili kuongeza kichwani mwao.
+Hutoa thamani ya silaha kwa maeneo yote sawa na theluthi moja ya UVU, ikizungushiwa juu. Wahusika wanaweza kuchagua kupunguza thamani ya eneo kwa hadi pointi mbili ili kuiongeza kwenye eneo lingine; kwa mfano, kupunguza thamani ya mkono wao wa kulia ili kuiongeza kwenye kichwa chao.
 
-**Nyongeza:** Unapopigwa na shambulio, pata pointi ya ziada ya silaha dhidi yake kwa kila Pointi 1 ya Nguvu iliyotumiwa.
+**Kuongeza (Boost):** Unapopigwa na shambulio, pata pointi moja ya ziada ya silaha dhidi yake kwa kila Pointi 1 ya Nguvu iliyotumika.
 
-#### Msaada wa Uhai
+#### Usaidizi wa Maisha
 
-Pata kinga dhidi ya hali mbili za mazingira au mahitaji ya kibiolojia.
+Pata kinga dhidi ya hali mbili za mazingira au mahitaji ya kibaolojia.
 
-**Nyongeza:** Pata kinga dhidi ya mazingira au mahitaji mawili ya ziada.
+**Kuongeza (Boost):** Pata kinga dhidi ya mazingira au mahitaji mengine mawili ya ziada.
 
 #### Bahati
 
-Hesabu Pointi za Bahati za msingi kwa kutumia CHA na nusu ya NGUVU, ikizungushwa juu.
+Hesabu Pointi za Bahati za msingi kwa MVU na nusu ya UWE, ikizungushiwa juu.
 
-**Nyongeza:** Unapotoa roli mbili tumia Pointi 3 za Nguvu ili kupata Pointi ya Bahati ya muda ambayo lazima itumike mwishoni mwa tukio.
+**Kuongeza (Boost):** Unapopata namba mbili zinazolingana (doubles), tumia Pointi za Nguvu 3 ili kupata Pointi ya Bahati ya muda ambayo lazima itumike kabla ya mwisho wa tukio.
 
-#### Kujitengeneza Upya
+#### Urejeshaji
 
-Pata Pointi moja ya Afya kwa maeneo yote yaliyojeruhiwa mwanzoni mwa kila raundi ikiwa eneo hilo halijapata Jeraha Kubwa.
+Rejesha Pointi moja ya Afya kwa maeneo yote yaliyojeruhiwa mwanzoni mwa kila raundi ikiwa eneo hilo halijapata Jeraha Kubwa (Major Wound).
 
-**Nyongeza:** Ingia katika usingizi wa kupona na utumie Pointi 1 ya Nguvu kwa saa ili kupata Pointi moja ya Afya kwa eneo lenye Jeraha Kubwa.
+**Kuongeza (Boost):** Ingia katika hali ya uponyaji na utumie Pointi 1 ya Nguvu kwa saa ili kurejesha Pointi moja ya Afya kwenye eneo lenye Jeraha Kubwa.
 
-#### Mtaalam
+#### Mtaalamu (Savant)
 
-Chagua ujuzi tatu zenye sifa moja ya kawaida na cheki nazo ni rahisi kwa daraja moja.
+Chagua ujuzi tatu zenye sifa moja inayofanana na ukaguzi nao huwa daraja moja rahisi zaidi.
 
-**Nyongeza:** Unapotumia ujuzi maalum kama vile Ufundi au Sayansi ambayo pia ni ujuzi wa Mtaalam, tumia Pointi 3 za Nguvu ili kupata utaalam ambao mhusika hana kwa kazi moja katika kiwango sawa na ujuzi wa Mtaalam.
+**Kuongeza (Boost):** Unapotumia ujuzi maalumu kama vile Ufundi (Craft) au Sayansi ambayo pia ni ujuzi wa Savant, tumia Pointi za Nguvu 3 ili kupata utaalamu ambao mhusika hana kwa kazi moja katika kiwango sawa na ujuzi wa Savant.
 
-#### Kusafiri Kimwili
+#### Teleport
 
-Safiri kimwili hadi sehemu yoyote inayoonekana ndani ya NGUVU kwa mita kama kitendo cha kusonga.
+Teleport hadi kwenye hatua yoyote inayoonekana ndani ya mita kulingana na UWE kama kitendo MVU kusonga.
 
-**Nyongeza:** Tumia Pointi 2 za Nguvu ili kusafiri kimwili hadi nusu ya NGUVU kwa mita, ikizungushwa juu, kama kitendo cha bure.
+**Kuongeza (Boost):** Tumia Pointi za Nguvu 2 ili kufanya teleport hadi nusu ya UWE katika mita, ikizungushiwa juu, kama kitendo MVU bure.
 
 #### Umbo la Mvuke
 
-Kama kitendo geuka kuwa wingu la mvuke au chembe ndogo ambazo haziwezi kuingiliana na ulimwengu wa kimwili lakini hazishambuliwi na mashambulizi ya kimwili. Pata kasi ya kuruka sawa na theluthi moja ya NGUVU kwa mita na kupita kwenye nafasi za ukubwa wowote. Mashambulizi yanayotegemea nishati husababisha nusu ya uharibifu kwa Pointi za Nguvu za mhusika. Ikiwa Pointi za Nguvu zitapungua hadi 0 mhusika hurudi katika hali ngumu na lazima afanye cheki ngumu ya Uvumilivu ya kuzimia kwa dakika 1d6+1.
+Kama kitendo, geuka kuwa wingu la mvuke au chembe ndogo ambazo haziwezi kuingiliana na ulimwengu wa kimwili lakini hazina kinga dhidi ya mashambulizi ya kimwili. Pata kasi ya kuruka sawa na theluthi moja ya UWE katika mita na upite kwenye mianya ya ukubwa wowote. Mashambulizi ya nishati huleta nusu uharibifu kwa Pointi za Nguvu za mhusika. Ikiwa zitapunguzwa hadi Pointi 0 za Nguvu, mhusika hurejea kwenye hali ya kawaida na lazima afanye ukaguzi Mgumu wa Uvumilivu au kupoteza fahamu kwa dakika 1d6+1.
 
-**Nyongeza:** Tumia Pointi 3 za Nguvu ili kuimarisha eneo moja la jeraha kwa kitendo kimoja.
+**Kuongeza (Boost):** Tumia Pointi 3 za Nguvu ili kugandisha eneo moja la kupigwa kwa kitendo kimoja.
 
 ---
-## Vizuizi
+## Vikomo
 
-#### Gharama ya Kuamsha
+#### Gharama ya Uanzishaji
 
-Mhusika anatumia Pointi 2 za Nguvu ili kuamsha nguvu msingi au kuongeza gharama ya nyongeza kwa Pointi 2 za Nguvu. Vinginevyo nguvu inayoendelea inagharimu Pointi 1 ya Nguvu mwanzoni mwa kila zamu ili kudumisha.
+Mhusika hutumia Pointi za Nguvu 2 kuwasha nguvu kuu au huongeza gharama ya nyongeza (boost) kwa Pointi 2 za Nguvu. Vinginevyo, nguvu inayoendelea hugharimu Pointi 1 ya Nguvu mwanzoni mwa kila zamu ili kudumishwa.
 
-#### Chanzo cha Nguvu cha Nje
+#### Chanzo MVU Nguvu MVU Nje
 
-Chanzo cha nguvu za mhusika ni kifaa au zana. Ikiwa ni ndogo au ya kushikiliwa kwa mkono, chanzo hicho kina hatari ya Athari Maalum kama vile Kuondoa Silaha au Kuchukua Silaha. Ikiwa ni kubwa, inahitaji angalau dakika moja kuivaa au kuiwasha kabla ya nguvu kutumika.
+Chanzo MVU nguvu za mhusika ni kifaa au zana. Ikiwa ni ndogo au inashikika kwa mkono, chanzo kiko hatarini kwa Athari Maalum kama vile Kunyang'anya Silaha au Kuchukua Silaha. Ikiwa ni kubwa, inahitaji angalau dakika moja kuvaa au kuwasha kabla ya nguvu kuweza kutumika.
 
-#### Dosari Hatari
+#### Dosari Mbaya
 
-Mhusika lazima atumie au aguse dutu fulani kila baada ya saa nne au apate kiwango cha Uchovu. Cheki ya Uvumilivu iliyofanikiwa inaweza kuzuia hili, lakini ugumu wa cheki hii huongezeka kwa daraja moja kwa kila saa nne za ziada ambazo mahitaji hayakufikiwa.
+Mhusika lazima ale au aguse dutu kila baada ya saa nne au apate kiwango MVU Uchovu. Ukaguzi uliofanikiwa wa Uvumilivu unaweza kuzuia hili, lakini ugumu wa ukaguzi huu huongezeka kwa daraja moja kwa kila saa nne za ziada ambazo hitaji hilo halijatimizwa.
 
 #### Udhibiti Mdogo
 
-Kwa vitendo vinavyohusisha nguvu au nyongeza, anuwai ya kufeli kabisa ya mhusika huongezeka hadi 90-00.
+Katika vitendo vinavyohusisha nguvu au nyongeza, masafa ya kushindwa kwa kiasi kikubwa ya mhusika huongezeka hadi 90-00.
 
 #### Nguvu Ndogo
 
-Nguvu au nyongeza hufanya kazi tu chini ya hali maalum au ina athari iliyopunguzwa inayoamuliwa na Msimamizi wa Michezo.
+Nguvu au nyongeza hufanya kazi tu chini ya hali mahususi au ina athari iliyopunguzwa iliyoamuliwa na Msimamizi wa Mchezo (Games Master).
 
-#### Kikwazo cha Kimwili
+#### Kikomo MVU Kimwili
 
-Mhusika ana hali ya kudumu inayomzuia, kama vile upofu, upotevu wa kudumu wa Pointi za Afya kwenye eneo, au uhamaji uliopunguzwa.
+Mhusika ana hali ya kudumu ya kikomo, kama vile upofu, upotevu wa kudumu wa Pointi za Afya kwenye eneo fulani, au kupungua kwa uwezo wa kusonga.
 
 #### Udhaifu
 
-Mhusika hupata uharibifu mara mbili kutoka kwa aina maalum ya shambulio. Vinginevyo mhusika lazima afanye cheki ngumu za Uvumilivu kila zamu akiwa umbali wa mita 5 kutoka kwa dutu maalum au apate kiwango cha Uchovu.
+Mhusika hupata uharibifu mara mbili kutoka kwa aina mahususi ya shambulio. Vinginevyo, mhusika lazima afanye ukaguzi Mgumu wa Uvumilivu kila zamu akiwa ndani ya mita 5 za dutu mahususi au apate kiwango MVU Uchovu.
