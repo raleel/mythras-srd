@@ -1,43 +1,43 @@
-# Registro de Cambios
+# Registro de cambios
 
 ## V0.3.0
-*26 de octubre de 23*
+*26 de oct. de 23*
 
 ### Características
 
-- Añadido el plugin fontawesome para iconos gratuitos
-- Añadido el plugin Material Icons para iconos gratuitos
+- Se añadió el complemento fontawesome para iconos gratuitos
+- Se añadió el complemento Material Icons para iconos gratuitos
 
-### Corrección de Errores
+### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
-*23 de octubre de 23*
+*23 de oct. de 23*
 
 ### Características
 
-- Añadido el plugin Flexible Alerts
-- Actualizado Sample.md con nuevas opciones de formato de Flexible Alerts
-- Añadidas instrucciones para cambiar las fuentes de los encabezados y del sitio en **Cómo Hacerlo**
+- Se añadió el complemento Flexible Alerts
+- Actualización de Sample.md CON nuevas opciones de formato de Flexible Alerts
+- Se añadieron instrucciones para cambiar las fuentes de los encabezados y del sitio en **Cómo hacerlo**
 
-### Corrección de Errores
+### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
 ## V0.1.2
-*20 de octubre de 23*
+*20 de oct. de 23*
 
 ### Características
 
-- Añadido el paso (8) en las instrucciones para asegurar que el archivo ".nojekyll" sea creado.
+- Se añadió el paso (8) en las instrucciones para asegurar que el archivo ".nojekyll" sea creado.
 
-### Corrección de Errores
+### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Características
 
-- Añadidas "Instrucciones de Cómo Hacerlo"
+- Se añadieron "Instrucciones de cómo hacerlo"
 
-### Corrección de Errores
+### Corrección de errores
 
-- N/A
+- N/D
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Características
 
-- Añadida la funcionalidad de alternar modo Claro/Oscuro (Desde )
-- Navegación mejorada: El botón de hamburguesa movido a la parte superior izquierda de la pantalla (desde la parte inferior izquierda)
-- Legibilidad mejorada: Añadidas las fuentes Open Sans y Orbitron
+- Se añadió la funcionalidad de alternancia entre modo claro/oscuro
+- Navegación mejorada: El menú hamburguesa se movió a la parte superior izquierda de la pantalla (desde la parte inferior izquierda)
+- Legibilidad mejorada: Se añadieron las fuentes Open Sans y Orbitron
 
-### Corrección de Errores
+### Corrección de errores
 
-- N/A
+- N/D

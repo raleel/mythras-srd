@@ -19,8 +19,8 @@
 ### Funkcijos
 
 - Pridėtas „Flexible Alerts“ įskiepis
-- Atnaujintas „Sample.md“ su naujomis formatavimo parinktimis iš „Flexible Alerts“
-- Pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus skiltyje **Kaip atlikti** (**How To**)
+- Atnaujintas „Sample.md“ su naujomis „Flexible Alerts“ formatavimo parinktimis
+- Pridėtos instrukcijos, kaip pakeisti antraščių ir svetainės šriftus skiltyje **Kaip atlikti**
 
 ### Klaidų pataisymai
 
@@ -33,7 +33,7 @@
 
 ### Funkcijos
 
-- Pridėtas (8) žingsnis instrukcijose, užtikrinantis, kad būtų sukurtas „.nojekyll“ failas.
+- Instrukcijose pridėtas (8) veiksmas, užtikrinantis, kad būtų sukurtas „.nojekyll“ failas.
 
 ### Klaidų pataisymai
 
@@ -45,7 +45,7 @@
 
 ### Funkcijos
 
-- Pridėtos „Kaip atlikti“ (**How To**) instrukcijos
+- Pridėtos „Kaip atlikti instrukcijos“
 
 ### Klaidų pataisymai
 
@@ -57,8 +57,8 @@
 
 ### Funkcijos
 
-- Pridėtas šviesaus/tamsaus režimo perjungimo funkcionalumas
-- Patobulinta navigacija: „mėsainio“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
+- Pridėta šviesaus / tamsaus režimo perjungimo funkcija
+- Patobulinta navigacija: „Hamburger“ meniu perkeltas į viršutinį kairįjį ekrano kampą (iš apatinio kairiojo)
 - Patobulintas skaitomumas: pridėti „Open Sans“ ir „Orbitron“ šriftai
 
 ### Klaidų pataisymai

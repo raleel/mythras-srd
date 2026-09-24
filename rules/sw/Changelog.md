@@ -1,12 +1,12 @@
-# Rekodi ya Mabadiliko
+# Kumbukumbu ya Mabadiliko (Changelog)
 
 ## V0.3.0
-*26 Oktoba 23*
+*26 Okt 23*
 
-### Vipengele Vipya
+### Vipengele
 
-- Imeongeza programu-jalizi ya fontawesome kwa aikoni za bure
-- Imeongeza programu-jalizi ya Material Icons kwa aikoni za bure
+- Imeongeza plagi ya fontawesome kwa aikoni zisizolipishwa
+- Imeongeza plagi ya Material Icons kwa aikoni zisizolipishwa
 
 ### Marekebisho ya Hitilafu
 
@@ -14,13 +14,13 @@
 
 ---
 
-*23 Oktoba 23*
+*23 Okt 23*
 
-### Vipengele Vipya
+### Vipengele
 
-- Imeongeza Programu-jalizi ya Flexible Alerts
-- Imesasisha Sample.md kwa chaguzi mpya za uumbizaji kutoka Flexible Alerts
-- Imeongeza maelekezo ya kubadilisha fonti za Kichwa na Tovuti katika **Jinsi ya Kufanya**
+- Imeongeza Plagi ya Flexible Alerts
+- Imesasisha Sample.md kwa chaguo mpya za uumbizaji kutoka kwa Flexible Alerts
+- Imeongeza maagizo ya kubadilisha fonti za Kichwa na Tovuti katika **Jinsi ya Kufanya (How To)**
 
 ### Marekebisho ya Hitilafu
 
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*20 Oktoba 23*
+*20 Okt 23*
 
-### Vipengele Vipya
+### Vipengele
 
-- Imeongeza hatua (8) katika maelekezo ya kuhakikisha faili ya ".nojekyll" imeundwa.
+- Imeongeza hatua (8) katika maagizo ya kuhakikisha faili ya ".nojekyll" imeundwa.
 
 ### Marekebisho ya Hitilafu
 
@@ -43,9 +43,9 @@
 
 ## V0.1.1
 
-### Vipengele Vipya
+### Vipengele
 
-- Imeongeza "Maelekezo ya Jinsi ya Kufanya"
+- Imeongeza "Maagizo ya Jinsi ya Kufanya"
 
 ### Marekebisho ya Hitilafu
 
@@ -55,11 +55,11 @@
 
 ## V0.1.0
 
-### Vipengele Vipya
+### Vipengele
 
-- Imeongeza utendaji wa kubadilisha hali ya Mchana/Usiku
-- Urambazaji Ulioboreshwa: Aikoni ya menyu (Hamburger) imehamishwa hadi juu kushoto kwenye skrini (kutoka chini kushoto)
-- Usomaji Ulioboreshwa: Imeongeza fonti za Open Sans & Orbitron
+- Imeongeza utendaji wa kugeuza hali ya Mwanga/Giza (Light/Dark mode)
+- Urambazaji Ulioboreshwa: Kitufe MVU menyu (Hamburger) kimehamishiwa juu kushoto mwa skrini (kutoka chini kushoto)
+- Usomeki ulioboreshwa: Imeongeza Fonti za Open Sans & Orbitron
 
 ### Marekebisho ya Hitilafu
 

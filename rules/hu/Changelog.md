@@ -1,4 +1,4 @@
-# Változásnapló
+# Változási napló
 
 ## V0.3.0
 *2023. október 26.*
@@ -19,8 +19,8 @@
 ### Funkciók
 
 - Hozzáadva a Flexible Alerts bővítmény
-- Sample.md frissítve a Flexible Alerts új formázási lehetőségeivel
-- Útmutató hozzáadva a címsor és az oldal betűtípusainak módosításához a **Hogyan tovább** részben
+- A Sample.md frissítése a Flexible Alerts új formázási lehetőségeivel
+- Hozzáadva a cím- és webhelybetűtípusok módosítására vonatkozó útmutató a **Hogyan tovább** szakaszban
 
 ### Hibajavítások
 
@@ -33,7 +33,7 @@
 
 ### Funkciók
 
-- Hozzáadva a (8.) lépés az utasításokhoz, amely biztosítja a ".nojekyll" fájl létrehozását.
+- Hozzáadva a (8.) lépés az útmutatóhoz a ".nojekyll" fájl létrehozásának biztosításához.
 
 ### Hibajavítások
 
@@ -57,9 +57,9 @@
 
 ### Funkciók
 
-- Hozzáadva a világos/sötét mód kapcsoló funkciója
-- Továbbfejlesztett navigáció: A hamburger menü áthelyezve a képernyő bal felső sarkába (a bal alsóból)
-- Jobb olvashatóság: Hozzáadva az Open Sans és Orbitron betűtípusok
+- Hozzáadva a világos/sötét mód közötti váltás funkciója
+- Javított navigáció: A hamburger menü a képernyő bal felső sarkába került (a bal alsóból)
+- Javított olvashatóság: Hozzáadva az Open Sans és Orbitron betűtípusok
 
 ### Hibajavítások
 

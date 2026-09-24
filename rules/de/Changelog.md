@@ -20,7 +20,7 @@
 
 - Flexible Alerts-Plugin hinzugefügt
 - Sample.md mit neuen Formatierungsoptionen der Flexible Alerts aktualisiert
-- Anweisungen zum Ändern der Überschriften- & Website-Schriftarten in **Anleitung** hinzugefügt
+- Anweisungen zum Ändern der Überschriften- und Website-Schriftarten in **Anleitung** hinzugefügt
 
 ### Fehlerbehebungen
 
@@ -57,9 +57,9 @@
 
 ### Funktionen
 
-- Umschaltfunktion für Hell-/Dunkelmodus hinzugefügt (Von )
-- Navigation verbessert: Hamburger-Menü oben links auf dem Bildschirm verschoben (von unten links)
-- Lesbarkeit verbessert: Open Sans & Orbitron Schriftarten hinzugefügt
+- Umschaltfunktion für Hell-/Dunkelmodus hinzugefügt
+- Verbesserte Navigation: Hamburger-Menü oben links auf dem Bildschirm verschoben (von unten links)
+- Verbesserte Lesbarkeit: Open Sans- & Orbitron-Schriftarten hinzugefügt
 
 ### Fehlerbehebungen
 

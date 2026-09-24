@@ -5,8 +5,8 @@
 
 ### Funktioner
 
-- Tilføjet fontawesome-plugin for gratis ikoner
-- Tilføjet Material Icons-plugin for gratis ikoner
+- Tilføjet fontawesome-plugin til gratis ikoner
+- Tilføjet Material Icons-plugin til gratis ikoner
 
 ### Fejlrettelser
 
@@ -20,7 +20,7 @@
 
 - Tilføjet Flexible Alerts-plugin
 - Opdateret Sample.md med nye formateringsmuligheder fra Flexible Alerts
-- Tilføjet instruktioner til ændring af både overskrifts- og sidefonte i **Sådan gør du**
+- Tilføjet instruktioner til ændring af både overskrifts- og webside-skrifttyper i **Sådan gør du**
 
 ### Fejlrettelser
 
@@ -45,7 +45,7 @@
 
 ### Funktioner
 
-- Tilføjet "Instruktioner til hvordan man gør"
+- Tilføjet "Sådan gør du-instruktioner"
 
 ### Fejlrettelser
 
@@ -58,8 +58,8 @@
 ### Funktioner
 
 - Tilføjet funktionalitet til skift mellem lys/mørk tilstand
-- Forbedret navigation: Hamburger-menu flyttet til øverst til venstre på skærmen (fra nederst til venstre)
-- Forbedret læsbarhed: Tilføjet Open Sans & Orbitron-fonte
+- Forbedret navigation: Hamburgermenu flyttet til øverst til venstre på skærmen (fra nederst til venstre)
+- Forbedret læsbarhed: Tilføjet Open Sans & Orbitron-skrifttyper
 
 ### Fejlrettelser
 

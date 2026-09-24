@@ -1,41 +1,41 @@
 # Breytingaskrá
 
 ## V0.3.0
-*26. okt. 23*
+*26. október 23*
 
 ### Eiginleikar
 
-- Bætti við fontawesome-viðbót fyrir ókeypis táknmyndir
-- Bætti við Material Icons-viðbót fyrir ókeypis táknmyndir
+- Bætti við fontawesome-viðbót fyrir ókeypis tákn
+- Bætti við Material Icons-viðbót fyrir ókeypis tákn
 
-### Lagfæringar á villum
+### Villuleiðréttingar
 
 - Á ekki við
 
 ---
 
-*23. okt. 23*
+*23. október 23*
 
 ### Eiginleikar
 
-- Bætti við „Flexible Alerts“-viðbót
-- Uppfærði Sample.md með nýjum sniðmöguleikum frá „Flexible Alerts“
-- Bætti við leiðbeiningum um breytingar á letri fyrir fyrirsagnir og síðuna í **Hvernig á að (How To)**
+- Bætti við Flexible Alerts-viðbót
+- Uppfærði Sample.md með nýjum sniðmöguleikum frá Flexible Alerts
+- Bætti við leiðbeiningum fyrir breytingar á bæði fyrirsagna- og veffletum í **Hvernig á að**
 
-### Lagfæringar á villum
+### Villuleiðréttingar
 
 - Á ekki við
 
 ---
 
 ## V0.1.2
-*20. okt. 23*
+*20. október 23*
 
 ### Eiginleikar
 
-- Bætti við skrefi (8) í leiðbeiningum til að tryggja að „.nojekyll“ skrá sé búin til.
+- Bætti við skrefi (8) í leiðbeiningar til að tryggja að ".nojekyll" skrá sé búin til.
 
-### Lagfæringar á villum
+### Villuleiðréttingar
 
 - Á ekki við
 
@@ -45,9 +45,9 @@
 
 ### Eiginleikar
 
-- Bætti við „Leiðbeiningum (How To)“
+- Bætti við "Leiðbeiningar um hvernig á að gera"
 
-### Lagfæringar á villum
+### Villuleiðréttingar
 
 - Á ekki við
 
@@ -57,10 +57,10 @@
 
 ### Eiginleikar
 
-- Bætti við virkni fyrir ljósan/dökkan ham (frá )
-- Bætt flakk: Hamborgaravalmynd færð efst í vinstra horn skjásins (úr neðra vinstra horni)
-- Bætt læsileiki: Bætti við Open Sans og Orbitron leturgerðum
+- Bætti við virkni fyrir ljósan/dökkan ham
+- Bætt flakk: Hamborgaravalmynd færð efst til vinstri á skjá (frá neðst til vinstri)
+- Bætt læsileiki: Bætti við Open Sans & Orbitron leturgerðum
 
-### Lagfæringar á villum
+### Villuleiðréttingar
 
 - Á ekki við

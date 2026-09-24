@@ -1,12 +1,12 @@
 # Değişiklik Günlüğü
 
 ## V0.3.0
-*26th Oct 23*
+*26 Ekim 23*
 
 ### Özellikler
 
-- Ücretsiz ikonlar için fontawesome eklentisi eklendi
-- Ücretsiz ikonlar için Material Icons eklentisi eklendi
+- Ücretsiz simgeler için fontawesome eklentisi eklendi
+- Ücretsiz simgeler için Material Icons eklentisi eklendi
 
 ### Hata Düzeltmeleri
 
@@ -14,13 +14,13 @@
 
 ---
 
-*23th Oct 23*
+*23 Ekim 23*
 
 ### Özellikler
 
-- Esnek Uyarılar Eklentisi eklendi
-- Esnek Uyarılar'dan gelen yeni biçimlendirme seçenekleriyle Sample.md güncellendi
-- **Nasıl Yapılır** bölümüne Başlık ve Site yazı tiplerini değiştirme talimatları eklendi
+- Esnek Uyarılar (Flexible Alerts) Eklentisi eklendi
+- Sample.md dosyası, Esnek Uyarılar'dan gelen yeni biçimlendirme seçenekleriyle güncellendi
+- **Nasıl Yapılır** bölümüne hem Başlık hem de Site yazı tiplerini değiştirmeye yönelik talimatlar eklendi
 
 ### Hata Düzeltmeleri
 
@@ -29,11 +29,11 @@
 ---
 
 ## V0.1.2
-*20th Oct 23*
+*20 Ekim 23*
 
 ### Özellikler
 
-- ".nojekyll" dosyasının oluşturulduğundan emin olmak için talimatlara (8) numaralı adım eklendi.
+- ".nojekyll" dosyasının oluşturulduğundan emin olunması için talimatlara (8). adım eklendi.
 
 ### Hata Düzeltmeleri
 
@@ -57,9 +57,9 @@
 
 ### Özellikler
 
-- Aydınlık/Karanlık mod geçiş işlevselliği eklendi (Kaynak: )
-- Geliştirilmiş Navigasyon: Hamburger menü ekranın sol üstüne taşındı (sol alttan)
-- Okunabilirlik artırıldı: Open Sans ve Orbitron yazı tipleri eklendi
+- Açık/Koyu mod geçiş işlevi eklendi
+- Gezinme iyileştirildi: Hamburger menü ekranın sol üst köşesine taşındı (sol alttan)
+- Okunabilirlik iyileştirildi: Open Sans ve Orbitron Yazı Tipleri eklendi
 
 ### Hata Düzeltmeleri
 

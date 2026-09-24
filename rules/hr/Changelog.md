@@ -1,43 +1,43 @@
 # Dnevnik promjena
 
 ## V0.3.0
-*26. listopada 23.*
+*26. listopada 2023.*
 
 ### Značajke
 
-- Dodat dodatak fontawesome za besplatne ikone
-- Dodat dodatak Material Icons za besplatne ikone
+- Dodan fontawesome dodatak za besplatne ikone
+- Dodan Material Icons dodatak za besplatne ikone
 
-### Popravci grešaka
+### Ispravci programskih pogrešaka
 
-- N/P
+- N/A
 
 ---
 
-*23. listopada 23.*
+*23. listopada 2023.*
 
 ### Značajke
 
-- Dodat dodatak Flexible Alerts
-- Ažurirana datoteka Sample.md s novim opcijama oblikovanja iz Flexible Alerts
-- Dodane upute za promjenu fontova naslova i stranice u **Kako to učiniti**
+- Dodan dodatak Flexible Alerts
+- Ažurirana datoteka Sample.md s novim mogućnostima oblikovanja iz Flexible Alerts
+- Dodane upute za promjenu fontova naslova i stranice u **Kako koristiti** (How To)
 
-### Popravci grešaka
+### Ispravci programskih pogrešaka
 
-- N/P
+- N/A
 
 ---
 
 ## V0.1.2
-*20. listopada 23.*
+*20. listopada 2023.*
 
 ### Značajke
 
-- Dodat korak (8) u uputama za osiguravanje stvaranja datoteke ".nojekyll".
+- Dodan korak (8) u uputama za osiguravanje stvaranja datoteke ".nojekyll".
 
-### Popravci grešaka
+### Ispravci programskih pogrešaka
 
-- N/P
+- N/A
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Značajke
 
-- Dodane "Upute za korištenje"
+- Dodane "Upute kako koristiti" (How To instructions)
 
-### Popravci grešaka
+### Ispravci programskih pogrešaka
 
-- N/P
+- N/A
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Značajke
 
-- Dodana funkcionalnost prebacivanja svijetlog/tamnog načina rada (Iz )
-- Poboljšana navigacija: Hamburger izbornik premješten je u gornji lijevi kut zaslona (iz donjeg lijevog)
-- Poboljšana čitljivost: Dodani fontovi Open Sans & Orbitron
+- Dodana funkcija prebacivanja između svijetlog/tamnog načina rada
+- Poboljšana navigacija: "Hamburger" izbornik premješten u gornji lijevi kut zaslona (s donjeg lijevog kuta)
+- Poboljšana čitljivost: Dodani fontovi Open Sans i Orbitron
 
-### Popravci grešaka
+### Ispravci programskih pogrešaka
 
-- N/P
+- N/A

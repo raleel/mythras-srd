@@ -1,41 +1,41 @@
-# Regjistri i Ndryshimeve
+# Regjistri i ndryshimeve
 
 ## V0.3.0
-*26 Tet 23*
+*26 Tetor 23*
 
 ### Veçoritë
 
-- Shtuar plugin-in fontawesome për ikona falas
-- Shtuar plugin-in Material Icons për ikona falas
+- U shtua shtojca fontawesome për ikona falas
+- U shtua shtojca Material Icons për ikona falas
 
-### Rregullime Gabimesh
+### Rregullime gabimesh
 
 - N/A
 
 ---
 
-*23 Tet 23*
+*23 Tetor 23*
 
 ### Veçoritë
 
-- Shtuar Plugin-in Flexible Alerts
-- Përditësuar Sample.md me opsione të reja formatimi nga Flexible Alerts
-- Shtuar udhëzime për ndryshimin e shkronjave të Titullit dhe Faqes në **Si të bëhet**
+- U shtua shtojca Flexible Alerts
+- Përditësim i Sample.md me opsione të reja formatimi nga Flexible Alerts
+- U shtuan udhëzime për ndryshimin e fonteve të titujve dhe të faqes në **Si të bëhet**
 
-### Rregullime Gabimesh
+### Rregullime gabimesh
 
 - N/A
 
 ---
 
 ## V0.1.2
-*20 Tet 23*
+*20 Tetor 23*
 
 ### Veçoritë
 
-- Shtuar hapi (8) në udhëzimet për të siguruar krijimin e skedarit ".nojekyll".
+- U shtua hapi (8) në udhëzime për të garantuar krijimin e skedarit ".nojekyll".
 
-### Rregullime Gabimesh
+### Rregullime gabimesh
 
 - N/A
 
@@ -45,9 +45,9 @@
 
 ### Veçoritë
 
-- Shtuar "Udhëzimet Si të bëhet"
+- U shtuan "Udhëzimet se si të bëhet"
 
-### Rregullime Gabimesh
+### Rregullime gabimesh
 
 - N/A
 
@@ -57,10 +57,10 @@
 
 ### Veçoritë
 
-- Shtuar funksionalitetin e ndryshimit të modalitetit Dritë/Errësirë (Nga )
-- Përmirësuar Navigimi: Hamburgut lëvizur në pjesën e sipërme majtas të ekranit (nga poshtë majtas)
-- Përmirësuar lexueshmërinë: Shtuar shkronjat Open Sans & Orbitron
+- U shtua funksionaliteti i kalimit midis modalitetit të dritës/errësirës
+- Navigim i përmirësuar: Butoni "hamburger" u zhvendos në pjesën e sipërme majtas të ekranit (nga pjesa e poshtme majtas)
+- Lexueshmëri e përmirësuar: U shtuan fontet Open Sans dhe Orbitron
 
-### Rregullime Gabimesh
+### Rregullime gabimesh
 
 - N/A

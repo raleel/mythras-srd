@@ -5,12 +5,12 @@
 
 ### Funksjoner
 
-- La til fontawesome-utvidelse for gratis ikoner
-- La til Material Icons-utvidelse for gratis ikoner
+- La til fontawesome-utvidelse for gratisikoner
+- La til Material Icons-utvidelse for gratisikoner
 
 ### Feilrettinger
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### Feilrettinger
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### Funksjoner
 
-- La til steg (8) i instruksjonene for å sikre at filen ".nojekyll" opprettes.
+- La til steg (8) i instruksjonene for å sikre at ".nojekyll"-filen blir opprettet.
 
 ### Feilrettinger
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Feilrettinger
 
-- N/A
+- Ikke relevant
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funksjoner
 
-- La til funksjonalitet for veksling mellom lys/mørk modus (Fra )
+- La til funksjonalitet for veksling mellom lys/mørk modus
 - Forbedret navigasjon: Hamburgermeny flyttet til øverst til venstre på skjermen (fra nederst til venstre)
 - Forbedret lesbarhet: La til fontene Open Sans og Orbitron
 
 ### Feilrettinger
 
-- N/A
+- Ikke relevant

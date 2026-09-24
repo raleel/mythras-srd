@@ -1,43 +1,43 @@
 # Muutosloki
 
 ## V0.3.0
-*26. lokakuuta 23*
+*26. lokakuuta 2023*
 
 ### Ominaisuudet
 
 - Lisätty fontawesome-liitännäinen ilmaisia kuvakkeita varten
 - Lisätty Material Icons -liitännäinen ilmaisia kuvakkeita varten
 
-### Virheenkorjaukset
+### Virheiden korjaukset
 
-- Ei ole
+- Ei sovellettavissa
 
 ---
 
-*23. lokakuuta 23*
+*23. lokakuuta 2023*
 
 ### Ominaisuudet
 
 - Lisätty Flexible Alerts -liitännäinen
-- Päivitetty Sample.md uusilla Flexible Alerts -muotoiluasetuksilla
-- Lisätty ohjeet otsikko- ja sivustofonttien vaihtamiseen kohdassa **How To** (Ohjeet)
+- Päivitetty Sample.md uusilla muotoiluvaihtoehdoilla Flexible Alerts -liitännäisestä
+- Lisätty ohjeet otsikko- ja sivustofonttien vaihtamiseen **How To** -osioon
 
-### Virheenkorjaukset
+### Virheiden korjaukset
 
-- Ei ole
+- Ei sovellettavissa
 
 ---
 
 ## V0.1.2
-*20. lokakuuta 23*
+*20. lokakuuta 2023*
 
 ### Ominaisuudet
 
 - Lisätty vaihe (8) ohjeisiin ".nojekyll"-tiedoston luomisen varmistamiseksi.
 
-### Virheenkorjaukset
+### Virheiden korjaukset
 
-- Ei ole
+- Ei sovellettavissa
 
 ---
 
@@ -47,9 +47,9 @@
 
 - Lisätty "How To -ohjeet"
 
-### Virheenkorjaukset
+### Virheiden korjaukset
 
-- Ei ole
+- Ei sovellettavissa
 
 ---
 
@@ -58,9 +58,9 @@
 ### Ominaisuudet
 
 - Lisätty vaalean/tumman tilan vaihtotoiminto
-- Parannettu navigointia: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (alavasemmalta)
+- Parannettu navigointia: Hampurilaisvalikko siirretty näytön vasempaan yläkulmaan (aiemmin vasemmassa alakulmassa)
 - Parannettu luettavuutta: Lisätty Open Sans- ja Orbitron-fontit
 
-### Virheenkorjaukset
+### Virheiden korjaukset
 
-- Ei ole
+- Ei sovellettavissa

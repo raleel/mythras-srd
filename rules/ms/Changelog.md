@@ -10,21 +10,21 @@
 
 ### Pembetulan Pepijat
 
-- T/B
+- N/A
 
 ---
 
-*23th Okt 23*
+*23 Okt 23*
 
 ### Ciri-ciri
 
-- Menambah Pemalam Makluman Fleksibel
+- Menambah Pemalam Makluman Fleksibel (Flexible Alerts Plugin)
 - Mengemas kini Sample.md dengan pilihan pemformatan baharu daripada Makluman Fleksibel
-- Menambah arahan untuk menukar fon Tajuk & Laman dalam **Cara-cara**
+- Menambah arahan untuk menukar kedua-dua fon Tajuk & Tapak dalam **Cara-Cara**
 
 ### Pembetulan Pepijat
 
-- T/B
+- N/A
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Pembetulan Pepijat
 
-- T/B
+- N/A
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Ciri-ciri
 
-- Menambah "Arahan Cara-cara"
+- Menambah "Arahan Cara-Cara"
 
 ### Pembetulan Pepijat
 
-- T/B
+- N/A
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Ciri-ciri
 
-- Menambah kefungsian togol mod Terang/Gelap (Daripada )
-- Navigasi Diperbaiki: Hamburger dialihkan ke atas kiri skrin (dari bawah kiri)
-- Kebolehbacaan Diperbaiki: Menambah Fon Open Sans & Orbitron
+- Menambah fungsi togol mod Cerah/Gelap
+- Navigasi dipertingkatkan: Menu "Hamburger" dialihkan ke bahagian atas kiri skrin (daripada bawah kiri)
+- Kebolehbacaan dipertingkatkan: Menambah Fon Open Sans & Orbitron
 
 ### Pembetulan Pepijat
 
-- T/B
+- N/A

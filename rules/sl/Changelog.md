@@ -1,7 +1,7 @@
-# Seznam sprememb
+# Dnevnik sprememb
 
 ## V0.3.0
-*26. okt 23*
+*26. okt. 23*
 
 ### Funkcionalnosti
 
@@ -10,34 +10,34 @@
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
-*23. okt 23*
+*23. okt. 23*
 
 ### Funkcionalnosti
 
 - Dodan vtičnik Flexible Alerts
-- Posodobljena datoteka Sample.md z novimi možnostmi oblikovanja iz Flexible Alerts
-- Dodana navodila za spreminjanje pisav naslovov in spletnega mesta v **Navodilih**
+- Posodobitev datoteke Sample.md z novimi možnostmi oblikovanja iz Flexible Alerts
+- Dodana navodila za spreminjanje pisav naslovov in spletnega mesta v razdelku **Navodila**
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
 ## V0.1.2
-*20. okt 23*
+*20. okt. 23*
 
 ### Funkcionalnosti
 
-- Dodan korak (8) v navodilih za zagotavljanje ustvaritve datoteke ".nojekyll".
+- Dodan korak (8) v navodilih za zagotovitev ustvarjanja datoteke ".nojekyll".
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Funkcionalnosti
 
-- Dodana navodila za uporabo
+- Dodana "Navodila za uporabo"
 
 ### Popravki napak
 
-- N/A
+- Nič
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funkcionalnosti
 
-- Dodana funkcionalnost preklopa med svetlim/temnim načinom (Iz )
-- Izboljšana navigacija: Ikona hamburgerja premaknjena z levega spodnjega na levi zgornji del zaslona
-- Izboljšana berljivost: Dodani pisavi Open Sans & Orbitron
+- Dodana funkcionalnost preklopa med svetlim/temnim načinom
+- Izboljšana navigacija: meni "hamburger" prestavljen zgoraj levo na zaslonu (prej spodaj levo)
+- Izboljšana berljivost: dodani pisavi Open Sans in Orbitron
 
 ### Popravki napak
 
-- N/A
+- Nič

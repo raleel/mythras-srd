@@ -10,7 +10,7 @@
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -20,11 +20,11 @@
 
 - Lade till Flexible Alerts-plugin
 - Uppdaterade Sample.md med nya formateringsalternativ från Flexible Alerts
-- Lade till instruktioner för att ändra både rubrik- och webbplatstypsnitt i **How To** (Instruktioner)
+- Lade till instruktioner för att ändra både rubrik- och webbplatstypsnitt i **How To**
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt
 
 ---
 
@@ -57,10 +57,10 @@
 
 ### Funktioner
 
-- Lade till funktionalitet för att växla mellan ljust/mörkt läge (Från )
-- Förbättrad navigering: Hamburgermenyn flyttad till skärmens övre vänstra hörn (från nedre vänstra)
+- Lade till funktionalitet för att växla mellan ljust/mörkt läge
+- Förbättrad navigering: Hamburgermenyn flyttad till övre vänstra hörnet på skärmen (från nedre vänstra)
 - Förbättrad läsbarhet: Lade till typsnitten Open Sans & Orbitron
 
 ### Buggfixar
 
-- N/A
+- Ej tillämpligt

@@ -5,12 +5,12 @@
 
 ### Funktsioonid
 
-- Lisatud fontawesome plugin tasuta ikoonide jaoks
-- Lisatud Material Icons plugin tasuta ikoonide jaoks
+- Lisatud fontawesome pistikprogramm tasuta ikoonide jaoks
+- Lisatud Material Icons pistikprogramm tasuta ikoonide jaoks
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -18,13 +18,13 @@
 
 ### Funktsioonid
 
-- Lisatud paindlike hoiatuste (Flexible Alerts) plugin
-- Uuendatud Sample.md uute vormindusvalikutega paindlike hoiatuste pluginast
-- Lisatud juhised pealkirja ja saidi fontide muutmiseks jaotises **Kuidas teha** (How To)
+- Lisatud Flexible Alerts pistikprogramm
+- Uuendatud Sample.md uute vormindamisvalikutega Flexible Alertsist
+- Lisatud juhised pealkirja ja saidi fontide muutmiseks jaotises **Kuidas teha**
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### Funktsioonid
 
-- Lisatud juhiste hulka samm (8), et tagada ".nojekyll" faili loomine.
+- Lisatud samm (8) juhistesse, et tagada faili ".nojekyll" loomine.
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -45,11 +45,11 @@
 
 ### Funktsioonid
 
-- Lisatud "Kuidas teha juhised" (How To instructions)
+- Lisatud "Kuidas teha juhised"
 
 ### Veaparandused
 
-- N/A
+- Pole
 
 ---
 
@@ -63,4 +63,4 @@
 
 ### Veaparandused
 
-- N/A
+- Pole
